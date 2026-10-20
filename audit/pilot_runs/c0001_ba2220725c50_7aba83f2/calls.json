@@ -1,0 +1,24 @@
+[
+  {
+    "role": "translator",
+    "model": "gemini/gemini-3.8-flash",
+    "usage": {
+      "promptTokenCount": 1313,
+      "candidatesTokenCount": 619,
+      "totalTokenCount": 2762,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1313
+        }
+      ],
+      "thoughtsTokenCount": 830,
+      "serviceTier": "standard",
+      "provider": "gemini",
+      "requested_model": "gemini-3.8-flash",
+      "model_used": "gemini-3.8-flash",
+      "model_reported": true,
+      "finish_reason": "STOP"
+    }
+  }
+]

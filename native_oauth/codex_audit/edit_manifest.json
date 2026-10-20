@@ -1,0 +1,122 @@
+{
+  "original_hash": "462b3f9c356893bf07671eb3fecdde4f1c8534a24a7f1cf44eb800ec6d6a249d",
+  "edited_hash": "d469016d2ce9119ba47fb3465424ca5141abe64c6c92eced0b73b42a0aded1e5",
+  "source_package_hash": "b7a650c0b08b5e892f1e0a8ef38ea37ac6e4763892644f7ad517058faf555c2d",
+  "changes": [
+    {
+      "id": "c0001p0005",
+      "source": "看着屏幕上母亲发来的消息，张羽默默收起手机，深吸一口气，闭上了眼睛，静静地等待着。",
+      "before": "Nhìn tin nhắn mẹ gửi trên màn hình, Trương Vũ lặng lẽ cất điện thoại vào túi, hít một hơi thật sâu, nhắm mắt lại, yên lặng chờ đợi.",
+      "after": "Nhìn tin nhắn mẹ gửi trên màn hình, Trương Vũ lặng lẽ cất điện thoại, hít một hơi thật sâu, nhắm mắt lại, yên lặng chờ đợi."
+    },
+    {
+      "id": "c0001p0009",
+      "source": "他看向三位面试官，露出了练习许久的礼貌笑容：“三位好，我是东阳初级中学的张羽。”",
+      "before": "Cậu nhìn về phía ba giám khảo, nở nụ cười lịch sự đã luyện tập từ lâu: \"Ba thầy cô chào, em là Trương Vũ đến từ Trường cấp hai Đông Dương.\"",
+      "after": "Cậu nhìn ba giám khảo, nở nụ cười lịch sự đã luyện tập từ lâu: \"Em chào ba thầy cô, em là Trương Vũ đến từ Trường cấp hai Đông Dương.\""
+    },
+    {
+      "id": "c0001p0011",
+      "source": "张羽：“贵校悠久的历史，深厚的底蕴，丰富的教学资源，一直以来为社会培养出了许多杰出人才……”",
+      "before": "Trương Vũ: \"Trường ta có lịch sử lâu đời, nền tảng sâu dày, nguồn tài nguyên giảng dạy phong phú, bấy lâu nay đã đào tạo ra nhiều nhân tài xuất sắc cho xã hội…\"",
+      "after": "Trương Vũ: \"Quý trường có lịch sử lâu đời, nền tảng vững chắc, nguồn lực giảng dạy phong phú, từ trước đến nay đã đào tạo nhiều nhân tài xuất sắc cho xã hội…\""
+    },
+    {
+      "id": "c0001p0014",
+      "source": "面试官微微一笑，看着手上的资料说道：“嗯，全科满分，全校第一？怪不得被推荐过来。”",
+      "before": "Giám khảo khẽ mỉm cười, nhìn vào hồ sơ trên tay nói: \"Ừ, toàn khoa điểm tối đa, đứng nhất toàn trường? Bảo sao được giới thiệu đến đây.\"",
+      "after": "Giám khảo khẽ mỉm cười, nhìn hồ sơ trên tay rồi nói: \"Ừ, đạt điểm tối đa ở tất cả các môn, đứng nhất toàn trường? Bảo sao được giới thiệu đến đây.\""
+    },
+    {
+      "id": "c0001p0019",
+      "source": "“我们学校的学生从小学开始，每天平均睡眠时长都不超过两个小时。而像历届的优秀毕业生基本上都是不睡觉的。”",
+      "before": "\"Học sinh trường chúng tôi từ tiểu học, mỗi ngày thời gian ngủ trung bình đều không vượt quá hai tiếng. Còn những học sinh xuất sắc các khóa trước về cơ bản đều không ngủ.\"",
+      "after": "\"Học sinh trường chúng tôi từ tiểu học, mỗi ngày thời gian ngủ trung bình đều không vượt quá hai tiếng. Còn những học sinh tốt nghiệp xuất sắc các khóa trước về cơ bản đều không ngủ.\""
+    },
+    {
+      "id": "c0001p0037",
+      "source": "说罢，他便将张羽的简历扔进了一旁的纸篓里，和另外几百份备选简历挤在了一起。",
+      "before": "Nói xong, ông ta liền ném hồ sơ của Trương Vũ vào thùng giấy bên cạnh, chồng lên cùng với mấy trăm bộ hồ sơ dự phòng khác.",
+      "after": "Nói xong, ông ta ném hồ sơ của Trương Vũ vào sọt rác giấy bên cạnh, chen cùng mấy trăm bộ hồ sơ dự phòng khác."
+    },
+    {
+      "id": "c0001p0043",
+      "source": "我来给你介绍介绍这里的福利吧，我们在饮用水中添加了促智剂，保证学生时刻维持在五级专注状态。",
+      "before": "Để tôi giới thiệu cho bạn về các phúc lợi ở đây nhé, chúng tôi có thêm chất xúc tác trí tuệ vào nước uống, đảm bảo học sinh luôn duy trì trạng thái tập trung cấp năm.",
+      "after": "Để tôi giới thiệu các phúc lợi ở đây nhé. Chúng tôi thêm chất tăng cường trí não vào nước uống, đảm bảo học sinh luôn duy trì trạng thái tập trung cấp năm."
+    },
+    {
+      "id": "c0001p0044",
+      "source": "每天班主任会发给你们900克以上牛妖专用的补剂，保证你们的修炼效果是原先的十倍以上。",
+      "before": "Mỗi ngày giáo viên chủ nhiệm sẽ phát cho các bạn hơn 900 gram thực phẩm bổ sung chuyên dụng cho ngưu yêu, đảm bảo hiệu quả tu luyện của các bạn cao hơn trước mười lần trở lên.",
+      "after": "Mỗi ngày, giáo viên chủ nhiệm sẽ phát cho các bạn từ 900 gram thực phẩm bổ sung chuyên dụng cho ngưu yêu trở lên, đảm bảo hiệu quả tu luyện của các bạn đạt ít nhất gấp mười lần ban đầu."
+    },
+    {
+      "id": "c0001p0065",
+      "source": "接着他收到了一条对方发来的消息：您的五千后备金已准备完毕，只需十秒即可到账……",
+      "before": "Tiếp theo cậu nhận được một tin nhắn từ họ: Năm nghìn quỹ dự phòng của bạn đã sẵn sàng, chỉ cần mười giây là có thể chuyển vào tài khoản…",
+      "after": "Tiếp đó, cậu nhận được một tin nhắn từ bên kia: Khoản tiền dự phòng 5.000 của bạn đã sẵn sàng, chỉ cần mười giây là có thể chuyển vào tài khoản…"
+    },
+    {
+      "id": "c0001p0066",
+      "source": "“小贷广告吗？”",
+      "before": "\"Quảng cáo vay tiêu dùng à?\"",
+      "after": "\"Quảng cáo cho vay nhỏ lẻ à?\""
+    },
+    {
+      "id": "c0001p0090",
+      "source": "母亲为儿子的勤奋而开心，更为他在补习班的好人缘和优秀表现而感到高兴。",
+      "before": "Người mẹ vui vì sự chăm chỉ của con, càng vui hơn vì khả năng giao tiếp tốt và thành tích xuất sắc của cậu ở lớp luyện thi.",
+      "after": "Người mẹ vui vì con chăm chỉ, càng vui hơn khi thấy cậu được mọi người quý mến và thể hiện xuất sắc ở lớp luyện thi."
+    },
+    {
+      "id": "c0001p0103",
+      "source": "从两三千到七八千……最后一次让她直接打了两万块钱，张羽说是租借天灵根的费用。",
+      "before": "Từ hai ba nghìn đến bảy tám nghìn… lần cuối cùng bà phải chuyển thẳng hai mươi triệu đồng, Trương Vũ nói là phí thuê mướn Thiên Linh Căn.",
+      "after": "Từ hai ba nghìn đến bảy tám nghìn… lần cuối cùng, Trương Vũ còn bảo bà chuyển thẳng hai mươi nghìn, nói đó là phí thuê Thiên Linh Căn."
+    },
+    {
+      "id": "c0001p0105",
+      "source": "母亲感到欣喜无比，她对儿子的努力和天赋感到自豪，对接下来张羽说的学费、学杂费、药剂费等等也都一口答应下来。",
+      "before": "Người mẹ vô cùng mừng rỡ, bà tự hào về sự nỗ lực và tài năng của con, những khoản học phí, phí tạp vụ, phí thuốc… mà Trương Vũ nói tiếp theo bà đều gật đầu nhận hết.",
+      "after": "Người mẹ vô cùng mừng rỡ, tự hào về sự nỗ lực và tài năng của con. Những khoản học phí, phụ phí học tập, phí thuốc cùng các khoản khác mà Trương Vũ nói tiếp đó, bà đều nhận lời ngay."
+    },
+    {
+      "id": "c0001p0111",
+      "source": "过去一年多来，在学习过程中的种种花费并没有他嘴上说的那些免费、赏识、馈赠……钱全都来自于他从各大平台的借贷。",
+      "before": "Hơn một năm qua, những khoản chi tiêu trong quá trình học tập không hề miễn phí, được trân trọng hay được tặng như cậu nói miệng… tất cả tiền đều đến từ những khoản vay trên các nền tảng lớn.",
+      "after": "Hơn một năm qua, mọi khoản chi trong quá trình học tập đều chẳng có chuyện miễn phí, được ưu ái hay được tặng như cậu vẫn nói… Toàn bộ tiền đều đến từ những khoản cậu vay trên các nền tảng lớn."
+    },
+    {
+      "id": "c0001p0120",
+      "source": "“妈，这个药不能停，停药后道心会倒退的，我就前功尽弃了……”",
+      "before": "\"Mẹ ơi, thuốc này không thể ngừng được, ngừng thuốc thì đạo tâm sẽ thụt lùi, con sẽ trắng tay từ đầu…\"",
+      "after": "\"Mẹ ơi, thuốc này không thể ngừng được. Ngừng thuốc thì đạo tâm sẽ thụt lùi, mọi công sức trước đây của con sẽ đổ sông đổ biển…\""
+    },
+    {
+      "id": "c0001p0122",
+      "source": "“这张补习班的VIP卡要充钱了，不然我听不懂学校老师课上讲的功法……”",
+      "before": "\"Thẻ VIP của lớp luyện thi sắp phải nạp tiền rồi, không thì con không hiểu được công pháp thầy giảng trên lớp…\"",
+      "after": "\"Thẻ VIP của lớp luyện thi này phải nạp tiền rồi, không thì con không hiểu được công pháp thầy ở trường giảng trên lớp…\""
+    },
+    {
+      "id": "c0001p0149",
+      "source": "“现在的我，已经成了另一个世界的张羽。”",
+      "before": "\"Bây giờ ta, đã trở thành Trương Vũ của một thế giới khác rồi.\"",
+      "after": "\"Giờ mình đã trở thành Trương Vũ của một thế giới khác rồi.\""
+    },
+    {
+      "id": "c0001p0162",
+      "source": "张羽有些无奈地坐倒在床上。",
+      "before": "Trương Vũ đành thở dài ngồi phịch xuống giường.",
+      "after": "Trương Vũ bất lực ngồi phịch xuống giường."
+    },
+    {
+      "id": "c0001p0177",
+      "source": "“这家伙进高中之前就开始借贷补课了，进嵩阳高中后为了跟上大家的成绩，于是他又灵机一动，开始为了提升成绩以贷养贷，四处借钱吃药补课，强行激发潜力，最终不但钱越借越多，潜力也被渐渐榨干。”",
+      "before": "\"Thằng này trước khi vào cấp ba đã bắt đầu vay tiền học thêm rồi, vào Trường cấp ba Tung Dương xong để theo kịp thành tích của mọi người, hắn lại nảy ra sáng kiến, bắt đầu lấy vay nuôi vay để nâng cao thành tích, vay tiền khắp nơi để mua thuốc học thêm, cưỡng ép kích thích tiềm năng, kết quả không những tiền vay càng ngày càng nhiều, tiềm năng cũng dần bị vắt cạn.\"",
+      "after": "\"Thằng này đã bắt đầu vay tiền học thêm từ trước khi vào cấp ba. Sau khi vào Trường cấp ba Tung Dương, để theo kịp thành tích của mọi người, hắn lại nảy ra một sáng kiến: vay khoản mới trả khoản cũ để nâng cao thành tích, vay tiền khắp nơi để dùng thuốc và học thêm, ép tiềm năng bộc phát. Kết quả, không những tiền vay ngày càng nhiều mà tiềm năng cũng dần bị vắt cạn.\""
+    }
+  ],
+  "status": "AWAITING_INDEPENDENT_REVIEW_OF_EDITS"
+}

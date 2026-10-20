@@ -1,0 +1,31 @@
+{
+  "checked_date": "2026-10-13",
+  "reviewer": "/root/context_repo_research",
+  "scope": "primary online sources and local read-only source inspection",
+  "chivi_v3_release_attested": false,
+  "local_repositories": [
+    {"repo": "chi-vi/hanlp_mt", "url": "https://github.com/chi-vi/hanlp_mt", "local_head": "fa19f40534377b5142b4f4cf96b946a2b9796fe1", "executed_by_this_reviewer": false, "context_scope": "sentence parse and dictionary selection", "crosschapter_memory_verified": false},
+    {"repo": "chi-vi/ltp-dep-to-con", "url": "https://github.com/chi-vi/ltp-dep-to-con", "local_head": "cc852ecb163ae56efe7046b1cda66aa1ade22f65", "executed_by_this_reviewer": false, "context_scope": "dependency node tree and reordering", "crosschapter_memory_verified": false}
+  ],
+  "existing_executed_parser": {"engine": "HIT-SCIR LTP", "url": "https://github.com/HIT-SCIR/ltp", "model": "LTP/small", "revision": "dea87bf0da3c5d054bbd426a78d7fa9efd347799", "source": "native_oauth/parse_source.py", "tasks": ["CWS", "POS", "NER", "SRL", "DEP", "SDP"], "coreference_task": false, "native_constituency_prediction": false, "semantic_truth": false},
+  "candidate_not_executed": [{"name": "Stanford CoreNLP Chinese coreference", "url": "https://stanfordnlp.github.io/CoreNLP/coref.html", "verified_capability": "official documentation lists deterministic and neural Chinese coreference", "novel_quality_benchmark": false}],
+  "routing": {
+    "official_documentation": "https://antigravity.google/docs/subagents?tab=cli",
+    "child_context_isolated": true,
+    "documented_yaml_tiers": ["inherit", "flash", "pro"],
+    "exact_tier_requires_runtime_evidence": true,
+    "reporter_observation": {"url": "https://github.com/google-antigravity/antigravity-cli/issues/1150", "opened": "2026-10-03", "reported_environment": "CLI 2.1.x macOS Darwin arm64", "reported_problem": "explicit granular custom-subagent model IDs fail registration", "reproduced_here": false},
+    "recommended_cohorts": ["parent gemini-3.8-flash-low + child model inherit", "parent gemini-3.8-flash-medium + child model inherit"]
+  },
+  "primary_research": [
+    {"url": "https://aclanthology.org/P19-1116/", "claim": "context-specific deixis, ellipsis and lexical cohesion need targeted evaluation"},
+    {"url": "https://aclanthology.org/2025.findings-emnlp.1289/", "claim": "source-primed segmented multi-turn translation evaluated in study; not a Gemini 3.8 zh-vi novel benchmark"},
+    {"url": "https://aclanthology.org/P18-1118/", "claim": "source and target document memory treated as separate components"},
+    {"url": "https://aclanthology.org/2025.emnlp-main.1645/", "claim": "book-length evaluation includes under-over translation; advertised maximum context is not effective translation length"}
+  ],
+  "architecture_inference": {
+    "proven_on_this_route": false,
+    "preventive_mechanism": ["source-linked immutable story memory", "separate scoped editorial glossary", "scene ownership with read-only source overlap", "sequential within dependent dialogue", "boundary contracts and referent checks", "failure-class-driven context policy revision", "complete dependent scene retranslations", "bounded quarantine"],
+    "forbidden_evidence_shortcuts": ["manual edited candidates presented as route success", "parser graph presented as crosschapter truth", "subagent self-reported model presented as routing evidence", "small pilot presented as 10000-chapter reliability"]
+  }
+}

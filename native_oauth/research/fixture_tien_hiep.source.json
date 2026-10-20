@@ -1,0 +1,34 @@
+{
+  "version": "semantic-gate-1",
+  "chapter": 1,
+  "title": "SYNTHETIC GENRE FIXTURE",
+  "source_ref": "Self-authored Chinese regression fixture, 2026-10-13",
+  "glossary": {
+    "陆川": "Lục Xuyên"
+  },
+  "context": {},
+  "segments": [
+    {
+      "id": "c0001p0001",
+      "source": "陆川收起飞剑，没有追杀那名逃走的弟子。"
+    },
+    {
+      "id": "c0001p0002",
+      "source": "师父沉默片刻，道：“此事未必与掌门有关。你不可妄下结论。”"
+    },
+    {
+      "id": "c0001p0003",
+      "source": "她在心中想道：“只要再等三天，师兄就会回来。”"
+    },
+    {
+      "id": "c0001p0004",
+      "source": "他服下两枚丹药，体内的灵气却并未增加。"
+    }
+  ],
+  "package_hash": "d5fbffe26679067f6fc4001327348978743c85631e5fc78a95ba87210e773be5",
+  "scope": {
+    "kind": "SYNTHETIC_FIXTURE",
+    "genre": "tien_hiep",
+    "not_a_crawled_chapter": true
+  }
+}

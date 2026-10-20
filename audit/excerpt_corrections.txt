@@ -1,0 +1,50 @@
+SỬA NGỮ NGHĨA CÁC ĐOẠN TRÍCH — 2026-10-13
+Chỉ các đoạn trích đã kiểm; không thay thế cả chương.
+
+SMS_INBOX_001 | chap1_raw.txt:365
+Gốc: 挂了电话，张羽翻动着手机中的短信箱，便发现了密密麻麻的催款短信，都是原身在各大平台借贷逾期后的催缴。
+Bản sai: hộp thư thoại
+Bản sửa: hộp tin nhắn SMS
+Lý do: 短信箱 chỉ hộp SMS. Thư thoại đổi loại thông tin sang voicemail; câu nguồn còn nhắc rõ các SMS đòi nợ.
+
+QUANTITY_LOWER_BOUND_002 | chap1_raw.txt:103
+Gốc: 每天班主任会发给你们900克以上牛妖专用的补剂，保证你们的修炼效果是原先的十倍以上。
+Bản sai: hơn 900 gram thuốc bổ chuyên dụng dành cho Ngưu Yêu
+Bản sửa: ít nhất 900 gram thuốc bổ chuyên dụng dành cho Ngưu Yêu
+Lý do: 900克以上 bao gồm mức 900 g (>= 900); hơn 900 chỉ > 900. Số giống nhau nhưng quan hệ định lượng khác.
+
+ADDED_GIFT_ACTION_003 | chap1_raw.txt:197
+Gốc: 她转了1000块钱给张羽，让张羽记得要谢谢同学和老师。
+Bản sai: Bà chuyển 1.000 tệ cho Trương Vũ, dặn cậu nhớ mua quà cảm ơn thầy cô và bạn bè.
+Bản sửa: Bà chuyển 1.000 tệ cho Trương Vũ, dặn cậu nhớ cảm ơn bạn học và thầy cô.
+Lý do: 谢谢 là cảm ơn, không nói mua quà. 同学 cụ thể là bạn học. Việc chuyển tiền không cho phép suy ra một hành động mua quà bắt buộc.
+
+INTERNAL_THOUGHT_004 | prepared_input/chap_032_第32章 法力和体育.txt:262
+Gốc: “零分。”一旁的白真真心中幽幽道：“简直是高中的至高羞辱，从此以后彻底丧失了学校生存权。”
+Bản sai: Bạch Chân Chân ngồi bên cạnh u ám cất lời
+Bản sửa: Bạch Chân Chân ở bên cạnh thầm nghĩ đầy u ám
+Lý do: 心中 là trong lòng. Cất lời làm nhân vật khác có thể nghe được suy nghĩ này. 一旁 chỉ vị trí bên cạnh; không cần thêm động tác ngồi trong excerpt.
+
+TOURNAMENT_PAIRING_005 | prepared_input/chap_070_第70章 隐藏灵根.txt:22
+Gốc: 其中有7个小组都有四名选手，要进行抽签后的两两对决，淘汰至最后一人。
+Bản sai: Trong đó có bảy bảng đấu gồm bốn tuyển thủ, sau khi tiến hành bốc thăm sẽ chia cặp đấu loại trực tiếp hai chọi hai, đào thải dần cho tới khi chỉ còn lại một người duy nhất.
+Bản sửa: Trong đó có bảy bảng đấu, mỗi bảng gồm bốn tuyển thủ. Sau khi bốc thăm, các tuyển thủ sẽ đấu từng cặp một chọi một, loại dần cho tới khi chỉ còn lại một người.
+Lý do: 两两 là chia từng cặp, không phải hai người chống hai người. Nguồn cùng chương dòng 92 xác nhận rõ 一对一 (một chọi một).
+
+INVENTED_CONTRACT_NATURE_006 | prepared_input/chap_070_第70章 隐藏灵根.txt:128
+Gốc: 在这里签下和‘父亲大人’的契约，成为他真正认可的儿子。
+Bản sai: Tại nơi này, ký kết bản khế ước bán mạng với "Phụ thân đại nhân", mới chính thức trở thành đứa con trai được ông ta thừa nhận.
+Bản sửa: Tại nơi này, ký kết khế ước với "Phụ thân đại nhân" để trở thành người con trai mà ông ta thực sự công nhận.
+Lý do: 契约 là khế ước/hợp đồng. Câu nguồn không xác định đây là bán mạng; bối cảnh đen tối không cho phép thêm điều khoản chưa được kể.
+
+INVENTED_BLOODY_TRIALS_007 | prepared_input/chap_070_第70章 隐藏灵根.txt:134
+Gốc: 而虎云涛，便是这样通过层层考验，来到红塔高中读书的校董之子。
+Bản sai: khảo nghiệm đẫm máu
+Bản sửa: khảo nghiệm
+Lý do: 层层考验 là các tầng khảo nghiệm. Câu này không nêu đổ máu; đẫm máu thêm tính chất sự kiện có thể bị coi là dữ kiện truyện.
+
+CANONICAL_EVENT_NAME_008 | prepared_input/chap_052_第52章 暗流涌动.txt:288
+Gốc: 「特别是你小子这次法赛拿了第四名，他们一定会想办法逼着你签约，你能顶得住吗？」
+Bản sai: lần này ở Pháp Tái còn giành được hạng tư
+Bản sửa: lần này ở Pháp Giải còn giành được hạng tư
+Lý do: Pháp Giải là tên chuẩn đã lưu cho 法赛 và dùng trong chương 38. Pháp Tái là alias chưa duyệt của cùng sự kiện, gây lệch chuẩn liên chương.

@@ -1,0 +1,13 @@
+{
+  "authentication": "cached_account; GEMINI_API_KEY unset",
+  "requested_model": "gemini-3.8-flash-high",
+  "agent": null,
+  "exit_code": 4294967295,
+  "workspace": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\pilot_workspace",
+  "duration_seconds": 256.52,
+  "status": "NO_RESULT",
+  "conversation_id": null,
+  "usage": null,
+  "result": {},
+  "event_count": 51
+}

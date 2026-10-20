@@ -1,0 +1,1122 @@
+{
+  "scope": "Offline triage; not a semantic PASS; absent canonical terms are review flags",
+  "chapters": 81,
+  "paired_sources": 50,
+  "flagged_chapters": 57,
+  "results": [
+    {
+      "chapter": 1,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_001_第1章 面试.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "4620170c0928973623b1ab66a8cff65eebd589b9246df282623c20fa60860a8a",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_002_第2章 学校.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "372219f19cc8c7acc90bbb86af8f70dffdea6968d347cf152ad57eaaa0ec2f04",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_003_第3章 体育.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "08f3453a01a2acf2b4b963a0a492818f894853c5475c138e7d5a1da966c909f0",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "residual_chinese",
+          "samples": [
+            "体"
+          ]
+        },
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_004_第4章 请神.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "a4933fd4ff7200ecf63ed972aedb81f98e57e7b00b1d412635543a53cc1ae1e6",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_005_第5章 羽书.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "c41113b91e7cd58c851bdc42153ff9704a982b3ea4237a120b372f91aff4ee77",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_006_第6章 自由.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "ef1a3ef775bed4a5c4020a33f177f2d684fc4b3d78db3e7fd1b347e8cd9a68d2",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_007_第7章 人和人的差距.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "5c371473a9e01ae2c271447df81dedd285d3aba5e921cdc664c9d3fee5a37467",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "residual_chinese",
+          "samples": [
+            "剂"
+          ]
+        },
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_008_第8章 老师的关心.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "96e2bdd7cb1a2446ce838093853d8feea3af4a18afa40483b3c48806417a03cf",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_009_第9章 工作.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "583ad115618a5df6031f7aacbcc6640267842d4297144aad5d338609f4d71315",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_010_第10章 竞争激烈和3级健体.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "411a64b335b509fc04e6c3df1665cce3dfc4d3f1c849b607621dc081d0e4aaa1",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "residual_chinese",
+          "samples": [
+            "阵"
+          ]
+        },
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_011_第11章 周天采气.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "eaa3c939e8d741857b86f7399004b1b8a5ab4f8c7e87e49eb5af9559658a7ff0",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_012_第12章 勇猛精进（感谢‘水澜’的盟主打赏）.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "a1edb368d67efcf53555614a3daf651ca275777ab7e1ca4cbb3e8abfe5016a1e",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "residual_chinese",
+          "samples": [
+            "赵天行",
+            "丹田",
+            "气海",
+            "吐纳"
+          ]
+        },
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_013_第13章 法赛.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "5ce2ceb13a8c9ea93e783977466b903ad6c0a0b26a4881ca524cefa826cf9c9d",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "residual_chinese",
+          "samples": [
+            "力"
+          ]
+        },
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_014_第14章 准备和新工作.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "95d4caf4c9769c030b02c94188c553e8813954f751e2a6a4a33e1d6ddd2de684",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_015_第15章 中心大厦.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "36e5f32003db2f23f30ca745e7665b53745d3999884583b4e145cf43e7f1c0a7",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_016_第16章 巡逻.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "8caaee198af4407a2fb65a8d6ee970be32ed62d889e7802932c31637dfaf900d",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "residual_chinese",
+          "samples": [
+            "校"
+          ]
+        },
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_017_第17章 分数和秘辛.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "d859dd8948de736f40149511d8d311ac004bac139ed5ae695b4d70e47660b9a9",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_018_第18章 天人演武图.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "9316303be33f5223d2fa1c2fa0c4803d3daea41724a94d4b54e4a0eae3351b5c",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_019_第19章 惊怖和道心.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "97576c3158d690aed1a52d484be562a1ca816cf49db63c2cc149790bd64f11e3",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_020_第20章 参悟.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "2dd64065dca811bde8314311deed8f4327b93d7f960d7c5acf01214fa6d42ab9",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_021_第21章 天武炼心.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "1dbd6e2888ebce47976942c8b60054644c57a882c6c8063b76393e777fe710cf",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_022_第22章 合同.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "9f2626266dcd053a43f7c5414e9eec7d08b779730d964c93417c77c1a4673135",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "residual_chinese",
+          "samples": [
+            "第",
+            "章"
+          ]
+        },
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_023_第23章 谈.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "7a0a6f0b3ae3dfb21009f40240b7644bf1829f8584f6631d507252bd91ef571f",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "residual_chinese",
+          "samples": [
+            "凌晨一点",
+            "廈",
+            "廈"
+          ]
+        },
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_024_第24章 灵根.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "e7eed3afd1d344dff0f13a2e95a2a50659457172aea4ed6b818faefe4c0edb96",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_025_第25章 气海.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "6a815ad9c30e713a6f4bdf6b38245232ef854f45ddf768ecd813a6fafb1300d9",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_026_第26章 报名法赛和月考到来.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "ec1ac11def0593ab6ab133b8cc8577253ffe31f17f269ebb016c3e2fb1a617ba",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_027_第27章 考间冲刺.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "02ac89ae303adec19131cf03462c42be2e0407d186b59ced90f6a0af732e2cbb",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "residual_chinese",
+          "samples": [
+            "吐纳",
+            "态"
+          ]
+        },
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_028_第28章 道术和实战.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "eb5c59218651abc7f2eea802a789d4d3d5365563fcb00ad190f21d9f7abc6e9f",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_029_第29章 实战考试.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "ad5c28245feea0ec042a60db97ce92e26d2a48c11423f533c3c8b6e18c36dbec",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_030_第30章 掌力比拼和道心考试.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "d29786517d3f06a7c7ad002122677cbe2ba136b78f922af9ab88751b09733a13",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_031_第31章 灵界.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "260cfa05cd8dc7df549ed1561ccf5001d13fbb87332f35aa8af3ff5e5941be5d",
+      "source_file": null,
+      "source_hash": null,
+      "flags": [
+        {
+          "kind": "no_paired_prepared_source"
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_032_第32章 法力和体育.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "3910799890a607871da66b61aaa158d05e313d34ba2b7c75919e5af826b19f58",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_032_第32章 法力和体育.txt",
+      "source_hash": "d0500791abe326b36f21425f68a146c5d28f042d15f6ed55c4c9679dfb781978",
+      "flags": []
+    },
+    {
+      "chapter": 33,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_033_第33章 体育考试和王海对策.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "cd8a50a674209b0cf5752784e0e14af9ad25f28fc32b120047efdfcde2cc6746",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_033_第33章 体育考试和王海对策.txt",
+      "source_hash": "22efb6d9e84ab799eea61258f4d98214bf6c0f6f4b256bc411a0ee2a9e75d801",
+      "flags": [
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "昆墟",
+          "expected": "Côn Khư"
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_034_第34章 成绩出，学霸现.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "53b34b913ebba26dee7705ec780d3c75721d9c0bc6f49cad294d127e36a360f3",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_034_第34章 成绩出，学霸现.txt",
+      "source_hash": "e7af14e861ff8072eacbd3a812efaab3d1f85e26efdd84f30d7764f142aa5c02",
+      "flags": []
+    },
+    {
+      "chapter": 35,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_035_第35章 选择和功法.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "fcaa6bee2bfdc49495edfdd0e3c6f2f1ffda96a9cc897e5acceb332db9cbad8b",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_035_第35章 选择和功法.txt",
+      "source_hash": "1aec4cfd0b7bd179b5dc1531131d8e5ea33e87e823a2ba69c89366045d809308",
+      "flags": []
+    },
+    {
+      "chapter": 36,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_036_第36章 甲级合同.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "29ba0f052b700765cec3334f123b798f6a7b4b7b3dab5677f31904f28ab3ce43",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_036_第36章 甲级合同.txt",
+      "source_hash": "876098640de5b78091315cbd8d2a3694b9a30f5e9aa42e3c4924cece0cd0a7f0",
+      "flags": []
+    },
+    {
+      "chapter": 37,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_037_第37章 天罗地网.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "d88ea1e13eb35ab49acaa1c820dbcb2fd3714d169e46d33f0cc46575054e551f",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_037_第37章 天罗地网.txt",
+      "source_hash": "ef5eacef35549234ac55b9762b2e87314cb2f87b534b90b38d197b8143df5aee",
+      "flags": []
+    },
+    {
+      "chapter": 38,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_038_第38章 10级周天采气法.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "4face8062f3e5f26bd87797d089eda33471543d433b15f0660e0adc30eeece07",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_038_第38章 10级周天采气法.txt",
+      "source_hash": "412c9f0e90a9b3f8ffd1633b0010b02ab7c047cc955d79d930f4daa4b48b5bfb",
+      "flags": [
+        {
+          "kind": "residual_chinese",
+          "samples": [
+            "湛",
+            "浮"
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 39,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_039_第39章 心法.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "1b3cec0654f2b9694067937c49e4d306e827bef139d0d8f1f520f46f24077300",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_039_第39章 心法.txt",
+      "source_hash": "714d64d80d800081fb3d1f5c602055de03ee28a3f99f30243d736974f00c7159",
+      "flags": []
+    },
+    {
+      "chapter": 40,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_040_第40章 快乐心法和法赛补习.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "48251ffccca4ef1f7ba0be125fbba1e9c9df5424ae4f27dfd96dbd56f7722f0b",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_040_第40章 快乐心法和法赛补习.txt",
+      "source_hash": "d69542bb5034e7b61aa8e1c77a65fa1d51158944cd5f0f1951de3b624dc42a0a",
+      "flags": [
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "法赛",
+          "expected": "Pháp Giải"
+        }
+      ]
+    },
+    {
+      "chapter": 41,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_041_第41章 密谋和法赛开始.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "833fc7d998155774fcc0048b09e4ed37a8819edb7fa104fae6e2391b53b86972",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_041_第41章 密谋和法赛开始.txt",
+      "source_hash": "51bc6be85438bb79406e7ddd5ad9cf521ee2d61177b14be0067d717e3cb6d1ea",
+      "flags": [
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "法赛",
+          "expected": "Pháp Giải"
+        }
+      ]
+    },
+    {
+      "chapter": 42,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_042_第42章 法赛阵容.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "1b66b64a9b1fd9341a0164323cc6dad90d2bff8dab7f639f18f330be10d963fa",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_042_第42章 法赛阵容.txt",
+      "source_hash": "c305b82cd6625fbdff79388288436e20e627fe52d6bd00d3bb412bbf2c59607d",
+      "flags": [
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "法赛",
+          "expected": "Pháp Giải"
+        }
+      ]
+    },
+    {
+      "chapter": 43,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_043_第43章 联盟和法赛第一关.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "60096cd572c625b7f8106aad1f5f305de183568db743579eb00b2bf5ecc6e81f",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_043_第43章 联盟和法赛第一关.txt",
+      "source_hash": "ba00b9766d94becbe1be8465669fb9ac9f346a06b38830382eb5c3a8bc807ad1",
+      "flags": [
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "嵩阳高中",
+          "expected": "Trường cấp ba Tung Dương"
+        }
+      ]
+    },
+    {
+      "chapter": 44,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_044_第44章 飞剑.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "6616ebe108224899c0a7678c06ef8ff859110b96c5c569a7fb2b88e3800b62a7",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_044_第44章 飞剑.txt",
+      "source_hash": "3a045d346c995a105b8c533a8455d058235ae557878d53987498a1968ffdff17",
+      "flags": [
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "嵩阳高中",
+          "expected": "Trường cấp ba Tung Dương"
+        }
+      ]
+    },
+    {
+      "chapter": 45,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_045_第45章 聊一聊新书，求一求追读.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "ad02b5ad9adeaac585c92c898b7cf0b4e1bfdb9d6ba98ec08584c7955fcecbb6",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_045_第45章 聊一聊新书，求一求追读.txt",
+      "source_hash": "7bee35ab2a1ce388cb33d1994a614ebb644d06c73a6e84bf775978b5bb3342ad",
+      "flags": []
+    },
+    {
+      "chapter": 46,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_046_第46章 紫云药.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "3b973e1dade0e27c860daf757d5fd54249d709648a2d479c3174d8941ac3a3ae",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_046_第46章 紫云药.txt",
+      "source_hash": "38c67df0fc04ba5f60262fb10b3b064593f45d2fcfa814f122cc2681f3ab5f7d",
+      "flags": [
+        {
+          "kind": "residual_chinese",
+          "samples": [
+            "校"
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 47,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_047_第47章 大山.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "e6386e46fae00676ee0c3d8a6fc4573fd9561e976326faed47911c73d565d3e6",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_047_第47章 大山.txt",
+      "source_hash": "63490c80f4718578e96a0a64ce8897e06ec6a3b121540aecaf6169033cebac97",
+      "flags": [
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "嵩阳高中",
+          "expected": "Trường cấp ba Tung Dương"
+        }
+      ]
+    },
+    {
+      "chapter": 48,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_048_第48章 争.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "4795a01af77735d427e96d283711d8ed26c646cee3470d9f850e0f15cf4d59bd",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_048_第48章 争.txt",
+      "source_hash": "96cf9c5821df5dd56eaac3eeb49dc446cc81297bd7ffa9b72ed7804d8088e275",
+      "flags": [
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "嵩阳高中",
+          "expected": "Trường cấp ba Tung Dương"
+        },
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "法赛",
+          "expected": "Pháp Giải"
+        }
+      ]
+    },
+    {
+      "chapter": 49,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_049_第49章 前十！.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "d490bdf39763806e5949cbe6562b2c02819beaa413cd5e272a0c1747063f2606",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_049_第49章 前十！.txt",
+      "source_hash": "e00aaa0b1b8cd776e92fb81d7e5355d961232a648a75c42ee3fc33e8c4301a17",
+      "flags": [
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "法赛",
+          "expected": "Pháp Giải"
+        }
+      ]
+    },
+    {
+      "chapter": 50,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_050_第50章 无极云手.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "86cbbf20d82fcb41399bc0573621cd1b29db75ce7c8f3c52e2fed3eea448fbf9",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_050_第50章 无极云手.txt",
+      "source_hash": "a6033219e23d4ba9780e2892c3bba9796b78a22550744cda9f13300ca84441cd",
+      "flags": [
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "法赛",
+          "expected": "Pháp Giải"
+        },
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "肉身",
+          "expected": "nhục thân"
+        }
+      ]
+    },
+    {
+      "chapter": 51,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_051_第51章 变化和加码.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "fcb8e8d0e6b38c2e9d8506363fbf707f99700521e13bad342e0d619ba194a176",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_051_第51章 变化和加码.txt",
+      "source_hash": "3ae9c2afab92b318bed997fda474e19aa38046cd44e1f4e4cea794f89de5dc53",
+      "flags": [
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "嵩阳高中",
+          "expected": "Trường cấp ba Tung Dương"
+        },
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "法赛",
+          "expected": "Pháp Giải"
+        }
+      ]
+    },
+    {
+      "chapter": 52,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_052_第52章 暗流涌动.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "7e4fc470a76d1253df2590fee05024bd0c272034865bfd993b872a2ebf6d2c05",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_052_第52章 暗流涌动.txt",
+      "source_hash": "f9918c382f4a679d42c596979f1f1678f25fe25799190e21833c85ba29e409e0",
+      "flags": [
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "嵩阳高中",
+          "expected": "Trường cấp ba Tung Dương"
+        },
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "法赛",
+          "expected": "Pháp Giải"
+        }
+      ]
+    },
+    {
+      "chapter": 53,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_053_第53章 月考结束风雨欲来.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "78412089dcc56c3c95758fe25845a289dff0b4211ea67a9bfcf18a3426fcf364",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_053_第53章 月考结束风雨欲来.txt",
+      "source_hash": "aca6487394c4535cd616cb7d11d4b7a17cf14155e2d8f826f05ce3049d32f738",
+      "flags": [
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "法赛",
+          "expected": "Pháp Giải"
+        }
+      ]
+    },
+    {
+      "chapter": 54,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_054_第54章 天武炼心.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "930092b9e74a5be196c7417a7aa51aff4911c5a668bccd2fa424bcbee6848c82",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_054_第54章 天武炼心.txt",
+      "source_hash": "9ece568823c052187f3d2a70a04386a85f8aa98384f11d972e9b06ca00f4da57",
+      "flags": [
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "法赛",
+          "expected": "Pháp Giải"
+        }
+      ]
+    },
+    {
+      "chapter": 55,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_055_第55章 张羽抉择.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "4bce2757aab3ddc51081154b83fd162437d6e54bd895d46f3107470673cb2435",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_055_第55章 张羽抉择.txt",
+      "source_hash": "bca39e255ca58ab8005102836107bbe58dbed0e225c796444b11e603485ee556",
+      "flags": []
+    },
+    {
+      "chapter": 56,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_056_第56章 神辅考核.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "0346cf109d7fd43df9aa1e0d2ad18e2ebc118da52d5eeec6a9e525874936088f",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_056_第56章 神辅考核.txt",
+      "source_hash": "3d63c07171081b41cd41d7b980609e8086a2ed39956c98dbbc0b378e8d127312",
+      "flags": []
+    },
+    {
+      "chapter": 57,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_057_第57章 过考核，去嵩阳（求月票）.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "0fb164b991e3f22e4e0bb05e1166b41f8b730b19c48753efd8569d21babd7bb3",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_057_第57章 过考核，去嵩阳（求月票）.txt",
+      "source_hash": "407f1b443af3f7e24c0d2b6dc915b102ca607a90a04d219f8c0a98af1fc5c93d",
+      "flags": []
+    },
+    {
+      "chapter": 58,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_058_第58章 学长.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "f191445ad4ef8e1b60d6783abc57b8c286dd12af781ecfa47f30c9ab87406bea",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_058_第58章 学长.txt",
+      "source_hash": "df4424ce345e6c8660e3696cbcb8b3f8f255fffff257dca095076232ce8be83f",
+      "flags": []
+    },
+    {
+      "chapter": 59,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_059_第59章 威压.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "5519d0a4511a798ac1a10b9476b6ad95bd4817ddb381fb271166fb497e1a759f",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_059_第59章 威压.txt",
+      "source_hash": "301bb4802ee697c9dd1046a9ee9b46991e73b62857b756f89c83218513981cb8",
+      "flags": []
+    },
+    {
+      "chapter": 60,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_060_第60章 最强高一（第三更，章节贷）.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "0e25c7345c2dcf1070ccb2c391ea5ef564f45c09ea0d4cd5de26cffa02d9c71e",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_060_第60章 最强高一（第三更，章节贷）.txt",
+      "source_hash": "cd6ebe98110447fae2a2750f11bbc4e17800ce053ce681c3a1bcff0cbf9746e2",
+      "flags": []
+    },
+    {
+      "chapter": 61,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_061_第61章 箓书.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "fbaafda868895bba51483b7d3c26bc1979b4ea1d0f632e4ae16ecb00ff8ec54b",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_061_第61章 箓书.txt",
+      "source_hash": "7fef2e408c3b3e28499bc72581d3339c0f638cc12d44234aa162b280daab466f",
+      "flags": [
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "绝育手术",
+          "expected": "phẫu thuật triệt sản"
+        }
+      ]
+    },
+    {
+      "chapter": 62,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_062_第62章 拜神.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "a8ace8207a597eb440a899ec122f16e831c088399b59ceed2271345701facf37",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_062_第62章 拜神.txt",
+      "source_hash": "763007aa20d83d3e3d43ca97c0fcbe14ce23f6177c92630645185a30653067c4",
+      "flags": [
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "法赛",
+          "expected": "Pháp Giải"
+        }
+      ]
+    },
+    {
+      "chapter": 63,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_063_第63章 轰杀，朋友.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "b86b4fcb29e1631ba08edaa0abd92e880e8bccd06ad8a12fd49c64940c35199e",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_063_第63章 轰杀，朋友.txt",
+      "source_hash": "a07df1c8d4d7a64e7609962b347f222f0a5f3d4ca5fc437ed3c26683c46beb71",
+      "flags": []
+    },
+    {
+      "chapter": 64,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_064_第64章 变化（求月票）.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "0acf48588d6f3a268524703695715ef66e75f85d29cb3553c28c4d1a7e91fcc8",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_064_第64章 变化（求月票）.txt",
+      "source_hash": "d8cd498afb607f9ac99483c8bf5a3f3a59d7ea9dbe24256c69f5e3efc6ff77c2",
+      "flags": [
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "法赛",
+          "expected": "Pháp Giải"
+        }
+      ]
+    },
+    {
+      "chapter": 65,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_065_第65章 武道补习.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "984df1d079c1a2a7546caa7376de8af1f3a3fa2d8f591b4da2974bc97ea866bb",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_065_第65章 武道补习.txt",
+      "source_hash": "dd6fa3b2686b48d37a1c907bc7af979ba787f6c39c301a2d726eb7ca66a6b9e3",
+      "flags": [
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "仙道技术",
+          "expected": "kỹ thuật tiên đạo"
+        }
+      ]
+    },
+    {
+      "chapter": 66,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_066_第66章 耗尽积蓄（求月票）.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "fdb86dbf847a763ece49d7a3123064ac8a534634fe61a7a4c373fe9f3dc7b0fa",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_066_第66章 耗尽积蓄（求月票）.txt",
+      "source_hash": "b334c0ddb36340cec1336743940e7420e6aced598c630f0cec840c0206a56b1d",
+      "flags": [
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "法赛",
+          "expected": "Pháp Giải"
+        }
+      ]
+    },
+    {
+      "chapter": 67,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_067_第67章 竞赛开始.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "716ce4c5952d31100ea3b2bbc34c3b860a4aa033afb74d59af4fcc304e6a1c4a",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_067_第67章 竞赛开始.txt",
+      "source_hash": "e1f65c73e600376dc9ef98d2e2e55a82b713e59ee68a13b9521f3997fecd922b",
+      "flags": [
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "嵩阳高中",
+          "expected": "Trường cấp ba Tung Dương"
+        },
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "法赛",
+          "expected": "Pháp Giải"
+        }
+      ]
+    },
+    {
+      "chapter": 68,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_068_第68章 差距，评分.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "2f407fafe198cf35f7765163f9c93e553ddd4bf9a47c9d8f624bb64195e5b2bd",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_068_第68章 差距，评分.txt",
+      "source_hash": "225f40e24fbca8e16ac50290915faba8fbae80e860d9ab75ff7585f48502613b",
+      "flags": [
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "嵩阳高中",
+          "expected": "Trường cấp ba Tung Dương"
+        },
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "法赛",
+          "expected": "Pháp Giải"
+        }
+      ]
+    },
+    {
+      "chapter": 69,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_069_第69章 分组.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "3c8431f57c9d9b8141363907f17fce4b652dc7e44548a9c0a808877b17d5ffc9",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_069_第69章 分组.txt",
+      "source_hash": "52bf2a8e05aea7460209a9be89abf33c29fd17c14555558fdb0290a64713cb0c",
+      "flags": []
+    },
+    {
+      "chapter": 70,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_070_第70章 隐藏灵根.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "9e2df6ece1a24960b9df5f01722ba8fcbf08e2d8e0431f7d58f3313e3817b256",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_070_第70章 隐藏灵根.txt",
+      "source_hash": "c8ba014d9882e661dfaa8bc15f500fda915fc5632d1d940e6133cb15bea75e3f",
+      "flags": []
+    },
+    {
+      "chapter": 71,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_071_第71章 上架活动福利不要错过.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "b465d009c0aa9073dbaeab4b99f2caa411ecd7135b0202cee24ddec54433601b",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_071_第71章 上架活动福利不要错过.txt",
+      "source_hash": "914ec24c9e6270abe1f70e1c1f62a5549c1dbf7e6c357831ac4050e2a2b92ba4",
+      "flags": []
+    },
+    {
+      "chapter": 72,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_072_第72章 压制.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "840df6030c68ad31dee649c54facad904e507176c0be0ab1c53edcf11a95cad5",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_072_第72章 压制.txt",
+      "source_hash": "b9e90a9d415168696e23b6c55dafb7129198332c1eb67c58900e39e09301e1cd",
+      "flags": []
+    },
+    {
+      "chapter": 73,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_073_第73章 八强战.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "104f773f2e63bd85d2d4b871d7bdd6f90e745d99e4830978dc943079c3f9ce29",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_073_第73章 八强战.txt",
+      "source_hash": "9b2f4d254bd52fdf267a0a169d126b812eba4d897761746b0e0ad9cad9cd4e71",
+      "flags": [
+        {
+          "kind": "residual_chinese",
+          "samples": [
+            "狠狠"
+          ]
+        },
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "嵩阳高中",
+          "expected": "Trường cấp ba Tung Dương"
+        }
+      ]
+    },
+    {
+      "chapter": 74,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_074_第74章 浴血奋战.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "c538cc619371cee16ec1ea981603441f761a8c10d571e6ee6de4c4b91b7a5353",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_074_第74章 浴血奋战.txt",
+      "source_hash": "d1477ed86c1be4c58cbf5606d8865d419a5ecfe8724dc2f4485f14dfda54e148",
+      "flags": []
+    },
+    {
+      "chapter": 75,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_075_第75章 狂风暴雨（四更完毕求月票）.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "b8e259229ae01be21a22383a820a0da671fe965971519f7dcfa96cbbd623cb89",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_075_第75章 狂风暴雨（四更完毕求月票）.txt",
+      "source_hash": "4af545222affdd3642776872feca44c7276a26480293c25733ad921afcd9f365",
+      "flags": []
+    },
+    {
+      "chapter": 76,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_076_第76章 穷，四强战.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "0940c5f106cebdcbd628648c04dcda238e4f86ba5bc36451fc7bc1c0af037e2b",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_076_第76章 穷，四强战.txt",
+      "source_hash": "c3bf5afb1d3f015be484f6bc129aa71f9063472fb92096d4744d1c98956e9223",
+      "flags": [
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "嵩阳高中",
+          "expected": "Trường cấp ba Tung Dương"
+        }
+      ]
+    },
+    {
+      "chapter": 77,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_077_第77章 背龙翻岳.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "f3cc11e9f67d4f6a1a573e9eee054f23ab6f4e0256e8eb906325fecfd04ffb14",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_077_第77章 背龙翻岳.txt",
+      "source_hash": "70ef772c79b7dd4d8f3320e547952b3b217657d28dc67d6e36e8ff4008a5fda5",
+      "flags": []
+    },
+    {
+      "chapter": 78,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_078_第78章 二强决出（还月票贷1）.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "050eca5c4e91a9cf018871cc124d7fa7a553daca4b12baa9d0ced2a9867fdccb",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_078_第78章 二强决出（还月票贷1）.txt",
+      "source_hash": "c41b8c1c16ca6f4e66413546399489eb6c01860d3af4a01add5aca79704d102c",
+      "flags": []
+    },
+    {
+      "chapter": 79,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_079_第79章 威力最大的一招.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "f7d2c0db6b03b97c1fd9d2768d5008bad7c22a3f5426d067203d155df5a3d8a2",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_079_第79章 威力最大的一招.txt",
+      "source_hash": "416002c9c13a287dae836ad25940e995e7a95f6ab26426c4e049a62a527b490d",
+      "flags": []
+    },
+    {
+      "chapter": 80,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_080_第80章 冠军（求月票）.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "c4a998a8decaee4283c3307a5a0bcf9f2e32476aeec4f87c4c1c84fa4ca04344",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_080_第80章 冠军（求月票）.txt",
+      "source_hash": "a2ace9ea9661ee1acd4fc4e250fc3022c98cf4f3a23e66480871b3b034cacf2e",
+      "flags": [
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "嵩阳高中",
+          "expected": "Trường cấp ba Tung Dương"
+        },
+        {
+          "kind": "canonical_term_absent",
+          "source_term": "法赛",
+          "expected": "Pháp Giải"
+        }
+      ]
+    },
+    {
+      "chapter": 81,
+      "file": "I:\\Softs\\Antigravity\\CaoTruyen\\output_dich\\chuong_081_第81章 宋海龙让我当教练（感谢‘与太郎’盟主）.txt",
+      "status": "UNREVIEWED_LEGACY",
+      "target_hash": "bdce195be2226208f04ac49b90f434a5332597c386a676fc79220c72c37306f7",
+      "source_file": "I:\\Softs\\Antigravity\\CaoTruyen\\prepared_input\\chap_081_第81章 宋海龙让我当教练（感谢‘与太郎’盟主）.txt",
+      "source_hash": "e41cdeb1f1265f7c23334002bbc9783ec4fbb464b79459c786f40d5436edbe6e",
+      "flags": []
+    }
+  ]
+}

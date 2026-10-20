@@ -1,0 +1,14 @@
+{
+  "jobs": [
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_reserved_20261013T055745Z\\contract.json",
+      "model": "gemini-3.8-flash-low"
+    }
+  ],
+  "max_concurrency": 1,
+  "timeout": 180,
+  "max_reported_tokens": 50000,
+  "workspace": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\reserved_20261013T055745Z",
+  "result_path": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\results_reserved_20261013T055745Z.json",
+  "scope": "First generatedtranslation of4reserved syntheticparagraphs; no authenticnovel generalization"
+}

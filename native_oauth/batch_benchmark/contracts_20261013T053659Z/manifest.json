@@ -1,0 +1,76 @@
+{
+  "schema": "batch-benchmark-1",
+  "corpus_hash": "3d8b75e3eb8ed2dcd0348e8c8f5ce93f14b34a17103488843767071737f5975e",
+  "policy_version": "source-quote-retrieval-v1",
+  "jobs": [
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_20261013T053659Z\\low-isolated-c0002p0053.json",
+      "model": "gemini-3.8-flash-low"
+    },
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_20261013T053659Z\\low-isolated-c0003p0076.json",
+      "model": "gemini-3.8-flash-low"
+    },
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_20261013T053659Z\\low-isolated-c0004p0039.json",
+      "model": "gemini-3.8-flash-low"
+    },
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_20261013T053659Z\\low-isolated-c0103p0001.json",
+      "model": "gemini-3.8-flash-low"
+    },
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_20261013T053659Z\\low-shared_source-c0002p0053.json",
+      "model": "gemini-3.8-flash-low"
+    },
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_20261013T053659Z\\low-shared_source-c0003p0076.json",
+      "model": "gemini-3.8-flash-low"
+    },
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_20261013T053659Z\\low-shared_source-c0004p0039.json",
+      "model": "gemini-3.8-flash-low"
+    },
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_20261013T053659Z\\low-shared_source-c0103p0001.json",
+      "model": "gemini-3.8-flash-low"
+    },
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_20261013T053659Z\\medium-isolated-c0002p0053.json",
+      "model": "gemini-3.8-flash-medium"
+    },
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_20261013T053659Z\\medium-isolated-c0003p0076.json",
+      "model": "gemini-3.8-flash-medium"
+    },
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_20261013T053659Z\\medium-isolated-c0004p0039.json",
+      "model": "gemini-3.8-flash-medium"
+    },
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_20261013T053659Z\\medium-isolated-c0103p0001.json",
+      "model": "gemini-3.8-flash-medium"
+    },
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_20261013T053659Z\\medium-shared_source-c0002p0053.json",
+      "model": "gemini-3.8-flash-medium"
+    },
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_20261013T053659Z\\medium-shared_source-c0003p0076.json",
+      "model": "gemini-3.8-flash-medium"
+    },
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_20261013T053659Z\\medium-shared_source-c0004p0039.json",
+      "model": "gemini-3.8-flash-medium"
+    },
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_20261013T053659Z\\medium-shared_source-c0103p0001.json",
+      "model": "gemini-3.8-flash-medium"
+    }
+  ],
+  "max_concurrency": 2,
+  "timeout": 240,
+  "max_reported_tokens": 600000,
+  "workspace": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\20261013T053659Z",
+  "result_path": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\results_20261013T053659Z.json"
+}

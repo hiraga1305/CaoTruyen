@@ -1,0 +1,462 @@
+{
+  "book_id": "14713",
+  "book_title": "Tôi Ở Phòng Livestream Dòm Ngó Thiên Cơ (我在直播间窥探天机)",
+  "total_chapters": 50,
+  "total_paragraphs": 3954,
+  "headers_fixed": 0,
+  "total_cjk_cleared": 0,
+  "total_patches_applied": 2,
+  "all_chapters_gate_pass": true,
+  "chapter_breakdown": [
+    {
+      "chap_id": 1,
+      "paragraphs": 90,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 1,
+      "prophecy_count": 3,
+      "passed": true
+    },
+    {
+      "chap_id": 2,
+      "paragraphs": 84,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 1,
+      "passed": true
+    },
+    {
+      "chap_id": 3,
+      "paragraphs": 91,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 2,
+      "passed": true
+    },
+    {
+      "chap_id": 4,
+      "paragraphs": 65,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 11,
+      "passed": true
+    },
+    {
+      "chap_id": 5,
+      "paragraphs": 78,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 1,
+      "passed": true
+    },
+    {
+      "chap_id": 6,
+      "paragraphs": 66,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 1,
+      "passed": true
+    },
+    {
+      "chap_id": 7,
+      "paragraphs": 64,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 4,
+      "passed": true
+    },
+    {
+      "chap_id": 8,
+      "paragraphs": 91,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 0,
+      "passed": true
+    },
+    {
+      "chap_id": 9,
+      "paragraphs": 102,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 4,
+      "passed": true
+    },
+    {
+      "chap_id": 10,
+      "paragraphs": 97,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 2,
+      "passed": true
+    },
+    {
+      "chap_id": 11,
+      "paragraphs": 79,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 0,
+      "passed": true
+    },
+    {
+      "chap_id": 12,
+      "paragraphs": 84,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 2,
+      "passed": true
+    },
+    {
+      "chap_id": 13,
+      "paragraphs": 85,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 0,
+      "passed": true
+    },
+    {
+      "chap_id": 14,
+      "paragraphs": 72,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 0,
+      "passed": true
+    },
+    {
+      "chap_id": 15,
+      "paragraphs": 100,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 0,
+      "passed": true
+    },
+    {
+      "chap_id": 16,
+      "paragraphs": 42,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 1,
+      "passed": true
+    },
+    {
+      "chap_id": 17,
+      "paragraphs": 66,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 2,
+      "passed": true
+    },
+    {
+      "chap_id": 18,
+      "paragraphs": 99,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 2,
+      "passed": true
+    },
+    {
+      "chap_id": 19,
+      "paragraphs": 84,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 0,
+      "passed": true
+    },
+    {
+      "chap_id": 20,
+      "paragraphs": 84,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 2,
+      "passed": true
+    },
+    {
+      "chap_id": 21,
+      "paragraphs": 62,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 0,
+      "passed": true
+    },
+    {
+      "chap_id": 22,
+      "paragraphs": 71,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 0,
+      "passed": true
+    },
+    {
+      "chap_id": 23,
+      "paragraphs": 71,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 1,
+      "prophecy_count": 3,
+      "passed": true
+    },
+    {
+      "chap_id": 24,
+      "paragraphs": 77,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 1,
+      "passed": true
+    },
+    {
+      "chap_id": 25,
+      "paragraphs": 76,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 1,
+      "passed": true
+    },
+    {
+      "chap_id": 26,
+      "paragraphs": 66,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 2,
+      "passed": true
+    },
+    {
+      "chap_id": 27,
+      "paragraphs": 89,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 4,
+      "passed": true
+    },
+    {
+      "chap_id": 28,
+      "paragraphs": 83,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 0,
+      "passed": true
+    },
+    {
+      "chap_id": 29,
+      "paragraphs": 93,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 3,
+      "passed": true
+    },
+    {
+      "chap_id": 30,
+      "paragraphs": 81,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 1,
+      "passed": true
+    },
+    {
+      "chap_id": 31,
+      "paragraphs": 98,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 2,
+      "passed": true
+    },
+    {
+      "chap_id": 32,
+      "paragraphs": 84,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 2,
+      "passed": true
+    },
+    {
+      "chap_id": 33,
+      "paragraphs": 69,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 0,
+      "passed": true
+    },
+    {
+      "chap_id": 34,
+      "paragraphs": 85,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 2,
+      "passed": true
+    },
+    {
+      "chap_id": 35,
+      "paragraphs": 77,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 0,
+      "passed": true
+    },
+    {
+      "chap_id": 36,
+      "paragraphs": 81,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 2,
+      "passed": true
+    },
+    {
+      "chap_id": 37,
+      "paragraphs": 86,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 0,
+      "passed": true
+    },
+    {
+      "chap_id": 38,
+      "paragraphs": 70,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 0,
+      "passed": true
+    },
+    {
+      "chap_id": 39,
+      "paragraphs": 67,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 1,
+      "passed": true
+    },
+    {
+      "chap_id": 40,
+      "paragraphs": 74,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 0,
+      "passed": true
+    },
+    {
+      "chap_id": 41,
+      "paragraphs": 72,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 1,
+      "passed": true
+    },
+    {
+      "chap_id": 42,
+      "paragraphs": 74,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 1,
+      "passed": true
+    },
+    {
+      "chap_id": 43,
+      "paragraphs": 83,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 2,
+      "passed": true
+    },
+    {
+      "chap_id": 44,
+      "paragraphs": 70,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 3,
+      "passed": true
+    },
+    {
+      "chap_id": 45,
+      "paragraphs": 89,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 2,
+      "passed": true
+    },
+    {
+      "chap_id": 46,
+      "paragraphs": 90,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 0,
+      "passed": true
+    },
+    {
+      "chap_id": 47,
+      "paragraphs": 86,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 0,
+      "passed": true
+    },
+    {
+      "chap_id": 48,
+      "paragraphs": 52,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 0,
+      "passed": true
+    },
+    {
+      "chap_id": 49,
+      "paragraphs": 67,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 1,
+      "passed": true
+    },
+    {
+      "chap_id": 50,
+      "paragraphs": 88,
+      "header_cleansed": false,
+      "cjk_cleared": 0,
+      "patch_count": 0,
+      "prophecy_count": 2,
+      "passed": true
+    }
+  ]
+}

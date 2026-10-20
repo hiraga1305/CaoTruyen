@@ -1,0 +1,459 @@
+{
+  "status": "PASS_PROVENANCE_ONLY",
+  "jobs": 24,
+  "generated_target_paragraphs_including_repeats": 344,
+  "unique_target_paragraphs": 56,
+  "reported_total_tokens": 921156,
+  "tests": 95,
+  "records": [
+    {
+      "job_id": "low-isolated-c0002p0053",
+      "actual_model": "gemini-3.8-flash-low",
+      "conversation_id": "23159ac4-4329-48c5-8665-07018fff9177",
+      "candidate_hash": "356dbe97f53fdf13b29f6163dc4e2e4acfef9cddb94d4388099ba846c1bcbac7",
+      "contract_hash": "437cf75f3a3667a812de668da793480b0e61a9a6bd21417ce8f764fedb7eb61d",
+      "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+      "target_paragraphs": 16,
+      "usage": {
+        "input_tokens": 36364,
+        "output_tokens": 1566,
+        "thinking_tokens": 0,
+        "cache_read_tokens": 16754,
+        "total_tokens": 37930
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\20261013T053659Z\\low-isolated-c0002p0053\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    },
+    {
+      "job_id": "low-isolated-c0003p0076",
+      "actual_model": "gemini-3.8-flash-low",
+      "conversation_id": "62143ca6-8495-41b8-84f4-01153d8b2674",
+      "candidate_hash": "dae9af90a8e64d318cfb3fd6cf2c54bd195531ca7c069aead813353190afcf08",
+      "contract_hash": "603548bd2c862f56bc7f3dd65ef42559f10c3355c7268f981b2e04698891d585",
+      "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+      "target_paragraphs": 16,
+      "usage": {
+        "input_tokens": 25971,
+        "output_tokens": 1587,
+        "thinking_tokens": 0,
+        "cache_read_tokens": 0,
+        "total_tokens": 27558
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\20261013T053659Z\\low-isolated-c0003p0076\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    },
+    {
+      "job_id": "low-isolated-c0004p0039",
+      "actual_model": "gemini-3.8-flash-low",
+      "conversation_id": "7668ba0d-3757-4873-8d3e-b7717bfcb4b1",
+      "candidate_hash": "b533d12c608373f5dd44e4b7b3d115e9e108828a026e348008920c38bc2afda3",
+      "contract_hash": "167f7bdc793a0a8c10ab5a50251294c6c456fc734bf892cf3e2600e028a79287",
+      "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+      "target_paragraphs": 16,
+      "usage": {
+        "input_tokens": 25598,
+        "output_tokens": 1570,
+        "thinking_tokens": 0,
+        "cache_read_tokens": 0,
+        "total_tokens": 27168
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\20261013T053659Z\\low-isolated-c0004p0039\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    },
+    {
+      "job_id": "low-isolated-c0103p0001",
+      "actual_model": "gemini-3.8-flash-low",
+      "conversation_id": "c0360413-d1fd-4f84-9c9b-de3c109fc494",
+      "candidate_hash": "1c80d50f088237239969eb568701f5e242714c3f8c2986c0b9b55272103b3075",
+      "contract_hash": "4cb9040d047d2781a8fb58ae3761e4e6edebdec686014ebeb9e5bbc6339e7f30",
+      "state_hash": "cc7b2ea5bed27eb663d71e1be2ea1ca3e9865cca985636076d75f6a1180d6760",
+      "target_paragraphs": 4,
+      "usage": {
+        "input_tokens": 19120,
+        "output_tokens": 709,
+        "thinking_tokens": 0,
+        "cache_read_tokens": 0,
+        "total_tokens": 19829
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\20261013T053659Z\\low-isolated-c0103p0001\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    },
+    {
+      "job_id": "low-shared_source-c0002p0053",
+      "actual_model": "gemini-3.8-flash-low",
+      "conversation_id": "43acf141-348e-4d48-8ee7-22ec856ba556",
+      "candidate_hash": "8cf0ed0143fd616cfc6bb851f1a9f8bf5bb45b44027c17f9b15b786c3da5102c",
+      "contract_hash": "5a01a433d910fc8afc236f0dfcab5b03dd549d6888e108664e81f33257162473",
+      "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+      "target_paragraphs": 16,
+      "usage": {
+        "input_tokens": 37012,
+        "output_tokens": 1545,
+        "thinking_tokens": 0,
+        "cache_read_tokens": 17421,
+        "total_tokens": 38557
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\20261013T053659Z\\low-shared_source-c0002p0053\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    },
+    {
+      "job_id": "low-shared_source-c0003p0076",
+      "actual_model": "gemini-3.8-flash-low",
+      "conversation_id": "516e54f5-0ca9-4880-974b-0057500ad15a",
+      "candidate_hash": "d74cdf4541d8f303bbca0fb75014434e3be8532c6d28ef7ebb218eb0203adf89",
+      "contract_hash": "84127e00ad8d3216d3b93e574f2e62b443629e308f6057371469210d18eb7781",
+      "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+      "target_paragraphs": 16,
+      "usage": {
+        "input_tokens": 27413,
+        "output_tokens": 1580,
+        "thinking_tokens": 0,
+        "cache_read_tokens": 0,
+        "total_tokens": 28993
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\20261013T053659Z\\low-shared_source-c0003p0076\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    },
+    {
+      "job_id": "low-shared_source-c0004p0039",
+      "actual_model": "gemini-3.8-flash-low",
+      "conversation_id": "323e2c75-a3b6-40aa-bed0-724806e2403e",
+      "candidate_hash": "c16dd5bed32c59b7806ae064569f8e35c5dbf5054fb719aa31e83f2a67f83af0",
+      "contract_hash": "1aa661939988f9d316bb0d71613b5e789b4dea0035ad779a50f2cb3180b03d71",
+      "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+      "target_paragraphs": 16,
+      "usage": {
+        "input_tokens": 26839,
+        "output_tokens": 1539,
+        "thinking_tokens": 0,
+        "cache_read_tokens": 0,
+        "total_tokens": 28378
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\20261013T053659Z\\low-shared_source-c0004p0039\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    },
+    {
+      "job_id": "low-shared_source-c0103p0001",
+      "actual_model": "gemini-3.8-flash-low",
+      "conversation_id": "4a892443-e062-41c8-b254-56ba73f018b6",
+      "candidate_hash": "2ef20525a7e1b5c0dac376818eb2b0b475fab9406182a799563db8b8750a6e84",
+      "contract_hash": "361b80635722bb5216980ba36a15f9374d688403d433ecd63a7d0bd14e9ef0d8",
+      "state_hash": "cc7b2ea5bed27eb663d71e1be2ea1ca3e9865cca985636076d75f6a1180d6760",
+      "target_paragraphs": 4,
+      "usage": {
+        "input_tokens": 20375,
+        "output_tokens": 703,
+        "thinking_tokens": 0,
+        "cache_read_tokens": 0,
+        "total_tokens": 21078
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\20261013T053659Z\\low-shared_source-c0103p0001\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    },
+    {
+      "job_id": "medium-isolated-c0002p0053",
+      "actual_model": "gemini-3.8-flash-medium",
+      "conversation_id": "bb3ab0c7-7d1d-4436-a45b-6a258acc325f",
+      "candidate_hash": "cf0127f3b28e7a7f15baa9a633d9b75ac11b080aab5aad92fe1dde66f01dc3c5",
+      "contract_hash": "828abc220f71d644f48b1f28fca415987579fde8632375da624e7ec95131b858",
+      "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+      "target_paragraphs": 16,
+      "usage": {
+        "input_tokens": 35117,
+        "output_tokens": 11122,
+        "thinking_tokens": 9594,
+        "cache_read_tokens": 0,
+        "total_tokens": 46239
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\20261013T053659Z\\medium-isolated-c0002p0053\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    },
+    {
+      "job_id": "medium-isolated-c0003p0076",
+      "actual_model": "gemini-3.8-flash-medium",
+      "conversation_id": "5fbbb364-ebbd-4854-aa52-78374f0610b5",
+      "candidate_hash": "706b8a1b472091677c953f779dad04c440600587303b3f5eeec1029fb6c711d8",
+      "contract_hash": "36d73a94784a5469ac2b7259be412e2ff7fdd85828ce9445afd0a89d8ec36b35",
+      "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+      "target_paragraphs": 16,
+      "usage": {
+        "input_tokens": 35036,
+        "output_tokens": 10538,
+        "thinking_tokens": 8986,
+        "cache_read_tokens": 0,
+        "total_tokens": 45574
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\20261013T053659Z\\medium-isolated-c0003p0076\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    },
+    {
+      "job_id": "medium-isolated-c0004p0039",
+      "actual_model": "gemini-3.8-flash-medium",
+      "conversation_id": "fb76734c-6d27-4b2c-b9e9-b02308a8e3e9",
+      "candidate_hash": "b40aed91844c695de1dc0c9af4b4e8e540ea6298a125d9e5511ad5615fa60516",
+      "contract_hash": "9799546e470599256b44329d991ad88f71e1daa2a72a836c20f2b34395837b0f",
+      "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+      "target_paragraphs": 16,
+      "usage": {
+        "input_tokens": 31544,
+        "output_tokens": 7373,
+        "thinking_tokens": 5830,
+        "cache_read_tokens": 0,
+        "total_tokens": 38917
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\20261013T053659Z\\medium-isolated-c0004p0039\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    },
+    {
+      "job_id": "medium-isolated-c0103p0001",
+      "actual_model": "gemini-3.8-flash-medium",
+      "conversation_id": "12a3ae8e-b3cd-41ec-b861-a4db5fabbbf3",
+      "candidate_hash": "44155dd2e0150aafdcbd3b2c5fadf81a6c0bc5608eca8e96754056400195376e",
+      "contract_hash": "c016debdfa670d31dbc4283e869632f3220f3271ab145ce8d6c2166549ccaf48",
+      "state_hash": "cc7b2ea5bed27eb663d71e1be2ea1ca3e9865cca985636076d75f6a1180d6760",
+      "target_paragraphs": 4,
+      "usage": {
+        "input_tokens": 23293,
+        "output_tokens": 4889,
+        "thinking_tokens": 4191,
+        "cache_read_tokens": 0,
+        "total_tokens": 28182
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\20261013T053659Z\\medium-isolated-c0103p0001\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    },
+    {
+      "job_id": "medium-shared_source-c0002p0053",
+      "actual_model": "gemini-3.8-flash-medium",
+      "conversation_id": "803cbd2c-f143-4124-a213-377f5b8a2390",
+      "candidate_hash": "9d25ba423b15b25547d677f991dacc9049f448bf8a46ec03452d193175c6788f",
+      "contract_hash": "bcd136480b27118cde877476b27ec7b7331b59086a344a5ff044caf7e668cc5a",
+      "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+      "target_paragraphs": 16,
+      "usage": {
+        "input_tokens": 39026,
+        "output_tokens": 13609,
+        "thinking_tokens": 12071,
+        "cache_read_tokens": 0,
+        "total_tokens": 52635
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\20261013T053659Z\\medium-shared_source-c0002p0053\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    },
+    {
+      "job_id": "medium-shared_source-c0003p0076",
+      "actual_model": "gemini-3.8-flash-medium",
+      "conversation_id": "79a4ab62-01d0-4d02-86dd-6b10c00cc39b",
+      "candidate_hash": "f1ef675fef1b0777b4a83bad1e9b430c02ebca1a33105b96bb76ad2a29fa8156",
+      "contract_hash": "dbee1dd52f691459b6bf46528e4b8fed8d2aba4a68fcdfcb85ded50be222bfc2",
+      "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+      "target_paragraphs": 16,
+      "usage": {
+        "input_tokens": 45725,
+        "output_tokens": 19577,
+        "thinking_tokens": 18027,
+        "cache_read_tokens": 0,
+        "total_tokens": 65302
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\20261013T053659Z\\medium-shared_source-c0003p0076\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    },
+    {
+      "job_id": "medium-shared_source-c0004p0039",
+      "actual_model": "gemini-3.8-flash-medium",
+      "conversation_id": "5b82e3a0-3c98-48de-a297-2e89487bb88f",
+      "candidate_hash": "c0d5ca59a70f5e750c98bce52f2b8fdd5b6f49250ac97ac49d324eaac9d5ade3",
+      "contract_hash": "edf6db2597366cb13775782f78804cb5faefb400cfe2b53e47f98fa59580afce",
+      "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+      "target_paragraphs": 16,
+      "usage": {
+        "input_tokens": 35268,
+        "output_tokens": 9779,
+        "thinking_tokens": 8239,
+        "cache_read_tokens": 0,
+        "total_tokens": 45047
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\20261013T053659Z\\medium-shared_source-c0004p0039\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    },
+    {
+      "job_id": "medium-shared_source-c0103p0001",
+      "actual_model": "gemini-3.8-flash-medium",
+      "conversation_id": "974f809c-a75e-47a9-a1fe-f4cbb7a20ba9",
+      "candidate_hash": "c2b08894eea473060f80615c9febd17c25c0f9e55942fe749d3f17f9dba4a65d",
+      "contract_hash": "13f5453fcbd626b0ba80d842a3834463fdde0f9246514917360accbe01908355",
+      "state_hash": "cc7b2ea5bed27eb663d71e1be2ea1ca3e9865cca985636076d75f6a1180d6760",
+      "target_paragraphs": 4,
+      "usage": {
+        "input_tokens": 26267,
+        "output_tokens": 6366,
+        "thinking_tokens": 5678,
+        "cache_read_tokens": 0,
+        "total_tokens": 32633
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\20261013T053659Z\\medium-shared_source-c0103p0001\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    },
+    {
+      "job_id": "low-prevention-v2-c0002p0053",
+      "actual_model": "gemini-3.8-flash-low",
+      "conversation_id": "e885ca4a-de14-4723-8b86-8ad450f4d5fb",
+      "candidate_hash": "28d88d12592bb6dcc37323519e9c3fed53bf7f820afd7aede850c07a2ad10bfc",
+      "contract_hash": "38b3ee0f3d8b18dfc68cc745b404882ad4ad0cacbc16057804ac5c4b8fb1b122",
+      "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+      "target_paragraphs": 16,
+      "usage": {
+        "input_tokens": 38270,
+        "output_tokens": 1548,
+        "thinking_tokens": 0,
+        "cache_read_tokens": 18666,
+        "total_tokens": 39818
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\v2_20261013T055357Z\\low-prevention-v2-c0002p0053\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    },
+    {
+      "job_id": "low-prevention-v2-c0003p0076",
+      "actual_model": "gemini-3.8-flash-low",
+      "conversation_id": "5711edb6-4aad-4bac-b321-e22365ad7de0",
+      "candidate_hash": "9255cc7031a97e3d80ecf8440d9cdfd9b4a5048e751bc58898906888f4e6e49c",
+      "contract_hash": "3cf679efe50c8c9b235e5defe870bc17063f70d6b9a59995edb11e7dc65b6254",
+      "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+      "target_paragraphs": 16,
+      "usage": {
+        "input_tokens": 29722,
+        "output_tokens": 1581,
+        "thinking_tokens": 0,
+        "cache_read_tokens": 0,
+        "total_tokens": 31303
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\v2_20261013T055357Z\\low-prevention-v2-c0003p0076\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    },
+    {
+      "job_id": "low-prevention-v2-c0004p0039",
+      "actual_model": "gemini-3.8-flash-low",
+      "conversation_id": "ed151689-f1ec-4a4b-8ecd-46db279ec8d7",
+      "candidate_hash": "a62b94ec6b8184f8a0d460b61fa830bdee6a1322033bc1118173e98d2072b8c5",
+      "contract_hash": "e8720cf259d2986fa452d96db4663f1379b0998e11d6d1fcc6476c9b6e2dc7fa",
+      "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+      "target_paragraphs": 16,
+      "usage": {
+        "input_tokens": 29387,
+        "output_tokens": 1576,
+        "thinking_tokens": 0,
+        "cache_read_tokens": 0,
+        "total_tokens": 30963
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\v2_20261013T055357Z\\low-prevention-v2-c0004p0039\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    },
+    {
+      "job_id": "low-prevention-v2-c0103p0001",
+      "actual_model": "gemini-3.8-flash-low",
+      "conversation_id": "970adb8a-fdea-4f6e-866d-89f56994e93b",
+      "candidate_hash": "e1888200e5f4c2accd65303f2ac39fb03500c85b90c522f5d56b11ea327213fe",
+      "contract_hash": "204a8d7e4bd0a2ad6937292b9f6fd5dffef0305034b13f6564afb1ba122bc7da",
+      "state_hash": "cc7b2ea5bed27eb663d71e1be2ea1ca3e9865cca985636076d75f6a1180d6760",
+      "target_paragraphs": 4,
+      "usage": {
+        "input_tokens": 37525,
+        "output_tokens": 6217,
+        "thinking_tokens": 5508,
+        "cache_read_tokens": 17660,
+        "total_tokens": 43742
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\v2_20261013T055357Z\\low-prevention-v2-c0103p0001\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    },
+    {
+      "job_id": "low-v2-reserved-synthetic-scene102",
+      "actual_model": "gemini-3.8-flash-low",
+      "conversation_id": "913a9766-1dbf-4c2e-b6c4-0ae4166cd61a",
+      "candidate_hash": "d34294dc3429d7c507c68dfa114e5032d7ef9ff3cd2b9f4d57f190d0a15d80b8",
+      "contract_hash": "b0c32eddc8cb29addb88a3f47b27c4dca1cd240327a4467031878667bd89a7d8",
+      "state_hash": "cc7b2ea5bed27eb663d71e1be2ea1ca3e9865cca985636076d75f6a1180d6760",
+      "target_paragraphs": 4,
+      "usage": {
+        "input_tokens": 20866,
+        "output_tokens": 706,
+        "thinking_tokens": 0,
+        "cache_read_tokens": 0,
+        "total_tokens": 21572
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\reserved_20261013T055745Z\\low-v2-reserved-synthetic-scene102\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    },
+    {
+      "job_id": "medium-single-worker-control",
+      "actual_model": "gemini-3.8-flash-medium",
+      "conversation_id": "b860bb04-7f83-42c2-9c73-6af1107cd78f",
+      "candidate_hash": "b762843ac2ae78f267019f4284fd72db78f3ae0ff7090a6ed2acd212c4f4dd08",
+      "contract_hash": "8036537c68f460f2e516b6a7b8fb3135251d8df21b4269749181d1c1e0dbb3cc",
+      "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+      "target_paragraphs": 48,
+      "usage": {
+        "input_tokens": 54987,
+        "output_tokens": 17737,
+        "thinking_tokens": 13992,
+        "cache_read_tokens": 0,
+        "total_tokens": 72724
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\single_20261013T055603Z\\medium-single-worker-control\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    },
+    {
+      "job_id": "style-decoder-v3-low",
+      "actual_model": "gemini-3.8-flash-low",
+      "conversation_id": "2fa02cd5-2a19-4d63-86e8-0719d434f8eb",
+      "candidate_hash": "853e3fde18dba63f2e0a24bc108222c59a4bf9b02c34ed5bb8132d00b062b0a8",
+      "contract_hash": "453a453bd95a87c0fbbadb76dcba91dcd7f3c71422579ba374f26f7ba8c29451",
+      "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+      "target_paragraphs": 16,
+      "usage": {
+        "input_tokens": 38236,
+        "output_tokens": 1535,
+        "thinking_tokens": 0,
+        "cache_read_tokens": 18653,
+        "total_tokens": 39771
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\style_20261013T061041Z\\style-decoder-v3-low\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    },
+    {
+      "job_id": "style-decoder-v3-medium",
+      "actual_model": "gemini-3.8-flash-medium",
+      "conversation_id": "b9baf778-31bd-466b-9887-df53ba6a4ea6",
+      "candidate_hash": "ffbb39439e823af152e8083e3d0963048546b4f9f7f15c998fd4676da3c376b8",
+      "contract_hash": "a3a793c02abff200cef3fb5257adad0f0e813279209c4b3ea47f0a66d1ec38a7",
+      "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+      "target_paragraphs": 16,
+      "usage": {
+        "input_tokens": 42493,
+        "output_tokens": 14750,
+        "thinking_tokens": 13206,
+        "cache_read_tokens": 0,
+        "total_tokens": 57243
+      },
+      "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\style_20261013T061041Z\\style-decoder-v3-medium\\candidate.json",
+      "status": "DRAFT_COMPLETE_UNREVIEWED"
+    }
+  ],
+  "current_code_docs_sha256": {
+    "native_oauth/batch_contract.py": "be7d69355ff5148dd764fc58686f522d37f027b2719eb0041e6408befa4ff860",
+    "native_oauth/story_store.py": "90016bd7bde81a731c77861060c7cf8ed3212d908cfb53d3c1310eaf24f10d12",
+    "native_oauth/batch_policy.py": "72a9388e54647d57fb8fabd24b52aa8d192effad9b34e93bfa8700ccf3d2f225",
+    "native_oauth/batch_experiment.py": "6b46092d450a687d28905f828e42a696bed6e3ce247947ab75e8992ba3e3a05c",
+    "native_oauth/batch_source_prepass.py": "8dc7a732b7388c6d0d042ef9015ba80f1b3c92d90377c3e71a491850b6206a6f",
+    "native_oauth/prepare_batch_route.py": "bc3f66415b7a2c607f9cb7e64d2688a746eb2e749d173baa11b326aa44765959",
+    "native_oauth/batch_run.py": "8d99e6b3e0d1f571302d2ba1d17253e5ba4fc82c2ee0809c12bfa5f81e7b3a2c",
+    "native_oauth/BATCH_WORKFLOW.md": "6ea9b21607d2cc5ba220fe9322b722bcc4a2e77d425240e8bb52d09dcc5e6c2a",
+    "native_oauth/BATCH_RESULT_20261013.md": "49a7d98e49d8dded88f37949812e82cde8746fb6dde90bfec6023e7961aaa0ac",
+    "agentic_batch_translator.py": "a01604073786b44a8a319a40f37344543128fb058de2472674aaea0b9e1e3094",
+    "native_oauth/pipeline_native.py": "c683e8be008aeae9c37bf2e36569963798355400b0d8a007a73288ab8ad181e5",
+    "native_oauth/crawl_batch_sources.py": "af7537dc5e1235efb33613861021bb83674ae1e1b0fb4b083ac3381db824565f",
+    "native_oauth/prepare_batch_benchmark.py": "b0f21f0abc91a8ef2d1043da680a82224b172ffa293655334618d896671352a6",
+    "tests/test_batch_policy.py": "9eb8e6c76bf0c9b2a0f4bf59a8629ea2210ee5aebabfd33591354742820b7787"
+  },
+  "scope": "Integrity/provenance matches for24actualnativejobs; notsemanticPASS, literaryPASS, productionapproval or10000chapterproof. Currentcodehashesarefinal, notclaimedinitialrunversions; frozenjobprotocols preserved."
+}

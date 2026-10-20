@@ -1,0 +1,1028 @@
+{
+  "source_package_hash": "017c54b67117383cc608f01919da607b29376cf687e360535f892e0d977ab107",
+  "provenance": {
+    "engine": "HIT-SCIR LTP 4.2.13",
+    "model": "LTP/small",
+    "revision": "dea87bf0da3c5d054bbd426a78d7fa9efd347799",
+    "torch": "2.14.0+cpu",
+    "transformers": "4.57.6",
+    "weights_format": "safetensors",
+    "compatibility": [
+      "validated deterministic position_ids buffer omitted for Transformers 5"
+    ]
+  },
+  "limits": "Model-predicted syntax/SRL, not truth; self-authored fixture",
+  "segments": [
+    {
+      "id": "c0001p0001",
+      "source_hash": "9aecdae4e5f62f0eeb71fc06cb53c61e07737a25a6324367c4dc38b15687cd7d",
+      "cws": [
+        "李明",
+        "看",
+        "了",
+        "看",
+        "手机",
+        "里",
+        "的",
+        "短信",
+        "：",
+        "“",
+        "工资",
+        "明天",
+        "到账",
+        "，",
+        "你",
+        "别",
+        "着急",
+        "。",
+        "”"
+      ],
+      "pos": [
+        "nh",
+        "v",
+        "u",
+        "v",
+        "n",
+        "nd",
+        "u",
+        "n",
+        "wp",
+        "wp",
+        "n",
+        "nt",
+        "v",
+        "wp",
+        "r",
+        "d",
+        "a",
+        "wp",
+        "wp"
+      ],
+      "ner": [
+        [
+          "Nh",
+          "李明",
+          0,
+          0
+        ]
+      ],
+      "srl": [
+        {
+          "index": 1,
+          "predicate": "看",
+          "arguments": [
+            [
+              "A0",
+              "李明",
+              0,
+              0
+            ],
+            [
+              "A1",
+              "手机里的短信",
+              4,
+              7
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "predicate": "看",
+          "arguments": [
+            [
+              "A1",
+              "手机里的短信",
+              4,
+              7
+            ]
+          ]
+        },
+        {
+          "index": 12,
+          "predicate": "到账",
+          "arguments": [
+            [
+              "A0",
+              "工资",
+              10,
+              10
+            ],
+            [
+              "ARGM-TMP",
+              "明天",
+              11,
+              11
+            ]
+          ]
+        },
+        {
+          "index": 16,
+          "predicate": "着急",
+          "arguments": [
+            [
+              "A0",
+              "你",
+              14,
+              14
+            ],
+            [
+              "ARGM-ADV",
+              "别",
+              15,
+              15
+            ]
+          ]
+        }
+      ],
+      "sdp": {
+        "head": [
+          2,
+          0,
+          2,
+          2,
+          8,
+          5,
+          5,
+          2,
+          2,
+          13,
+          13,
+          13,
+          17,
+          13,
+          17,
+          17,
+          2,
+          17,
+          17
+        ],
+        "label": [
+          "AGT",
+          "Root",
+          "mDEPD",
+          "eCOO",
+          "LOC",
+          "mDEPD",
+          "mDEPD",
+          "CONT",
+          "mPUNC",
+          "mPUNC",
+          "EXP",
+          "TIME",
+          "ePREC",
+          "mPUNC",
+          "AGT",
+          "mNEG",
+          "eSUCC",
+          "mPUNC",
+          "mPUNC"
+        ]
+      },
+      "dep": [
+        {
+          "id": 1,
+          "word": "李明",
+          "pos": "nh",
+          "head": 2,
+          "relation": "SBV"
+        },
+        {
+          "id": 2,
+          "word": "看",
+          "pos": "v",
+          "head": 0,
+          "relation": "HED"
+        },
+        {
+          "id": 3,
+          "word": "了",
+          "pos": "u",
+          "head": 2,
+          "relation": "RAD"
+        },
+        {
+          "id": 4,
+          "word": "看",
+          "pos": "v",
+          "head": 2,
+          "relation": "COO"
+        },
+        {
+          "id": 5,
+          "word": "手机",
+          "pos": "n",
+          "head": 6,
+          "relation": "ATT"
+        },
+        {
+          "id": 6,
+          "word": "里",
+          "pos": "nd",
+          "head": 8,
+          "relation": "ATT"
+        },
+        {
+          "id": 7,
+          "word": "的",
+          "pos": "u",
+          "head": 6,
+          "relation": "RAD"
+        },
+        {
+          "id": 8,
+          "word": "短信",
+          "pos": "n",
+          "head": 4,
+          "relation": "VOB"
+        },
+        {
+          "id": 9,
+          "word": "：",
+          "pos": "wp",
+          "head": 2,
+          "relation": "WP"
+        },
+        {
+          "id": 10,
+          "word": "“",
+          "pos": "wp",
+          "head": 13,
+          "relation": "WP"
+        },
+        {
+          "id": 11,
+          "word": "工资",
+          "pos": "n",
+          "head": 13,
+          "relation": "SBV"
+        },
+        {
+          "id": 12,
+          "word": "明天",
+          "pos": "nt",
+          "head": 13,
+          "relation": "ADV"
+        },
+        {
+          "id": 13,
+          "word": "到账",
+          "pos": "v",
+          "head": 2,
+          "relation": "COO"
+        },
+        {
+          "id": 14,
+          "word": "，",
+          "pos": "wp",
+          "head": 13,
+          "relation": "WP"
+        },
+        {
+          "id": 15,
+          "word": "你",
+          "pos": "r",
+          "head": 17,
+          "relation": "SBV"
+        },
+        {
+          "id": 16,
+          "word": "别",
+          "pos": "d",
+          "head": 17,
+          "relation": "ADV"
+        },
+        {
+          "id": 17,
+          "word": "着急",
+          "pos": "a",
+          "head": 13,
+          "relation": "COO"
+        },
+        {
+          "id": 18,
+          "word": "。",
+          "pos": "wp",
+          "head": 13,
+          "relation": "WP"
+        },
+        {
+          "id": 19,
+          "word": "”",
+          "pos": "wp",
+          "head": 13,
+          "relation": "WP"
+        }
+      ]
+    },
+    {
+      "id": "c0001p0002",
+      "source_hash": "664aaf3b58b10cb97c6b79633641919f72ff83fa4052ca98660667eb48366941",
+      "cws": [
+        "“",
+        "妈",
+        "，",
+        "我",
+        "今天",
+        "加班",
+        "，",
+        "不",
+        "能",
+        "回家",
+        "吃饭",
+        "。",
+        "”",
+        "他",
+        "说",
+        "。"
+      ],
+      "pos": [
+        "wp",
+        "n",
+        "wp",
+        "r",
+        "nt",
+        "v",
+        "wp",
+        "d",
+        "v",
+        "v",
+        "v",
+        "wp",
+        "wp",
+        "r",
+        "v",
+        "wp"
+      ],
+      "ner": [],
+      "srl": [
+        {
+          "index": 5,
+          "predicate": "加班",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "妈",
+              1,
+              1
+            ],
+            [
+              "A0",
+              "我",
+              3,
+              3
+            ],
+            [
+              "ARGM-TMP",
+              "今天",
+              4,
+              4
+            ]
+          ]
+        },
+        {
+          "index": 9,
+          "predicate": "回家",
+          "arguments": [
+            [
+              "A0",
+              "我",
+              3,
+              3
+            ],
+            [
+              "ARGM-ADV",
+              "不",
+              7,
+              7
+            ]
+          ]
+        },
+        {
+          "index": 14,
+          "predicate": "说",
+          "arguments": [
+            [
+              "A0",
+              "他",
+              13,
+              13
+            ]
+          ]
+        }
+      ],
+      "sdp": {
+        "head": [
+          6,
+          6,
+          2,
+          6,
+          6,
+          15,
+          6,
+          9,
+          10,
+          6,
+          10,
+          10,
+          10,
+          15,
+          0,
+          15
+        ],
+        "label": [
+          "mPUNC",
+          "mDEPD",
+          "mPUNC",
+          "AGT",
+          "TIME",
+          "dCONT",
+          "mPUNC",
+          "mNEG",
+          "mDEPD",
+          "eSUCC",
+          "eSUCC",
+          "mPUNC",
+          "mPUNC",
+          "AGT",
+          "Root",
+          "mPUNC"
+        ]
+      },
+      "dep": [
+        {
+          "id": 1,
+          "word": "“",
+          "pos": "wp",
+          "head": 2,
+          "relation": "WP"
+        },
+        {
+          "id": 2,
+          "word": "妈",
+          "pos": "n",
+          "head": 15,
+          "relation": "FOB"
+        },
+        {
+          "id": 3,
+          "word": "，",
+          "pos": "wp",
+          "head": 2,
+          "relation": "WP"
+        },
+        {
+          "id": 4,
+          "word": "我",
+          "pos": "r",
+          "head": 6,
+          "relation": "SBV"
+        },
+        {
+          "id": 5,
+          "word": "今天",
+          "pos": "nt",
+          "head": 6,
+          "relation": "ADV"
+        },
+        {
+          "id": 6,
+          "word": "加班",
+          "pos": "v",
+          "head": 2,
+          "relation": "COO"
+        },
+        {
+          "id": 7,
+          "word": "，",
+          "pos": "wp",
+          "head": 6,
+          "relation": "WP"
+        },
+        {
+          "id": 8,
+          "word": "不",
+          "pos": "d",
+          "head": 9,
+          "relation": "ADV"
+        },
+        {
+          "id": 9,
+          "word": "能",
+          "pos": "v",
+          "head": 10,
+          "relation": "ADV"
+        },
+        {
+          "id": 10,
+          "word": "回家",
+          "pos": "v",
+          "head": 6,
+          "relation": "COO"
+        },
+        {
+          "id": 11,
+          "word": "吃饭",
+          "pos": "v",
+          "head": 10,
+          "relation": "COO"
+        },
+        {
+          "id": 12,
+          "word": "。",
+          "pos": "wp",
+          "head": 2,
+          "relation": "WP"
+        },
+        {
+          "id": 13,
+          "word": "”",
+          "pos": "wp",
+          "head": 2,
+          "relation": "WP"
+        },
+        {
+          "id": 14,
+          "word": "他",
+          "pos": "r",
+          "head": 15,
+          "relation": "SBV"
+        },
+        {
+          "id": 15,
+          "word": "说",
+          "pos": "v",
+          "head": 0,
+          "relation": "HED"
+        },
+        {
+          "id": 16,
+          "word": "。",
+          "pos": "wp",
+          "head": 15,
+          "relation": "WP"
+        }
+      ]
+    },
+    {
+      "id": "c0001p0003",
+      "source_hash": "e6eef9d5bb0b2f229e5e755527307fe5a0c639b55386067e7eafb283b394ef3f",
+      "cws": [
+        "她",
+        "没有",
+        "答应",
+        "，",
+        "只",
+        "说",
+        "需要",
+        "再",
+        "考虑",
+        "两",
+        "天",
+        "。"
+      ],
+      "pos": [
+        "r",
+        "d",
+        "v",
+        "wp",
+        "d",
+        "v",
+        "v",
+        "d",
+        "v",
+        "m",
+        "q",
+        "wp"
+      ],
+      "ner": [],
+      "srl": [
+        {
+          "index": 5,
+          "predicate": "说",
+          "arguments": [
+            [
+              "A0",
+              "她",
+              0,
+              0
+            ],
+            [
+              "ARGM-ADV",
+              "只",
+              4,
+              4
+            ],
+            [
+              "A1",
+              "需要再考虑两天",
+              6,
+              10
+            ]
+          ]
+        },
+        {
+          "index": 8,
+          "predicate": "考虑",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "再",
+              7,
+              7
+            ],
+            [
+              "ARGM-EXT",
+              "两天",
+              9,
+              10
+            ]
+          ]
+        }
+      ],
+      "sdp": {
+        "head": [
+          2,
+          0,
+          2,
+          3,
+          6,
+          2,
+          9,
+          9,
+          6,
+          11,
+          9,
+          6
+        ],
+        "label": [
+          "EXP",
+          "Root",
+          "LINK",
+          "mPUNC",
+          "mDEPD",
+          "eSUCC",
+          "mDEPD",
+          "mDEPD",
+          "dCONT",
+          "MEAS",
+          "TIME",
+          "mPUNC"
+        ]
+      },
+      "dep": [
+        {
+          "id": 1,
+          "word": "她",
+          "pos": "r",
+          "head": 2,
+          "relation": "SBV"
+        },
+        {
+          "id": 2,
+          "word": "没有",
+          "pos": "d",
+          "head": 0,
+          "relation": "HED"
+        },
+        {
+          "id": 3,
+          "word": "答应",
+          "pos": "v",
+          "head": 2,
+          "relation": "VOB"
+        },
+        {
+          "id": 4,
+          "word": "，",
+          "pos": "wp",
+          "head": 2,
+          "relation": "WP"
+        },
+        {
+          "id": 5,
+          "word": "只",
+          "pos": "d",
+          "head": 6,
+          "relation": "ADV"
+        },
+        {
+          "id": 6,
+          "word": "说",
+          "pos": "v",
+          "head": 2,
+          "relation": "COO"
+        },
+        {
+          "id": 7,
+          "word": "需要",
+          "pos": "v",
+          "head": 9,
+          "relation": "ADV"
+        },
+        {
+          "id": 8,
+          "word": "再",
+          "pos": "d",
+          "head": 9,
+          "relation": "ADV"
+        },
+        {
+          "id": 9,
+          "word": "考虑",
+          "pos": "v",
+          "head": 6,
+          "relation": "VOB"
+        },
+        {
+          "id": 10,
+          "word": "两",
+          "pos": "m",
+          "head": 11,
+          "relation": "ATT"
+        },
+        {
+          "id": 11,
+          "word": "天",
+          "pos": "q",
+          "head": 9,
+          "relation": "CMP"
+        },
+        {
+          "id": 12,
+          "word": "。",
+          "pos": "wp",
+          "head": 2,
+          "relation": "WP"
+        }
+      ]
+    },
+    {
+      "id": "c0001p0004",
+      "source_hash": "78a0bcbdf421825818938d4f1493303ec7cfb7b8f9e08eea632ecd70457653f8",
+      "cws": [
+        "张",
+        "经理",
+        "要求",
+        "库存",
+        "不",
+        "少于",
+        "900",
+        "件",
+        "，",
+        "而",
+        "不",
+        "是",
+        "多于",
+        "900",
+        "件",
+        "。"
+      ],
+      "pos": [
+        "nh",
+        "n",
+        "v",
+        "n",
+        "d",
+        "v",
+        "m",
+        "q",
+        "wp",
+        "c",
+        "d",
+        "v",
+        "v",
+        "m",
+        "q",
+        "wp"
+      ],
+      "ner": [
+        [
+          "Nh",
+          "张",
+          0,
+          0
+        ]
+      ],
+      "srl": [
+        {
+          "index": 2,
+          "predicate": "要求",
+          "arguments": [
+            [
+              "A0",
+              "张经理",
+              0,
+              1
+            ],
+            [
+              "A1",
+              "库存不少于900件，而不是多于900件",
+              3,
+              14
+            ]
+          ]
+        },
+        {
+          "index": 5,
+          "predicate": "少于",
+          "arguments": [
+            [
+              "A0",
+              "库存",
+              3,
+              3
+            ],
+            [
+              "ARGM-ADV",
+              "不",
+              4,
+              4
+            ],
+            [
+              "A1",
+              "900件",
+              6,
+              7
+            ]
+          ]
+        },
+        {
+          "index": 12,
+          "predicate": "多于",
+          "arguments": [
+            [
+              "A0",
+              "库存",
+              3,
+              3
+            ],
+            [
+              "ARGM-ADV",
+              "不",
+              10,
+              10
+            ],
+            [
+              "A1",
+              "900件",
+              13,
+              14
+            ]
+          ]
+        }
+      ],
+      "sdp": {
+        "head": [
+          2,
+          3,
+          0,
+          6,
+          6,
+          3,
+          8,
+          6,
+          6,
+          13,
+          12,
+          13,
+          6,
+          15,
+          13,
+          3
+        ],
+        "label": [
+          "FEAT",
+          "AGT",
+          "Root",
+          "EXP",
+          "mNEG",
+          "dCONT",
+          "MEAS",
+          "MEAS",
+          "mPUNC",
+          "mRELA",
+          "mNEG",
+          "mDEPD",
+          "eCOO",
+          "MEAS",
+          "DATV",
+          "mPUNC"
+        ]
+      },
+      "dep": [
+        {
+          "id": 1,
+          "word": "张",
+          "pos": "nh",
+          "head": 2,
+          "relation": "ATT"
+        },
+        {
+          "id": 2,
+          "word": "经理",
+          "pos": "n",
+          "head": 3,
+          "relation": "SBV"
+        },
+        {
+          "id": 3,
+          "word": "要求",
+          "pos": "v",
+          "head": 0,
+          "relation": "HED"
+        },
+        {
+          "id": 4,
+          "word": "库存",
+          "pos": "n",
+          "head": 6,
+          "relation": "SBV"
+        },
+        {
+          "id": 5,
+          "word": "不",
+          "pos": "d",
+          "head": 6,
+          "relation": "ADV"
+        },
+        {
+          "id": 6,
+          "word": "少于",
+          "pos": "v",
+          "head": 3,
+          "relation": "VOB"
+        },
+        {
+          "id": 7,
+          "word": "900",
+          "pos": "m",
+          "head": 8,
+          "relation": "ATT"
+        },
+        {
+          "id": 8,
+          "word": "件",
+          "pos": "q",
+          "head": 6,
+          "relation": "VOB"
+        },
+        {
+          "id": 9,
+          "word": "，",
+          "pos": "wp",
+          "head": 6,
+          "relation": "WP"
+        },
+        {
+          "id": 10,
+          "word": "而",
+          "pos": "c",
+          "head": 12,
+          "relation": "ADV"
+        },
+        {
+          "id": 11,
+          "word": "不",
+          "pos": "d",
+          "head": 12,
+          "relation": "ADV"
+        },
+        {
+          "id": 12,
+          "word": "是",
+          "pos": "v",
+          "head": 6,
+          "relation": "COO"
+        },
+        {
+          "id": 13,
+          "word": "多于",
+          "pos": "v",
+          "head": 12,
+          "relation": "VOB"
+        },
+        {
+          "id": 14,
+          "word": "900",
+          "pos": "m",
+          "head": 15,
+          "relation": "ATT"
+        },
+        {
+          "id": 15,
+          "word": "件",
+          "pos": "q",
+          "head": 13,
+          "relation": "VOB"
+        },
+        {
+          "id": 16,
+          "word": "。",
+          "pos": "wp",
+          "head": 3,
+          "relation": "WP"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "version": "semantic-gate-1",
+  "status": "PASS",
+  "package_hash": "b7a650c0b08b5e892f1e0a8ef38ea37ac6e4763892644f7ad517058faf555c2d",
+  "candidate_hash": "d469016d2ce9119ba47fb3465424ca5141abe64c6c92eced0b73b42a0aded1e5",
+  "review_hashes": [
+    "00227c3a787c21845ec7aa9dae8091e6b66d685349cf6fdc62ce6f7eb911bba6",
+    "bc8d150191123b6c2c83143c88cc9d8680367432a9a9e1639d4230ce90f24d28"
+  ],
+  "models": [
+    "native/claude-sonnet-4-6",
+    "codex/gpt-inherited",
+    "codex/gpt-inherited"
+  ],
+  "review_policy": {
+    "mode": "codex_gpt_sessions",
+    "required_sessions": [
+      "/root/gpt_semantics",
+      "/root/gpt_literary_audit"
+    ],
+    "literary_session": "/root/gpt_literary_audit",
+    "identity_note": "Same inherited GPT may be used; independence is by separate attested Codex subagent sessions, not invented model versions"
+  },
+  "findings": [],
+  "scope": "source-bound machine checks and two semantic model reviews"
+}

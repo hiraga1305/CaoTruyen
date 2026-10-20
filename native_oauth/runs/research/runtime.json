@@ -1,0 +1,37 @@
+{
+  "authentication": "cached_account; GEMINI_API_KEY unset",
+  "requested_model": "gemini-3.8-flash-high",
+  "agent": null,
+  "exit_code": 0,
+  "duration_seconds": 17.55,
+  "status": "SUCCESS",
+  "conversation_id": "d9c26a8a-987e-4bc0-95b1-8289ed872062",
+  "usage": {
+    "input_tokens": 14259,
+    "output_tokens": 1397,
+    "thinking_tokens": 1327,
+    "cache_read_tokens": 0,
+    "total_tokens": 15656
+  },
+  "result": {
+    "conversation_id": "d9c26a8a-987e-4bc0-95b1-8289ed872062",
+    "status": "SUCCESS",
+    "response": "",
+    "duration_seconds": 13.2749617,
+    "num_turns": 1,
+    "usage": {
+      "input_tokens": 14259,
+      "output_tokens": 1397,
+      "thinking_tokens": 1327,
+      "cache_read_tokens": 0,
+      "total_tokens": 15656
+    },
+    "denied_actions": [
+      {
+        "action": "command",
+        "display_name": "RunCommand"
+      }
+    ]
+  },
+  "event_count": 6
+}

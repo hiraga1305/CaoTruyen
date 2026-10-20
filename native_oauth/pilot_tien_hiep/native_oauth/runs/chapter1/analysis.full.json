@@ -1,0 +1,1054 @@
+{
+  "source_package_hash": "d5fbffe26679067f6fc4001327348978743c85631e5fc78a95ba87210e773be5",
+  "provenance": {
+    "engine": "HIT-SCIR LTP 4.2.13",
+    "model": "LTP/small",
+    "revision": "dea87bf0da3c5d054bbd426a78d7fa9efd347799",
+    "torch": "2.14.0+cpu",
+    "transformers": "4.57.6",
+    "weights_format": "safetensors",
+    "compatibility": [
+      "validated deterministic position_ids buffer omitted for Transformers 5"
+    ]
+  },
+  "limits": "Model-predicted syntax/SRL, not truth; self-authored fixture",
+  "segments": [
+    {
+      "id": "c0001p0001",
+      "source_hash": "788ee1c040540dea7be3dfe108150aadaaf88012b6f2f401768ade74f2cbfa4f",
+      "cws": [
+        "陆川",
+        "收起",
+        "飞剑",
+        "，",
+        "没有",
+        "追",
+        "杀",
+        "那",
+        "名",
+        "逃走",
+        "的",
+        "弟子",
+        "。"
+      ],
+      "pos": [
+        "nh",
+        "v",
+        "n",
+        "wp",
+        "d",
+        "v",
+        "v",
+        "r",
+        "q",
+        "v",
+        "u",
+        "n",
+        "wp"
+      ],
+      "ner": [
+        [
+          "Nh",
+          "陆川",
+          0,
+          0
+        ]
+      ],
+      "srl": [
+        {
+          "index": 1,
+          "predicate": "收起",
+          "arguments": [
+            [
+              "A0",
+              "陆川",
+              0,
+              0
+            ],
+            [
+              "A1",
+              "飞剑",
+              2,
+              2
+            ]
+          ]
+        },
+        {
+          "index": 6,
+          "predicate": "杀",
+          "arguments": [
+            [
+              "A0",
+              "陆川",
+              0,
+              0
+            ],
+            [
+              "ARGM-ADV",
+              "没有",
+              4,
+              4
+            ],
+            [
+              "A1",
+              "那名逃走的弟子",
+              7,
+              11
+            ]
+          ]
+        }
+      ],
+      "sdp": {
+        "head": [
+          2,
+          0,
+          2,
+          2,
+          6,
+          2,
+          6,
+          9,
+          12,
+          12,
+          10,
+          6,
+          6
+        ],
+        "label": [
+          "AGT",
+          "Root",
+          "CONT",
+          "mPUNC",
+          "mNEG",
+          "eSUCC",
+          "dMANN",
+          "SCO",
+          "MEAS",
+          "rAGT",
+          "mDEPD",
+          "PAT",
+          "mPUNC"
+        ]
+      },
+      "dep": [
+        {
+          "id": 1,
+          "word": "陆川",
+          "pos": "nh",
+          "head": 2,
+          "relation": "SBV"
+        },
+        {
+          "id": 2,
+          "word": "收起",
+          "pos": "v",
+          "head": 0,
+          "relation": "HED"
+        },
+        {
+          "id": 3,
+          "word": "飞剑",
+          "pos": "n",
+          "head": 2,
+          "relation": "VOB"
+        },
+        {
+          "id": 4,
+          "word": "，",
+          "pos": "wp",
+          "head": 2,
+          "relation": "WP"
+        },
+        {
+          "id": 5,
+          "word": "没有",
+          "pos": "d",
+          "head": 6,
+          "relation": "ADV"
+        },
+        {
+          "id": 6,
+          "word": "追",
+          "pos": "v",
+          "head": 2,
+          "relation": "COO"
+        },
+        {
+          "id": 7,
+          "word": "杀",
+          "pos": "v",
+          "head": 6,
+          "relation": "COO"
+        },
+        {
+          "id": 8,
+          "word": "那",
+          "pos": "r",
+          "head": 9,
+          "relation": "ATT"
+        },
+        {
+          "id": 9,
+          "word": "名",
+          "pos": "q",
+          "head": 12,
+          "relation": "ATT"
+        },
+        {
+          "id": 10,
+          "word": "逃走",
+          "pos": "v",
+          "head": 12,
+          "relation": "ATT"
+        },
+        {
+          "id": 11,
+          "word": "的",
+          "pos": "u",
+          "head": 10,
+          "relation": "RAD"
+        },
+        {
+          "id": 12,
+          "word": "弟子",
+          "pos": "n",
+          "head": 7,
+          "relation": "VOB"
+        },
+        {
+          "id": 13,
+          "word": "。",
+          "pos": "wp",
+          "head": 2,
+          "relation": "WP"
+        }
+      ]
+    },
+    {
+      "id": "c0001p0002",
+      "source_hash": "b054366e6696c818b72112cc784b10110a0d0d022e3a13b545137bbc5d523778",
+      "cws": [
+        "师父",
+        "沉默",
+        "片刻",
+        "，",
+        "道",
+        "：",
+        "“",
+        "此事",
+        "未必",
+        "与",
+        "掌门",
+        "有关",
+        "。",
+        "你",
+        "不可",
+        "妄",
+        "下结论",
+        "。",
+        "”"
+      ],
+      "pos": [
+        "n",
+        "a",
+        "m",
+        "wp",
+        "v",
+        "wp",
+        "wp",
+        "r",
+        "d",
+        "p",
+        "n",
+        "v",
+        "wp",
+        "r",
+        "v",
+        "d",
+        "v",
+        "wp",
+        "wp"
+      ],
+      "ner": [],
+      "srl": [
+        {
+          "index": 1,
+          "predicate": "沉默",
+          "arguments": [
+            [
+              "A0",
+              "师父",
+              0,
+              0
+            ],
+            [
+              "ARGM-EXT",
+              "片刻",
+              2,
+              2
+            ]
+          ]
+        },
+        {
+          "index": 4,
+          "predicate": "道",
+          "arguments": [
+            [
+              "A0",
+              "师父",
+              0,
+              0
+            ],
+            [
+              "A1",
+              "“此事未必与掌门有关。你不可妄下结论",
+              6,
+              16
+            ]
+          ]
+        },
+        {
+          "index": 11,
+          "predicate": "有关",
+          "arguments": [
+            [
+              "A0",
+              "此事",
+              7,
+              7
+            ],
+            [
+              "ARGM-ADV",
+              "未必",
+              8,
+              8
+            ],
+            [
+              "A1",
+              "与掌门",
+              9,
+              10
+            ]
+          ]
+        },
+        {
+          "index": 16,
+          "predicate": "下结论",
+          "arguments": [
+            [
+              "A0",
+              "你",
+              13,
+              13
+            ],
+            [
+              "ARGM-ADV",
+              "不可",
+              14,
+              14
+            ],
+            [
+              "ARGM-ADV",
+              "妄",
+              15,
+              15
+            ]
+          ]
+        }
+      ],
+      "sdp": {
+        "head": [
+          2,
+          0,
+          2,
+          2,
+          2,
+          5,
+          12,
+          12,
+          12,
+          11,
+          12,
+          5,
+          12,
+          17,
+          17,
+          17,
+          12,
+          17,
+          17
+        ],
+        "label": [
+          "AGT",
+          "Root",
+          "MEAS",
+          "mPUNC",
+          "eSUCC",
+          "mPUNC",
+          "mPUNC",
+          "EXP",
+          "mDEPD",
+          "mRELA",
+          "DATV",
+          "dCONT",
+          "mPUNC",
+          "AGT",
+          "mDEPD",
+          "MANN",
+          "eSUCC",
+          "mPUNC",
+          "mPUNC"
+        ]
+      },
+      "dep": [
+        {
+          "id": 1,
+          "word": "师父",
+          "pos": "n",
+          "head": 2,
+          "relation": "SBV"
+        },
+        {
+          "id": 2,
+          "word": "沉默",
+          "pos": "a",
+          "head": 0,
+          "relation": "HED"
+        },
+        {
+          "id": 3,
+          "word": "片刻",
+          "pos": "m",
+          "head": 2,
+          "relation": "CMP"
+        },
+        {
+          "id": 4,
+          "word": "，",
+          "pos": "wp",
+          "head": 2,
+          "relation": "WP"
+        },
+        {
+          "id": 5,
+          "word": "道",
+          "pos": "v",
+          "head": 2,
+          "relation": "COO"
+        },
+        {
+          "id": 6,
+          "word": "：",
+          "pos": "wp",
+          "head": 5,
+          "relation": "WP"
+        },
+        {
+          "id": 7,
+          "word": "“",
+          "pos": "wp",
+          "head": 12,
+          "relation": "WP"
+        },
+        {
+          "id": 8,
+          "word": "此事",
+          "pos": "r",
+          "head": 12,
+          "relation": "SBV"
+        },
+        {
+          "id": 9,
+          "word": "未必",
+          "pos": "d",
+          "head": 12,
+          "relation": "ADV"
+        },
+        {
+          "id": 10,
+          "word": "与",
+          "pos": "p",
+          "head": 12,
+          "relation": "ADV"
+        },
+        {
+          "id": 11,
+          "word": "掌门",
+          "pos": "n",
+          "head": 10,
+          "relation": "POB"
+        },
+        {
+          "id": 12,
+          "word": "有关",
+          "pos": "v",
+          "head": 5,
+          "relation": "VOB"
+        },
+        {
+          "id": 13,
+          "word": "。",
+          "pos": "wp",
+          "head": 12,
+          "relation": "WP"
+        },
+        {
+          "id": 14,
+          "word": "你",
+          "pos": "r",
+          "head": 17,
+          "relation": "SBV"
+        },
+        {
+          "id": 15,
+          "word": "不可",
+          "pos": "v",
+          "head": 17,
+          "relation": "ADV"
+        },
+        {
+          "id": 16,
+          "word": "妄",
+          "pos": "d",
+          "head": 17,
+          "relation": "ADV"
+        },
+        {
+          "id": 17,
+          "word": "下结论",
+          "pos": "v",
+          "head": 12,
+          "relation": "COO"
+        },
+        {
+          "id": 18,
+          "word": "。",
+          "pos": "wp",
+          "head": 12,
+          "relation": "WP"
+        },
+        {
+          "id": 19,
+          "word": "”",
+          "pos": "wp",
+          "head": 12,
+          "relation": "WP"
+        }
+      ]
+    },
+    {
+      "id": "c0001p0003",
+      "source_hash": "e2d5838c8f382963d516ec21ffda6d5d0e06bb383eaccdd8a0ea4c3c5900797f",
+      "cws": [
+        "她",
+        "在",
+        "心中",
+        "想",
+        "道",
+        "：",
+        "“",
+        "只要",
+        "再",
+        "等",
+        "三",
+        "天",
+        "，",
+        "师兄",
+        "就",
+        "会",
+        "回来",
+        "。",
+        "”"
+      ],
+      "pos": [
+        "r",
+        "p",
+        "nl",
+        "v",
+        "v",
+        "wp",
+        "wp",
+        "c",
+        "d",
+        "v",
+        "m",
+        "q",
+        "wp",
+        "n",
+        "d",
+        "v",
+        "v",
+        "wp",
+        "wp"
+      ],
+      "ner": [],
+      "srl": [
+        {
+          "index": 3,
+          "predicate": "想",
+          "arguments": [
+            [
+              "A0",
+              "她",
+              0,
+              0
+            ],
+            [
+              "A1",
+              "“只要再等三天，师兄就会回来",
+              6,
+              16
+            ]
+          ]
+        },
+        {
+          "index": 4,
+          "predicate": "道",
+          "arguments": [
+            [
+              "A1",
+              "“只要再等三天，师兄就会回来",
+              6,
+              16
+            ]
+          ]
+        },
+        {
+          "index": 9,
+          "predicate": "等",
+          "arguments": [
+            [
+              "ARGM-DIS",
+              "只要",
+              7,
+              7
+            ],
+            [
+              "ARGM-ADV",
+              "再",
+              8,
+              8
+            ],
+            [
+              "ARGM-EXT",
+              "三天",
+              10,
+              11
+            ]
+          ]
+        }
+      ],
+      "sdp": {
+        "head": [
+          4,
+          3,
+          4,
+          0,
+          4,
+          4,
+          10,
+          10,
+          10,
+          17,
+          12,
+          10,
+          10,
+          17,
+          17,
+          17,
+          4,
+          17,
+          17
+        ],
+        "label": [
+          "AGT",
+          "mRELA",
+          "LOC",
+          "Root",
+          "mDEPD",
+          "mPUNC",
+          "mPUNC",
+          "mRELA",
+          "mDEPD",
+          "ePREC",
+          "MEAS",
+          "TIME",
+          "mPUNC",
+          "AGT",
+          "mRELA",
+          "mDEPD",
+          "dCONT",
+          "mPUNC",
+          "mPUNC"
+        ]
+      },
+      "dep": [
+        {
+          "id": 1,
+          "word": "她",
+          "pos": "r",
+          "head": 4,
+          "relation": "SBV"
+        },
+        {
+          "id": 2,
+          "word": "在",
+          "pos": "p",
+          "head": 4,
+          "relation": "ADV"
+        },
+        {
+          "id": 3,
+          "word": "心中",
+          "pos": "nl",
+          "head": 2,
+          "relation": "POB"
+        },
+        {
+          "id": 4,
+          "word": "想",
+          "pos": "v",
+          "head": 0,
+          "relation": "HED"
+        },
+        {
+          "id": 5,
+          "word": "道",
+          "pos": "v",
+          "head": 4,
+          "relation": "CMP"
+        },
+        {
+          "id": 6,
+          "word": "：",
+          "pos": "wp",
+          "head": 5,
+          "relation": "WP"
+        },
+        {
+          "id": 7,
+          "word": "“",
+          "pos": "wp",
+          "head": 10,
+          "relation": "WP"
+        },
+        {
+          "id": 8,
+          "word": "只要",
+          "pos": "c",
+          "head": 10,
+          "relation": "ADV"
+        },
+        {
+          "id": 9,
+          "word": "再",
+          "pos": "d",
+          "head": 10,
+          "relation": "ADV"
+        },
+        {
+          "id": 10,
+          "word": "等",
+          "pos": "v",
+          "head": 5,
+          "relation": "VOB"
+        },
+        {
+          "id": 11,
+          "word": "三",
+          "pos": "m",
+          "head": 12,
+          "relation": "ATT"
+        },
+        {
+          "id": 12,
+          "word": "天",
+          "pos": "q",
+          "head": 10,
+          "relation": "CMP"
+        },
+        {
+          "id": 13,
+          "word": "，",
+          "pos": "wp",
+          "head": 10,
+          "relation": "WP"
+        },
+        {
+          "id": 14,
+          "word": "师兄",
+          "pos": "n",
+          "head": 17,
+          "relation": "SBV"
+        },
+        {
+          "id": 15,
+          "word": "就",
+          "pos": "d",
+          "head": 16,
+          "relation": "ADV"
+        },
+        {
+          "id": 16,
+          "word": "会",
+          "pos": "v",
+          "head": 17,
+          "relation": "ADV"
+        },
+        {
+          "id": 17,
+          "word": "回来",
+          "pos": "v",
+          "head": 10,
+          "relation": "COO"
+        },
+        {
+          "id": 18,
+          "word": "。",
+          "pos": "wp",
+          "head": 10,
+          "relation": "WP"
+        },
+        {
+          "id": 19,
+          "word": "”",
+          "pos": "wp",
+          "head": 10,
+          "relation": "WP"
+        }
+      ]
+    },
+    {
+      "id": "c0001p0004",
+      "source_hash": "14998c4da9eaa664148e43a1c595a9896d5d0514667c182ab4f092bfaf3c2bf6",
+      "cws": [
+        "他",
+        "服",
+        "下",
+        "两",
+        "枚",
+        "丹药",
+        "，",
+        "体内",
+        "的",
+        "灵气",
+        "却",
+        "并",
+        "未",
+        "增加",
+        "。"
+      ],
+      "pos": [
+        "r",
+        "v",
+        "v",
+        "m",
+        "q",
+        "n",
+        "wp",
+        "nl",
+        "u",
+        "n",
+        "d",
+        "d",
+        "d",
+        "v",
+        "wp"
+      ],
+      "ner": [],
+      "srl": [
+        {
+          "index": 1,
+          "predicate": "服",
+          "arguments": [
+            [
+              "A0",
+              "他",
+              0,
+              0
+            ],
+            [
+              "A1",
+              "两枚丹药",
+              3,
+              5
+            ]
+          ]
+        },
+        {
+          "index": 13,
+          "predicate": "增加",
+          "arguments": [
+            [
+              "A1",
+              "体内的灵气",
+              7,
+              9
+            ],
+            [
+              "ARGM-DIS",
+              "却",
+              10,
+              10
+            ],
+            [
+              "ARGM-DIS",
+              "并",
+              11,
+              11
+            ],
+            [
+              "ARGM-ADV",
+              "未",
+              12,
+              12
+            ]
+          ]
+        }
+      ],
+      "sdp": {
+        "head": [
+          2,
+          0,
+          2,
+          5,
+          6,
+          2,
+          2,
+          10,
+          8,
+          14,
+          14,
+          14,
+          14,
+          2,
+          14
+        ],
+        "label": [
+          "AGT",
+          "Root",
+          "mDEPD",
+          "MEAS",
+          "MEAS",
+          "PAT",
+          "mPUNC",
+          "LOC",
+          "mDEPD",
+          "EXP",
+          "mDEPD",
+          "mDEPD",
+          "mNEG",
+          "eSUCC",
+          "mPUNC"
+        ]
+      },
+      "dep": [
+        {
+          "id": 1,
+          "word": "他",
+          "pos": "r",
+          "head": 2,
+          "relation": "SBV"
+        },
+        {
+          "id": 2,
+          "word": "服",
+          "pos": "v",
+          "head": 0,
+          "relation": "HED"
+        },
+        {
+          "id": 3,
+          "word": "下",
+          "pos": "v",
+          "head": 2,
+          "relation": "CMP"
+        },
+        {
+          "id": 4,
+          "word": "两",
+          "pos": "m",
+          "head": 5,
+          "relation": "ATT"
+        },
+        {
+          "id": 5,
+          "word": "枚",
+          "pos": "q",
+          "head": 6,
+          "relation": "ATT"
+        },
+        {
+          "id": 6,
+          "word": "丹药",
+          "pos": "n",
+          "head": 2,
+          "relation": "VOB"
+        },
+        {
+          "id": 7,
+          "word": "，",
+          "pos": "wp",
+          "head": 2,
+          "relation": "WP"
+        },
+        {
+          "id": 8,
+          "word": "体内",
+          "pos": "nl",
+          "head": 10,
+          "relation": "ATT"
+        },
+        {
+          "id": 9,
+          "word": "的",
+          "pos": "u",
+          "head": 8,
+          "relation": "RAD"
+        },
+        {
+          "id": 10,
+          "word": "灵气",
+          "pos": "n",
+          "head": 14,
+          "relation": "SBV"
+        },
+        {
+          "id": 11,
+          "word": "却",
+          "pos": "d",
+          "head": 13,
+          "relation": "ADV"
+        },
+        {
+          "id": 12,
+          "word": "并",
+          "pos": "d",
+          "head": 13,
+          "relation": "ADV"
+        },
+        {
+          "id": 13,
+          "word": "未",
+          "pos": "d",
+          "head": 14,
+          "relation": "ADV"
+        },
+        {
+          "id": 14,
+          "word": "增加",
+          "pos": "v",
+          "head": 2,
+          "relation": "COO"
+        },
+        {
+          "id": 15,
+          "word": "。",
+          "pos": "wp",
+          "head": 2,
+          "relation": "WP"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "status": "BLOCKED",
+  "results": [
+    {
+      "status": "BLOCKED",
+      "reason": "Protocol exceeds experiment character budget; no silent truncation",
+      "runtime": {}
+    }
+  ],
+  "reported_total_tokens": 0,
+  "scheduled_jobs": 16,
+  "attempted_jobs": 1,
+  "successful_jobs": 0,
+  "usage_unknown": false,
+  "budget_type": "Between-wave usage stop; provider totals may include cached/system context; not hard realtime",
+  "topology": "Independent native custom-agent CLI workers, exact model init attested; not nested invoke_subagent"
+}

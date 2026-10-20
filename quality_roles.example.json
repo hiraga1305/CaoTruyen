@@ -1,0 +1,7 @@
+{
+  "quality_roles": {
+    "translator": {"provider": "gemini", "models": ["SET_EXPLICIT_TRANSLATOR_MODEL"]},
+    "reviewer": {"provider": "gemini", "models": ["SET_DIFFERENT_REVIEWER_MODEL"]},
+    "auditor": {"provider": "deepseek", "models": ["SET_DIFFERENT_AUDITOR_MODEL"]}
+  }
+}

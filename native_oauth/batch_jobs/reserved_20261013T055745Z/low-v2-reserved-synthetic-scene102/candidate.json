@@ -1,0 +1,29 @@
+{
+  "job_id": "low-v2-reserved-synthetic-scene102",
+  "contract_hash": "b0c32eddc8cb29addb88a3f47b27c4dca1cd240327a4467031878667bd89a7d8",
+  "state_hash": "cc7b2ea5bed27eb663d71e1be2ea1ca3e9865cca985636076d75f6a1180d6760",
+  "segments": [
+    {
+      "id": "c0102p0001",
+      "text": "Sáng hôm sau, Trần Chu tìm Trần Mặc mượn năm trăm tệ. Hai vạn tệ mà chị gái cho mượn hôm qua vẫn chưa thu hồi về."
+    },
+    {
+      "id": "c0102p0002",
+      "text": "Sau khi Trần Lam trở về xưởng thì nhận được điện thoại. Chị nghe thấy em trai ở đầu dây bên kia hỏi: “Chị, anh còn ở nhà không?”"
+    },
+    {
+      "id": "c0102p0003",
+      "text": "Sau khi tính toán sổ sách, Trần Mặc lại mượn thêm hai nghìn tệ để trả tiền thuê nhà; lời từ chối tối qua của anh chỉ nói tối nay, chứ không hề đồng ý sau này sẽ mãi mãi không mượn."
+    },
+    {
+      "id": "c0102p0004",
+      "text": "Trần Chu chuyển ba trăm kiện thuốc về lại kho, người quản lý cân từng kiện một, không có kiện nào dưới chín trăm gam."
+    }
+  ],
+  "uncertainties": [],
+  "provenance": {
+    "actual_model": "gemini-3.8-flash-low",
+    "conversation_id": "913a9766-1dbf-4c2e-b6c4-0ae4166cd61a",
+    "authentication": "OAuth cached account; API key env unset"
+  }
+}

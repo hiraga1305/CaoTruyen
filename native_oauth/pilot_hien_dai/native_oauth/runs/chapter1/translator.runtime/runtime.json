@@ -1,0 +1,32 @@
+{
+  "authentication": "cached_account; GEMINI_API_KEY unset",
+  "requested_model": "gemini-3.8-flash-low",
+  "agent": "novel-translator",
+  "exit_code": 0,
+  "workspace": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\pilot_hien_dai",
+  "duration_seconds": 11.3,
+  "status": "SUCCESS",
+  "conversation_id": "280f4a7e-13f9-4dbd-a71f-e53ceed0ba62",
+  "usage": {
+    "input_tokens": 20319,
+    "output_tokens": 509,
+    "thinking_tokens": 0,
+    "cache_read_tokens": 0,
+    "total_tokens": 20828
+  },
+  "result": {
+    "conversation_id": "280f4a7e-13f9-4dbd-a71f-e53ceed0ba62",
+    "status": "SUCCESS",
+    "response": "Artifact created successfully at:\n[draft.json](file:///I:/Softs/Antigravity/CaoTruyen/native_oauth/pilot_hien_dai/native_oauth/runs/chapter1/draft.json)\n",
+    "duration_seconds": 7.6461316,
+    "num_turns": 1,
+    "usage": {
+      "input_tokens": 20319,
+      "output_tokens": 509,
+      "thinking_tokens": 0,
+      "cache_read_tokens": 0,
+      "total_tokens": 20828
+    }
+  },
+  "event_count": 14
+}

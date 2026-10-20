@@ -1,0 +1,29 @@
+{
+  "job_id": "low-isolated-c0103p0001",
+  "contract_hash": "4cb9040d047d2781a8fb58ae3761e4e6edebdec686014ebeb9e5bbc6339e7f30",
+  "state_hash": "cc7b2ea5bed27eb663d71e1be2ea1ca3e9865cca985636076d75f6a1180d6760",
+  "segments": [
+    {
+      "id": "c0103p0001",
+      "text": "Ba tuần sau, Trần Mặc trả cho Trần Lam hai vạn tệ, người chị liền gạch bỏ khoản vay không lãi suất đó."
+    },
+    {
+      "id": "c0103p0002",
+      "text": "Trần Chu lại vẫn chưa trả năm trăm tệ mượn từ chỗ anh trai. Trần Mặc không giục cậu ta, cũng không nói là khỏi cần trả."
+    },
+    {
+      "id": "c0103p0003",
+      "text": "Trần Lam nhìn em trai nói: \"Ba trăm kiện đó là em đặt, anh chỉ giúp em khuân vác thôi, đừng ghi đơn hàng dưới tên anh ấy.\""
+    },
+    {
+      "id": "c0103p0004",
+      "text": "Trần Mặc cười nói: \"Cuối cùng cũng bớt được một món nợ.\" Nói xong, anh vẫn ghi khoản nợ tiền thuê nhà hai nghìn tệ đó vào cuốn sổ."
+    }
+  ],
+  "uncertainties": [],
+  "provenance": {
+    "actual_model": "gemini-3.8-flash-low",
+    "conversation_id": "c0360413-d1fd-4f84-9c9b-de3c109fc494",
+    "authentication": "OAuth cached account; API key env unset"
+  }
+}

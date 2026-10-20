@@ -1,0 +1,1070 @@
+{
+  "schema": "codex-blind-style-phase2-1",
+  "reviewer_session": "/root/batch_route_design",
+  "model": "codex/gpt-inherited",
+  "identity_basis": "codex_subagent",
+  "blindness": {
+    "route_model_mapping_read": false,
+    "private_worker_paths_read": false,
+    "source_code_or_gold_read": false,
+    "peer_reviews_read": false
+  },
+  "scope": "104 untouched supplied targets: diagnostic V2-X52, first-generated reserved synthetic V2-R4, single-worker CTRL-Y48. Chinese original plus prior source used; no target edited or replacement proposed.",
+  "groups": {
+    "V2-X": {
+      "coverage_count": 52,
+      "confirmed_semantic_errors": 0,
+      "major_style_errors": 1,
+      "status": "NEEDS_STYLE_AND_RISK_CALIBRATION",
+      "coverage": [
+        {
+          "id": "c0002p0053",
+          "source_hash": "9da14d70524914c34bfdc5e2cd0a705a6367350e6288c0a42fe2a606c95c0ecb",
+          "target_hash": "fd59067884ffd6809fe98ed75d7b2ca03bddab839de9ce8cdfc6e012835b36a2",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0054",
+          "source_hash": "bc29e5e6b7ae618817025b185888b70f043a9c1b380d19480d517b408542cc31",
+          "target_hash": "888f8597ee02b8291d812ff2697b31957e0577d4778a79d32506bd5b6cde0f70",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0055",
+          "source_hash": "e4dea1b6aac413bd5ece512297aec213b22b477c363c565e1778630b48f43651",
+          "target_hash": "3b1263ea9c863bfa60b864c0e2f50fc74c4ade510f8c6c4f6f6c803ab6fc065d",
+          "source_target_compared": true,
+          "semantic_observation": "UNCERTAIN",
+          "issue_indices": [
+            2
+          ]
+        },
+        {
+          "id": "c0002p0056",
+          "source_hash": "7b03bd0112f8d2db1651af15ad99b17c464819da989a444a1b4f538880a70fe7",
+          "target_hash": "f369cf4e949ba230685d19e7262923c6bbcf3d7c44896ae80e98763356f90a56",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0057",
+          "source_hash": "09f70b31734120acea38f4297f3ed639eff018a7db8ee3a44429ac5dc5632d36",
+          "target_hash": "65ac7ef230a43f253776a20df49ec86f84bd21d9acfdeb8eb3907b9e80df4a5f",
+          "source_target_compared": true,
+          "semantic_observation": "UNCERTAIN",
+          "issue_indices": [
+            1
+          ]
+        },
+        {
+          "id": "c0002p0058",
+          "source_hash": "5a0cb2b74d5bdcc2f8200e09d893803ac05cda7e385f8d2cbe5fb44e34ac8a3f",
+          "target_hash": "0f670512c3943caa5eb4aa979fb139e0f24a8bcdb60582ec4a54f550025fe054",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0059",
+          "source_hash": "e1ef819fb119bc2f4cd418f30065855991987d107861f7ababe173521c102df9",
+          "target_hash": "232f9254c82d37ae1f10a341479602b6af97c15d85bca8543ff98c37974c0a64",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0060",
+          "source_hash": "0a4eb4daac13ea0dcbede0d33c2350f80c8bc180d37328156a4a71a2caae82a3",
+          "target_hash": "8cf59b38f45960cc62ac055673f23f1a8103cc3b96296c2a0e6c7663753ce34f",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0061",
+          "source_hash": "b27d3f924416ed944b97227dd076be456c4708e26e40bc93b98c2b99a24194be",
+          "target_hash": "747c74174dda084873bc61a24ae385b6a8d7f5af296c0cdc3abb2c81a0713fc4",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0062",
+          "source_hash": "59014ec2ccb620adb9d830a9d6546655b12562a1fbded03b20c900335b7e0310",
+          "target_hash": "5316ae924d5654193f365b0701bf1fc8cf8380f7893cb07bebd1db1503c9e85a",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0063",
+          "source_hash": "b46fded68b9594defd824fb81d4abd14359560c440f6eed4974ccf3b10978d7c",
+          "target_hash": "95f31af030e96c5430d1ec2cb03a0809e96558a4dc6beb8c27d7f0c345038ba2",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0064",
+          "source_hash": "a07ad6ae970430e741ceba4917960dae0fb382aae1a05d0ae47f35e27227f3b6",
+          "target_hash": "cc0feaf532f05caf753a9ef872ed184cd82470c1d888ff9481117cbe7d1d3d06",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0065",
+          "source_hash": "0347ee5e0aef909ba5703f71a87616b74b487a1af11bb0b18707292e8f37af7b",
+          "target_hash": "b965f25e221df5624993dbbd2a999e0daa4c2840bb3a45587543164d982751dc",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0066",
+          "source_hash": "76b40c1821f4f4175338a4b36e7c2f2825b707bcc26f49ba8697a64a847999e7",
+          "target_hash": "2b63497e983dfbb1179013fcafb18613e25cec0448b99356bf6ce15ada548574",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0067",
+          "source_hash": "6c48cd1f85435288602e4dc0d13bce1d6af56ac0deb4cfd596e53a7b7a3ec298",
+          "target_hash": "1aca1a1552ed83f11a38c428fd95b369751e346eea95a2d52e54a7c80800e9b2",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0068",
+          "source_hash": "dce2a42908c71ebc3e866f203278040b641c9512940049ec8a8f73453b5ebd54",
+          "target_hash": "2f0fa085c67ae155ae8d0a6ae401566fabd54f0b27bebc15bfee69b8f0f1f5e9",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0076",
+          "source_hash": "e063fe64db85e93684eddf7ecf3fabffc36a4c067b005f657ee323d77cafcd9b",
+          "target_hash": "0d05bdb71b1d13fd32afe4a107dd1f3de9aac68ef228b7c5f3e5536e76c381a0",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": [
+            5
+          ]
+        },
+        {
+          "id": "c0003p0077",
+          "source_hash": "0106b99198171f985d1814305c6dc880d69b1294eeb400a237e91e0dc150d8fe",
+          "target_hash": "d2a4ecb3da3c39c8d8dca89a5c43387bba270b05a4ca9048f7590712226d8020",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0078",
+          "source_hash": "a2a98236fa425cf8167a6f84ecedcbe0137a975020d9d55072dbc849e1773ef7",
+          "target_hash": "9592965dd8034ea7c688c336f07e7a2a56e4966142286a9b8a8b77b47af457be",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0079",
+          "source_hash": "7b427feafeef4fcba010c1aa27b38991dd5b4936af96b5944a11409581b188fc",
+          "target_hash": "665e149413badd1b9831b6bc330bd0f5f5f64543dbee98bb71c80659d411be54",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0080",
+          "source_hash": "eef1843ab64499f0e974f367aeac7e31137741a0cd694b921e46f91eb9e13ccc",
+          "target_hash": "e07800414f0e0d437fa071768cddb6af7b7e535fd3d9bebe9d75333cc1799f71",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0081",
+          "source_hash": "bedfa892fc2ecfde86d37e2df299b0f3c48a286b382a7ee294e37645e922b469",
+          "target_hash": "3f9113c24e66ab787c6c1fad7f96e2aee85fd94e1b29d45943e892c693aed82a",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": [
+            0
+          ]
+        },
+        {
+          "id": "c0003p0082",
+          "source_hash": "77d7994778e4a514af188b2479a91039120a1f9501dd938456341fa131eda4d1",
+          "target_hash": "b9cf58ffe96b8f23b3bc0740e64860f2b9ee13a22d08e21d6c7607f23125c0d4",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0083",
+          "source_hash": "7521faafcb422be94a1a3ee3296b7384ec80c061ff3f3aff3fc7838e4c198afc",
+          "target_hash": "c46129c04f09aea78c6a5facacbd478f8779f9bc70a70ee6c5bc2cd509c0fe05",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": [
+            3
+          ]
+        },
+        {
+          "id": "c0003p0084",
+          "source_hash": "55a4daf9132ff2a4e0ac7dd055c4d4c43d2680878b61e8e072cc7728b2816c3f",
+          "target_hash": "868166d54e24bb3990f5bff670cfd3164c55c4cc2704e8e57b418b361f9ecdce",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0085",
+          "source_hash": "d94eac3324c7308d6402411dc08a75a832f03ffe4c15052c208d940d5a189a9a",
+          "target_hash": "08bfd00dd95c5fed6cd0b3f6878ec03d0cee6b488ae75a59d5febb604022c006",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0086",
+          "source_hash": "c150a5f789801d43c99a590c41bf11dfc1fafb43a4ba82f51e35a2d2ee4e3e84",
+          "target_hash": "6e223322b6a09aa52dd33b3d4340a0b8db75693debbf233f5a017855902ee03a",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0087",
+          "source_hash": "affa9a70ee2e012b29236782fb7d2ff41f0bf8b15ad43a43461bea2bd774628d",
+          "target_hash": "4b2b90c1fed1f0fe00996517136ab8816e2573019e3a4569bbbe6511b0e607c7",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0088",
+          "source_hash": "9c3a092e958f108511e5060a97d1a8b07cbd81d47dfdb60893ecdd67498c4a4e",
+          "target_hash": "c728fb033a57324457f242e16cb02f6871355f3b2fcd8039c9ff80432d82d63e",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0089",
+          "source_hash": "548f2504099b47038b4d74135eb6bc5ca0f943c76db06e20f87e56db1e7eeb06",
+          "target_hash": "775d945e1f64f5d834c063aa4a1d0e0920c27a4df04c2d93477b093f41e1a8c4",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0090",
+          "source_hash": "b624c3e149b59ae3ed613921fbaa3762576e22ba1f00fedc93c571bf5ad85cfa",
+          "target_hash": "c5443fa658f29986824f46017a2f45c78fc8ced9a46b72416b6b12dee3a82f9e",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0091",
+          "source_hash": "5ce75daecdd3576d14e6b870962a617c48e8552d0a4d02b1abfa8d5bf91a2fd6",
+          "target_hash": "1754a3d18345612506d5a93d03b848c6d64610b9fb6bc4adcea88f5d60b7e2d6",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0039",
+          "source_hash": "f91968f3a92e3e3d7f18dedcf5ed55b215ad1a6b9e8ef8db3bf14e8eced03ac7",
+          "target_hash": "554272688529ac4a3013f5aacd559cfcc939796d2bbda901c5ea29de37e588df",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0040",
+          "source_hash": "cda8c351003e8780e74b33e5666af08c1917222a20cfa5bd276e91fadc634a22",
+          "target_hash": "7af800b3c7aae5401f6d8d6db95cced1e475d9fb066ee8c652bb991b884de498",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0041",
+          "source_hash": "2a039c865700af7a708f13ce44681631fa6f0b2b8dee1a19a0bef28fc86ca99f",
+          "target_hash": "a8df0f56efc0964dcda458da2bb1eae7c5de412af6604b9b9c8f963252d3818f",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0042",
+          "source_hash": "7bf5637f80f63d5ca02aa1003450226297f3520f04e21b1f71231a6e11d77e27",
+          "target_hash": "664c880d2f2bd11afcbe41bf09456a0c3a55e12ec06c6c862a2af05622cf2c9b",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0043",
+          "source_hash": "fee778baffb68cd55472aa7f7a87df4b7931be3fd779c19d284fddcbd9885381",
+          "target_hash": "71715816f0152f6f34fb72bd4c8f35466bbd7453f3194c32c7c877abc9a7c2e2",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0044",
+          "source_hash": "4e24576cce5df9c6911851dd025ef829f623c30ec201f5bd62f7892433639ec6",
+          "target_hash": "18982d71ec7838fec4bb5bc1a7c6bcdfeed667835c196fba41b0e7642585f88b",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0045",
+          "source_hash": "99c012d29fa6a8b8a4327dbf7299f2eea70969ad0b97f2c7f5fa2f9b8bca9b37",
+          "target_hash": "7b311a12c44747ef291ae8207283eec0634872494c7b24719623a80c2b3b7619",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0046",
+          "source_hash": "53e97fadeeff2e75b4bcd0183c9a45a0515492b466e3298295c7ba4c25e7b905",
+          "target_hash": "af99562919de4d6c11041a803719ea8af83d0e555604eb40ba24d1fd83e6068f",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0047",
+          "source_hash": "04048102583372a62695c5cd6ccd289e6d3685c428f17f17daf44b66332281af",
+          "target_hash": "925f1566587f4d865c887b0516d0a6877cf23fcca35177e3773efce4f4254c1d",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": [
+            4
+          ]
+        },
+        {
+          "id": "c0004p0048",
+          "source_hash": "f5b8b94624616528e9efb9daaee56a1ee6cdb3b03492c763c60381858ac255ec",
+          "target_hash": "639efe138c9815857a92fa4b9a5ec3060d91ae567b8c9e17d219a8b49eef54c6",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0049",
+          "source_hash": "7f7b5384c17bef89447031902bd42878ff6486b4b6657179badc08a7101fe7b5",
+          "target_hash": "59393fe23fa9decd037a563113e34ee7d1ff862aa7786db2e16f70b751e0b59d",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0050",
+          "source_hash": "1c8b2a7a147141bf7bef6710e14fed7d34064b239d7d46a0930ca6d41e4b2d5f",
+          "target_hash": "9ac10b6bcabf24a5d61d4450855e95ca3653c29c3c492655fd3a82e544c6754c",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0051",
+          "source_hash": "2ccca1b2545e621ce9f5fe5e0b89065e3aff88b49938e53792839cf2103ec8eb",
+          "target_hash": "08908e7a3c8228aff746a3a3cb39ef17c694efd28fe01c62a56b92bbd19bb082",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0052",
+          "source_hash": "74745dbfddc2143acd1899cfc290ce46155c3a9d8b8b51e171e5324aef4452c9",
+          "target_hash": "95d0e42ce2154ef5a48ddaa23619647036328cfc5216b49882af3ebaa8a20338",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0053",
+          "source_hash": "40f7846f7242eb7b43a2a752102d75dcacdcd160ee629e93acae88065160941c",
+          "target_hash": "5eb2af2a40bb1909f434d7500946354ffb98ec7242865ce3c6932258b0ecbb7a",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0054",
+          "source_hash": "42450e3227ebd61b8720a2f75d4087685c468627c45a98f90fb5b766c2a42083",
+          "target_hash": "64f907a37e65ec94b00dc4fad96ec3c4aaccb12de0e47753925ffdc2666f2628",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0103p0001",
+          "source_hash": "5d6e6dfb116e001aaeec3f344f3af46b28b22dd64804f2948838c539ccd76ccc",
+          "target_hash": "29ff4b7f23b0b291e2fe68566a7faba17d8bddd0b4f7e2c8cfa3b484fe0234b2",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0103p0002",
+          "source_hash": "2dfa502db9928af8ce3b9b482c7ce5e183b85e0a04679f84693c8d33ff769384",
+          "target_hash": "fbd5c0dc9e45110dd7b079e0ed17bdf1a11aacfc9dbd135890790494e57959a9",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0103p0003",
+          "source_hash": "945950c9f465caf1332f7477ce039277dc1c54c72b843697164845912fd7d0c9",
+          "target_hash": "053fe86c3ed3b7f10cae73f04620880c3b6f3e843f06cbe36ce887d089b67fb1",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0103p0004",
+          "source_hash": "b4761a2d6a10b32d77b17ba8dd94c49604d0fac1ae17f280dec65bd83ded6861",
+          "target_hash": "7c7b67c491c849683f84d4fe6ae254f5593d2680968a2761639574b519678ac6",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        }
+      ],
+      "errors_and_notes": [
+        {
+          "id": "c0003p0081",
+          "source_quote": "周天翊不以为然道",
+          "target_quote": "Chu Thiên Dực không cho là đúng nói",
+          "type": "syntactic_calque_and_pragmatic_ambiguity",
+          "severity": "major_style",
+          "certainty": "confirmed_style",
+          "semantic_fail": false,
+          "reason": "Cụm kể thái độ thiếu cấu trúc Việt tự nhiên, đối tượng không cho là đúng bị bỏ ngỏ. Trong cảnh bạn hỏi vì sao giáo viên chưa bị xử lý, người nói tiếp tục giải thích bảo trợ/lợi ích. Cần làm rõ thái độ trong decoding; không tự kết luận đảo nghĩa chắc chắn vì nguồn cũng dùng thành ngữ có thể đa nghĩa theo văn cảnh."
+        },
+        {
+          "id": "c0002p0057",
+          "source_quote": "对方是自己上线",
+          "target_quote": "đối phương là cấp trên của cậu",
+          "type": "lending_network_role_ambiguity",
+          "severity": "moderate",
+          "certainty": "semantic_uncertainty",
+          "semantic_fail": false,
+          "reason": "Nguồn gắn 上线 với bạn cùng lớp chào mời khoản vay. Cấp trên dễ được hiểu thành quyền hạn nhà trường/công việc, thay vì vai mạng giới thiệu vay; quan hệ tài chính chưa được xác định rõ. Không khẳng định mọi cách đọc cấp trên đều là boss công việc."
+        },
+        {
+          "id": "c0002p0055",
+          "source_quote": "小贷",
+          "target_quote": "khoản vay tiêu dùng vi mô",
+          "type": "loan_category_specificity",
+          "severity": "moderate",
+          "certainty": "semantic_uncertainty",
+          "semantic_fail": false,
+          "reason": "Nguồn không tự xác nhận loại sản phẩm tiêu dùng hay mô hình vi mô; bản Việt gộp cả hai phân loại. Cần hồ sơ thuật ngữ có bằng chứng, tránh thêm mục đích vay từ suy luận bối cảnh."
+        },
+        {
+          "id": "c0003p0083",
+          "source_quote": "告诫",
+          "target_quote": "cảnh cáo",
+          "type": "friendly_warning_register",
+          "severity": "minor_style",
+          "certainty": "confirmed_style",
+          "semantic_fail": false,
+          "reason": "Giọng cảnh cáo khá nặng so với người bạn chân thành sau đó đề nghị cho vay/cho dùng thuốc. Đây là vấn đề register, không chứng minh đổi ai đe dọa ai."
+        },
+        {
+          "id": "c0004p0047",
+          "source_quote": "硬着头皮撸小贷也要修仙",
+          "target_quote": "bấm bụng đi vay các khoản vay nhỏ cũng phải tu tiên",
+          "type": "awkward_finance_coordination",
+          "severity": "minor_style",
+          "certainty": "confirmed_style",
+          "semantic_fail": false,
+          "reason": "Động tác vay và rollover giữ đúng, nhưng phối hợp cũng phải tu tiên vẫn mang cú pháp nguồn. Ít nghiêm trọng hơn cụm vơ vét/quỵt nợ của các bản cũ."
+        },
+        {
+          "id": "c0003p0076",
+          "source_quote": "周天翊说道",
+          "target_quote": "Chu Thiên Dực nói: \"",
+          "type": "dialogue_punctuation_seam",
+          "severity": "minor_style",
+          "certainty": "confirmed_style",
+          "semantic_fail": false,
+          "reason": "Đoạn cảnh chương 3 dùng dấu thoại thẳng trong khi các cảnh chương 2/4 dùng dấu cong. Không mất nghĩa, nhưng hợp đồng định dạng xuyên batch chưa đồng nhất."
+        }
+      ],
+      "boundary_notes": [
+        "Loan already overdue nearly a month is explicit; BaiZhenZhen remains female classmate and comic father appeal, not literal parentage.",
+        "ChuTianYi speaks, warns about WangHai and offers help; original-body drug overload and seventy-wan debt retained; cau narrative remains stable.",
+        "Mother/father do not answer, elder sister coldly refuses ongoing support but sends500; friend500 plus sister500 brings balance above1000.",
+        "Synthetic103:20000 repaid to sister removed, younger brother500 remains due/no waiver, rent2000 remains recorded, 300items are ordered by younger brother not the elder helper."
+      ]
+    },
+    "V2-R": {
+      "coverage_count": 4,
+      "confirmed_semantic_errors": 0,
+      "major_style_errors": 0,
+      "status": "NEEDS_STYLE_AND_RISK_CALIBRATION",
+      "coverage": [
+        {
+          "id": "c0102p0001",
+          "source_hash": "72ac96c3dd1de5fc9da8003627ccb52f5d765d201c222f20625762e6f5f065ab",
+          "target_hash": "13e9be53151cfd4e31e2823060577e9207ec9cd95781cdc9ff2cb1433e3dbf9c",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0102p0002",
+          "source_hash": "eb9445dec8e4332a2f84719b6a84b19baf06c017e5bb83823cda1dc1e8b90001",
+          "target_hash": "94ea470713e3ca4db6d5b7ed39f8b471914a26eb1a95966fc68f49deb5f9aeae",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0102p0003",
+          "source_hash": "d2aca2ab960df751ef51ba889fe8a972d360902fc41ca6aa26f01346e7687db0",
+          "target_hash": "5c19a7497ca6a53bc47f8caf636a8f9f0ba8969c521e3a464dd5d165c6f8eafc",
+          "source_target_compared": true,
+          "semantic_observation": "UNCERTAIN",
+          "issue_indices": [
+            0,
+            2
+          ]
+        },
+        {
+          "id": "c0102p0004",
+          "source_hash": "85c880d90f61802ff26fb06f70beb45ab5a0958dddbf50d741be01ecd204e2d1",
+          "target_hash": "89cb70b0ee87ec222d8fb11aac0854d16967283b15db53780dd9462006461f09",
+          "source_target_compared": true,
+          "semantic_observation": "UNCERTAIN",
+          "issue_indices": [
+            1
+          ]
+        }
+      ],
+      "errors_and_notes": [
+        {
+          "id": "c0102p0003",
+          "source_quote": "他昨晚的拒绝只说了今晚",
+          "target_quote": "lời từ chối tối qua của anh chỉ nói tối nay",
+          "type": "speech_time_indexical_ambiguity",
+          "severity": "moderate",
+          "certainty": "semantic_uncertainty",
+          "semantic_fail": false,
+          "reason": "Chỉ xuất tối nay cần neo vào thời điểm lời từ chối ở tối hôm trước. Bản Việt đặt tối qua và tối nay cạnh nhau mà không đánh dấu trích lời, dễ làm lệch phạm vi một đêm. Nguồn cũng giữ chữ 今晚 của lời nói; vì vậy đây là ambiguity cần kiểm tra, không tự coi thành đảo ngày chắc chắn."
+        },
+        {
+          "id": "c0102p0004",
+          "source_quote": "三百件药",
+          "target_quote": "ba trăm kiện thuốc",
+          "type": "unit_specificity_risk",
+          "severity": "moderate",
+          "certainty": "semantic_uncertainty",
+          "semantic_fail": false,
+          "reason": "件 là lượng từ cho món/đơn vị, nguồn không xác nhận đóng thành kiện. Kiện thêm cách đóng gói; chín trăm gam và không dưới vẫn giữ đúng. Đây là bất định đơn vị, không phép đổi số đã chứng minh sai."
+        },
+        {
+          "id": "c0102p0003",
+          "source_quote": "并没有答应以后永远不借",
+          "target_quote": "không hề đồng ý sau này sẽ mãi mãi không mượn",
+          "type": "promise_scope_collocation",
+          "severity": "minor_style",
+          "certainty": "confirmed_style",
+          "semantic_fail": false,
+          "reason": "Lời phủ định hứa vĩnh viễn không vay giữ phạm vi mở cho các khoản vay sau, nhưng cách ghép đồng ý và mãi mãi khá cứng trong tiếng Việt."
+        }
+      ],
+      "boundary_notes": [
+        "Younger brother borrows500 from middle brother; elder sister previous20000 still outstanding.",
+        "Older sister receives call after returning to factory; younger caller asks about older brother; no actor reversal identified.",
+        "Middle brother takes another2000 rent loan; last-night refusal is not a perpetual no-borrow promise.",
+        "300medicine units weighed individually; threshold no lower than900g preserved, packaging unspecified."
+      ]
+    },
+    "CTRL-Y": {
+      "coverage_count": 48,
+      "confirmed_semantic_errors": 0,
+      "major_style_errors": 2,
+      "status": "NEEDS_STYLE_AND_RISK_CALIBRATION",
+      "coverage": [
+        {
+          "id": "c0002p0053",
+          "source_hash": "9da14d70524914c34bfdc5e2cd0a705a6367350e6288c0a42fe2a606c95c0ecb",
+          "target_hash": "10afd6b485a49c923986d81b9d18e9d504de67bfd5018d8b1a62123e84037023",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0054",
+          "source_hash": "bc29e5e6b7ae618817025b185888b70f043a9c1b380d19480d517b408542cc31",
+          "target_hash": "33d641e49fa2cdcff3b6e2bbdc20186454f64a4947f6f48eabad5a22be5f46e5",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0055",
+          "source_hash": "e4dea1b6aac413bd5ece512297aec213b22b477c363c565e1778630b48f43651",
+          "target_hash": "109754dc9e3c3a67406798225527a3dbd7ea246f51c7c181cc00ed1f5b75fc04",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0056",
+          "source_hash": "7b03bd0112f8d2db1651af15ad99b17c464819da989a444a1b4f538880a70fe7",
+          "target_hash": "95f1f7b7d0e5195d268f77dff8ea546b6804c04e016508a626e76d2ad20f20c8",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0057",
+          "source_hash": "09f70b31734120acea38f4297f3ed639eff018a7db8ee3a44429ac5dc5632d36",
+          "target_hash": "da17b0f568766c1b1330b82259ab4a6ba22b21b7f96fd3e5120c3404050db874",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0058",
+          "source_hash": "5a0cb2b74d5bdcc2f8200e09d893803ac05cda7e385f8d2cbe5fb44e34ac8a3f",
+          "target_hash": "b6d089b0a7e449f955eedc9a85c19dbf028f7f87e5d5c31747d5589f6e14bc70",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0059",
+          "source_hash": "e1ef819fb119bc2f4cd418f30065855991987d107861f7ababe173521c102df9",
+          "target_hash": "27f0d01ffb678fa6752a91be8e472308dc32433deee7083049413a01bbd0c261",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0060",
+          "source_hash": "0a4eb4daac13ea0dcbede0d33c2350f80c8bc180d37328156a4a71a2caae82a3",
+          "target_hash": "6f9ee88ec041e76179f8c854293c57896458b18abb895a658d1571fe624a675a",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0061",
+          "source_hash": "b27d3f924416ed944b97227dd076be456c4708e26e40bc93b98c2b99a24194be",
+          "target_hash": "3d52b75f6a6557b9b14cb70d425fa44030cefa88c823fec6085d1096f7b910eb",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0062",
+          "source_hash": "59014ec2ccb620adb9d830a9d6546655b12562a1fbded03b20c900335b7e0310",
+          "target_hash": "98e9587e4ec5ac0b3cb8e5b6eaceefb394b541d528055bf9c1016121deea2acd",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0063",
+          "source_hash": "b46fded68b9594defd824fb81d4abd14359560c440f6eed4974ccf3b10978d7c",
+          "target_hash": "55de15455f3f0b5f117adac9606ca3eb975a2a9ff32a3424112340499532c8d1",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0064",
+          "source_hash": "a07ad6ae970430e741ceba4917960dae0fb382aae1a05d0ae47f35e27227f3b6",
+          "target_hash": "19cd804d7048bc1a323a8887b8f9d2e1a51002964dd771546a4bd897bf544f33",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0065",
+          "source_hash": "0347ee5e0aef909ba5703f71a87616b74b487a1af11bb0b18707292e8f37af7b",
+          "target_hash": "70f474184d121d1b94608c2786281ef84439dc36202be181100ac62a8021bb85",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0066",
+          "source_hash": "76b40c1821f4f4175338a4b36e7c2f2825b707bcc26f49ba8697a64a847999e7",
+          "target_hash": "167e3f952a1400bec965ad5baa0365a6fa237d8590d6b35c1fddbd0205566994",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0067",
+          "source_hash": "6c48cd1f85435288602e4dc0d13bce1d6af56ac0deb4cfd596e53a7b7a3ec298",
+          "target_hash": "0f3b7950087c964e99be35126e9568976a3c335a498f7a0f12bfd7a272a1d830",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0002p0068",
+          "source_hash": "dce2a42908c71ebc3e866f203278040b641c9512940049ec8a8f73453b5ebd54",
+          "target_hash": "f6dc9f3ee84fb97baeba265788687f55f406d69bce77360df0fff3dc796fa886",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0076",
+          "source_hash": "e063fe64db85e93684eddf7ecf3fabffc36a4c067b005f657ee323d77cafcd9b",
+          "target_hash": "d3c1b4a4802d2e7cc25af66c86c031afc1a0ff09dfdad2767c7d95919ca4dcba",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": [
+            3
+          ]
+        },
+        {
+          "id": "c0003p0077",
+          "source_hash": "0106b99198171f985d1814305c6dc880d69b1294eeb400a237e91e0dc150d8fe",
+          "target_hash": "97d39d462ef432ca4a5f8ff252d9f266e5a5413d66aa3b259b27558c2dc263d4",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0078",
+          "source_hash": "a2a98236fa425cf8167a6f84ecedcbe0137a975020d9d55072dbc849e1773ef7",
+          "target_hash": "69c25b5484db7769130c7ec2021d987ba4e249be9ce3738312323a56c11ba936",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0079",
+          "source_hash": "7b427feafeef4fcba010c1aa27b38991dd5b4936af96b5944a11409581b188fc",
+          "target_hash": "e108807c596bea227cf39a8d90a71ef8921b2eb624490113bc3f264c1ad34b1f",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0080",
+          "source_hash": "eef1843ab64499f0e974f367aeac7e31137741a0cd694b921e46f91eb9e13ccc",
+          "target_hash": "a293a3f0ac290608947dbbdc1586197bf28e080ef97bad81c802f054d41e315d",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0081",
+          "source_hash": "bedfa892fc2ecfde86d37e2df299b0f3c48a286b382a7ee294e37645e922b469",
+          "target_hash": "ae7425aef84121c8129f21f8bb5b4aab9b3f960ff52baac4b8f96153b907990f",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": [
+            0
+          ]
+        },
+        {
+          "id": "c0003p0082",
+          "source_hash": "77d7994778e4a514af188b2479a91039120a1f9501dd938456341fa131eda4d1",
+          "target_hash": "b1b5278be99014214dea74d9eb60d23eabe3986a581a96b7faed08988d2edea0",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0083",
+          "source_hash": "7521faafcb422be94a1a3ee3296b7384ec80c061ff3f3aff3fc7838e4c198afc",
+          "target_hash": "80c41602eede8b4dcff63e84ec81318090f5f2b21e32d6ebb072bd8b30db5b6a",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0084",
+          "source_hash": "55a4daf9132ff2a4e0ac7dd055c4d4c43d2680878b61e8e072cc7728b2816c3f",
+          "target_hash": "128d1feb4ebaae4d994b6e5008876d83efe0147864103cdfc9e803989a0daba7",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0085",
+          "source_hash": "d94eac3324c7308d6402411dc08a75a832f03ffe4c15052c208d940d5a189a9a",
+          "target_hash": "ef1889a071ac4a3c07b343e544f0eb787a5031bcf671ba87eed84d1cc50d9fa1",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0086",
+          "source_hash": "c150a5f789801d43c99a590c41bf11dfc1fafb43a4ba82f51e35a2d2ee4e3e84",
+          "target_hash": "573b23366f4682c0bd18b8b704c57211ef0b611ba7622eaf4ab58d4d57be42e5",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0087",
+          "source_hash": "affa9a70ee2e012b29236782fb7d2ff41f0bf8b15ad43a43461bea2bd774628d",
+          "target_hash": "3581629e3e307578a0f9d203bdd61808324c9df72d91acf482b67eb0b64035ac",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0088",
+          "source_hash": "9c3a092e958f108511e5060a97d1a8b07cbd81d47dfdb60893ecdd67498c4a4e",
+          "target_hash": "cba1cbabdd00d11de0e1f552ea59ece88a945c0151e89b1110b9feedfbf90633",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0089",
+          "source_hash": "548f2504099b47038b4d74135eb6bc5ca0f943c76db06e20f87e56db1e7eeb06",
+          "target_hash": "083c6bb8bc7e6bafe2bc398bf991e596fa4426923021c2663bb39c7ee186f325",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": [
+            2
+          ]
+        },
+        {
+          "id": "c0003p0090",
+          "source_hash": "b624c3e149b59ae3ed613921fbaa3762576e22ba1f00fedc93c571bf5ad85cfa",
+          "target_hash": "c805b26f4ad81bd2f2e5340ea462e6a6b07d30f64cb89a205a8ccb2641809144",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0003p0091",
+          "source_hash": "5ce75daecdd3576d14e6b870962a617c48e8552d0a4d02b1abfa8d5bf91a2fd6",
+          "target_hash": "10a62e76e087f3c7910a1f66809a88201597e6b6768860203b87bd53e4f0a17d",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0039",
+          "source_hash": "f91968f3a92e3e3d7f18dedcf5ed55b215ad1a6b9e8ef8db3bf14e8eced03ac7",
+          "target_hash": "1da3eecb2283ff36845835ec698f89f15c81f3056adba93b199008b4b8606c0b",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0040",
+          "source_hash": "cda8c351003e8780e74b33e5666af08c1917222a20cfa5bd276e91fadc634a22",
+          "target_hash": "ea66c653382fe561471c5894f5a8f0e7de00febae3ad254009520667e2c6b434",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0041",
+          "source_hash": "2a039c865700af7a708f13ce44681631fa6f0b2b8dee1a19a0bef28fc86ca99f",
+          "target_hash": "497df1d9b25bc165808b218405c8508a697ed19a3493808e723b3cf8483597d9",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0042",
+          "source_hash": "7bf5637f80f63d5ca02aa1003450226297f3520f04e21b1f71231a6e11d77e27",
+          "target_hash": "1c13db48b2f6dbb6ec10765072a14f05ebcc62cf7811514a476ca63a1aa4d338",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0043",
+          "source_hash": "fee778baffb68cd55472aa7f7a87df4b7931be3fd779c19d284fddcbd9885381",
+          "target_hash": "dee1928f7163e625ed17911e863d37f5451ae25ab5c9e35280a9b87d1257a1cf",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0044",
+          "source_hash": "4e24576cce5df9c6911851dd025ef829f623c30ec201f5bd62f7892433639ec6",
+          "target_hash": "ea76189dc5ef3822439cfd780c9e9b73f043ee3b557159342d1b55ddd9474b5d",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0045",
+          "source_hash": "99c012d29fa6a8b8a4327dbf7299f2eea70969ad0b97f2c7f5fa2f9b8bca9b37",
+          "target_hash": "3494cd04232c481f4e34c2204b7b0cd5f96ec76bfe585acef0f2125b754e9969",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0046",
+          "source_hash": "53e97fadeeff2e75b4bcd0183c9a45a0515492b466e3298295c7ba4c25e7b905",
+          "target_hash": "62fc382147b9d66b7aa6e986ab4713e97bb7bfd2ef4fedfb848856742888e331",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0047",
+          "source_hash": "04048102583372a62695c5cd6ccd289e6d3685c428f17f17daf44b66332281af",
+          "target_hash": "dc4269fd93fa4180d68cda5015e04fafd6232d8b6698d37de2f0528aa488511d",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": [
+            1
+          ]
+        },
+        {
+          "id": "c0004p0048",
+          "source_hash": "f5b8b94624616528e9efb9daaee56a1ee6cdb3b03492c763c60381858ac255ec",
+          "target_hash": "566e79c8a1e31b265f6497b25cf7c5d3f110038994650300cd720d40d58d0d62",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0049",
+          "source_hash": "7f7b5384c17bef89447031902bd42878ff6486b4b6657179badc08a7101fe7b5",
+          "target_hash": "c6356c60cee4c2eb19aede910921f814d2124f2e3769fc948ca05c8a9a56ae42",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0050",
+          "source_hash": "1c8b2a7a147141bf7bef6710e14fed7d34064b239d7d46a0930ca6d41e4b2d5f",
+          "target_hash": "d217f47fa3bdbba134688a2300e1eda9d1d98cf739e410b0599f9d082653b807",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0051",
+          "source_hash": "2ccca1b2545e621ce9f5fe5e0b89065e3aff88b49938e53792839cf2103ec8eb",
+          "target_hash": "e51d9ee53cbe160a4b0129dd9dc954d581794977c929069fe5d5141169b3e61e",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0052",
+          "source_hash": "74745dbfddc2143acd1899cfc290ce46155c3a9d8b8b51e171e5324aef4452c9",
+          "target_hash": "71bc247a9e8fc1f2c0d745f8df551479d478f79a0e2a13d29063381a327a302f",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0053",
+          "source_hash": "40f7846f7242eb7b43a2a752102d75dcacdcd160ee629e93acae88065160941c",
+          "target_hash": "0cdce378188a0062648c66b0b5a319495adffa2b2d9df00ba462dca13686c485",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        },
+        {
+          "id": "c0004p0054",
+          "source_hash": "42450e3227ebd61b8720a2f75d4087685c468627c45a98f90fb5b766c2a42083",
+          "target_hash": "adef2b147d2d48d76348a51487cda09d4332204490f0c184e598d0f257cf3bdf",
+          "source_target_compared": true,
+          "semantic_observation": "NO_CONFIRMED_SEMANTIC_ERROR",
+          "issue_indices": []
+        }
+      ],
+      "errors_and_notes": [
+        {
+          "id": "c0003p0081",
+          "source_quote": "周天翊不以为然道",
+          "target_quote": "Chu Thiên Dực chẳng cho là đúng nói",
+          "type": "syntactic_calque_and_pragmatic_ambiguity",
+          "severity": "major_style",
+          "certainty": "confirmed_style",
+          "semantic_fail": false,
+          "reason": "Cụm kể thái độ thiếu cấu trúc Việt tự nhiên, đối tượng không cho là đúng bị bỏ ngỏ. Trong cảnh bạn hỏi vì sao giáo viên chưa bị xử lý, người nói tiếp tục giải thích bảo trợ/lợi ích. Cần làm rõ thái độ trong decoding; không tự kết luận đảo nghĩa chắc chắn vì nguồn cũng dùng thành ngữ có thể đa nghĩa theo văn cảnh."
+        },
+        {
+          "id": "c0004p0047",
+          "source_quote": "撸小贷",
+          "target_quote": "quẹt các khoản vay nhỏ",
+          "type": "finance_action_collocation",
+          "severity": "major_style",
+          "certainty": "confirmed_style",
+          "semantic_fail": false,
+          "reason": "Quẹt kết hợp khoản vay không tự nhiên và dễ gợi hành động quẹt thẻ mà nguồn chưa nói. Rollover vẫn hiện diện; chưa đủ bằng chứng coi đây là đảo trạng thái nợ."
+        },
+        {
+          "id": "c0003p0089",
+          "source_quote": "络绎不绝",
+          "target_quote": "nối liền không dứt",
+          "type": "literal_collocation",
+          "severity": "minor_style",
+          "certainty": "confirmed_style",
+          "semantic_fail": false,
+          "reason": "Dòng học sinh dùng thuốc được chuyển thành cụm nối liền còn giọng convert; số người và hành động không bị đổi."
+        },
+        {
+          "id": "c0003p0076",
+          "source_quote": "王海",
+          "target_quote": "thầy ta",
+          "type": "teacher_reference_register",
+          "severity": "minor_style",
+          "certainty": "confirmed_style",
+          "semantic_fail": false,
+          "reason": "Thầy ta là cách ghép xưng hô vụng trong thoại hiện đại; vẫn quy đúng Vương Hải, không phải lỗi nhận diện nhân vật."
+        }
+      ],
+      "boundary_notes": [
+        "Loan already overdue nearly a month is explicit; BaiZhenZhen remains female classmate and comic father appeal, not literal parentage.",
+        "ChuTianYi speaks, warns about WangHai and offers help; original-body drug overload and seventy-wan debt retained; cau narrative remains stable.",
+        "Mother/father do not answer, elder sister coldly refuses ongoing support but sends500; friend500 plus sister500 brings balance above1000."
+      ]
+    }
+  },
+  "comparison_limits": [
+    "V2-X repeats diagnostic paragraphs already examined; gains on it are regression results, not fresh-heldout statistical evidence.",
+    "V2-R is newly generated but only 4 self-authored synthetic paragraphs, not a statistical guarantee on novels.",
+    "CTRL-Y receives more cross-scene source context and is not a matched pure parallelism-only ablation.",
+    "Text audit cannot independently attest native regeneration or absence of patches; that requires separate runtime/artifact provenance outside this blind view.",
+    "Original earlier target chapters are not present; full-book seam fidelity remains untested."
+  ],
+  "diagnostic_observation": [
+    "V2-X no longer contains the confirmed unsupported quyt-no action previously observed in one anonymous phase1 target; financial rollover is explicit.",
+    "V2-X uses mon for the 300 units in synthetic103, avoiding the prior additional package-unit assumption. Its reserved102 output still uses kien, so a consistent generic item-unit policy is not demonstrated.",
+    "V2-X retains stable cau narration through the drug-load scene, avoiding the earlier within-scene cau/han fluctuation.",
+    "Both V2-X and CTRL-Y retain the awkward khong/chang cho la dung noi construction at the same Chinese idiom. A larger source context or single worker therefore does not by itself remove this prose failure.",
+    "These observations identify improvements and persistent weaknesses without inferring which hidden route/model caused them."
+  ],
+  "systemic_prevention": [
+    "Make temporal speech-indexicals and finance actions explicit source-grounded risk checks; evaluate chronological references separately from literal word matching.",
+    "Use an actor/relationship glossary for lending-network roles and item definitions; avoid adding workplace hierarchy or loan-product subclasses unless supported by source.",
+    "Extend genre grammar/idiom checks and terminology consistency across adjacent scenes; retry whole scenes under revised contracts or stronger verification, not paragraph patches.",
+    "Measure parallel versus sequential with identical source/retrieval budgets on fresh long-range cases; retain a quarantine policy until semantic/style gates are calibrated."
+  ],
+  "report_hash": "c35677e36f73d1bb54ec616d9f92bfcfebd762b6a85afb7d09ca685fd57a583e"
+}

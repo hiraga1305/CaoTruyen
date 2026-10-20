@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "locked": true,
+  "created_date": "2026-10-13",
+  "scope": "Eight manually reviewed excerpt corrections from saved local Chinese sources. These fixtures do not certify whole chapters or the corpus.",
+  "reviewer": "semantic_audit subagent; independent from the original translations; no external API",
+  "cases": [
+    {
+      "id": "SMS_INBOX_001",
+      "source_ref": "chap1_raw.txt:365",
+      "source_quote": "挂了电话，张羽翻动着手机中的短信箱，便发现了密密麻麻的催款短信，都是原身在各大平台借贷逾期后的催缴。",
+      "target_ref": "output_dich/chuong_001_第1章 面试.txt:393",
+      "bad_translation": "hộp thư thoại",
+      "corrected_translation": "hộp tin nhắn SMS",
+      "expected_issue": "semantic_mistranslation",
+      "reason": "短信箱 chỉ hộp SMS. Thư thoại đổi loại thông tin sang voicemail; câu nguồn còn nhắc rõ các SMS đòi nợ.",
+      "reviewed": true,
+      "review_note": "Đã đối chiếu lại câu nguồn cục bộ: sửa đúng loại hộp thư, không thêm sự kiện."
+    },
+    {
+      "id": "QUANTITY_LOWER_BOUND_002",
+      "source_ref": "chap1_raw.txt:103",
+      "source_quote": "每天班主任会发给你们900克以上牛妖专用的补剂，保证你们的修炼效果是原先的十倍以上。",
+      "target_ref": "output_dich/chuong_001_第1章 面试.txt:125",
+      "bad_translation": "hơn 900 gram thuốc bổ chuyên dụng dành cho Ngưu Yêu",
+      "corrected_translation": "ít nhất 900 gram thuốc bổ chuyên dụng dành cho Ngưu Yêu",
+      "expected_issue": "quantity_relation_changed",
+      "reason": "900克以上 bao gồm mức 900 g (>= 900); hơn 900 chỉ > 900. Số giống nhau nhưng quan hệ định lượng khác.",
+      "reviewed": true,
+      "review_note": "Đã đối chiếu lại 以上 với cả hai vế trong câu nguồn; bản sửa giữ số, đơn vị và cận dưới bao gồm 900."
+    },
+    {
+      "id": "ADDED_GIFT_ACTION_003",
+      "source_ref": "chap1_raw.txt:197",
+      "source_quote": "她转了1000块钱给张羽，让张羽记得要谢谢同学和老师。",
+      "target_ref": "output_dich/chuong_001_第1章 面试.txt:221",
+      "bad_translation": "Bà chuyển 1.000 tệ cho Trương Vũ, dặn cậu nhớ mua quà cảm ơn thầy cô và bạn bè.",
+      "corrected_translation": "Bà chuyển 1.000 tệ cho Trương Vũ, dặn cậu nhớ cảm ơn bạn học và thầy cô.",
+      "expected_issue": "unsupported_added_action",
+      "reason": "谢谢 là cảm ơn, không nói mua quà. 同学 cụ thể là bạn học. Việc chuyển tiền không cho phép suy ra một hành động mua quà bắt buộc.",
+      "reviewed": true,
+      "review_note": "Đã đối chiếu lại toàn câu: bảo toàn người chuyển/nhận, 1.000 và yêu cầu cảm ơn; loại hành động không có trong nguồn."
+    },
+    {
+      "id": "INTERNAL_THOUGHT_004",
+      "source_ref": "prepared_input/chap_032_第32章 法力和体育.txt:262",
+      "source_quote": "“零分。”一旁的白真真心中幽幽道：“简直是高中的至高羞辱，从此以后彻底丧失了学校生存权。”",
+      "target_ref": "output_dich/chuong_032_第32章 法力和体育.txt:130",
+      "bad_translation": "Bạch Chân Chân ngồi bên cạnh u ám cất lời",
+      "corrected_translation": "Bạch Chân Chân ở bên cạnh thầm nghĩ đầy u ám",
+      "expected_issue": "thought_changed_to_speech",
+      "reason": "心中 là trong lòng. Cất lời làm nhân vật khác có thể nghe được suy nghĩ này. 一旁 chỉ vị trí bên cạnh; không cần thêm động tác ngồi trong excerpt.",
+      "reviewed": true,
+      "review_note": "Đã đối chiếu lại 心中幽幽道; sửa thành suy nghĩ nội tâm, giữ nhân vật và sắc thái u ám."
+    },
+    {
+      "id": "TOURNAMENT_PAIRING_005",
+      "source_ref": "prepared_input/chap_070_第70章 隐藏灵根.txt:22",
+      "source_quote": "其中有7个小组都有四名选手，要进行抽签后的两两对决，淘汰至最后一人。",
+      "context_ref": "prepared_input/chap_070_第70章 隐藏灵根.txt:92",
+      "context_quote": "双方在一对一战斗后，获胜的一方----将与另外两人中的获胜者战斗，最终决出这个小组的普级者。",
+      "target_ref": "output_dich/chuong_070_第70章 隐藏灵根.txt:7",
+      "bad_translation": "Trong đó có bảy bảng đấu gồm bốn tuyển thủ, sau khi tiến hành bốc thăm sẽ chia cặp đấu loại trực tiếp hai chọi hai, đào thải dần cho tới khi chỉ còn lại một người duy nhất.",
+      "corrected_translation": "Trong đó có bảy bảng đấu, mỗi bảng gồm bốn tuyển thủ. Sau khi bốc thăm, các tuyển thủ sẽ đấu từng cặp một chọi một, loại dần cho tới khi chỉ còn lại một người.",
+      "expected_issue": "event_rules_changed",
+      "reason": "两两 là chia từng cặp, không phải hai người chống hai người. Nguồn cùng chương dòng 92 xác nhận rõ 一对一 (một chọi một).",
+      "reviewed": true,
+      "review_note": "Đã đối chiếu lại cả câu nguồn và câu giải thích vòng đấu tại dòng 92; giữ bảy bảng, mỗi bảng bốn người và một người thắng cuối."
+    },
+    {
+      "id": "INVENTED_CONTRACT_NATURE_006",
+      "source_ref": "prepared_input/chap_070_第70章 隐藏灵根.txt:128",
+      "source_quote": "在这里签下和‘父亲大人’的契约，成为他真正认可的儿子。",
+      "target_ref": "output_dich/chuong_070_第70章 隐藏灵根.txt:123",
+      "bad_translation": "Tại nơi này, ký kết bản khế ước bán mạng với \"Phụ thân đại nhân\", mới chính thức trở thành đứa con trai được ông ta thừa nhận.",
+      "corrected_translation": "Tại nơi này, ký kết khế ước với \"Phụ thân đại nhân\" để trở thành người con trai mà ông ta thực sự công nhận.",
+      "expected_issue": "unsupported_added_fact",
+      "reason": "契约 là khế ước/hợp đồng. Câu nguồn không xác định đây là bán mạng; bối cảnh đen tối không cho phép thêm điều khoản chưa được kể.",
+      "reviewed": true,
+      "review_note": "Đã đối chiếu lại toàn câu: bỏ bán mạng, giữ bên ký khế ước và kết quả được thực sự công nhận làm con trai."
+    },
+    {
+      "id": "INVENTED_BLOODY_TRIALS_007",
+      "source_ref": "prepared_input/chap_070_第70章 隐藏灵根.txt:134",
+      "source_quote": "而虎云涛，便是这样通过层层考验，来到红塔高中读书的校董之子。",
+      "target_ref": "output_dich/chuong_070_第70章 隐藏灵根.txt:129",
+      "bad_translation": "khảo nghiệm đẫm máu",
+      "corrected_translation": "khảo nghiệm",
+      "expected_issue": "unsupported_added_fact",
+      "reason": "层层考验 là các tầng khảo nghiệm. Câu này không nêu đổ máu; đẫm máu thêm tính chất sự kiện có thể bị coi là dữ kiện truyện.",
+      "reviewed": true,
+      "review_note": "Đã đối chiếu lại nguồn tại dòng 134; bỏ riêng thuộc tính đẫm máu, giữ tầng tầng lớp lớp ở phần đích lân cận."
+    },
+    {
+      "id": "CANONICAL_EVENT_NAME_008",
+      "source_ref": "prepared_input/chap_052_第52章 暗流涌动.txt:288",
+      "source_quote": "「特别是你小子这次法赛拿了第四名，他们一定会想办法逼着你签约，你能顶得住吗？」",
+      "target_ref": "output_dich/chuong_052_第52章 暗流涌动.txt:148",
+      "bad_translation": "lần này ở Pháp Tái còn giành được hạng tư",
+      "corrected_translation": "lần này ở Pháp Giải còn giành được hạng tư",
+      "canonical_term": {"source": "法赛", "target": "Pháp Giải", "reference": "novel_lore.json:58"},
+      "expected_issue": "canonical_terminology_drift",
+      "reason": "Pháp Giải là tên chuẩn đã lưu cho 法赛 và dùng trong chương 38. Pháp Tái là alias chưa duyệt của cùng sự kiện, gây lệch chuẩn liên chương.",
+      "reviewed": true,
+      "review_note": "Đã đối chiếu lại source 法赛/第四名, registry novel_lore và bản chương 38: thay riêng tên sự kiện, giữ hạng tư."
+    }
+  ]
+}

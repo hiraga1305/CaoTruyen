@@ -1,0 +1,52 @@
+[
+  {
+    "repo": "chi-vi/hanlp_mt",
+    "url": "https://github.com/chi-vi/hanlp_mt",
+    "status": "VERIFIED_ONLINE",
+    "commit": "fa19f40534377b5142b4f4cf96b946a2b9796fe1",
+    "default_branch": "main",
+    "license": null,
+    "readme_sha256": "48a623fecb96e62c6b546463827ee2743d6393cf20c74e1f453fe9296c8d0b02",
+    "snapshot": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\research\\chi-vi__hanlp_mt.README.md"
+  },
+  {
+    "repo": "chi-vi/ltp-dep-to-con",
+    "url": "https://github.com/chi-vi/ltp-dep-to-con",
+    "status": "VERIFIED_ONLINE",
+    "commit": "cc852ecb163ae56efe7046b1cda66aa1ade22f65",
+    "default_branch": "main",
+    "license": null,
+    "readme_sha256": "98ffcfeda28ca9dfcf045e66dd5900355764910c54505eba73bde99b042e2e65",
+    "snapshot": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\research\\chi-vi__ltp-dep-to-con.README.md"
+  },
+  {
+    "repo": "chi-vi/ltp-onnx",
+    "url": "https://github.com/chi-vi/ltp-onnx",
+    "status": "VERIFIED_ONLINE",
+    "commit": "455e0b5dcb479412b8cd396ae995fc6bf075b35a",
+    "default_branch": "main",
+    "license": "MIT",
+    "readme_sha256": "dd30c9e674a49d07b431209bf9f775a3d8471b055c33f33e7685116a3a05668a",
+    "snapshot": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\research\\chi-vi__ltp-onnx.README.md"
+  },
+  {
+    "repo": "hankcs/HanLP",
+    "url": "https://github.com/hankcs/HanLP",
+    "status": "VERIFIED_ONLINE",
+    "commit": "281e8ef1821bd49d0c4bd38a2111729863e924d0",
+    "default_branch": "doc-zh",
+    "license": "Apache-2.0",
+    "readme_sha256": "62f1d66f58cbd2bab722792ec377151da6da543632d373e258ccc7625a2e223a",
+    "snapshot": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\research\\hankcs__HanLP.README.md"
+  },
+  {
+    "repo": "HIT-SCIR/ltp",
+    "url": "https://github.com/HIT-SCIR/ltp",
+    "status": "VERIFIED_ONLINE",
+    "commit": "1f042d48b0a785ff7875b2e63c1439ef8c78995c",
+    "default_branch": "main",
+    "license": null,
+    "readme_sha256": "4572e3118499def149e7c3fc11bccc793cfeeda4a163789a467d8c36b9678ba7",
+    "snapshot": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\research\\HIT-SCIR__ltp.README.md"
+  }
+]

@@ -1,0 +1,332 @@
+{
+  "provenance": {
+    "engine": "HIT-SCIR LTP 4.2.13",
+    "model": "LTP/small",
+    "revision": "dea87bf0da3c5d054bbd426a78d7fa9efd347799",
+    "torch": "2.14.0+cpu",
+    "transformers": "4.57.6",
+    "weights_format": "safetensors",
+    "compatibility": [
+      "validated deterministic position_ids buffer omitted for Transformers 5"
+    ]
+  },
+  "segments": [
+    {
+      "id": "c0001p0001",
+      "srl": [
+        {
+          "predicate": "看",
+          "arguments": [
+            [
+              "A0",
+              "李明"
+            ],
+            [
+              "A1",
+              "手机里的短信"
+            ]
+          ]
+        },
+        {
+          "predicate": "看",
+          "arguments": [
+            [
+              "A1",
+              "手机里的短信"
+            ]
+          ]
+        },
+        {
+          "predicate": "到账",
+          "arguments": [
+            [
+              "A0",
+              "工资"
+            ],
+            [
+              "ARGM-TMP",
+              "明天"
+            ]
+          ]
+        },
+        {
+          "predicate": "着急",
+          "arguments": [
+            [
+              "A0",
+              "你"
+            ],
+            [
+              "ARGM-ADV",
+              "别"
+            ]
+          ]
+        }
+      ],
+      "dependency_roles": [
+        [
+          "李明",
+          2,
+          "SBV"
+        ],
+        [
+          "看",
+          0,
+          "HED"
+        ],
+        [
+          "短信",
+          4,
+          "VOB"
+        ],
+        [
+          "工资",
+          13,
+          "SBV"
+        ],
+        [
+          "你",
+          17,
+          "SBV"
+        ]
+      ],
+      "ner": [
+        [
+          "Nh",
+          "李明",
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "c0001p0002",
+      "srl": [
+        {
+          "predicate": "加班",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "妈"
+            ],
+            [
+              "A0",
+              "我"
+            ],
+            [
+              "ARGM-TMP",
+              "今天"
+            ]
+          ]
+        },
+        {
+          "predicate": "回家",
+          "arguments": [
+            [
+              "A0",
+              "我"
+            ],
+            [
+              "ARGM-ADV",
+              "不"
+            ]
+          ]
+        },
+        {
+          "predicate": "说",
+          "arguments": [
+            [
+              "A0",
+              "他"
+            ]
+          ]
+        }
+      ],
+      "dependency_roles": [
+        [
+          "妈",
+          15,
+          "FOB"
+        ],
+        [
+          "我",
+          6,
+          "SBV"
+        ],
+        [
+          "他",
+          15,
+          "SBV"
+        ],
+        [
+          "说",
+          0,
+          "HED"
+        ]
+      ],
+      "ner": []
+    },
+    {
+      "id": "c0001p0003",
+      "srl": [
+        {
+          "predicate": "说",
+          "arguments": [
+            [
+              "A0",
+              "她"
+            ],
+            [
+              "ARGM-ADV",
+              "只"
+            ],
+            [
+              "A1",
+              "需要再考虑两天"
+            ]
+          ]
+        },
+        {
+          "predicate": "考虑",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "再"
+            ],
+            [
+              "ARGM-EXT",
+              "两天"
+            ]
+          ]
+        }
+      ],
+      "dependency_roles": [
+        [
+          "她",
+          2,
+          "SBV"
+        ],
+        [
+          "没有",
+          0,
+          "HED"
+        ],
+        [
+          "答应",
+          2,
+          "VOB"
+        ],
+        [
+          "考虑",
+          6,
+          "VOB"
+        ],
+        [
+          "天",
+          9,
+          "CMP"
+        ]
+      ],
+      "ner": []
+    },
+    {
+      "id": "c0001p0004",
+      "srl": [
+        {
+          "predicate": "要求",
+          "arguments": [
+            [
+              "A0",
+              "张经理"
+            ],
+            [
+              "A1",
+              "库存不少于900件，而不是多于900件"
+            ]
+          ]
+        },
+        {
+          "predicate": "少于",
+          "arguments": [
+            [
+              "A0",
+              "库存"
+            ],
+            [
+              "ARGM-ADV",
+              "不"
+            ],
+            [
+              "A1",
+              "900件"
+            ]
+          ]
+        },
+        {
+          "predicate": "多于",
+          "arguments": [
+            [
+              "A0",
+              "库存"
+            ],
+            [
+              "ARGM-ADV",
+              "不"
+            ],
+            [
+              "A1",
+              "900件"
+            ]
+          ]
+        }
+      ],
+      "dependency_roles": [
+        [
+          "经理",
+          3,
+          "SBV"
+        ],
+        [
+          "要求",
+          0,
+          "HED"
+        ],
+        [
+          "库存",
+          6,
+          "SBV"
+        ],
+        [
+          "少于",
+          3,
+          "VOB"
+        ],
+        [
+          "件",
+          6,
+          "VOB"
+        ],
+        [
+          "多于",
+          12,
+          "VOB"
+        ],
+        [
+          "件",
+          13,
+          "VOB"
+        ]
+      ],
+      "ner": [
+        [
+          "Nh",
+          "张",
+          0,
+          0
+        ]
+      ]
+    }
+  ],
+  "limits": "Model-predicted syntax/SRL, not truth; self-authored fixture",
+  "full_file": "analysis.full.json"
+}

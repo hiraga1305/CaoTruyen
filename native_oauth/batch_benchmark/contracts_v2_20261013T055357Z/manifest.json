@@ -1,0 +1,27 @@
+{
+  "jobs": [
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_v2_20261013T055357Z\\low-prevention-v2-c0002p0053.json",
+      "model": "gemini-3.8-flash-low"
+    },
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_v2_20261013T055357Z\\low-prevention-v2-c0003p0076.json",
+      "model": "gemini-3.8-flash-low"
+    },
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_v2_20261013T055357Z\\low-prevention-v2-c0004p0039.json",
+      "model": "gemini-3.8-flash-low"
+    },
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_v2_20261013T055357Z\\low-prevention-v2-c0103p0001.json",
+      "model": "gemini-3.8-flash-low"
+    }
+  ],
+  "max_concurrency": 2,
+  "timeout": 180,
+  "max_reported_tokens": 180000,
+  "workspace": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\v2_20261013T055357Z",
+  "result_path": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\results_v2_20261013T055357Z.json",
+  "policy_version": "source-contract-v2; indexed anchors + recentquotes + genericclassifier/loan prevention",
+  "scope": "Diagnostic retest of old targets; no hand edits; not new heldout evidence"
+}

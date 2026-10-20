@@ -1,0 +1,1519 @@
+{
+  "package_hash": "b7a650c0b08b5e892f1e0a8ef38ea37ac6e4763892644f7ad517058faf555c2d",
+  "candidate_hash": "462b3f9c356893bf07671eb3fecdde4f1c8534a24a7f1cf44eb800ec6d6a249d",
+  "verdict": "FAIL",
+  "checks": {
+    "meaning": true,
+    "completeness": true,
+    "entities": true,
+    "speaker_pronouns": true,
+    "numbers_units": true,
+    "negation_modality": true,
+    "time_causality": true,
+    "continuity": true
+  },
+  "literary_checks": {
+    "natural_vietnamese": true,
+    "spelling_grammar": true,
+    "genre_voice": true,
+    "address_consistency": true,
+    "dialogue_format": true
+  },
+  "segments": [
+    {
+      "id": "c0001p0001",
+      "verdict": "PASS",
+      "source_quote": "第1章 面试",
+      "target_quote": "Chương 1 Phỏng vấn",
+      "reason": "Tiêu đề chương và sự kiện phỏng vấn được giữ đúng."
+    },
+    {
+      "id": "c0001p0002",
+      "verdict": "PASS",
+      "source_quote": "“到了吗？”",
+      "target_quote": "\"Đến nơi chưa?\"",
+      "reason": "Câu hỏi mẹ gửi ngắn gọn; dấu ngoặc được nguồn dùng, p0005 xác nhận là SMS."
+    },
+    {
+      "id": "c0001p0003",
+      "verdict": "PASS",
+      "source_quote": "“不要紧张，你成绩这么好，一定能过的。”",
+      "target_quote": "\"Đừng lo, thành tích của con tốt thế này, nhất định sẽ qua được thôi.\"",
+      "reason": "Giữ lời trấn an, thành tích tốt và sự chắc chắn của mẹ."
+    },
+    {
+      "id": "c0001p0004",
+      "verdict": "PASS",
+      "source_quote": "“手术费的事情不用担心，妈找了个新兼职，一定会帮你凑齐的，你踏踏实实参加面试。”",
+      "target_quote": "\"Chuyện tiền phẫu thuật con đừng lo, mẹ vừa tìm được một việc làm thêm mới, nhất định sẽ giúp con gom đủ, con cứ yên tâm tham gia phỏng vấn.\"",
+      "reason": "Đủ việc làm thêm mới, tiền phẫu thuật và lời bảo con yên tâm phỏng vấn."
+    },
+    {
+      "id": "c0001p0005",
+      "verdict": "FAIL",
+      "source_quote": "看着屏幕上母亲发来的消息，张羽默默收起手机，深吸一口气，闭上了眼睛，静静地等待着。",
+      "target_quote": "Nhìn tin nhắn mẹ gửi trên màn hình, Trương Vũ lặng lẽ cất điện thoại vào túi, hít một hơi thật sâu, nhắm mắt lại, yên lặng chờ đợi.",
+      "reason": "Thêm vị trí cất điện thoại “vào túi”; nguồn chỉ nói cất điện thoại, không xác định túi."
+    },
+    {
+      "id": "c0001p0006",
+      "verdict": "PASS",
+      "source_quote": "良久之后，前方传来一阵叫号声。",
+      "target_quote": "Một lúc sau, phía trước vang lên tiếng gọi số.",
+      "reason": "Giữ việc chờ rồi nghe gọi số; thời lượng được diễn đạt khái quát, không đảo thứ tự."
+    },
+    {
+      "id": "c0001p0007",
+      "verdict": "PASS",
+      "source_quote": "“989号考生，张羽。”",
+      "target_quote": "\"Thí sinh số 989, Trương Vũ.\"",
+      "reason": "Tên Trương Vũ và số thí sinh 989 đúng."
+    },
+    {
+      "id": "c0001p0008",
+      "verdict": "PASS",
+      "source_quote": "张羽站了起来，走进了面试的教室内。",
+      "target_quote": "Trương Vũ đứng dậy, bước vào phòng phỏng vấn.",
+      "reason": "Giữ hành động đứng dậy, bước vào nơi phỏng vấn; “phòng” là cách diễn đạt gọn chấp nhận được."
+    },
+    {
+      "id": "c0001p0009",
+      "verdict": "FAIL",
+      "source_quote": "他看向三位面试官，露出了练习许久的礼貌笑容：“三位好，我是东阳初级中学的张羽。”",
+      "target_quote": "Cậu nhìn về phía ba giám khảo, nở nụ cười lịch sự đã luyện tập từ lâu: \"Ba thầy cô chào, em là Trương Vũ đến từ Trường cấp hai Đông Dương.\"",
+      "reason": "“Ba thầy cô chào” đảo lời chào sai cú pháp tiếng Việt; người được chào bị đặt thành chủ thể chào."
+    },
+    {
+      "id": "c0001p0010",
+      "verdict": "PASS",
+      "source_quote": "中间的面试官望着他，淡淡道：“你为什么要报考我们的学校？”",
+      "target_quote": "Giám khảo ngồi giữa nhìn cậu, thản nhiên hỏi: \"Em tại sao lại muốn thi vào trường chúng tôi?\"",
+      "reason": "Giám khảo giữa hỏi lý do ứng tuyển; thầy/em đúng cảnh, câu hỏi hơi sát cấu trúc Hán nhưng rõ nghĩa."
+    },
+    {
+      "id": "c0001p0011",
+      "verdict": "FAIL",
+      "source_quote": "张羽：“贵校悠久的历史，深厚的底蕴，丰富的教学资源，一直以来为社会培养出了许多杰出人才……”",
+      "target_quote": "Trương Vũ: \"Trường ta có lịch sử lâu đời, nền tảng sâu dày, nguồn tài nguyên giảng dạy phong phú, bấy lâu nay đã đào tạo ra nhiều nhân tài xuất sắc cho xã hội…\"",
+      "reason": "贵校 là cách kính xưng trường của bên được nói tới; “Trường ta” đổi thành trường của phía người nói đang chưa nhập học."
+    },
+    {
+      "id": "c0001p0012",
+      "verdict": "PASS",
+      "source_quote": "面试官皱了皱眉，打断道：“别说这些场面话。”",
+      "target_quote": "Giám khảo nhíu mày, ngắt lời: \"Đừng nói những câu sáo rỗng đó.\"",
+      "reason": "Giữ nhíu mày, ngắt lời và từ chối lời sáo rỗng."
+    },
+    {
+      "id": "c0001p0013",
+      "verdict": "PASS",
+      "source_quote": "张羽老实道：“我想考上名牌大学，嵩阳高中是我能报考的学校中，大学录取率最高的一个。”",
+      "target_quote": "Trương Vũ thật thà đáp: \"Em muốn thi vào đại học danh tiếng, Trường cấp ba Tung Dương là trường mà em có thể thi vào với tỷ lệ đậu đại học cao nhất.\"",
+      "reason": "Giữ mục tiêu đại học danh tiếng và so sánh tỷ lệ tuyển sinh trong các trường có thể ứng tuyển."
+    },
+    {
+      "id": "c0001p0014",
+      "verdict": "FAIL",
+      "source_quote": "面试官微微一笑，看着手上的资料说道：“嗯，全科满分，全校第一？怪不得被推荐过来。”",
+      "target_quote": "Giám khảo khẽ mỉm cười, nhìn vào hồ sơ trên tay nói: \"Ừ, toàn khoa điểm tối đa, đứng nhất toàn trường? Bảo sao được giới thiệu đến đây.\"",
+      "reason": "全科 chỉ tất cả các môn học; “toàn khoa” chỉ khoa/đơn vị học thuật, sai đối tượng điểm tối đa."
+    },
+    {
+      "id": "c0001p0015",
+      "verdict": "PASS",
+      "source_quote": "“你成绩没有问题，但想要进嵩阳高中，光靠校内考试成绩是远远不够的。”",
+      "target_quote": "\"Thành tích của em không có vấn đề gì, nhưng muốn vào Trường cấp ba Tung Dương, chỉ dựa vào điểm thi trong trường thôi thì còn lâu mới đủ.\"",
+      "reason": "Giữ quan hệ điểm nội bộ tốt nhưng chưa đủ nhập học, không xóa phủ định."
+    },
+    {
+      "id": "c0001p0016",
+      "verdict": "PASS",
+      "source_quote": "他想了想，随意问道：“你现在每天睡多久？”",
+      "target_quote": "Ông ta suy nghĩ một chút, tùy tiện hỏi: \"Hiện tại mỗi ngày em ngủ mấy tiếng?\"",
+      "reason": "Giữ suy nghĩ rồi hỏi về thời gian ngủ; cách nói “tùy tiện” có thể nhuận sắc nhưng không đổi nghĩa chính."
+    },
+    {
+      "id": "c0001p0017",
+      "verdict": "PASS",
+      "source_quote": "张羽：“五个小时。”",
+      "target_quote": "Trương Vũ: \"Năm tiếng.\"",
+      "reason": "Thí sinh trả lời năm tiếng, đúng người nói và con số."
+    },
+    {
+      "id": "c0001p0018",
+      "verdict": "PASS",
+      "source_quote": "面试官意外道：“五小时？”",
+      "target_quote": "Giám khảo ngạc nhiên: \"Năm tiếng?\"",
+      "reason": "Giữ sự ngạc nhiên của giám khảo và lặp lại năm tiếng."
+    },
+    {
+      "id": "c0001p0019",
+      "verdict": "PASS",
+      "source_quote": "“我们学校的学生从小学开始，每天平均睡眠时长都不超过两个小时。而像历届的优秀毕业生基本上都是不睡觉的。”",
+      "target_quote": "\"Học sinh trường chúng tôi từ tiểu học, mỗi ngày thời gian ngủ trung bình đều không vượt quá hai tiếng. Còn những học sinh xuất sắc các khóa trước về cơ bản đều không ngủ.\"",
+      "reason": "Đúng mốc từ tiểu học, trung bình không quá hai giờ; giữ mức khái quát “về cơ bản” của nhóm xuất sắc."
+    },
+    {
+      "id": "c0001p0020",
+      "verdict": "PASS",
+      "source_quote": "“你每天竟然要睡五个小时，那就是每天要比别人少学三个小时，九年就差了近一万个小时……”",
+      "target_quote": "\"Em mỗi ngày lại ngủ đến tận năm tiếng, tức là mỗi ngày học ít hơn người ta ba tiếng, chín năm là kém gần một vạn tiếng đồng hồ…\"",
+      "reason": "Giữ năm giờ, thiếu ba giờ/ngày, chín năm và gần một vạn giờ; không tự sửa phép tính tác giả."
+    },
+    {
+      "id": "c0001p0021",
+      "verdict": "PASS",
+      "source_quote": "张羽微微一愣，没想到本以为已经非常努力的自己，在努力上竟然还和他人有这么大的差距。",
+      "target_quote": "Trương Vũ khẽ sững người, không ngờ bản thân vốn tưởng đã rất nỗ lực, thế mà về mặt cố gắng lại còn thua kém người khác đến vậy.",
+      "reason": "Giữ ngỡ mình cố gắng và nhận ra khoảng cách cố gắng với người khác."
+    },
+    {
+      "id": "c0001p0022",
+      "verdict": "PASS",
+      "source_quote": "张羽连忙说道：“我会努力追赶上他们的。”",
+      "target_quote": "Trương Vũ vội nói: \"Em sẽ cố gắng theo kịp họ.\"",
+      "reason": "Giữ lời hứa cố gắng bắt kịp, xưng em hợp cảnh phỏng vấn."
+    },
+    {
+      "id": "c0001p0023",
+      "verdict": "PASS",
+      "source_quote": "左边的面试官问道：“高中课程你学了多少？”",
+      "target_quote": "Giám khảo bên trái hỏi: \"Em đã học được bao nhiêu chương trình cấp ba rồi?\"",
+      "reason": "Đúng giám khảo trái hỏi phần chương trình cấp ba đã học."
+    },
+    {
+      "id": "c0001p0024",
+      "verdict": "PASS",
+      "source_quote": "张羽稍稍镇定下来，自信道：“我已经自学完了高一课程。”",
+      "target_quote": "Trương Vũ bình tĩnh lại đôi chút, tự tin đáp: \"Em đã tự học xong chương trình lớp mười rồi.\"",
+      "reason": "Giữ bình tĩnh lại, tự tin và tự học xong lớp mười."
+    },
+    {
+      "id": "c0001p0025",
+      "verdict": "PASS",
+      "source_quote": "对方眉头微皱：“才高一？你不知道我们这上课的时候都默认学生已经学完了高中课程的吗？”",
+      "target_quote": "Đối phương nhíu mày: \"Mới lớp mười thôi? Em không biết lớp học của chúng tôi mặc định học sinh đã học xong toàn bộ chương trình cấp ba rồi sao?\"",
+      "reason": "Giữ vẻ không hài lòng và tiền đề học hết cấp ba trước khi vào học."
+    },
+    {
+      "id": "c0001p0026",
+      "verdict": "PASS",
+      "source_quote": "张羽闻言一呆，这又是他所不知道的情报，本以为的优势转眼成了劣势。",
+      "target_quote": "Trương Vũ nghe xong ngẩn người, đây lại là thông tin cậu không hay biết, điều tưởng là lợi thế vừa chớp mắt đã thành bất lợi.",
+      "reason": "Giữ thông tin chưa biết và lợi thế lập tức thành bất lợi."
+    },
+    {
+      "id": "c0001p0027",
+      "verdict": "PASS",
+      "source_quote": "就在他不知所措时，中间的面试官又问出了下一个问题。",
+      "target_quote": "Đúng lúc cậu không biết xử trí thế nào thì giám khảo ngồi giữa lại hỏi câu hỏi tiếp theo.",
+      "reason": "Đúng thời điểm bối rối, giám khảo giữa tiếp tục đặt câu hỏi."
+    },
+    {
+      "id": "c0001p0028",
+      "verdict": "PASS",
+      "source_quote": "“本校为了提升学习效率，防止早恋，要求所有学生在入学前要完成把相关器官摘除的绝育手术，从此专心修行。”",
+      "target_quote": "\"Trường chúng tôi nhằm nâng cao hiệu quả học tập, ngăn ngừa yêu đương sớm, yêu cầu tất cả học sinh trước khi nhập học phải hoàn thành phẫu thuật triệt sản cắt bỏ các cơ quan liên quan, từ đó chuyên tâm tu hành.\"",
+      "reason": "Đủ mục tiêu, toàn bộ học sinh, trước nhập học, cắt cơ quan và triệt sản; không làm nhẹ tình tiết."
+    },
+    {
+      "id": "c0001p0029",
+      "verdict": "PASS",
+      "source_quote": "“这个你知道吗？”",
+      "target_quote": "\"Điều này em có biết không?\"",
+      "reason": "Giữ câu hỏi xác nhận biết yêu cầu trước đó."
+    },
+    {
+      "id": "c0001p0030",
+      "verdict": "PASS",
+      "source_quote": "终于听到一个自己知道的事，他连忙回道：“家里已经在准备了，开学之前我一定会完成绝育手术，将激素水平保持在最适宜上学的水平。”",
+      "target_quote": "Cuối cùng nghe được một điều mình biết, cậu vội đáp: \"Ở nhà đang chuẩn bị rồi ạ, trước khi nhập học em nhất định sẽ hoàn thành phẫu thuật triệt sản, duy trì mức hormone ở mức thích hợp nhất để học tập.\"",
+      "reason": "Giữ gia đình đang chuẩn bị, lời chắc chắn mổ trước nhập học và mức hormone tối ưu."
+    },
+    {
+      "id": "c0001p0031",
+      "verdict": "PASS",
+      "source_quote": "面试官不置可否地点了点头：“行了，今天的面试结束了，你先出去吧。”",
+      "target_quote": "Giám khảo gật đầu một cách không rõ thái độ: \"Thôi được, hôm nay phỏng vấn kết thúc rồi, em ra ngoài trước đi.\"",
+      "reason": "Giữ gật đầu không rõ thái độ, kết thúc phỏng vấn và bảo thí sinh ra ngoài."
+    },
+    {
+      "id": "c0001p0032",
+      "verdict": "PASS",
+      "source_quote": "张羽惴惴不安地走出了教室，他感觉自己的面试时间似乎要短于其他学生。",
+      "target_quote": "Trương Vũ bồn chồn bước ra khỏi phòng, cậu cảm thấy thời gian phỏng vấn của mình có vẻ ngắn hơn các thí sinh khác.",
+      "reason": "Giữ lo lắng và cảm giác “có vẻ” thời gian phỏng vấn ngắn hơn."
+    },
+    {
+      "id": "c0001p0033",
+      "verdict": "PASS",
+      "source_quote": "而在他走后，中间的面试官摇了摇头：“初中了都还没绝育，此子向道之心不够坚定啊。”",
+      "target_quote": "Sau khi cậu bước ra, giám khảo ngồi giữa lắc đầu: \"Học cấp hai mà vẫn chưa triệt sản, tâm hướng đạo của cậu nhóc này chưa đủ kiên định.\"",
+      "reason": "Giữ lời phán xét chưa triệt sản ở cấp hai và tâm hướng đạo; giọng đạo đức giả vẫn còn."
+    },
+    {
+      "id": "c0001p0034",
+      "verdict": "PASS",
+      "source_quote": "一旁的女面试官笑了笑：“我看他什么都不知道就来了，该有的测试报告和课外考试成绩一个也没有，只能说下面这些普通初中的推荐生质量是一年不如一年，要不是有扶持政策，哪有资格见我们。”",
+      "target_quote": "Nữ giám khảo ngồi bên cạnh cười nhẹ: \"Tôi thấy cậu ta chẳng biết gì cả mà đã đến, báo cáo kiểm tra và thành tích thi ngoại khóa cần có thì một cái cũng không có, chỉ có thể nói chất lượng học sinh được giới thiệu từ những trường cấp hai bình thường ở dưới là năm sau kém năm trước, nếu không có chính sách hỗ trợ thì làm sao có tư cách gặp chúng ta.\"",
+      "reason": "Đủ thiếu báo cáo/điểm ngoại khóa, chất lượng giảm và điều kiện hỗ trợ; không đổi người nói."
+    },
+    {
+      "id": "c0001p0035",
+      "verdict": "PASS",
+      "source_quote": "中间的面试官点了点头：“唉，我本以为穷人会更努力一点，也许是我对他们期望过高了。”",
+      "target_quote": "Giám khảo ngồi giữa gật đầu: \"Ôi, tôi vốn tưởng người nghèo sẽ cố gắng hơn một chút, có lẽ tôi đã kỳ vọng quá cao ở họ.\"",
+      "reason": "Giữ thiên kiến người nghèo phải cố gắng hơn và khả năng kỳ vọng quá cao."
+    },
+    {
+      "id": "c0001p0036",
+      "verdict": "PASS",
+      "source_quote": "“这个就暂时备选吧。”",
+      "target_quote": "\"Cái này tạm thời để vào danh sách dự phòng vậy.\"",
+      "reason": "Giữ nhãn “dự phòng” tạm thời; cần đọc cùng hành động ở p0037."
+    },
+    {
+      "id": "c0001p0037",
+      "verdict": "FAIL",
+      "source_quote": "说罢，他便将张羽的简历扔进了一旁的纸篓里，和另外几百份备选简历挤在了一起。",
+      "target_quote": "Nói xong, ông ta liền ném hồ sơ của Trương Vũ vào thùng giấy bên cạnh, chồng lên cùng với mấy trăm bộ hồ sơ dự phòng khác.",
+      "reason": "纸篓 là sọt đựng giấy bỏ/thùng rác giấy; “thùng giấy” thành vật chứa bằng giấy, làm mất hành vi vứt hồ sơ vào rác và cú châm biếm “dự phòng”."
+    },
+    {
+      "id": "c0001p0038",
+      "verdict": "PASS",
+      "source_quote": "虽然张羽感觉自己的这趟面试似乎不太成功，但没有多余的时间给他思考这些，他已经开始准备起了一趟又一趟的面试，来到了一个个不同的高中。",
+      "target_quote": "Tuy Trương Vũ cảm thấy buổi phỏng vấn này của mình có vẻ không mấy thành công, nhưng không có thời gian dư dả để suy nghĩ về điều đó, cậu đã bắt đầu chuẩn bị cho hết buổi phỏng vấn này đến buổi khác, đến từng ngôi trường cấp ba khác nhau.",
+      "reason": "Giữ nhận định chưa chắc thất bại, thiếu thời gian suy nghĩ và chuỗi phỏng vấn trường khác."
+    },
+    {
+      "id": "c0001p0039",
+      "verdict": "PASS",
+      "source_quote": "“张羽同学，我们了解到你的家庭情况恐怕不足以负担这边的学费。不过我们为贫困生提供了优惠的贷款服务，只要你愿意抵押一些不重要的器官就行……”",
+      "target_quote": "\"Bạn Trương Vũ ơi, chúng tôi được biết hoàn cảnh gia đình bạn e rằng không đủ chi trả học phí ở đây. Nhưng chúng tôi có cung cấp dịch vụ vay ưu đãi cho học sinh nghèo, chỉ cần bạn chịu thế chấp một vài cơ quan không quan trọng là được…\"",
+      "reason": "Giữ hoàn cảnh có lẽ không đủ học phí, ưu đãi vay và điều kiện thế chấp cơ quan."
+    },
+    {
+      "id": "c0001p0040",
+      "verdict": "PASS",
+      "source_quote": "“放心，你没来错地方，我们知道你是男的，而我校虽是女校，但从来不歧视男性，只要你完成了性别转换手术，不但能够入学，更是会被认为道心坚毅的种子学生，有机会进入重点班学习元阴炼气之术……”",
+      "target_quote": "\"Yên tâm, bạn không đến nhầm chỗ đâu, chúng tôi biết bạn là nam, còn trường tôi tuy là trường nữ nhưng chưa bao giờ phân biệt đối xử với nam giới, chỉ cần bạn hoàn thành phẫu thuật chuyển giới, không những được nhập học mà còn được coi là học sinh nòng cốt có đạo tâm kiên cường, có cơ hội vào lớp trọng điểm học Nguyên Âm Luyện Khí Chi Thuật…\"",
+      "reason": "Đủ nữ sinh/nam giới, phẫu thuật chuyển giới, học sinh nòng cốt và Nguyên Âm Luyện Khí Chi Thuật."
+    },
+    {
+      "id": "c0001p0041",
+      "verdict": "PASS",
+      "source_quote": "“可惜了，你距离我们的入学标准还是差上了一点点。不过今年为了照顾贫困学生，我们推出了一个特长生政策。你如果愿意放弃肉身的话，可以凭借魂修特长生的身份，在校长的万魂幡里学习……”",
+      "target_quote": "\"Tiếc thật, bạn vẫn còn kém tiêu chuẩn nhập học của chúng tôi một chút. Nhưng năm nay để chiếu cố học sinh nghèo, chúng tôi có ra một chính sách học sinh năng khiếu. Nếu bạn chịu từ bỏ nhục thân, có thể lấy tư cách học sinh năng khiếu Hồn Tu, học tập trong Vạn Hồn Phiên của hiệu trưởng…\"",
+      "reason": "Đủ thiếu chuẩn chút ít, chính sách năng khiếu, bỏ nhục thân và học trong Vạn Hồn Phiên."
+    },
+    {
+      "id": "c0001p0042",
+      "verdict": "PASS",
+      "source_quote": "“同学，你算是来对地方了，我们这就是最适合你这种平民天才的高中。",
+      "target_quote": "\"Bạn ơi, bạn đến đúng chỗ rồi đấy, đây chính là ngôi trường cấp ba phù hợp nhất với thiên tài bình dân như bạn.",
+      "reason": "Giữ lời chào hàng cho thiên tài bình dân; mở một lượt thoại kéo dài đến p0047 như nguồn."
+    },
+    {
+      "id": "c0001p0043",
+      "verdict": "FAIL",
+      "source_quote": "我来给你介绍介绍这里的福利吧，我们在饮用水中添加了促智剂，保证学生时刻维持在五级专注状态。",
+      "target_quote": "Để tôi giới thiệu cho bạn về các phúc lợi ở đây nhé, chúng tôi có thêm chất xúc tác trí tuệ vào nước uống, đảm bảo học sinh luôn duy trì trạng thái tập trung cấp năm.",
+      "reason": "促智剂 là chất tăng cường khả năng nhận thức/trí não; “chất xúc tác trí tuệ” gán khái niệm xúc tác không có trong nguồn."
+    },
+    {
+      "id": "c0001p0044",
+      "verdict": "FAIL",
+      "source_quote": "每天班主任会发给你们900克以上牛妖专用的补剂，保证你们的修炼效果是原先的十倍以上。",
+      "target_quote": "Mỗi ngày giáo viên chủ nhiệm sẽ phát cho các bạn hơn 900 gram thực phẩm bổ sung chuyên dụng cho ngưu yêu, đảm bảo hiệu quả tu luyện của các bạn cao hơn trước mười lần trở lên.",
+      "reason": "900克以上 bao gồm mốc 900 gram, khác “hơn 900”; 十倍以上 là hiệu quả bằng ít nhất mười lần ban đầu, cần tránh “cao hơn trước mười lần” dễ thành tăng thêm mười lần."
+    },
+    {
+      "id": "c0001p0045",
+      "verdict": "PASS",
+      "source_quote": "就连空气循环系统中也充斥着神经兴奋填充剂，让你再也无需睡眠，而这些全都是免费的。",
+      "target_quote": "Ngay cả hệ thống tuần hoàn không khí cũng được nạp đầy chất kích thích thần kinh, khiến bạn không còn cần ngủ nữa, và những thứ này đều miễn phí hết.",
+      "reason": "Giữ chất kích thích trong hệ thống không khí, không cần ngủ và lời quảng cáo miễn phí."
+    },
+    {
+      "id": "c0001p0046",
+      "verdict": "PASS",
+      "source_quote": "当然，想要承受这些功能增强补充药剂，你必须在我们指定的医院完成改造。",
+      "target_quote": "Tất nhiên, để chịu đựng được những loại thuốc tăng cường chức năng này, bạn phải hoàn thành cải tạo tại bệnh viện do chúng tôi chỉ định.",
+      "reason": "Đúng điều kiện cải tạo tại bệnh viện chỉ định để chịu được thuốc; nhịp quảng cáo đi tới bẫy phí."
+    },
+    {
+      "id": "c0001p0047",
+      "verdict": "PASS",
+      "source_quote": "放心，只要植入一些小小的法器来提升你的代谢能力，这是具体价目表……”",
+      "target_quote": "Yên tâm, chỉ cần cấy một vài pháp khí nhỏ để nâng cao năng lực chuyển hóa của bạn, đây là bảng giá chi tiết…\"",
+      "reason": "Đủ cấy pháp khí nhỏ, tăng chuyển hóa và đưa bảng giá; kết thúc lượt thoại kéo dài."
+    },
+    {
+      "id": "c0001p0048",
+      "verdict": "PASS",
+      "source_quote": "一次次的面试，一个又一个的问题。",
+      "target_quote": "Hết buổi phỏng vấn này đến buổi khác, câu hỏi này nối tiếp câu hỏi kia.",
+      "reason": "Giữ nhịp lặp các cuộc phỏng vấn và câu hỏi."
+    },
+    {
+      "id": "c0001p0049",
+      "verdict": "PASS",
+      "source_quote": "要么是高不可攀，让他完全看不到希望的门槛。",
+      "target_quote": "Hoặc là ngưỡng cửa cao vời vợi khiến cậu hoàn toàn không nhìn thấy hy vọng.",
+      "reason": "Giữ lựa chọn rào cản quá cao khiến mất hy vọng."
+    },
+    {
+      "id": "c0001p0050",
+      "verdict": "PASS",
+      "source_quote": "要么就是陷阱重重，让他感觉自己会被一口吞下的合同。",
+      "target_quote": "Hoặc là hợp đồng đầy rẫy cạm bẫy khiến cậu cảm thấy mình sẽ bị nuốt chửng.",
+      "reason": "Giữ lựa chọn hợp đồng nhiều bẫy, hình ảnh bị nuốt chửng không được tô thêm."
+    },
+    {
+      "id": "c0001p0051",
+      "verdict": "PASS",
+      "source_quote": "这一切一切都让张羽感觉自己被压得喘不过气来。",
+      "target_quote": "Tất cả những điều đó khiến Trương Vũ cảm thấy bản thân bị đè nặng đến mức không thở nổi.",
+      "reason": "Giữ cảm giác bị đè đến ngạt thở trước toàn bộ trải nghiệm."
+    },
+    {
+      "id": "c0001p0052",
+      "verdict": "PASS",
+      "source_quote": "此刻的他骤然发现，在郊区普通初中有着全校第一成绩的他，和市中心的那些学生们比起来便早已经有了天壤之别。",
+      "target_quote": "Lúc này cậu bỗng nhận ra, bản thân vốn đứng nhất toàn trường ở một trường cấp hai bình thường ngoại ô, so với những học sinh ở trung tâm thành phố thì đã cách nhau một trời một vực từ lâu rồi.",
+      "reason": "Đủ nhất trường cấp hai ngoại ô và khoảng cách trời vực đã tồn tại với học sinh trung tâm."
+    },
+    {
+      "id": "c0001p0053",
+      "verdict": "PASS",
+      "source_quote": "甚至直到此刻，他连双方的具体差距有多大……也只知道了冰山一角。",
+      "target_quote": "Thậm chí cho đến lúc này, cậu cũng chỉ mới biết được phần nổi của tảng băng về khoảng cách cụ thể giữa hai bên lớn đến mức nào.",
+      "reason": "Giữ mới thấy một phần nhỏ khoảng cách; hình ảnh phần nổi tảng băng phù hợp."
+    },
+    {
+      "id": "c0001p0054",
+      "verdict": "PASS",
+      "source_quote": "过去这些年的努力学习似乎都成了笑话。",
+      "target_quote": "Bao nhiêu năm nỗ lực học tập qua rồi xem chừng đều thành trò cười.",
+      "reason": "Giữ tính nhận định “xem chừng” của công sức thành trò cười."
+    },
+    {
+      "id": "c0001p0055",
+      "verdict": "PASS",
+      "source_quote": "到头来他和那些不学无术的同学们并没有差别，同样也上不了高中。",
+      "target_quote": "Rốt cuộc cậu cũng chẳng khác gì những bạn học lười biếng kia, đều không vào được cấp ba.",
+      "reason": "Giữ đối chiếu bạn học không chăm học và cùng không vào cấp ba; cách diễn đạt gọn chấp nhận được."
+    },
+    {
+      "id": "c0001p0056",
+      "verdict": "PASS",
+      "source_quote": "回到家中，张羽如一尊石像般默默坐着。",
+      "target_quote": "Trở về nhà, Trương Vũ ngồi lặng như tượng đá.",
+      "reason": "Giữ về nhà và ngồi lặng như tượng."
+    },
+    {
+      "id": "c0001p0057",
+      "verdict": "PASS",
+      "source_quote": "桌上的手机连连震动了起来。",
+      "target_quote": "Điện thoại trên bàn liên tục rung lên.",
+      "reason": "Giữ điện thoại trên bàn rung liên tục."
+    },
+    {
+      "id": "c0001p0058",
+      "verdict": "PASS",
+      "source_quote": "母亲：这次面试怎么样？",
+      "target_quote": "Mẹ: Lần phỏng vấn này thế nào rồi con?",
+      "reason": "Nhãn Mẹ xác định tin nhắn, hỏi kết quả phỏng vấn đúng."
+    },
+    {
+      "id": "c0001p0059",
+      "verdict": "PASS",
+      "source_quote": "母亲：今天要加班，冰箱里的饭菜你记得自己热了吃。",
+      "target_quote": "Mẹ: Hôm nay mẹ phải làm thêm giờ, cơm trong tủ lạnh con nhớ tự hâm lên mà ăn nhé.",
+      "reason": "Tin mẹ làm thêm giờ, con tự hâm cơm; “cơm” dùng nghĩa bữa ăn hợp tiếng Việt."
+    },
+    {
+      "id": "c0001p0060",
+      "verdict": "PASS",
+      "source_quote": "片刻后，手机又震动了一下。",
+      "target_quote": "Một lúc sau, điện thoại lại rung thêm một cái.",
+      "reason": "Giữ một lúc sau điện thoại rung thêm một lần."
+    },
+    {
+      "id": "c0001p0061",
+      "verdict": "PASS",
+      "source_quote": "母亲：儿子，你不要担心，不论你选绝育还是变性，手术的钱妈妈一定会帮你凑齐的。",
+      "target_quote": "Mẹ: Con ơi, con đừng lo, dù con chọn triệt sản hay chuyển giới, tiền phẫu thuật mẹ nhất định sẽ giúp con gom đủ.",
+      "reason": "SMS giữ cả hai lựa chọn triệt sản/chuyển giới và mẹ chắc chắn gom tiền."
+    },
+    {
+      "id": "c0001p0062",
+      "verdict": "PASS",
+      "source_quote": "但张羽并没有去看震动的手机，他只是呆呆地望着天花板，想要思考关于未来的事情，却又感觉到脑袋里像是空空如也，什么都挤不出来。",
+      "target_quote": "Nhưng Trương Vũ không nhìn vào chiếc điện thoại đang rung, cậu chỉ ngẩn ngơ nhìn lên trần nhà, muốn suy nghĩ về chuyện tương lai, nhưng lại cảm thấy đầu óc trống rỗng, không vắt ra được gì.",
+      "reason": "Giữ không nhìn điện thoại, nhìn trần và không thể suy nghĩ tương lai."
+    },
+    {
+      "id": "c0001p0063",
+      "verdict": "PASS",
+      "source_quote": "就在这时，手机再次剧烈震动了起来。",
+      "target_quote": "Đúng lúc đó, điện thoại lại rung dữ dội.",
+      "reason": "Giữ điện thoại lại rung mạnh vào đúng lúc đó."
+    },
+    {
+      "id": "c0001p0064",
+      "verdict": "PASS",
+      "source_quote": "张羽原本不想理会，但在手机足足震动了一分多钟后，他终于忍不住地将之拿了起来，却发现对方已经挂了电话。",
+      "target_quote": "Trương Vũ vốn không muốn thèm để ý, nhưng sau khi điện thoại rung suốt hơn một phút, cậu cuối cùng không nhịn được nên cầm lên, thì phát hiện bên kia đã cúp máy rồi.",
+      "reason": "Đủ không muốn nghe, hơn một phút, cầm lên và phía kia đã ngắt máy."
+    },
+    {
+      "id": "c0001p0065",
+      "verdict": "FAIL",
+      "source_quote": "接着他收到了一条对方发来的消息：您的五千后备金已准备完毕，只需十秒即可到账……",
+      "target_quote": "Tiếp theo cậu nhận được một tin nhắn từ họ: Năm nghìn quỹ dự phòng của bạn đã sẵn sàng, chỉ cần mười giây là có thể chuyển vào tài khoản…",
+      "reason": "“Năm nghìn quỹ dự phòng” đặt lượng tiền trước tên khoản tiền thành năm nghìn quỹ; phải thể hiện đây là một khoản tiền trị giá 5.000, không thêm đơn vị chưa được nguồn nêu."
+    },
+    {
+      "id": "c0001p0066",
+      "verdict": "FAIL",
+      "source_quote": "“小贷广告吗？”",
+      "target_quote": "\"Quảng cáo vay tiêu dùng à?\"",
+      "reason": "小贷 phân loại theo khoản vay nhỏ; “vay tiêu dùng” phân loại theo mục đích chi tiêu, không được nguồn xác định."
+    },
+    {
+      "id": "c0001p0067",
+      "verdict": "PASS",
+      "source_quote": "“哼。”",
+      "target_quote": "\"Hừ.\"",
+      "reason": "Tiếng hừ ngắn đúng nguồn; không gán thành hành động khác."
+    },
+    {
+      "id": "c0001p0068",
+      "verdict": "PASS",
+      "source_quote": "张羽心想自己的面试资料恐怕是被哪个学校给卖了。",
+      "target_quote": "Trương Vũ nghĩ thầm chắc là hồ sơ phỏng vấn của mình đã bị trường nào đó bán ra mất rồi.",
+      "reason": "Nguồn ghi nghĩ thầm; draft giữ nghĩ thầm và khả năng hồ sơ bị bán, không đổi thành sự thật xác nhận."
+    },
+    {
+      "id": "c0001p0069",
+      "verdict": "PASS",
+      "source_quote": "但放下手机片刻之后，他又拿了起来，重新点开了那条消息。",
+      "target_quote": "Nhưng sau khi đặt điện thoại xuống một lúc, cậu lại cầm lên, mở lại tin nhắn đó.",
+      "reason": "Đủ đặt xuống rồi cầm lại, mở lại tin nhắn sau ít lâu."
+    },
+    {
+      "id": "c0001p0070",
+      "verdict": "PASS",
+      "source_quote": "……",
+      "target_quote": "……",
+      "reason": "Dấu lược chuyển cảnh được giữ."
+    },
+    {
+      "id": "c0001p0071",
+      "verdict": "PASS",
+      "source_quote": "当天夜里，母亲加班回来之后，便发现原本面如死灰的张羽看上去似乎已恢复了过来，正端坐于桌前看书。",
+      "target_quote": "Đêm hôm đó, sau khi mẹ làm thêm giờ về thì phát hiện Trương Vũ vốn trước đó mặt mày thất thần nay trông có vẻ đã hồi phục, đang ngồi ngay ngắn trước bàn đọc sách.",
+      "reason": "Đúng đêm mẹ tăng ca về, vẻ phục hồi chưa chắc chắn và ngồi đọc sách."
+    },
+    {
+      "id": "c0001p0072",
+      "verdict": "PASS",
+      "source_quote": "“妈，你放心，我不会这么容易被打倒的。”",
+      "target_quote": "\"Mẹ yên tâm, con sẽ không dễ dàng bị đánh gục đâu.\"",
+      "reason": "Con trấn an mẹ, không dễ bị đánh gục; xưng mẹ/con đúng."
+    },
+    {
+      "id": "c0001p0073",
+      "verdict": "PASS",
+      "source_quote": "“今年不行，我就明年再考，我一定会修仙的。”",
+      "target_quote": "\"Năm nay không được thì sang năm con thi lại, con nhất định sẽ tu tiên được.\"",
+      "reason": "Giữ năm nay thất bại thì thi lại năm sau, quyết tâm tu tiên."
+    },
+    {
+      "id": "c0001p0074",
+      "verdict": "PASS",
+      "source_quote": "“明天我就去找补习班，我要把我缺的东西一个个补上。”",
+      "target_quote": "\"Ngày mai con sẽ đi tìm lớp luyện thi, con sẽ bổ sung từng thứ còn thiếu một.\"",
+      "reason": "Giữ ngày mai tìm lớp và bổ sung từng phần thiếu; có thể làm câu gọn hơn nhưng không thiếu nghĩa."
+    },
+    {
+      "id": "c0001p0075",
+      "verdict": "PASS",
+      "source_quote": "第二天一大早，张羽就赶了出去，当天晚上回来时已是一脸喜色。",
+      "target_quote": "Sáng sớm hôm sau, Trương Vũ đã vội vã ra đi, tối hôm đó về nhà mặt mày rạng rỡ.",
+      "reason": "Giữ sáng sớm hôm sau đi, tối cùng ngày vui vẻ về."
+    },
+    {
+      "id": "c0001p0076",
+      "verdict": "PASS",
+      "source_quote": "“妈，我找了一家仙道补习班，那里的老师都是从重点高中请来的，跟着他们学一定能考上高中。”",
+      "target_quote": "\"Mẹ ơi, con tìm được một lớp luyện thi tiên đạo, thầy cô ở đó đều là người mời từ các trường cấp ba trọng điểm về, học theo họ nhất định thi vào cấp ba được.\"",
+      "reason": "Giữ lớp tiên đạo, giáo viên từ trường trọng điểm và lời đảm bảo đỗ cấp ba."
+    },
+    {
+      "id": "c0001p0077",
+      "verdict": "PASS",
+      "source_quote": "“学费的事情你不用担心，人家觉得我从小成绩就好，又知道我家庭不富裕，就暂时给我免了学费，只要我明年能进嵩阳高中，这学费就不用还了，就当是帮他们做广告了。”",
+      "target_quote": "\"Chuyện học phí mẹ không cần lo, họ thấy con từ nhỏ thành tích đã tốt, lại biết gia đình con không khá giả, nên tạm thời miễn học phí cho con, chỉ cần năm sau con vào được Trường cấp ba Tung Dương, học phí đó không cần hoàn lại, coi như là quảng cáo cho họ vậy.\"",
+      "reason": "Đủ miễn tạm, điều kiện đỗ Tung Dương năm sau, không hoàn lại và quảng cáo; lời nhân vật không thành sự thật narrator."
+    },
+    {
+      "id": "c0001p0078",
+      "verdict": "PASS",
+      "source_quote": "“你放心吧，人家是大公司，不会骗人的。”",
+      "target_quote": "\"Mẹ yên tâm đi, họ là công ty lớn, không lừa người đâu.\"",
+      "reason": "Giữ niềm tin công ty lớn không lừa, là lời con nói."
+    },
+    {
+      "id": "c0001p0079",
+      "verdict": "PASS",
+      "source_quote": "母亲看着张羽每天天不亮就出门上补习班，每天深夜回到家后还要学到两三点钟。",
+      "target_quote": "Người mẹ nhìn Trương Vũ mỗi ngày chưa sáng đã ra đi học luyện thi, mỗi đêm về nhà còn học đến hai ba giờ sáng.",
+      "reason": "Đúng lịch đi trước bình minh, về đêm và học đến hai ba giờ."
+    },
+    {
+      "id": "c0001p0080",
+      "verdict": "PASS",
+      "source_quote": "看着他不断带回来的高二高三的语文、数学、物理等等教材，看着他打算要在一年里把高中这些除了仙道之外的所有通识课程学完，她就为儿子的上进感到欣慰。",
+      "target_quote": "Nhìn những cuốn giáo trình lớp mười một, lớp mười hai môn Ngữ văn, Toán, Lý… cậu liên tục mang về, nhìn cậu dự định trong một năm học xong tất cả các môn giáo dục đại cương cấp ba ngoài tiên đạo ra, bà cảm thấy an lòng vì sự tiến thủ của con.",
+      "reason": "Đúng lớp 11/12, các môn, một năm, trừ tiên đạo và sự hài lòng của mẹ."
+    },
+    {
+      "id": "c0001p0081",
+      "verdict": "PASS",
+      "source_quote": "但当她看到那一盒盒拿回来的药品时，心中还是涌起了一丝疑惑。",
+      "target_quote": "Nhưng khi bà nhìn thấy từng hộp thuốc được mang về, lòng vẫn dâng lên một chút nghi hoặc.",
+      "reason": "Giữ nghi ngờ nhẹ khi mẹ nhìn hộp thuốc."
+    },
+    {
+      "id": "c0001p0082",
+      "verdict": "PASS",
+      "source_quote": "张羽笑着解释道：“妈，从小到大，我已经比那些学霸少学了一万个小时，再不努力的话只会被他们越甩越远。”",
+      "target_quote": "Trương Vũ cười giải thích: \"Mẹ ơi, từ nhỏ đến lớn, con đã học ít hơn những học sinh giỏi đó một vạn tiếng, nếu không cố gắng nữa thì chỉ càng bị họ bỏ xa hơn thôi.\"",
+      "reason": "Giữ ít hơn một vạn giờ, từ nhỏ đến lớn và nguy cơ bị bỏ xa."
+    },
+    {
+      "id": "c0001p0083",
+      "verdict": "PASS",
+      "source_quote": "“这些神经兴奋填充剂能让我每天只需要睡半个小时，提高我的学习效率，至少不被市里的那些学生继续拉开距离。”",
+      "target_quote": "\"Những chất kích thích thần kinh này có thể giúp con mỗi ngày chỉ cần ngủ nửa tiếng, nâng cao hiệu quả học tập, ít nhất không bị những học sinh trong thành phố kéo xa hơn nữa.\"",
+      "reason": "Giữ khả năng chỉ ngủ nửa tiếng, hiệu suất tăng và không tiếp tục nới khoảng cách."
+    },
+    {
+      "id": "c0001p0084",
+      "verdict": "PASS",
+      "source_quote": "“你放心，这些药都不花钱。”",
+      "target_quote": "\"Mẹ yên tâm, những thuốc này đều không tốn tiền.\"",
+      "reason": "Giữ lời cam đoan thuốc không tốn tiền, chưa xác nhận lời đó là thật."
+    },
+    {
+      "id": "c0001p0085",
+      "verdict": "PASS",
+      "source_quote": "“我们补习班的校长特别看好我，这些药都是他送我的。”",
+      "target_quote": "\"Hiệu trưởng lớp luyện thi của con đặc biệt coi trọng con, những thuốc này đều do hiệu trưởng tặng con.\"",
+      "reason": "Giữ hiệu trưởng lớp đánh giá cao và lời nói được tặng thuốc."
+    },
+    {
+      "id": "c0001p0086",
+      "verdict": "PASS",
+      "source_quote": "听到是校长送的，母亲更为儿子受到赏识而高兴。",
+      "target_quote": "Nghe nói là hiệu trưởng tặng, người mẹ càng vui hơn vì con được trân trọng.",
+      "reason": "Giữ mẹ vui vì con được đánh giá cao; “trân trọng” hơi lệch sắc thái nhưng không sai sự kiện."
+    },
+    {
+      "id": "c0001p0087",
+      "verdict": "PASS",
+      "source_quote": "很快张羽就带了更多东西回来。",
+      "target_quote": "Chẳng bao lâu sau Trương Vũ lại mang về thêm nhiều thứ hơn.",
+      "reason": "Giữ sau đó sớm mang thêm nhiều thứ về."
+    },
+    {
+      "id": "c0001p0088",
+      "verdict": "PASS",
+      "source_quote": "除了各种高中教材，神经兴奋填充剂之外，还有调节激素水平的胶囊，妖兽专用的补剂，还有一瓶瓶没有包装的药粉。",
+      "target_quote": "Ngoài các loại giáo trình cấp ba, chất kích thích thần kinh, còn có thêm viên nang điều hòa nội tiết tố, thực phẩm bổ sung chuyên dụng cho yêu thú, và những lọ bột thuốc không có bao bì.",
+      "reason": "Đủ giáo trình, kích thích thần kinh, viên nang hormone, bổ sung yêu thú và bột không bao bì."
+    },
+    {
+      "id": "c0001p0089",
+      "verdict": "PASS",
+      "source_quote": "张羽的解释也很多，有时候说是打工买的便宜货，有时候说是同学送的，有时候说是补习班奖励的……",
+      "target_quote": "Lý giải của Trương Vũ cũng rất nhiều, khi thì nói là hàng rẻ mua bằng tiền đi làm, khi thì nói là bạn học tặng, khi thì nói là lớp luyện thi thưởng…",
+      "reason": "Giữ nhiều cách giải thích tiền làm thêm, bạn tặng, lớp thưởng, không bỏ một nguồn lời nói nào."
+    },
+    {
+      "id": "c0001p0090",
+      "verdict": "FAIL",
+      "source_quote": "母亲为儿子的勤奋而开心，更为他在补习班的好人缘和优秀表现而感到高兴。",
+      "target_quote": "Người mẹ vui vì sự chăm chỉ của con, càng vui hơn vì khả năng giao tiếp tốt và thành tích xuất sắc của cậu ở lớp luyện thi.",
+      "reason": "好人缘 là được mọi người quý mến/có quan hệ tốt; “khả năng giao tiếp tốt” chuyển kết quả quan hệ thành một kỹ năng chưa được nêu."
+    },
+    {
+      "id": "c0001p0091",
+      "verdict": "PASS",
+      "source_quote": "她转了1000块钱给张羽，让张羽记得要谢谢同学和老师。",
+      "target_quote": "Bà chuyển 1.000 đồng cho Trương Vũ, dặn Trương Vũ nhớ cảm ơn bạn học và thầy cô.",
+      "reason": "Giữ số 1.000, chuyển tiền và dặn cảm ơn, không tự thêm việc mua quà."
+    },
+    {
+      "id": "c0001p0092",
+      "verdict": "PASS",
+      "source_quote": "但渐渐的，她发现张羽的情绪开始变得不对劲，有时候早上出门前还高高兴兴的，晚上回来就一言不发直接睡觉了。",
+      "target_quote": "Nhưng dần dần, bà phát hiện tâm trạng của Trương Vũ bắt đầu có gì đó không ổn, có khi buổi sáng trước khi ra đi còn vui vẻ, tối về đã không nói một câu, đi thẳng vào ngủ.",
+      "reason": "Giữ mẹ dần thấy tâm trạng lạ, vui buổi sáng nhưng tối im lặng đi ngủ."
+    },
+    {
+      "id": "c0001p0093",
+      "verdict": "PASS",
+      "source_quote": "有时候刚刚还在开开心心吃饭，接了个电话后就眉头紧锁，一口也吃不下了。",
+      "target_quote": "Có khi đang ăn cơm vui vẻ, nhận xong một cuộc điện thoại thì mày nhăn mặt nhó, không nuốt thêm được miếng nào.",
+      "reason": "Giữ đang ăn vui, nhận điện thoại, nhíu mày và không ăn thêm."
+    },
+    {
+      "id": "c0001p0094",
+      "verdict": "PASS",
+      "source_quote": "她知道一定是修仙的压力太大，让张羽精神紧绷。",
+      "target_quote": "Bà biết chắc là áp lực tu tiên quá lớn, khiến Trương Vũ căng thẳng tinh thần.",
+      "reason": "Giữ suy đoán chắc chắn thuộc góc nhìn mẹ về áp lực tu tiên."
+    },
+    {
+      "id": "c0001p0095",
+      "verdict": "PASS",
+      "source_quote": "她只能多买点他爱吃的东西，多为他存一些学费，只希望能帮他减缓一些压力。",
+      "target_quote": "Bà chỉ có thể mua thêm những thứ cậu thích ăn, dành dụm thêm tiền học phí cho cậu, chỉ mong giúp cậu giảm bớt phần nào áp lực.",
+      "reason": "Đủ mua đồ ăn thích, dành học phí, mong giảm áp lực."
+    },
+    {
+      "id": "c0001p0096",
+      "verdict": "PASS",
+      "source_quote": "渐渐的，她又发现张羽特别在乎自己的手机，不止是平时几乎手机不离身，更是不准任何人随便碰他的手机，有电话也总是走进厕所关门再接。",
+      "target_quote": "Dần dần, bà lại phát hiện Trương Vũ rất để tâm đến điện thoại của mình, không chỉ bình thường gần như không rời tay, mà còn không cho bất kỳ ai tự tiện chạm vào điện thoại của cậu, có cuộc gọi thì luôn bước vào nhà vệ sinh đóng cửa lại rồi mới nghe.",
+      "reason": "Đủ bám điện thoại, cấm chạm và đóng cửa nhà vệ sinh khi nghe gọi."
+    },
+    {
+      "id": "c0001p0097",
+      "verdict": "PASS",
+      "source_quote": "有一次她看到手机没电了拿去充电，竟然都被张羽生气地说了一顿。",
+      "target_quote": "Có một lần bà thấy điện thoại hết pin mang đi sạc, vậy mà còn bị Trương Vũ tức giận mắng cho một trận.",
+      "reason": "Giữ mẹ sạc điện thoại hết pin rồi bị con giận mắng."
+    },
+    {
+      "id": "c0001p0098",
+      "verdict": "PASS",
+      "source_quote": "明白对方的压力大，她便再也不敢碰张羽的手机，生怕影响了儿子修仙。",
+      "target_quote": "Hiểu rằng cậu áp lực lớn, bà không còn dám đụng vào điện thoại của Trương Vũ nữa, sợ ảnh hưởng đến việc tu tiên của con.",
+      "reason": "Đúng mẹ vì cho rằng con áp lực mà không dám chạm máy, sợ ảnh hưởng tu tiên."
+    },
+    {
+      "id": "c0001p0099",
+      "verdict": "PASS",
+      "source_quote": "突然有一天，张羽问她要了补习费，说是补习班请了考上顶尖大学的前辈过来为他们讲课，这是要给前辈的钱。",
+      "target_quote": "Bỗng một ngày, Trương Vũ xin bà tiền học thêm, nói là lớp luyện thi đã mời một đàn anh thi đỗ đại học hàng đầu đến giảng bài cho họ, đây là tiền dành cho đàn anh đó.",
+      "reason": "Giữ xin học phí bổ sung, đàn anh thi đỗ đại học hàng đầu và tiền thù lao cho người đó."
+    },
+    {
+      "id": "c0001p0100",
+      "verdict": "PASS",
+      "source_quote": "然后是给高中招生老师的推荐费。",
+      "target_quote": "Rồi đến tiền giới thiệu cho giáo viên tuyển sinh cấp ba.",
+      "reason": "Đúng khoản phí giới thiệu trả giáo viên tuyển sinh cấp ba."
+    },
+    {
+      "id": "c0001p0101",
+      "verdict": "PASS",
+      "source_quote": "给医院的灵根检测费。",
+      "target_quote": "Tiền kiểm tra linh căn ở bệnh viện.",
+      "reason": "Đúng khoản phí xét nghiệm linh căn ở bệnh viện."
+    },
+    {
+      "id": "c0001p0102",
+      "verdict": "PASS",
+      "source_quote": "还有要和补习班的同学一起购买民用级的儿童飞剑。",
+      "target_quote": "Rồi còn cùng bạn học ở lớp luyện thi mua phi kiếm dân dụng loại dành cho trẻ em.",
+      "reason": "Giữ mua chung bạn lớp luyện thi, cấp dân dụng và phi kiếm trẻ em."
+    },
+    {
+      "id": "c0001p0103",
+      "verdict": "FAIL",
+      "source_quote": "从两三千到七八千……最后一次让她直接打了两万块钱，张羽说是租借天灵根的费用。",
+      "target_quote": "Từ hai ba nghìn đến bảy tám nghìn… lần cuối cùng bà phải chuyển thẳng hai mươi triệu đồng, Trương Vũ nói là phí thuê mướn Thiên Linh Căn.",
+      "reason": "两万块钱 là 20.000 đơn vị tiền, không phải 20.000.000; sai một nghìn lần và phá tương quan khoản tiền với các con số còn lại."
+    },
+    {
+      "id": "c0001p0104",
+      "verdict": "PASS",
+      "source_quote": "但好消息终于传来，张羽成功考进嵩阳高中了。",
+      "target_quote": "Nhưng tin vui cuối cùng cũng đến, Trương Vũ đã thi đỗ vào Trường cấp ba Tung Dương.",
+      "reason": "Đúng tin đỗ Trường cấp ba Tung Dương."
+    },
+    {
+      "id": "c0001p0105",
+      "verdict": "FAIL",
+      "source_quote": "母亲感到欣喜无比，她对儿子的努力和天赋感到自豪，对接下来张羽说的学费、学杂费、药剂费等等也都一口答应下来。",
+      "target_quote": "Người mẹ vô cùng mừng rỡ, bà tự hào về sự nỗ lực và tài năng của con, những khoản học phí, phí tạp vụ, phí thuốc… mà Trương Vũ nói tiếp theo bà đều gật đầu nhận hết.",
+      "reason": "学杂费 là các khoản phụ thu/tạp phí học đường; “phí tạp vụ” thành tiền cho công việc tạp vụ, sai loại chi phí."
+    },
+    {
+      "id": "c0001p0106",
+      "verdict": "PASS",
+      "source_quote": "但开学以后，张羽开口要的钱越来越多，家中逐渐入不敷出。",
+      "target_quote": "Nhưng sau khi nhập học, tiền Trương Vũ xin ngày càng nhiều hơn, gia đình dần dần thu không đủ chi.",
+      "reason": "Giữ sau nhập học xin tiền tăng và thu không đủ chi."
+    },
+    {
+      "id": "c0001p0107",
+      "verdict": "PASS",
+      "source_quote": "终于在某一天下午，听着电话另一头的声音，母亲心中一颤。",
+      "target_quote": "Cuối cùng vào một buổi chiều nọ, nghe tiếng bên kia đầu dây điện thoại, người mẹ giật thót tim.",
+      "reason": "Giữ một buổi chiều, tiếng qua điện thoại làm mẹ hoảng."
+    },
+    {
+      "id": "c0001p0108",
+      "verdict": "PASS",
+      "source_quote": "“喂？请问是张羽的母亲吗？”",
+      "target_quote": "\"A lô? Xin hỏi có phải mẹ của Trương Vũ không ạ?\"",
+      "reason": "Đúng lời hỏi mẹ Trương Vũ qua điện thoại, không đổi thành SMS."
+    },
+    {
+      "id": "c0001p0109",
+      "verdict": "PASS",
+      "source_quote": "“你知不知道你儿子的借款已经逾期30天了……”",
+      "target_quote": "\"Bà có biết khoản vay của con trai bà đã quá hạn 30 ngày rồi không…\"",
+      "reason": "Giữ con vay và quá hạn 30 ngày, đúng đối tượng người nghe là mẹ."
+    },
+    {
+      "id": "c0001p0110",
+      "verdict": "PASS",
+      "source_quote": "当天夜里，张羽向母亲坦白了一切。",
+      "target_quote": "Đêm hôm đó, Trương Vũ thú nhận tất cả với mẹ.",
+      "reason": "Đúng tối cùng ngày con thú nhận mọi chuyện."
+    },
+    {
+      "id": "c0001p0111",
+      "verdict": "FAIL",
+      "source_quote": "过去一年多来，在学习过程中的种种花费并没有他嘴上说的那些免费、赏识、馈赠……钱全都来自于他从各大平台的借贷。",
+      "target_quote": "Hơn một năm qua, những khoản chi tiêu trong quá trình học tập không hề miễn phí, được trân trọng hay được tặng như cậu nói miệng… tất cả tiền đều đến từ những khoản vay trên các nền tảng lớn.",
+      "reason": "“Những khoản chi tiêu ... được trân trọng” sai kết hợp chủ thể-vị ngữ; 赏识 nói việc cậu được đánh giá cao nên được hỗ trợ, không phải khoản chi được trân trọng."
+    },
+    {
+      "id": "c0001p0112",
+      "verdict": "PASS",
+      "source_quote": "“妈，对不起。”",
+      "target_quote": "\"Mẹ, con xin lỗi.\"",
+      "reason": "Giữ con xin lỗi mẹ."
+    },
+    {
+      "id": "c0001p0113",
+      "verdict": "PASS",
+      "source_quote": "“但我真的想修仙啊。”",
+      "target_quote": "\"Nhưng con thực sự muốn tu tiên mà.\"",
+      "reason": "Giữ lời nhấn mạnh thực sự muốn tu tiên."
+    },
+    {
+      "id": "c0001p0114",
+      "verdict": "PASS",
+      "source_quote": "“哪怕欠上一辈子还不上欠债，我也想修仙……”",
+      "target_quote": "\"Dù có mắc nợ cả đời không trả được, con vẫn muốn tu tiên…\"",
+      "reason": "Giữ nhượng bộ mắc nợ không trả được cả đời vẫn muốn tu tiên."
+    },
+    {
+      "id": "c0001p0115",
+      "verdict": "PASS",
+      "source_quote": "听完这一切，母亲默默卖掉了家中所有值钱的东西，然后再借贷一部分钱为张羽还债。",
+      "target_quote": "Nghe xong tất cả, người mẹ lặng lẽ bán đi tất cả những thứ có giá trị trong nhà, rồi lại vay thêm một phần tiền để trả nợ cho Trương Vũ.",
+      "reason": "Đủ bán tất cả đồ đáng tiền, vay thêm một phần rồi trả nợ con."
+    },
+    {
+      "id": "c0001p0116",
+      "verdict": "PASS",
+      "source_quote": "本以为接下来儿子能够安心修仙。",
+      "target_quote": "Tưởng rằng sau đó con có thể yên tâm tu tiên.",
+      "reason": "Giữ kỳ vọng của mẹ con được an tâm, không đổi thành kết quả đã xảy ra."
+    },
+    {
+      "id": "c0001p0117",
+      "verdict": "PASS",
+      "source_quote": "但她却很快又发现了儿子新的贷款逾期。",
+      "target_quote": "Nhưng bà lại nhanh chóng phát hiện thêm khoản vay quá hạn mới của con.",
+      "reason": "Giữ sớm phát hiện khoản vay quá hạn mới."
+    },
+    {
+      "id": "c0001p0118",
+      "verdict": "PASS",
+      "source_quote": "还贷……借贷……还贷……借贷……",
+      "target_quote": "Trả nợ… vay nợ… trả nợ… vay nợ…",
+      "reason": "Chu kỳ trả/vay lặp đúng thứ tự và nhịp châm biếm."
+    },
+    {
+      "id": "c0001p0119",
+      "verdict": "PASS",
+      "source_quote": "母亲终于忍不住劝说张羽少花点钱。",
+      "target_quote": "Người mẹ cuối cùng không nhịn được nữa, khuyên Trương Vũ tiêu ít tiền hơn.",
+      "reason": "Giữ mẹ hết chịu nổi và khuyên giảm chi tiêu."
+    },
+    {
+      "id": "c0001p0120",
+      "verdict": "FAIL",
+      "source_quote": "“妈，这个药不能停，停药后道心会倒退的，我就前功尽弃了……”",
+      "target_quote": "\"Mẹ ơi, thuốc này không thể ngừng được, ngừng thuốc thì đạo tâm sẽ thụt lùi, con sẽ trắng tay từ đầu…\"",
+      "reason": "前功尽弃 là mọi công sức trước đó đổ sông đổ biển; “trắng tay từ đầu” chuyển sang mất của cải và gây hiểu sai về kết quả tu luyện."
+    },
+    {
+      "id": "c0001p0121",
+      "verdict": "PASS",
+      "source_quote": "“天灵根一定要租的，没有天灵根我法力跟不上……”",
+      "target_quote": "\"Thiên Linh Căn nhất định phải thuê, không có Thiên Linh Căn thì pháp lực của con theo không kịp…\"",
+      "reason": "Giữ thuê Thiên Linh Căn bắt buộc và thiếu căn thì pháp lực không theo kịp."
+    },
+    {
+      "id": "c0001p0122",
+      "verdict": "FAIL",
+      "source_quote": "“这张补习班的VIP卡要充钱了，不然我听不懂学校老师课上讲的功法……”",
+      "target_quote": "\"Thẻ VIP của lớp luyện thi sắp phải nạp tiền rồi, không thì con không hiểu được công pháp thầy giảng trên lớp…\"",
+      "reason": "Nguồn phân biệt lớp luyện thi với 学校老师, thầy ở trường chính khóa; draft bỏ “ở trường” khiến nơi dạy công pháp không còn rõ trong cảnh đang nói lớp luyện thi."
+    },
+    {
+      "id": "c0001p0123",
+      "verdict": "PASS",
+      "source_quote": "发达的仙道技术让没有灵根的凡人也能踏上仙路，但代价则是定期进行最昂贵的学习和维护才能持续走下去。",
+      "target_quote": "Kỹ thuật tiên đạo phát triển cho phép người thường không có linh căn cũng có thể bước lên con đường tu tiên, nhưng cái giá phải trả là phải thường xuyên bỏ ra chi phí học tập và bảo dưỡng đắt nhất mới có thể tiếp tục đi tiếp.",
+      "reason": "Đủ người không linh căn vẫn tu được, đổi lại học/bảo dưỡng định kỳ tốn nhất để tiếp tục."
+    },
+    {
+      "id": "c0001p0124",
+      "verdict": "PASS",
+      "source_quote": "转眼开学三个月的时间过去，看着欠债越来越多，到现在连家里的房租、水电都已经无力负担……这一切一切都好像是一场永无止境的噩梦，母亲终于再也无法承受了。",
+      "target_quote": "Thoáng cái đã ba tháng sau khi nhập học trôi qua, nhìn nợ nần ngày càng chồng chất, đến nay ngay cả tiền thuê nhà, tiền điện nước của gia đình cũng đã không còn khả năng chi trả… tất cả những điều đó cứ như một cơn ác mộng không có hồi kết, người mẹ cuối cùng không thể chịu đựng thêm nữa.",
+      "reason": "Đúng ba tháng sau khai giảng, nợ tăng, thiếu tiền thuê/điện/nước và mẹ hết chịu nổi."
+    },
+    {
+      "id": "c0001p0125",
+      "verdict": "PASS",
+      "source_quote": "于是当又一天放学回家时，张羽再也没有看到母亲的身影。",
+      "target_quote": "Thế là khi tan học trở về nhà một ngày nọ, Trương Vũ không còn thấy bóng dáng mẹ đâu nữa.",
+      "reason": "Giữ quan hệ thế là một ngày tan học về không còn thấy mẹ; không tự xác định chết hay bị bắt."
+    },
+    {
+      "id": "c0001p0126",
+      "verdict": "PASS",
+      "source_quote": "他看了母亲的留言后呆坐良久，最终默默走上了天台。",
+      "target_quote": "Cậu đọc xong lời nhắn của mẹ rồi ngồi ngẩn ra hồi lâu, cuối cùng lặng lẽ bước lên mái nhà.",
+      "reason": "Giữ đọc lời nhắn, ngồi ngẩn lâu rồi lặng lẽ lên sân thượng."
+    },
+    {
+      "id": "c0001p0127",
+      "verdict": "PASS",
+      "source_quote": "……",
+      "target_quote": "……",
+      "reason": "Dấu lược chuyển cảnh được giữ."
+    },
+    {
+      "id": "c0001p0128",
+      "verdict": "PASS",
+      "source_quote": "出租房的天台上。",
+      "target_quote": "Trên mái nhà thuê.",
+      "reason": "Đúng mái/sân thượng nơi thuê ở, mở cảnh kế tiếp."
+    },
+    {
+      "id": "c0001p0129",
+      "verdict": "PASS",
+      "source_quote": "一阵剧痛从男人的脑海中传来，将他那混沌的意识从黑暗中渐渐唤醒。",
+      "target_quote": "Một cơn đau dữ dội từ trong đầu người đàn ông truyền đến, dần dần đánh thức ý thức hỗn độn của anh ta từ trong bóng tối.",
+      "reason": "Nguồn chuyển sang người đàn ông tỉnh ý thức; “anh ta” đúng giai đoạn chưa nhận rõ thân phận."
+    },
+    {
+      "id": "c0001p0130",
+      "verdict": "PASS",
+      "source_quote": "他睁开眼向前望去，便看前方不远处那一条人来人往，污水横流的街道。",
+      "target_quote": "Anh ta mở mắt nhìn về phía trước, thấy không xa phía trước là một con đường người qua lại tấp nập, nước thải chảy tràn.",
+      "reason": "Giữ mở mắt, đường gần trước mặt, đông người và nước thải."
+    },
+    {
+      "id": "c0001p0131",
+      "verdict": "PASS",
+      "source_quote": "街道两侧闪烁着霓虹光芒的各色广告招牌，再往上看去则是一座座黑漆漆的楼房挤在一起，像是要将整片天空遮蔽。",
+      "target_quote": "Hai bên đường là những biển quảng cáo đủ màu sắc nhấp nháy ánh đèn neon, nhìn lên cao hơn thì là những tòa nhà đen thui chen chúc nhau, như muốn che khuất cả bầu trời.",
+      "reason": "Đủ biển neon màu sắc và dãy nhà tối chen chúc như che trời."
+    },
+    {
+      "id": "c0001p0132",
+      "verdict": "PASS",
+      "source_quote": "而脚下的楼房则是一处破旧的公寓，那斑驳的红砖墙上还在投影着理财广告的视频，广告中是一位位飞天遁地的仙人正一同推荐着新用户三十天免息的修仙贷。",
+      "target_quote": "Còn tòa nhà ngay dưới chân thì là một khu chung cư cũ kỹ xuống cấp, trên bức tường gạch đỏ loang lổ vẫn đang chiếu video quảng cáo tài chính, trong quảng cáo là những vị tiên phi thiên độn địa đang cùng nhau giới thiệu khoản vay tu tiên miễn lãi ba mươi ngày cho người dùng mới.",
+      "reason": "Đủ chung cư cũ, chiếu lên gạch đỏ, tiên quảng cáo khoản vay tu tiên và 30 ngày miễn lãi người mới."
+    },
+    {
+      "id": "c0001p0133",
+      "verdict": "PASS",
+      "source_quote": "“我不是在玩黑吗喽吗？”",
+      "target_quote": "\"Mình không phải đang chơi Hắc Ma Hầu sao?\"",
+      "reason": "Giữ câu tự hỏi đang chơi Hắc Ma Hầu, khóa tên đúng, giọng gamer hiện đại phù hợp."
+    },
+    {
+      "id": "c0001p0134",
+      "verdict": "PASS",
+      "source_quote": "“这是哪？”",
+      "target_quote": "\"Đây là đâu?\"",
+      "reason": "Giữ tự hỏi đang ở đâu, không thêm thông tin."
+    },
+    {
+      "id": "c0001p0135",
+      "verdict": "PASS",
+      "source_quote": "正想着怎么回事的时候，转过头的他就发现天台上摆满了蜡烛。",
+      "target_quote": "Đang thắc mắc chuyện gì đang xảy ra, quay đầu lại thì anh ta phát hiện trên mái nhà đầy nến.",
+      "reason": "Đúng đang tự hỏi, quay đầu thấy sân thượng đầy nến."
+    },
+    {
+      "id": "c0001p0136",
+      "verdict": "PASS",
+      "source_quote": "闪烁着猩红火光的一排排蜡烛，正环绕着他和一具破旧娃娃。",
+      "target_quote": "Những hàng nến lửa đỏ thẫm nhấp nháy đang vây quanh anh ta và một con búp bê cũ kỹ.",
+      "reason": "Đủ hàng nến đỏ bao quanh người và búp bê cũ."
+    },
+    {
+      "id": "c0001p0137",
+      "verdict": "PASS",
+      "source_quote": "那是一个布料泛黄褪色，缝线歪歪扭扭，仿佛随时会裂开的布娃娃。",
+      "target_quote": "Đó là một con búp bê vải vàng ố phai màu, đường khâu xiêu vẹo, tưởng như có thể nứt toác bất cứ lúc nào.",
+      "reason": "Đủ búp bê vải ố/phai, chỉ khâu lệch và khả năng rách bất cứ lúc nào."
+    },
+    {
+      "id": "c0001p0138",
+      "verdict": "PASS",
+      "source_quote": "诡异的场景似乎刺激到了他的大脑，让一股股破碎的记忆不断在他的脑海中来回翻滚跳跃。",
+      "target_quote": "Khung cảnh kỳ quái dường như kích thích não bộ của anh ta, khiến từng mảnh ký ức vỡ vụn cứ liên tục cuộn trào nhảy nhót trong đầu.",
+      "reason": "Giữ “dường như” cảnh kích thích ký ức vỡ vụn; không biến tác động suy đoán thành chắc chắn."
+    },
+    {
+      "id": "c0001p0139",
+      "verdict": "PASS",
+      "source_quote": "“这不是中国了……给我干到异世界来了？”",
+      "target_quote": "\"Đây không còn là Trung Quốc nữa… bị đưa sang dị thế giới rồi à?\"",
+      "reason": "Đúng không còn Trung Quốc và nghi vấn bị đưa sang thế giới khác; giọng hiện đại còn giữ."
+    },
+    {
+      "id": "c0001p0140",
+      "verdict": "PASS",
+      "source_quote": "他有些难以接受穿越的事情。",
+      "target_quote": "Anh ta có phần khó chấp nhận chuyện xuyên việt này.",
+      "reason": "Giữ khó chấp nhận xuyên việt, không thêm phản ứng kịch tính."
+    },
+    {
+      "id": "c0001p0141",
+      "verdict": "PASS",
+      "source_quote": "但脑袋里那些关于仙道技术的真实记忆却不断冲击着他的意识，让他与原身逐渐融合的同时，更不断提醒着他眼前已是另一个世界。",
+      "target_quote": "Nhưng những ký ức thực về kỹ thuật tiên đạo trong đầu cứ không ngừng tấn công ý thức của anh ta, vừa khiến anh ta dần dần hợp nhất với bản thể gốc, vừa không ngừng nhắc nhở anh ta rằng trước mắt đã là một thế giới khác.",
+      "reason": "Đúng ký ức tiên đạo tác động, đồng thời hòa vào nguyên thân và nhận ra thế giới khác."
+    },
+    {
+      "id": "c0001p0142",
+      "verdict": "PASS",
+      "source_quote": "这里便是昆墟，以类似金字塔形矗立在大地上的超级建筑，共有地上三十六层以及地下十八层。",
+      "target_quote": "Đây chính là Côn Khư, một công trình kiến trúc siêu lớn dựng đứng trên mặt đất theo dạng giống hình kim tự tháp, gồm ba mươi sáu tầng trên mặt đất và mười tám tầng dưới lòng đất.",
+      "reason": "Đúng Côn Khư, hình gần kim tự tháp, 36 tầng nổi và 18 tầng ngầm."
+    },
+    {
+      "id": "c0001p0143",
+      "verdict": "PASS",
+      "source_quote": "从面积最大，宛如一片大陆的第一层开始，每一层便都是一方新天地。",
+      "target_quote": "Bắt đầu từ tầng một có diện tích lớn nhất, tựa như một lục địa, mỗi tầng lại là một thiên địa mới.",
+      "reason": "Đúng tầng một lớn nhất như lục địa, mỗi tầng là một cõi khác."
+    },
+    {
+      "id": "c0001p0144",
+      "verdict": "PASS",
+      "source_quote": "至于昆墟之外的世界是什么样子，张羽的脑袋里并没有答案。",
+      "target_quote": "Còn về thế giới bên ngoài Côn Khư là gì, trong đầu Trương Vũ không có câu trả lời.",
+      "reason": "Giữ không có đáp án về thế giới bên ngoài; không bịa kiến thức ngoài Côn Khư."
+    },
+    {
+      "id": "c0001p0145",
+      "verdict": "PASS",
+      "source_quote": "他只知道昆墟之内，是一个以仙道各大宗门为尊的世界。",
+      "target_quote": "Cậu chỉ biết rằng bên trong Côn Khư là một thế giới tôn sùng các đại tông môn tiên đạo.",
+      "reason": "Giữ thế giới đặt đại tông môn tiên đạo ở địa vị được tôn trọng cao nhất."
+    },
+    {
+      "id": "c0001p0146",
+      "verdict": "PASS",
+      "source_quote": "大宗门高高在上，也几乎垄断了粮食、能源、交通、教育、科研、医疗、金融、互联网等等各行各业，政府军队在宗门执法队前更像是看门的保安。",
+      "target_quote": "Các đại tông môn ở vị trí cao, gần như độc chiếm tất cả các ngành lương thực, năng lượng, giao thông, giáo dục, nghiên cứu khoa học, y tế, tài chính, internet… chính phủ và quân đội trước Chấp Pháp Đội của tông môn còn giống bảo vệ cổng hơn.",
+      "reason": "Đủ ngành độc quyền gần hết, chính phủ/quân đội so với đội chấp pháp như bảo vệ cổng."
+    },
+    {
+      "id": "c0001p0147",
+      "verdict": "PASS",
+      "source_quote": "但普通人无福享受仙道技术带来的大部分福利，反而每日忙于生计之中。",
+      "target_quote": "Nhưng người thường không có phúc hưởng hầu hết phúc lợi mà kỹ thuật tiên đạo mang lại, ngược lại mỗi ngày đều bận rộn mưu sinh.",
+      "reason": "Giữ phần lớn phúc lợi không dành người thường và đời sống mưu sinh."
+    },
+    {
+      "id": "c0001p0148",
+      "verdict": "PASS",
+      "source_quote": "而他便是生活在昆墟第一层，一名考进嵩阳高中名叫张羽的高中生，最近正沉迷于某种古怪仪式……",
+      "target_quote": "Còn cậu chính là một học sinh cấp ba sống ở tầng một của Côn Khư, tên Trương Vũ, đã thi vào Trường cấp ba Tung Dương, gần đây đang say mê với một loại nghi lễ kỳ quái nào đó…",
+      "reason": "Đủ tầng một, học sinh Trương Vũ đỗ Tung Dương và gần đây mê nghi lễ; “cậu” hợp khi đã nhận thân phận học sinh."
+    },
+    {
+      "id": "c0001p0149",
+      "verdict": "FAIL",
+      "source_quote": "“现在的我，已经成了另一个世界的张羽。”",
+      "target_quote": "\"Bây giờ ta, đã trở thành Trương Vũ của một thế giới khác rồi.\"",
+      "reason": "Dấu phẩy trong “Bây giờ ta, đã trở thành…” tách chủ ngữ khỏi vị ngữ do bê dấu ngắt nguồn sang tiếng Việt. Đổi “ta” thành “mình” trong câu sửa là đề xuất thống nhất giọng, không phải riêng đại từ “ta” đã làm sai nghĩa."
+    },
+    {
+      "id": "c0001p0150",
+      "verdict": "PASS",
+      "source_quote": "就在这时，一阵刺痛从掌心传来，将沉浸在记忆冲击中的张羽唤醒。",
+      "target_quote": "Đúng lúc đó, một cơn đau buốt từ lòng bàn tay truyền đến, đánh thức Trương Vũ đang chìm đắm trong làn sóng ký ức.",
+      "reason": "Giữ đúng lúc đau nhói lòng tay cắt dòng ký ức."
+    },
+    {
+      "id": "c0001p0151",
+      "verdict": "PASS",
+      "source_quote": "他低头望去，便看到一个透明符号出现在掌中，并在以一种极为缓慢的速度渐渐变黑。",
+      "target_quote": "Cậu cúi đầu nhìn xuống, thấy một ký hiệu trong suốt xuất hiện trong lòng bàn tay, đang từ từ chuyển dần sang màu đen với tốc độ cực kỳ chậm.",
+      "reason": "Đúng dấu trong suốt lòng bàn tay và chuyển đen cực chậm, chưa nói chuyển hết."
+    },
+    {
+      "id": "c0001p0152",
+      "verdict": "PASS",
+      "source_quote": "“这又是什么东西？”",
+      "target_quote": "\"Cái này là gì vậy?\"",
+      "reason": "Giữ câu hỏi nhận diện dấu; sắc thái “lại” có thể bổ sung nhưng không đổi nghĩa sự kiện."
+    },
+    {
+      "id": "c0001p0153",
+      "verdict": "PASS",
+      "source_quote": "伴随着夜风吹过，四周围的猩红烛光一阵摇曳。",
+      "target_quote": "Theo làn gió đêm thổi qua, ánh nến đỏ thẫm xung quanh rung rinh một cái.",
+      "reason": "Giữ gió đêm và ánh nến đỏ dao động; câu hơi sát chữ, không thay nhân quả."
+    },
+    {
+      "id": "c0001p0154",
+      "verdict": "PASS",
+      "source_quote": "而地上那具破旧娃娃瞪着一双黑色纽扣组成的空洞眼眸，正直挺挺地看向他。",
+      "target_quote": "Còn con búp bê cũ kỹ dưới đất trợn đôi mắt rỗng tuếch cấu tạo từ hai cúc nút đen, đang nhìn thẳng về phía cậu.",
+      "reason": "Đủ búp bê cũ, mắt cúc đen rỗng và nhìn thẳng; “cúc nút” có thể gọn nhưng không sai vật thể."
+    },
+    {
+      "id": "c0001p0155",
+      "verdict": "PASS",
+      "source_quote": "他想要回忆到底是怎么回事，但越想脑袋就越疼越晕。",
+      "target_quote": "Cậu muốn nhớ lại rốt cuộc chuyện gì đã xảy ra, nhưng càng nghĩ thì đầu càng đau càng choáng.",
+      "reason": "Giữ muốn nhớ, càng nghĩ càng đau/chóng mặt."
+    },
+    {
+      "id": "c0001p0156",
+      "verdict": "PASS",
+      "source_quote": "空气中的气氛越发阴森诡异，张羽捂着还在眩晕的脑袋，只觉得周围一片天旋地转。",
+      "target_quote": "Không khí xung quanh ngày càng âm u kỳ dị, Trương Vũ ôm đầu vẫn còn đang chóng mặt, chỉ thấy xung quanh đất trời quay cuồng.",
+      "reason": "Đúng không khí kỳ quái tăng, ôm đầu và cảm giác quay cuồng."
+    },
+    {
+      "id": "c0001p0157",
+      "verdict": "PASS",
+      "source_quote": "当他回过神来时，便发现自己已经迷迷糊糊地离开了天台，一步步回到自己家门前。",
+      "target_quote": "Khi cậu hoàn hồn lại thì phát hiện mình đã mơ màng rời khỏi mái nhà, từng bước trở về trước cửa nhà mình.",
+      "reason": "Đúng hoàn hồn mới biết đã mơ màng rời sân thượng về cửa nhà; không thêm hành trình nhớ rõ."
+    },
+    {
+      "id": "c0001p0158",
+      "verdict": "PASS",
+      "source_quote": "扫了一眼催缴房租的单子，跨入房门，映入张羽眼帘的只有一张床和一张桌子。",
+      "target_quote": "Liếc mắt nhìn tờ thông báo đòi tiền thuê nhà, bước qua cửa vào trong, thứ hiện ra trước mắt Trương Vũ chỉ là một chiếc giường và một cái bàn.",
+      "reason": "Đủ thông báo thuê, bước vào và chỉ bàn/giường; vẫn cùng người quan sát."
+    },
+    {
+      "id": "c0001p0159",
+      "verdict": "PASS",
+      "source_quote": "“这就是我家吗？”",
+      "target_quote": "\"Đây là nhà mình à?\"",
+      "reason": "Giữ câu tự hỏi nhà mình, giọng người xuyên việt hiện đại."
+    },
+    {
+      "id": "c0001p0160",
+      "verdict": "PASS",
+      "source_quote": "感受自己被汗水浸透的黏腻皮肤，还有周围那无比闷热的环境，张羽想要找空调遥控器，却想起来这房子里根本没空调。",
+      "target_quote": "Cảm nhận làn da nhớp nháp đẫm mồ hôi, cùng với cái nóng hầm hập xung quanh, Trương Vũ muốn tìm điều khiển điều hòa, nhưng lại nhớ ra căn phòng này vốn chẳng có điều hòa.",
+      "reason": "Đủ mồ hôi nhớp, nóng, tìm điều khiển rồi nhớ không có điều hòa."
+    },
+    {
+      "id": "c0001p0161",
+      "verdict": "PASS",
+      "source_quote": "他又想要冲一冲水，却发现水已经给停了。",
+      "target_quote": "Cậu lại muốn tắm tráng qua, nhưng phát hiện nước đã bị cắt rồi.",
+      "reason": "Đúng muốn dội/tắm nước rồi biết nước đã bị cắt."
+    },
+    {
+      "id": "c0001p0162",
+      "verdict": "FAIL",
+      "source_quote": "张羽有些无奈地坐倒在床上。",
+      "target_quote": "Trương Vũ đành thở dài ngồi phịch xuống giường.",
+      "reason": "Nguồn chỉ tả bất lực ngồi xuống giường; draft thêm hành động “thở dài” không có chứng cứ."
+    },
+    {
+      "id": "c0001p0163",
+      "verdict": "PASS",
+      "source_quote": "“什么破地方。”",
+      "target_quote": "\"Cái chỗ chết tiệt này.\"",
+      "reason": "Lời chửi địa điểm có căn cứ 破地方; không tự tăng độ thô quá mức."
+    },
+    {
+      "id": "c0001p0164",
+      "verdict": "PASS",
+      "source_quote": "“真有仙人又怎么样？这日子过得还不如没有仙人的世界。”",
+      "target_quote": "\"Có tiên nhân thì đã sao? Cuộc sống này còn tệ hơn cả thế giới không có tiên nhân.\"",
+      "reason": "Giữ tiên nhân vẫn không làm cuộc sống tốt hơn thế giới không tiên."
+    },
+    {
+      "id": "c0001p0165",
+      "verdict": "PASS",
+      "source_quote": "张羽目光扫过墙面，发现桌子后面的墙壁上贴满了从小到大的奖状。",
+      "target_quote": "Trương Vũ đưa mắt nhìn quanh tường, phát hiện bức tường phía sau bàn dán đầy những tấm giấy khen từ nhỏ đến lớn.",
+      "reason": "Đúng quét nhìn tường, phía sau bàn đầy giấy khen từ nhỏ."
+    },
+    {
+      "id": "c0001p0166",
+      "verdict": "PASS",
+      "source_quote": "一年级、二年级、三年级……一直到初三，原来的张羽几乎每年都是年级第一。",
+      "target_quote": "Lớp một, lớp hai, lớp ba… cho đến lớp chín, Trương Vũ nguyên gốc gần như năm nào cũng đứng nhất khối.",
+      "reason": "Giữ lớp một đến lớp chín và gần như hằng năm nhất khối, không nâng thành luôn luôn."
+    },
+    {
+      "id": "c0001p0167",
+      "verdict": "PASS",
+      "source_quote": "看着这些奖状，各种领奖的记忆也从张羽脑海中涌出：“原先的张羽是个勤学刻苦，从小就成绩优秀的学生。”",
+      "target_quote": "Nhìn những tờ giấy khen này, các ký ức về lễ nhận thưởng cũng từ đầu óc Trương Vũ tuôn ra: \"Trương Vũ nguyên gốc là một học sinh chăm chỉ hiếu học, từ nhỏ đã có thành tích xuất sắc.\"",
+      "reason": "Giữ ký ức nhận thưởng và đánh giá nguyên chủ chăm chỉ, học giỏi từ nhỏ; ngoặc theo nguồn không gán thành nói thành tiếng."
+    },
+    {
+      "id": "c0001p0168",
+      "verdict": "PASS",
+      "source_quote": "“现在就读的嵩阳高中也是市里的重点高中。”",
+      "target_quote": "\"Trường cấp ba đang theo học cũng là Trường cấp ba Tung Dương, trường trọng điểm của thành phố.\"",
+      "reason": "Đúng Tung Dương đang theo học là trường trọng điểm thành phố."
+    },
+    {
+      "id": "c0001p0169",
+      "verdict": "PASS",
+      "source_quote": "“老子是学霸啊。”",
+      "target_quote": "\"Ông nội là học bá đây.\"",
+      "reason": "Giữ lời tự đắc của gamer; “ông nội/học bá” có thể nhuận sắc, không đủ căn cứ coi là lỗi nghĩa chắc chắn."
+    },
+    {
+      "id": "c0001p0170",
+      "verdict": "PASS",
+      "source_quote": "回忆着脑海中的知识，张羽目光渐渐亮了起来：“考上名牌大学就能筑基，加入大宗门就能结丹，还能在昆墟往上爬，离开这个贫民窟，享受更多仙道技术的福利，到时候多活个几百年也没问题。”",
+      "target_quote": "Ôn lại những kiến thức trong đầu, ánh mắt Trương Vũ dần dần sáng lên: \"Thi đỗ đại học danh tiếng là có thể Trúc Cơ, gia nhập đại tông môn là có thể Kết Đan, còn có thể leo lên tầng cao hơn trong Côn Khư, rời khỏi khu ổ chuột này, hưởng nhiều phúc lợi kỹ thuật tiên đạo hơn, lúc đó sống thêm vài trăm năm cũng không phải vấn đề.\"",
+      "reason": "Đủ đỗ đại học/Trúc Cơ, vào tông môn/Kết Đan, leo tầng, rời ổ chuột, phúc lợi và sống thêm vài trăm năm."
+    },
+    {
+      "id": "c0001p0171",
+      "verdict": "PASS",
+      "source_quote": "想到这里，张羽突然觉得来到这个世界似乎也是个不错的事情。",
+      "target_quote": "Nghĩ đến đây, Trương Vũ bỗng thấy việc đến thế giới này xem ra cũng là chuyện không tệ.",
+      "reason": "Giữ nhận định bỗng thấy “xem ra” thế giới này không tệ."
+    },
+    {
+      "id": "c0001p0172",
+      "verdict": "PASS",
+      "source_quote": "就在他这么想着的时候，手机铃声突然响了起来。",
+      "target_quote": "Đúng lúc cậu đang nghĩ vậy thì chuông điện thoại đột nhiên vang lên.",
+      "reason": "Đúng đang nghĩ thì chuông điện thoại đột ngột vang."
+    },
+    {
+      "id": "c0001p0173",
+      "verdict": "PASS",
+      "source_quote": "“喂？”",
+      "target_quote": "\"A lô?\"",
+      "reason": "Đúng trả lời điện thoại “A lô”."
+    },
+    {
+      "id": "c0001p0174",
+      "verdict": "PASS",
+      "source_quote": "“张羽先生你好，您在我们平台的借款已经逾期3天了……”",
+      "target_quote": "\"Chào anh Trương Vũ, khoản vay của anh trên nền tảng chúng tôi đã quá hạn 3 ngày rồi…\"",
+      "reason": "Đủ lời chào anh Trương Vũ, khoản vay nền tảng và quá hạn 3 ngày."
+    },
+    {
+      "id": "c0001p0175",
+      "verdict": "PASS",
+      "source_quote": "挂了电话，张羽翻动着手机中的短信箱，便发现了密密麻麻的催款短信，都是原身在各大平台借贷逾期后的催缴。",
+      "target_quote": "Cúp máy xong, Trương Vũ lật hộp tin nhắn trong điện thoại, phát hiện dày đặc tin nhắn đòi nợ, toàn bộ đều là các thông báo đòi thanh toán sau khi bản thể gốc vay nợ quá hạn trên các nền tảng lớn.",
+      "reason": "Giữ cúp máy, kiểm SMS, dày đặc đòi nợ và nguyên chủ vay quá hạn nhiều nền tảng."
+    },
+    {
+      "id": "c0001p0176",
+      "verdict": "PASS",
+      "source_quote": "与此同时，脑海中的相关记忆也涌了出来。",
+      "target_quote": "Đồng thời, ký ức liên quan cũng trào ra trong đầu.",
+      "reason": "Giữ ký ức liên quan đến đồng thời, không đảo trình tự."
+    },
+    {
+      "id": "c0001p0177",
+      "verdict": "FAIL",
+      "source_quote": "“这家伙进高中之前就开始借贷补课了，进嵩阳高中后为了跟上大家的成绩，于是他又灵机一动，开始为了提升成绩以贷养贷，四处借钱吃药补课，强行激发潜力，最终不但钱越借越多，潜力也被渐渐榨干。”",
+      "target_quote": "\"Thằng này trước khi vào cấp ba đã bắt đầu vay tiền học thêm rồi, vào Trường cấp ba Tung Dương xong để theo kịp thành tích của mọi người, hắn lại nảy ra sáng kiến, bắt đầu lấy vay nuôi vay để nâng cao thành tích, vay tiền khắp nơi để mua thuốc học thêm, cưỡng ép kích thích tiềm năng, kết quả không những tiền vay càng ngày càng nhiều, tiềm năng cũng dần bị vắt cạn.\"",
+      "reason": "“Mua thuốc học thêm” không tách hai hành động 吃药 và 补课, dễ đọc thành loại thuốc học thêm; “lấy vay nuôi vay” còn nguyên cấu trúc Hán, cần diễn đạt vòng vay mới trả khoản vay cũ."
+    },
+    {
+      "id": "c0001p0178",
+      "verdict": "PASS",
+      "source_quote": "“这逼养的是一个靠着平台借贷伪装的修仙天才。”",
+      "target_quote": "\"Thằng khốn này là một thiên tài tu tiên giả tạo nhờ vào vay nợ nền tảng mà có.\"",
+      "reason": "Giữ chửi nguyên chủ và thiên tài tu tiên giả nhờ vay nền tảng; nguồn có tục nên giọng thô có căn cứ."
+    },
+    {
+      "id": "c0001p0179",
+      "verdict": "PASS",
+      "source_quote": "“甚至他妈都受不了他，最后一走了之了。”",
+      "target_quote": "\"Thậm chí cả mẹ hắn cũng không chịu nổi hắn, cuối cùng bỏ đi mất.\"",
+      "reason": "Giữ đến mẹ cũng chịu không nổi và bỏ đi, không thêm điểm đến hay lý do khác."
+    },
+    {
+      "id": "c0001p0180",
+      "verdict": "PASS",
+      "source_quote": "算了算一共逾期的借贷，张羽额头上立刻不断有冷汗冒了出来。",
+      "target_quote": "Tính tổng số nợ quá hạn, Trương Vũ lập tức không ngừng toát mồ hôi lạnh trên trán.",
+      "reason": "Đúng tính khoản quá hạn rồi mồ hôi lạnh liên tục."
+    },
+    {
+      "id": "c0001p0181",
+      "verdict": "PASS",
+      "source_quote": "只因为他发现利滚利下来，张羽已经欠了各大平台总共七十多万的钱。",
+      "target_quote": "Bởi vì cậu phát hiện ra rằng tính cả lãi kép, Trương Vũ đã nợ các nền tảng tổng cộng hơn bảy mươi vạn đồng.",
+      "reason": "Giữ lãi chồng lãi, tổng hơn 70 vạn; không tự đổi thành hàng trăm triệu."
+    },
+    {
+      "id": "c0001p0182",
+      "verdict": "PASS",
+      "source_quote": "而再看了看自己的账户，总共只剩下五十多块钱了。",
+      "target_quote": "Rồi nhìn lại tài khoản của mình, tổng cộng chỉ còn hơn năm mươi đồng.",
+      "reason": "Giữ tài khoản còn hơn 50, không làm thành đúng 50 hoặc hơn 500."
+    },
+    {
+      "id": "c0001p0183",
+      "verdict": "PASS",
+      "source_quote": "“竟然欠了七十万……靠！”",
+      "target_quote": "\"Mắc nợ đến bảy mươi vạn… khỉ thật!\"",
+      "reason": "Giữ lời kinh ngạc 70 vạn và tiếng chửi, không sửa lời nhân vật thành con số khác p0181."
+    },
+    {
+      "id": "c0001p0184",
+      "verdict": "PASS",
+      "source_quote": "张羽猛地一拳捶在床上，怒道：“这个世界里……就算对高中毕业的天之骄子来说，这也是一笔巨债啊。”",
+      "target_quote": "Trương Vũ mạnh tay đập xuống giường, tức giận nói: \"Ở cái thế giới này… dù là đối với thiên chi kiêu tử tốt nghiệp cấp ba đi nữa, đây cũng là một món nợ khổng lồ.\"",
+      "reason": "Giữ đập giường giận, ngay cả người ưu tú tốt nghiệp cấp ba cũng xem là nợ lớn."
+    },
+    {
+      "id": "c0001p0185",
+      "verdict": "PASS",
+      "source_quote": "“怪不得这家伙沉迷什么乱七八糟的仪式……这就是个人生无望的借贷狗。”",
+      "target_quote": "\"Bảo sao thằng này say mê mấy cái nghi lễ lộn xộn… đây đúng là một con nợ không còn hy vọng gì trong cuộc đời.\"",
+      "reason": "Giữ suy luận nghi lễ do tuyệt vọng và con nợ hết hy vọng; hạ nhẹ “狗” vẫn giữ thái độ khinh miệt."
+    },
+    {
+      "id": "c0001p0186",
+      "verdict": "PASS",
+      "source_quote": "“他自己爽够了，现在我来给他还债？”",
+      "target_quote": "\"Hắn đã tận hưởng đủ rồi, giờ đến lượt ta trả nợ cho hắn à?\"",
+      "reason": "Giữ hắn đã hưởng và người xuyên việt phải trả thay; “ta” có thể thống nhất thành “mình” theo giọng hiện đại, chưa đủ căn cứ báo sai nghĩa."
+    },
+    {
+      "id": "c0001p0187",
+      "verdict": "PASS",
+      "source_quote": "与此同时，房间中的灯光骤然熄灭。",
+      "target_quote": "Cùng lúc đó, ánh đèn trong phòng đột ngột tắt phụt.",
+      "reason": "Giữ cùng lúc đèn tắt đột ngột."
+    },
+    {
+      "id": "c0001p0188",
+      "verdict": "PASS",
+      "source_quote": "张羽在反复按了几次开关，又观察了一下其他邻居们的状况后，确定了一件事情……他被断电了。",
+      "target_quote": "Trương Vũ bấm công tắc đi bấm lại mấy lần, rồi quan sát tình trạng của các hàng xóm, xác định được một sự việc… cậu bị cắt điện rồi.",
+      "reason": "Đủ thử công tắc nhiều lần, so hàng xóm rồi xác định bị cắt điện riêng mình."
+    },
+    {
+      "id": "c0001p0189",
+      "verdict": "PASS",
+      "source_quote": "“这破地方……”",
+      "target_quote": "\"Cái chỗ chết tiệt này…\"",
+      "reason": "Giữ lặp chửi địa điểm, nhịp thất vọng có căn cứ nguồn."
+    },
+    {
+      "id": "c0001p0190",
+      "verdict": "PASS",
+      "source_quote": "“要是明天一早醒来就回去了，那就好了……”",
+      "target_quote": "\"Giá mà sáng sớm mai thức dậy là trở về được, thì tốt biết bao…\"",
+      "reason": "Giữ mong muốn có điều kiện sáng mai tỉnh lại trở về, không khẳng định sẽ về."
+    },
+    {
+      "id": "c0001p0191",
+      "verdict": "PASS",
+      "source_quote": "脑中翻涌着各种乱七八糟的想法，张羽最终还是在床上昏昏沉沉地睡了过去。",
+      "target_quote": "Đầu óc trào dâng đủ thứ suy nghĩ lộn xộn, Trương Vũ cuối cùng cũng mơ màng ngủ thiếp đi trên giường.",
+      "reason": "Giữ suy nghĩ hỗn loạn rồi ngủ lịm trên giường, kết thúc đêm."
+    },
+    {
+      "id": "c0001p0192",
+      "verdict": "PASS",
+      "source_quote": "而他的掌心上，原本透明的符号已被黑色填充了十分之一。",
+      "target_quote": "Còn trên lòng bàn tay cậu, ký hiệu vốn trong suốt trước đó đã được màu đen lấp đầy một phần mười.",
+      "reason": "Giữ dấu lòng bàn tay từ trong suốt đã đen đúng một phần mười."
+    }
+  ],
+  "issues": [
+    {
+      "id": "c0001p0005",
+      "reason": "Thêm vị trí cất điện thoại “vào túi”; nguồn chỉ nói cất điện thoại, không xác định túi.",
+      "severity": "low",
+      "correction": "Nhìn tin nhắn mẹ gửi trên màn hình, Trương Vũ lặng lẽ cất điện thoại, hít một hơi thật sâu, nhắm mắt lại, yên lặng chờ đợi.",
+      "source_quote": "看着屏幕上母亲发来的消息，张羽默默收起手机，深吸一口气，闭上了眼睛，静静地等待着。",
+      "target_quote": "Nhìn tin nhắn mẹ gửi trên màn hình, Trương Vũ lặng lẽ cất điện thoại vào túi, hít một hơi thật sâu, nhắm mắt lại, yên lặng chờ đợi."
+    },
+    {
+      "id": "c0001p0009",
+      "reason": "“Ba thầy cô chào” đảo lời chào sai cú pháp tiếng Việt; người được chào bị đặt thành chủ thể chào.",
+      "severity": "medium",
+      "correction": "Cậu nhìn ba giám khảo, nở nụ cười lịch sự đã luyện tập từ lâu: \"Em chào ba thầy cô, em là Trương Vũ đến từ Trường cấp hai Đông Dương.\"",
+      "source_quote": "他看向三位面试官，露出了练习许久的礼貌笑容：“三位好，我是东阳初级中学的张羽。”",
+      "target_quote": "Cậu nhìn về phía ba giám khảo, nở nụ cười lịch sự đã luyện tập từ lâu: \"Ba thầy cô chào, em là Trương Vũ đến từ Trường cấp hai Đông Dương.\""
+    },
+    {
+      "id": "c0001p0011",
+      "reason": "贵校 là cách kính xưng trường của bên được nói tới; “Trường ta” đổi thành trường của phía người nói đang chưa nhập học.",
+      "severity": "medium",
+      "correction": "Trương Vũ: \"Quý trường có lịch sử lâu đời, nền tảng vững chắc, nguồn lực giảng dạy phong phú, từ trước đến nay đã đào tạo nhiều nhân tài xuất sắc cho xã hội…\"",
+      "source_quote": "张羽：“贵校悠久的历史，深厚的底蕴，丰富的教学资源，一直以来为社会培养出了许多杰出人才……”",
+      "target_quote": "Trương Vũ: \"Trường ta có lịch sử lâu đời, nền tảng sâu dày, nguồn tài nguyên giảng dạy phong phú, bấy lâu nay đã đào tạo ra nhiều nhân tài xuất sắc cho xã hội…\""
+    },
+    {
+      "id": "c0001p0014",
+      "reason": "全科 chỉ tất cả các môn học; “toàn khoa” chỉ khoa/đơn vị học thuật, sai đối tượng điểm tối đa.",
+      "severity": "medium",
+      "correction": "Giám khảo khẽ mỉm cười, nhìn hồ sơ trên tay rồi nói: \"Ừ, đạt điểm tối đa ở tất cả các môn, đứng nhất toàn trường? Bảo sao được giới thiệu đến đây.\"",
+      "source_quote": "面试官微微一笑，看着手上的资料说道：“嗯，全科满分，全校第一？怪不得被推荐过来。”",
+      "target_quote": "Giám khảo khẽ mỉm cười, nhìn vào hồ sơ trên tay nói: \"Ừ, toàn khoa điểm tối đa, đứng nhất toàn trường? Bảo sao được giới thiệu đến đây.\""
+    },
+    {
+      "id": "c0001p0037",
+      "reason": "纸篓 là sọt đựng giấy bỏ/thùng rác giấy; “thùng giấy” thành vật chứa bằng giấy, làm mất hành vi vứt hồ sơ vào rác và cú châm biếm “dự phòng”.",
+      "severity": "high",
+      "correction": "Nói xong, ông ta ném hồ sơ của Trương Vũ vào sọt rác giấy bên cạnh, chen cùng mấy trăm bộ hồ sơ dự phòng khác.",
+      "source_quote": "说罢，他便将张羽的简历扔进了一旁的纸篓里，和另外几百份备选简历挤在了一起。",
+      "target_quote": "Nói xong, ông ta liền ném hồ sơ của Trương Vũ vào thùng giấy bên cạnh, chồng lên cùng với mấy trăm bộ hồ sơ dự phòng khác."
+    },
+    {
+      "id": "c0001p0043",
+      "reason": "促智剂 là chất tăng cường khả năng nhận thức/trí não; “chất xúc tác trí tuệ” gán khái niệm xúc tác không có trong nguồn.",
+      "severity": "medium",
+      "correction": "Để tôi giới thiệu các phúc lợi ở đây nhé. Chúng tôi thêm chất tăng cường trí não vào nước uống, đảm bảo học sinh luôn duy trì trạng thái tập trung cấp năm.",
+      "source_quote": "我来给你介绍介绍这里的福利吧，我们在饮用水中添加了促智剂，保证学生时刻维持在五级专注状态。",
+      "target_quote": "Để tôi giới thiệu cho bạn về các phúc lợi ở đây nhé, chúng tôi có thêm chất xúc tác trí tuệ vào nước uống, đảm bảo học sinh luôn duy trì trạng thái tập trung cấp năm."
+    },
+    {
+      "id": "c0001p0044",
+      "reason": "900克以上 bao gồm mốc 900 gram, khác “hơn 900”; 十倍以上 là hiệu quả bằng ít nhất mười lần ban đầu, cần tránh “cao hơn trước mười lần” dễ thành tăng thêm mười lần.",
+      "severity": "high",
+      "correction": "Mỗi ngày, giáo viên chủ nhiệm sẽ phát cho các bạn từ 900 gram thực phẩm bổ sung chuyên dụng cho ngưu yêu trở lên, đảm bảo hiệu quả tu luyện của các bạn đạt ít nhất gấp mười lần ban đầu.",
+      "source_quote": "每天班主任会发给你们900克以上牛妖专用的补剂，保证你们的修炼效果是原先的十倍以上。",
+      "target_quote": "Mỗi ngày giáo viên chủ nhiệm sẽ phát cho các bạn hơn 900 gram thực phẩm bổ sung chuyên dụng cho ngưu yêu, đảm bảo hiệu quả tu luyện của các bạn cao hơn trước mười lần trở lên."
+    },
+    {
+      "id": "c0001p0065",
+      "reason": "“Năm nghìn quỹ dự phòng” đặt lượng tiền trước tên khoản tiền thành năm nghìn quỹ; phải thể hiện đây là một khoản tiền trị giá 5.000, không thêm đơn vị chưa được nguồn nêu.",
+      "severity": "medium",
+      "correction": "Tiếp đó, cậu nhận được một tin nhắn từ bên kia: Khoản tiền dự phòng 5.000 của bạn đã sẵn sàng, chỉ cần mười giây là có thể chuyển vào tài khoản…",
+      "source_quote": "接着他收到了一条对方发来的消息：您的五千后备金已准备完毕，只需十秒即可到账……",
+      "target_quote": "Tiếp theo cậu nhận được một tin nhắn từ họ: Năm nghìn quỹ dự phòng của bạn đã sẵn sàng, chỉ cần mười giây là có thể chuyển vào tài khoản…"
+    },
+    {
+      "id": "c0001p0066",
+      "reason": "小贷 phân loại theo khoản vay nhỏ; “vay tiêu dùng” phân loại theo mục đích chi tiêu, không được nguồn xác định.",
+      "severity": "medium",
+      "correction": "\"Quảng cáo cho vay nhỏ lẻ à?\"",
+      "source_quote": "“小贷广告吗？”",
+      "target_quote": "\"Quảng cáo vay tiêu dùng à?\""
+    },
+    {
+      "id": "c0001p0090",
+      "reason": "好人缘 là được mọi người quý mến/có quan hệ tốt; “khả năng giao tiếp tốt” chuyển kết quả quan hệ thành một kỹ năng chưa được nêu.",
+      "severity": "medium",
+      "correction": "Người mẹ vui vì con chăm chỉ, càng vui hơn khi thấy cậu được mọi người quý mến và thể hiện xuất sắc ở lớp luyện thi.",
+      "source_quote": "母亲为儿子的勤奋而开心，更为他在补习班的好人缘和优秀表现而感到高兴。",
+      "target_quote": "Người mẹ vui vì sự chăm chỉ của con, càng vui hơn vì khả năng giao tiếp tốt và thành tích xuất sắc của cậu ở lớp luyện thi."
+    },
+    {
+      "id": "c0001p0103",
+      "reason": "两万块钱 là 20.000 đơn vị tiền, không phải 20.000.000; sai một nghìn lần và phá tương quan khoản tiền với các con số còn lại.",
+      "severity": "critical",
+      "correction": "Từ hai ba nghìn đến bảy tám nghìn… lần cuối cùng cậu còn bảo bà chuyển thẳng hai vạn đồng, Trương Vũ nói đó là phí thuê Thiên Linh Căn.",
+      "source_quote": "从两三千到七八千……最后一次让她直接打了两万块钱，张羽说是租借天灵根的费用。",
+      "target_quote": "Từ hai ba nghìn đến bảy tám nghìn… lần cuối cùng bà phải chuyển thẳng hai mươi triệu đồng, Trương Vũ nói là phí thuê mướn Thiên Linh Căn."
+    },
+    {
+      "id": "c0001p0105",
+      "reason": "学杂费 là các khoản phụ thu/tạp phí học đường; “phí tạp vụ” thành tiền cho công việc tạp vụ, sai loại chi phí.",
+      "severity": "medium",
+      "correction": "Người mẹ vô cùng mừng rỡ, tự hào về sự nỗ lực và tài năng của con. Những khoản học phí, phụ phí học tập, phí thuốc cùng các khoản khác mà Trương Vũ nói tiếp đó, bà đều nhận lời ngay.",
+      "source_quote": "母亲感到欣喜无比，她对儿子的努力和天赋感到自豪，对接下来张羽说的学费、学杂费、药剂费等等也都一口答应下来。",
+      "target_quote": "Người mẹ vô cùng mừng rỡ, bà tự hào về sự nỗ lực và tài năng của con, những khoản học phí, phí tạp vụ, phí thuốc… mà Trương Vũ nói tiếp theo bà đều gật đầu nhận hết."
+    },
+    {
+      "id": "c0001p0111",
+      "reason": "“Những khoản chi tiêu ... được trân trọng” sai kết hợp chủ thể-vị ngữ; 赏识 nói việc cậu được đánh giá cao nên được hỗ trợ, không phải khoản chi được trân trọng.",
+      "severity": "medium",
+      "correction": "Hơn một năm qua, mọi khoản chi trong quá trình học tập đều chẳng có chuyện miễn phí, được ưu ái hay được tặng như cậu vẫn nói… Toàn bộ tiền đều đến từ những khoản cậu vay trên các nền tảng lớn.",
+      "source_quote": "过去一年多来，在学习过程中的种种花费并没有他嘴上说的那些免费、赏识、馈赠……钱全都来自于他从各大平台的借贷。",
+      "target_quote": "Hơn một năm qua, những khoản chi tiêu trong quá trình học tập không hề miễn phí, được trân trọng hay được tặng như cậu nói miệng… tất cả tiền đều đến từ những khoản vay trên các nền tảng lớn."
+    },
+    {
+      "id": "c0001p0120",
+      "reason": "前功尽弃 là mọi công sức trước đó đổ sông đổ biển; “trắng tay từ đầu” chuyển sang mất của cải và gây hiểu sai về kết quả tu luyện.",
+      "severity": "medium",
+      "correction": "\"Mẹ ơi, thuốc này không thể ngừng được. Ngừng thuốc thì đạo tâm sẽ thụt lùi, mọi công sức trước đây của con sẽ đổ sông đổ biển…\"",
+      "source_quote": "“妈，这个药不能停，停药后道心会倒退的，我就前功尽弃了……”",
+      "target_quote": "\"Mẹ ơi, thuốc này không thể ngừng được, ngừng thuốc thì đạo tâm sẽ thụt lùi, con sẽ trắng tay từ đầu…\""
+    },
+    {
+      "id": "c0001p0122",
+      "reason": "Nguồn phân biệt lớp luyện thi với 学校老师, thầy ở trường chính khóa; draft bỏ “ở trường” khiến nơi dạy công pháp không còn rõ trong cảnh đang nói lớp luyện thi.",
+      "severity": "medium",
+      "correction": "\"Thẻ VIP của lớp luyện thi này phải nạp tiền rồi, không thì con không hiểu được công pháp thầy ở trường giảng trên lớp…\"",
+      "source_quote": "“这张补习班的VIP卡要充钱了，不然我听不懂学校老师课上讲的功法……”",
+      "target_quote": "\"Thẻ VIP của lớp luyện thi sắp phải nạp tiền rồi, không thì con không hiểu được công pháp thầy giảng trên lớp…\""
+    },
+    {
+      "id": "c0001p0149",
+      "reason": "Dấu phẩy trong “Bây giờ ta, đã trở thành…” tách chủ ngữ khỏi vị ngữ do bê dấu ngắt nguồn sang tiếng Việt. Đổi “ta” thành “mình” trong câu sửa là đề xuất thống nhất giọng, không phải riêng đại từ “ta” đã làm sai nghĩa.",
+      "severity": "medium",
+      "correction": "\"Giờ mình đã trở thành Trương Vũ của một thế giới khác rồi.\"",
+      "source_quote": "“现在的我，已经成了另一个世界的张羽。”",
+      "target_quote": "\"Bây giờ ta, đã trở thành Trương Vũ của một thế giới khác rồi.\""
+    },
+    {
+      "id": "c0001p0162",
+      "reason": "Nguồn chỉ tả bất lực ngồi xuống giường; draft thêm hành động “thở dài” không có chứng cứ.",
+      "severity": "low",
+      "correction": "Trương Vũ bất lực ngồi phịch xuống giường.",
+      "source_quote": "张羽有些无奈地坐倒在床上。",
+      "target_quote": "Trương Vũ đành thở dài ngồi phịch xuống giường."
+    },
+    {
+      "id": "c0001p0177",
+      "reason": "“Mua thuốc học thêm” không tách hai hành động 吃药 và 补课, dễ đọc thành loại thuốc học thêm; “lấy vay nuôi vay” còn nguyên cấu trúc Hán, cần diễn đạt vòng vay mới trả khoản vay cũ.",
+      "severity": "medium",
+      "correction": "\"Thằng này đã bắt đầu vay tiền học thêm từ trước khi vào cấp ba. Sau khi vào Trường cấp ba Tung Dương, để theo kịp thành tích của mọi người, hắn lại nảy ra một sáng kiến: vay khoản mới trả khoản cũ để nâng cao thành tích, vay tiền khắp nơi để dùng thuốc và học thêm, ép tiềm năng bộc phát. Kết quả, không những tiền vay ngày càng nhiều mà tiềm năng cũng dần bị vắt cạn.\"",
+      "source_quote": "“这家伙进高中之前就开始借贷补课了，进嵩阳高中后为了跟上大家的成绩，于是他又灵机一动，开始为了提升成绩以贷养贷，四处借钱吃药补课，强行激发潜力，最终不但钱越借越多，潜力也被渐渐榨干。”",
+      "target_quote": "\"Thằng này trước khi vào cấp ba đã bắt đầu vay tiền học thêm rồi, vào Trường cấp ba Tung Dương xong để theo kịp thành tích của mọi người, hắn lại nảy ra sáng kiến, bắt đầu lấy vay nuôi vay để nâng cao thành tích, vay tiền khắp nơi để mua thuốc học thêm, cưỡng ép kích thích tiềm năng, kết quả không những tiền vay càng ngày càng nhiều, tiềm năng cũng dần bị vắt cạn.\""
+    }
+  ],
+  "model": "codex/gpt-inherited",
+  "identity_basis": "codex_subagent",
+  "agent_session": "/root/gpt_literary_audit",
+  "scope": "Independent local source-bound semantic and literary review; not official BNS certification.",
+  "independence": "Read only source.json, draft.json, genre_profiles.json and semantic_gate.py; no peer reviews, auditor files or semantic_findings.md."
+}

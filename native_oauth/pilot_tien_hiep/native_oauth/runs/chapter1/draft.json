@@ -1,0 +1,25 @@
+{
+  "package_hash": "202f07950687e3c3446c2395de30122852588fc41ba3929a5c4fc14f3edb3ae2",
+  "segments": [
+    {
+      "id": "c0001p0001",
+      "text": "Lục Xuyên thu hồi phi kiếm, không truy sát đệ tử đào tẩu kia."
+    },
+    {
+      "id": "c0001p0002",
+      "text": "Sư phụ trầm mặc giây lát, nói: “Chuyện này chưa hẳn đã liên quan đến chưởng môn. Con không được vội kết luận.”"
+    },
+    {
+      "id": "c0001p0003",
+      "text": "Nàng thầm nghĩ trong lòng: “Chỉ cần đợi thêm ba ngày, sư huynh sẽ trở về.”"
+    },
+    {
+      "id": "c0001p0004",
+      "text": "Hắn uống vào hai viên đan dược, linh khí trong cơ thể lại không hề tăng thêm."
+    }
+  ],
+  "model": "native/gemini-3.8-flash-low",
+  "identity_basis": "native_cli_init",
+  "conversation_id": "9a630636-64da-4265-a8a2-d1c142cdd27f",
+  "runtime_hash": "f59176374d337afeacd48c5f4c0597482b5dddb775db6ba05e948f628e38f5aa"
+}

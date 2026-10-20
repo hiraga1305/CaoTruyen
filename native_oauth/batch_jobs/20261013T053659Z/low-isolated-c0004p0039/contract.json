@@ -1,0 +1,1919 @@
+{
+  "job_id": "low-isolated-c0004p0039",
+  "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+  "state_version": 1,
+  "owned_segments": [
+    {
+      "id": "c0004p0039",
+      "chapter": 4,
+      "source": "先是打给了张羽的母亲，接着又打给了父亲，却全都是无人接听的状态。",
+      "source_hash": "f91968f3a92e3e3d7f18dedcf5ed55b215ad1a6b9e8ef8db3bf14e8eced03ac7",
+      "package_hash": "ab2990936639a24997f61a0c3e853e1bdc93e147182ac48df8c42ff20933918e",
+      "source_anchor_candidates": []
+    },
+    {
+      "id": "c0004p0040",
+      "chapter": 4,
+      "source": "回忆着脑海中张羽父母、姐姐的相关记忆，他最终还是无奈地打给了姐姐。",
+      "source_hash": "cda8c351003e8780e74b33e5666af08c1917222a20cfa5bd276e91fadc634a22",
+      "package_hash": "ab2990936639a24997f61a0c3e853e1bdc93e147182ac48df8c42ff20933918e",
+      "source_anchor_candidates": []
+    },
+    {
+      "id": "c0004p0041",
+      "chapter": 4,
+      "source": "“张羽？”",
+      "source_hash": "2a039c865700af7a708f13ce44681631fa6f0b2b8dee1a19a0bef28fc86ca99f",
+      "package_hash": "ab2990936639a24997f61a0c3e853e1bdc93e147182ac48df8c42ff20933918e",
+      "source_anchor_candidates": []
+    },
+    {
+      "id": "c0004p0042",
+      "chapter": 4,
+      "source": "听着手机另一头那略显冰冷的声音，张羽硬着头皮说道：“姐，能不能借我点钱？”",
+      "source_hash": "7bf5637f80f63d5ca02aa1003450226297f3520f04e21b1f71231a6e11d77e27",
+      "package_hash": "ab2990936639a24997f61a0c3e853e1bdc93e147182ac48df8c42ff20933918e",
+      "source_anchor_candidates": [
+        {
+          "quote": "一",
+          "start": 5,
+          "end": 6,
+          "context": "听着手机另一头那略显冰冷的声音，张羽",
+          "status": "lexical_candidate_requires_context"
+        },
+        {
+          "quote": "不能",
+          "start": 29,
+          "end": 31,
+          "context": "羽硬着头皮说道：“姐，能不能借我点钱？”",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    },
+    {
+      "id": "c0004p0043",
+      "chapter": 4,
+      "source": "一阵沉默中，就在张羽以为对方会挂了电话的时候，从手机中传来声音：“你小学一年级的时候，我就和爸妈说了，你没有仙道天赋，往这条路上走完全是浪费时间和钱。”",
+      "source_hash": "fee778baffb68cd55472aa7f7a87df4b7931be3fd779c19d284fddcbd9885381",
+      "package_hash": "ab2990936639a24997f61a0c3e853e1bdc93e147182ac48df8c42ff20933918e",
+      "source_anchor_candidates": [
+        {
+          "quote": "一",
+          "start": 0,
+          "end": 1,
+          "context": "一阵沉默中，就在张羽以为对",
+          "status": "lexical_candidate_requires_context"
+        },
+        {
+          "quote": "一",
+          "start": 36,
+          "end": 37,
+          "context": "手机中传来声音：“你小学一年级的时候，我就和爸妈说",
+          "status": "lexical_candidate_requires_context"
+        },
+        {
+          "quote": "没有",
+          "start": 52,
+          "end": 54,
+          "context": "时候，我就和爸妈说了，你没有仙道天赋，往这条路上走完",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    },
+    {
+      "id": "c0004p0044",
+      "chapter": 4,
+      "source": "“分开后，老妈却相信了你的妄想，硬着头皮想要一个人供你上高中，甚至她前不久还找我们来借钱，想要动我的补课费。”",
+      "source_hash": "4e24576cce5df9c6911851dd025ef829f623c30ec201f5bd62f7892433639ec6",
+      "package_hash": "ab2990936639a24997f61a0c3e853e1bdc93e147182ac48df8c42ff20933918e",
+      "source_anchor_candidates": [
+        {
+          "quote": "一",
+          "start": 22,
+          "end": 23,
+          "context": "了你的妄想，硬着头皮想要一个人供你上高中，甚至她前",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    },
+    {
+      "id": "c0004p0045",
+      "chapter": 4,
+      "source": "“呵，结果你这不自量力的蠢货还要借贷修仙，为了在高中学习，你现在已经欠了一屁股债了吧？”",
+      "source_hash": "99c012d29fa6a8b8a4327dbf7299f2eea70969ad0b97f2c7f5fa2f9b8bca9b37",
+      "package_hash": "ab2990936639a24997f61a0c3e853e1bdc93e147182ac48df8c42ff20933918e",
+      "source_anchor_candidates": [
+        {
+          "quote": "一",
+          "start": 36,
+          "end": 37,
+          "context": "高中学习，你现在已经欠了一屁股债了吧？”",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    },
+    {
+      "id": "c0004p0046",
+      "chapter": 4,
+      "source": "面对对方的指责，张羽却无话可说，因为根据他脑海中整理的记忆来看，对方说的并没有错。",
+      "source_hash": "53e97fadeeff2e75b4bcd0183c9a45a0515492b466e3298295c7ba4c25e7b905",
+      "package_hash": "ab2990936639a24997f61a0c3e853e1bdc93e147182ac48df8c42ff20933918e",
+      "source_anchor_candidates": [
+        {
+          "quote": "没有",
+          "start": 37,
+          "end": 39,
+          "context": "理的记忆来看，对方说的并没有错。",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    },
+    {
+      "id": "c0004p0047",
+      "chapter": 4,
+      "source": "父母各自带着他们姐弟俩分开以后，明知道母亲的收入不足，家里没钱，但原本的张羽却太过不自量力，最后硬着头皮撸小贷也要修仙，一路以贷养贷到现在。",
+      "source_hash": "04048102583372a62695c5cd6ccd289e6d3685c428f17f17daf44b66332281af",
+      "package_hash": "ab2990936639a24997f61a0c3e853e1bdc93e147182ac48df8c42ff20933918e",
+      "source_anchor_candidates": [
+        {
+          "quote": "一",
+          "start": 60,
+          "end": 61,
+          "context": "硬着头皮撸小贷也要修仙，一路以贷养贷到现在。",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    },
+    {
+      "id": "c0004p0048",
+      "chapter": 4,
+      "source": "而母亲也在张羽反复借贷，一次次帮他偿还，又一次次发现窟窿越来越大后，终于离他而去。",
+      "source_hash": "f5b8b94624616528e9efb9daaee56a1ee6cdb3b03492c763c60381858ac255ec",
+      "package_hash": "ab2990936639a24997f61a0c3e853e1bdc93e147182ac48df8c42ff20933918e",
+      "source_anchor_candidates": [
+        {
+          "quote": "一",
+          "start": 12,
+          "end": 13,
+          "context": "而母亲也在张羽反复借贷，一次次帮他偿还，又一次次发",
+          "status": "lexical_candidate_requires_context"
+        },
+        {
+          "quote": "一",
+          "start": 21,
+          "end": 22,
+          "context": "借贷，一次次帮他偿还，又一次次发现窟窿越来越大后，",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    },
+    {
+      "id": "c0004p0049",
+      "chapter": 4,
+      "source": "手机那头的声音继续传来。",
+      "source_hash": "7f7b5384c17bef89447031902bd42878ff6486b4b6657179badc08a7101fe7b5",
+      "package_hash": "ab2990936639a24997f61a0c3e853e1bdc93e147182ac48df8c42ff20933918e",
+      "source_anchor_candidates": []
+    },
+    {
+      "id": "c0004p0050",
+      "chapter": 4,
+      "source": "“这是我们最后一次联系了，你欠下来的债你自己去还。”",
+      "source_hash": "1c8b2a7a147141bf7bef6710e14fed7d34064b239d7d46a0930ca6d41e4b2d5f",
+      "package_hash": "ab2990936639a24997f61a0c3e853e1bdc93e147182ac48df8c42ff20933918e",
+      "source_anchor_candidates": [
+        {
+          "quote": "一",
+          "start": 7,
+          "end": 8,
+          "context": "“这是我们最后一次联系了，你欠下来的债你",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    },
+    {
+      "id": "c0004p0051",
+      "chapter": 4,
+      "source": "“再给你一个忠告，退学然后去打工还债吧。”",
+      "source_hash": "2ccca1b2545e621ce9f5fe5e0b89065e3aff88b49938e53792839cf2103ec8eb",
+      "package_hash": "ab2990936639a24997f61a0c3e853e1bdc93e147182ac48df8c42ff20933918e",
+      "source_anchor_candidates": [
+        {
+          "quote": "一",
+          "start": 4,
+          "end": 5,
+          "context": "“再给你一个忠告，退学然后去打工还",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    },
+    {
+      "id": "c0004p0052",
+      "chapter": 4,
+      "source": "“看在曾经是一家人的份上，我一会打给你500，这些钱足够你在饿死前找到一份工作了。”",
+      "source_hash": "74745dbfddc2143acd1899cfc290ce46155c3a9d8b8b51e171e5324aef4452c9",
+      "package_hash": "ab2990936639a24997f61a0c3e853e1bdc93e147182ac48df8c42ff20933918e",
+      "source_anchor_candidates": [
+        {
+          "quote": "一",
+          "start": 6,
+          "end": 7,
+          "context": "“看在曾经是一家人的份上，我一会打给你",
+          "status": "lexical_candidate_requires_context"
+        },
+        {
+          "quote": "一",
+          "start": 14,
+          "end": 15,
+          "context": "在曾经是一家人的份上，我一会打给你500，这些钱足",
+          "status": "lexical_candidate_requires_context"
+        },
+        {
+          "quote": "500",
+          "start": 19,
+          "end": 22,
+          "context": "家人的份上，我一会打给你500，这些钱足够你在饿死前找",
+          "status": "lexical_candidate_requires_context"
+        },
+        {
+          "quote": "一",
+          "start": 35,
+          "end": 36,
+          "context": "这些钱足够你在饿死前找到一份工作了。”",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    },
+    {
+      "id": "c0004p0053",
+      "chapter": 4,
+      "source": "听着对方电话挂断的声音，张羽无奈地叹了口气：“还好，至少也要到了500。”",
+      "source_hash": "40f7846f7242eb7b43a2a752102d75dcacdcd160ee629e93acae88065160941c",
+      "package_hash": "ab2990936639a24997f61a0c3e853e1bdc93e147182ac48df8c42ff20933918e",
+      "source_anchor_candidates": [
+        {
+          "quote": "至少",
+          "start": 26,
+          "end": 28,
+          "context": "无奈地叹了口气：“还好，至少也要到了500。”",
+          "status": "lexical_candidate_requires_context"
+        },
+        {
+          "quote": "500",
+          "start": 32,
+          "end": 35,
+          "context": "气：“还好，至少也要到了500。”",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    },
+    {
+      "id": "c0004p0054",
+      "chapter": 4,
+      "source": "算上白真真给的500，张羽现在的存款终于突破1000。",
+      "source_hash": "42450e3227ebd61b8720a2f75d4087685c468627c45a98f90fb5b766c2a42083",
+      "package_hash": "ab2990936639a24997f61a0c3e853e1bdc93e147182ac48df8c42ff20933918e",
+      "source_anchor_candidates": [
+        {
+          "quote": "500",
+          "start": 7,
+          "end": 10,
+          "context": "算上白真真给的500，张羽现在的存款终于突破",
+          "status": "lexical_candidate_requires_context"
+        },
+        {
+          "quote": "1000",
+          "start": 22,
+          "end": 26,
+          "context": "，张羽现在的存款终于突破1000。",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    }
+  ],
+  "neighbor_segments": [],
+  "context_capsule": {
+    "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+    "state_version": 1,
+    "through_chapter": 0,
+    "glossary": {
+      "张羽": "Trương Vũ",
+      "白真真": "Bạch Chân Chân"
+    },
+    "style_profile": {
+      "version": "bns-oriented-editorial-1",
+      "genre": "hybrid_cyberpunk_tu_tien",
+      "common": {
+        "meaning": "Trung thành, đủ nghĩa; không thêm tình tiết/cảm xúc/suy luận không có trong nguồn.",
+        "prose": "Tiếng Việt tự nhiên, đúng chính tả/ngữ pháp; tránh câu convert, đảo cú pháp Hán và lạm dụng đem/hướng/bởi vì cho nên.",
+        "entities": "Khóa tên riêng và thuật ngữ theo glossary có nguồn; xưng hô theo quan hệ, tuổi, vai vế và cảnh, không replace toàn truyện.",
+        "dialogue": "Một kiểu dấu thoại nhất quán; phân biệt thoại, tin nhắn và suy nghĩ; không biến suy nghĩ thành lời nói.",
+        "quantities": "Giữ đúng số, quan hệ ít nhất/hơn/tối đa, tiền tệ và đơn vị; không tự đổi jin thành kg.",
+        "release": "Không lỗi nghĩa nghiêm trọng; phải hai lượt kiểm độc lập và kiểm lại bản đã nhuận sắc. Không lấy điểm tự chấm làm bằng chứng."
+      },
+      "rules": {
+        "register": "Giữ châm biếm khô và nhịp hiện đại; thuật ngữ tu luyện chuẩn hóa, lời thoại đời thường theo quan hệ thực tế.",
+        "terms": "Cảnh giới/công pháp Hán Việt, tín dụng/điện thoại/thi cử diễn đạt hiện đại. 修仙贷 là khoản vay tu tiên.",
+        "pronouns": "Cảnh mẹ-con dùng mẹ/con, phỏng vấn thầy/cô hoặc tôi/em; giọng kể Trương Vũ theo từng giai đoạn/cảnh, không thay ngôi tùy hứng.",
+        "avoid": "Không biến tất cả trường học thành môn phái cổ đại, không tô thêm kịch tính cho câu châm biếm."
+      },
+      "certification": "Local editorial rubric informed by BNS guidance, not BNS approval"
+    },
+    "ledger": [],
+    "source_visibility_through": "c0004p0054",
+    "authority": "Original source outranks interpretations and parser predictions.",
+    "omitted_optional_entries": 0
+  },
+  "output_rule": "Emit exactly owned ids in source order; neighbors are read-only.",
+  "retry_rule": "Regenerate this whole bounded scene; never patch paragraphs in place.",
+  "experimental_partial_scene": true,
+  "contract_hash": "167f7bdc793a0a8c10ab5a50251294c6c456fc734bf892cf3e2600e028a79287",
+  "parser_hints": [
+    {
+      "id": "c0004p0039",
+      "ner": [
+        [
+          "Nh",
+          "张羽",
+          4,
+          4
+        ]
+      ],
+      "srl": [
+        {
+          "index": 1,
+          "predicate": "打",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "先是",
+              0,
+              0
+            ],
+            [
+              "A1",
+              "张羽的母亲",
+              4,
+              6
+            ]
+          ]
+        },
+        {
+          "index": 10,
+          "predicate": "打",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "接着",
+              8,
+              8
+            ],
+            [
+              "ARGM-DIS",
+              "又",
+              9,
+              9
+            ],
+            [
+              "A2",
+              "父亲",
+              13,
+              13
+            ]
+          ]
+        },
+        {
+          "index": 17,
+          "predicate": "是",
+          "arguments": [
+            [
+              "ARGM-DIS",
+              "却",
+              15,
+              15
+            ],
+            [
+              "ARGM-ADV",
+              "全都",
+              16,
+              16
+            ],
+            [
+              "A1",
+              "无人接听的状态",
+              18,
+              22
+            ]
+          ]
+        },
+        {
+          "index": 18,
+          "predicate": "无",
+          "arguments": [
+            [
+              "A1",
+              "人接听",
+              19,
+              20
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0004p0040",
+      "ner": [
+        [
+          "Nh",
+          "张羽",
+          4,
+          4
+        ]
+      ],
+      "srl": [
+        {
+          "index": 0,
+          "predicate": "回忆",
+          "arguments": [
+            [
+              "A1",
+              "脑海中张羽父母、姐姐的相关记忆",
+              2,
+              10
+            ]
+          ]
+        },
+        {
+          "index": 17,
+          "predicate": "打",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "回忆着脑海中张羽父母、姐姐的相关记忆",
+              0,
+              10
+            ],
+            [
+              "A0",
+              "他",
+              12,
+              12
+            ],
+            [
+              "ARGM-ADV",
+              "最终",
+              13,
+              13
+            ],
+            [
+              "ARGM-ADV",
+              "还是",
+              14,
+              14
+            ],
+            [
+              "ARGM-ADV",
+              "无奈地",
+              15,
+              16
+            ],
+            [
+              "A1",
+              "姐姐",
+              20,
+              20
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0004p0041",
+      "ner": [
+        [
+          "Nh",
+          "张羽",
+          1,
+          1
+        ]
+      ],
+      "srl": [],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0004p0042",
+      "ner": [
+        [
+          "Nh",
+          "张羽",
+          13,
+          13
+        ]
+      ],
+      "srl": [
+        {
+          "index": 0,
+          "predicate": "听",
+          "arguments": [
+            [
+              "A1",
+              "手机另一头那略显冰冷的声音",
+              2,
+              11
+            ]
+          ]
+        },
+        {
+          "index": 8,
+          "predicate": "显",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "略",
+              7,
+              7
+            ],
+            [
+              "A0",
+              "声音",
+              11,
+              11
+            ]
+          ]
+        },
+        {
+          "index": 9,
+          "predicate": "冰冷",
+          "arguments": [
+            [
+              "A0",
+              "声音",
+              11,
+              11
+            ]
+          ]
+        },
+        {
+          "index": 14,
+          "predicate": "硬着头皮",
+          "arguments": [
+            [
+              "A0",
+              "张羽",
+              13,
+              13
+            ]
+          ]
+        },
+        {
+          "index": 15,
+          "predicate": "说道",
+          "arguments": [
+            [
+              "A0",
+              "张羽",
+              13,
+              13
+            ],
+            [
+              "A1",
+              "“姐，能不能借我点钱",
+              17,
+              26
+            ]
+          ]
+        },
+        {
+          "index": 23,
+          "predicate": "借",
+          "arguments": [
+            [
+              "A2",
+              "姐",
+              18,
+              18
+            ],
+            [
+              "A2",
+              "我",
+              24,
+              24
+            ],
+            [
+              "A1",
+              "点钱",
+              25,
+              26
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0004p0043",
+      "ner": [
+        [
+          "Nh",
+          "张羽",
+          6,
+          6
+        ]
+      ],
+      "srl": [
+        {
+          "index": 7,
+          "predicate": "以为",
+          "arguments": [
+            [
+              "A0",
+              "张羽",
+              6,
+              6
+            ],
+            [
+              "A1",
+              "对方会挂了电话",
+              8,
+              12
+            ],
+            [
+              "ARGM-TMP",
+              "时候",
+              14,
+              14
+            ]
+          ]
+        },
+        {
+          "index": 10,
+          "predicate": "挂",
+          "arguments": [
+            [
+              "A2",
+              "对方",
+              8,
+              8
+            ],
+            [
+              "A1",
+              "电话",
+              12,
+              12
+            ]
+          ]
+        },
+        {
+          "index": 19,
+          "predicate": "传来",
+          "arguments": [
+            [
+              "ARGM-LOC",
+              "一阵沉默中",
+              0,
+              2
+            ],
+            [
+              "ARGM-ADV",
+              "就",
+              4,
+              4
+            ],
+            [
+              "ARGM-TMP",
+              "在张羽以为对方会挂了电话的时候",
+              5,
+              14
+            ],
+            [
+              "A2",
+              "从手机中",
+              16,
+              18
+            ],
+            [
+              "A1",
+              "声音",
+              20,
+              20
+            ]
+          ]
+        },
+        {
+          "index": 34,
+          "predicate": "说",
+          "arguments": [
+            [
+              "A0",
+              "我",
+              30,
+              30
+            ],
+            [
+              "ARGM-ADV",
+              "就",
+              31,
+              31
+            ],
+            [
+              "A1",
+              "你没有仙道天赋，往这条路上走完全是浪费时间和钱",
+              37,
+              52
+            ]
+          ]
+        },
+        {
+          "index": 38,
+          "predicate": "没有",
+          "arguments": [
+            [
+              "A0",
+              "你",
+              37,
+              37
+            ],
+            [
+              "A1",
+              "仙道天赋",
+              39,
+              40
+            ]
+          ]
+        },
+        {
+          "index": 49,
+          "predicate": "浪费",
+          "arguments": [
+            [
+              "A1",
+              "时间和钱",
+              50,
+              52
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0004p0044",
+      "ner": [],
+      "srl": [
+        {
+          "index": 6,
+          "predicate": "相信",
+          "arguments": [
+            [
+              "ARGM-TMP",
+              "分开后",
+              1,
+              2
+            ],
+            [
+              "A0",
+              "老妈",
+              4,
+              4
+            ],
+            [
+              "ARGM-DIS",
+              "却",
+              5,
+              5
+            ],
+            [
+              "A1",
+              "你的妄想",
+              8,
+              10
+            ]
+          ]
+        },
+        {
+          "index": 13,
+          "predicate": "想",
+          "arguments": [
+            [
+              "ARGM-TMP",
+              "分开后",
+              1,
+              2
+            ],
+            [
+              "A0",
+              "老妈",
+              4,
+              4
+            ],
+            [
+              "A1",
+              "要一个人供你上高中",
+              14,
+              20
+            ]
+          ]
+        },
+        {
+          "index": 14,
+          "predicate": "要",
+          "arguments": [
+            [
+              "A1",
+              "一个人供你上高中",
+              15,
+              20
+            ]
+          ]
+        },
+        {
+          "index": 17,
+          "predicate": "供",
+          "arguments": [
+            [
+              "A0",
+              "一个人",
+              15,
+              16
+            ],
+            [
+              "A1",
+              "你",
+              18,
+              18
+            ],
+            [
+              "A2",
+              "上高中",
+              19,
+              20
+            ]
+          ]
+        },
+        {
+          "index": 19,
+          "predicate": "上",
+          "arguments": [
+            [
+              "A0",
+              "你",
+              18,
+              18
+            ],
+            [
+              "A1",
+              "高中",
+              20,
+              20
+            ]
+          ]
+        },
+        {
+          "index": 26,
+          "predicate": "找",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "甚至",
+              22,
+              22
+            ],
+            [
+              "A0",
+              "她",
+              23,
+              23
+            ],
+            [
+              "ARGM-TMP",
+              "前不久",
+              24,
+              24
+            ],
+            [
+              "ARGM-ADV",
+              "还",
+              25,
+              25
+            ],
+            [
+              "A1",
+              "我们",
+              27,
+              27
+            ],
+            [
+              "A2",
+              "来借钱",
+              28,
+              30
+            ]
+          ]
+        },
+        {
+          "index": 28,
+          "predicate": "来",
+          "arguments": [
+            [
+              "A1",
+              "借钱",
+              29,
+              30
+            ]
+          ]
+        },
+        {
+          "index": 29,
+          "predicate": "借",
+          "arguments": [
+            [
+              "A1",
+              "钱",
+              30,
+              30
+            ]
+          ]
+        },
+        {
+          "index": 32,
+          "predicate": "想",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "甚至",
+              22,
+              22
+            ],
+            [
+              "A0",
+              "她",
+              23,
+              23
+            ],
+            [
+              "A1",
+              "要动我的补课费",
+              33,
+              37
+            ]
+          ]
+        },
+        {
+          "index": 33,
+          "predicate": "要",
+          "arguments": [
+            [
+              "A1",
+              "动我的补课费",
+              34,
+              37
+            ]
+          ]
+        },
+        {
+          "index": 34,
+          "predicate": "动",
+          "arguments": [
+            [
+              "A1",
+              "我的补课费",
+              35,
+              37
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0004p0045",
+      "ner": [],
+      "srl": [
+        {
+          "index": 7,
+          "predicate": "自量力",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "不",
+              6,
+              6
+            ],
+            [
+              "A0",
+              "蠢货",
+              9,
+              9
+            ]
+          ]
+        },
+        {
+          "index": 22,
+          "predicate": "欠",
+          "arguments": [
+            [
+              "ARGM-PRP",
+              "为了在高中学习",
+              14,
+              17
+            ],
+            [
+              "A0",
+              "你",
+              19,
+              19
+            ],
+            [
+              "ARGM-TMP",
+              "现在",
+              20,
+              20
+            ],
+            [
+              "ARGM-ADV",
+              "已经",
+              21,
+              21
+            ],
+            [
+              "A2",
+              "一屁股债",
+              24,
+              26
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0004p0046",
+      "ner": [
+        [
+          "Nh",
+          "张羽",
+          5,
+          5
+        ]
+      ],
+      "srl": [
+        {
+          "index": 7,
+          "predicate": "无",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "面对对方的指责",
+              0,
+              3
+            ],
+            [
+              "A0",
+              "张羽",
+              5,
+              5
+            ],
+            [
+              "ARGM-DIS",
+              "却",
+              6,
+              6
+            ],
+            [
+              "A1",
+              "话可说",
+              8,
+              10
+            ]
+          ]
+        },
+        {
+          "index": 21,
+          "predicate": "看",
+          "arguments": [
+            [
+              "ARGM-MNR",
+              "根据他脑海中整理的记忆",
+              13,
+              19
+            ]
+          ]
+        },
+        {
+          "index": 24,
+          "predicate": "说",
+          "arguments": [
+            [
+              "A0",
+              "对方",
+              23,
+              23
+            ]
+          ]
+        },
+        {
+          "index": 27,
+          "predicate": "没有",
+          "arguments": [
+            [
+              "ARGM-PRP",
+              "因为根据他脑海中整理的记忆来看",
+              12,
+              21
+            ],
+            [
+              "A1",
+              "对方说的",
+              23,
+              25
+            ],
+            [
+              "ARGM-ADV",
+              "并",
+              26,
+              26
+            ],
+            [
+              "A0",
+              "错",
+              28,
+              28
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0004p0047",
+      "ner": [
+        [
+          "Nh",
+          "张羽",
+          24,
+          24
+        ]
+      ],
+      "srl": [
+        {
+          "index": 2,
+          "predicate": "带",
+          "arguments": [
+            [
+              "A0",
+              "父母",
+              0,
+              0
+            ],
+            [
+              "ARGM-ADV",
+              "各自",
+              1,
+              1
+            ],
+            [
+              "A1",
+              "他们姐弟俩",
+              4,
+              6
+            ]
+          ]
+        },
+        {
+          "index": 11,
+          "predicate": "知道",
+          "arguments": [
+            [
+              "ARGM-TMP",
+              "父母各自带着他们姐弟俩分开以后",
+              0,
+              8
+            ],
+            [
+              "ARGM-ADV",
+              "明",
+              10,
+              10
+            ],
+            [
+              "A1",
+              "母亲的收入不足，家里没钱",
+              12,
+              19
+            ]
+          ]
+        },
+        {
+          "index": 15,
+          "predicate": "不足",
+          "arguments": [
+            [
+              "A0",
+              "母亲的收入",
+              12,
+              14
+            ]
+          ]
+        },
+        {
+          "index": 18,
+          "predicate": "没",
+          "arguments": [
+            [
+              "ARGM-LOC",
+              "家里",
+              17,
+              17
+            ],
+            [
+              "A1",
+              "钱",
+              19,
+              19
+            ]
+          ]
+        },
+        {
+          "index": 31,
+          "predicate": "硬着",
+          "arguments": [
+            [
+              "A1",
+              "头皮",
+              32,
+              32
+            ]
+          ]
+        },
+        {
+          "index": 33,
+          "predicate": "撸",
+          "arguments": [
+            [
+              "ARGM-DIS",
+              "但",
+              21,
+              21
+            ],
+            [
+              "A0",
+              "原本的张羽",
+              22,
+              24
+            ],
+            [
+              "ARGM-ADV",
+              "最后",
+              30,
+              30
+            ],
+            [
+              "A1",
+              "小贷",
+              34,
+              34
+            ]
+          ]
+        },
+        {
+          "index": 36,
+          "predicate": "要",
+          "arguments": [
+            [
+              "ARGM-DIS",
+              "但",
+              21,
+              21
+            ],
+            [
+              "A0",
+              "原本的张羽",
+              22,
+              24
+            ],
+            [
+              "ARGM-ADV",
+              "也",
+              35,
+              35
+            ],
+            [
+              "A1",
+              "修仙",
+              37,
+              37
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0004p0048",
+      "ner": [
+        [
+          "Nh",
+          "张羽",
+          4,
+          4
+        ]
+      ],
+      "srl": [
+        {
+          "index": 6,
+          "predicate": "借贷",
+          "arguments": [
+            [
+              "ARGM-DIS",
+              "而",
+              0,
+              0
+            ],
+            [
+              "A0",
+              "张羽",
+              4,
+              4
+            ],
+            [
+              "ARGM-ADV",
+              "反复",
+              5,
+              5
+            ]
+          ]
+        },
+        {
+          "index": 9,
+          "predicate": "帮",
+          "arguments": [
+            [
+              "ARGM-DIS",
+              "而",
+              0,
+              0
+            ],
+            [
+              "A0",
+              "母亲",
+              1,
+              1
+            ],
+            [
+              "ARGM-ADV",
+              "一次次",
+              8,
+              8
+            ],
+            [
+              "A1",
+              "他",
+              10,
+              10
+            ],
+            [
+              "A2",
+              "偿还",
+              11,
+              11
+            ]
+          ]
+        },
+        {
+          "index": 11,
+          "predicate": "偿还",
+          "arguments": [
+            [
+              "A0",
+              "他",
+              10,
+              10
+            ]
+          ]
+        },
+        {
+          "index": 15,
+          "predicate": "发现",
+          "arguments": [
+            [
+              "ARGM-DIS",
+              "而",
+              0,
+              0
+            ],
+            [
+              "A0",
+              "母亲",
+              1,
+              1
+            ],
+            [
+              "ARGM-DIS",
+              "又",
+              13,
+              13
+            ],
+            [
+              "ARGM-ADV",
+              "一次次",
+              14,
+              14
+            ],
+            [
+              "A1",
+              "窟窿越来越大",
+              16,
+              18
+            ]
+          ]
+        },
+        {
+          "index": 18,
+          "predicate": "大",
+          "arguments": [
+            [
+              "A0",
+              "窟窿",
+              16,
+              16
+            ],
+            [
+              "ARGM-ADV",
+              "越来越",
+              17,
+              17
+            ]
+          ]
+        },
+        {
+          "index": 22,
+          "predicate": "离",
+          "arguments": [
+            [
+              "A1",
+              "他",
+              23,
+              23
+            ]
+          ]
+        },
+        {
+          "index": 25,
+          "predicate": "去",
+          "arguments": [
+            [
+              "ARGM-DIS",
+              "而",
+              0,
+              0
+            ],
+            [
+              "A0",
+              "母亲",
+              1,
+              1
+            ],
+            [
+              "ARGM-ADV",
+              "终于",
+              21,
+              21
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0004p0049",
+      "ner": [],
+      "srl": [
+        {
+          "index": 5,
+          "predicate": "继续",
+          "arguments": [
+            [
+              "A0",
+              "手机那头的声音",
+              0,
+              4
+            ],
+            [
+              "A0",
+              "传来",
+              6,
+              6
+            ]
+          ]
+        },
+        {
+          "index": 6,
+          "predicate": "传来",
+          "arguments": [
+            [
+              "A0",
+              "手机那头的声音",
+              0,
+              4
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0004p0050",
+      "ner": [],
+      "srl": [
+        {
+          "index": 2,
+          "predicate": "是",
+          "arguments": [
+            [
+              "A0",
+              "这",
+              1,
+              1
+            ],
+            [
+              "A1",
+              "我们最后一次联系",
+              3,
+              7
+            ]
+          ]
+        },
+        {
+          "index": 7,
+          "predicate": "联系",
+          "arguments": [
+            [
+              "A0",
+              "我们",
+              3,
+              3
+            ],
+            [
+              "ARGM-ADV",
+              "最后一次",
+              4,
+              6
+            ]
+          ]
+        },
+        {
+          "index": 11,
+          "predicate": "欠",
+          "arguments": [
+            [
+              "A0",
+              "你",
+              10,
+              10
+            ]
+          ]
+        },
+        {
+          "index": 18,
+          "predicate": "还",
+          "arguments": [
+            [
+              "A0",
+              "你",
+              15,
+              15
+            ],
+            [
+              "ARGM-ADV",
+              "自己",
+              16,
+              16
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0004p0051",
+      "ner": [],
+      "srl": [
+        {
+          "index": 2,
+          "predicate": "给",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "再",
+              1,
+              1
+            ],
+            [
+              "A2",
+              "你",
+              3,
+              3
+            ],
+            [
+              "A1",
+              "一个忠告",
+              4,
+              5
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0004p0052",
+      "ner": [],
+      "srl": [
+        {
+          "index": 1,
+          "predicate": "看",
+          "arguments": [
+            [
+              "A1",
+              "在曾经是一家人的份上",
+              2,
+              10
+            ]
+          ]
+        },
+        {
+          "index": 4,
+          "predicate": "是",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "曾经",
+              3,
+              3
+            ],
+            [
+              "A1",
+              "一家人的份上",
+              5,
+              10
+            ]
+          ]
+        },
+        {
+          "index": 14,
+          "predicate": "打",
+          "arguments": [
+            [
+              "A0",
+              "我",
+              12,
+              12
+            ],
+            [
+              "ARGM-ADV",
+              "一会",
+              13,
+              13
+            ],
+            [
+              "A2",
+              "你",
+              16,
+              16
+            ],
+            [
+              "A1",
+              "500",
+              17,
+              17
+            ]
+          ]
+        },
+        {
+          "index": 21,
+          "predicate": "足够",
+          "arguments": [
+            [
+              "A0",
+              "这些钱",
+              19,
+              20
+            ],
+            [
+              "A1",
+              "你在饿死前找到一份工作",
+              22,
+              30
+            ]
+          ]
+        },
+        {
+          "index": 27,
+          "predicate": "找到",
+          "arguments": [
+            [
+              "A0",
+              "你",
+              22,
+              22
+            ],
+            [
+              "ARGM-TMP",
+              "在饿死前",
+              23,
+              26
+            ],
+            [
+              "A1",
+              "一份工作",
+              28,
+              30
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0004p0053",
+      "ner": [
+        [
+          "Nh",
+          "张羽",
+          9,
+          9
+        ]
+      ],
+      "srl": [
+        {
+          "index": 0,
+          "predicate": "听",
+          "arguments": [
+            [
+              "A1",
+              "对方电话挂断的声音",
+              2,
+              7
+            ]
+          ]
+        },
+        {
+          "index": 12,
+          "predicate": "叹",
+          "arguments": [
+            [
+              "A0",
+              "张羽",
+              9,
+              9
+            ],
+            [
+              "ARGM-ADV",
+              "无奈地",
+              10,
+              11
+            ],
+            [
+              "A1",
+              "口气",
+              14,
+              15
+            ]
+          ]
+        },
+        {
+          "index": 22,
+          "predicate": "要",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "至少",
+              20,
+              20
+            ],
+            [
+              "ARGM-ADV",
+              "也",
+              21,
+              21
+            ],
+            [
+              "ARGM-ADV",
+              "到了500",
+              23,
+              25
+            ]
+          ]
+        },
+        {
+          "index": 23,
+          "predicate": "到",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "至少",
+              20,
+              20
+            ],
+            [
+              "ARGM-ADV",
+              "也",
+              21,
+              21
+            ],
+            [
+              "A1",
+              "500",
+              25,
+              25
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0004p0054",
+      "ner": [
+        [
+          "Nh",
+          "白真真",
+          2,
+          2
+        ],
+        [
+          "Nh",
+          "张羽",
+          7,
+          7
+        ]
+      ],
+      "srl": [
+        {
+          "index": 0,
+          "predicate": "算",
+          "arguments": [
+            [
+              "A1",
+              "白真真给的500",
+              2,
+              5
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "predicate": "给",
+          "arguments": [
+            [
+              "A0",
+              "白真真",
+              2,
+              2
+            ],
+            [
+              "A1",
+              "500",
+              5,
+              5
+            ]
+          ]
+        },
+        {
+          "index": 12,
+          "predicate": "突破",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "算上白真真给的500",
+              0,
+              5
+            ],
+            [
+              "A0",
+              "张羽现在的存款",
+              7,
+              10
+            ],
+            [
+              "ARGM-ADV",
+              "终于",
+              11,
+              11
+            ],
+            [
+              "A1",
+              "1000",
+              13,
+              13
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    }
+  ],
+  "experiment_condition": "low-isolated"
+}

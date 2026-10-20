@@ -1,0 +1,77 @@
+{
+  "job_id": "medium-isolated-c0002p0053",
+  "contract_hash": "828abc220f71d644f48b1f28fca415987579fde8632375da624e7ec95131b858",
+  "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+  "segments": [
+    {
+      "id": "c0002p0053",
+      "text": "“Bố!”"
+    },
+    {
+      "id": "c0002p0054",
+      "text": "Bịch một tiếng quỳ sụp xuống đất, Bạch Chân Chân ôm lấy đùi Trương Vũ nói: “Vừa nãy ở nhà ăn đông người quá, tôi ngại không nói.”"
+    },
+    {
+      "id": "c0002p0055",
+      "text": "“Cậu cho tôi mượn ít tiền đi, khoản vay nhỏ của tôi quá hạn gần một tháng rồi! Tôi quỳ xuống xin cậu này...”"
+    },
+    {
+      "id": "c0002p0056",
+      "text": "Nhìn cảnh tượng trước mắt, trong lòng Trương Vũ thầm chửi một câu: “Cái trường rách gì thế này, hạng nhất khối với hạng mười khối đều là vay tiền để làm màu đúng không?”"
+    },
+    {
+      "id": "c0002p0057",
+      "text": "Mà lúc này Trương Vũ cũng đã nhớ ra, cậu và Bạch Chân Chân quen biết nhau không phải nhờ hội nhóm học bá gì, mà là vì đối phương là tuyến trên của mình, từng tiếp thị khoản vay nhỏ cho mình."
+    },
+    {
+      "id": "c0002p0058",
+      "text": "Xin long trọng giới thiệu lại lần nữa: Bạch Chân Chân, bạn cùng lớp của Trương Vũ, là người anh em tốt cùng Trương Vũ chia sẻ thông tin vay mượn trên các nền tảng lớn, có tình bạn bền chặt cùng nhau đi khắp nơi vay tiền."
+    },
+    {
+      "id": "c0002p0059",
+      "text": "Nghĩ đến việc ẩn dưới khuôn mặt không cảm xúc lạnh như băng vừa nãy ở nhà ăn, đối phương lại đang không ngừng nghĩ cách làm sao để mượn tiền mình, Trương Vũ liền bất đắc dĩ lắc đầu: “Cậu buông tôi ra trước đã, tôi làm gì có tiền mà cho cậu mượn?”"
+    },
+    {
+      "id": "c0002p0060",
+      "text": "Bạch Chân Chân lắc đầu nói: “Cậu mới hạng mười khối, tiêu hết bao nhiêu tiền chứ? Khoản vay cậu nộp đơn xin chắc chắn ít hơn tôi nhiều đúng không?”"
+    },
+    {
+      "id": "c0002p0061",
+      "text": "Nói đoạn, cô có chút cứng đờ lại ngượng ngùng nói: “Chỉ cần giúp tôi trả nợ, cậu muốn làm gì cũng được.”"
+    },
+    {
+      "id": "c0002p0062",
+      "text": "Trương Vũ nghe vậy ánh mắt sáng lên, nhìn Bạch Chân Chân vốn lạnh như băng lúc này lại có dáng vẻ mặt đỏ như hoa đào, chỉ thấy có một sức quyến rũ rất riêng."
+    },
+    {
+      "id": "c0002p0063",
+      "text": "Cậu nhìn Bạch Chân Chân từ trên xuống dưới, hỏi: “Thật sự làm gì cũng được?”"
+    },
+    {
+      "id": "c0002p0064",
+      "text": "Bạch Chân Chân khẽ cắn môi, gật đầu: “Ừm.”"
+    },
+    {
+      "id": "c0002p0065",
+      "text": "Trương Vũ: “Thế tôi có thể đem cậu đi thế chấp không?”"
+    },
+    {
+      "id": "c0002p0066",
+      "text": "Bạch Chân Chân buông tay ra, trừng mắt nhìn Trương Vũ nói: “Vũ Tử, cậu thật sự hết tiền rồi à?”"
+    },
+    {
+      "id": "c0002p0067",
+      "text": "Trương Vũ lấy điện thoại ra, giơ thông tin số dư và nợ quá hạn lên."
+    },
+    {
+      "id": "c0002p0068",
+      "text": "Bạch Chân Chân đứng dậy, phủi phủi ống quần bám đầy bụi đất của mình, sau đó có chút khó tin nhìn Trương Vũ nói: “Cậu nợ bảy mươi vạn? Cho dù là sau khi tốt nghiệp đại học, e rằng cũng phải đi làm rất lâu mới trả hết được nhỉ.”"
+    }
+  ],
+  "uncertainties": [],
+  "provenance": {
+    "actual_model": "gemini-3.8-flash-medium",
+    "conversation_id": "bb3ab0c7-7d1d-4436-a45b-6a258acc325f",
+    "authentication": "OAuth cached account; API key env unset"
+  }
+}

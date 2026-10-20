@@ -1,0 +1,18 @@
+{
+  "jobs": [
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_style_20261013T061041Z\\style-decoder-v3-low.json",
+      "model": "gemini-3.8-flash-low"
+    },
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_style_20261013T061041Z\\style-decoder-v3-medium.json",
+      "model": "gemini-3.8-flash-medium"
+    }
+  ],
+  "max_concurrency": 2,
+  "timeout": 240,
+  "max_reported_tokens": 150000,
+  "workspace": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\style_20261013T061041Z",
+  "result_path": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\results_style_20261013T061041Z.json",
+  "scope": "Last boundeddiagnostic:regeneratewhole16paras withgenericliterarydecoder+approvedchapter1devstyleexamples+actualLTPidiomcandidates;no linepatches;notnewheldout"
+}

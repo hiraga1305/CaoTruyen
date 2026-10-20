@@ -1,0 +1,35 @@
+{
+  "version": "synthetic-source-benchmark-1",
+  "chapter": 103,
+  "title": "Synthetic continuity scene 3",
+  "source_ref": "Self-authored Chinese stress fixture; not a crawled novel, not evidence of any real author.",
+  "glossary": {
+    "陈默": "Trần Mặc",
+    "陈岚": "Trần Lam",
+    "陈舟": "Trần Chu"
+  },
+  "segments": [
+    {
+      "id": "c0103p0001",
+      "source": "三周后，陈默还了陈岚两万元，姐姐把那笔无息借款划掉了。",
+      "original_fixture_id": "s103p0001"
+    },
+    {
+      "id": "c0103p0002",
+      "source": "陈舟却还没归还从哥哥那里借走的五百元。陈默没有催他，也没有说不要还。",
+      "original_fixture_id": "s103p0002"
+    },
+    {
+      "id": "c0103p0003",
+      "source": "陈岚看着弟弟说：“那三百件是你订的，哥只帮你搬过，别把订单记在他名下。”",
+      "original_fixture_id": "s103p0003"
+    },
+    {
+      "id": "c0103p0004",
+      "source": "陈默笑着说：“终于少了一笔债。”说完，他仍在本子上记着那两千元房租借款。",
+      "original_fixture_id": "s103p0004"
+    }
+  ],
+  "scope": "SYNTHETIC; research only",
+  "package_hash": "5ef9263a5136e8b63feaa49a5280c06e5fa808f08728b80397a6ef00f3330a3d"
+}

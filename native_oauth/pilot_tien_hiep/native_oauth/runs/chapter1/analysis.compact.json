@@ -1,0 +1,324 @@
+{
+  "provenance": {
+    "engine": "HIT-SCIR LTP 4.2.13",
+    "model": "LTP/small",
+    "revision": "dea87bf0da3c5d054bbd426a78d7fa9efd347799",
+    "torch": "2.14.0+cpu",
+    "transformers": "4.57.6",
+    "weights_format": "safetensors",
+    "compatibility": [
+      "validated deterministic position_ids buffer omitted for Transformers 5"
+    ]
+  },
+  "segments": [
+    {
+      "id": "c0001p0001",
+      "srl": [
+        {
+          "predicate": "收起",
+          "arguments": [
+            [
+              "A0",
+              "陆川"
+            ],
+            [
+              "A1",
+              "飞剑"
+            ]
+          ]
+        },
+        {
+          "predicate": "杀",
+          "arguments": [
+            [
+              "A0",
+              "陆川"
+            ],
+            [
+              "ARGM-ADV",
+              "没有"
+            ],
+            [
+              "A1",
+              "那名逃走的弟子"
+            ]
+          ]
+        }
+      ],
+      "dependency_roles": [
+        [
+          "陆川",
+          2,
+          "SBV"
+        ],
+        [
+          "收起",
+          0,
+          "HED"
+        ],
+        [
+          "飞剑",
+          2,
+          "VOB"
+        ],
+        [
+          "弟子",
+          7,
+          "VOB"
+        ]
+      ],
+      "ner": [
+        [
+          "Nh",
+          "陆川",
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "c0001p0002",
+      "srl": [
+        {
+          "predicate": "沉默",
+          "arguments": [
+            [
+              "A0",
+              "师父"
+            ],
+            [
+              "ARGM-EXT",
+              "片刻"
+            ]
+          ]
+        },
+        {
+          "predicate": "道",
+          "arguments": [
+            [
+              "A0",
+              "师父"
+            ],
+            [
+              "A1",
+              "“此事未必与掌门有关。你不可妄下结论"
+            ]
+          ]
+        },
+        {
+          "predicate": "有关",
+          "arguments": [
+            [
+              "A0",
+              "此事"
+            ],
+            [
+              "ARGM-ADV",
+              "未必"
+            ],
+            [
+              "A1",
+              "与掌门"
+            ]
+          ]
+        },
+        {
+          "predicate": "下结论",
+          "arguments": [
+            [
+              "A0",
+              "你"
+            ],
+            [
+              "ARGM-ADV",
+              "不可"
+            ],
+            [
+              "ARGM-ADV",
+              "妄"
+            ]
+          ]
+        }
+      ],
+      "dependency_roles": [
+        [
+          "师父",
+          2,
+          "SBV"
+        ],
+        [
+          "沉默",
+          0,
+          "HED"
+        ],
+        [
+          "片刻",
+          2,
+          "CMP"
+        ],
+        [
+          "此事",
+          12,
+          "SBV"
+        ],
+        [
+          "有关",
+          5,
+          "VOB"
+        ],
+        [
+          "你",
+          17,
+          "SBV"
+        ]
+      ],
+      "ner": []
+    },
+    {
+      "id": "c0001p0003",
+      "srl": [
+        {
+          "predicate": "想",
+          "arguments": [
+            [
+              "A0",
+              "她"
+            ],
+            [
+              "A1",
+              "“只要再等三天，师兄就会回来"
+            ]
+          ]
+        },
+        {
+          "predicate": "道",
+          "arguments": [
+            [
+              "A1",
+              "“只要再等三天，师兄就会回来"
+            ]
+          ]
+        },
+        {
+          "predicate": "等",
+          "arguments": [
+            [
+              "ARGM-DIS",
+              "只要"
+            ],
+            [
+              "ARGM-ADV",
+              "再"
+            ],
+            [
+              "ARGM-EXT",
+              "三天"
+            ]
+          ]
+        }
+      ],
+      "dependency_roles": [
+        [
+          "她",
+          4,
+          "SBV"
+        ],
+        [
+          "想",
+          0,
+          "HED"
+        ],
+        [
+          "道",
+          4,
+          "CMP"
+        ],
+        [
+          "等",
+          5,
+          "VOB"
+        ],
+        [
+          "天",
+          10,
+          "CMP"
+        ],
+        [
+          "师兄",
+          17,
+          "SBV"
+        ]
+      ],
+      "ner": []
+    },
+    {
+      "id": "c0001p0004",
+      "srl": [
+        {
+          "predicate": "服",
+          "arguments": [
+            [
+              "A0",
+              "他"
+            ],
+            [
+              "A1",
+              "两枚丹药"
+            ]
+          ]
+        },
+        {
+          "predicate": "增加",
+          "arguments": [
+            [
+              "A1",
+              "体内的灵气"
+            ],
+            [
+              "ARGM-DIS",
+              "却"
+            ],
+            [
+              "ARGM-DIS",
+              "并"
+            ],
+            [
+              "ARGM-ADV",
+              "未"
+            ]
+          ]
+        }
+      ],
+      "dependency_roles": [
+        [
+          "他",
+          2,
+          "SBV"
+        ],
+        [
+          "服",
+          0,
+          "HED"
+        ],
+        [
+          "下",
+          2,
+          "CMP"
+        ],
+        [
+          "丹药",
+          2,
+          "VOB"
+        ],
+        [
+          "灵气",
+          14,
+          "SBV"
+        ]
+      ],
+      "ner": []
+    }
+  ],
+  "limits": "Model-predicted syntax/SRL, not truth; self-authored fixture",
+  "full_file": "analysis.full.json"
+}

@@ -1,0 +1,1110 @@
+{
+  "version": "gpt-blind-style-decoder-v3-1",
+  "reviewer": "Codex GPT inherited subagent /root/batch_test_lock",
+  "model_route_blinded": true,
+  "never_read": [
+    "model mapping",
+    "route code",
+    "peer judgments",
+    "private worker paths"
+  ],
+  "source_corpus_hash": "3d8b75e3eb8ed2dcd0348e8c8f5ce93f14b34a17103488843767071737f5975e",
+  "blind_input_sha256": "9cf157342292695081a0b505d574b02e4320e31d539418b80984f508bb8b03c9",
+  "scope": "Two anonymous16paragraph candidates on previously inspected chapter3 scene. Generic style examples are supplied as style demonstrations, not new storyfacts. This is diagnostic retest, not new heldout evidence.",
+  "groups": {
+    "V3-A": {
+      "target_sha256": "efba07c9055503b2c5a604016cc0143554e0966b21efd9b325ed5a37af31cb8f",
+      "paragraphs": [
+        {
+          "id": "c0003p0076",
+          "source_quote": "周天翊说道：“王海后来解释他没做，砰砰砰的声音是他在教训不听话的学生。”",
+          "target_quote": "Chu Thiên Dực nói: \"Về sau Vương Hải giải thích rằng thầy ấy không làm, tiếng bình bịch đó là thầy ấy đang dạy dỗ học sinh không nghe lời.\"",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0077",
+          "source_quote": "“后来我问了前两届的学生，原来王海早就有体罚差生的习惯。”",
+          "target_quote": "\"Sau đó tôi hỏi mấy học sinh hai khóa trước, hóa ra Vương Hải đã sớm có thói quen phạt thể xác học sinh kém.\"",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0078",
+          "source_quote": "“特别是成绩下滑还不买他药的话，更是会被他带头霸凌。”",
+          "target_quote": "\"Đặc biệt là những đứa thành tích tụt dốc mà còn không mua thuốc của thầy ấy, thì lại càng bị thầy ấy cầm đầu bắt nạt.\"",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0079",
+          "source_quote": "“听说前几年还有一个学生被他逼得跳楼了。”",
+          "target_quote": "\"Nghe nói mấy năm trước còn có một học sinh bị thầy ấy ép tới mức nhảy lầu.\"",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0080",
+          "source_quote": "听到跳楼两个字，张羽的目光骤然间一凝：“王海这都没事？”",
+          "target_quote": "Nghe thấy hai chữ nhảy lầu, ánh mắt Trương Vũ bỗng chốc ngưng lại: \"Vương Hải thế mà chẳng sao ư?\"",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "FAIL",
+          "findings": [
+            {
+              "type": "style_literal_collocation",
+              "severity": "minor",
+              "reason": "目光骤然间一凝 indicates the sudden focused response. “ánh mắt ... ngưng lại” remains an awkward literal collocation, though the event and emotion are recognisable."
+            }
+          ],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0081",
+          "source_quote": "周天翊不以为然道：“王海的教学成绩一直很好，是嵩阳高中的王牌体育老师，教出过三个高考时肉体强度全市第一的学生，有人说他有大宗门一些还在实验室里的药物的渠道。”",
+          "target_quote": "Chu Thiên Dực chẳng cho là đúng: \"Thành tích giảng dạy của Vương Hải luôn rất tốt, là giáo viên thể dục át chủ bài của Trường cấp ba Tung Dương, từng dạy ra ba học sinh có cường độ nhục thân đứng đầu toàn thành phố trong kỳ thi đại học, có người nói thầy ấy có mối lấy một số loại thuốc còn đang ở trong phòng thí nghiệm của các đại tông môn.\"",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "FAIL",
+          "findings": [
+            {
+              "type": "style_whole_clause",
+              "severity": "minor",
+              "reason": "The speech introduction remains “chẳng/không cho là đúng” without a natural object or stance attachment. Dropping nói or adding a comma adjusts surface punctuation but does not repair the whole clause. The source literal disagreement allows this semantic reading, so no proved meaning inversion is counted."
+            }
+          ],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0082",
+          "source_quote": "“就算学校真的不想用他了，大部分学生和家长也不会同意，他们都指着王海买药，帮他们提高肉体强度呢。”",
+          "target_quote": "\"Cho dù nhà trường thật sự không muốn dùng thầy ấy nữa, phần lớn học sinh và phụ huynh cũng sẽ không đồng ý, bọn họ đều trông cậy vào việc mua thuốc của Vương Hải để giúp nâng cao cường độ nhục thân đấy.\"",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0083",
+          "source_quote": "说着，他看向张羽告诫道：“你要是一直不买药，成绩又上不去，恐怕也会被他整。”",
+          "target_quote": "Vừa nói, cậu ta vừa nhìn Trương Vũ cảnh báo: \"Nếu cậu cứ mãi không mua thuốc, thành tích lại không lên nổi, e là cũng sẽ bị thầy ấy chỉnh đấy.\"",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0084",
+          "source_quote": "看着眉头皱起的张羽，周天翊好奇道：“我说……你小子以前扎针也不少啊，怎么突然不买了？该不会是没钱了吧？要不要我借点给你？”",
+          "target_quote": "Nhìn Trương Vũ đang nhíu mày, Chu Thiên Dực tò mò hỏi: \"Tôi bảo này... trước kia cậu tiêm thuốc cũng đâu có ít, sao tự dưng lại không mua nữa? Chẳng lẽ là hết tiền rồi à? Có cần tôi cho mượn một ít không?\"",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0085",
+          "source_quote": "感受到对方眼中的真诚，张羽却无奈地笑了笑：“不用。”",
+          "target_quote": "Cảm nhận được sự chân thành trong mắt đối phương, Trương Vũ lại bất đắc dĩ cười cười: \"Không cần đâu.\"",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0086",
+          "source_quote": "“真不用？”周天翊：“要不你今天先扎我的？”",
+          "target_quote": "\"Thật sự không cần à?\" Chu Thiên Dực nói: \"Hay là hôm nay cậu tiêm trước của tôi đi?\"",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "FAIL",
+          "findings": [
+            {
+              "type": "style_modifier_attachment",
+              "severity": "minor",
+              "reason": "“tiêm trước của tôi” is an awkward arrangement of timing and possession. Context still makes Zhou offer his injections to Zhang, with no actual injection or loan asserted."
+            }
+          ],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0087",
+          "source_quote": "张羽自然连连摇头，他真怕自己再多扎几针就直接暴毙了。",
+          "target_quote": "Trương Vũ đương nhiên lắc đầu liên tục, cậu thật sự sợ mình mà tiêm thêm vài mũi nữa thì sẽ lăn ra đột tử mất.",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0088",
+          "source_quote": "根据他脑海中的记忆，这世上可不缺因为药物负荷过大而重创、残疾甚至是死亡的人，甚至嵩阳高中每年都有因为用药过猛而重伤的人。",
+          "target_quote": "Theo ký ức trong đầu cậu, cõi đời này chẳng hề thiếu những người vì gánh nặng thuốc quá lớn mà chịu tổn thương nặng nề, tàn phế hay thậm chí là mất mạng, ngay cả Trường cấp ba Tung Dương năm nào cũng có người bị trọng thương do dùng thuốc quá liều.",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0089",
+          "source_quote": "可就算如此，追求肉体强度而用药的学生仍旧是络绎不绝。",
+          "target_quote": "Nhưng dẫu vậy, những học sinh vì theo đuổi cường độ nhục thân mà dùng thuốc vẫn cứ nườm nượp không dứt.",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0090",
+          "source_quote": "而原身从上周开始便已经有了不堪重负的迹象。",
+          "target_quote": "Mà nguyên thân từ tuần trước đã bắt đầu xuất hiện dấu hiệu không chịu nổi gánh nặng.",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0091",
+          "source_quote": "想到原身不但欠下七十万巨债，还给他留下这么一具肉身，张羽心中便再次哀叹。",
+          "target_quote": "Nghĩ đến việc nguyên thân không chỉ nợ món nợ khổng lồ bảy mươi vạn mà còn để lại cho mình một nhục thân thế này, trong lòng Trương Vũ lại thở dài lần nữa.",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        }
+      ],
+      "obligations": [
+        {
+          "id": "heldout-reported-violence",
+          "category": "epistemic_status",
+          "status": "PASS",
+          "obligation": "Zhou reports Wang’s claim, describes asking former students, and reports a hearsay jumping incident. Preserve reported status instead of inventing independently confirmed narration.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0059",
+              "source": "就在这时，一名少年走了过来，凑到张羽身旁问道：“王海又跟你推销了？”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0062",
+              "source": "“他是……周天翊。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0076",
+              "source": "周天翊说道：“王海后来解释他没做，砰砰砰的声音是他在教训不听话的学生。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0077",
+              "source": "“后来我问了前两届的学生，原来王海早就有体罚差生的习惯。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0079",
+              "source": "“听说前几年还有一个学生被他逼得跳楼了。”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0076",
+              "target": "Chu Thiên Dực nói: \"Về sau Vương Hải giải thích rằng thầy ấy không làm, tiếng bình bịch đó là thầy ấy đang dạy dỗ học sinh không nghe lời.\""
+            },
+            {
+              "id": "c0003p0077",
+              "target": "\"Sau đó tôi hỏi mấy học sinh hai khóa trước, hóa ra Vương Hải đã sớm có thói quen phạt thể xác học sinh kém.\""
+            },
+            {
+              "id": "c0003p0078",
+              "target": "\"Đặc biệt là những đứa thành tích tụt dốc mà còn không mua thuốc của thầy ấy, thì lại càng bị thầy ấy cầm đầu bắt nạt.\""
+            },
+            {
+              "id": "c0003p0079",
+              "target": "\"Nghe nói mấy năm trước còn có một học sinh bị thầy ấy ép tới mức nhảy lầu.\""
+            }
+          ],
+          "reason": "Quoted targets preserve reported status, actors, condition, refusal, original/current identity, drug risk, debt amount and recurring name. No supported semantic violation of this obligation found."
+        },
+        {
+          "id": "heldout-teacher-protection",
+          "category": "social_cause",
+          "status": "PASS",
+          "obligation": "Zhang asks how Wang escapes consequences. Zhou explains good results, three city top students and dependence on his drugs. Do not turn this into moral endorsement by the narrator.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0080",
+              "source": "听到跳楼两个字，张羽的目光骤然间一凝：“王海这都没事？”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0081",
+              "source": "周天翊不以为然道：“王海的教学成绩一直很好，是嵩阳高中的王牌体育老师，教出过三个高考时肉体强度全市第一的学生，有人说他有大宗门一些还在实验室里的药物的渠道。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0082",
+              "source": "“就算学校真的不想用他了，大部分学生和家长也不会同意，他们都指着王海买药，帮他们提高肉体强度呢。”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0080",
+              "target": "Nghe thấy hai chữ nhảy lầu, ánh mắt Trương Vũ bỗng chốc ngưng lại: \"Vương Hải thế mà chẳng sao ư?\""
+            },
+            {
+              "id": "c0003p0081",
+              "target": "Chu Thiên Dực chẳng cho là đúng: \"Thành tích giảng dạy của Vương Hải luôn rất tốt, là giáo viên thể dục át chủ bài của Trường cấp ba Tung Dương, từng dạy ra ba học sinh có cường độ nhục thân đứng đầu toàn thành phố trong kỳ thi đại học, có người nói thầy ấy có mối lấy một số loại thuốc còn đang ở trong phòng thí nghiệm của các đại tông môn.\""
+            },
+            {
+              "id": "c0003p0082",
+              "target": "\"Cho dù nhà trường thật sự không muốn dùng thầy ấy nữa, phần lớn học sinh và phụ huynh cũng sẽ không đồng ý, bọn họ đều trông cậy vào việc mua thuốc của Vương Hải để giúp nâng cao cường độ nhục thân đấy.\""
+            }
+          ],
+          "reason": "Quoted targets preserve reported status, actors, condition, refusal, original/current identity, drug risk, debt amount and recurring name. No supported semantic violation of this obligation found."
+        },
+        {
+          "id": "heldout-conditional-threat",
+          "category": "condition",
+          "status": "PASS",
+          "obligation": "Possible mistreatment is conditional on continuing not to buy medicine and grades not rising. Preserve 恐怕 uncertainty.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0083",
+              "source": "说着，他看向张羽告诫道：“你要是一直不买药，成绩又上不去，恐怕也会被他整。”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0083",
+              "target": "Vừa nói, cậu ta vừa nhìn Trương Vũ cảnh báo: \"Nếu cậu cứ mãi không mua thuốc, thành tích lại không lên nổi, e là cũng sẽ bị thầy ấy chỉnh đấy.\""
+            }
+          ],
+          "reason": "Quoted targets preserve reported status, actors, condition, refusal, original/current identity, drug risk, debt amount and recurring name. No supported semantic violation of this obligation found."
+        },
+        {
+          "id": "heldout-loan-direction",
+          "category": "speaker_negation",
+          "status": "PASS",
+          "obligation": "Zhou offers Zhang money, then his injections for today. Zhang refuses. No actual loan or injection occurs here.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0062",
+              "source": "“他是……周天翊。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0084",
+              "source": "看着眉头皱起的张羽，周天翊好奇道：“我说……你小子以前扎针也不少啊，怎么突然不买了？该不会是没钱了吧？要不要我借点给你？”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0085",
+              "source": "感受到对方眼中的真诚，张羽却无奈地笑了笑：“不用。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0086",
+              "source": "“真不用？”周天翊：“要不你今天先扎我的？”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0087",
+              "source": "张羽自然连连摇头，他真怕自己再多扎几针就直接暴毙了。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0084",
+              "target": "Nhìn Trương Vũ đang nhíu mày, Chu Thiên Dực tò mò hỏi: \"Tôi bảo này... trước kia cậu tiêm thuốc cũng đâu có ít, sao tự dưng lại không mua nữa? Chẳng lẽ là hết tiền rồi à? Có cần tôi cho mượn một ít không?\""
+            },
+            {
+              "id": "c0003p0085",
+              "target": "Cảm nhận được sự chân thành trong mắt đối phương, Trương Vũ lại bất đắc dĩ cười cười: \"Không cần đâu.\""
+            },
+            {
+              "id": "c0003p0086",
+              "target": "\"Thật sự không cần à?\" Chu Thiên Dực nói: \"Hay là hôm nay cậu tiêm trước của tôi đi?\""
+            }
+          ],
+          "reason": "Quoted targets preserve reported status, actors, condition, refusal, original/current identity, drug risk, debt amount and recurring name. No supported semantic violation of this obligation found."
+        },
+        {
+          "id": "heldout-drug-risk",
+          "category": "cause_scope",
+          "status": "PASS",
+          "obligation": "Zhang fears death from more injections. Overuse can injure, disable or kill; the yearly school cases specified are severe injuries, not all fatal cases.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0087",
+              "source": "张羽自然连连摇头，他真怕自己再多扎几针就直接暴毙了。"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0088",
+              "source": "根据他脑海中的记忆，这世上可不缺因为药物负荷过大而重创、残疾甚至是死亡的人，甚至嵩阳高中每年都有因为用药过猛而重伤的人。"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0089",
+              "source": "可就算如此，追求肉体强度而用药的学生仍旧是络绎不绝。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0087",
+              "target": "Trương Vũ đương nhiên lắc đầu liên tục, cậu thật sự sợ mình mà tiêm thêm vài mũi nữa thì sẽ lăn ra đột tử mất."
+            },
+            {
+              "id": "c0003p0088",
+              "target": "Theo ký ức trong đầu cậu, cõi đời này chẳng hề thiếu những người vì gánh nặng thuốc quá lớn mà chịu tổn thương nặng nề, tàn phế hay thậm chí là mất mạng, ngay cả Trường cấp ba Tung Dương năm nào cũng có người bị trọng thương do dùng thuốc quá liều."
+            },
+            {
+              "id": "c0003p0089",
+              "target": "Nhưng dẫu vậy, những học sinh vì theo đuổi cường độ nhục thân mà dùng thuốc vẫn cứ nườm nượp không dứt."
+            }
+          ],
+          "reason": "Quoted targets preserve reported status, actors, condition, refusal, original/current identity, drug risk, debt amount and recurring name. No supported semantic violation of this obligation found."
+        },
+        {
+          "id": "heldout-original-body",
+          "category": "identity_time",
+          "status": "PASS",
+          "obligation": "The original body had overload signs starting last week. Current Zhang laments inherited 700,000 debt and a damaged body. No new loan or health cure is asserted.",
+          "source_quotes": [
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0009",
+              "source": "他揉了揉脑袋，感觉无数属于原身的破碎记忆在脑海中起起伏伏，变幻不定。"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0010",
+              "source": "虽然此刻的张羽已经掌握了这具身体，但对于原来的记忆仍旧没有彻底融合，许多细节部分都需要专注去回忆才能想起来。"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0090",
+              "source": "而原身从上周开始便已经有了不堪重负的迹象。"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0091",
+              "source": "想到原身不但欠下七十万巨债，还给他留下这么一具肉身，张羽心中便再次哀叹。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0090",
+              "target": "Mà nguyên thân từ tuần trước đã bắt đầu xuất hiện dấu hiệu không chịu nổi gánh nặng."
+            },
+            {
+              "id": "c0003p0091",
+              "target": "Nghĩ đến việc nguyên thân không chỉ nợ món nợ khổng lồ bảy mươi vạn mà còn để lại cho mình một nhục thân thế này, trong lòng Trương Vũ lại thở dài lần nữa."
+            }
+          ],
+          "reason": "Quoted targets preserve reported status, actors, condition, refusal, original/current identity, drug risk, debt amount and recurring name. No supported semantic violation of this obligation found."
+        },
+        {
+          "id": "heldout-zhou-name",
+          "category": "name",
+          "status": "PASS",
+          "obligation": "周天翊 remains Chu Thiên Dực. Do not confuse him with Zhou Wei or a new character.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0062",
+              "source": "“他是……周天翊。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0083",
+              "source": "说着，他看向张羽告诫道：“你要是一直不买药，成绩又上不去，恐怕也会被他整。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0084",
+              "source": "看着眉头皱起的张羽，周天翊好奇道：“我说……你小子以前扎针也不少啊，怎么突然不买了？该不会是没钱了吧？要不要我借点给你？”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0086",
+              "source": "“真不用？”周天翊：“要不你今天先扎我的？”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0083",
+              "target": "Vừa nói, cậu ta vừa nhìn Trương Vũ cảnh báo: \"Nếu cậu cứ mãi không mua thuốc, thành tích lại không lên nổi, e là cũng sẽ bị thầy ấy chỉnh đấy.\""
+            },
+            {
+              "id": "c0003p0084",
+              "target": "Nhìn Trương Vũ đang nhíu mày, Chu Thiên Dực tò mò hỏi: \"Tôi bảo này... trước kia cậu tiêm thuốc cũng đâu có ít, sao tự dưng lại không mua nữa? Chẳng lẽ là hết tiền rồi à? Có cần tôi cho mượn một ít không?\""
+            },
+            {
+              "id": "c0003p0086",
+              "target": "\"Thật sự không cần à?\" Chu Thiên Dực nói: \"Hay là hôm nay cậu tiêm trước của tôi đi?\""
+            }
+          ],
+          "reason": "Quoted targets preserve reported status, actors, condition, refusal, original/current identity, drug risk, debt amount and recurring name. No supported semantic violation of this obligation found."
+        }
+      ],
+      "metrics": {
+        "rows_reviewed": 16,
+        "obligation_pass": 7,
+        "obligation_fail": 0,
+        "obligation_ambiguous": 0,
+        "confirmed_semantic_error_paragraphs": 0,
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "style_error_paragraphs": 3,
+        "persistent_idiom_clause_flags": 2
+      },
+      "diagnostic_changes": [
+        {
+          "paragraph_id": "c0003p0081",
+          "status": "PERSISTING",
+          "reason": "Still an objectless literal stance expression; no whole-clause fluency gain proved."
+        },
+        {
+          "paragraph_id": "c0003p0089",
+          "status": "FLUENT_IN_THIS_OUTPUT",
+          "reason": "nườm nượp không dứt is natural for the continuing stream and does not add a story fact."
+        },
+        {
+          "paragraph_id": "c0003p0084",
+          "status": "MORE_NATURAL",
+          "reason": "A avoids the previous stacked thằng nhóc cậu. B uses tớ/chúmày between cậu forms, introducing a new stylistic issue."
+        }
+      ]
+    },
+    "V3-B": {
+      "target_sha256": "ae27db3f73a8bd074ad2984eef9e5af5626c822f859dfaf13db90c709686f08b",
+      "paragraphs": [
+        {
+          "id": "c0003p0076",
+          "source_quote": "周天翊说道：“王海后来解释他没做，砰砰砰的声音是他在教训不听话的学生。”",
+          "target_quote": "Chu Thiên Dực nói: \"Sau đó Vương Hải giải thích rằng ông ta không làm, tiếng bình bịch là do ông ta đang dạy dỗ học sinh không nghe lời.\"",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0077",
+          "source_quote": "“后来我问了前两届的学生，原来王海早就有体罚差生的习惯。”",
+          "target_quote": "\"Sau đó tớ có hỏi học sinh hai khóa trước, hóa ra Vương Hải từ lâu đã có thói quen phạt thể xác học sinh kém.\"",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0078",
+          "source_quote": "“特别是成绩下滑还不买他药的话，更是会被他带头霸凌。”",
+          "target_quote": "\"Đặc biệt nếu thành tích tụt dốc mà còn không mua thuốc của ông ta, thì lại càng bị ông ta cầm đầu bắt nạt.\"",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0079",
+          "source_quote": "“听说前几年还有一个学生被他逼得跳楼了。”",
+          "target_quote": "\"Nghe nói mấy năm trước còn có một học sinh bị ông ta ép đến mức phải nhảy lầu.\"",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0080",
+          "source_quote": "听到跳楼两个字，张羽的目光骤然间一凝：“王海这都没事？”",
+          "target_quote": "Nghe thấy hai chữ nhảy lầu, ánh mắt Trương Vũ bỗng nhiên ngưng lại: \"Vương Hải thế này mà cũng không sao ư?\"",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "FAIL",
+          "findings": [
+            {
+              "type": "style_literal_collocation",
+              "severity": "minor",
+              "reason": "目光骤然间一凝 indicates the sudden focused response. “ánh mắt ... ngưng lại” remains an awkward literal collocation, though the event and emotion are recognisable."
+            }
+          ],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0081",
+          "source_quote": "周天翊不以为然道：“王海的教学成绩一直很好，是嵩阳高中的王牌体育老师，教出过三个高考时肉体强度全市第一的学生，有人说他有大宗门一些还在实验室里的药物的渠道。”",
+          "target_quote": "Chu Thiên Dực không cho là đúng, nói: \"Thành tích giảng dạy của Vương Hải luôn rất tốt, là giáo viên thể dục át chủ bài của Trường cấp ba Tung Dương, từng dạy ra ba học sinh có cường độ thể xác đứng đầu toàn thành phố trong kỳ thi đại học, có người nói ông ta có kênh lấy một số loại thuốc còn đang trong phòng thí nghiệm của đại tông môn.\"",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "FAIL",
+          "findings": [
+            {
+              "type": "style_whole_clause",
+              "severity": "minor",
+              "reason": "The speech introduction remains “chẳng/không cho là đúng” without a natural object or stance attachment. Dropping nói or adding a comma adjusts surface punctuation but does not repair the whole clause. The source literal disagreement allows this semantic reading, so no proved meaning inversion is counted."
+            }
+          ],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0082",
+          "source_quote": "“就算学校真的不想用他了，大部分学生和家长也不会同意，他们都指着王海买药，帮他们提高肉体强度呢。”",
+          "target_quote": "\"Cho dù nhà trường thật sự không muốn dùng ông ta nữa, phần lớn học sinh và phụ huynh cũng sẽ không đồng ý, bọn họ đều trông cậy vào Vương Hải để mua thuốc, giúp họ nâng cao cường độ thể xác cơ mà.\"",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0083",
+          "source_quote": "说着，他看向张羽告诫道：“你要是一直不买药，成绩又上不去，恐怕也会被他整。”",
+          "target_quote": "Vừa nói, cậu ta vừa nhìn Trương Vũ cảnh báo: \"Cậu mà cứ mãi không mua thuốc, thành tích lại không lên nổi, e rằng cũng sẽ bị ông ta chỉnh đấy.\"",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0084",
+          "source_quote": "看着眉头皱起的张羽，周天翊好奇道：“我说……你小子以前扎针也不少啊，怎么突然不买了？该不会是没钱了吧？要不要我借点给你？”",
+          "target_quote": "Nhìn Trương Vũ đang nhíu mày, Chu Thiên Dực tò mò hỏi: \"Tớ bảo này... dạo trước chú mày tiêm cũng đâu có ít, sao tự nhiên lại không mua nữa? Chẳng lẽ là hết tiền rồi à? Có cần tớ cho mượn một ít không?\"",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "FAIL",
+          "findings": [
+            {
+              "type": "style_address_register",
+              "severity": "minor",
+              "reason": "“Tớ ... chú mày” sits awkwardly between cậu atp83 and cậu/tớ atp86. This is a register consistency flag; informal teasing is possible, so it is not a wrong actor or false relationship claim."
+            }
+          ],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0085",
+          "source_quote": "感受到对方眼中的真诚，张羽却无奈地笑了笑：“不用。”",
+          "target_quote": "Cảm nhận được sự chân thành trong ánh mắt đối phương, Trương Vũ lại bất lực cười cười: \"Không cần đâu.\"",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0086",
+          "source_quote": "“真不用？”周天翊：“要不你今天先扎我的？”",
+          "target_quote": "\"Thật sự không cần à?\" Chu Thiên Dực nói: \"Hay là hôm nay cậu tiêm của tớ trước đi?\"",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0087",
+          "source_quote": "张羽自然连连摇头，他真怕自己再多扎几针就直接暴毙了。",
+          "target_quote": "Trương Vũ đương nhiên lắc đầu lia lịa, cậu thật sự sợ bản thân tiêm thêm mấy mũi nữa là đột tử ngay mất.",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0088",
+          "source_quote": "根据他脑海中的记忆，这世上可不缺因为药物负荷过大而重创、残疾甚至是死亡的人，甚至嵩阳高中每年都有因为用药过猛而重伤的人。",
+          "target_quote": "Theo ký ức trong đầu cậu, thế gian này chẳng hề thiếu những người vì gánh nặng thuốc men quá lớn mà tổn thương nặng nề, tàn phế thậm chí là mất mạng, ngay cả Trường cấp ba Tung Dương mỗi năm đều có người vì dùng thuốc quá liều mà bị thương nặng.",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0089",
+          "source_quote": "可就算如此，追求肉体强度而用药的学生仍旧是络绎不绝。",
+          "target_quote": "Dù vậy, những học sinh vì theo đuổi cường độ thể xác mà dùng thuốc vẫn cứ nườm nượp không dứt.",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0090",
+          "source_quote": "而原身从上周开始便已经有了不堪重负的迹象。",
+          "target_quote": "Mà nguyên thân từ tuần trước đã bắt đầu có dấu hiệu không kham nổi gánh nặng.",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        },
+        {
+          "id": "c0003p0091",
+          "source_quote": "想到原身不但欠下七十万巨债，还给他留下这么一具肉身，张羽心中便再次哀叹。",
+          "target_quote": "Nghĩ đến việc nguyên thân không những mắc món nợ khổng lồ bảy mươi vạn, lại còn để lại cho cậu một nhục thân như thế này, trong lòng Trương Vũ lại một lần nữa than thở.",
+          "semantic_status": "PASS",
+          "actor_speaker": "PASS",
+          "financial_meaning": "PASS",
+          "number_amount": "PASS",
+          "time_uncertainty": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "note": "Reviewed against full original Chinese and prior source. No additional source-supported semantic defect found; no replacement sentence supplied."
+        }
+      ],
+      "obligations": [
+        {
+          "id": "heldout-reported-violence",
+          "category": "epistemic_status",
+          "status": "PASS",
+          "obligation": "Zhou reports Wang’s claim, describes asking former students, and reports a hearsay jumping incident. Preserve reported status instead of inventing independently confirmed narration.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0059",
+              "source": "就在这时，一名少年走了过来，凑到张羽身旁问道：“王海又跟你推销了？”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0062",
+              "source": "“他是……周天翊。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0076",
+              "source": "周天翊说道：“王海后来解释他没做，砰砰砰的声音是他在教训不听话的学生。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0077",
+              "source": "“后来我问了前两届的学生，原来王海早就有体罚差生的习惯。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0079",
+              "source": "“听说前几年还有一个学生被他逼得跳楼了。”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0076",
+              "target": "Chu Thiên Dực nói: \"Sau đó Vương Hải giải thích rằng ông ta không làm, tiếng bình bịch là do ông ta đang dạy dỗ học sinh không nghe lời.\""
+            },
+            {
+              "id": "c0003p0077",
+              "target": "\"Sau đó tớ có hỏi học sinh hai khóa trước, hóa ra Vương Hải từ lâu đã có thói quen phạt thể xác học sinh kém.\""
+            },
+            {
+              "id": "c0003p0078",
+              "target": "\"Đặc biệt nếu thành tích tụt dốc mà còn không mua thuốc của ông ta, thì lại càng bị ông ta cầm đầu bắt nạt.\""
+            },
+            {
+              "id": "c0003p0079",
+              "target": "\"Nghe nói mấy năm trước còn có một học sinh bị ông ta ép đến mức phải nhảy lầu.\""
+            }
+          ],
+          "reason": "Quoted targets preserve reported status, actors, condition, refusal, original/current identity, drug risk, debt amount and recurring name. No supported semantic violation of this obligation found."
+        },
+        {
+          "id": "heldout-teacher-protection",
+          "category": "social_cause",
+          "status": "PASS",
+          "obligation": "Zhang asks how Wang escapes consequences. Zhou explains good results, three city top students and dependence on his drugs. Do not turn this into moral endorsement by the narrator.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0080",
+              "source": "听到跳楼两个字，张羽的目光骤然间一凝：“王海这都没事？”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0081",
+              "source": "周天翊不以为然道：“王海的教学成绩一直很好，是嵩阳高中的王牌体育老师，教出过三个高考时肉体强度全市第一的学生，有人说他有大宗门一些还在实验室里的药物的渠道。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0082",
+              "source": "“就算学校真的不想用他了，大部分学生和家长也不会同意，他们都指着王海买药，帮他们提高肉体强度呢。”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0080",
+              "target": "Nghe thấy hai chữ nhảy lầu, ánh mắt Trương Vũ bỗng nhiên ngưng lại: \"Vương Hải thế này mà cũng không sao ư?\""
+            },
+            {
+              "id": "c0003p0081",
+              "target": "Chu Thiên Dực không cho là đúng, nói: \"Thành tích giảng dạy của Vương Hải luôn rất tốt, là giáo viên thể dục át chủ bài của Trường cấp ba Tung Dương, từng dạy ra ba học sinh có cường độ thể xác đứng đầu toàn thành phố trong kỳ thi đại học, có người nói ông ta có kênh lấy một số loại thuốc còn đang trong phòng thí nghiệm của đại tông môn.\""
+            },
+            {
+              "id": "c0003p0082",
+              "target": "\"Cho dù nhà trường thật sự không muốn dùng ông ta nữa, phần lớn học sinh và phụ huynh cũng sẽ không đồng ý, bọn họ đều trông cậy vào Vương Hải để mua thuốc, giúp họ nâng cao cường độ thể xác cơ mà.\""
+            }
+          ],
+          "reason": "Quoted targets preserve reported status, actors, condition, refusal, original/current identity, drug risk, debt amount and recurring name. No supported semantic violation of this obligation found."
+        },
+        {
+          "id": "heldout-conditional-threat",
+          "category": "condition",
+          "status": "PASS",
+          "obligation": "Possible mistreatment is conditional on continuing not to buy medicine and grades not rising. Preserve 恐怕 uncertainty.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0083",
+              "source": "说着，他看向张羽告诫道：“你要是一直不买药，成绩又上不去，恐怕也会被他整。”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0083",
+              "target": "Vừa nói, cậu ta vừa nhìn Trương Vũ cảnh báo: \"Cậu mà cứ mãi không mua thuốc, thành tích lại không lên nổi, e rằng cũng sẽ bị ông ta chỉnh đấy.\""
+            }
+          ],
+          "reason": "Quoted targets preserve reported status, actors, condition, refusal, original/current identity, drug risk, debt amount and recurring name. No supported semantic violation of this obligation found."
+        },
+        {
+          "id": "heldout-loan-direction",
+          "category": "speaker_negation",
+          "status": "PASS",
+          "obligation": "Zhou offers Zhang money, then his injections for today. Zhang refuses. No actual loan or injection occurs here.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0062",
+              "source": "“他是……周天翊。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0084",
+              "source": "看着眉头皱起的张羽，周天翊好奇道：“我说……你小子以前扎针也不少啊，怎么突然不买了？该不会是没钱了吧？要不要我借点给你？”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0085",
+              "source": "感受到对方眼中的真诚，张羽却无奈地笑了笑：“不用。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0086",
+              "source": "“真不用？”周天翊：“要不你今天先扎我的？”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0087",
+              "source": "张羽自然连连摇头，他真怕自己再多扎几针就直接暴毙了。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0084",
+              "target": "Nhìn Trương Vũ đang nhíu mày, Chu Thiên Dực tò mò hỏi: \"Tớ bảo này... dạo trước chú mày tiêm cũng đâu có ít, sao tự nhiên lại không mua nữa? Chẳng lẽ là hết tiền rồi à? Có cần tớ cho mượn một ít không?\""
+            },
+            {
+              "id": "c0003p0085",
+              "target": "Cảm nhận được sự chân thành trong ánh mắt đối phương, Trương Vũ lại bất lực cười cười: \"Không cần đâu.\""
+            },
+            {
+              "id": "c0003p0086",
+              "target": "\"Thật sự không cần à?\" Chu Thiên Dực nói: \"Hay là hôm nay cậu tiêm của tớ trước đi?\""
+            }
+          ],
+          "reason": "Quoted targets preserve reported status, actors, condition, refusal, original/current identity, drug risk, debt amount and recurring name. No supported semantic violation of this obligation found."
+        },
+        {
+          "id": "heldout-drug-risk",
+          "category": "cause_scope",
+          "status": "PASS",
+          "obligation": "Zhang fears death from more injections. Overuse can injure, disable or kill; the yearly school cases specified are severe injuries, not all fatal cases.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0087",
+              "source": "张羽自然连连摇头，他真怕自己再多扎几针就直接暴毙了。"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0088",
+              "source": "根据他脑海中的记忆，这世上可不缺因为药物负荷过大而重创、残疾甚至是死亡的人，甚至嵩阳高中每年都有因为用药过猛而重伤的人。"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0089",
+              "source": "可就算如此，追求肉体强度而用药的学生仍旧是络绎不绝。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0087",
+              "target": "Trương Vũ đương nhiên lắc đầu lia lịa, cậu thật sự sợ bản thân tiêm thêm mấy mũi nữa là đột tử ngay mất."
+            },
+            {
+              "id": "c0003p0088",
+              "target": "Theo ký ức trong đầu cậu, thế gian này chẳng hề thiếu những người vì gánh nặng thuốc men quá lớn mà tổn thương nặng nề, tàn phế thậm chí là mất mạng, ngay cả Trường cấp ba Tung Dương mỗi năm đều có người vì dùng thuốc quá liều mà bị thương nặng."
+            },
+            {
+              "id": "c0003p0089",
+              "target": "Dù vậy, những học sinh vì theo đuổi cường độ thể xác mà dùng thuốc vẫn cứ nườm nượp không dứt."
+            }
+          ],
+          "reason": "Quoted targets preserve reported status, actors, condition, refusal, original/current identity, drug risk, debt amount and recurring name. No supported semantic violation of this obligation found."
+        },
+        {
+          "id": "heldout-original-body",
+          "category": "identity_time",
+          "status": "PASS",
+          "obligation": "The original body had overload signs starting last week. Current Zhang laments inherited 700,000 debt and a damaged body. No new loan or health cure is asserted.",
+          "source_quotes": [
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0009",
+              "source": "他揉了揉脑袋，感觉无数属于原身的破碎记忆在脑海中起起伏伏，变幻不定。"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0010",
+              "source": "虽然此刻的张羽已经掌握了这具身体，但对于原来的记忆仍旧没有彻底融合，许多细节部分都需要专注去回忆才能想起来。"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0090",
+              "source": "而原身从上周开始便已经有了不堪重负的迹象。"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0091",
+              "source": "想到原身不但欠下七十万巨债，还给他留下这么一具肉身，张羽心中便再次哀叹。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0090",
+              "target": "Mà nguyên thân từ tuần trước đã bắt đầu có dấu hiệu không kham nổi gánh nặng."
+            },
+            {
+              "id": "c0003p0091",
+              "target": "Nghĩ đến việc nguyên thân không những mắc món nợ khổng lồ bảy mươi vạn, lại còn để lại cho cậu một nhục thân như thế này, trong lòng Trương Vũ lại một lần nữa than thở."
+            }
+          ],
+          "reason": "Quoted targets preserve reported status, actors, condition, refusal, original/current identity, drug risk, debt amount and recurring name. No supported semantic violation of this obligation found."
+        },
+        {
+          "id": "heldout-zhou-name",
+          "category": "name",
+          "status": "PASS",
+          "obligation": "周天翊 remains Chu Thiên Dực. Do not confuse him with Zhou Wei or a new character.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0062",
+              "source": "“他是……周天翊。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0083",
+              "source": "说着，他看向张羽告诫道：“你要是一直不买药，成绩又上不去，恐怕也会被他整。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0084",
+              "source": "看着眉头皱起的张羽，周天翊好奇道：“我说……你小子以前扎针也不少啊，怎么突然不买了？该不会是没钱了吧？要不要我借点给你？”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0086",
+              "source": "“真不用？”周天翊：“要不你今天先扎我的？”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0083",
+              "target": "Vừa nói, cậu ta vừa nhìn Trương Vũ cảnh báo: \"Cậu mà cứ mãi không mua thuốc, thành tích lại không lên nổi, e rằng cũng sẽ bị ông ta chỉnh đấy.\""
+            },
+            {
+              "id": "c0003p0084",
+              "target": "Nhìn Trương Vũ đang nhíu mày, Chu Thiên Dực tò mò hỏi: \"Tớ bảo này... dạo trước chú mày tiêm cũng đâu có ít, sao tự nhiên lại không mua nữa? Chẳng lẽ là hết tiền rồi à? Có cần tớ cho mượn một ít không?\""
+            },
+            {
+              "id": "c0003p0086",
+              "target": "\"Thật sự không cần à?\" Chu Thiên Dực nói: \"Hay là hôm nay cậu tiêm của tớ trước đi?\""
+            }
+          ],
+          "reason": "Quoted targets preserve reported status, actors, condition, refusal, original/current identity, drug risk, debt amount and recurring name. No supported semantic violation of this obligation found."
+        }
+      ],
+      "metrics": {
+        "rows_reviewed": 16,
+        "obligation_pass": 7,
+        "obligation_fail": 0,
+        "obligation_ambiguous": 0,
+        "confirmed_semantic_error_paragraphs": 0,
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "style_error_paragraphs": 3,
+        "persistent_idiom_clause_flags": 2
+      },
+      "diagnostic_changes": [
+        {
+          "paragraph_id": "c0003p0081",
+          "status": "PERSISTING",
+          "reason": "Still an objectless literal stance expression; no whole-clause fluency gain proved."
+        },
+        {
+          "paragraph_id": "c0003p0089",
+          "status": "FLUENT_IN_THIS_OUTPUT",
+          "reason": "nườm nượp không dứt is natural for the continuing stream and does not add a story fact."
+        },
+        {
+          "paragraph_id": "c0003p0084",
+          "status": "REGISTER_FLAG",
+          "reason": "A avoids the previous stacked thằng nhóc cậu. B uses tớ/chúmày between cậu forms, introducing a new stylistic issue."
+        }
+      ]
+    }
+  },
+  "whole_clause_result": "The recurring p81 stance clause remains literal and objectless in both candidates. Parser idiom suggestions did not produce a natural whole-clause result on this diagnostic.",
+  "limitations": [
+    "32paragraphs and one evaluator do not establish long-story quality or ten-thousand-chapter reliability.",
+    "A dependency parser prediction, including merged idiom and speaking verb, is not a semantic or stylistic gold judgment.",
+    "This evaluator sees only untouched candidate/source bundles. Root independently verifies generation runtime and source-style-example provenance.",
+    "Peer address choices can vary naturally; style flags do not assert a wrong identity or a fabricated social relationship."
+  ],
+  "system_recommendations": [
+    "Represent idiom suggestions as fallible candidates and preserve full clause structure: stance, speaker, reporting verb and discourse function. A glossary-level hint or parser mergedtoken is insufficient to guarantee natural Vietnamese prose.",
+    "Make the literary decoder evaluate entire generated clauses in context, with actor/quantity/negation preservation. On failure regenerate the source chunk under a stronger generic policy; do not patch the shown benchmark sentence.",
+    "Persist narrator and pairwise address profiles across workers, allowing source-supported teasing without uncontrolled shifts in register.",
+    "After tuning with this diagnostic, use fresh authentic context-dependent scenes and equal-context sequential/parallel comparisons. Further repeated runs on this scene only measure regression behaviour."
+  ],
+  "evaluation_sha256": "173519dc85806bcb454b53d860fba08bfad8d1586c0b02b180a8048d66be24c1"
+}

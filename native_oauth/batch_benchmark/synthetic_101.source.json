@@ -1,0 +1,35 @@
+{
+  "version": "synthetic-source-benchmark-1",
+  "chapter": 101,
+  "title": "Synthetic continuity scene 1",
+  "source_ref": "Self-authored Chinese stress fixture; not a crawled novel, not evidence of any real author.",
+  "glossary": {
+    "陈默": "Trần Mặc",
+    "陈岚": "Trần Lam",
+    "陈舟": "Trần Chu"
+  },
+  "segments": [
+    {
+      "id": "c0101p0001",
+      "source": "陈默有一个姐姐陈岚，还有一个弟弟陈舟。三人吃完晚饭，坐在小客厅里算账。",
+      "original_fixture_id": "s101p0001"
+    },
+    {
+      "id": "c0101p0002",
+      "source": "陈岚把两万元借给陈默，说好不收利息，但必须在三十天内归还。",
+      "original_fixture_id": "s101p0002"
+    },
+    {
+      "id": "c0101p0003",
+      "source": "弟弟指着订货单说：“那三百件药是我订的，每件净重至少九百克，不是哥买的。”",
+      "original_fixture_id": "s101p0003"
+    },
+    {
+      "id": "c0101p0004",
+      "source": "陈默摇头：“今晚不再借了。明天有没有必要借，我得先算清楚。”",
+      "original_fixture_id": "s101p0004"
+    }
+  ],
+  "scope": "SYNTHETIC; research only",
+  "package_hash": "5359b16761e4a50482cb0479fce2e0ce9e2272734f6c83d182b53bc8f9aa3995"
+}

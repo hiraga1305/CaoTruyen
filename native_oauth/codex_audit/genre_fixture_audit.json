@@ -1,0 +1,101 @@
+{
+  "audit_kind": "INDEPENDENT_CODEX_GPT_SYNTHETIC_FIXTURE_AUDIT",
+  "date": "2026-10-13",
+  "reviewer_session": "/root/gpt_pipeline_audit",
+  "reviewer_model_basis": "Inherited Codex GPT subagent model; not a native agy reviewer",
+  "scope": "Two self-authored synthetic Chinese regression fixtures; not crawled novel chapters and not evidence of full-novel translation accuracy",
+  "peer_reviews_read": false,
+  "fixtures": [
+    {
+      "genre": "tien_hiep",
+      "source_file": "native_oauth/research/fixture_tien_hiep.source.json",
+      "target_file": "native_oauth/pilot_tien_hiep/native_oauth/runs/chapter1/draft.json",
+      "source_fixture_hash": "d5fbffe26679067f6fc4001327348978743c85631e5fc78a95ba87210e773be5",
+      "enriched_working_source_hash": "202f07950687e3c3446c2395de30122852588fc41ba3929a5c4fc14f3edb3ae2",
+      "source_texts_and_glossary_unchanged": true,
+      "draft_matches_enriched_source_hash": true,
+      "coverage_and_order": "4/4, exact ids and order",
+      "verdict": "PASS",
+      "reason": "Giữ đủ nghĩa, tên, hành động, phủ định, mức độ chưa chắc, suy nghĩ nội tâm, điều kiện/thời gian và số lượng; có hai chỗ có thể làm văn tự nhiên hơn mà không phải lỗi nghĩa.",
+      "segments": [
+        {
+          "id": "c0001p0001",
+          "source": "陆川收起飞剑，没有追杀那名逃走的弟子。",
+          "target": "Lục Xuyên thu hồi phi kiếm, không truy sát đệ tử đào tẩu kia.",
+          "verdict": "PASS",
+          "reason": "Lục Xuyên thu/cất phi kiếm và không truy sát đệ tử bỏ chạy; không đảo phủ định hay thêm kết quả chết/chấn thương. 'Thu hồi' chấp nhận được với phi kiếm trong ngữ cảnh này."
+        },
+        {
+          "id": "c0001p0002",
+          "source": "师父沉默片刻，道：“此事未必与掌门有关。你不可妄下结论。”",
+          "target": "Sư phụ trầm mặc giây lát, nói: “Chuyện này chưa hẳn đã liên quan đến chưởng môn. Con không được vội kết luận.”",
+          "verdict": "PASS",
+          "reason": "Giữ người nói là sư phụ, sự im lặng ngắn, mức độ chưa chắc liên quan chưởng môn và lời cấm kết luận vội. Xưng 'con' phù hợp lời sư phụ nói với đệ tử; không biến 未必 thành chắc chắn không liên quan."
+        },
+        {
+          "id": "c0001p0003",
+          "source": "她在心中想道：“只要再等三天，师兄就会回来。”",
+          "target": "Nàng thầm nghĩ trong lòng: “Chỉ cần đợi thêm ba ngày, sư huynh sẽ trở về.”",
+          "verdict": "PASS",
+          "reason": "Giữ suy nghĩ nội tâm của nàng, điều kiện chờ thêm ba ngày và sư huynh trở về; không chuyển thành lời nói. 'Thầm nghĩ trong lòng' hơi trùng ý; 'Nàng thầm nghĩ' tự nhiên hơn nhưng đây là ghi chú văn phong.",
+          "style_note": "Có thể bỏ 'trong lòng' sau 'thầm nghĩ'."
+        },
+        {
+          "id": "c0001p0004",
+          "source": "他服下两枚丹药，体内的灵气却并未增加。",
+          "target": "Hắn uống vào hai viên đan dược, linh khí trong cơ thể lại không hề tăng thêm.",
+          "verdict": "PASS",
+          "reason": "Giữ hắn dùng hai viên đan dược, quan hệ trái kỳ vọng và linh khí trong cơ thể không tăng. 'Uống vào' hơi cứng; 'uống hai viên' hoặc 'dùng hai viên' gọn hơn mà không đổi nghĩa.",
+          "style_note": "Có thể bỏ 'vào' trong 'uống vào'."
+        }
+      ]
+    },
+    {
+      "genre": "hien_dai",
+      "source_file": "native_oauth/research/fixture_hien_dai.source.json",
+      "target_file": "native_oauth/pilot_hien_dai/native_oauth/runs/chapter1/draft.json",
+      "source_fixture_hash": "017c54b67117383cc608f01919da607b29376cf687e360535f892e0d977ab107",
+      "enriched_working_source_hash": "425cc88ff67c79626564e337a277020622620eb83bd71346c187880c841450fd",
+      "source_texts_and_glossary_unchanged": true,
+      "draft_matches_enriched_source_hash": true,
+      "coverage_and_order": "4/4, exact ids and order",
+      "verdict": "FAIL",
+      "reason": "Đoạn 4 giữ đúng >=900 khác >900 nhưng đổi đơn vị 件 thành 'kiện', hàm ý gói/kiện hàng không có trong nguồn.",
+      "segments": [
+        {
+          "id": "c0001p0001",
+          "source": "李明看了看手机里的短信：“工资明天到账，你别着急。”",
+          "target": "Lý Minh nhìn tin nhắn trong điện thoại: “Tiền lương ngày mai sẽ về tài khoản, bạn đừng sốt ruột.”",
+          "verdict": "PASS",
+          "reason": "Giữ tên Lý Minh, nội dung ở tin nhắn điện thoại, tiền lương vào tài khoản ngày mai và lời bảo đừng sốt ruột. 'Bạn' là cách gọi trung tính khi fixture không cho biết quan hệ người nhắn; không đủ căn cứ ép sang xưng hô khác."
+        },
+        {
+          "id": "c0001p0002",
+          "source": "“妈，我今天加班，不能回家吃饭。”他说。",
+          "target": "“Mẹ, hôm nay con tăng ca, không thể về nhà ăn cơm.” Anh nói.",
+          "verdict": "PASS",
+          "reason": "Giữ lời người con nam nói với mẹ, thời điểm hôm nay, tăng ca và không thể về nhà ăn cơm. Giọng hiện đại và xưng mẹ/con đúng cảnh. Chữ 'Anh' sau dấu chấm là lựa chọn trình bày, không phải lỗi mất nghĩa."
+        },
+        {
+          "id": "c0001p0003",
+          "source": "她没有答应，只说需要再考虑两天。",
+          "target": "Cô ấy không đồng ý, chỉ nói cần suy nghĩ thêm hai ngày nữa.",
+          "verdict": "PASS",
+          "reason": "Giữ việc cô ấy chưa đưa ra sự đồng ý và nói cần cân nhắc thêm hai ngày. Trong toàn câu, vế 'cần suy nghĩ thêm' vẫn thể hiện quyết định đang chờ; không đủ căn cứ kết luận bản dịch thành lời từ chối dứt khoát. 'Chưa đồng ý' hoặc 'chưa nhận lời' rõ trạng thái hơn.",
+          "style_note": "Ưu tiên 'Cô ấy chưa đồng ý, chỉ nói cần cân nhắc thêm hai ngày.' khi chỉnh văn."
+        },
+        {
+          "id": "c0001p0004",
+          "source": "张经理要求库存不少于900件，而不是多于900件。",
+          "target": "Quản lý Trương yêu cầu tồn kho không ít hơn 900 kiện, chứ không phải nhiều hơn 900 kiện.",
+          "verdict": "FAIL",
+          "reason": "不少于 và 多于 được giữ đúng lần lượt là không ít hơn (>=) và nhiều hơn (>), nhưng 件 đếm từng món/sản phẩm; 'kiện' là kiện/gói hàng, thêm đơn vị đóng gói không được nguồn xác lập. Trong fixture này nên dùng '900 sản phẩm' hoặc '900 món hàng', không suy diễn 900 kiện hàng.",
+          "issue_kind": "quantity_unit_added",
+          "suggested_target": "Quản lý Trương yêu cầu tồn kho ít nhất 900 sản phẩm, chứ không phải hơn 900 sản phẩm."
+        }
+      ]
+    }
+  ],
+  "publication_status": "NO_APPROVAL_GRANTED",
+  "limits": "Manual audit of these exact synthetic artifacts only. PASS is source comparison at four-paragraph fixture scope; this file is not the two-review full-chapter publication gate. Originals were not edited."
+}

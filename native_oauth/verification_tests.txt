@@ -1,0 +1,54 @@
+test_active_provider_not_repeated_by_boolean_precedence (test_clients.ClientTests.test_active_provider_not_repeated_by_boolean_precedence) ... ok
+test_conflicting_preferred_provider_fails_before_transport (test_clients.ClientTests.test_conflicting_preferred_provider_fails_before_transport) ... ok
+test_gemini_excludes_thought_and_records_actual_model (test_clients.ClientTests.test_gemini_excludes_thought_and_records_actual_model) ... ok
+test_gemini_rejects_incomplete_empty_and_thought_only (test_clients.ClientTests.test_gemini_rejects_incomplete_empty_and_thought_only) ... ok
+test_helper_uses_env_key_and_configured_models (test_clients.ClientTests.test_helper_uses_env_key_and_configured_models) ... ok
+test_helper_without_credentials_raises_and_never_sends_http (test_clients.ClientTests.test_helper_without_credentials_raises_and_never_sends_http) ... ok
+test_http_error_body_and_url_are_never_logged (test_clients.ClientTests.test_http_error_body_and_url_are_never_logged) ... ok
+test_invalid_response_can_only_fallback_to_allowed_model (test_clients.ClientTests.test_invalid_response_can_only_fallback_to_allowed_model) ... ok
+test_invalid_retry_count_fails_without_http (test_clients.ClientTests.test_invalid_retry_count_fails_without_http) ... ok
+test_missing_or_invalid_role_fails_before_transport (test_clients.ClientTests.test_missing_or_invalid_role_fails_before_transport) ... ok
+test_openai_embedded_thought_is_excluded (test_clients.ClientTests.test_openai_embedded_thought_is_excluded) ... ok
+test_openai_records_actual_model_and_ignores_reasoning_field (test_clients.ClientTests.test_openai_records_actual_model_and_ignores_reasoning_field) ... ok
+test_openai_rejects_incomplete_empty_and_refusal (test_clients.ClientTests.test_openai_rejects_incomplete_empty_and_refusal) ... ok
+test_retry_index_is_bounded_beyond_delay_list (test_clients.ClientTests.test_retry_index_is_bounded_beyond_delay_list) ... ok
+test_role_never_uses_general_fallback_on_failure (test_clients.ClientTests.test_role_never_uses_general_fallback_on_failure) ... ok
+test_role_only_uses_explicit_provider_models (test_clients.ClientTests.test_role_only_uses_explicit_provider_models) ... ok
+test_unreported_model_is_explicitly_marked (test_clients.ClientTests.test_unreported_model_is_explicitly_marked) ... ok
+test_analysis_wrong_source_and_coverage_rejected (test_native_pipeline.NativePipelineTests.test_analysis_wrong_source_and_coverage_rejected) ... ok
+test_codex_policy_requires_isolated_sessions_and_preserves_default (test_native_pipeline.NativePipelineTests.test_codex_policy_requires_isolated_sessions_and_preserves_default) ... ok
+test_direct_codex_publication_cannot_bypass_literary_review (test_native_pipeline.NativePipelineTests.test_direct_codex_publication_cannot_bypass_literary_review) ... ok
+test_genres_are_distinct_and_not_certified (test_native_pipeline.NativePipelineTests.test_genres_are_distinct_and_not_certified) ... ok
+test_literary_inspection_is_required (test_native_pipeline.NativePipelineTests.test_literary_inspection_is_required) ... ok
+test_partial_content_is_not_salvaged (test_native_pipeline.NativePipelineTests.test_partial_content_is_not_salvaged) ... ok
+test_quote_repair_preserves_words_and_dialogue_quotes (test_native_pipeline.NativePipelineTests.test_quote_repair_preserves_words_and_dialogue_quotes) ... ok
+test_bad_draft_stops_after_budget (test_semantic_gate.GateTests.test_bad_draft_stops_after_budget) ... ok
+test_context_evidence_tamper_detected (test_semantic_gate.GateTests.test_context_evidence_tamper_detected) ... ok
+test_context_missing_blocks_chapter_two (test_semantic_gate.GateTests.test_context_missing_blocks_chapter_two) ... ok
+test_context_requires_approved_hash_and_source (test_semantic_gate.GateTests.test_context_requires_approved_hash_and_source) ... ok
+test_deletion_order_duplication_blocked (test_semantic_gate.GateTests.test_deletion_order_duplication_blocked) ... ok
+test_empty_residual_and_glossary_drift (test_semantic_gate.GateTests.test_empty_residual_and_glossary_drift) ... ok
+test_fabricated_context_statement_blocks (test_semantic_gate.GateTests.test_fabricated_context_statement_blocks) ... ok
+test_fake_source_ids_and_chapter_one_context_rejected (test_semantic_gate.GateTests.test_fake_source_ids_and_chapter_one_context_rejected) ... ok
+test_fixture_pass_is_machine_contract_only (test_semantic_gate.GateTests.test_fixture_pass_is_machine_contract_only) ... ok
+test_hints_never_rewrite_negation_or_punctuation (test_semantic_gate.GateTests.test_hints_never_rewrite_negation_or_punctuation) ... ok
+test_input_budget_stops_before_api_call (test_semantic_gate.GateTests.test_input_budget_stops_before_api_call) ... ok
+test_later_review_budget_is_checked_before_api (test_semantic_gate.GateTests.test_later_review_budget_is_checked_before_api) ... ok
+test_live_template_boundary_excludes_navigation_and_ads (test_semantic_gate.GateTests.test_live_template_boundary_excludes_navigation_and_ads) ... ok
+test_malformed_candidate_yields_blocked_report (test_semantic_gate.GateTests.test_malformed_candidate_yields_blocked_report) ... ok
+test_missing_container_blocks (test_semantic_gate.GateTests.test_missing_container_blocks) ... ok
+test_missing_or_fake_evidence_blocks (test_semantic_gate.GateTests.test_missing_or_fake_evidence_blocks) ... ok
+test_package_glossary_mutation_detected (test_semantic_gate.GateTests.test_package_glossary_mutation_detected) ... ok
+test_partial_model_json_rejected (test_semantic_gate.GateTests.test_partial_model_json_rejected) ... ok
+test_preflight_missing_overlap_rejected (test_semantic_gate.GateTests.test_preflight_missing_overlap_rejected) ... ok
+test_repair_is_reviewed_again_and_budget_bounded (test_semantic_gate.GateTests.test_repair_is_reviewed_again_and_budget_bounded) ... ok
+test_review_fail_blocks_and_preserves_original (test_semantic_gate.GateTests.test_review_fail_blocks_and_preserves_original) ... ok
+test_same_model_cannot_self_approve (test_semantic_gate.GateTests.test_same_model_cannot_self_approve) ... ok
+test_source_container_preserves_links_and_marker_narrative (test_semantic_gate.GateTests.test_source_container_preserves_links_and_marker_narrative) ... ok
+test_stale_review_after_negation_mutation (test_semantic_gate.GateTests.test_stale_review_after_negation_mutation) ... ok
+test_unchecked_semantic_dimension_blocks (test_semantic_gate.GateTests.test_unchecked_semantic_dimension_blocks) ... ok
+
+----------------------------------------------------------------------
+Ran 49 tests in 0.099s
+
+OK

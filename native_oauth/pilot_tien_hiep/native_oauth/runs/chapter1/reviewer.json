@@ -1,0 +1,57 @@
+{
+  "package_hash": "202f07950687e3c3446c2395de30122852588fc41ba3929a5c4fc14f3edb3ae2",
+  "candidate_hash": "f0256ef5fd0b2929a6d0c84c7ba65453a5593d486884399e85db4bad25cbe1ef",
+  "verdict": "PASS",
+  "checks": {
+    "meaning": true,
+    "completeness": true,
+    "entities": true,
+    "speaker_pronouns": true,
+    "numbers_units": true,
+    "negation_modality": true,
+    "time_causality": true,
+    "continuity": true
+  },
+  "literary_checks": {
+    "natural_vietnamese": true,
+    "spelling_grammar": true,
+    "genre_voice": true,
+    "address_consistency": true,
+    "dialogue_format": true
+  },
+  "segments": [
+    {
+      "id": "c0001p0001",
+      "verdict": "PASS",
+      "source_quote": "陆川收起飞剑，没有追杀那名逃走的弟子。",
+      "target_quote": "Lục Xuyên thu hồi phi kiếm, không truy sát đệ tử đào tẩu kia.",
+      "reason": "Dịch đủ nghĩa, tên riêng Lục Xuyên khớp glossary, văn phong tự nhiên đúng thể loại."
+    },
+    {
+      "id": "c0001p0002",
+      "verdict": "PASS",
+      "source_quote": "师父沉默片刻，道：“此事未必与掌门有关。你不可妄下结论。”",
+      "target_quote": "Sư phụ trầm mặc giây lát, nói: “Chuyện này chưa hẳn đã liên quan đến chưởng môn. Con không được vội kết luận.”",
+      "reason": "Đúng ngữ nghĩa và ngữ khí sư đồ, xưng hô phù hợp vai vế, bảo đảm modality 'chưa hẳn' và 'không được vội'."
+    },
+    {
+      "id": "c0001p0003",
+      "verdict": "PASS",
+      "source_quote": "她在心中想道：“只要再等三天，师兄就会回来。”",
+      "target_quote": "Nàng thầm nghĩ trong lòng: “Chỉ cần đợi thêm ba ngày, sư huynh sẽ trở về.”",
+      "reason": "Dịch đúng suy nghĩ nội tâm, giữ đúng số từ ba ngày, xưng hô sư huynh chuẩn xác."
+    },
+    {
+      "id": "c0001p0004",
+      "verdict": "PASS",
+      "source_quote": "他服下两枚丹药，体内的灵气却并未增加。",
+      "target_quote": "Hắn uống vào hai viên đan dược, linh khí trong cơ thể lại không hề tăng thêm.",
+      "reason": "Dịch chuẩn số lượng hai viên đan dược, bảo đảm quan hệ chuyển ngoặt và ý phủ định 'không hề tăng thêm'."
+    }
+  ],
+  "issues": [],
+  "model": "native/gemini-3.8-flash-medium",
+  "identity_basis": "native_cli_init",
+  "conversation_id": "4afc312a-1953-497c-a633-f4c5d2f2f61d",
+  "runtime_hash": "0630433e2605bffe0d129835d23421f12284fc56b24525346afe40f603d239ef"
+}

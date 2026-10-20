@@ -1,0 +1,867 @@
+{
+  "source_package_hash": "cf952e1438d0792bffc9f745fca89bed355e0ead42caac669745cc68f5a00085",
+  "provenance": {
+    "engine": "HIT-SCIR LTP",
+    "ltp_module_version": "4.2.13",
+    "ltp_distribution_version": "4.2.14",
+    "model": "LTP/small",
+    "revision": "dea87bf0da3c5d054bbd426a78d7fa9efd347799",
+    "torch": "2.14.0+cpu",
+    "transformers": "4.57.6",
+    "weights_format": "safetensors",
+    "compatibility": [
+      "validated deterministic position_ids buffer omitted because runtime does not persist it"
+    ]
+  },
+  "limits": "Predicted syntax, not coreference or story truth; raw-source research only",
+  "segments": [
+    {
+      "id": "c0102p0001",
+      "source_hash": "72ac96c3dd1de5fc9da8003627ccb52f5d765d201c222f20625762e6f5f065ab",
+      "ner": [
+        [
+          "Nh",
+          "陈舟",
+          4,
+          4
+        ],
+        [
+          "Nh",
+          "陈默",
+          6,
+          6
+        ]
+      ],
+      "srl": [
+        {
+          "index": 5,
+          "predicate": "找",
+          "arguments": [
+            [
+              "ARGM-TMP",
+              "第二天早上",
+              0,
+              2
+            ],
+            [
+              "A0",
+              "陈舟",
+              4,
+              4
+            ],
+            [
+              "A1",
+              "陈默",
+              6,
+              6
+            ]
+          ]
+        },
+        {
+          "index": 7,
+          "predicate": "借",
+          "arguments": [
+            [
+              "A0",
+              "陈舟",
+              4,
+              4
+            ],
+            [
+              "A1",
+              "五百元",
+              9,
+              10
+            ]
+          ]
+        },
+        {
+          "index": 14,
+          "predicate": "借",
+          "arguments": [
+            [
+              "A0",
+              "姐姐",
+              12,
+              12
+            ],
+            [
+              "ARGM-TMP",
+              "昨天",
+              13,
+              13
+            ]
+          ]
+        },
+        {
+          "index": 21,
+          "predicate": "收回",
+          "arguments": [
+            [
+              "A1",
+              "姐姐昨天借出的两万元",
+              12,
+              18
+            ],
+            [
+              "ARGM-ADV",
+              "仍",
+              19,
+              19
+            ],
+            [
+              "ARGM-ADV",
+              "没",
+              20,
+              20
+            ]
+          ]
+        }
+      ],
+      "dep": {
+        "head": [
+          2,
+          3,
+          6,
+          3,
+          6,
+          0,
+          6,
+          6,
+          8,
+          11,
+          8,
+          6,
+          15,
+          15,
+          19,
+          15,
+          15,
+          19,
+          22,
+          22,
+          22,
+          6,
+          6
+        ],
+        "label": [
+          "ATT",
+          "ATT",
+          "ADV",
+          "WP",
+          "SBV",
+          "HED",
+          "VOB",
+          "COO",
+          "RAD",
+          "ATT",
+          "VOB",
+          "WP",
+          "SBV",
+          "ADV",
+          "ATT",
+          "CMP",
+          "RAD",
+          "ATT",
+          "FOB",
+          "ADV",
+          "ADV",
+          "COO",
+          "WP"
+        ]
+      },
+      "sdp": {
+        "head": [
+          2,
+          3,
+          6,
+          3,
+          6,
+          0,
+          6,
+          6,
+          8,
+          11,
+          8,
+          8,
+          15,
+          15,
+          19,
+          15,
+          15,
+          19,
+          22,
+          22,
+          22,
+          8,
+          22
+        ],
+        "label": [
+          "MEAS",
+          "FEAT",
+          "TIME",
+          "mPUNC",
+          "AGT",
+          "Root",
+          "DATV",
+          "eSUCC",
+          "mDEPD",
+          "MEAS",
+          "PAT",
+          "mPUNC",
+          "AGT",
+          "TIME",
+          "rPAT",
+          "mDEPD",
+          "mDEPD",
+          "MEAS",
+          "PAT",
+          "mDEPD",
+          "mNEG",
+          "eSUCC",
+          "mPUNC"
+        ]
+      }
+    },
+    {
+      "id": "c0102p0002",
+      "source_hash": "eb9445dec8e4332a2f84719b6a84b19baf06c017e5bb83823cda1dc1e8b90001",
+      "ner": [
+        [
+          "Nh",
+          "陈岚",
+          0,
+          0
+        ]
+      ],
+      "srl": [
+        {
+          "index": 1,
+          "predicate": "回到",
+          "arguments": [
+            [
+              "A1",
+              "厂里",
+              2,
+              2
+            ]
+          ]
+        },
+        {
+          "index": 4,
+          "predicate": "接到",
+          "arguments": [
+            [
+              "A0",
+              "陈岚",
+              0,
+              0
+            ],
+            [
+              "ARGM-TMP",
+              "回到厂里后",
+              1,
+              3
+            ],
+            [
+              "A1",
+              "电话",
+              5,
+              5
+            ]
+          ]
+        },
+        {
+          "index": 8,
+          "predicate": "听到",
+          "arguments": [
+            [
+              "A0",
+              "她",
+              7,
+              7
+            ],
+            [
+              "A1",
+              "弟弟",
+              9,
+              9
+            ]
+          ]
+        },
+        {
+          "index": 13,
+          "predicate": "问",
+          "arguments": [
+            [
+              "A0",
+              "弟弟",
+              9,
+              9
+            ],
+            [
+              "A1",
+              "“姐，哥还在家吗",
+              15,
+              21
+            ]
+          ]
+        }
+      ],
+      "dep": {
+        "head": [
+          5,
+          4,
+          2,
+          5,
+          0,
+          5,
+          5,
+          9,
+          5,
+          9,
+          14,
+          13,
+          11,
+          9,
+          14,
+          21,
+          21,
+          17,
+          21,
+          21,
+          14,
+          21,
+          21,
+          21
+        ],
+        "label": [
+          "SBV",
+          "ATT",
+          "VOB",
+          "ADV",
+          "HED",
+          "VOB",
+          "WP",
+          "SBV",
+          "COO",
+          "DBL",
+          "ADV",
+          "ATT",
+          "POB",
+          "VOB",
+          "WP",
+          "WP",
+          "SBV",
+          "WP",
+          "SBV",
+          "ADV",
+          "VOB",
+          "RAD",
+          "WP",
+          "WP"
+        ]
+      },
+      "sdp": {
+        "head": [
+          5,
+          5,
+          2,
+          2,
+          0,
+          5,
+          5,
+          9,
+          5,
+          9,
+          12,
+          13,
+          14,
+          9,
+          14,
+          17,
+          21,
+          17,
+          21,
+          21,
+          14,
+          21,
+          21,
+          21
+        ],
+        "label": [
+          "AGT",
+          "dTIME",
+          "LOC",
+          "mDEPD",
+          "Root",
+          "CONT",
+          "mPUNC",
+          "AGT",
+          "eSUCC",
+          "CONT",
+          "mRELA",
+          "SCO",
+          "LOC",
+          "eSUCC",
+          "mPUNC",
+          "mPUNC",
+          "mDEPD",
+          "mPUNC",
+          "EXP",
+          "mDEPD",
+          "dCONT",
+          "mDEPD",
+          "mPUNC",
+          "mPUNC"
+        ]
+      }
+    },
+    {
+      "id": "c0102p0003",
+      "source_hash": "d2aca2ab960df751ef51ba889fe8a972d360902fc41ca6aa26f01346e7687db0",
+      "ner": [
+        [
+          "Nh",
+          "陈",
+          0,
+          0
+        ]
+      ],
+      "srl": [
+        {
+          "index": 2,
+          "predicate": "算",
+          "arguments": [
+            [
+              "A1",
+              "账",
+              4,
+              4
+            ]
+          ]
+        },
+        {
+          "index": 8,
+          "predicate": "借",
+          "arguments": [
+            [
+              "A0",
+              "陈",
+              0,
+              0
+            ],
+            [
+              "ARGM-ADV",
+              "默",
+              1,
+              1
+            ],
+            [
+              "ARGM-TMP",
+              "算过账后",
+              2,
+              5
+            ],
+            [
+              "ARGM-ADV",
+              "又",
+              7,
+              7
+            ],
+            [
+              "A1",
+              "两千元",
+              10,
+              11
+            ]
+          ]
+        },
+        {
+          "index": 12,
+          "predicate": "付",
+          "arguments": [
+            [
+              "A0",
+              "陈",
+              0,
+              0
+            ],
+            [
+              "ARGM-ADV",
+              "又",
+              7,
+              7
+            ],
+            [
+              "A1",
+              "房租",
+              13,
+              13
+            ]
+          ]
+        },
+        {
+          "index": 20,
+          "predicate": "说",
+          "arguments": [
+            [
+              "A0",
+              "他昨晚的拒绝",
+              15,
+              18
+            ],
+            [
+              "ARGM-ADV",
+              "只",
+              19,
+              19
+            ],
+            [
+              "A1",
+              "今晚",
+              22,
+              22
+            ]
+          ]
+        },
+        {
+          "index": 30,
+          "predicate": "借",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "并",
+              24,
+              24
+            ],
+            [
+              "ARGM-TMP",
+              "没有答应以后",
+              25,
+              27
+            ],
+            [
+              "ARGM-ADV",
+              "永远",
+              28,
+              28
+            ],
+            [
+              "ARGM-ADV",
+              "不",
+              29,
+              29
+            ]
+          ]
+        }
+      ],
+      "dep": {
+        "head": [
+          9,
+          6,
+          6,
+          3,
+          3,
+          9,
+          6,
+          9,
+          0,
+          9,
+          12,
+          9,
+          9,
+          13,
+          9,
+          19,
+          19,
+          17,
+          21,
+          21,
+          9,
+          21,
+          21,
+          21,
+          27,
+          27,
+          28,
+          31,
+          31,
+          31,
+          21,
+          9
+        ],
+        "label": [
+          "SBV",
+          "ATT",
+          "ATT",
+          "RAD",
+          "VOB",
+          "ADV",
+          "WP",
+          "ADV",
+          "HED",
+          "RAD",
+          "ATT",
+          "VOB",
+          "COO",
+          "VOB",
+          "WP",
+          "ATT",
+          "ATT",
+          "RAD",
+          "SBV",
+          "ADV",
+          "COO",
+          "RAD",
+          "VOB",
+          "WP",
+          "ADV",
+          "ADV",
+          "ATT",
+          "ADV",
+          "ADV",
+          "ADV",
+          "COO",
+          "WP"
+        ]
+      },
+      "sdp": {
+        "head": [
+          9,
+          9,
+          9,
+          3,
+          3,
+          3,
+          3,
+          9,
+          0,
+          9,
+          12,
+          9,
+          9,
+          13,
+          13,
+          19,
+          19,
+          17,
+          21,
+          21,
+          13,
+          21,
+          21,
+          21,
+          27,
+          27,
+          31,
+          27,
+          31,
+          31,
+          21,
+          31
+        ],
+        "label": [
+          "AGT",
+          "MANN",
+          "dTIME",
+          "mDEPD",
+          "CONT",
+          "mDEPD",
+          "mPUNC",
+          "mDEPD",
+          "Root",
+          "mDEPD",
+          "MEAS",
+          "PAT",
+          "eSUCC",
+          "PAT",
+          "mPUNC",
+          "FEAT",
+          "TIME",
+          "mDEPD",
+          "AGT",
+          "mDEPD",
+          "eSUCC",
+          "mDEPD",
+          "TIME",
+          "mPUNC",
+          "mRELA",
+          "mNEG",
+          "dTIME",
+          "mDEPD",
+          "mDEPD",
+          "mNEG",
+          "eSUCC",
+          "mPUNC"
+        ]
+      }
+    },
+    {
+      "id": "c0102p0004",
+      "source_hash": "85c880d90f61802ff26fb06f70beb45ab5a0958dddbf50d741be01ecd204e2d1",
+      "ner": [
+        [
+          "Nh",
+          "陈舟",
+          0,
+          0
+        ]
+      ],
+      "srl": [
+        {
+          "index": 5,
+          "predicate": "送",
+          "arguments": [
+            [
+              "A0",
+              "陈舟",
+              0,
+              0
+            ],
+            [
+              "A1",
+              "三百件药",
+              2,
+              4
+            ],
+            [
+              "A2",
+              "仓库",
+              7,
+              7
+            ]
+          ]
+        },
+        {
+          "index": 11,
+          "predicate": "称重",
+          "arguments": [
+            [
+              "A0",
+              "管理员",
+              9,
+              9
+            ],
+            [
+              "ARGM-ADV",
+              "逐件",
+              10,
+              10
+            ]
+          ]
+        },
+        {
+          "index": 16,
+          "predicate": "低于",
+          "arguments": [
+            [
+              "A0",
+              "一件",
+              14,
+              15
+            ],
+            [
+              "A1",
+              "九百克",
+              17,
+              18
+            ]
+          ]
+        }
+      ],
+      "dep": {
+        "head": [
+          6,
+          6,
+          4,
+          5,
+          2,
+          0,
+          6,
+          7,
+          6,
+          12,
+          12,
+          6,
+          6,
+          6,
+          16,
+          14,
+          14,
+          19,
+          17,
+          6
+        ],
+        "label": [
+          "SBV",
+          "ADV",
+          "ATT",
+          "ATT",
+          "POB",
+          "HED",
+          "CMP",
+          "POB",
+          "WP",
+          "SBV",
+          "ADV",
+          "COO",
+          "WP",
+          "COO",
+          "ATT",
+          "DBL",
+          "VOB",
+          "ATT",
+          "VOB",
+          "WP"
+        ]
+      },
+      "sdp": {
+        "head": [
+          6,
+          5,
+          4,
+          5,
+          6,
+          0,
+          6,
+          6,
+          6,
+          12,
+          12,
+          6,
+          12,
+          12,
+          16,
+          17,
+          14,
+          19,
+          17,
+          17
+        ],
+        "label": [
+          "AGT",
+          "mRELA",
+          "MEAS",
+          "MEAS",
+          "PAT",
+          "Root",
+          "mDEPD",
+          "LOC",
+          "mPUNC",
+          "EXP",
+          "MANN",
+          "eSUCC",
+          "mPUNC",
+          "eSUCC",
+          "MEAS",
+          "EXP",
+          "eSUCC",
+          "MEAS",
+          "MEAS",
+          "mPUNC"
+        ]
+      }
+    }
+  ]
+}

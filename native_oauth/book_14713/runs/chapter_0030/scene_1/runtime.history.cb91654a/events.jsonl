@@ -1,0 +1,268 @@
+{"event":"init","conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","init":{"model":"gemini-3.8-flash-low","cwd":"I:\\Softs\\Antigravity\\CaoTruyen","tools":["ask_custom_permission","ask_permission","ask_question","browser_click_element","browser_drag_pixel_to_pixel","browser_get_dom","browser_get_network_request","browser_input","browser_list_network_requests","browser_mouse_down","browser_mouse_up","browser_move_mouse","browser_press_key","browser_refresh_page","browser_resize_window","browser_scroll","browser_scroll_dom","browser_select_option","browser_subagent","call_mcp_tool","capture_browser_console_logs","capture_browser_screenshot","click_browser_pixel","command_status","define_subagent","delete_knowledge","execute_browser_javascript","find_by_name","finish","generate_image","grep_search","invoke_subagent","list_browser_pages","list_dir","list_permissions","list_plugin_accounts","list_resources","manage_inbox","manage_subagents","manage_task","multi_replace_file_content","notebook_edit","notebook_execution","open_browser_url","read_browser_page","read_resource","read_url_content","replace_file_content","run_command","run_workflow","schedule","search_marketplace","search_web","sed_file","send_command_input","send_message","view_file","wait","wait_5_seconds","write_to_file"],"permission_mode":"request-review"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":0,"state":"DONE","step_type":"user_input"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"§1"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" Chương 30: Lượng người theo"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" dõi tăng vọt\n\n§2 T"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"iêu Vũ m"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ỉm cười hỏi: “Hạ Mạt tiểu thư, c"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ô muốn xe"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"m điều gì?”\n\n§3 "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"Hạ Mạt x"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"oa xoa"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" cánh tay, khẽ cắn môi.\n\n§4 L"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"úc này, trong lòng c"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ô thật ra"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" đã tin phục bản"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" lĩnh bói toán thần kỳ của "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"Tiêu Vũ, cũng muốn "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"nhờ anh b"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ói cho chuyện khác.\n"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"\n§5 Thế"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" nhưng bị đám người hâm mộ hùa và"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"o kích bác, cô đành"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" cắn răng"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" tung ra đòn sát th"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ủ.\n\n§"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"6 Hạ Mạt nói: “An"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"h đẹp trai à, thật"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" lòng mà nói thì hô"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"m nay tôi d"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ẫn người hâm mộ "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"tới để"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" đập quán của anh đấy! Mọi người a"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"i nấy đ"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ều nghi ngờ anh là "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"kẻ lừa "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"đảo, mới"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" xúi tôi ra mặt vạch trần! N"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"hưng riêng"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" bản thân tôi thì "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"đã hoàn t"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"oàn tin phục bản l"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ĩnh"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" của anh rồi, tôi c"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"òn bấm theo dõi, tr"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ở thành f"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"an hâm mộ của anh n"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ữa cơ!”\n\n§7 Hạ"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" Mạt lại tiếp: “Vừa rồi "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"tôi có viết vội m"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ột tấm g"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"iấy, ngoài tôi ra ch"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ẳng một "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ai biết bên"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" trên viết những gì. Nếu an"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"h đoán tr"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"úng được, tôi lậ"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"p tức xin "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"lỗi anh! Lại còn t"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ặng thêm"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" Tên Lửa làm tiền "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"bói quẻ! Còn nếu a"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"nh đoán kh"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ông ra, vậy chứng"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" tỏ anh chính là k"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ẻ bị"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"p bợm.”\n\n§8 Kênh phát sóng t"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"rực tiếp của Tiêu"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" Vũ lập t"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ức rộ lên những "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"tiếng"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" reo hò, ầm ĩ cả góc trời.\n\n§9 “Ti"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"êu đại s"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ư, vả mặt cô"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" ta đi!”\n\n§10 “Ti"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"êu đại sư, em gái "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"này là đại võng h"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ồng đấy"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":", người hâm mộ c"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ả"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" triệu người lận! Mỗi lầ"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"n lên sóng"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" đều có hơn mười"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" vạn ngư"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ời xem! Chỉ cần qu"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ạt sưng mặt cô"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" ta, phòng phát sóng của chúng"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" ta nhất "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"định sẽ bùng nổ!"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"”\n\n§11 "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"“Ha ha ha, tôi"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" đây chỉ thích xem mấy em gá"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"i xinh xắn bị vả m"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ặt thôi, "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"sảng khoái chết đi"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" được!”\n\n§12 "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"“"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"Kích động quá đi mất! Tôi m"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"uốn tận "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"mắt chứng kiến ph"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"òng phát sóng của c"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"húng ta c"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ất cánh, chứng"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" kiến Tiê"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"u đại sư nổi đình nổi đá"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"m!”\n\n§13 “Vả mặ"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"t cô ta đi"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"! Mau v"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ả mặt cô ta!”\n\n"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"§14 “Đ"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ại streamer Hạ Mạt"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" dẫn quân đi đập "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"quán, th"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ảm bại b"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ị Tiêu đại sư vả mặt b"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ôm bốp! T"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"iêu đề lên top tìm"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" kiếm tôi"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" cũng"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" đã nghĩ xong xuôi cả rồi đây này!”"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"\n\n§15 Tiêu"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" Vũ khẽ cười, ánh"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" mắt thâm thú"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"y nhìn sâu vào cô, cất lời: "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"“Hạ Mạt tiểu th"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ư, cô ch"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ắc chắn muốn tôi "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"nói ra chứ"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"?”\n\n§16 Hạ Mạt thoáng chút "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"hoảng lo"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ạn, vội vàng tránh"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" né ánh mắt hắn.\n"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"\n§17 Cô"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" cảm thấy bản thân đứng tr"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ước mặt"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" người đàn ông nà"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"y chẳng khác nào b"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ị nhìn th"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ấu trần trụi, căn"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" bản không cách nào giữ nổi bất kỳ "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"bí mật n"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ào.\n\n§18 Trong lòng c"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ô đã bắt đầu h"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ối hận."}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"\n\n§19 Hối hận vì "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"đã dại dột vác x"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ác tới đ"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ây đập quán.\n\n§"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"20 Song bên cạnh đó"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":", đáy lòng cô vẫn "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"còn ôm ch"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"út may mắn mong manh."}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"\n\n§21 Cô t"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"h"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ầm nghĩ Tiêu Vũ dù có lợi h"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ại đến đâu đi ch"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ăng nữa, "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"cũng tuyệt đối kh"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ông thể đoán chu"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ẩn xác"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" đến mức không sai"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" một chữ nào như t"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"hế đượ"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"c!\n\n§22 Hạ Mạt đ"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ành cắn răng nói"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" cứng: “Tôi cũng muốn chịu"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" thua lắm chứ, nhưn"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"g đám ngư"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ời hâm mộ trong ph"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"òng phát sóng của t"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ôi đâu"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" có chịu! Bây giờ bọn họ c"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"hỉ muốn xem hai ta "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"đấu đài"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":", không phải chờ x"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"em Tiêu đ"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ại sư bị"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" bóc mẽ thì cũng là đợi nh"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ìn tôi bị vả m"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ặt. Tôi "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"đã đâm lao thì ph"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ải theo lao rồi!”"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"\n\n§23 Tiêu Vũ thong dong cất gi"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ọng: “'Tôi muốn t"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"rở thành "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"đệ nhất đại stre"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"amer thế g"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"iới"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":", tôi muốn mỗi năm kiếm tră"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"m ức tiề"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"n lương, tôi muốn t"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ất cả mọi ngườ"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"i trên toà"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"n thế giới đều "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"trở thành"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" fan h"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"âm mộ của tôi.' "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"Ở cuối cùng còn c"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ó biểu t"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ượng cảm xúc, Hạ"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" Mạt tiể"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"u thư, cô còn vẽ th"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"êm"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" một bàn tay tạo dáng chữ V"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" chiến thắng nữa."}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"”\n\n§24 "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"“...”\n\n§25 “..."}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"”\n\n§26 C"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ả hai phòng phát sóng của Ti"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"êu Vũ và "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"Hạ Mạt đồng lo"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ạt rơi vào một kh"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"oảng lặn"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"g ngắt như tờ!"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"\n\n§27 Hết thảy mọi người đều dán "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"chặt mắt"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" vào từng biến chuy"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ển trên g"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ương mặt Hạ Mạt."}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"\n\n§28 Sắc mặt cô từ kinh ng"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ạc hoảng"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" hốt dần chuyển sa"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ng ngượng ngùng cùn"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"g"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" cực, xấu hổ đến mức cả"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" khuôn mặ"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"t đỏ bừng như gấ"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"c chín!\n\n§"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"29 Vệt đỏ lan"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" từ tận chân cổ, cháy bừng"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" lên đến tận mang "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"tai!\n\n§30 N"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"gay cả lớp hiệu "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ứng"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" làm đẹp trắng da trên màn h"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ình cũng chẳng thể"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" nào che gi"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ấu nổi!\n\n§31 “Ôi"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" trời"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":", hội chứng tuổi"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" dậy thì nặng quá "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"rồi!”\n\n"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"§32 “Hóa ra Hạ M"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ạt lại l"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"à một"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" thiếu nữ mắc b"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ệnh hoang tưởng tu"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ổi dậy t"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"hì sao?”\n\n§33 “Hì"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"nh tượng sụp đổ "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"hoàn toàn "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"rồi nhé"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"! Ha ha ha!”\n\n§34 “Cái này"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" gọi là chết về m"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ặt xã h"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ội này! Cô ấy"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" lại dám viết thứ này lên g"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"iấy! Em gái à, em d"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ũng cảm q"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"uá rồi đấy!!”\n\n"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"§35 Hạ"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" Mạt lắp"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" ba lắp bắp: “Tôi... tôi t"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ôi tôi... "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"tôi đâu có... có vi"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"ết thứ "}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"đáng xấu hổ như"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":" vậy chứ! Tôi không nhận đ"}}
+{"event":"step_update","step_update":{"conversation_id":"5448231d-f42a-4847-848e-d88ee348779e","step_index":1,"state":"ACTIVE","step_type":"agent_response","text_delta":"âu... Dù l"}}

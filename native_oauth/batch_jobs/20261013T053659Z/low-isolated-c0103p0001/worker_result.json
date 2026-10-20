@@ -1,0 +1,40 @@
+{
+  "job_id": "low-isolated-c0103p0001",
+  "requested_model": "gemini-3.8-flash-low",
+  "actual_model": "gemini-3.8-flash-low",
+  "status": "DRAFT_COMPLETE_UNREVIEWED",
+  "runtime": {
+    "authentication": "cached_account; GEMINI_API_KEY unset",
+    "requested_model": "gemini-3.8-flash-low",
+    "agent": "novel-batch-worker",
+    "exit_code": 0,
+    "workspace": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\20261013T053659Z\\low-isolated-c0103p0001",
+    "duration_seconds": 19.05,
+    "status": "SUCCESS",
+    "conversation_id": "c0360413-d1fd-4f84-9c9b-de3c109fc494",
+    "usage": {
+      "input_tokens": 19120,
+      "output_tokens": 709,
+      "thinking_tokens": 0,
+      "cache_read_tokens": 0,
+      "total_tokens": 19829
+    },
+    "result": {
+      "conversation_id": "c0360413-d1fd-4f84-9c9b-de3c109fc494",
+      "status": "SUCCESS",
+      "response": "[candidate.json](file:///I:/Softs/Antigravity/CaoTruyen/native_oauth/batch_jobs/20261013T053659Z/low-isolated-c0103p0001/candidate.json)\n",
+      "duration_seconds": 15.956615,
+      "num_turns": 1,
+      "usage": {
+        "input_tokens": 19120,
+        "output_tokens": 709,
+        "thinking_tokens": 0,
+        "cache_read_tokens": 0,
+        "total_tokens": 19829
+      }
+    },
+    "event_count": 13
+  },
+  "output": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\20261013T053659Z\\low-isolated-c0103p0001\\candidate.json",
+  "candidate_hash": "1c80d50f088237239969eb568701f5e242714c3f8c2986c0b9b55272103b3075"
+}

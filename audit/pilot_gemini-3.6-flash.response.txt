@@ -1,0 +1,86 @@
+```json
+{
+  "results": [
+    {
+      "id": "sample_05",
+      "verdict": "FAIL",
+      "reason": "Dịch thừa dữ kiện: nguyên bản '谢谢' (cảm ơn) bị tự ý dịch thêm thành 'mua quà cảm ơn' (买礼物感谢)."
+    },
+    {
+      "id": "sample_03",
+      "verdict": "PASS",
+      "reason": "Dịch chính xác nội dung, '900克以上' dịch thành 'hơn 900 gram' bảo toàn đúng ý nghĩa và ranh giới số lượng."
+    },
+    {
+      "id": "sample_16",
+      "verdict": "PASS",
+      "reason": "Dịch đúng nghĩa và tuân thủ chuẩn xác canonical term 'Pháp Giải' cho '法赛'."
+    },
+    {
+      "id": "sample_11",
+      "verdict": "FAIL",
+      "reason": "Dịch suy diễn/thừa dữ kiện: '和‘父亲大人’的契约' bị thêm từ 'bán mạng' thành 'bản khế ước bán mạng' không có trong nguyên tác."
+    },
+    {
+      "id": "sample_14",
+      "verdict": "PASS",
+      "reason": "Trích đoạn dịch phản ánh chính xác nghĩa của từ/cụm từ '考验'."
+    },
+    {
+      "id": "sample_13",
+      "verdict": "FAIL",
+      "reason": "Dịch thừa dữ kiện: '层层考验' bị dịch thêm thành 'khảo nghiệm đẫm máu' (bảo lưu/thêm yếu tố không có trong câu gốc)."
+    },
+    {
+      "id": "sample_09",
+      "verdict": "PASS",
+      "reason": "Bảo toàn đầy đủ thông tin và ngữ nghĩa của câu gốc."
+    },
+    {
+      "id": "sample_01",
+      "verdict": "FAIL",
+      "reason": "Sai thuật ngữ/sai nghĩa: '短信箱' (hộp tin nhắn SMS) bị dịch sai thành 'hộp thư thoại' (voice mail)."
+    },
+    {
+      "id": "sample_07",
+      "verdict": "FAIL",
+      "reason": "Đổi thể thức/người nói: Nguyên bản là suy nghĩ trong lòng '心中幽幽道' (thầm nghĩ trong lòng), bản dịch lại dịch thành nói ra lời 'cất lời'."
+    },
+    {
+      "id": "sample_02",
+      "verdict": "PASS",
+      "reason": "Dịch chính xác nghĩa của từ '短信箱'."
+    },
+    {
+      "id": "sample_08",
+      "verdict": "PASS",
+      "reason": "Dịch đúng thể thức độc thoại nội tâm '心中幽幽道' (thầm nghĩ)."
+    },
+    {
+      "id": "sample_06",
+      "verdict": "PASS",
+      "reason": "Dịch đầy đủ, chính xác, không thừa thiếu dữ kiện."
+    },
+    {
+      "id": "sample_12",
+      "verdict": "PASS",
+      "reason": "Dịch chính xác nghĩa của toàn câu nguyên bản."
+    },
+    {
+      "id": "sample_10",
+      "verdict": "PASS",
+      "reason": "Dịch chuẩn xác nghĩa, diễn đạt tự nhiên và giữ đúng thông tin."
+    },
+    {
+      "id": "sample_04",
+      "verdict": "PASS",
+      "reason": "Dịch chính xác ranh giới số lượng '900克以上' thành 'ít nhất 900 gram'."
+    },
+    {
+      "id": "sample_15",
+      "verdict": "FAIL",
+      "reason": "Vi phạm canonical term: '法赛' bắt buộc dịch là 'Pháp Giải' theo canonical_term quy định, nhưng bản dịch lại để là 'Pháp Tái'."
+    }
+  ]
+}
+```

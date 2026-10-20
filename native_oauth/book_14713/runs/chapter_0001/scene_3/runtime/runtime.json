@@ -1,0 +1,32 @@
+{
+  "authentication": "cached_account; GEMINI_API_KEY unset",
+  "requested_model": "gemini-3.8-flash-low",
+  "agent": null,
+  "exit_code": 0,
+  "workspace": "I:\\Softs\\Antigravity\\CaoTruyen",
+  "duration_seconds": 5.64,
+  "status": "SUCCESS",
+  "conversation_id": "4f9503b3-8451-4977-b9bf-430c03698d8d",
+  "usage": {
+    "input_tokens": 13605,
+    "output_tokens": 17,
+    "thinking_tokens": 0,
+    "cache_read_tokens": 0,
+    "total_tokens": 13622
+  },
+  "result": {
+    "conversation_id": "4f9503b3-8451-4977-b9bf-430c03698d8d",
+    "status": "SUCCESS",
+    "response": "§1 Tiêu Vũ cất lời: “Tôi nói... có đúng không?”\n",
+    "duration_seconds": 2.5567744,
+    "num_turns": 1,
+    "usage": {
+      "input_tokens": 13605,
+      "output_tokens": 17,
+      "thinking_tokens": 0,
+      "cache_read_tokens": 0,
+      "total_tokens": 13622
+    }
+  },
+  "event_count": 5
+}

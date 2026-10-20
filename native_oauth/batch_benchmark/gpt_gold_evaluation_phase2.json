@@ -1,0 +1,3448 @@
+{
+  "version": "gpt-blind-phase2-evaluation-1",
+  "reviewer": "Codex GPT inherited subagent /root/batch_test_lock",
+  "model_route_blinded": true,
+  "never_read": [
+    "private model mapping",
+    "route code",
+    "native worker workspaces",
+    "peer style judgments"
+  ],
+  "corpus_hash": "3d8b75e3eb8ed2dcd0348e8c8f5ce93f14b34a17103488843767071737f5975e",
+  "blind_input_sha256": "be54d0b168ad1e348bf2dc26d5a5e0617eccde31c8b9b3ea2990e09d46c6e55a",
+  "total_generated_targets_reviewed": 104,
+  "groups": {
+    "V2-X": {
+      "target_sha256": "a6a88e9696a6fd9ab756ee553566a415fe1bc2a344a901af157f03ce52def618",
+      "paragraphs": [
+        {
+          "id": "c0002p0053",
+          "source_quote": "“爹！”",
+          "target_quote": "“Bố ơi!”",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0054",
+          "source_quote": "砰的一声跪倒在地上，白真真抱着张羽的大腿说道：“刚刚食堂人太多，我不好意思说。”",
+          "target_quote": "Bịch một tiếng quỳ sụp xuống đất, Bạch Chân Chân ôm lấy đùi Trương Vũ nói: “Vừa nãy nhà ăn đông người quá, tôi ngại không dám nói.”",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0055",
+          "source_quote": "“你借点钱给我吧，我小贷逾期快一个月了！我给你跪下……”",
+          "target_quote": "“Cậu cho tôi vay ít tiền đi, khoản vay tiêu dùng vi mô của tôi quá hạn gần một tháng rồi! Tôi quỳ xuống xin cậu luôn đấy……”",
+          "semantic_status": "FAIL",
+          "semantic_severity": "minor",
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [
+            {
+              "kind": "semantic_term",
+              "severity": "minor",
+              "reason": "小贷 identifies small loans without a consumer-lending subtype. “vay tiêu dùng vi mô” restores small scale but adds consumer classification not stated by source. Owner, direction, duration and loan action are correct."
+            }
+          ],
+          "review_note": "Evidence is quoted; no replacement target supplied."
+        },
+        {
+          "id": "c0002p0056",
+          "source_quote": "望着眼前这一幕的张羽心中暗骂一声：“这什么破学校啊，年级第一和年级第十都是贷款装逼是吧？”",
+          "target_quote": "Nhìn cảnh tượng trước mắt, Trương Vũ thầm chửi trong lòng: “Cái trường rách gì thế này, hạng nhất với hạng mười toàn khối đều đi vay tiền để làm màu đấy à?”",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0057",
+          "source_quote": "而张羽此刻也已经回忆了起来，他和白真真相互认识并非因为什么学霸圈子，而是因为对方是自己上线，给自己推销过小贷。",
+          "target_quote": "Lúc này Trương Vũ cũng đã nhớ ra, cậu và Bạch Chân Chân quen biết nhau chẳng phải vì hội học bá gì cho cam, mà là vì đối phương là cấp trên của cậu, từng chào mời cậu vay tiền.",
+          "semantic_status": "AMBIGUOUS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "AMBIGUOUS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "FAIL",
+          "findings": [
+            {
+              "kind": "relation_term_ambiguity",
+              "severity": null,
+              "reason": "上线 is the upstream loan/referral promoter. cấp trên is a generic higher-level person and can be read as a network superior or an employment boss. The same target mentions loan promotion, and surrounding target still calls Bai a classmate; it does not explicitly assert employment. Therefore this review does not count a proved boss relation addition, but the domain is less precise."
+            },
+            {
+              "kind": "style",
+              "severity": "minor",
+              "reason": "cấp trên in this classmate loan-referral setting is less precise and natural than a clearly domain-bound relationship term. No replacement wording is imposed."
+            }
+          ],
+          "review_note": "Relation domain remains ambiguous; no explicit employment relation is asserted, so exclude a major false-boss claim."
+        },
+        {
+          "id": "c0002p0058",
+          "source_quote": "再次隆重介绍，张羽的同班同学白真真，和张羽是一起分享各大平台借贷情报的好兄弟，有着一起四处借钱的坚固友谊。",
+          "target_quote": "Xin long trọng giới thiệu lại, Bạch Chân Chân bạn cùng lớp của Trương Vũ, chính là người anh em tốt cùng chia sẻ thông tin vay mượn trên các nền tảng lớn với Trương Vũ, sở hữu tình bạn bền chặt cùng nhau chạy vạy khắp nơi.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0059",
+          "source_quote": "想到对方刚刚在食堂那冷冰冰的扑克脸下面，是在不断想着如何跟自己借钱，张羽就无奈摇了摇头：“你先给我松开，我哪有钱借给你？”",
+          "target_quote": "Nghĩ đến việc ẩn sau gương mặt lạnh tanh không chút cảm xúc vừa rồi của đối phương ở nhà ăn, lại là việc không ngừng suy tính làm sao để mượn tiền mình, Trương Vũ đành bất lực lắc đầu: “Cậu buông tôi ra trước đã, tôi lấy đâu ra tiền mà cho cậu mượn?”",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0060",
+          "source_quote": "白真真摇头说道：“你才年级第十，能花多少钱？申请的贷款一定比我少的多吧？”",
+          "target_quote": "Bạch Chân Chân lắc đầu nói: “Cậu mới xếp thứ mười toàn khối, tiêu được bao nhiêu tiền chứ? Khoản vay cậu đăng ký chắc chắn ít hơn tôi nhiều đúng không?”",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0061",
+          "source_quote": "说着，她有些僵硬又羞涩地说道：“只要帮我还了债，你想做什么都行。”",
+          "target_quote": "Vừa nói, cô vừa có chút gượng gạo lại e thẹn cất lời: “Chỉ cần giúp tôi trả nợ, cậu muốn làm gì cũng được.”",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0062",
+          "source_quote": "张羽闻言目光一亮，望着原本冷冰冰的白真真此刻那面若桃花的模样，只觉得别有一番魅力。",
+          "target_quote": "Trương Vũ nghe vậy mắt sáng lên, nhìn vẻ mặt như hoa đào của một Bạch Chân Chân vốn lạnh lùng băng giá lúc này, chỉ cảm thấy mang một sức hút khác biệt.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "FAIL",
+          "findings": [
+            {
+              "kind": "style",
+              "severity": "minor",
+              "reason": "“chỉ cảm thấy mang một sức hút khác biệt” lacks a natural subject connection and retains a literal descriptive construction; the admiration is preserved."
+            }
+          ],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0063",
+          "source_quote": "他上上下下看着白真真的身子，问道：“真什么都行？”",
+          "target_quote": "Cậu ngắm nghía từ trên xuống dưới thân hình Bạch Chân Chân, hỏi: “Thật sự cái gì cũng được?”",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0064",
+          "source_quote": "白真真轻咬嘴唇，点了点头：“嗯。”",
+          "target_quote": "Bạch Chân Chân khẽ cắn môi, gật đầu: “Ừ.”",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0065",
+          "source_quote": "张羽：“那我能把你抵押了吗？”",
+          "target_quote": "Trương Vũ: “Thế tôi đem cậu đi thế chấp được không?”",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0066",
+          "source_quote": "白真真松开了手，瞪着张羽道：“羽子，你真没钱了？”",
+          "target_quote": "Bạch Chân Chân buông tay ra, trừng mắt nhìn Trương Vũ: “Vũ Tử, cậu thật sự hết tiền rồi à?”",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0067",
+          "source_quote": "张羽拿出手机亮了亮余额和逾期的信息。",
+          "target_quote": "Trương Vũ rút điện thoại ra, đưa lên cho xem số dư cùng thông tin quá hạn.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0068",
+          "source_quote": "白真真站了起来，拍了拍自己满是尘土的裤腿，然后有些不可思议地看着张羽道：“你欠了七十万？就算是大学毕业以后恐怕也要工作很久才能还完吧。”",
+          "target_quote": "Bạch Chân Chân đứng dậy, phủi phủi ống quần bám đầy bụi đất của mình, rồi nhìn Trương Vũ với vẻ khó tin: “Cậu nợ bảy mươi vạn? Dù tốt nghiệp đại học xong e là cũng phải đi làm rất lâu mới trả hết đấy.”",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0076",
+          "source_quote": "周天翊说道：“王海后来解释他没做，砰砰砰的声音是他在教训不听话的学生。”",
+          "target_quote": "Chu Thiên Dực nói: \"Sau đó Vương Hải giải thích là thầy ấy không làm, tiếng bình bịch bình bịch là do thầy ấy đang dạy dỗ học sinh không nghe lời.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0077",
+          "source_quote": "“后来我问了前两届的学生，原来王海早就有体罚差生的习惯。”",
+          "target_quote": "\"Sau đó tôi hỏi học sinh hai khóa trước, hóa ra Vương Hải đã có thói quen phạt thể xác học sinh kém từ lâu.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0078",
+          "source_quote": "“特别是成绩下滑还不买他药的话，更是会被他带头霸凌。”",
+          "target_quote": "\"Đặc biệt là thành tích sa sút mà còn không mua thuốc của thầy ấy thì càng bị thầy ấy cầm đầu bắt nạt.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0079",
+          "source_quote": "“听说前几年还有一个学生被他逼得跳楼了。”",
+          "target_quote": "\"Nghe nói mấy năm trước còn có một học sinh bị thầy ấy ép tới mức phải nhảy lầu.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0080",
+          "source_quote": "听到跳楼两个字，张羽的目光骤然间一凝：“王海这都没事？”",
+          "target_quote": "Nghe thấy hai chữ nhảy lầu, ánh mắt Trương Vũ bỗng nhiên ngưng lại: \"Vương Hải thế này mà cũng không sao ư?\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "FAIL",
+          "findings": [
+            {
+              "kind": "style",
+              "severity": "minor",
+              "reason": "“ánh mắt ... ngưng lại” is an awkward literal collocation; the focused reaction remains recognisable."
+            }
+          ],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0081",
+          "source_quote": "周天翊不以为然道：“王海的教学成绩一直很好，是嵩阳高中的王牌体育老师，教出过三个高考时肉体强度全市第一的学生，有人说他有大宗门一些还在实验室里的药物的渠道。”",
+          "target_quote": "Chu Thiên Dực không cho là đúng nói: \"Thành tích giảng dạy của Vương Hải trước giờ đều rất tốt, là giáo viên thể dục át chủ bài của Trường cấp ba Tung Dương, từng dạy ra ba học sinh có cường độ nhục thân đứng đầu toàn thành phố trong kỳ thi đại học, có người nói thầy ấy có mối lấy một số loại thuốc còn đang ở trong phòng thí nghiệm của đại tông môn.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "FAIL",
+          "findings": [
+            {
+              "kind": "style",
+              "severity": "minor",
+              "reason": "“không/chẳng cho là đúng nói” is a literal, objectless stance expression and awkward predicate construction. It is not counted as a proved semantic inversion."
+            }
+          ],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0082",
+          "source_quote": "“就算学校真的不想用他了，大部分学生和家长也不会同意，他们都指着王海买药，帮他们提高肉体强度呢。”",
+          "target_quote": "\"Cho dù nhà trường thật sự không muốn dùng thầy ấy nữa thì phần lớn học sinh và phụ huynh cũng sẽ không đồng ý, bọn họ đều trông cậy vào việc mua thuốc từ Vương Hải để giúp họ nâng cao cường độ nhục thân đấy.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0083",
+          "source_quote": "说着，他看向张羽告诫道：“你要是一直不买药，成绩又上不去，恐怕也会被他整。”",
+          "target_quote": "Nói đoạn, cậu ta nhìn sang Trương Vũ cảnh cáo: \"Cậu mà cứ mãi không mua thuốc, thành tích lại không lên nổi thì e rằng cũng sẽ bị thầy ấy chỉnh đấy.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0084",
+          "source_quote": "看着眉头皱起的张羽，周天翊好奇道：“我说……你小子以前扎针也不少啊，怎么突然不买了？该不会是没钱了吧？要不要我借点给你？”",
+          "target_quote": "Nhìn Trương Vũ đang nhíu mày, Chu Thiên Dực tò mò hỏi: \"Tôi nói này... thằng nhóc cậu trước kia tiêm cũng đâu có ít, sao đột nhiên lại không mua nữa? Chẳng lẽ là hết tiền rồi? Có cần tôi cho vay một ít không?\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "FAIL",
+          "findings": [
+            {
+              "kind": "style",
+              "severity": "minor",
+              "reason": "“thằng nhóc cậu” stacks address forms awkwardly in otherwise tôi/cậu dialogue."
+            }
+          ],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0085",
+          "source_quote": "感受到对方眼中的真诚，张羽却无奈地笑了笑：“不用。”",
+          "target_quote": "Cảm nhận được sự chân thành trong ánh mắt đối phương, Trương Vũ lại bất đắc dĩ cười cười: \"Không cần đâu.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0086",
+          "source_quote": "“真不用？”周天翊：“要不你今天先扎我的？”",
+          "target_quote": "\"Thật sự không cần à?\" Chu Thiên Dực nói: \"Hay là hôm nay cậu tiêm của tôi trước đi?\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0087",
+          "source_quote": "张羽自然连连摇头，他真怕自己再多扎几针就直接暴毙了。",
+          "target_quote": "Trương Vũ đương nhiên lắc đầu liên tục, cậu thật sự sợ bản thân tiêm thêm mấy mũi nữa là lăn ra đột tử ngay tại chỗ.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0088",
+          "source_quote": "根据他脑海中的记忆，这世上可不缺因为药物负荷过大而重创、残疾甚至是死亡的人，甚至嵩阳高中每年都有因为用药过猛而重伤的人。",
+          "target_quote": "Theo ký ức trong đầu cậu, thế giới này chẳng hề thiếu những người vì gánh nặng thuốc men quá lớn mà tổn thương nặng nề, tàn phế thậm chí là tử vong, ngay cả Trường cấp ba Tung Dương mỗi năm đều có người vì dùng thuốc quá liều mà trọng thương.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0089",
+          "source_quote": "可就算如此，追求肉体强度而用药的学生仍旧是络绎不绝。",
+          "target_quote": "Nhưng dẫu vậy, những học sinh vì theo đuổi cường độ nhục thân mà dùng thuốc vẫn cứ nườm nượp không dứt.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0090",
+          "source_quote": "而原身从上周开始便已经有了不堪重负的迹象。",
+          "target_quote": "Mà nguyên thân từ tuần trước đã bắt đầu có dấu hiệu không chịu nổi gánh nặng.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0091",
+          "source_quote": "想到原身不但欠下七十万巨债，还给他留下这么一具肉身，张羽心中便再次哀叹。",
+          "target_quote": "Nghĩ đến việc nguyên thân không những nợ một khoản nợ khổng lồ bảy mươi vạn, mà còn để lại cho cậu một nhục thân như thế này, trong lòng Trương Vũ lại thở dài một tiếng.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0039",
+          "source_quote": "先是打给了张羽的母亲，接着又打给了父亲，却全都是无人接听的状态。",
+          "target_quote": "Đầu tiên là gọi cho mẹ của Trương Vũ, sau đó lại gọi cho bố, nhưng đều trong tình trạng không ai nhấc máy.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0040",
+          "source_quote": "回忆着脑海中张羽父母、姐姐的相关记忆，他最终还是无奈地打给了姐姐。",
+          "target_quote": "Nhớ lại những ký ức liên quan đến bố mẹ và chị gái của Trương Vũ trong đầu, rốt cuộc cậu vẫn đành bất đắc dĩ gọi cho chị gái.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0041",
+          "source_quote": "“张羽？”",
+          "target_quote": "“Trương Vũ?”",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0042",
+          "source_quote": "听着手机另一头那略显冰冷的声音，张羽硬着头皮说道：“姐，能不能借我点钱？”",
+          "target_quote": "Nghe giọng nói có phần lạnh lùng ở đầu dây bên kia, Trương Vũ bấm bụng nói: “Chị, có thể cho em mượn chút tiền không?”",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0043",
+          "source_quote": "一阵沉默中，就在张羽以为对方会挂了电话的时候，从手机中传来声音：“你小学一年级的时候，我就和爸妈说了，你没有仙道天赋，往这条路上走完全是浪费时间和钱。”",
+          "target_quote": "Trong một thoáng im lặng, ngay lúc Trương Vũ tưởng rằng đối phương sẽ cúp máy, thì từ điện thoại truyền đến tiếng nói: “Hồi em học lớp một tiểu học, chị đã nói với bố mẹ rồi, em không có thiên phú tiên đạo, đi theo con đường này hoàn toàn là lãng phí thời gian và tiền bạc.”",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0044",
+          "source_quote": "“分开后，老妈却相信了你的妄想，硬着头皮想要一个人供你上高中，甚至她前不久还找我们来借钱，想要动我的补课费。”",
+          "target_quote": "“Sau khi tách ra, mẹ lại tin vào ảo tưởng của em, cắn răng muốn một mình nuôi em học cấp ba, thậm chí cách đây không lâu bà còn tìm đến chỗ bọn chị để vay tiền, muốn động vào tiền học thêm của chị.”",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0045",
+          "source_quote": "“呵，结果你这不自量力的蠢货还要借贷修仙，为了在高中学习，你现在已经欠了一屁股债了吧？”",
+          "target_quote": "“Hừ, kết quả là cái đồ ngu ngốc không biết tự lượng sức mình như em còn đi vay tiền để tu tiên, để học ở trường cấp ba, bây giờ em đã nợ ngập đầu rồi đúng không?”",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0046",
+          "source_quote": "面对对方的指责，张羽却无话可说，因为根据他脑海中整理的记忆来看，对方说的并没有错。",
+          "target_quote": "Đối mặt với lời chỉ trích của đối phương, Trương Vũ lại không thể nói được lời nào, bởi vì căn cứ theo những ký ức được sắp xếp trong đầu cậu, những gì đối phương nói chẳng hề sai.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0047",
+          "source_quote": "父母各自带着他们姐弟俩分开以后，明知道母亲的收入不足，家里没钱，但原本的张羽却太过不自量力，最后硬着头皮撸小贷也要修仙，一路以贷养贷到现在。",
+          "target_quote": "Sau khi bố mẹ mỗi người dẫn theo một người trong hai chị em họ tách ra, rõ ràng biết thu nhập của mẹ không đủ, trong nhà không có tiền, nhưng Trương Vũ trước kia lại quá đỗi không biết tự lượng sức, cuối cùng bấm bụng đi vay các khoản vay nhỏ cũng phải tu tiên, một mạch lấy khoản vay này đắp khoản vay khác cho đến tận bây giờ.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "FAIL",
+          "findings": [
+            {
+              "kind": "style",
+              "severity": "minor",
+              "reason": "The opening family-separation clause and “đi vay các khoản vay nhỏ cũng phải tu tiên” remain stiff and tangled. The old unsupported quỵt nợ action is absent."
+            }
+          ],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0048",
+          "source_quote": "而母亲也在张羽反复借贷，一次次帮他偿还，又一次次发现窟窿越来越大后，终于离他而去。",
+          "target_quote": "Mà người mẹ sau khi Trương Vũ liên tục vay nợ, hết lần này đến lần khác giúp cậu trả nợ, rồi lại hết lần này đến lần khác nhận ra lỗ hổng ngày càng lớn, cuối cùng cũng đã rời bỏ cậu mà đi.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0049",
+          "source_quote": "手机那头的声音继续传来。",
+          "target_quote": "Giọng nói ở đầu dây bên kia tiếp tục vang lên.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0050",
+          "source_quote": "“这是我们最后一次联系了，你欠下来的债你自己去还。”",
+          "target_quote": "“Đây là lần cuối cùng chúng ta liên lạc, số nợ em đã vay thì tự em đi mà trả.”",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0051",
+          "source_quote": "“再给你一个忠告，退学然后去打工还债吧。”",
+          "target_quote": "“Cho em thêm một lời khuyên, nghỉ học rồi đi làm thuê trả nợ đi.”",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0052",
+          "source_quote": "“看在曾经是一家人的份上，我一会打给你500，这些钱足够你在饿死前找到一份工作了。”",
+          "target_quote": "“Nể tình từng là người một nhà, lát nữa chị sẽ chuyển cho em 500, số tiền này đủ để em tìm được một công việc trước khi chết đói.”",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0053",
+          "source_quote": "听着对方电话挂断的声音，张羽无奈地叹了口气：“还好，至少也要到了500。”",
+          "target_quote": "Nghe âm thanh đối phương cúp điện thoại, Trương Vũ bất đắc dĩ thở dài một tiếng: “Cũng may, ít nhất cũng xin được 500.”",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0054",
+          "source_quote": "算上白真真给的500，张羽现在的存款终于突破1000。",
+          "target_quote": "Tính cả 500 Bạch Chân Chân đưa cho, tiền tiết kiệm hiện tại của Trương Vũ cuối cùng đã vượt qua con số 1000.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0103p0001",
+          "source_quote": "三周后，陈默还了陈岚两万元，姐姐把那笔无息借款划掉了。",
+          "target_quote": "Ba tuần sau, Trần Mặc trả cho Trần Lam hai mươi nghìn tệ, người chị gạch bỏ khoản vay không tính lãi đó.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0103p0002",
+          "source_quote": "陈舟却还没归还从哥哥那里借走的五百元。陈默没有催他，也没有说不要还。",
+          "target_quote": "Trần Chu lại vẫn chưa trả năm trăm tệ vay từ chỗ anh trai. Trần Mặc không giục cậu, cũng không nói không cần trả.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0103p0003",
+          "source_quote": "陈岚看着弟弟说：“那三百件是你订的，哥只帮你搬过，别把订单记在他名下。”",
+          "target_quote": "Trần Lam nhìn em trai nói: “Ba trăm món đó là do em đặt, anh chỉ từng giúp em khuân thôi, đừng ghi đơn hàng vào tên anh ấy.”",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0103p0004",
+          "source_quote": "陈默笑着说：“终于少了一笔债。”说完，他仍在本子上记着那两千元房租借款。",
+          "target_quote": "Trần Mặc cười nói: “Cuối cùng cũng bớt được một món nợ.” Nói xong, anh vẫn ghi trong sổ khoản vay hai nghìn tệ tiền thuê nhà đó.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        }
+      ],
+      "obligations": [
+        {
+          "id": "heldout-fake-father",
+          "category": "address_relation",
+          "status": "PASS",
+          "obligation": "爹 is a desperate humorous address by Bai to Zhang while borrowing. It does not establish biological fatherhood.",
+          "source_quotes": [
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0053",
+              "source": "“爹！”"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0054",
+              "source": "砰的一声跪倒在地上，白真真抱着张羽的大腿说道：“刚刚食堂人太多，我不好意思说。”"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0055",
+              "source": "“你借点钱给我吧，我小贷逾期快一个月了！我给你跪下……”"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0057",
+              "source": "而张羽此刻也已经回忆了起来，他和白真真相互认识并非因为什么学霸圈子，而是因为对方是自己上线，给自己推销过小贷。"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0058",
+              "source": "再次隆重介绍，张羽的同班同学白真真，和张羽是一起分享各大平台借贷情报的好兄弟，有着一起四处借钱的坚固友谊。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0002p0053",
+              "target": "“Bố ơi!”"
+            },
+            {
+              "id": "c0002p0054",
+              "target": "Bịch một tiếng quỳ sụp xuống đất, Bạch Chân Chân ôm lấy đùi Trương Vũ nói: “Vừa nãy nhà ăn đông người quá, tôi ngại không dám nói.”"
+            },
+            {
+              "id": "c0002p0055",
+              "target": "“Cậu cho tôi vay ít tiền đi, khoản vay tiêu dùng vi mô của tôi quá hạn gần một tháng rồi! Tôi quỳ xuống xin cậu luôn đấy……”"
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-loan-overdue",
+          "category": "loan_time",
+          "status": "FAIL",
+          "obligation": "Bai asks Zhang to lend money. Her small loan has been overdue for almost one month. Preserve direction and duration.",
+          "source_quotes": [
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0055",
+              "source": "“你借点钱给我吧，我小贷逾期快一个月了！我给你跪下……”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0002p0055",
+              "target": "“Cậu cho tôi vay ít tiền đi, khoản vay tiêu dùng vi mô của tôi quá hạn gần một tháng rồi! Tôi quỳ xuống xin cậu luôn đấy……”"
+            }
+          ],
+          "reason": "Small scale is present, but consumer-lending subtype remains an unsupported narrowing. Minor financial-term defect; time and lending direction pass."
+        },
+        {
+          "id": "heldout-ranks",
+          "category": "rank_reasoning",
+          "status": "PASS",
+          "obligation": "Bai ranks first and Zhang tenth. Bai assumes ranking tenth entails spending and borrowing less; this is her reasoning, not a proven narrator fact.",
+          "source_quotes": [
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0056",
+              "source": "望着眼前这一幕的张羽心中暗骂一声：“这什么破学校啊，年级第一和年级第十都是贷款装逼是吧？”"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0060",
+              "source": "白真真摇头说道：“你才年级第十，能花多少钱？申请的贷款一定比我少的多吧？”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0002p0056",
+              "target": "Nhìn cảnh tượng trước mắt, Trương Vũ thầm chửi trong lòng: “Cái trường rách gì thế này, hạng nhất với hạng mười toàn khối đều đi vay tiền để làm màu đấy à?”"
+            },
+            {
+              "id": "c0002p0060",
+              "target": "Bạch Chân Chân lắc đầu nói: “Cậu mới xếp thứ mười toàn khối, tiêu được bao nhiêu tiền chứ? Khoản vay cậu đăng ký chắc chắn ít hơn tôi nhiều đúng không?”"
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-original-relation",
+          "category": "relation_reveal",
+          "status": "AMBIGUOUS",
+          "obligation": "They know each other through loan promotion and sharing borrowing information, not an elite student circle. 好兄弟 establishes neither biological kinship nor masculine gender.",
+          "source_quotes": [
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0057",
+              "source": "而张羽此刻也已经回忆了起来，他和白真真相互认识并非因为什么学霸圈子，而是因为对方是自己上线，给自己推销过小贷。"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0058",
+              "source": "再次隆重介绍，张羽的同班同学白真真，和张羽是一起分享各大平台借贷情报的好兄弟，有着一起四处借钱的坚固友谊。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0002p0057",
+              "target": "Lúc này Trương Vũ cũng đã nhớ ra, cậu và Bạch Chân Chân quen biết nhau chẳng phải vì hội học bá gì cho cam, mà là vì đối phương là cấp trên của cậu, từng chào mời cậu vay tiền."
+            },
+            {
+              "id": "c0002p0058",
+              "target": "Xin long trọng giới thiệu lại, Bạch Chân Chân bạn cùng lớp của Trương Vũ, chính là người anh em tốt cùng chia sẻ thông tin vay mượn trên các nền tảng lớn với Trương Vũ, sở hữu tình bạn bền chặt cùng nhau chạy vạy khắp nơi."
+            }
+          ],
+          "reason": "Loan promotion and classmate context remain. cấp trên may mean the credit-network upstream or a generic boss; source does not support employment, but target does not explicitly assert it either. Require domain-bound relation evidence rather than counting a proved new employment fact."
+        },
+        {
+          "id": "heldout-unavailable-loan",
+          "category": "negation",
+          "status": "PASS",
+          "obligation": "Zhang says he has no money to lend. Do not turn this into refusal despite wealth or a promise of a loan.",
+          "source_quotes": [
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0059",
+              "source": "想到对方刚刚在食堂那冷冰冰的扑克脸下面，是在不断想着如何跟自己借钱，张羽就无奈摇了摇头：“你先给我松开，我哪有钱借给你？”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0002p0059",
+              "target": "Nghĩ đến việc ẩn sau gương mặt lạnh tanh không chút cảm xúc vừa rồi của đối phương ở nhà ăn, lại là việc không ngừng suy tính làm sao để mượn tiền mình, Trương Vũ đành bất lực lắc đầu: “Cậu buông tôi ra trước đã, tôi lấy đâu ra tiền mà cho cậu mượn?”"
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-conditional-offer",
+          "category": "dialogue_satire",
+          "status": "PASS",
+          "obligation": "Bai conditionally offers anything for help paying her debt. Zhang asks whether he can mortgage her. Preserve speakers and the unexecuted joke.",
+          "source_quotes": [
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0061",
+              "source": "说着，她有些僵硬又羞涩地说道：“只要帮我还了债，你想做什么都行。”"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0063",
+              "source": "他上上下下看着白真真的身子，问道：“真什么都行？”"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0064",
+              "source": "白真真轻咬嘴唇，点了点头：“嗯。”"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0065",
+              "source": "张羽：“那我能把你抵押了吗？”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0002p0061",
+              "target": "Vừa nói, cô vừa có chút gượng gạo lại e thẹn cất lời: “Chỉ cần giúp tôi trả nợ, cậu muốn làm gì cũng được.”"
+            },
+            {
+              "id": "c0002p0063",
+              "target": "Cậu ngắm nghía từ trên xuống dưới thân hình Bạch Chân Chân, hỏi: “Thật sự cái gì cũng được?”"
+            },
+            {
+              "id": "c0002p0064",
+              "target": "Bạch Chân Chân khẽ cắn môi, gật đầu: “Ừ.”"
+            },
+            {
+              "id": "c0002p0065",
+              "target": "Trương Vũ: “Thế tôi đem cậu đi thế chấp được không?”"
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-debt700000",
+          "category": "amount_owner",
+          "status": "PASS",
+          "obligation": "The 700,000 debt belongs to Zhang. Bai expresses surprise and estimates a long repayment period after college. Do not attach the amount to Bai or convert currency units.",
+          "source_quotes": [
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0067",
+              "source": "张羽拿出手机亮了亮余额和逾期的信息。"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0068",
+              "source": "白真真站了起来，拍了拍自己满是尘土的裤腿，然后有些不可思议地看着张羽道：“你欠了七十万？就算是大学毕业以后恐怕也要工作很久才能还完吧。”"
+            },
+            {
+              "chapter": 1,
+              "paragraph_id": "c0001p0181",
+              "source": "只因为他发现利滚利下来，张羽已经欠了各大平台总共七十多万的钱。"
+            },
+            {
+              "chapter": 1,
+              "paragraph_id": "c0001p0182",
+              "source": "而再看了看自己的账户，总共只剩下五十多块钱了。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0002p0067",
+              "target": "Trương Vũ rút điện thoại ra, đưa lên cho xem số dư cùng thông tin quá hạn."
+            },
+            {
+              "id": "c0002p0068",
+              "target": "Bạch Chân Chân đứng dậy, phủi phủi ống quần bám đầy bụi đất của mình, rồi nhìn Trương Vũ với vẻ khó tin: “Cậu nợ bảy mươi vạn? Dù tốt nghiệp đại học xong e là cũng phải đi làm rất lâu mới trả hết đấy.”"
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-nickname",
+          "category": "name",
+          "status": "PASS",
+          "obligation": "羽子 refers to Zhang Yu, not a new character. Bai releases her hands and speaks.",
+          "source_quotes": [
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0054",
+              "source": "砰的一声跪倒在地上，白真真抱着张羽的大腿说道：“刚刚食堂人太多，我不好意思说。”"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0066",
+              "source": "白真真松开了手，瞪着张羽道：“羽子，你真没钱了？”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0002p0066",
+              "target": "Bạch Chân Chân buông tay ra, trừng mắt nhìn Trương Vũ: “Vũ Tử, cậu thật sự hết tiền rồi à?”"
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-reported-violence",
+          "category": "epistemic_status",
+          "status": "PASS",
+          "obligation": "Zhou reports Wang’s claim, describes asking former students, and reports a hearsay jumping incident. Preserve reported status instead of inventing independently confirmed narration.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0059",
+              "source": "就在这时，一名少年走了过来，凑到张羽身旁问道：“王海又跟你推销了？”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0062",
+              "source": "“他是……周天翊。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0076",
+              "source": "周天翊说道：“王海后来解释他没做，砰砰砰的声音是他在教训不听话的学生。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0077",
+              "source": "“后来我问了前两届的学生，原来王海早就有体罚差生的习惯。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0079",
+              "source": "“听说前几年还有一个学生被他逼得跳楼了。”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0076",
+              "target": "Chu Thiên Dực nói: \"Sau đó Vương Hải giải thích là thầy ấy không làm, tiếng bình bịch bình bịch là do thầy ấy đang dạy dỗ học sinh không nghe lời.\""
+            },
+            {
+              "id": "c0003p0077",
+              "target": "\"Sau đó tôi hỏi học sinh hai khóa trước, hóa ra Vương Hải đã có thói quen phạt thể xác học sinh kém từ lâu.\""
+            },
+            {
+              "id": "c0003p0078",
+              "target": "\"Đặc biệt là thành tích sa sút mà còn không mua thuốc của thầy ấy thì càng bị thầy ấy cầm đầu bắt nạt.\""
+            },
+            {
+              "id": "c0003p0079",
+              "target": "\"Nghe nói mấy năm trước còn có một học sinh bị thầy ấy ép tới mức phải nhảy lầu.\""
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-teacher-protection",
+          "category": "social_cause",
+          "status": "PASS",
+          "obligation": "Zhang asks how Wang escapes consequences. Zhou explains good results, three city top students and dependence on his drugs. Do not turn this into moral endorsement by the narrator.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0080",
+              "source": "听到跳楼两个字，张羽的目光骤然间一凝：“王海这都没事？”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0081",
+              "source": "周天翊不以为然道：“王海的教学成绩一直很好，是嵩阳高中的王牌体育老师，教出过三个高考时肉体强度全市第一的学生，有人说他有大宗门一些还在实验室里的药物的渠道。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0082",
+              "source": "“就算学校真的不想用他了，大部分学生和家长也不会同意，他们都指着王海买药，帮他们提高肉体强度呢。”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0080",
+              "target": "Nghe thấy hai chữ nhảy lầu, ánh mắt Trương Vũ bỗng nhiên ngưng lại: \"Vương Hải thế này mà cũng không sao ư?\""
+            },
+            {
+              "id": "c0003p0081",
+              "target": "Chu Thiên Dực không cho là đúng nói: \"Thành tích giảng dạy của Vương Hải trước giờ đều rất tốt, là giáo viên thể dục át chủ bài của Trường cấp ba Tung Dương, từng dạy ra ba học sinh có cường độ nhục thân đứng đầu toàn thành phố trong kỳ thi đại học, có người nói thầy ấy có mối lấy một số loại thuốc còn đang ở trong phòng thí nghiệm của đại tông môn.\""
+            },
+            {
+              "id": "c0003p0082",
+              "target": "\"Cho dù nhà trường thật sự không muốn dùng thầy ấy nữa thì phần lớn học sinh và phụ huynh cũng sẽ không đồng ý, bọn họ đều trông cậy vào việc mua thuốc từ Vương Hải để giúp họ nâng cao cường độ nhục thân đấy.\""
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-conditional-threat",
+          "category": "condition",
+          "status": "PASS",
+          "obligation": "Possible mistreatment is conditional on continuing not to buy medicine and grades not rising. Preserve 恐怕 uncertainty.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0083",
+              "source": "说着，他看向张羽告诫道：“你要是一直不买药，成绩又上不去，恐怕也会被他整。”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0083",
+              "target": "Nói đoạn, cậu ta nhìn sang Trương Vũ cảnh cáo: \"Cậu mà cứ mãi không mua thuốc, thành tích lại không lên nổi thì e rằng cũng sẽ bị thầy ấy chỉnh đấy.\""
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-loan-direction",
+          "category": "speaker_negation",
+          "status": "PASS",
+          "obligation": "Zhou offers Zhang money, then his injections for today. Zhang refuses. No actual loan or injection occurs here.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0062",
+              "source": "“他是……周天翊。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0084",
+              "source": "看着眉头皱起的张羽，周天翊好奇道：“我说……你小子以前扎针也不少啊，怎么突然不买了？该不会是没钱了吧？要不要我借点给你？”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0085",
+              "source": "感受到对方眼中的真诚，张羽却无奈地笑了笑：“不用。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0086",
+              "source": "“真不用？”周天翊：“要不你今天先扎我的？”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0087",
+              "source": "张羽自然连连摇头，他真怕自己再多扎几针就直接暴毙了。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0084",
+              "target": "Nhìn Trương Vũ đang nhíu mày, Chu Thiên Dực tò mò hỏi: \"Tôi nói này... thằng nhóc cậu trước kia tiêm cũng đâu có ít, sao đột nhiên lại không mua nữa? Chẳng lẽ là hết tiền rồi? Có cần tôi cho vay một ít không?\""
+            },
+            {
+              "id": "c0003p0085",
+              "target": "Cảm nhận được sự chân thành trong ánh mắt đối phương, Trương Vũ lại bất đắc dĩ cười cười: \"Không cần đâu.\""
+            },
+            {
+              "id": "c0003p0086",
+              "target": "\"Thật sự không cần à?\" Chu Thiên Dực nói: \"Hay là hôm nay cậu tiêm của tôi trước đi?\""
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-drug-risk",
+          "category": "cause_scope",
+          "status": "PASS",
+          "obligation": "Zhang fears death from more injections. Overuse can injure, disable or kill; the yearly school cases specified are severe injuries, not all fatal cases.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0087",
+              "source": "张羽自然连连摇头，他真怕自己再多扎几针就直接暴毙了。"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0088",
+              "source": "根据他脑海中的记忆，这世上可不缺因为药物负荷过大而重创、残疾甚至是死亡的人，甚至嵩阳高中每年都有因为用药过猛而重伤的人。"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0089",
+              "source": "可就算如此，追求肉体强度而用药的学生仍旧是络绎不绝。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0087",
+              "target": "Trương Vũ đương nhiên lắc đầu liên tục, cậu thật sự sợ bản thân tiêm thêm mấy mũi nữa là lăn ra đột tử ngay tại chỗ."
+            },
+            {
+              "id": "c0003p0088",
+              "target": "Theo ký ức trong đầu cậu, thế giới này chẳng hề thiếu những người vì gánh nặng thuốc men quá lớn mà tổn thương nặng nề, tàn phế thậm chí là tử vong, ngay cả Trường cấp ba Tung Dương mỗi năm đều có người vì dùng thuốc quá liều mà trọng thương."
+            },
+            {
+              "id": "c0003p0089",
+              "target": "Nhưng dẫu vậy, những học sinh vì theo đuổi cường độ nhục thân mà dùng thuốc vẫn cứ nườm nượp không dứt."
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-original-body",
+          "category": "identity_time",
+          "status": "PASS",
+          "obligation": "The original body had overload signs starting last week. Current Zhang laments inherited 700,000 debt and a damaged body. No new loan or health cure is asserted.",
+          "source_quotes": [
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0009",
+              "source": "他揉了揉脑袋，感觉无数属于原身的破碎记忆在脑海中起起伏伏，变幻不定。"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0010",
+              "source": "虽然此刻的张羽已经掌握了这具身体，但对于原来的记忆仍旧没有彻底融合，许多细节部分都需要专注去回忆才能想起来。"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0090",
+              "source": "而原身从上周开始便已经有了不堪重负的迹象。"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0091",
+              "source": "想到原身不但欠下七十万巨债，还给他留下这么一具肉身，张羽心中便再次哀叹。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0090",
+              "target": "Mà nguyên thân từ tuần trước đã bắt đầu có dấu hiệu không chịu nổi gánh nặng."
+            },
+            {
+              "id": "c0003p0091",
+              "target": "Nghĩ đến việc nguyên thân không những nợ một khoản nợ khổng lồ bảy mươi vạn, mà còn để lại cho cậu một nhục thân như thế này, trong lòng Trương Vũ lại thở dài một tiếng."
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-zhou-name",
+          "category": "name",
+          "status": "PASS",
+          "obligation": "周天翊 remains Chu Thiên Dực. Do not confuse him with Zhou Wei or a new character.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0062",
+              "source": "“他是……周天翊。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0083",
+              "source": "说着，他看向张羽告诫道：“你要是一直不买药，成绩又上不去，恐怕也会被他整。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0084",
+              "source": "看着眉头皱起的张羽，周天翊好奇道：“我说……你小子以前扎针也不少啊，怎么突然不买了？该不会是没钱了吧？要不要我借点给你？”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0086",
+              "source": "“真不用？”周天翊：“要不你今天先扎我的？”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0083",
+              "target": "Nói đoạn, cậu ta nhìn sang Trương Vũ cảnh cáo: \"Cậu mà cứ mãi không mua thuốc, thành tích lại không lên nổi thì e rằng cũng sẽ bị thầy ấy chỉnh đấy.\""
+            },
+            {
+              "id": "c0003p0084",
+              "target": "Nhìn Trương Vũ đang nhíu mày, Chu Thiên Dực tò mò hỏi: \"Tôi nói này... thằng nhóc cậu trước kia tiêm cũng đâu có ít, sao đột nhiên lại không mua nữa? Chẳng lẽ là hết tiền rồi? Có cần tôi cho vay một ít không?\""
+            },
+            {
+              "id": "c0003p0086",
+              "target": "\"Thật sự không cần à?\" Chu Thiên Dực nói: \"Hay là hôm nay cậu tiêm của tôi trước đi?\""
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-unanswered-parents",
+          "category": "speaker_relation",
+          "status": "PASS",
+          "obligation": "Mother and father do not answer. The next speaker is the older sister, not the mother; 张羽？ is her reply.",
+          "source_quotes": [
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0039",
+              "source": "先是打给了张羽的母亲，接着又打给了父亲，却全都是无人接听的状态。"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0040",
+              "source": "回忆着脑海中张羽父母、姐姐的相关记忆，他最终还是无奈地打给了姐姐。"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0041",
+              "source": "“张羽？”"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0042",
+              "source": "听着手机另一头那略显冰冷的声音，张羽硬着头皮说道：“姐，能不能借我点钱？”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0004p0039",
+              "target": "Đầu tiên là gọi cho mẹ của Trương Vũ, sau đó lại gọi cho bố, nhưng đều trong tình trạng không ai nhấc máy."
+            },
+            {
+              "id": "c0004p0040",
+              "target": "Nhớ lại những ký ức liên quan đến bố mẹ và chị gái của Trương Vũ trong đầu, rốt cuộc cậu vẫn đành bất đắc dĩ gọi cho chị gái."
+            },
+            {
+              "id": "c0004p0041",
+              "target": "“Trương Vũ?”"
+            },
+            {
+              "id": "c0004p0042",
+              "target": "Nghe giọng nói có phần lạnh lùng ở đầu dây bên kia, Trương Vũ bấm bụng nói: “Chị, có thể cho em mượn chút tiền không?”"
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-first-grade-judgment",
+          "category": "time_perspective",
+          "status": "PASS",
+          "obligation": "The sister warned parents in his first primary school year that he lacked talent. This is her assessment, not narrator proof or his current year level.",
+          "source_quotes": [
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0043",
+              "source": "一阵沉默中，就在张羽以为对方会挂了电话的时候，从手机中传来声音：“你小学一年级的时候，我就和爸妈说了，你没有仙道天赋，往这条路上走完全是浪费时间和钱。”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0004p0043",
+              "target": "Trong một thoáng im lặng, ngay lúc Trương Vũ tưởng rằng đối phương sẽ cúp máy, thì từ điện thoại truyền đến tiếng nói: “Hồi em học lớp một tiểu học, chị đã nói với bố mẹ rồi, em không có thiên phú tiên đạo, đi theo con đường này hoàn toàn là lãng phí thời gian và tiền bạc.”"
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-family-separation",
+          "category": "family_finance",
+          "status": "PASS",
+          "obligation": "Parents separated with one child each. Mother tried supporting her son alone and sought funds including the sister’s cram class fees. Do not invent a divorce decree or that these fees were already given.",
+          "source_quotes": [
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0044",
+              "source": "“分开后，老妈却相信了你的妄想，硬着头皮想要一个人供你上高中，甚至她前不久还找我们来借钱，想要动我的补课费。”"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0047",
+              "source": "父母各自带着他们姐弟俩分开以后，明知道母亲的收入不足，家里没钱，但原本的张羽却太过不自量力，最后硬着头皮撸小贷也要修仙，一路以贷养贷到现在。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0004p0044",
+              "target": "“Sau khi tách ra, mẹ lại tin vào ảo tưởng của em, cắn răng muốn một mình nuôi em học cấp ba, thậm chí cách đây không lâu bà còn tìm đến chỗ bọn chị để vay tiền, muốn động vào tiền học thêm của chị.”"
+            },
+            {
+              "id": "c0004p0047",
+              "target": "Sau khi bố mẹ mỗi người dẫn theo một người trong hai chị em họ tách ra, rõ ràng biết thu nhập của mẹ không đủ, trong nhà không có tiền, nhưng Trương Vũ trước kia lại quá đỗi không biết tự lượng sức, cuối cùng bấm bụng đi vay các khoản vay nhỏ cũng phải tu tiên, một mạch lấy khoản vay này đắp khoản vay khác cho đến tận bây giờ."
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-loan-rollover",
+          "category": "financial_reveal",
+          "status": "PASS",
+          "obligation": "Original Zhang used small loans and new loans to service old loans. Mother repeatedly repaid, the holes grew and she left. Do not replace this with savings, a grant or a completed settlement.",
+          "source_quotes": [
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0045",
+              "source": "“呵，结果你这不自量力的蠢货还要借贷修仙，为了在高中学习，你现在已经欠了一屁股债了吧？”"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0046",
+              "source": "面对对方的指责，张羽却无话可说，因为根据他脑海中整理的记忆来看，对方说的并没有错。"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0047",
+              "source": "父母各自带着他们姐弟俩分开以后，明知道母亲的收入不足，家里没钱，但原本的张羽却太过不自量力，最后硬着头皮撸小贷也要修仙，一路以贷养贷到现在。"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0048",
+              "source": "而母亲也在张羽反复借贷，一次次帮他偿还，又一次次发现窟窿越来越大后，终于离他而去。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0004p0045",
+              "target": "“Hừ, kết quả là cái đồ ngu ngốc không biết tự lượng sức mình như em còn đi vay tiền để tu tiên, để học ở trường cấp ba, bây giờ em đã nợ ngập đầu rồi đúng không?”"
+            },
+            {
+              "id": "c0004p0046",
+              "target": "Đối mặt với lời chỉ trích của đối phương, Trương Vũ lại không thể nói được lời nào, bởi vì căn cứ theo những ký ức được sắp xếp trong đầu cậu, những gì đối phương nói chẳng hề sai."
+            },
+            {
+              "id": "c0004p0047",
+              "target": "Sau khi bố mẹ mỗi người dẫn theo một người trong hai chị em họ tách ra, rõ ràng biết thu nhập của mẹ không đủ, trong nhà không có tiền, nhưng Trương Vũ trước kia lại quá đỗi không biết tự lượng sức, cuối cùng bấm bụng đi vay các khoản vay nhỏ cũng phải tu tiên, một mạch lấy khoản vay này đắp khoản vay khác cho đến tận bây giờ."
+            },
+            {
+              "id": "c0004p0048",
+              "target": "Mà người mẹ sau khi Trương Vũ liên tục vay nợ, hết lần này đến lần khác giúp cậu trả nợ, rồi lại hết lần này đến lần khác nhận ra lỗ hổng ngày càng lớn, cuối cùng cũng đã rời bỏ cậu mà đi."
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-final-contact",
+          "category": "advice",
+          "status": "PASS",
+          "obligation": "Sister declares their last contact and advises quitting school, working and repaying his own debt. Her speech is not proof he actually quit.",
+          "source_quotes": [
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0050",
+              "source": "“这是我们最后一次联系了，你欠下来的债你自己去还。”"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0051",
+              "source": "“再给你一个忠告，退学然后去打工还债吧。”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0004p0050",
+              "target": "“Đây là lần cuối cùng chúng ta liên lạc, số nợ em đã vay thì tự em đi mà trả.”"
+            },
+            {
+              "id": "c0004p0051",
+              "target": "“Cho em thêm một lời khuyên, nghỉ học rồi đi làm thuê trả nợ đi.”"
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-second500",
+          "category": "crosschapter_amount_owner",
+          "status": "PASS",
+          "obligation": "Sister’s 500 and the earlier Bai 500 are distinct transfers. Initial fifty plus funds make the balance surpass 1,000, not exactly 1,000. Sister is not the source of both transfers.",
+          "source_quotes": [
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0018",
+              "source": "而现在身负70万巨债，浑身上下只有五十多块的他可没钱在外面吃饭了。"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0125",
+              "source": "回到教室后不久，张羽拿起震动的手机，便发现是白真真给他转账了500块钱，还发了个消息。"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0126",
+              "source": "白真真：先把水电费交了吧"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0052",
+              "source": "“看在曾经是一家人的份上，我一会打给你500，这些钱足够你在饿死前找到一份工作了。”"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0053",
+              "source": "听着对方电话挂断的声音，张羽无奈地叹了口气：“还好，至少也要到了500。”"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0054",
+              "source": "算上白真真给的500，张羽现在的存款终于突破1000。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0004p0052",
+              "target": "“Nể tình từng là người một nhà, lát nữa chị sẽ chuyển cho em 500, số tiền này đủ để em tìm được một công việc trước khi chết đói.”"
+            },
+            {
+              "id": "c0004p0053",
+              "target": "Nghe âm thanh đối phương cúp điện thoại, Trương Vũ bất đắc dĩ thở dài một tiếng: “Cũng may, ít nhất cũng xin được 500.”"
+            },
+            {
+              "id": "c0004p0054",
+              "target": "Tính cả 500 Bạch Chân Chân đưa cho, tiền tiết kiệm hiện tại của Trương Vũ cuối cùng đã vượt qua con số 1000."
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-old-vs-current",
+          "category": "identity",
+          "status": "PASS",
+          "obligation": "Current Zhang relies on the original memories. Sister’s past accusations concern original Zhang. Do not invent disclosure of transmigration.",
+          "source_quotes": [
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0046",
+              "source": "面对对方的指责，张羽却无话可说，因为根据他脑海中整理的记忆来看，对方说的并没有错。"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0047",
+              "source": "父母各自带着他们姐弟俩分开以后，明知道母亲的收入不足，家里没钱，但原本的张羽却太过不自量力，最后硬着头皮撸小贷也要修仙，一路以贷养贷到现在。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0004p0046",
+              "target": "Đối mặt với lời chỉ trích của đối phương, Trương Vũ lại không thể nói được lời nào, bởi vì căn cứ theo những ký ức được sắp xếp trong đầu cậu, những gì đối phương nói chẳng hề sai."
+            },
+            {
+              "id": "c0004p0047",
+              "target": "Sau khi bố mẹ mỗi người dẫn theo một người trong hai chị em họ tách ra, rõ ràng biết thu nhập của mẹ không đủ, trong nhà không có tiền, nhưng Trương Vũ trước kia lại quá đỗi không biết tự lượng sức, cuối cùng bấm bụng đi vay các khoản vay nhỏ cũng phải tu tiên, một mạch lấy khoản vay này đắp khoản vay khác cho đến tận bây giờ."
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "synthetic-paid-vs-unpaid",
+          "category": "long_return_state",
+          "status": "PASS",
+          "obligation": "Three weeks later sister’s 20,000 is repaid, younger brother’s 500 remains unpaid, and the separate rent loan of 2,000 remains recorded. Do not collapse all debts into paid or still owing 20,000.",
+          "source_quotes": [
+            {
+              "id": "s101p0002",
+              "source": "陈岚把两万元借给陈默，说好不收利息，但必须在三十天内归还。"
+            },
+            {
+              "id": "s102p0001",
+              "source": "第二天早上，陈舟找陈默借了五百元。姐姐昨天借出的两万元仍没收回。"
+            },
+            {
+              "id": "s102p0003",
+              "source": "陈默算过账后，又借了两千元付房租；他昨晚的拒绝只说了今晚，并没有答应以后永远不借。"
+            },
+            {
+              "id": "s103p0001",
+              "source": "三周后，陈默还了陈岚两万元，姐姐把那笔无息借款划掉了。"
+            },
+            {
+              "id": "s103p0002",
+              "source": "陈舟却还没归还从哥哥那里借走的五百元。陈默没有催他，也没有说不要还。"
+            },
+            {
+              "id": "s103p0003",
+              "source": "陈岚看着弟弟说：“那三百件是你订的，哥只帮你搬过，别把订单记在他名下。”"
+            },
+            {
+              "id": "s103p0004",
+              "source": "陈默笑着说：“终于少了一笔债。”说完，他仍在本子上记着那两千元房租借款。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0103p0001",
+              "target": "Ba tuần sau, Trần Mặc trả cho Trần Lam hai mươi nghìn tệ, người chị gạch bỏ khoản vay không tính lãi đó."
+            },
+            {
+              "id": "c0103p0002",
+              "target": "Trần Chu lại vẫn chưa trả năm trăm tệ vay từ chỗ anh trai. Trần Mặc không giục cậu, cũng không nói không cần trả."
+            },
+            {
+              "id": "c0103p0004",
+              "target": "Trần Mặc cười nói: “Cuối cùng cũng bớt được một món nợ.” Nói xong, anh vẫn ghi trong sổ khoản vay hai nghìn tệ tiền thuê nhà đó."
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "synthetic-no-debt-forgiveness",
+          "category": "negation",
+          "status": "PASS",
+          "obligation": "The 500 has not yet been repaid. No pressure does not mean forgiveness or that it will never be repaid.",
+          "source_quotes": [
+            {
+              "id": "s103p0002",
+              "source": "陈舟却还没归还从哥哥那里借走的五百元。陈默没有催他，也没有说不要还。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0103p0002",
+              "target": "Trần Chu lại vẫn chưa trả năm trăm tệ vay từ chỗ anh trai. Trần Mặc không giục cậu, cũng không nói không cần trả."
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "synthetic-order-owner",
+          "category": "long_return_relation",
+          "status": "PASS",
+          "obligation": "The younger brother owns the order; the elder brother only helped carry it. Preserve who “you” and “brother” refer to.",
+          "source_quotes": [
+            {
+              "id": "s101p0003",
+              "source": "弟弟指着订货单说：“那三百件药是我订的，每件净重至少九百克，不是哥买的。”"
+            },
+            {
+              "id": "s103p0003",
+              "source": "陈岚看着弟弟说：“那三百件是你订的，哥只帮你搬过，别把订单记在他名下。”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0103p0003",
+              "target": "Trần Lam nhìn em trai nói: “Ba trăm món đó là do em đặt, anh chỉ từng giúp em khuân thôi, đừng ghi đơn hàng vào tên anh ấy.”"
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        }
+      ],
+      "metrics": {
+        "rows_reviewed": 52,
+        "obligations_pass": 23,
+        "obligations_fail": 1,
+        "obligations_ambiguous": 1,
+        "semantic_error_paragraphs": 1,
+        "critical": 0,
+        "major": 0,
+        "minor": 1,
+        "semantic_error_paragraphs_per100": 1.92,
+        "style_error_paragraphs": 6,
+        "unit_ambiguous_paragraphs": 0,
+        "wrong_actor_paragraphs": 0,
+        "wrong_number_amount_paragraphs": 0,
+        "relation_type_error_paragraphs": 0,
+        "relation_type_ambiguous_paragraphs": 1
+      },
+      "continuity_assessment": "Explicit actors, loan directions and amounts remain coherent in all scored spans. No narrator cậu/hắn drift found in these candidates."
+    },
+    "V2-R": {
+      "target_sha256": "aa85110d49a41c363f7d90b198a88b8a80565c2522b6244bf92ca239e517e71b",
+      "paragraphs": [
+        {
+          "id": "c0102p0001",
+          "source_quote": "第二天早上，陈舟找陈默借了五百元。姐姐昨天借出的两万元仍没收回。",
+          "target_quote": "Sáng hôm sau, Trần Chu tìm Trần Mặc mượn năm trăm tệ. Hai vạn tệ mà chị gái cho mượn hôm qua vẫn chưa thu hồi về.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0102p0002",
+          "source_quote": "陈岚回到厂里后接到电话。她听到弟弟在另一头问：“姐，哥还在家吗？”",
+          "target_quote": "Sau khi Trần Lam trở về xưởng thì nhận được điện thoại. Chị nghe thấy em trai ở đầu dây bên kia hỏi: “Chị, anh còn ở nhà không?”",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0102p0003",
+          "source_quote": "陈默算过账后，又借了两千元付房租；他昨晚的拒绝只说了今晚，并没有答应以后永远不借。",
+          "target_quote": "Sau khi tính toán sổ sách, Trần Mặc lại mượn thêm hai nghìn tệ để trả tiền thuê nhà; lời từ chối tối qua của anh chỉ nói tối nay, chứ không hề đồng ý sau này sẽ mãi mãi không mượn.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "FAIL",
+          "findings": [
+            {
+              "kind": "style",
+              "severity": "minor",
+              "reason": "“lời từ chối tối qua ... chỉ nói tối nay” retains deictic wording without quote marks, making the tonight-only refusal less clear. The source itself uses 昨晚/今晚 this way; the following clause preserves the non-permanent refusal, so no proved chronology inversion is counted."
+            }
+          ],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0102p0004",
+          "source_quote": "陈舟把三百件药送回仓库，管理员逐件称重，没有一件低于九百克。",
+          "target_quote": "Trần Chu chuyển ba trăm kiện thuốc về lại kho, người quản lý cân từng kiện một, không có kiện nào dưới chín trăm gam.",
+          "semantic_status": "AMBIGUOUS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "AMBIGUOUS",
+          "style_status": "PASS",
+          "findings": [
+            {
+              "kind": "unit_ambiguity",
+              "severity": null,
+              "reason": "件 counts individual goods, but source does not fix packaging. kiện adds a packaging interpretation; possible in the warehouse context but not compelled. Keep the prior evaluator qualification and do not claim a proved quantity error."
+            }
+          ],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        }
+      ],
+      "obligations": [
+        {
+          "id": "synthetic-new-transfer",
+          "category": "cross_chapter_loan",
+          "status": "PASS",
+          "obligation": "Chen Zhou borrows 500 from Chen Mo; sister still has not received her separate 20,000 back. Keep loan direction and state distinct.",
+          "source_quotes": [
+            {
+              "id": "s101p0002",
+              "source": "陈岚把两万元借给陈默，说好不收利息，但必须在三十天内归还。"
+            },
+            {
+              "id": "s102p0001",
+              "source": "第二天早上，陈舟找陈默借了五百元。姐姐昨天借出的两万元仍没收回。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0102p0001",
+              "target": "Sáng hôm sau, Trần Chu tìm Trần Mặc mượn năm trăm tệ. Hai vạn tệ mà chị gái cho mượn hôm qua vẫn chưa thu hồi về."
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "synthetic-pronoun",
+          "category": "pronoun",
+          "status": "PASS",
+          "obligation": "The woman answering the phone is Chen Lan. Younger brother asks whether Chen Mo is still home. Do not attach the female pronoun to a brother.",
+          "source_quotes": [
+            {
+              "id": "s101p0001",
+              "source": "陈默有一个姐姐陈岚，还有一个弟弟陈舟。三人吃完晚饭，坐在小客厅里算账。"
+            },
+            {
+              "id": "s102p0002",
+              "source": "陈岚回到厂里后接到电话。她听到弟弟在另一头问：“姐，哥还在家吗？”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0102p0002",
+              "target": "Sau khi Trần Lam trở về xưởng thì nhận được điện thoại. Chị nghe thấy em trai ở đầu dây bên kia hỏi: “Chị, anh còn ở nhà không?”"
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "synthetic-stale-state",
+          "category": "temporal_update",
+          "status": "PASS",
+          "obligation": "Next morning Chen Mo borrows another 2,000 for rent. This does not contradict the refusal applying only to last night. Keep the new loan distinct from sister’s 20,000.",
+          "source_quotes": [
+            {
+              "id": "s101p0004",
+              "source": "陈默摇头：“今晚不再借了。明天有没有必要借，我得先算清楚。”"
+            },
+            {
+              "id": "s102p0003",
+              "source": "陈默算过账后，又借了两千元付房租；他昨晚的拒绝只说了今晚，并没有答应以后永远不借。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0102p0003",
+              "target": "Sau khi tính toán sổ sách, Trần Mặc lại mượn thêm hai nghìn tệ để trả tiền thuê nhà; lời từ chối tối qua của anh chỉ nói tối nay, chứ không hề đồng ý sau này sẽ mãi mãi không mượn."
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "synthetic-comparison-return",
+          "category": "quantity_and_negation",
+          "status": "PASS",
+          "obligation": "There are 300 units, each not below 900 grams. All are at least 900, not necessarily greater than 900.",
+          "source_quotes": [
+            {
+              "id": "s101p0003",
+              "source": "弟弟指着订货单说：“那三百件药是我订的，每件净重至少九百克，不是哥买的。”"
+            },
+            {
+              "id": "s102p0004",
+              "source": "陈舟把三百件药送回仓库，管理员逐件称重，没有一件低于九百克。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0102p0004",
+              "target": "Trần Chu chuyển ba trăm kiện thuốc về lại kho, người quản lý cân từng kiện một, không có kiện nào dưới chín trăm gam."
+            }
+          ],
+          "reason": "300 and the inclusive at-least900g meaning are retained. Packaging kiện remains unsettled; this numeric/comparison obligation passes under the disclosed unit qualification."
+        }
+      ],
+      "metrics": {
+        "rows_reviewed": 4,
+        "obligations_pass": 4,
+        "obligations_fail": 0,
+        "obligations_ambiguous": 0,
+        "semantic_error_paragraphs": 0,
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "semantic_error_paragraphs_per100": 0.0,
+        "style_error_paragraphs": 1,
+        "unit_ambiguous_paragraphs": 1,
+        "wrong_actor_paragraphs": 0,
+        "wrong_number_amount_paragraphs": 0,
+        "relation_type_error_paragraphs": 0
+      },
+      "continuity_assessment": "Explicit actors, loan directions and amounts remain coherent in all scored spans. No narrator cậu/hắn drift found in these candidates."
+    },
+    "CTRL-Y": {
+      "target_sha256": "c3c288c6d6c0877ff820c1ad5f605c848b37acf08fddde3127fb012bfa3c73f3",
+      "paragraphs": [
+        {
+          "id": "c0002p0053",
+          "source_quote": "“爹！”",
+          "target_quote": "\"Bố ơi!\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0054",
+          "source_quote": "砰的一声跪倒在地上，白真真抱着张羽的大腿说道：“刚刚食堂人太多，我不好意思说。”",
+          "target_quote": "Bịch một tiếng quỳ sụp xuống đất, Bạch Chân Chân ôm chặt đùi Trương Vũ nói: \"Vừa nãy nhà ăn đông người quá, tôi ngại không dám nói.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0055",
+          "source_quote": "“你借点钱给我吧，我小贷逾期快一个月了！我给你跪下……”",
+          "target_quote": "\"Cậu cho tôi mượn ít tiền đi, khoản vay nhỏ của tôi quá hạn gần một tháng rồi! Tôi quỳ xuống xin cậu luôn đấy...\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0056",
+          "source_quote": "望着眼前这一幕的张羽心中暗骂一声：“这什么破学校啊，年级第一和年级第十都是贷款装逼是吧？”",
+          "target_quote": "Nhìn cảnh tượng trước mắt, Trương Vũ thầm mắng một tiếng trong lòng: \"Cái trường rách này là thế nào vậy, hạng nhất toàn khối với hạng mười toàn khối đều vay tiền để làm màu đấy à?\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0057",
+          "source_quote": "而张羽此刻也已经回忆了起来，他和白真真相互认识并非因为什么学霸圈子，而是因为对方是自己上线，给自己推销过小贷。",
+          "target_quote": "Lúc này Trương Vũ cũng đã nhớ lại, cậu và Bạch Chân Chân quen biết nhau vốn chẳng phải vì giới học bá gì, mà là vì đối phương là tuyến trên của mình, từng tiếp thị khoản vay nhỏ cho cậu.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0058",
+          "source_quote": "再次隆重介绍，张羽的同班同学白真真，和张羽是一起分享各大平台借贷情报的好兄弟，有着一起四处借钱的坚固友谊。",
+          "target_quote": "Xin long trọng giới thiệu lại, bạn cùng lớp của Trương Vũ là Bạch Chân Chân, người anh em tốt cùng Trương Vũ chia sẻ thông tin vay mượn trên các nền tảng lớn, có tình bạn bền chặt qua những lần cùng nhau chạy vạy vay tiền khắp nơi.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0059",
+          "source_quote": "想到对方刚刚在食堂那冷冰冰的扑克脸下面，是在不断想着如何跟自己借钱，张羽就无奈摇了摇头：“你先给我松开，我哪有钱借给你？”",
+          "target_quote": "Nghĩ đến việc bên dưới khuôn mặt vô cảm lạnh tanh vừa rồi ở nhà ăn là cái đầu đang không ngừng tính cách mượn tiền mình, Trương Vũ liền bất đắc dĩ lắc đầu: \"Cậu buông tôi ra trước đã, tôi làm gì có tiền mà cho cậu mượn?\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0060",
+          "source_quote": "白真真摇头说道：“你才年级第十，能花多少钱？申请的贷款一定比我少的多吧？”",
+          "target_quote": "Bạch Chân Chân lắc đầu nói: \"Cậu mới đứng thứ mười toàn khối thì tiêu được bao nhiêu tiền chứ? Khoản vay cậu đăng ký chắc chắn ít hơn tôi nhiều đúng không?\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0061",
+          "source_quote": "说着，她有些僵硬又羞涩地说道：“只要帮我还了债，你想做什么都行。”",
+          "target_quote": "Nói rồi, cô có chút gượng gạo lại e thẹn nói: \"Chỉ cần giúp tôi trả nợ, cậu muốn làm gì cũng được.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0062",
+          "source_quote": "张羽闻言目光一亮，望着原本冷冰冰的白真真此刻那面若桃花的模样，只觉得别有一番魅力。",
+          "target_quote": "Trương Vũ nghe vậy thì hai mắt sáng lên, nhìn Bạch Chân Chân vốn lạnh như băng lúc này lại có dáng vẻ mặt ửng hồng như hoa đào, chỉ thấy có một sức hút rất riêng.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0063",
+          "source_quote": "他上上下下看着白真真的身子，问道：“真什么都行？”",
+          "target_quote": "Cậu nhìn từ trên xuống dưới người Bạch Chân Chân, hỏi: \"Thật sự làm gì cũng được à?\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0064",
+          "source_quote": "白真真轻咬嘴唇，点了点头：“嗯。”",
+          "target_quote": "Bạch Chân Chân khẽ cắn môi, gật đầu: \"Ừm.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0065",
+          "source_quote": "张羽：“那我能把你抵押了吗？”",
+          "target_quote": "Trương Vũ: \"Vậy tôi đem cậu đi thế chấp được không?\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0066",
+          "source_quote": "白真真松开了手，瞪着张羽道：“羽子，你真没钱了？”",
+          "target_quote": "Bạch Chân Chân buông tay ra, trừng mắt nhìn Trương Vũ nói: \"Vũ Tử, cậu thật sự hết tiền rồi à?\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0067",
+          "source_quote": "张羽拿出手机亮了亮余额和逾期的信息。",
+          "target_quote": "Trương Vũ lấy điện thoại ra, giơ thông tin số dư và nợ quá hạn cho cô xem.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0002p0068",
+          "source_quote": "白真真站了起来，拍了拍自己满是尘土的裤腿，然后有些不可思议地看着张羽道：“你欠了七十万？就算是大学毕业以后恐怕也要工作很久才能还完吧。”",
+          "target_quote": "Bạch Chân Chân đứng dậy, phủi phủi ống quần bám đầy bụi đất của mình, rồi nhìn Trương Vũ với vẻ không thể tin nổi: \"Cậu nợ bảy mươi vạn á? Kể cả sau khi tốt nghiệp đại học thì e rằng cũng phải đi làm rất lâu mới trả hết được đấy.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0076",
+          "source_quote": "周天翊说道：“王海后来解释他没做，砰砰砰的声音是他在教训不听话的学生。”",
+          "target_quote": "Chu Thiên Dực nói: \"Sau đó Vương Hải giải thích rằng thầy ta không làm, tiếng bịch bịch bịch là thầy ta đang dạy dỗ học sinh không nghe lời.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0077",
+          "source_quote": "“后来我问了前两届的学生，原来王海早就有体罚差生的习惯。”",
+          "target_quote": "\"Sau này tôi hỏi học sinh hai khóa trước mới biết, hóa ra Vương Hải từ lâu đã có thói quen phạt thể xác học sinh kém.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0078",
+          "source_quote": "“特别是成绩下滑还不买他药的话，更是会被他带头霸凌。”",
+          "target_quote": "\"Đặc biệt là những ai điểm số tụt dốc mà còn không mua thuốc của thầy ta thì càng bị thầy ta cầm đầu bắt nạt.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0079",
+          "source_quote": "“听说前几年还有一个学生被他逼得跳楼了。”",
+          "target_quote": "\"Nghe nói mấy năm trước còn có một học sinh bị thầy ta ép đến mức phải nhảy lầu.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0080",
+          "source_quote": "听到跳楼两个字，张羽的目光骤然间一凝：“王海这都没事？”",
+          "target_quote": "Nghe thấy hai chữ nhảy lầu, ánh mắt Trương Vũ bỗng ngưng lại: \"Vương Hải thế mà cũng không sao ư?\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "FAIL",
+          "findings": [
+            {
+              "kind": "style",
+              "severity": "minor",
+              "reason": "“ánh mắt ... ngưng lại” is an awkward literal collocation; the focused reaction remains recognisable."
+            }
+          ],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0081",
+          "source_quote": "周天翊不以为然道：“王海的教学成绩一直很好，是嵩阳高中的王牌体育老师，教出过三个高考时肉体强度全市第一的学生，有人说他有大宗门一些还在实验室里的药物的渠道。”",
+          "target_quote": "Chu Thiên Dực chẳng cho là đúng nói: \"Thành tích giảng dạy của Vương Hải trước giờ luôn rất tốt, là giáo viên thể dục át chủ bài của Trường cấp ba Tung Dương, từng đào tạo ra ba học sinh có cường độ thể xác đứng đầu toàn thành phố trong kỳ thi đại học, có người nói thầy ta có mối lấy được một số loại thuốc còn đang trong phòng thí nghiệm của đại tông môn.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "FAIL",
+          "findings": [
+            {
+              "kind": "style",
+              "severity": "minor",
+              "reason": "“không/chẳng cho là đúng nói” is a literal, objectless stance expression and awkward predicate construction. It is not counted as a proved semantic inversion."
+            }
+          ],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0082",
+          "source_quote": "“就算学校真的不想用他了，大部分学生和家长也不会同意，他们都指着王海买药，帮他们提高肉体强度呢。”",
+          "target_quote": "\"Kể cả nhà trường thật sự không muốn dùng thầy ta nữa thì phần lớn học sinh và phụ huynh cũng sẽ không đồng ý, bọn họ đều trông cậy vào việc mua thuốc từ Vương Hải để giúp nâng cao cường độ thể xác đấy.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0083",
+          "source_quote": "说着，他看向张羽告诫道：“你要是一直不买药，成绩又上不去，恐怕也会被他整。”",
+          "target_quote": "Nói rồi, cậu nhìn sang Trương Vũ nhắc nhở: \"Cậu mà cứ không chịu mua thuốc, điểm số lại không lên được, thì e là cũng sẽ bị thầy ta chỉnh đấy.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0084",
+          "source_quote": "看着眉头皱起的张羽，周天翊好奇道：“我说……你小子以前扎针也不少啊，怎么突然不买了？该不会是没钱了吧？要不要我借点给你？”",
+          "target_quote": "Thấy Trương Vũ nhíu mày, Chu Thiên Dực tò mò hỏi: \"Tôi bảo này... thằng nhóc cậu trước đây tiêm thuốc cũng đâu có ít, sao đột nhiên không mua nữa thế? Không phải là hết tiền rồi đấy chứ? Có cần tôi cho mượn một ít không?\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "FAIL",
+          "findings": [
+            {
+              "kind": "style",
+              "severity": "minor",
+              "reason": "“thằng nhóc cậu” stacks address forms awkwardly in otherwise tôi/cậu dialogue."
+            }
+          ],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0085",
+          "source_quote": "感受到对方眼中的真诚，张羽却无奈地笑了笑：“不用。”",
+          "target_quote": "Cảm nhận được sự chân thành trong mắt đối phương, Trương Vũ lại bất đắc dĩ cười cười: \"Không cần đâu.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0086",
+          "source_quote": "“真不用？”周天翊：“要不你今天先扎我的？”",
+          "target_quote": "\"Thật sự không cần à?\" Chu Thiên Dực: \"Hay là hôm nay cậu tiêm mũi của tôi trước đi?\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0087",
+          "source_quote": "张羽自然连连摇头，他真怕自己再多扎几针就直接暴毙了。",
+          "target_quote": "Trương Vũ đương nhiên liên tục lắc đầu, cậu thật sự sợ bản thân tiêm thêm mấy mũi nữa là đột tử tại chỗ luôn.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0088",
+          "source_quote": "根据他脑海中的记忆，这世上可不缺因为药物负荷过大而重创、残疾甚至是死亡的人，甚至嵩阳高中每年都有因为用药过猛而重伤的人。",
+          "target_quote": "Theo ký ức trong đầu cậu, thế giới này chẳng hề thiếu những người vì gánh nặng thuốc men quá mức mà bị tổn thương nặng nề, tàn phế thậm chí là tử vong, ngay cả Trường cấp ba Tung Dương mỗi năm đều có người trọng thương do dùng thuốc quá liều.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0089",
+          "source_quote": "可就算如此，追求肉体强度而用药的学生仍旧是络绎不绝。",
+          "target_quote": "Thế nhưng dẫu vậy, những học sinh dùng thuốc để theo đuổi cường độ thể xác vẫn cứ nối liền không dứt.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "FAIL",
+          "findings": [
+            {
+              "kind": "style",
+              "severity": "major",
+              "reason": "“những học sinh ... vẫn cứ nối liền không dứt” is an unnatural collocation for a steady stream of students. Broad participation is understandable."
+            }
+          ],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0090",
+          "source_quote": "而原身从上周开始便已经有了不堪重负的迹象。",
+          "target_quote": "Mà nguyên thân từ tuần trước đã có dấu hiệu không chịu nổi gánh nặng.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0003p0091",
+          "source_quote": "想到原身不但欠下七十万巨债，还给他留下这么一具肉身，张羽心中便再次哀叹。",
+          "target_quote": "Nghĩ đến việc nguyên thân không chỉ gánh món nợ khổng lồ bảy mươi vạn, mà còn để lại cho cậu một nhục thân như thế này, trong lòng Trương Vũ lại một lần nữa than thở.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0039",
+          "source_quote": "先是打给了张羽的母亲，接着又打给了父亲，却全都是无人接听的状态。",
+          "target_quote": "Đầu tiên là gọi cho mẹ của Trương Vũ, tiếp đó lại gọi cho bố, nhưng tất cả đều ở trạng thái không có người nghe máy.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0040",
+          "source_quote": "回忆着脑海中张羽父母、姐姐的相关记忆，他最终还是无奈地打给了姐姐。",
+          "target_quote": "Hồi tưởng lại những ký ức liên quan đến bố mẹ và chị gái của Trương Vũ trong đầu, cuối cùng cậu vẫn đành bất đắc dĩ gọi cho chị gái.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0041",
+          "source_quote": "“张羽？”",
+          "target_quote": "\"Trương Vũ?\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0042",
+          "source_quote": "听着手机另一头那略显冰冷的声音，张羽硬着头皮说道：“姐，能不能借我点钱？”",
+          "target_quote": "Nghe giọng nói có phần lạnh lùng ở đầu dây bên kia, Trương Vũ bấm bụng nói: \"Chị, có thể cho em mượn ít tiền được không?\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0043",
+          "source_quote": "一阵沉默中，就在张羽以为对方会挂了电话的时候，从手机中传来声音：“你小学一年级的时候，我就和爸妈说了，你没有仙道天赋，往这条路上走完全是浪费时间和钱。”",
+          "target_quote": "Trong một hồi im lặng, ngay khi Trương Vũ nghĩ rằng đối phương sẽ cúp máy thì từ điện thoại truyền đến giọng nói: \"Hồi em học lớp một tiểu học, chị đã nói với bố mẹ rồi, em không có thiên phú tiên đạo, đi theo con đường này hoàn toàn là lãng phí thời gian và tiền bạc.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0044",
+          "source_quote": "“分开后，老妈却相信了你的妄想，硬着头皮想要一个人供你上高中，甚至她前不久还找我们来借钱，想要动我的补课费。”",
+          "target_quote": "\"Sau khi chia tay, mẹ lại tin vào ảo tưởng của em, cắn răng muốn một mình nuôi em học cấp ba, thậm chí cách đây không lâu bà còn tìm đến chỗ bọn chị vay tiền, muốn đụng vào cả tiền học thêm của chị.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0045",
+          "source_quote": "“呵，结果你这不自量力的蠢货还要借贷修仙，为了在高中学习，你现在已经欠了一屁股债了吧？”",
+          "target_quote": "\"Hừ, kết quả là cái đồ ngu xuẩn không biết tự lượng sức mình như em lại còn vay nợ để tu tiên, để học ở trường cấp ba, bây giờ em đã nợ ngập đầu rồi đúng không?\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0046",
+          "source_quote": "面对对方的指责，张羽却无话可说，因为根据他脑海中整理的记忆来看，对方说的并没有错。",
+          "target_quote": "Đối mặt với lời trách móc của đối phương, Trương Vũ lại không thể nói được lời nào, bởi vì căn cứ theo những ký ức được sắp xếp lại trong đầu thì đối phương nói không hề sai.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0047",
+          "source_quote": "父母各自带着他们姐弟俩分开以后，明知道母亲的收入不足，家里没钱，但原本的张羽却太过不自量力，最后硬着头皮撸小贷也要修仙，一路以贷养贷到现在。",
+          "target_quote": "Sau khi bố mẹ mỗi người dẫn theo một đứa trong hai chị em tách ra, dù biết rõ thu nhập của mẹ không đủ, trong nhà không có tiền, nhưng Trương Vũ trước kia lại quá không biết tự lượng sức, cuối cùng bấm bụng quẹt các khoản vay nhỏ cũng phải tu tiên, một mạch lấy nợ nuôi nợ cho tới tận bây giờ.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "FAIL",
+          "findings": [
+            {
+              "kind": "style",
+              "severity": "minor",
+              "reason": "“quẹt các khoản vay nhỏ” is an awkward lending collocation. It does not assert deliberate evasion, and could be colloquial taking credit, so no semantic default action is counted."
+            }
+          ],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0048",
+          "source_quote": "而母亲也在张羽反复借贷，一次次帮他偿还，又一次次发现窟窿越来越大后，终于离他而去。",
+          "target_quote": "Còn người mẹ, sau khi Trương Vũ liên tục vay mượn, bà hết lần này đến lần khác giúp cậu trả nợ, rồi lại từng lần phát hiện ra lỗ hổng ngày càng lớn hơn, cuối cùng cũng rời bỏ cậu mà đi.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0049",
+          "source_quote": "手机那头的声音继续传来。",
+          "target_quote": "Giọng nói ở đầu dây bên kia điện thoại tiếp tục truyền đến.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0050",
+          "source_quote": "“这是我们最后一次联系了，你欠下来的债你自己去还。”",
+          "target_quote": "\"Đây là lần cuối cùng chúng ta liên lạc, món nợ em đã vay thì tự em đi mà trả.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0051",
+          "source_quote": "“再给你一个忠告，退学然后去打工还债吧。”",
+          "target_quote": "\"Cho em thêm một lời khuyên nữa, thôi học rồi đi làm thuê trả nợ đi.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0052",
+          "source_quote": "“看在曾经是一家人的份上，我一会打给你500，这些钱足够你在饿死前找到一份工作了。”",
+          "target_quote": "\"Nể tình từng là người một nhà, lát nữa chị sẽ chuyển cho em 500, số tiền này đủ để em tìm được một công việc trước khi chết đói.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0053",
+          "source_quote": "听着对方电话挂断的声音，张羽无奈地叹了口气：“还好，至少也要到了500。”",
+          "target_quote": "Nghe tiếng cúp máy của đối phương, Trương Vũ bất đắc dĩ thở dài một tiếng: \"Vẫn may, ít nhất cũng xin được 500.\"",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        },
+        {
+          "id": "c0004p0054",
+          "source_quote": "算上白真真给的500，张羽现在的存款终于突破1000。",
+          "target_quote": "Tính thêm 500 mà Bạch Chân Chân đưa, tiền tiết kiệm hiện tại của Trương Vũ cuối cùng cũng vượt mốc 1000.",
+          "semantic_status": "PASS",
+          "semantic_severity": null,
+          "context_referent": "PASS",
+          "relation_type": "PASS",
+          "number_amount": "PASS",
+          "unit": "PASS",
+          "style_status": "PASS",
+          "findings": [],
+          "review_note": "Reviewed against full original Chinese and earlier source state. No additional supported semantic defect found."
+        }
+      ],
+      "obligations": [
+        {
+          "id": "heldout-fake-father",
+          "category": "address_relation",
+          "status": "PASS",
+          "obligation": "爹 is a desperate humorous address by Bai to Zhang while borrowing. It does not establish biological fatherhood.",
+          "source_quotes": [
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0053",
+              "source": "“爹！”"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0054",
+              "source": "砰的一声跪倒在地上，白真真抱着张羽的大腿说道：“刚刚食堂人太多，我不好意思说。”"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0055",
+              "source": "“你借点钱给我吧，我小贷逾期快一个月了！我给你跪下……”"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0057",
+              "source": "而张羽此刻也已经回忆了起来，他和白真真相互认识并非因为什么学霸圈子，而是因为对方是自己上线，给自己推销过小贷。"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0058",
+              "source": "再次隆重介绍，张羽的同班同学白真真，和张羽是一起分享各大平台借贷情报的好兄弟，有着一起四处借钱的坚固友谊。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0002p0053",
+              "target": "\"Bố ơi!\""
+            },
+            {
+              "id": "c0002p0054",
+              "target": "Bịch một tiếng quỳ sụp xuống đất, Bạch Chân Chân ôm chặt đùi Trương Vũ nói: \"Vừa nãy nhà ăn đông người quá, tôi ngại không dám nói.\""
+            },
+            {
+              "id": "c0002p0055",
+              "target": "\"Cậu cho tôi mượn ít tiền đi, khoản vay nhỏ của tôi quá hạn gần một tháng rồi! Tôi quỳ xuống xin cậu luôn đấy...\""
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-loan-overdue",
+          "category": "loan_time",
+          "status": "PASS",
+          "obligation": "Bai asks Zhang to lend money. Her small loan has been overdue for almost one month. Preserve direction and duration.",
+          "source_quotes": [
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0055",
+              "source": "“你借点钱给我吧，我小贷逾期快一个月了！我给你跪下……”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0002p0055",
+              "target": "\"Cậu cho tôi mượn ít tiền đi, khoản vay nhỏ của tôi quá hạn gần một tháng rồi! Tôi quỳ xuống xin cậu luôn đấy...\""
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-ranks",
+          "category": "rank_reasoning",
+          "status": "PASS",
+          "obligation": "Bai ranks first and Zhang tenth. Bai assumes ranking tenth entails spending and borrowing less; this is her reasoning, not a proven narrator fact.",
+          "source_quotes": [
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0056",
+              "source": "望着眼前这一幕的张羽心中暗骂一声：“这什么破学校啊，年级第一和年级第十都是贷款装逼是吧？”"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0060",
+              "source": "白真真摇头说道：“你才年级第十，能花多少钱？申请的贷款一定比我少的多吧？”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0002p0056",
+              "target": "Nhìn cảnh tượng trước mắt, Trương Vũ thầm mắng một tiếng trong lòng: \"Cái trường rách này là thế nào vậy, hạng nhất toàn khối với hạng mười toàn khối đều vay tiền để làm màu đấy à?\""
+            },
+            {
+              "id": "c0002p0060",
+              "target": "Bạch Chân Chân lắc đầu nói: \"Cậu mới đứng thứ mười toàn khối thì tiêu được bao nhiêu tiền chứ? Khoản vay cậu đăng ký chắc chắn ít hơn tôi nhiều đúng không?\""
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-original-relation",
+          "category": "relation_reveal",
+          "status": "PASS",
+          "obligation": "They know each other through loan promotion and sharing borrowing information, not an elite student circle. 好兄弟 establishes neither biological kinship nor masculine gender.",
+          "source_quotes": [
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0057",
+              "source": "而张羽此刻也已经回忆了起来，他和白真真相互认识并非因为什么学霸圈子，而是因为对方是自己上线，给自己推销过小贷。"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0058",
+              "source": "再次隆重介绍，张羽的同班同学白真真，和张羽是一起分享各大平台借贷情报的好兄弟，有着一起四处借钱的坚固友谊。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0002p0057",
+              "target": "Lúc này Trương Vũ cũng đã nhớ lại, cậu và Bạch Chân Chân quen biết nhau vốn chẳng phải vì giới học bá gì, mà là vì đối phương là tuyến trên của mình, từng tiếp thị khoản vay nhỏ cho cậu."
+            },
+            {
+              "id": "c0002p0058",
+              "target": "Xin long trọng giới thiệu lại, bạn cùng lớp của Trương Vũ là Bạch Chân Chân, người anh em tốt cùng Trương Vũ chia sẻ thông tin vay mượn trên các nền tảng lớn, có tình bạn bền chặt qua những lần cùng nhau chạy vạy vay tiền khắp nơi."
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-unavailable-loan",
+          "category": "negation",
+          "status": "PASS",
+          "obligation": "Zhang says he has no money to lend. Do not turn this into refusal despite wealth or a promise of a loan.",
+          "source_quotes": [
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0059",
+              "source": "想到对方刚刚在食堂那冷冰冰的扑克脸下面，是在不断想着如何跟自己借钱，张羽就无奈摇了摇头：“你先给我松开，我哪有钱借给你？”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0002p0059",
+              "target": "Nghĩ đến việc bên dưới khuôn mặt vô cảm lạnh tanh vừa rồi ở nhà ăn là cái đầu đang không ngừng tính cách mượn tiền mình, Trương Vũ liền bất đắc dĩ lắc đầu: \"Cậu buông tôi ra trước đã, tôi làm gì có tiền mà cho cậu mượn?\""
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-conditional-offer",
+          "category": "dialogue_satire",
+          "status": "PASS",
+          "obligation": "Bai conditionally offers anything for help paying her debt. Zhang asks whether he can mortgage her. Preserve speakers and the unexecuted joke.",
+          "source_quotes": [
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0061",
+              "source": "说着，她有些僵硬又羞涩地说道：“只要帮我还了债，你想做什么都行。”"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0063",
+              "source": "他上上下下看着白真真的身子，问道：“真什么都行？”"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0064",
+              "source": "白真真轻咬嘴唇，点了点头：“嗯。”"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0065",
+              "source": "张羽：“那我能把你抵押了吗？”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0002p0061",
+              "target": "Nói rồi, cô có chút gượng gạo lại e thẹn nói: \"Chỉ cần giúp tôi trả nợ, cậu muốn làm gì cũng được.\""
+            },
+            {
+              "id": "c0002p0063",
+              "target": "Cậu nhìn từ trên xuống dưới người Bạch Chân Chân, hỏi: \"Thật sự làm gì cũng được à?\""
+            },
+            {
+              "id": "c0002p0064",
+              "target": "Bạch Chân Chân khẽ cắn môi, gật đầu: \"Ừm.\""
+            },
+            {
+              "id": "c0002p0065",
+              "target": "Trương Vũ: \"Vậy tôi đem cậu đi thế chấp được không?\""
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-debt700000",
+          "category": "amount_owner",
+          "status": "PASS",
+          "obligation": "The 700,000 debt belongs to Zhang. Bai expresses surprise and estimates a long repayment period after college. Do not attach the amount to Bai or convert currency units.",
+          "source_quotes": [
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0067",
+              "source": "张羽拿出手机亮了亮余额和逾期的信息。"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0068",
+              "source": "白真真站了起来，拍了拍自己满是尘土的裤腿，然后有些不可思议地看着张羽道：“你欠了七十万？就算是大学毕业以后恐怕也要工作很久才能还完吧。”"
+            },
+            {
+              "chapter": 1,
+              "paragraph_id": "c0001p0181",
+              "source": "只因为他发现利滚利下来，张羽已经欠了各大平台总共七十多万的钱。"
+            },
+            {
+              "chapter": 1,
+              "paragraph_id": "c0001p0182",
+              "source": "而再看了看自己的账户，总共只剩下五十多块钱了。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0002p0067",
+              "target": "Trương Vũ lấy điện thoại ra, giơ thông tin số dư và nợ quá hạn cho cô xem."
+            },
+            {
+              "id": "c0002p0068",
+              "target": "Bạch Chân Chân đứng dậy, phủi phủi ống quần bám đầy bụi đất của mình, rồi nhìn Trương Vũ với vẻ không thể tin nổi: \"Cậu nợ bảy mươi vạn á? Kể cả sau khi tốt nghiệp đại học thì e rằng cũng phải đi làm rất lâu mới trả hết được đấy.\""
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-nickname",
+          "category": "name",
+          "status": "PASS",
+          "obligation": "羽子 refers to Zhang Yu, not a new character. Bai releases her hands and speaks.",
+          "source_quotes": [
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0054",
+              "source": "砰的一声跪倒在地上，白真真抱着张羽的大腿说道：“刚刚食堂人太多，我不好意思说。”"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0066",
+              "source": "白真真松开了手，瞪着张羽道：“羽子，你真没钱了？”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0002p0066",
+              "target": "Bạch Chân Chân buông tay ra, trừng mắt nhìn Trương Vũ nói: \"Vũ Tử, cậu thật sự hết tiền rồi à?\""
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-reported-violence",
+          "category": "epistemic_status",
+          "status": "PASS",
+          "obligation": "Zhou reports Wang’s claim, describes asking former students, and reports a hearsay jumping incident. Preserve reported status instead of inventing independently confirmed narration.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0059",
+              "source": "就在这时，一名少年走了过来，凑到张羽身旁问道：“王海又跟你推销了？”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0062",
+              "source": "“他是……周天翊。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0076",
+              "source": "周天翊说道：“王海后来解释他没做，砰砰砰的声音是他在教训不听话的学生。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0077",
+              "source": "“后来我问了前两届的学生，原来王海早就有体罚差生的习惯。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0079",
+              "source": "“听说前几年还有一个学生被他逼得跳楼了。”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0076",
+              "target": "Chu Thiên Dực nói: \"Sau đó Vương Hải giải thích rằng thầy ta không làm, tiếng bịch bịch bịch là thầy ta đang dạy dỗ học sinh không nghe lời.\""
+            },
+            {
+              "id": "c0003p0077",
+              "target": "\"Sau này tôi hỏi học sinh hai khóa trước mới biết, hóa ra Vương Hải từ lâu đã có thói quen phạt thể xác học sinh kém.\""
+            },
+            {
+              "id": "c0003p0078",
+              "target": "\"Đặc biệt là những ai điểm số tụt dốc mà còn không mua thuốc của thầy ta thì càng bị thầy ta cầm đầu bắt nạt.\""
+            },
+            {
+              "id": "c0003p0079",
+              "target": "\"Nghe nói mấy năm trước còn có một học sinh bị thầy ta ép đến mức phải nhảy lầu.\""
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-teacher-protection",
+          "category": "social_cause",
+          "status": "PASS",
+          "obligation": "Zhang asks how Wang escapes consequences. Zhou explains good results, three city top students and dependence on his drugs. Do not turn this into moral endorsement by the narrator.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0080",
+              "source": "听到跳楼两个字，张羽的目光骤然间一凝：“王海这都没事？”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0081",
+              "source": "周天翊不以为然道：“王海的教学成绩一直很好，是嵩阳高中的王牌体育老师，教出过三个高考时肉体强度全市第一的学生，有人说他有大宗门一些还在实验室里的药物的渠道。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0082",
+              "source": "“就算学校真的不想用他了，大部分学生和家长也不会同意，他们都指着王海买药，帮他们提高肉体强度呢。”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0080",
+              "target": "Nghe thấy hai chữ nhảy lầu, ánh mắt Trương Vũ bỗng ngưng lại: \"Vương Hải thế mà cũng không sao ư?\""
+            },
+            {
+              "id": "c0003p0081",
+              "target": "Chu Thiên Dực chẳng cho là đúng nói: \"Thành tích giảng dạy của Vương Hải trước giờ luôn rất tốt, là giáo viên thể dục át chủ bài của Trường cấp ba Tung Dương, từng đào tạo ra ba học sinh có cường độ thể xác đứng đầu toàn thành phố trong kỳ thi đại học, có người nói thầy ta có mối lấy được một số loại thuốc còn đang trong phòng thí nghiệm của đại tông môn.\""
+            },
+            {
+              "id": "c0003p0082",
+              "target": "\"Kể cả nhà trường thật sự không muốn dùng thầy ta nữa thì phần lớn học sinh và phụ huynh cũng sẽ không đồng ý, bọn họ đều trông cậy vào việc mua thuốc từ Vương Hải để giúp nâng cao cường độ thể xác đấy.\""
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-conditional-threat",
+          "category": "condition",
+          "status": "PASS",
+          "obligation": "Possible mistreatment is conditional on continuing not to buy medicine and grades not rising. Preserve 恐怕 uncertainty.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0083",
+              "source": "说着，他看向张羽告诫道：“你要是一直不买药，成绩又上不去，恐怕也会被他整。”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0083",
+              "target": "Nói rồi, cậu nhìn sang Trương Vũ nhắc nhở: \"Cậu mà cứ không chịu mua thuốc, điểm số lại không lên được, thì e là cũng sẽ bị thầy ta chỉnh đấy.\""
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-loan-direction",
+          "category": "speaker_negation",
+          "status": "PASS",
+          "obligation": "Zhou offers Zhang money, then his injections for today. Zhang refuses. No actual loan or injection occurs here.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0062",
+              "source": "“他是……周天翊。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0084",
+              "source": "看着眉头皱起的张羽，周天翊好奇道：“我说……你小子以前扎针也不少啊，怎么突然不买了？该不会是没钱了吧？要不要我借点给你？”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0085",
+              "source": "感受到对方眼中的真诚，张羽却无奈地笑了笑：“不用。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0086",
+              "source": "“真不用？”周天翊：“要不你今天先扎我的？”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0087",
+              "source": "张羽自然连连摇头，他真怕自己再多扎几针就直接暴毙了。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0084",
+              "target": "Thấy Trương Vũ nhíu mày, Chu Thiên Dực tò mò hỏi: \"Tôi bảo này... thằng nhóc cậu trước đây tiêm thuốc cũng đâu có ít, sao đột nhiên không mua nữa thế? Không phải là hết tiền rồi đấy chứ? Có cần tôi cho mượn một ít không?\""
+            },
+            {
+              "id": "c0003p0085",
+              "target": "Cảm nhận được sự chân thành trong mắt đối phương, Trương Vũ lại bất đắc dĩ cười cười: \"Không cần đâu.\""
+            },
+            {
+              "id": "c0003p0086",
+              "target": "\"Thật sự không cần à?\" Chu Thiên Dực: \"Hay là hôm nay cậu tiêm mũi của tôi trước đi?\""
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-drug-risk",
+          "category": "cause_scope",
+          "status": "PASS",
+          "obligation": "Zhang fears death from more injections. Overuse can injure, disable or kill; the yearly school cases specified are severe injuries, not all fatal cases.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0087",
+              "source": "张羽自然连连摇头，他真怕自己再多扎几针就直接暴毙了。"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0088",
+              "source": "根据他脑海中的记忆，这世上可不缺因为药物负荷过大而重创、残疾甚至是死亡的人，甚至嵩阳高中每年都有因为用药过猛而重伤的人。"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0089",
+              "source": "可就算如此，追求肉体强度而用药的学生仍旧是络绎不绝。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0087",
+              "target": "Trương Vũ đương nhiên liên tục lắc đầu, cậu thật sự sợ bản thân tiêm thêm mấy mũi nữa là đột tử tại chỗ luôn."
+            },
+            {
+              "id": "c0003p0088",
+              "target": "Theo ký ức trong đầu cậu, thế giới này chẳng hề thiếu những người vì gánh nặng thuốc men quá mức mà bị tổn thương nặng nề, tàn phế thậm chí là tử vong, ngay cả Trường cấp ba Tung Dương mỗi năm đều có người trọng thương do dùng thuốc quá liều."
+            },
+            {
+              "id": "c0003p0089",
+              "target": "Thế nhưng dẫu vậy, những học sinh dùng thuốc để theo đuổi cường độ thể xác vẫn cứ nối liền không dứt."
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-original-body",
+          "category": "identity_time",
+          "status": "PASS",
+          "obligation": "The original body had overload signs starting last week. Current Zhang laments inherited 700,000 debt and a damaged body. No new loan or health cure is asserted.",
+          "source_quotes": [
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0009",
+              "source": "他揉了揉脑袋，感觉无数属于原身的破碎记忆在脑海中起起伏伏，变幻不定。"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0010",
+              "source": "虽然此刻的张羽已经掌握了这具身体，但对于原来的记忆仍旧没有彻底融合，许多细节部分都需要专注去回忆才能想起来。"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0090",
+              "source": "而原身从上周开始便已经有了不堪重负的迹象。"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0091",
+              "source": "想到原身不但欠下七十万巨债，还给他留下这么一具肉身，张羽心中便再次哀叹。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0090",
+              "target": "Mà nguyên thân từ tuần trước đã có dấu hiệu không chịu nổi gánh nặng."
+            },
+            {
+              "id": "c0003p0091",
+              "target": "Nghĩ đến việc nguyên thân không chỉ gánh món nợ khổng lồ bảy mươi vạn, mà còn để lại cho cậu một nhục thân như thế này, trong lòng Trương Vũ lại một lần nữa than thở."
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-zhou-name",
+          "category": "name",
+          "status": "PASS",
+          "obligation": "周天翊 remains Chu Thiên Dực. Do not confuse him with Zhou Wei or a new character.",
+          "source_quotes": [
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0062",
+              "source": "“他是……周天翊。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0083",
+              "source": "说着，他看向张羽告诫道：“你要是一直不买药，成绩又上不去，恐怕也会被他整。”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0084",
+              "source": "看着眉头皱起的张羽，周天翊好奇道：“我说……你小子以前扎针也不少啊，怎么突然不买了？该不会是没钱了吧？要不要我借点给你？”"
+            },
+            {
+              "chapter": 3,
+              "paragraph_id": "c0003p0086",
+              "source": "“真不用？”周天翊：“要不你今天先扎我的？”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0003p0083",
+              "target": "Nói rồi, cậu nhìn sang Trương Vũ nhắc nhở: \"Cậu mà cứ không chịu mua thuốc, điểm số lại không lên được, thì e là cũng sẽ bị thầy ta chỉnh đấy.\""
+            },
+            {
+              "id": "c0003p0084",
+              "target": "Thấy Trương Vũ nhíu mày, Chu Thiên Dực tò mò hỏi: \"Tôi bảo này... thằng nhóc cậu trước đây tiêm thuốc cũng đâu có ít, sao đột nhiên không mua nữa thế? Không phải là hết tiền rồi đấy chứ? Có cần tôi cho mượn một ít không?\""
+            },
+            {
+              "id": "c0003p0086",
+              "target": "\"Thật sự không cần à?\" Chu Thiên Dực: \"Hay là hôm nay cậu tiêm mũi của tôi trước đi?\""
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-unanswered-parents",
+          "category": "speaker_relation",
+          "status": "PASS",
+          "obligation": "Mother and father do not answer. The next speaker is the older sister, not the mother; 张羽？ is her reply.",
+          "source_quotes": [
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0039",
+              "source": "先是打给了张羽的母亲，接着又打给了父亲，却全都是无人接听的状态。"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0040",
+              "source": "回忆着脑海中张羽父母、姐姐的相关记忆，他最终还是无奈地打给了姐姐。"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0041",
+              "source": "“张羽？”"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0042",
+              "source": "听着手机另一头那略显冰冷的声音，张羽硬着头皮说道：“姐，能不能借我点钱？”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0004p0039",
+              "target": "Đầu tiên là gọi cho mẹ của Trương Vũ, tiếp đó lại gọi cho bố, nhưng tất cả đều ở trạng thái không có người nghe máy."
+            },
+            {
+              "id": "c0004p0040",
+              "target": "Hồi tưởng lại những ký ức liên quan đến bố mẹ và chị gái của Trương Vũ trong đầu, cuối cùng cậu vẫn đành bất đắc dĩ gọi cho chị gái."
+            },
+            {
+              "id": "c0004p0041",
+              "target": "\"Trương Vũ?\""
+            },
+            {
+              "id": "c0004p0042",
+              "target": "Nghe giọng nói có phần lạnh lùng ở đầu dây bên kia, Trương Vũ bấm bụng nói: \"Chị, có thể cho em mượn ít tiền được không?\""
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-first-grade-judgment",
+          "category": "time_perspective",
+          "status": "PASS",
+          "obligation": "The sister warned parents in his first primary school year that he lacked talent. This is her assessment, not narrator proof or his current year level.",
+          "source_quotes": [
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0043",
+              "source": "一阵沉默中，就在张羽以为对方会挂了电话的时候，从手机中传来声音：“你小学一年级的时候，我就和爸妈说了，你没有仙道天赋，往这条路上走完全是浪费时间和钱。”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0004p0043",
+              "target": "Trong một hồi im lặng, ngay khi Trương Vũ nghĩ rằng đối phương sẽ cúp máy thì từ điện thoại truyền đến giọng nói: \"Hồi em học lớp một tiểu học, chị đã nói với bố mẹ rồi, em không có thiên phú tiên đạo, đi theo con đường này hoàn toàn là lãng phí thời gian và tiền bạc.\""
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-family-separation",
+          "category": "family_finance",
+          "status": "PASS",
+          "obligation": "Parents separated with one child each. Mother tried supporting her son alone and sought funds including the sister’s cram class fees. Do not invent a divorce decree or that these fees were already given.",
+          "source_quotes": [
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0044",
+              "source": "“分开后，老妈却相信了你的妄想，硬着头皮想要一个人供你上高中，甚至她前不久还找我们来借钱，想要动我的补课费。”"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0047",
+              "source": "父母各自带着他们姐弟俩分开以后，明知道母亲的收入不足，家里没钱，但原本的张羽却太过不自量力，最后硬着头皮撸小贷也要修仙，一路以贷养贷到现在。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0004p0044",
+              "target": "\"Sau khi chia tay, mẹ lại tin vào ảo tưởng của em, cắn răng muốn một mình nuôi em học cấp ba, thậm chí cách đây không lâu bà còn tìm đến chỗ bọn chị vay tiền, muốn đụng vào cả tiền học thêm của chị.\""
+            },
+            {
+              "id": "c0004p0047",
+              "target": "Sau khi bố mẹ mỗi người dẫn theo một đứa trong hai chị em tách ra, dù biết rõ thu nhập của mẹ không đủ, trong nhà không có tiền, nhưng Trương Vũ trước kia lại quá không biết tự lượng sức, cuối cùng bấm bụng quẹt các khoản vay nhỏ cũng phải tu tiên, một mạch lấy nợ nuôi nợ cho tới tận bây giờ."
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-loan-rollover",
+          "category": "financial_reveal",
+          "status": "PASS",
+          "obligation": "Original Zhang used small loans and new loans to service old loans. Mother repeatedly repaid, the holes grew and she left. Do not replace this with savings, a grant or a completed settlement.",
+          "source_quotes": [
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0045",
+              "source": "“呵，结果你这不自量力的蠢货还要借贷修仙，为了在高中学习，你现在已经欠了一屁股债了吧？”"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0046",
+              "source": "面对对方的指责，张羽却无话可说，因为根据他脑海中整理的记忆来看，对方说的并没有错。"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0047",
+              "source": "父母各自带着他们姐弟俩分开以后，明知道母亲的收入不足，家里没钱，但原本的张羽却太过不自量力，最后硬着头皮撸小贷也要修仙，一路以贷养贷到现在。"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0048",
+              "source": "而母亲也在张羽反复借贷，一次次帮他偿还，又一次次发现窟窿越来越大后，终于离他而去。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0004p0045",
+              "target": "\"Hừ, kết quả là cái đồ ngu xuẩn không biết tự lượng sức mình như em lại còn vay nợ để tu tiên, để học ở trường cấp ba, bây giờ em đã nợ ngập đầu rồi đúng không?\""
+            },
+            {
+              "id": "c0004p0046",
+              "target": "Đối mặt với lời trách móc của đối phương, Trương Vũ lại không thể nói được lời nào, bởi vì căn cứ theo những ký ức được sắp xếp lại trong đầu thì đối phương nói không hề sai."
+            },
+            {
+              "id": "c0004p0047",
+              "target": "Sau khi bố mẹ mỗi người dẫn theo một đứa trong hai chị em tách ra, dù biết rõ thu nhập của mẹ không đủ, trong nhà không có tiền, nhưng Trương Vũ trước kia lại quá không biết tự lượng sức, cuối cùng bấm bụng quẹt các khoản vay nhỏ cũng phải tu tiên, một mạch lấy nợ nuôi nợ cho tới tận bây giờ."
+            },
+            {
+              "id": "c0004p0048",
+              "target": "Còn người mẹ, sau khi Trương Vũ liên tục vay mượn, bà hết lần này đến lần khác giúp cậu trả nợ, rồi lại từng lần phát hiện ra lỗ hổng ngày càng lớn hơn, cuối cùng cũng rời bỏ cậu mà đi."
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-final-contact",
+          "category": "advice",
+          "status": "PASS",
+          "obligation": "Sister declares their last contact and advises quitting school, working and repaying his own debt. Her speech is not proof he actually quit.",
+          "source_quotes": [
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0050",
+              "source": "“这是我们最后一次联系了，你欠下来的债你自己去还。”"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0051",
+              "source": "“再给你一个忠告，退学然后去打工还债吧。”"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0004p0050",
+              "target": "\"Đây là lần cuối cùng chúng ta liên lạc, món nợ em đã vay thì tự em đi mà trả.\""
+            },
+            {
+              "id": "c0004p0051",
+              "target": "\"Cho em thêm một lời khuyên nữa, thôi học rồi đi làm thuê trả nợ đi.\""
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-second500",
+          "category": "crosschapter_amount_owner",
+          "status": "PASS",
+          "obligation": "Sister’s 500 and the earlier Bai 500 are distinct transfers. Initial fifty plus funds make the balance surpass 1,000, not exactly 1,000. Sister is not the source of both transfers.",
+          "source_quotes": [
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0018",
+              "source": "而现在身负70万巨债，浑身上下只有五十多块的他可没钱在外面吃饭了。"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0125",
+              "source": "回到教室后不久，张羽拿起震动的手机，便发现是白真真给他转账了500块钱，还发了个消息。"
+            },
+            {
+              "chapter": 2,
+              "paragraph_id": "c0002p0126",
+              "source": "白真真：先把水电费交了吧"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0052",
+              "source": "“看在曾经是一家人的份上，我一会打给你500，这些钱足够你在饿死前找到一份工作了。”"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0053",
+              "source": "听着对方电话挂断的声音，张羽无奈地叹了口气：“还好，至少也要到了500。”"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0054",
+              "source": "算上白真真给的500，张羽现在的存款终于突破1000。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0004p0052",
+              "target": "\"Nể tình từng là người một nhà, lát nữa chị sẽ chuyển cho em 500, số tiền này đủ để em tìm được một công việc trước khi chết đói.\""
+            },
+            {
+              "id": "c0004p0053",
+              "target": "Nghe tiếng cúp máy của đối phương, Trương Vũ bất đắc dĩ thở dài một tiếng: \"Vẫn may, ít nhất cũng xin được 500.\""
+            },
+            {
+              "id": "c0004p0054",
+              "target": "Tính thêm 500 mà Bạch Chân Chân đưa, tiền tiết kiệm hiện tại của Trương Vũ cuối cùng cũng vượt mốc 1000."
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        },
+        {
+          "id": "heldout-old-vs-current",
+          "category": "identity",
+          "status": "PASS",
+          "obligation": "Current Zhang relies on the original memories. Sister’s past accusations concern original Zhang. Do not invent disclosure of transmigration.",
+          "source_quotes": [
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0046",
+              "source": "面对对方的指责，张羽却无话可说，因为根据他脑海中整理的记忆来看，对方说的并没有错。"
+            },
+            {
+              "chapter": 4,
+              "paragraph_id": "c0004p0047",
+              "source": "父母各自带着他们姐弟俩分开以后，明知道母亲的收入不足，家里没钱，但原本的张羽却太过不自量力，最后硬着头皮撸小贷也要修仙，一路以贷养贷到现在。"
+            }
+          ],
+          "target_quotes": [
+            {
+              "id": "c0004p0046",
+              "target": "Đối mặt với lời trách móc của đối phương, Trương Vũ lại không thể nói được lời nào, bởi vì căn cứ theo những ký ức được sắp xếp lại trong đầu thì đối phương nói không hề sai."
+            },
+            {
+              "id": "c0004p0047",
+              "target": "Sau khi bố mẹ mỗi người dẫn theo một đứa trong hai chị em tách ra, dù biết rõ thu nhập của mẹ không đủ, trong nhà không có tiền, nhưng Trương Vũ trước kia lại quá không biết tự lượng sức, cuối cùng bấm bụng quẹt các khoản vay nhỏ cũng phải tu tiên, một mạch lấy nợ nuôi nợ cho tới tận bây giờ."
+            }
+          ],
+          "reason": "Target preserves the frozen source-grounded obligation. No wrong actor, amount, chronology or certainty found."
+        }
+      ],
+      "metrics": {
+        "rows_reviewed": 48,
+        "obligations_pass": 22,
+        "obligations_fail": 0,
+        "obligations_ambiguous": 0,
+        "semantic_error_paragraphs": 0,
+        "critical": 0,
+        "major": 0,
+        "minor": 0,
+        "semantic_error_paragraphs_per100": 0.0,
+        "style_error_paragraphs": 5,
+        "unit_ambiguous_paragraphs": 0,
+        "wrong_actor_paragraphs": 0,
+        "wrong_number_amount_paragraphs": 0,
+        "relation_type_error_paragraphs": 0
+      },
+      "continuity_assessment": "Explicit actors, loan directions and amounts remain coherent in all scored spans. No narrator cậu/hắn drift found in these candidates."
+    }
+  },
+  "scope_notes": [
+    "V2-X is a diagnostic retest on targets already inspected in phase1; it is not fresh heldout evidence.",
+    "V2-R is first translation of four reserved synthetic scene102 paragraphs; earlier synthetic source was available during design. This is unseen-output synthetic evidence, not a new unseen authentic corpus.",
+    "CTRL-Y is a single worker with union of three original capsules, including extra cross-scene/future context; it is an imperfect control and cannot establish a causal parallelism claim.",
+    "Readonly prior synthetic paragraphs are source evidence only, never counted as generated target outputs.",
+    "No candidate text was rewritten and no replacement lines are supplied."
+  ],
+  "groups_expected_case_counts": {
+    "V2-X": 25,
+    "V2-R": 4,
+    "CTRL-Y": 22
+  },
+  "limitations": [
+    "One blinded GPT evaluator and small single runs. Style metrics are editorial judgments, not BNS certification.",
+    "Names and monetary states are often explicit in target source. Correctness alone does not prove shared context retrieval caused success.",
+    "Source 件 does not settle packaging; uncertainty must not be converted into a forced numerical error."
+  ],
+  "generation_change_diagnosis": [
+    {
+      "finding": "Old quỵt nợ addition absent in newly generated V2-X c4p47",
+      "status": "REPAIRED_IN_GENERATION",
+      "evidence": "New target says đi vay các khoản vay nhỏ...lấy khoản vay này đắp khoản vay khác. It no longer asserts deliberate debt evasion. This review accepts the root supplied untouched-output provenance; native runtime verification belongs to root."
+    },
+    {
+      "finding": "Old consumer-only label changed to consumer microloan at V2-X c2p55",
+      "status": "PARTIAL_REPAIR",
+      "evidence": "Small scale now explicit through vi mô, but consumer subtype still not source-grounded."
+    },
+    {
+      "finding": "New ambiguous upstream relation wording at V2-X c2p57",
+      "status": "NEW_RELATION_AMBIGUITY",
+      "evidence": "Target cấp trên is more generic than source network upstream, but loan marketing and classmate context remain. This does not prove an added employment relationship. The route needs domain-bound relations rather than a forced synonym."
+    },
+    {
+      "finding": "Narration register and final synthetic generic unit",
+      "status": "IMPROVED_ON_DIAGNOSTIC_TARGETS",
+      "evidence": "Narration consistently uses cậu, and c103p3 now says món. Packaging-neutral wording is compatible with original; the old packaging ambiguity was not a proved error, so this is not counted as a confirmed semantic error repair."
+    }
+  ],
+  "system_policy_recommendations": [
+    "A relation assertion must bind entity pair plus domain, e.g. classmates and credit referral; neither a single adjective nor a correct name is enough. Prevent translating network-upstream as employment-superior when the source domain says loan promotion.",
+    "Financial type inference should preserve source granularity. A small-loan label is not permission to add a consumer-credit subtype or default intent.",
+    "Use immutable narration register plus contextual peer-address rules per translation wave. Verify literary fluency independently of entity correctness and parser tree coverage.",
+    "Evaluate fresh genuinely context-dependent ellipsis and alias spans after route changes; the diagnostic improvement here is insufficient evidence for ten-thousand-chapter continuity.",
+    "Use an equal-context matched sequential versus parallel design before claiming a scheduling cause. CTRL-Y sees additional context and is only a rough diagnostic control."
+  ],
+  "adjudication_notes": [
+    "Do not infer a new boss/employment fact solely from cấp trên when the same output mentions loan promotion and classmate context. Report relation ambiguity and reduced domain precision, not a proved major false relationship.",
+    "The old deliberate-default addition quỵt nợ is clearly absent; quẹt in the single control is a clumsy credit collocation, not proof of intentional default."
+  ],
+  "evaluation_sha256": "d2c143ead597d9a74217ef302fc890c04137ca435ec323f4999193aed14b87c3"
+}

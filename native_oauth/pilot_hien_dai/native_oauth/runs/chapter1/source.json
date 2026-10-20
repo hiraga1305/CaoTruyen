@@ -1,0 +1,71 @@
+{
+  "version": "semantic-gate-1",
+  "chapter": 1,
+  "title": "SYNTHETIC GENRE FIXTURE",
+  "source_ref": "Self-authored Chinese regression fixture, 2026-10-13",
+  "glossary": {
+    "李明": "Lý Minh"
+  },
+  "context": {},
+  "segments": [
+    {
+      "id": "c0001p0001",
+      "source": "李明看了看手机里的短信：“工资明天到账，你别着急。”"
+    },
+    {
+      "id": "c0001p0002",
+      "source": "“妈，我今天加班，不能回家吃饭。”他说。"
+    },
+    {
+      "id": "c0001p0003",
+      "source": "她没有答应，只说需要再考虑两天。"
+    },
+    {
+      "id": "c0001p0004",
+      "source": "张经理要求库存不少于900件，而不是多于900件。"
+    }
+  ],
+  "package_hash": "425cc88ff67c79626564e337a277020622620eb83bd71346c187880c841450fd",
+  "scope": {
+    "kind": "SYNTHETIC_FIXTURE",
+    "genre": "hien_dai",
+    "not_a_crawled_chapter": true
+  },
+  "style_profile": {
+    "genre": "hien_dai",
+    "version": "bns-oriented-editorial-1",
+    "common": {
+      "meaning": "Trung thành, đủ nghĩa; không thêm tình tiết/cảm xúc/suy luận không có trong nguồn.",
+      "prose": "Tiếng Việt tự nhiên, đúng chính tả/ngữ pháp; tránh câu convert, đảo cú pháp Hán và lạm dụng đem/hướng/bởi vì cho nên.",
+      "entities": "Khóa tên riêng và thuật ngữ theo glossary có nguồn; xưng hô theo quan hệ, tuổi, vai vế và cảnh, không replace toàn truyện.",
+      "dialogue": "Một kiểu dấu thoại nhất quán; phân biệt thoại, tin nhắn và suy nghĩ; không biến suy nghĩ thành lời nói.",
+      "quantities": "Giữ đúng số, quan hệ ít nhất/hơn/tối đa, tiền tệ và đơn vị; không tự đổi jin thành kg.",
+      "release": "Không lỗi nghĩa nghiêm trọng; phải hai lượt kiểm độc lập và kiểm lại bản đã nhuận sắc. Không lấy điểm tự chấm làm bằng chứng."
+    },
+    "rules": {
+      "register": "Giọng kể và hội thoại Việt đương đại, phù hợp tuổi/nghề và quan hệ nhân vật.",
+      "terms": "Dịch rõ công nghệ, tài chính, trường học; tên Trung Quốc Hán Việt theo glossary; không cổ phong hóa thuật ngữ đời thường.",
+      "pronouns": "Tôi/cậu/anh/chị/em/mẹ/con/thầy/cô theo bối cảnh; chỉ dùng ngôn ngữ thô khi nguồn có và đúng người nói.",
+      "avoid": "Không mặc định ta/ngươi/các hạ, không đổi SMS thành thư thoại hay thêm hành động mua quà."
+    },
+    "certification": "Local editorial rubric informed by BNS guidance, not BNS approval"
+  },
+  "parser_evidence": {
+    "engine": {
+      "engine": "HIT-SCIR LTP 4.2.13",
+      "model": "LTP/small",
+      "revision": "dea87bf0da3c5d054bbd426a78d7fa9efd347799",
+      "torch": "2.14.0+cpu",
+      "transformers": "4.57.6",
+      "weights_format": "safetensors",
+      "compatibility": [
+        "validated deterministic position_ids buffer omitted for Transformers 5"
+      ]
+    },
+    "full_sha256": "6289391e555c28c77e6eec7e822901d30e61c72b201524c96abffcb8c57e2d85",
+    "compact_hash": "96ad62c4b9434a888406388bbf451af6ca8003398fcbc1f8942d59db87a36727",
+    "full_file": "native_oauth/runs/chapter1/analysis.full.json",
+    "compact_file": "native_oauth/runs/chapter1/analysis.compact.json",
+    "interpretation": "Predictions only; Chinese source outranks parse"
+  }
+}

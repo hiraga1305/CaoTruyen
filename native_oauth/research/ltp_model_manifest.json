@@ -1,0 +1,104 @@
+{
+  "_id": "62f876c2fe21cc487523ad8a",
+  "id": "LTP/small",
+  "private": false,
+  "library_name": "transformers",
+  "tags": [
+    "transformers",
+    "pytorch",
+    "safetensors",
+    "arxiv:2009.11616",
+    "endpoints_compatible",
+    "region:us"
+  ],
+  "downloads": 121558,
+  "likes": 14,
+  "modelId": "LTP/small",
+  "author": "LTP",
+  "sha": "dea87bf0da3c5d054bbd426a78d7fa9efd347799",
+  "lastModified": "2025-08-15T08:39:35.000Z",
+  "gated": false,
+  "disabled": false,
+  "config": {
+    "tokenizer_config": {}
+  },
+  "transformersInfo": {
+    "auto_model": "AutoModel"
+  },
+  "siblings": [
+    {
+      "rfilename": ".gitattributes",
+      "blobId": "57f9b03b3f50caa2dd3f1d5f662a8aa7a4d0f23d",
+      "size": 1392
+    },
+    {
+      "rfilename": "README.md",
+      "blobId": "4bc682da59f01c78d1e3fb50aa7f1e663b64934b",
+      "size": 9135
+    },
+    {
+      "rfilename": "added_tokens.json",
+      "blobId": "9e26dfeeb6e641a33dae4961196235bdb965b21b",
+      "size": 2
+    },
+    {
+      "rfilename": "config.json",
+      "blobId": "1b4b0c4e31bdb1bb68e884e7933cb2f11799fcd6",
+      "size": 9289
+    },
+    {
+      "rfilename": "model.safetensors",
+      "blobId": "01a4219bcfb7ab173b91a61aede864cda562879c",
+      "size": 175271520,
+      "lfs": {
+        "sha256": "e9c627c7b6756d04464944210de5cddce23d0bb385b1ea890f7aa39b71a13d5f",
+        "size": 175271520,
+        "pointerSize": 134
+      }
+    },
+    {
+      "rfilename": "pytorch_model.bin",
+      "blobId": "13f73c771a2bb13aba1e5bc2510470e235060611",
+      "size": 179675533,
+      "lfs": {
+        "sha256": "a64f412c8fc2181d228d1bea7da15f391dfe395f9073f97da250054f847869dc",
+        "size": 179675533,
+        "pointerSize": 134
+      }
+    },
+    {
+      "rfilename": "special_tokens_map.json",
+      "blobId": "e7b0375001f109a6b8873d756ad4f7bbb15fbaa5",
+      "size": 112
+    },
+    {
+      "rfilename": "tokenizer.json",
+      "blobId": "eba64ab600f7bb029b38ac391b35651e3b55f185",
+      "size": 268961
+    },
+    {
+      "rfilename": "tokenizer_config.json",
+      "blobId": "66051e65c65b3ec5e0b437496d1e545c5d8934b4",
+      "size": 19
+    },
+    {
+      "rfilename": "vocab.txt",
+      "blobId": "ca4f9781030019ab9b253c6dcb8c7878b6dc87a5",
+      "size": 109540
+    }
+  ],
+  "spaces": [
+    "tardellirs/model-pulse",
+    "emanforhelp/model-pulse",
+    "LTP/LTP"
+  ],
+  "createdAt": "2022-08-14T04:14:58.000Z",
+  "safetensors": {
+    "parameters": {
+      "I64": 512,
+      "F32": 43809424
+    },
+    "total": 43809936
+  },
+  "usedStorage": 354947053
+}

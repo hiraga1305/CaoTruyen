@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "chapter": 1,
+  "source_paragraphs": 192,
+  "tests": 49,
+  "publication_text_digest_matches": true,
+  "publication_digest_algorithm": "sha256 canonical JSON string of UTF-8 decoded text, per semantic_gate.digest",
+  "text_file_bytes_sha256": "dc0fe876ee7f8bb50e0a431a16ba3875a5793b421c49a73b032bfb3d741b1746",
+  "chapter2_context_valid": true,
+  "code_and_docs_sha256": {
+    "semantic_gate.py": "9844dcbabe70e8a4e12a41f7f1a8e63a29c7e9ed0e044734efd0e0f3130489d6",
+    "native_oauth/pipeline_native.py": "060d6378e6a69aa2f546d11d6d10bf821b4cd7696e02b7e8fad45b531a6f8373",
+    "native_oauth/codex_gate.py": "d98f3c84c72a31736212421eb50877f66b06dd778e7dbb2bd7a2d49589ac8baa",
+    "native_oauth/WORKFLOW.md": "9ed81f34df16ad6226035776562d8ff9bb05c516592cff9ae638ab723fe7a373",
+    "native_oauth/AUDIT_RESULT_20261013.md": "e690960f7573bcb44dcc21cdf111950cd84bb3c0eed5ef93335402fcd5c89ff0"
+  },
+  "note": "Final protocol instructions supplemented after agent gate audit; all 49 offline tests rerun. No further native or API model calls."
+}

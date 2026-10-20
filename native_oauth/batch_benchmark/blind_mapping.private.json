@@ -1,0 +1,27 @@
+{
+  "conditions": {
+    "low-shared_source": "V1-A",
+    "low-isolated": "V1-B",
+    "medium-isolated": "V1-C",
+    "medium-shared_source": "V1-D"
+  },
+  "result_path": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\results_20261013T053659Z.json",
+  "candidate_hashes": [
+    "356dbe97f53fdf13b29f6163dc4e2e4acfef9cddb94d4388099ba846c1bcbac7",
+    "dae9af90a8e64d318cfb3fd6cf2c54bd195531ca7c069aead813353190afcf08",
+    "b533d12c608373f5dd44e4b7b3d115e9e108828a026e348008920c38bc2afda3",
+    "1c80d50f088237239969eb568701f5e242714c3f8c2986c0b9b55272103b3075",
+    "8cf0ed0143fd616cfc6bb851f1a9f8bf5bb45b44027c17f9b15b786c3da5102c",
+    "d74cdf4541d8f303bbca0fb75014434e3be8532c6d28ef7ebb218eb0203adf89",
+    "c16dd5bed32c59b7806ae064569f8e35c5dbf5054fb719aa31e83f2a67f83af0",
+    "2ef20525a7e1b5c0dac376818eb2b0b475fab9406182a799563db8b8750a6e84",
+    "cf0127f3b28e7a7f15baa9a633d9b75ac11b080aab5aad92fe1dde66f01dc3c5",
+    "706b8a1b472091677c953f779dad04c440600587303b3f5eeec1029fb6c711d8",
+    "b40aed91844c695de1dc0c9af4b4e8e540ea6298a125d9e5511ad5615fa60516",
+    "44155dd2e0150aafdcbd3b2c5fadf81a6c0bc5608eca8e96754056400195376e",
+    "9d25ba423b15b25547d677f991dacc9049f448bf8a46ec03452d193175c6788f",
+    "f1ef675fef1b0777b4a83bad1e9b430c02ebca1a33105b96bb76ad2a29fa8156",
+    "c0d5ca59a70f5e750c98bce52f2b8fdd5b6f49250ac97ac49d324eaac9d5ade3",
+    "c2b08894eea473060f80615c9febd17c25c0f9e55942fe749d3f17f9dba4a65d"
+  ]
+}

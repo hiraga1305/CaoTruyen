@@ -1,0 +1,390 @@
+{
+  "conditions": [
+    {
+      "condition": "low-isolated",
+      "job_id": "low-isolated-c0002p0053",
+      "owned_ids": [
+        "c0002p0053",
+        "c0002p0054",
+        "c0002p0055",
+        "c0002p0056",
+        "c0002p0057",
+        "c0002p0058",
+        "c0002p0059",
+        "c0002p0060",
+        "c0002p0061",
+        "c0002p0062",
+        "c0002p0063",
+        "c0002p0064",
+        "c0002p0065",
+        "c0002p0066",
+        "c0002p0067",
+        "c0002p0068"
+      ],
+      "source_context_quote_ids": []
+    },
+    {
+      "condition": "low-isolated",
+      "job_id": "low-isolated-c0003p0076",
+      "owned_ids": [
+        "c0003p0076",
+        "c0003p0077",
+        "c0003p0078",
+        "c0003p0079",
+        "c0003p0080",
+        "c0003p0081",
+        "c0003p0082",
+        "c0003p0083",
+        "c0003p0084",
+        "c0003p0085",
+        "c0003p0086",
+        "c0003p0087",
+        "c0003p0088",
+        "c0003p0089",
+        "c0003p0090",
+        "c0003p0091"
+      ],
+      "source_context_quote_ids": []
+    },
+    {
+      "condition": "low-isolated",
+      "job_id": "low-isolated-c0004p0039",
+      "owned_ids": [
+        "c0004p0039",
+        "c0004p0040",
+        "c0004p0041",
+        "c0004p0042",
+        "c0004p0043",
+        "c0004p0044",
+        "c0004p0045",
+        "c0004p0046",
+        "c0004p0047",
+        "c0004p0048",
+        "c0004p0049",
+        "c0004p0050",
+        "c0004p0051",
+        "c0004p0052",
+        "c0004p0053",
+        "c0004p0054"
+      ],
+      "source_context_quote_ids": []
+    },
+    {
+      "condition": "low-isolated",
+      "job_id": "low-isolated-c0103p0001",
+      "owned_ids": [
+        "c0103p0001",
+        "c0103p0002",
+        "c0103p0003",
+        "c0103p0004"
+      ],
+      "source_context_quote_ids": []
+    },
+    {
+      "condition": "low-shared_source",
+      "job_id": "low-shared_source-c0002p0053",
+      "owned_ids": [
+        "c0002p0053",
+        "c0002p0054",
+        "c0002p0055",
+        "c0002p0056",
+        "c0002p0057",
+        "c0002p0058",
+        "c0002p0059",
+        "c0002p0060",
+        "c0002p0061",
+        "c0002p0062",
+        "c0002p0063",
+        "c0002p0064",
+        "c0002p0065",
+        "c0002p0066",
+        "c0002p0067",
+        "c0002p0068"
+      ],
+      "source_context_quote_ids": [
+        "c0001p0005",
+        "c0001p0007",
+        "c0001p0008",
+        "c0001p0009",
+        "c0001p0011",
+        "c0001p0013",
+        "c0001p0017"
+      ]
+    },
+    {
+      "condition": "low-shared_source",
+      "job_id": "low-shared_source-c0003p0076",
+      "owned_ids": [
+        "c0003p0076",
+        "c0003p0077",
+        "c0003p0078",
+        "c0003p0079",
+        "c0003p0080",
+        "c0003p0081",
+        "c0003p0082",
+        "c0003p0083",
+        "c0003p0084",
+        "c0003p0085",
+        "c0003p0086",
+        "c0003p0087",
+        "c0003p0088",
+        "c0003p0089",
+        "c0003p0090",
+        "c0003p0091"
+      ],
+      "source_context_quote_ids": [
+        "c0001p0005",
+        "c0001p0007",
+        "c0001p0008",
+        "c0001p0009",
+        "c0001p0011",
+        "c0001p0013",
+        "c0001p0015"
+      ]
+    },
+    {
+      "condition": "low-shared_source",
+      "job_id": "low-shared_source-c0004p0039",
+      "owned_ids": [
+        "c0004p0039",
+        "c0004p0040",
+        "c0004p0041",
+        "c0004p0042",
+        "c0004p0043",
+        "c0004p0044",
+        "c0004p0045",
+        "c0004p0046",
+        "c0004p0047",
+        "c0004p0048",
+        "c0004p0049",
+        "c0004p0050",
+        "c0004p0051",
+        "c0004p0052",
+        "c0004p0053",
+        "c0004p0054"
+      ],
+      "source_context_quote_ids": [
+        "c0001p0005",
+        "c0001p0007",
+        "c0001p0008",
+        "c0001p0009",
+        "c0001p0011",
+        "c0001p0013",
+        "c0001p0017"
+      ]
+    },
+    {
+      "condition": "low-shared_source",
+      "job_id": "low-shared_source-c0103p0001",
+      "owned_ids": [
+        "c0103p0001",
+        "c0103p0002",
+        "c0103p0003",
+        "c0103p0004"
+      ],
+      "source_context_quote_ids": [
+        "c0101p0001",
+        "c0101p0002",
+        "c0101p0003",
+        "c0101p0004",
+        "c0102p0001",
+        "c0102p0002",
+        "c0102p0003"
+      ]
+    },
+    {
+      "condition": "medium-isolated",
+      "job_id": "medium-isolated-c0002p0053",
+      "owned_ids": [
+        "c0002p0053",
+        "c0002p0054",
+        "c0002p0055",
+        "c0002p0056",
+        "c0002p0057",
+        "c0002p0058",
+        "c0002p0059",
+        "c0002p0060",
+        "c0002p0061",
+        "c0002p0062",
+        "c0002p0063",
+        "c0002p0064",
+        "c0002p0065",
+        "c0002p0066",
+        "c0002p0067",
+        "c0002p0068"
+      ],
+      "source_context_quote_ids": []
+    },
+    {
+      "condition": "medium-isolated",
+      "job_id": "medium-isolated-c0003p0076",
+      "owned_ids": [
+        "c0003p0076",
+        "c0003p0077",
+        "c0003p0078",
+        "c0003p0079",
+        "c0003p0080",
+        "c0003p0081",
+        "c0003p0082",
+        "c0003p0083",
+        "c0003p0084",
+        "c0003p0085",
+        "c0003p0086",
+        "c0003p0087",
+        "c0003p0088",
+        "c0003p0089",
+        "c0003p0090",
+        "c0003p0091"
+      ],
+      "source_context_quote_ids": []
+    },
+    {
+      "condition": "medium-isolated",
+      "job_id": "medium-isolated-c0004p0039",
+      "owned_ids": [
+        "c0004p0039",
+        "c0004p0040",
+        "c0004p0041",
+        "c0004p0042",
+        "c0004p0043",
+        "c0004p0044",
+        "c0004p0045",
+        "c0004p0046",
+        "c0004p0047",
+        "c0004p0048",
+        "c0004p0049",
+        "c0004p0050",
+        "c0004p0051",
+        "c0004p0052",
+        "c0004p0053",
+        "c0004p0054"
+      ],
+      "source_context_quote_ids": []
+    },
+    {
+      "condition": "medium-isolated",
+      "job_id": "medium-isolated-c0103p0001",
+      "owned_ids": [
+        "c0103p0001",
+        "c0103p0002",
+        "c0103p0003",
+        "c0103p0004"
+      ],
+      "source_context_quote_ids": []
+    },
+    {
+      "condition": "medium-shared_source",
+      "job_id": "medium-shared_source-c0002p0053",
+      "owned_ids": [
+        "c0002p0053",
+        "c0002p0054",
+        "c0002p0055",
+        "c0002p0056",
+        "c0002p0057",
+        "c0002p0058",
+        "c0002p0059",
+        "c0002p0060",
+        "c0002p0061",
+        "c0002p0062",
+        "c0002p0063",
+        "c0002p0064",
+        "c0002p0065",
+        "c0002p0066",
+        "c0002p0067",
+        "c0002p0068"
+      ],
+      "source_context_quote_ids": [
+        "c0001p0005",
+        "c0001p0007",
+        "c0001p0008",
+        "c0001p0009",
+        "c0001p0011",
+        "c0001p0013",
+        "c0001p0017"
+      ]
+    },
+    {
+      "condition": "medium-shared_source",
+      "job_id": "medium-shared_source-c0003p0076",
+      "owned_ids": [
+        "c0003p0076",
+        "c0003p0077",
+        "c0003p0078",
+        "c0003p0079",
+        "c0003p0080",
+        "c0003p0081",
+        "c0003p0082",
+        "c0003p0083",
+        "c0003p0084",
+        "c0003p0085",
+        "c0003p0086",
+        "c0003p0087",
+        "c0003p0088",
+        "c0003p0089",
+        "c0003p0090",
+        "c0003p0091"
+      ],
+      "source_context_quote_ids": [
+        "c0001p0005",
+        "c0001p0007",
+        "c0001p0008",
+        "c0001p0009",
+        "c0001p0011",
+        "c0001p0013",
+        "c0001p0015"
+      ]
+    },
+    {
+      "condition": "medium-shared_source",
+      "job_id": "medium-shared_source-c0004p0039",
+      "owned_ids": [
+        "c0004p0039",
+        "c0004p0040",
+        "c0004p0041",
+        "c0004p0042",
+        "c0004p0043",
+        "c0004p0044",
+        "c0004p0045",
+        "c0004p0046",
+        "c0004p0047",
+        "c0004p0048",
+        "c0004p0049",
+        "c0004p0050",
+        "c0004p0051",
+        "c0004p0052",
+        "c0004p0053",
+        "c0004p0054"
+      ],
+      "source_context_quote_ids": [
+        "c0001p0005",
+        "c0001p0007",
+        "c0001p0008",
+        "c0001p0009",
+        "c0001p0011",
+        "c0001p0013",
+        "c0001p0017"
+      ]
+    },
+    {
+      "condition": "medium-shared_source",
+      "job_id": "medium-shared_source-c0103p0001",
+      "owned_ids": [
+        "c0103p0001",
+        "c0103p0002",
+        "c0103p0003",
+        "c0103p0004"
+      ],
+      "source_context_quote_ids": [
+        "c0101p0001",
+        "c0101p0002",
+        "c0101p0003",
+        "c0101p0004",
+        "c0102p0001",
+        "c0102p0002",
+        "c0102p0003"
+      ]
+    }
+  ],
+  "synthetic_scope": "Only final4 syntheticparas generated; prior8 are readonly source memory, not translated outputs",
+  "policy": "No gold obligations or referenceVietnamese delivered to workers"
+}

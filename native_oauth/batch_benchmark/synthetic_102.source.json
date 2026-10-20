@@ -1,0 +1,35 @@
+{
+  "version": "synthetic-source-benchmark-1",
+  "chapter": 102,
+  "title": "Synthetic continuity scene 2",
+  "source_ref": "Self-authored Chinese stress fixture; not a crawled novel, not evidence of any real author.",
+  "glossary": {
+    "陈默": "Trần Mặc",
+    "陈岚": "Trần Lam",
+    "陈舟": "Trần Chu"
+  },
+  "segments": [
+    {
+      "id": "c0102p0001",
+      "source": "第二天早上，陈舟找陈默借了五百元。姐姐昨天借出的两万元仍没收回。",
+      "original_fixture_id": "s102p0001"
+    },
+    {
+      "id": "c0102p0002",
+      "source": "陈岚回到厂里后接到电话。她听到弟弟在另一头问：“姐，哥还在家吗？”",
+      "original_fixture_id": "s102p0002"
+    },
+    {
+      "id": "c0102p0003",
+      "source": "陈默算过账后，又借了两千元付房租；他昨晚的拒绝只说了今晚，并没有答应以后永远不借。",
+      "original_fixture_id": "s102p0003"
+    },
+    {
+      "id": "c0102p0004",
+      "source": "陈舟把三百件药送回仓库，管理员逐件称重，没有一件低于九百克。",
+      "original_fixture_id": "s102p0004"
+    }
+  ],
+  "scope": "SYNTHETIC; research only",
+  "package_hash": "cf952e1438d0792bffc9f745fca89bed355e0ead42caac669745cc68f5a00085"
+}

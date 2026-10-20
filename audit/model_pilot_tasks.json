@@ -1,0 +1,124 @@
+{
+  "tasks": [
+    {
+      "id": "sample_05",
+      "source": "她转了1000块钱给张羽，让张羽记得要谢谢同学和老师。",
+      "translation": "Bà chuyển 1.000 tệ cho Trương Vũ, dặn cậu nhớ mua quà cảm ơn thầy cô và bạn bè.",
+      "context": "",
+      "canonical_term": ""
+    },
+    {
+      "id": "sample_03",
+      "source": "每天班主任会发给你们900克以上牛妖专用的补剂，保证你们的修炼效果是原先的十倍以上。",
+      "translation": "hơn 900 gram thuốc bổ chuyên dụng dành cho Ngưu Yêu",
+      "context": "",
+      "canonical_term": ""
+    },
+    {
+      "id": "sample_16",
+      "source": "「特别是你小子这次法赛拿了第四名，他们一定会想办法逼着你签约，你能顶得住吗？」",
+      "translation": "lần này ở Pháp Giải còn giành được hạng tư",
+      "context": "",
+      "canonical_term": {
+        "source": "法赛",
+        "target": "Pháp Giải",
+        "reference": "novel_lore.json:58"
+      }
+    },
+    {
+      "id": "sample_11",
+      "source": "在这里签下和‘父亲大人’的契约，成为他真正认可的儿子。",
+      "translation": "Tại nơi này, ký kết bản khế ước bán mạng với \"Phụ thân đại nhân\", mới chính thức trở thành đứa con trai được ông ta thừa nhận.",
+      "context": "",
+      "canonical_term": ""
+    },
+    {
+      "id": "sample_14",
+      "source": "而虎云涛，便是这样通过层层考验，来到红塔高中读书的校董之子。",
+      "translation": "khảo nghiệm",
+      "context": "",
+      "canonical_term": ""
+    },
+    {
+      "id": "sample_13",
+      "source": "而虎云涛，便是这样通过层层考验，来到红塔高中读书的校董之子。",
+      "translation": "khảo nghiệm đẫm máu",
+      "context": "",
+      "canonical_term": ""
+    },
+    {
+      "id": "sample_09",
+      "source": "其中有7个小组都有四名选手，要进行抽签后的两两对决，淘汰至最后一人。",
+      "translation": "Trong đó có bảy bảng đấu gồm bốn tuyển thủ, sau khi tiến hành bốc thăm sẽ chia cặp đấu loại trực tiếp hai chọi hai, đào thải dần cho tới khi chỉ còn lại một người duy nhất.",
+      "context": "双方在一对一战斗后，获胜的一方----将与另外两人中的获胜者战斗，最终决出这个小组的普级者。",
+      "canonical_term": ""
+    },
+    {
+      "id": "sample_01",
+      "source": "挂了电话，张羽翻动着手机中的短信箱，便发现了密密麻麻的催款短信，都是原身在各大平台借贷逾期后的催缴。",
+      "translation": "hộp thư thoại",
+      "context": "",
+      "canonical_term": ""
+    },
+    {
+      "id": "sample_07",
+      "source": "“零分。”一旁的白真真心中幽幽道：“简直是高中的至高羞辱，从此以后彻底丧失了学校生存权。”",
+      "translation": "Bạch Chân Chân ngồi bên cạnh u ám cất lời",
+      "context": "",
+      "canonical_term": ""
+    },
+    {
+      "id": "sample_02",
+      "source": "挂了电话，张羽翻动着手机中的短信箱，便发现了密密麻麻的催款短信，都是原身在各大平台借贷逾期后的催缴。",
+      "translation": "hộp tin nhắn SMS",
+      "context": "",
+      "canonical_term": ""
+    },
+    {
+      "id": "sample_08",
+      "source": "“零分。”一旁的白真真心中幽幽道：“简直是高中的至高羞辱，从此以后彻底丧失了学校生存权。”",
+      "translation": "Bạch Chân Chân ở bên cạnh thầm nghĩ đầy u ám",
+      "context": "",
+      "canonical_term": ""
+    },
+    {
+      "id": "sample_06",
+      "source": "她转了1000块钱给张羽，让张羽记得要谢谢同学和老师。",
+      "translation": "Bà chuyển 1.000 tệ cho Trương Vũ, dặn cậu nhớ cảm ơn bạn học và thầy cô.",
+      "context": "",
+      "canonical_term": ""
+    },
+    {
+      "id": "sample_12",
+      "source": "在这里签下和‘父亲大人’的契约，成为他真正认可的儿子。",
+      "translation": "Tại nơi này, ký kết khế ước với \"Phụ thân đại nhân\" để trở thành người con trai mà ông ta thực sự công nhận.",
+      "context": "",
+      "canonical_term": ""
+    },
+    {
+      "id": "sample_10",
+      "source": "其中有7个小组都有四名选手，要进行抽签后的两两对决，淘汰至最后一人。",
+      "translation": "Trong đó có bảy bảng đấu, mỗi bảng gồm bốn tuyển thủ. Sau khi bốc thăm, các tuyển thủ sẽ đấu từng cặp một chọi một, loại dần cho tới khi chỉ còn lại một người.",
+      "context": "双方在一对一战斗后，获胜的一方----将与另外两人中的获胜者战斗，最终决出这个小组的普级者。",
+      "canonical_term": ""
+    },
+    {
+      "id": "sample_04",
+      "source": "每天班主任会发给你们900克以上牛妖专用的补剂，保证你们的修炼效果是原先的十倍以上。",
+      "translation": "ít nhất 900 gram thuốc bổ chuyên dụng dành cho Ngưu Yêu",
+      "context": "",
+      "canonical_term": ""
+    },
+    {
+      "id": "sample_15",
+      "source": "「特别是你小子这次法赛拿了第四名，他们一定会想办法逼着你签约，你能顶得住吗？」",
+      "translation": "lần này ở Pháp Tái còn giành được hạng tư",
+      "context": "",
+      "canonical_term": {
+        "source": "法赛",
+        "target": "Pháp Giải",
+        "reference": "novel_lore.json:58"
+      }
+    }
+  ]
+}

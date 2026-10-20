@@ -1,0 +1,32 @@
+{
+  "version": "bns-oriented-editorial-1",
+  "certification": "Local editorial rubric informed by BNS guidance, not BNS approval",
+  "common": {
+    "meaning": "Trung thành, đủ nghĩa; không thêm tình tiết/cảm xúc/suy luận không có trong nguồn.",
+    "prose": "Tiếng Việt tự nhiên, đúng chính tả/ngữ pháp; tránh câu convert, đảo cú pháp Hán và lạm dụng đem/hướng/bởi vì cho nên.",
+    "entities": "Khóa tên riêng và thuật ngữ theo glossary có nguồn; xưng hô theo quan hệ, tuổi, vai vế và cảnh, không replace toàn truyện.",
+    "dialogue": "Một kiểu dấu thoại nhất quán; phân biệt thoại, tin nhắn và suy nghĩ; không biến suy nghĩ thành lời nói.",
+    "quantities": "Giữ đúng số, quan hệ ít nhất/hơn/tối đa, tiền tệ và đơn vị; không tự đổi jin thành kg.",
+    "release": "Không lỗi nghĩa nghiêm trọng; phải hai lượt kiểm độc lập và kiểm lại bản đã nhuận sắc. Không lấy điểm tự chấm làm bằng chứng."
+  },
+  "profiles": {
+    "tien_hiep": {
+      "register": "Giọng văn trang trọng vừa phải; giữ khí chất cổ phong nhưng câu kể thuần Việt dễ đọc.",
+      "terms": "Giữ tên công pháp, pháp bảo, cảnh giới và tông môn Hán Việt khi đã chuẩn hóa; động tác và từ thông thường diễn đạt tự nhiên.",
+      "pronouns": "Ta/ngươi/tại hạ/vãn bối/tiền bối/sư huynh theo đúng vai vế có chứng cứ; không ép mọi thoại thành ta-ngươi.",
+      "avoid": "Không dùng tiếng lóng hiện đại nếu nguồn không có; không tự thêm đẫm máu/bán mạng/hào khí."
+    },
+    "hien_dai": {
+      "register": "Giọng kể và hội thoại Việt đương đại, phù hợp tuổi/nghề và quan hệ nhân vật.",
+      "terms": "Dịch rõ công nghệ, tài chính, trường học; tên Trung Quốc Hán Việt theo glossary; không cổ phong hóa thuật ngữ đời thường.",
+      "pronouns": "Tôi/cậu/anh/chị/em/mẹ/con/thầy/cô theo bối cảnh; chỉ dùng ngôn ngữ thô khi nguồn có và đúng người nói.",
+      "avoid": "Không mặc định ta/ngươi/các hạ, không đổi SMS thành thư thoại hay thêm hành động mua quà."
+    },
+    "hybrid_cyberpunk_tu_tien": {
+      "register": "Giữ châm biếm khô và nhịp hiện đại; thuật ngữ tu luyện chuẩn hóa, lời thoại đời thường theo quan hệ thực tế.",
+      "terms": "Cảnh giới/công pháp Hán Việt, tín dụng/điện thoại/thi cử diễn đạt hiện đại. 修仙贷 là khoản vay tu tiên.",
+      "pronouns": "Cảnh mẹ-con dùng mẹ/con, phỏng vấn thầy/cô hoặc tôi/em; giọng kể Trương Vũ theo từng giai đoạn/cảnh, không thay ngôi tùy hứng.",
+      "avoid": "Không biến tất cả trường học thành môn phái cổ đại, không tô thêm kịch tính cho câu châm biếm."
+    }
+  }
+}

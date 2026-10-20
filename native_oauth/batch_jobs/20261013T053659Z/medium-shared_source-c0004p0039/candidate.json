@@ -1,0 +1,77 @@
+{
+  "job_id": "medium-shared_source-c0004p0039",
+  "contract_hash": "edf6db2597366cb13775782f78804cb5faefb400cfe2b53e47f98fa59580afce",
+  "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+  "segments": [
+    {
+      "id": "c0004p0039",
+      "text": "Đầu tiên là gọi cho mẹ của Trương Vũ, tiếp đó lại gọi cho bố, nhưng tất cả đều ở trạng thái không có người nghe máy."
+    },
+    {
+      "id": "c0004p0040",
+      "text": "Nhớ lại những ký ức liên quan đến bố mẹ và chị gái của Trương Vũ trong đầu, cậu cuối cùng vẫn bất đắc dĩ gọi cho chị gái."
+    },
+    {
+      "id": "c0004p0041",
+      "text": "“Trương Vũ?”"
+    },
+    {
+      "id": "c0004p0042",
+      "text": "Nghe giọng nói có phần lạnh lùng ở đầu dây bên kia, Trương Vũ bấm bụng nói: “Chị, có thể cho em mượn ít tiền không?”"
+    },
+    {
+      "id": "c0004p0043",
+      "text": "Trong một hồi im lặng, ngay lúc Trương Vũ tưởng đối phương sẽ cúp máy, thì từ điện thoại truyền đến tiếng nói: “Hồi em học lớp một tiểu học, chị đã nói với bố mẹ rồi, em không có thiên phú tiên đạo, đi theo con đường này hoàn toàn là lãng phí thời gian và tiền bạc.”"
+    },
+    {
+      "id": "c0004p0044",
+      "text": "“Sau khi tách ra, mẹ lại tin vào ảo tưởng của em, cắn răng muốn một mình nuôi em học cấp ba, thậm chí cách đây không lâu bà còn tìm bọn chị mượn tiền, muốn đụng đến tiền học thêm của chị.”"
+    },
+    {
+      "id": "c0004p0045",
+      "text": "“Hừ, kết quả là đồ ngu xuẩn không biết tự lượng sức mình như em lại còn vay nợ tu tiên, vì để học ở cấp ba, bây giờ em đã nợ ngập đầu rồi đúng không?”"
+    },
+    {
+      "id": "c0004p0046",
+      "text": "Đối mặt với lời chỉ trích của đối phương, Trương Vũ lại không có gì để nói, bởi vì căn cứ theo những ký ức được sắp xếp trong đầu cậu, đối phương nói chẳng hề sai."
+    },
+    {
+      "id": "c0004p0047",
+      "text": "Sau khi bố mẹ mỗi người dẫn một đứa trong hai chị em tách ra, rõ ràng biết thu nhập của mẹ không đủ, trong nhà không có tiền, nhưng Trương Vũ nguyên bản lại quá không biết tự lượng sức mình, cuối cùng cắn răng vay các khoản nợ nhỏ cũng phải tu tiên, cứ thế lấy nợ nuôi nợ cho đến tận bây giờ."
+    },
+    {
+      "id": "c0004p0048",
+      "text": "Còn người mẹ thì sau khi Trương Vũ liên tục vay nợ, hết lần này đến lần khác giúp cậu trả nợ, rồi lại hết lần này đến lần khác phát hiện lỗ hổng ngày càng lớn, cuối cùng cũng rời bỏ cậu mà đi."
+    },
+    {
+      "id": "c0004p0049",
+      "text": "Giọng nói từ đầu bên kia điện thoại tiếp tục truyền đến."
+    },
+    {
+      "id": "c0004p0050",
+      "text": "“Đây là lần cuối cùng chúng ta liên lạc, số nợ em thiếu thì tự em đi mà trả.”"
+    },
+    {
+      "id": "c0004p0051",
+      "text": "“Cho em thêm một lời khuyên, thôi học rồi đi làm thuê trả nợ đi.”"
+    },
+    {
+      "id": "c0004p0052",
+      "text": "“Xem như nể tình từng là người một nhà, lát nữa chị chuyển cho em 500, số tiền này đủ để em tìm được một công việc trước khi chết đói.”"
+    },
+    {
+      "id": "c0004p0053",
+      "text": "Nghe âm thanh cúp máy của đối phương, Trương Vũ bất đắc dĩ thở dài một hơi: “Vẫn may, ít nhất cũng xin được 500.”"
+    },
+    {
+      "id": "c0004p0054",
+      "text": "Tính cả 500 Bạch Chân Chân đưa, tiền tiết kiệm hiện tại của Trương Vũ cuối cùng cũng vượt mốc 1000."
+    }
+  ],
+  "uncertainties": [],
+  "provenance": {
+    "actual_model": "gemini-3.8-flash-medium",
+    "conversation_id": "5b82e3a0-3c98-48de-a297-2e89487bb88f",
+    "authentication": "OAuth cached account; API key env unset"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "arc_id": 1,
+  "name": "Bắt Kẻ Đào Tẩu & Chế Tạo Bùa Chú",
+  "from_chap": 16,
+  "to_chap": 22,
+  "pred_chap": 15,
+  "pred_context_anchor": "Cả một hàng bình luận giống hệt nhau điên cuồng tràn ngập màn hình!\nHóa ra, cô gái trong bức ảnh đúng là vừa mới tắm xong thật, góc máy cũng đúng là chụp lén, ngặt nỗi quần áo người ta lại mặc chỉnh tề, kín đáo từ đầu đến chân!\n“Hì hì, ngại quá để mọi người phải thất vọng rồi. Tôi đời nào lại đem ảnh nhạy cảm của cô bạn thân ra khoe chứ! Đại sư, thật ra dạo gần đây cô ấy mới quen một người bạn trai. Nhưng tôi cứ cảm thấy gã đàn ông kia có điểm gì đó rất bất thường, tạo cho người ta một cảm giác rờn rợn khó tả. Cứ mỗi lần chạm mặt gã là tôi lại bất giác rùng mình ớn lạnh, khí lạnh từ tận đáy lòng cứ thế bốc lên.”\nTiêu Vũ bấm ngón tay tính toán, sắc mặt hắn bỗng chốc trầm hẳn xuống.\n“Bạn trai của bạn thân cô mang sát khí ngập trời. Đó là một tên sát nhân, chính xác hơn là một kẻ giết người đang bị truy nã gắt gao!”\n",
+  "shared_lore": {
+    "book_title": "我在直播间窥探天机",
+    "book_title_vi": "Tôi Ở Phòng Livestream Dòm Ngó Thiên Cơ",
+    "author": "只余豁达",
+    "author_vi": "Chỉ Dư Khoát Đạt",
+    "genre": "URBAN_XIANXIA",
+    "characters": {
+      "萧羽": "Tiêu Vũ",
+      "萧大师": "Tiêu đại sư",
+      "江夏": "Giang Hạ",
+      "徐菲": "Từ Phỉ",
+      "林美婷": "Lâm Mỹ Đình",
+      "柳凡": "Liễu Phàm",
+      "胡菲菲": "Hồ Phỉ Phỉ"
+    },
+    "terms": {
+      "水友": "thủy hữu / người xem",
+      "直播间": "phòng livestream / phòng phát sóng",
+      "窥探天机": "dòm ngó thiên cơ / nhìn thấu thiên cơ",
+      "算命": "bói toán / xem mệnh",
+      "修仙": "tu tiên",
+      "功德": "công đức",
+      "大难临头": "tai họa ngập đầu / đại họa lâm đầu",
+      "房管": "quản trị viên phòng",
+      "榜一": "top 1 bảng vàng / bảng nhất",
+      "超火": "Siêu Hỏa Tiễn",
+      "火箭": "Hỏa Tiễn",
+      "嘉年华": "Gia Niên Hoa"
+    }
+  },
+  "instructions": "Dịch liên tục từ Chương 16 đến Chương 22. Kế thừa bối cảnh kết thúc của Chương 15 làm mỏ neo ngữ cảnh liền mạch. Áp dụng triệt để BNS Literary Engine: bns_prepass -> SceneContract -> Gemini 3.8 Flash -> QualityGate 4A."
+}

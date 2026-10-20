@@ -1,0 +1,10 @@
+{
+  "status": "BLOCKED",
+  "error_kind": "RuntimeError",
+  "scope": "8 excerpts; inspect pilot_runs for failure evidence",
+  "models": {
+    "translator": "gemini-3.6-flash",
+    "reviewer": "gemini-3.8-flash",
+    "auditor": "gemini-3.7-flash"
+  }
+}

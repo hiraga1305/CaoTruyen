@@ -1,0 +1,25 @@
+{
+  "package_hash": "425cc88ff67c79626564e337a277020622620eb83bd71346c187880c841450fd",
+  "segments": [
+    {
+      "id": "c0001p0001",
+      "text": "Lý Minh nhìn tin nhắn trong điện thoại: “Tiền lương ngày mai sẽ về tài khoản, bạn đừng sốt ruột.”"
+    },
+    {
+      "id": "c0001p0002",
+      "text": "“Mẹ, hôm nay con tăng ca, không thể về nhà ăn cơm.” Anh nói."
+    },
+    {
+      "id": "c0001p0003",
+      "text": "Cô ấy không đồng ý, chỉ nói cần suy nghĩ thêm hai ngày nữa."
+    },
+    {
+      "id": "c0001p0004",
+      "text": "Quản lý Trương yêu cầu tồn kho không ít hơn 900 kiện, chứ không phải nhiều hơn 900 kiện."
+    }
+  ],
+  "model": "native/gemini-3.8-flash-low",
+  "identity_basis": "native_cli_init",
+  "conversation_id": "280f4a7e-13f9-4dbd-a71f-e53ceed0ba62",
+  "runtime_hash": "9c5e85d524b49cb1d25dfe17332b67977a745f24d160c466d60eca5ddce72915"
+}

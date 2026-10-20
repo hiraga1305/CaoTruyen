@@ -1,0 +1,77 @@
+{
+  "job_id": "low-shared_source-c0003p0076",
+  "contract_hash": "84127e00ad8d3216d3b93e574f2e62b443629e308f6057371469210d18eb7781",
+  "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+  "segments": [
+    {
+      "id": "c0003p0076",
+      "text": "Chu Thiên Dực nói: \"Sau đó Vương Hải giải thích rằng ông ta không làm, tiếng bình bịch đó là do ông ta đang dạy dỗ học sinh không nghe lời.\""
+    },
+    {
+      "id": "c0003p0077",
+      "text": "\"Sau đó tôi đi hỏi học sinh hai khóa trước, hóa ra Vương Hải từ lâu đã có thói quen phạt thể xác học sinh kém.\""
+    },
+    {
+      "id": "c0003p0078",
+      "text": "\"Đặc biệt là những ai thành tích tụt dốc mà còn không mua thuốc của ông ta, lại càng bị ông ta cầm đầu bắt nạt.\""
+    },
+    {
+      "id": "c0003p0079",
+      "text": "\"Nghe nói mấy năm trước còn có một học sinh bị ông ta ép tới mức phải nhảy lầu.\""
+    },
+    {
+      "id": "c0003p0080",
+      "text": "Nghe thấy hai chữ nhảy lầu, ánh mắt Trương Vũ bỗng nhiên ngưng lại: \"Vương Hải thế này mà cũng không sao ư?\""
+    },
+    {
+      "id": "c0003p0081",
+      "text": "Chu Thiên Dực chẳng cho là đúng bảo: \"Thành tích giảng dạy của Vương Hải xưa nay luôn rất tốt, là giáo viên thể dục át chủ bài của Trường cấp ba Tung Dương, từng dạy ra ba học sinh có cường độ nhục thể đứng đầu toàn thành phố trong kỳ thi đại học, có người nói ông ta có mối lấy một số loại thuốc còn đang ở trong phòng thí nghiệm của đại tông môn.\""
+    },
+    {
+      "id": "c0003p0082",
+      "text": "\"Cho dù trường học thật sự không muốn dùng ông ta nữa, phần lớn học sinh và phụ huynh cũng sẽ không đồng ý, bọn họ đều trông cậy vào việc mua thuốc từ Vương Hải để giúp nâng cao cường độ nhục thể đấy.\""
+    },
+    {
+      "id": "c0003p0083",
+      "text": "Nói đoạn, cậu ta nhìn sang Trương Vũ khuyên can: \"Cậu mà cứ mãi không mua thuốc, thành tích lại không lên nổi, e là cũng sẽ bị ông ta chỉnh đấy.\""
+    },
+    {
+      "id": "c0003p0084",
+      "text": "Nhìn Trương Vũ đang nhíu chặt mày, Chu Thiên Dực tò mò hỏi: \"Tôi nói này... trước kia nhóc con cậu tiêm cũng đâu có ít, sao đột nhiên không mua nữa? Chẳng lẽ là hết tiền rồi? Có cần tôi cho vay một ít không?\""
+    },
+    {
+      "id": "c0003p0085",
+      "text": "Cảm nhận được sự chân thành trong mắt đối phương, Trương Vũ lại bất đắc dĩ cười cười: \"Không cần đâu.\""
+    },
+    {
+      "id": "c0003p0086",
+      "text": "\"Thật sự không cần à?\" Chu Thiên Dực: \"Hay là hôm nay cậu tiêm của tôi trước đi?\""
+    },
+    {
+      "id": "c0003p0087",
+      "text": "Trương Vũ tự nhiên lắc đầu lia lịa, cậu thật sự sợ bản thân tiêm thêm mấy mũi nữa là đột tử ngay tại chỗ."
+    },
+    {
+      "id": "c0003p0088",
+      "text": "Dựa theo ký ức trong đầu cậu, thế giới này không hề thiếu những người vì gánh nặng của thuốc quá lớn mà trọng thương, tàn phế thậm chí là tử vong, ngay cả Trường cấp ba Tung Dương mỗi năm đều có người trọng thương do dùng thuốc quá liều."
+    },
+    {
+      "id": "c0003p0089",
+      "text": "Thế nhưng cho dù như vậy, những học sinh vì theo đuổi cường độ nhục thể mà dùng thuốc vẫn nối liền không dứt."
+    },
+    {
+      "id": "c0003p0090",
+      "text": "Mà nguyên thân từ tuần trước đã bắt đầu xuất hiện dấu hiệu không chịu nổi gánh nặng."
+    },
+    {
+      "id": "c0003p0091",
+      "text": "Nghĩ đến việc nguyên thân không những mắc món nợ khổng lồ bảy mươi vạn, lại còn để lại cho mình một thân xác như thế này, trong lòng Trương Vũ lại thở dài một tiếng."
+    }
+  ],
+  "uncertainties": [],
+  "provenance": {
+    "actual_model": "gemini-3.8-flash-low",
+    "conversation_id": "516e54f5-0ca9-4880-974b-0057500ad15a",
+    "authentication": "OAuth cached account; API key env unset"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "audit_kind": "INDEPENDENT_CODEX_GPT_FINAL_SYNTHETIC_FIXTURE_REAUDIT",
+  "date": "2026-10-13",
+  "reviewer_session": "/root/gpt_pipeline_audit",
+  "reviewer_model_basis": "Inherited Codex GPT subagent model; not a native agy reviewer",
+  "scope": "Two self-authored synthetic Chinese regression fixtures; not crawled novel chapters and not evidence of full-novel translation accuracy",
+  "peer_reviews_read": false,
+  "fixtures": [
+    {
+      "genre": "tien_hiep",
+      "source_file": "native_oauth/research/fixture_tien_hiep.source.json",
+      "target_file": "native_oauth/pilot_tien_hiep/native_oauth/runs/chapter1/draft.json",
+      "source_fixture_hash": "d5fbffe26679067f6fc4001327348978743c85631e5fc78a95ba87210e773be5",
+      "enriched_working_source_hash": "202f07950687e3c3446c2395de30122852588fc41ba3929a5c4fc14f3edb3ae2",
+      "source_texts_and_glossary_unchanged": true,
+      "draft_matches_enriched_source_hash": true,
+      "coverage_and_order": "4/4, exact ids and order",
+      "verdict": "PASS",
+      "reason": "Bốn đoạn đạt đối chiếu nghĩa ở phạm vi fixture tổng hợp; không chỉnh bản tiên hiệp.",
+      "segments": [
+        {
+          "id": "c0001p0001",
+          "source": "陆川收起飞剑，没有追杀那名逃走的弟子。",
+          "target": "Lục Xuyên thu hồi phi kiếm, không truy sát đệ tử đào tẩu kia.",
+          "verdict": "PASS",
+          "reason": "Lục Xuyên thu/cất phi kiếm và không truy sát đệ tử bỏ chạy; không đảo phủ định hay thêm kết quả chết/chấn thương. 'Thu hồi' chấp nhận được với phi kiếm trong ngữ cảnh này.",
+          "original_target": "Lục Xuyên thu hồi phi kiếm, không truy sát đệ tử đào tẩu kia.",
+          "original_verdict": "PASS",
+          "changed": false
+        },
+        {
+          "id": "c0001p0002",
+          "source": "师父沉默片刻，道：“此事未必与掌门有关。你不可妄下结论。”",
+          "target": "Sư phụ trầm mặc giây lát, nói: “Chuyện này chưa hẳn đã liên quan đến chưởng môn. Con không được vội kết luận.”",
+          "verdict": "PASS",
+          "reason": "Giữ người nói là sư phụ, sự im lặng ngắn, mức độ chưa chắc liên quan chưởng môn và lời cấm kết luận vội. Xưng 'con' phù hợp lời sư phụ nói với đệ tử; không biến 未必 thành chắc chắn không liên quan.",
+          "original_target": "Sư phụ trầm mặc giây lát, nói: “Chuyện này chưa hẳn đã liên quan đến chưởng môn. Con không được vội kết luận.”",
+          "original_verdict": "PASS",
+          "changed": false
+        },
+        {
+          "id": "c0001p0003",
+          "source": "她在心中想道：“只要再等三天，师兄就会回来。”",
+          "target": "Nàng thầm nghĩ trong lòng: “Chỉ cần đợi thêm ba ngày, sư huynh sẽ trở về.”",
+          "verdict": "PASS",
+          "reason": "Giữ suy nghĩ nội tâm của nàng, điều kiện chờ thêm ba ngày và sư huynh trở về; không chuyển thành lời nói. 'Thầm nghĩ trong lòng' hơi trùng ý; 'Nàng thầm nghĩ' tự nhiên hơn nhưng đây là ghi chú văn phong.",
+          "style_note": "Có thể bỏ 'trong lòng' sau 'thầm nghĩ'.",
+          "original_target": "Nàng thầm nghĩ trong lòng: “Chỉ cần đợi thêm ba ngày, sư huynh sẽ trở về.”",
+          "original_verdict": "PASS",
+          "changed": false
+        },
+        {
+          "id": "c0001p0004",
+          "source": "他服下两枚丹药，体内的灵气却并未增加。",
+          "target": "Hắn uống vào hai viên đan dược, linh khí trong cơ thể lại không hề tăng thêm.",
+          "verdict": "PASS",
+          "reason": "Giữ hắn dùng hai viên đan dược, quan hệ trái kỳ vọng và linh khí trong cơ thể không tăng. 'Uống vào' hơi cứng; 'uống hai viên' hoặc 'dùng hai viên' gọn hơn mà không đổi nghĩa.",
+          "style_note": "Có thể bỏ 'vào' trong 'uống vào'.",
+          "original_target": "Hắn uống vào hai viên đan dược, linh khí trong cơ thể lại không hề tăng thêm.",
+          "original_verdict": "PASS",
+          "changed": false
+        }
+      ],
+      "original_target_file": "native_oauth/pilot_tien_hiep/native_oauth/runs/chapter1/draft.json",
+      "original_artifact_sha256": "75b51064b1589a0368ed6b3fa73d36e88f6765d3dc68987322b27e353433a2a1",
+      "final_artifact_sha256": "75b51064b1589a0368ed6b3fa73d36e88f6765d3dc68987322b27e353433a2a1",
+      "original_vs_edited": []
+    },
+    {
+      "genre": "hien_dai",
+      "source_file": "native_oauth/research/fixture_hien_dai.source.json",
+      "target_file": "native_oauth/codex_audit/modern_fixture.gpt_edited.json",
+      "source_fixture_hash": "017c54b67117383cc608f01919da607b29376cf687e360535f892e0d977ab107",
+      "enriched_working_source_hash": "425cc88ff67c79626564e337a277020622620eb83bd71346c187880c841450fd",
+      "source_texts_and_glossary_unchanged": true,
+      "draft_matches_enriched_source_hash": true,
+      "coverage_and_order": "4/4, exact ids and order",
+      "verdict": "PASS",
+      "reason": "Hai thay đổi đúng ở đoạn 3 và 4: làm rõ chưa nhận lời và sửa đơn vị 件 thành sản phẩm; cả bốn đoạn cuối giữ nghĩa, số lượng, thời gian, thoại và tên.",
+      "segments": [
+        {
+          "id": "c0001p0001",
+          "source": "李明看了看手机里的短信：“工资明天到账，你别着急。”",
+          "target": "Lý Minh nhìn tin nhắn trong điện thoại: “Tiền lương ngày mai sẽ về tài khoản, bạn đừng sốt ruột.”",
+          "verdict": "PASS",
+          "reason": "Giữ tên Lý Minh, nội dung ở tin nhắn điện thoại, tiền lương vào tài khoản ngày mai và lời bảo đừng sốt ruột. 'Bạn' là cách gọi trung tính khi fixture không cho biết quan hệ người nhắn; không đủ căn cứ ép sang xưng hô khác.",
+          "original_target": "Lý Minh nhìn tin nhắn trong điện thoại: “Tiền lương ngày mai sẽ về tài khoản, bạn đừng sốt ruột.”",
+          "original_verdict": "PASS",
+          "changed": false
+        },
+        {
+          "id": "c0001p0002",
+          "source": "“妈，我今天加班，不能回家吃饭。”他说。",
+          "target": "“Mẹ, hôm nay con tăng ca, không thể về nhà ăn cơm.” Anh nói.",
+          "verdict": "PASS",
+          "reason": "Giữ lời người con nam nói với mẹ, thời điểm hôm nay, tăng ca và không thể về nhà ăn cơm. Giọng hiện đại và xưng mẹ/con đúng cảnh. Chữ 'Anh' sau dấu chấm là lựa chọn trình bày, không phải lỗi mất nghĩa.",
+          "original_target": "“Mẹ, hôm nay con tăng ca, không thể về nhà ăn cơm.” Anh nói.",
+          "original_verdict": "PASS",
+          "changed": false
+        },
+        {
+          "id": "c0001p0003",
+          "source": "她没有答应，只说需要再考虑两天。",
+          "target": "Cô chưa nhận lời, chỉ nói cần suy nghĩ thêm hai ngày.",
+          "verdict": "PASS",
+          "reason": "Cô chưa nhận lời giữ đúng 没有答应 và trạng thái cần cân nhắc thêm hai ngày; không biến thành đã từ chối dứt khoát, không thêm hành động hay đổi thời gian.",
+          "original_target": "Cô ấy không đồng ý, chỉ nói cần suy nghĩ thêm hai ngày nữa.",
+          "original_verdict": "PASS",
+          "changed": true
+        },
+        {
+          "id": "c0001p0004",
+          "source": "张经理要求库存不少于900件，而不是多于900件。",
+          "target": "Quản lý Trương yêu cầu lượng hàng tồn kho phải có ít nhất 900 sản phẩm, chứ không phải hơn 900 sản phẩm.",
+          "verdict": "PASS",
+          "reason": "Bản sửa dùng 900 sản phẩm cho 件, bỏ suy diễn kiện/gói hàng. Ít nhất 900 giữ >=900; hơn 900 giữ >900; người yêu cầu vẫn là quản lý Trương. Không thêm số lượng hay điều kiện mới.",
+          "original_target": "Quản lý Trương yêu cầu tồn kho không ít hơn 900 kiện, chứ không phải nhiều hơn 900 kiện.",
+          "original_verdict": "FAIL",
+          "changed": true
+        }
+      ],
+      "original_target_file": "native_oauth/pilot_hien_dai/native_oauth/runs/chapter1/draft.json",
+      "original_artifact_sha256": "be34aa4ffa2ceb60e4922a243fed2c1ad1ed3be1bc8707fbc7a1b16f240acaa5",
+      "final_artifact_sha256": "8311f457cc8130e39bca7351fb0b11a6fb11eff147b23da21c1f747c462eaeb3",
+      "original_vs_edited": [
+        {
+          "id": "c0001p0003",
+          "before": "Cô ấy không đồng ý, chỉ nói cần suy nghĩ thêm hai ngày nữa.",
+          "after": "Cô chưa nhận lời, chỉ nói cần suy nghĩ thêm hai ngày."
+        },
+        {
+          "id": "c0001p0004",
+          "before": "Quản lý Trương yêu cầu tồn kho không ít hơn 900 kiện, chứ không phải nhiều hơn 900 kiện.",
+          "after": "Quản lý Trương yêu cầu lượng hàng tồn kho phải có ít nhất 900 sản phẩm, chứ không phải hơn 900 sản phẩm."
+        }
+      ]
+    }
+  ],
+  "publication_status": "NOT_A_FULL_CHAPTER_RELEASE_GATE",
+  "limits": "Re-audit of exact synthetic four-plus-four paragraph artifacts only. Both final fixture comparisons pass; this does not establish crawled-novel quality or replace two-session full-chapter review. Earlier native originals remain unchanged.",
+  "reaudit_of": "genre_fixture_audit.json",
+  "source_originals_preserved": true
+}

@@ -1,0 +1,2112 @@
+{
+  "job_id": "low-prevention-v2-c0003p0076",
+  "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+  "state_version": 1,
+  "owned_segments": [
+    {
+      "id": "c0003p0076",
+      "chapter": 3,
+      "source": "周天翊说道：“王海后来解释他没做，砰砰砰的声音是他在教训不听话的学生。”",
+      "source_hash": "e063fe64db85e93684eddf7ecf3fabffc36a4c067b005f657ee323d77cafcd9b",
+      "package_hash": "44ea883e369daff4328ef6373fc02ecb47790e1970ef656f3bc50828d5b138ba",
+      "source_anchor_candidates": []
+    },
+    {
+      "id": "c0003p0077",
+      "chapter": 3,
+      "source": "“后来我问了前两届的学生，原来王海早就有体罚差生的习惯。”",
+      "source_hash": "0106b99198171f985d1814305c6dc880d69b1294eeb400a237e91e0dc150d8fe",
+      "package_hash": "44ea883e369daff4328ef6373fc02ecb47790e1970ef656f3bc50828d5b138ba",
+      "source_anchor_candidates": [
+        {
+          "quote": "两",
+          "start": 7,
+          "end": 8,
+          "context": "“后来我问了前两届的学生，原来王海早就有",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    },
+    {
+      "id": "c0003p0078",
+      "chapter": 3,
+      "source": "“特别是成绩下滑还不买他药的话，更是会被他带头霸凌。”",
+      "source_hash": "a2a98236fa425cf8167a6f84ecedcbe0137a975020d9d55072dbc849e1773ef7",
+      "package_hash": "44ea883e369daff4328ef6373fc02ecb47790e1970ef656f3bc50828d5b138ba",
+      "source_anchor_candidates": []
+    },
+    {
+      "id": "c0003p0079",
+      "chapter": 3,
+      "source": "“听说前几年还有一个学生被他逼得跳楼了。”",
+      "source_hash": "7b427feafeef4fcba010c1aa27b38991dd5b4936af96b5944a11409581b188fc",
+      "package_hash": "44ea883e369daff4328ef6373fc02ecb47790e1970ef656f3bc50828d5b138ba",
+      "source_anchor_candidates": [
+        {
+          "quote": "一",
+          "start": 8,
+          "end": 9,
+          "context": "“听说前几年还有一个学生被他逼得跳楼了。”",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    },
+    {
+      "id": "c0003p0080",
+      "chapter": 3,
+      "source": "听到跳楼两个字，张羽的目光骤然间一凝：“王海这都没事？”",
+      "source_hash": "eef1843ab64499f0e974f367aeac7e31137741a0cd694b921e46f91eb9e13ccc",
+      "package_hash": "44ea883e369daff4328ef6373fc02ecb47790e1970ef656f3bc50828d5b138ba",
+      "source_anchor_candidates": [
+        {
+          "quote": "两",
+          "start": 4,
+          "end": 5,
+          "context": "听到跳楼两个字，张羽的目光骤然间一",
+          "status": "lexical_candidate_requires_context"
+        },
+        {
+          "quote": "一",
+          "start": 16,
+          "end": 17,
+          "context": "两个字，张羽的目光骤然间一凝：“王海这都没事？”",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    },
+    {
+      "id": "c0003p0081",
+      "chapter": 3,
+      "source": "周天翊不以为然道：“王海的教学成绩一直很好，是嵩阳高中的王牌体育老师，教出过三个高考时肉体强度全市第一的学生，有人说他有大宗门一些还在实验室里的药物的渠道。”",
+      "source_hash": "bedfa892fc2ecfde86d37e2df299b0f3c48a286b382a7ee294e37645e922b469",
+      "package_hash": "44ea883e369daff4328ef6373fc02ecb47790e1970ef656f3bc50828d5b138ba",
+      "source_anchor_candidates": [
+        {
+          "quote": "一",
+          "start": 17,
+          "end": 18,
+          "context": "为然道：“王海的教学成绩一直很好，是嵩阳高中的王牌",
+          "status": "lexical_candidate_requires_context"
+        },
+        {
+          "quote": "三",
+          "start": 38,
+          "end": 39,
+          "context": "中的王牌体育老师，教出过三个高考时肉体强度全市第一",
+          "status": "lexical_candidate_requires_context"
+        },
+        {
+          "quote": "一",
+          "start": 50,
+          "end": 51,
+          "context": "三个高考时肉体强度全市第一的学生，有人说他有大宗门",
+          "status": "lexical_candidate_requires_context"
+        },
+        {
+          "quote": "一",
+          "start": 63,
+          "end": 64,
+          "context": "的学生，有人说他有大宗门一些还在实验室里的药物的渠",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    },
+    {
+      "id": "c0003p0082",
+      "chapter": 3,
+      "source": "“就算学校真的不想用他了，大部分学生和家长也不会同意，他们都指着王海买药，帮他们提高肉体强度呢。”",
+      "source_hash": "77d7994778e4a514af188b2479a91039120a1f9501dd938456341fa131eda4d1",
+      "package_hash": "44ea883e369daff4328ef6373fc02ecb47790e1970ef656f3bc50828d5b138ba",
+      "source_anchor_candidates": []
+    },
+    {
+      "id": "c0003p0083",
+      "chapter": 3,
+      "source": "说着，他看向张羽告诫道：“你要是一直不买药，成绩又上不去，恐怕也会被他整。”",
+      "source_hash": "7521faafcb422be94a1a3ee3296b7384ec80c061ff3f3aff3fc7838e4c198afc",
+      "package_hash": "44ea883e369daff4328ef6373fc02ecb47790e1970ef656f3bc50828d5b138ba",
+      "source_anchor_candidates": [
+        {
+          "quote": "一",
+          "start": 16,
+          "end": 17,
+          "context": "看向张羽告诫道：“你要是一直不买药，成绩又上不去，",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    },
+    {
+      "id": "c0003p0084",
+      "chapter": 3,
+      "source": "看着眉头皱起的张羽，周天翊好奇道：“我说……你小子以前扎针也不少啊，怎么突然不买了？该不会是没钱了吧？要不要我借点给你？”",
+      "source_hash": "55a4daf9132ff2a4e0ac7dd055c4d4c43d2680878b61e8e072cc7728b2816c3f",
+      "package_hash": "44ea883e369daff4328ef6373fc02ecb47790e1970ef656f3bc50828d5b138ba",
+      "source_anchor_candidates": []
+    },
+    {
+      "id": "c0003p0085",
+      "chapter": 3,
+      "source": "感受到对方眼中的真诚，张羽却无奈地笑了笑：“不用。”",
+      "source_hash": "d94eac3324c7308d6402411dc08a75a832f03ffe4c15052c208d940d5a189a9a",
+      "package_hash": "44ea883e369daff4328ef6373fc02ecb47790e1970ef656f3bc50828d5b138ba",
+      "source_anchor_candidates": []
+    },
+    {
+      "id": "c0003p0086",
+      "chapter": 3,
+      "source": "“真不用？”周天翊：“要不你今天先扎我的？”",
+      "source_hash": "c150a5f789801d43c99a590c41bf11dfc1fafb43a4ba82f51e35a2d2ee4e3e84",
+      "package_hash": "44ea883e369daff4328ef6373fc02ecb47790e1970ef656f3bc50828d5b138ba",
+      "source_anchor_candidates": []
+    },
+    {
+      "id": "c0003p0087",
+      "chapter": 3,
+      "source": "张羽自然连连摇头，他真怕自己再多扎几针就直接暴毙了。",
+      "source_hash": "affa9a70ee2e012b29236782fb7d2ff41f0bf8b15ad43a43461bea2bd774628d",
+      "package_hash": "44ea883e369daff4328ef6373fc02ecb47790e1970ef656f3bc50828d5b138ba",
+      "source_anchor_candidates": []
+    },
+    {
+      "id": "c0003p0088",
+      "chapter": 3,
+      "source": "根据他脑海中的记忆，这世上可不缺因为药物负荷过大而重创、残疾甚至是死亡的人，甚至嵩阳高中每年都有因为用药过猛而重伤的人。",
+      "source_hash": "9c3a092e958f108511e5060a97d1a8b07cbd81d47dfdb60893ecdd67498c4a4e",
+      "package_hash": "44ea883e369daff4328ef6373fc02ecb47790e1970ef656f3bc50828d5b138ba",
+      "source_anchor_candidates": []
+    },
+    {
+      "id": "c0003p0089",
+      "chapter": 3,
+      "source": "可就算如此，追求肉体强度而用药的学生仍旧是络绎不绝。",
+      "source_hash": "548f2504099b47038b4d74135eb6bc5ca0f943c76db06e20f87e56db1e7eeb06",
+      "package_hash": "44ea883e369daff4328ef6373fc02ecb47790e1970ef656f3bc50828d5b138ba",
+      "source_anchor_candidates": []
+    },
+    {
+      "id": "c0003p0090",
+      "chapter": 3,
+      "source": "而原身从上周开始便已经有了不堪重负的迹象。",
+      "source_hash": "b624c3e149b59ae3ed613921fbaa3762576e22ba1f00fedc93c571bf5ad85cfa",
+      "package_hash": "44ea883e369daff4328ef6373fc02ecb47790e1970ef656f3bc50828d5b138ba",
+      "source_anchor_candidates": []
+    },
+    {
+      "id": "c0003p0091",
+      "chapter": 3,
+      "source": "想到原身不但欠下七十万巨债，还给他留下这么一具肉身，张羽心中便再次哀叹。",
+      "source_hash": "5ce75daecdd3576d14e6b870962a617c48e8552d0a4d02b1abfa8d5bf91a2fd6",
+      "package_hash": "44ea883e369daff4328ef6373fc02ecb47790e1970ef656f3bc50828d5b138ba",
+      "source_anchor_candidates": [
+        {
+          "quote": "七十万",
+          "start": 8,
+          "end": 11,
+          "context": "想到原身不但欠下七十万巨债，还给他留下这么一具",
+          "status": "lexical_candidate_requires_context"
+        },
+        {
+          "quote": "一",
+          "start": 21,
+          "end": 22,
+          "context": "十万巨债，还给他留下这么一具肉身，张羽心中便再次哀",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    }
+  ],
+  "neighbor_segments": [
+    {
+      "id": "c0003p0073",
+      "chapter": 3,
+      "source": "张羽转身朝着一旁的练习器材走去，打算熟悉一下自己的肉体和体育课程的内容。",
+      "source_hash": "1617773aeed8f160f4ebce45f3db8a835969b542c3d5e4db00c47699f266b0ee",
+      "package_hash": "44ea883e369daff4328ef6373fc02ecb47790e1970ef656f3bc50828d5b138ba"
+    },
+    {
+      "id": "c0003p0074",
+      "chapter": 3,
+      "source": "周天翊接着说道：“有老师抱怨王海在隔壁办公室挊，射的时候震裂了房顶。”",
+      "source_hash": "6cfa556bba444c07f33ecc2b5f1e147a5b8df85ac3955c680e5da0441545a63e",
+      "package_hash": "44ea883e369daff4328ef6373fc02ecb47790e1970ef656f3bc50828d5b138ba"
+    },
+    {
+      "id": "c0003p0075",
+      "chapter": 3,
+      "source": "张羽的脚步停了下来，他并不是一个八卦的人，但这么烂的八卦……他得看看到底是怎么回事了。",
+      "source_hash": "c33fdaf3f84c1cae9b46289da2a4ff69d5960cd5e09a4fe572fb1fcf249f965c",
+      "package_hash": "44ea883e369daff4328ef6373fc02ecb47790e1970ef656f3bc50828d5b138ba"
+    },
+    {
+      "id": "c0003p0092",
+      "chapter": 3,
+      "source": "就在两人窃窃私语的时候，一道冷冽的目光突然扫了过来，只听王海喝道：“上体育课别在下面说小话。”",
+      "source_hash": "234b7efb6201341f123b88dfb168237bff09ba4e6d4ecc08fa00c3d243eab8a0",
+      "package_hash": "44ea883e369daff4328ef6373fc02ecb47790e1970ef656f3bc50828d5b138ba"
+    },
+    {
+      "id": "c0003p0093",
+      "chapter": 3,
+      "source": "张羽和周天翊立刻停下了交流，各自开始了锻炼。",
+      "source_hash": "6fe970a110543f02fd46fb35fcf1af205e7beb9f8a664855ed8568adf90c9e15",
+      "package_hash": "44ea883e369daff4328ef6373fc02ecb47790e1970ef656f3bc50828d5b138ba"
+    },
+    {
+      "id": "c0003p0094",
+      "chapter": 3,
+      "source": "只见张羽来到一颗大铁球面前，浑身筋肉一震，猛地发力之后，便将一百公斤重的铁球抱了起来。",
+      "source_hash": "354c431e2b5063216871c2b1eda095e18c4f328250d616e94816c79f17dcf348",
+      "package_hash": "44ea883e369daff4328ef6373fc02ecb47790e1970ef656f3bc50828d5b138ba"
+    }
+  ],
+  "context_capsule": {
+    "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+    "state_version": 1,
+    "through_chapter": 0,
+    "glossary": {
+      "周天翊": "Chu Thiên Dực",
+      "大宗门": "đại tông môn",
+      "嵩阳高中": "Trường cấp ba Tung Dương",
+      "张羽": "Trương Vũ",
+      "王海": "Vương Hải",
+      "肉身": "nhục thân"
+    },
+    "style_profile": {
+      "version": "bns-oriented-editorial-1",
+      "genre": "hybrid_cyberpunk_tu_tien",
+      "common": {
+        "meaning": "Trung thành, đủ nghĩa; không thêm tình tiết/cảm xúc/suy luận không có trong nguồn.",
+        "prose": "Tiếng Việt tự nhiên, đúng chính tả/ngữ pháp; tránh câu convert, đảo cú pháp Hán và lạm dụng đem/hướng/bởi vì cho nên.",
+        "entities": "Khóa tên riêng và thuật ngữ theo glossary có nguồn; xưng hô theo quan hệ, tuổi, vai vế và cảnh, không replace toàn truyện.",
+        "dialogue": "Một kiểu dấu thoại nhất quán; phân biệt thoại, tin nhắn và suy nghĩ; không biến suy nghĩ thành lời nói.",
+        "quantities": "Giữ đúng số, quan hệ ít nhất/hơn/tối đa, tiền tệ và đơn vị; không tự đổi jin thành kg.",
+        "release": "Không lỗi nghĩa nghiêm trọng; phải hai lượt kiểm độc lập và kiểm lại bản đã nhuận sắc. Không lấy điểm tự chấm làm bằng chứng."
+      },
+      "rules": {
+        "register": "Giữ châm biếm khô và nhịp hiện đại; thuật ngữ tu luyện chuẩn hóa, lời thoại đời thường theo quan hệ thực tế.",
+        "terms": "Cảnh giới/công pháp Hán Việt, tín dụng/điện thoại/thi cử diễn đạt hiện đại. 修仙贷 là khoản vay tu tiên.",
+        "pronouns": "Cảnh mẹ-con dùng mẹ/con, phỏng vấn thầy/cô hoặc tôi/em; giọng kể Trương Vũ theo từng giai đoạn/cảnh, không thay ngôi tùy hứng.",
+        "avoid": "Không biến tất cả trường học thành môn phái cổ đại, không tô thêm kịch tính cho câu châm biếm."
+      },
+      "certification": "Local editorial rubric informed by BNS guidance, not BNS approval"
+    },
+    "ledger": [
+      {
+        "keys": [
+          "literal_first_source_anchor:原身"
+        ],
+        "references": [
+          {
+            "source_id": "c0001p0141",
+            "source_quote": "但脑袋里那些关于仙道技术的真实记忆却不断冲击着他的意识，让他与原身逐渐融合的同时，更不断提醒着他眼前已是另一个世界。"
+          }
+        ]
+      },
+      {
+        "keys": [
+          "literal_latest:原身"
+        ],
+        "references": [
+          {
+            "source_id": "c0003p0040",
+            "source_quote": "其次脑海中那些破碎的记忆告诉他，原身因为打药太猛，内脏、心血管负担沉重，已经晕倒数次，开始危及生命了。"
+          }
+        ]
+      },
+      {
+        "keys": [
+          "literal_latest:原身"
+        ],
+        "references": [
+          {
+            "source_id": "c0002p0077",
+            "source_quote": "两人目光扫过手机屏幕，便看到张羽原身那一笔笔的花费。"
+          }
+        ]
+      },
+      {
+        "keys": [
+          "literal_latest:原身"
+        ],
+        "references": [
+          {
+            "source_id": "c0002p0076",
+            "source_quote": "而他心中此刻也同样涌起了对原身的疑惑，当即拿出手机来：“正好我也想复盘一下这钱是怎么花的，那就一起看看流水吧。”"
+          }
+        ]
+      },
+      {
+        "keys": [
+          "literal_first_source_anchor:周天翊"
+        ],
+        "references": [
+          {
+            "source_id": "c0003p0062",
+            "source_quote": "“他是……周天翊。”"
+          }
+        ]
+      },
+      {
+        "keys": [
+          "literal_latest:周天翊"
+        ],
+        "references": [
+          {
+            "source_id": "c0003p0074",
+            "source_quote": "周天翊接着说道：“有老师抱怨王海在隔壁办公室挊，射的时候震裂了房顶。”"
+          }
+        ]
+      },
+      {
+        "keys": [
+          "literal_latest:周天翊"
+        ],
+        "references": [
+          {
+            "source_id": "c0003p0071",
+            "source_quote": "周天翊连连摇头道：“唉，你想不想听一个关于王海的八卦？”"
+          }
+        ]
+      },
+      {
+        "keys": [
+          "literal_latest:周天翊"
+        ],
+        "references": [
+          {
+            "source_id": "c0003p0069",
+            "source_quote": "“你又没买？”看到张羽点头，周天翊嘶了一声道：“你小子就不怕老王整你吗？”"
+          }
+        ]
+      },
+      {
+        "keys": [
+          "literal_first_source_anchor:大宗门"
+        ],
+        "references": [
+          {
+            "source_id": "c0001p0145",
+            "source_quote": "他只知道昆墟之内，是一个以仙道各大宗门为尊的世界。"
+          }
+        ]
+      },
+      {
+        "keys": [
+          "literal_latest:大宗门"
+        ],
+        "references": [
+          {
+            "source_id": "c0003p0052",
+            "source_quote": "“这是金刚宗最新推出来的神象力功能增强剂，大宗门质量有保障，一针顶十针。”"
+          }
+        ]
+      },
+      {
+        "keys": [
+          "literal_latest:大宗门"
+        ],
+        "references": [
+          {
+            "source_id": "c0003p0013",
+            "source_quote": "仙道修行自从经过十大宗门的归纳整合之后，如今早已经拥有了系统性的境界和实力划分，其中包罗万象，覆盖了仙道技术的方方面面，可以说是浩如烟海。"
+          }
+        ]
+      },
+      {
+        "keys": [
+          "literal_latest:大宗门"
+        ],
+        "references": [
+          {
+            "source_id": "c0002p0088",
+            "source_quote": "在十大宗门努力建设的体系中，一切都尽力被标准化、数字化，就连法力也是如此，像是目前学校里的法力检测通通都精确到小数点后一位。"
+          }
+        ]
+      },
+      {
+        "keys": [
+          "literal_first_source_anchor:学生"
+        ],
+        "references": [
+          {
+            "source_id": "c0001p0019",
+            "source_quote": "“我们学校的学生从小学开始，每天平均睡眠时长都不超过两个小时。而像历届的优秀毕业生基本上都是不睡觉的。”"
+          }
+        ]
+      },
+      {
+        "keys": [
+          "literal_latest:学生"
+        ],
+        "references": [
+          {
+            "source_id": "c0003p0060",
+            "source_quote": "说话的学生看上去眉清目秀，一副邻家少年的模样。"
+          }
+        ]
+      }
+    ],
+    "source_visibility_through": "c0003p0091",
+    "authority": "Original source outranks interpretations and parser predictions.",
+    "omitted_optional_entries": 17
+  },
+  "output_rule": "Emit exactly owned ids in source order; neighbors are read-only.",
+  "retry_rule": "Regenerate this whole bounded scene; never patch paragraphs in place.",
+  "experimental_partial_scene": true,
+  "contract_hash": "3cf679efe50c8c9b235e5defe870bc17063f70d6b9a59995edb11e7dc65b6254",
+  "parser_hints": [
+    {
+      "id": "c0003p0076",
+      "ner": [
+        [
+          "Nh",
+          "周天翊",
+          0,
+          0
+        ],
+        [
+          "Nh",
+          "王海",
+          4,
+          4
+        ]
+      ],
+      "srl": [
+        {
+          "index": 1,
+          "predicate": "说道",
+          "arguments": [
+            [
+              "A0",
+              "周天翊",
+              0,
+              0
+            ],
+            [
+              "A1",
+              "“王海后来解释他没做，砰砰砰的声音是他在教训不听话的学生",
+              3,
+              21
+            ]
+          ]
+        },
+        {
+          "index": 6,
+          "predicate": "解释",
+          "arguments": [
+            [
+              "A0",
+              "王海",
+              4,
+              4
+            ],
+            [
+              "ARGM-ADV",
+              "后来",
+              5,
+              5
+            ],
+            [
+              "A2",
+              "他没做",
+              7,
+              9
+            ]
+          ]
+        },
+        {
+          "index": 9,
+          "predicate": "做",
+          "arguments": [
+            [
+              "A0",
+              "他",
+              7,
+              7
+            ],
+            [
+              "ARGM-ADV",
+              "没",
+              8,
+              8
+            ]
+          ]
+        },
+        {
+          "index": 14,
+          "predicate": "是",
+          "arguments": [
+            [
+              "A0",
+              "砰砰砰的声音",
+              11,
+              13
+            ],
+            [
+              "A1",
+              "他在教训不听话的学生",
+              15,
+              21
+            ]
+          ]
+        },
+        {
+          "index": 19,
+          "predicate": "听话",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "不",
+              18,
+              18
+            ],
+            [
+              "A0",
+              "学生",
+              21,
+              21
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0003p0077",
+      "ner": [
+        [
+          "Nh",
+          "王海",
+          12,
+          12
+        ]
+      ],
+      "srl": [
+        {
+          "index": 3,
+          "predicate": "问",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "后来",
+              1,
+              1
+            ],
+            [
+              "A0",
+              "我",
+              2,
+              2
+            ],
+            [
+              "A2",
+              "前两届的学生",
+              5,
+              9
+            ],
+            [
+              "A1",
+              "原来王海早就有体罚差生的习惯",
+              11,
+              18
+            ]
+          ]
+        },
+        {
+          "index": 14,
+          "predicate": "有",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "原来",
+              11,
+              11
+            ],
+            [
+              "A0",
+              "王海",
+              12,
+              12
+            ],
+            [
+              "ARGM-ADV",
+              "早就",
+              13,
+              13
+            ],
+            [
+              "A1",
+              "体罚差生的习惯",
+              15,
+              18
+            ]
+          ]
+        },
+        {
+          "index": 15,
+          "predicate": "体罚",
+          "arguments": [
+            [
+              "A1",
+              "差生",
+              16,
+              16
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0003p0078",
+      "ner": [],
+      "srl": [
+        {
+          "index": 4,
+          "predicate": "下滑",
+          "arguments": [
+            [
+              "A0",
+              "成绩",
+              3,
+              3
+            ]
+          ]
+        },
+        {
+          "index": 7,
+          "predicate": "买",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "成绩下滑",
+              3,
+              4
+            ],
+            [
+              "ARGM-ADV",
+              "还",
+              5,
+              5
+            ],
+            [
+              "ARGM-ADV",
+              "不",
+              6,
+              6
+            ],
+            [
+              "A1",
+              "他药",
+              8,
+              9
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0003p0079",
+      "ner": [],
+      "srl": [
+        {
+          "index": 1,
+          "predicate": "听说",
+          "arguments": [
+            [
+              "A1",
+              "前几年还有一个学生被他逼得跳楼了",
+              2,
+              13
+            ]
+          ]
+        },
+        {
+          "index": 10,
+          "predicate": "逼",
+          "arguments": [
+            [
+              "A1",
+              "一个学生",
+              6,
+              7
+            ],
+            [
+              "A0",
+              "他",
+              9,
+              9
+            ],
+            [
+              "A2",
+              "跳楼",
+              12,
+              12
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0003p0080",
+      "ner": [
+        [
+          "Nh",
+          "张羽",
+          7,
+          7
+        ],
+        [
+          "Nh",
+          "王海",
+          16,
+          16
+        ]
+      ],
+      "srl": [
+        {
+          "index": 0,
+          "predicate": "听到",
+          "arguments": [
+            [
+              "A1",
+              "跳楼两个字",
+              1,
+              5
+            ]
+          ]
+        },
+        {
+          "index": 19,
+          "predicate": "没事",
+          "arguments": [
+            [
+              "A0",
+              "这",
+              17,
+              17
+            ],
+            [
+              "ARGM-ADV",
+              "都",
+              18,
+              18
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0003p0081",
+      "ner": [
+        [
+          "Nh",
+          "周天翊",
+          0,
+          0
+        ],
+        [
+          "Nh",
+          "王海",
+          4,
+          4
+        ],
+        [
+          "Ns",
+          "嵩阳",
+          13,
+          13
+        ]
+      ],
+      "srl": [
+        {
+          "index": 1,
+          "predicate": "不以为然道",
+          "arguments": [
+            [
+              "A0",
+              "周天翊",
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "index": 10,
+          "predicate": "好",
+          "arguments": [
+            [
+              "A0",
+              "王海的教学成绩",
+              4,
+              7
+            ],
+            [
+              "ARGM-ADV",
+              "一直",
+              8,
+              8
+            ],
+            [
+              "ARGM-ADV",
+              "很",
+              9,
+              9
+            ]
+          ]
+        },
+        {
+          "index": 12,
+          "predicate": "是",
+          "arguments": [
+            [
+              "A1",
+              "嵩阳高中的王牌体育老师",
+              13,
+              18
+            ]
+          ]
+        },
+        {
+          "index": 34,
+          "predicate": "有人",
+          "arguments": [
+            [
+              "A1",
+              "说他有大宗门一些还在实验室里的药物的渠道",
+              35,
+              48
+            ]
+          ]
+        },
+        {
+          "index": 35,
+          "predicate": "说",
+          "arguments": [
+            [
+              "A1",
+              "他有大宗门一些还在实验室里的药物的渠道",
+              36,
+              48
+            ]
+          ]
+        },
+        {
+          "index": 37,
+          "predicate": "有",
+          "arguments": [
+            [
+              "A0",
+              "他",
+              36,
+              36
+            ],
+            [
+              "A1",
+              "大宗门一些还在实验室里的药物的渠道",
+              38,
+              48
+            ]
+          ]
+        },
+        {
+          "index": 42,
+          "predicate": "在",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "还",
+              41,
+              41
+            ],
+            [
+              "A1",
+              "实验室里",
+              43,
+              44
+            ],
+            [
+              "A0",
+              "药物",
+              46,
+              46
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0003p0082",
+      "ner": [
+        [
+          "Nh",
+          "王海",
+          23,
+          23
+        ]
+      ],
+      "srl": [
+        {
+          "index": 5,
+          "predicate": "想",
+          "arguments": [
+            [
+              "ARGM-DIS",
+              "就算",
+              1,
+              1
+            ],
+            [
+              "A0",
+              "学校",
+              2,
+              2
+            ],
+            [
+              "ARGM-ADV",
+              "真的",
+              3,
+              3
+            ],
+            [
+              "ARGM-ADV",
+              "不",
+              4,
+              4
+            ],
+            [
+              "A1",
+              "用他",
+              6,
+              7
+            ]
+          ]
+        },
+        {
+          "index": 6,
+          "predicate": "用",
+          "arguments": [
+            [
+              "A1",
+              "他",
+              7,
+              7
+            ]
+          ]
+        },
+        {
+          "index": 17,
+          "predicate": "同意",
+          "arguments": [
+            [
+              "A0",
+              "大部分学生和家长",
+              10,
+              13
+            ],
+            [
+              "ARGM-DIS",
+              "也",
+              14,
+              14
+            ],
+            [
+              "ARGM-ADV",
+              "不",
+              15,
+              15
+            ]
+          ]
+        },
+        {
+          "index": 21,
+          "predicate": "指",
+          "arguments": [
+            [
+              "A0",
+              "他们",
+              19,
+              19
+            ],
+            [
+              "ARGM-ADV",
+              "都",
+              20,
+              20
+            ],
+            [
+              "A1",
+              "王海",
+              23,
+              23
+            ],
+            [
+              "A2",
+              "买药",
+              24,
+              25
+            ]
+          ]
+        },
+        {
+          "index": 24,
+          "predicate": "买",
+          "arguments": [
+            [
+              "A1",
+              "药",
+              25,
+              25
+            ]
+          ]
+        },
+        {
+          "index": 27,
+          "predicate": "帮",
+          "arguments": [
+            [
+              "A0",
+              "他们",
+              19,
+              19
+            ],
+            [
+              "ARGM-ADV",
+              "都",
+              20,
+              20
+            ],
+            [
+              "A1",
+              "他们",
+              28,
+              28
+            ],
+            [
+              "A2",
+              "提高肉体强度",
+              29,
+              31
+            ]
+          ]
+        },
+        {
+          "index": 29,
+          "predicate": "提高",
+          "arguments": [
+            [
+              "A0",
+              "他们",
+              28,
+              28
+            ],
+            [
+              "A1",
+              "肉体强度",
+              30,
+              31
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0003p0083",
+      "ner": [
+        [
+          "Nh",
+          "张羽",
+          6,
+          6
+        ]
+      ],
+      "srl": [
+        {
+          "index": 8,
+          "predicate": "道",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "说着",
+              0,
+              1
+            ],
+            [
+              "A0",
+              "他",
+              3,
+              3
+            ],
+            [
+              "A1",
+              "“你要是一直不买药，成绩又上不去，恐怕也会被他整",
+              10,
+              29
+            ]
+          ]
+        },
+        {
+          "index": 15,
+          "predicate": "买",
+          "arguments": [
+            [
+              "A0",
+              "你",
+              11,
+              11
+            ],
+            [
+              "ARGM-DIS",
+              "要是",
+              12,
+              12
+            ],
+            [
+              "ARGM-ADV",
+              "一直",
+              13,
+              13
+            ],
+            [
+              "ARGM-ADV",
+              "不",
+              14,
+              14
+            ],
+            [
+              "A1",
+              "药",
+              16,
+              16
+            ]
+          ]
+        },
+        {
+          "index": 20,
+          "predicate": "上",
+          "arguments": [
+            [
+              "A0",
+              "成绩",
+              18,
+              18
+            ],
+            [
+              "ARGM-ADV",
+              "又",
+              19,
+              19
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0003p0084",
+      "ner": [
+        [
+          "Nh",
+          "张羽",
+          6,
+          6
+        ],
+        [
+          "Nh",
+          "周天翊",
+          8,
+          8
+        ]
+      ],
+      "srl": [
+        {
+          "index": 0,
+          "predicate": "看",
+          "arguments": [
+            [
+              "A1",
+              "眉头皱起的张羽",
+              2,
+              6
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "predicate": "皱",
+          "arguments": [
+            [
+              "A0",
+              "眉头",
+              2,
+              2
+            ],
+            [
+              "A0-PSR",
+              "张羽",
+              6,
+              6
+            ]
+          ]
+        },
+        {
+          "index": 10,
+          "predicate": "道",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "看着眉头皱起的张羽",
+              0,
+              6
+            ],
+            [
+              "A0",
+              "周天翊",
+              8,
+              8
+            ],
+            [
+              "ARGM-ADV",
+              "好奇",
+              9,
+              9
+            ],
+            [
+              "A1",
+              "“我说……你小子以前扎针也不少啊，怎么突然不买了？该不会是没钱了吧？要不要我借点给你",
+              12,
+              47
+            ]
+          ]
+        },
+        {
+          "index": 14,
+          "predicate": "说",
+          "arguments": [
+            [
+              "A0",
+              "我",
+              13,
+              13
+            ],
+            [
+              "A1",
+              "你小子以前扎针也不少啊，怎么突然不买了？该不会是没钱了吧？要不要我借点给你",
+              17,
+              47
+            ]
+          ]
+        },
+        {
+          "index": 28,
+          "predicate": "买",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "怎么",
+              25,
+              25
+            ],
+            [
+              "ARGM-ADV",
+              "突然",
+              26,
+              26
+            ],
+            [
+              "ARGM-ADV",
+              "不",
+              27,
+              27
+            ]
+          ]
+        },
+        {
+          "index": 34,
+          "predicate": "是",
+          "arguments": [
+            [
+              "A1",
+              "没钱",
+              35,
+              36
+            ]
+          ]
+        },
+        {
+          "index": 35,
+          "predicate": "没",
+          "arguments": [
+            [
+              "A1",
+              "钱",
+              36,
+              36
+            ]
+          ]
+        },
+        {
+          "index": 40,
+          "predicate": "要",
+          "arguments": [
+            [
+              "A1",
+              "我借点给你",
+              43,
+              47
+            ]
+          ]
+        },
+        {
+          "index": 42,
+          "predicate": "要",
+          "arguments": [
+            [
+              "A1",
+              "我",
+              43,
+              43
+            ],
+            [
+              "A2",
+              "借点给你",
+              44,
+              47
+            ]
+          ]
+        },
+        {
+          "index": 46,
+          "predicate": "给",
+          "arguments": [
+            [
+              "A0",
+              "我",
+              43,
+              43
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0003p0085",
+      "ner": [
+        [
+          "Nh",
+          "张羽",
+          7,
+          7
+        ]
+      ],
+      "srl": [
+        {
+          "index": 0,
+          "predicate": "感受",
+          "arguments": [
+            [
+              "A1",
+              "对方眼中的真诚",
+              2,
+              5
+            ]
+          ]
+        },
+        {
+          "index": 11,
+          "predicate": "笑",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "感受到对方眼中的真诚",
+              0,
+              5
+            ],
+            [
+              "A0",
+              "张羽",
+              7,
+              7
+            ],
+            [
+              "ARGM-DIS",
+              "却",
+              8,
+              8
+            ],
+            [
+              "ARGM-ADV",
+              "无奈地",
+              9,
+              10
+            ]
+          ]
+        },
+        {
+          "index": 13,
+          "predicate": "笑",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "感受到对方眼中的真诚",
+              0,
+              5
+            ],
+            [
+              "A0",
+              "张羽",
+              7,
+              7
+            ],
+            [
+              "ARGM-DIS",
+              "却",
+              8,
+              8
+            ],
+            [
+              "ARGM-ADV",
+              "无奈地",
+              9,
+              10
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0003p0086",
+      "ner": [
+        [
+          "Nh",
+          "周天翊",
+          6,
+          6
+        ]
+      ],
+      "srl": [
+        {
+          "index": 3,
+          "predicate": "用",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "真",
+              1,
+              1
+            ],
+            [
+              "ARGM-ADV",
+              "不",
+              2,
+              2
+            ]
+          ]
+        },
+        {
+          "index": 13,
+          "predicate": "扎",
+          "arguments": [
+            [
+              "ARGM-DIS",
+              "要不",
+              9,
+              9
+            ],
+            [
+              "A0",
+              "你",
+              10,
+              10
+            ],
+            [
+              "ARGM-TMP",
+              "今天",
+              11,
+              11
+            ],
+            [
+              "ARGM-ADV",
+              "先",
+              12,
+              12
+            ],
+            [
+              "A1",
+              "我的",
+              14,
+              15
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0003p0087",
+      "ner": [
+        [
+          "Nh",
+          "张羽",
+          0,
+          0
+        ]
+      ],
+      "srl": [
+        {
+          "index": 3,
+          "predicate": "摇头",
+          "arguments": [
+            [
+              "A0",
+              "张羽",
+              0,
+              0
+            ],
+            [
+              "ARGM-ADV",
+              "自然",
+              1,
+              1
+            ],
+            [
+              "ARGM-ADV",
+              "连连",
+              2,
+              2
+            ]
+          ]
+        },
+        {
+          "index": 7,
+          "predicate": "怕",
+          "arguments": [
+            [
+              "A0",
+              "他",
+              5,
+              5
+            ],
+            [
+              "ARGM-ADV",
+              "真",
+              6,
+              6
+            ],
+            [
+              "A1",
+              "自己再多扎几针就直接暴毙了",
+              8,
+              17
+            ]
+          ]
+        },
+        {
+          "index": 11,
+          "predicate": "扎",
+          "arguments": [
+            [
+              "A0",
+              "自己",
+              8,
+              8
+            ],
+            [
+              "ARGM-ADV",
+              "再",
+              9,
+              9
+            ],
+            [
+              "ARGM-ADV",
+              "多",
+              10,
+              10
+            ],
+            [
+              "A1",
+              "几针",
+              12,
+              13
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0003p0088",
+      "ner": [
+        [
+          "Ns",
+          "嵩阳",
+          28,
+          28
+        ]
+      ],
+      "srl": [
+        {
+          "index": 11,
+          "predicate": "缺",
+          "arguments": [
+            [
+              "ARGM-MNR",
+              "根据他脑海中的记忆",
+              0,
+              5
+            ],
+            [
+              "A0",
+              "这世上",
+              7,
+              8
+            ],
+            [
+              "ARGM-ADV",
+              "可",
+              9,
+              9
+            ],
+            [
+              "ARGM-ADV",
+              "不",
+              10,
+              10
+            ],
+            [
+              "A1",
+              "因为药物负荷过大而重创、残疾甚至是死亡的人",
+              12,
+              25
+            ]
+          ]
+        },
+        {
+          "index": 16,
+          "predicate": "大",
+          "arguments": [
+            [
+              "A0",
+              "药物负荷",
+              13,
+              14
+            ],
+            [
+              "ARGM-ADV",
+              "过",
+              15,
+              15
+            ]
+          ]
+        },
+        {
+          "index": 18,
+          "predicate": "重创",
+          "arguments": [
+            [
+              "ARGM-PRP",
+              "因为药物负荷过大",
+              12,
+              16
+            ]
+          ]
+        },
+        {
+          "index": 20,
+          "predicate": "残疾",
+          "arguments": [
+            [
+              "A0",
+              "人",
+              25,
+              25
+            ]
+          ]
+        },
+        {
+          "index": 23,
+          "predicate": "死亡",
+          "arguments": [
+            [
+              "A1",
+              "人",
+              25,
+              25
+            ]
+          ]
+        },
+        {
+          "index": 32,
+          "predicate": "有",
+          "arguments": [
+            [
+              "ARGM-DIS",
+              "甚至",
+              27,
+              27
+            ],
+            [
+              "A0",
+              "嵩阳高中",
+              28,
+              29
+            ],
+            [
+              "ARGM-ADV",
+              "每年",
+              30,
+              30
+            ],
+            [
+              "ARGM-ADV",
+              "都",
+              31,
+              31
+            ],
+            [
+              "A1",
+              "因为用药过猛而重伤的人",
+              33,
+              41
+            ]
+          ]
+        },
+        {
+          "index": 34,
+          "predicate": "用",
+          "arguments": [
+            [
+              "A1",
+              "药",
+              35,
+              35
+            ]
+          ]
+        },
+        {
+          "index": 39,
+          "predicate": "重伤",
+          "arguments": [
+            [
+              "ARGM-PRP",
+              "因为用药过猛",
+              33,
+              37
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0003p0089",
+      "ner": [],
+      "srl": [
+        {
+          "index": 4,
+          "predicate": "追求",
+          "arguments": [
+            [
+              "A1",
+              "肉体强度",
+              5,
+              6
+            ],
+            [
+              "A0",
+              "学生",
+              11,
+              11
+            ]
+          ]
+        },
+        {
+          "index": 8,
+          "predicate": "用",
+          "arguments": [
+            [
+              "A1",
+              "药",
+              9,
+              9
+            ],
+            [
+              "A0",
+              "学生",
+              11,
+              11
+            ]
+          ]
+        },
+        {
+          "index": 14,
+          "predicate": "络绎不绝",
+          "arguments": [
+            [
+              "ARGM-DIS",
+              "可",
+              0,
+              0
+            ],
+            [
+              "ARGM-ADV",
+              "就算如此",
+              1,
+              2
+            ],
+            [
+              "A0",
+              "追求肉体强度而用药的学生",
+              4,
+              11
+            ],
+            [
+              "ARGM-ADV",
+              "仍旧",
+              12,
+              12
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0003p0090",
+      "ner": [],
+      "srl": [
+        {
+          "index": 7,
+          "predicate": "有",
+          "arguments": [
+            [
+              "ARGM-DIS",
+              "而",
+              0,
+              0
+            ],
+            [
+              "A0",
+              "原身",
+              1,
+              1
+            ],
+            [
+              "ARGM-TMP",
+              "从上周开始",
+              2,
+              4
+            ],
+            [
+              "ARGM-ADV",
+              "便",
+              5,
+              5
+            ],
+            [
+              "ARGM-ADV",
+              "已经",
+              6,
+              6
+            ],
+            [
+              "A1",
+              "不堪重负的迹象",
+              9,
+              11
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0003p0091",
+      "ner": [
+        [
+          "Nh",
+          "张羽",
+          17,
+          17
+        ]
+      ],
+      "srl": [
+        {
+          "index": 0,
+          "predicate": "想到",
+          "arguments": [
+            [
+              "A1",
+              "原身不但欠下七十万巨债，还给他留下这么一具肉身",
+              1,
+              15
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "predicate": "欠",
+          "arguments": [
+            [
+              "A2",
+              "原身",
+              1,
+              1
+            ],
+            [
+              "A1",
+              "七十万巨债",
+              5,
+              6
+            ]
+          ]
+        },
+        {
+          "index": 11,
+          "predicate": "留下",
+          "arguments": [
+            [
+              "A0",
+              "原身",
+              1,
+              1
+            ],
+            [
+              "ARGM-DIS",
+              "还",
+              8,
+              8
+            ],
+            [
+              "A2",
+              "给他",
+              9,
+              10
+            ],
+            [
+              "A1",
+              "这么一具肉身",
+              12,
+              15
+            ]
+          ]
+        },
+        {
+          "index": 21,
+          "predicate": "哀叹",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "想到原身不但欠下七十万巨债，还给他留下这么一具肉身",
+              0,
+              15
+            ],
+            [
+              "A0",
+              "张羽心中",
+              17,
+              18
+            ],
+            [
+              "ARGM-DIS",
+              "便",
+              19,
+              19
+            ],
+            [
+              "ARGM-ADV",
+              "再次",
+              20,
+              20
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    }
+  ],
+  "experiment_condition": "low-prevention-v2",
+  "story_store_snapshot": {
+    "revision": 4,
+    "revision_hash": "ab93b7d097946feee7cc9a353e76f5a6f059156dfc031e85a6dabbfb5beb9a74",
+    "capsule_hash": "0aa6035079834616dc12b1597d5de38b891ab3da69fe3cb88fa53df1f8fc2a50"
+  },
+  "preventive_policy": {
+    "version": "source-contract-v2",
+    "instructions": "Phân biệt loại đơn vị với âm Hán Việt: 件 là đơn vị đếm đồ vật/sản phẩm; chỉ gọi là kiện hàng khi nguồn xác nhận đóng kiện hoặc bao gói. 套/份/台/张/支/粒 phải chọn theo vật được đếm, không dịch máy móc âm Hán Việt. Đại lượng tiền chỉ đổi cách đọc số, giữ nguyên độ lớn và loại tiền có trong nguồn; không tự quy đổi sang đồng Việt Nam. Không làm tròn hoặc bỏ số. Giữ riêng khoản vay, người cho vay/người vay, khoản đã trả/khoản còn nợ. Không tự suy diễn vay, làm hồ sơ vay hay đảo nợ thành quỵt nợ/trốn nợ/lừa đảo khi nguồn chưa xác nhận hành vi không trả hoặc gian lận. Giữ ít nhất/hơn/tối đa, không/chưa/không còn và phạm vi thời gian của lời từ chối. Xưng hô đùa như 爹/爸爸 không tự tạo quan hệ huyết thống; đọc lời giải thích trong cảnh. Mỗi thoại phải khớp người nói, người nghe và vai vế theo trích nguồn, không theo bản nháp trước.",
+    "quantities": [
+      {
+        "id": "c0003p0076",
+        "spans": []
+      },
+      {
+        "id": "c0003p0077",
+        "spans": []
+      },
+      {
+        "id": "c0003p0078",
+        "spans": []
+      },
+      {
+        "id": "c0003p0079",
+        "spans": []
+      },
+      {
+        "id": "c0003p0080",
+        "spans": []
+      },
+      {
+        "id": "c0003p0081",
+        "spans": []
+      },
+      {
+        "id": "c0003p0082",
+        "spans": []
+      },
+      {
+        "id": "c0003p0083",
+        "spans": []
+      },
+      {
+        "id": "c0003p0084",
+        "spans": []
+      },
+      {
+        "id": "c0003p0085",
+        "spans": []
+      },
+      {
+        "id": "c0003p0086",
+        "spans": []
+      },
+      {
+        "id": "c0003p0087",
+        "spans": []
+      },
+      {
+        "id": "c0003p0088",
+        "spans": []
+      },
+      {
+        "id": "c0003p0089",
+        "spans": []
+      },
+      {
+        "id": "c0003p0090",
+        "spans": []
+      },
+      {
+        "id": "c0003p0091",
+        "spans": []
+      }
+    ],
+    "rule": "Interpret source-qualified constraints before drafting; no target patches or source substitution"
+  }
+}

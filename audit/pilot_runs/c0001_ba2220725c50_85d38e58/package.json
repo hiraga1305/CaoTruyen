@@ -1,0 +1,97 @@
+{
+  "version": "semantic-gate-1",
+  "chapter": 1,
+  "title": "REGRESSION EXCERPTS - NOT A PRODUCTION CHAPTER",
+  "source_ref": "audit/semantic_regression_cases.json; mixed chapters 1,32,70 and canonical terms",
+  "glossary": {
+    "张羽": "Trương Vũ",
+    "周伟": "Chu Vĩ",
+    "白真真": "Bạch Chân Chân",
+    "熊狼狗": "Hùng Lang Cẩu",
+    "赵天行": "Triệu Thiên Hành",
+    "苏海峰": "Tô Hải Phong",
+    "王海": "Vương Hải",
+    "魏馨": "Ngụy Hinh",
+    "何大有": "Hà Đại Hữu",
+    "雷钧": "Lôi Quân",
+    "钱深": "Tiền Thâm",
+    "周天翼": "Chu Thiên Dực",
+    "昆墟": "Côn Khư",
+    "嵩阳高中": "Trường cấp ba Tung Dương",
+    "东阳初级中学": "Trường cấp hai Đông Dương",
+    "贫民窟": "khu ổ chuột",
+    "大宗门": "đại tông môn",
+    "宗门执法队": "Chấp Pháp Đội của tông môn",
+    "仙兵府": "Tiên Binh Phủ",
+    "修仙贷": "khoản vay tu tiên",
+    "法力贷": "khoản vay pháp lực",
+    "仙道技术": "kỹ thuật tiên đạo",
+    "万魂幡": "Vạn Hồn Phiên",
+    "筑基": "Trúc Cơ",
+    "结丹": "Kết Đan",
+    "金丹": "Kim Đan",
+    "元婴": "Nguyên Anh",
+    "天灵根": "Thiên Linh Căn",
+    "灵根": "linh căn",
+    "元阴炼气之术": "Nguyên Âm Luyện Khí Chi Thuật",
+    "周天采气": "Chu Thiên Thải Khí",
+    "健体": "Kiện Thể",
+    "3级健体": "Kiện Thể cấp 3",
+    "请神": "Thỉnh Thần",
+    "羽书": "Vũ Thư",
+    "道心": "đạo tâm",
+    "法力": "pháp lực",
+    "肉身": "nhục thân",
+    "魂修": "Hồn Tu",
+    "特长生": "học sinh năng khiếu",
+    "绝育手术": "phẫu thuật triệt sản",
+    "绝育": "triệt sản",
+    "黑吗喽": "Hắc Ma Hầu (Black Myth)",
+    "地灵根": "Địa Linh Căn",
+    "人灵根": "Nhân Linh Căn",
+    "神灵根": "Thần Linh Căn",
+    "仙灵根": "Tiên Linh Căn",
+    "寄灵根": "Ký Linh Căn",
+    "增肌灵根": "Tăng Cơ Linh Căn",
+    "元阳灵根": "Nguyên Dương Linh Căn",
+    "气海灵根": "Khí Hải Linh Căn",
+    "法赛": "Pháp Giải",
+    "静室": "tĩnh thất"
+  },
+  "context": {},
+  "segments": [
+    {
+      "id": "c0001p0001",
+      "source": "挂了电话，张羽翻动着手机中的短信箱，便发现了密密麻麻的催款短信，都是原身在各大平台借贷逾期后的催缴。"
+    },
+    {
+      "id": "c0001p0002",
+      "source": "每天班主任会发给你们900克以上牛妖专用的补剂，保证你们的修炼效果是原先的十倍以上。"
+    },
+    {
+      "id": "c0001p0003",
+      "source": "她转了1000块钱给张羽，让张羽记得要谢谢同学和老师。"
+    },
+    {
+      "id": "c0001p0004",
+      "source": "“零分。”一旁的白真真心中幽幽道：“简直是高中的至高羞辱，从此以后彻底丧失了学校生存权。”"
+    },
+    {
+      "id": "c0001p0005",
+      "source": "其中有7个小组都有四名选手，要进行抽签后的两两对决，淘汰至最后一人。\nNguyên văn bối cảnh: 双方在一对一战斗后，获胜的一方----将与另外两人中的获胜者战斗，最终决出这个小组的普级者。"
+    },
+    {
+      "id": "c0001p0006",
+      "source": "在这里签下和‘父亲大人’的契约，成为他真正认可的儿子。"
+    },
+    {
+      "id": "c0001p0007",
+      "source": "而虎云涛，便是这样通过层层考验，来到红塔高中读书的校董之子。"
+    },
+    {
+      "id": "c0001p0008",
+      "source": "「特别是你小子这次法赛拿了第四名，他们一定会想办法逼着你签约，你能顶得住吗？」"
+    }
+  ],
+  "package_hash": "ba2220725c503b132d8397a4eec21cd192d0cfce08ea30ed84899e71577418d3"
+}

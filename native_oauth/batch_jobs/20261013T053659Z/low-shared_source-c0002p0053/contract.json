@@ -1,0 +1,1986 @@
+{
+  "job_id": "low-shared_source-c0002p0053",
+  "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+  "state_version": 1,
+  "owned_segments": [
+    {
+      "id": "c0002p0053",
+      "chapter": 2,
+      "source": "“爹！”",
+      "source_hash": "9da14d70524914c34bfdc5e2cd0a705a6367350e6288c0a42fe2a606c95c0ecb",
+      "package_hash": "f22a4e03d002b0bc71f02233ef08e60e4daf6f0e2f88278c20cec5fdbfcdb7fc",
+      "source_anchor_candidates": []
+    },
+    {
+      "id": "c0002p0054",
+      "chapter": 2,
+      "source": "砰的一声跪倒在地上，白真真抱着张羽的大腿说道：“刚刚食堂人太多，我不好意思说。”",
+      "source_hash": "bc29e5e6b7ae618817025b185888b70f043a9c1b380d19480d517b408542cc31",
+      "package_hash": "f22a4e03d002b0bc71f02233ef08e60e4daf6f0e2f88278c20cec5fdbfcdb7fc",
+      "source_anchor_candidates": [
+        {
+          "quote": "一",
+          "start": 2,
+          "end": 3,
+          "context": "砰的一声跪倒在地上，白真真抱着",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    },
+    {
+      "id": "c0002p0055",
+      "chapter": 2,
+      "source": "“你借点钱给我吧，我小贷逾期快一个月了！我给你跪下……”",
+      "source_hash": "e4dea1b6aac413bd5ece512297aec213b22b477c363c565e1778630b48f43651",
+      "package_hash": "f22a4e03d002b0bc71f02233ef08e60e4daf6f0e2f88278c20cec5fdbfcdb7fc",
+      "source_anchor_candidates": [
+        {
+          "quote": "一",
+          "start": 15,
+          "end": 16,
+          "context": "点钱给我吧，我小贷逾期快一个月了！我给你跪下……”",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    },
+    {
+      "id": "c0002p0056",
+      "chapter": 2,
+      "source": "望着眼前这一幕的张羽心中暗骂一声：“这什么破学校啊，年级第一和年级第十都是贷款装逼是吧？”",
+      "source_hash": "7b03bd0112f8d2db1651af15ad99b17c464819da989a444a1b4f538880a70fe7",
+      "package_hash": "f22a4e03d002b0bc71f02233ef08e60e4daf6f0e2f88278c20cec5fdbfcdb7fc",
+      "source_anchor_candidates": [
+        {
+          "quote": "一",
+          "start": 5,
+          "end": 6,
+          "context": "望着眼前这一幕的张羽心中暗骂一声：“",
+          "status": "lexical_candidate_requires_context"
+        },
+        {
+          "quote": "一",
+          "start": 14,
+          "end": 15,
+          "context": "眼前这一幕的张羽心中暗骂一声：“这什么破学校啊，年",
+          "status": "lexical_candidate_requires_context"
+        },
+        {
+          "quote": "一",
+          "start": 29,
+          "end": 30,
+          "context": "“这什么破学校啊，年级第一和年级第十都是贷款装逼是",
+          "status": "lexical_candidate_requires_context"
+        },
+        {
+          "quote": "十",
+          "start": 34,
+          "end": 35,
+          "context": "学校啊，年级第一和年级第十都是贷款装逼是吧？”",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    },
+    {
+      "id": "c0002p0057",
+      "chapter": 2,
+      "source": "而张羽此刻也已经回忆了起来，他和白真真相互认识并非因为什么学霸圈子，而是因为对方是自己上线，给自己推销过小贷。",
+      "source_hash": "09f70b31734120acea38f4297f3ed639eff018a7db8ee3a44429ac5dc5632d36",
+      "package_hash": "f22a4e03d002b0bc71f02233ef08e60e4daf6f0e2f88278c20cec5fdbfcdb7fc",
+      "source_anchor_candidates": [
+        {
+          "quote": "并非",
+          "start": 23,
+          "end": 25,
+          "context": "起来，他和白真真相互认识并非因为什么学霸圈子，而是因",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    },
+    {
+      "id": "c0002p0058",
+      "chapter": 2,
+      "source": "再次隆重介绍，张羽的同班同学白真真，和张羽是一起分享各大平台借贷情报的好兄弟，有着一起四处借钱的坚固友谊。",
+      "source_hash": "5a0cb2b74d5bdcc2f8200e09d893803ac05cda7e385f8d2cbe5fb44e34ac8a3f",
+      "package_hash": "f22a4e03d002b0bc71f02233ef08e60e4daf6f0e2f88278c20cec5fdbfcdb7fc",
+      "source_anchor_candidates": [
+        {
+          "quote": "一",
+          "start": 22,
+          "end": 23,
+          "context": "同班同学白真真，和张羽是一起分享各大平台借贷情报的",
+          "status": "lexical_candidate_requires_context"
+        },
+        {
+          "quote": "一",
+          "start": 41,
+          "end": 42,
+          "context": "台借贷情报的好兄弟，有着一起四处借钱的坚固友谊。",
+          "status": "lexical_candidate_requires_context"
+        },
+        {
+          "quote": "四",
+          "start": 43,
+          "end": 44,
+          "context": "贷情报的好兄弟，有着一起四处借钱的坚固友谊。",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    },
+    {
+      "id": "c0002p0059",
+      "chapter": 2,
+      "source": "想到对方刚刚在食堂那冷冰冰的扑克脸下面，是在不断想着如何跟自己借钱，张羽就无奈摇了摇头：“你先给我松开，我哪有钱借给你？”",
+      "source_hash": "e1ef819fb119bc2f4cd418f30065855991987d107861f7ababe173521c102df9",
+      "package_hash": "f22a4e03d002b0bc71f02233ef08e60e4daf6f0e2f88278c20cec5fdbfcdb7fc",
+      "source_anchor_candidates": []
+    },
+    {
+      "id": "c0002p0060",
+      "chapter": 2,
+      "source": "白真真摇头说道：“你才年级第十，能花多少钱？申请的贷款一定比我少的多吧？”",
+      "source_hash": "0a4eb4daac13ea0dcbede0d33c2350f80c8bc180d37328156a4a71a2caae82a3",
+      "package_hash": "f22a4e03d002b0bc71f02233ef08e60e4daf6f0e2f88278c20cec5fdbfcdb7fc",
+      "source_anchor_candidates": [
+        {
+          "quote": "十",
+          "start": 14,
+          "end": 15,
+          "context": "真摇头说道：“你才年级第十，能花多少钱？申请的贷款",
+          "status": "lexical_candidate_requires_context"
+        },
+        {
+          "quote": "一",
+          "start": 27,
+          "end": 28,
+          "context": "，能花多少钱？申请的贷款一定比我少的多吧？”",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    },
+    {
+      "id": "c0002p0061",
+      "chapter": 2,
+      "source": "说着，她有些僵硬又羞涩地说道：“只要帮我还了债，你想做什么都行。”",
+      "source_hash": "b27d3f924416ed944b97227dd076be456c4708e26e40bc93b98c2b99a24194be",
+      "package_hash": "f22a4e03d002b0bc71f02233ef08e60e4daf6f0e2f88278c20cec5fdbfcdb7fc",
+      "source_anchor_candidates": []
+    },
+    {
+      "id": "c0002p0062",
+      "chapter": 2,
+      "source": "张羽闻言目光一亮，望着原本冷冰冰的白真真此刻那面若桃花的模样，只觉得别有一番魅力。",
+      "source_hash": "59014ec2ccb620adb9d830a9d6546655b12562a1fbded03b20c900335b7e0310",
+      "package_hash": "f22a4e03d002b0bc71f02233ef08e60e4daf6f0e2f88278c20cec5fdbfcdb7fc",
+      "source_anchor_candidates": [
+        {
+          "quote": "一",
+          "start": 6,
+          "end": 7,
+          "context": "张羽闻言目光一亮，望着原本冷冰冰的白真",
+          "status": "lexical_candidate_requires_context"
+        },
+        {
+          "quote": "一",
+          "start": 36,
+          "end": 37,
+          "context": "若桃花的模样，只觉得别有一番魅力。",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    },
+    {
+      "id": "c0002p0063",
+      "chapter": 2,
+      "source": "他上上下下看着白真真的身子，问道：“真什么都行？”",
+      "source_hash": "b46fded68b9594defd824fb81d4abd14359560c440f6eed4974ccf3b10978d7c",
+      "package_hash": "f22a4e03d002b0bc71f02233ef08e60e4daf6f0e2f88278c20cec5fdbfcdb7fc",
+      "source_anchor_candidates": []
+    },
+    {
+      "id": "c0002p0064",
+      "chapter": 2,
+      "source": "白真真轻咬嘴唇，点了点头：“嗯。”",
+      "source_hash": "a07ad6ae970430e741ceba4917960dae0fb382aae1a05d0ae47f35e27227f3b6",
+      "package_hash": "f22a4e03d002b0bc71f02233ef08e60e4daf6f0e2f88278c20cec5fdbfcdb7fc",
+      "source_anchor_candidates": []
+    },
+    {
+      "id": "c0002p0065",
+      "chapter": 2,
+      "source": "张羽：“那我能把你抵押了吗？”",
+      "source_hash": "0347ee5e0aef909ba5703f71a87616b74b487a1af11bb0b18707292e8f37af7b",
+      "package_hash": "f22a4e03d002b0bc71f02233ef08e60e4daf6f0e2f88278c20cec5fdbfcdb7fc",
+      "source_anchor_candidates": []
+    },
+    {
+      "id": "c0002p0066",
+      "chapter": 2,
+      "source": "白真真松开了手，瞪着张羽道：“羽子，你真没钱了？”",
+      "source_hash": "76b40c1821f4f4175338a4b36e7c2f2825b707bcc26f49ba8697a64a847999e7",
+      "package_hash": "f22a4e03d002b0bc71f02233ef08e60e4daf6f0e2f88278c20cec5fdbfcdb7fc",
+      "source_anchor_candidates": []
+    },
+    {
+      "id": "c0002p0067",
+      "chapter": 2,
+      "source": "张羽拿出手机亮了亮余额和逾期的信息。",
+      "source_hash": "6c48cd1f85435288602e4dc0d13bce1d6af56ac0deb4cfd596e53a7b7a3ec298",
+      "package_hash": "f22a4e03d002b0bc71f02233ef08e60e4daf6f0e2f88278c20cec5fdbfcdb7fc",
+      "source_anchor_candidates": []
+    },
+    {
+      "id": "c0002p0068",
+      "chapter": 2,
+      "source": "白真真站了起来，拍了拍自己满是尘土的裤腿，然后有些不可思议地看着张羽道：“你欠了七十万？就算是大学毕业以后恐怕也要工作很久才能还完吧。”",
+      "source_hash": "dce2a42908c71ebc3e866f203278040b641c9512940049ec8a8f73453b5ebd54",
+      "package_hash": "f22a4e03d002b0bc71f02233ef08e60e4daf6f0e2f88278c20cec5fdbfcdb7fc",
+      "source_anchor_candidates": [
+        {
+          "quote": "七十万",
+          "start": 40,
+          "end": 43,
+          "context": "议地看着张羽道：“你欠了七十万？就算是大学毕业以后恐怕",
+          "status": "lexical_candidate_requires_context"
+        }
+      ]
+    }
+  ],
+  "neighbor_segments": [
+    {
+      "id": "c0002p0050",
+      "chapter": 2,
+      "source": "片刻后，等他吃饱喝足便也抬步离开了食堂，来到了学校后面的小花园。",
+      "source_hash": "e8a495560a464aa05aa32952c79a4b05e0176c6059c4a59982a7af644d927ffa",
+      "package_hash": "f22a4e03d002b0bc71f02233ef08e60e4daf6f0e2f88278c20cec5fdbfcdb7fc"
+    },
+    {
+      "id": "c0002p0051",
+      "chapter": 2,
+      "source": "这里是宿舍楼后方的静谧之处，在此刻绝大部分学生都赶去教学楼的情况下，更是几乎看不到人影。",
+      "source_hash": "04ea39f188570082a04bf2424bf1cab5d270b440195b7fee4a0a414ed1c5c9f9",
+      "package_hash": "f22a4e03d002b0bc71f02233ef08e60e4daf6f0e2f88278c20cec5fdbfcdb7fc"
+    },
+    {
+      "id": "c0002p0052",
+      "chapter": 2,
+      "source": "白真真便站在一处花坛前，一听到张羽的脚步声她就转过身来，快步走到了他的面前。",
+      "source_hash": "29d50c4feb10bb3e16b4bba4fe4d5a5dbff9c3825559e9e7a0f54fb84634782d",
+      "package_hash": "f22a4e03d002b0bc71f02233ef08e60e4daf6f0e2f88278c20cec5fdbfcdb7fc"
+    },
+    {
+      "id": "c0002p0069",
+      "chapter": 2,
+      "source": "“你现在才高一花钱就这么猛？”",
+      "source_hash": "79898e6eff60f0827dbeff73fd5d245ea4071e0e87ba94dc9c358047e8715e6b",
+      "package_hash": "f22a4e03d002b0bc71f02233ef08e60e4daf6f0e2f88278c20cec5fdbfcdb7fc"
+    },
+    {
+      "id": "c0002p0070",
+      "chapter": 2,
+      "source": "白真真说到这里连连摇头：“张羽，这钱你到底是怎么花的？”",
+      "source_hash": "d14c440b2d3a683867741a5541e363ac0e698f11e4fe19abfac76d9f318e8849",
+      "package_hash": "f22a4e03d002b0bc71f02233ef08e60e4daf6f0e2f88278c20cec5fdbfcdb7fc"
+    },
+    {
+      "id": "c0002p0071",
+      "chapter": 2,
+      "source": "张羽揉了揉脑袋说道：“我忘了……你等我想一想。”",
+      "source_hash": "6fffdbe79f2f3be3bbe71fde42af31bc4f64ebbe54d1b2573ea24ac5451bfbaa",
+      "package_hash": "f22a4e03d002b0bc71f02233ef08e60e4daf6f0e2f88278c20cec5fdbfcdb7fc"
+    }
+  ],
+  "context_capsule": {
+    "state_hash": "340b651a66c9458e5be2aad2d60d796332f5eab2c52363d19e16ef4982e81fd0",
+    "state_version": 1,
+    "through_chapter": 0,
+    "glossary": {
+      "张羽": "Trương Vũ",
+      "白真真": "Bạch Chân Chân"
+    },
+    "style_profile": {
+      "version": "bns-oriented-editorial-1",
+      "genre": "hybrid_cyberpunk_tu_tien",
+      "common": {
+        "meaning": "Trung thành, đủ nghĩa; không thêm tình tiết/cảm xúc/suy luận không có trong nguồn.",
+        "prose": "Tiếng Việt tự nhiên, đúng chính tả/ngữ pháp; tránh câu convert, đảo cú pháp Hán và lạm dụng đem/hướng/bởi vì cho nên.",
+        "entities": "Khóa tên riêng và thuật ngữ theo glossary có nguồn; xưng hô theo quan hệ, tuổi, vai vế và cảnh, không replace toàn truyện.",
+        "dialogue": "Một kiểu dấu thoại nhất quán; phân biệt thoại, tin nhắn và suy nghĩ; không biến suy nghĩ thành lời nói.",
+        "quantities": "Giữ đúng số, quan hệ ít nhất/hơn/tối đa, tiền tệ và đơn vị; không tự đổi jin thành kg.",
+        "release": "Không lỗi nghĩa nghiêm trọng; phải hai lượt kiểm độc lập và kiểm lại bản đã nhuận sắc. Không lấy điểm tự chấm làm bằng chứng."
+      },
+      "rules": {
+        "register": "Giữ châm biếm khô và nhịp hiện đại; thuật ngữ tu luyện chuẩn hóa, lời thoại đời thường theo quan hệ thực tế.",
+        "terms": "Cảnh giới/công pháp Hán Việt, tín dụng/điện thoại/thi cử diễn đạt hiện đại. 修仙贷 là khoản vay tu tiên.",
+        "pronouns": "Cảnh mẹ-con dùng mẹ/con, phỏng vấn thầy/cô hoặc tôi/em; giọng kể Trương Vũ theo từng giai đoạn/cảnh, không thay ngôi tùy hứng.",
+        "avoid": "Không biến tất cả trường học thành môn phái cổ đại, không tô thêm kịch tính cho câu châm biếm."
+      },
+      "certification": "Local editorial rubric informed by BNS guidance, not BNS approval"
+    },
+    "ledger": [
+      {
+        "ledger_id": "c0001p0005",
+        "kind": "event",
+        "keys": [
+          "张羽",
+          "母亲"
+        ],
+        "required": false,
+        "references": [
+          {
+            "chapter": 1,
+            "source_id": "c0001p0005",
+            "source_quote": "看着屏幕上母亲发来的消息，张羽默默收起手机，深吸一口气，闭上了眼睛，静静地等待着。",
+            "source_hash": "b2f8badcc0273135a8e6ed04e2b13f169fa977fb7e2e46db0000bbcfabf85156",
+            "source_package_hash": "a4eef28c3f74422adbbc83ceb4992fb53ae7f5e720828aa927aad0d614ba7fd4"
+          }
+        ],
+        "valid_from": "c0001p0005",
+        "authority": "quoted_original_source_only",
+        "full_entry_hash": "df790fab725750dff0a29e49d97e8518faf9bcaa7d43b03a280d0e6db952ea69",
+        "entry_hash": "a5d791f7d59a1d6ac0a88e00289f2192caf012d86297d8945fa510805942698c"
+      },
+      {
+        "ledger_id": "c0001p0007",
+        "kind": "event",
+        "keys": [
+          "张羽"
+        ],
+        "required": false,
+        "references": [
+          {
+            "chapter": 1,
+            "source_id": "c0001p0007",
+            "source_quote": "“989号考生，张羽。”",
+            "source_hash": "b840035c47a745a101308c2234ee1a5b6553ac8f17c037f636daf6f497eb2690",
+            "source_package_hash": "a4eef28c3f74422adbbc83ceb4992fb53ae7f5e720828aa927aad0d614ba7fd4"
+          }
+        ],
+        "valid_from": "c0001p0007",
+        "authority": "quoted_original_source_only",
+        "full_entry_hash": "ed0143acfbf93f3754da7f1e00a6503f8c0b816daefdcc88501b858c62712232",
+        "entry_hash": "71545ae6bc9e5826c84976d5e4aa81aa888921fcb34b76424b424fa8ca92564c"
+      },
+      {
+        "ledger_id": "c0001p0008",
+        "kind": "event",
+        "keys": [
+          "张羽"
+        ],
+        "required": false,
+        "references": [
+          {
+            "chapter": 1,
+            "source_id": "c0001p0008",
+            "source_quote": "张羽站了起来，走进了面试的教室内。",
+            "source_hash": "43fd95adb29b8aa6eda7e99c504f04e56e8d4f193bb5cdd01e644e9ecd5bf59c",
+            "source_package_hash": "a4eef28c3f74422adbbc83ceb4992fb53ae7f5e720828aa927aad0d614ba7fd4"
+          }
+        ],
+        "valid_from": "c0001p0008",
+        "authority": "quoted_original_source_only",
+        "full_entry_hash": "a6bebfebed580c23be7308737cff68a0309f62d9a3e2db5c630df7b8a8d59f24",
+        "entry_hash": "a0b68a4ea2c038ac0f1b79e92a8d1b650b655d167085791c9c111cd78f0342dc"
+      },
+      {
+        "ledger_id": "c0001p0009",
+        "kind": "event",
+        "keys": [
+          "东阳初级中学",
+          "张羽"
+        ],
+        "required": false,
+        "references": [
+          {
+            "chapter": 1,
+            "source_id": "c0001p0009",
+            "source_quote": "他看向三位面试官，露出了练习许久的礼貌笑容：“三位好，我是东阳初级中学的张羽。”",
+            "source_hash": "a628524a921669391b6eb5d27adba10cab4e43a8b4f9c0baee8dba80b9039afa",
+            "source_package_hash": "a4eef28c3f74422adbbc83ceb4992fb53ae7f5e720828aa927aad0d614ba7fd4"
+          }
+        ],
+        "valid_from": "c0001p0009",
+        "authority": "quoted_original_source_only",
+        "full_entry_hash": "0771fd6a1586b60a46c9c3757d1f28196692734c98b231e4c822e886f6b1b7ae",
+        "entry_hash": "c8dfd01768d06bde1e61d88d78eb0abf6b225a75837ffbfda3d41e33b90e3924"
+      },
+      {
+        "ledger_id": "c0001p0011",
+        "kind": "event",
+        "keys": [
+          "张羽"
+        ],
+        "required": false,
+        "references": [
+          {
+            "chapter": 1,
+            "source_id": "c0001p0011",
+            "source_quote": "张羽：“贵校悠久的历史，深厚的底蕴，丰富的教学资源，一直以来为社会培养出了许多杰出人才……”",
+            "source_hash": "824e31f3c700eef5c76efdb651520554996278fd681ced492bde528d992c013d",
+            "source_package_hash": "a4eef28c3f74422adbbc83ceb4992fb53ae7f5e720828aa927aad0d614ba7fd4"
+          }
+        ],
+        "valid_from": "c0001p0011",
+        "authority": "quoted_original_source_only",
+        "full_entry_hash": "4c5451ffbd9560287b34dcc964e6688247f8d2697ed4b1f7b50d329e09c52c17",
+        "entry_hash": "039313134ada125fdb3bd4f89c19be6f0288fe255734c6018d6a2e01c26be8f9"
+      },
+      {
+        "ledger_id": "c0001p0013",
+        "kind": "event",
+        "keys": [
+          "嵩阳",
+          "嵩阳高中",
+          "张羽"
+        ],
+        "required": false,
+        "references": [
+          {
+            "chapter": 1,
+            "source_id": "c0001p0013",
+            "source_quote": "张羽老实道：“我想考上名牌大学，嵩阳高中是我能报考的学校中，大学录取率最高的一个。”",
+            "source_hash": "a7c9272e54c809cf39dfe02fa3868af741c126b310ef527cc5a1b244afdb1fa5",
+            "source_package_hash": "a4eef28c3f74422adbbc83ceb4992fb53ae7f5e720828aa927aad0d614ba7fd4"
+          }
+        ],
+        "valid_from": "c0001p0013",
+        "authority": "quoted_original_source_only",
+        "full_entry_hash": "ab0e221b389d7831994307ce928961fe5e54de2050ec304bea547ca3b576f4e4",
+        "entry_hash": "98cdf73850f9ab2d3389aa5e6d1bf1f28b1c49d49dde11d4fbd7099d1ff869f9"
+      },
+      {
+        "ledger_id": "c0001p0017",
+        "kind": "event",
+        "keys": [
+          "张羽"
+        ],
+        "required": false,
+        "references": [
+          {
+            "chapter": 1,
+            "source_id": "c0001p0017",
+            "source_quote": "张羽：“五个小时。”",
+            "source_hash": "6183bcecf26944f2b84955162267798024c07ae544be626d61c1e39cc7ff46b2",
+            "source_package_hash": "a4eef28c3f74422adbbc83ceb4992fb53ae7f5e720828aa927aad0d614ba7fd4"
+          }
+        ],
+        "valid_from": "c0001p0017",
+        "authority": "quoted_original_source_only",
+        "full_entry_hash": "5297c9006d82418c3e32571403a953be32d879df8c4149822888700276471aca",
+        "entry_hash": "6fbea40f6df070d5bf0e9eebaf6f0426b1ba6556cdcbfda2dc5f24909950305d"
+      }
+    ],
+    "source_visibility_through": "c0002p0068",
+    "authority": "Original source outranks interpretations and parser predictions.",
+    "omitted_optional_entries": 143
+  },
+  "output_rule": "Emit exactly owned ids in source order; neighbors are read-only.",
+  "retry_rule": "Regenerate this whole bounded scene; never patch paragraphs in place.",
+  "experimental_partial_scene": true,
+  "contract_hash": "5a01a433d910fc8afc236f0dfcab5b03dd549d6888e108664e81f33257162473",
+  "parser_hints": [
+    {
+      "id": "c0002p0053",
+      "ner": [],
+      "srl": [],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0002p0054",
+      "ner": [
+        [
+          "Nh",
+          "白真真",
+          9,
+          9
+        ],
+        [
+          "Nh",
+          "张羽",
+          12,
+          12
+        ]
+      ],
+      "srl": [
+        {
+          "index": 5,
+          "predicate": "倒",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "砰的一声",
+              0,
+              3
+            ],
+            [
+              "A1",
+              "在地上",
+              6,
+              7
+            ]
+          ]
+        },
+        {
+          "index": 10,
+          "predicate": "抱",
+          "arguments": [
+            [
+              "A0",
+              "白真真",
+              9,
+              9
+            ],
+            [
+              "A1",
+              "张羽的大腿",
+              12,
+              14
+            ]
+          ]
+        },
+        {
+          "index": 15,
+          "predicate": "说道",
+          "arguments": [
+            [
+              "A0",
+              "白真真",
+              9,
+              9
+            ],
+            [
+              "A1",
+              "“刚刚食堂人太多，我不好意思说",
+              17,
+              25
+            ]
+          ]
+        },
+        {
+          "index": 21,
+          "predicate": "多",
+          "arguments": [
+            [
+              "ARGM-TMP",
+              "刚刚",
+              18,
+              18
+            ],
+            [
+              "A0",
+              "食堂人",
+              19,
+              19
+            ],
+            [
+              "ARGM-ADV",
+              "太",
+              20,
+              20
+            ]
+          ]
+        },
+        {
+          "index": 25,
+          "predicate": "说",
+          "arguments": [
+            [
+              "A0",
+              "我",
+              23,
+              23
+            ],
+            [
+              "ARGM-ADV",
+              "不好意思",
+              24,
+              24
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0002p0055",
+      "ner": [],
+      "srl": [
+        {
+          "index": 2,
+          "predicate": "借",
+          "arguments": [
+            [
+              "A0",
+              "你",
+              1,
+              1
+            ],
+            [
+              "A1",
+              "点钱",
+              3,
+              4
+            ]
+          ]
+        },
+        {
+          "index": 21,
+          "predicate": "跪",
+          "arguments": [
+            [
+              "A0",
+              "我",
+              18,
+              18
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0002p0056",
+      "ner": [
+        [
+          "Nh",
+          "张羽",
+          7,
+          7
+        ]
+      ],
+      "srl": [
+        {
+          "index": 0,
+          "predicate": "望",
+          "arguments": [
+            [
+              "A1",
+              "眼前这一幕",
+              2,
+              5
+            ],
+            [
+              "A0",
+              "张羽",
+              7,
+              7
+            ]
+          ]
+        },
+        {
+          "index": 10,
+          "predicate": "骂",
+          "arguments": [
+            [
+              "A0",
+              "望着眼前这一幕的张羽",
+              0,
+              7
+            ],
+            [
+              "ARGM-LOC",
+              "心中",
+              8,
+              8
+            ],
+            [
+              "ARGM-ADV",
+              "暗",
+              9,
+              9
+            ],
+            [
+              "ARGM-FRQ",
+              "一声",
+              11,
+              12
+            ]
+          ]
+        },
+        {
+          "index": 27,
+          "predicate": "是",
+          "arguments": [
+            [
+              "ARGM-TPC",
+              "这什么破学校",
+              15,
+              18
+            ],
+            [
+              "A0",
+              "年级第一和年级第十",
+              21,
+              25
+            ],
+            [
+              "ARGM-ADV",
+              "都",
+              26,
+              26
+            ],
+            [
+              "A1",
+              "贷款装逼",
+              28,
+              29
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0002p0057",
+      "ner": [
+        [
+          "Nh",
+          "张羽",
+          1,
+          1
+        ],
+        [
+          "Nh",
+          "白真真",
+          11,
+          11
+        ]
+      ],
+      "srl": [
+        {
+          "index": 5,
+          "predicate": "回忆",
+          "arguments": [
+            [
+              "ARGM-DIS",
+              "而",
+              0,
+              0
+            ],
+            [
+              "A0",
+              "张羽",
+              1,
+              1
+            ],
+            [
+              "ARGM-TMP",
+              "此刻",
+              2,
+              2
+            ],
+            [
+              "ARGM-ADV",
+              "也",
+              3,
+              3
+            ],
+            [
+              "ARGM-ADV",
+              "已经",
+              4,
+              4
+            ]
+          ]
+        },
+        {
+          "index": 13,
+          "predicate": "认识",
+          "arguments": [
+            [
+              "A0",
+              "他和白真真",
+              9,
+              11
+            ],
+            [
+              "ARGM-ADV",
+              "相互",
+              12,
+              12
+            ]
+          ]
+        },
+        {
+          "index": 25,
+          "predicate": "上",
+          "arguments": [
+            [
+              "A1",
+              "线",
+              26,
+              26
+            ]
+          ]
+        },
+        {
+          "index": 30,
+          "predicate": "推销",
+          "arguments": [
+            [
+              "ARGM-BNF",
+              "给自己",
+              28,
+              29
+            ],
+            [
+              "A1",
+              "小贷",
+              32,
+              32
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0002p0058",
+      "ner": [
+        [
+          "Nh",
+          "张羽",
+          4,
+          4
+        ],
+        [
+          "Nh",
+          "白真真",
+          8,
+          8
+        ],
+        [
+          "Nh",
+          "张羽",
+          11,
+          11
+        ]
+      ],
+      "srl": [
+        {
+          "index": 2,
+          "predicate": "介绍",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "再次",
+              0,
+              0
+            ],
+            [
+              "ARGM-ADV",
+              "隆重",
+              1,
+              1
+            ],
+            [
+              "A1",
+              "张羽的同班同学白真真，和张羽是一起分享各大平台借贷情报的好兄弟",
+              4,
+              22
+            ]
+          ]
+        },
+        {
+          "index": 12,
+          "predicate": "是",
+          "arguments": [
+            [
+              "A0",
+              "张羽的同班同学白真真",
+              4,
+              8
+            ],
+            [
+              "A0-CRD",
+              "和张羽",
+              10,
+              11
+            ],
+            [
+              "A1",
+              "一起分享各大平台借贷情报的好兄弟",
+              13,
+              22
+            ]
+          ]
+        },
+        {
+          "index": 14,
+          "predicate": "分享",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "一起",
+              13,
+              13
+            ],
+            [
+              "A1",
+              "各大平台借贷情报",
+              15,
+              19
+            ],
+            [
+              "A0",
+              "兄弟",
+              22,
+              22
+            ]
+          ]
+        },
+        {
+          "index": 24,
+          "predicate": "有着",
+          "arguments": [
+            [
+              "A0",
+              "张羽的同班同学白真真",
+              4,
+              8
+            ],
+            [
+              "A1",
+              "一起四处借钱的坚固友谊",
+              25,
+              31
+            ]
+          ]
+        },
+        {
+          "index": 27,
+          "predicate": "借",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "一起",
+              25,
+              25
+            ],
+            [
+              "ARGM-ADV",
+              "四处",
+              26,
+              26
+            ],
+            [
+              "A1",
+              "钱",
+              28,
+              28
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0002p0059",
+      "ner": [
+        [
+          "Nh",
+          "张羽",
+          22,
+          22
+        ]
+      ],
+      "srl": [
+        {
+          "index": 0,
+          "predicate": "想到",
+          "arguments": [
+            [
+              "A1",
+              "对方刚刚在食堂那冷冰冰的扑克脸下面",
+              1,
+              9
+            ]
+          ]
+        },
+        {
+          "index": 14,
+          "predicate": "想",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "在",
+              12,
+              12
+            ],
+            [
+              "ARGM-ADV",
+              "不断",
+              13,
+              13
+            ],
+            [
+              "A1",
+              "如何跟自己借钱",
+              16,
+              20
+            ]
+          ]
+        },
+        {
+          "index": 19,
+          "predicate": "借",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "如何",
+              16,
+              16
+            ],
+            [
+              "A2",
+              "跟自己",
+              17,
+              18
+            ],
+            [
+              "A1",
+              "钱",
+              20,
+              20
+            ]
+          ]
+        },
+        {
+          "index": 25,
+          "predicate": "摇",
+          "arguments": [
+            [
+              "A0",
+              "张羽",
+              22,
+              22
+            ],
+            [
+              "ARGM-ADV",
+              "就",
+              23,
+              23
+            ],
+            [
+              "ARGM-ADV",
+              "无奈",
+              24,
+              24
+            ]
+          ]
+        },
+        {
+          "index": 27,
+          "predicate": "摇头",
+          "arguments": [
+            [
+              "A0",
+              "张羽",
+              22,
+              22
+            ],
+            [
+              "ARGM-ADV",
+              "就",
+              23,
+              23
+            ],
+            [
+              "ARGM-ADV",
+              "无奈",
+              24,
+              24
+            ]
+          ]
+        },
+        {
+          "index": 34,
+          "predicate": "松开",
+          "arguments": [
+            [
+              "A0",
+              "你",
+              30,
+              30
+            ],
+            [
+              "ARGM-ADV",
+              "先",
+              31,
+              31
+            ],
+            [
+              "ARGM-BNF",
+              "给我",
+              32,
+              33
+            ]
+          ]
+        },
+        {
+          "index": 38,
+          "predicate": "有",
+          "arguments": [
+            [
+              "A0",
+              "我",
+              36,
+              36
+            ],
+            [
+              "ARGM-ADV",
+              "哪",
+              37,
+              37
+            ],
+            [
+              "A1",
+              "钱",
+              39,
+              39
+            ]
+          ]
+        },
+        {
+          "index": 40,
+          "predicate": "借",
+          "arguments": [
+            [
+              "A0",
+              "我",
+              36,
+              36
+            ],
+            [
+              "ARGM-ADV",
+              "哪",
+              37,
+              37
+            ],
+            [
+              "A2",
+              "你",
+              42,
+              42
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0002p0060",
+      "ner": [
+        [
+          "Nh",
+          "白真真",
+          0,
+          0
+        ]
+      ],
+      "srl": [
+        {
+          "index": 1,
+          "predicate": "摇头",
+          "arguments": [
+            [
+              "A0",
+              "白真真",
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "predicate": "说道",
+          "arguments": [
+            [
+              "A0",
+              "白真真",
+              0,
+              0
+            ],
+            [
+              "A1",
+              "“你才年级第十，能花多少钱？申请的贷款一定比我少的多吧",
+              4,
+              24
+            ]
+          ]
+        },
+        {
+          "index": 11,
+          "predicate": "花",
+          "arguments": [
+            [
+              "A0",
+              "你",
+              5,
+              5
+            ],
+            [
+              "A1",
+              "多少钱",
+              12,
+              13
+            ]
+          ]
+        },
+        {
+          "index": 21,
+          "predicate": "少",
+          "arguments": [
+            [
+              "A1",
+              "申请的贷款",
+              15,
+              17
+            ],
+            [
+              "ARGM-ADV",
+              "一定",
+              18,
+              18
+            ],
+            [
+              "ARGM-ADV",
+              "比我",
+              19,
+              20
+            ],
+            [
+              "ARGM-ADV",
+              "多",
+              23,
+              23
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0002p0061",
+      "ner": [],
+      "srl": [
+        {
+          "index": 9,
+          "predicate": "说道",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "说着",
+              0,
+              1
+            ],
+            [
+              "A0",
+              "她",
+              3,
+              3
+            ],
+            [
+              "ARGM-ADV",
+              "有些僵硬又羞涩地",
+              4,
+              8
+            ],
+            [
+              "A1",
+              "“只要帮我还了债，你想做什么都行",
+              11,
+              24
+            ]
+          ]
+        },
+        {
+          "index": 13,
+          "predicate": "帮",
+          "arguments": [
+            [
+              "ARGM-DIS",
+              "只要",
+              12,
+              12
+            ],
+            [
+              "A1",
+              "我",
+              14,
+              14
+            ],
+            [
+              "A2",
+              "还了债",
+              15,
+              17
+            ]
+          ]
+        },
+        {
+          "index": 15,
+          "predicate": "还",
+          "arguments": [
+            [
+              "A0",
+              "我",
+              14,
+              14
+            ],
+            [
+              "A1",
+              "债",
+              17,
+              17
+            ]
+          ]
+        },
+        {
+          "index": 20,
+          "predicate": "想",
+          "arguments": [
+            [
+              "A1",
+              "做什么",
+              21,
+              22
+            ]
+          ]
+        },
+        {
+          "index": 21,
+          "predicate": "做",
+          "arguments": [
+            [
+              "A1",
+              "什么",
+              22,
+              22
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0002p0062",
+      "ner": [
+        [
+          "Nh",
+          "张羽",
+          0,
+          0
+        ],
+        [
+          "Nh",
+          "白真真",
+          11,
+          11
+        ]
+      ],
+      "srl": [
+        {
+          "index": 1,
+          "predicate": "闻言",
+          "arguments": [
+            [
+              "A0",
+              "张羽",
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "index": 4,
+          "predicate": "亮",
+          "arguments": [
+            [
+              "A0",
+              "目光",
+              2,
+              2
+            ],
+            [
+              "ARGM-ADV",
+              "一",
+              3,
+              3
+            ]
+          ]
+        },
+        {
+          "index": 6,
+          "predicate": "望",
+          "arguments": [
+            [
+              "A1",
+              "原本冷冰冰的白真真此刻那面若桃花的模样",
+              8,
+              18
+            ]
+          ]
+        },
+        {
+          "index": 15,
+          "predicate": "若",
+          "arguments": [
+            [
+              "A1",
+              "桃花",
+              16,
+              16
+            ]
+          ]
+        },
+        {
+          "index": 21,
+          "predicate": "觉得",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "只",
+              20,
+              20
+            ],
+            [
+              "A1",
+              "别有一番魅力",
+              22,
+              25
+            ]
+          ]
+        },
+        {
+          "index": 23,
+          "predicate": "有",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "别",
+              22,
+              22
+            ],
+            [
+              "A1",
+              "一番魅力",
+              24,
+              25
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0002p0063",
+      "ner": [
+        [
+          "Nh",
+          "白真真",
+          4,
+          4
+        ]
+      ],
+      "srl": [
+        {
+          "index": 2,
+          "predicate": "看",
+          "arguments": [
+            [
+              "A0",
+              "他",
+              0,
+              0
+            ],
+            [
+              "ARGM-ADV",
+              "上上下下",
+              1,
+              1
+            ],
+            [
+              "A1",
+              "白真真的身子",
+              4,
+              6
+            ]
+          ]
+        },
+        {
+          "index": 8,
+          "predicate": "问道",
+          "arguments": [
+            [
+              "A0",
+              "他",
+              0,
+              0
+            ],
+            [
+              "A1",
+              "“真什么都行",
+              10,
+              14
+            ]
+          ]
+        },
+        {
+          "index": 14,
+          "predicate": "行",
+          "arguments": [
+            [
+              "A0",
+              "真什么",
+              11,
+              12
+            ],
+            [
+              "ARGM-ADV",
+              "都",
+              13,
+              13
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0002p0064",
+      "ner": [
+        [
+          "Nh",
+          "白真真",
+          0,
+          0
+        ]
+      ],
+      "srl": [
+        {
+          "index": 2,
+          "predicate": "咬",
+          "arguments": [
+            [
+              "A0",
+              "白真真",
+              0,
+              0
+            ],
+            [
+              "ARGM-ADV",
+              "轻",
+              1,
+              1
+            ],
+            [
+              "A1",
+              "嘴唇",
+              3,
+              3
+            ]
+          ]
+        },
+        {
+          "index": 5,
+          "predicate": "点",
+          "arguments": [
+            [
+              "A0",
+              "白真真",
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "index": 7,
+          "predicate": "点",
+          "arguments": [
+            [
+              "A0",
+              "白真真",
+              0,
+              0
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0002p0065",
+      "ner": [
+        [
+          "Nh",
+          "张羽",
+          0,
+          0
+        ]
+      ],
+      "srl": [],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0002p0066",
+      "ner": [
+        [
+          "Nh",
+          "白真真",
+          0,
+          0
+        ]
+      ],
+      "srl": [
+        {
+          "index": 1,
+          "predicate": "松开",
+          "arguments": [
+            [
+              "A0",
+              "白真真",
+              0,
+              0
+            ],
+            [
+              "A1",
+              "手",
+              3,
+              3
+            ]
+          ]
+        },
+        {
+          "index": 5,
+          "predicate": "瞪",
+          "arguments": [
+            [
+              "A0",
+              "白真真",
+              0,
+              0
+            ],
+            [
+              "A1",
+              "张羽道",
+              7,
+              8
+            ]
+          ]
+        },
+        {
+          "index": 15,
+          "predicate": "没",
+          "arguments": [
+            [
+              "A0",
+              "你",
+              13,
+              13
+            ],
+            [
+              "ARGM-ADV",
+              "真",
+              14,
+              14
+            ],
+            [
+              "A1",
+              "钱",
+              16,
+              16
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0002p0067",
+      "ner": [
+        [
+          "Nh",
+          "张羽",
+          0,
+          0
+        ]
+      ],
+      "srl": [
+        {
+          "index": 1,
+          "predicate": "拿",
+          "arguments": [
+            [
+              "A0",
+              "张羽",
+              0,
+              0
+            ],
+            [
+              "A1",
+              "手机",
+              3,
+              3
+            ]
+          ]
+        },
+        {
+          "index": 4,
+          "predicate": "亮",
+          "arguments": [
+            [
+              "A0",
+              "张羽",
+              0,
+              0
+            ],
+            [
+              "A1",
+              "亮余额和逾期的信息",
+              6,
+              11
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    },
+    {
+      "id": "c0002p0068",
+      "ner": [
+        [
+          "Nh",
+          "白真真",
+          0,
+          0
+        ],
+        [
+          "Nh",
+          "张",
+          21,
+          21
+        ]
+      ],
+      "srl": [
+        {
+          "index": 1,
+          "predicate": "站",
+          "arguments": [
+            [
+              "A0",
+              "白真真",
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "index": 5,
+          "predicate": "拍",
+          "arguments": [
+            [
+              "A0",
+              "白真真",
+              0,
+              0
+            ],
+            [
+              "A1",
+              "自己满是尘土的裤腿",
+              8,
+              13
+            ]
+          ]
+        },
+        {
+          "index": 7,
+          "predicate": "拍",
+          "arguments": [
+            [
+              "A0",
+              "白真真",
+              0,
+              0
+            ],
+            [
+              "A1",
+              "自己满是尘土的裤腿",
+              8,
+              13
+            ]
+          ]
+        },
+        {
+          "index": 10,
+          "predicate": "是",
+          "arguments": [
+            [
+              "A0",
+              "自己",
+              8,
+              8
+            ],
+            [
+              "ARGM-ADV",
+              "满",
+              9,
+              9
+            ],
+            [
+              "A1",
+              "尘土",
+              11,
+              11
+            ],
+            [
+              "A0",
+              "裤腿",
+              13,
+              13
+            ]
+          ]
+        },
+        {
+          "index": 19,
+          "predicate": "看",
+          "arguments": [
+            [
+              "A0",
+              "白真真",
+              0,
+              0
+            ],
+            [
+              "ARGM-ADV",
+              "然后",
+              15,
+              15
+            ],
+            [
+              "ARGM-ADV",
+              "有些",
+              16,
+              16
+            ],
+            [
+              "ARGM-ADV",
+              "不可思议地",
+              17,
+              18
+            ],
+            [
+              "A1",
+              "张羽道",
+              21,
+              22
+            ]
+          ]
+        },
+        {
+          "index": 26,
+          "predicate": "欠",
+          "arguments": [
+            [
+              "A0",
+              "你",
+              25,
+              25
+            ],
+            [
+              "A2",
+              "七十万",
+              28,
+              28
+            ]
+          ]
+        },
+        {
+          "index": 32,
+          "predicate": "毕业",
+          "arguments": [
+            [
+              "A1",
+              "大学",
+              31,
+              31
+            ]
+          ]
+        },
+        {
+          "index": 36,
+          "predicate": "要",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "就算是大学毕业以后",
+              30,
+              33
+            ],
+            [
+              "ARGM-ADV",
+              "恐怕",
+              34,
+              34
+            ],
+            [
+              "ARGM-ADV",
+              "也",
+              35,
+              35
+            ]
+          ]
+        },
+        {
+          "index": 37,
+          "predicate": "工作",
+          "arguments": [
+            [
+              "ARGM-DIS",
+              "就算是",
+              30,
+              30
+            ],
+            [
+              "ARGM-TMP",
+              "大学毕业以后",
+              31,
+              33
+            ],
+            [
+              "ARGM-ADV",
+              "恐怕",
+              34,
+              34
+            ],
+            [
+              "ARGM-ADV",
+              "也",
+              35,
+              35
+            ],
+            [
+              "ARGM-EXT",
+              "很久",
+              38,
+              39
+            ]
+          ]
+        },
+        {
+          "index": 42,
+          "predicate": "还",
+          "arguments": [
+            [
+              "ARGM-ADV",
+              "才",
+              40,
+              40
+            ]
+          ]
+        }
+      ],
+      "status": "predictions only"
+    }
+  ],
+  "experiment_condition": "low-shared_source"
+}

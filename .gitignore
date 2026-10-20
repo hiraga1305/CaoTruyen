@@ -1,0 +1,76 @@
+# Environment & Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.env
+.venv
+env/
+venv/
+ENV/
+.venv_parser/
+native_oauth/.venv_parser/
+
+# Credentials & Sensitive Configs
+api_config.json
+*.key
+*.pem
+
+# Large model weights and binaries
+native_oauth/models/
+*.safetensors
+*.bin
+*.pt
+*.onnx
+
+# Large documents & archives
+*.pdf
+*.zip
+*.tar.gz
+*.7z
+
+# External cloned repositories
+chivi_repos/
+
+# Local databases and locks
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# Temporary runtime caches and raw crawl dumps
+output_dich/*
+!output_dich/.gitkeep
+# Other novels / scratch folders
+PhaoHoiNamXung/
+prepared_input/
+prepared_input_v2/
+source_archive/
+toc_cache.json
+token_analytics_*.json
+*.tmp
+*.log
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini

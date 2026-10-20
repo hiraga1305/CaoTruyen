@@ -1,0 +1,14 @@
+{
+  "jobs": [
+    {
+      "contract": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\contracts_single_20261013T055603Z\\contract.json",
+      "model": "gemini-3.8-flash-medium"
+    }
+  ],
+  "max_concurrency": 1,
+  "timeout": 240,
+  "max_reported_tokens": 140000,
+  "workspace": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_jobs\\single_20261013T055603Z",
+  "result_path": "I:\\Softs\\Antigravity\\CaoTruyen\\native_oauth\\batch_benchmark\\results_single_20261013T055603Z.json",
+  "scope": "Matched48realspans with unionof3sourcecapsules; noncontiguous experimentalcontrol, extrafuturecontextpossible. Not fullchapterpublish."
+}
