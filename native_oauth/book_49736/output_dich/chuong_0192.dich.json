@@ -1,0 +1,529 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 192,
+  "title": "Chương 192: Độ Cao Và Cạm Bẫy",
+  "total_paragraphs": 86,
+  "translated_paragraphs": 86,
+  "source_hash": "a083666a85494e78ae10f0172b80baa4291b82ba10c3e9cf3f5a967ab78923f4",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0192p0001",
+      "index": 1,
+      "raw_zh": "第192章 高度與陷阱",
+      "translated_vi": "Chương 192: Độ Cao Và Cạm Bẫy"
+    },
+    {
+      "para_id": "c0192p0002",
+      "index": 2,
+      "raw_zh": "看到自己的姐姐，阿菲法高興死了，連忙叫道：",
+      "translated_vi": "Trông thấy chị gái mình, Afifa mừng rỡ khôn xiết, vội vàng cất tiếng gọi:"
+    },
+    {
+      "para_id": "c0192p0003",
+      "index": 3,
+      "raw_zh": "“姐姐，姐姐，我不用去天國了，雲千峰救了我，你以後成了神，一定要好好的替我謝謝他，好不好？”",
+      "translated_vi": "“Chị ơi, chị ơi! Em không cần phải về thiên quốc nữa rồi, anh Vân Thiên Phong đã cứu em đấy! Sau này chị trở thành Thần linh rồi, nhất định phải thay em cảm ơn anh ấy thật chu đáo, có được không chị?”"
+    },
+    {
+      "para_id": "c0192p0004",
+      "index": 4,
+      "raw_zh": "法緹娜捏了捏阿菲法的鼻尖，笑道：",
+      "translated_vi": "Fatina véo nhẹ chóp mũi Afifa, cười đáp:"
+    },
+    {
+      "para_id": "c0192p0005",
+      "index": 5,
+      "raw_zh": "“姐姐一定會的。”",
+      "translated_vi": "“Chị nhất định sẽ làm vậy.”"
+    },
+    {
+      "para_id": "c0192p0006",
+      "index": 6,
+      "raw_zh": "雲千峰沒有打斷這對姐妹的話，而是等她們倆問候完了，才開口問道：",
+      "translated_vi": "Vân Thiên Phong không xen ngang lời hai chị em họ, mà đợi đến khi bọn họ hàn huyên thăm hỏi xong xuôi, anh mới mở lời hỏi:"
+    },
+    {
+      "para_id": "c0192p0007",
+      "index": 7,
+      "raw_zh": "“安德呢？”",
+      "translated_vi": "“Ander đâu rồi?”"
+    },
+    {
+      "para_id": "c0192p0008",
+      "index": 8,
+      "raw_zh": "法緹娜一臉悲傷，道：",
+      "translated_vi": "Vẻ mặt Fatina lộ rõ nét bi thương, nói:"
+    },
+    {
+      "para_id": "c0192p0009",
+      "index": 9,
+      "raw_zh": "“他被地下的東西拽進了地底，就在你被拖下去的那個地洞，他是為了救阿菲法，否則被拖下去的就是阿菲法了。",
+      "translated_vi": "“Anh ấy bị thứ quái vật dưới lòng đất lôi tuột xuống vực sâu rồi, ngay tại cái hố đất nơi anh bị kéo xuống ấy. Anh ấy hy sinh thân mình là để cứu Afifa, bằng không người bị lôi xuống đáy sâu đã là Afifa rồi."
+    },
+    {
+      "para_id": "c0192p0010",
+      "index": 10,
+      "raw_zh": "阿菲法當時傷的太重了，我完全不知道該怎麽辦，又以為你們都死了，我隻好自己前來這裡，讓神降臨在我的身上，那樣的話，我就能復活伱們所有人。”",
+      "translated_vi": "Khi đó Afifa bị thương quá nặng, tôi hoàn toàn chẳng biết phải làm sao, lại cứ ngỡ mọi người đều đã chết hết cả rồi. Tôi chỉ còn cách một mình lặn lội tới đây, để Thần linh giáng lâm nhập vào thân xác mình; có như vậy tôi mới có thể hồi sinh cho tất cả mọi người được.”"
+    },
+    {
+      "para_id": "c0192p0011",
+      "index": 11,
+      "raw_zh": "法緹娜沒用雲千峰問，就把所有雲千峰可能好奇的問題回答了一遍。",
+      "translated_vi": "Fatina chẳng đợi Vân Thiên Phong phải gặng hỏi, đã tự mình giải đáp một lượt tất cả những vấn đề mà anh có thể cảm thấy hiếu kỳ."
+    },
+    {
+      "para_id": "c0192p0012",
+      "index": 12,
+      "raw_zh": "沒等雲千峰說話，法緹娜再次先開口問道：",
+      "translated_vi": "Chưa đợi Vân Thiên Phong kịp lên tiếng, Fatina lại giành quyền mở lời hỏi trước:"
+    },
+    {
+      "para_id": "c0192p0013",
+      "index": 13,
+      "raw_zh": "“你們是怎麽進來的？門口那能夠關閉電弧的玉石磚被我破壞了，怕那隻狐狸進來，我可不是它的對手，我以為破壞到那種程度，應該沒有人再能夠從外面打開，沒想到你們還是進來了，我是因為有神器的指引，才知道如何打開，你們兩個是怎麽做到的？”",
+      "translated_vi": "“Hai người làm sao vào được đây thế? Phiến gạch ngọc thạch có thể tắt hồ quang điện ngoài cửa đã bị tôi phá hủy rồi, tôi sợ con hồ ly kia xông vào, tôi đâu phải đối thủ của nó. Tôi cứ ngỡ đã phá hoại đến mức độ đó rồi thì chẳng còn ai từ bên ngoài có thể mở được nữa, không ngờ hai người vẫn lọt vào được. Tôi nhờ có thần khí chỉ dẫn mới biết cách mở cơ quan, hai người rốt cuộc đã làm thế nào vậy?”"
+    },
+    {
+      "para_id": "c0192p0014",
+      "index": 14,
+      "raw_zh": "又是一個雲千峰想要詢問的問題，法緹娜又是完美的回答了，而且這個答案雲千峰覺得無懈可擊。",
+      "translated_vi": "Lại thêm một vấn đề mà Vân Thiên Phong đang toan cất tiếng hỏi, Fatina lại trả lời một cách hoàn hảo, hơn nữa câu trả lời này khiến Vân Thiên Phong cảm thấy không chê vào đâu được, không tìm ra một kẽ hở nào."
+    },
+    {
+      "para_id": "c0192p0015",
+      "index": 15,
+      "raw_zh": "依舊沒有用於雲千峰回答，阿菲法就繪聲繪色的把雲千峰如何斷泉水，讓玉石牆無法發電這個過程講述出來，言語之中，全是對雲千峰的崇拜。",
+      "translated_vi": "Vẫn chẳng cần Vân Thiên Phong phải mở miệng đáp lời, Afifa đã nhanh nhảu sinh động kể lại tường tận quá trình Vân Thiên Phong chặn dòng suối khiến bức tường đá ngọc không thể phát điện ra sao. Từng câu từng chữ của cô bé đều tràn ngập vẻ sùng bái dành cho anh."
+    },
+    {
+      "para_id": "c0192p0016",
+      "index": 16,
+      "raw_zh": "法緹娜的話和兩姐妹之間的互動，讓雲千峰對自己之前的某些猜測產生了懷疑，心裡思索著：",
+      "translated_vi": "Những lời Fatina giãi bày cùng sự tương tác tự nhiên giữa hai chị em khiến Vân Thiên Phong bắt đầu hoài nghi về một số phỏng đoán trước đó của mình, trong lòng anh thầm suy tính:"
+    },
+    {
+      "para_id": "c0192p0017",
+      "index": 17,
+      "raw_zh": "“如此看來，法緹娜本身完全沒有問題，阿菲法的傷應該與她無關，可是這樣就無法解釋白毛狐狸為什麽要在夢裡幫我熟悉這裡的環境，迷惑啊！”",
+      "translated_vi": "“Xem ra Fatina bản thân cô ta hoàn toàn không có vấn đề gì, thương thế của Afifa có lẽ chẳng liên quan tới cô ấy. Thế nhưng như vậy lại không thể giải thích nổi vì sao con hồ ly lông trắng lại phải giúp mình làm quen với hoàn cảnh nơi này trong giấc mơ... Thật là khó hiểu quá đi mất!”"
+    },
+    {
+      "para_id": "c0192p0018",
+      "index": 18,
+      "raw_zh": "他眯著眼睛，在法緹娜身後，觀察她的腰部以下，眯著眼睛思索著。",
+      "translated_vi": "Anh híp mắt lại, đứng từ phía sau Fatina mà chăm chú quan sát từ phần hông trở xuống của cô, nheo mắt trầm ngâm suy nghĩ."
+    },
+    {
+      "para_id": "c0192p0019",
+      "index": 19,
+      "raw_zh": "阿菲法正對著雲千峰，看到他色眯眯的盯著姐姐腰部下面，就叱道：",
+      "translated_vi": "Afifa đang đứng đối diện với Vân Thiên Phong, thấy anh cứ nhìn chòng chọc đầy vẻ háo sắc vào nửa dưới thắt lưng của chị gái mình, bèn gắt lên:"
+    },
+    {
+      "para_id": "c0192p0020",
+      "index": 20,
+      "raw_zh": "“雲千峰，你幹嘛呢？不許看！要看”",
+      "translated_vi": "“Vân Thiên Phong, anh làm cái trò gì đấy? Không được nhìn! Muốn nhìn thì...”"
+    },
+    {
+      "para_id": "c0192p0021",
+      "index": 21,
+      "raw_zh": "後面沒好意思說，臉反正是紅了。",
+      "translated_vi": "Vế sau xấu hổ quá không tiện nói ra mồm, dù sao thì khuôn mặt cô bé cũng đã đỏ bừng lên như gấc chín."
+    },
+    {
+      "para_id": "c0192p0022",
+      "index": 22,
+      "raw_zh": "雲千峰沒想到這丫頭屬於狗肚子，裝不下二兩油，嘴巴比腦子還快。",
+      "translated_vi": "Vân Thiên Phong chẳng ngờ con nhóc này đúng là thuộc dạng ruột để ngoài da, bụng dạ chẳng giấu nổi chuyện gì, cái miệng lúc nào cũng nhanh hơn cái não."
+    },
+    {
+      "para_id": "c0192p0023",
+      "index": 23,
+      "raw_zh": "當下忙不好意思的笑道：",
+      "translated_vi": "Anh vội vàng gãi đầu cười ngượng ngùng phân bua:"
+    },
+    {
+      "para_id": "c0192p0024",
+      "index": 24,
+      "raw_zh": "“我學過中醫，望聞問切是我的長項，尤其是望字訣，我剛才觀察你姐姐，其實是發現她最近消化可能不太好，是不是便秘啊，法緹娜？”",
+      "translated_vi": "“Tôi từng học Trung y, tứ chẩn vọng văn vấn thiết vốn là sở trường của tôi, đặc biệt là bí quyết ở chữ 'vọng' tức là quan sát. Vừa rồi tôi quan sát chị gái em, thực ra là phát hiện gần đây đường tiêu hóa của cô ấy có vẻ không được tốt cho lắm. Có phải cô đang bị táo bón không hả Fatina?”"
+    },
+    {
+      "para_id": "c0192p0025",
+      "index": 25,
+      "raw_zh": "法緹娜一愣，搖頭道：",
+      "translated_vi": "Fatina ngẩn người ra, lắc đầu đáp:"
+    },
+    {
+      "para_id": "c0192p0026",
+      "index": 26,
+      "raw_zh": "“沒有啊，我腸胃很好的，一直沒出什麽問題。”",
+      "translated_vi": "“Làm gì có chuyện đó, dạ dày đường ruột của tôi tốt lắm, trước giờ chưa từng có vấn đề gì cả.”"
+    },
+    {
+      "para_id": "c0192p0027",
+      "index": 27,
+      "raw_zh": "說到這，她似乎想到了什麽，臉一紅，忙問道：",
+      "translated_vi": "Nói tới đây, dường như sực nhớ ra điều gì, gò má cô chợt đỏ ửng lên, vội hỏi:"
+    },
+    {
+      "para_id": "c0192p0028",
+      "index": 28,
+      "raw_zh": "“雲千峰，你是不是看到牆邊的那.”",
+      "translated_vi": "“Vân Thiên Phong, có phải anh đã nhìn thấy thứ ở góc tường kia rồi không...”"
+    },
+    {
+      "para_id": "c0192p0029",
+      "index": 29,
+      "raw_zh": "雲千峰當然知道法緹娜指的是什麽，畢竟剛剛聊到消化問題。",
+      "translated_vi": "Vân Thiên Phong đương nhiên hiểu rõ Fatina đang ám chỉ điều gì, dẫu sao vừa mới đụng chạm tới chủ đề tiêu hóa xong."
+    },
+    {
+      "para_id": "c0192p0030",
+      "index": 30,
+      "raw_zh": "“啊？哈哈，看到了。”",
+      "translated_vi": "“Hả? Haha, thấy rồi.”"
+    },
+    {
+      "para_id": "c0192p0031",
+      "index": 31,
+      "raw_zh": "法緹娜臉紅著，但是表情明顯不悅，叱問道：",
+      "translated_vi": "Fatina đỏ bừng mặt, nhưng nét mặt lộ rõ vẻ không vui, cất giọng hờn dỗi chất vấn:"
+    },
+    {
+      "para_id": "c0192p0032",
+      "index": 32,
+      "raw_zh": "“雲千峰，你在懷疑我？說，你懷疑我什麽？”",
+      "translated_vi": "“Vân Thiên Phong, anh đang nghi ngờ tôi đúng không? Nói đi, anh nghi ngờ tôi chuyện gì?”"
+    },
+    {
+      "para_id": "c0192p0033",
+      "index": 33,
+      "raw_zh": "雲千峰嘴硬，道：",
+      "translated_vi": "Vân Thiên Phong cứng họng cãi bướng:"
+    },
+    {
+      "para_id": "c0192p0034",
+      "index": 34,
+      "raw_zh": "“沒有啊，我沒懷疑你什麽，怎麽這麽問？”",
+      "translated_vi": "“Làm gì có, tôi có nghi ngờ cô điều gì đâu, sao lại hỏi thế?”"
+    },
+    {
+      "para_id": "c0192p0035",
+      "index": 35,
+      "raw_zh": "法緹娜似乎很委屈，眼睛都浸水了，氣憤道：",
+      "translated_vi": "Fatina có vẻ vô cùng tủi thân, viền mắt ngấn lệ, phẫn nộ nói:"
+    },
+    {
+      "para_id": "c0192p0036",
+      "index": 36,
+      "raw_zh": "“你就是懷疑我了，否則不會這麽問！你明明看到了那東西，卻問我是不是便秘，如此反著說，還不是懷疑？”",
+      "translated_vi": "“Rõ ràng là anh nghi ngờ tôi rồi, bằng không sao lại hỏi như vậy! Anh rõ mười mươi đã nhìn thấy thứ đó, thế mà lại hỏi tôi có bị táo bón hay không, nói móc mỉa ngược ngạo như thế chẳng phải là nghi ngờ thì là gì?”"
+    },
+    {
+      "para_id": "c0192p0037",
+      "index": 37,
+      "raw_zh": "說到這，臉更紅了，又氣又羞的樣子，咬了咬牙，使勁一跺腳，似乎下了某種決心似的，說道：",
+      "translated_vi": "Nói đến đây, mặt cô càng đỏ tía tai, dáng vẻ vừa giận vừa thẹn, nghiến răng giậm mạnh chân xuống đất một cái như thể đã hạ quyết tâm làm điều gì to tát lắm, cắn môi bảo:"
+    },
+    {
+      "para_id": "c0192p0038",
+      "index": 38,
+      "raw_zh": "“還望聞問切，雖然我不知道你在懷疑什麽，但我不希望你懷疑我，為了你的信任，為了讓你羞愧，那我就告訴你為什麽，因為約翰有一些特殊的癖好，你懂了嗎？逼一個女人說出這樣的隱秘，你知足了嗎？”",
+      "translated_vi": "“Còn bày đặt vọng văn vấn thiết nữa chứ! Tuy tôi không rõ anh đang nghi ngờ điều gì, nhưng tôi không muốn anh nghi ngờ tôi. Để có được sự tin tưởng của anh, để khiến anh phải biết xấu hổ ngượng ngùng, vậy thì tôi sẽ nói cho anh biết lý do tại sao! Bởi vì John có một vài sở thích quái đản đặc biệt, anh đã hiểu chưa? Ép một người phụ nữ phải nói ra bí mật riêng tư hổ thẹn thế này, anh đã vừa lòng hả dạ chưa?”"
+    },
+    {
+      "para_id": "c0192p0039",
+      "index": 39,
+      "raw_zh": "說著，仰起臉，似乎不願讓眼淚落下來。",
+      "translated_vi": "Vừa nói, cô vừa ngửa mặt lên trần đá, dường như không muốn để những giọt nước mắt rơi xuống."
+    },
+    {
+      "para_id": "c0192p0040",
+      "index": 40,
+      "raw_zh": "這一下把雲千峰整不會了。",
+      "translated_vi": "Màn kịch này lập tức khiến Vân Thiên Phong lúng túng chẳng biết phải xử trí ra sao."
+    },
+    {
+      "para_id": "c0192p0041",
+      "index": 41,
+      "raw_zh": "可以說，談話的節奏，已經完全被法緹娜掌控了，尤其還有個幫凶。",
+      "translated_vi": "Có thể nói, tiết tấu của cuộc trò chuyện đã hoàn toàn bị Fatina nắm trọn trong tay, huống hồ bên cạnh còn có một kẻ đồng lõa tiếp tay."
+    },
+    {
+      "para_id": "c0192p0042",
+      "index": 42,
+      "raw_zh": "阿菲法聽到法緹娜的話，對著雲千峰生氣，道：",
+      "translated_vi": "Afifa nghe những lời Fatina vừa bộc bạch liền quay sang giận dữ trách cứ Vân Thiên Phong:"
+    },
+    {
+      "para_id": "c0192p0043",
+      "index": 43,
+      "raw_zh": "“你為什麽懷疑我姐姐？她是很好很好的人，很善良，她告訴我，來這裡是為了就活我們兩個，你不要懷疑她好不好？”",
+      "translated_vi": "“Sao anh lại đi nghi ngờ chị gái em chứ? Chị ấy là người tốt vô cùng, lại rất mực thiện lương hiền từ. Chị ấy bảo với em rằng tới đây là vì muốn cứu sống hai chúng ta, anh đừng có nghi ngờ chị ấy nữa được không?”"
+    },
+    {
+      "para_id": "c0192p0044",
+      "index": 44,
+      "raw_zh": "聽到這話，雲千峰立馬無地自容的開始道歉，彎腰低頭那種。",
+      "translated_vi": "Nghe thấy câu nói này, Vân Thiên Phong lập tức cảm thấy ngượng chín người, không còn chỗ chôn thân, bèn cúi đầu khom lưng rối rít nói lời xin lỗi."
+    },
+    {
+      "para_id": "c0192p0045",
+      "index": 45,
+      "raw_zh": "法緹娜是個很好說話的人，尤其還有阿菲法幫著說好話，雲千峰終於獲得了法緹娜的原諒。",
+      "translated_vi": "Fatina vốn là người dễ tính, lại có Afifa nói đỡ vài câu, cuối cùng Vân Thiên Phong cũng nhận được sự tha thứ của cô."
+    },
+    {
+      "para_id": "c0192p0046",
+      "index": 46,
+      "raw_zh": "不過從阿菲法說話的語氣以及說話時自己所處的位置來看，她怎麽都像是要姐姐原諒自己的妹夫。",
+      "translated_vi": "Thế nhưng xét từ ngữ khí của Afifa cũng như vị trí đứng của cô bé lúc nói chuyện, kiểu gì trông cô cũng như đang ra sức van xin người chị gái rộng lòng tha thứ cho anh chàng em rể vậy."
+    },
+    {
+      "para_id": "c0192p0047",
+      "index": 47,
+      "raw_zh": "雲千峰反正是這麽感覺的。",
+      "translated_vi": "Dù sao thì Vân Thiên Phong cũng có cảm giác rõ mồn một như thế."
+    },
+    {
+      "para_id": "c0192p0048",
+      "index": 48,
+      "raw_zh": "他覺得阿菲法這種想法很危險，羅琳娜可不是吃素的，更別說還很可能有個會打雷的。",
+      "translated_vi": "Anh thầm nghĩ suy nghĩ này của Afifa quả thực quá đỗi nguy hiểm, Lorina đâu phải dạng vừa ăn chay niệm Phật, huống chi rất có thể còn có một người biết giật sét đùng đoàng nữa kia."
+    },
+    {
+      "para_id": "c0192p0049",
+      "index": 49,
+      "raw_zh": "“法緹娜，要怎麽樣才能讓神降臨在你的身上？”",
+      "translated_vi": "“Fatina, phải làm thế nào thì Thần linh mới giáng lâm nhập vào thân xác cô được?”"
+    },
+    {
+      "para_id": "c0192p0050",
+      "index": 50,
+      "raw_zh": "剛才的矛盾解開後，雲千峰詢問道。",
+      "translated_vi": "Sau khi gút mắc vừa rồi được tháo gỡ, Vân Thiên Phong mới lên tiếng hỏi."
+    },
+    {
+      "para_id": "c0192p0051",
+      "index": 51,
+      "raw_zh": "法緹娜回道：",
+      "translated_vi": "Fatina đáp:"
+    },
+    {
+      "para_id": "c0192p0052",
+      "index": 52,
+      "raw_zh": "“很簡單，只需要把我帶來的神器和之前被狐狸偷走的另一夥人的神器放在這裡的神像上，然後我只需要真誠禱告，就可以了。”",
+      "translated_vi": "“Rất đơn giản, chỉ cần đem món thần khí do tôi mang tới cùng với món thần khí của nhóm người kia bị con hồ ly đánh cắp đặt lên bức tượng thần ở đây, sau đó tôi chỉ cần thành tâm cầu nguyện là được rồi.”"
+    },
+    {
+      "para_id": "c0192p0053",
+      "index": 53,
+      "raw_zh": "雲千峰一愣，問道：",
+      "translated_vi": "Vân Thiên Phong thoáng ngẩn ra, hỏi:"
+    },
+    {
+      "para_id": "c0192p0054",
+      "index": 54,
+      "raw_zh": "“狐狸偷走的神器你找到了？”",
+      "translated_vi": "“Món thần khí bị con hồ ly trộm mất cô đã tìm thấy rồi sao?”"
+    },
+    {
+      "para_id": "c0192p0055",
+      "index": 55,
+      "raw_zh": "法緹娜笑著點了點頭，道：",
+      "translated_vi": "Fatina mỉm cười gật đầu bảo:"
+    },
+    {
+      "para_id": "c0192p0056",
+      "index": 56,
+      "raw_zh": "“找到了，它就把神器藏在這個玉石洞窟內，而且我捉住了它。”",
+      "translated_vi": "“Tìm thấy rồi, nó giấu món thần khí ngay trong thạch động ngọc này, hơn nữa tôi còn bắt sống được nó nữa.”"
+    },
+    {
+      "para_id": "c0192p0057",
+      "index": 57,
+      "raw_zh": "雲千峰難以置信的表情，問道：",
+      "translated_vi": "Vân Thiên Phong lộ vẻ mặt khó tin, kinh ngạc hỏi:"
+    },
+    {
+      "para_id": "c0192p0058",
+      "index": 58,
+      "raw_zh": "“啊？你捉到了它？”",
+      "translated_vi": "“Hả? Cô tóm được nó rồi ư?”"
+    },
+    {
+      "para_id": "c0192p0059",
+      "index": 59,
+      "raw_zh": "法緹娜點了點頭，道：",
+      "translated_vi": "Fatina gật đầu đáp:"
+    },
+    {
+      "para_id": "c0192p0060",
+      "index": 60,
+      "raw_zh": "“神器對它太重要了，以至於它無法關閉電弧，還是冒死衝了進來，不得不說，那隻狐狸很強悍，竟然沒死，只不過被電暈了，反倒便宜了我，被我用繩索捆了起來。",
+      "translated_vi": "“Thần khí đối với nó quá đỗi quan trọng, đến mức dù không thể tắt hồ quang điện, nó vẫn liều mạng xông bừa vào. Phải thừa nhận là con cáo kia vô cùng dẻo dai khỏe mạnh, thế mà lại không bị giật chết, chỉ bị điện đánh ngất lịm đi thôi, rốt cuộc lại tạo cơ hội thuận lợi cho tôi, bị tôi dùng dây thừng trói gô lại rồi."
+    },
+    {
+      "para_id": "c0192p0061",
+      "index": 61,
+      "raw_zh": "我不願殺生，等下等我禱告之後，再想是放了它還是殺了它吧，若是殺，也是雲千峰你來，我怕是下不了手的。”",
+      "translated_vi": "Tôi vốn không muốn sát sinh, lát nữa đợi tôi cầu nguyện xong xuôi rồi tính tiếp xem nên thả hay giết nó. Nếu phải giết thì cũng để Vân Thiên Phong anh ra tay, chứ tôi sợ bản thân không nỡ xuống tay đâu.”"
+    },
+    {
+      "para_id": "c0192p0062",
+      "index": 62,
+      "raw_zh": "雲千峰笑道：",
+      "translated_vi": "Vân Thiên Phong bật cười bảo:"
+    },
+    {
+      "para_id": "c0192p0063",
+      "index": 63,
+      "raw_zh": "“你就是想讓它看到你成功的過程吧？估計直接就氣死了，我都省的動手。”",
+      "translated_vi": "“Cô chỉ là muốn để nó tận mắt chứng kiến khoảnh khắc cô thành công đúng không? Khéo chừng nó tức đến hộc máu mà chết thẳng cẳng luôn, tôi cũng đỡ phải nhọc công ra tay.”"
+    },
+    {
+      "para_id": "c0192p0064",
+      "index": 64,
+      "raw_zh": "法緹娜沒有否認，抿嘴笑著。",
+      "translated_vi": "Fatina không phủ nhận, chỉ mím môi mỉm cười."
+    },
+    {
+      "para_id": "c0192p0065",
+      "index": 65,
+      "raw_zh": "還真是這個意思。",
+      "translated_vi": "Quả đúng là có ý định đó thật."
+    },
+    {
+      "para_id": "c0192p0066",
+      "index": 66,
+      "raw_zh": "“走吧，我們去把兩個神器放在神像上。”",
+      "translated_vi": "“Đi thôi, chúng ta qua đặt hai món thần khí lên pho tượng thần nào.”"
+    },
+    {
+      "para_id": "c0192p0067",
+      "index": 67,
+      "raw_zh": "雲千峰隨口調笑道：",
+      "translated_vi": "Vân Thiên Phong buộc miệng trêu đùa một câu:"
+    },
+    {
+      "para_id": "c0192p0068",
+      "index": 68,
+      "raw_zh": "“不需要沐浴更衣嗎？”",
+      "translated_vi": "“Không cần tắm rửa thay quần áo sao?”"
+    },
+    {
+      "para_id": "c0192p0069",
+      "index": 69,
+      "raw_zh": "法緹娜笑道：",
+      "translated_vi": "Fatina cười đáp:"
+    },
+    {
+      "para_id": "c0192p0070",
+      "index": 70,
+      "raw_zh": "“沐浴過了。”",
+      "translated_vi": "“Tắm rửa sạch sẽ rồi mà.”"
+    },
+    {
+      "para_id": "c0192p0071",
+      "index": 71,
+      "raw_zh": "雲千峰這才明白，為啥她在這麽陰冷的地下溶洞，用更加冰冷的泉水洗澡，感情是準備禱告的原因。",
+      "translated_vi": "Đến lúc này Vân Thiên Phong mới vỡ lẽ vì sao cô lại ở trong hang động ngầm âm u lạnh lẽo thế này mà dùng dòng nước suối băng giá để tắm táp, hóa ra là để chuẩn bị cho nghi thức cầu nguyện thiêng liêng."
+    },
+    {
+      "para_id": "c0192p0072",
+      "index": 72,
+      "raw_zh": "三個人來到玉石屏風之後，挨著蓮花燈的神像之前。",
+      "translated_vi": "Ba người cùng đi vòng ra phía sau tấm bình phong ngọc thạch, tiến tới trước bức tượng thần nằm kề sát ngọn đèn hoa sen."
+    },
+    {
+      "para_id": "c0192p0073",
+      "index": 73,
+      "raw_zh": "這裡的一切，與雲千峰夢裡所見一模一樣。",
+      "translated_vi": "Mọi cảnh vật nơi đây giống hệt như những gì Vân Thiên Phong đã thấy trong giấc mộng."
+    },
+    {
+      "para_id": "c0192p0074",
+      "index": 74,
+      "raw_zh": "法緹娜指著神像前的兩塊隕石，說道：",
+      "translated_vi": "Fatina chỉ vào hai khối thiên thạch đặt trước tượng thần, bảo:"
+    },
+    {
+      "para_id": "c0192p0075",
+      "index": 75,
+      "raw_zh": "“雲，幫我裝上去吧，太高了，我有點怕。”",
+      "translated_vi": "“Anh Vân, giúp tôi gắn chúng lên trên đó đi, cao quá tôi thấy hơi sợ.”"
+    },
+    {
+      "para_id": "c0192p0076",
+      "index": 76,
+      "raw_zh": "這樣小小的請求，雲千峰自然無法拒絕，因為他要爬上去拿到蚩尤臂甲，當下利索的把兩塊隕石用背包背在身上，開始沿著那十數米高的神像往上攀爬。",
+      "translated_vi": "Yêu cầu nhỏ nhặt như vậy tự nhiên Vân Thiên Phong chẳng thể nào từ chối, bởi bản thân anh cũng cần leo lên trên để lấy bộ giáp tay Xi Vưu Giáp; anh lập tức dứt khoát bỏ hai khối thiên thạch vào ba lô khoác lên vai, bắt đầu men theo bức tượng thần cao hơn mười mét thoan thoắt trèo lên."
+    },
+    {
+      "para_id": "c0192p0077",
+      "index": 77,
+      "raw_zh": "好在這神軀身上原本就是七裂八瓣，到處都是黏合的縫隙，非常容易攀岩。",
+      "translated_vi": "May thay thân xác thần linh này vốn dĩ đã nứt vỡ thành trăm mảnh, khắp nơi đều là những đường rãnh kết dính chắp vá, cực kỳ thuận lợi cho việc leo trèo bám víu."
+    },
+    {
+      "para_id": "c0192p0078",
+      "index": 78,
+      "raw_zh": "昨日他的意識來這裡的時候，是漂浮著，直接就能看到神像手裡的蚩尤臂甲，今天則是在下面，距離那雙托著的手還足有六七米高的距離。",
+      "translated_vi": "Ngày hôm qua khi ý thức của anh trôi dạt tới đây là ở trạng thái bay lơ lửng, liếc mắt một cái là thấy ngay giáp tay Xi Vưu Giáp nằm trong lòng bàn tay bức tượng thần; còn hôm nay thân xác anh lại đứng từ bên dưới leo lên, cách đôi bàn tay đang nâng đỡ kia tới tận sáu bảy mét."
+    },
+    {
+      "para_id": "c0192p0079",
+      "index": 79,
+      "raw_zh": "當他費力的爬到神像那托著的雙手之上時，整個人頓時一愣。",
+      "translated_vi": "Đến khi anh tốn bao công sức trèo được lên trên đôi bàn tay đang nâng đỡ của bức tượng thần, cả người anh chợt chết sững."
+    },
+    {
+      "para_id": "c0192p0080",
+      "index": 80,
+      "raw_zh": "因為那蚩尤臂甲不見了。",
+      "translated_vi": "Bởi vì giáp tay Xi Vưu Giáp đã không cánh mà bay."
+    },
+    {
+      "para_id": "c0192p0081",
+      "index": 81,
+      "raw_zh": "立時，他腦海裡浮現出四個字：",
+      "translated_vi": "Ngay tức khắc, trong đầu óc anh bỗng lóe lên mấy chữ:"
+    },
+    {
+      "para_id": "c0192p0082",
+      "index": 82,
+      "raw_zh": "“高度，陷阱！”",
+      "translated_vi": "“Độ cao, cạm bẫy!”"
+    },
+    {
+      "para_id": "c0192p0083",
+      "index": 83,
+      "raw_zh": "電視火花之間，他用幾乎不存在的緩衝時間，做了一個動作，那就是原地轉身。",
+      "translated_vi": "Trong khoảnh khắc ngàn cân treo sợi tóc, bằng thứ thời gian phản xạ gần như bằng không, anh dứt khoát làm ngay một động tác: lập tức xoay ngoắt người tại chỗ!"
+    },
+    {
+      "para_id": "c0192p0084",
+      "index": 84,
+      "raw_zh": "與此同時。",
+      "translated_vi": "Cùng lúc đó."
+    },
+    {
+      "para_id": "c0192p0085",
+      "index": 85,
+      "raw_zh": "“嘭！”",
+      "translated_vi": "“Đoàng!”"
+    },
+    {
+      "para_id": "c0192p0086",
+      "index": 86,
+      "raw_zh": "槍聲炸起。",
+      "translated_vi": "Tiếng súng nổ vang rền xé toạc không gian."
+    }
+  ]
+}

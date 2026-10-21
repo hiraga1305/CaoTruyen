@@ -1,0 +1,481 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 142,
+  "title": "Chương 142: Thấu Thị Quá Khứ",
+  "total_paragraphs": 78,
+  "translated_paragraphs": 78,
+  "source_hash": "e59ec9da3ad3ce28dbea4e066d1f5149763afc8ed817be8136605a9967589adf",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0142p0001",
+      "index": 1,
+      "raw_zh": "第142章 一窺曾經",
+      "translated_vi": "Chương 142: Thấu Thị Quá Khứ"
+    },
+    {
+      "para_id": "c0142p0002",
+      "index": 2,
+      "raw_zh": "頭頂礦燈雖然只能照射出一小部分眼前的景象，但已經足夠他們倆確定這絕不是什麽天然地下水道，而是人工的。",
+      "translated_vi": "Ánh đèn pha trên mũ bảo hiểm tuy chỉ rọi sáng được một góc cảnh tượng trước mắt, nhưng chừng đó đã quá đủ để cả hai đoan chắc rằng đây tuyệt đối không phải là đường ống ngầm tự nhiên, mà hoàn toàn do bàn tay con người tạo tác."
+    },
+    {
+      "para_id": "c0142p0003",
+      "index": 3,
+      "raw_zh": "這水道高不下三米，呈圓拱形的輪廓，下面則是潺潺流水。",
+      "translated_vi": "Đường dẫn nước ngầm này cao không dưới ba mét, mang hình hài mái vòm tròn cong vút, bên dưới là dòng nước róc rách chảy êm đềm."
+    },
+    {
+      "para_id": "c0142p0004",
+      "index": 4,
+      "raw_zh": "水質澄清，借著燈光朝著水底看過去，水下的岩石被水流衝刷出一道道一層層的雲紋，已經無法知道水道底部最早的模樣。",
+      "translated_vi": "Nước suối trong văn vắt, nương theo ánh đèn nhìn xuống đáy nước, lớp đá ngầm bị dòng chảy xói mòn bào nhẵn thành từng vệt, từng lớp hoa văn hình mây mềm mại, sớm đã chẳng thể nhận ra diện mạo sơ khai dưới đáy đường nước này."
+    },
+    {
+      "para_id": "c0142p0005",
+      "index": 5,
+      "raw_zh": "與水底相反，水面之上那圓拱形的水道卻非常平整光滑，上面還殘留著岩畫的痕跡。",
+      "translated_vi": "Trái ngược hoàn toàn với đáy nước, phần vòm cong phía trên mặt nước lại bằng phẳng và nhẵn nhụi lạ thường, trên vách vẫn còn lưu lại những dấu vết của các bức bích họa cổ xưa."
+    },
+    {
+      "para_id": "c0142p0006",
+      "index": 6,
+      "raw_zh": "雲千峰掏出防水袋內的打火機，點了一下火，確定火苗燃燒正常，這才和羅琳娜爬上水道，站起身來，發現與雲千峰的判斷幾乎一樣，這裡的水流比之前水壩那裡的河水還要平緩，水深大約到膝蓋上面一點。",
+      "translated_vi": "Vân Thiên Phong móc chiếc bật lửa trong túi chống nước ra, quẹt thử một tia lửa, xác nhận ngọn lửa bùng cháy bình thường, lúc này mới cùng Lorina trèo lên gờ đá của đường nước rồi đứng thẳng người dậy. Quả nhiên đúng như phán đoán của anh, dòng nước nơi đây còn êm ả hơn cả đoạn sông gần con đập trước đó, mực nước chỉ ngập đến quá đầu gối một chút."
+    },
+    {
+      "para_id": "c0142p0007",
+      "index": 7,
+      "raw_zh": "倆人把頭頂礦燈調成散光，這樣照射的距離雖然近了，卻可以一覽整個圓拱形水道近處的全景。",
+      "translated_vi": "Cả hai chuyển đèn pha trên mũ sang chế độ ánh sáng tỏa; cách này tuy cự ly chiếu rọi bị thu ngắn lại, nhưng bù lại có thể thu trọn toàn cảnh không gian vòm tròn ở cự ly gần vào tầm mắt."
+    },
+    {
+      "para_id": "c0142p0008",
+      "index": 8,
+      "raw_zh": "他們發現，除了水勢漲落高度線以下，上面的岩畫竟然還相對比較完整。",
+      "translated_vi": "Họ nhận ra rằng, ngoại trừ phần vách đá nằm dưới vệt ngấn nước lên xuống bị bào mòn, mảng bích họa phía trên thế mà vẫn còn tương đối nguyên vẹn."
+    },
+    {
+      "para_id": "c0142p0009",
+      "index": 9,
+      "raw_zh": "最讓人吃驚的是，這圓弧形的水道內側，那些岩畫竟然是整體的，把整個水道當成了一張完整的畫布。",
+      "translated_vi": "Điều khiến người ta kinh ngạc nhất chính là, ở mặt trong của đường vòm cong này, những bức bích họa lại mang tính chất chỉnh thể liền mạch, dường như người xưa đã coi toàn bộ vòm đá như một tấm toan khổng lồ trải dài bất tận."
+    },
+    {
+      "para_id": "c0142p0010",
+      "index": 10,
+      "raw_zh": "這樣就達到了一種很詭異的沉浸效果。",
+      "translated_vi": "Nhờ đó, nó tạo nên một hiệu ứng không gian chìm đắm kỳ dị đến rợn người."
+    },
+    {
+      "para_id": "c0142p0011",
+      "index": 11,
+      "raw_zh": "羅琳娜對藝術品的造詣遠超雲千峰，她驚訝的說道：",
+      "translated_vi": "Kiến thức về nghệ thuật của Lorina vượt xa Vân Thiên Phong, cô kinh ngạc thốt lên:"
+    },
+    {
+      "para_id": "c0142p0012",
+      "index": 12,
+      "raw_zh": "“太神奇了，這作畫者就是以自己記憶中的景色，以水道中央為自己當時觀察時的位置，來製作這些岩畫，我們走在這裡，就能看到作者當時看到的情景，雖然畫工粗糙，顏色也略顯單調，但絲毫不影響你看到他看到的。”",
+      "translated_vi": "“Kỳ diệu quá đỗi! Tác giả vẽ những bức bích họa này đã dựa trên khung cảnh trong ký ức của chính mình, lấy tâm điểm chính giữa đường vòm làm góc nhìn quan sát thời bấy giờ để họa nên từng nét vẽ. Chúng ta rảo bước ở chốn này cũng giống như đang tận mắt chứng kiến lại toàn bộ khung cảnh mà người đó từng thấy năm xưa; nét vẽ dẫu có phần thô sơ, màu sắc cũng hơi đơn điệu, nhưng chẳng hề làm giảm đi cảm giác chân thực mà người ấy muốn truyền tải.”"
+    },
+    {
+      "para_id": "c0142p0013",
+      "index": 13,
+      "raw_zh": "雲千峰看向那些壁畫，顏色基本就是褐色、紅色、橙色和紫黑色，由這些簡單的顏色組成了山川、草原、大羚羊、鴕鳥、大象、長頸鹿等等，粗糙的技術下，一隻隻活靈活現，靈動非凡。",
+      "translated_vi": "Vân Thiên Phong phóng tầm mắt nhìn những bức bích họa, màu sắc chủ đạo chỉ gói gọn trong nâu sẫm, đỏ thắm, cam đất và tím đen. Chính những sắc màu mộc mạc ấy đã dệt nên non sông, thảo nguyên bao la cùng những bầy linh dương, đà điểu, voi rừng, hươu cao cổ... Dưới bàn tay tạo tác thô sơ nguyên thủy, từng sinh linh lại hiện lên sống động như thật, tràn đầy linh khí phi phàm."
+    },
+    {
+      "para_id": "c0142p0014",
+      "index": 14,
+      "raw_zh": "羅琳娜抽出腰間的軍刀匕首來到岩畫前，用刀尖輕輕在那各種顏色上刮動了一下，然後用手撚動刮下來的石粉，再用鼻子嗅一嗅，最後用舌尖舔嘗一下，隨後搖頭歎道：",
+      "translated_vi": "Lorina rút con dao găm quân dụng bên hông tiến lại gần vách đá, dùng mũi dao cạo nhẹ lên từng mảng màu, rồi đưa tay xoa nhẹ lớp bột đá vừa cạo xuống, đưa lên mũi ngửi thử, cuối cùng dùng đầu lưỡi khẽ nếm một chút rồi lắc đầu cảm thán:"
+    },
+    {
+      "para_id": "c0142p0015",
+      "index": 15,
+      "raw_zh": "“紫黑色是含有氯化錳的晶體研磨製成顏料，紅色是動物的血和脂肪的混合物，褐色是氧化鐵礦石的粉末。",
+      "translated_vi": "“Sắc tím đen là tinh thể chứa clorua mangan được nghiền nát để pha chế thành chất màu; màu đỏ là hỗn hợp giữa máu và mỡ động vật; còn màu nâu chính là bột quặng oxit sắt."
+    },
+    {
+      "para_id": "c0142p0016",
+      "index": 16,
+      "raw_zh": "山體輪廓和動物輪廓明顯是用手指塗抹而成，很多位置的停頓處還能看到指紋的痕跡，草原是用禽類的羽毛蘸顏料畫成，動物的毛發則是用獸毛扎成圓刷蘸顏料畫上去。”",
+      "translated_vi": "Đường nét núi non và hình bóng muông thú rõ ràng được phết bằng ngón tay trần, nhiều chỗ nét dừng bút vẫn còn lưu lại vết tích của dấu vân tay; đồng cỏ thảo nguyên được chấm phá bằng lông vũ gia cầm nhúng phẩm màu, còn bờm lông muôn thú thì được bó lại bằng lông thú thành chiếc cọ tròn rồi quét mực vẽ lên.”"
+    },
+    {
+      "para_id": "c0142p0017",
+      "index": 17,
+      "raw_zh": "雲千峰可沒有羅琳娜這辨別顏料和觀察畫畫方式的能耐，但對於這種顏料製作和畫畫方式，雲千峰也是了解一些的。",
+      "translated_vi": "Vân Thiên Phong không có bản lĩnh phân biệt màu nhuộm và thủ pháp hội họa siêu đẳng như Lorina, nhưng đối với phương thức chế tạo chất màu cùng lối vẽ cổ sơ này, anh cũng hiểu biết đôi chút."
+    },
+    {
+      "para_id": "c0142p0018",
+      "index": 18,
+      "raw_zh": "“也就是說，這裡的岩畫是史前岩畫。”",
+      "translated_vi": "“Nói cách khác, những bức bích họa ở đây đều là bích họa tiền sử.”"
+    },
+    {
+      "para_id": "c0142p0019",
+      "index": 19,
+      "raw_zh": "羅琳娜點了點頭，道：",
+      "translated_vi": "Lorina gật đầu, đáp:"
+    },
+    {
+      "para_id": "c0142p0020",
+      "index": 20,
+      "raw_zh": "“沒錯，這裡畫的是撒哈拉沙漠草木豐茂的年代，也就是說，這些岩畫最少距今一萬年以上。”",
+      "translated_vi": "“Không sai, nơi này vẽ lại thời kỳ sa mạc Sahara còn là vùng đất cây cối tốt tươi, trù phú phì nhiêu. Nghĩa là những bức bích họa này có niên đại ít nhất từ mười nghìn năm trước trở về trước.”"
+    },
+    {
+      "para_id": "c0142p0021",
+      "index": 21,
+      "raw_zh": "萬年以前，撒哈拉大沙漠正處於寒武紀的潮濕期，是一片布滿了熱帶植物的平原，動植物都充滿了活力，與如今堪稱死亡之海的沙漠對比，讓人不禁感受到這片大地滄海桑田的震撼和悲涼。",
+      "translated_vi": "Vạn năm trước, đại sa mạc Sahara đang trong thời kỳ ẩm ướt hậu kỷ băng hà, là một bình nguyên bát ngát phủ đầy thảm thực vật nhiệt đới, muôn loài động thực vật sinh sôi tràn đầy sức sống; so với biển cát chết chóc cằn cỗi của sa mạc ngày nay, cảnh tượng ấy không khỏi khiến lòng người trào dâng niềm chấn động lẫn nỗi bi lương trước sự biến thiên dâu bể của đất trời."
+    },
+    {
+      "para_id": "c0142p0022",
+      "index": 22,
+      "raw_zh": "沒人能明白，那一萬多年前的原始人畫家，為什麽要把如此壯麗的色彩塗抹在這樣一條水道內。",
+      "translated_vi": "Không một ai hiểu nổi, vì cớ gì mà người họa sĩ nguyên thủy của hơn một vạn năm trước lại tô điểm những sắc màu tráng lệ dường này vào sâu trong một đường vòm ngầm tăm tối."
+    },
+    {
+      "para_id": "c0142p0023",
+      "index": 23,
+      "raw_zh": "雲千峰和羅琳娜研究了一會，也隻得出兩個可能。",
+      "translated_vi": "Vân Thiên Phong và Lorina ngẫm nghĩ một hồi lâu, cũng chỉ đúc kết ra được hai khả năng:"
+    },
+    {
+      "para_id": "c0142p0024",
+      "index": 24,
+      "raw_zh": "第一：閑的。",
+      "translated_vi": "Thứ nhất: Quá rảnh rỗi."
+    },
+    {
+      "para_id": "c0142p0025",
+      "index": 25,
+      "raw_zh": "第二：這裡原本可能不是水道。",
+      "translated_vi": "Thứ hai: Nơi này nguyên bản vốn dĩ không phải là đường dẫn nước."
+    },
+    {
+      "para_id": "c0142p0026",
+      "index": 26,
+      "raw_zh": "倆人蹚著沒過膝蓋的水流，逆流而上。",
+      "translated_vi": "Cả hai lội qua dòng nước ngập ngang đầu gối, ngược dòng mà tiến."
+    },
+    {
+      "para_id": "c0142p0027",
+      "index": 27,
+      "raw_zh": "為了腳掌的安全，他們不得不脫下腳蹼，換上登山靴，任憑冰冷的水順著鞋幫倒灌如鞋內，泡著雙腳難受的緊。",
+      "translated_vi": "Để bảo vệ đôi bàn chân, họ buộc phải tháo chân vịt ra, thay bằng giày leo núi, mặc cho dòng nước lạnh buốt tràn qua cổ giày ngập ngụa bên trong, ngâm bàn chân buốt rát vô cùng khó chịu."
+    },
+    {
+      "para_id": "c0142p0028",
+      "index": 28,
+      "raw_zh": "逆流難行，讓他們的前行的速度很慢，這也讓他們很自然的把周圍的岩畫看個清楚。",
+      "translated_vi": "Ngược dòng cản bước khiến tốc độ di chuyển của họ rất chậm, nhưng điều đó cũng vô tình giúp họ nhìn ngắm kỹ lưỡng từng nét bích họa xung quanh."
+    },
+    {
+      "para_id": "c0142p0029",
+      "index": 29,
+      "raw_zh": "倆人並行，一左一右，兩盞散光礦燈，把身前三四米照得一清二楚。",
+      "translated_vi": "Hai người đi song song, một trái một phải, hai luồng ánh sáng tỏa từ đèn pha rọi sáng tỏ mười mươi khoảng không gian ba bốn mét phía trước."
+    },
+    {
+      "para_id": "c0142p0030",
+      "index": 30,
+      "raw_zh": "走不多久，這完整景色的岩畫開始出現了人類的蹤跡。",
+      "translated_vi": "Đi chẳng được bao xa, trên nền phong cảnh liền mạch của bích họa bắt đầu xuất hiện dấu vết của con người."
+    },
+    {
+      "para_id": "c0142p0031",
+      "index": 31,
+      "raw_zh": "他們都沒有衣服，有的手持長矛、形狀不規則的盾牌，有的手拿飛索石，有的甚至手裡只有一把短小尖銳的石刀，圍獵著那些龐然大物的野獸。",
+      "translated_vi": "Những con người ấy đều trần như nhộng, kẻ cầm giáo dài cùng chiếc khiên hình thù kỳ dị, kẻ cầm dây ném đá, có kẻ thậm chí trong tay chỉ nắm một con dao đá ngắn sắc nhọn, vây bắt những loài dã thú khổng lồ hung tợn."
+    },
+    {
+      "para_id": "c0142p0032",
+      "index": 32,
+      "raw_zh": "羅琳娜立馬被岩畫上的人物形象所吸引，忙蹚著水走進了幾步，貼近仔細看了半天，才說道：",
+      "translated_vi": "Lorina lập tức bị hình tượng nhân vật trên vách đá thu hút, cô vội lội nước lại gần vài bước, áp sát ngắm nghía hồi lâu rồi mới cất lời:"
+    },
+    {
+      "para_id": "c0142p0033",
+      "index": 33,
+      "raw_zh": "“這幅岩畫非常寫實，按照這些狩獵者與大象和野牛的體型對比來看，這些人極為高大強壯，尤其是四肢極為粗壯，頭圍也比現代人要大很多，如果我沒猜錯的話，這些人應該是尼安德特人。”",
+      "translated_vi": "“Bức bích họa này cực kỳ tả thực, đối chiếu tỷ lệ vóc dáng của những thợ săn này với voi rừng và bò tót, những người này cao lớn vạm vỡ dị thường, đặc biệt tứ chi cực kỳ thô chắc, vòng đầu cũng lớn hơn người hiện đại rất nhiều. Nếu tôi đoán không lầm, những người này hẳn là người Neanderthal.”"
+    },
+    {
+      "para_id": "c0142p0034",
+      "index": 34,
+      "raw_zh": "雲千峰一愣，他是知道尼安德特人的，畢竟現代人高血壓腦梗的基因就來自於尼安德特人的基因。",
+      "translated_vi": "Vân Thiên Phong giật mình một thoáng, anh dĩ nhiên biết về người Neanderthal, dẫu sao gen bệnh cao huyết áp và tai biến mạch máu não của người hiện đại cũng bắt nguồn từ bộ gen của người Neanderthal."
+    },
+    {
+      "para_id": "c0142p0035",
+      "index": 35,
+      "raw_zh": "當然，在史前的年代，這種基因非但不是疾病，還是優點。",
+      "translated_vi": "Dĩ nhiên, vào thời kỳ tiền sử, đoạn gen này chẳng những không phải mầm bệnh, mà ngược lại còn là ưu điểm sinh tồn vượt trội."
+    },
+    {
+      "para_id": "c0142p0036",
+      "index": 36,
+      "raw_zh": "這種基因讓強壯的尼安德特人敢於拿著石刀硬鋼大型野獸，因為一般的傷害根本不會讓他們大出血，而是會因為凝血很強的基因做到迅速止血。",
+      "translated_vi": "Đặc tính đó giúp người Neanderthal lực lưỡng dám cầm dao đá đối đầu trực diện với những loài cự thú hung dữ, bởi các vết thương thông thường căn bản không thể khiến họ bị xuất huyết ồ ạt, mà khả năng đông máu siêu mạnh sẽ giúp họ cầm máu trong chớp mắt."
+    },
+    {
+      "para_id": "c0142p0037",
+      "index": 37,
+      "raw_zh": "“尼安德特人不是在歐洲發現化石的嗎？”",
+      "translated_vi": "“Chẳng phải hóa thạch của người Neanderthal vốn được phát hiện ở châu Âu hay sao?”"
+    },
+    {
+      "para_id": "c0142p0038",
+      "index": 38,
+      "raw_zh": "羅琳娜搖頭，道：",
+      "translated_vi": "Lorina lắc đầu, đáp:"
+    },
+    {
+      "para_id": "c0142p0039",
+      "index": 39,
+      "raw_zh": "“世界各地都有發現尼安德特人，就像非洲的海德堡人也在世界各地都有發現，所以才會有“大尼安德特人概念”，我收藏過很多原始人的骨骼化石，只有尼安德特人能有這樣強壯高大的體魄，很難想象這些岩畫竟然是幾萬年前的尼安德特人所畫，不過他們的腦容量比現代人還大，擁有這樣的智力也不是非常奇怪。”",
+      "translated_vi": "“Dấu tích của người Neanderthal được tìm thấy khắp nơi trên thế giới, cũng tương tự như người Heidelberg của châu Phi được khai quật ở nhiều lục địa, thế nên giới khoa học mới có khái niệm “Đại Neanderthal”. Tôi từng sưu tầm rất nhiều mẫu hóa thạch xương người nguyên thủy, chỉ có người Neanderthal mới sở hữu thể phách to lớn cường tráng đến nhường này. Quả thật khó lòng tưởng tượng nổi những bức bích họa tinh mỹ này lại do người Neanderthal cách đây mấy vạn năm vẽ nên; song dung tích não của họ lớn hơn cả người hiện đại, nên việc họ sở hữu trí tuệ phát triển như thế này cũng không có gì là quá kỳ quặc.”"
+    },
+    {
+      "para_id": "c0142p0040",
+      "index": 40,
+      "raw_zh": "雲千峰卻笑著搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lại khẽ mỉm cười lắc đầu, bảo:"
+    },
+    {
+      "para_id": "c0142p0041",
+      "index": 41,
+      "raw_zh": "“手拿照相機的人，很少把自己照在風景裡，岩畫的作者未必就是尼安德特人。”",
+      "translated_vi": "“Người cầm máy ảnh hiếm khi tự chụp chính mình vào trong khung cảnh, tác giả của bích họa chưa chắc đã là người Neanderthal đâu.”"
+    },
+    {
+      "para_id": "c0142p0042",
+      "index": 42,
+      "raw_zh": "羅琳娜不讚成，道：",
+      "translated_vi": "Lorina không đồng tình, phản bác:"
+    },
+    {
+      "para_id": "c0142p0043",
+      "index": 43,
+      "raw_zh": "“那你覺得，在一群尼安德特人之中，能生活一個現代智人嗎？”",
+      "translated_vi": "“Vậy anh nghĩ rằng giữa một bầy người Neanderthal lại có thể dung nạp một người tinh khôn hiện đại cùng sinh sống sao?”"
+    },
+    {
+      "para_id": "c0142p0044",
+      "index": 44,
+      "raw_zh": "雲千峰不置可否，道：",
+      "translated_vi": "Vân Thiên Phong không tỏ rõ ý kiến, lấp lửng:"
+    },
+    {
+      "para_id": "c0142p0045",
+      "index": 45,
+      "raw_zh": "“我無法確定，但作畫人的眼睛裡一定看不到自己，這是不可否認的。”",
+      "translated_vi": "“Tôi không thể khẳng định chắc chắn, nhưng trong đôi mắt của người cầm cọ vẽ tuyệt đối không thể nhìn thấy chính bản thân mình, điều đó là không thể phủ nhận.”"
+    },
+    {
+      "para_id": "c0142p0046",
+      "index": 46,
+      "raw_zh": "倆人沒有太多耽誤行程，一邊走一邊辯論著，當然肯定辯解不出誰對誰錯。",
+      "translated_vi": "Hai người không làm chậm trễ bước tiến, vừa đi vừa tranh luận rôm rả, dĩ nhiên chẳng ai có thể chứng minh được ai đúng ai sai."
+    },
+    {
+      "para_id": "c0142p0047",
+      "index": 47,
+      "raw_zh": "因為誰也無法證明是不是尼安德特人作畫。",
+      "translated_vi": "Bởi lẽ chẳng một ai có thể đưa ra bằng chứng xác đáng khẳng định liệu có phải người Neanderthal vẽ hay không."
+    },
+    {
+      "para_id": "c0142p0048",
+      "index": 48,
+      "raw_zh": "這讓羅琳娜覺得雲千峰不尊重科學，胡攪蠻纏。",
+      "translated_vi": "Điều đó khiến Lorina cảm thấy Vân Thiên Phong không tôn trọng khoa học, chỉ giỏi nói ngang cãi bừa."
+    },
+    {
+      "para_id": "c0142p0049",
+      "index": 49,
+      "raw_zh": "而雲千峰很享受自己能讓羅琳娜生氣的成果。",
+      "translated_vi": "Còn Vân Thiên Phong thì lại cực kỳ đắc ý khi chọc cho Lorina tức tối đến đỏ cả mặt."
+    },
+    {
+      "para_id": "c0142p0050",
+      "index": 50,
+      "raw_zh": "然而，雲千峰很快就不享受了，因為眼前這妖精一樣的女人看出了雲千峰的微表情，於是她不屑笑道：",
+      "translated_vi": "Thế nhưng Vân Thiên Phong chẳng tận hưởng được bao lâu, bởi người phụ nữ xinh đẹp như yêu tinh trước mắt đã bắt thóp được từng biểu cảm nhỏ nhất trên gương mặt anh. Thế là cô khẽ cười khẩy đầy vẻ khinh miệt:"
+    },
+    {
+      "para_id": "c0142p0051",
+      "index": 51,
+      "raw_zh": "“雲千峰你知道嗎，伱的行為就像是幼稚的少年，心理學家說，當你進入青春期，開始無緣無故去惹一個女孩生氣的時候，那麽證明你愛上了她。",
+      "translated_vi": "“Vân Thiên Phong, anh có biết chăng, hành vi của anh chẳng khác nào một cậu thiếu niên mới lớn ấu trĩ. Các nhà tâm lý học từng nói, khi bước vào tuổi dậy thì, nếu anh vô duyên vô cớ cứ thích chọc tức một cô gái, điều đó chứng minh anh đã rơi vào lưới tình với cô ấy rồi đấy."
+    },
+    {
+      "para_id": "c0142p0052",
+      "index": 52,
+      "raw_zh": "雲千峰，我警告你，千萬不要愛上我，因為我不喜歡男人。”",
+      "translated_vi": "Vân Thiên Phong, tôi cảnh cáo anh, ngàn vạn lần đừng có yêu tôi, bởi vì tôi không thích đàn ông đâu.”"
+    },
+    {
+      "para_id": "c0142p0053",
+      "index": 53,
+      "raw_zh": "侮辱！雲千峰感覺到了莫大的羞辱，但偏偏他找不到否定羅琳娜這句話的角度，因為他也知道這個心理學常識。",
+      "translated_vi": "Nhục nhã! Vân Thiên Phong cảm thấy một sự sỉ nhục to lớn đánh thẳng vào mặt, nhưng khổ nỗi anh lại chẳng tìm ra được góc độ nào để phản bác lại câu nói của Lorina, vì chính anh cũng thừa biết cái kiến thức tâm lý học vỡ lòng này."
+    },
+    {
+      "para_id": "c0142p0054",
+      "index": 54,
+      "raw_zh": "於是他選擇沉默是金，加快了步伐走在羅琳娜的前面，不搭理她。",
+      "translated_vi": "Thế là anh đành chọn cách “im lặng là vàng”, rảo bước thật nhanh vượt lên trước Lorina, mặc kệ chẳng thèm đoái hoài gì tới cô nữa."
+    },
+    {
+      "para_id": "c0142p0055",
+      "index": 55,
+      "raw_zh": "但事實上，沉默的雲千峰心裡卻是驚濤駭浪，全因為羅琳娜的那句話。",
+      "translated_vi": "Song trong thực tế, bên ngoài tuy lặng thinh nhưng trong lòng Vân Thiên Phong lại dậy sóng cuồn cuộn, tất cả chỉ vì câu nói vừa rồi của Lorina."
+    },
+    {
+      "para_id": "c0142p0056",
+      "index": 56,
+      "raw_zh": "“怎麽回事？我為什麽對這個討厭的女人有著一種說不清的情緒，像是吸引，但是這種吸引卻又讓我有些恐懼，這怎麽可能？我有疏影就已經滿足了，而且疏影也絕對是我迷戀的對象，為什麽會對羅琳娜產生這種朦朧初戀的矛盾和恐懼混雜的情緒？”",
+      "translated_vi": "“Rốt cuộc là sao chứ? Tại sao mình lại nảy sinh một thứ cảm xúc khó tả với người đàn bà đáng ghét này? Cứ như bị cuốn hút, nhưng sự cuốn hút ấy lại khiến mình có phần sợ hãi... Chuyện này làm sao có thể xảy ra được? Mình đã có chị Sơ Ảnh là quá đủ rồi, chị Sơ Ảnh cũng tuyệt đối là người phụ nữ mình say đắm nhất trần đời, cớ sao lại nảy sinh thứ cảm xúc vừa mâu thuẫn vừa sợ hãi hệt như mối tình đầu mơ hồ ngây ngô với Lorina thế này?”"
+    },
+    {
+      "para_id": "c0142p0057",
+      "index": 57,
+      "raw_zh": "他身後的羅琳娜心裡不比雲千峰更平靜，她也一肚子的風雷激蕩。",
+      "translated_vi": "Ở phía sau anh, cõi lòng Lorina cũng chẳng hề bình lặng hơn Vân Thiên Phong là bao, trong dạ cô cũng dâng trào muôn hồi phong ba bão táp."
+    },
+    {
+      "para_id": "c0142p0058",
+      "index": 58,
+      "raw_zh": "“從未有人能如此容易影響我的情緒，更別說讓我動怒，甚至像小孩一樣和他爭辯，這不是我，我不是這樣的人。這是為什麽？不，不可能，我不可能喜歡一個男人！這絕無可能！可，這是為什麽？”",
+      "translated_vi": "“Xưa nay chưa từng có ai dễ dàng khuấy đảo cảm xúc của mình đến mức này, chứ đừng nói là khiến mình nổi giận lôi đình, thậm chí tranh cãi hơn thua như con nít với anh ta. Đây đâu phải là mình, mình tuyệt đối không phải loại người như thế. Rốt cuộc là vì sao? Không, không thể nào, mình không bao giờ có thể thích một người đàn ông! Điều đó tuyệt đối không thể xảy ra! Nhưng... cớ sao lại thế này?”"
+    },
+    {
+      "para_id": "c0142p0059",
+      "index": 59,
+      "raw_zh": "如此這般，剛剛似乎熟悉活絡的兩個人，又都陷入了一開始進入裂縫時的狀態，全都是一言不發。",
+      "translated_vi": "Cứ như vậy, hai con người vừa mới trở nên cởi mở thân quen đôi chút, giờ đây lại rơi vào trạng thái lạnh băng như hồi mới bước vào khe nứt, tuyệt nhiên không ai buồn mở miệng nói nửa lời."
+    },
+    {
+      "para_id": "c0142p0060",
+      "index": 60,
+      "raw_zh": "這樣走了半個多小時，雲千峰突然被眼前岩畫裡的內容驚得一愣，忙對著羅琳娜，道：",
+      "translated_vi": "Lặng lẽ lội nước như thế chừng hơn nửa tiếng đồng hồ, Vân Thiên Phong chợt sững người kinh ngạc trước nội dung mới xuất hiện trên vách đá bích họa, vội quay lại bảo Lorina:"
+    },
+    {
+      "para_id": "c0142p0061",
+      "index": 61,
+      "raw_zh": "“你看，原始人把宇航員都畫出來了，和智人一起生活有什麽奇怪？”",
+      "translated_vi": "“Cô xem kìa, người nguyên thủy vẽ cả phi hành gia ra rồi này, sống chung với người tinh khôn thì có gì lạ đâu chứ?”"
+    },
+    {
+      "para_id": "c0142p0062",
+      "index": 62,
+      "raw_zh": "張嘴就是吵架的引子。",
+      "translated_vi": "Vừa mở miệng ra là lại khơi mào cho trận cãi vã."
+    },
+    {
+      "para_id": "c0142p0063",
+      "index": 63,
+      "raw_zh": "羅琳娜順著燈光看過去，就見岩畫上出現了純圓形腦袋的人像，他們的服飾非常厚重，臉上除了眼睛再沒有其它五官，看起來極像宇航員。",
+      "translated_vi": "Lorina nương theo ánh đèn nhìn sang, liền thấy trên bích họa xuất hiện những hình người với phần đầu tròn vo hoàn hảo, y phục trên người họ dày cộp nặng nề, trên khuôn mặt ngoại trừ đôi mắt thì chẳng có bất kỳ ngũ quan nào khác, trông giống hệt hình tượng các phi hành gia du hành vũ trụ."
+    },
+    {
+      "para_id": "c0142p0064",
+      "index": 64,
+      "raw_zh": "這種形象在史前岩畫上其實很常見，只是現代人誰也搞不清楚那畫的是什麽。",
+      "translated_vi": "Loại hình tượng này thực ra xuất hiện rất phổ biến trên các bức bích họa tiền sử, chỉ là người hiện đại chẳng ai lý giải nổi rốt cuộc người xưa đã vẽ cái gì."
+    },
+    {
+      "para_id": "c0142p0065",
+      "index": 65,
+      "raw_zh": "所以雲千峰這句話，羅琳娜也是無法辯駁，當下一股無名火起，一扭腰快速朝著前面走去，雙腳把水花掀得“嘩嘩”亂響。",
+      "translated_vi": "Thế nên câu nói này của Vân Thiên Phong khiến Lorina không tài nào phản bác được; một ngọn lửa vô danh lập tức bốc hỏa trong lòng, cô uốn éo eo thon rảo bước lao vụt lên phía trước, hai chân khuấy đảo bọt nước tung tóe kêu “ào ào” chói tai."
+    },
+    {
+      "para_id": "c0142p0066",
+      "index": 66,
+      "raw_zh": "雲千峰一把抓住羅琳娜的胳膊，說道：",
+      "translated_vi": "Vân Thiên Phong vội chộp lấy cánh tay Lorina, níu lại:"
+    },
+    {
+      "para_id": "c0142p0067",
+      "index": 67,
+      "raw_zh": "“別走，看岩畫的內容，這很不對勁，我才想起來，這裡有狩獵的內容，也有把獵物帶回居所的內容，但是沒有你說的這些尼安德特人吃飯的內容.”",
+      "translated_vi": "“Đừng đi vội, nhìn kỹ nội dung bích họa xem, điểm này rất bất thường! Tôi vừa mới sực nhận ra, ở đây có cảnh săn bắn, cũng có cảnh mang con mồi về nơi cư trú, nhưng tuyệt nhiên không hề có cảnh nhóm người Neanderthal mà cô nói ngồi ăn uống...”"
+    },
+    {
+      "para_id": "c0142p0068",
+      "index": 68,
+      "raw_zh": "羅琳娜疑惑道：",
+      "translated_vi": "Lorina nghi hoặc hỏi:"
+    },
+    {
+      "para_id": "c0142p0069",
+      "index": 69,
+      "raw_zh": "“這有什麽奇怪的？”",
+      "translated_vi": "“Chuyện đó có gì kỳ lạ chứ?”"
+    },
+    {
+      "para_id": "c0142p0070",
+      "index": 70,
+      "raw_zh": "雲千峰指著前面遠一點的岩畫，道：",
+      "translated_vi": "Vân Thiên Phong chỉ tay về phía bức bích họa xa hơn một đoạn phía trước, bảo:"
+    },
+    {
+      "para_id": "c0142p0071",
+      "index": 71,
+      "raw_zh": "“你看，他們扛著獵物，跟著宇航員走了，一口都沒舍得吃，他們要把肉食送去哪裡？”",
+      "translated_vi": "“Cô nhìn đi, họ khiêng con mồi đi theo gã phi hành gia kia kìa, một miếng thịt cũng không nỡ ăn, rốt cuộc họ muốn đem số thịt ấy cống nạp đi đâu?”"
+    },
+    {
+      "para_id": "c0142p0072",
+      "index": 72,
+      "raw_zh": "羅琳娜發現自己真的極容易被雲千峰惹得發火，就像她說的，這不是自己，但偏偏就是忍不住，聽到他說宇航員，心裡那股無名火騰的一下就冒出來，大聲道：",
+      "translated_vi": "Lorina phát hiện bản thân thực sự quá dễ dàng bị Vân Thiên Phong chọc tức đến phát điên; đúng như cô tự nhận, đây căn bản không phải là bản tính của cô, nhưng khổ nỗi cô không tài nào kiềm chế nổi. Vừa nghe anh nhắc tới ba chữ “phi hành gia”, ngọn lửa giận vô cớ trong lòng lại bùng lên ngùn ngụt, cô gắt lên:"
+    },
+    {
+      "para_id": "c0142p0073",
+      "index": 73,
+      "raw_zh": "“那不是宇航員！”",
+      "translated_vi": "“Đó không phải là phi hành gia!”"
+    },
+    {
+      "para_id": "c0142p0074",
+      "index": 74,
+      "raw_zh": "雲千峰看羅琳娜盛怒，開心的笑了笑，道：",
+      "translated_vi": "Thấy Lorina giận sôi người, Vân Thiên Phong lại nở nụ cười khoái chí, nói:"
+    },
+    {
+      "para_id": "c0142p0075",
+      "index": 75,
+      "raw_zh": "“快走，看看他們把肉食送到了哪裡，很可能我們就能猜到要去的地方是什麽鬼樣子！”",
+      "translated_vi": "“Mau đi thôi, xem xem rốt cuộc họ mang số thức ăn đó cống nạp tới đâu, rất có thể chúng ta sẽ đoán ra được nơi mình sắp tới mang hình hài quỷ quái gì đấy!”"
+    },
+    {
+      "para_id": "c0142p0076",
+      "index": 76,
+      "raw_zh": "說完，邁著開心歡快的步伐快速朝前走去，身後的羅琳娜捂著胸口，感覺自己要吐血，深呼吸幾口氣，才快步跟上去。",
+      "translated_vi": "Nói xong, anh sải những bước chân hớn hở vui vẻ rảo bước về phía trước. Ở phía sau, Lorina ôm chặt lấy ngực mình, cảm giác uất ức đến mức suýt thổ huyết; cô hít sâu liền mấy hơi mới vội rảo bước đuổi theo."
+    },
+    {
+      "para_id": "c0142p0077",
+      "index": 77,
+      "raw_zh": "因為雲千峰說得對，這岩畫非常寫實，確實能夠讓他們一窺曾經。",
+      "translated_vi": "Bởi vì Vân Thiên Phong nói đúng, những bức bích họa này cực kỳ tả thực, quả thật có thể giúp họ thấu thị lại một góc của quá khứ xa xăm."
+    },
+    {
+      "para_id": "c0142p0078",
+      "index": 78,
+      "raw_zh": "感謝火獄之劫、仰望半月的星空0、不吃設定的假面的月票獎勵，謝謝你們的支持，感激！！！！！！！！！",
+      "translated_vi": "Chân thành cảm ơn sự khích lệ bằng phiếu tháng từ Hỏa Ngục Chi Kiếp, Ngưỡng Vọng Bán Nguyệt Đích Tinh Không 0, Bất Ngật Thiết Định Đích Giả Diện, cảm ơn sự ủng hộ của các bạn, vô cùng cảm kích!!!"
+    }
+  ]
+}

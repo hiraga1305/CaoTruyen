@@ -1,0 +1,94 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0229|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|"Đúng vậy, hai điểm tạo thành một đường thẳng là chuẩn xác tuyệt đối, nhưng bước chân con người luôn có độ lệch, có điều khoảng cách sai số sẽ không quá lớn. Chiếc khinh khí cầu kia bất kể là do ai đư
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|三尺|ba thước
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §53):
+§1 [Ø=云千峰]琳達“哦”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]了一聲，恍然大悟，道：
+§2 [Ø=云千峰]“所以你用樹葉脈絡的路線覆蓋這一片區域，就是為了找到迪蒙迪維爾站，可是蘇菲.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§3 [Ø=云千峰]說到這，琳達沒有繼續說下去。
+§4 [Ø=云千峰]人性這種東西，談不得，尤其是和別人談論第三者的人性。
+§5 [Ø=云千峰]兩千步不到，蘇菲的腳印開始拐彎，朝著六點鍾方向偏移了一點角度。
+§6 [Ø=云千峰]而在那個方向的不遠處，迷茫的白色籠罩之下，是一片建築。
+§7 所有人發出了歡呼的吼叫。
+§8 [Ø=云千峰]他們得救了，在這生命的禁區內，靠著一雙腳走出了活路。
+§9 [Ø=云千峰]歡喜與驕傲，同時並生在他們心中。
+§10 [Ø=云千峰]這件事，夠他們吹牛一輩子了。
+§11 [Ø=云千峰]剛才還走得無精打采的三人，現在撒歡往前跑，活力無限。
+§12 [Ø=云千峰]倒是雲千峰慢悠悠的跟在後面，不緊不慢，並沒有如何驚喜，似乎理當如此一般。
+§13 迪蒙迪維爾站內很安靜。
+§14 [Ø=云千峰]沒有機鳴沒有犬吠，但其中一個高架離地三尺[M1:ba thước]的建築房頂上冒著煙霧，證明裡面有人。
+§15 [Ø=云千峰]在這裡，都是靠著燃油發電取暖，所以會有那樣區別於草木的煙氣。
+§16 [Ø=云千峰]幾個人也不敲門，不請自入。
+§17 [Ø=云千峰]魚貫而入的幾個人一走進門，赫然發現蘇菲鍾就坐在不大的房間內喝著熱氣騰騰的咖啡，在她身前的桌旁， [||] 還坐著兩個人，金發碧眼，三十來歲的年輕男人。
+§18 [Ø=云千峰]荷茜一見蘇菲坐在這裡，哪裡還不明白發生了什麽，當下發火道：
+§19 [Ø=云千峰]“鍾舒慧，你還是人嗎？找到了南極站竟然不回去告訴我們？自私自利！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§20 [Ø=云千峰]荷茜許一生氣，母語上身，直接喊了蘇菲鍾的華夏名字。
+§21 [Ø=云千峰]蘇菲鍾也不客氣，梗著脖子叫道：
+§22 [Ø=云千峰]“許可欣，你不自私，你不自利？當自己是什麽好東西？外面那麽冷，我暖和一下去找你們不行？我叫兩個帥哥哥去尋找你們不行？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 [Ø=云千峰]都是年輕人，琳達眼裡也不揉沙子的，看著那兩個金發碧眼的工作人員，問道：
+§24 [Ø=云千峰]“你們好，我們的同伴有說我們在外面等待她嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 [Ø=云千峰]蘇菲鍾沒等那兩個工作人員說話，看著琳達道：
+§26 [Ø=云千峰]“琳達你什麽意思？我可是把你當朋友的，我不是沒說，我是還沒來得及說，正準備說你們就來了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 [Ø=云千峰]雲千峰看了蘇菲鍾一眼，暗暗搖了搖頭，沒想到可把蘇菲鍾招惹到了，當下對著兩個工作人員叫道：
+§28 [Ø=云千峰]“那個隻拿男人，他是個變態，他逼著我們在他面前脫衣服，你們快把他抓起來。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 [Ø=云千峰]那兩個工作人員看向雲千峰，笑得溫和，道：
+§30 [Ø=云千峰]“你們的朋友似乎情緒不太正常，或許是缺氧了，亦或是受了什麽刺激。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=云千峰]看起來，絲毫沒理會蘇菲鍾的話。
+§32 [Ø=云千峰]而蘇菲鍾被那金發碧眼的話噎得一聲不吭，一臉尷尬。
+§33 [Ø=云千峰]這次她沒有咆哮，似乎她沒學會怎麽和金發碧眼吵架。
+§34 雲千峰也對那名南極站的工作人員回以微笑。
+§35 [Ø=云千峰]只是他的心裡也沒有笑，因為他在這兩個金發碧眼的男人眼中讀到了一種叫做“熟悉”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]的光，敏感如雲千峰，一下就感覺到了這種異樣。
+§36 [Ø=云千峰]“他們絕對認識我！甚至對我非常熟悉，但是裝作不認識我！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 恰好此刻琳達向兩個人詢問：
+§38 [Ø=云千峰]“你們好，弗朗克博士在哪兒？他是我爸爸的好朋友，是弗朗克站長同意我們來這裡進行高能粒子研究的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 其中一個工作人員忙道：
+§40 [Ø=云千峰]“哦，是這樣的，不遠處的上空出現了一個灰色的漩渦， [||] 弗朗克先生帶著其他人去哪裡觀察研究，應該還要很久才回來，你們先吃點東西，休息一下。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 荷茜許則急著問道：
+§42 [Ø=云千峰]“有止痛藥和消炎藥嗎？還有，誰能幫我做一個手術.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 [Ø=云千峰]他們說話的時候，雲千峰臉上不動聲色， [||] 走到旁邊去給自己倒熱水，借著旁邊的鏡子，觀察那兩個人。
+§44 “他們兩個很強壯。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§45 [Ø=云千峰]“站如松，坐如鍾，很像是訓練有素的軍人。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§46 [Ø=云千峰]而當他看到那倆人手腕上的手表後，眼睛情不自禁的眯了一下。
+§47 [Ø=云千峰]一個戴左手，表盤在脈搏處，一個右手戴手表，表盤在手背。
+§48 [Ø=云千峰]“瑪德，出事了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§49 [Ø=云千峰]感謝八方翰墨丶的打賞，謝謝你的支持！！！
+§50 感謝藍是黑、東都古月、龍青蓮、YC525、尾數80096、尾數14351、韓夢寒夢非攻、君子夢羅刹道、尾數30620、尾數70274、3D胸神、喜馬拉雅-萊得、迷戀刹那芳華、丶陌愛、尾數26591、各有各的獨孤九劍、我的劫難Ψ、劃槳的水、尾數49420、蟲兒飄、米奇妙妙妙脆角、尾數29091、廟裡供著神、尾數10809、尾數06248、尾數42228、雜家不是咱家、不聽王八念經、星雲星宇、流衍大帝、尾數55209的月票獎勵！！！
+§51 [Ø=云千峰]好多這本書熟悉的名字，看到你們都在這，我這因暑熱煩躁的心一下就安定了！！！
+§52 [Ø=云千峰]謝謝你們在這，謝謝你們，感激！！！
+§53 [Ø=云千峰]祝大家好夢，晚安！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 53 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§53. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

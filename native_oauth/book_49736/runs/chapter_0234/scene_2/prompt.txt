@@ -1,0 +1,77 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0234|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|“Linda?”
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §38):
+§1 [Ø=云千峰]雲千峰這一聲呼喚極為溫柔，幾乎是貼著琳達的臉頰說出來。
+§2 [Ø=云千峰]那種關心的溫柔，一瞬間讓琳達因呼吸困難而發出的那種打嗝般的氣響消失了，整個人愣住了一下。
+§3 [Ø=云千峰]暴風雪來了，搖晃著小小的履帶車，像一葉飄搖的獨舟。
+§4 [Ø=云千峰]獨舟裡的人也隨著搖晃著，搖晃著
+§5 關閉了所有電源的雪地車之中一團漆黑。
+§6 [Ø=云千峰]琳達的眸子由驚愕到不解，再到變成黑夜裡蘊著霧氣的明眸，閃動著楚楚的柔光。
+§7 琳達的體溫在快速的攀升：
+§8 “現在呼吸順暢了吧？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§9 琳達小貓似的“嗯”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]了一聲。
+§10 這時候她才知道自己誤會了雲千峰。
+§11 [Ø=云千峰]對方不是想對自己無禮，而是在救她。
+§12 [Ø=云千峰]腎上腺素，這種物質， [||] 都能讓人神經放松下來，尤其是腎上腺素，能夠很好的緩解呼吸困難。
+§13 [Ø=云千峰]琳達明白了雲千峰的用意，心裡不由得笑話自己剛才還想著要不要反抗。
+§14 [Ø=云千峰]隨即又有點失落，空嘮嘮的，缺點什麽。
+§15 [Ø=云千峰]相對雲千峰說點什麽，或者做點什麽，然後剛轉身就聽到了雲千峰那很輕的鼾聲。
+§16 人家睡著了。
+§17 [Ø=云千峰]“豬啊！三秒入睡！還真的是心無雜念啊，你這樣我好沒面子的啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§18 [Ø=云千峰]琳達碎碎念著，也在疲倦之中沉沉睡去。
+§19 [Ø=云千峰]暴風雪來了，打著呼嘯，卷著鵝毛般的白色，籠罩著這片生命禁區。
+§20 [Ø=云千峰]小小的紅色雪地車就躲在那厚實的冰崖之下，在冰山兩側卷飛的雪花之中，倒像是這裡的花蕊。
+§21 [Ø=云千峰]M國，需要開著空調才能清涼的書房內。
+§22 “守望者到底是什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 [Ø=云千峰]聽到白狐詢問，濕瑪瑪肆科沉聲道：
+§24 “你不是見過祂們嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 [Ø=云千峰]白狐看著濕瑪瑪肆科，道：
+§26 “那些光頭黑衣人和地底鑽出來那個帶著翅膀的人就是守望者嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 濕瑪搖頭道：
+§28 [Ø=云千峰]“不，只有那個帶著翅膀的家夥才是守望者的一員，祂們一共有二百人。而你說的那些光頭黑衣人，不過是披著人皮的怪物， [||] 祂們的本體，雄性外貌如同直立行走的蜥蜴，而雌性除了膚色深綠色有些奇怪外，體型外貌都很漂亮。
+§29 [Ø=云千峰]祂們不屬於守望者，而是守望者與人類結合生下的後代，一群與祂們父親一樣，見不得光的怪物。”
+§30 白狐立馬意識到這句話裡蘊藏的關鍵信息。
+§31 “守望者與人類之間沒有生Z隔離？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§32 [Ø=云千峰]濕瑪瑪肆科點了點頭，笑著低聲道：
+§33 [Ø=云千峰]“你和我想的一樣，我也懷疑守望者與人類這種生物的產生有關系。人類即便不完全是守望者那個種族製造的，但祂們一定參與了其中一環。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 [Ø=云千峰]白狐普羅沉思，道：
+§35 [Ø=云千峰]“初來太陽系的時候，我研究過普羅星人的基因， [||] 發現他們的基因最少經過了三次改造，被限制了很多能力，但是也增加了一些東西。
+§36 [Ø=云千峰]為此我特意引導普羅星人的科技朝著生物基因方向發展，但是很可惜， [||] 當普羅星的科技能夠更加深入解讀普羅星人基因的時候，蚩尤誕生了，唉！”
+§37 濕瑪瑪肆科笑道：
+§38 [Ø=云千峰]“別歎氣，我可以告訴你我們研究出來的結果，人類基因的三次改造都非常有趣”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 38 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§38. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

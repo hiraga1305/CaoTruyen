@@ -1,0 +1,643 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 169,
+  "title": "Chương 169: Sấm Sét Cổ Quái!",
+  "total_paragraphs": 105,
+  "translated_paragraphs": 105,
+  "source_hash": "8e13ad0f3ea103d96b250c91f76e2b8f9c232cd2e44ba3fb0c7f3148b994b79d",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0169p0001",
+      "index": 1,
+      "raw_zh": "第169章 這雷，古怪！",
+      "translated_vi": "Chương 169: Sấm Sét Cổ Quái!"
+    },
+    {
+      "para_id": "c0169p0002",
+      "index": 2,
+      "raw_zh": "事實上，早在野人山神跡探險之後，雲千峰就已經感覺到雲氏宗譜裡面肯定隱藏著一些秘密，他甚至還讓盜賊巴猜去把雲氏族譜給自己偷來。",
+      "translated_vi": "Trên thực tế, ngay từ sau chuyến thám hiểm Thần Tích Dã Nhân Sơn, Vân Thiên Phong đã lờ mờ cảm nhận được bên trong gia phả dòng họ Vân chắc chắn đang ẩn giấu những bí mật kinh thiên động địa nào đó, anh thậm chí còn từng nhờ tên trộm Ba Sai đi trộm gia phả họ Vân về cho mình."
+    },
+    {
+      "para_id": "c0169p0003",
+      "index": 3,
+      "raw_zh": "但是奈何緊跟著人面篆搗亂，小神經又突然出現，一系列的意外讓他根本沒有時間去研究雲氏宗譜。",
+      "translated_vi": "Thế nhưng ngặt nỗi ngay sau đó lại xảy ra chuyện Nhân Diện Triện quấy nhiễu, rồi Tiểu Thần Kinh lại đột ngột xuất hiện, hàng loạt biến cố bất ngờ liên tiếp ập đến khiến anh căn bản chẳng có lấy một giây phút nào rảnh rỗi để nghiên cứu gia phả dòng tộc."
+    },
+    {
+      "para_id": "c0169p0004",
+      "index": 4,
+      "raw_zh": "結果等到老爺廟神跡出來後，某種力量為了阻止他，甚至不惜在三十年前某個是時間節點阻止他出生，導致所有人的記憶和人生軌跡都發生了變化。",
+      "translated_vi": "Kết quả là sau khi thoát khỏi thần tích Lão Gia Miếu, một thế lực thần bí nào đó nhằm ngăn chặn anh, thậm chí đã không tiếc thủ đoạn can thiệp vào một mốc thời gian cách đây ba mươi năm để ngăn cản việc anh chào đời, dẫn tới việc ký ức và quỹ đạo cuộc đời của tất cả mọi người đều bị đảo lộn biến đổi hoàn toàn."
+    },
+    {
+      "para_id": "c0169p0005",
+      "index": 5,
+      "raw_zh": "那雲氏宗譜自然也就消失不見，他出來後就被追殺，一直逃亡到現在。",
+      "translated_vi": "Cuốn gia phả họ Vân kia dĩ nhiên cũng theo đó mà biến mất tăm mất tích, anh vừa bước chân ra ngoài đã bị truy sát ráo riết, lưu lạc trốn chạy mãi cho tới tận bây giờ."
+    },
+    {
+      "para_id": "c0169p0006",
+      "index": 6,
+      "raw_zh": "如今，他有了新的身份，終於可以再回華夏，去仔細查查雲守身的所有資料。",
+      "translated_vi": "Giờ đây, anh đã có một thân phận hoàn toàn mới, cuối cùng cũng có thể quay trở lại Hoa Hạ để tra cứu tỉ mỉ toàn bộ tư liệu liên quan đến Vân Thủ Thân."
+    },
+    {
+      "para_id": "c0169p0007",
+      "index": 7,
+      "raw_zh": "野人山神跡，那藏在真正出口裂縫內的神秘乾屍所遺留的石台刻字，始終讓雲千峰耿耿於懷。",
+      "translated_vi": "Tại Thần Tích Dã Nhân Sơn, những dòng chữ khắc trên bệ đá do xác khô bí ẩn nằm ẩn mình bên trong khe nứt của lối ra chân chính để lại vẫn luôn khiến Vân Thiên Phong canh cánh trong lòng."
+    },
+    {
+      "para_id": "c0169p0008",
+      "index": 8,
+      "raw_zh": "因為那刻字有著太多的矛盾之處。",
+      "translated_vi": "Bởi lẽ những dòng chữ khắc ấy tồn tại quá nhiều điểm mâu thuẫn bất hợp lý."
+    },
+    {
+      "para_id": "c0169p0009",
+      "index": 9,
+      "raw_zh": "以雲守身之名刻字，但從年紀來看，又絕不會是雲守身。",
+      "translated_vi": "Khắc chữ dưới danh nghĩa Vân Thủ Thân, nhưng nếu xét theo độ tuổi thì tuyệt đối không thể nào là Vân Thủ Thân được."
+    },
+    {
+      "para_id": "c0169p0010",
+      "index": 10,
+      "raw_zh": "更主要的，是那屍體身上，帶著太多代表劉穆之的東西。",
+      "translated_vi": "Điểm mấu chốt hơn cả là trên thi thể ấy lại mang quá nhiều tín vật tượng trưng cho Lưu Mục Chi."
+    },
+    {
+      "para_id": "c0169p0011",
+      "index": 11,
+      "raw_zh": "雲千峰有一種直覺，就是那具乾屍的秘密，一定能給自己驚喜或是驚嚇。",
+      "translated_vi": "Vân Thiên Phong có một linh cảm trực giác mãnh liệt rằng, bí mật ẩn giấu sau xác khô kia nhất định sẽ mang lại cho anh sự bất ngờ tột độ hoặc giả là một phen kinh hồn bạt vía."
+    },
+    {
+      "para_id": "c0169p0012",
+      "index": 12,
+      "raw_zh": "而要破解這個秘密，雲氏族譜是最佳的鑰匙。",
+      "translated_vi": "Mà muốn phá giải bí ẩn ngút ngàn này, gia phả dòng họ Vân chính là chiếc chìa khóa vạn năng then chốt nhất."
+    },
+    {
+      "para_id": "c0169p0013",
+      "index": 13,
+      "raw_zh": "聽到倆人馬上就要分開，羅琳娜的心情一下就低落起來，這次是真的不高興。",
+      "translated_vi": "Nghe tin hai người sắp sửa mỗi người một ngả, tâm trạng Lorina lập tức chùng hẳn xuống, lần này cô thực sự cảm thấy không vui."
+    },
+    {
+      "para_id": "c0169p0014",
+      "index": 14,
+      "raw_zh": "有心想跟著一起去，卻也知道自己那私人島嶼上，還有很多事等著自己。",
+      "translated_vi": "Dù trong lòng rất muốn đi theo anh, nhưng cô cũng tự biết trên hòn đảo tư nhân của mình còn cả núi công việc đang chực chờ giải quyết."
+    },
+    {
+      "para_id": "c0169p0015",
+      "index": 15,
+      "raw_zh": "最主要的，她最終極的目標從來沒有變過，那就是死而複生的奧秘。",
+      "translated_vi": "Quan trọng nhất là, mục tiêu tối thượng từ trước đến nay của cô chưa từng thay đổi, đó chính là bí mật về sự chết đi sống lại."
+    },
+    {
+      "para_id": "c0169p0016",
+      "index": 16,
+      "raw_zh": "如今秘密已經解開，她現在要做的，就是把那片掩藏著女閻羅母船的沙漠買下來，這事勢在必行，但她卻也知道絕不會那麽順利，不知道需要出多少手段才行。",
+      "translated_vi": "Hiện tại bí mật đã được vén màn, việc cô cần làm lúc này là bỏ tiền thâu tóm toàn bộ vùng sa mạc đang chôn giấu chiến hạm mẹ Nữ Diêm La kia. Chuyện này nhất định phải tiến hành, nhưng cô cũng thừa hiểu mọi việc quyết chẳng thể thuận buồm xuôi gió, chẳng biết sẽ phải tung ra bao nhiêu thủ đoạn mưu mô mới thành."
+    },
+    {
+      "para_id": "c0169p0017",
+      "index": 17,
+      "raw_zh": "不過她很自信，那塊沙漠一定會是自己的，跑不掉。",
+      "translated_vi": "Dẫu vậy cô vẫn vô cùng tự tin, mảnh đất sa mạc ấy chắc chắn sẽ thuộc về tay cô, không chạy đằng nào cho thoát."
+    },
+    {
+      "para_id": "c0169p0018",
+      "index": 18,
+      "raw_zh": "回到酒店後已經是深夜，羅琳娜一臉淡定的開了兩個房間，把男女授受不親表現到極致，雲千峰則叫酒店幫忙定好倆人的機票，一個飛往華夏，一個飛往美洲。",
+      "translated_vi": "Khi quay về tới khách sạn thì trời đã về khuya, Lorina mặt không chút cảm xúc thản nhiên mở hai phòng riêng biệt, thể hiện triệt để quan niệm nam nữ thụ thụ bất thân. Vân Thiên Phong thì nhờ lễ tân khách sạn đặt trước vé máy bay cho cả hai, một chuyến bay về Hoa Hạ, còn một chuyến bay sang châu Mỹ."
+    },
+    {
+      "para_id": "c0169p0019",
+      "index": 19,
+      "raw_zh": "倆人回到自己的房間，各自洗漱，換上了乾淨舒爽的衣服，一起吃了夜宵。",
+      "translated_vi": "Hai người trở về phòng riêng của mình, tắm rửa sạch sẽ, thay những bộ trang phục thoải mái thoáng mát rồi cùng nhau ăn bữa khuya."
+    },
+    {
+      "para_id": "c0169p0020",
+      "index": 20,
+      "raw_zh": "看著面無表情的羅琳娜，雲千峰試探道：",
+      "translated_vi": "Nhìn vẻ mặt không chút gợn sóng của Lorina, Vân Thiên Phong ướm lời thăm dò:"
+    },
+    {
+      "para_id": "c0169p0021",
+      "index": 21,
+      "raw_zh": "“這就要分開了，你就沒什麽話要對我說？”",
+      "translated_vi": "“Sắp sửa chia tay rồi, cô không có lời nào muốn nói với tôi sao?”"
+    },
+    {
+      "para_id": "c0169p0022",
+      "index": 22,
+      "raw_zh": "羅琳娜喝著紅酒，眼皮都不抬，道：",
+      "translated_vi": "Lorina nhấp một ngụm rượu vang đỏ, mi mắt chẳng thèm nâng lên lấy nửa phần, buông thõng một câu:"
+    },
+    {
+      "para_id": "c0169p0023",
+      "index": 23,
+      "raw_zh": "“一路順風。”",
+      "translated_vi": "“Thuận buồm xuôi gió.”"
+    },
+    {
+      "para_id": "c0169p0024",
+      "index": 24,
+      "raw_zh": "相當敷衍。",
+      "translated_vi": "Vô cùng qua loa lấy lệ."
+    },
+    {
+      "para_id": "c0169p0025",
+      "index": 25,
+      "raw_zh": "雲千峰無奈，一舉杯，道：",
+      "translated_vi": "Vân Thiên Phong đành bất lực nâng ly, đáp:"
+    },
+    {
+      "para_id": "c0169p0026",
+      "index": 26,
+      "raw_zh": "“好，一路順風！”",
+      "translated_vi": "“Được, chúc thuận buồm xuôi gió!”"
+    },
+    {
+      "para_id": "c0169p0027",
+      "index": 27,
+      "raw_zh": "說完飲盡杯中酒，道：",
+      "translated_vi": "Nói xong anh uống cạn ly rượu trong tay, nói tiếp:"
+    },
+    {
+      "para_id": "c0169p0028",
+      "index": 28,
+      "raw_zh": "“我回去睡覺了，明天一早的飛機。”",
+      "translated_vi": "“Tôi về phòng ngủ đây, sáng sớm mai còn phải lên máy bay nữa.”"
+    },
+    {
+      "para_id": "c0169p0029",
+      "index": 29,
+      "raw_zh": "當下起身徑直奔著自己的房間走去。",
+      "translated_vi": "Nói đoạn, anh đứng dậy rảo bước đi thẳng về phòng của mình."
+    },
+    {
+      "para_id": "c0169p0030",
+      "index": 30,
+      "raw_zh": "羅琳娜相當淡定，端著酒杯不說話，也不送一下，慢悠悠的喝著紅酒，欣賞著唱片內的夜曲。",
+      "translated_vi": "Lorina tỏ ra vô cùng bình thản, bưng ly rượu không nói một lời, cũng chẳng buồn tiễn chân lấy một bước, thong thả nhấm nháp từng ngụm vang đỏ, thưởng thức khúc dạ khúc phát ra từ đĩa hát."
+    },
+    {
+      "para_id": "c0169p0031",
+      "index": 31,
+      "raw_zh": "雲千峰也很不爽，回到房間，往床上一倒，準備悶覺。",
+      "translated_vi": "Vân Thiên Phong trong lòng cũng thấy bực bội không thôi, về tới phòng là ngã vật xuống giường, định bụng ngủ một giấc cho khuây khỏa."
+    },
+    {
+      "para_id": "c0169p0032",
+      "index": 32,
+      "raw_zh": "可一躺下就感覺被窩裡有什麽擱著自己的後背。",
+      "translated_vi": "Thế nhưng vừa nằm xuống, anh đã cảm thấy dưới đệm có vật gì đó cưng cứng cộm vào lưng mình."
+    },
+    {
+      "para_id": "c0169p0033",
+      "index": 33,
+      "raw_zh": "當下開燈，把手伸到被窩裡，掏出一個小皮夾，一大串鑰匙。",
+      "translated_vi": "Anh lập tức bật đèn, thò tay vào trong chăn lôi ra một chiếc ví da nhỏ cùng một chùm chìa khóa lủng lẳng."
+    },
+    {
+      "para_id": "c0169p0034",
+      "index": 34,
+      "raw_zh": "鱷魚皮的皮夾很精致，打開來裡面有一張華夏的銀行開，卡上面貼了一張字條，上面就三個字：",
+      "translated_vi": "Chiếc ví làm bằng da cá sấu vô cùng tinh xảo, mở ra bên trong có một chiếc thẻ ngân hàng của Hoa Hạ, trên mặt thẻ dán một mẩu giấy nhớ, vỏn vẹn chỉ có ba chữ:"
+    },
+    {
+      "para_id": "c0169p0035",
+      "index": 35,
+      "raw_zh": "“你的錢。”",
+      "translated_vi": "“Tiền của anh.”"
+    },
+    {
+      "para_id": "c0169p0036",
+      "index": 36,
+      "raw_zh": "看到這三個字，雲千峰就想起羅琳娜那冷漠的臉，心裡埋怨，不就是雷劈一下嗎，那玩意是巧合。",
+      "translated_vi": "Nhìn thấy ba chữ này, Vân Thiên Phong lập tức nhớ tới khuôn mặt lạnh lùng băng giá của Lorina, trong lòng thầm than vãn, chẳng qua chỉ là bị sét đánh trúng một phát thôi mà, cái thứ đó rõ ràng là sự trùng hợp ngẫu nhiên."
+    },
+    {
+      "para_id": "c0169p0037",
+      "index": 37,
+      "raw_zh": "心裡也知道，這卡裡，應該是羅琳娜答應的千萬巨資，心裡頓時安穩不少，有了底氣。",
+      "translated_vi": "Trong lòng anh cũng hiểu rõ, bên trong chiếc thẻ này hẳn là khoản tiền khổng lồ hàng chục triệu mà Lorina từng hứa hẹn trước đó, cõi lòng tức thì yên ổn vững vàng hơn hẳn, có thêm bao phần tự tin."
+    },
+    {
+      "para_id": "c0169p0038",
+      "index": 38,
+      "raw_zh": "急忙用APP查了一下裡面的余額，面對著眼花繚亂的數字，雲千峰用計算器換算了一下匯率，得到了一個驚人的答案。",
+      "translated_vi": "Anh vội vã mở ứng dụng ngân hàng trên điện thoại ra tra cứu số dư bên trong, đối diện với những dãy số dài dằng dặc hoa cả mắt, Vân Thiên Phong dùng máy tính quy đổi tỷ giá hối đoái, nhận được một con số đáng kinh ngạc."
+    },
+    {
+      "para_id": "c0169p0039",
+      "index": 39,
+      "raw_zh": "“羅琳娜多給了不少啊這是？”",
+      "translated_vi": "“Lorina lần này cho thừa ra nhiều quá mức rồi đấy chứ?”"
+    },
+    {
+      "para_id": "c0169p0040",
+      "index": 40,
+      "raw_zh": "再看皮夾內，每一頁都夾著一張精致的碳纖卡片，上面印著一些地址，幾乎遍布世界各地的房產。",
+      "translated_vi": "Nhìn tiếp vào bên trong ví da, mỗi một ngăn đều kẹp một chiếc thẻ sợi carbon tinh tế, bên trên in sẵn một số địa chỉ, hầu như trải khắp các bất động sản trên toàn thế giới."
+    },
+    {
+      "para_id": "c0169p0041",
+      "index": 41,
+      "raw_zh": "最主要的，看這些卡片上的描述，這些房產都不是住宅樓，甚至不在市區，而全都是一些廢棄地堡，發射井之類的古怪地產。",
+      "translated_vi": "Quan trọng nhất là, nhìn qua phần miêu tả trên những chiếc thẻ này, các bất động sản ấy tuyệt nhiên không phải là những tòa nhà chung cư để ở, thậm chí chẳng hề nằm trong khu đô thị, mà thảy đều là những boong-ke hạt nhân bỏ hoang, giếng phóng tên lửa ngầm cùng các loại địa ốc kỳ quái tương tự."
+    },
+    {
+      "para_id": "c0169p0042",
+      "index": 42,
+      "raw_zh": "“這個羅琳娜才是被迫害妄想症吧？弄了這麽多末世地堡，這是準備人在何處遇到天災，都有地方躲啊！”",
+      "translated_vi": "“Cái cô Lorina này mới chính là kẻ mắc chứng hoang tưởng bị hại nặng nhất thì có! Dựng ra lắm boong-ke ngày tận thế thế này, rõ ràng là chuẩn bị sẵn để dù bản thân có ở bất cứ xó xỉnh nào gặp phải thiên tai đại họa cũng đều có chỗ chui vào ẩn nấp!”"
+    },
+    {
+      "para_id": "c0169p0043",
+      "index": 43,
+      "raw_zh": "再仔細一看，這附近就有一個，但是羅琳娜甚至看都不去看一眼，可見她對這些地產的保護是極為隱秘的。",
+      "translated_vi": "Nhìn kỹ lại một lượt, ngay gần khu vực này cũng có một địa điểm, thế nhưng Lorina thậm chí chẳng thèm đoái hoài ngó ngàng tới lấy nửa mắt, đủ thấy sự bảo mật của cô đối với khối tài sản ngầm này nghiêm ngặt đến nhường nào."
+    },
+    {
+      "para_id": "c0169p0044",
+      "index": 44,
+      "raw_zh": "換句話說，這是羅琳娜最大的秘密了。",
+      "translated_vi": "Nói cách khác, đây chính là bí mật lớn nhất của cuộc đời Lorina."
+    },
+    {
+      "para_id": "c0169p0045",
+      "index": 45,
+      "raw_zh": "雲千峰這才明白，原來羅琳娜根本不是生氣了，這是挺享受被哄著的感覺。",
+      "translated_vi": "Vân Thiên Phong lúc này mới vỡ lẽ, hóa ra Lorina căn bản chẳng hề tức giận, cô nàng chỉ đơn thuần là đang rất hưởng thụ cảm giác được người ta dỗ dành chiều chuộng mà thôi."
+    },
+    {
+      "para_id": "c0169p0046",
+      "index": 46,
+      "raw_zh": "同時為自己沒有繼續哄人家感覺內疚。",
+      "translated_vi": "Đồng thời anh cũng cảm thấy áy náy khôn nguôi vì bản thân đã không kiên trì dỗ dành người ta đến cùng."
+    },
+    {
+      "para_id": "c0169p0047",
+      "index": 47,
+      "raw_zh": "多慷慨的一富婆啊！",
+      "translated_vi": "Một phú bà hào phóng phóng khoáng biết bao nhiêu!"
+    },
+    {
+      "para_id": "c0169p0048",
+      "index": 48,
+      "raw_zh": "當下急忙飛奔而出，直奔羅琳娜的房間。",
+      "translated_vi": "Anh lập tức phi như bay ra khỏi phòng, chạy thẳng tới trước cửa phòng của Lorina."
+    },
+    {
+      "para_id": "c0169p0049",
+      "index": 49,
+      "raw_zh": "一開門，果然沒上鎖。",
+      "translated_vi": "Vừa vặn tay nắm cửa, quả nhiên cửa không hề khóa."
+    },
+    {
+      "para_id": "c0169p0050",
+      "index": 50,
+      "raw_zh": "此時羅琳娜已經穿著薄薄的睡衣躺在床上，但是沒有蓋被。",
+      "translated_vi": "Lúc này Lorina đã mặc một bộ váy ngủ mỏng manh nằm trên giường, nhưng tuyệt nhiên không đắp chăn."
+    },
+    {
+      "para_id": "c0169p0051",
+      "index": 51,
+      "raw_zh": "這一幕，那玲瓏凸凹，真是這世間最美的景色。",
+      "translated_vi": "Cảnh tượng trước mắt, từng đường cong lồi lõm gợi cảm nuột nà ấy, quả thực là phong cảnh kiều diễm tuyệt mỹ nhất trên cõi đời này."
+    },
+    {
+      "para_id": "c0169p0052",
+      "index": 52,
+      "raw_zh": "尤其是羅琳娜一頭黑發，面龐好似古埃及的女神，加之東方人的細膩皮膚和西方人的耀目身材，這一切集合在一起，讓人迷醉。",
+      "translated_vi": "Đặc biệt là mái tóc đen nhánh buông lơi, khuôn mặt thanh tú tựa như nữ thần Ai Cập cổ đại, kết hợp cùng làn da mịn màng không tì vết của phụ nữ phương Đông và thân hình bốc lửa thiêu đốt ánh nhìn của mỹ nhân phương Tây, tất cả hòa quyện lại tạo nên một sức mê hoặc đến đắm say lòng người."
+    },
+    {
+      "para_id": "c0169p0053",
+      "index": 53,
+      "raw_zh": "雲千峰來到床前，一把用雙手捉住羅琳娜的雙手，四目交接。",
+      "translated_vi": "Vân Thiên Phong bước tới bên mép giường, vươn hai tay nắm chặt lấy đôi bàn tay mềm mại của Lorina, bốn mắt nhìn nhau say đắm."
+    },
+    {
+      "para_id": "c0169p0054",
+      "index": 54,
+      "raw_zh": "很顯然，羅琳娜對雲千峰的出現一點也不意外，抿了抿嘴唇，冷冷道：",
+      "translated_vi": "Rõ ràng là Lorina chẳng hề bất ngờ trước sự xuất hiện của Vân Thiên Phong, cô mím nhẹ đôi môi mọng, lạnh lùng cất tiếng:"
+    },
+    {
+      "para_id": "c0169p0055",
+      "index": 55,
+      "raw_zh": "“又來幹嘛？我要休息了！”",
+      "translated_vi": "“Lại sang đây làm gì nữa? Tôi chuẩn bị đi ngủ rồi!”"
+    },
+    {
+      "para_id": "c0169p0056",
+      "index": 56,
+      "raw_zh": "雲千峰使勁搖搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu lia lịa, nói:"
+    },
+    {
+      "para_id": "c0169p0057",
+      "index": 57,
+      "raw_zh": "“羅琳娜，親愛的，你知道嗎，伱讓我實現了人生的夢想，超額完成！”",
+      "translated_vi": "“Lorina, em yêu, em có biết không, em đã giúp anh hiện thực hóa giấc mơ lớn nhất của cuộc đời mình, thậm chí còn vượt xa cả chỉ tiêu nữa đấy!”"
+    },
+    {
+      "para_id": "c0169p0058",
+      "index": 58,
+      "raw_zh": "羅琳娜一愣，心想雲千峰怎麽可能是那麽淺薄的人，那點錢就成了夢想？",
+      "translated_vi": "Lorina ngẩn người ra, thầm nghĩ Vân Thiên Phong làm sao có thể là người nông cạn thiển cận đến thế, chút tiền lẻ ấy mà đã thành giấc mơ cả đời rồi sao?"
+    },
+    {
+      "para_id": "c0169p0059",
+      "index": 59,
+      "raw_zh": "她堅決不信，忍不住問道：",
+      "translated_vi": "Cô kiên quyết không tin, bèn không nhịn được mà hỏi:"
+    },
+    {
+      "para_id": "c0169p0060",
+      "index": 60,
+      "raw_zh": "“什麽夢想？”",
+      "translated_vi": "“Giấc mơ gì cơ?”"
+    },
+    {
+      "para_id": "c0169p0061",
+      "index": 61,
+      "raw_zh": "雲千峰眼睛閃著光，底氣十足的沉聲道：",
+      "translated_vi": "Đôi mắt Vân Thiên Phong sáng rực lên, giọng đầy tự tin hùng hồn đáp:"
+    },
+    {
+      "para_id": "c0169p0062",
+      "index": 62,
+      "raw_zh": "“吃軟飯啊！”",
+      "translated_vi": "“Ăn bám phú bà đấy!”"
+    },
+    {
+      "para_id": "c0169p0063",
+      "index": 63,
+      "raw_zh": "羅琳娜氣的拽過來雲千峰就是一頓打。",
+      "translated_vi": "Lorina tức giận túm lấy Vân Thiên Phong đấm đá túi bụi một trận ra trò."
+    },
+    {
+      "para_id": "c0169p0064",
+      "index": 64,
+      "raw_zh": "打著打著，倆人就滾到了一起，變成了摔跤？",
+      "translated_vi": "Đánh qua đấm lại một hồi, hai người liền lăn lộn quấn chặt lấy nhau, biến thành một trận đấu vật kịch liệt?"
+    },
+    {
+      "para_id": "c0169p0065",
+      "index": 65,
+      "raw_zh": "也就在這一刻，外面滾起了一聲雷。",
+      "translated_vi": "Cũng chính vào giây phút này, bên ngoài cửa sổ bỗng dưng rền vang một tiếng sấm ầm ĩ."
+    },
+    {
+      "para_id": "c0169p0066",
+      "index": 66,
+      "raw_zh": "雲千峰可謂是一朝被蛇咬，十年怕井繩。",
+      "translated_vi": "Vân Thiên Phong đúng thật là một lần bị rắn cắn, mười năm sợ dây thừng."
+    },
+    {
+      "para_id": "c0169p0067",
+      "index": 67,
+      "raw_zh": "當下一驚，後背已是有了冷汗。",
+      "translated_vi": "Anh lập tức giật bắn mình, sau lưng mồ hôi lạnh đã toát ra ròng ròng."
+    },
+    {
+      "para_id": "c0169p0068",
+      "index": 68,
+      "raw_zh": "急忙跳下床，趴到窗邊看了一眼，發現月朗星稀，絕壁的大晴天。",
+      "translated_vi": "Vội vàng nhảy tót xuống giường, nhoài người bên bệ cửa sổ ngó ra ngoài, phát hiện trời trong trăng sáng, sao giăng lấp lánh, rõ ràng là một đêm trời quang mây tạnh tuyệt đối."
+    },
+    {
+      "para_id": "c0169p0069",
+      "index": 69,
+      "raw_zh": "“晴天打雷，有古怪啊！”",
+      "translated_vi": "“Trời quang mây tạnh mà sấm sét ầm ầm, chuyện này có sấm sét cổ quái rồi!”"
+    },
+    {
+      "para_id": "c0169p0070",
+      "index": 70,
+      "raw_zh": "羅琳娜人在興頭上，見雲千峰兔子似的跳下床，就嚷嚷著讓他趕緊滾回來。",
+      "translated_vi": "Lorina đang lúc hưng phấn cao trào, thấy Vân Thiên Phong nhảy tót xuống giường như thỏ đế, liền gắt gỏng giục anh mau cút xéo trở lại giường."
+    },
+    {
+      "para_id": "c0169p0071",
+      "index": 71,
+      "raw_zh": "雲千峰面帶疑惑，回到床上，倆人剛又抱在一起，便又起了一聲悶雷。",
+      "translated_vi": "Vân Thiên Phong mang theo vẻ mặt đầy nghi hoặc quay trở lại giường, hai người vừa mới ôm choàng lấy nhau thì một tiếng sấm trầm đục khác lại rền vang dữ dội."
+    },
+    {
+      "para_id": "c0169p0072",
+      "index": 72,
+      "raw_zh": "作為不相信巧合的雲千峰，這次是真的怕了，當下找到三枚硬幣，直接面南背北卜了一卦。",
+      "translated_vi": "Là một người chưa bao giờ tin vào những chuyện trùng hợp ngẫu nhiên, Vân Thiên Phong lần này thực sự hoảng hồn sợ hãi, bèn tìm ngay ba đồng xu cổ, quay mặt về hướng Nam lưng tựa hướng Bắc gieo ngay một quẻ."
+    },
+    {
+      "para_id": "c0169p0073",
+      "index": 73,
+      "raw_zh": "上坎下坤，為水地比卦。",
+      "translated_vi": "Quẻ trên là Khảm, quẻ dưới là Khôn, chính là quẻ Thủy Địa Tỷ."
+    },
+    {
+      "para_id": "c0169p0074",
+      "index": 74,
+      "raw_zh": "比樂師憂，凡是佔卜遇到比卦，便絕不會有壞事。",
+      "translated_vi": "Tỷ lạc Sư ưu, phàm là bói toán gặp phải quẻ Tỷ thì tuyệt đối không thể có chuyện xui xẻo tai ương."
+    },
+    {
+      "para_id": "c0169p0075",
+      "index": 75,
+      "raw_zh": "因為是測男女之事，所以要看配比。",
+      "translated_vi": "Bởi vì đang xem về chuyện tình cảm nam nữ, cho nên phải xét tới phối tỷ hào quẻ."
+    },
+    {
+      "para_id": "c0169p0076",
+      "index": 76,
+      "raw_zh": "這比卦是五個陰爻和一個陽爻，其中陽爻在九五之位，雖然尊貴，但卻有一無法逾越的陰爻在其上。",
+      "translated_vi": "Quẻ Tỷ này gồm năm hào âm và một hào dương, trong đó hào dương ngự ở vị trí Cửu Ngũ, tuy rằng tôn quý tột bậc nhưng lại có một hào âm không thể vượt qua ngự trị ngay phía trên đầu."
+    },
+    {
+      "para_id": "c0169p0077",
+      "index": 77,
+      "raw_zh": "雲千峰自語，道：",
+      "translated_vi": "Vân Thiên Phong lẩm bẩm tự nhủ:"
+    },
+    {
+      "para_id": "c0169p0078",
+      "index": 78,
+      "raw_zh": "“這是男人博愛，大婦吃醋逞威的卦象！嘶.”",
+      "translated_vi": "“Đây là quẻ tượng đàn ông đa tình bác ái, khiến vợ cả nổi ghen lôi đình thị uy! Hít...”"
+    },
+    {
+      "para_id": "c0169p0079",
+      "index": 79,
+      "raw_zh": "想到自己被雷劈時聽到的“擊偏”之語，如今看來，未必是幻聽，當下急忙道：",
+      "translated_vi": "Nghĩ tới câu nói 'bắn lệch' mà mình nghe thấy khi bị sét đánh ban nãy, xem ra lúc này chưa chắc đã là ảo giác, anh vội vàng bảo:"
+    },
+    {
+      "para_id": "c0169p0080",
+      "index": 80,
+      "raw_zh": "“羅琳娜，要不下次再說吧，這打雷嚇人啊！”",
+      "translated_vi": "“Lorina, hay là để lần sau đi em, sấm sét đùng đùng thế này dọa người quá!”"
+    },
+    {
+      "para_id": "c0169p0081",
+      "index": 81,
+      "raw_zh": "羅琳娜氣喘籲籲，喃喃道：",
+      "translated_vi": "Lorina thở hổn hển, lẩm bẩm:"
+    },
+    {
+      "para_id": "c0169p0082",
+      "index": 82,
+      "raw_zh": "“打雷怕什麽？”",
+      "translated_vi": "“Sấm sét thì có gì mà phải sợ chứ?”"
+    },
+    {
+      "para_id": "c0169p0083",
+      "index": 83,
+      "raw_zh": "雲千峰回道：",
+      "translated_vi": "Vân Thiên Phong đáp:"
+    },
+    {
+      "para_id": "c0169p0084",
+      "index": 84,
+      "raw_zh": "“我倒是不怎麽怕，我主要是怕劈到你。”",
+      "translated_vi": "“Tôi thì chẳng sợ lắm đâu, chủ yếu là tôi sợ sét đánh trúng cô thôi.”"
+    },
+    {
+      "para_id": "c0169p0085",
+      "index": 85,
+      "raw_zh": "羅琳娜心下以為雲千峰是上次被雷劈出了心理陰影，就主動抱過去，說道：",
+      "translated_vi": "Lorina trong lòng cứ đinh ninh Vân Thiên Phong bị cú sét đánh lần trước làm cho ám ảnh tâm lý, bèn chủ động ôm chầm lấy anh, cất tiếng an ủi:"
+    },
+    {
+      "para_id": "c0169p0086",
+      "index": 86,
+      "raw_zh": "“別怕，我保護你！”",
+      "translated_vi": "“Đừng sợ, có tôi bảo vệ anh!”"
+    },
+    {
+      "para_id": "c0169p0087",
+      "index": 87,
+      "raw_zh": "說著，翻身壓在了雲千峰身上。",
+      "translated_vi": "Nói đoạn, cô xoay người đè chặt lên người Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0169p0088",
+      "index": 88,
+      "raw_zh": "也就在這一刻，一聲驚雷響，窗戶碎了一扇。",
+      "translated_vi": "Đúng vào khoảnh khắc ngàn cân treo sợi tóc này, một tiếng sét nổ vang trời xé toạc không gian, một ô cửa kính lập tức vỡ toang thành trăm mảnh vụn."
+    },
+    {
+      "para_id": "c0169p0089",
+      "index": 89,
+      "raw_zh": "羅琳娜嚇得撲棱一下坐起身來，心下也覺得這事古怪，想到雲千峰被雷劈到撲街的情景，當下忙道：",
+      "translated_vi": "Lorina sợ hãi bắn người ngồi phắt dậy, trong lòng lúc này cũng cảm thấy chuyện này thực sự quá đỗi cổ quái tà môn. Nghĩ tới cảnh tượng Vân Thiên Phong bị sét đánh ngã lăn quay bốc khói nghi ngút lần trước, cô vội vàng nói:"
+    },
+    {
+      "para_id": "c0169p0090",
+      "index": 90,
+      "raw_zh": "“還還是下次再說吧！”",
+      "translated_vi": "“Hay... hay là để lần sau đi vậy!”"
+    },
+    {
+      "para_id": "c0169p0091",
+      "index": 91,
+      "raw_zh": "終究還是慫了啊。",
+      "translated_vi": "Rốt cuộc thì cô nàng cũng phải biết rén rồi."
+    },
+    {
+      "para_id": "c0169p0092",
+      "index": 92,
+      "raw_zh": "這是一個難熬的夜晚，雲千峰和羅琳娜就好像朱紫國王和金聖宮娘娘，不得不相敬如賓保持距離。",
+      "translated_vi": "Đây quả thực là một đêm dài đằng đẵng khó khăn khôn tả xiết, Vân Thiên Phong và Lorina chẳng khác nào vua nước Chu Tử và hoàng hậu Kim Thánh Cung, buộc lòng phải tương kính như tân, giữ khoảng cách chừng mực."
+    },
+    {
+      "para_id": "c0169p0093",
+      "index": 93,
+      "raw_zh": "沒辦法，一靠太近就晴天打雷。",
+      "translated_vi": "Chẳng còn cách nào khác, hễ cứ xích lại gần nhau một chút là trời quang lại nổi sấm sét đùng đùng."
+    },
+    {
+      "para_id": "c0169p0094",
+      "index": 94,
+      "raw_zh": "羅琳娜心裡憋屈啊，研究著也不知道倆人這緣分怎麽就惹了天怒。",
+      "translated_vi": "Lorina trong lòng nghẹn ứ bực bội vô cùng, vắt óc suy nghĩ không hiểu duyên phận của hai người rốt cuộc đã làm điều gì đắc tội chọc giận ông trời."
+    },
+    {
+      "para_id": "c0169p0095",
+      "index": 95,
+      "raw_zh": "她不知道原因，但知道肯定是被針對了。",
+      "translated_vi": "Cô không biết rõ nguyên nhân sâu xa, nhưng thừa hiểu bản thân nhất định đang bị một thế lực nào đó nhắm vào trừng phạt."
+    },
+    {
+      "para_id": "c0169p0096",
+      "index": 96,
+      "raw_zh": "雖然她沒說什麽，但心裡卻已經暗暗記下了仇，準備暗暗查找原因，將針對自己的力量打死，會打雷了不起？",
+      "translated_vi": "Tuy ngoài miệng không nói ra nửa lời, nhưng trong lòng cô đã âm thầm ghi thù khắc hận, hạ quyết tâm sẽ lén lút điều tra ngọn ngành nguyên do, đập chết tươi cái thế lực dám nhắm vào mình kia. Biết giật sét thì ghê gớm lắm chắc?"
+    },
+    {
+      "para_id": "c0169p0097",
+      "index": 97,
+      "raw_zh": "至於為什麽不是和雲千峰商量，因為這女人都謹慎著，這都能打雷劈人了，說話萬一被偷聽了可怎辦，悄悄滴來。",
+      "translated_vi": "Còn về lý do tại sao không bàn bạc với Vân Thiên Phong, là bởi vì người phụ nữ này vô cùng cẩn trọng khôn ngoan, đến mức có thể hô mưa gọi sét đánh người thế này thì lỡ như lời nói bị nghe lén thì biết tính sao, cứ phải âm thầm lặng lẽ ra tay mới an toàn."
+    },
+    {
+      "para_id": "c0169p0098",
+      "index": 98,
+      "raw_zh": "至於雲千峰，心裡則想著的，則是另一番光景。",
+      "translated_vi": "Còn về phần Vân Thiên Phong, trong lòng anh lại đang suy tính về một viễn cảnh hoàn toàn khác."
+    },
+    {
+      "para_id": "c0169p0099",
+      "index": 99,
+      "raw_zh": "的確，比樂師憂，最起碼出發點就不是惡事。",
+      "translated_vi": "Quả thực, Tỷ lạc Sư ưu, ít nhất thì điểm xuất phát của chuyện này cũng không phải là ác ý hãm hại."
+    },
+    {
+      "para_id": "c0169p0100",
+      "index": 100,
+      "raw_zh": "第二天，倆人一起到了機場，雲千峰送羅琳娜登機兩小時後，自己才登上了經停歐洲，終點華夏的國際航班。",
+      "translated_vi": "Ngày hôm sau, hai người cùng nhau tới sân bay. Sau khi Vân Thiên Phong tiễn Lorina lên máy bay được hai tiếng đồng hồ, anh mới bước chân lên chuyến bay quốc tế quá cảnh qua châu Âu để trở về Hoa Hạ."
+    },
+    {
+      "para_id": "c0169p0101",
+      "index": 101,
+      "raw_zh": "看著飛機內坐著幾個黑發黑眸的華夏人，雲千峰長長的吐了一口氣，笑看著窗外的雲霧，內心裡高喊：",
+      "translated_vi": "Nhìn thấy trong khoang hành khách có vài người Hoa Hạ tóc đen mắt đen, Vân Thiên Phong thở phào nhẹ nhõm một hơi dài, mỉm cười ngắm nhìn làn mây mù lướt qua ngoài ô cửa sổ, cất tiếng gầm vang trong đáy lòng:"
+    },
+    {
+      "para_id": "c0169p0102",
+      "index": 102,
+      "raw_zh": "“華夏，我回來了！”",
+      "translated_vi": "“Hoa Hạ, tôi đã trở về rồi đây!”"
+    },
+    {
+      "para_id": "c0169p0103",
+      "index": 103,
+      "raw_zh": "大家假日快樂！！！",
+      "translated_vi": "Chúc mọi người kỳ nghỉ lễ vui vẻ!!!"
+    },
+    {
+      "para_id": "c0169p0104",
+      "index": 104,
+      "raw_zh": "好好玩，好好休息！！！",
+      "translated_vi": "Chơi thật vui, nghỉ ngơi thật đã nhé!!!"
+    },
+    {
+      "para_id": "c0169p0105",
+      "index": 105,
+      "raw_zh": "晚安！！！",
+      "translated_vi": "Chúc ngủ ngon!!!"
+    }
+  ]
+}

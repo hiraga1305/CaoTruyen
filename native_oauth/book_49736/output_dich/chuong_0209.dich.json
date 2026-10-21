@@ -1,0 +1,817 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 209,
+  "title": "Chương 209: Đạo Thành Nhân",
+  "total_paragraphs": 134,
+  "translated_paragraphs": 134,
+  "source_hash": "35e85c30517e0dc69f6605521b3e66f62ca8b542c1038f421772ad9a85d3b46e",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0209p0001",
+      "index": 1,
+      "raw_zh": "第209章 成仁之道",
+      "translated_vi": "Chương 209: Đạo Thành Nhân"
+    },
+    {
+      "para_id": "c0209p0002",
+      "index": 2,
+      "raw_zh": "聽到那出離人聲的驚叫，雲千峰幾乎沒有思考，轉身衝進了餐廳。",
+      "translated_vi": "Nghe thấy tiếng thét kinh hoàng quái dị không còn giống tiếng người kia, Vân Thiên Phong gần như chẳng cần suy nghĩ, quay phắt người lao thẳng vào trong nhà ăn."
+    },
+    {
+      "para_id": "c0209p0003",
+      "index": 3,
+      "raw_zh": "就見屋子裡十幾個食客，有的驚叫著，有的面色鐵青，有的作勢後退，有的已經滾倒在地上，腿軟的無法站起身來。",
+      "translated_vi": "Đập vào mắt anh là hơn mười thực khách bên trong phòng: kẻ thì la hét thất thanh, kẻ thì mặt mày xám ngoét không còn giọt máu, kẻ dáo dác lùi lại phía sau, lại có những kẻ đã ngã lăn lóc ra mặt đất, hai chân bủn rủn đến mức không tài nào gượng dậy nổi."
+    },
+    {
+      "para_id": "c0209p0004",
+      "index": 4,
+      "raw_zh": "但無一例外的，他們都在嘔吐，扣著嗓子瘋狂的嘔吐，似乎恨不得把五髒六腑都掏出來。",
+      "translated_vi": "Nhưng không một ngoại lệ, tất cả bọn họ đều đang nôn mửa, thò ngón tay móc sâu vào cổ họng mà nôn thốc nôn tháo điên cuồng, dường như hận không thể móc cạn cả lục phủ ngũ tạng ra ngoài."
+    },
+    {
+      "para_id": "c0209p0005",
+      "index": 5,
+      "raw_zh": "那盛湯的鐵桶已經滾倒在地上。",
+      "translated_vi": "Chiếc thùng sắt đựng súp đã ngã lăn lóc trên mặt đất."
+    },
+    {
+      "para_id": "c0209p0006",
+      "index": 6,
+      "raw_zh": "一切不言而喻。",
+      "translated_vi": "Mọi chuyện rõ ràng đến mức chẳng cần phải nói thành lời."
+    },
+    {
+      "para_id": "c0209p0007",
+      "index": 7,
+      "raw_zh": "越來越多的人因為驚叫聲匯聚到餐廳內，看到這一幕，無不驚懼萬分，更是惡心的尋處嘔吐。",
+      "translated_vi": "Ngày càng có nhiều người vì nghe thấy tiếng la hét mà kéo nhau ùa vào bên trong nhà ăn. Trông thấy cảnh tượng kinh hoàng này, ai nấy đều sợ hãi đến tột cùng, đồng thời buồn nôn tới mức cuống cuồng tìm góc khuất để nôn thốc nôn tháo."
+    },
+    {
+      "para_id": "c0209p0008",
+      "index": 8,
+      "raw_zh": "刹那的失重感再次傳來。",
+      "translated_vi": "Cảm giác mất trọng lực ngắn ngủi lại một lần nữa ập tới."
+    },
+    {
+      "para_id": "c0209p0009",
+      "index": 9,
+      "raw_zh": "雲千峰捂嘴忍著惡心，沉著臉擠出餐廳，看向天空。",
+      "translated_vi": "Vân Thiên Phong bịt miệng kìm nén cơn buồn nôn cồn cào ruột gan, sa sầm nét mặt chen chúc lách ra khỏi nhà ăn, ngước mắt nhìn lên bầu trời."
+    },
+    {
+      "para_id": "c0209p0010",
+      "index": 10,
+      "raw_zh": "就見那四色虹橋下面，分開了一定的距離處，多出了一道紫色的虹橋。",
+      "translated_vi": "Trông thấy phía bên dưới nhịp cầu vồng tứ sắc, cách một khoảng không nhất định, đã xuất hiện thêm một dải cầu vồng màu tím ngắt."
+    },
+    {
+      "para_id": "c0209p0011",
+      "index": 11,
+      "raw_zh": "那紫色越來越粗，越來越陰沉。",
+      "translated_vi": "Sắc tím ấy ngày càng phình to, ngày càng trở nên u ám nặng nề."
+    },
+    {
+      "para_id": "c0209p0012",
+      "index": 12,
+      "raw_zh": "婉娜拉嚇得嘴唇都白了，顫抖著身體和聲音說道：",
+      "translated_vi": "Wannarot sợ đến mức đôi môi tái nhợt, toàn thân lẫn giọng nói đều run rẩy bần bật:"
+    },
+    {
+      "para_id": "c0209p0013",
+      "index": 13,
+      "raw_zh": "“你你猜對了！驚後是什麽？是什麽？”",
+      "translated_vi": "“Anh... anh đoán đúng rồi! Sau chữ 'Kinh' thì sẽ là gì? Là gì cơ chứ?”"
+    },
+    {
+      "para_id": "c0209p0014",
+      "index": 14,
+      "raw_zh": "雲千峰沉聲道：",
+      "translated_vi": "Vân Thiên Phong trầm giọng đáp:"
+    },
+    {
+      "para_id": "c0209p0015",
+      "index": 15,
+      "raw_zh": "“反行，藍色恐懼。”",
+      "translated_vi": "“Nghịch hành tương khắc, sắc lam đại diện cho Khủng Cụ (kinh sợ hãi hùng).”"
+    },
+    {
+      "para_id": "c0209p0016",
+      "index": 16,
+      "raw_zh": "婉娜拉急聲道：",
+      "translated_vi": "Wannarot hốt hoảng cuống quýt:"
+    },
+    {
+      "para_id": "c0209p0017",
+      "index": 17,
+      "raw_zh": "“恐懼？那是不是意味著更可怕的事情？”",
+      "translated_vi": "“Kinh sợ ư? Thế chẳng lẽ đồng nghĩa với việc sắp có chuyện càng kinh khủng hơn xảy ra sao?”"
+    },
+    {
+      "para_id": "c0209p0018",
+      "index": 18,
+      "raw_zh": "雲千峰沉默點頭。",
+      "translated_vi": "Vân Thiên Phong lặng lẽ gật đầu."
+    },
+    {
+      "para_id": "c0209p0019",
+      "index": 19,
+      "raw_zh": "婉娜拉焦急，道：",
+      "translated_vi": "Wannarot lo sốt vó, hối thúc:"
+    },
+    {
+      "para_id": "c0209p0020",
+      "index": 20,
+      "raw_zh": "“你快說出伱的猜測，阻止他們胡思亂想啊！”",
+      "translated_vi": "“Anh mau nói ra những phỏng đoán của mình đi, ngăn không cho bọn họ suy nghĩ bậy bạ nữa!”"
+    },
+    {
+      "para_id": "c0209p0021",
+      "index": 21,
+      "raw_zh": "雲千峰苦笑一聲，緩緩的搖了搖頭。",
+      "translated_vi": "Vân Thiên Phong cười khổ một tiếng, chầm chậm lắc đầu."
+    },
+    {
+      "para_id": "c0209p0022",
+      "index": 22,
+      "raw_zh": "“已經無法控制了，紫色驚滿後，恐懼根本無法遏製，因為主動權在對方。”",
+      "translated_vi": "“Không tài nào khống chế nổi nữa rồi. Sau khi sắc tím của nỗi kinh hoàng tràn đầy, nỗi sợ hãi tột cùng căn bản không thể ngăn chặn, bởi quyền chủ động hoàn toàn nằm trong tay đối phương.”"
+    },
+    {
+      "para_id": "c0209p0023",
+      "index": 23,
+      "raw_zh": "雲千峰是極度無奈的。",
+      "translated_vi": "Vân Thiên Phong cảm thấy vô cùng bất lực."
+    },
+    {
+      "para_id": "c0209p0024",
+      "index": 24,
+      "raw_zh": "人的情緒可以被引導，但永遠無法被控制。",
+      "translated_vi": "Cảm xúc của con người có thể được dẫn dắt, nhưng vĩnh viễn không thể bị khống chế tuyệt đối."
+    },
+    {
+      "para_id": "c0209p0025",
+      "index": 25,
+      "raw_zh": "因為能控制情緒的人，已經不能稱之為人。",
+      "translated_vi": "Bởi vì kẻ có thể hoàn toàn làm chủ được cảm xúc thì đã không còn là người trần mắt thịt nữa rồi."
+    },
+    {
+      "para_id": "c0209p0026",
+      "index": 26,
+      "raw_zh": "你可以稱呼他們為“神”，或者“聖”。",
+      "translated_vi": "Có thể tôn xưng bọn họ là Thần, hoặc là Thánh."
+    },
+    {
+      "para_id": "c0209p0027",
+      "index": 27,
+      "raw_zh": "這漫山遍野的求財者，自然是沒有神聖的。",
+      "translated_vi": "Còn đám người cầu tài đang đứng chật như nêm khắp sườn núi này dĩ nhiên chẳng có lấy nửa vị thần thánh nào."
+    },
+    {
+      "para_id": "c0209p0028",
+      "index": 28,
+      "raw_zh": "伴隨著紫色虹橋的盈滿，失重感再一次傳來。",
+      "translated_vi": "Cùng với việc dải cầu vồng màu tím tràn đầy trọn vẹn, cảm giác mất trọng lượng lại một lần nữa ập tới."
+    },
+    {
+      "para_id": "c0209p0029",
+      "index": 29,
+      "raw_zh": "這一次的失重感是如此的明顯，不是一瞬，而是似乎持續了片刻。",
+      "translated_vi": "Cảm giác mất trọng lực lần này rõ rệt đến mức dị thường, không còn là thoáng qua trong tích tắc nữa, mà dường như kéo dài suốt vài giây."
+    },
+    {
+      "para_id": "c0209p0030",
+      "index": 30,
+      "raw_zh": "很多人在這突如其來的失重感下，摔倒了了一地。",
+      "translated_vi": "Rất nhiều người dưới cơn mất trọng lượng đột ngột này đã lảo đảo ngã lăn chiêng khắp mặt đất."
+    },
+    {
+      "para_id": "c0209p0031",
+      "index": 31,
+      "raw_zh": "大地此時也開始震動了起來。",
+      "translated_vi": "Mặt đất lúc này cũng bắt đầu rung chuyển dữ dội."
+    },
+    {
+      "para_id": "c0209p0032",
+      "index": 32,
+      "raw_zh": "長著茂密植物的山坡上，山坳裡，山頂上，處處可見大地裂開的口子。",
+      "translated_vi": "Trên sườn núi rậm rạp cây cỏ, trong hẻm núi, trên đỉnh núi, đâu đâu cũng thấy mặt đất nứt toác ra từng khe rãnh ngoác miệng sâu hoắm."
+    },
+    {
+      "para_id": "c0209p0033",
+      "index": 33,
+      "raw_zh": "就好像大地活了，張開了無數陰幽的大嘴。",
+      "translated_vi": "Cứ như thể mảnh đất này bỗng nhiên sống dậy, há ra vô số cái miệng khổng lồ u ám thâm sâu."
+    },
+    {
+      "para_id": "c0209p0034",
+      "index": 34,
+      "raw_zh": "在那些大地的裂口裡，鑽出一根根巨大的石柱。",
+      "translated_vi": "Từ bên trong những khe nứt toác ấy, từng cây cột đá khổng lồ bắt đầu trồi lên cuồn cuộn."
+    },
+    {
+      "para_id": "c0209p0035",
+      "index": 35,
+      "raw_zh": "有方形，有圓型，有八角形，不一而同。",
+      "translated_vi": "Có hình vuông, có hình tròn, lại có cả hình bát giác, muôn hình vạn trạng chẳng cái nào giống cái nào."
+    },
+    {
+      "para_id": "c0209p0036",
+      "index": 36,
+      "raw_zh": "每一根石柱上都雕刻著神秘詭異的花紋。",
+      "translated_vi": "Trên mỗi một cột đá đều chạm khắc những hoa văn thần bí quái đản đến rợn người."
+    },
+    {
+      "para_id": "c0209p0037",
+      "index": 37,
+      "raw_zh": "那些石柱是如此巨大，春筍一般在地裡冒出來。",
+      "translated_vi": "Những cột đá ấy to lớn dị thường, hệt như măng non sau cơn mưa từ dưới lòng đất đội mầm nhô lên."
+    },
+    {
+      "para_id": "c0209p0038",
+      "index": 38,
+      "raw_zh": "但是雲千峰知道，不是巨石柱長了出來，而是大地在陷下去。",
+      "translated_vi": "Nhưng Vân Thiên Phong biết rõ, không phải những cột đá khổng lồ tự mọc lên, mà là cả vùng đất này đang sụt lún sâu xuống!"
+    },
+    {
+      "para_id": "c0209p0039",
+      "index": 39,
+      "raw_zh": "有倒霉的人直接被巨大的石柱頂到了高空，恐懼之下，跌落下來，摔得骨斷筋折，更甚者一命嗚呼。",
+      "translated_vi": "Có kẻ xui xẻo bị cột đá khổng lồ đội thẳng lên tận trời cao, trong cơn hoảng loạn tột cùng liền trượt chân rơi xuống, ngã gãy xương đứt gân, thậm chí có kẻ bỏ mạng tại chỗ."
+    },
+    {
+      "para_id": "c0209p0040",
+      "index": 40,
+      "raw_zh": "婉娜拉被一根在地下冒出來的粗壯石梁托起，包裹在身上的薄毯在風中咧咧發抖。",
+      "translated_vi": "Wannarot bị một xà đá thô kệch nhô lên từ lòng đất hất bổng lên không trung, tấm chăn mỏng quấn quanh người phần phật run rẩy trong gió rít."
+    },
+    {
+      "para_id": "c0209p0041",
+      "index": 41,
+      "raw_zh": "巨石升起的速度太快了，眨眼間就拱出了五六米高。",
+      "translated_vi": "Tốc độ khối cự thạch dâng lên quá nhanh, chỉ chớp mắt đã nhô cao tới năm sáu mét."
+    },
+    {
+      "para_id": "c0209p0042",
+      "index": 42,
+      "raw_zh": "婉娜拉趴在石梁上，也顧不得身上遮羞的毯子飄搖離身而去，跪趴在石梁上大聲的哭嚎著：",
+      "translated_vi": "Wannarot nằm sấp trên xà đá, lúc này chẳng màng đến tấm chăn che thân đang bay phần phật tuột khỏi người, cô quỳ rạp trên xà đá gào khóc thảm thiết:"
+    },
+    {
+      "para_id": "c0209p0043",
+      "index": 43,
+      "raw_zh": "“救命啊！雲千峰，救我！救我！”",
+      "translated_vi": "“Cứu mạng với! Vân Thiên Phong, cứu tôi! Cứu tôi với!”"
+    },
+    {
+      "para_id": "c0209p0044",
+      "index": 44,
+      "raw_zh": "雲千峰哪能讓婉娜拉就這樣死了。",
+      "translated_vi": "Vân Thiên Phong làm sao có thể để mặc cho Wannarot bỏ mạng như thế được."
+    },
+    {
+      "para_id": "c0209p0045",
+      "index": 45,
+      "raw_zh": "他雙臂把住巨石，利用力大無窮的雙臂，快速的爬上去，就像是一隻壁虎，片刻間到了婉娜拉的身旁，把自己的外套罩在她身上，然後躺在石梁上大聲道：",
+      "translated_vi": "Anh vung hai cánh tay bám chặt lấy phiến cự thạch, vận dụng đôi tay tràn đầy sức mạnh phi thường thoan thoắt bò ngược lên trên như một con thạch sùng, chỉ trong chớp mắt đã áp sát bên cạnh Wannarot. Anh cởi phắt áo khoác ngoài trùm kín lên người cô, rồi nằm ngửa trên xà đá quát lớn:"
+    },
+    {
+      "para_id": "c0209p0046",
+      "index": 46,
+      "raw_zh": "“過來，趴在我身上！”",
+      "translated_vi": "“Qua đây, nằm đè lên người tôi mau!”"
+    },
+    {
+      "para_id": "c0209p0047",
+      "index": 47,
+      "raw_zh": "婉娜拉不知道雲千峰要幹嘛，她已經嚇傻了，這石梁現在距離地面已經有二十多米高，讓有恐高症的她感覺到身軟眩暈。",
+      "translated_vi": "Wannarot chẳng biết Vân Thiên Phong định làm gì, cô đã sợ đến mức hồn xiêu phách lạc. Thanh xà đá lúc này đã cách mặt đất hơn hai mươi mét, khiến kẻ vốn mắc chứng sợ độ cao như cô bủn rủn cả chân tay, đầu óc quay cuồng hoa mắt."
+    },
+    {
+      "para_id": "c0209p0048",
+      "index": 48,
+      "raw_zh": "不過嚇傻有嚇傻的好處，那就是對於別人的命令，沒有了思考的能力，反而最快的完成了命令的動作。",
+      "translated_vi": "Thế nhưng hoảng loạn đến ngây dại cũng có cái lợi của nó: người ta sẽ mất đi khả năng suy nghĩ đắn đo trước mệnh lệnh của người khác, trái lại còn hoàn thành động tác được chỉ thị một cách nhanh nhất."
+    },
+    {
+      "para_id": "c0209p0049",
+      "index": 49,
+      "raw_zh": "婉娜拉跪趴在雲千峰的身上，用手抱住他的腰。",
+      "translated_vi": "Wannarot quỳ rạp đè lên người Vân Thiên Phong, hai tay ôm ghì chặt lấy thắt lưng anh."
+    },
+    {
+      "para_id": "c0209p0050",
+      "index": 50,
+      "raw_zh": "而雲千峰則架起兩條大腿，鎖住婉娜拉的軀乾，把她用大腿牢牢的固定在自己身上，然後說道：",
+      "translated_vi": "Trong khi đó, Vân Thiên Phong co hai chân lên khóa chặt lấy thân hình Wannarot, dùng cặp đùi kẹp cứng cô nàng cố định chặt trên người mình, đoạn hét lớn:"
+    },
+    {
+      "para_id": "c0209p0051",
+      "index": 51,
+      "raw_zh": "“抱住我，咱們下去了！”",
+      "translated_vi": "“Ôm chặt lấy tôi, chúng ta xuống đây!”"
+    },
+    {
+      "para_id": "c0209p0052",
+      "index": 52,
+      "raw_zh": "“啊？怎麽下去？”",
+      "translated_vi": "“Hả? Xuống bằng cách nào cơ?”"
+    },
+    {
+      "para_id": "c0209p0053",
+      "index": 53,
+      "raw_zh": "婉娜拉似乎醒過神來，看著下面二三十米的地面，完全不知道雲千峰要如何帶著自己走下去。",
+      "translated_vi": "Wannarot dường như vừa hoàn hồn lại, nhìn xuống khoảng không hun hút cách mặt đất hai ba mươi mét bên dưới, hoàn toàn không hình dung nổi Vân Thiên Phong sẽ làm cách nào để mang mình tiếp đất."
+    },
+    {
+      "para_id": "c0209p0054",
+      "index": 54,
+      "raw_zh": "不過很快她就知道了。",
+      "translated_vi": "Thế nhưng rất nhanh sau đó cô đã hiểu ra."
+    },
+    {
+      "para_id": "c0209p0055",
+      "index": 55,
+      "raw_zh": "伴隨著婉娜拉的驚叫聲，雲千峰雙手把住石梁的邊沿，腰部用力一甩，雙腿就夾著婉娜拉，把她吊在了下面。",
+      "translated_vi": "Đi kèm với tiếng thét kinh hoàng của Wannarot, hai bàn tay Vân Thiên Phong bám chặt vào gờ mép xà đá, eo vặn mạnh một cái, hai chân kẹp chặt lấy Wannarot thả thõng cô lơ lửng ở bên dưới."
+    },
+    {
+      "para_id": "c0209p0056",
+      "index": 56,
+      "raw_zh": "婉娜拉撕心裂肺的驚叫著，面無人色。",
+      "translated_vi": "Wannarot gào thét xé ruột xé gan, mặt cắt không còn giọt máu."
+    },
+    {
+      "para_id": "c0209p0057",
+      "index": 57,
+      "raw_zh": "雲千峰感覺到腿上一股濕熱彌漫開來。",
+      "translated_vi": "Vân Thiên Phong cảm nhận được nơi bắp đùi mình có một luồng nhiệt nóng ấm ẩm ướt lan tỏa ra."
+    },
+    {
+      "para_id": "c0209p0058",
+      "index": 58,
+      "raw_zh": "“別怕！”",
+      "translated_vi": "“Đừng sợ!”"
+    },
+    {
+      "para_id": "c0209p0059",
+      "index": 59,
+      "raw_zh": "雲千峰安慰了一句，雙臂開始快速的倒弄，快速的向下爬動。",
+      "translated_vi": "Vân Thiên Phong buông lời an ủi một câu, đôi cánh tay bắt đầu thoan thoắt chuyển động, nhanh chóng bò lùi xuống dưới."
+    },
+    {
+      "para_id": "c0209p0060",
+      "index": 60,
+      "raw_zh": "爬到一半，旁邊一根梁柱貼著倆人撞上來，雲千峰利用雙臂用力，竟然橫著彈起來，比猴子還靈巧，來到了石柱的另一側，繼續向下。",
+      "translated_vi": "Trườn xuống được nửa chặng đường, một chiếc cột dầm bên cạnh bỗng nhiên sượt sát rạt va đập tới, Vân Thiên Phong vận hết sức mạnh đôi tay bật nảy sang ngang, thân thủ còn nhanh nhẹn hơn cả khỉ vượn, thoắt cái đã né sang mặt bên kia của cột đá rồi tiếp tục trườn xuống."
+    },
+    {
+      "para_id": "c0209p0061",
+      "index": 61,
+      "raw_zh": "婉娜拉都落地了，雙手還死死的抱著雲千峰的腰，嘴裡嘶吼著，祈禱著。",
+      "translated_vi": "Cả khi hai chân đã chạm đất, hai tay Wannarot vẫn ôm chặt cứng lấy thắt lưng Vân Thiên Phong, miệng không ngừng gào thét, cầu nguyện lảm nhảm."
+    },
+    {
+      "para_id": "c0209p0062",
+      "index": 62,
+      "raw_zh": "雲千峰掰開她的雙手，把她扛起來，快速移動，躲避地上冒出來的石柱。",
+      "translated_vi": "Vân Thiên Phong gỡ các ngón tay cô ra, vác bổng cô nàng lên vai rồi nhanh chóng di chuyển, luồn lách né tránh những cột đá đang đội đất trồi lên ầm ầm."
+    },
+    {
+      "para_id": "c0209p0063",
+      "index": 63,
+      "raw_zh": "這般震動整整持續了十幾分鍾。",
+      "translated_vi": "Cơn chấn động kinh hoàng ấy kéo dài suốt mười mấy phút đồng hồ."
+    },
+    {
+      "para_id": "c0209p0064",
+      "index": 64,
+      "raw_zh": "遊樂場不見了，餐廳不見了。",
+      "translated_vi": "Khu vui chơi biến mất, nhà ăn khổng lồ cũng biến mất."
+    },
+    {
+      "para_id": "c0209p0065",
+      "index": 65,
+      "raw_zh": "甚至之前茂盛的植物都不見了。",
+      "translated_vi": "Ngay cả thảm thực vật tươi tốt rậm rạp trước đó cũng hoàn toàn tan biến."
+    },
+    {
+      "para_id": "c0209p0066",
+      "index": 66,
+      "raw_zh": "這裡變成了不毛之地。",
+      "translated_vi": "Nơi đây đã biến thành một vùng đất cằn cỗi hoang vu không một ngọn cỏ."
+    },
+    {
+      "para_id": "c0209p0067",
+      "index": 67,
+      "raw_zh": "只有巨大的石頭，乾燥的黃土。",
+      "translated_vi": "Chỉ trơ trọi lại những phiến đá khổng lồ và lớp đất vàng khô khốc nứt nẻ."
+    },
+    {
+      "para_id": "c0209p0068",
+      "index": 68,
+      "raw_zh": "這些高大的巨石，有規則的排列著，有的組成了方陣，有的形成了破敗的宮殿，巍峨的挺立在人前，讓人仰望，恐懼，窒息。",
+      "translated_vi": "Những khối cự thạch cao ngất ấy xếp thành hàng lối theo quy tắc rõ rệt, có nơi kết thành phương trận, có nơi dựng nên những tòa cung điện đổ nát hoang tàn, sừng sững uy nghiêm trước mắt mọi người, khiến người ta ngước nhìn mà trào dâng cảm giác khiếp đảm, nghẹt thở."
+    },
+    {
+      "para_id": "c0209p0069",
+      "index": 69,
+      "raw_zh": "一群人就這樣被圍困在巨石的叢林裡，還有那猶如巨獸之口的石頭宮殿。",
+      "translated_vi": "Cả đám đông cứ thế bị vây hãm bên trong khu rừng cự thạch rậm rạp, cùng với tòa cung điện bằng đá trông hệt như chiếc mõm há toang hoang của cự thú thời viễn cổ."
+    },
+    {
+      "para_id": "c0209p0070",
+      "index": 70,
+      "raw_zh": "“嗡”",
+      "translated_vi": "“U u u...”"
+    },
+    {
+      "para_id": "c0209p0071",
+      "index": 71,
+      "raw_zh": "猶如數百個最低沉牛角號發出的聲響在空間內震蕩，那聲波激蕩著，讓乾燥的黃土飛揚。",
+      "translated_vi": "Âm thanh trầm đục tựa như tiếng của hàng trăm chiếc tù và bằng sừng trâu đồng loạt cất lên rung chuyển khắp không gian; từng đợt sóng âm kích động cuồn cuộn cuốn lớp bụi đất vàng khô khốc bay mù mịt."
+    },
+    {
+      "para_id": "c0209p0072",
+      "index": 72,
+      "raw_zh": "如此漫長的聲響，震徹著每個人的心臟。",
+      "translated_vi": "Hồi còi dài dằng dặc ấy chấn động sâu vào lồng ngực của từng người, làm tim gan họ đập thình thịch nghẹt thở."
+    },
+    {
+      "para_id": "c0209p0073",
+      "index": 73,
+      "raw_zh": "荒山周圍，人群之外，似乎有無數整齊的腳步聲在靠近，就如同戰場廝殺前的聲響。",
+      "translated_vi": "Xung quanh ngọn núi hoang, phía bên ngoài đám đông, dường như có vô số bước chân rầm rập đều tăm tắp đang áp sát lại gần, hệt như âm vang rền rĩ trước giờ xung trận nơi sa trường đẫm máu."
+    },
+    {
+      "para_id": "c0209p0074",
+      "index": 74,
+      "raw_zh": "那聲音越來越近，周圍的人都面露恐懼之色，指著身前，張合著口唇，卻因為恐懼到極限，而無法發出聲響。",
+      "translated_vi": "Tiếng động kia ngày một tới gần, đám người xung quanh ai nấy mặt mày méo mó vì sợ hãi, chỉ tay về phía trước, miệng mấp máy liên hồi nhưng vì nỗi kinh hoàng đã chạm tới cực hạn nên chẳng thể thốt ra thành lời."
+    },
+    {
+      "para_id": "c0209p0075",
+      "index": 75,
+      "raw_zh": "他們顯然看到了什麽，但雲千峰發誓，他什麽都沒有看到，只有卷起的黃塵。",
+      "translated_vi": "Bọn họ rõ ràng đã nhìn thấy điều gì đó, thế nhưng Vân Thiên Phong thề có trời đất, trước mắt anh hoàn toàn trống rỗng, chẳng thấy bóng dáng thứ gì ngoài những cuộn bụi vàng mù mịt."
+    },
+    {
+      "para_id": "c0209p0076",
+      "index": 76,
+      "raw_zh": "婉娜拉也不知所以，她不明白周圍的人為什麽面色扭曲，瑟瑟發抖。",
+      "translated_vi": "Wannarot cũng ngơ ngác chẳng hiểu chuyện gì, cô không tài nào hiểu nổi vì sao những người chung quanh lại méo mó mặt mày, run rẩy bần bật như cầy sấy đến thế."
+    },
+    {
+      "para_id": "c0209p0077",
+      "index": 77,
+      "raw_zh": "“雲雲千峰，怎.他們怎麽了？他們好像看到了什麽，可我什麽都看不見！”",
+      "translated_vi": "“Vân... Vân Thiên Phong, sao... bọn họ bị làm sao thế? Hình như họ nhìn thấy cái gì đó rồi, nhưng tôi có thấy gì đâu!”"
+    },
+    {
+      "para_id": "c0209p0078",
+      "index": 78,
+      "raw_zh": "雲千峰也什麽都看不見，他沉聲道：",
+      "translated_vi": "Vân Thiên Phong cũng chẳng nhìn thấy bất cứ thứ gì, anh trầm giọng nói:"
+    },
+    {
+      "para_id": "c0209p0079",
+      "index": 79,
+      "raw_zh": "“可能是因為我們沒有吃餐廳內的食物，所以我們看不見。”",
+      "translated_vi": "“Có lẽ là do chúng ta chưa ăn thức ăn trong nhà ăn kia, thế nên mắt chúng ta mới không nhìn thấy.”"
+    },
+    {
+      "para_id": "c0209p0080",
+      "index": 80,
+      "raw_zh": "那些腳步聲依舊在靠近，低沉的號角聲綿綿不絕。",
+      "translated_vi": "Những bước chân dồn dập vẫn không ngừng áp sát, tiếng tù và trầm đục ngân dài bất tận không dứt."
+    },
+    {
+      "para_id": "c0209p0081",
+      "index": 81,
+      "raw_zh": "婉娜拉被這種氣氛壓抑的張口喘氣，哭著叫道：",
+      "translated_vi": "Wannarot bị bầu không khí ngột ngạt này bóp nghẹt đến mức há hốc mồm thở dốc, khóc lóc gào lên:"
+    },
+    {
+      "para_id": "c0209p0082",
+      "index": 82,
+      "raw_zh": "“到底是什麽？是什麽在靠近，它們要幹什麽！”",
+      "translated_vi": "“Rốt cuộc là cái gì thế? Thứ gì đang tiến lại gần vậy, chúng muốn làm gì cơ chứ!”"
+    },
+    {
+      "para_id": "c0209p0083",
+      "index": 83,
+      "raw_zh": "“它們要做什麽？”",
+      "translated_vi": "“Chúng muốn làm gì ư?”"
+    },
+    {
+      "para_id": "c0209p0084",
+      "index": 84,
+      "raw_zh": "雲千峰抬眼望去，就見天空之中，橫擔的彩虹六色之間，還留有一線空白的空間。",
+      "translated_vi": "Vân Thiên Phong ngước mắt nhìn lên, trông thấy giữa sáu dải màu cầu vồng vắt ngang trên trời vẫn còn chừa lại một đường khoảng trống mảnh mai."
+    },
+    {
+      "para_id": "c0209p0085",
+      "index": 85,
+      "raw_zh": "他看著那缺少的一抹色彩，咬牙道：",
+      "translated_vi": "Anh nhìn vào khoảng trống sắc màu còn thiếu ấy, nghiến răng nói:"
+    },
+    {
+      "para_id": "c0209p0086",
+      "index": 86,
+      "raw_zh": "“還缺一抹青色，青色為悲，而兔死才能狐悲，它們還能要做什麽？殺戮就要開始了。”",
+      "translated_vi": "“Còn thiếu một dải màu thanh (xanh lam). Sắc thanh đại diện cho Bi (đau buồn), mà thỏ chết cáo mới thương, chúng còn có thể làm gì nữa đây? Cuộc thảm sát sắp sửa mở màn rồi.”"
+    },
+    {
+      "para_id": "c0209p0087",
+      "index": 87,
+      "raw_zh": "伴隨著雲千峰話音同時落下的，是那些整齊的腳步聲和號角聲。",
+      "translated_vi": "Cùng lúc tiếng nói của Vân Thiên Phong vừa dứt, những bước chân rầm rập và tiếng tù và vang rền cũng đồng thời im bặt."
+    },
+    {
+      "para_id": "c0209p0088",
+      "index": 88,
+      "raw_zh": "天地間刹那靜止，每個面帶驚恐的人都保持這一個靜止的動作，用無助絕望的眼睛望著身前近處的虛空。",
+      "translated_vi": "Trời đất trong tích tắc rơi vào tĩnh lặng tuyệt đối. Từng người mang vẻ mặt kinh hoàng đều bất động trong một tư thế chết sững, dùng đôi mắt tuyệt vọng bất lực nhìn trân trối vào khoảng hư không ngay trước mặt mình."
+    },
+    {
+      "para_id": "c0209p0089",
+      "index": 89,
+      "raw_zh": "他們一動不動，就好像被人用槍指著腦袋。",
+      "translated_vi": "Bọn họ cứng đờ người không dám nhúc nhích, hệt như đang bị họng súng đen ngòm dí sát vào thái dương."
+    },
+    {
+      "para_id": "c0209p0090",
+      "index": 90,
+      "raw_zh": "就連那卷起的黃塵都紛紛落下，讓這個世界針落可聞。",
+      "translated_vi": "Ngay cả những cuộn bụi vàng bay lơ lửng cũng lục tục rơi rụng xuống đất, khiến cả thế giới im ắng đến mức một cây kim rơi cũng có thể nghe thấy."
+    },
+    {
+      "para_id": "c0209p0091",
+      "index": 91,
+      "raw_zh": "在這靜謐的詭異之中，每一秒鍾都是那麽漫長。",
+      "translated_vi": "Giữa sự tĩnh mịch quái dị đến rợn gáy này, mỗi một giây trôi qua đều dài đằng đẵng như cả thế kỷ."
+    },
+    {
+      "para_id": "c0209p0092",
+      "index": 92,
+      "raw_zh": "突然。",
+      "translated_vi": "Bất thình lình."
+    },
+    {
+      "para_id": "c0209p0093",
+      "index": 93,
+      "raw_zh": "“嗷！”",
+      "translated_vi": "“Á á á!”"
+    },
+    {
+      "para_id": "c0209p0094",
+      "index": 94,
+      "raw_zh": "一聲慘叫撕裂了寧靜。",
+      "translated_vi": "Một tiếng thét thảm thiết xé toang bầu không gian tĩnh lặng."
+    },
+    {
+      "para_id": "c0209p0095",
+      "index": 95,
+      "raw_zh": "雲千峰眼睜睜看著身邊的一個人，就那麽憑空的雙腳離地，似乎有一雙無形的大手扼住了他的脖頸，將那人提了起來。",
+      "translated_vi": "Vân Thiên Phong tận mắt nhìn thấy một người đứng ngay cạnh mình bỗng dưng hai chân lơ lửng rời khỏi mặt đất, tựa hồ có một bàn tay vô hình khổng lồ bóp nghẹt lấy cổ họng hắn, nhấc bổng cả người hắn lên giữa không trung."
+    },
+    {
+      "para_id": "c0209p0096",
+      "index": 96,
+      "raw_zh": "那個人掙扎著，扭動著，張嘴祈求著。",
+      "translated_vi": "Người nọ giãy giụa điên cuồng, cơ thể vặn vẹo, mở miệng van xin lạy lục thảm thiết."
+    },
+    {
+      "para_id": "c0209p0097",
+      "index": 97,
+      "raw_zh": "他什麽都做了，唯一沒有做的是反抗。",
+      "translated_vi": "Hắn làm đủ mọi cách, duy chỉ có một điều không làm: phản kháng."
+    },
+    {
+      "para_id": "c0209p0098",
+      "index": 98,
+      "raw_zh": "“放開我哥哥！”",
+      "translated_vi": "“Thả anh trai tôi ra!”"
+    },
+    {
+      "para_id": "c0209p0099",
+      "index": 99,
+      "raw_zh": "旁邊一個健壯的男人，看著那被憑空吊起來的年輕人，焦急的呼喊著。",
+      "translated_vi": "Một gã đàn ông vạm vỡ bên cạnh trông thấy người thanh niên bị treo lơ lửng giữa hư không thì hoảng hốt gào lên thảm thiết."
+    },
+    {
+      "para_id": "c0209p0100",
+      "index": 100,
+      "raw_zh": "親情給了他勇氣，他在地上爬起來，猛然撞向那被吊起來的年輕人身前。",
+      "translated_vi": "Tình thâm ruột thịt đã tiếp thêm dũng khí cho hắn. Hắn bò lồm cồm từ dưới đất dậy, điên cuồng lao thẳng về phía khoảng không trước mặt người thanh niên đang bị treo kia."
+    },
+    {
+      "para_id": "c0209p0101",
+      "index": 101,
+      "raw_zh": "那裡明明什麽都沒有，但是那健壯的男人卻好像撞到了一堵牆。",
+      "translated_vi": "Nơi đó rõ ràng chẳng có lấy một bóng hình, thế nhưng gã đàn ông vạm vỡ lại như đâm sầm vào một bức tường thép kiên cố."
+    },
+    {
+      "para_id": "c0209p0102",
+      "index": 102,
+      "raw_zh": "健壯的男人沒有受到傷害，而是似乎被另一隻無形的手控制起來，讓他眼睜睜的看著自己的弟弟那痛苦的表情。",
+      "translated_vi": "Gã đàn ông khỏe mạnh không hề bị thương tích, mà dường như bị một bàn tay vô hình khác ghìm chặt lại, ép hắn phải mở trừng mắt chứng kiến nét mặt đau đớn quằn quại của người em trai mình."
+    },
+    {
+      "para_id": "c0209p0103",
+      "index": 103,
+      "raw_zh": "這是悲傷的來源。",
+      "translated_vi": "Đây chính là nguồn cơn của sự bi thương."
+    },
+    {
+      "para_id": "c0209p0104",
+      "index": 104,
+      "raw_zh": "雲千峰無法做到眼睜睜看著這一切發生。",
+      "translated_vi": "Vân Thiên Phong không thể nào trơ mắt đứng nhìn cảnh tượng này tiếp diễn."
+    },
+    {
+      "para_id": "c0209p0105",
+      "index": 105,
+      "raw_zh": "就見他向前一個跨步，揮起右拳，用盡全力砸向那被吊起的年輕人身前。",
+      "translated_vi": "Anh sải bước dài lao vút lên phía trước, vung nắm đấm phải tung ra toàn bộ sức mạnh đập thẳng vào khoảng không trước mặt người thanh niên bị treo lơ lửng."
+    },
+    {
+      "para_id": "c0209p0106",
+      "index": 106,
+      "raw_zh": "雲千峰看不見它，能做的就是把全部力氣用出來，想象自己的拳頭貫穿那看不見的虛空。",
+      "translated_vi": "Vân Thiên Phong không nhìn thấy bóng dáng nó, điều anh có thể làm lúc này là dồn hết sức bình sinh, tưởng tượng nắm đấm thép của mình sẽ đục thủng khoảng hư không vô hình kia."
+    },
+    {
+      "para_id": "c0209p0107",
+      "index": 107,
+      "raw_zh": "然而雲千峰打空了，那裡真的什麽都沒有。",
+      "translated_vi": "Thế nhưng cú đấm của Vân Thiên Phong trúng vào khoảng không rỗng tuếch, nơi ấy thực sự chẳng có thứ gì."
+    },
+    {
+      "para_id": "c0209p0108",
+      "index": 108,
+      "raw_zh": "他與它彼此不可見。",
+      "translated_vi": "Anh và nó hoàn toàn không thể nhìn thấy lẫn nhau."
+    },
+    {
+      "para_id": "c0209p0109",
+      "index": 109,
+      "raw_zh": "這無疑證明雲千峰和婉娜拉是這裡最安全的存在，因為他們不可見，不可觸碰。",
+      "translated_vi": "Điều này không nghi ngờ gì đã chứng minh Vân Thiên Phong và Wannarot chính là những thực thể an toàn nhất nơi đây, bởi vì họ vô hình và bất khả xâm phạm đối với lũ quái vật."
+    },
+    {
+      "para_id": "c0209p0110",
+      "index": 110,
+      "raw_zh": "然而，雲千峰心中沒有絲毫的僥幸和喜悅。",
+      "translated_vi": "Thế nhưng, trong lòng Vân Thiên Phong không hề có lấy nửa phần may mắn hay vui mừng."
+    },
+    {
+      "para_id": "c0209p0111",
+      "index": 111,
+      "raw_zh": "看著越來越多被憑空吊起來的人，看著他們生命漸漸離去，看著那哭嚎滿地，或掙扎或跪拜祈求的人。",
+      "translated_vi": "Chứng kiến ngày càng nhiều người bị treo lơ lửng giữa không trung, nhìn sinh mệnh của họ dần dần trôi đi, nhìn đám người gào khóc lăn lộn khắp mặt đất, kẻ giãy giụa quằn quại, kẻ quỳ rạp dập đầu cầu xin tha mạng."
+    },
+    {
+      "para_id": "c0209p0112",
+      "index": 112,
+      "raw_zh": "被傷害的，都是他的同類，而這些同類如同牲畜一樣被那些不可名狀的東西對待著。",
+      "translated_vi": "Những kẻ bị tàn sát hành hạ đều là đồng loại của anh, mà đồng loại của anh lại đang bị những thứ quái vật không thể gọi tên đối xử chẳng khác nào súc vật chờ mổ thịt."
+    },
+    {
+      "para_id": "c0209p0113",
+      "index": 113,
+      "raw_zh": "卑微如草芥。",
+      "translated_vi": "Hèn mọn tựa cỏ rác ven đường."
+    },
+    {
+      "para_id": "c0209p0114",
+      "index": 114,
+      "raw_zh": "那一刻，雲千峰眼睛赤紅，生與死的問題已經不存在於他的腦海，他心裡只剩下一種念頭。",
+      "translated_vi": "Giây phút ấy, hai mắt Vân Thiên Phong đỏ ngầu như nhỏ máu, chuyện sống chết đã hoàn toàn biến mất khỏi tâm trí anh, trong lòng anh chỉ còn sót lại duy nhất một ý niệm."
+    },
+    {
+      "para_id": "c0209p0115",
+      "index": 115,
+      "raw_zh": "反抗！",
+      "translated_vi": "Phản kháng!"
+    },
+    {
+      "para_id": "c0209p0116",
+      "index": 116,
+      "raw_zh": "他轉頭看著婉娜拉，沉聲道：",
+      "translated_vi": "Anh quay đầu nhìn Wannarot, trầm giọng nói:"
+    },
+    {
+      "para_id": "c0209p0117",
+      "index": 117,
+      "raw_zh": "“躲好，不要死，如果我死了，把八姓竹書給叁亞雲廣泰一閱。”",
+      "translated_vi": "“Trốn cho kỹ, đừng để mất mạng. Nếu tôi chết, hãy mang Trúc thư Bát Tính trao cho Vân Quảng Thái ở Tam Á xem một lần.”"
+    },
+    {
+      "para_id": "c0209p0118",
+      "index": 118,
+      "raw_zh": "答應的事情，總不該忘。",
+      "translated_vi": "Lời đã hứa, vĩnh viễn không nên quên."
+    },
+    {
+      "para_id": "c0209p0119",
+      "index": 119,
+      "raw_zh": "說完，他捉起婉娜拉纖細的手臂，用手指滑過她那被巨石蹭破出血的傷口，然後將手指放在自己的口中。",
+      "translated_vi": "Nói đoạn, anh nắm lấy cánh tay mảnh dẻo của Wannarot, quẹt ngón tay qua vết thương đang rỉ máu do va quệt vào tảng đá của cô nàng, rồi đưa thẳng ngón tay dính máu tươi vào miệng mình."
+    },
+    {
+      "para_id": "c0209p0120",
+      "index": 120,
+      "raw_zh": "婉娜拉看著雙目赤紅的雲千峰在對著自己笑，那笑不是猙獰，是一種坦然。",
+      "translated_vi": "Wannarot trân trân nhìn Vân Thiên Phong với đôi mắt đỏ ngầu đang mỉm cười nhìn mình. Nụ cười ấy không hề dữ tợn, mà là sự thản nhiên đối diện sinh tử."
+    },
+    {
+      "para_id": "c0209p0121",
+      "index": 121,
+      "raw_zh": "她明白了雲千峰要做什麽，他要看見那些看不見的魔鬼，那是取死之道。",
+      "translated_vi": "Cô đã hiểu Vân Thiên Phong định làm gì: anh muốn nhìn thấy lũ ma quỷ vô hình kia, mà đó chính là con đường dẫn tới cái chết."
+    },
+    {
+      "para_id": "c0209p0122",
+      "index": 122,
+      "raw_zh": "雲千峰從不偉大，更不會意氣用事，因為他怕死，貪財，小氣。",
+      "translated_vi": "Vân Thiên Phong trước nay chưa từng vĩ đại, càng không phải kẻ hành xử theo cảm tính bốc đồng, bởi anh sợ chết, tham tiền và keo kiệt."
+    },
+    {
+      "para_id": "c0209p0123",
+      "index": 123,
+      "raw_zh": "但他一直是個能夠無愧面對自己的人，因為他從未做過讓自己問心有愧的事情。",
+      "translated_vi": "Thế nhưng anh luôn là một người có thể ngẩng cao đầu đối diện với lương tâm của chính mình, bởi anh chưa bao giờ làm ra những chuyện khiến bản thân phải hổ thẹn cắn rứt."
+    },
+    {
+      "para_id": "c0209p0124",
+      "index": 124,
+      "raw_zh": "就像他當時在野人山，明明可以離開，但卻依舊冒險回去，更像他因只有自己知道的誓言，就吃掉了一棵桃樹的枝葉老皮。",
+      "translated_vi": "Giống như hồi ở Dã Nhân Sơn, rõ ràng anh có thể phủi tay rời đi nhưng vẫn mạo hiểm quay trở lại; lại càng giống như chỉ vì một lời thề độc nhất mình mình biết mà anh sẵn sàng nuốt trọn cả cành lá lẫn vỏ già của một cây đào."
+    },
+    {
+      "para_id": "c0209p0125",
+      "index": 125,
+      "raw_zh": "因為他不允許自己愧疚，那是他的底線。",
+      "translated_vi": "Bởi vì anh tuyệt đối không cho phép bản thân phải ân hận, đó chính là giới hạn cuối cùng của anh."
+    },
+    {
+      "para_id": "c0209p0126",
+      "index": 126,
+      "raw_zh": "不欺神，不欺人，不欺自己。",
+      "translated_vi": "Không dối thần, không lừa người, không gạt chính mình."
+    },
+    {
+      "para_id": "c0209p0127",
+      "index": 127,
+      "raw_zh": "雲千峰做到了！",
+      "translated_vi": "Vân Thiên Phong đã làm được điều đó!"
+    },
+    {
+      "para_id": "c0209p0128",
+      "index": 128,
+      "raw_zh": "隨著手指劃過舌尖，那些長相古怪，樣貌醜陋惡心的東西出現在他的眼中。",
+      "translated_vi": "Khi ngón tay lướt qua đầu lưỡi, những sinh vật có hình thù cổ quái, diện mạo xấu xí tởm lợm lập tức hiện rõ mồn một trong tầm mắt anh."
+    },
+    {
+      "para_id": "c0209p0129",
+      "index": 129,
+      "raw_zh": "於此同時，他也被那些怪物發現。",
+      "translated_vi": "Cùng lúc đó, anh cũng bị bầy quái vật phát hiện ra."
+    },
+    {
+      "para_id": "c0209p0130",
+      "index": 130,
+      "raw_zh": "雲千峰抬頭望月，剛毅的臉瞬間化作尖角獸面的怪物，強壯的上身被青色的鱗片覆蓋。",
+      "translated_vi": "Vân Thiên Phong ngửa đầu nhìn vầng trăng sáng, gương mặt cương nghị trong nháy mắt biến hóa thành quái thú sừng nhọn mặt thú, nửa thân trên cường tráng tức thì được bao phủ bởi những lớp vảy màu xanh lục."
+    },
+    {
+      "para_id": "c0209p0131",
+      "index": 131,
+      "raw_zh": "他張開大嘴吼叫著，血盆大口之中的慘白獠牙映著皓月，閃爍著寒光。",
+      "translated_vi": "Anh há toang chiếc mồm gầm thét kinh thiên động địa, cặp răng nanh trắng bệch nhọn hoắt trong chiếc mồm đỏ lòm như chậu máu phản chiếu ánh trăng rằm, lóe lên những tia hàn quang lạnh lẽo thấu xương."
+    },
+    {
+      "para_id": "c0209p0132",
+      "index": 132,
+      "raw_zh": "感謝書友尾數09605、乾枯的信仰、劇情控、立志讀盡天下書、尾數53446、大太陽陽、尾數23913、吉大之南的月票鼓勵，謝謝你們的支持！！！",
+      "translated_vi": "Chân thành cảm ơn các bạn đọc đuôi số 09605, Kiền Khô Đích Tín Ngưỡng, Kịch Tình Khống, Lập Chí Độc Tẫn Thiên Hạ Thư, bạn đọc đuôi số 53446, Đại Thái Dương Dương, bạn đọc đuôi số 23913, Cát Đại Chi Nam đã tặng phiếu tháng động viên, cảm ơn sự ủng hộ của các bạn!"
+    },
+    {
+      "para_id": "c0209p0133",
+      "index": 133,
+      "raw_zh": "天氣悶熱，昏昏欲睡，大家好夢！！！",
+      "translated_vi": "Thời tiết oi bức ngột ngạt, đầu óc mơ màng buồn ngủ, chúc mọi người có những giấc mộng đẹp!"
+    },
+    {
+      "para_id": "c0209p0134",
+      "index": 134,
+      "raw_zh": "晚安！！！",
+      "translated_vi": "Chúc ngủ ngon!"
+    }
+  ]
+}

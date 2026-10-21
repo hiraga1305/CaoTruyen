@@ -1,0 +1,601 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 188,
+  "title": "Chương 188: Gặp Phải Nhân Vật Hung Hãn!",
+  "total_paragraphs": 98,
+  "translated_paragraphs": 98,
+  "source_hash": "4921a7e4871b5cba6dbe3e824450438c31f365d0054fbcc3ead23e063ff6511f",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0188p0001",
+      "index": 1,
+      "raw_zh": "第188章 遇到狠角色了！",
+      "translated_vi": "Chương 188: Gặp Phải Nhân Vật Hung Hãn!"
+    },
+    {
+      "para_id": "c0188p0002",
+      "index": 2,
+      "raw_zh": "阿菲法的腿被怪物咬傷，那麽褲子上怎麽可能沒有破損？",
+      "translated_vi": "Chân của Afifa bị quái vật cắn bị thương, vậy thì tại sao trên quần dài lại không hề có chút tổn hại nào?"
+    },
+    {
+      "para_id": "c0188p0003",
+      "index": 3,
+      "raw_zh": "雲千峰想到這，急忙跑回去，在阿菲法枕骨下抽出她的褲子，重新仔細的檢查了一遍。",
+      "translated_vi": "Nghĩ đến đây, Vân Thiên Phong vội vàng chạy trở lại, rút chiếc quần dài từ dưới gáy Afifa ra rồi cẩn thận kiểm tra lại một lượt từ đầu đến đuôi."
+    },
+    {
+      "para_id": "c0188p0004",
+      "index": 4,
+      "raw_zh": "最後他確定，阿菲法的褲子完好無損，一點破損都沒有。",
+      "translated_vi": "Cuối cùng anh khẳng định chắc chắn rằng chiếc quần của Afifa vẫn hoàn toàn nguyên vẹn, không có lấy một vết rách hay xước sát nào."
+    },
+    {
+      "para_id": "c0188p0005",
+      "index": 5,
+      "raw_zh": "不說破口，就是尖牙刺入的痕跡都沒有。",
+      "translated_vi": "Đừng nói là vết rách rưới, ngay cả dấu vết răng nhọn đâm xuyên qua cũng chẳng hề tồn tại."
+    },
+    {
+      "para_id": "c0188p0006",
+      "index": 6,
+      "raw_zh": "“這怎麽可能？那怪物鑽進阿菲法的褲子裡咬傷她？這更不可能啊，褲子不夠大！”",
+      "translated_vi": "\"Sao lại có thể như vậy được? Con quái vật kia chui tọt vào bên trong ống quần của Afifa để cắn cô ấy ư? Điều này lại càng vô lý, ống quần làm sao đủ rộng!\""
+    },
+    {
+      "para_id": "c0188p0007",
+      "index": 7,
+      "raw_zh": "“難道是法緹娜給阿菲法換了新的褲子？也不對啊，這裡沒有換下來的褲子，難不成法緹娜還會舍不得一條破損的褲子，帶在身上？”",
+      "translated_vi": "\"Chẳng lẽ Fatina đã thay quần mới cho Afifa? Cũng không đúng, quanh đây đâu có chiếc quần nào bị thay ra bỏ lại, chẳng lẽ Fatina lại tiếc một chiếc quần rách mà đem theo bên người?\""
+    },
+    {
+      "para_id": "c0188p0008",
+      "index": 8,
+      "raw_zh": "“絕無可能！一定是發生了什麽我無法想到的事情。”",
+      "translated_vi": "\"Tuyệt đối không thể nào! Nhất định đã xảy ra chuyện gì đó mà mình không tài nào tưởng tượng nổi.\""
+    },
+    {
+      "para_id": "c0188p0009",
+      "index": 9,
+      "raw_zh": "雲千峰眯著眼睛看了看那一串遠離這裡的腳印，抿著嘴起身又看了看石台和遠處已經看不見的，他們遇到怪物襲擊的方向，沉默半晌。",
+      "translated_vi": "Vân Thiên Phong nheo mắt nhìn chuỗi dấu chân in dài về phía xa xăm, mím môi đứng dậy ngắm nhìn bệ đá rồi phóng mắt về hướng trước đó bọn họ bị quái vật tập kích mà nay đã khuất dạng, im lặng hồi lâu."
+    },
+    {
+      "para_id": "c0188p0010",
+      "index": 10,
+      "raw_zh": "那麽一瞬間，他的臉色突然變得很差。",
+      "translated_vi": "Trong thoáng chốc, sắc mặt anh bỗng trở nên vô cùng khó coi."
+    },
+    {
+      "para_id": "c0188p0011",
+      "index": 11,
+      "raw_zh": "緩緩吐了一口氣後，他才轉身，對著阿菲法道：",
+      "translated_vi": "Thở dài một hơi thật chậm, anh mới quay người lại, nói với Afifa:"
+    },
+    {
+      "para_id": "c0188p0012",
+      "index": 12,
+      "raw_zh": "“咱們的淡水不多，必須抓緊找到淡水補給，我猜測石陣中心，最深處的位置一定有淡水，我記得夢裡在那看到了植被，你姐姐一定是去了那裡，而且如果我猜的沒錯，她一定遇到了極大的麻煩，我們去找她救她。”",
+      "translated_vi": "\"Nước ngọt của chúng ta còn lại không nhiều, bắt buộc phải nhanh chóng tìm nguồn nước bổ sung. Tôi đoán ở vị trí sâu nhất ngay trung tâm thạch trận nhất định sẽ có nước ngọt. Tôi nhớ trong giấc mơ từng thấy cây cỏ thảm thực vật ở nơi đó, chị gái cô chắc chắn đã đi về hướng ấy, vả lại nếu tôi đoán không lầm thì cô ấy hẳn đã gặp phải rắc rối cực lớn, chúng ta đi tìm để cứu cô ấy.\""
+    },
+    {
+      "para_id": "c0188p0013",
+      "index": 13,
+      "raw_zh": "說著，雲千峰把阿菲法背在背上，用她的褲子當做繩索，繞過阿菲法的膝彎處，然後兩個褲腿系好，挎在自己脖子上，這樣就省去了自己用雙手托著阿菲法雙腿的動作，能省下不少力氣不說，還讓他遇到危險也能及時出手。",
+      "translated_vi": "Vừa nói, Vân Thiên Phong vừa đỡ Afifa cõng lên lưng, dùng chiếc quần dài của cô làm dây buộc, luồn qua khoeo chân của Afifa rồi buộc hai ống quần lại với nhau, vắt chéo qua cổ mình. Làm như vậy giúp anh đỡ phải dùng hai tay giữ chặt hai chân cô, không chỉ tiết kiệm được khối sức lực mà còn giúp anh có thể kịp thời ra tay ứng phó nếu chẳng may chạm trán hiểm nguy."
+    },
+    {
+      "para_id": "c0188p0014",
+      "index": 14,
+      "raw_zh": "只不過，為了阿菲法能夠安穩的趴在自己後背上，雲千峰不得不保持俯身彎腰的動作，也是累人得很。",
+      "translated_vi": "Có điều, để Afifa có thể nằm yên vị vững chãi trên lưng, Vân Thiên Phong buộc phải giữ tư thế hơi khom lưng cúi người về phía trước, đi lâu cũng mỏi mệt vô cùng."
+    },
+    {
+      "para_id": "c0188p0015",
+      "index": 15,
+      "raw_zh": "好在雲千峰不需要判斷方向，只需要跟著能依稀看到的腳印前進就行。",
+      "translated_vi": "May mắn thay, Vân Thiên Phong không cần phải nhọc công định vị phương hướng, chỉ cần bám theo những dấu chân mờ mờ có thể nhận biết được mà tiến bước."
+    },
+    {
+      "para_id": "c0188p0016",
+      "index": 16,
+      "raw_zh": "一路彎彎繞繞，路途如羊腸。",
+      "translated_vi": "Con đường ngoằn ngoèo khúc khuỷu uốn lượn như ruột dê."
+    },
+    {
+      "para_id": "c0188p0017",
+      "index": 17,
+      "raw_zh": "這樣走了半個多小時，遠遠的雲千峰就感覺到一陣潮濕陰涼的風鋪面吹來。",
+      "translated_vi": "Đi như thế chừng hơn nửa giờ đồng hồ, từ đằng xa Vân Thiên Phong đã cảm nhận được một luồng gió ẩm ướt mát lạnh thổi phả vào mặt."
+    },
+    {
+      "para_id": "c0188p0018",
+      "index": 18,
+      "raw_zh": "“到了！”",
+      "translated_vi": "\"Đến nơi rồi!\""
+    },
+    {
+      "para_id": "c0188p0019",
+      "index": 19,
+      "raw_zh": "雲千峰加快步伐，繞過前面巨大的幾塊石頭，來到了那夢中見到的石陣中心處。",
+      "translated_vi": "Vân Thiên Phong rảo bước nhanh hơn, vòng qua mấy khối cự thạch sừng sững phía trước, tiến vào vị trí trung tâm thạch trận từng thấy trong mộng."
+    },
+    {
+      "para_id": "c0188p0020",
+      "index": 20,
+      "raw_zh": "腳印在這裡完全消失，這裡的地面非常堅硬，幾乎是完整的一塊石頭。",
+      "translated_vi": "Dấu chân đến nơi này thì hoàn toàn biến mất, bởi mặt đất ở đây cực kỳ rắn chắc, gần như là một khối cự thạch nguyên vẹn khổng lồ."
+    },
+    {
+      "para_id": "c0188p0021",
+      "index": 21,
+      "raw_zh": "整塊石頭髮黑光亮，就好像燒廢的玻璃。",
+      "translated_vi": "Toàn bộ khối đá đen nhánh bóng loáng, trông tựa như lớp thủy tinh bị nung chảy rồi đông kết lại."
+    },
+    {
+      "para_id": "c0188p0022",
+      "index": 22,
+      "raw_zh": "就在這如巨大如海碗的石頭中心處是一汪池水，池水中心處，不時的冒出氣泡，顯然這是聯通地下的泉水。",
+      "translated_vi": "Ngay giữa khối cự thạch lõm sâu tựa chiếc bát hải vị khổng lồ ấy là một hồ nước trong vắt. Giữa lòng hồ thỉnh thoảng lại sủi tăm bọt khí bốc lên, rõ ràng đây là mạch suối nguồn thông thẳng xuống mạch nước ngầm dưới lòng đất."
+    },
+    {
+      "para_id": "c0188p0023",
+      "index": 23,
+      "raw_zh": "池水的側面，有涓涓細流緩緩流向一個斜向地底深處的石洞。",
+      "translated_vi": "Bên hông hồ nước có một dòng suối nhỏ róc rách chảy xuôi về phía một cửa hang đá đâm xiên xuống lòng đất sâu."
+    },
+    {
+      "para_id": "c0188p0024",
+      "index": 24,
+      "raw_zh": "那石洞直徑差不多五米左右，內有台階，顯然是人工鑿刻，石洞旁趴伏著幾從氣根的植物，雲千峰叫不出那植被的名字。",
+      "translated_vi": "Miệng hang đá có đường kính chừng năm mét, bên trong có các bậc thang đá rõ ràng là do nhân công đục đẽo. Cạnh cửa hang có mấy bụi cây buông rễ khí sinh bò lan lổm ngổm, Vân Thiên Phong không gọi được tên của loài thực vật đó."
+    },
+    {
+      "para_id": "c0188p0025",
+      "index": 25,
+      "raw_zh": "夢中的老狐狸，正是鑽進了這個洞穴。",
+      "translated_vi": "Con cáo già trong giấc mơ khi trước chính là đã chui tọt vào cái hang này."
+    },
+    {
+      "para_id": "c0188p0026",
+      "index": 26,
+      "raw_zh": "泉水寒涼，旁邊巨石林立密布，阻擋了涼氣的散失，讓這裡溫度非常舒適。",
+      "translated_vi": "Nước suối mát lạnh thấu xương, xung quanh lại có muôn ngàn tảng đá lớn bao bọc ngăn hơi lạnh phát tán ra ngoài, khiến cho nhiệt độ ở đây vô cùng dễ chịu mát mẻ."
+    },
+    {
+      "para_id": "c0188p0027",
+      "index": 27,
+      "raw_zh": "到了那石穴之前，能感覺到地下陰風襲來，甚至讓雲千峰打了個寒顫。",
+      "translated_vi": "Khi bước đến trước cửa hang đá, từng đợt gió âm u lạnh lẽo từ lòng đất thổi thốc lên, thậm chí khiến Vân Thiên Phong phải rùng mình ớn lạnh một cái."
+    },
+    {
+      "para_id": "c0188p0028",
+      "index": 28,
+      "raw_zh": "背上的阿菲法渾身滾燙，這是傷口感染炎症的表象。",
+      "translated_vi": "Afifa trên lưng anh lúc này toàn thân nóng bừng như hòn than, đây là triệu chứng điển hình của việc vết thương bắt đầu bị viêm nhiễm phát sốt."
+    },
+    {
+      "para_id": "c0188p0029",
+      "index": 29,
+      "raw_zh": "雲千峰也是累極了，就把阿菲法放在池水旁，然後乾脆撕掉自己半截褲腿，沾了水給阿菲法擦了擦臉和脖頸，又在她腋窩下淋了一點冰涼的泉水，替她物理降溫。",
+      "translated_vi": "Vân Thiên Phong cũng đã mệt lử cả người, bèn đặt Afifa nằm xuống bên bờ hồ nước, rồi dứt khoát xé đứt nửa ống quần của mình, thấm nước suối lau mặt và cổ cho Afifa, lại xối một chút nước suối lạnh vào hai bên nách để giúp cô hạ nhiệt độ cơ thể bằng phương pháp vật lý."
+    },
+    {
+      "para_id": "c0188p0030",
+      "index": 30,
+      "raw_zh": "隨後，雲千峰再次在嘴裡用泉水混了方解石粉，給阿菲法喂了下去。",
+      "translated_vi": "Tiếp đó, Vân Thiên Phong lại dùng miệng hòa tan bột canxit với nước suối mát, mớm thêm một lần thuốc nữa cho Afifa nuốt xuống."
+    },
+    {
+      "para_id": "c0188p0031",
+      "index": 31,
+      "raw_zh": "現在的處境，雲千峰能做到只有這麽多。",
+      "translated_vi": "Trong hoàn cảnh ngặt nghèo hiện tại, những gì Vân Thiên Phong có thể làm được cũng chỉ có bấy nhiêu mà thôi."
+    },
+    {
+      "para_id": "c0188p0032",
+      "index": 32,
+      "raw_zh": "他秉承盡力，但不求結果。",
+      "translated_vi": "Anh luôn giữ tâm thế tận lực hết lòng, nhưng không cưỡng cầu kết quả."
+    },
+    {
+      "para_id": "c0188p0033",
+      "index": 33,
+      "raw_zh": "只有這樣，才能理智。",
+      "translated_vi": "Chỉ có như vậy mới giữ được cái đầu lạnh và sự tỉnh táo lý trí."
+    },
+    {
+      "para_id": "c0188p0034",
+      "index": 34,
+      "raw_zh": "坐在阿菲法身旁，他掏出戶外作戰服褲兜裡的錫銀煙盒，這是個古董，羅琳娜送給他的。",
+      "translated_vi": "Ngồi xuống bên cạnh Afifa, anh móc từ trong túi quần bộ đồ tác chiến dã ngoại ra một chiếc hộp thuốc lá bằng thiếc bạc cổ kính, đây là món đồ cổ mà Rolina từng tặng cho anh."
+    },
+    {
+      "para_id": "c0188p0035",
+      "index": 35,
+      "raw_zh": "有了這個煙盒，他的香煙才不至於因為意外而泡水損壞。",
+      "translated_vi": "Nhờ có chiếc hộp đựng kín này mà những điếu thuốc lá của anh mới không bị ngấm nước hư hỏng trong suốt những phen hoạn nạn."
+    },
+    {
+      "para_id": "c0188p0036",
+      "index": 36,
+      "raw_zh": "點燃了一根細杆雪茄，雲千峰深深的吸了一口。",
+      "translated_vi": "Châm một điếu xì gà thân nhỏ, Vân Thiên Phong rít một hơi thật sâu."
+    },
+    {
+      "para_id": "c0188p0037",
+      "index": 37,
+      "raw_zh": "這一口全都入肺，一個煙絲沒跑出來。",
+      "translated_vi": "Hơi khói này nuốt trọn vào lồng ngực, không để lọt ra ngoài dù chỉ một sợi tàn khói mỏng."
+    },
+    {
+      "para_id": "c0188p0038",
+      "index": 38,
+      "raw_zh": "“呼”",
+      "translated_vi": "\"Phù...\""
+    },
+    {
+      "para_id": "c0188p0039",
+      "index": 39,
+      "raw_zh": "雲千峰似乎此時才放松下來，長長的吐了一口氣。",
+      "translated_vi": "Vân Thiên Phong tựa hồ đến lúc này mới thực sự thả lỏng tâm trí, thở dài ra một hơi thật dài."
+    },
+    {
+      "para_id": "c0188p0040",
+      "index": 40,
+      "raw_zh": "他嘴裡喊著來救法緹娜，但是看起來，卻絲毫不見其焦急。",
+      "translated_vi": "Miệng thì nói đi cứu Fatina, nhưng nhìn phong thái của anh lại chẳng thấy chút nào là nôn nóng hay vội vã."
+    },
+    {
+      "para_id": "c0188p0041",
+      "index": 41,
+      "raw_zh": "竟然就那麽坐著吸煙看天，宛如一個遲暮的老人，也不知道在想著什麽。",
+      "translated_vi": "Anh cứ thế thong thả ngồi hút thuốc ngước nhìn trời xanh, hệt như một ông lão lúc xế chiều, chẳng rõ trong đầu đang mải suy tính điều gì."
+    },
+    {
+      "para_id": "c0188p0042",
+      "index": 42,
+      "raw_zh": "“汩汩汩”帶著空氣與水在狹小空隙裡噴出的聲響傳入雲千峰的耳朵，緊接著一股酸臭的味道彌漫在周圍。",
+      "translated_vi": "\"Ục... ục... ục...\" Tiếng bọt khí và nước bị ép phun phì phì qua khe hẹp chật chội lọt vào tai Vân Thiên Phong, ngay sau đó một mùi chua thối bắt đầu lan tỏa thoang thoảng xung quanh."
+    },
+    {
+      "para_id": "c0188p0043",
+      "index": 43,
+      "raw_zh": "雲千峰目光不動，翹嘴笑了一下，道：",
+      "translated_vi": "Ánh mắt Vân Thiên Phong không hề lay động, khóe môi khẽ nhếch lên nở một nụ cười, cất tiếng:"
+    },
+    {
+      "para_id": "c0188p0044",
+      "index": 44,
+      "raw_zh": "“丫頭啊，你命挺大啊！”",
+      "translated_vi": "\"Con nhóc này, mạng cô lớn thật đấy!\""
+    },
+    {
+      "para_id": "c0188p0045",
+      "index": 45,
+      "raw_zh": "“滋滋滋”，那水與空氣擠出的聲響變得尖細。",
+      "translated_vi": "\"Xì... xì... xì...\", âm thanh nước và khí bị tống ép ra ngoài trở nên the thé và dồn dập hơn."
+    },
+    {
+      "para_id": "c0188p0046",
+      "index": 46,
+      "raw_zh": "雲千峰聽到這聲音，臉上布滿了開心的笑意。",
+      "translated_vi": "Nghe thấy âm thanh ấy, trên gương mặt Vân Thiên Phong ngập tràn nụ cười vui vẻ nhẹ nhõm."
+    },
+    {
+      "para_id": "c0188p0047",
+      "index": 47,
+      "raw_zh": "幾分鍾後，那聲音不再響起。",
+      "translated_vi": "Vài phút sau, âm thanh ấy rốt cuộc cũng ngừng hẳn."
+    },
+    {
+      "para_id": "c0188p0048",
+      "index": 48,
+      "raw_zh": "雲千峰才扔掉煙屁，轉身抱起阿菲法來到池水邊，然後把她趴著放在自己的雙腿上，掀起長袍的下擺，開始給她清理起來。",
+      "translated_vi": "Vân Thiên Phong lúc này mới vứt mẩu tàn thuốc, quay người bế Afifa lại sát mép hồ nước, sau đó đặt cô nằm sấp lên hai đùi mình, vén vạt áo choàng lên rồi bắt đầu làm vệ sinh cho cô."
+    },
+    {
+      "para_id": "c0188p0049",
+      "index": 49,
+      "raw_zh": "阿菲法的身上還是很燙，但是臉比身上還燙。",
+      "translated_vi": "Thân thể Afifa vẫn còn rất nóng, nhưng khuôn mặt cô lúc này còn nóng bừng hơn cả thân mình vì ngượng ngùng xấu hổ."
+    },
+    {
+      "para_id": "c0188p0050",
+      "index": 50,
+      "raw_zh": "跑肚拉稀好清理，不一會便清理乾淨，雲千峰小心翼翼的把她放到池水的另一側風乾，然後用手潑水，把阿菲法剛才躺著的地方衝刷了一下。",
+      "translated_vi": "Bị tiêu chảy do thuốc xổ thì dễ làm sạch, chẳng mấy chốc đã lau rửa sạch sẽ. Vân Thiên Phong cẩn thận bế cô đặt sang phía bên kia hồ nước cho hong khô ráo, rồi dùng tay vốc nước hắt sạch chỗ Afifa vừa nằm ban nãy."
+    },
+    {
+      "para_id": "c0188p0051",
+      "index": 51,
+      "raw_zh": "酸臭的味道才算慢慢彌散消失。",
+      "translated_vi": "Mùi hôi chua nồng lúc này mới dần dần tan biến vào không khí."
+    },
+    {
+      "para_id": "c0188p0052",
+      "index": 52,
+      "raw_zh": "“疼嗎？”",
+      "translated_vi": "\"Còn đau không?\""
+    },
+    {
+      "para_id": "c0188p0053",
+      "index": 53,
+      "raw_zh": "雲千峰看著雙目緊閉，但是臉燒通紅的阿菲法問道。",
+      "translated_vi": "Vân Thiên Phong nhìn Afifa đang nhắm nghiền hai mắt nhưng khuôn mặt đỏ lựng như gấc chín, cất tiếng hỏi han."
+    },
+    {
+      "para_id": "c0188p0054",
+      "index": 54,
+      "raw_zh": "阿菲法也不睜開眼睛，似乎內心在掙扎，好一會才回道：",
+      "translated_vi": "Afifa vẫn không chịu mở mắt ra, dường như trong lòng đang trải qua một hồi đấu tranh dữ dội, hồi lâu sau mới khẽ đáp:"
+    },
+    {
+      "para_id": "c0188p0055",
+      "index": 55,
+      "raw_zh": "“疼，很疼！”",
+      "translated_vi": "\"Đau, đau lắm!\""
+    },
+    {
+      "para_id": "c0188p0056",
+      "index": 56,
+      "raw_zh": "雲千峰點了點頭，用手輕輕拍了拍阿菲法的肩膀，輕聲道：",
+      "translated_vi": "Vân Thiên Phong gật gật đầu, vươn tay vỗ nhè nhẹ lên vai Afifa, dịu giọng nói:"
+    },
+    {
+      "para_id": "c0188p0057",
+      "index": 57,
+      "raw_zh": "“再忍一會，一會就不疼了，你在這等著我，我去找讓伱傷口不疼的良藥去。”",
+      "translated_vi": "\"Ráng chịu đựng một chút, lát nữa sẽ không còn đau nữa đâu. Em cứ nằm đây đợi tôi, tôi đi tìm một phương thuốc quý giúp vết thương của em hết đau ngay.\""
+    },
+    {
+      "para_id": "c0188p0058",
+      "index": 58,
+      "raw_zh": "阿菲法一把抓住雲千峰的手，急忙道：",
+      "translated_vi": "Afifa bỗng vươn tay chộp chặt lấy tay Vân Thiên Phong, vội vã nói:"
+    },
+    {
+      "para_id": "c0188p0059",
+      "index": 59,
+      "raw_zh": "“不，不怎麽疼了，你別走。”",
+      "translated_vi": "\"Không... không còn đau mấy nữa đâu, anh đừng đi mà!\""
+    },
+    {
+      "para_id": "c0188p0060",
+      "index": 60,
+      "raw_zh": "雲千峰笑道：",
+      "translated_vi": "Vân Thiên Phong cười nói:"
+    },
+    {
+      "para_id": "c0188p0061",
+      "index": 61,
+      "raw_zh": "“別怕，我都把你帶著這來了，怎麽會拋下你？把心放到肚子裡，等著我回來，傷口現在沒感染，不代表接下來不會，我們要抓緊處理好它。”",
+      "translated_vi": "\"Đừng sợ, tôi đã cõng em tới tận đây rồi, lẽ nào lại bỏ rơi em được? Cứ yên tâm để bụng, ngoan ngoãn chờ tôi quay lại. Miệng vết thương hiện giờ chưa nhiễm trùng nặng không có nghĩa là lát nữa sẽ không sao, chúng ta phải tranh thủ xử lý nó thật sớm.\""
+    },
+    {
+      "para_id": "c0188p0062",
+      "index": 62,
+      "raw_zh": "說著，拍了拍法非法抓著自己的手，這丫頭才遲疑的松開手，對著雲千峰走向地穴的背影用盡全力叫了聲：",
+      "translated_vi": "Vừa nói, anh vừa vỗ nhè nhẹ lên bàn tay đang níu chặt lấy mình của Afifa, cô gái này mới ngập ngừng buông tay ra, rồi hướng về phía bóng lưng Vân Thiên Phong đang rảo bước về phía địa huyệt, dốc hết sức bình sinh hét lên một câu:"
+    },
+    {
+      "para_id": "c0188p0063",
+      "index": 63,
+      "raw_zh": "“快點回來！”",
+      "translated_vi": "\"Mau quay lại đấy nhé!\""
+    },
+    {
+      "para_id": "c0188p0064",
+      "index": 64,
+      "raw_zh": "“好！”",
+      "translated_vi": "\"Được rồi!\""
+    },
+    {
+      "para_id": "c0188p0065",
+      "index": 65,
+      "raw_zh": "雲千峰回頭笑著擺了擺手，然後順著石台階向下走去。",
+      "translated_vi": "Vân Thiên Phong quay đầu mỉm cười vẫy vẫy tay, sau đó lần theo những bậc thang đá đi xuống dưới."
+    },
+    {
+      "para_id": "c0188p0066",
+      "index": 66,
+      "raw_zh": "這地穴下雖然陰涼，但是溫度遠比冰冷的泉水要暖和。",
+      "translated_vi": "Dưới địa huyệt này tuy âm u ẩm ướt, nhưng nhiệt độ lại ấm áp hơn nhiều so với dòng nước suối băng giá bên trên."
+    },
+    {
+      "para_id": "c0188p0067",
+      "index": 67,
+      "raw_zh": "泉水順著台階一側的水溝緩緩流下去，一直到目所不能及的遠處。",
+      "translated_vi": "Nước suối men theo rãnh nước bên cạnh bậc thang chầm chậm chảy tràn xuống dưới, kéo dài tít tắp đến nơi xa xôi mà tầm mắt không thể với tới."
+    },
+    {
+      "para_id": "c0188p0068",
+      "index": 68,
+      "raw_zh": "雲千峰打開袖珍手電叼在嘴裡，手持爪刀，沿著台階而下。",
+      "translated_vi": "Vân Thiên Phong bật chiếc đèn pin bỏ túi ngậm vào miệng, tay lăm lăm vuốt đao, cẩn trọng bước từng bước men theo bậc thang đi xuống."
+    },
+    {
+      "para_id": "c0188p0069",
+      "index": 69,
+      "raw_zh": "旁邊水溝光滑勻稱，也不知道是原本鑿刻的水溝，還是後天慢慢衝刷出來。",
+      "translated_vi": "Rãnh nước bên cạnh trơn nhẵn đều đặn, chẳng rõ vốn dĩ là rãnh nước được người xưa đục đẽo tỉ mỉ, hay là do dòng nước trải qua năm tháng dài đằng đẵng bào mòn mà thành."
+    },
+    {
+      "para_id": "c0188p0070",
+      "index": 70,
+      "raw_zh": "三十三階到盡頭，遠處是不見盡頭的石廊。",
+      "translated_vi": "Đi hết ba mươi ba bậc thang đá thì chạm đáy, phía trước là một hành lang đá sâu thẳm không thấy điểm dừng."
+    },
+    {
+      "para_id": "c0188p0071",
+      "index": 71,
+      "raw_zh": "而在旁邊，有一個泉水打出來的水渦，直徑怕不是有三四米，水極深。",
+      "translated_vi": "Ở ngay bên cạnh có một xoáy nước do dòng suối ngầm tạo nên, đường kính rộng chừng ba bốn mét, mực nước cực kỳ sâu."
+    },
+    {
+      "para_id": "c0188p0072",
+      "index": 72,
+      "raw_zh": "用手試探溫度，應該在有二十幾度。",
+      "translated_vi": "Đưa tay xuống thử nhiệt độ, nước ấm áp chừng hơn hai mươi độ C."
+    },
+    {
+      "para_id": "c0188p0073",
+      "index": 73,
+      "raw_zh": "雲千峰用手電照射其中，看到一些身形短寬，背帶長鰭的魚類。",
+      "translated_vi": "Vân Thiên Phong rọi ánh đèn pin vào trong xoáy nước, trông thấy vài con cá thân ngắn bè bè, trên lưng mang dải vây dài bơi lội tung tăng."
+    },
+    {
+      "para_id": "c0188p0074",
+      "index": 74,
+      "raw_zh": "“果然有！”",
+      "translated_vi": "\"Quả nhiên là có thật!\""
+    },
+    {
+      "para_id": "c0188p0075",
+      "index": 75,
+      "raw_zh": "雲千峰咧嘴笑著，用右手持刀，速度遠超常人的把爪刀刺入水中，幾乎每一下都能帶出一條魚來。",
+      "translated_vi": "Vân Thiên Phong toét miệng cười, tay phải cầm dao với tốc độ nhanh vượt xa người thường thoăn thoắt đâm lưỡi vuốt đao vào mặt nước, hầu như mỗi một nhát đâm chuẩn xác đều bắt trọn được một con cá kéo lên bờ."
+    },
+    {
+      "para_id": "c0188p0076",
+      "index": 76,
+      "raw_zh": "看著地面上的七條魚，雲千峰似乎感覺夠用了，便拿起那些魚，用手掐開它們的嘴巴，然後在池水裡涮一下，就見無數的小魚苗在這些魚的嘴裡跑到池水中。",
+      "translated_vi": "Nhìn bảy con cá đang giãy đành đạch trên mặt đất, Vân Thiên Phong cảm thấy thế là đã đủ dùng, bèn nhặt từng con lên, dùng tay bóp nhẹ miệng chúng rồi nhúng vào vũng nước súc nhẹ, lập tức thấy vô số cá con li ti từ trong khoang miệng những con cá lớn ùa ra bơi lội tung tăng vào làn nước."
+    },
+    {
+      "para_id": "c0188p0077",
+      "index": 77,
+      "raw_zh": "雲千峰看著那些魚苗，淡淡道：",
+      "translated_vi": "Vân Thiên Phong nhìn đàn cá con bơi lội, thản nhiên lẩm bẩm:"
+    },
+    {
+      "para_id": "c0188p0078",
+      "index": 78,
+      "raw_zh": "“以命救命，看似公道，可是魚兒啊，你的公道誰來給呢？”",
+      "translated_vi": "\"Lấy mạng cứu mạng, nhìn thì có vẻ công bằng, nhưng cá nhỏ ơi là cá nhỏ, lẽ công bằng của loài cá các chú thì ai sẽ đứng ra trả lại cho đây?\""
+    },
+    {
+      "para_id": "c0188p0079",
+      "index": 79,
+      "raw_zh": "他歎著氣，用衣服兜著那幾條還沒死透的魚回到洞穴之上。",
+      "translated_vi": "Anh khẽ thở dài, dùng vạt áo túm lấy mấy con cá chưa chết hẳn rồi quay trở lại miệng hang bên trên."
+    },
+    {
+      "para_id": "c0188p0080",
+      "index": 80,
+      "raw_zh": "阿菲法見他回來，長長的舒了一口氣，偷偷的擦了擦臉頰上剛滑落的水珠。",
+      "translated_vi": "Afifa thấy anh trở về, trút một hơi thở phào nhẹ nhõm, lén lút đưa tay gạt đi giọt nước mắt vừa lăn dài trên má."
+    },
+    {
+      "para_id": "c0188p0081",
+      "index": 81,
+      "raw_zh": "雲千峰坐在阿菲法身旁。",
+      "translated_vi": "Vân Thiên Phong ngồi xuống bên cạnh Afifa."
+    },
+    {
+      "para_id": "c0188p0082",
+      "index": 82,
+      "raw_zh": "把魚在水中清洗，用爪刀仔細的剝去魚皮，然後掀開阿菲法小腿上的長袍，直接把魚皮小心的貼在沒有了皮膚的傷口上。",
+      "translated_vi": "Anh đem cá rửa sạch trong nước hồ, dùng vuốt đao khéo léo lột sạch từng lớp da cá, sau đó vén vạt áo choàng phủ trên cẳng chân của Afifa lên, trực tiếp cẩn thận đắp từng miếng da cá tươi áp sát vào miệng vết thương đã bị mất da."
+    },
+    {
+      "para_id": "c0188p0083",
+      "index": 83,
+      "raw_zh": "他的動作極小心，不留一點氣泡在魚皮和傷口之間。",
+      "translated_vi": "Động tác của anh tỉ mỉ vô cùng, không để lại bất kỳ một bóng khí nào sót lại giữa lớp da cá và bề mặt vết thương."
+    },
+    {
+      "para_id": "c0188p0084",
+      "index": 84,
+      "raw_zh": "七條魚，七張魚皮，把阿菲法沒了皮膚的那截小腿敷了個嚴實。",
+      "translated_vi": "Bảy con cá, bảy tấm da cá, phủ kín bưng toàn bộ phần cẳng chân bị lột da của Afifa."
+    },
+    {
+      "para_id": "c0188p0085",
+      "index": 85,
+      "raw_zh": "貼的時候是極痛的，阿菲法咬著牙，還時不時的痛呼出來，全身都起了一層冷汗。",
+      "translated_vi": "Lúc đắp da cá vào là đau đớn thấu xương tủy, Afifa nghiến chặt răng, chốc chốc lại không kìm được bật ra tiếng rên rỉ đau đớn, toàn thân vã ra một tầng mồ hôi lạnh."
+    },
+    {
+      "para_id": "c0188p0086",
+      "index": 86,
+      "raw_zh": "但奇怪的是，貼上去沒多久，痛感便開始慢慢減緩，竟是到了能夠忍受的程度。",
+      "translated_vi": "Nhưng điều kỳ lạ là đắp lên không bao lâu, cảm giác đau rát bắt đầu từ từ thuyên giảm, dần dần hạ xuống đến mức có thể cắn răng chịu đựng được."
+    },
+    {
+      "para_id": "c0188p0087",
+      "index": 87,
+      "raw_zh": "阿菲法認識那些魚，她有了點力氣，坐在池水旁，看著那些魚道：",
+      "translated_vi": "Afifa nhận ra loài cá đó, cô nàng đã hồi lại chút sức lực, ngồi bên bờ hồ nước nhìn mấy con cá, cất lời:"
+    },
+    {
+      "para_id": "c0188p0088",
+      "index": 88,
+      "raw_zh": "“羅非魚，我們那裡有很多，但我才知道羅非魚可以療傷。”",
+      "translated_vi": "\"Cá rô phi, ở chỗ chúng em có rất nhiều loài cá này, nhưng bây giờ em mới biết da cá rô phi có thể dùng để chữa vết thương đấy.\""
+    },
+    {
+      "para_id": "c0188p0089",
+      "index": 89,
+      "raw_zh": "雲千峰笑道：",
+      "translated_vi": "Vân Thiên Phong cười nói:"
+    },
+    {
+      "para_id": "c0188p0090",
+      "index": 90,
+      "raw_zh": "“很神奇的魚，全天下只有羅非魚的皮，可以給幾乎所有動物植皮，而不會起排斥反應，更奇怪的是，科學界到現在也查不出這是為什麽。”",
+      "translated_vi": "\"Một loài cá vô cùng kỳ diệu. Cả thiên hạ này chỉ có duy nhất lớp da của cá rô phi là có thể dùng để cấy ghép da cho hầu hết mọi loài động vật mà không hề gây ra phản ứng đào thải dị vật. Kỳ lạ hơn nữa là giới khoa học cho đến tận ngày nay vẫn chưa thể giải thích nổi nguyên nhân tại sao.\""
+    },
+    {
+      "para_id": "c0188p0091",
+      "index": 91,
+      "raw_zh": "說到這，雲千峰冷不丁問了一句：",
+      "translated_vi": "Nói tới đây, Vân Thiên Phong bất chợt lạnh lùng hỏi một câu:"
+    },
+    {
+      "para_id": "c0188p0092",
+      "index": 92,
+      "raw_zh": "“你姐姐他們怎麽把你扔下了？”",
+      "translated_vi": "\"Chị gái em làm sao lại vứt bỏ em ở lại một mình thế này?\""
+    },
+    {
+      "para_id": "c0188p0093",
+      "index": 93,
+      "raw_zh": "阿菲法搖著頭，一臉迷茫，道：",
+      "translated_vi": "Afifa lắc đầu, khuôn mặt ngơ ngác mờ mịt, đáp:"
+    },
+    {
+      "para_id": "c0188p0094",
+      "index": 94,
+      "raw_zh": "“我也不知道，我和姐姐拖著受傷的安德尋找安全的地方，然後找到了那個石台，把安德抬上去之後，我和姐姐也爬了上去，然後我就什麽都不知道了，再醒來就看見了你。”",
+      "translated_vi": "\"Em cũng không rõ nữa, em cùng chị gái kéo theo Ander bị thương đi tìm nơi an toàn, sau đó tìm thấy bệ đá kia. Đỡ được Ander lên trên rồi thì em với chị gái cũng trèo lên, sau đó em chẳng còn biết trời trăng mây đất gì nữa, đến khi tỉnh lại thì đã thấy anh ở đây rồi.\""
+    },
+    {
+      "para_id": "c0188p0095",
+      "index": 95,
+      "raw_zh": "雲千峰點了點頭，他看得出來阿菲法說的是事實的經過，從她的語氣能聽出來這說出的部分是實話。",
+      "translated_vi": "Vân Thiên Phong gật đầu, anh nhìn ra được những gì Afifa kể lại đúng là diễn biến thực tế, từ ngữ khí của cô có thể nghe ra phần này hoàn toàn là lời nói thật."
+    },
+    {
+      "para_id": "c0188p0096",
+      "index": 96,
+      "raw_zh": "同時雲千峰也感覺到這丫頭有所隱瞞，卻是從眼神讀出來。",
+      "translated_vi": "Đồng thời Vân Thiên Phong cũng cảm nhận được con bé này dường như vẫn còn điều gì đó che giấu, điều đó được anh đọc ra từ ánh mắt của cô."
+    },
+    {
+      "para_id": "c0188p0097",
+      "index": 97,
+      "raw_zh": "但是雲千峰沒有追問，而是平靜的用手撫摸著爪刀的刀刃，淡淡道：",
+      "translated_vi": "Nhưng Vân Thiên Phong không hề gặng hỏi dồn dập, mà chỉ bình thản dùng ngón tay mân mê lưỡi vuốt đao sắc bén, trầm giọng lẩm bẩm:"
+    },
+    {
+      "para_id": "c0188p0098",
+      "index": 98,
+      "raw_zh": "“遇到狠角色了啊！”",
+      "translated_vi": "\"Gặp phải nhân vật hung hãn rồi!\""
+    }
+  ]
+}

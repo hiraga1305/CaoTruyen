@@ -1,0 +1,80 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0254|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=EXPOSITION_SMOOTH|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一張|một tấm
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §39):
+§1 254.第254章 大海撈針
+§2 第254章 大海撈針
+§3 [Ø=云千峰]雲千峰到達海岸線的時候，孫倩的船早就等在那裡，利用船隻上的直升機將雲千峰和琳達接到了船上。
+§4 [Ø=云千峰]船艙內很溫暖，電力充足，顯然羅琳娜為孫倩的船安裝了非常先進的動力系統。
+§5 [Ø=云千峰]白妹子等幾個羅琳娜的手下也在船上，羅琳娜還在處理俺必勝公司的那些事情，估計還需要一段時間才能忙完，所以無法跟來。
+§6 [Ø=云千峰]而秦疏影前段時間去了華夏，準備把身邊的事情處理好，而後就會定居在羅琳娜的私人島嶼上。
+§7 [Ø=云千峰]許久未見的孫倩，越發的不像個人了。
+§8 [Ø=云千峰]不是外貌的變化，單說外貌， [||] 孫倩比之前好看多了，更自然也更水靈，還帶著一股子神秘感。
+§9 [Ø=云千峰]說她不像人，是因為她的話變得很少， [||] 幾乎看不到她與別人交流，那種感覺就好像孫倩已經不把自己當成人，而是當成了比人更高一等級的生物。
+§10 那是一種懶得對牛彈琴的情緒。
+§11 [Ø=云千峰]但很顯然，她對雲千峰是例外的。
+§12 [Ø=云千峰]因為她雖然話依舊少，但卻很喜歡黏在雲千峰身邊，偶爾會問一些廢話般的問題。
+§13 [Ø=云千峰]雲千峰也沒想到，自己當初是坑她成為一個共生體，但她還挺感激。
+§14 [Ø=云千峰]當然也可能是因為蚩尤甲的存在，這讓孫倩覺得，雲千峰也屬於高等級的生物。
+§15 [Ø=云千峰]門戶之見，詭異之物也不例外。
+§16 白妹子把搜集到的關於西王母的資料全都拿給了雲千峰。
+§17 [Ø=云千峰]其實這種神話傳說之中的人物，資料很多，但真正有用的極少，因為真假難辨。
+§18 [Ø=云千峰]安排好琳達的住處，孫倩、白妹子幾個人就都來到了雲千峰的房間，一起在那些西王母的資料裡大海撈針。
+§19 他們首先要辨別西王母的長相。
+§20 [Ø=云千峰]因為傳說裡，西王母的長相有很多種， [||] 但無外乎美醜兩種，確定其長相，才能確定哪部典籍記載的為真。
+§21 [Ø=云千峰]白妹子雖然身上皮膚比臉黑，但是心裡透亮， [||] 是個有見識有知識的人，又因為跟羅琳娜混之前做私偵工作，所以有著很強的推演和判斷力。
+§22 [Ø=云千峰]羅琳娜叫白妹子盡最大可能滿足雲千峰的一切要求，而現在雲千峰的要求就是辨別西王母的長相。
+§23 [Ø=云千峰]白妹子之前就閱覽過這些資料，此時當先說道：
+§24 [Ø=云千峰]“我個人更相信山海經的記載，因為那本書足夠古老，能夠最接近真實的記憶， [||] 而且這本書因為內容原因，歷代帝王都將其當成民間異志處理，從沒有人去改動過裡面的內容，所以真實性最高。
+§25 [Ø=云千峰]至於雍容華貴版本的西王母，身上禮的成分太多，有著太多儒家修飾的痕跡，絕不可信。”
+§26 [Ø=云千峰]有理有據，尤其是那句歷代帝王沒修改過，太重要了。
+§27 [Ø=云千峰]雲千峰和旁邊幾人都紛紛點頭，讚成白妹子的判斷。
+§28 [Ø=云千峰]孫倩看著資料，思索道：
+§29 [Ø=云千峰]“山海經記載西王母形象是這樣說的，其狀如人，豹尾虎齒而善嘯， [||] 蓬發戴勝，若是這般猙獰長相，我很難相信周穆王和漢武帝會千裡迢迢去與她約會。
+§30 [Ø=云千峰]周穆王與西王母帳暖共渡三天三夜的傳說，可也是山海經記載的。”
+§31 [Ø=云千峰]這也是個事實，現代的年輕人全都深有感觸， [||] 畢竟無論男女，都約過照騙，有的真是含淚都下不去手。
+§32 [Ø=云千峰]周穆王和漢武帝一代帝王，肯定不會這麽委屈自己，尤其周穆王還是三天三夜，那得多狼。
+§33 [Ø=云千峰]白妹子一揚眉毛，她這幾天對孫倩冷冰冰的態度很有意見，此刻還不用知識懟她一把，那就不是臉白身黑的白妹子。
+§34 [Ø=云千峰]她拿起一遝資料，說道：
+§35 [Ø=云千峰]“這一遝資料不是關於西王母的，但我當時覺得有用，就特意也帶過來了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 [Ø=云千峰]說著，遞給旁邊幾人一人一張[M1:một tấm]。
+§37 這是世界Z教誕生和發展規律的全表。
+§38 [Ø=云千峰]看著幾個人臉上的疑惑，白妹子得意繼續道：
+§39 [Ø=云千峰]“豹尾虎齒而善嘯，蓬發戴勝，如果西王母就是很美很美的人，那麽該怎麽解釋這句描寫？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 39 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§39. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

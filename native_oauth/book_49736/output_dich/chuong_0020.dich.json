@@ -1,0 +1,475 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 20,
+  "title": "Chương 20: Nụ cười của xác khô",
+  "total_paragraphs": 77,
+  "translated_paragraphs": 77,
+  "source_hash": "47f413204fc6da9260867c051b78454e406c2c831b01d2e23ba9e858f4ce80fa",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0020p0001",
+      "index": 1,
+      "raw_zh": "第20章 乾屍的微笑",
+      "translated_vi": "Chương 20: Nụ cười của xác khô"
+    },
+    {
+      "para_id": "c0020p0002",
+      "index": 2,
+      "raw_zh": "但凡稱得上詭異的事物都很嚇人，人的屍體尤甚。",
+      "translated_vi": "Phàm là thứ gì có thể gọi là quái dị thì đều vô cùng dọa người, mà xác chết của con người lại càng đáng sợ hơn gấp bội."
+    },
+    {
+      "para_id": "c0020p0003",
+      "index": 3,
+      "raw_zh": "看著這讓人如芒在背的屍體，雲千峰躊躇不敢再向前探路。",
+      "translated_vi": "Nhìn cái xác khiến người ta lạnh toát sống lưng như gai đâm sau gáy kia, Vân Thiên Phong ngập ngừng chẳng dám tiến thêm bước nào nữa."
+    },
+    {
+      "para_id": "c0020p0004",
+      "index": 4,
+      "raw_zh": "想著秦疏影的專業，對於屍體一定比自己了解，大概率能解釋這屍體諸多的詭異之處，於是便轉回身，準備叫她來一起查看。",
+      "translated_vi": "Nghĩ đến chuyên môn ngành y của Tần Sơ Ảnh, chắc chắn cô hiểu rõ về thi thể hơn mình nhiều, mười mươi có thể giải thích được những điểm kỳ quái trên cái xác này, hắn bèn quay người trở lại, định bụng gọi cô tới cùng xem xét."
+    },
+    {
+      "para_id": "c0020p0005",
+      "index": 5,
+      "raw_zh": "其實距離並不遠，喊一聲就足夠了，但是這屍體讓雲千峰有點卡嗓子眼，愣是不敢高聲語。",
+      "translated_vi": "Kỳ thực khoảng cách chẳng xa là bao, chỉ cần cất tiếng gọi một câu là nghe thấy ngay; thế nhưng cái xác chết quái quỷ này khiến cổ họng Vân Thiên Phong như nghẹn ứ lại, nhất thời không dám lớn tiếng ho he nửa lời."
+    },
+    {
+      "para_id": "c0020p0006",
+      "index": 6,
+      "raw_zh": "一回到三角石洞，雲千峰就壓低聲音對秦疏影說道：",
+      "translated_vi": "Vừa về tới hang đá tam giác, Vân Thiên Phong liền hạ giọng bảo với Tần Sơ Ảnh:"
+    },
+    {
+      "para_id": "c0020p0007",
+      "index": 7,
+      "raw_zh": "“石洞後面不遠有一具屍體，薑柔甲你別哭，不是你哥，那是一個女的，不過你們做好心理準備，那屍體太過詭異，我需要秦小姐的專業看看情況。”",
+      "translated_vi": "“Phía sau hang đá cách đây không xa có một cái xác. Khương Nhu Giáp, cô đừng vội khóc, không phải anh trai cô đâu, đó là một người phụ nữ. Nhưng hai cô phải chuẩn bị tâm lý cho kỹ vào, cái xác đó quái đản vô cùng, tôi cần chuyên môn của cô Tần đến thẩm định tình hình.”"
+    },
+    {
+      "para_id": "c0020p0008",
+      "index": 8,
+      "raw_zh": "薑柔甲剛冒出來的眼淚隨即便欣然而回。",
+      "translated_vi": "Những giọt nước mắt vừa chực trào nơi khóe mi Khương Nhu Giáp thoắt cái đã mừng rỡ thụt ngược trở vào."
+    },
+    {
+      "para_id": "c0020p0009",
+      "index": 9,
+      "raw_zh": "秦疏影無法想象什麽樣的屍體能夠被稱為詭異，於是點頭跟了上去，薑柔甲緊隨其後。",
+      "translated_vi": "Tần Sơ Ảnh không tài nào tưởng tượng nổi loại xác chết thế nào mới được coi là quái dị tột độ, bèn gật đầu sải bước đi theo, Khương Nhu Giáp cũng lẵng đẵng bám sát gót."
+    },
+    {
+      "para_id": "c0020p0010",
+      "index": 10,
+      "raw_zh": "很快，解剖屍體都沒皺過一下眉毛的秦疏影在見到地上的屍體後，驚訝的一下用手捂住嘴巴。",
+      "translated_vi": "Rất nhanh, Tần Sơ Ảnh – người vốn quen tay mổ xẻ tử thi mà lông mày chưa từng nhíu lấy một lần – vừa trông thấy cái xác nằm trên mặt đất liền giật nảy mình, vội đưa tay bịt chặt miệng lại."
+    },
+    {
+      "para_id": "c0020p0011",
+      "index": 11,
+      "raw_zh": "她不得不承認，這具屍體詭異到了極點。",
+      "translated_vi": "Cô buộc phải thừa nhận rằng, thi thể này quả thực quái đản tới cùng cực!"
+    },
+    {
+      "para_id": "c0020p0012",
+      "index": 12,
+      "raw_zh": "薑柔甲看著那具屍體，一下就躲在雲千峰背後，顫著聲道：",
+      "translated_vi": "Khương Nhu Giáp vừa liếc thấy cái xác liền vội nép sau lưng Vân Thiên Phong, giọng run rẩy lắp bắp:"
+    },
+    {
+      "para_id": "c0020p0013",
+      "index": 13,
+      "raw_zh": "“天呐！他在笑！”",
+      "translated_vi": "“Trời đất ơi! Người đó... người đó đang cười kìa!”"
+    },
+    {
+      "para_id": "c0020p0014",
+      "index": 14,
+      "raw_zh": "這正是這具屍體諸多詭異處之一。",
+      "translated_vi": "Đó chính là một trong vô số điểm kỳ quái rợn người của cái xác này."
+    },
+    {
+      "para_id": "c0020p0015",
+      "index": 15,
+      "raw_zh": "雲千峰點頭低聲道：",
+      "translated_vi": "Vân Thiên Phong gật đầu, thì thầm:"
+    },
+    {
+      "para_id": "c0020p0016",
+      "index": 16,
+      "raw_zh": "“沒錯，而且笑得很開心。”",
+      "translated_vi": "“Đúng vậy, lại còn cười vô cùng rạng rỡ nữa.”"
+    },
+    {
+      "para_id": "c0020p0017",
+      "index": 17,
+      "raw_zh": "這要多開心的事，能讓一個人臨死前還能笑得如此開懷？",
+      "translated_vi": "Rốt cuộc phải là chuyện vui sướng đến nhường nào mới có thể khiến một con người trước lúc lìa đời lại nở một nụ cười mãn nguyện, sảng khoái đến mức ấy?"
+    },
+    {
+      "para_id": "c0020p0018",
+      "index": 18,
+      "raw_zh": "秦疏影哪怕帶著手套，也不敢直接觸摸這樣一具屍體，而是小心的用一根木棍在屍體上敲了敲，然後一臉難以置信，道：",
+      "translated_vi": "Tần Sơ Ảnh dù đã đeo găng tay bảo hộ nhưng cũng chẳng dám trực tiếp chạm tay vào cái xác, mà cẩn thận dùng một cành cây gõ nhẹ mấy cái lên mình nó. Đoạn, khuôn mặt cô tràn ngập vẻ khó tin thốt lên:"
+    },
+    {
+      "para_id": "c0020p0019",
+      "index": 19,
+      "raw_zh": "“竟然真的是一具乾屍，我還以為自己看走眼了，這怎麽可能？這裡可是濕度極大的雨林。”",
+      "translated_vi": "“Không ngờ lại thực sự là một xác khô! Ban nãy tôi còn ngỡ mắt mình nhìn nhầm. Chuyện này sao có thể chứ? Đây là rừng mưa nhiệt đới có độ ẩm cực cao cơ mà!”"
+    },
+    {
+      "para_id": "c0020p0020",
+      "index": 20,
+      "raw_zh": "這便是屍體詭異處之二。",
+      "translated_vi": "Đó là điểm quái dị thứ hai của cái xác."
+    },
+    {
+      "para_id": "c0020p0021",
+      "index": 21,
+      "raw_zh": "說著，秦疏影用木棍翻動屍體，見此雲千峰忙道：",
+      "translated_vi": "Vừa nói, Tần Sơ Ảnh vừa dùng cành cây lật trở thi thể qua lại. Thấy vậy, Vân Thiên Phong vội bảo:"
+    },
+    {
+      "para_id": "c0020p0022",
+      "index": 22,
+      "raw_zh": "“別找了，沒有傷口。”",
+      "translated_vi": "“Đừng tìm nữa, không có vết thương nào đâu.”"
+    },
+    {
+      "para_id": "c0020p0023",
+      "index": 23,
+      "raw_zh": "這是屍體的詭異處之三。",
+      "translated_vi": "Đây chính là điểm quái dị thứ ba của cái xác."
+    },
+    {
+      "para_id": "c0020p0024",
+      "index": 24,
+      "raw_zh": "秦疏影又用木棍在乾屍的肚皮上點按了一下，再次驚訝：",
+      "translated_vi": "Tần Sơ Ảnh lại dùng cành cây ấn thử lên vùng bụng của xác khô, thêm một lần nữa kinh ngạc:"
+    },
+    {
+      "para_id": "c0020p0025",
+      "index": 25,
+      "raw_zh": "“消化系統沒有摘除，沒有空間填充乾燥劑，怎麽可能形成乾屍？”",
+      "translated_vi": "“Hệ tiêu hóa không hề bị mổ lấy ra, bên trong ổ bụng cũng không được nhồi chất hút ẩm, làm sao có thể hóa thành xác khô được?”"
+    },
+    {
+      "para_id": "c0020p0026",
+      "index": 26,
+      "raw_zh": "此為屍體詭異處之四。",
+      "translated_vi": "Đây là điểm quái dị thứ tư."
+    },
+    {
+      "para_id": "c0020p0027",
+      "index": 27,
+      "raw_zh": "雲千峰指著乾屍的衣服，道：",
+      "translated_vi": "Vân Thiên Phong chỉ tay vào trang phục trên mình xác khô, tiếp lời:"
+    },
+    {
+      "para_id": "c0020p0028",
+      "index": 28,
+      "raw_zh": "“伱看她的褲子膝蓋的位置，還有手肘位置，都是汙泥和植物葉子的碎片，這說明她一定是發現了危險，正在死命的逃亡，這樣處境下，怎麽會笑得那麽開懷？”",
+      "translated_vi": "“Cô nhìn vị trí đầu gối và khuỷu tay trên quần áo của cô ta xem, toàn là bùn đất cùng vụn lá cây dập nát. Điều đó chứng tỏ cô ta nhất định đã phát hiện ra hiểm nguy và đang liều mạng tháo chạy. Trong hoàn cảnh thập tử nhất sinh như vậy, làm sao có thể cười tươi rói đến thế được?”"
+    },
+    {
+      "para_id": "c0020p0029",
+      "index": 29,
+      "raw_zh": "此為屍體詭異處之五。",
+      "translated_vi": "Đây chính là điểm quái dị thứ năm."
+    },
+    {
+      "para_id": "c0020p0030",
+      "index": 30,
+      "raw_zh": "秦疏影調整呼吸，讓自己冷靜下來。",
+      "translated_vi": "Tần Sơ Ảnh điều hòa hơi thở, ép bản thân phải lấy lại sự bình tĩnh."
+    },
+    {
+      "para_id": "c0020p0031",
+      "index": 31,
+      "raw_zh": "在這裡，對屍體最熟悉的人便是自己，自己必須冷靜下來，找出答案，找到線索，因為這具屍體遇到的，很可能就是他們將要遇到的。",
+      "translated_vi": "Ở nơi này, người am tường nhất về thi thể chính là cô. Cô bắt buộc phải thật tỉnh táo để tìm ra câu trả lời, truy lùng các manh mối, bởi lẽ tai ương mà cái xác này vừa gánh chịu rất có thể chính là thứ mà họ sắp sửa phải đối mặt."
+    },
+    {
+      "para_id": "c0020p0032",
+      "index": 32,
+      "raw_zh": "正確的線索，能最大概率的讓他們活下來。",
+      "translated_vi": "Một manh mối chuẩn xác sẽ đem lại cơ hội sống sót cao nhất cho cả ba người."
+    },
+    {
+      "para_id": "c0020p0033",
+      "index": 33,
+      "raw_zh": "“都別說話保持安靜，小柔把你的匕首給我，我需要解剖屍體。”",
+      "translated_vi": "“Tất cả giữ im lặng đừng nói gì hết. Tiểu Nhu, đưa dao găm của em cho chị, chị cần giải phẫu cái xác này.”"
+    },
+    {
+      "para_id": "c0020p0034",
+      "index": 34,
+      "raw_zh": "薑柔甲急忙把自己的軍刀匕首遞過來。",
+      "translated_vi": "Khương Nhu Giáp vội vàng chìa con dao găm quân dụng sang."
+    },
+    {
+      "para_id": "c0020p0035",
+      "index": 35,
+      "raw_zh": "秦疏影蹲下身，整個人進入到一種工作狀態，很迷人。",
+      "translated_vi": "Tần Sơ Ảnh ngồi xổm xuống, cả người cô lập tức bước vào trạng thái làm việc tập trung cao độ, toát lên vẻ cuốn hút đầy mê hoặc."
+    },
+    {
+      "para_id": "c0020p0036",
+      "index": 36,
+      "raw_zh": "她先審視了一下乾屍的外貌，然後說道：",
+      "translated_vi": "Cô xem xét tỉ mỉ diện mạo của xác khô một lượt rồi cất giọng:"
+    },
+    {
+      "para_id": "c0020p0037",
+      "index": 37,
+      "raw_zh": "“從環境的濕度和屍體的保存程度可以判斷，屍體死亡時間不會超過一周，甚至更短，否則即便是乾屍，在這樣的潮濕環境下，也會有明顯的腐爛屍臭。”",
+      "translated_vi": "“Từ độ ẩm của môi trường và mức độ bảo quản thi thể, có thể khẳng định thời gian tử vong không quá một tuần, thậm chí còn ngắn hơn. Bằng không dẫu có là xác khô đi chăng nữa, giữa môi trường ẩm ướt thế này cũng ắt phải bốc mùi xú uế thối rữa nồng nặc rồi.”"
+    },
+    {
+      "para_id": "c0020p0038",
+      "index": 38,
+      "raw_zh": "說著，熟練的切開乾屍的腹腔，在匕首劃破乾屍皮膚的時候，能夠聽到切割皮革的摩擦聲響。",
+      "translated_vi": "Dứt lời, cô thuần thục rạch mở ổ bụng xác khô. Lúc mũi dao găm cứa rách lớp da của cái xác, phát ra những âm thanh ken két ma sát hệt như đang cắt qua một tấm da thuộc dày."
+    },
+    {
+      "para_id": "c0020p0039",
+      "index": 39,
+      "raw_zh": "“天哪，這怎麽可能？屍體是從內部開始流失水分，而且流失速度非常快，快到快到無法想象，屍體內部沒有乾燥劑，這怎麽可能辦到！”",
+      "translated_vi": "“Trời ơi, làm sao có thể như vậy được? Thi thể này bị mất nước từ tận bên trong nội tạng, hơn nữa tốc độ mất nước lại cực kỳ kinh khủng, nhanh đến mức không tưởng! Bên trong ổ bụng hoàn toàn không có chất làm khô, làm sao có thể xảy ra chuyện này được chứ!”"
+    },
+    {
+      "para_id": "c0020p0040",
+      "index": 40,
+      "raw_zh": "雲千峰一愣，不可置信道：",
+      "translated_vi": "Vân Thiên Phong sửng sốt, không dám tin vào tai mình:"
+    },
+    {
+      "para_id": "c0020p0041",
+      "index": 41,
+      "raw_zh": "“這怎麽可能？你確定嗎？”",
+      "translated_vi": "“Làm sao có chuyện vô lý đó được? Cô chắc chắn chứ?”"
+    },
+    {
+      "para_id": "c0020p0042",
+      "index": 42,
+      "raw_zh": "秦疏影點了點頭，道：",
+      "translated_vi": "Tần Sơ Ảnh gật đầu giải thích:"
+    },
+    {
+      "para_id": "c0020p0043",
+      "index": 43,
+      "raw_zh": "“人的皮膚非常特殊，它是人體最大的組織，但卻似乎並不完全屬於人體本身，人的皮膚會在離開生命體的條件下，依舊生存，且根據環境改變自己的狀態，讓自己存活下去。",
+      "translated_vi": "“Làn da con người là một cấu trúc vô cùng đặc biệt. Nó là tổ chức lớn nhất trên cơ thể nhưng dường như lại không hoàn toàn thuộc về bản thân cơ thể. Làn da vẫn có khả năng tiếp tục sống sót một khoảng thời gian dù đã rời khỏi sự sống của cá thể, đồng thời tự biến đổi trạng thái dựa theo môi trường xung quanh để duy trì sự tồn tại."
+    },
+    {
+      "para_id": "c0020p0044",
+      "index": 44,
+      "raw_zh": "這具屍體的皮膚完全脫水乾燥，但卻保存了大量可以使皮膚保持柔軟的油脂，這證明屍體是從內部開始快速乾燥脫水，皮膚為了保存自己，快速的分泌油脂，形成了現在這外表柔軟的皮膚。",
+      "translated_vi": "Lớp da của cái xác này tuy hoàn toàn mất nước và khô quắt lại, nhưng lại tích tụ một lượng lớn chất béo giúp duy trì độ mềm mại. Điều này chứng minh thi thể bị khô kiệt và mất nước cấp tốc từ bên trong, khiến cho lớp da để tự bảo vệ mình đã tiết ra một lượng mỡ cực nhanh, tạo nên bề mặt da dẻo dai mềm mại như hiện tại."
+    },
+    {
+      "para_id": "c0020p0045",
+      "index": 45,
+      "raw_zh": "而如果是外力原因製造乾屍，無論是風乾還是熱能，皮膚為了保護自己，會先形成一層乾硬的角質層，但這具屍體完全沒有，也就說明外部環境沒有讓皮膚感到任何危機反應。”",
+      "translated_vi": "Còn nếu là do các tác nhân ngoại cảnh tạo nên xác khô, dù là phơi gió hay dùng nhiệt lượng, thì lớp da để bảo vệ các mô bên trong ắt sẽ lập tức hình thành một lớp sừng khô cứng trước tiên. Thế nhưng cái xác này lại hoàn toàn không có lớp sừng đó, điều ấy chứng tỏ môi trường bên ngoài không hề gây ra bất kỳ phản ứng nguy cơ nào cho làn da.”"
+    },
+    {
+      "para_id": "c0020p0046",
+      "index": 46,
+      "raw_zh": "薑柔甲納悶道：",
+      "translated_vi": "Khương Nhu Giáp thắc mắc:"
+    },
+    {
+      "para_id": "c0020p0047",
+      "index": 47,
+      "raw_zh": "“可是，外部沒有傷口，怎麽讓屍體從內部脫水呢？”",
+      "translated_vi": "“Thế nhưng bên ngoài không hề có vết thương nào, làm cách nào để hút cạn nước từ bên trong cơ thể được ạ?”"
+    },
+    {
+      "para_id": "c0020p0048",
+      "index": 48,
+      "raw_zh": "秦疏影沉吟片刻道：",
+      "translated_vi": "Tần Sơ Ảnh trầm ngâm một lát rồi đáp:"
+    },
+    {
+      "para_id": "c0020p0049",
+      "index": 49,
+      "raw_zh": "“難，但也不難，或許是有傷口，但不在表面。”",
+      "translated_vi": "“Khó, nhưng cũng không hẳn là khó. Có lẽ vết thương có đấy, chỉ là không nằm ở bề mặt da mà thôi.”"
+    },
+    {
+      "para_id": "c0020p0050",
+      "index": 50,
+      "raw_zh": "說著，她叫雲千峰把這具乾屍翻過身來，然後親自動手，脫下了乾屍的褲子和裡面的黑色刺繡短褲。",
+      "translated_vi": "Nói đoạn, cô bảo Vân Thiên Phong lật sấp cái xác khô lại, rồi tự tay cởi phăng chiếc quần dài cùng chiếc quần lót thêu hoa màu đen bên trong của xác chết ra."
+    },
+    {
+      "para_id": "c0020p0051",
+      "index": 51,
+      "raw_zh": "隨即用雙手掰開兩丘，仔細看了一眼，就確定了什麽，點頭說道：",
+      "translated_vi": "Ngay sau đó, cô dùng hai tay vạch hai bờ mông của cái xác ra quan sát kỹ lưỡng một lượt, dường như đã xác thực được phán đoán của mình, gật đầu bảo:"
+    },
+    {
+      "para_id": "c0020p0052",
+      "index": 52,
+      "raw_zh": "“你們看這裡，有破壞的痕跡，其實肛周已經撕裂了，只不過因為脫水速度太快，所以沒有流血的痕跡。”",
+      "translated_vi": "“Hai người nhìn vào đây xem, có dấu vết bị tàn phá. Thực chất vùng quanh hậu môn đã bị xé toạc ra rồi, chỉ là vì tốc độ mất nước diễn ra quá nhanh nên mới không để lại vết máu chảy.”"
+    },
+    {
+      "para_id": "c0020p0053",
+      "index": 53,
+      "raw_zh": "說完，略微把屍體腰部抬高，指著下面一點，道：",
+      "translated_vi": "Nói xong, cô khẽ nhấc phần eo của cái xác lên một chút, chỉ tay vào vị trí thấp hơn một chút:"
+    },
+    {
+      "para_id": "c0020p0054",
+      "index": 54,
+      "raw_zh": "“這裡也有破壞的痕跡。”",
+      "translated_vi": "“Chỗ này cũng có dấu vết bị xâm hại tàn phá.”"
+    },
+    {
+      "para_id": "c0020p0055",
+      "index": 55,
+      "raw_zh": "這還不算完，秦疏影放下屍體，來到乾屍頭部的位置，用兩根小樹枝撐開乾屍的鼻孔，道：",
+      "translated_vi": "Vẫn chưa dừng lại ở đó, Tần Sơ Ảnh đặt xác xuống rồi vòng lên vị trí phần đầu của xác khô, dùng hai que củi nhỏ vạch lỗ mũi của cái xác ra nói:"
+    },
+    {
+      "para_id": "c0020p0056",
+      "index": 56,
+      "raw_zh": "“看，這裡也有破壞的痕跡，鼻粘膜都被撕裂了。”",
+      "translated_vi": "“Nhìn xem, nơi này cũng có dấu vết bị xâm nhập phá hoại, niêm mạc mũi đều bị xé rách toang.”"
+    },
+    {
+      "para_id": "c0020p0057",
+      "index": 57,
+      "raw_zh": "再掰開乾屍的嘴巴，用手電照射進去：",
+      "translated_vi": "Đoạn cô lại bạnh miệng cái xác ra, rọi đèn pin sâu vào bên trong:"
+    },
+    {
+      "para_id": "c0020p0058",
+      "index": 58,
+      "raw_zh": "“看，喉嚨深處有明顯的刮痕，好像被一個刷鍋的鋼絲刷擦過。”",
+      "translated_vi": "“Xem kìa, sâu trong vòm họng có những vết cào xước chằng chịt rất rõ, giống như vừa bị một búi sắt cọ nồi chà xát qua vậy.”"
+    },
+    {
+      "para_id": "c0020p0059",
+      "index": 59,
+      "raw_zh": "接著再照射乾屍的耳孔，那裡也能看到破壞的傷痕，耳膜已經完全被洞穿。",
+      "translated_vi": "Kế tiếp, cô rọi đèn vào lỗ tai của xác khô, nơi đó cũng có thể thấy rõ những vết thương bị công phá, màng nhĩ đã bị chọc thủng hoàn toàn."
+    },
+    {
+      "para_id": "c0020p0060",
+      "index": 60,
+      "raw_zh": "雲千峰驚呆了：",
+      "translated_vi": "Vân Thiên Phong chết lặng vì kinh hãi:"
+    },
+    {
+      "para_id": "c0020p0061",
+      "index": 61,
+      "raw_zh": "“也就是說，有什麽東西順著這個人身上所有的孔洞鑽進去，迅速的吸幹了這個人體內的水分，從而形成了雨林內的乾屍！”",
+      "translated_vi": "“Nói tóm lại là... có thứ quái vật gì đó đã men theo tất cả các lỗ tự nhiên trên cơ thể người này mà chui tọt vào bên trong, điên cuồng hút cạn toàn bộ lượng nước trong cơ thể cô ta trong chớp mắt, từ đó tạo thành một xác khô giữa rừng mưa nhiệt đới này?!”"
+    },
+    {
+      "para_id": "c0020p0062",
+      "index": 62,
+      "raw_zh": "秦疏影點頭，道：",
+      "translated_vi": "Tần Sơ Ảnh gật đầu xác nhận:"
+    },
+    {
+      "para_id": "c0020p0063",
+      "index": 63,
+      "raw_zh": "“沒錯，就是這樣，現在只剩下一個問題，她為什麽笑！”",
+      "translated_vi": "“Đúng vậy, chính là như thế! Giờ chỉ còn sót lại duy nhất một nghi vấn: Vì sao cô ta lại cười?!”"
+    },
+    {
+      "para_id": "c0020p0064",
+      "index": 64,
+      "raw_zh": "這也是諸多詭異處，最讓人驚悚且難以理解的地方。",
+      "translated_vi": "Đó cũng chính là điểm kinh hoàng và khó lý giải nhất trong muôn vàn chi tiết quái gở của vụ việc này."
+    },
+    {
+      "para_id": "c0020p0065",
+      "index": 65,
+      "raw_zh": "薑柔甲思索道：",
+      "translated_vi": "Khương Nhu Giáp ngẫm nghĩ một chút rồi cất tiếng:"
+    },
+    {
+      "para_id": "c0020p0066",
+      "index": 66,
+      "raw_zh": "“會不會是她見到有人回頭救她，然而卻在那一瞬間被殺死，保留了笑容。”",
+      "translated_vi": "“Liệu có khi nào là do cô ấy nhìn thấy có người quay lại cứu mình, nhưng ngay vào khoảnh khắc ấy lại bị giết chết, thành ra nụ cười mới được lưu giữ lại không?”"
+    },
+    {
+      "para_id": "c0020p0067",
+      "index": 67,
+      "raw_zh": "秦疏影指著乾屍眼部的位置，道：",
+      "translated_vi": "Tần Sơ Ảnh chỉ vào vùng cơ quanh khóe mắt của xác khô, phân tích:"
+    },
+    {
+      "para_id": "c0020p0068",
+      "index": 68,
+      "raw_zh": "“看這裡的肌肉狀態，她是真的在笑，很幸福的笑。而人被從背後偷襲殺死，哪怕當時正在笑，眼部也會在一瞬間表達出驚愕的表情，這具屍體沒有，也就是說，她一定是一邊被殘忍的殺死一邊幸福的微笑。”",
+      "translated_vi": "“Nhìn trạng thái nhóm cơ ở đây mà xem, cô ta thực sự đang cười, một nụ cười ngập tràn hạnh phúc. Con người khi bị kẻ khác tập kích ám sát từ phía sau, dẫu lúc đó đang cười đi chăng nữa thì cơ mắt cũng sẽ lập tức bộc lộ vẻ kinh ngạc hoảng hốt trong tích tắc. Cái xác này hoàn toàn không có điều đó. Nói cách khác, cô ta nhất định là vừa bị tàn sát dã man, lại vừa nở một nụ cười hạnh phúc tột cùng!”"
+    },
+    {
+      "para_id": "c0020p0069",
+      "index": 69,
+      "raw_zh": "雲千峰完全想不出有什麽能辦到這一點，除非這乾屍活著的時候，是個比關二爺還牛的女子漢。",
+      "translated_vi": "Vân Thiên Phong hoàn toàn chịu chết, không tài nào tưởng tượng nổi thứ gì có thể làm được điều quái đản ấy, trừ phi cái xác khô này lúc còn sống là một bậc nữ hào kiệt trượng phu còn trâu bò hơn cả Quan Nhị Gia nạo xương chữa thương!"
+    },
+    {
+      "para_id": "c0020p0070",
+      "index": 70,
+      "raw_zh": "薑柔甲聽到這話後，沉吟道：",
+      "translated_vi": "Khương Nhu Giáp nghe thấy vậy, ngập ngừng lẩm bẩm:"
+    },
+    {
+      "para_id": "c0020p0071",
+      "index": 71,
+      "raw_zh": "“我看過一部動畫片，裡面的女生都是特別開心的死亡”",
+      "translated_vi": "“Em... em từng xem qua một bộ phim hoạt hình, mấy bạn nữ trong đó lúc chết ai nấy đều ra đi vô cùng sung sướng thỏa mãn...”"
+    },
+    {
+      "para_id": "c0020p0072",
+      "index": 72,
+      "raw_zh": "話沒說完，雲千峰看著她，詫異道：",
+      "translated_vi": "Lời còn chưa dứt, Vân Thiên Phong đã trố mắt nhìn con bé, sững sờ buột miệng:"
+    },
+    {
+      "para_id": "c0020p0073",
+      "index": 73,
+      "raw_zh": "“裡面有觸手怪？”",
+      "translated_vi": "“Trong phim đó có quái vật xúc tu à?”"
+    },
+    {
+      "para_id": "c0020p0074",
+      "index": 74,
+      "raw_zh": "薑柔甲小雞啄米般點頭。",
+      "translated_vi": "Khương Nhu Giáp gật đầu lia lịa như gà mổ thóc."
+    },
+    {
+      "para_id": "c0020p0075",
+      "index": 75,
+      "raw_zh": "秦疏影：",
+      "translated_vi": "Tần Sơ Ảnh trừng mắt:"
+    },
+    {
+      "para_id": "c0020p0076",
+      "index": 76,
+      "raw_zh": "“你倆閉嘴！”",
+      "translated_vi": "“Hai người câm hết miệng lại cho tôi!”"
+    },
+    {
+      "para_id": "c0020p0077",
+      "index": 77,
+      "raw_zh": "謝謝小塵先生的打賞，謝謝數字歌和魚頭怪的月票~~~謝謝！！！",
+      "translated_vi": "Cảm ơn tiên sinh Tiểu Trần đã tặng thưởng, cảm ơn bài ca số và Quái Đầu Cá đã bỏ phiếu tháng~~~ Cảm ơn rất nhiều!!!"
+    }
+  ]
+}

@@ -1,0 +1,511 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 96,
+  "title": "Chương 96: Kế và chiến",
+  "total_paragraphs": 83,
+  "translated_paragraphs": 83,
+  "source_hash": "05a5c7064fb10c13cdda59611c8a2fc711789d0e7683090fad67bb3c8c96c5dc",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0096p0001",
+      "index": 1,
+      "raw_zh": "第96章 計與戰（你們說，我攢兩天稿行不行？）",
+      "translated_vi": "Chương 96: Kế và chiến"
+    },
+    {
+      "para_id": "c0096p0002",
+      "index": 2,
+      "raw_zh": "那漂亮的男生第一個舉手是雲千峰始料未及的，選擇無視的同時，內心很讚賞他的踴躍。",
+      "translated_vi": "Vân Thiên Phong hoàn toàn không ngờ cậu thanh niên xinh trai kia lại là người đầu tiên giơ tay. Dù ngoài mặt vờ như làm ngơ, nhưng trong thâm tâm anh vẫn rất tán thưởng sự hăng hái nhiệt tình của cậu ta."
+    },
+    {
+      "para_id": "c0096p0003",
+      "index": 3,
+      "raw_zh": "雲千峰低聲補充了一句：",
+      "translated_vi": "Vân Thiên Phong hạ thấp giọng bồi thêm một câu:"
+    },
+    {
+      "para_id": "c0096p0004",
+      "index": 4,
+      "raw_zh": "“叫得好了，大家能活。”",
+      "translated_vi": "“Kêu rên cho đạt vào thì mọi người mới có cơ hội sống sót.”"
+    },
+    {
+      "para_id": "c0096p0005",
+      "index": 5,
+      "raw_zh": "“唰”，一下全都舉手。",
+      "translated_vi": "“Xoạt” một tiếng, toàn bộ đồng loạt giơ tay lên."
+    },
+    {
+      "para_id": "c0096p0006",
+      "index": 6,
+      "raw_zh": "雲千峰很欣慰，道：",
+      "translated_vi": "Vân Thiên Phong lấy làm hài lòng, nói:"
+    },
+    {
+      "para_id": "c0096p0007",
+      "index": 7,
+      "raw_zh": "“不急，順利的話，大家都有表現的機會。”",
+      "translated_vi": "“Không cần vội, nếu mọi chuyện thuận lợi thì ai nấy đều sẽ có cơ hội trổ tài.”"
+    },
+    {
+      "para_id": "c0096p0008",
+      "index": 8,
+      "raw_zh": "說著，他指向其中一個女生道：",
+      "translated_vi": "Nói rồi, anh chỉ vào một cô gái trong số đó:"
+    },
+    {
+      "para_id": "c0096p0009",
+      "index": 9,
+      "raw_zh": "“你嘴大你先來，你們幾個都回到牢房裡，乖乖待著。”",
+      "translated_vi": "“Miệng cô rộng nhất, cô làm trước đi. Mấy người còn lại quay hết vào buồng giam, ngoan ngoãn ngồi yên ở đó.”"
+    },
+    {
+      "para_id": "c0096p0010",
+      "index": 10,
+      "raw_zh": "把幾個人送進牢房，順便把李銀赫的屍體也拖了進去，將牢門虛關上沒有鎖。",
+      "translated_vi": "Đưa mấy người kia vào lại buồng giam, anh tiện tay kéo lê cả thi thể của Lý Ngân Hách vào trong, rồi khép hờ cửa sắt lại chứ không khóa."
+    },
+    {
+      "para_id": "c0096p0011",
+      "index": 11,
+      "raw_zh": "然後把那海盜身體放正，臉上的血跡擦乾淨，帶好墨鏡。",
+      "translated_vi": "Kế đó, anh đỡ thân xác gã cướp biển đã chết nằm ngay ngắn lại, lau sạch vết máu trên mặt rồi đeo kính râm chỉnh tề cho gã."
+    },
+    {
+      "para_id": "c0096p0012",
+      "index": 12,
+      "raw_zh": "就見雲千峰最後一把將海盜身上最後的短褲拽下去，對著身邊的女生道：",
+      "translated_vi": "Chỉ thấy Vân Thiên Phong dứt khoát giật phăng chiếc quần đùi cuối cùng trên người gã cướp biển xuống, đoạn quay sang bảo cô gái bên cạnh:"
+    },
+    {
+      "para_id": "c0096p0013",
+      "index": 13,
+      "raw_zh": "“伱叫什麽？”",
+      "translated_vi": "“Cô tên là gì?”"
+    },
+    {
+      "para_id": "c0096p0014",
+      "index": 14,
+      "raw_zh": "“張敏。”",
+      "translated_vi": "“Trương Mẫn.”"
+    },
+    {
+      "para_id": "c0096p0015",
+      "index": 15,
+      "raw_zh": "“好，張敏你坐在屍體身上，背對著艙門入口，動作表現的自然一點，聲音大點，別害怕我在你身後保護，你不會有事。”",
+      "translated_vi": "“Được, Trương Mẫn, cô ngồi lên người cái xác này, quay lưng về phía cửa khoang tàu. Động tác làm cho tự nhiên một chút, rên to lên. Đừng sợ, có tôi đứng sau lưng bảo vệ, cô sẽ không sao đâu.”"
+    },
+    {
+      "para_id": "c0096p0016",
+      "index": 16,
+      "raw_zh": "能不害怕嗎，張敏點頭和哆嗦似的。",
+      "translated_vi": "Làm sao mà không sợ cho được, cái đầu Trương Mẫn gật lia lịa như gà mổ thóc kèm theo từng cơn run rẩy bần bật."
+    },
+    {
+      "para_id": "c0096p0017",
+      "index": 17,
+      "raw_zh": "不過看起來應該經驗比較豐富，雖然驚恐慌張，但是步驟姿勢都很到位。",
+      "translated_vi": "Dẫu vậy xem ra cô nàng cũng dày dạn kinh nghiệm tình trường, tuy trong lòng hoảng loạn sợ hãi nhưng các bước động tác và tư thế phối hợp đều vô cùng chuẩn chỉ."
+    },
+    {
+      "para_id": "c0096p0018",
+      "index": 18,
+      "raw_zh": "就見她把泳衣的小庫往旁邊拽了拽，坐在屍體身上，然後開始了影后級別的表演，還別說，那是相當的很不錯。",
+      "translated_vi": "Chỉ thấy cô kéo lệch mảnh quần bơi sang một bên, ngồi cưỡi lên người cái xác, sau đó bắt đầu màn diễn xuất đỉnh cao đạt tầm cỡ ảnh hậu. Mà công nhận, tiếng rên rỉ uốn éo kia quả thực vô cùng sống động và tròn vai."
+    },
+    {
+      "para_id": "c0096p0019",
+      "index": 19,
+      "raw_zh": "艙門外。",
+      "translated_vi": "Bên ngoài cửa khoang."
+    },
+    {
+      "para_id": "c0096p0020",
+      "index": 20,
+      "raw_zh": "這些海盜很警覺，但這種警覺是對外的，他們分散在船隻四處，仔細觀察著海面上的所有動靜，不敢有絲毫遺漏。從未想過手無寸鐵的人會敢於反抗，更想不到裡面有個人有能力反抗的。",
+      "translated_vi": "Đám hải tặc này rất cảnh giác, nhưng sự cảnh giác ấy là hướng ra bên ngoài. Bọn chúng tản ra khắp các vị trí trên tàu, chăm chú quan sát từng động tĩnh trên mặt biển, không dám lơ là dù chỉ một ly. Bọn chúng chưa từng nghĩ những con mồi tay không tấc sắt lại dám manh động phản kháng, càng chẳng thể ngờ bên trong lại có một kẻ sở hữu bản lĩnh phản sát kinh người đến thế."
+    },
+    {
+      "para_id": "c0096p0021",
+      "index": 21,
+      "raw_zh": "雲千峰正是看到他們這種外緊內松的形式，才想出這招分而擊之的計劃。",
+      "translated_vi": "Chính vì nhìn thấu cục diện ngoài chặt trong lỏng này, Vân Thiên Phong mới vạch ra kế sách chia để trị, tiêu diệt từng tên một."
+    },
+    {
+      "para_id": "c0096p0022",
+      "index": 22,
+      "raw_zh": "艙內那女生的聲音徐徐傳出來，時而高亢時而婉轉。",
+      "translated_vi": "Từ bên trong khoang thuyền, tiếng rên rỉ của cô gái kia chầm chậm vọng ra ngoài, khi thì cao trào dồn dập, lúc lại nỉ non lả lơi."
+    },
+    {
+      "para_id": "c0096p0023",
+      "index": 23,
+      "raw_zh": "一聽這動靜，有幾個海盜立馬開始安奈不住躁動的青春，嬉皮笑臉的看著站在船頭的海盜頭子，一臉猴急的模樣。",
+      "translated_vi": "Vừa nghe thấy âm thanh kích thích ấy, mấy gã cướp biển lập tức không kìm nén nổi cơn ngứa ngáy rạo rực trong người, nhe nhởn cười cợt nhìn về phía tên đầu sỏ đang đứng nơi mũi tàu, vẻ mặt sốt ruột thèm thuồng ra mặt."
+    },
+    {
+      "para_id": "c0096p0024",
+      "index": 24,
+      "raw_zh": "能做海盜頭子，自然懂得恩威並施，見這麽多人看著自己，那就要既能遂了他們的心願，還能體現自己的規矩，於是沉聲道：",
+      "translated_vi": "Làm kẻ cầm đầu đám cướp biển, hắn đương nhiên thông thạo ngón nghề vừa đấm vừa xoa, ân uy cùng thi triển. Thấy đàn em đều chong chong nhìn mình, hắn vừa phải chiều lòng bọn chúng, lại vừa phải giữ vững quy củ của bản thân, bèn trầm giọng quát:"
+    },
+    {
+      "para_id": "c0096p0025",
+      "index": 25,
+      "raw_zh": "“兩個兩個來，還有別把身體弄出傷痕，弄壞了影響價格，我把你們喂鯊魚。”",
+      "translated_vi": "“Từng cặp hai thằng một vào trước! Với lại cấm để lại vết thương trên người chúng nó, làm hỏng hàng rớt giá thì tao ném chúng mày xuống biển làm mồi cho cá mập đấy!”"
+    },
+    {
+      "para_id": "c0096p0026",
+      "index": 26,
+      "raw_zh": "“放心吧頭，保準憐香惜玉。”",
+      "translated_vi": "“Đại ca cứ yên tâm, tụi em đảm bảo biết thương hoa tiếc ngọc mà!”"
+    },
+    {
+      "para_id": "c0096p0027",
+      "index": 27,
+      "raw_zh": "海盜頭子指著其中兩人道：",
+      "translated_vi": "Tên trùm hải tặc chỉ tay vào hai tên trong số đó:"
+    },
+    {
+      "para_id": "c0096p0028",
+      "index": 28,
+      "raw_zh": "“從你們倆開始，後面的依次排隊，單組不許超過十五分鍾。”",
+      "translated_vi": "“Bắt đầu từ hai thằng mày, những đứa sau xếp hàng lần lượt. Mỗi lượt không được quá mười lăm phút!”"
+    },
+    {
+      "para_id": "c0096p0029",
+      "index": 29,
+      "raw_zh": "那倆人樂的屁顛屁顛的朝著艙門小跑而去。",
+      "translated_vi": "Hai tên kia hí hửng mừng rơn, vừa hớn hở chân sáo vừa co cẳng chạy vội về phía cửa khoang."
+    },
+    {
+      "para_id": "c0096p0030",
+      "index": 30,
+      "raw_zh": "海盜頭子看了一眼四周平靜的海面，道：",
+      "translated_vi": "Tên trùm cướp biển liếc nhìn mặt biển phẳng lặng bốn bề, phân phó:"
+    },
+    {
+      "para_id": "c0096p0031",
+      "index": 31,
+      "raw_zh": "“留四個人放哨，看緊四方，等會他們倆出來就換放哨的先進去，你們換完了來主控室報告，其他人再排隊，其它人跟我回主控室輪班休息，路還很長，都養足了精神。”",
+      "translated_vi": "“Để bốn người ở lại gác, trông chừng bốn hướng cho cẩn thận. Lát nữa hai đứa kia ra thì đổi cho đám gác vào trước. Đổi ca xong thì tới phòng điều khiển báo cáo rồi những người khác mới xếp hàng tiếp. Số còn lại theo tao về phòng điều khiển trung tâm nghỉ ngơi luân phiên, đường còn dài, phải dưỡng sức cho đủ!”"
+    },
+    {
+      "para_id": "c0096p0032",
+      "index": 32,
+      "raw_zh": "“是！”",
+      "translated_vi": "“Rõ!”"
+    },
+    {
+      "para_id": "c0096p0033",
+      "index": 33,
+      "raw_zh": "直接安排的妥妥當當，就很有條理。",
+      "translated_vi": "Mọi việc được thu xếp đâu ra đấy, vô cùng rành mạch lớp lang."
+    },
+    {
+      "para_id": "c0096p0034",
+      "index": 34,
+      "raw_zh": "那兩個小日子海盜小跑著鑽進艙門，一邊走就一邊解腰帶，那是真真的迫不及待。",
+      "translated_vi": "Hai gã hải tặc Nhật Bản lon ton chui vào cửa khoang, vừa bước chân vào đã vội vã tháo dây thắt lưng, đúng là nóng lòng không thể chờ thêm dù chỉ một giây."
+    },
+    {
+      "para_id": "c0096p0035",
+      "index": 35,
+      "raw_zh": "一走進艙門，入目就看到前面地上躺著的同夥，以及同夥身上那妖嬈的身形，頓時紅塵火燒，生怕比誰慢了似的往裡面跑。",
+      "translated_vi": "Vừa bước qua cửa, đập vào mắt bọn chúng là gã đồng bọn đang nằm dưới sàn và thân hình bốc lửa uốn éo phía trên. Cơn dục vọng bốc lên ngùn ngụt, hai tên tranh nhau lao vụt vào trong như sợ chậm chân mất phần."
+    },
+    {
+      "para_id": "c0096p0036",
+      "index": 36,
+      "raw_zh": "看得出來他們不準備和同夥搶，都是直奔牢房方向，眼睛都盯著穿潛水服的秦疏影。",
+      "translated_vi": "Có thể thấy bọn chúng không định tranh giành với đồng bọn, mà lao thẳng về phía buồng giam, cặp mắt hau háu dán chặt vào Tần Sơ Ảnh đang mặc bộ đồ lặn ôm sát người."
+    },
+    {
+      "para_id": "c0096p0037",
+      "index": 37,
+      "raw_zh": "雲千峰在後面閃身而出，右手一拳砸在最後面那人的後腦，那人連聲都沒吭一下，就軟倒在地。",
+      "translated_vi": "Đúng lúc đó, Vân Thiên Phong từ phía sau thoắt cái lướt ra, tay phải tung một cú đấm như trời giáng trúng ngay gáy tên đi sau cùng. Gã nọ chẳng kịp rên lấy một tiếng đã mềm nhũn đổ sụp xuống sàn."
+    },
+    {
+      "para_id": "c0096p0038",
+      "index": 38,
+      "raw_zh": "緊接著，雲千峰一探手，掐住了前面屋裡哇啦怪叫那小日子的脖子，手指如鷹爪，直接扣碎了喉骨，對方隻來得及發出一聲氣球漏氣的聲響，就倒在地上口吐血沫。",
+      "translated_vi": "Ngay tắp lự, Vân Thiên Phong vươn tay chộp lấy cổ họng gã hải tặc Nhật Bản đang la hét ỏm tỏi phía trước. Ngón tay anh tựa vuốt ưng bóp nát yết hầu đối phương, gã chỉ kịp phát ra một tiếng xì như bóng bay xì hơi rồi ngã vật ra sàn, miệng trào bọt máu."
+    },
+    {
+      "para_id": "c0096p0039",
+      "index": 39,
+      "raw_zh": "雲千峰指著秦疏影以外的那倆女生，道：",
+      "translated_vi": "Vân Thiên Phong chỉ vào hai cô gái còn lại ngoài Tần Sơ Ảnh, ra lệnh:"
+    },
+    {
+      "para_id": "c0096p0040",
+      "index": 40,
+      "raw_zh": "“你們倆來，和她一樣就可以。”",
+      "translated_vi": "“Hai người ra đây, cứ làm giống như cô ấy là được.”"
+    },
+    {
+      "para_id": "c0096p0041",
+      "index": 41,
+      "raw_zh": "一邊說著，一邊把這倆小日子的步槍和手雷收好，然後依舊躲在艙門側面。",
+      "translated_vi": "Vừa dặn dò, anh vừa nhanh tay thu dọn súng trường và lựu đạn của hai tên cướp biển, rồi lại tiếp tục nép mình vào bên cạnh cửa khoang."
+    },
+    {
+      "para_id": "c0096p0042",
+      "index": 42,
+      "raw_zh": "十五分鍾後，三個女生嗓子都啞了。",
+      "translated_vi": "Mười lăm phút sau, cả ba cô gái đều đã khản đặc cả giọng."
+    },
+    {
+      "para_id": "c0096p0043",
+      "index": 43,
+      "raw_zh": "甲板上四個放哨的看了看時間，其中兩個相視一眼，道：",
+      "translated_vi": "Bốn tên gác trên boong tàu nhìn đồng hồ, hai tên trong số đó liếc mắt nhìn nhau rồi bảo:"
+    },
+    {
+      "para_id": "c0096p0044",
+      "index": 44,
+      "raw_zh": "“超時了，喊他們出來！”",
+      "translated_vi": "“Quá giờ rồi, gọi chúng nó ra mau!”"
+    },
+    {
+      "para_id": "c0096p0045",
+      "index": 45,
+      "raw_zh": "倆人一起朝著艙門走去。",
+      "translated_vi": "Cả hai liền cùng nhau rảo bước tiến về phía cửa khoang."
+    },
+    {
+      "para_id": "c0096p0046",
+      "index": 46,
+      "raw_zh": "進來後，看得的場面那真是太熱鬧了，這倆家夥哈哈笑道：",
+      "translated_vi": "Bước vào trong, chứng kiến khung cảnh bên trong náo nhiệt tưng bừng đến thế, hai gã cười ha hả trêu chọc:"
+    },
+    {
+      "para_id": "c0096p0047",
+      "index": 47,
+      "raw_zh": "“混蛋，到時間了，頭兒會生氣的，趕緊滾回去放哨，到我們了。”",
+      "translated_vi": "“Mấy thằng khốn này, hết giờ rồi đấy! Đại ca mà nổi giận thì liệu hồn, cút mau ra ngoài gác để đến lượt bọn tao!”"
+    },
+    {
+      "para_id": "c0096p0048",
+      "index": 48,
+      "raw_zh": "話沒說完，就聽旁邊悶響，一個海盜已經瞪圓了眼珠倒在地上，另外一個因為是步槍，近距離不好用，於是動作迅捷熟練的掏出匕首，刺向雲千峰的胸口。",
+      "translated_vi": "Lời còn chưa dứt thì bên cạnh đã vang lên một tiếng trầm đục, một tên cướp biển trợn trừng hai mắt ngã lăn ra đất. Tên còn lại do cầm súng trường tầm gần khó xoay xở nên động tác cực kỳ mau lẹ, thuần thục rút phắt dao găm đâm thẳng vào ngực Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0096p0049",
+      "index": 49,
+      "raw_zh": "雲千峰直接用右手抓住刀尖，憑著右手的絕對力量，一下搶下了匕首，在那海盜張嘴要呼喊的那一刻，把刀尖反手插進了他的喉嚨。",
+      "translated_vi": "Vân Thiên Phong trực tiếp dùng bàn tay phải nắm chặt lấy mũi dao. Bằng vào sức mạnh tuyệt đối của cánh tay phải, anh giật phăng lưỡi dao găm trong chớp mắt. Ngay khoảnh khắc gã cướp há mồm định tri hô, anh đã trở tay cắm ngập mũi dao vào họng gã."
+    },
+    {
+      "para_id": "c0096p0050",
+      "index": 50,
+      "raw_zh": "那漂亮小夥子看到這一幕，低聲問道：",
+      "translated_vi": "Cậu thanh niên bảnh bao nhìn thấy cảnh tượng ấy, rụt rè hỏi nhỏ:"
+    },
+    {
+      "para_id": "c0096p0051",
+      "index": 51,
+      "raw_zh": "“到我喊了嗎？”",
+      "translated_vi": "“Đã đến lượt tôi kêu rên chưa?”"
+    },
+    {
+      "para_id": "c0096p0052",
+      "index": 52,
+      "raw_zh": "雲千峰搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu, đáp:"
+    },
+    {
+      "para_id": "c0096p0053",
+      "index": 53,
+      "raw_zh": "“誰也輪不到了，這種當他們不會上第三次，一定會覺察出問題，你們抓緊拿好武器，等會我出去以後，你們從聽到第一聲槍響開始，兩分鍾後衝出去，然後什麽都不要管，直接跳海，去你們的遊艇上，盡快逃離。”",
+      "translated_vi": "“Chẳng đến lượt ai nữa đâu. Cái bẫy này bọn chúng sẽ không mắc lừa lần thứ ba, chắc chắn sẽ phát hiện ra điều bất thường. Mọi người nhanh chóng cầm chắc vũ khí. Lát nữa tôi ra ngoài, các bạn căn đúng hai phút sau khi nghe thấy tiếng súng đầu tiên vang lên thì lập tức xông ra, không cần bận tâm bất cứ thứ gì khác, nhảy thẳng xuống biển rồi bơi sang du thuyền của mình mà trốn thoát càng nhanh càng tốt.”"
+    },
+    {
+      "para_id": "c0096p0054",
+      "index": 54,
+      "raw_zh": "說著，把海盜的腕表扔給幾個人，讓他們看時間。",
+      "translated_vi": "Nói đoạn, anh ném chiếc đồng hồ đeo tay của gã cướp biển cho mấy người bọn họ để tiện canh giờ."
+    },
+    {
+      "para_id": "c0096p0055",
+      "index": 55,
+      "raw_zh": "囑咐完，雲千峰整理了一下衣服，大搖大擺的走出艙門。",
+      "translated_vi": "Căn dặn xong xuôi, Vân Thiên Phong chỉnh trang lại quần áo, đàng hoàng sải bước ra khỏi cửa khoang."
+    },
+    {
+      "para_id": "c0096p0056",
+      "index": 56,
+      "raw_zh": "雲千峰走出來掃了一眼四周，然後立馬低下頭。",
+      "translated_vi": "Vân Thiên Phong bước ra ngoài, đảo mắt quét nhanh một vòng bốn bề rồi lập tức cúi gằm mặt xuống."
+    },
+    {
+      "para_id": "c0096p0057",
+      "index": 57,
+      "raw_zh": "這身衣服能讓他不會被馬上發現，但不能讓他們看到臉。",
+      "translated_vi": "Bộ quần áo này giúp anh không bị phát giác ngay tức khắc, nhưng tuyệt đối không thể để bọn chúng nhìn rõ khuôn mặt."
+    },
+    {
+      "para_id": "c0096p0058",
+      "index": 58,
+      "raw_zh": "只是一眼，他大概記住了那些海盜的位置。",
+      "translated_vi": "Chỉ bằng một cái liếc mắt chớp nhoáng, anh đã ghi nhớ đại khái vị trí của đám hải tặc."
+    },
+    {
+      "para_id": "c0096p0059",
+      "index": 59,
+      "raw_zh": "“兩個海盜在上面，八個在快艇上，一個在遊艇上，剩下的應該在主控室，那裡傳來一群人的笑聲。”",
+      "translated_vi": "“Hai tên gác ở tầng trên, tám tên ở dưới ca-nô cao tốc, một tên trên du thuyền, số còn lại chắc chắn đang tập trung trong phòng điều khiển trung tâm, đằng kia đang vọng ra tiếng cười đùa rôm rả của một đám người.”"
+    },
+    {
+      "para_id": "c0096p0060",
+      "index": 60,
+      "raw_zh": "他幾乎沒有任何遲疑，邁著看似悠閑的步子，直奔主控室而去。",
+      "translated_vi": "Anh gần như không chút chần chừ, cất bước điềm nhiên tự tại thẳng tiến về phía phòng điều khiển trung tâm."
+    },
+    {
+      "para_id": "c0096p0061",
+      "index": 61,
+      "raw_zh": "主控室是一扇鐵皮木門，內外帶著門栓，這種古老的門栓，不容易出故障，還結實，大部分老漁船都用這種橫栓。",
+      "translated_vi": "Phòng điều khiển lắp cánh cửa gỗ bọc sắt có then cài cả trong lẫn ngoài. Loại then cài cổ lỗ sĩ này rất khó hỏng hóc lại vô cùng chắc chắn, hầu hết tàu thuyền đánh cá cũ kỹ đều dùng then ngang kiểu này."
+    },
+    {
+      "para_id": "c0096p0062",
+      "index": 62,
+      "raw_zh": "來到門前，雲千峰就聽到裡面海盜頭子正在和人用衛星電話通話，說的是國語。",
+      "translated_vi": "Vừa tới trước cửa, Vân Thiên Phong liền nghe thấy giọng tên trùm cướp biển đang nói chuyện qua điện thoại vệ tinh với ai đó bằng tiếng Quan Thoại:"
+    },
+    {
+      "para_id": "c0096p0063",
+      "index": 63,
+      "raw_zh": "“你說什麽？右臂滿是鱗片紋身的人？我好像見過，被我關在了船艙牢房裡，我們的位置是維度”",
+      "translated_vi": "“Mày bảo sao? Kẻ có cánh tay phải xăm kín vảy rồng ư? Hình như tao thấy rồi, đang bị tao nhốt trong buồng giam dưới khoang thuyền! Vị trí của bọn tao là vĩ độ...”"
+    },
+    {
+      "para_id": "c0096p0064",
+      "index": 64,
+      "raw_zh": "雲千峰聽到這話，頓時心中一驚，知道那群家夥依舊沒有放棄圍捕自己，而且已經開始在海上布局。",
+      "translated_vi": "Nghe tới đó, trong lòng Vân Thiên Phong giật thót kinh hãi. Anh hiểu ngay ra rằng đám người kia vẫn chưa hề từ bỏ ý định vây bắt mình, thậm chí mạng lưới lùng sục đã giăng sẵn cả trên biển."
+    },
+    {
+      "para_id": "c0096p0065",
+      "index": 65,
+      "raw_zh": "他哪裡能容那海盜頭子繼續說下去，拽掉手雷的撞針，順著門縫滾進去，然後火速的關上主控室的門，用旁邊的鐵杠穿過外面的門栓，鎖住了門。",
+      "translated_vi": "Làm sao anh có thể để tên trùm nói tiếp được nữa! Vân Thiên Phong giật phắt chốt lựu đạn rồi men theo khe cửa lăn quả lựu đạn vào bên trong, kế đó đóng sầm cánh cửa phòng điều khiển lại với tốc độ ánh sáng, dùng thanh sắt bên cạnh luồn qua then cài bên ngoài khóa chặt cửa lại."
+    },
+    {
+      "para_id": "c0096p0066",
+      "index": 66,
+      "raw_zh": "主控室內，海盜頭子隻來得及說出維度，還沒等說經度，就驚叫著跳起來，一群人往門外逃。",
+      "translated_vi": "Bên trong phòng điều khiển, tên trùm cướp biển mới chỉ kịp đọc ra số vĩ độ chứ chưa kịp nói tới kinh độ thì đã hoảng loạn thét lên nhảy dựng người, cả đám cuống cuồng tháo chạy về phía cửa."
+    },
+    {
+      "para_id": "c0096p0067",
+      "index": 67,
+      "raw_zh": "雲千峰想都沒想，對著門就是一頓亂槍，不讓他們破門而出。",
+      "translated_vi": "Vân Thiên Phong chẳng thèm nghĩ ngợi, chĩa súng nã đạn xối xả vào cánh cửa, ngăn không cho bọn chúng phá cửa xông ra ngoài."
+    },
+    {
+      "para_id": "c0096p0068",
+      "index": 68,
+      "raw_zh": "“轟！”",
+      "translated_vi": "“Oành!”"
+    },
+    {
+      "para_id": "c0096p0069",
+      "index": 69,
+      "raw_zh": "手雷爆炸，那不大的空間，又沒有遮擋物，可以想象那些人的結果，鐵皮木門都扭曲變形得被崩飛出來。",
+      "translated_vi": "Lựu đạn phát nổ. Trong không gian chật hẹp lại chẳng hề có vật che chắn, kết cục của đám người bên trong thảm khốc đến mức nào có thể dễ dàng tưởng tượng được, ngay cả cánh cửa gỗ bọc sắt cũng bị sóng xung kích thổi bay, vặn vẹo biến dạng hoàn toàn."
+    },
+    {
+      "para_id": "c0096p0070",
+      "index": 70,
+      "raw_zh": "爆炸聲把放哨的兩個人吸引過來，與此同時，快艇上那些人也急忙靠近大船，手拿著槍圍著大船繞圈，尋找敵人所在。",
+      "translated_vi": "Tiếng nổ dữ dội lập tức thu hút hai tên lính gác còn lại lao tới. Cùng lúc đó, đám người dưới ca-nô cao tốc cũng hớt hải lái thuyền áp sát mạn tàu lớn, tay lăm lăm súng lượn vòng quanh để truy tìm tung tích kẻ địch."
+    },
+    {
+      "para_id": "c0096p0071",
+      "index": 71,
+      "raw_zh": "這海盜船本就不是很大，吃水後高度一般，快艇距離海盜船稍微有些距離，就能看到甲板上的一切。",
+      "translated_vi": "Con tàu hải tặc này vốn dĩ không quá to lớn, mớn nước khiến mạn thuyền có độ cao vừa phải, ca-nô chỉ cần lùi ra xa một khoảng là có thể nhìn rõ mồn một mọi thứ diễn ra trên boong."
+    },
+    {
+      "para_id": "c0096p0072",
+      "index": 72,
+      "raw_zh": "雲千峰看了看時間，已經過去三十秒，他必須立即解決那些快艇，否則秦疏影他們出來，都別想活命。",
+      "translated_vi": "Vân Thiên Phong liếc nhìn đồng hồ, ba mươi giây đã trôi qua. Anh buộc phải giải quyết đám ca-nô kia ngay lập tức, bằng không đợi khi nhóm Tần Sơ Ảnh xông ra thì đừng hòng có ai sống sót."
+    },
+    {
+      "para_id": "c0096p0073",
+      "index": 73,
+      "raw_zh": "“噠噠噠”槍聲響起，一艘快艇發現了雲千峰的蹤跡。",
+      "translated_vi": "“Tằng tằng tằng!” Tiếng súng chát chúa vang lên, một chiếc ca-nô đã phát hiện ra hành tung của Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0096p0074",
+      "index": 74,
+      "raw_zh": "雲千峰急忙撲倒，打著滾躲在建築的後面，左肩膀依舊被一顆子彈劃過，留下了一道血痕，然而剛轉過去就看到放哨那倆人的腳步聲在側面靠近。",
+      "translated_vi": "Vân Thiên Phong vội vàng đổ người lăn vòng sang nấp sau cabin, vai trái anh vẫn bị một viên đạn sượt qua để lại một vệt máu đỏ tươi. Thế nhưng vừa né sang góc khuất, anh đã nghe thấy tiếng bước chân dồn dập của hai tên lính gác đang ập tới bên sườn."
+    },
+    {
+      "para_id": "c0096p0075",
+      "index": 75,
+      "raw_zh": "雲千峰拽掉手雷撞針，猛投出去，直接扔在了前方一個疾馳的快艇之中。",
+      "translated_vi": "Vân Thiên Phong rút chốt một quả lựu đạn khác, dùng hết sức bình sinh ném vút ra ngoài, rơi trúng phóc vào bên trong một chiếc ca-nô đang phóng bạt mạng phía trước."
+    },
+    {
+      "para_id": "c0096p0076",
+      "index": 76,
+      "raw_zh": "那快艇上的人嚇呆了，他從沒見過一個人可以隨手把手雷扔這麽遠，而且這麽準。",
+      "translated_vi": "Kẻ trên ca-nô chết sững vì kinh hãi. Hắn chưa từng thấy ai có thể tiện tay ném lựu đạn đi xa mà lại chuẩn xác đến mức ấy."
+    },
+    {
+      "para_id": "c0096p0077",
+      "index": 77,
+      "raw_zh": "若是以前，雲千峰肯定做不到，但是現在這條右臂，做到這一點卻不難。",
+      "translated_vi": "Nếu là trước đây, Vân Thiên Phong chắc chắn không làm nổi, nhưng với cánh tay phải này hiện giờ, việc đó chẳng có gì khó khăn."
+    },
+    {
+      "para_id": "c0096p0078",
+      "index": 78,
+      "raw_zh": "扔了手雷後，前面危機暫時解除，他才背貼著牆壁，伸手一把拽住剛剛露出牆面的步槍槍管，順勢一拽，一個海盜踉蹌著前撲，被雲千峰左手順勢一槍送走。",
+      "translated_vi": "Ném lựu đạn xong, mối nguy phía trước tạm thời được gỡ bỏ, anh liền áp sát lưng vào vách tường, vươn tay chộp lấy nòng khẩu súng trường vừa mới thò ra khỏi mép tường. Mượn đà giật mạnh một cái, một tên cướp biển lảo đảo lao chúi về phía trước, lập tức bị tay trái của Vân Thiên Phong tiện đà bồi cho một phát súng tiễn thẳng về cõi chết."
+    },
+    {
+      "para_id": "c0096p0079",
+      "index": 79,
+      "raw_zh": "而此時，第二個放哨那人的手槍已經頂在了雲千峰身前。",
+      "translated_vi": "Đúng lúc này, họng súng ngắn của tên lính gác thứ hai đã dí sát ngay trước ngực Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0096p0080",
+      "index": 80,
+      "raw_zh": "雲千峰二話沒說，抬起右手，用手掌堵住了槍口，那行為讓那海盜臉上露出譏諷。",
+      "translated_vi": "Vân Thiên Phong chẳng nói chẳng rằng, giơ thẳng tay phải lên dùng lòng bàn tay bịt chặt lấy họng súng. Hành động ấy khiến khóe miệng gã hải tặc nhếch lên một nụ cười giễu cợt đầy vẻ mỉa mai."
+    },
+    {
+      "para_id": "c0096p0081",
+      "index": 81,
+      "raw_zh": "因為子彈會穿過手掌，然後擊斃雲千峰，海盜是這麽想的。",
+      "translated_vi": "Bởi vì viên đạn sẽ xuyên thủng bàn tay rồi bắn chết tươi Vân Thiên Phong — gã cướp biển đinh ninh nghĩ như vậy."
+    },
+    {
+      "para_id": "c0096p0082",
+      "index": 82,
+      "raw_zh": "槍響了。",
+      "translated_vi": "Tiếng súng nổ vang."
+    },
+    {
+      "para_id": "c0096p0083",
+      "index": 83,
+      "raw_zh": "感謝sophie-Y的打賞，感謝尾數18659和尾數58523的月票鼓勵，謝謝你們一直在！！！",
+      "translated_vi": "Chân thành cảm ơn món quà ủng hộ từ sophie-Y, cảm ơn sự khích lệ bằng phiếu tháng từ bạn đọc có số đuôi 18659 và 58523, cảm ơn các bạn vì đã luôn đồng hành!!!"
+    }
+  ]
+}

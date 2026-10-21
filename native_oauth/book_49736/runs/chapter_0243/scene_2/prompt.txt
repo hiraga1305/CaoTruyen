@@ -1,0 +1,82 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0243|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Cứ thế, một trước một sau đi ròng rã suốt mấy tiếng đồng hồ.
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §43):
+§1 [Ø=云千峰]每一次雲千峰回頭，都能看到薩弱跟在幾乎不變的距離位置上。
+§2 [Ø=云千峰]他累了坐下休息，薩弱就站在那一動不動看著自己。
+§3 [Ø=云千峰]自己一走，薩弱便即跟上，和影子似的。
+§4 [Ø=云千峰]跟習慣了，雲千峰便也不忐忑了，該幹嘛幹嘛。
+§5 [Ø=云千峰]上廁所，吃罐頭，嘗試喚醒昏迷的琳達。
+§6 [Ø=云千峰]薩弱就任憑雲千峰做任何事，不乾預， [||] 不出聲，就看著，包括上廁所。
+§7 [Ø=云千峰]隨著時間的推移，那河流越來越寬，生物也開始多種多樣。
+§8 [Ø=云千峰]抱著琳達的雲千峰正在趕路，突然聽到旁邊水響如雷，就好像什麽巨大的東西砸進了水中。
+§9 [Ø=云千峰]緊接著他聞到了一股腥風，那是食肉動物空腔的味道。
+§10 [Ø=云千峰]那味道如此濃厚，風聲如此之強，證明那動物體型非常龐大。
+§11 [Ø=云千峰]他正要躲閃，身後薩弱的翅膀卻震動起來，同時飛撲而至。
+§12 雲千峰心中大駭：
+§13 “原來她在等著一擊必殺我的機會！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§14 [Ø=云千峰]雲千峰必須做出選擇，就是對付身邊的這只看不見的巨大怪物，還是對付薩弱。
+§15 [Ø=云千峰]最終，他選擇對付薩弱。
+§16 [Ø=云千峰]動物捕食，是天道，而薩弱要殺自己，是因為他們本就是冤家。
+§17 [Ø=云千峰]於是他一咬牙，把琳達扔到遠處，盼望沒摔死就好。
+§18 [Ø=云千峰]然後猛一個虎撲，撲向薩弱，抱住了薩弱的腰，不給她攻擊自己腿部的機會。
+§19 [Ø=云千峰]然而，那隻怪物也衝到了手電的光照范圍。
+§20 那是一隻巨大的蠑螈。
+§21 [Ø=云千峰]形如蜥蜴，大如轎車，嘴巴張開， [||] 裡面全是嶙峋的尖牙，那巨大的口腔，能把老虎咬掉半邊。
+§22 [Ø=云千峰]而那張大嘴，正咬向雲千峰的雙腿。
+§23 “躲不開了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 [Ø=云千峰]眼看著那張大嘴已經含住了雲千峰腰部往下，只需要輕輕一合，雲千峰可以保證，自己就剩下一半了。
+§25 [Ø=云千峰]這一刻，雲千峰突然苦笑一聲，看著薩弱道：
+§26 “還不如便宜了你！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 [Ø=云千峰]這是真心話，因為他和薩弱之間，只是敵人，沒有仇恨。
+§28 [Ø=云千峰]雲千峰不討厭薩弱，只是必須殺她，僅此而已。
+§29 [Ø=云千峰]薩弱沒搭理雲千峰的廢話，而是做出了讓雲千峰完全無法理解的舉動。
+§30 [Ø=云千峰]因為薩弱竟然用雙腿蹬在了那巨大蠑螈的上下牙上，然後來了個瑜伽一字腿，硬生生的撐住了即將合上的大嘴，讓雲千峰幸免與難。
+§31 [Ø=云千峰]然後在雲千峰不解的目光下，將雲千峰使勁甩到了地上，似乎含著怒意。
+§32 [Ø=云千峰]在地上摔了夠嗆的雲千峰爬起來，就看到了非常暴虐的一幕。
+§33 [Ø=云千峰]就見薩弱騎在那蠑螈的腦袋上，用脂玉般的拳頭使勁砸下去。
+§34 一拳.兩拳十拳一百拳
+§35 [Ø=云千峰]拳如雨點，隻把那蠑螈砸得扁了，還不收手，似乎在發泄一股邪氣。
+§36 [Ø=云千峰]見實在沒有再打的位置，薩弱才慢悠悠走到水邊，清洗自己的雙手。
+§37 [Ø=云千峰]可能是發現自己身上也有那蠑螈迸射出的髒東西，於是薩弱旁若無人的解開了身上的皮衣。
+§38 [Ø=云千峰]藍色的發光的河水，映襯著一片雪白。
+§39 [Ø=云千峰]鷹翼輕動，薩弱就那麽飄入了上冷下熱的河水之中，對於水中可能存在的危險，根本毫不在意。
+§40 [Ø=云千峰]最有趣的是，薩弱在水裡一邊清洗，還一邊盯著雲千峰看，眼睛裡全是思索的痕跡。
+§41 [Ø=云千峰]“我守望者一族雖然不談愛情，但對於相配的人類， [||] 都會給予身體和生活上的幸福，雲千峰在我這裡得到了什麽？一秒鍾能得到什麽？既然不殺，那就給他公平！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§42 [Ø=云千峰]想到這，她突然飛出水面，一把抱著沒防備的雲千峰一起扎進了河水之中。
+§43 [Ø=云千峰]短暫的掙扎後，是水浪滔天
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 43 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§43. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

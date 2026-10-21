@@ -1,0 +1,523 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 121,
+  "title": "Chương 121: Sao chép",
+  "total_paragraphs": 85,
+  "translated_paragraphs": 85,
+  "source_hash": "be78fa5a7c6d641e8b9b21415ce17b6ee2c1e977628dade39532e2b8d12fcdb6",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0121p0001",
+      "index": 1,
+      "raw_zh": "第121章 複製",
+      "translated_vi": "Chương 121: Sao chép"
+    },
+    {
+      "para_id": "c0121p0002",
+      "index": 2,
+      "raw_zh": "這下雲千峰有點懵了。",
+      "translated_vi": "Lần này thì Vân Thiên Phong cũng phải ngẩn người."
+    },
+    {
+      "para_id": "c0121p0003",
+      "index": 3,
+      "raw_zh": "自己剛說是巧合安慰幾個女人，結果倒好，立馬又來倆。",
+      "translated_vi": "Anh vừa mới buông lời an ủi mấy cô gái rằng đó chỉ là sự trùng hợp, thì hay thật, đập ngay vào mắt lại là hai bộ xương nữa."
+    },
+    {
+      "para_id": "c0121p0004",
+      "index": 4,
+      "raw_zh": "這兩句枯骨依舊是彼此挨著，只不過是扭曲的躺在懸崖下方，骨骼完整，沒有暴力破壞的痕跡。",
+      "translated_vi": "Hai bộ hài cốt này vẫn nằm sát cạnh nhau như trước, có điều thân hình vặn vẹo nép dưới vách đá dựng đứng, xương cốt nguyên vẹn, không hề có bất kỳ dấu vết nào của sự phá hoại bởi ngoại lực hung bạo."
+    },
+    {
+      "para_id": "c0121p0005",
+      "index": 5,
+      "raw_zh": "一如之前，這兩具枯骨的死亡時間依舊相差甚遠，怕是也有幾十年的差距。",
+      "translated_vi": "Tương tự như lần trước, thời điểm tử vong của hai bộ hài cốt này cách nhau rất xa, e rằng cũng phải chênh lệch đến mấy mươi năm."
+    },
+    {
+      "para_id": "c0121p0006",
+      "index": 6,
+      "raw_zh": "這東西你要說是某種恐怖的祭祀儀式吧，每對枯骨的死亡時間相差太遠，根本不可能是同一時間來到這裡。",
+      "translated_vi": "Thứ này bảo là một nghi thức hiến tế rùng rợn nào đó ư, thế nhưng thời gian chết của từng cặp xương khô lại cách nhau quá xa, căn bản chẳng thể nào cùng một lúc đặt chân tới nơi này."
+    },
+    {
+      "para_id": "c0121p0007",
+      "index": 7,
+      "raw_zh": "但要說不是某種祭祀儀式，這一對一對的，死的也太巧了。",
+      "translated_vi": "Nhưng nếu bảo không phải nghi thức tế lễ, thì từng đôi từng cặp thế này chết cũng quá mức trùng hợp đi."
+    },
+    {
+      "para_id": "c0121p0008",
+      "index": 8,
+      "raw_zh": "四個人面對著這兩具枯骨，都是半晌沒說話沒邁步，心裡盤算著這到底是個什麽情況。",
+      "translated_vi": "Bốn người đứng trước hai bộ xương khô, hồi lâu chẳng ai thốt nên lời cũng chẳng dám nhấc chân bước tiếp, trong lòng ai nấy đều thầm phỏng đoán rốt cuộc đây là tình cảnh gì."
+    },
+    {
+      "para_id": "c0121p0009",
+      "index": 9,
+      "raw_zh": "千千顫聲道：",
+      "translated_vi": "Thiên Thiên run giọng bảo:"
+    },
+    {
+      "para_id": "c0121p0010",
+      "index": 10,
+      "raw_zh": "“這一定就是某種祭祀儀式，小說裡都那麽寫的，有些路人是無法通過的，必須用一條條人命獻祭才能走入其中。”",
+      "translated_vi": "“Nhất định là một nghi thức hiến tế nào đó rồi! Trong tiểu thuyết người ta toàn viết thế, có những con đường người bình thường không thể đi qua, bắt buộc phải dùng từng mạng người để tế lễ mới có thể tiến sâu vào trong.”"
+    },
+    {
+      "para_id": "c0121p0011",
+      "index": 11,
+      "raw_zh": "雲千峰拍了拍千千的肩膀，安撫道：",
+      "translated_vi": "Vân Thiên Phong vỗ nhẹ lên vai Thiên Thiên, cất lời trấn an:"
+    },
+    {
+      "para_id": "c0121p0012",
+      "index": 12,
+      "raw_zh": "“別自己嚇自己，眼前的情況的確詭異，但要說是祭祀這不合理。”",
+      "translated_vi": "“Đừng tự dọa mình. Tình hình trước mắt quả thực rất quái dị, nhưng bảo là hiến tế thì không hợp lý chút nào.”"
+    },
+    {
+      "para_id": "c0121p0013",
+      "index": 13,
+      "raw_zh": "秦疏影雖然自己也怕，但卻能控制那種情緒，她深呼吸一口氣，道：",
+      "translated_vi": "Tần Sơ Ảnh tuy trong lòng cũng sợ hãi, nhưng cô lại có thể kiềm chế được cảm xúc của bản thân. Cô hít sâu một hơi, tiếp lời:"
+    },
+    {
+      "para_id": "c0121p0014",
+      "index": 14,
+      "raw_zh": "“雲千峰說得對，這不應該是你們想象的那種邪惡祭祀，因為我們遇到的枯骨，男女死亡時間，間隔很長，這不符合祭祀的情況。”",
+      "translated_vi": "“Vân Thiên Phong nói đúng đấy. Đây chắc không phải loại nghi thức tà ác như các em tưởng tượng đâu, bởi vì những bộ hài cốt chúng ta bắt gặp, thời gian chết của nam và nữ cách nhau rất dài, điều này hoàn toàn trái ngược với quy luật tế lễ thông thường.”"
+    },
+    {
+      "para_id": "c0121p0015",
+      "index": 15,
+      "raw_zh": "張敏低聲道：",
+      "translated_vi": "Trương Mẫn hạ giọng phỏng đoán:"
+    },
+    {
+      "para_id": "c0121p0016",
+      "index": 16,
+      "raw_zh": "“會不會是第一次走過這裡的時候，那些人獻祭了男人，於是第二次走過這裡，就必須獻祭女人？給這些靈魂配對？怕祂們孤單。”",
+      "translated_vi": "“Hay là lần đầu tiên đi ngang qua đây, họ đã tế một người đàn ông, rồi đến lần thứ hai đi qua lại buộc phải tế thêm một người phụ nữ? Để ghép đôi cho các linh hồn ấy? Vì sợ họ cô đơn chăng?”"
+    },
+    {
+      "para_id": "c0121p0017",
+      "index": 17,
+      "raw_zh": "雲千峰和秦疏影相視一眼，突然覺得，大條的張敏這次說的，似乎很有道理。",
+      "translated_vi": "Vân Thiên Phong cùng Tần Sơ Ảnh đưa mắt nhìn nhau, bỗng cảm thấy cô nàng Trương Mẫn vốn vô tư bộp chộp lần này nói dường như lại rất có lý."
+    },
+    {
+      "para_id": "c0121p0018",
+      "index": 18,
+      "raw_zh": "千千和張敏也看向雲千峰，那意思很簡單，第一次獻祭男的，第二次獻祭女的，那麽他們這算第三波，怕是又要獻祭男人了。",
+      "translated_vi": "Thiên Thiên và Trương Mẫn cũng đồng loạt nhìn về phía Vân Thiên Phong, ngụ ý quá đỗi rõ ràng: lần đầu tế đàn ông, lần thứ hai tế phụ nữ, vậy thì nhóm bọn họ tính là đợt thứ ba, e rằng lại phải hiến tế một người đàn ông rồi."
+    },
+    {
+      "para_id": "c0121p0019",
+      "index": 19,
+      "raw_zh": "而這裡，只有雲千峰一個男人。",
+      "translated_vi": "Mà ở nơi này, chỉ có duy nhất một người đàn ông là Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0121p0020",
+      "index": 20,
+      "raw_zh": "雲千峰後背也有點發麻，忙點了根煙，狠狠的吸了一口，道：",
+      "translated_vi": "Sống lưng Vân Thiên Phong cũng có chút tê rần, anh vội châm một điếu thuốc, rít mạnh một hơi rồi nói:"
+    },
+    {
+      "para_id": "c0121p0021",
+      "index": 21,
+      "raw_zh": "“甭管怎麽回事，這島內的東西我是一定要拿到手的，如果真的這裡邪門到必須有人死才能通過，我不會讓你們犧牲的，我自己來。”",
+      "translated_vi": "“Mặc kệ là chuyện quái quỷ gì, thứ đồ trong hòn đảo này tôi nhất định phải lấy được bằng mọi giá. Nếu như nơi này thật sự tà môn đến mức bắt buộc phải có người bỏ mạng mới qua được, tôi tuyệt đối sẽ không để các cô phải hy sinh, cứ để tôi tự lo liệu.”"
+    },
+    {
+      "para_id": "c0121p0022",
+      "index": 22,
+      "raw_zh": "三女幾乎齊聲道：",
+      "translated_vi": "Cả ba cô gái gần như đồng thanh kêu lên:"
+    },
+    {
+      "para_id": "c0121p0023",
+      "index": 23,
+      "raw_zh": "“我們是擔心伱！”",
+      "translated_vi": "“Bọn em là đang lo lắng cho anh đấy!”"
+    },
+    {
+      "para_id": "c0121p0024",
+      "index": 24,
+      "raw_zh": "雲千峰心裡一熱，笑道：",
+      "translated_vi": "Trong lòng Vân Thiên Phong dâng lên một luồng ấm áp, anh cười nói:"
+    },
+    {
+      "para_id": "c0121p0025",
+      "index": 25,
+      "raw_zh": "“那就更不要多想了，拿到那東西，我活下去的概率才最大，我應該把你們留在艦船裡的。”",
+      "translated_vi": "“Thế thì càng không cần nghĩ ngợi nhiều. Lấy được thứ đó, cơ hội sống sót của tôi mới là cao nhất. Đáng lẽ tôi nên để các cô ở lại trên tàu chiến mới phải.”"
+    },
+    {
+      "para_id": "c0121p0026",
+      "index": 26,
+      "raw_zh": "三女齊齊搖頭。",
+      "translated_vi": "Ba cô gái đồng loạt lắc đầu nguầy nguậy."
+    },
+    {
+      "para_id": "c0121p0027",
+      "index": 27,
+      "raw_zh": "秦疏影道：",
+      "translated_vi": "Tần Sơ Ảnh nói:"
+    },
+    {
+      "para_id": "c0121p0028",
+      "index": 28,
+      "raw_zh": "“那和把我們留在海灘上有什麽區別？那些人若是真的追著你來了，我們躲在艦船裡又有什麽用？我們又不能像孫倩那樣徹底隱藏起來。”",
+      "translated_vi": "“Làm vậy thì có khác gì bỏ mặc chúng tôi ngoài bờ biển? Nếu đám người kia thật sự đuổi theo cậu tới đây, chúng tôi trốn trên tàu chiến thì có ích gì chứ? Chúng tôi đâu thể nào ẩn mình tuyệt đối như Tôn Thiến được.”"
+    },
+    {
+      "para_id": "c0121p0029",
+      "index": 29,
+      "raw_zh": "千千也點頭，道：",
+      "translated_vi": "Thiên Thiên cũng gật đầu phụ họa:"
+    },
+    {
+      "para_id": "c0121p0030",
+      "index": 30,
+      "raw_zh": "“是啊，跟著你危險百分百，我們已經知道了，也接受了，總比留下來百分之五十死要好。”",
+      "translated_vi": "“Đúng vậy, đi theo anh tuy đối mặt nguy hiểm trăm phần trăm nhưng chúng em đã biết rõ và chấp nhận rồi, dù sao vẫn tốt hơn là ở lại chịu năm mươi phần trăm cái chết.”"
+    },
+    {
+      "para_id": "c0121p0031",
+      "index": 31,
+      "raw_zh": "張敏拍了雲千峰肩膀一下，仰頭道：",
+      "translated_vi": "Trương Mẫn vỗ vai Vân Thiên Phong một cái, ngẩng đầu quả quyết:"
+    },
+    {
+      "para_id": "c0121p0032",
+      "index": 32,
+      "raw_zh": "“女人也是講義氣的，真要是過不去這個坎，咱們黃泉路上也有個伴，我是絕對相信靈魂存在的，就你這麽猛，當鬼了也能護著我們不被欺負。”",
+      "translated_vi": "“Phụ nữ cũng trọng nghĩa khí lắm đấy. Nếu thật sự chẳng thể vượt qua kiếp nạn này thì trên đường xuống hoàng tuyền chúng ta cũng có bạn có bè. Tôi tuyệt đối tin rằng linh hồn có thật, anh dũng mãnh thế này thì dù có biến thành ma cũng đủ sức che chở cho bọn tôi không bị ai ức hiếp.”"
+    },
+    {
+      "para_id": "c0121p0033",
+      "index": 33,
+      "raw_zh": "幾個人互相打氣，把恐懼驅散出心中，眼裡又有了光。",
+      "translated_vi": "Mấy người cùng cổ vũ lẫn nhau, xua tan nỗi sợ hãi trong lòng, trong mắt lại rực lên niềm tin và ánh sáng."
+    },
+    {
+      "para_id": "c0121p0034",
+      "index": 34,
+      "raw_zh": "眸子裡有光的人，從面相上說，運氣都不會太差。",
+      "translated_vi": "Người mà trong đáy mắt còn giữ được ánh sáng, xét về mặt tướng số thì vận may thông thường chẳng bao giờ quá tệ."
+    },
+    {
+      "para_id": "c0121p0035",
+      "index": 35,
+      "raw_zh": "幾個人打起精神，繼續大步前行。",
+      "translated_vi": "Mọi người xốc lại tinh thần, tiếp tục sải bước tiến về phía trước."
+    },
+    {
+      "para_id": "c0121p0036",
+      "index": 36,
+      "raw_zh": "一路上又遇到了幾次一對一對的枯骨，只不過他們最多掃上一眼，都不會停駐一步，就那麽直接路過而去，全然不知自己錯過了多次可以發現這裡可怕的機會。",
+      "translated_vi": "Suốt dọc đường, họ lại bắt gặp thêm mấy đợt xương khô xếp thành từng đôi từng cặp, có điều bọn họ chỉ liếc qua nhiều nhất là một ánh mắt chứ chẳng hề dừng chân lấy một bước, cứ thế lướt thẳng qua, hoàn toàn không hay biết mình đã bỏ lỡ biết bao cơ hội để sớm nhận ra sự kinh hoàng tột độ của nơi này."
+    },
+    {
+      "para_id": "c0121p0037",
+      "index": 37,
+      "raw_zh": "這樣一直走到傍晚時分，這崖隙內的黑天來的更早，也更加漆黑。",
+      "translated_vi": "Cứ thế đi mãi cho tới lúc chập tối, màn đêm nơi hẻm núi sâu thăm thẳm này buông xuống sớm hơn hẳn, và cũng tăm tối, ngột ngạt hơn nhiều."
+    },
+    {
+      "para_id": "c0121p0038",
+      "index": 38,
+      "raw_zh": "太陽下都那麽陰暗，更別說月亮，無論月亮多麽努力，都無法把光傳遞到這崖隙的底部來。",
+      "translated_vi": "Ban ngày dưới ánh mặt trời đã âm u mờ mịt như thế, huống chi là trăng sao; dù vầng trăng có cố gắng đến nhường nào cũng chẳng thể nào rọi nổi một tia sáng le lói xuống tận đáy vực sâu này."
+    },
+    {
+      "para_id": "c0121p0039",
+      "index": 39,
+      "raw_zh": "四個人走到眼前完全無法視物，才不得不停下腳步。",
+      "translated_vi": "Bốn người bước đi cho đến lúc trước mắt hoàn toàn tối om không còn nhìn thấy bất cứ thứ gì mới bất đắc dĩ phải dừng chân."
+    },
+    {
+      "para_id": "c0121p0040",
+      "index": 40,
+      "raw_zh": "雲千峰在背簍裡掏出之前在艦船內搜刮的，裝白糖的玻璃瓶。",
+      "translated_vi": "Vân Thiên Phong thò tay vào trong gùi, lôi ra chiếc lọ thủy tinh đựng đường cát trắng mà trước đó anh đã vơ vét được từ trên tàu chiến."
+    },
+    {
+      "para_id": "c0121p0041",
+      "index": 41,
+      "raw_zh": "此時，這個圓柱形的玻璃瓶裡已經沒有了白糖，而是放滿了乳白色的油脂，白糖都被雲千峰用樹葉包裹著存放在背簍裡。",
+      "translated_vi": "Lúc này, chiếc lọ thủy tinh hình trụ tròn kia đã không còn đường cát nữa mà chứa đầy lớp mỡ màu trắng sữa, toàn bộ số đường trắng đều đã được Vân Thiên Phong dùng lá cây bọc kỹ lưỡng cất sâu trong gùi."
+    },
+    {
+      "para_id": "c0121p0042",
+      "index": 42,
+      "raw_zh": "這些油脂都是那野驢的脂肪，當時雲千峰特意把野驢體內不多的白色脂肪放在這個玻璃罐內，然後用篝火隔著熏熱，直到把油脂內的水分盡量蒸乾，再在裡面埋了一根草纖維擰的細繩，凝固在油脂的中間位置。",
+      "translated_vi": "Chỗ mỡ này đều là mỡ lấy từ con lừa rừng. Khi đó Vân Thiên Phong đã cố ý gom chút mỡ trắng ít ỏi bên trong con lừa cho vào lọ thủy tinh này, rồi hơ nóng cách lửa trại cho tới khi nước trong mỡ bốc hơi cạn kiệt, sau đó vùi một sợi dây mảnh bện từ xơ cỏ vào chính giữa khối mỡ đông."
+    },
+    {
+      "para_id": "c0121p0043",
+      "index": 43,
+      "raw_zh": "雲千峰用孫倩幫他灌好油的打火機點燃了油脂中央的草繩，這就成了照明的蠟燭。",
+      "translated_vi": "Vân Thiên Phong dùng chiếc bật lửa mà Tôn Thiến đã bơm đầy xăng giúp anh để châm lửa vào sợi dây cỏ ở giữa hũ mỡ, biến nó thành ngọn nến soi đường."
+    },
+    {
+      "para_id": "c0121p0044",
+      "index": 44,
+      "raw_zh": "脂肪內的水分並沒有完全蒸乾，火苗燃燒起來的時候，會有輕微的劈啪聲響，讓火苗閃爍不定，但總算是沒有熄滅，而且照亮了他們周圍兩三米的空間。",
+      "translated_vi": "Lượng nước trong mỡ vẫn chưa bốc hơi hoàn toàn, nên khi ngọn lửa bùng lên thi thoảng lại phát ra những tiếng lách tách khe khẽ khiến ánh lửa chập chờn lay động, nhưng rốt cuộc vẫn không bị dập tắt, đủ sức chiếu sáng khoảng không gian chừng hai ba mét xung quanh họ."
+    },
+    {
+      "para_id": "c0121p0045",
+      "index": 45,
+      "raw_zh": "四個人圍著火燭，靠著之前烤熟的驢肉果腹，飯後互相做伴在稍遠處方便了一下後，乾草擦拭讓他們的谷道非常難受，一個個走路姿勢怪異的回到火光處，彼此緊緊挨著並排躺著睡下。",
+      "translated_vi": "Bốn người vây quanh ngọn nến, ăn chỗ thịt lừa nướng chín từ trước để lót dạ. Sau bữa ăn, họ rủ nhau đi xa một quãng để giải quyết nỗi buồn; việc dùng cỏ khô lau chùi khiến hậu môn của ai nấy đều vô cùng khó chịu, từng người với dáng đi kỳ quặc lần lượt trở lại bên ánh lửa, nép sát vào nhau nằm song song mà ngủ."
+    },
+    {
+      "para_id": "c0121p0046",
+      "index": 46,
+      "raw_zh": "這一次，他們換了一個睡覺的方式，那就是把草裙和草馬甲都鋪在地上，然後用驢皮當被子蓋。",
+      "translated_vi": "Lần này, họ đổi một cách ngủ mới: trải cả váy cỏ lẫn áo gi lê cỏ xuống nền đất, sau đó dùng tấm da lừa đắp lên làm chăn."
+    },
+    {
+      "para_id": "c0121p0047",
+      "index": 47,
+      "raw_zh": "雖然沒有篝火，卻也勉強能抗過去。",
+      "translated_vi": "Dù không có đống lửa sưởi ấm, nhưng làm vậy cũng miễn cưỡng chống chọi qua được cái lạnh thấu xương."
+    },
+    {
+      "para_id": "c0121p0048",
+      "index": 48,
+      "raw_zh": "尤其是幾個人互相緊緊挨著，共享體溫，極大的保存了他們身體的熱量。",
+      "translated_vi": "Nhất là khi mấy người nép chặt lấy nhau san sẻ hơi ấm cơ thể, nhiệt lượng được bảo toàn tối đa."
+    },
+    {
+      "para_id": "c0121p0049",
+      "index": 49,
+      "raw_zh": "雲千峰抱著柔弱無骨的秦疏影，彼此壓抑著那份衝動，緩緩睡沉。",
+      "translated_vi": "Vân Thiên Phong ôm lấy Tần Sơ Ảnh mềm mại tựa không xương, cả hai cùng kìm nén thứ cảm xúc rạo rực trong lòng rồi dần chìm sâu vào giấc ngủ."
+    },
+    {
+      "para_id": "c0121p0050",
+      "index": 50,
+      "raw_zh": "這一覺睡得很實誠，竟然一覺到天明。",
+      "translated_vi": "Giấc ngủ này vô cùng say nồng, chẳng ngờ cứ thế một mạch ngủ thẳng tới hừng đông."
+    },
+    {
+      "para_id": "c0121p0051",
+      "index": 51,
+      "raw_zh": "真要感謝這張老大的野驢皮，為他們擋住了最多的風寒。",
+      "translated_vi": "Quả thực phải cảm tạ tấm da lừa rừng to lớn này, nó đã giúp họ ngăn cản phần lớn gió lạnh sương đêm."
+    },
+    {
+      "para_id": "c0121p0052",
+      "index": 52,
+      "raw_zh": "然而醒來後，他們睜目第一眼看到的東西，卻讓他們開心不起來。",
+      "translated_vi": "Thế nhưng sau khi tỉnh giấc, thứ đầu tiên lọt vào tầm mắt lại khiến họ chẳng thể nào vui vẻ nổi."
+    },
+    {
+      "para_id": "c0121p0053",
+      "index": 53,
+      "raw_zh": "昨晚天色太黑，伸手不見五指，雖然後來有了燭火，但是也照不遠。",
+      "translated_vi": "Đêm qua trời quá đỗi mịt mù, giơ tay không thấy năm ngón, dẫu sau đó có thêm ngọn lửa nến nhưng cũng chẳng thể soi chiếu được bao xa."
+    },
+    {
+      "para_id": "c0121p0054",
+      "index": 54,
+      "raw_zh": "此時此刻天明，他們才看見，就在他們睡覺的旁邊三四米處，幾乎同樣角度和姿勢躺著一具枯骨。",
+      "translated_vi": "Giờ phút này trời đã sáng rõ, họ mới kinh hãi nhận ra, ngay bên cạnh chỗ họ nằm ngủ chừng ba bốn mét đang có một bộ xương khô nằm với tư thế và góc độ gần như y hệt."
+    },
+    {
+      "para_id": "c0121p0055",
+      "index": 55,
+      "raw_zh": "這個不爽的情景，卻有著一個好消息，那就是這不是一對枯骨，終於有了變化。",
+      "translated_vi": "Cảnh tượng chẳng mấy dễ chịu này lại ẩn chứa một tin tức tốt lành: đó là nơi đây không phải một cặp xương khô nữa, rốt cuộc đã có sự biến chuyển."
+    },
+    {
+      "para_id": "c0121p0056",
+      "index": 56,
+      "raw_zh": "“雲，這次只有一具枯骨。”",
+      "translated_vi": "“Vân, lần này chỉ có một bộ xương khô thôi.”"
+    },
+    {
+      "para_id": "c0121p0057",
+      "index": 57,
+      "raw_zh": "雲千峰點頭道：",
+      "translated_vi": "Vân Thiên Phong gật đầu bảo:"
+    },
+    {
+      "para_id": "c0121p0058",
+      "index": 58,
+      "raw_zh": "“看看去。”",
+      "translated_vi": "“Lại xem thử thế nào.”"
+    },
+    {
+      "para_id": "c0121p0059",
+      "index": 59,
+      "raw_zh": "既然有了變化，那就值得研究一番。",
+      "translated_vi": "Một khi đã xuất hiện sự khác biệt thì rất đáng để nghiên cứu kỹ lưỡng."
+    },
+    {
+      "para_id": "c0121p0060",
+      "index": 60,
+      "raw_zh": "這具屍骨身上的衣服質量一定很好，竟然還能分辨出原本的顏色。",
+      "translated_vi": "Chất lượng y phục trên bộ thi cốt này hẳn là rất tốt, bởi đến tận giờ vẫn có thể phân biệt được màu sắc nguyên bản."
+    },
+    {
+      "para_id": "c0121p0061",
+      "index": 61,
+      "raw_zh": "那是一身黑的短襠褲和緊身短袍，典型的中世紀歐洲勞動者裝束。",
+      "translated_vi": "Đó là một bộ quần đũng ngắn cùng áo choàng ngắn bó sát màu đen tuyền, trang phục điển hình của giới lao động Châu Âu thời Trung Cổ."
+    },
+    {
+      "para_id": "c0121p0062",
+      "index": 62,
+      "raw_zh": "這具屍骨身上也圍著一個羊皮圍裙，上面紋著圓規矩尺和一只看起來蔑視一切的眼睛。",
+      "translated_vi": "Trên thân thể bộ xương này cũng thắt một chiếc tạp dề da cừu, phía trên có thêu hoa văn com-pa, thước góc cùng một con mắt mang vẻ khinh miệt hết thảy mọi thứ trên đời."
+    },
+    {
+      "para_id": "c0121p0063",
+      "index": 63,
+      "raw_zh": "雲千峰沒客氣，看那羊皮保存極好，就幾把扯下來，用手打了打上面的塵土和屍體腐爛粘在上面的黑色浸染，卷一卷放進背包，等到下次有水洗一洗，就多了一件衣服。",
+      "translated_vi": "Vân Thiên Phong chẳng hề khách sáo, thấy tấm da cừu còn nguyên vẹn nên giật mạnh mấy cái tháo xuống, dùng tay phủi sạch bụi bặm cùng những vệt đen do thi thể thối rữa bám vào, cuộn tròn lại nhét vào ba lô; đợi lần tới tìm được nguồn nước đem giặt sạch là có thêm một manh áo để mặc."
+    },
+    {
+      "para_id": "c0121p0064",
+      "index": 64,
+      "raw_zh": "羊皮圍裙扯下來後，伴隨著“咣當”一聲，卻是有物墜地。",
+      "translated_vi": "Khi chiếc tạp dề da cừu được giật xuống, kèm theo một tiếng “loảng xoảng”, có vật gì đó rơi xuống đất."
+    },
+    {
+      "para_id": "c0121p0065",
+      "index": 65,
+      "raw_zh": "秦疏影見那東西幾乎滾到自己腳邊，忙舒展蛇腰，附身撿起來。",
+      "translated_vi": "Tần Sơ Ảnh thấy vật kia lăn tới sát chân mình, liền uốn cong vòng eo mềm mại như rắn, cúi người nhặt lên."
+    },
+    {
+      "para_id": "c0121p0066",
+      "index": 66,
+      "raw_zh": "這樣簡單的動作，都帶著一抹風情。",
+      "translated_vi": "Động tác dù đơn giản đến đâu qua thân hình cô cũng toát lên vẻ phong tình quyến rũ khó cưỡng."
+    },
+    {
+      "para_id": "c0121p0067",
+      "index": 67,
+      "raw_zh": "“雲，是石匠會的戒指，而且帶著數字。”",
+      "translated_vi": "“Vân, là nhẫn của Hội Thợ Đá, lại còn có khắc số nữa.”"
+    },
+    {
+      "para_id": "c0121p0068",
+      "index": 68,
+      "raw_zh": "雲千峰接過秦疏影遞過來的戒指，仔細看了看，果然在戒指除了正面的圓規矩尺眼睛，在相對的後面還有一個羅馬數字Ⅸ。",
+      "translated_vi": "Vân Thiên Phong đón lấy chiếc nhẫn từ tay Tần Sơ Ảnh, chăm chú quan sát, quả nhiên ngoài mặt chính khắc hình com-pa, thước góc và con mắt, ở mặt đối diện phía sau còn có một chữ số La Mã IX."
+    },
+    {
+      "para_id": "c0121p0069",
+      "index": 69,
+      "raw_zh": "不懂就問，雲千峰看出來秦疏影似乎知道這個數字的含義，於是問道：",
+      "translated_vi": "Không hiểu thì hỏi, Vân Thiên Phong nhận ra Tần Sơ Ảnh dường như biết ý nghĩa của con số này, liền lên tiếng:"
+    },
+    {
+      "para_id": "c0121p0070",
+      "index": 70,
+      "raw_zh": "“數字有什麽說法嗎？”",
+      "translated_vi": "“Con số này có lai lịch gì sao chị?”"
+    },
+    {
+      "para_id": "c0121p0071",
+      "index": 71,
+      "raw_zh": "秦疏影點了點頭，道：",
+      "translated_vi": "Tần Sơ Ảnh khẽ gật đầu, giải thích:"
+    },
+    {
+      "para_id": "c0121p0072",
+      "index": 72,
+      "raw_zh": "“嗯，石匠會最核心的成員永遠只有33人，數字越大等級越高，33號也就是石匠會的真正領袖，這個人是九號，地位已經很高了，雖然我們不知道她是誰，但可以肯定，這個女人在歷史上一定留有名字。”",
+      "translated_vi": "“Ừm, thành viên cốt cán nhất của Hội Thợ Đá vĩnh viễn chỉ có ba mươi ba người. Con số càng lớn thì cấp bậc càng cao, người mang số 33 chính là thủ lĩnh thực sự của hội. Người này mang số 9, địa vị vốn đã vô cùng hiển hách rồi. Tuy chúng ta không biết bà ấy là ai, nhưng có thể dám chắc người phụ nữ này trong lịch sử nhất định có tên tuổi lưu danh.”"
+    },
+    {
+      "para_id": "c0121p0073",
+      "index": 73,
+      "raw_zh": "這是一具女人的屍骨，秦疏影只是掃了一眼髖骨，便很確定。",
+      "translated_vi": "Đây là một bộ hài cốt phụ nữ, Tần Sơ Ảnh chỉ cần liếc qua phần xương chậu là có thể khẳng định chắc nịch."
+    },
+    {
+      "para_id": "c0121p0074",
+      "index": 74,
+      "raw_zh": "張敏疑惑道：",
+      "translated_vi": "Trương Mẫn nghi hoặc hỏi:"
+    },
+    {
+      "para_id": "c0121p0075",
+      "index": 75,
+      "raw_zh": "“雲千峰，這女人的枯骨手裡，怎麽攥著一塊石頭？”",
+      "translated_vi": "“Vân Thiên Phong, trong tay bộ xương người phụ nữ này sao lại nắm chặt một hòn đá thế kia?”"
+    },
+    {
+      "para_id": "c0121p0076",
+      "index": 76,
+      "raw_zh": "雲千峰注目過去，果然看到那枯骨的右手掌撫在一塊勉強一手握住的黑石頭上面。",
+      "translated_vi": "Vân Thiên Phong nhìn chăm chú vào, quả nhiên thấy bàn tay phải của bộ xương khô đang úp chặt lên một khối đá đen vừa vặn trong lòng bàn tay."
+    },
+    {
+      "para_id": "c0121p0077",
+      "index": 77,
+      "raw_zh": "不用想也能看出來，那隻手在死前，一定是緊緊握著那塊普通的石頭。",
+      "translated_vi": "Chẳng cần nghĩ ngợi cũng đoán ra được, bàn tay kia trước lúc lâm chung nhất định đã nắm chặt lấy hòn đá tầm thường ấy."
+    },
+    {
+      "para_id": "c0121p0078",
+      "index": 78,
+      "raw_zh": "雲千峰抽出海軍刀，把那黑石頭撥弄到一邊，就看到黑石頭下面似乎還有碎石，但卻不是黑色，而是泛白的青色石頭。",
+      "translated_vi": "Vân Thiên Phong rút thanh dao găm quân nhu ra, gạt hòn đá đen sang một bên, liền trông thấy bên dưới hòn đá đen dường như còn có những mảnh đá vụn, nhưng không phải màu đen mà là những mảnh đá màu xanh pha ánh trắng."
+    },
+    {
+      "para_id": "c0121p0079",
+      "index": 79,
+      "raw_zh": "仔細撥弄旁邊的塵土，發現這樣的青色碎石還有不少濺射在四周，很顯然這個人死前，用手裡的黑石頭砸碎了一塊青色的石頭。",
+      "translated_vi": "Cẩn thận gạt bỏ lớp bụi đất xung quanh, anh phát hiện loại đá vụn màu xanh này còn văng tung tóe ra xung quanh khá nhiều. Rõ ràng trước khi chết, người này đã dùng hòn đá đen trong tay đập nát một khối đá màu xanh ngọc."
+    },
+    {
+      "para_id": "c0121p0080",
+      "index": 80,
+      "raw_zh": "雲千峰撿起一塊，放在手裡看了看：",
+      "translated_vi": "Vân Thiên Phong nhặt lên một mảnh vỡ, đặt vào lòng bàn tay ngắm nghía:"
+    },
+    {
+      "para_id": "c0121p0081",
+      "index": 81,
+      "raw_zh": "“是玉石，可惜沒辦法知道砸碎前是什麽樣子了，這女人把這玉石砸的粉碎。”",
+      "translated_vi": "“Là ngọc thạch. Tiếc là không có cách nào biết được trước khi vỡ nát nó có hình dạng ra sao, người phụ nữ này đã đập nát vụn khối ngọc này rồi.”"
+    },
+    {
+      "para_id": "c0121p0082",
+      "index": 82,
+      "raw_zh": "說著，海軍刀撥弄開枯骨身上覆蓋的衣服殘留，露出了裡面的枯骨，雲千峰是想看看這個有地位的人物身上還有沒有藏著寶貝，然而什麽都沒有，衣服裡面只是枯骨。",
+      "translated_vi": "Vừa nói, anh vừa dùng lưỡi dao gạt những mảnh vụn quần áo còn sót lại trên bộ xương, để lộ ra khung xương bên trong. Vân Thiên Phong vốn muốn xem thử nhân vật có địa vị thế này trên người liệu có còn giấu bảo bối gì nữa không, nào ngờ chẳng có lấy một thứ gì, bên trong lớp vải chỉ toàn là xương trắng."
+    },
+    {
+      "para_id": "c0121p0083",
+      "index": 83,
+      "raw_zh": "也就是這時，秦疏影的眼睛看呆了，臉上滿是不可思議和驚恐的表情，她顫聲道：",
+      "translated_vi": "Đúng vào khoảnh khắc ấy, ánh mắt Tần Sơ Ảnh bỗng sững sờ ngây dại, nét mặt tràn ngập vẻ khó tin và kinh hãi cùng cực, cô run rẩy thốt lên:"
+    },
+    {
+      "para_id": "c0121p0084",
+      "index": 84,
+      "raw_zh": "“不，這不可能，怎麽會這樣，這具屍骨我們之前就見過.”",
+      "translated_vi": "“Không... chuyện này không thể nào... Sao lại như thế được, bộ hài cốt này trước đó chúng ta từng nhìn thấy rồi...”"
+    },
+    {
+      "para_id": "c0121p0085",
+      "index": 85,
+      "raw_zh": "感謝藍是黑、瑟斯凱、Demo233的月票鼓勵，謝謝你們一如既往的支持，感激！！！！！！！！！",
+      "translated_vi": "Chân thành cảm ơn sự khích lệ bằng phiếu tháng từ Lam Thị Hắc, Serskai, Demo233, cảm ơn sự ủng hộ trước sau như một của các bạn, vô cùng cảm kích!!!!!!!!!"
+    }
+  ]
+}

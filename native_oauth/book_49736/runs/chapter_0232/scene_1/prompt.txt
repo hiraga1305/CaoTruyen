@@ -1,0 +1,80 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0232|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|三枚|ba viên
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §39):
+§1 232.第232章 答案
+§2 第232章 答案
+§3 雲千峰喜提叔叔尊稱。
+§4 [Ø=云千峰]也不知道是因為琳達覺得倆人以後相依為命，關系更親密了，還是琳達覺得雲千峰這人太過危險，叫上叔叔避免受傷。
+§5 [Ø=云千峰]面對琳達的提問，雲千峰裹著羽絨服，半閉著眼睛道：
+§6 [Ø=云千峰]“因為手表。特工的手表都是戴在右手的，比如我們熟知的普帝；而狙擊手的手表一定是戴在左手，表盤放在脈搏處的。
+§7 [Ø=云千峰]雖然平時也有人這樣戴手表，但絕對是極少數， [||] 更別提這樣戴著手表的兩個人湊在一起，還是在人煙稀少的南極，沒有鬼才是怪事。
+§8 [Ø=云千峰]加之他們連最緊要的醫療箱在哪都要翻找那麽久，很顯然對那間屋子並不熟悉，而且他們翻了那麽久， [||] 也沒想過去別的房間看看，這就更古怪，可能那些房間根本不能打開，因為裡面有屍體或者是觸發式炸彈。”
+§9 [Ø=云千峰]琳達此時才恍然大悟，歎道：
+§10 [Ø=云千峰]“原來你那個時候就知道那裡的工作人員可能全都死了，也猜到那裡有炸彈，叔叔，你是做什麽的？你也是特工嗎？能一眼看穿敵人把戲。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=云千峰]雲千峰摸了摸兜裡的三枚[M1:ba viên]銅錢，沉思了片刻，道：
+§12 [Ø=云千峰]“我是搞哲學的，而且我也不厲害，到現在我也不明白，他們為什麽要雞犬不留， [||] 因為在我們看來那並沒有什麽意義，但我相信這個行為對他們來說一定是有意義的，而且意義很大，否則他們不會做的那麽徹底。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 [Ø=云千峰]雲千峰猜不到，琳達更猜不到。
+§14 [Ø=云千峰]見雲千峰打開了那包1916，給自己點燃了一根，琳達忙道：
+§15 [Ø=云千峰]“給我也來一根，吸煙了就不怕煙嗆。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§16 [Ø=云千峰]在給琳達點煙的時候，琳達看到了煙盒上的那一行字。
+§17 [Ø=云千峰]“叔叔，歷史的長度——初心，這是什麽意思？對方為什麽要帶著這樣一包煙，是想臨死前吸一根嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§18 [Ø=云千峰]雲千峰看著煙盒，沉聲道：
+§19 [Ø=云千峰]“1916不是我吸過的最好的煙，但卻是一切詭異的開始， [||] 對我來說意義非凡，那些人非常了解我，這煙應該就是給我準備的。
+§20 [Ø=云千峰]他們要殺我，但卻非常尊重我，甚至內心對我是友好的。”
+§21 [Ø=云千峰]琳達這才明白，為什麽雲千峰不讓她扒掉屍體的衣服，堅持給他們尊嚴，因為這是相互的。
+§22 [Ø=云千峰]“那，那句話是送給伱的嗎？叔叔。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 雲千峰沉思道：
+§24 [Ø=云千峰]“我不知道，但應該是。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 [Ø=云千峰]琳達開著車，吸著煙，不解的說道：
+§26 “人的初心和歷史的長度有什麽關系呢？毫無關系的事物啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 雲千峰沉聲道：
+§28 [Ø=云千峰]“不是一個人的初心，是一個文明的初心，這個初心決定了一個文明的長度，也就是歷史的長度。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 [Ø=云千峰]沒有任何民族，能夠像華夏人一樣，更適合說出這樣一句話。
+§30 [Ø=云千峰]看到琳達還是一臉懵，雲千峰就繼續道：
+§31 “你們的初心是什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§32 [Ø=云千峰]琳達不假思索，理所應當道：
+§33 [Ø=云千峰]“信仰侍奉帝，洗去生而有罪，得升天堂。每個種族文明不都是這樣的嗎？你們華夏也有西方極樂世界東方極樂世界，不是嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 雲千峰笑道：
+§35 [Ø=云千峰]“當極樂世界變成了複數，就證明它不是一個文明的根，因為根只能有一個。
+§36 [Ø=云千峰]你說的你們，那的確是你們的初心， [||] 但你有沒有發現，你們的初心本身就是在給自己找借口？走不下去的借口，失敗的借口。”
+§37 [Ø=云千峰]琳達拒絕回答這個問題，因為這觸碰了她的信仰，於是她反問道：
+§38 “那你們的初心是什麽呢？不是借口嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 雲千峰淡淡道：
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 39 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§39. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

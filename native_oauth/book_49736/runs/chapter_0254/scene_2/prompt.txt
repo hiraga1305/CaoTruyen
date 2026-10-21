@@ -1,0 +1,79 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0254|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|"'Đuôi báo răng hổ, giỏi tiếng hú dài, tóc xõa cài thắng ngọc', nếu Tây Vương Mẫu thực sự là một mỹ nhân tuyệt sắc nghiêng nước nghiêng thành, vậy thì câu miêu tả này phải giải thích ra sao đây?"
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §40):
+§1 [Ø=云千峰]白妹子一拿出這遝資料，雲千峰就已經猜到了白妹子要說什麽，當下隨意道：
+§2 “是薩滿！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§3 [Ø=云千峰]聽到雲千峰的話，白妹子打了一個響指，仰臉道：
+§4 [Ø=云千峰]“沒錯，這就是薩滿的打扮，哪怕現在民間的薩滿， [||] 在跳大神的時候，也還是這樣的裝扮，所以西王母是個極美的薩滿。
+§5 [Ø=云千峰]更確切來說，應該是個苯教的神。”
+§6 苯是最古老的神靈信仰。
+§7 [Ø=云千峰]可以這麽說，天下的所有Z教，都是苯演化而來。
+§8 [Ø=云千峰]其中F教，YD教，YT和民間的薩滿，更是苯直系演化而成。
+§9 [Ø=云千峰]道教雖然一樣古老，而且吸納了苯信仰裡的一些神的名號，但兩者卻不是一個源頭。
+§10 [Ø=云千峰]道教裡雖然現在有偶像信仰，但其根源不是來自信仰，而是來自哲學。
+§11 這是它與這個世界上其它Z教最大的區別。
+§12 [Ø=云千峰]白妹子的分析，將西王母的長相問題完美解決，也就是以山海經為根基是沒錯的。
+§13 然後雲千峰拋出了第二個問題。
+§14 [Ø=云千峰]“下一個問題，西王母和示巴女王是不是一個人。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 [Ø=云千峰]這兩者在古老典籍的記載上，有著太多的相似之處，確定倆人是不是一個人的目的，是為了確定西王母居住的大概位置。
+§16 [Ø=云千峰]如果按照西方古籍記載，推演結果，示巴女王應該是在古埃及附近。
+§17 [Ø=云千峰]但如果按照山海經記載，西王母則是在雪區范圍內。
+§18 [Ø=云千峰]按平涼府古跡考記，則應該是在回中山。
+§19 [Ø=云千峰]所以區分示巴女王和西王母，是確定其大概位置范圍的必過關卡。
+§20 [Ø=云千峰]而這，也是最難考據的一個問題。
+§21 [Ø=云千峰]按理說這兩者之間必然相距甚遠，但偏偏二者的記載，在世界各地典籍裡，相似性太大。
+§22 [Ø=云千峰]比如山海經記載，周穆王在其即位後，西征千裡去見西王母，帳暖三日。
+§23 [Ø=云千峰]還有舊S經記載，所羅門在其即位後，西征去見示巴女王，同樣也是三日。
+§24 [Ø=云千峰]偏偏周穆王和所羅門的生卒年極為接近，也就是說， [||] 這倆人一個去見西王母，一個去見示巴女王，幾乎是在同一個時間段。
+§25 白妹子思索道：
+§26 [Ø=云千峰]“或許我們完全可以不思考這個問題，隻用西王母的資料來尋找西王母，這不是更簡單？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 [Ø=云千峰]雲千峰搖了搖頭，道：
+§28 [Ø=云千峰]“首先，我必須非常準確的確定西王母的所在地，因為我時間有限，而且沒有容錯率。
+§29 [Ø=云千峰]其次，我們必須以曾經盤古大陸的文化格局為根源來思考這件事，那樣才能更準確。
+§30 [Ø=云千峰]周穆王和所羅門的年代，是帝嚳之後，那時候已經是接近當今的陸地格局， [||] 帝嚳也已經對當時的天下進行了分封，但那個時候的人類，記憶的根源還是盤古大陸的文化格局，他們那個年代應該還沒有完全忘記那些真實的神話。
+§31 [Ø=云千峰]所以不排除二者所見是一個人，那麽就要對西王母的所在地進行其它佐證才可以。”
+§32 旁邊一個金發小哥思索道：
+§33 “那我們可不可以換一個思路呢？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 雲千峰忙問道：
+§35 “什麽思路？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 [Ø=云千峰]那小哥沉吟了一下，道：
+§37 [Ø=云千峰]“我是剛剛發現一個問題，您知道的，字母文字只有表音的功能， [||] 也就是所有的字母文字，都是延續了古代某個事物的發音，而不是華夏文字這樣能表達形意。
+§38 [Ø=云千峰]所以，所羅門可能是個名字，也可能是個稱呼，西方沒有人知道所羅門的真正含義， [||] 我們只是有這樣發音的記憶，而且因為字母文字的演變，發音會有一些改變，畢竟口音哪裡都會有。
+§39 [Ø=云千峰]我的華夏語不是很好，因為我的發音問題， [||] 所以呢我剛剛看了一下周穆王的全名，他叫周穆滿，和我念所羅門時的發音幾乎一樣。
+§40 [Ø=云千峰]所以我們可不可以換個思路，不去考慮西王母和示巴女王， [||] 而是考慮所羅門和周穆滿會不會是一個人，那樣的話，答案就會變得更加唯一。”
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 40 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§40. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

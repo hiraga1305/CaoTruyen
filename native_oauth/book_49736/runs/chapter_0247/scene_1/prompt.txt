@@ -1,0 +1,82 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0247|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §43):
+§1 247.第247章 雪人的象形交流
+§2 第247章 雪人的象形交流
+§3 [Ø=云千峰]琳達撲到雲千峰身上的時候，才想起來這是自殺。
+§4 [Ø=云千峰]但是一切都已經來不及，她能做的，就是盡可能的拚一下。
+§5 [Ø=云千峰]於是她傻乎乎的用雙手扒拉雲千峰身上的白色雪人，企圖將雲千峰救出來。
+§6 [Ø=云千峰]但是卻引火燒身，立即有幾隻雪人爬到了她的身上，尋孔而入。
+§7 “啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 [Ø_SHIFT=姜柔甲]琳達一聲慘叫，卻是已經中招，劈著腿跳將起來，照著屁股下面一頓拍。
+§9 [Ø=姜柔甲]就在琳達驚呼“要死啦”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]的時候，奇跡卻出現了。
+§10 [Ø=姜柔甲]那些鑽進她體內的雪人突然安靜了下來，緊接著竟然掉頭跑了出去，帶著拉絲跑出去的。
+§11 琳達一愣心討：“莫非我有趨避雪人的體質？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§12 [Ø=姜柔甲]還沒等細想，雲千峰身上彌漫的雪人呼啦一下全都散開， [||] 露出了全身青麟細紋，頭如獸，帶雙角的雲千峰。
+§13 [Ø=姜柔甲]那些雪人退避，已經鑽到雲千峰嘴巴、耳朵和體內的雪人，也慌不擇路的逃竄而出， [||] 然後回歸白墳般的雪人，立在那裡，無數的眼睛看著雲千峰。
+§14 琳達竟然在雪人身上感覺到了一絲嚴肅。
+§15 “它們在立正敬禮？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§16 [Ø=姜柔甲]只不過這些雪人的注目禮，都是盯著雲千峰的肚子。
+§17 [Ø=姜柔甲]在那裡，有著全知之眼。
+§18 [Ø=姜柔甲]一千雙甚至更多的眼睛一起流淚的場面，在這時候出現了。
+§19 [Ø=姜柔甲]甚至於那些雪人還能發出“吱吱吱”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]般的摩擦聲，那是它們的哭聲，如泣如訴。
+§20 [Ø=姜柔甲]雲千峰在鬼門關跑了一圈，嚇得魂不守舍， [||] 好一會才緩過神來，除了屁股疼，倒是沒有其它後遺症。
+§21 [Ø=姜柔甲]但見那密密麻麻的眼睛盯著自己的肚子哭，心中哪裡還能不明白，於是驚訝道：
+§22 “你們是巫！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 [Ø=姜柔甲]巫的後裔從未被殺絕，之前在木塔空間內救自己的人首蛇身怪物，也是巫。
+§24 [Ø=姜柔甲]那些雪人很明顯聽不懂雲千峰說什麽，但是這難不倒雲千峰。
+§25 [Ø=姜柔甲]語言不通很正常，幾千上萬年的演變， [||] 口音早就變了，古字音和現代的發音完全不通，徹底的不同。
+§26 [Ø=姜柔甲]但有一樣東西永遠不會變，無論時間怎麽延續，這個星球最本源文明誕生的方式不會變，那就是象形取義。
+§27 [Ø=姜柔甲]於是雲千峰在地上，用手指蘸水，寫了兩個交叉成十字的工字。
+§28 [Ø=姜柔甲]那很像佛學裡的卍字，但在象形字裡，那是巫字最原始的模樣。
+§29 [Ø=姜柔甲]雪人看到了雲千峰在地上寫下的符號，無數雙眼睛上下鼓動，肯定了這個答案。
+§30 [Ø=姜柔甲]“天呐，你們竟然真的是巫！史前巫族的生物科技到底多強大，能夠創造出這麽多可怕詭異的生物。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=姜柔甲]雲千峰有些驚訝，同時明白了為什麽自己可以不死。
+§32 [Ø=姜柔甲]那是因為自己浮現了蚩尤的模樣，而體內還有全知之眼。
+§33 自己是巫王。
+§34 [Ø=姜柔甲]那些雪人散落地上數十個，快速的擺出了一個圖形符文。
+§35 [Ø=姜柔甲]那是一個“丫”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]的形狀，好似樹枝。
+§36 [Ø=姜柔甲]雲千峰知道，這是雪人在和自己交流。
+§37 於是直接以象形字的取意思維猜測這符文的含義。
+§38 [Ø=姜柔甲]“樹杈狀，但絕不是樹杈，否則會有修飾，這就是簡單的裂紋， [||] 對了，這是火燒龜甲的裂紋，是“卜”[Q1:姜柔甲->云千峰|state:COURTEOUS|tone:thăm dò, lễ tiết]字，雪人在詢問我未來。
+§39 [Ø=姜柔甲]不，它不可能找我算命，它問的應該是，以後怎麽辦！”
+§40 雲千峰猜對了。
+§41 [Ø=姜柔甲]思索片刻，雲千峰以指蘸水，在地上畫了一個人的嘴巴， [||] 在嘴巴下面又畫了幾條線，這幾條線畫的很慢，而且一根比一根長。
+§42 [Ø=姜柔甲]這是甲骨文的“須”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]字，象形就是人的胡須， [||] 但取其意為“等待”[Q2:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]，等一個人成長變強，長出胡須過程就代表一個男人的成長。
+§43 [Ø=姜柔甲]在畫圖符的時候，雲千峰還盡量讓自己眼神之中蘊藏著無比自信的神色。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 43 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§43. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

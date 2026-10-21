@@ -1,0 +1,80 @@
+{
+  "book_id": "cz_s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "author": "林八八八",
+  "author_vi": "Lâm Bát Bát Bát",
+  "genre": "URBAN_SUSPENSE_MYSTERY",
+  "czbooks_url": "https://czbooks.net/n/s6p7bb",
+  "characters": {
+    "云千峰": "Vân Thiên Phong",
+    "姜柔甲": "Khương Nhu Giáp",
+    "秦疏影": "Tần Sơ Ảnh",
+    "罗琳娜": "La Lâm Na",
+    "小神经": "Tiểu Thần Kinh"
+  },
+  "entities_metadata": [
+    {
+      "zh": "云千峰",
+      "vi": "Vân Thiên Phong",
+      "gender": "M",
+      "pronoun": "hắn",
+      "role": "Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử",
+      "disposition": "Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm"
+    },
+    {
+      "zh": "姜柔甲",
+      "vi": "Khương Nhu Giáp",
+      "gender": "F",
+      "pronoun": "nàng",
+      "role": "Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới",
+      "disposition": "Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định"
+    }
+  ],
+  "pronoun_rules": [
+    {
+      "src": "云千峰",
+      "dst": "姜柔甲",
+      "relation": "COURTEOUS_MODERN",
+      "speaker_pronoun": "tôi",
+      "listener_pronoun": "cô",
+      "tone": "ôn hòa, tỉnh táo, chuyên nghiệp"
+    },
+    {
+      "src": "姜柔甲",
+      "dst": "云千峰",
+      "relation": "COURTEOUS_MODERN",
+      "speaker_pronoun": "tôi",
+      "listener_pronoun": "anh",
+      "tone": "run rẩy, khẩn thiết, tuyệt vọng cầu cứu"
+    }
+  ],
+  "terms": {
+    "三钱济世": "Tam Tiền Tế Thế",
+    "三錢濟世": "Tam Tiền Tế Thế",
+    "无间地狱": "Vô Gian Địa Ngục",
+    "無間地獄": "Vô Gian Địa Ngục",
+    "九江城": "thành Cửu Giang",
+    "八里湖": "hồ Bát Lý",
+    "八里湖畔": "bên bờ hồ Bát Lý",
+    "八裡湖畔": "bên bờ hồ Bát Lý",
+    "祝由术": "Chúc Do thuật",
+    "祝由術": "Chúc Do thuật",
+    "正骨": "nắn xương",
+    "推拿": "xoa bóp",
+    "家电维修": "sửa đồ điện",
+    "家電維修": "sửa đồ điện",
+    "卦中阴阳卜祸福，天命可改": "Quẻ trong âm dương bói họa phúc, thiên mệnh xoay vần ắt chuyển dời",
+    "卦中陰陽卜禍福，天命可改": "Quẻ trong âm dương bói họa phúc, thiên mệnh xoay vần ắt chuyển dời",
+    "测字": "chiết tự",
+    "測字": "chiết tự",
+    "潘": "chữ 'Phan'",
+    "缸中之脑": "não trong thùng (brain in a vat)",
+    "缸中之腦": "não trong thùng (brain in a vat)",
+    "真人真我": "chân nhân chân ngã",
+    "智慧菩提": "trí tuệ Bồ Đề",
+    "超弦物理": "vật lý siêu dây",
+    "量子物理": "vật lý lượng tử",
+    "神棍": "thầy bói bịp / kẻ bịp bợm"
+  }
+}

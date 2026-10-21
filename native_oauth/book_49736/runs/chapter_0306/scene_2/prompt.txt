@@ -1,0 +1,138 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0306|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §99):
+§1 [Ø=云千峰]我們可以在不傷害薩弱的情況下把他帶回來，重新幫助他回歸完整，你們該清楚， [||] 女性守望者是祂的忌諱，而忌諱一定會引來祂，甚至引來末世。
+§2 [Ø=云千峰]若這世界再次被大洪水淹沒，再次被無數的火流星焚燒，那我們的回歸又有什麽意義？沒有了這美麗的世界， [||] 沒有了溫柔的女人，沒有了人類的血肉美食，這個世界還有什麽值得眷戀？
+§3 [Ø=云千峰]去把她帶回來，把我們忠誠彼此的夥伴薩弱帶回來，拯救他，拯救我們喜愛的世界。”
+§4 旁邊一個四翼守望者低頭道：
+§5 [Ø=云千峰]“可是.主早晚會來的，末日也一定會來，祂不會允許我們這樣存在。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§6 西姆扎斯冷笑道：
+§7 [Ø=云千峰]“不，只要我們做好準備，祂來才是最好的，我們高貴的靈魂上，本就不該存在枷鎖， [||] 這也是我為什麽和祂，和地獄的王合作的原因，按照我說的做吧，夥伴們，這個世界最終是我們的.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 [Ø=云千峰]一個未知的世界，這裡一片空白。
+§9 [Ø=云千峰]是的，空白。
+§10 [Ø=云千峰]沒有漆黑，也沒有白色，什麽都沒有。
+§11 雲千峰就在這團虛無當中。
+§12 [Ø=云千峰]他猶如夢魘般墜落著，似乎永遠沒有盡頭。
+§13 [Ø=云千峰]失重感讓他很想上廁所，但是他根本看不到自己是否還存在排泄的管道。
+§14 [Ø=云千峰]突然，腳下亮起了光，顏色出現了。
+§15 [Ø=云千峰]那時一片草地，幾乎看不到邊界。
+§16 [Ø=云千峰]上面零星的開著黃色和白色的野花，還沒有指甲蓋大，倒是不少蝴蝶飛舞在花叢上，比花朵還大還美。
+§17 [Ø=云千峰]在這平攤的草地上，有一棵樹，似乎目光所及之處，只有這一棵。
+§18 [Ø=云千峰]樹不高，只有五六米的模樣，樹冠下剛好夠一個人躲避閃耀的日頭。
+§19 [Ø=云千峰]雲千峰自見到光那一刻，便身處在這棵樹下，不知如何來，不知為何來。
+§20 [Ø=云千峰]他抬頭看了一眼，念叨著：
+§21 [Ø=云千峰]“哦，是一棵榆樹，怎麽不是菩提樹呢？為什麽要是榆樹呢？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 [Ø=云千峰]言語之中很是失落，感覺有點沒面子。
+§23 [Ø=云千峰]菩提樹下，那時佛陀頓悟成佛之地，那時智慧的樹。
+§24 榆樹呢？雲千峰只能想到榆木疙瘩。
+§25 [Ø=云千峰]好吧，這棵榆樹上，就有很多榆木疙瘩。
+§26 [Ø=云千峰]雲千峰看著這恬靜美麗的景色，深深的吸了一口氣，似乎才想起了極重要的事情，自言自語道：
+§27 [Ø=云千峰]“哦，我是誰？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 [Ø=云千峰]他的話音未落，在旁邊，極近的地方，同樣也響起了這樣的自問：
+§29 [Ø=云千峰]“哦，我是誰？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§30 [Ø=云千峰]兩者都聽到了對方的聲音，同時回身繞著樹乾看過去。
+§31 [Ø=云千峰]原來這倆人分別在不高但粗的樹乾前後，此時才看到彼此。
+§32 “你是？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 [Ø=云千峰]“哦，你自然不知道的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 倆人又是一模一樣的話。
+§35 [Ø=云千峰]雲千峰看到眼前這個人個子不高，腰身很細， [||] 但是臀腿很結實，尤其是腰臀處，像個葫蘆一樣。
+§36 [Ø=云千峰]這無疑是個很漂亮的女生，除了額頭那細細的弦月圖案有些怪異，但反而平添了一絲異樣的美，很神秘的感覺。
+§37 [Ø=云千峰]兩個對人生履歷完全空白的人相視一笑，很自然的並排坐在了樹根之下。
+§38 [Ø=云千峰]似乎他們完全不想知道這裡是什麽地方，也沒想過去尋找一個方向，尋找一個目標，比如說找到食物和飲水活下去。
+§39 [Ø=云千峰]他們沒有，就那麽淡然的坐在樹下，欣賞著美景，心無外物。
+§40 [Ø=云千峰]那女人側臉看著雲千峰，笑道：
+§41 [Ø=云千峰]“你額頭的圖案好有趣，好像一彎新月，也像一條彎彎的小船。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§42 [Ø=云千峰]雲千峰一愣，笑道：
+§43 “我也有嗎？你也有啊。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 [Ø=云千峰]那小女生難以置信的摸著自己的額頭，向著雲千峰的臉部靠近，竟然是用雲千峰的眸子當鏡子，看自己的額頭。
+§45 [Ø=云千峰]“啊，還真的有，我們的一模一樣， [||] 哦，不對，方向是相反的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§46 雲千峰笑道：
+§47 “上弦月和下弦月吧？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§48 那女人道：
+§49 “為什麽不是滿月呢？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§50 [Ø=云千峰]雲千峰想都沒想，隨口道：
+§51 [Ø=云千峰]“因為贏不可久，越完美的東西越短暫，而缺憾才是永恆的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§52 “為什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§53 [Ø=云千峰]“因為缺憾才有變化的余地，完滿沒有， [||] 完滿變化了，就一定是缺憾，更大的缺憾。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§54 [Ø=云千峰]那女人似有所悟，點了點頭道：
+§55 [Ø=云千峰]“是啊，過猶不及，滿溢是大過，還不如不圓滿的缺憾。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§56 雲千峰笑著淡淡道：
+§57 [Ø=云千峰]“當然啊，有余地才能更好，而不是追求最好，這也是為什麽退一步海闊天空。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§58 [Ø=云千峰]那女人樂了，道：
+§59 “人為的製造余地嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§60 [Ø=云千峰]雲千峰點了點頭，道：
+§61 [Ø=云千峰]“對啊，那是智慧。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§62 “不是懦弱嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§63 “當然不是。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§64 “那若是退無可退呢？還怎麽辦？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§65 [Ø=云千峰]“從沒有退無可退，因為這個世界是圓的，你總會退到他的身後，他就完了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§66 [Ø=云千峰]那女人點了點頭，沉吟道：
+§67 [Ø=云千峰]“你是對的，有余地的缺憾才是永恆，這個世界本就不存在完美。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§68 [Ø=云千峰]雲千峰搖頭，笑道：
+§69 [Ø=云千峰]“不，這個世界存在完美，完美在人心裡，是靜止的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§70 [Ø=云千峰]那女人會心一笑，身影就好像花香一樣， [||] 緩緩飄散，化成彩色的光點，消融在這個世界裡。
+§71 [Ø=云千峰]而就在那女人消失後那一刻，一個奇怪的身影朝著雲千峰走過來。
+§72 [Ø=云千峰]祂長著人的身體，但是極為壯碩， [||] 腦袋看起來好像一個狗頭，耳朵尖尖的豎起老高，好似兩個犄角。
+§73 [Ø=云千峰]祂來到雲千峰身邊，用滿是疑惑的眼神看著雲千峰，問道：
+§74 [Ø=云千峰]“你是怎麽勸走她的？我勸了幾千年，或者是幾萬年，亦或是更久，但她固執的尋找完美。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§75 [Ø=云千峰]面對這個詭異的東西，雲千峰似乎一點也不知道害怕，而是回憶了一下，搖頭笑道：
+§76 [Ø=云千峰]“不是我勸走的，是她找到了完美的答案。哦對了，你是誰？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§77 那狗頭人也搖頭道：
+§78 [Ø=云千峰]“我也不知道我是誰，這裡是隔絕曾經記憶的地方，是我設計的，我準備用這裡做一件很重要的事情。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§79 雲千峰好奇的問道：
+§80 “是什麽大事？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§81 [Ø=云千峰]狗頭人攤手，苦笑道：
+§82 [Ø=云千峰]“在這裡，我當然不記得啦！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§83 [Ø=云千峰]雲千峰深有同感，沉吟道：
+§84 “那我們一起出去想一想？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§85 [Ø=云千峰]狗頭人點頭，道：
+§86 “該當如此。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§87 [Ø=云千峰]然後雲千峰就盯著狗頭人看，把狗頭人看得有些不自在。
+§88 “你你這樣看我幹什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§89 雲千峰理所當然道：
+§90 [Ø=云千峰]“等你帶著我出去啊，這是你創造的地方。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§91 [Ø=云千峰]狗頭人一攤手，理所當然道：
+§92 “我當然是忘記怎麽走出去啦！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§93 [Ø=云千峰]不惱不躁，倆人一起望天長歎一口氣，並排坐在了大樹之下
+§94 [Ø=云千峰]感謝你是聽書客還是故中人，葬愛丶橫渠，雪熠， [||] 書友尾數49307，淺淺丶空凌，易曉天i的打賞，謝謝你們的支持！！！
+§95 [Ø=云千峰]感謝，帝寧丶2020，雲飛揚2017，MR_cao，一曲終生，大貓二貓三貓，不愛xy，Echo_Cherish，zhi止，為啥不改名，落發，徐海還，青燈不歸客I，伊厄，Ayr丶LIEBE，破壞分子b，雲*_cB，夜螺螄，浦西王子，楊智剛，春致，憂鬱的生活方式，甲申由JuStYou，彌勒-兔斯基，天天書荒君，書友尾數04288， [||] 36690，27274，35417，08825，31648，48859，48540，16233，15843，35677，05914，43177，41249，18869，20225，20819，28758，45429，29461，49884，08100，49401，07732，2428_ed，的月票獎勵，謝謝你們的支持！！！
+§96 今天是一個大章。
+§97 [Ø=云千峰]不用擔心卡文會不完整，我知道後面的所有邏輯，但我沒找到下手的地方，卡在這裡了~~~
+§98 祝大家好夢！！！
+§99 晚安！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 99 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§99. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

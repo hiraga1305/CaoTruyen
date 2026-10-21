@@ -1,0 +1,469 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 81,
+  "title": "Chương 81: Vương hủy Chu khế",
+  "total_paragraphs": 76,
+  "translated_paragraphs": 76,
+  "source_hash": "0c06bcb3016319722122ae711f1c3ed05b0ad1025a402c95832021406406f311",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0081p0001",
+      "index": 1,
+      "raw_zh": "第81章 王毀周契",
+      "translated_vi": "Chương 81: Vương hủy Chu khế"
+    },
+    {
+      "para_id": "c0081p0002",
+      "index": 2,
+      "raw_zh": "只看抬起來輕飄飄的，就知道這應該是一具屍體。",
+      "translated_vi": "Chỉ cần thấy nhấc lên nhẹ bẫng thế này, liền biết đây hẳn là một cỗ thi thể."
+    },
+    {
+      "para_id": "c0081p0003",
+      "index": 3,
+      "raw_zh": "而這種環境下，最適合培養乾屍。",
+      "translated_vi": "Mà trong điều kiện môi trường như thế này, lại là nơi thích hợp nhất để tạo thành xác ướp khô."
+    },
+    {
+      "para_id": "c0081p0004",
+      "index": 4,
+      "raw_zh": "不出所料，借著洞口的微光，雲千峰驗明正身，乾屍一具。",
+      "translated_vi": "Quả nhiên không ngoài dự đoán, nhờ vào chút ánh sáng lờ mờ hắt vào từ cửa động, Vân Thiên Phong đã kiểm chứng rõ ràng: đúng là một xác khô."
+    },
+    {
+      "para_id": "c0081p0005",
+      "index": 5,
+      "raw_zh": "石室內光線昏暗，雲千峰叫朱柏龍搭手，倆人把乾屍小心翼翼的抬出石室。",
+      "translated_vi": "Trong thạch thất ánh sáng lờ mờ, Vân Thiên Phong gọi Chu Bách Long qua phụ một tay, hai người cẩn thận từng li từng tí khiêng cái xác khô ra bên ngoài gian phòng đá."
+    },
+    {
+      "para_id": "c0081p0006",
+      "index": 6,
+      "raw_zh": "到了光線清晰的地方，他們才算看清楚這屍體的模樣。",
+      "translated_vi": "Ra đến nơi sáng sủa rõ ràng hơn, họ mới nhìn tỏ tường diện mạo của cỗ thi hài này."
+    },
+    {
+      "para_id": "c0081p0007",
+      "index": 7,
+      "raw_zh": "這人須發皆長，身穿玄衣纁裳，若不是面皮青黑，恐怕只有仙風道骨能形容。",
+      "translated_vi": "Người này râu tóc đều dài, trên người vận huyền y huân thường, nếu không phải vì làn da đã ngả màu xanh đen khô quắt, thì e rằng chỉ có bốn chữ tiên phong đạo cốt mới đủ để hình dung."
+    },
+    {
+      "para_id": "c0081p0008",
+      "index": 8,
+      "raw_zh": "其身背長超八十厘米的青銅長劍，劍莖長約二十厘米，是典型的雙手劍，劍上以金文陰刻“九屠”兩字，想來可能是這劍的名字。",
+      "translated_vi": "Trên lưng người đó đeo một thanh trường kiếm thanh đồng dài hơn tám mươi phân, chuôi kiếm dài chừng hai mươi phân, là kiểu kiếm hai tay điển hình. Thân kiếm khắc chìm hai chữ kim văn “Cửu Đồ”, ngẫm lại rất có thể đây chính là tên của thanh kiếm."
+    },
+    {
+      "para_id": "c0081p0009",
+      "index": 9,
+      "raw_zh": "維多利亞古董玩的最多，她仔細看了一會，斷言道：",
+      "translated_vi": "Victoria là người sành đồ cổ nhất, cô quan sát tỉ mỉ một lúc rồi quả quyết khẳng định:"
+    },
+    {
+      "para_id": "c0081p0010",
+      "index": 10,
+      "raw_zh": "“玄衣纁裳是典型的秦朝服飾，青銅雙手劍也是秦人才有，這應該是個秦朝時期的人，而且一定是一個搏殺的高手。”",
+      "translated_vi": "“Huyền y huân thường là trang phục điển hình của thời nhà Tần, kiếm thanh đồng hai tay cũng chỉ người Tần mới dùng, đây hẳn là một nhân vật sống vào thời Tần, hơn nữa nhất định là một cao thủ cận chiến chém giết cự phách.”"
+    },
+    {
+      "para_id": "c0081p0011",
+      "index": 11,
+      "raw_zh": "佩戴單手長劍的，可能是個書生，但是佩戴雙手劍的，無一例外肯定是高手，因為雙手劍就是殺人用的。",
+      "translated_vi": "Người đeo trường kiếm một tay có thể là thư sinh nho nhã, nhưng kẻ đã mang kiếm hai tay thì tuyệt đối không ngoại lệ, chắc chắn là cao thủ, bởi lẽ kiếm hai tay sinh ra chỉ thuần túy dùng để đoạt mạng giết người."
+    },
+    {
+      "para_id": "c0081p0012",
+      "index": 12,
+      "raw_zh": "乾屍腰間掛著一塊玉石墜飾，其形圓盤，上飾火紋，形製很像商周之物，甚至更早。",
+      "translated_vi": "Bên hông xác khô treo một miếng ngọc bội mặt tròn, bên trên chạm khắc hoa văn ngọn lửa, hình dáng và quy chế rất giống cổ vật thời Thương Chu, hoặc thậm chí còn sớm hơn nữa."
+    },
+    {
+      "para_id": "c0081p0013",
+      "index": 13,
+      "raw_zh": "墜飾另一側繪製一副圖案，圖案左側是鼎下有火，右側則是以跪坐鼎前的女人。",
+      "translated_vi": "Mặt bên kia của ngọc bội vẽ một đồ án, phía bên trái đồ án là hình chiếc đỉnh có ngọn lửa bập bùng bên dưới, bên phải là một người phụ nữ đang quỳ ngồi trước đỉnh."
+    },
+    {
+      "para_id": "c0081p0014",
+      "index": 14,
+      "raw_zh": "寥寥數筆，古樸盎然，卻極為傳神。",
+      "translated_vi": "Vỏn vẹn vài nét bút đơn sơ, phong vị cổ xưa ngập tràn nhưng lại sống động phi thường."
+    },
+    {
+      "para_id": "c0081p0015",
+      "index": 15,
+      "raw_zh": "朱柏龍看了一眼，嘀咕道：",
+      "translated_vi": "Chu Bách Long liếc nhìn một cái, lầm bầm:"
+    },
+    {
+      "para_id": "c0081p0016",
+      "index": 16,
+      "raw_zh": "“這畫的是什麽？一個人在做飯嗎？”",
+      "translated_vi": "“Cái hình này vẽ cái gì vậy? Một người đang nấu cơm hả?”"
+    },
+    {
+      "para_id": "c0081p0017",
+      "index": 17,
+      "raw_zh": "雲千峰搖了搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu, bảo:"
+    },
+    {
+      "para_id": "c0081p0018",
+      "index": 18,
+      "raw_zh": "“這是一個字，也是一個姓氏，女首旁的妘字，上古八大姓氏之一。所謂百姓，皆從此八姓而始。”",
+      "translated_vi": "“Đây là một chữ viết, đồng thời cũng là một dòng họ: chữ Uẩn mang bộ Nữ, một trong tám họ lớn thời thượng cổ. Cái gọi là bách tính thiên hạ, hết thảy đều khởi nguồn từ tám dòng họ này.”"
+    },
+    {
+      "para_id": "c0081p0019",
+      "index": 19,
+      "raw_zh": "維多利亞對這些很有興趣，問道：",
+      "translated_vi": "Victoria cảm thấy vô cùng hứng thú với những điều này, bèn hỏi:"
+    },
+    {
+      "para_id": "c0081p0020",
+      "index": 20,
+      "raw_zh": "“有多古老？”",
+      "translated_vi": "“Nó cổ xưa đến mức nào?”"
+    },
+    {
+      "para_id": "c0081p0021",
+      "index": 21,
+      "raw_zh": "雲千峰沉吟道：",
+      "translated_vi": "Vân Thiên Phong trầm ngâm một lát rồi đáp:"
+    },
+    {
+      "para_id": "c0081p0022",
+      "index": 22,
+      "raw_zh": "“怎麽說呢？比我們有記載的歷史都要早。上古八姓姬、薑、姒、姚、嬴、妘、媯、妊，皆從女首，是典型的母系社會特征，甲骨文之中，這八個姓氏的字符最完整且複雜，證明其成形年代遠遠比商朝要早，早很多。”",
+      "translated_vi": "“Nói thế nào nhỉ? Còn sớm hơn cả những trang sử thành văn được ghi chép của chúng ta. Tám họ lớn thượng cổ gồm Cơ, Khương, Tự, Diêu, Doanh, Uẩn, Quy, Nhâm, hết thảy đều mang bộ Nữ, là nét đặc trưng điển hình của xã hội mẫu hệ. Trong giáp cốt văn, tự dạng của tám dòng họ này hoàn chỉnh và phức tạp nhất, chứng minh niên đại định hình của chúng xa xưa hơn triều Thương rất nhiều, sớm hơn gấp bội.”"
+    },
+    {
+      "para_id": "c0081p0023",
+      "index": 23,
+      "raw_zh": "維多利亞思索問道：",
+      "translated_vi": "Victoria ngẫm nghĩ rồi gặng hỏi:"
+    },
+    {
+      "para_id": "c0081p0024",
+      "index": 24,
+      "raw_zh": "“你姓雲，是這個妘嗎？”",
+      "translated_vi": "“Anh mang họ Vân, có phải bắt nguồn từ chữ Uẩn này không?”"
+    },
+    {
+      "para_id": "c0081p0025",
+      "index": 25,
+      "raw_zh": "雲千峰回道：",
+      "translated_vi": "Vân Thiên Phong giải thích:"
+    },
+    {
+      "para_id": "c0081p0026",
+      "index": 26,
+      "raw_zh": "“妘姓以火神祝融為祖，後世分為己、董、彭、禿、妘、曹、斟、羋等八姓，史稱祝融八姓，妘字後世隨字形變為雨字雲就是我們這一系。",
+      "translated_vi": "“Họ Uẩn tôn xưng Hỏa thần Chúc Dung làm thủy tổ, đời sau phân nhánh thành tám họ gồm Kỷ, Đổng, Bành, Thốc, Uẩn, Tào, Châm, Mị, sử sách gọi là Chúc Dung bát tính. Về sau chữ Uẩn biến đổi tự hình thành chữ Vân có bộ Vũ ở trên đầu, đó chính là nhánh huyết mạch của chúng tôi."
+    },
+    {
+      "para_id": "c0081p0027",
+      "index": 27,
+      "raw_zh": "此八姓原本皆在楚地，以火鳳為圖騰，保持著對祖先火神的崇拜，五胡時代方分散各處。”",
+      "translated_vi": "Tám dòng họ này ban đầu đều sinh sống tại đất Sở, lấy hỏa phụng làm vật tổ đồ đằng, duy trì tín ngưỡng sùng bái thủy tổ Hỏa thần, mãi tới thời Ngũ Hồ loạn Hoa mới phiêu bạt tản mác khắp bốn phương.”"
+    },
+    {
+      "para_id": "c0081p0028",
+      "index": 28,
+      "raw_zh": "維多利亞道：",
+      "translated_vi": "Victoria thốt lên:"
+    },
+    {
+      "para_id": "c0081p0029",
+      "index": 29,
+      "raw_zh": "“所以，這可能是你的一個祖先？”",
+      "translated_vi": "“Nói vậy thì, người này có thể là một vị tổ tiên của anh?”"
+    },
+    {
+      "para_id": "c0081p0030",
+      "index": 30,
+      "raw_zh": "雲千峰點頭道：",
+      "translated_vi": "Vân Thiên Phong gật đầu:"
+    },
+    {
+      "para_id": "c0081p0031",
+      "index": 31,
+      "raw_zh": "“如果玉佩是這個人的，那麽他就一定是我的祖先之一，秦時祝融八姓已分，劉裕還沒亂封雲姓，此時以妘為姓者，必是我們這一脈。",
+      "translated_vi": "“Nếu ngọc bội đúng là vật tùy thân của người này, vậy ông ấy chắc chắn là một trong những vị tổ tiên của tôi. Vào thời Tần thì Chúc Dung bát tính đã phân rẽ, Lưu Dụ cũng chưa loạn phong họ Vân, thời điểm này kẻ mang họ Uẩn ắt hẳn thuộc về huyết mạch nhánh này của chúng tôi."
+    },
+    {
+      "para_id": "c0081p0032",
+      "index": 32,
+      "raw_zh": "我只是很納悶，為什麽石眼一直盯著這具屍體看呢？”",
+      "translated_vi": "Tôi chỉ thấy hết sức kỳ quặc, tại sao con mắt đá lại cứ nhìn chằm chằm vào cỗ thi thể này chứ?”"
+    },
+    {
+      "para_id": "c0081p0033",
+      "index": 33,
+      "raw_zh": "朱柏龍沒忍住好奇，問道：",
+      "translated_vi": "Chu Bách Long không kìm nổi lòng hiếu kỳ, hỏi chen vào:"
+    },
+    {
+      "para_id": "c0081p0034",
+      "index": 34,
+      "raw_zh": "“你那不是特殊指南針嗎？”",
+      "translated_vi": "“Thứ đó của anh chẳng phải là một loại la bàn đặc biệt sao?”"
+    },
+    {
+      "para_id": "c0081p0035",
+      "index": 35,
+      "raw_zh": "雲千峰搖頭道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu:"
+    },
+    {
+      "para_id": "c0081p0036",
+      "index": 36,
+      "raw_zh": "“這東西沒磁性，但確實能在某些特殊的地方指引方向。”",
+      "translated_vi": "“Thứ này không hề có từ tính, nhưng quả thực nó có thể chỉ dẫn phương hướng ở một số nơi chốn đặc biệt.”"
+    },
+    {
+      "para_id": "c0081p0037",
+      "index": 37,
+      "raw_zh": "一邊說著，他用石眼在屍體身上轉動著，想要知道石眼準確盯著的目標是哪裡。",
+      "translated_vi": "Vừa nói, anh vừa cầm con mắt đá rê đi rê lại trên thân xác ướp, muốn xác định chính xác mục tiêu mà nó đang gắt gao hướng tới rốt cuộc nằm ở vị trí nào."
+    },
+    {
+      "para_id": "c0081p0038",
+      "index": 38,
+      "raw_zh": "然而，還沒等他找到目標，就聽石室內小神經對著他叫道：",
+      "translated_vi": "Thế nhưng, còn chưa đợi anh tìm ra mục tiêu, đã nghe thấy bên trong thạch thất Tiểu Thần Kinh cất tiếng gọi với ra:"
+    },
+    {
+      "para_id": "c0081p0039",
+      "index": 39,
+      "raw_zh": "“來看這裡，有刻字。”",
+      "translated_vi": "“Mau vào đây xem này, có chữ khắc!”"
+    },
+    {
+      "para_id": "c0081p0040",
+      "index": 40,
+      "raw_zh": "裡面光線昏暗，認字很難，雲千峰沒辦法，隻好合幾個人之力，把那刻字的石台推到了門外。",
+      "translated_vi": "Bên trong ánh sáng tối tăm lờ mờ, nhận diện mặt chữ vô cùng khó khăn, Vân Thiên Phong chẳng còn cách nào khác đành cùng mấy người chung sức đẩy bệ đá có khắc chữ ra ngoài cửa động."
+    },
+    {
+      "para_id": "c0081p0041",
+      "index": 41,
+      "raw_zh": "上面簡單的用秦篆刻著幾行字，保存比較完整：",
+      "translated_vi": "Trên mặt đá dùng chữ triện thời Tần khắc mấy dòng chữ mộc mạc, nét khắc bảo tồn tương đối vẹn nguyên:"
+    },
+    {
+      "para_id": "c0081p0042",
+      "index": 42,
+      "raw_zh": "“王毀周契，拒天子爵，神魔作亂，九屠生叛，補天台陷，自心已不可信，君房與候、盧二士遠遁他鄉，吾當何去何從？上古聖世終難現，以此臂待後人。”",
+      "translated_vi": "“Vương hủy ước Chu, cự tước Thiên Tử, thần ma làm loạn, Cửu Đồ phản trắc, Bổ Thiên Đài sụp đổ, tâm trí bản thân chẳng còn đáng tin, Quân Phòng cùng hai sĩ Hầu, Lư đã cao chạy xa bay đến chốn tha hương, thân này biết đi đâu về đâu? Thánh thế thượng cổ rốt cuộc khó lòng tái hiện, xin lưu cánh tay này chờ đợi người đời sau.”"
+    },
+    {
+      "para_id": "c0081p0043",
+      "index": 43,
+      "raw_zh": "落款：九屠妘起。",
+      "translated_vi": "Lạc khoản: Cửu Đồ Uẩn Khởi."
+    },
+    {
+      "para_id": "c0081p0044",
+      "index": 44,
+      "raw_zh": "落款旁邊還有一個小匣子，上面篆字陽刻著“九屠符”三個字。",
+      "translated_vi": "Cạnh dòng lạc khoản còn đặt một chiếc tráp nhỏ, trên nắp tráp khắc nổi ba chữ triện “Cửu Đồ Phù”."
+    },
+    {
+      "para_id": "c0081p0045",
+      "index": 45,
+      "raw_zh": "將那匣子小心翼翼打開，裡面放著一片青黑色石片，上面布滿連山易金色紋路，竟是和維多利亞給幾個人的碎片一樣的東西。",
+      "translated_vi": "Cẩn thận từng li từng tí mở chiếc tráp ra, bên trong đặt một mảnh đá màu xanh đen, trên bề mặt phủ kín những đường vân vàng kim của Liên Sơn Dịch, không ngờ lại cùng loại với những mảnh vỡ mà Victoria đã trao cho mọi người."
+    },
+    {
+      "para_id": "c0081p0046",
+      "index": 46,
+      "raw_zh": "維多利亞歎道：",
+      "translated_vi": "Victoria thở dài cảm thán:"
+    },
+    {
+      "para_id": "c0081p0047",
+      "index": 47,
+      "raw_zh": "“原來這東西叫九屠符。”",
+      "translated_vi": "“Hóa ra thứ này có tên là Cửu Đồ Phù.”"
+    },
+    {
+      "para_id": "c0081p0048",
+      "index": 48,
+      "raw_zh": "說著，連匣子帶九屠符塞進了雲千峰多兜褲的兜裡，這就看出來親疏遠近了。",
+      "translated_vi": "Vừa nói, cô vừa nhét cả chiếc tráp lẫn Cửu Đồ Phù vào túi chiếc quần nhiều túi của Vân Thiên Phong, lúc này mới thấy rõ được sự phân biệt thân sơ gần gũi."
+    },
+    {
+      "para_id": "c0081p0049",
+      "index": 49,
+      "raw_zh": "雲千峰假裝沒看見維多利亞的舉動，而是看著這幾行字，皺著眉道：",
+      "translated_vi": "Vân Thiên Phong vờ như không để ý đến hành động của Victoria, mắt vẫn chăm chú nhìn vào mấy dòng chữ khắc, cau mày nói:"
+    },
+    {
+      "para_id": "c0081p0050",
+      "index": 50,
+      "raw_zh": "“自周以來，唯一一個拒絕被稱為天子的只有一個始皇帝，維多利亞伱剛才不是納悶為什麽周朝的王降級自稱天子嗎？這下可能有答案了。",
+      "translated_vi": "“Kể từ triều Chu trở đi, người duy nhất cự tuyệt xưng tụng là thiên tử chỉ có một mình Thủy Hoàng đế. Victoria, ban nãy chẳng phải cô còn thắc mắc vì sao các vua triều Chu lại tự giáng cấp xưng mình là thiên tử sao? Giờ đây có lẽ đã có câu trả lời rồi."
+    },
+    {
+      "para_id": "c0081p0051",
+      "index": 51,
+      "raw_zh": "你看始皇帝違背了那份契約，拒絕被稱為天子，然後神魔大亂，有個叫九屠的組織也叛變了，那我想這份契約就是周天子與神魔和九屠之間形成的某種契約，要自稱天子，我家這位叫妘起的祖宗看來也是九屠的一員，牌面不小。”",
+      "translated_vi": "Cô nhìn xem, Thủy Hoàng đế đã xé bỏ bản khế ước kia, từ chối xưng làm thiên tử, thế rồi thần ma đại loạn, một tổ chức có tên là Cửu Đồ cũng sinh biến phản trắc. Vậy thì tôi đoán bản khế ước này chính là một hiệp ước nào đó được thiết lập giữa Chu thiên tử với thần ma và Cửu Đồ, quy định phải tự xưng là thiên tử. Vị tổ tiên Uẩn Khởi này của tôi xem ra cũng là một thành viên của Cửu Đồ, địa vị thân phận chẳng hề tầm thường chút nào.”"
+    },
+    {
+      "para_id": "c0081p0052",
+      "index": 52,
+      "raw_zh": "維多利亞點頭，道：",
+      "translated_vi": "Victoria gật đầu đồng tình, lên tiếng:"
+    },
+    {
+      "para_id": "c0081p0053",
+      "index": 53,
+      "raw_zh": "“想來一定是這樣了，可是這補天台陷是什麽意思？為什麽補天台陷落，記憶就不可信了？你這位祖先可是有九屠符，怎麽還會記憶不可信？”",
+      "translated_vi": "“Ngẫm kỹ thì chắc chắn là như vậy rồi. Nhưng câu 'Bổ Thiên Đài sụp đổ' này có nghĩa là sao? Tại sao khi Bổ Thiên Đài sụp đổ thì ký ức lại chẳng còn đáng tin nữa? Vị tổ tiên này của anh nắm giữ Cửu Đồ Phù trong tay, cớ sao ký ức vẫn bị xáo trộn không thể tin cậy?”"
+    },
+    {
+      "para_id": "c0081p0054",
+      "index": 54,
+      "raw_zh": "雲千峰搖頭道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu:"
+    },
+    {
+      "para_id": "c0081p0055",
+      "index": 55,
+      "raw_zh": "“我也不知道補天台是什麽，但想來一定是很重要的東西，以至於哪怕戴著九屠符，也抗不住補天台陷落後的記憶影響。”",
+      "translated_vi": "“Tôi cũng không rõ Bổ Thiên Đài rốt cuộc là thứ gì, nhưng chắc chắn phải là một tồn tại vô cùng trọng yếu, đến mức dẫu có mang theo Cửu Đồ Phù bên mình cũng chẳng thể chống cự nổi sự tác động ghê gớm lên ký ức một khi Bổ Thiên Đài sụp đổ.”"
+    },
+    {
+      "para_id": "c0081p0056",
+      "index": 56,
+      "raw_zh": "維多利亞點頭道：",
+      "translated_vi": "Victoria gật đầu tán thành:"
+    },
+    {
+      "para_id": "c0081p0057",
+      "index": 57,
+      "raw_zh": "“那君房和候盧二士一定也是九屠裡的人，否則你的這位祖先不會這樣稱呼他們。”",
+      "translated_vi": "“Vậy thì Quân Phòng cùng hai vị phương sĩ họ Hầu, họ Lư chắc chắn cũng là người trong Cửu Đồ, bằng không tổ tiên của anh sẽ không gọi họ bằng khẩu khí như thế.”"
+    },
+    {
+      "para_id": "c0081p0058",
+      "index": 58,
+      "raw_zh": "雲千峰沉吟道：",
+      "translated_vi": "Vân Thiên Phong trầm ngâm một lát rồi tiếp lời:"
+    },
+    {
+      "para_id": "c0081p0059",
+      "index": 59,
+      "raw_zh": "“如果我猜的沒錯，這三個人應該就是徐福、候生和盧生，君房是徐福的表字。”",
+      "translated_vi": "“Nếu tôi đoán không lầm, ba người này ắt hẳn chính là Từ Phúc, Hầu sinh và Lư sinh. Quân Phòng chính là biểu tự của Từ Phúc.”"
+    },
+    {
+      "para_id": "c0081p0060",
+      "index": 60,
+      "raw_zh": "維多利亞驚道：",
+      "translated_vi": "Victoria giật mình kinh ngạc:"
+    },
+    {
+      "para_id": "c0081p0061",
+      "index": 61,
+      "raw_zh": "“那不是為秦始皇尋不死藥的三人？”",
+      "translated_vi": "“Đó chẳng phải là ba người đi tìm thuốc trường sinh bất lão cho Tần Thủy Hoàng sao?”"
+    },
+    {
+      "para_id": "c0081p0062",
+      "index": 62,
+      "raw_zh": "雲千峰點頭道：",
+      "translated_vi": "Vân Thiên Phong gật đầu:"
+    },
+    {
+      "para_id": "c0081p0063",
+      "index": 63,
+      "raw_zh": "“就是他們三個，借著尋不死藥的名義跑路了，想來是承受不住補天台陷的後果，要麽就是對九屠內部生叛失望遠避他鄉了。”",
+      "translated_vi": "“Đúng là ba người họ, mượn danh nghĩa tìm thuốc bất tử để cao chạy xa bay. Ngẫm lại hoặc là vì không gánh nổi hậu quả thảm khốc khi Bổ Thiên Đài sụp đổ, hoặc là quá thất vọng trước sự phản bội bên trong Cửu Đồ nên mới trốn lánh tới chốn xa xôi.”"
+    },
+    {
+      "para_id": "c0081p0064",
+      "index": 64,
+      "raw_zh": "維多利亞思索道：",
+      "translated_vi": "Victoria đăm chiêu suy nghĩ:"
+    },
+    {
+      "para_id": "c0081p0065",
+      "index": 65,
+      "raw_zh": "“我研讀華夏史，無論野史還是傳說都有涉獵，怎麽從未聽過九屠這個名字？”",
+      "translated_vi": "“Tôi từng nghiên cứu rất sâu về lịch sử Hoa Hạ, từ dã sử cho đến các truyền thuyết dân gian đều đã đọc qua, cớ sao chưa từng nghe thấy cái tên Cửu Đồ này bao giờ?”"
+    },
+    {
+      "para_id": "c0081p0066",
+      "index": 66,
+      "raw_zh": "朱柏龍道：",
+      "translated_vi": "Chu Bách Long chen mồm vào:"
+    },
+    {
+      "para_id": "c0081p0067",
+      "index": 67,
+      "raw_zh": "“我聽說過，九屠共豬啊！”",
+      "translated_vi": "“Tôi nghe qua rồi này, chín gã đồ tể cùng mổ một con lợn chứ gì!”"
+    },
+    {
+      "para_id": "c0081p0068",
+      "index": 68,
+      "raw_zh": "維多利亞和雲千峰一起翻了個白眼。",
+      "translated_vi": "Cả Victoria lẫn Vân Thiên Phong đều đồng loạt đảo mắt cạn lời."
+    },
+    {
+      "para_id": "c0081p0069",
+      "index": 69,
+      "raw_zh": "雲千峰沒接他的話，而是對維多利亞說道：",
+      "translated_vi": "Vân Thiên Phong chẳng buồn đôi co với anh chàng, liền quay sang bảo Victoria:"
+    },
+    {
+      "para_id": "c0081p0070",
+      "index": 70,
+      "raw_zh": "“九屠是什麽我不知道，但從這段話的意思來看，九屠的使命是讓人類恢復上古聖世，聖人的聖，不是旺盛的盛。而這聖世是什麽樣子的，我連想象都無從下腦。”",
+      "translated_vi": "“Cửu Đồ rốt cuộc là gì tôi cũng không rõ, nhưng nhìn từ hàm ý của đoạn văn tự này, sứ mệnh của Cửu Đồ là đưa nhân loại quay trở lại thời thánh thế thượng cổ — chữ 'Thánh' trong thánh nhân, chứ không phải chữ 'Thịnh' trong phồn thịnh. Còn cái thời thánh thế ấy trông ra làm sao, thì trong đầu tôi ngay cả tưởng tượng cũng không sao hình dung nổi.”"
+    },
+    {
+      "para_id": "c0081p0071",
+      "index": 71,
+      "raw_zh": "維多利亞又問道：",
+      "translated_vi": "Victoria lại gặng hỏi:"
+    },
+    {
+      "para_id": "c0081p0072",
+      "index": 72,
+      "raw_zh": "“此臂待後人是什麽意思？”",
+      "translated_vi": "“Vậy câu 'Lưu cánh tay này chờ người đời sau' mang ý nghĩa gì?”"
+    },
+    {
+      "para_id": "c0081p0073",
+      "index": 73,
+      "raw_zh": "雲千峰用納悶的表情說出了很明了的答案：",
+      "translated_vi": "Vân Thiên Phong mang vẻ mặt khó hiểu thốt ra câu trả lời vô cùng rõ ràng:"
+    },
+    {
+      "para_id": "c0081p0074",
+      "index": 74,
+      "raw_zh": "“就是字面意思，他的手臂！”",
+      "translated_vi": "“Thì đúng theo nghĩa đen trên mặt chữ thôi, cánh tay của ông ấy!”"
+    },
+    {
+      "para_id": "c0081p0075",
+      "index": 75,
+      "raw_zh": "說著，撐開手掌，裡面的石眼在掌心快速轉動，隨後眸子緊緊盯住妘起屍體的右臂處。",
+      "translated_vi": "Vừa dứt lời, anh liền xòe lòng bàn tay ra, con mắt đá bên trong liền xoay tít một vòng trên lòng bàn tay, kế đó tròng mắt gắt gao khóa chặt vào vị trí cánh tay phải của thi hài Uẩn Khởi."
+    },
+    {
+      "para_id": "c0081p0076",
+      "index": 76,
+      "raw_zh": "感謝匹諾曹謊言的月票鼓勵，謝謝你！感激~~~",
+      "translated_vi": "Cảm ơn sự khích lệ bằng phiếu tháng của bạn đọc Lời Nói Dối Của Pinocchio, cảm ơn bạn rất nhiều! Vô cùng cảm kích~~~"
+    }
+  ]
+}

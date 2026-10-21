@@ -1,0 +1,79 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0237|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|“Tôi là ai?”
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一張|một tấm
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §38):
+§1 [Ø=云千峰]我是誰，我從哪裡來，要到哪裡去，這是個哲學問題。
+§2 [Ø=云千峰]但很顯然，雲千峰問出的這句，與哲學毫無關系，而是極為現實的問題。
+§3 [Ø=云千峰]派遣一群雲千峰最熟悉的戰友，來殺死失去亦或是被篡改了記憶的雲千峰，讓他們互為彼此的祭品，這該是多麽陰毒的人才能做出的殘忍之事。
+§4 [Ø=云千峰]琳達無法回答雲千峰的這個問題，但是雲千峰那可憐無助的落魄模樣，卻激發了她母性的本能。
+§5 [Ø=云千峰]她把雲千峰的頭攬進自己的懷裡，用手輕輕的拍著雲千峰的後背，柔聲道：
+§6 [Ø=云千峰]“別怕，更別急，一切終究會有答案， [||] 記憶或許會是假的，但認知的善惡對錯，卻是永恆不變的，不是嗎？
+§7 [Ø=云千峰]為了自己的生存，為了活著，在這文明不達，生命的禁區裡， [||] 你做的一切，在我眼裡不僅僅是對的，更是無比的正確，正確到沒有瑕疵。
+§8 [Ø=云千峰]他們的死，不是你的錯，是派他們來殺你，是那個做局者的錯。
+§9 [Ø=云千峰]叔叔，你現在不能氣餒，更不能去怪罪自己， [||] 那些你的戰友不能這樣白死，你要振作起來，才能讓他們值得。”
+§10 [Ø=云千峰]女人的溫柔，就像大地上的春風，喚醒生命的一切，治愈生命的一切。
+§11 [Ø=云千峰]雲千峰把頭靠在琳達的胸口，半晌輕輕道：
+§12 [Ø=云千峰]“謝謝你琳達，你要是我媽就好了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 [Ø=云千峰]琳達攬著雲千峰的腦袋，緩緩仰起臉，輕輕一聲歎息，心裡咒罵：
+§14 [Ø=云千峰]“造孽啊！我想shang你，你卻喊我媽！老天啊，打雷劈死我吧！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 [Ø=云千峰]雲千峰沒聽到琳達內心的獨白，而是深呼吸幾次，振作精神，道：
+§16 [Ø=云千峰]“那些人應該都是乘坐熱氣球，倆人一組分散行動， [||] 所以這附近一定還有熱氣球，他們都會留下熱氣球的燃油，作為存活下來的人的一線生機。
+§17 [Ø=云千峰]換句話說，那也是為我留下的， [||] 他們可以死，我也可以死，但活著的人要去一個地方。”
+§18 [Ø=云千峰]說著，他指了指那電子屏幕上，閃動著綠色植物的標識，繼續道：
+§19 [Ø=云千峰]“也就是去這裡，既然如此，我們不如直奔要害，去看看那裡到底有什麽在等待著幸存者， [||] 看看這祭祀的陰謀到底意欲何為，雖然我不記得他們，但我的戰友不能白死，始作俑者必須付出代價！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§20 [Ø=云千峰]“你在車內等著，關好車門， [||] 我找到燃油就回來，東方站那兩個殺手是被雪人掏空了內髒而死，我們必須小心防范。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 [Ø=云千峰]琳達聽說過雪人，但是沒想到那東西竟然真的存在，頓時嚇得一哆嗦。
+§22 [Ø=云千峰]因為被那東西殺死，死相實在太過駭人，就剩下一張[M1:một tấm]皮。
+§23 雲千峰離開。
+§24 [Ø_SHIFT=姜柔甲]琳達急忙關緊了車門，還特意反鎖上，這才略微放下心來。
+§25 [Ø=姜柔甲]雲千峰依舊用爬的，趴在地上，因為與雪地接觸面積大， [||] 不會向下沉，加之他雙手力大，能讓他像滑板一樣，在雪地上快速移動。
+§26 [Ø=姜柔甲]十幾分鍾後，他發現了那白色的熱氣球。
+§27 [Ø=姜柔甲]球體上，一樣的米字型割痕，螺旋槳機體內，一樣全是沒有標識和編碼的零件。
+§28 [Ø=姜柔甲]雲千峰不奇怪這個結果，因為就連他們用的手槍， [||] 都是刮去了編號，並且經過口徑改造的，完全無法找到出處。
+§29 [Ø=姜柔甲]拎著燃油回到履帶車附近，將油箱灌滿，倆人繼續出發，直奔著平板上的指向而去。
+§30 [Ø=姜柔甲]那是地理南極點的方向，這個世界上最險惡最冰冷的地方。
+§31 [Ø=姜柔甲]沒有風，難得南極的極夜有如此安靜的時候。
+§32 [Ø=姜柔甲]但奇怪的是，車後方的雪地， [||] 那車輪碾過的地方，卻有雪鼓了起來，而且速度極快的律動前行。
+§33 就好像雲千峰他們雪地車後面的雪地變成了一縷波動的海浪。
+§34 [Ø=姜柔甲]那雪浪，距離倆人的雪地車越來越近，越來越近。
+§35 [Ø=姜柔甲]可惜，車內的倆人毫不知情，他們的車燈只能照亮前方一點點距離
+§36 感謝韓夢寒夢非攻、不聽王八念經、尾數12343、無我無物無時、尾數18353、林木森、寒心的寒、偏偏愛喝花露水、Love_vv酷的月票獎勵。
+§37 [Ø=姜柔甲]謝謝你們的支持，感謝你們！！！
+§38 [Ø=姜柔甲]祝大家好夢，晚安！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 38 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§38. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

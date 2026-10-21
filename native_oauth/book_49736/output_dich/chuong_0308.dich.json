@@ -1,0 +1,986 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 308,
+  "title": "Chương 308: Cánh cửa vô hình",
+  "total_paragraphs": 162,
+  "translated_paragraphs": 162,
+  "source_hash": "263867e013ebaf1833658715988d431d5b325a3843ab3212349e51558372ee6c",
+  "model_used": "gemini-3.8-flash-high",
+  "elapsed_seconds": 206.84,
+  "bilingual_alignment": [
+    {
+      "para_id": "c0308p0001",
+      "index": 1,
+      "raw_zh": "308.第308章 看不見的門",
+      "translated_vi": "Chương 308: Cánh cửa vô hình"
+    },
+    {
+      "para_id": "c0308p0002",
+      "index": 2,
+      "raw_zh": "第308章 看不見的門",
+      "translated_vi": "Chương 308: Cánh cửa vô hình"
+    },
+    {
+      "para_id": "c0308p0003",
+      "index": 3,
+      "raw_zh": "雲千峰認得兩個門扇上的字，雖然是古老的象形字。",
+      "translated_vi": "Vân Thiên Phong nhận ra chữ viết trên hai cánh cửa, dẫu đó là thứ chữ tượng hình cổ xưa."
+    },
+    {
+      "para_id": "c0308p0004",
+      "index": 4,
+      "raw_zh": "其中一個是一個人的圖形，上面帶著兩個橫。",
+      "translated_vi": "Trong đó một chữ mang hình dáng một con người, phía trên có hai nét ngang."
+    },
+    {
+      "para_id": "c0308p0005",
+      "index": 5,
+      "raw_zh": "那是象形字的“元”。",
+      "translated_vi": "Đó là chữ \"Nguyên\" theo lối tượng hình."
+    },
+    {
+      "para_id": "c0308p0006",
+      "index": 6,
+      "raw_zh": "現在學者將這個字意認為是人首，也就是腦袋的意思。",
+      "translated_vi": "Học giả ngày nay cho rằng nghĩa của chữ này tượng trưng cho đầu người, tức là phần đầu não."
+    },
+    {
+      "para_id": "c0308p0007",
+      "index": 7,
+      "raw_zh": "這是很唯物主義的觀念，與造字其實有很大的差距，應該是錯誤的。",
+      "translated_vi": "Đây là quan niệm mang nặng tính duy vật, kỳ thực cách biệt rất xa với dụng ý tạo chữ ban đầu, ắt hẳn đã sai lệch."
+    },
+    {
+      "para_id": "c0308p0008",
+      "index": 8,
+      "raw_zh": "反倒是易經卦辭上對“元”字的理解更應該準確一些。",
+      "translated_vi": "Trái lại, cách lý giải về chữ \"Nguyên\" trong thoán từ Kinh Dịch có lẽ chuẩn xác hơn đôi phần."
+    },
+    {
+      "para_id": "c0308p0009",
+      "index": 9,
+      "raw_zh": "易經卜辭裡，把元理解為天地萬物的本源，引申為“無窮大”。",
+      "translated_vi": "Trong bói từ Kinh Dịch, \"Nguyên\" được hiểu là căn nguyên của trời đất vạn vật, mở rộng ra chính là \"vô cùng lớn\"."
+    },
+    {
+      "para_id": "c0308p0010",
+      "index": 10,
+      "raw_zh": "其實從形上不難理解，人頭頂是天，天外還有天，豈能不大？",
+      "translated_vi": "Thực ra nhìn từ tự hình cũng không khó hiểu, đỉnh đầu người là trời, ngoài trời lại có trời, há lại chẳng to lớn khôn cùng?"
+    },
+    {
+      "para_id": "c0308p0011",
+      "index": 11,
+      "raw_zh": "雲千峰看著這個字，心裡嘀咕：",
+      "translated_vi": "Vân Thiên Phong nhìn con chữ này, trong lòng thầm lẩm bẩm:"
+    },
+    {
+      "para_id": "c0308p0012",
+      "index": 12,
+      "raw_zh": "“這名字一看就是天外來客，不應該是我，我與自己是誰無關的記憶，也沒有絲毫外星人的痕跡。”",
+      "translated_vi": "\"Cái tên này vừa nhìn đã biết là khách ngoại lai từ trời cao, không thể nào là mình được. Trong mớ ký ức không liên quan đến thân phận bản thân, mình cũng chẳng có lấy nửa điểm dấu vết của người ngoài hành tinh.\""
+    },
+    {
+      "para_id": "c0308p0013",
+      "index": 13,
+      "raw_zh": "說著，他轉向另外一道門上的兩字之名。",
+      "translated_vi": "Nói đoạn, hắn quay sang cái tên hai chữ trên một luồng cánh cửa khác."
+    },
+    {
+      "para_id": "c0308p0014",
+      "index": 14,
+      "raw_zh": "“蚩尤，【六書正偽】有言，凡無知者，皆以蚩名之，再配上一個“尤”字，這是罵人的話，罵人超級無知醜陋的意思，要坑我的這個人，自然不會用這樣的名字稱呼自己，那麽這個一定就是我的名字了。”",
+      "translated_vi": "\"Xi Vưu... 《Lục Thư Chính Ngụy》 có viết, phàm kẻ vô tri đều gọi là 'Xi', lại thêm một chữ 'Vưu', đây rõ ràng là lời mắng chửi, mắng người ta ngu muội cùng cực lại xấu xí khôn cùng. Kẻ muốn gài bẫy mình hiển nhiên sẽ không dùng cái tên như thế này để tự xưng, vậy thì cái này nhất định là tên của mình rồi.\""
+    },
+    {
+      "para_id": "c0308p0015",
+      "index": 15,
+      "raw_zh": "雲千峰覺得，自己發現了真相，移動自己的右手，摸向刻寫蚩尤的那半扇門。",
+      "translated_vi": "Vân Thiên Phong cảm thấy mình đã khám phá ra chân tướng, liền dịch chuyển tay phải, sờ về phía nửa cánh cửa khắc hai chữ Xi Vưu."
+    },
+    {
+      "para_id": "c0308p0016",
+      "index": 16,
+      "raw_zh": "“在這裡走出去，心主之神歸位，記憶也就回來了，這樣不知自己是誰的感覺，真的是太難受了。”",
+      "translated_vi": "\"Chỉ cần bước ra khỏi nơi này, tâm chủ chi thần quy vị, ký ức cũng sẽ quay về. Cảm giác không biết mình là ai thế này quả thực quá đỗi khó chịu.\""
+    },
+    {
+      "para_id": "c0308p0017",
+      "index": 17,
+      "raw_zh": "雲千峰念叨著，抓住了蚩尤門的把手，準備拽開。",
+      "translated_vi": "Vân Thiên Phong lẩm bẩm, nắm lấy tay nắm của cánh cửa Xi Vưu, chuẩn bị kéo ra."
+    },
+    {
+      "para_id": "c0308p0018",
+      "index": 18,
+      "raw_zh": "閻羅殿內。",
+      "translated_vi": "Bên trong điện Diêm La."
+    },
+    {
+      "para_id": "c0308p0019",
+      "index": 19,
+      "raw_zh": "姮娥和西王母依舊能夠看到雲千峰所見一切。",
+      "translated_vi": "Hằng Nga và Tây Vương Mẫu vẫn có thể nhìn thấy mọi điều Vân Thiên Phong đang thấy."
+    },
+    {
+      "para_id": "c0308p0020",
+      "index": 20,
+      "raw_zh": "皆為虛幻之地，一如缸中之腦，這些情景，都會在十八層內，雲千峰的眸子裡見到。",
+      "translated_vi": "Nơi đây vốn là cảnh giới hư ảo, tựa như bộ não trong thùng súp dinh dưỡng, toàn bộ những cảnh tượng này đều hiện lên rõ mồn một nơi đáy mắt Vân Thiên Phong ở tầng mười tám."
+    },
+    {
+      "para_id": "c0308p0021",
+      "index": 21,
+      "raw_zh": "雲千峰嘴炮走了兩個魂，讓倆人驚訝。",
+      "translated_vi": "Việc Vân Thiên Phong chỉ dùng mồm mép đã đấu đuổi được hai linh hồn khiến cả hai người họ không khỏi kinh ngạc."
+    },
+    {
+      "para_id": "c0308p0022",
+      "index": 22,
+      "raw_zh": "西王母和姮娥是知道元的，知道蚩尤的因果，甚至比普羅知道的還多。",
+      "translated_vi": "Tây Vương Mẫu và Hằng Nga đều biết về Nguyên, biết về nhân quả của Xi Vưu, thậm chí còn tỏ tường hơn cả Phổ La."
+    },
+    {
+      "para_id": "c0308p0023",
+      "index": 23,
+      "raw_zh": "她們倆自然也知道元的堅持，那就是消滅所有給這個世界加速熵增的生物，這種堅持是理性的，是最大的一種感情，幾乎是無法改變的。",
+      "translated_vi": "Cả hai nàng đương nhiên cũng biết sự kiên định của Nguyên, đó là tiêu diệt toàn bộ những sinh vật đẩy nhanh quá trình tăng entropy của thế giới này. Sự chấp niệm ấy thuần lý tính, là một dạng cảm xúc vĩ mô tột bậc, gần như không thể nào lay chuyển."
+    },
+    {
+      "para_id": "c0308p0024",
+      "index": 24,
+      "raw_zh": "就像沒人能勸動滅霸不打響響指。",
+      "translated_vi": "Giống như chẳng ai có thể khuyên được Thanos đừng búng tay vậy."
+    },
+    {
+      "para_id": "c0308p0025",
+      "index": 25,
+      "raw_zh": "但雲千峰角度清奇的用道家的（反經）思維方式，完全扭轉了元的這種堅持。",
+      "translated_vi": "Nhưng Vân Thiên Phong lại dùng một góc nhìn kỳ lạ, vận dụng lối tư duy \"Phản Kinh\" của Đạo gia để xoay chuyển hoàn toàn sự kiên định ấy của Nguyên."
+    },
+    {
+      "para_id": "c0308p0026",
+      "index": 26,
+      "raw_zh": "當明白不完美的重要，當明白無論如何選擇都是錯後，那種堅持便成了笑話，成了毫無意義的理想。",
+      "translated_vi": "Một khi đã thấu triệt tầm quan trọng của sự bất toàn, thấu triệt rằng dẫu lựa chọn thế nào cũng đều là sai, thì sự kiên định kia liền hóa thành trò cười, biến thành thứ lý tưởng vô nghĩa."
+    },
+    {
+      "para_id": "c0308p0027",
+      "index": 27,
+      "raw_zh": "但這還不是她們倆最驚訝的，最讓她們震驚的是雲千峰拎起石頭，笑容滿面的砸向元的七魄之一伏屍時。",
+      "translated_vi": "Nhưng đó vẫn chưa phải điều khiến hai nàng kinh ngạc nhất; khoảnh khắc làm họ chấn động hơn cả chính là khi Vân Thiên Phong nhặt hòn đá lên, nở nụ cười rạng rỡ rồi ném thẳng vào Phục Thi — một trong thất phách của Nguyên."
+    },
+    {
+      "para_id": "c0308p0028",
+      "index": 28,
+      "raw_zh": "那一幕，著實讓她們倆嚇了一跳，她們倆當時完全不明白雲千峰為何會突然就動手，因為沒有任何預兆，直到最後雲千峰對蚩尤的伏屍說出那句話，倆人才明白其中的邏輯。",
+      "translated_vi": "Cảnh tượng ấy thực sự khiến cả hai giật mình hoảng hốt. Lúc đó họ hoàn toàn không hiểu nổi vì sao Vân Thiên Phong lại đột ngột ra tay mà không có bất kỳ điềm báo nào, mãi tới khi nghe hắn thốt ra câu nói kia với Phục Thi của Xi Vưu, hai người mới vỡ lẽ logic bên trong."
+    },
+    {
+      "para_id": "c0308p0029",
+      "index": 29,
+      "raw_zh": "看起來是有殺錯無放過，但其實雲千峰的判斷極其準確，而且是在一瞬間，腦子就拐過了那道彎。",
+      "translated_vi": "Thoạt nhìn như thể thà giết nhầm còn hơn bỏ sót, nhưng trên thực tế phán đoán của Vân Thiên Phong chuẩn xác tới mức cực hạn, hơn nữa chỉ trong một chớp mắt, đầu óc hắn đã rẽ ngoặt qua khúc quanh hiểm hóc đó."
+    },
+    {
+      "para_id": "c0308p0030",
+      "index": 30,
+      "raw_zh": "那一瞬間，姮娥看到了希望。",
+      "translated_vi": "Khoảnh khắc ấy, Hằng Nga đã nhìn thấy hy vọng."
+    },
+    {
+      "para_id": "c0308p0031",
+      "index": 31,
+      "raw_zh": "那一瞬間，西王母明白了帝嚳為什麽費盡心思在雲千峰身上做選擇。",
+      "translated_vi": "Khoảnh khắc ấy, Tây Vương Mẫu đã hiểu vì sao Đế Cốc lại hao tổn tâm tư để đặt cược lựa chọn lên người Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0308p0032",
+      "index": 32,
+      "raw_zh": "雲千峰智慧不及帝嚳，但身上那份果斷和警覺，卻絲毫不少。",
+      "translated_vi": "Vân Thiên Phong có thể trí tuệ không bằng Đế Cốc, nhưng sự quyết đoán và lòng cảnh giác trên người hắn lại chẳng hề thua kém mảy may."
+    },
+    {
+      "para_id": "c0308p0033",
+      "index": 33,
+      "raw_zh": "這樣的人，最適合在逆境裡掙扎生存，這段時間諸多磨難險境，他活下來從不是什麽概率問題，而是必然。",
+      "translated_vi": "Mẫu người như hắn sinh ra là để giãy giụa sinh tồn nơi nghịch cảnh. Biết bao kiếp nạn hiểm nghèo suốt thời gian qua, việc hắn còn sống sót chưa bao giờ là chuyện xác suất may rủi, mà là một sự tất nhiên."
+    },
+    {
+      "para_id": "c0308p0034",
+      "index": 34,
+      "raw_zh": "但現在，姮娥的心提到了嗓子眼。",
+      "translated_vi": "Nhưng lúc này đây, tim Hằng Nga đã treo ngược lên tận cổ họng."
+    },
+    {
+      "para_id": "c0308p0035",
+      "index": 35,
+      "raw_zh": "就連西王母都莫名的有些緊張，哪怕她其實從不在意雲千峰的生死，但是這一刻，她很緊張。",
+      "translated_vi": "Ngay cả Tây Vương Mẫu cũng căng thẳng một cách khó hiểu. Dẫu xưa nay bà chưa từng bận tâm đến sống chết của Vân Thiên Phong, nhưng vào thời khắc này, bà thực sự rất căng thẳng."
+    },
+    {
+      "para_id": "c0308p0036",
+      "index": 36,
+      "raw_zh": "她們不是失憶的雲千峰，自然知道這門是蚩尤最大的陷阱。",
+      "translated_vi": "Họ không phải là một Vân Thiên Phong đã mất đi ký ức, nên hiển nhiên biết rõ cánh cửa kia chính là cạm bẫy lớn nhất của Xi Vưu."
+    },
+    {
+      "para_id": "c0308p0037",
+      "index": 37,
+      "raw_zh": "因為無論雲千峰怎麽選，最後都是蚩尤的記憶，也就是元的記憶，心主之神是蚩尤，那麽這個人就是蚩尤。",
+      "translated_vi": "Bởi vì bất luận Vân Thiên Phong lựa chọn ra sao, kết cục cũng đều là ký ức của Xi Vưu, tức là ký ức của Nguyên. Một khi tâm chủ chi thần là Xi Vưu, thì người này chính là Xi Vưu."
+    },
+    {
+      "para_id": "c0308p0038",
+      "index": 38,
+      "raw_zh": "可以說，這個陷阱，讓蚩尤立於不敗之地。",
+      "translated_vi": "Có thể nói, cạm bẫy này đã đặt Xi Vưu vào thế bất khả chiến bại."
+    },
+    {
+      "para_id": "c0308p0039",
+      "index": 39,
+      "raw_zh": "這也是為什麽蚩尤無法記住出去的路徑方法，因為祂不得不關聯自己的名字，這是個陷阱，針對敵人的陷阱，而且幾乎萬無一失。",
+      "translated_vi": "Đó cũng là lý do vì sao Xi Vưu không thể nhớ nổi phương thức cùng đường nẻo để thoát ra, bởi lẽ hắn buộc phải gắn liền với cái tên của chính mình. Đây là một cái bẫy, cạm bẫy nhắm thẳng vào kẻ thù, và gần như vạn vô nhất thất."
+    },
+    {
+      "para_id": "c0308p0040",
+      "index": 40,
+      "raw_zh": "姮娥無可奈何，她只能眼睜睜的看著雲千峰把手握在了刻著蚩尤名字的門把手上。",
+      "translated_vi": "Hằng Nga bất lực khôn cùng, nàng chỉ có thể trơ mắt nhìn Vân Thiên Phong đặt tay lên tay nắm cánh cửa khắc tên Xi Vưu."
+    },
+    {
+      "para_id": "c0308p0041",
+      "index": 41,
+      "raw_zh": "雲千峰的分析沒有錯，是合理的，但問題是，真正的答案他不記得，也看不到。",
+      "translated_vi": "Phân tích của Vân Thiên Phong không hề sai, vô cùng hợp lý, nhưng vấn đề là đáp án thực sự thì hắn không nhớ, cũng chẳng thể nhìn thấy."
+    },
+    {
+      "para_id": "c0308p0042",
+      "index": 42,
+      "raw_zh": "就連姮娥和西王母，她們哪怕擁有著記憶，而且是旁觀者，依舊無法找到破解之法，因為她們只能看到雲千峰的視角。",
+      "translated_vi": "Ngay cả Hằng Nga và Tây Vương Mẫu, dẫu họ nắm giữ trọn vẹn ký ức lại đứng ở góc độ người ngoài cuộc, vẫn không tài nào tìm ra cách phá giải, bởi lẽ họ chỉ có thể quan sát thông qua góc nhìn của Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0308p0043",
+      "index": 43,
+      "raw_zh": "這也就意味著，正確的答案是不可見的，永不可見，那麽便左右都是錯。",
+      "translated_vi": "Điều này đồng nghĩa với việc đáp án chính xác vốn vô hình, vĩnh viễn không thể thấy được, thế nên chọn bên trái hay bên phải đều là sai lầm."
+    },
+    {
+      "para_id": "c0308p0044",
+      "index": 44,
+      "raw_zh": "感受到姮娥的身體在顫抖，那不僅僅是緊張，還有恐懼和悲傷，因為只要雲千峰拉開那扇門，一切就都以姮娥最不希望的結果結束了。",
+      "translated_vi": "Cảm nhận được thân thể Hằng Nga đang run rẩy, đó không chỉ là sự căng thẳng, mà còn chứa đựng nỗi sợ hãi cùng bi thương, bởi vì chỉ cần Vân Thiên Phong kéo cánh cửa kia ra, tất cả sẽ kết thúc theo kết cục mà Hằng Nga tuyệt vọng không mong muốn nhất."
+    },
+    {
+      "para_id": "c0308p0045",
+      "index": 45,
+      "raw_zh": "西王母似乎對什麽都沒有感情，但此時此刻，她依舊情不自禁的抓住了姮娥的胳膊，或許這才是真實的她。",
+      "translated_vi": "Tây Vương Mẫu dường như vô cảm trước vạn vật, nhưng ngay lúc này đây, bà vẫn không kìm lòng được mà nắm chặt lấy cánh tay Hằng Nga, có lẽ đây mới là con người chân thật của bà."
+    },
+    {
+      "para_id": "c0308p0046",
+      "index": 46,
+      "raw_zh": "“姮娥.”",
+      "translated_vi": "\"Hằng Nga.\""
+    },
+    {
+      "para_id": "c0308p0047",
+      "index": 47,
+      "raw_zh": "後面的話，西王母真不知道說什麽來安慰姮娥。",
+      "translated_vi": "Những lời tiếp theo, Tây Vương Mẫu thực sự không biết phải nói gì để an ủi Hằng Nga."
+    },
+    {
+      "para_id": "c0308p0048",
+      "index": 48,
+      "raw_zh": "姮娥好像抓住救命稻草似的，反握住西王母的手，聲音都帶了哭腔：",
+      "translated_vi": "Hằng Nga tựa như túm được cọng rơm cứu mạng, siết chặt lấy tay Tây Vương Mẫu, giọng nói đã nghẹn ngào chực khóc:"
+    },
+    {
+      "para_id": "c0308p0049",
+      "index": 49,
+      "raw_zh": "“雲千峰一定會回來的，他答應我會回家的”",
+      "translated_vi": "\"Vân Thiên Phong nhất định sẽ quay về, anh ấy đã hứa với tôi là sẽ về nhà...\""
+    },
+    {
+      "para_id": "c0308p0050",
+      "index": 50,
+      "raw_zh": "姮娥這句，真不是故意刺激西王母，就是一個女人的訴說。",
+      "translated_vi": "Câu này của Hằng Nga thực lòng không phải cố ý chọc tức Tây Vương Mẫu, mà chỉ là lời giãi bày gan ruột của một người phụ nữ."
+    },
+    {
+      "para_id": "c0308p0051",
+      "index": 51,
+      "raw_zh": "不過西王母很想松手，但被姮娥反握著，掙不脫。",
+      "translated_vi": "Dẫu vậy, Tây Vương Mẫu rất muốn buông tay, nhưng lại bị Hằng Nga siết chặt không sao gỡ ra nổi."
+    },
+    {
+      "para_id": "c0308p0052",
+      "index": 52,
+      "raw_zh": "姮娥雙目不瞬的看著雲千峰，看著他握著蚩尤門扇的手在用力握緊，似乎下一秒就會拽開那扇大門。",
+      "translated_vi": "Hằng Nga nhìn chằm chằm không chớp mắt vào Vân Thiên Phong, dõi theo bàn tay hắn đang siết chặt lấy tay nắm cánh cửa Xi Vưu, dường như chỉ một giây kế tiếp là hắn sẽ giật tung cánh đại môn ấy."
+    },
+    {
+      "para_id": "c0308p0053",
+      "index": 53,
+      "raw_zh": "她感覺自己要崩潰了，若不是牽著西王母的手，她可能會無力委頓與地。",
+      "translated_vi": "Nàng cảm thấy bản thân sắp suy sụp, nếu không phải đang nắm tay Tây Vương Mẫu, e rằng nàng đã bủn rủn khuỵu ngã xuống đất."
+    },
+    {
+      "para_id": "c0308p0054",
+      "index": 54,
+      "raw_zh": "姮娥覺得西王母現在真的很好，西王母一直在用力的拽著自己的手，讓自己不至於摔倒。",
+      "translated_vi": "Hằng Nga cảm thấy Tây Vương Mẫu lúc này thực sự rất tốt bụng, bởi bà vẫn luôn dùng sức giữ chặt tay mình, giúp mình không đến mức ngã quỵ."
+    },
+    {
+      "para_id": "c0308p0055",
+      "index": 55,
+      "raw_zh": "也就在這一刻，雲千峰的手徹底握緊了門把手，身體微微向右後方用力，那門即將打開。",
+      "translated_vi": "Cũng đúng vào khoảnh khắc này, bàn tay Vân Thiên Phong đã siết chặt hoàn toàn lấy tay nắm cửa, cơ thể hơi nghiêng về phía sau bên phải phát lực, cánh cửa kia sắp sửa bung mở."
+    },
+    {
+      "para_id": "c0308p0056",
+      "index": 56,
+      "raw_zh": "姮娥的嘴巴已經張開，想來門打開那一刻，就是她嚎啕之時。",
+      "translated_vi": "Miệng Hằng Nga đã mở hé, tưởng chừng giây phút cánh cửa mở ra cũng là lúc nàng òa lên khóc nấc."
+    },
+    {
+      "para_id": "c0308p0057",
+      "index": 57,
+      "raw_zh": "突然，雲千峰松手了。",
+      "translated_vi": "Đột nhiên, Vân Thiên Phong buông tay."
+    },
+    {
+      "para_id": "c0308p0058",
+      "index": 58,
+      "raw_zh": "姮娥打起了咯。",
+      "translated_vi": "Hằng Nga nấc cụt lên một tiếng."
+    },
+    {
+      "para_id": "c0308p0059",
+      "index": 59,
+      "raw_zh": "“西王母，他為什麽松手？”",
+      "translated_vi": "\"Tây Vương Mẫu, tại sao anh ấy lại buông tay?\""
+    },
+    {
+      "para_id": "c0308p0060",
+      "index": 60,
+      "raw_zh": "“你先松手我就告訴你。”",
+      "translated_vi": "\"Cô buông tay trước đi rồi tôi nói cho biết.\""
+    },
+    {
+      "para_id": "c0308p0061",
+      "index": 61,
+      "raw_zh": "這一瞬間，西王母在姮娥心裡又不好了。",
+      "translated_vi": "Trong thoáng chốc, hình tượng Tây Vương Mẫu trong lòng Hằng Nga lại tụt dốc không phanh."
+    },
+    {
+      "para_id": "c0308p0062",
+      "index": 62,
+      "raw_zh": "姮娥松手，西王母道：",
+      "translated_vi": "Hằng Nga buông tay ra, Tây Vương Mẫu liền bảo:"
+    },
+    {
+      "para_id": "c0308p0063",
+      "index": 63,
+      "raw_zh": "“我怎麽知道！”",
+      "translated_vi": "\"Làm sao tôi biết được!\""
+    },
+    {
+      "para_id": "c0308p0064",
+      "index": 64,
+      "raw_zh": "此次相聚以來，西王母終於在嘴炮上贏了一局。",
+      "translated_vi": "Kể từ lúc hội ngộ đến nay, cuối cùng Tây Vương Mẫu cũng thắng được một hiệp trên mặt trận đấu võ mồm."
+    },
+    {
+      "para_id": "c0308p0065",
+      "index": 65,
+      "raw_zh": "蚩尤的陷阱內。",
+      "translated_vi": "Bên trong cạm bẫy của Xi Vưu."
+    },
+    {
+      "para_id": "c0308p0066",
+      "index": 66,
+      "raw_zh": "雲千峰松開了握著門把手的右手，整個人安靜的站在門前，緩緩搖了搖頭，道：",
+      "translated_vi": "Vân Thiên Phong buông bàn tay phải đang nắm giữ tay nắm cửa ra, lặng lẽ đứng sững trước cửa, đoạn khẽ lắc đầu tự nhủ:"
+    },
+    {
+      "para_id": "c0308p0067",
+      "index": 67,
+      "raw_zh": "“不對，這不對，我若做陷阱，怎麽會把對方的成功幾率設定在百分之五十？百分之一的機會我都不會給，我的敵人不是個蠢貨，祂只是有點軸，但在陷阱上，絕不會只是這個水平。”",
+      "translated_vi": "\"Không đúng, chuyện này không đúng. Nếu mình là kẻ bố trí cạm bẫy, sao có thể để tỷ lệ thành công của đối phương ở mức năm mươi phần trăm? Ngay cả một phần trăm cơ hội mình cũng tuyệt đối không cho. Kẻ thù của mình không phải đồ ngu, hắn chỉ hơi cố chấp thôi, chứ về khoản bẫy rập thì quyết không thể chỉ dừng lại ở trình độ này.\""
+    },
+    {
+      "para_id": "c0308p0068",
+      "index": 68,
+      "raw_zh": "他喃喃自語著，站在並不寬敞的樹洞內轉了一圈，沉思著爬出樹洞，向著四野裡張望，尋找著可能存在的異常。",
+      "translated_vi": "Hắn lẩm bẩm một mình, xoay người một vòng trong hốc cây chẳng mấy rộng rãi, rồi trầm ngâm bò ra ngoài, đưa mắt nhìn quanh bốn bề hoang dã để tìm kiếm những dấu hiệu bất thường có thể tồn tại."
+    },
+    {
+      "para_id": "c0308p0069",
+      "index": 69,
+      "raw_zh": "然而並沒有。",
+      "translated_vi": "Thế nhưng chẳng có gì cả."
+    },
+    {
+      "para_id": "c0308p0070",
+      "index": 70,
+      "raw_zh": "“我在這裡，那麽屬於我記憶的出口一定在這裡，只不過一定是極為難找的地方。”",
+      "translated_vi": "\"Mình đang ở đây, vậy thì lối thoát thuộc về ký ức của mình nhất định cũng ở nơi này, có điều chắc chắn phải là một nơi vô cùng khó tìm.\""
+    },
+    {
+      "para_id": "c0308p0071",
+      "index": 71,
+      "raw_zh": "“這個地方一定非常隱蔽，很難用眼睛發現，不，甚至是眼睛根本無法發現，是我永遠也不可能看到找到的地方！”",
+      "translated_vi": "\"Nơi này ắt hẳn cực kỳ kín đáo, mắt thường rất khó phát giác... Không, thậm chí mắt thường căn bản không thể nhìn thấy, phải là nơi mà mình vĩnh viễn không thể thấy được hay tìm ra được!\""
+    },
+    {
+      "para_id": "c0308p0072",
+      "index": 72,
+      "raw_zh": "“哈哈哈！”",
+      "translated_vi": "\"Ha ha ha!\""
+    },
+    {
+      "para_id": "c0308p0073",
+      "index": 73,
+      "raw_zh": "雲千峰突然大笑起來，轉身重新鑽進樹洞，來到了那兩扇門前。",
+      "translated_vi": "Vân Thiên Phong bỗng phá lên cười lớn, xoay người chui ngược vào trong hốc cây, bước tới trước hai cánh cửa kia."
+    },
+    {
+      "para_id": "c0308p0074",
+      "index": 74,
+      "raw_zh": "這笑聲，讓姮娥和西王母都有些詫異，因為就這笑聲和表情，意味著雲千峰找到了屬於自己記憶的門，可是雲千峰眸子裡依舊只有“元”和“蚩尤”兩道陷阱門。",
+      "translated_vi": "Tiếng cười ấy khiến Hằng Nga và Tây Vương Mẫu không khỏi ngạc nhiên, bởi nhìn điệu cười cùng nét mặt kia thì rõ ràng là hắn đã tìm ra cánh cửa ký ức của chính mình, thế nhưng trong đáy mắt Vân Thiên Phong vẫn chỉ hiện diện hai luồng cửa cạm bẫy \"Nguyên\" và \"Xi Vưu\"."
+    },
+    {
+      "para_id": "c0308p0075",
+      "index": 75,
+      "raw_zh": "“他發現了什麽？我們怎麽看不到？”",
+      "translated_vi": "\"Anh ấy đã phát hiện ra điều gì? Sao chúng ta lại không nhìn thấy?\""
+    },
+    {
+      "para_id": "c0308p0076",
+      "index": 76,
+      "raw_zh": "這是西王母下意識問的。",
+      "translated_vi": "Đây là câu hỏi vô thức thốt lên của Tây Vương Mẫu."
+    },
+    {
+      "para_id": "c0308p0077",
+      "index": 77,
+      "raw_zh": "姮娥沒出聲，一來是關心雲千峰發現了什麽，二來此處刺不到西王母。",
+      "translated_vi": "Hằng Nga không lên tiếng, phần vì nóng lòng muốn biết Vân Thiên Phong đã tìm ra điều gì, phần vì lúc này cũng chẳng còn tâm trí đâu mà xỏ xiên Tây Vương Mẫu."
+    },
+    {
+      "para_id": "c0308p0078",
+      "index": 78,
+      "raw_zh": "樹洞內，雲千峰面對著兩扇門，對著那兩個名字笑道：",
+      "translated_vi": "Bên trong hốc cây, Vân Thiên Phong đứng đối diện với hai cánh cửa, mỉm cười nhìn hai cái tên kia:"
+    },
+    {
+      "para_id": "c0308p0079",
+      "index": 79,
+      "raw_zh": "“你很聰明，這個陷阱幾乎是無解的，但偏偏就是你太聰明，所以這個陷阱也變成了最容易破解的存在。我永遠看不到的地方，在這裡永遠只有一處！”",
+      "translated_vi": "\"Anh rất thông minh, cạm bẫy này gần như không có lời giải. Nhưng ngặt nỗi chính vì anh quá thông minh, nên cái bẫy này lại trở thành thứ dễ phá vỡ nhất. Nơi mà tôi vĩnh viễn không thể nhìn thấy, ở chốn này trước sau chỉ có duy nhất một chỗ!\""
+    },
+    {
+      "para_id": "c0308p0080",
+      "index": 80,
+      "raw_zh": "說著話，雲千峰把手伸到身後，好似摸瞎似的尋找了一會，臉上便露出了笑容，因為他在自己身後抓住了一個門把手。",
+      "translated_vi": "Vừa dứt lời, Vân Thiên Phong đưa tay ra sau lưng, mò mẫm tìm kiếm như kẻ mù một hồi, trên mặt liền nở một nụ cười, bởi vì hắn đã nắm được một chiếc tay nắm cửa ở ngay phía sau lưng mình."
+    },
+    {
+      "para_id": "c0308p0081",
+      "index": 81,
+      "raw_zh": "身後，無疑是最隱蔽，最安全的視線死角。",
+      "translated_vi": "Phía sau lưng, không nghi ngờ gì nữa, chính là góc chết thị giác an toàn và kín đáo nhất."
+    },
+    {
+      "para_id": "c0308p0082",
+      "index": 82,
+      "raw_zh": "為了達到這個目的，屬於雲千峰記憶的出口，在這個樹洞裡，永遠都在雲千峰的腦後。",
+      "translated_vi": "Để đạt được mục đích này, lối thoát thuộc về ký ức của Vân Thiên Phong bên trong hốc cây này vĩnh viễn nằm ngay sau gáy hắn."
+    },
+    {
+      "para_id": "c0308p0083",
+      "index": 83,
+      "raw_zh": "最難破解，也最好破解。",
+      "translated_vi": "Khó phá giải nhất, mà cũng dễ phá giải nhất."
+    },
+    {
+      "para_id": "c0308p0084",
+      "index": 84,
+      "raw_zh": "“永別了蚩尤，永別了元，你們將不複存在。”",
+      "translated_vi": "\"Vĩnh biệt Xi Vưu, vĩnh biệt Nguyên, hai người từ nay sẽ không còn tồn tại nữa.\""
+    },
+    {
+      "para_id": "c0308p0085",
+      "index": 85,
+      "raw_zh": "言罷，雲千峰看到面前兩扇門發出了沉悶的聲響，就好像看不見的風鼓動著。",
+      "translated_vi": "Dứt lời, Vân Thiên Phong nhìn thấy hai cánh cửa trước mặt phát ra âm thanh trầm đục, tựa như có một luồng gió vô hình đang cuộn trào thúc giục."
+    },
+    {
+      "para_id": "c0308p0086",
+      "index": 86,
+      "raw_zh": "莫名的，雲千峰覺得這一幕有些熟悉，好像在哪裡見過這種微觀的咆哮。",
+      "translated_vi": "Thật kỳ lạ, Vân Thiên Phong lại thấy cảnh tượng này có phần quen thuộc, dường như đã từng chứng kiến tiếng gầm thét vi mô này ở nơi nào đó."
+    },
+    {
+      "para_id": "c0308p0087",
+      "index": 87,
+      "raw_zh": "他笑意盈盈，身體向前，拉開了身後的門扇，倒退著走了進去。",
+      "translated_vi": "Hắn mỉm cười rạng rỡ, người hướng về phía trước nhưng tay lại kéo cánh cửa sau lưng ra, rồi đi lùi từng bước vào trong."
+    },
+    {
+      "para_id": "c0308p0088",
+      "index": 88,
+      "raw_zh": "“吱嘎！”",
+      "translated_vi": "\"Két...!\""
+    },
+    {
+      "para_id": "c0308p0089",
+      "index": 89,
+      "raw_zh": "門開。",
+      "translated_vi": "Cửa mở."
+    },
+    {
+      "para_id": "c0308p0090",
+      "index": 90,
+      "raw_zh": "“咣當！”",
+      "translated_vi": "\"Rầm!\""
+    },
+    {
+      "para_id": "c0308p0091",
+      "index": 91,
+      "raw_zh": "門閉。",
+      "translated_vi": "Cửa đóng."
+    },
+    {
+      "para_id": "c0308p0092",
+      "index": 92,
+      "raw_zh": "蚩尤消失了，元消失了，這個世界多了一個與元共生的人類——雲千峰。",
+      "translated_vi": "Xi Vưu biến mất, Nguyên biến mất, thế giới này có thêm một con người cộng sinh cùng Nguyên — Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0308p0093",
+      "index": 93,
+      "raw_zh": "雲千峰長吐一口氣，懸浮在原本屬於蚩尤的內景重樓上空，他此刻龐大的能夠遮蔽這裡的天。",
+      "translated_vi": "Vân Thiên Phong thở phào một hơi dài, lơ lửng trên khoảng không bên trên Nội Cảnh Trùng Lâu vốn thuộc về Xi Vưu. Thân hình hắn lúc này khổng lồ đến mức có thể che rợp cả bầu trời nơi đây."
+    },
+    {
+      "para_id": "c0308p0094",
+      "index": 94,
+      "raw_zh": "若是俯身，則與內景重樓一般大小。",
+      "translated_vi": "Nếu cúi người xuống, hắn sẽ có kích thước ngang ngửa với tòa Nội Cảnh Trùng Lâu."
+    },
+    {
+      "para_id": "c0308p0095",
+      "index": 95,
+      "raw_zh": "但在內景重樓內，這種大小是可變的，這本就是非物質的世界。",
+      "translated_vi": "Nhưng bên trong Nội Cảnh Trùng Lâu, kích thước này vốn dĩ có thể biến hóa tùy ý, bởi nơi đây vốn là một thế giới phi vật chất."
+    },
+    {
+      "para_id": "c0308p0096",
+      "index": 96,
+      "raw_zh": "他漂浮在蚩尤的內景重樓上，先看向四周山巒，片刻後便有了改變整體風水的方法，那就是將內景重樓整個轉向，那麽四象山峰，便都合了風水大善。",
+      "translated_vi": "Hắn lơ lửng phía trên Nội Cảnh Trùng Lâu của Xi Vưu, trước tiên đưa mắt nhìn rặng núi bốn phía, chỉ chốc lát sau đã tìm ra cách thay đổi phong thủy tổng thể: đó chính là xoay chuyển toàn bộ Nội Cảnh Trùng Lâu, như vậy bốn đỉnh núi tượng trưng cho Tứ Tượng đều sẽ hợp chuẩn phong thủy đại thiện."
+    },
+    {
+      "para_id": "c0308p0097",
+      "index": 97,
+      "raw_zh": "這對於此刻的雲千峰而言，是極為簡單的一件事。",
+      "translated_vi": "Điều này đối với Vân Thiên Phong của hiện tại chỉ là chuyện dễ như trở bàn tay."
+    },
+    {
+      "para_id": "c0308p0098",
+      "index": 98,
+      "raw_zh": "他意念一動，這非物質的內景重樓世界，便跟隨著他的意識而動。",
+      "translated_vi": "Hắn vừa động ý niệm, thế giới Nội Cảnh Trùng Lâu phi vật chất này liền chuyển dịch theo đúng ý thức của hắn."
+    },
+    {
+      "para_id": "c0308p0099",
+      "index": 99,
+      "raw_zh": "內景重樓整體的轉了九十度，外面風水祥和，天空的月色頓時明亮起來。",
+      "translated_vi": "Toàn bộ Nội Cảnh Trùng Lâu xoay chuyển một góc chín mươi độ, phong thủy bên ngoài lập tức trở nên ôn hòa tường thụy, ánh trăng trên bầu trời cũng vụt sáng rực rỡ."
+    },
+    {
+      "para_id": "c0308p0100",
+      "index": 100,
+      "raw_zh": "整體的風水環境改換以後，雲千峰打開了內景重樓的門戶，有風流入，雲千峰感受著風的走向和速度。",
+      "translated_vi": "Sau khi môi trường phong thủy tổng thể được hoán đổi, Vân Thiên Phong mở toang cánh cửa của Nội Cảnh Trùng Lâu. Có ngọn gió ùa vào, hắn cẩn thận cảm nhận hướng đi cùng tốc độ của luồng gió ấy."
+    },
+    {
+      "para_id": "c0308p0101",
+      "index": 101,
+      "raw_zh": "當這股風走到人中鵲橋位置時，雲千峰將此刻定為內景重樓的子時，也為一天之開始。",
+      "translated_vi": "Khi luồng gió này thổi tới vị trí huyệt Nhân Trung - Thước Kiều, Vân Thiên Phong liền định ra thời khắc này là giờ Tý của Nội Cảnh Trùng Lâu, cũng là điểm khởi đầu của một ngày mới."
+    },
+    {
+      "para_id": "c0308p0102",
+      "index": 102,
+      "raw_zh": "入額頭天庭時定醜時，入齊空穴路口時定寅時，大杼穴路口為卯時…丹田之府為申時，四海穴路口為酉時.直到湧泉穴定亥時，十二時辰氣血流柱走完全身，時辰已定。",
+      "translated_vi": "Khi gió chạm tới Thiên Đình nơi vầng trán thì định là giờ Sửu; lướt qua ngã rẽ huyệt Tề Không định là giờ Dần; ngã rẽ huyệt Đại Trữ là giờ Mão... Đan Điền chi Phủ là giờ Thân; ngã rẽ huyệt Tứ Hải là giờ Dậu... cho đến huyệt Dũng Tuyền thì định là giờ Hợi. Mười hai canh giờ, cột khí huyết lưu chuyển đi khắp toàn thân, thời thần đã được định xong."
+    },
+    {
+      "para_id": "c0308p0103",
+      "index": 103,
+      "raw_zh": "此時的蚩尤內景重樓，方才能做到與外界世界共振，天人合一。",
+      "translated_vi": "Chỉ đến lúc này, Nội Cảnh Trùng Lâu của Xi Vưu mới có thể đạt tới trạng thái cộng hưởng với thế giới bên ngoài, thiên nhân hợp nhất."
+    },
+    {
+      "para_id": "c0308p0104",
+      "index": 104,
+      "raw_zh": "引地下之水為池，與重樓前藏風聚氣。",
+      "translated_vi": "Hắn dẫn mạch nước ngầm tụ lại thành hồ, tạo thế tàng phong tụ khí ngay trước Trùng Lâu."
+    },
+    {
+      "para_id": "c0308p0105",
+      "index": 105,
+      "raw_zh": "再給重樓前那華柱修飾一番，大些，高些，茁壯些。",
+      "translated_vi": "Lại tu chỉnh lại cột hoa biểu trước Trùng Lâu một phen: to hơn một chút, cao hơn một chút, tráng kiện vững chãi hơn một chút."
+    },
+    {
+      "para_id": "c0308p0106",
+      "index": 106,
+      "raw_zh": "雲千峰這才伸了個懶腰，悠然消失在內景重樓內。",
+      "translated_vi": "Đến lúc này Vân Thiên Phong mới vươn vai lười biếng một cái, rồi thong dong biến mất khỏi Nội Cảnh Trùng Lâu."
+    },
+    {
+      "para_id": "c0308p0107",
+      "index": 107,
+      "raw_zh": "十八層地獄，未庫避身所旁。",
+      "translated_vi": "Tầng mười tám Địa Ngục, bên cạnh nơi trú ẩn Mùi Khố."
+    },
+    {
+      "para_id": "c0308p0108",
+      "index": 108,
+      "raw_zh": "此刻這裡簡單的避身所，已經變成了野牛皮和鱷魚皮混合的皮氈房。",
+      "translated_vi": "Nơi trú ẩn đơn sơ thuở ban đầu nay đã biến thành một gian lều da kết hợp từ da bò hoang và da cá sấu."
+    },
+    {
+      "para_id": "c0308p0109",
+      "index": 109,
+      "raw_zh": "很顯然九屠把這裡的秩序維護的很不錯，這些皮質，當然是他們狩獵食物後所得，都給熟好了送來。",
+      "translated_vi": "Rõ ràng Cửu Đồ đã duy trì trật tự nơi này rất tốt. Đống da thuộc này dĩ nhiên là chiến lợi phẩm sau những chuyến săn tìm thức ăn của họ, đều được thuộc da cẩn thận rồi mới đem dâng tới."
+    },
+    {
+      "para_id": "c0308p0110",
+      "index": 110,
+      "raw_zh": "楊玉奴就用這些皮子，在這些日子裡弄了一個很不錯的氈房。",
+      "translated_vi": "Dương Ngọc Nô đã dùng số da đó, trong những ngày qua dựng nên một căn lều da vô cùng tươm tất."
+    },
+    {
+      "para_id": "c0308p0111",
+      "index": 111,
+      "raw_zh": "此時此刻，楊玉奴手裡拿著一瓶XO，喝得滿面潮紅，坐在雲千峰腳邊，不知道什麽時候搬來的一塊平石上，正碎碎念。",
+      "translated_vi": "Ngay lúc này, Dương Ngọc Nô đang cầm trên tay một chai XO, uống đến hai má ửng hồng. Nàng ngồi trên một tảng đá phẳng chẳng biết khiêng tới từ bao giờ ngay dưới chân Vân Thiên Phong, miệng không ngừng lẩm bẩm."
+    },
+    {
+      "para_id": "c0308p0112",
+      "index": 112,
+      "raw_zh": "“郎君了，已經過了這麽多天了，你還沒回來，我估計怕是回不來了。”",
+      "translated_vi": "\"Lang quân à, đã qua bao nhiêu ngày rồi mà chàng vẫn chưa về, thiếp đoán chừng sợ là chàng chẳng về được nữa rồi.\""
+    },
+    {
+      "para_id": "c0308p0113",
+      "index": 113,
+      "raw_zh": "“太真可樂喝沒了，真沒忍住，現在只剩下酒了，那葡萄酒還好，這酒則難喝得很，但沒得選。”",
+      "translated_vi": "\"Coca của Thái Chân cũng uống sạch rồi, thật sự nhịn không nổi nữa, giờ chỉ còn lại rượu thôi. Rượu vang thì còn đỡ, chứ thứ rượu này uống khó chịu vô cùng, nhưng chẳng còn lựa chọn nào khác.\""
+    },
+    {
+      "para_id": "c0308p0114",
+      "index": 114,
+      "raw_zh": "“這地獄日子，有你還好，能保我周全，可你要是回不來可如何是好？前幾日送皮子的幾個人，看我目光不善，心存歹意啊，要是確定你回不來，怕是太真就只能從了他們了。”",
+      "translated_vi": "\"Những ngày ở chốn địa ngục này, có chàng thì còn tốt, còn giữ cho thiếp được an toàn. Nhưng nếu chàng không về được thì thiếp biết phải làm sao đây? Mấy hôm trước mấy kẻ đem da thú tới, nhìn thiếp bằng ánh mắt chẳng lành, rõ ràng bụng dạ khó lường. Nếu xác định chàng không về nữa, sợ là Thái Chân chỉ đành thuận theo bọn họ thôi.\""
+    },
+    {
+      "para_id": "c0308p0115",
+      "index": 115,
+      "raw_zh": "“我覺得，其中有一個腿很粗，後背很闊的郎君看起來不錯，身體定然是好的，力量也定然是大的，大概能護住我，腿壯很重要。”",
+      "translated_vi": "\"Thiếp thấy trong số đó có một chàng bắp chân rất to, lưng lại rộng, trông cũng được lắm. Thân hình chắc chắn cường tráng, sức lực cũng dồi dào, chắc là che chở được cho thiếp. Chân khỏe là quan trọng nhất đấy.\""
+    },
+    {
+      "para_id": "c0308p0116",
+      "index": 116,
+      "raw_zh": "她念叨著，旁邊傳來一聲：“我的腿不壯嗎？”",
+      "translated_vi": "Nàng còn đang lải nhải thì bên cạnh bỗng vang lên một giọng nói: \"Chân tôi không đủ khỏe chắc?\""
+    },
+    {
+      "para_id": "c0308p0117",
+      "index": 117,
+      "raw_zh": "楊玉奴醉醺醺的，也沒察覺不對勁，回了句：",
+      "translated_vi": "Dương Ngọc Nô đang say khướt, cũng chẳng nhận ra điểm bất thường, thuận miệng đáp lại một câu:"
+    },
+    {
+      "para_id": "c0308p0118",
+      "index": 118,
+      "raw_zh": "“你的腿挺壯的，但你回不來啊嗯？郎君，你回來啦！”",
+      "translated_vi": "\"Chân của chàng cũng khỏe lắm, nhưng chàng có về được đâu... Ơ? Lang quân, chàng về rồi ư!\""
+    },
+    {
+      "para_id": "c0308p0119",
+      "index": 119,
+      "raw_zh": "楊玉奴喜極而泣。",
+      "translated_vi": "Dương Ngọc Nô mừng đến phát khóc."
+    },
+    {
+      "para_id": "c0308p0120",
+      "index": 120,
+      "raw_zh": "這倒不是假的。",
+      "translated_vi": "Nước mắt này chẳng phải là giả vờ."
+    },
+    {
+      "para_id": "c0308p0121",
+      "index": 121,
+      "raw_zh": "楊玉奴清醒現實的很，她深知自己一個人在地獄那是混不下去的，現在九屠對自己好，那是他們在賭雲千峰能回來，要是有一天確定雲千峰回不來，楊玉奴的結局，就只能靠楊玉奴自己想辦法。",
+      "translated_vi": "Dương Ngọc Nô vô cùng tỉnh táo và thực tế. Nàng hiểu rõ một thân một mình ở chốn địa ngục này căn bản không thể sống nổi. Hiện tại đám Cửu Đồ đối đãi tử tế với nàng chẳng qua là đang đánh cược Vân Thiên Phong có thể trở về; nếu có ngày dám chắc Vân Thiên Phong không về được nữa, thì kết cục của Dương Ngọc Nô chỉ có thể do chính nàng tự tìm lối thoát."
+    },
+    {
+      "para_id": "c0308p0122",
+      "index": 122,
+      "raw_zh": "作為楊玉奴，唯一能想到的方法，就是跟個好男人。",
+      "translated_vi": "Mà đối với Dương Ngọc Nô, biện pháp duy nhất nàng nghĩ ra được chính là đi theo một người đàn ông đáng tin cậy."
+    },
+    {
+      "para_id": "c0308p0123",
+      "index": 123,
+      "raw_zh": "但，無論別人怎麽好，也不如雲千峰這已經混熟的，而且雲千峰這人不壞，楊玉奴覺得挺好拿捏得，真心是舍不得他死。",
+      "translated_vi": "Thế nhưng, người khác có tốt đến đâu cũng chẳng thể sánh bằng một Vân Thiên Phong đã quen thuộc. Hơn nữa Vân Thiên Phong bản tính không xấu, Dương Ngọc Nô cảm thấy hắn rất dễ nắm thóp, trong lòng thật sự không nỡ để hắn chết."
+    },
+    {
+      "para_id": "c0308p0124",
+      "index": 124,
+      "raw_zh": "所以此刻，那是高興哭的。",
+      "translated_vi": "Cho nên lúc này, nàng khóc chính là vì quá đỗi vui mừng."
+    },
+    {
+      "para_id": "c0308p0125",
+      "index": 125,
+      "raw_zh": "“郎君，你回來了，我這心就穩妥了，郎君啊”",
+      "translated_vi": "\"Lang quân, chàng về rồi thì lòng thiếp mới yên ổn được... Lang quân ơi...\""
+    },
+    {
+      "para_id": "c0308p0126",
+      "index": 126,
+      "raw_zh": "雲千峰抬著楊玉奴下巴，陰陰笑道：",
+      "translated_vi": "Vân Thiên Phong nâng cằm Dương Ngọc Nô lên, cười đầy thâm hiểm:"
+    },
+    {
+      "para_id": "c0308p0127",
+      "index": 127,
+      "raw_zh": "“你不是相中那腿粗的人了嗎？今天就給你和他把婚禮辦了。”",
+      "translated_vi": "\"Không phải cô vừa mắt gã bắp chân to kia rồi sao? Hôm nay tôi tổ chức hôn lễ cho cô với hắn luôn nhé.\""
+    },
+    {
+      "para_id": "c0308p0128",
+      "index": 128,
+      "raw_zh": "楊玉奴打了個酒嗝，搖頭堅決道：",
+      "translated_vi": "Dương Ngọc Nô ợ lên một hơi rượu, lắc đầu kiên quyết:"
+    },
+    {
+      "para_id": "c0308p0129",
+      "index": 129,
+      "raw_zh": "“郎君胡說些什麽？太真什麽時候說過那樣的話？太真生是你的人，死是你的鬼，這輩子就給你做牛做馬，不換下家。”",
+      "translated_vi": "\"Lang quân nói bậy gì thế? Thái Chân bao giờ nói lời như vậy chứ? Thái Chân sống là người của chàng, chết là ma của chàng, cả đời này làm trâu làm ngựa cho chàng, tuyệt đối không đổi sang mối khác đâu.\""
+    },
+    {
+      "para_id": "c0308p0130",
+      "index": 130,
+      "raw_zh": "雲千峰都沒好意思說她。",
+      "translated_vi": "Vân Thiên Phong cũng ngại chẳng buồn vạch trần nàng."
+    },
+    {
+      "para_id": "c0308p0131",
+      "index": 131,
+      "raw_zh": "你丫死之前都換了幾家了。",
+      "translated_vi": "Cái con bé này, trước khi chết cô đã đổi qua mấy nhà rồi đấy thôi."
+    },
+    {
+      "para_id": "c0308p0132",
+      "index": 132,
+      "raw_zh": "逗了一下楊玉奴，雲千峰深吸一口氣，仰頭看天，虛指前上方，大聲道：",
+      "translated_vi": "Trêu chọc Dương Ngọc Nô một phen xong, Vân Thiên Phong hít sâu một hơi, ngẩng đầu nhìn trời, chỉ tay vào khoảng không phía trên cao, cất giọng sang sảng:"
+    },
+    {
+      "para_id": "c0308p0133",
+      "index": 133,
+      "raw_zh": "“姮娥，以後領罰！”",
+      "translated_vi": "\"Hằng Nga, sau này chờ nhận phạt đi!\""
+    },
+    {
+      "para_id": "c0308p0134",
+      "index": 134,
+      "raw_zh": "雖然雲千峰已經明白姮娥的苦心，但那依舊是在拿自己做賭注，早死晚死，雲千峰不覺得姮娥有權利替自己做選擇，雖然事實證明姮娥是對的，但邪火還是要發的。",
+      "translated_vi": "Dẫu Vân Thiên Phong đã thấu hiểu nỗi khổ tâm của Hằng Nga, nhưng làm vậy vẫn là lấy tính mạng hắn ra làm tiền đặt cược, chết sớm hay chết muộn. Vân Thiên Phong không cho rằng Hằng Nga có quyền thay hắn đưa ra lựa chọn, dù sự thật chứng minh Hằng Nga đã đúng, nhưng cơn hỏa khí này thì hắn vẫn phải trút ra bằng được."
+    },
+    {
+      "para_id": "c0308p0135",
+      "index": 135,
+      "raw_zh": "閻羅殿內，姮娥看到十八層內蘇醒的雲千峰，一時之間也無從猜測那是不是雲千峰，因為她和西王母都不知道雲千峰是怎麽走出來的。",
+      "translated_vi": "Bên trong Diêm La điện, Hằng Nga nhìn thấy Vân Thiên Phong tỉnh lại ở tầng mười tám, nhất thời cũng không đoán định nổi liệu đó có phải là Vân Thiên Phong hay không, bởi vì cả nàng lẫn Tây Vương Mẫu đều chẳng rõ hắn đã bước ra bằng cách nào."
+    },
+    {
+      "para_id": "c0308p0136",
+      "index": 136,
+      "raw_zh": "此刻聽到雲千峰這樣指天叫囂，頓時高興激動的哭了，順口的回了一句雲千峰根本聽不到的回答：",
+      "translated_vi": "Giờ phút này nghe thấy Vân Thiên Phong chỉ tay lên trời gào thét như vậy, nàng lập tức mừng rỡ kích động đến rơi lệ, thuận miệng buông một câu trả lời mà Vân Thiên Phong căn bản không thể nghe thấy:"
+    },
+    {
+      "para_id": "c0308p0137",
+      "index": 137,
+      "raw_zh": "“姮娥令罰！”",
+      "translated_vi": "\"Hằng Nga xin nhận phạt!\""
+    },
+    {
+      "para_id": "c0308p0138",
+      "index": 138,
+      "raw_zh": "西王母心知雲千峰贏了這幾乎不可能贏的決鬥，心中驚訝之余，聽到姮娥的話，登時冷笑一聲道：",
+      "translated_vi": "Tây Vương Mẫu thừa hiểu Vân Thiên Phong đã thắng trong trận quyết đấu ngỡ như không thể nào thắng nổi này, trong lòng vừa ngạc nhiên, lại vừa nghe thấy lời Hằng Nga, bèn cười lạnh một tiếng:"
+    },
+    {
+      "para_id": "c0308p0139",
+      "index": 139,
+      "raw_zh": "“堂堂帝女，這樣說話，真丟盡了臉面。”",
+      "translated_vi": "\"Đường đường là Đế Nữ mà ăn nói thế này, thật sự mất hết thể diện.\""
+    },
+    {
+      "para_id": "c0308p0140",
+      "index": 140,
+      "raw_zh": "姮娥溫和的對著西王母道：",
+      "translated_vi": "Hằng Nga dịu dàng nói với Tây Vương Mẫu:"
+    },
+    {
+      "para_id": "c0308p0141",
+      "index": 141,
+      "raw_zh": "“有什麽呢？男人按時回家比什麽都重要，你看雲千峰，他就是能做到的”",
+      "translated_vi": "\"Có sao đâu chứ? Đàn ông về nhà đúng giờ quan trọng hơn bất cứ thứ gì, chị nhìn Vân Thiên Phong xem, anh ấy làm được đấy thôi...\""
+    },
+    {
+      "para_id": "c0308p0142",
+      "index": 142,
+      "raw_zh": "西王母一甩袖子，挺著腰杆大步離開，姮娥也笑著跟隨而去，回到南山。",
+      "translated_vi": "Tây Vương Mẫu phất mạnh tay áo, ưỡn thẳng lưng sải bước rời đi, Hằng Nga cũng mỉm cười cất bước theo sau, quay trở về Nam Sơn."
+    },
+    {
+      "para_id": "c0308p0143",
+      "index": 143,
+      "raw_zh": "到了南山後，西王母不告而別。",
+      "translated_vi": "Sau khi tới Nam Sơn, Tây Vương Mẫu không lời từ biệt mà rời đi."
+    },
+    {
+      "para_id": "c0308p0144",
+      "index": 144,
+      "raw_zh": "雲千峰與蚩尤之戰結束，進入帝嚳算計的另一個階段，西王母必須回去開始執行新的任務。",
+      "translated_vi": "Trận chiến giữa Vân Thiên Phong và Xi Vưu đã kết thúc, tiến trình bước vào một giai đoạn mưu tính khác của Đế Khốc, Tây Vương Mẫu buộc phải quay về bắt tay vào chấp hành nhiệm vụ mới."
+    },
+    {
+      "para_id": "c0308p0145",
+      "index": 145,
+      "raw_zh": "十八層內。",
+      "translated_vi": "Bên trong tầng mười tám."
+    },
+    {
+      "para_id": "c0308p0146",
+      "index": 146,
+      "raw_zh": "得知雲千峰醒來，九屠，大天使和一號全都匯聚到未庫避身所周圍，一個個說的話，都感天動地的。",
+      "translated_vi": "Biết tin Vân Thiên Phong tỉnh lại, Cửu Đồ, Đại Thiên Sứ và Số Một đều kéo tới vây quanh nơi trú ẩn Mùi Khố, từng kẻ cất lời mà lời nào lời nấy đều nghe cảm động thấu tận trời xanh."
+    },
+    {
+      "para_id": "c0308p0147",
+      "index": 147,
+      "raw_zh": "雲千峰聽得頭皮發麻，突然覺得帝嚳把九屠坑到地獄十八層，不是沒有道理的。",
+      "translated_vi": "Vân Thiên Phong nghe đến mức da đầu tê rần, bỗng thấy Đế Khốc gài bẫy đày đám Cửu Đồ xuống tầng mười tám Địa Ngục quả nhiên chẳng phải không có lý do."
+    },
+    {
+      "para_id": "c0308p0148",
+      "index": 148,
+      "raw_zh": "一群人吃著烤肉，喝著九屠巨門用這裡植物做的茶。",
+      "translated_vi": "Cả nhóm vừa ăn thịt nướng, vừa uống trà do Cự Môn của nhóm Cửu Đồ dùng cây cỏ nơi này nấu ra."
+    },
+    {
+      "para_id": "c0308p0149",
+      "index": 149,
+      "raw_zh": "酒水沒了，楊玉奴就剩下半瓶XO。",
+      "translated_vi": "Rượu đã cạn sạch, Dương Ngọc Nô cũng chỉ còn lại nửa chai XO."
+    },
+    {
+      "para_id": "c0308p0150",
+      "index": 150,
+      "raw_zh": "吃飽喝足後，雲千峰宣布今日休整，明日天亮去探戌土之庫所在的溫泉湖，待到確定安全後，連通水道最後這戌土之段，開啟四庫相衝，尋找這四庫之島最大的秘密。",
+      "translated_vi": "Sau khi ăn no uống say, Vân Thiên Phong tuyên bố hôm nay nghỉ ngơi hồi phục, sáng mai trời sáng sẽ đi thám thính hồ suối nước nóng nơi Tuất Thổ Chi Khố tọa lạc; đợi sau khi xác nhận an toàn sẽ khơi thông đoạn Tuất Thổ cuối cùng của đường dẫn nước, kích hoạt thế Tứ Khố tương xung, tìm kiếm bí mật lớn nhất của hòn đảo Tứ Khố này."
+    },
+    {
+      "para_id": "c0308p0151",
+      "index": 151,
+      "raw_zh": "夜幕，眾人散去。",
+      "translated_vi": "Màn đêm buông xuống, mọi người giải tán."
+    },
+    {
+      "para_id": "c0308p0152",
+      "index": 152,
+      "raw_zh": "雲千峰在溪水裡洗了個澡，鑽進了溫暖的氈房內，裡面鋪著木板，木板上鋪著厚厚的皮毛當床，非常舒適。",
+      "translated_vi": "Vân Thiên Phong tắm rửa dưới làn nước suối rồi chui vào trong căn lều da ấm áp. Bên trong lót ván gỗ, trên ván gỗ trải một lớp da lông dày làm giường, vô cùng thoải mái êm ái."
+    },
+    {
+      "para_id": "c0308p0153",
+      "index": 153,
+      "raw_zh": "看著從門外鑽進來的楊玉奴，雲千峰想起之前的茬，板著臉道：",
+      "translated_vi": "Nhìn Dương Ngọc Nô từ ngoài cửa chui vào, Vân Thiên Phong sực nhớ tới chuyện lúc trước, bèn nghiêm mặt nói:"
+    },
+    {
+      "para_id": "c0308p0154",
+      "index": 154,
+      "raw_zh": "“還相中了人，說吧，怎麽罰？”",
+      "translated_vi": "\"Còn vừa mắt người khác cơ đấy. Nói đi, phạt thế nào đây?\""
+    },
+    {
+      "para_id": "c0308p0155",
+      "index": 155,
+      "raw_zh": "楊玉奴低著頭，柔聲道：",
+      "translated_vi": "Dương Ngọc Nô cúi gằm đầu, giọng dịu dàng nhỏ nhẹ:"
+    },
+    {
+      "para_id": "c0308p0156",
+      "index": 156,
+      "raw_zh": "“今日，不遮郎君眼睛，如何？”",
+      "translated_vi": "\"Hôm nay... không che mắt lang quân, được không chàng?\""
+    },
+    {
+      "para_id": "c0308p0157",
+      "index": 157,
+      "raw_zh": "雲千峰展顏，笑道：",
+      "translated_vi": "Vân Thiên Phong giãn mày mỉm cười:"
+    },
+    {
+      "para_id": "c0308p0158",
+      "index": 158,
+      "raw_zh": "“如此.那便免了一頓板子吧爬過來.”",
+      "translated_vi": "\"Như thế... vậy thì tha cho một trận đòn roi nhé. Bò lại đây...\""
+    },
+    {
+      "para_id": "c0308p0159",
+      "index": 159,
+      "raw_zh": "感謝書友尾數40319，尾數43857，尾數49570，鯨與鯨落嶼的打賞，謝謝你們的支持！！！",
+      "translated_vi": "Cảm ơn bạn đọc có số đuôi 40319, đuôi 43857, đuôi 49570, Kinh Dữ Kinh Lạc Dữ đã ủng hộ phần thưởng, cảm ơn sự ủng hộ của các bạn!!!"
+    },
+    {
+      "para_id": "c0308p0160",
+      "index": 160,
+      "raw_zh": "感謝燭影亂葉飄零，唯雙丿清風，彌子砂砂，耳元耳元，狗三一生之敵，阿玄_，銀耳_，加九錫都督中外諸軍事，南煌雲曦，易曉天i，拳打二刺螈，RICARD，丶丶，咕嘰一，扶光a，月空阿呆，_記得多喝熱水_，陸某動手了，唯有時光sky，詩無邪，正版神豬，木辰_s，沐雪月，氪不改命I，書友尾數01131，21912，27433，01799，43501，28279，53420，13704，57433，54009，43444，10448，19972，54304，18685，20224，09744，49412，39637，14734，55441，33872，08201，41919，54087，的月票獎勵，謝謝你們的支持！！！",
+      "translated_vi": "Cảm ơn Chúc Ảnh Loạn Diệp Phiêu Linh, Duy Song 丿 Thanh Phong, Di Tử Sa Sa, Nhĩ Nguyên Nhĩ Nguyên, Cẩu Tam Nhất Sinh Chi Địch, A Huyền_, Ngân Nhĩ_, Gia Cửu Tích Đô Đốc Trung Ngoại Chư Quân Sự, Nam Hoàng Vân Hi, Dịch Hiểu Thiên i, Quyền Đả Nhị Thứ Nguyên, RICARD, 丶丶, Cô Kê Nhất, Phù Quang a, Nguyệt Không A Ngốc, _Nhớ Uống Nhiều Nước Ấm_, Lục Mỗ Động Thủ Liễu, Duy Hữu Thời Quang sky, Thi Vô Tà, Chính Bản Thần Trư, Mộc Thần_s, Mộc Tuyết Nguyệt, Khắc Bất Cải Mệnh I, cùng các bạn đọc có số đuôi 01131, 21912, 27433, 01799, 43501, 28279, 53420, 13704, 57433, 54009, 43444, 10448, 19972, 54304, 18685, 20224, 09744, 49412, 39637, 14734, 55441, 33872, 08201, 41919, 54087 đã bỏ phiếu tháng khen thưởng, cảm ơn sự ủng hộ của các bạn!!!"
+    },
+    {
+      "para_id": "c0308p0161",
+      "index": 161,
+      "raw_zh": "今天有點冷，一整天都穿著外套，這愜意的盛夏啊~~~哈哈哈！！！",
+      "translated_vi": "Hôm nay hơi lạnh, cả ngày đều phải mặc áo khoác, quả là một mùa hè oi bức thật thư thái làm sao~~~ Ha ha ha!!!"
+    },
+    {
+      "para_id": "c0308p0162",
+      "index": 162,
+      "raw_zh": "祝大家清涼一夏，晚安！！！",
+      "translated_vi": "Chúc mọi người một mùa hè mát mẻ, chúc ngủ ngon!!!"
+    }
+  ]
+}

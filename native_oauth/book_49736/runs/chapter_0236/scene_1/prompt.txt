@@ -1,0 +1,82 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0236|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|七成|bảy phần
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §41):
+§1 236.第236章 造物主的實驗
+§2 第236章 造物主的實驗
+§3 [Ø=云千峰]哪怕濕瑪.瑪肆科早就對人類這種生物的三次基因變化有著深刻的了解，但是每當提及此，依舊難掩臉上的不可思議。
+§4 [Ø=云千峰]他壓抑著內心的那種激動，讓聲音聽起來平緩一些，道：
+§5 [Ø=云千峰]“那些當年反抗你的女閻羅，他們對生物基因的了解是我所見過的所有文明裡，最深刻的，可見你當初對他們的引領是很成功的。
+§6 [Ø=云千峰]他們在母星破碎後，來到地球，給自己的部族換了一個名字， [||] 稱之為巫，這個巫字，就是兩條雙螺旋交叉而成。
+§7 [Ø=云千峰]看起來像是兩個工字十字交叉，但一旦旋轉起來，就是律動的洛書，和基因橫截面螺旋是一樣的。
+§8 [Ø=云千峰]我們得到的很多關於人類基因的研究，七成[M1:bảy phần]來自你引導過的巫。”
+§9 [Ø=云千峰]白狐當然知道那些叛徒有多強大，他們已經可以進行基因和混合嫁接，製造出各種強大的生命體，自己沒少吃虧。
+§10 [Ø=云千峰]很驕傲，也很蛋疼。
+§11 瑪肆科繼續道：
+§12 [Ø=云千峰]“我們統計結合了各文明對基因的了解後發現，人類這種生物在初創造時，是生活在海洋之中的。
+§13 [Ø=云千峰]現代的人類也還保存著一些海洋生物的特點，比如對鹽的索求無度，完全區別路陸生動物。
+§14 [Ø=云千峰]最原始的人類，有著現在人上半身的模樣， [||] 但下半身卻是鱗片覆蓋的細長魚尾，強大的生理構造，能夠讓他們在海洋的各個深度自由翱翔和生活。
+§15 [Ø=云千峰]我們建模後發現，當時的他們沒有語言的功能，交流是靠著大腦下部的松果體分泌信息素進行彼此的交流。
+§16 [Ø=云千峰]那種交流是真誠的，永無謊言和虛假的交流，那是個沒有謊言的世界。
+§17 [Ø=云千峰]同時他們的大腦非常強大，不但腦容量超過現代人， [||] 且因為海洋的弱重力環境，讓他們可以把更多的能量用於運轉大腦，所以遠比現代人類聰明。
+§18 [Ø=云千峰]現代人類的大腦使用效率只有百分之十，那麽原始海洋內的人類，使用率最少能達到百分之六十以上。
+§19 [Ø=云千峰]他們真善美，沒有暴力傾向，與世無爭， [||] 海洋物產的豐富，讓他們無需工作就能獲取生存的所有事物，造物主是無比善待他們的，但他們滅絕了。”
+§20 白狐忙問道：
+§21 “找到滅絕的原因了嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 [Ø=云千峰]瑪肆科點了點頭，道：
+§23 [Ø=云千峰]“找到原因了，和我一樣神軀落在火星的窮醜，也早早的托生到地球， [||] 他在六十年代末和七十年代初，專門為搞清楚這件事，做了一系列的實驗。
+§24 [Ø=云千峰]他將剛出生沒多久的白鼠放在一個巨大的人造老鼠城市內，在個實驗裡， [||] 他把自己當做無私的大自然，給予這些老鼠豐富的生存資源，讓它們無需為了生存為憂愁。
+§25 [Ø=云千峰]老鼠這種群生社會型動物，和人類極其相似，而且它們很聰明。
+§26 [Ø=云千峰]他一共進行了二十五次這樣的實驗，最終的結果都是老鼠完全滅絕，這就是歷史上讓生物科學家、社會科學家和心理學專家聞之色變的二十五號宇宙實驗。
+§27 [Ø=云千峰]它們的滅絕，不是因為外力，而是因為自身。
+§28 [Ø=云千峰]每一次實驗的後期，老鼠們就會放棄繁衍， [||] 安靜的匯聚在一個廣場上，抬頭看著天，等待著死亡的降臨。
+§29 [Ø=云千峰]窮醜最後得出結論，生命誕生與這個宇宙，本就是惡意的， [||] 非善實惡，生命會加速宇宙的熵增，從而達到快速毀滅宇宙的目的。
+§30 [Ø=云千峰]所以宇宙的規則是毀滅所有生命，生命要想生存下去，只能拚盡全力自救。
+§31 [Ø=云千峰]也正因為如此，才有了人類基因的第二次改變。”
+§32 [Ø=云千峰]瑪肆科說著，為白狐倒了一杯紅酒，配了一個吸管，畢竟狐狸沒有手。
+§33 [Ø=云千峰]自己也喝了一口，潤潤嗓子，繼續道：
+§34 [Ø=云千峰]“那不可知的造物主，在第一次人類滅絕後， [||] 找到了問題的根源，他沒有直接的去改變人類的基因，而是把一些能夠與人類共生的細菌和病毒放置在人類的體內。
+§35 [Ø=云千峰]細菌和病毒的繁衍Y望是這個世界上最強的，這些菌毒的求生求繁衍的貪婪程度從內部影響著人類的行為和意識，這種潛移默化，造成了人類基因的二次改變。
+§36 [Ø=云千峰]很顯然，這一次那未知的造物主成功了一半，因為人類真的不再趨向死亡，而是開始為了生存拚盡全力。
+§37 [Ø=云千峰]他們開始好S，非常主動的去繁衍，因為菌毒會在這樣的繁衍下進入到人類下一代的體內。
+§38 [Ø=云千峰]但那神秘的造物主也失敗了，因為菌毒的Y望可不僅僅是繁衍，還有無休止的掠奪。
+§39 [Ø=云千峰]這樣的意識行為，配合上當時人類高轉速，使用率達到百分之六十的大腦，將是海洋內多麽可怕的災難。
+§40 [Ø=云千峰]他們努力開發著自己掠奪的能力，讓海洋內一個又一個物種滅絕。
+§41 [Ø=云千峰]如果我猜測的沒錯，那神秘的造物主，甚至最後都成為了當時人類的攻伐對象，而這造成了人類物種的第二次滅絕。”
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 41 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§41. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

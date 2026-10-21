@@ -1,0 +1,565 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 177,
+  "title": "Chương 177: Một Người, Một Đá, Dải Năm Màu",
+  "total_paragraphs": 92,
+  "translated_paragraphs": 92,
+  "source_hash": "ae6eb95a596191ec52ce429e46bd066b71b92d3c46fe3bc9166f5fece6a0c093",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0177p0001",
+      "index": 1,
+      "raw_zh": "第177章 一人 一石 五色帶",
+      "translated_vi": "Chương 177: Một Người, Một Đá, Dải Năm Màu"
+    },
+    {
+      "para_id": "c0177p0002",
+      "index": 2,
+      "raw_zh": "天黑的太快。",
+      "translated_vi": "Trời tối sầm lại quá nhanh."
+    },
+    {
+      "para_id": "c0177p0003",
+      "index": 3,
+      "raw_zh": "眨眼間已經可以看到漫天星鬥。",
+      "translated_vi": "Chỉ trong chớp mắt, ngước lên đã có thể nhìn thấy muôn vì tinh tú giăng đầy trời."
+    },
+    {
+      "para_id": "c0177p0004",
+      "index": 4,
+      "raw_zh": "這是極不科學的。",
+      "translated_vi": "Điều này quả thực vô cùng phi khoa học."
+    },
+    {
+      "para_id": "c0177p0005",
+      "index": 5,
+      "raw_zh": "雲千峰掐算了一下時間，今天正是農歷十五，這樣的晴朗的夜空，應該有一輪圓月才對。",
+      "translated_vi": "Vân Thiên Phong bấm ngón tay tính toán thời gian, hôm nay rõ ràng là rằm tháng mười lăm âm lịch, với bầu trời đêm trong trẻo không gợn mây thế này đáng lý ra phải có một vầng trăng tròn vành vạnh mới phải."
+    },
+    {
+      "para_id": "c0177p0006",
+      "index": 6,
+      "raw_zh": "然而並沒有。",
+      "translated_vi": "Thế nhưng trên trời tuyệt nhiên chẳng có lấy một bóng trăng."
+    },
+    {
+      "para_id": "c0177p0007",
+      "index": 7,
+      "raw_zh": "倒是法緹娜給出了答案。",
+      "translated_vi": "Ngược lại chính Fatina lại là người đưa ra đáp án."
+    },
+    {
+      "para_id": "c0177p0008",
+      "index": 8,
+      "raw_zh": "“是日食。”",
+      "translated_vi": "“Là nhật thực.”"
+    },
+    {
+      "para_id": "c0177p0009",
+      "index": 9,
+      "raw_zh": "雲千峰急忙抬頭看天，尋找太陽的位置。",
+      "translated_vi": "Vân Thiên Phong vội vàng ngước mắt nhìn lên nền trời, tìm kiếm vị trí của mặt trời."
+    },
+    {
+      "para_id": "c0177p0010",
+      "index": 10,
+      "raw_zh": "然而除了星鬥就是漆黑的天幕。",
+      "translated_vi": "Thế nhưng ngoại trừ ngàn sao lấp lánh thì chỉ còn lại một màn đêm đen kịt vô tận."
+    },
+    {
+      "para_id": "c0177p0011",
+      "index": 11,
+      "raw_zh": "日食雲千峰見過，但是月亮如此嚴絲合縫的把太陽遮擋住的日食，還是第一次見。",
+      "translated_vi": "Hiện tượng nhật thực Vân Thiên Phong từng chứng kiến không ít lần, nhưng nhật thực mà mặt trăng che khuất mặt trời khít khao hoàn hảo tới mức này thì đây là lần đầu tiên anh được thấy."
+    },
+    {
+      "para_id": "c0177p0012",
+      "index": 12,
+      "raw_zh": "最主要的，這日食來得太快，似乎突然一下天就黑了，沒有那種明暗的慢慢過渡。",
+      "translated_vi": "Quan trọng nhất là trận nhật thực này ập đến quá đỗi mau lẹ, dường như chỉ trong tích tắc đất trời đã tối đen như mực, hoàn toàn không có quá trình chuyển tiếp từ từ giữa sáng và tối."
+    },
+    {
+      "para_id": "c0177p0013",
+      "index": 13,
+      "raw_zh": "星空無法給予光明。",
+      "translated_vi": "Bầu trời đầy sao chẳng thể mang lại ánh sáng cho mặt đất."
+    },
+    {
+      "para_id": "c0177p0014",
+      "index": 14,
+      "raw_zh": "綠洲內陷入漆黑。",
+      "translated_vi": "Cả ốc đảo chìm sâu vào bóng tối mịt mùng."
+    },
+    {
+      "para_id": "c0177p0015",
+      "index": 15,
+      "raw_zh": "安德想要燃起篝火，但是被法緹娜製止，因為黑暗中的篝火，無異於活靶子。",
+      "translated_vi": "Ander định châm một đống lửa trại nhưng đã bị Fatina kịp thời ngăn cản, bởi lẽ giữa màn đêm đặc quánh, một đống lửa rực sáng chẳng khác nào tấm bia sống cho kẻ địch nhắm bắn."
+    },
+    {
+      "para_id": "c0177p0016",
+      "index": 16,
+      "raw_zh": "他們現在不敢確定敵人是不是在附近。",
+      "translated_vi": "Hiện tại bọn họ không dám chắc chắn kẻ địch có đang lẩn khuất ở gần đây hay không."
+    },
+    {
+      "para_id": "c0177p0017",
+      "index": 17,
+      "raw_zh": "“咦？那是什麽？”",
+      "translated_vi": "“Ơ kìa? Kia là thứ gì thế?”"
+    },
+    {
+      "para_id": "c0177p0018",
+      "index": 18,
+      "raw_zh": "阿菲法指著狹長的水面上，驚訝的說道。",
+      "translated_vi": "Afifa chỉ tay về phía mặt nước hẹp dài, cất tiếng kinh ngạc thốt lên."
+    },
+    {
+      "para_id": "c0177p0019",
+      "index": 19,
+      "raw_zh": "幾個人被她的聲音吸引，急忙都看向那條池水。",
+      "translated_vi": "Mấy người bị giọng nói của cô thu hút, vội vàng đưa mắt nhìn về phía dải hồ nước."
+    },
+    {
+      "para_id": "c0177p0020",
+      "index": 20,
+      "raw_zh": "就見水面上有兩個拇指蓋大小的光球在飄動著，一紅一綠。",
+      "translated_vi": "Chỉ thấy trên mặt nước có hai quả cầu sáng nhỏ cỡ móng tay cái đang lững lờ trôi dạt, một đỏ một xanh lục."
+    },
+    {
+      "para_id": "c0177p0021",
+      "index": 21,
+      "raw_zh": "那兩個小光球沒有清晰的邊緣，就好像是兩團棉絮般交織的光。",
+      "translated_vi": "Hai quả cầu sáng nhỏ bé ấy không hề có đường viền rõ rệt, trông hệt như hai búi ánh sáng đan bện vào nhau tựa những sợi bông gòn."
+    },
+    {
+      "para_id": "c0177p0022",
+      "index": 22,
+      "raw_zh": "約翰疑惑道：",
+      "translated_vi": "John đầy vẻ nghi hoặc lên tiếng:"
+    },
+    {
+      "para_id": "c0177p0023",
+      "index": 23,
+      "raw_zh": "“不對，光球不是在水面上，它沒有倒影。”",
+      "translated_vi": "“Không đúng, quả cầu sáng không nằm trên mặt nước, nó hoàn toàn không có hình ảnh phản chiếu.”"
+    },
+    {
+      "para_id": "c0177p0024",
+      "index": 24,
+      "raw_zh": "果不其然，幾個人仔細看過去後發現，那平靜如鏡面的水池上，並沒有兩個光球的倒影。",
+      "translated_vi": "Quả nhiên, sau khi mấy người cẩn thận nhìn kỹ lại liền phát hiện, trên mặt hồ phẳng lặng như gương kia tuyệt nhiên không có bóng hình phản chiếu của hai quả cầu sáng."
+    },
+    {
+      "para_id": "c0177p0025",
+      "index": 25,
+      "raw_zh": "不在水上，那麽便應該是在水下。",
+      "translated_vi": "Không nằm trên mặt nước, vậy thì ắt hẳn nó phải ở dưới đáy nước."
+    },
+    {
+      "para_id": "c0177p0026",
+      "index": 26,
+      "raw_zh": "安德和阿菲法都是行動派，立馬跑到水邊，向著水深處看去。",
+      "translated_vi": "Ander và Afifa đều là những người thuộc phái hành động, lập tức chạy vội ra mép hồ, nhoài người nhìn sâu xuống làn nước."
+    },
+    {
+      "para_id": "c0177p0027",
+      "index": 27,
+      "raw_zh": "這池水看著不大，但是深度卻很誇張。",
+      "translated_vi": "Dải hồ này nhìn bề ngoài không lớn nhưng độ sâu lại sâu đến mức đáng kinh ngạc."
+    },
+    {
+      "para_id": "c0177p0028",
+      "index": 28,
+      "raw_zh": "倆人趴在岸邊看到七八米的水底處，在那些纖長水草的縫隙裡，有著光暈在流動。",
+      "translated_vi": "Hai người nằm rạp bên bờ nhìn xuống tận đáy nước sâu bảy tám mét, qua những khe hở giữa đám rong rêu mềm mại dài thướt tha, quả thực có những vầng hào quang đang dập dềnh lưu chuyển."
+    },
+    {
+      "para_id": "c0177p0029",
+      "index": 29,
+      "raw_zh": "而那些紅色和綠色的光透過水草的縫隙延伸到水面上，竟然神奇的交織成飄動的光團。",
+      "translated_vi": "Mà những luồng sáng đỏ và xanh lục kia xuyên qua khe hở của đám rong rêu vươn lên mặt nước, thế mà lại kỳ diệu đan dệt thành những quầng sáng bồng bềnh phiêu dạt."
+    },
+    {
+      "para_id": "c0177p0030",
+      "index": 30,
+      "raw_zh": "與此同時，法緹娜身上也出現了怪異的現象。",
+      "translated_vi": "Cùng lúc đó, trên người Fatina cũng xuất hiện hiện tượng vô cùng quái dị."
+    },
+    {
+      "para_id": "c0177p0031",
+      "index": 31,
+      "raw_zh": "她拴在腰間的神軀也開始散發出光暈，一樣是紅色和綠色交織流動。",
+      "translated_vi": "Khối thần khu mà cô đeo bên hông cũng bắt đầu tỏa ra những vầng sáng mờ ảo, cũng là hai màu đỏ và xanh lục đan xen lưu chuyển hệt như dưới đáy hồ."
+    },
+    {
+      "para_id": "c0177p0032",
+      "index": 32,
+      "raw_zh": "法緹娜急忙來到水邊，仔細看向水底。",
+      "translated_vi": "Fatina vội vàng bước nhanh tới mép nước, chăm chú nhìn sâu xuống đáy hồ."
+    },
+    {
+      "para_id": "c0177p0033",
+      "index": 33,
+      "raw_zh": "安德看到法緹娜身上的光暈，面露喜色，慨歎道：",
+      "translated_vi": "Ander nhìn thấy vầng hào quang trên người Fatina, nét mặt lộ rõ vẻ hân hoan, xúc động cảm thán:"
+    },
+    {
+      "para_id": "c0177p0034",
+      "index": 34,
+      "raw_zh": "“這下面，水草裡隱藏著神器，神在眷顧我們，神用日食為我們指引了方向！偉大的法緹娜，我去為您把神器取出來，神即將降臨！”",
+      "translated_vi": "“Dưới đáy nước, ẩn giấu trong đám rong rêu kia chính là thần khí! Thần linh đang che chở cho chúng ta, Thần linh đã dùng nhật thực để chỉ đường dẫn lối cho chúng ta! Hỡi Fatina vĩ đại, tôi sẽ lặn xuống vớt thần khí lên cho người, Thần linh sắp sửa giáng trần rồi!”"
+    },
+    {
+      "para_id": "c0177p0035",
+      "index": 35,
+      "raw_zh": "雲千峰眯著眼睛看著水底的光暈，思索著，看向旁邊同樣被這光暈吸引的約翰，問道：",
+      "translated_vi": "Vân Thiên Phong nheo mắt nhìn vầng hào quang dưới đáy nước, trầm ngâm suy nghĩ rồi quay sang nhìn John cũng đang bị quầng sáng kia thu hút ở bên cạnh, cất tiếng hỏi:"
+    },
+    {
+      "para_id": "c0177p0036",
+      "index": 36,
+      "raw_zh": "“這裡距離你發現隕石的地方還有多遠？”",
+      "translated_vi": "“Từ đây tới nơi anh phát hiện khối thiên thạch còn bao xa nữa?”"
+    },
+    {
+      "para_id": "c0177p0037",
+      "index": 37,
+      "raw_zh": "約翰沒有回答雲千峰的話，而是和安德一樣，滿目癡迷的開始脫衣服，看起來也是準備潛入水底去把那些發光的隕石搬上來。",
+      "translated_vi": "John không hề đáp lại câu hỏi của Vân Thiên Phong, mà cũng giống hệt như Ander, ánh mắt tràn ngập vẻ si mê bắt đầu cởi phăng quần áo trên người, trông bộ dạng rõ ràng là chuẩn bị lặn xuống đáy nước để vác những khối thiên thạch phát sáng kia lên bờ."
+    },
+    {
+      "para_id": "c0177p0038",
+      "index": 38,
+      "raw_zh": "雲千峰眼睛已經眯成了一條縫。",
+      "translated_vi": "Mắt của Vân Thiên Phong đã híp lại thành một đường chỉ mỏng."
+    },
+    {
+      "para_id": "c0177p0039",
+      "index": 39,
+      "raw_zh": "因為約翰此時的行為很不正常。",
+      "translated_vi": "Bởi vì hành vi của John lúc này quá đỗi bất thường."
+    },
+    {
+      "para_id": "c0177p0040",
+      "index": 40,
+      "raw_zh": "約翰無法違抗法緹娜的命令，這是出於法緹娜的眼神有一種讓他們無法抗拒的魔力。",
+      "translated_vi": "John không thể kháng cự lại mệnh lệnh của Fatina, điều này xuất phát từ ánh mắt của Fatina mang một thứ ma lực khiến người khác không tài nào chống cự nổi."
+    },
+    {
+      "para_id": "c0177p0041",
+      "index": 41,
+      "raw_zh": "但此時，約翰並沒有得到法緹娜的命令。",
+      "translated_vi": "Thế nhưng lúc này, John hoàn toàn không nhận được bất kỳ mệnh lệnh nào từ Fatina."
+    },
+    {
+      "para_id": "c0177p0042",
+      "index": 42,
+      "raw_zh": "而雲千峰記得很清楚，約翰曾經請求自己殺了他，只因為不希望惡魔降臨。",
+      "translated_vi": "Hơn nữa Vân Thiên Phong còn nhớ rất rõ, John từng khẩn thiết cầu xin anh hãy giết chết gã, chỉ vì không muốn ác ma giáng thế."
+    },
+    {
+      "para_id": "c0177p0043",
+      "index": 43,
+      "raw_zh": "但此時，水下如此多的，與法緹娜擁有的神器一樣的隕石在水下，約翰怎麽會露出這樣癡迷貪戀的神色？",
+      "translated_vi": "Vậy mà lúc này, dưới nước có nhiều khối thiên thạch giống hệt như món thần khí Fatina đang sở hữu đến thế, cớ sao John lại có thể lộ ra vẻ mặt si mê thèm muốn tột cùng như vậy?"
+    },
+    {
+      "para_id": "c0177p0044",
+      "index": 44,
+      "raw_zh": "他應該恐懼才對啊！",
+      "translated_vi": "Lẽ ra gã phải cảm thấy sợ hãi mới đúng chứ!"
+    },
+    {
+      "para_id": "c0177p0045",
+      "index": 45,
+      "raw_zh": "“窸窣，窸窣”",
+      "translated_vi": "“Sột soạt, sột soạt”"
+    },
+    {
+      "para_id": "c0177p0046",
+      "index": 46,
+      "raw_zh": "阿菲法也開始脫外面罩著的長袍，很顯然也是準備下水。",
+      "translated_vi": "Afifa cũng bắt đầu cởi chiếc áo choàng khoác bên ngoài, hiển nhiên cũng đang chuẩn bị nhảy xuống nước."
+    },
+    {
+      "para_id": "c0177p0047",
+      "index": 47,
+      "raw_zh": "只有法緹娜和雲千峰一樣，沒有動，而是沉思著。",
+      "translated_vi": "Chỉ có Fatina và Vân Thiên Phong là vẫn đứng yên không nhúc nhích, trầm tư suy nghĩ."
+    },
+    {
+      "para_id": "c0177p0048",
+      "index": 48,
+      "raw_zh": "就在安德和約翰各自搬起一塊石頭，跳入水中那一刻，雲千峰眼睛一亮，似乎想到了什麽。",
+      "translated_vi": "Ngay khoảnh khắc Ander và John mỗi người ôm lấy một tảng đá lớn chuẩn bị nhảy ùm xuống nước, mắt Vân Thiên Phong chợt lóe lên tia sáng, dường như anh đã nghĩ ra điều gì."
+    },
+    {
+      "para_id": "c0177p0049",
+      "index": 49,
+      "raw_zh": "就見他右臂猿伸，一把拽住約翰的頭髮，硬生生把他半截入水的身體揪了出來。",
+      "translated_vi": "Chỉ thấy cánh tay phải của anh vươn dài tựa vượn thần, túm phắt lấy mái tóc của John, dùng sức lôi ngược nửa thân hình đã chạm nước của gã lên bờ."
+    },
+    {
+      "para_id": "c0177p0050",
+      "index": 50,
+      "raw_zh": "又一把抓住同樣準備跳水的阿菲法，然後回頭對著法緹娜大聲道：",
+      "translated_vi": "Anh lại nhanh tay túm chặt lấy Afifa cũng đang chuẩn bị nhảy xuống hồ, sau đó quay đầu hét lớn về phía Fatina:"
+    },
+    {
+      "para_id": "c0177p0051",
+      "index": 51,
+      "raw_zh": "“看住他們兩個，別讓他們下水，下面很危險！”",
+      "translated_vi": "“Trông chừng hai người bọn họ, tuyệt đối không được để họ xuống nước, dưới đáy vô cùng nguy hiểm!”"
+    },
+    {
+      "para_id": "c0177p0052",
+      "index": 52,
+      "raw_zh": "說著，雲千峰幾乎沒有任何遲疑，直接跳進水中。",
+      "translated_vi": "Nói đoạn, Vân Thiên Phong gần như không hề do dự nửa giây, lao thẳng người nhảy ùm xuống nước."
+    },
+    {
+      "para_id": "c0177p0053",
+      "index": 53,
+      "raw_zh": "因為安德已經沉入水中。",
+      "translated_vi": "Bởi vì Ander lúc này đã chìm nghỉm xuống đáy hồ."
+    },
+    {
+      "para_id": "c0177p0054",
+      "index": 54,
+      "raw_zh": "水底之下，紅色和綠色的光暈流動，斑斑點點的透過水草的縫隙，就像是一顆顆閃著光的寶石。",
+      "translated_vi": "Dưới đáy nước, những luồng sáng đỏ và xanh lục bồng bềnh lưu chuyển, lốm đốm xuyên qua các khe hở của đám rong rêu, trông hệt như từng viên bảo ngọc đang tỏa sáng lung linh."
+    },
+    {
+      "para_id": "c0177p0055",
+      "index": 55,
+      "raw_zh": "而安德此刻正在水底掙扎。",
+      "translated_vi": "Còn Ander lúc này đang giãy giụa kịch liệt dưới đáy nước."
+    },
+    {
+      "para_id": "c0177p0056",
+      "index": 56,
+      "raw_zh": "他手上的石頭已經扔掉，雙臂用力的揮舞遊動，但是身體卻絲毫無法上升，就好像有什麽東西死死抓住了他的雙腿。",
+      "translated_vi": "Tảng đá trên tay gã đã vứt đi từ lúc nào, hai cánh tay gã ra sức quẫy đạp bơi lội, thế nhưng cơ thể lại chẳng thể nhích lên dù chỉ một chút, tựa như có thứ gì đó đang bấu chặt lấy hai cẳng chân của gã."
+    },
+    {
+      "para_id": "c0177p0057",
+      "index": 57,
+      "raw_zh": "雲千峰不敢大意，飄在水中，看向安德腳下。",
+      "translated_vi": "Vân Thiên Phong không dám khinh suất, anh lơ lửng trong làn nước, đưa mắt nhìn xuống dưới chân Ander."
+    },
+    {
+      "para_id": "c0177p0058",
+      "index": 58,
+      "raw_zh": "就見那茂盛的水草好似美女的發絲，又細又長，因為安德的掙扎，池水律動，引得那些水草也跟著蕩漾起來。",
+      "translated_vi": "Chỉ thấy đám rong rêu tốt tươi dưới đáy hồ mảnh dài hệt như mái tóc của mỹ nhân. Do Ander giãy giụa dữ dội khiến làn nước chao đảo, kéo theo đám rong rêu kia cũng đung đưa lay động theo."
+    },
+    {
+      "para_id": "c0177p0059",
+      "index": 59,
+      "raw_zh": "而就在水草擺動的空擋，雲千峰借著水下那紅色和綠色的光暈，看到一個人。",
+      "translated_vi": "Và ngay trong khoảng trống khi đám rong rêu dạt ra, nương theo luồng sáng đỏ và xanh lục mờ ảo dưới nước, Vân Thiên Phong đã nhìn thấy một người."
+    },
+    {
+      "para_id": "c0177p0060",
+      "index": 60,
+      "raw_zh": "準確來說，應該是一具屍體。",
+      "translated_vi": "Nói cho chuẩn xác hơn, đó là một cái xác chết."
+    },
+    {
+      "para_id": "c0177p0061",
+      "index": 61,
+      "raw_zh": "那人臉已經泡得泛白水脹，就好像發面的饅頭。",
+      "translated_vi": "Khuôn mặt của kẻ đó đã ngâm nước trương phềnh trắng bệch, chẳng khác nào chiếc bánh bao ủ bột lên men."
+    },
+    {
+      "para_id": "c0177p0062",
+      "index": 62,
+      "raw_zh": "一雙眼睛更是瞪得溜圓，青色的白眼仁上布滿了發黑的血絲。",
+      "translated_vi": "Đôi mắt trợn trừng tròn xoe, lòng trắng nhợt nhạt phủ đầy những tia máu thâm đen quánh lại."
+    },
+    {
+      "para_id": "c0177p0063",
+      "index": 63,
+      "raw_zh": "他張著嘴，似乎在呐喊。",
+      "translated_vi": "Cái miệng há hốc tựa như đang gào thét kêu cứu trong tuyệt vọng."
+    },
+    {
+      "para_id": "c0177p0064",
+      "index": 64,
+      "raw_zh": "使勁上伸展著雙臂，就攀在安德的一雙小腿之上。",
+      "translated_vi": "Hai cánh tay ra sức vươn thẳng lên trên, bấu chặt cứng lấy đôi bắp chân của Ander."
+    },
+    {
+      "para_id": "c0177p0065",
+      "index": 65,
+      "raw_zh": "找到了危險的根源，雲千峰抽出腰間砍刀，快速的潛過去，用刀斬斷了安德腳下的水草和那屍體的雙臂，拽著安德的頭髮，把他揪到了水面之上。",
+      "translated_vi": "Đã tìm ra nguồn gốc của hiểm nguy, Vân Thiên Phong rút phắt con dao chặt bên hông, nhanh như cắt lặn áp sát tới, vung dao chém đứt đám rong rêu dưới chân Ander và chặt đứt luôn đôi cánh tay của cái xác chết, sau đó túm lấy tóc Ander lôi ngược gã trồi lên khỏi mặt nước."
+    },
+    {
+      "para_id": "c0177p0066",
+      "index": 66,
+      "raw_zh": "剛把已經昏迷的安德放到岸邊，就見阿菲法和約翰也都昏迷在地上。",
+      "translated_vi": "Vừa đem Ander đã ngất lịm đặt lên bờ, anh liền thấy Afifa và John cũng đều đã nằm bất tỉnh nhân sự trên mặt đất."
+    },
+    {
+      "para_id": "c0177p0067",
+      "index": 67,
+      "raw_zh": "法緹娜看著全身濕透的雲千峰，淡淡道：",
+      "translated_vi": "Fatina nhìn Vân Thiên Phong ướt sũng như chuột lột, thản nhiên cất giọng:"
+    },
+    {
+      "para_id": "c0177p0068",
+      "index": 68,
+      "raw_zh": "“我把他們打暈了。”",
+      "translated_vi": "“Tôi đánh ngất bọn họ rồi.”"
+    },
+    {
+      "para_id": "c0177p0069",
+      "index": 69,
+      "raw_zh": "說著，指了指自己手槍的槍把。",
+      "translated_vi": "Nói rồi, cô đưa tay chỉ vào báng khẩu súng ngắn của mình."
+    },
+    {
+      "para_id": "c0177p0070",
+      "index": 70,
+      "raw_zh": "雲千峰點了點頭，沒出聲，而是謹慎的向四周看了一圈，然後在自己衣服上抽出四根白色麻線，又在阿菲法的外袍上抽掉了一根黑線。",
+      "translated_vi": "Vân Thiên Phong khẽ gật đầu không nói lời nào, mà cẩn trọng đưa mắt quan sát một vòng xung quanh. Sau đó anh rút từ trên quần áo của mình ra bốn sợi chỉ gai màu trắng, rồi lại rút thêm một sợi chỉ màu đen từ trên áo choàng của Afifa."
+    },
+    {
+      "para_id": "c0177p0071",
+      "index": 71,
+      "raw_zh": "隨後，用手揉碎了幾片草葉，將一根麻線染成綠色。",
+      "translated_vi": "Tiếp đó, anh dùng tay vò nát mấy chiếc lá cỏ, đem một sợi chỉ gai nhuộm thành màu xanh lục."
+    },
+    {
+      "para_id": "c0177p0072",
+      "index": 72,
+      "raw_zh": "咬破左手中指尖，將一根白色麻線染成紅色。",
+      "translated_vi": "Anh cắn rách đầu ngón tay giữa bàn tay trái, đem một sợi chỉ trắng nhuộm thành màu đỏ tươi."
+    },
+    {
+      "para_id": "c0177p0073",
+      "index": 73,
+      "raw_zh": "用沙土將第三根白色麻線滾成土黃色。",
+      "translated_vi": "Lại dùng cát bụi lăn sợi chỉ trắng thứ ba thành màu vàng đất."
+    },
+    {
+      "para_id": "c0177p0074",
+      "index": 74,
+      "raw_zh": "然後他挑選了一塊形狀被風蝕得成了自然假山形狀的石頭，將黑、綠、紅、土黃、白無根麻線拽成一樣長短，凝成一繩，放在那塊石頭上。",
+      "translated_vi": "Sau đó anh chọn lấy một hòn đá bị gió cát bào mòn tạo thành hình dáng non bộ tự nhiên, đem năm sợi chỉ đen, xanh lục, đỏ, vàng đất và trắng kéo dài bằng nhau, se lại thành một dải dây duy nhất rồi đặt lên trên hòn đá ấy."
+    },
+    {
+      "para_id": "c0177p0075",
+      "index": 75,
+      "raw_zh": "法緹娜一臉好奇的看著雲千峰，完全不知道他要幹什麽。",
+      "translated_vi": "Fatina mặt đầy vẻ tò mò nhìn Vân Thiên Phong, hoàn toàn không hiểu nổi anh rốt cuộc đang muốn làm trò gì."
+    },
+    {
+      "para_id": "c0177p0076",
+      "index": 76,
+      "raw_zh": "也就在這時候，雲千峰似乎做好了所有準備，就見他以雙盤式盤坐在那塊放著五色繩的石頭前面，雙手開始快速變化掐訣，口中念詠：",
+      "translated_vi": "Cũng đúng lúc này, Vân Thiên Phong dường như đã chuẩn bị xong xuôi mọi thứ. Chỉ thấy anh ngồi xếp bằng hoa sen ngay trước hòn đá đặt dải năm màu, hai bàn tay bắt đầu biến hóa bấm quyết liên hồi, trong miệng lẩm nhẩm niệm tụng:"
+    },
+    {
+      "para_id": "c0177p0077",
+      "index": 77,
+      "raw_zh": "“臨兵鬥者皆陣列在前”",
+      "translated_vi": "“Lâm binh đấu giả giai trận liệt tại tiền!”"
+    },
+    {
+      "para_id": "c0177p0078",
+      "index": 78,
+      "raw_zh": "速度極快，如此重複這九個字。",
+      "translated_vi": "Tốc độ cực kỳ mau lẹ, chín chữ này cứ thế lặp đi lặp lại không ngừng."
+    },
+    {
+      "para_id": "c0177p0079",
+      "index": 79,
+      "raw_zh": "說來也怪，如此重複九次之後，原本是漆黑的天，就那麽突然恢復了午時該有的模樣。",
+      "translated_vi": "Nói ra cũng thật kỳ lạ, sau khi niệm tụng đủ chín lần, bầu trời vốn dĩ đang tối đen như mực bỗng nhiên vụt sáng trở lại đúng dáng vẻ vốn có của buổi ban trưa."
+    },
+    {
+      "para_id": "c0177p0080",
+      "index": 80,
+      "raw_zh": "變化之快一如之前天黑一般，讓人猝不及防。",
+      "translated_vi": "Sự biến hóa nhanh đến mức hệt như lúc trời sầm tối trước đó, khiến người ta hoàn toàn trở tay không kịp."
+    },
+    {
+      "para_id": "c0177p0081",
+      "index": 81,
+      "raw_zh": "也在這一瞬間，除了溺水昏迷的安德，阿菲法和約翰幾乎同時如睡醒一般迷茫，愣怔的看了看周圍，似乎完全不知道發生了什麽。",
+      "translated_vi": "Và ngay trong khoảnh khắc ấy, ngoại trừ Ander bị sặc nước ngất lịm, cả Afifa lẫn John gần như đồng thời tỉnh táo lại với vẻ mặt mờ mịt ngơ ngác, sững sờ ngó nghiêng xung quanh, dường như hoàn toàn không biết chuyện gì vừa mới xảy ra."
+    },
+    {
+      "para_id": "c0177p0082",
+      "index": 82,
+      "raw_zh": "只有阿菲法驚叫了一聲，急忙把長袍罩在身上，遮擋住只有小衣的身體。",
+      "translated_vi": "Chỉ có Afifa là giật mình hét toáng lên một tiếng, vội vàng vớ lấy chiếc áo choàng trùm kín người, che đi thân thể chỉ còn mặc mỗi bộ đồ lót mỏng manh."
+    },
+    {
+      "para_id": "c0177p0083",
+      "index": 83,
+      "raw_zh": "隨後，他們才注意到雲千峰的怪異行為。",
+      "translated_vi": "Sau đó, bọn họ mới chú ý tới hành vi kỳ quái của Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0177p0084",
+      "index": 84,
+      "raw_zh": "一人，一石，一五色繩。",
+      "translated_vi": "Một người, một hòn đá, một dải năm màu."
+    },
+    {
+      "para_id": "c0177p0085",
+      "index": 85,
+      "raw_zh": "阿菲法好奇心重，且心直口快，忙問道：",
+      "translated_vi": "Afifa tính tình tò mò lại thẳng thắn ruột để ngoài da, vội vàng hỏi dồn:"
+    },
+    {
+      "para_id": "c0177p0086",
+      "index": 86,
+      "raw_zh": "“剛剛發生了什麽？我怎麽我怎麽把衣服脫了？雲，你又在幹什麽？”",
+      "translated_vi": "“Vừa rồi đã xảy ra chuyện gì thế? Sao tôi lại... sao tôi lại cởi hết quần áo ra thế này? Vân, anh lại đang làm trò gì vậy?”"
+    },
+    {
+      "para_id": "c0177p0087",
+      "index": 87,
+      "raw_zh": "約翰也一臉納悶，嘟囔道：",
+      "translated_vi": "John cũng đầy vẻ ngơ ngác, lẩm bẩm trong miệng:"
+    },
+    {
+      "para_id": "c0177p0088",
+      "index": 88,
+      "raw_zh": "“我是不是做夢了？剛才夢到天黑了。”",
+      "translated_vi": "“Có phải tôi đang nằm mơ không? Vừa nãy tôi mơ thấy trời tối sầm lại.”"
+    },
+    {
+      "para_id": "c0177p0089",
+      "index": 89,
+      "raw_zh": "法緹娜也一臉求知欲的看著雲千峰，顯然也在等待著答案。",
+      "translated_vi": "Fatina cũng đưa ánh mắt tràn đầy khao khát muốn biết câu trả lời nhìn về phía Vân Thiên Phong, hiển nhiên cũng đang chờ đợi một lời giải thích."
+    },
+    {
+      "para_id": "c0177p0090",
+      "index": 90,
+      "raw_zh": "雲千峰苦笑一下，道：",
+      "translated_vi": "Vân Thiên Phong cười khổ một tiếng, đáp:"
+    },
+    {
+      "para_id": "c0177p0091",
+      "index": 91,
+      "raw_zh": "“我能解釋，但怕你們這幫老外聽不懂啊”",
+      "translated_vi": "“Tôi có thể giải thích, nhưng chỉ sợ đám người nước ngoài các cô các anh nghe không hiểu thôi...”"
+    },
+    {
+      "para_id": "c0177p0092",
+      "index": 92,
+      "raw_zh": "晚安各位，祝你們好夢連連！！！",
+      "translated_vi": "Chúc mọi người ngủ ngon, mơ nhiều giấc mơ đẹp!!!"
+    }
+  ]
+}

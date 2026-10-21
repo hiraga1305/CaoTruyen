@@ -1,0 +1,487 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 18,
+  "title": "Chương 18: Quẻ này chắc chắn giải sai rồi",
+  "total_paragraphs": 79,
+  "translated_paragraphs": 79,
+  "source_hash": "641786cb251eed23e5a4dd31dc1aaf94ef4bb1c29c1aedf9be98de692e44cf53",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0018p0001",
+      "index": 1,
+      "raw_zh": "第18章 這卦肯定解錯了",
+      "translated_vi": "Chương 18: Quẻ này chắc chắn giải sai rồi"
+    },
+    {
+      "para_id": "c0018p0002",
+      "index": 2,
+      "raw_zh": "秦疏影和薑柔甲在水裡掙扎，若不是親身體驗，她們無論如何也不會相信，這樣一條實在算不上起眼的河，內裡竟然有如此龐大的力量。",
+      "translated_vi": "Tần Sơ Ảnh và Khương Nhu Giáp quẫy đạp tuyệt vọng giữa dòng nước. Nếu không phải đích thân trải qua, có đánh chết họ cũng chẳng dám tin rằng một con sông trông chẳng có gì nổi bật này lại ẩn chứa một sức mạnh kinh hồn bạt vía đến thế."
+    },
+    {
+      "para_id": "c0018p0003",
+      "index": 3,
+      "raw_zh": "這是無情的力量。",
+      "translated_vi": "Đó là thứ sức mạnh vô tình của mẹ thiên nhiên."
+    },
+    {
+      "para_id": "c0018p0004",
+      "index": 4,
+      "raw_zh": "她們犯了一個大錯，那就是把連著粗木的繩索綁在了自己倆人的腰上。",
+      "translated_vi": "Họ đã phạm phải một sai lầm chết người: buộc chặt sợi dây thừng nối với khúc gỗ lớn vào ngang eo của chính mình."
+    },
+    {
+      "para_id": "c0018p0005",
+      "index": 5,
+      "raw_zh": "以為這樣做，上岸後才能更好的控制粗木靠岸，避免背包丟失，但是結果卻是在水中被粗木蠻橫無序的拖曳。",
+      "translated_vi": "Ban đầu họ cứ ngỡ làm như vậy thì lúc lên bờ sẽ dễ dàng kiểm soát khúc gỗ tấp vào mép nước hơn, tránh làm thất lạc ba lô; thế nhưng hậu quả lại là bị khúc gỗ lôi kéo, giật ngược một cách điên cuồng và hỗn loạn giữa dòng nước xiết."
+    },
+    {
+      "para_id": "c0018p0006",
+      "index": 6,
+      "raw_zh": "不能呼吸，沒有光亮，沒有方向。",
+      "translated_vi": "Không thể hít thở, không một tia sáng, mất sạch mọi phương hướng."
+    },
+    {
+      "para_id": "c0018p0007",
+      "index": 7,
+      "raw_zh": "她們感覺自己似乎已經不在這個世界。",
+      "translated_vi": "Họ có cảm giác dường như mình đã không còn thuộc về cõi trần này nữa."
+    },
+    {
+      "para_id": "c0018p0008",
+      "index": 8,
+      "raw_zh": "一次次的掙扎，一次次的努力把頭伸出水面，一次次被滾動的河水和粗木重新拽回黑暗。",
+      "translated_vi": "Từng lần giãy giụa, từng lần gắng gượng ngoi đầu lên khỏi mặt nước, rồi lại từng lần bị những đợt sóng cuộn cùng khúc gỗ lăn tròn dìm sâu trở lại màn đêm tăm tối."
+    },
+    {
+      "para_id": "c0018p0009",
+      "index": 9,
+      "raw_zh": "她們放棄了希望，不再屏住呼吸，任憑河水嗆入，身體在窒息的痛苦中扭動顫抖，直到意識遠離。",
+      "translated_vi": "Họ hoàn toàn buông xuôi hy vọng, chẳng thể nín thở được nữa, mặc cho dòng nước sặc tràn vào khí quản, thân thể co quắp run rẩy trong cơn đau đớn tột cùng của sự nghẹt thở, cho tới khi ý thức dần dần rời xa thể xác."
+    },
+    {
+      "para_id": "c0018p0010",
+      "index": 10,
+      "raw_zh": "最後那麽一刻，她們似乎看到一個恍惚的影子出現在眼前，黑乎乎的輪廓，看不清楚，是一條大魚吧？",
+      "translated_vi": "Vào khoảnh khắc cuối cùng ấy, họ dường như lờ mờ nhìn thấy một bóng đen chập chờn xuất hiện trước mắt, đường nét mờ mịt không rõ ràng, lẽ nào là một con cá lớn?"
+    },
+    {
+      "para_id": "c0018p0011",
+      "index": 11,
+      "raw_zh": "之後，她們便什麽也不知道了。",
+      "translated_vi": "Sau đó, họ chẳng còn hay biết gì nữa."
+    },
+    {
+      "para_id": "c0018p0012",
+      "index": 12,
+      "raw_zh": "不知過了多久。",
+      "translated_vi": "Chẳng biết đã qua bao lâu."
+    },
+    {
+      "para_id": "c0018p0013",
+      "index": 13,
+      "raw_zh": "“劈啪，劈啪”木柴燃燒的輕響聲鑽進耳朵，震蕩得太陽穴好似裂開般脹痛。",
+      "translated_vi": "Từng tiếng lách tách củi cháy khe khẽ lọt vào tai, dội vào hai bên thái dương từng cơn nhức buốt như muốn nứt toác ra."
+    },
+    {
+      "para_id": "c0018p0014",
+      "index": 14,
+      "raw_zh": "秦疏影緩緩睜開眼睛，發現自己身處在一個很小的單人帳篷內，身體則在松軟的單人睡袋之中，狹小的睡袋裡不止有自己，薑柔甲也躺在自己身側。",
+      "translated_vi": "Tần Sơ Ảnh từ từ mở mắt, phát hiện mình đang nằm trong một chiếc lều đơn chật hẹp, thân thể vùi sâu trong chiếc túi ngủ đơn mềm mại. Bên trong chiếc túi ngủ nhỏ bé không chỉ có riêng cô, mà Khương Nhu Giáp cũng đang nằm áp sát ngay bên cạnh."
+    },
+    {
+      "para_id": "c0018p0015",
+      "index": 15,
+      "raw_zh": "雖然已經離開了冰冷的河水，但她依舊感覺很冷，她確定自己應該是受了風寒。",
+      "translated_vi": "Tuy đã rời khỏi dòng sông lạnh ngắt nhưng toàn thân cô vẫn run lên cầm cập, cô biết chắc mình đã bị nhiễm phong hàn rồi."
+    },
+    {
+      "para_id": "c0018p0016",
+      "index": 16,
+      "raw_zh": "意識重新回到身體裡，身體的無力疼痛也同時席卷而來。",
+      "translated_vi": "Khi ý thức vừa tìm về với thể xác, cảm giác bải hoải rã rời cùng những cơn đau nhức ê ẩm cũng đồng thời ập tới bủa vây."
+    },
+    {
+      "para_id": "c0018p0017",
+      "index": 17,
+      "raw_zh": "她努力調整呼吸恢復力氣，掙扎著爬起來，感覺胸口有些疼，不是內裡的悶疼，而是皮外的刮痛。",
+      "translated_vi": "Cô cố gắng điều hòa nhịp thở để lấy lại chút sức lực, gượng gạo ngồi dậy thì thấy lồng ngực mình nhoi nhói đau, không phải cơn đau tức âm ỉ từ nội tạng, mà là vết cọ xát trầy xước bên ngoài da thịt."
+    },
+    {
+      "para_id": "c0018p0018",
+      "index": 18,
+      "raw_zh": "她忙低下頭看向自己的胸口，沉甸豐美之間的皮膚上，有著明顯的暗紅色壓痕。",
+      "translated_vi": "Cô vội cúi đầu nhìn xuống ngực mình, trên làn da trắng ngần giữa đôi gò bồng đảo căng tràn đẫy đà hằn rõ những vết bầm tím đỏ sẫm."
+    },
+    {
+      "para_id": "c0018p0019",
+      "index": 19,
+      "raw_zh": "作為一個醫生，她想都不用想就知道，是有人救了自己，而且給自己做了心肺複蘇，只是這人很明顯技術不熟練，按壓胸口的時候用力方向不對，造成了這種挫傷。",
+      "translated_vi": "Vốn là một bác sĩ, cô chẳng cần suy nghĩ cũng thừa hiểu là đã có người cứu mạng mình, lại còn tiến hành hồi sức tim phổi CPR cho cô. Chỉ có điều kẻ này tay nghề hiển nhiên còn rất non nớt vụng về, khi ép tim đã dùng lực sai hướng mới gây nên những vết bầm đụng giập thế này."
+    },
+    {
+      "para_id": "c0018p0020",
+      "index": 20,
+      "raw_zh": "想到這一點後，她才意識到自己被扒光了。",
+      "translated_vi": "Vừa nghĩ đến điều đó, cô mới bàng hoàng sực nhận ra mình đã bị lột sạch trơn."
+    },
+    {
+      "para_id": "c0018p0021",
+      "index": 21,
+      "raw_zh": "沒錯，是真正意義上的扒光。",
+      "translated_vi": "Đúng vậy, là lột sạch trần như nhộng theo đúng nghĩa đen."
+    },
+    {
+      "para_id": "c0018p0022",
+      "index": 22,
+      "raw_zh": "秦疏影用手在自己上下摸了幾把，確定救自己的人，一根線都沒給自己的身體留下。",
+      "translated_vi": "Tần Sơ Ảnh đưa tay lần sờ khắp người từ trên xuống dưới, chắc chắn rằng cái kẻ cứu mình kia đến một sợi chỉ cũng chẳng thèm để lại trên thân thể cô."
+    },
+    {
+      "para_id": "c0018p0023",
+      "index": 23,
+      "raw_zh": "就在這時，薑柔甲也緩緩醒來，這丫頭身體底子好，雖然難受，但還有力氣撲騰著起來。",
+      "translated_vi": "Đúng lúc này, Khương Nhu Giáp cũng từ từ tỉnh giấc. Con bé này vốn có nền tảng thể chất rất tốt, dẫu cả người khó chịu nhưng vẫn còn đủ sức ngọ nguậy chống người ngồi dậy."
+    },
+    {
+      "para_id": "c0018p0024",
+      "index": 24,
+      "raw_zh": "秦疏影看到薑柔甲胸口也有自己一樣的壓痕。",
+      "translated_vi": "Tần Sơ Ảnh nhìn thấy trên khuôn ngực của Khương Nhu Giáp cũng có những vết ép bầm tím y hệt như mình."
+    },
+    {
+      "para_id": "c0018p0025",
+      "index": 25,
+      "raw_zh": "薑柔甲開口就要說話，卻被秦疏影用手用堵住嘴巴，做了一個噤聲的動作，然後指了指帳篷外。",
+      "translated_vi": "Khương Nhu Giáp vừa hé môi định nói thì đã bị Tần Sơ Ảnh vội vã đưa tay bịt miệng lại, ra hiệu im lặng rồi chỉ tay về phía bên ngoài lều."
+    },
+    {
+      "para_id": "c0018p0026",
+      "index": 26,
+      "raw_zh": "薑柔甲側耳，聽到外面有腳步聲走動和木柴燃燒的劈啪聲。",
+      "translated_vi": "Khương Nhu Giáp nghiêng tai lắng nghe, quả nhiên nghe thấy bên ngoài có tiếng bước chân đi lại cùng tiếng củi khô nổ lách tách."
+    },
+    {
+      "para_id": "c0018p0027",
+      "index": 27,
+      "raw_zh": "倆人不敢鑽出睡袋去查看情況，因為她們倆身上什麽都沒穿。",
+      "translated_vi": "Cả hai đều không dám chui ra khỏi túi ngủ để thám thính tình hình, bởi vì trên người hai nàng lúc này chẳng có lấy một mảnh vải che thân."
+    },
+    {
+      "para_id": "c0018p0028",
+      "index": 28,
+      "raw_zh": "外面的確有個人，那人叫雲千峰。",
+      "translated_vi": "Bên ngoài quả thực có một người, người đó tên là Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0018p0029",
+      "index": 29,
+      "raw_zh": "雲千峰搖卦之後，很主觀的判斷“有地圖就是有路可走，那麽繼續前進吉利”，然後就重新折返追了回來。",
+      "translated_vi": "Vân Thiên Phong sau khi gieo quẻ xong đã tự ý suy diễn một cách chủ quan rằng: “Có bản đồ tức là có đường để đi, vậy thì tiếp tục tiến lên là điều lành”, thế là hắn liền quay ngoắt trở lại đuổi theo hai người."
+    },
+    {
+      "para_id": "c0018p0030",
+      "index": 30,
+      "raw_zh": "緊趕慢趕的，正好遠遠的看到兩女趴著滾木進河。",
+      "translated_vi": "Hắn vắt chân lên cổ chạy thục mạng, vừa khéo từ đằng xa đã trông thấy cảnh tượng hai cô nàng đang ôm lấy khúc gỗ mục lội xuống sông."
+    },
+    {
+      "para_id": "c0018p0031",
+      "index": 31,
+      "raw_zh": "隻一眼，這貨心裡就罵娘。",
+      "translated_vi": "Chỉ liếc mắt một cái, thằng cha này đã chửi thầm trong bụng."
+    },
+    {
+      "para_id": "c0018p0032",
+      "index": 32,
+      "raw_zh": "滾木確實可以用來過河，但問題是，你們倆人要面對面的趴在滾木上，避免木頭在水裡滾動才行，你們倆在一邊抱著木頭，那不是找死嗎。",
+      "translated_vi": "Dùng thân gỗ lăn qua sông quả thật là một cách, nhưng vấn đề là hai người phải nằm sấp đối diện nhau ở hai bên thân gỗ để giữ thăng bằng, triệt tiêu lực tự xoay của khúc gỗ trong nước! Đằng này hai ả lại cùng bám chung một bên, thế chẳng phải là tự tìm đường chết hay sao?"
+    },
+    {
+      "para_id": "c0018p0033",
+      "index": 33,
+      "raw_zh": "於是隻好抽出背包上的一根管子，一邊奔向河邊一邊吹氣。",
+      "translated_vi": "Hắn đành phải rút chiếc vòi trên ba lô của mình ra, vừa điên cuồng lao về phía bờ sông vừa ra sức thổi hơi vào."
+    },
+    {
+      "para_id": "c0018p0034",
+      "index": 34,
+      "raw_zh": "沒錯，他們的背包本身就是充氣背包，這層隔膜既能充氣渡水，還能當水袋裝水。",
+      "translated_vi": "Đúng vậy, bản thân chiếc ba lô của họ chính là loại ba lô phao khí chuyên dụng, lớp màng đệm này vừa có thể bơm phồng để làm phao vượt sông, lại vừa có thể dùng làm túi chứa nước."
+    },
+    {
+      "para_id": "c0018p0035",
+      "index": 35,
+      "raw_zh": "問題是，那兩荒野小白根本不知道自己的裝備有多牛，更不會使用。",
+      "translated_vi": "Vấn đề là hai ả “gà mờ sinh tồn” kia căn bản chẳng hề biết trang bị của mình xịn sò đến mức nào, càng không biết cách sử dụng."
+    },
+    {
+      "para_id": "c0018p0036",
+      "index": 36,
+      "raw_zh": "仗著背包的浮力，他硬生生把兩女在河裡拽到對岸，但卻沒法追上與枯木私奔的兩個背包。",
+      "translated_vi": "Dựa vào sức nổi của chiếc ba lô phao, hắn đã cắn răng lôi sống hai cô gái giữa dòng nước xiết kéo sang tận bờ bên kia, thế nhưng lại đành bất lực nhìn hai chiếc ba lô của họ đã “bỏ trốn theo trai”, trôi biệt tăm cùng khúc gỗ mục."
+    },
+    {
+      "para_id": "c0018p0037",
+      "index": 37,
+      "raw_zh": "他們三個，現在僅剩下雲千峰包裡的一個單人帳篷和一個單人睡袋能容身。",
+      "translated_vi": "Hiện tại ba người bọn họ chỉ còn trơ trọi một chiếc lều đơn cùng một chiếc túi ngủ đơn trong ba lô của Vân Thiên Phong để che thân trú tạm."
+    },
+    {
+      "para_id": "c0018p0038",
+      "index": 38,
+      "raw_zh": "此時，雲千峰正在生起的篝火旁搭著架子，把三個人的內外衣掛在上面慢慢烤乾。",
+      "translated_vi": "Lúc này, Vân Thiên Phong đang loay hoay dựng giá gỗ bên đống lửa trại vừa nhen nhóm, đem toàn bộ quần áo trong ngoài của cả ba người vắt lên hong khô từ từ."
+    },
+    {
+      "para_id": "c0018p0039",
+      "index": 39,
+      "raw_zh": "弄好了這些，才背對著帳篷，蹲在篝火前，保持自己的體溫。",
+      "translated_vi": "Thu xếp xong xuôi mọi thứ, hắn mới quay lưng về phía căn lều, ngồi xổm trước đống lửa sưởi ấm để duy trì thân nhiệt."
+    },
+    {
+      "para_id": "c0018p0040",
+      "index": 40,
+      "raw_zh": "帳篷太小，自己擠進去那就是耍流氓，因為自己也光腚呢。",
+      "translated_vi": "Cái lều quá chật, nếu mình mà chen chúc chui vào trong thì đích thị là phường lưu manh giở trò đồi bại, bởi vì chính bản thân hắn lúc này cũng đang tồng ngồng trần như nhộng."
+    },
+    {
+      "para_id": "c0018p0041",
+      "index": 41,
+      "raw_zh": "他看著不遠處的河流，心裡琢磨著：",
+      "translated_vi": "Hắn nhìn con sông cuộn chảy cách đó không xa, trong bụng thầm suy tính:"
+    },
+    {
+      "para_id": "c0018p0042",
+      "index": 42,
+      "raw_zh": "“唉，這把大意了，怕是把卦解錯了，河流橫擔，這是無路之兆，折返才是吉利的，唉！如今過了河，等於破了卦象，看來還需再搖一卦看看。”",
+      "translated_vi": "“Haizz, phen này bất cẩn quá, sợ là mình giải sai quẻ mất rồi. Dòng sông vắt ngang chặn lối, đó rõ ràng là điềm báo không còn đường đi, quay đầu mới là cát lợi! Haizz! Giờ đã qua sông rồi, coi như đã phá hỏng quẻ tượng, xem chừng lại phải gieo một quẻ khác xem sao.”"
+    },
+    {
+      "para_id": "c0018p0043",
+      "index": 43,
+      "raw_zh": "想到這，他拿起旁邊也在晾乾的紅色布包，把三枚大中通寶倒在掌心，但隻搖了一下就停住，隨後歎了口氣，苦笑著把銅錢放回紅布包。",
+      "translated_vi": "Nghĩ đến đây, hắn cầm chiếc túi vải đỏ cũng đang được hong khô bên cạnh lên, trút ba đồng Đại Trung Thông Bảo ra lòng bàn tay. Nhưng hắn mới chỉ lắc nhẹ một cái đã khựng lại, đoạn thở dài một tiếng, cười khổ nhét tiền đồng trở lại vào túi vải:"
+    },
+    {
+      "para_id": "c0018p0044",
+      "index": 44,
+      "raw_zh": "“就這樣吧，既來之則安之。”",
+      "translated_vi": "“Thôi kệ đi, đã đến nước này thì cứ thuận theo tự nhiên vậy.”"
+    },
+    {
+      "para_id": "c0018p0045",
+      "index": 45,
+      "raw_zh": "秦疏影和薑柔甲在帳篷裡低聲商討。",
+      "translated_vi": "Bên trong lều, Tần Sơ Ảnh và Khương Nhu Giáp đang thì thào to nhỏ bàn bạc:"
+    },
+    {
+      "para_id": "c0018p0046",
+      "index": 46,
+      "raw_zh": "“疏影姐，咱們怎麽辦？”",
+      "translated_vi": "“Chị Sơ Ảnh, chúng mình phải làm sao bây giờ?”"
+    },
+    {
+      "para_id": "c0018p0047",
+      "index": 47,
+      "raw_zh": "“咱們昏迷的時候外面的人沒對咱們做什麽，應該是好人。”",
+      "translated_vi": "“Lúc chúng mình hôn mê, người bên ngoài không hề làm bậy gì với hai đứa, chắc chắn là người tốt.”"
+    },
+    {
+      "para_id": "c0018p0048",
+      "index": 48,
+      "raw_zh": "薑柔甲扭了扭屁股，感受了一下，點頭道：",
+      "translated_vi": "Khương Nhu Giáp khẽ lắc lắc mông, tự mình cảm nhận một chút rồi gật đầu:"
+    },
+    {
+      "para_id": "c0018p0049",
+      "index": 49,
+      "raw_zh": "“肯定沒對我做什麽，你呢？”",
+      "translated_vi": "“Chắc chắn là chưa làm gì em rồi, còn chị thì sao?”"
+    },
+    {
+      "para_id": "c0018p0050",
+      "index": 50,
+      "raw_zh": "秦疏影白了她一眼，搖頭道：",
+      "translated_vi": "Tần Sơ Ảnh lườm cô bé một cái, lắc đầu bảo:"
+    },
+    {
+      "para_id": "c0018p0051",
+      "index": 51,
+      "raw_zh": "“也沒有！”",
+      "translated_vi": "“Chị cũng không!”"
+    },
+    {
+      "para_id": "c0018p0052",
+      "index": 52,
+      "raw_zh": "“那咱們打聲招呼？”",
+      "translated_vi": "“Vậy chúng mình lên tiếng chào hỏi nhé?”"
+    },
+    {
+      "para_id": "c0018p0053",
+      "index": 53,
+      "raw_zh": "秦疏影點了點頭，清了一下嗓子，讓自己的語氣表現的很鎮定，對外面輕聲喚道：",
+      "translated_vi": "Tần Sơ Ảnh gật đầu, hắng giọng một tiếng cố giữ cho ngữ khí thật điềm tĩnh, rồi cất giọng khẽ gọi ra ngoài:"
+    },
+    {
+      "para_id": "c0018p0054",
+      "index": 54,
+      "raw_zh": "“您好，能把我們的衣服遞進來嗎？我們想當面感謝伱的救命之恩。”",
+      "translated_vi": "“Chào anh, anh có thể đưa quần áo vào trong cho chúng tôi được không? Chúng tôi muốn trực tiếp cảm tạ ơn cứu mạng của anh.”"
+    },
+    {
+      "para_id": "c0018p0055",
+      "index": 55,
+      "raw_zh": "雲千峰撅著屁股正烤火呢，聽到秦疏影的話，就回頭說了句：",
+      "translated_vi": "Vân Thiên Phong đang chổng mông sưởi lửa, nghe thấy tiếng Tần Sơ Ảnh liền quay đầu đáp vọng vào:"
+    },
+    {
+      "para_id": "c0018p0056",
+      "index": 56,
+      "raw_zh": "“等會兒，衣服還沒烤乾呢，現在穿上，那不是找病嗎？”",
+      "translated_vi": "“Chờ tí đi! Quần áo đã khô đâu, giờ mà mặc vào chẳng phải là tự rước bệnh vào người à?”"
+    },
+    {
+      "para_id": "c0018p0057",
+      "index": 57,
+      "raw_zh": "一聽這聲音，兩女面面相覷，同時低聲說出三個字：",
+      "translated_vi": "Vừa nghe thấy chất giọng quen thuộc ấy, hai cô gái đưa mắt nhìn nhau sững sờ, đồng thanh thốt lên ba chữ:"
+    },
+    {
+      "para_id": "c0018p0058",
+      "index": 58,
+      "raw_zh": "“雲千峰？”",
+      "translated_vi": "“Vân Thiên Phong?”"
+    },
+    {
+      "para_id": "c0018p0059",
+      "index": 59,
+      "raw_zh": "旋即臉上立馬現出驚喜，知道外面是雲千峰，那麽就不著急穿衣服了，這人還是挺禮貌挺靠譜的。",
+      "translated_vi": "Ngay tức khắc, nét mặt hai nàng liền rạng rỡ niềm vui sướng bất ngờ. Biết rõ người ngoài kia là Vân Thiên Phong, họ chẳng còn cuống cuồng lo chuyện mặc quần áo nữa; dù sao gã này vẫn là người biết chừng mực và rất đỗi đáng tin cậy."
+    },
+    {
+      "para_id": "c0018p0060",
+      "index": 60,
+      "raw_zh": "秦疏影保持著臉上的喜色，薑柔甲卻是大變臉。",
+      "translated_vi": "Tần Sơ Ảnh vẫn giữ nguyên vẻ tươi vui trên khuôn mặt, nhưng Khương Nhu Giáp thì mặt thoắt cái đã biến sắc."
+    },
+    {
+      "para_id": "c0018p0061",
+      "index": 61,
+      "raw_zh": "先是驚喜刹那，轉而想到之前雲千峰對自己大吼的模樣，立馬沉下臉，一偏身，對著帳篷外喊道：",
+      "translated_vi": "Niềm hân hoan vừa lóe lên trong thoáng chốc đã tan biến khi con bé sực nhớ lại bộ dạng quát tháo nạt nộ của hắn lúc trước. Khuôn mặt cô lập tức sa sầm xuống, quay ngoắt người, gắt tướng ra ngoài lều:"
+    },
+    {
+      "para_id": "c0018p0062",
+      "index": 62,
+      "raw_zh": "“你滾！我們不需要你，你回去吧！滾！”",
+      "translated_vi": "“Anh cút đi! Chúng tôi không cần anh, anh quay về đi! Cút ngay!”"
+    },
+    {
+      "para_id": "c0018p0063",
+      "index": 63,
+      "raw_zh": "說著說著，還哭鼻子，就很不講道理。",
+      "translated_vi": "Vừa gào xong, sống mũi con bé cay xè rồi nấc lên thút thít, vô lý hết phần thiên hạ."
+    },
+    {
+      "para_id": "c0018p0064",
+      "index": 64,
+      "raw_zh": "雲千峰臉皮多厚啊，在帳篷外聽到薑柔甲的怒聲，聽笑了，大聲道：",
+      "translated_vi": "Da mặt Vân Thiên Phong dày đến mức nào cơ chứ. Nghe tiếng gắt gỏng ấm ức của Khương Nhu Giáp ngoài lều, hắn bật cười khúc khích, cao giọng trêu:"
+    },
+    {
+      "para_id": "c0018p0065",
+      "index": 65,
+      "raw_zh": "“你再罵我一句滾，我立馬鑽帳篷裡去。”",
+      "translated_vi": "“Cô mà chửi một câu ‘cút’ nữa xem, tôi chui tọt ngay vào lều bây giờ đấy!”"
+    },
+    {
+      "para_id": "c0018p0066",
+      "index": 66,
+      "raw_zh": "秦疏影急忙一把捂住還要罵人的薑柔甲，搖頭道：",
+      "translated_vi": "Tần Sơ Ảnh vội vàng lấy tay bịt chặt miệng Khương Nhu Giáp khi con bé định chửi tiếp, lắc đầu can gián:"
+    },
+    {
+      "para_id": "c0018p0067",
+      "index": 67,
+      "raw_zh": "“別，他真進來咱們倆多尷尬啊！”",
+      "translated_vi": "“Đừng! Anh ta mà xông vào thật thì hai đứa mình biết giấu mặt vào đâu!”"
+    },
+    {
+      "para_id": "c0018p0068",
+      "index": 68,
+      "raw_zh": "薑柔甲心討是這麽回事，不讓那家夥多佔便宜。轉而又想，我為什麽用“多”這個詞呢？",
+      "translated_vi": "Khương Nhu Giáp ngẫm lại thấy cũng có lý, tuyệt đối không thể để tên kia chiếm thêm tiện nghi được. Nhưng rồi con bé lại giật mình nghĩ bụng: Sao mình lại dùng từ “thêm” nhỉ?"
+    },
+    {
+      "para_id": "c0018p0069",
+      "index": 69,
+      "raw_zh": "聽到帳篷裡沒了動靜，雲千峰開始安心翻烤衣服，過了一會想起什麽，忙問道：",
+      "translated_vi": "Nghe trong lều đã im ắng trở lại, Vân Thiên Phong mới yên tâm tiếp tục lật trở hong khô quần áo. Lát sau sực nhớ ra điều gì, hắn vội cất tiếng hỏi:"
+    },
+    {
+      "para_id": "c0018p0070",
+      "index": 70,
+      "raw_zh": "“秦疏影，你看看你們倆有沒有發燒，我把溫度計放在枕頭邊了。”",
+      "translated_vi": "“Tần Sơ Ảnh, cô kiểm tra xem hai người có ai bị sốt không, tôi để sẵn nhiệt kế ở ngay cạnh gối đấy.”"
+    },
+    {
+      "para_id": "c0018p0071",
+      "index": 71,
+      "raw_zh": "秦疏影暗讚這男人細心。",
+      "translated_vi": "Tần Sơ Ảnh thầm khen người đàn ông này thật chu đáo tỉ mỉ."
+    },
+    {
+      "para_id": "c0018p0072",
+      "index": 72,
+      "raw_zh": "不多時，測好了體溫。",
+      "translated_vi": "Chẳng mấy chốc đã đo xong nhiệt độ cơ thể."
+    },
+    {
+      "para_id": "c0018p0073",
+      "index": 73,
+      "raw_zh": "“我發燒了，三十八度五，小柔沒事，我的包裡有消炎藥和退燒藥，幫我拿下。”",
+      "translated_vi": "“Tôi bị sốt rồi, ba mươi tám độ rưỡi. Tiểu Nhu không sao. Trong ba lô của tôi có thuốc kháng viêm và thuốc hạ sốt, anh lấy giúp tôi với.”"
+    },
+    {
+      "para_id": "c0018p0074",
+      "index": 74,
+      "raw_zh": "雲千峰苦笑道：",
+      "translated_vi": "Vân Thiên Phong cười khổ:"
+    },
+    {
+      "para_id": "c0018p0075",
+      "index": 75,
+      "raw_zh": "“你們倆的包和大木頭私奔了，我沒追回來，藥是沒了，我想辦法吧。”",
+      "translated_vi": "“Ba lô của hai cô đã dắt tay khúc gỗ mục trốn biệt rồi, tôi không đuổi kịp. Thuốc men coi như mất sạch, để tôi nghĩ cách khác xem sao.”"
+    },
+    {
+      "para_id": "c0018p0076",
+      "index": 76,
+      "raw_zh": "秦疏影和薑柔甲面容發苦，要知道食物和藥品幾乎都在倆人的包裡，這一丟了，後路可怎麽走？",
+      "translated_vi": "Tần Sơ Ảnh và Khương Nhu Giáp méo xệch cả mặt mày. Phải biết rằng lương thực và thuốc men hầu như đều nằm trọn trong ba lô của hai nàng, giờ mất sạch sành sanh thế này thì chặng đường phía trước biết tính làm sao?"
+    },
+    {
+      "para_id": "c0018p0077",
+      "index": 77,
+      "raw_zh": "似乎猜到了裡面兩女的反應，雲千峰繼續道：",
+      "translated_vi": "Dường như đoán trước được tâm trạng rối bời của hai người bên trong, Vân Thiên Phong liền bồi thêm một câu:"
+    },
+    {
+      "para_id": "c0018p0078",
+      "index": 78,
+      "raw_zh": "“折返還是繼續前進，你們倆慢慢商量，不急，也別擔心，有我呢。”",
+      "translated_vi": "“Quay về hay tiếp tục tiến bước, hai cô cứ từ từ bàn bạc, không phải vội. Cũng đừng lo lắng, có tôi ở đây rồi.”"
+    },
+    {
+      "para_id": "c0018p0079",
+      "index": 79,
+      "raw_zh": "這一句“有我呢”，讓帳篷內的薑柔甲又哭鼻子了，就感覺特別溫暖特別安心，還莫名生氣。",
+      "translated_vi": "Chính một câu “Có tôi ở đây rồi” ấy đã khiến Khương Nhu Giáp trong lều lại tủi thân mếu máo khóc ròng. Trong lòng con bé bỗng dâng lên một cảm giác ấm áp và an tâm đến lạ kỳ, nhưng xen lẫn vào đó lại là một nỗi hờn giận vô cớ khó tả thành lời."
+    }
+  ]
+}

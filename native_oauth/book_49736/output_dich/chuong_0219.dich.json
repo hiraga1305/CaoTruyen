@@ -1,0 +1,505 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 219,
+  "title": "Chương 219: Bí Mật Nam Cực",
+  "total_paragraphs": 82,
+  "translated_paragraphs": 82,
+  "source_hash": "fcd8005102c3e1d95e02c61154ac6f0b8de9f68cef4b06519b0a293b12d13442",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0219p0001",
+      "index": 1,
+      "raw_zh": "第219章 南極秘辛",
+      "translated_vi": "Chương 219: Bí Mật Nam Cực"
+    },
+    {
+      "para_id": "c0219p0002",
+      "index": 2,
+      "raw_zh": "相對於薩弱的勤儉持家。",
+      "translated_vi": "Trái ngược với nếp sống cần kiệm chắt bóp của Sa Nhược,"
+    },
+    {
+      "para_id": "c0219p0003",
+      "index": 3,
+      "raw_zh": "雲千峰很幸福。",
+      "translated_vi": "Vân Thiên Phong lại đang ngập tràn trong diễm phúc."
+    },
+    {
+      "para_id": "c0219p0004",
+      "index": 4,
+      "raw_zh": "白天睡得多，此刻精神的很，可以更好更清晰的享受。",
+      "translated_vi": "Ban ngày ngủ đẫy mắt nên lúc này tinh thần anh vô cùng tỉnh táo sảng khoái, càng có thể cảm nhận và tận hưởng trọn vẹn từng cung bậc thư thái."
+    },
+    {
+      "para_id": "c0219p0005",
+      "index": 5,
+      "raw_zh": "白狐趴在沙發上，眼睛眯成了下半圓，看著七個人忙活著，也很想享受一下。",
+      "translated_vi": "Cáo trắng Fatina nằm phủ phục trên ghế sô-pha, hai mắt híp lại thành hình bán nguyệt, nhìn bảy người bận rộn chăm chút mà trong lòng cũng thèm thuồng muốn được hưởng thụ một phen."
+    },
+    {
+      "para_id": "c0219p0006",
+      "index": 6,
+      "raw_zh": "當然她覺得自己只需要六個人，第七個人不要的啦，畢竟結構有區別。",
+      "translated_vi": "Dĩ nhiên cô cảm thấy mình chỉ cần sáu người là đủ, người thứ bảy thì xin kiếu, dù sao cấu tạo cơ thể giữa người và hồ ly cũng có đôi phần khác biệt."
+    },
+    {
+      "para_id": "c0219p0007",
+      "index": 7,
+      "raw_zh": "七個女生很會聊天，很會捧也很會哄。",
+      "translated_vi": "Bảy cô gái này đều rất biết cách gợi chuyện, khéo nịnh nọt lại vô cùng ngọt ngào dỗ dành."
+    },
+    {
+      "para_id": "c0219p0008",
+      "index": 8,
+      "raw_zh": "雲千峰一邊享受服務，一邊和她們吹噓著自己的探險經歷。",
+      "translated_vi": "Vân Thiên Phong vừa tận hưởng dịch vụ chu đáo, vừa cao hứng khoác lác với họ về những chuyến phiêu lưu thám hiểm ly kỳ của mình."
+    },
+    {
+      "para_id": "c0219p0009",
+      "index": 9,
+      "raw_zh": "其中種種誇大，讓白狐臉上的白毛都差點紅了。",
+      "translated_vi": "Mức độ thêm mắm dặm muối khoa trương đến nỗi lớp lông trắng muốt trên mặt cáo trắng cũng suýt chút nữa ngượng chín đỏ."
+    },
+    {
+      "para_id": "c0219p0010",
+      "index": 10,
+      "raw_zh": "幾個女生被雲千峰引起了話頭，那就絕對不帶冷場的，開始紛紛講起各自聽說過，或者親身經歷的超自然事件。",
+      "translated_vi": "Mấy cô nàng được Vân Thiên Phong khơi mào câu chuyện liền không để bầu không khí nguội lạnh dù chỉ một giây, thi nhau ríu rít kể lại những hiện tượng siêu nhiên kỳ bí mà bản thân từng nghe qua hoặc đích thân trải nghiệm."
+    },
+    {
+      "para_id": "c0219p0011",
+      "index": 11,
+      "raw_zh": "她們大部分都能說一些華語，但要講述複雜的故事，就需要那個華語最好的姑娘做翻譯。",
+      "translated_vi": "Đa phần họ đều bập bẹ được chút tiếng Hoa, nhưng nếu muốn thuật lại những câu chuyện phức tạp ly kỳ thì bắt buộc phải nhờ tới cô gái thạo tiếng Hoa nhất làm phiên dịch."
+    },
+    {
+      "para_id": "c0219p0012",
+      "index": 12,
+      "raw_zh": "所以那個姑娘很不情願的離開了第七人的工作位置，來到了雲千峰的頭頂前方，負責給他按頭，也方便做翻譯解釋姐妹們說的故事。",
+      "translated_vi": "Thế là cô gái nọ đành phải miễn cưỡng rời khỏi vị trí của nhân sự thứ bảy đầy màu mỡ kia, bước lên phía đỉnh đầu Vân Thiên Phong để đảm nhận khâu mát-xa đầu, tiện thể dịch lại những câu chuyện rùng rợn của các chị em cho anh nghe."
+    },
+    {
+      "para_id": "c0219p0013",
+      "index": 13,
+      "raw_zh": "雖然離開了最容易討喜的地方，但依舊沒有阻止這個叫問蘭的女生勾引年輕的富豪。",
+      "translated_vi": "Dẫu phải rời xa vị trí đắc địa dễ chiếm cảm tình nhất, nhưng điều đó tuyệt đối chẳng thể ngăn cản cô gái mang tên Vấn Lan này tìm cơ hội quyến rũ chàng phú hào trẻ tuổi."
+    },
+    {
+      "para_id": "c0219p0014",
+      "index": 14,
+      "raw_zh": "各家都是施展所學，問蘭顯然是此中高手。",
+      "translated_vi": "Ai nấy đều đem hết ngón nghề tích lũy ra phô diễn, mà Vấn Lan rõ ràng là một tay lão luyện trong nghề."
+    },
+    {
+      "para_id": "c0219p0015",
+      "index": 15,
+      "raw_zh": "她看著雲千峰為了說話，把頭偏著趴在枕頭上，就貼心道：",
+      "translated_vi": "Trông thấy Vân Thiên Phong vì mải trò chuyện mà phải nghiêng đầu gối lên gối nằm sấp, cô liền ân cần cất giọng nũng nịu:"
+    },
+    {
+      "para_id": "c0219p0016",
+      "index": 16,
+      "raw_zh": "“這樣對頸椎和脊椎都很不友好，會傷到的，來，枕在我腿上。”",
+      "translated_vi": "“Nằm thế này chẳng tốt cho đốt sống cổ và cột sống chút nào đâu anh, dễ bị tổn thương lắm đấy. Nào, gối đầu lên đùi em đi.”"
+    },
+    {
+      "para_id": "c0219p0017",
+      "index": 17,
+      "raw_zh": "說著，人家可不會傻乎乎的等雲千峰同意，而是直接動手。",
+      "translated_vi": "Vừa dứt lời, người ta nào có ngây ngô đứng chờ Vân Thiên Phong gật đầu ưng thuận, mà lập tức ra tay hành động luôn."
+    },
+    {
+      "para_id": "c0219p0018",
+      "index": 18,
+      "raw_zh": "就見她往前靠了靠，雙腿盤著坐在床頭，然後溫柔小心的捧著雲千峰的臉抬起來，再把盤著的雙腿利用肌肉磨蹭，往前探過去。",
+      "translated_vi": "Chỉ thấy cô nàng dịch người sát lại, khoanh tròn hai chân ngồi ngay đầu giường, đoạn dịu dàng cẩn thận nâng gương mặt Vân Thiên Phong lên, rồi khéo léo dùng cơ đùi trườn nhẹ về phía trước."
+    },
+    {
+      "para_id": "c0219p0019",
+      "index": 19,
+      "raw_zh": "這樣，雲千峰的臉再趴下來，正好就枕著問蘭柔軟的兩個小腿肚，舒服得很，又因為盤腿之間的空隙，雲千峰也就不用偏著頭說話，就那樣正趴著就可以了，倒是方便許多，舒適許多，引得雲千峰連連稱讚問蘭聰明。",
+      "translated_vi": "Như thế, khi Vân Thiên Phong hạ mặt xuống nằm sấp trở lại thì vừa vặn được gối êm ái lên đôi bắp chân mềm mại nõn nà của Vấn Lan, thoải mái không sao tả xiết; hơn nữa nhờ khoảng trống giữa hai chân khoanh lại, Vân Thiên Phong chẳng cần phải ngoẹo cổ khi nói chuyện nữa mà cứ thế nằm thẳng mặt hướng về phía trước, vừa tiện lợi vừa khoan khoái muôn phần, khiến anh không tiếc lời tấm tắc khen ngợi Vấn Lan thông minh tháo vát."
+    },
+    {
+      "para_id": "c0219p0020",
+      "index": 20,
+      "raw_zh": "將雲千峰的頭面放好後，被誇獎的問蘭還把嘴巴湊到雲千峰耳邊，用極低的聲音魅惑道：",
+      "translated_vi": "Sau khi chỉnh trang vị trí đầu mối cho Vân Thiên Phong đâu vào đấy, Vấn Lan được khen liền ghé sát bờ môi căng mọng vào vành tai anh, phả ra một làn hơi ấm áp quyến rũ thì thào:"
+    },
+    {
+      "para_id": "c0219p0021",
+      "index": 21,
+      "raw_zh": "“香嗎？”",
+      "translated_vi": "“Có thơm không anh?”"
+    },
+    {
+      "para_id": "c0219p0022",
+      "index": 22,
+      "raw_zh": "考慮到雲千峰現在鼻子的位置，問蘭之問，不言而喻。",
+      "translated_vi": "Cứ nhìn vào vị trí chóp mũi của Vân Thiên Phong lúc này thì ý tứ trong câu hỏi của Vấn Lan là gì đã quá rõ ràng không cần giải thích."
+    },
+    {
+      "para_id": "c0219p0023",
+      "index": 23,
+      "raw_zh": "雲千峰不得不承認：",
+      "translated_vi": "Vân Thiên Phong đành phải thú nhận:"
+    },
+    {
+      "para_id": "c0219p0024",
+      "index": 24,
+      "raw_zh": "“香！”",
+      "translated_vi": "“Thơm thật!”"
+    },
+    {
+      "para_id": "c0219p0025",
+      "index": 25,
+      "raw_zh": "不是海鮮那種香！",
+      "translated_vi": "Tuyệt nhiên không phải thứ mùi vị tanh nồng của hải sản!"
+    },
+    {
+      "para_id": "c0219p0026",
+      "index": 26,
+      "raw_zh": "花香。",
+      "translated_vi": "Mà là hương thơm thanh tao ngào ngạt của hoa cỏ."
+    },
+    {
+      "para_id": "c0219p0027",
+      "index": 27,
+      "raw_zh": "問蘭的行為，引來了六個中指。",
+      "translated_vi": "Hành động táo bạo của Vấn Lan lập tức rước về sáu ngón tay giữa khinh bỉ từ hội chị em cùng phòng."
+    },
+    {
+      "para_id": "c0219p0028",
+      "index": 28,
+      "raw_zh": "此時，給雲千峰按腳的女生接替上一位，開始講述她聽說的超自然事件。",
+      "translated_vi": "Đúng lúc này, cô gái đang mát-xa chân cho Vân Thiên Phong tiếp nối câu chuyện dở dang của người trước, bắt đầu kể về sự kiện siêu nhiên mà mình từng nghe ngóng được."
+    },
+    {
+      "para_id": "c0219p0029",
+      "index": 29,
+      "raw_zh": "“我不久前接待了一個來自F國的科學家，他曾在迪什麽爾南極站做南極科考員。”",
+      "translated_vi": "“Cách đây không lâu em có phục vụ một nhà khoa học đến từ nước Pháp, ông ấy từng làm nghiên cứu viên khảo sát tại trạm Nam Cực Dumont gì gì đó.”"
+    },
+    {
+      "para_id": "c0219p0030",
+      "index": 30,
+      "raw_zh": "雲千峰趴在溫鄉之中，說道：",
+      "translated_vi": "Vân Thiên Phong vùi mình giữa chốn dịu êm thơm ngát, khẽ mở lời:"
+    },
+    {
+      "para_id": "c0219p0031",
+      "index": 31,
+      "raw_zh": "“迪蒙迪維爾南極站，F國的。”",
+      "translated_vi": "“Trạm Nam Cực Dumont d'Urville của nước Pháp.”"
+    },
+    {
+      "para_id": "c0219p0032",
+      "index": 32,
+      "raw_zh": "那女生忙道：",
+      "translated_vi": "Cô gái vội reo lên:"
+    },
+    {
+      "para_id": "c0219p0033",
+      "index": 33,
+      "raw_zh": "“對，對，就是這個名字，太拗口了我記不住。那個科學家和我說，他當時去南極，主要是對極光進行觀測和研究，所以是在南極的冬天在那裡工作，整整在極夜下工作了一個多月。",
+      "translated_vi": "“Đúng rồi, đúng rồi, chính là cái tên đó đấy, đọc trẹo cả quai hàm nên em chẳng nhớ nổi. Nhà khoa học kia kể với em rằng đợt ấy ông sang Nam Cực chủ yếu là để quan sát và nghiên cứu hiện tượng cực quang, thế nên phải làm việc vào mùa đông băng giá, ròng rã suốt hơn một tháng trời chìm trong đêm vùng cực không thấy mặt trời."
+    },
+    {
+      "para_id": "c0219p0034",
+      "index": 34,
+      "raw_zh": "有一晚，也可能是白天，反正都是黑天，他正在用設備觀測極光，突然跟在他身邊的雪橇犬開始瘋狂的對著一個方向吼叫，那種聲音只有在狗極度恐懼下才會叫出來。",
+      "translated_vi": "Vào một đêm nọ, cũng có thể là ban ngày, mà tóm lại quanh năm suốt tháng đều là màn đêm đen kịt; khi ông ấy đang dùng thiết bị quan sát cực quang thì chú chó kéo xe đi theo bên cạnh bỗng nhiên sủa điên cuồng về một hướng định sẵn. Thanh âm rít lên ấy chỉ phát ra khi loài chó rơi vào trạng thái sợ hãi tột độ."
+    },
+    {
+      "para_id": "c0219p0035",
+      "index": 35,
+      "raw_zh": "他以為是有風暴要來臨了，畢竟犬類對氣候和大地的震動非常敏感，於是就帶著狗回到了不遠處的南極站內。",
+      "translated_vi": "Ông cứ ngỡ là sắp có bão tuyết ập tới, bởi loài chó vốn cực kỳ nhạy cảm với biến động thời tiết và những chấn động dưới mặt đất, bèn dắt chú chó quay trở lại trạm nghiên cứu cách đó không xa."
+    },
+    {
+      "para_id": "c0219p0036",
+      "index": 36,
+      "raw_zh": "可是到了站內，那隻雪橇犬依舊對著之前的方向吼叫，而且那雪橇犬在發抖，身體的姿勢也不是向前撲衝的預備式，反倒是準備隨時逃竄。",
+      "translated_vi": "Nhưng khi đã vào bên trong trạm, chú chó kéo xe vẫn không ngừng sủa dồn dập về đúng phương hướng ban nãy. Toàn thân nó run lên bần bật, tư thế đứng không hề mang dáng dấp chuẩn bị lao lên tấn công, mà trái lại co rúm như chực chờ tháo chạy bất cứ lúc nào."
+    },
+    {
+      "para_id": "c0219p0037",
+      "index": 37,
+      "raw_zh": "這讓那個科學家非常好奇。",
+      "translated_vi": "Điều đó khiến nhà khoa học vô cùng tò mò kinh ngạc."
+    },
+    {
+      "para_id": "c0219p0038",
+      "index": 38,
+      "raw_zh": "很明顯天氣並沒有發生變化，也沒有暴風雪，天氣很晴朗。",
+      "translated_vi": "Rõ ràng thời tiết chẳng hề có biến động khác thường, không hề có bão tuyết, trời đêm quang đãng vạn dặm."
+    },
+    {
+      "para_id": "c0219p0039",
+      "index": 39,
+      "raw_zh": "但問題是，在那個季節，南極站的位置不可能有生物活動，那麽雪橇犬到底在對什麽吼叫？",
+      "translated_vi": "Nhưng vấn đề nằm ở chỗ, vào mùa đó ở khu vực trạm Nam Cực tuyệt đối không thể có bất kỳ sinh vật nào hoạt động, vậy thì chú chó kéo xe rốt cuộc đang sủa vào thứ gì?"
+    },
+    {
+      "para_id": "c0219p0040",
+      "index": 40,
+      "raw_zh": "於是他關閉了屋內的燈光，這樣可以讓他更清晰的看到遠處的情況。",
+      "translated_vi": "Thế là ông tắt hết đèn điện trong phòng để mắt có thể quan sát rõ hơn tình hình phía xa ngoài ô cửa sổ."
+    },
+    {
+      "para_id": "c0219p0041",
+      "index": 41,
+      "raw_zh": "然而那裡什麽都沒有，一片白茫茫的。",
+      "translated_vi": "Tuy nhiên ngoài kia hoàn toàn trống không, chỉ có một dải tuyết trắng xóa mịt mù trải dài tít tắp."
+    },
+    {
+      "para_id": "c0219p0042",
+      "index": 42,
+      "raw_zh": "但是那狗依舊叫個不停，那科學家知道一定有東西隱藏在那裡。",
+      "translated_vi": "Thế nhưng con chó vẫn sủa không dứt từng hồi, nhà khoa học hiểu rằng chắc chắn có thứ gì đó đang ẩn nấp ngoài kia."
+    },
+    {
+      "para_id": "c0219p0043",
+      "index": 43,
+      "raw_zh": "於是他找出了望遠鏡，仔細的觀察雪橇犬吼叫的方向。",
+      "translated_vi": "Ông bèn lôi kính viễn vọng ra, cẩn thận dõi mắt quan sát theo hướng chú chó đang gầm gừ."
+    },
+    {
+      "para_id": "c0219p0044",
+      "index": 44,
+      "raw_zh": "也就是那一眼，他嚇壞了。",
+      "translated_vi": "Và chính cái nhìn thoáng qua ấy đã dọa cho ông sợ đến hồn xiêu phách lạc."
+    },
+    {
+      "para_id": "c0219p0045",
+      "index": 45,
+      "raw_zh": "那白茫茫一片的遠處雪地裡，不是沒有東西，而是有著一個雪人，堆砌的雪人。",
+      "translated_vi": "Giữa bãi tuyết trắng xóa tít tắp ngoài xa kia không hề trống trải, mà đang sừng sững một người tuyết... một người tuyết được đắp bằng tuyết trắng!"
+    },
+    {
+      "para_id": "c0219p0046",
+      "index": 46,
+      "raw_zh": "他無比確定那是個雪人，圓圓的腦袋，有著五官的輪廓，有兩隻手臂，甚至還有手指，但是沒有腿。",
+      "translated_vi": "Ông dám chắc một trăm phần trăm đó là một hình nộm người tuyết: cái đầu tròn vo, có đủ đường nét ngũ quan, có hai cánh tay và thậm chí cả ngón tay, nhưng tuyệt nhiên không hề có chân."
+    },
+    {
+      "para_id": "c0219p0047",
+      "index": 47,
+      "raw_zh": "整個下身就好像一個撐開的帳篷，整個輪廓就和北方堆得雪人一模一樣。",
+      "translated_vi": "Toàn bộ nửa thân dưới xòe rộng ra tựa như một túp lều căng tròn, vóc dáng y hệt những chú người tuyết mà trẻ con phương bắc hay đắp."
+    },
+    {
+      "para_id": "c0219p0048",
+      "index": 48,
+      "raw_zh": "那科學家以為是同在科考站的同事無聊時堆砌的，於是也沒放在心上。",
+      "translated_vi": "Nhà khoa học cứ ngỡ đó là tác phẩm do đồng nghiệp trong trạm nghiên cứu buồn chán đắp nên lúc rảnh rỗi, bèn không để tâm thêm nữa."
+    },
+    {
+      "para_id": "c0219p0049",
+      "index": 49,
+      "raw_zh": "在屋子裡喝了一杯咖啡，便又帶著雪橇犬出去擺弄儀器，繼續觀測極光。",
+      "translated_vi": "Uống xong một tách cà phê nóng trong phòng, ông lại dắt chú chó kéo xe ra ngoài điều chỉnh thiết bị, tiếp tục công việc đo đạc cực quang."
+    },
+    {
+      "para_id": "c0219p0050",
+      "index": 50,
+      "raw_zh": "那雪橇犬似乎很恐懼，但是見主人走了出去，還是夾著尾巴跟了出去，只是眼睛始終盯著那雪人的方向。",
+      "translated_vi": "Chú chó dường như sợ hãi tột cùng, nhưng thấy chủ nhân bước ra thì vẫn cúp đuôi lẽo đẽo theo sau, chỉ có ánh mắt là trước sau như một vẫn gườm gườm nhìn trừng trừng về phía người tuyết."
+    },
+    {
+      "para_id": "c0219p0051",
+      "index": 51,
+      "raw_zh": "那科學家已經知道，雪橇犬就是對著那雪人叫喚，畢竟狗的眼睛在夜裡可以看得更遠更清楚，它可能以為那是個人站在那裡。",
+      "translated_vi": "Nhà khoa học khi ấy đã rõ con chó chỉ đang sủa vào bức tượng người tuyết kia mà thôi; dù sao mắt chó trong bóng đêm nhìn xa và tinh tường hơn người, nó hẳn tưởng nhầm có kẻ lạ đang đứng rình rập ở đó."
+    },
+    {
+      "para_id": "c0219p0052",
+      "index": 52,
+      "raw_zh": "所以他並沒有在意，繼續認真的工作。",
+      "translated_vi": "Vì thế ông chẳng mấy bận lòng, tiếp tục tập trung cao độ vào công việc."
+    },
+    {
+      "para_id": "c0219p0053",
+      "index": 53,
+      "raw_zh": "只是，他的狗越叫越凶，甚至開始撕扯他的褲腿。",
+      "translated_vi": "Ngặt nỗi, con chó của ông càng lúc càng sủa dữ dội hơn, thậm chí còn lao tới cắn xé ống quần ông lôi kéo giục giã."
+    },
+    {
+      "para_id": "c0219p0054",
+      "index": 54,
+      "raw_zh": "這情況發生，讓他知道事情絕對沒有自己想的那麽簡單，因為那是一隻訓練有素的，極聰明的狗。",
+      "translated_vi": "Tình huống bất thường ấy khiến ông giật mình hiểu ra sự việc tuyệt đối không đơn giản như mình nghĩ, bởi lẽ đây là giống chó nghiệp vụ được huấn luyện bài bản và vô cùng thông minh khôn ngoan."
+    },
+    {
+      "para_id": "c0219p0055",
+      "index": 55,
+      "raw_zh": "於是他順著狗注視的方向看過去。",
+      "translated_vi": "Thế là ông liền dõi mắt nhìn theo hướng con chó đang trừng trừng dán chặt."
+    },
+    {
+      "para_id": "c0219p0056",
+      "index": 56,
+      "raw_zh": "那一刻，看到的東西讓他頭皮發麻，因為他看到了那個雪人。",
+      "translated_vi": "Khoảnh khắc ấy, cảnh tượng đập vào mi mắt khiến ông tê dại cả da đầu: bởi vì ông đã nhìn thấy người tuyết kia!"
+    },
+    {
+      "para_id": "c0219p0057",
+      "index": 57,
+      "raw_zh": "那個之前需要望遠鏡才能看到的雪人，現在就在他身前不遠處，絕不超過二十米，最可怕的，那雪人似乎在對著他笑”",
+      "translated_vi": "Tượng người tuyết mà lúc nãy phải dùng kính viễn vọng phóng to mới thấy được, giờ đây đã xuất hiện lù lù ngay trước mặt ông, cự ly tuyệt đối không quá hai mươi mét! Đáng sợ hơn cả là... dường như người tuyết ấy đang nở nụ cười nhìn thẳng vào ông...”"
+    },
+    {
+      "para_id": "c0219p0058",
+      "index": 58,
+      "raw_zh": "說到這，最少有四個女生發出了輕輕的驚呼聲，按摩的手指力道都大了不少。",
+      "translated_vi": "Kể tới đây, có ít nhất bốn cô gái khẽ thốt lên tiếng thét kinh hãi, những ngón tay đang xoa bóp cũng bất giác ghìm lực mạnh hơn hẳn."
+    },
+    {
+      "para_id": "c0219p0059",
+      "index": 59,
+      "raw_zh": "“後來呢？後來呢？”",
+      "translated_vi": "“Rồi sao nữa? Rốt cuộc sau đó thế nào?”"
+    },
+    {
+      "para_id": "c0219p0060",
+      "index": 60,
+      "raw_zh": "給雲千峰按摩左臂的女生急忙問道。",
+      "translated_vi": "Cô gái đang mát-xa cánh tay trái cho Vân Thiên Phong sốt sắng hỏi dồn."
+    },
+    {
+      "para_id": "c0219p0061",
+      "index": 61,
+      "raw_zh": "那剛才講述南極故事的女人聳了聳肩，無奈道：",
+      "translated_vi": "Cô gái vừa kể câu chuyện Nam Cực khẽ nhún vai, bất đắc dĩ đáp:"
+    },
+    {
+      "para_id": "c0219p0062",
+      "index": 62,
+      "raw_zh": "“那科學家說道這裡的時候，我已經被嚇得鑽進他懷裡了，哪裡還有什麽後來？他的舌頭又哪裡有時間繼續講故事？”",
+      "translated_vi": "“Khi nhà khoa học kể đến đoạn đó thì em đã sợ chết khiếp chui tọt vào lòng ông ấy rồi, làm sao còn có sau đó nữa chứ? Lưỡi của ông ấy lúc đó bận rộn làm chuyện khác rồi, đâu rảnh rỗi mà kể tiếp câu chuyện được!”"
+    },
+    {
+      "para_id": "c0219p0063",
+      "index": 63,
+      "raw_zh": "七個女生開始“嘻嘻嘻”的笑起來。",
+      "translated_vi": "Bảy cô gái đồng loạt bật cười rúc rích “hi hi hi” đầy khoái trá."
+    },
+    {
+      "para_id": "c0219p0064",
+      "index": 64,
+      "raw_zh": "再講述出來的故事，就和驚悚不沾邊了。",
+      "translated_vi": "Những câu chuyện tiếp theo kể ra sau đó chẳng còn dính dáng gì tới đề tài rùng rợn kinh dị nữa."
+    },
+    {
+      "para_id": "c0219p0065",
+      "index": 65,
+      "raw_zh": "言語之中愈加金燦燦起來，各種車在雲千峰身上來回碾壓橫貫。",
+      "translated_vi": "Lời qua tiếng lại ngày càng nồng đượm sắc vàng ươm mờ ám, đủ các thể loại ‘cua xe đánh võng’ liên tục cán qua cán lại trên người Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0219p0066",
+      "index": 66,
+      "raw_zh": "不過雲千峰並沒有被有顏色的故事吸引，倒不是他柳下惠，而是他在思考別的事情。",
+      "translated_vi": "Thế nhưng Vân Thiên Phong chẳng hề bị những câu chuyện phong tình ướt át ấy cuốn hút; chẳng phải vì anh là bậc chính nhân quân tử Liễu Hạ Huệ gì, mà bởi tâm trí anh đang mải miết suy ngẫm về một vấn đề hoàn toàn khác."
+    },
+    {
+      "para_id": "c0219p0067",
+      "index": 67,
+      "raw_zh": "所謂說者無心，聽者有意。",
+      "translated_vi": "Đúng là người nói vô tình, kẻ nghe hữu ý."
+    },
+    {
+      "para_id": "c0219p0068",
+      "index": 68,
+      "raw_zh": "那有關雪人的故事，入了雲千峰的心了。",
+      "translated_vi": "Mẩu chuyện kỳ bí về người tuyết kia đã khắc sâu vào tâm trí Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0219p0069",
+      "index": 69,
+      "raw_zh": "“凡是神跡之處，必有人形或人面的怪異生物。上古之時，黃帝車裂蚩尤，將蚩尤殘屍各部位隱藏在各個險惡極處，避免被人尋找發現。",
+      "translated_vi": "“Hễ là nơi có Thần Tích tọa lạc, ắt hẳn sẽ xuất hiện sinh vật kỳ dị mang hình người hoặc mặt người. Thời thượng cổ xa xưa, Hoàng Đế phanh thây ngũ mã xé xác Xi Vưu, đem giấu các bộ phận thi thể tàn khuyết của Xi Vưu vào những nơi hiểm trở cùng cực nhất trần gian, nhằm tránh để người đời tìm kiếm phát hiện."
+    },
+    {
+      "para_id": "c0219p0070",
+      "index": 70,
+      "raw_zh": "蚩尤死時，地球陸地依舊是整塊的超級陸地，以當時的磁場方向來看，南極處於超級陸地的極北之處，黃帝極有可能命九屠將蚩尤的一部分殘體藏在那裡。",
+      "translated_vi": "Khi Xi Vưu đền mạng, các mảng lục địa trên Trái Đất vẫn là một siêu lục địa nguyên khối duy nhất. Xét theo hướng từ trường thời bấy giờ, Nam Cực nằm ở điểm cực bắc của siêu lục địa, rất có thể năm xưa Hoàng Đế đã hạ lệnh cho Cửu Đồ mang một phần thi thể Xi Vưu chôn giấu tại nơi đó!"
+    },
+    {
+      "para_id": "c0219p0071",
+      "index": 71,
+      "raw_zh": "我得叫羅琳娜幫我打聽一下當年迪蒙迪維爾南極站發生的事情，她能問出來的秘辛，一定遠遠超過這幾個女人。”",
+      "translated_vi": "Mình phải nhờ Lorina giúp điều tra tường tận xem năm ấy tại trạm Nam Cực Dumont d'Urville rốt cuộc đã xảy ra biến cố gì. Những thâm cung bí sử mà cô ấy moi ra được chắc chắn sẽ sâu xa vượt trội hơn hẳn mấy cô nàng này.”"
+    },
+    {
+      "para_id": "c0219p0072",
+      "index": 72,
+      "raw_zh": "此時此刻，一個全身黑色皮衣，面容冷豔，身形極具嘿人健美身材的女人走出了機場。",
+      "translated_vi": "Cùng thời điểm ấy, một người phụ nữ khoác trên mình bộ đồ da màu đen tuyền bó sát, gương mặt lạnh lùng kiều diễm, sở hữu thân hình bốc lửa săn chắc hệt như một nữ vận động viên da màu, sải bước tiến ra khỏi sân bay."
+    },
+    {
+      "para_id": "c0219p0073",
+      "index": 73,
+      "raw_zh": "她的腰極為細長，手臂和大腿也是如此。",
+      "translated_vi": "Vòng eo của ả thon dài khác thường, đôi cánh tay và cặp đùi cũng mang tỷ lệ mảnh khảnh miên man như thế."
+    },
+    {
+      "para_id": "c0219p0074",
+      "index": 74,
+      "raw_zh": "隨意上了一輛出租車，她的聲音淡而冷：",
+      "translated_vi": "Ả tùy tiện bước lên một chiếc xe taxi, cất giọng lãnh đạm lạnh buốt:"
+    },
+    {
+      "para_id": "c0219p0075",
+      "index": 75,
+      "raw_zh": "“去黎府，最快的速度！”",
+      "translated_vi": "“Đi Loei, nhanh nhất có thể!”"
+    },
+    {
+      "para_id": "c0219p0076",
+      "index": 76,
+      "raw_zh": "出租車疾馳而去，她看著窗外，眼中浸滿了仇恨和期盼。",
+      "translated_vi": "Chiếc xe taxi rồ ga lao vụt đi. Ả nhìn ra ngoài cửa sổ, đáy mắt ngập tràn hận thù rực cháy xen lẫn nỗi khát khao báo thù mãnh liệt."
+    },
+    {
+      "para_id": "c0219p0077",
+      "index": 77,
+      "raw_zh": "此時才是子夜。",
+      "translated_vi": "Lúc này vừa đúng lúc nửa đêm."
+    },
+    {
+      "para_id": "c0219p0078",
+      "index": 78,
+      "raw_zh": "“俺必勝，我薩弱今夜必讓你形神俱滅.”",
+      "translated_vi": "“An Tất Thắng, Sa Nhược này đêm nay nhất định sẽ khiến cho mày hồn phi phách tán...”"
+    },
+    {
+      "para_id": "c0219p0079",
+      "index": 79,
+      "raw_zh": "感謝你是聽書客還是故中人、Xenomorph、的打賞，謝謝你們的支持！！！",
+      "translated_vi": "Cảm ơn phần thưởng ủng hộ từ các bạn Bạn Là Khách Nghe Sách Hay Người Trong Cuộc, Xenomorph, cảm ơn sự ủng hộ của các bạn!!!"
+    },
+    {
+      "para_id": "c0219p0080",
+      "index": 80,
+      "raw_zh": "感謝塔克斯、狗狗蛋蛋、尾數20567、Kilig同學不想努力了、該幹嘛幹嘛呢、的月票獎勵，謝謝你們的支持！！！",
+      "translated_vi": "Cảm ơn phần thưởng phiếu tháng từ Tháp Khắc Tư, Cẩu Cẩu Đản Đản, Đuôi số 20567, Bạn Học Kilig Không Muốn Cố Gắng Nữa, Cai Cán Ma Cán Nê, cảm ơn sự ủng hộ của mọi người!!!"
+    },
+    {
+      "para_id": "c0219p0081",
+      "index": 81,
+      "raw_zh": "長夜漫漫，好夢連連！！！",
+      "translated_vi": "Đêm dài dằng dặc, mộng đẹp triền miên!!!"
+    },
+    {
+      "para_id": "c0219p0082",
+      "index": 82,
+      "raw_zh": "祝大家晚安！！！",
+      "translated_vi": "Chúc mọi người ngủ ngon!!!"
+    }
+  ]
+}

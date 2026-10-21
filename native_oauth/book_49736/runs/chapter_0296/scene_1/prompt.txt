@@ -1,0 +1,89 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0296|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §50):
+§1 296.第296章 牛皮繩不結實！
+§2 第296章 牛皮繩不結實！
+§3 [Ø=云千峰]第一個遇到的薑柔甲，暫且稱之為薑柔甲一號。
+§4 [Ø=云千峰]她說自己認識雲千峰，因為和哥哥薑玉林對過夢境，確定夢境是真實發生的， [||] 所以認識雲千峰，這個非常符合邏輯，以雲千峰對薑玉林的了解，他有那個智商做出這樣的判斷。
+§5 第二個遇到的薑柔甲二號。
+§6 她的話一樣符合邏輯。
+§7 [Ø=云千峰]以薑玉林對妹妹的保護態度，他發現夢境是真實，不告訴薑柔甲真相是極有可能的。
+§8 [Ø=云千峰]還有就是薑玉林兄妹都沒發現夢境的真實性，兩種可能都可以導致薑柔甲見到自己感覺熟悉，但卻不認識。
+§9 [Ø=云千峰]也就是說，雲千峰根本無法從倆人的言語裡判斷出誰是真的。
+§10 [Ø=云千峰]雲千峰眼珠轉了轉，指著薑柔甲一號道：
+§11 [Ø=云千峰]“你，來我這裡。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§12 [Ø=云千峰]薑柔甲一號不明所以，疑惑的來到了雲千峰身邊。
+§13 [Ø=云千峰]這一次，雲千峰沒讓她騎在自己脖頸上，而是讓她坐在自己的雙腿上， [||] 這樣可以保證她始終在自己的視線內，萬一她是來害自己的，那麽這樣便不怕她耍花招。
+§14 [Ø=云千峰]雲千峰一撥白綾，鯊魚狂奔，帶著他們遠離薑柔甲二號一段距離。
+§15 這裡可以確保雲千峰和薑柔甲一號之間的對話不被薑柔甲二號聽見。
+§16 [Ø=云千峰]“你說，和我認識後，印象最深刻的事情。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 [Ø=云千峰]薑柔甲一號思索著，突然“噗嗤”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]一聲笑出來，道：
+§18 [Ø=云千峰]“飛頭蠻那一夜，我想上廁所的那一次。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 [Ø=云千峰]雲千峰知道這丫頭為什麽笑，因為當時她用吃飯的鍋接著的，但是為了不弄出聲響，秦疏影把雲千峰的毛巾給她墊在鍋底。
+§20 [Ø=云千峰]雲千峰面無表情，看不出喜怒。
+§21 “把後背露出來！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 [Ø=云千峰]薑柔甲一號一驚，道：
+§23 “你要做什麽？你.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 雲千峰冷冷道：
+§25 [Ø=云千峰]“薑柔甲左肩下，後心位置有一個樹葉形狀的胎記，我必須確認一下。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§26 薑柔甲氣鼓鼓道：
+§27 [Ø=云千峰]“看就看，反正早都被你看光了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 [Ø=云千峰]說著，把左臂褪出衣袖，露出了瓷白。
+§29 雲千峰一眼就看到了那樹葉形的胎記。
+§30 [Ø=云千峰]淡淡的青色，略近心形的葉狀。
+§31 [Ø=云千峰]雲千峰依舊沒有做聲，而是心裡想著：
+§32 [Ø=云千峰]“如此看來，一號應該是真的！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 [Ø=云千峰]不過他沒有出聲，而是一撥白綾， [||] 回到礁石上，讓薑柔甲一號回到礁石上，然後同樣帶著薑柔甲二號來到遠處。
+§34 一樣的過程。
+§35 [Ø=云千峰]“既然你還記得那夢境，那你告訴我，夢裡你最深刻的一件事是什麽。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 [Ø=云千峰]薑柔甲二號思索著，顰眉很認真的回想。
+§37 [Ø=云千峰]“印象最深的事情？應該是我和疏影姐第一次中了飛頭蠻翅膀的毒粉後，出現幻覺的事情， [||] 尤其是我和疏影姐看你手機錄下我們中毒後的模樣時，真的印象太深刻了，你說疏影姐怎麽會YY你？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 雲千峰驚呆了。
+§39 [Ø=云千峰]這兩件事，可以說是他去野人山探險過程裡，印象極深刻的兩件事，薑柔甲對其中任何一個印象深刻都不奇怪。
+§40 [Ø=云千峰]現在的問題是，兩個薑柔甲的記憶貌似都是真的。
+§41 “把你的後背露出來。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§42 薑柔甲二號有些擔憂的看著雲千峰。
+§43 雲千峰低聲道：
+§44 [Ø=云千峰]“放心，我不會對你做什麽，我只是看看你後背的胎記。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§45 [Ø=云千峰]秦疏影點了點頭，沉吟了一下， [||] 這才一咬牙，褪出了左臂，露出了一樣的瓷白。
+§46 [Ø=云千峰]好家夥，一模一樣的胎記。
+§47 [Ø=云千峰]至此，雲千峰確定了幾件事。
+§48 [Ø=云千峰]第一，這倆人裡，最起碼有一個是假的薑柔甲，不排除兩個都是。
+§49 [Ø=云千峰]第二；絕對是有人要對自己下手。那麽要對自己下手的人跑不出九屠、山神這幫王八蛋，他們很可能是利用入夢或者催眠術這樣的技術獲取了薑柔甲的記憶，讓一個人完美無缺的裝扮成另外一個人。
+§50 [Ø=云千峰]當然，這還需要極高超的整容手術能力，這才能讓全知之眼將對方完美複製成薑柔甲的樣子，而不會出現易容的痕跡。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 50 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§50. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

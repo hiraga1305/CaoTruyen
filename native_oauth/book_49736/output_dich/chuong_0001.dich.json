@@ -1,0 +1,404 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 1,
+  "title": "Chương 1: Một vị khách",
+  "total_paragraphs": 65,
+  "translated_paragraphs": 65,
+  "source_hash": "d405767b4d150ab813576283f2f95e6152aeb6d5da4fd35a5783bb436a00eb93",
+  "model_used": "gemini-3.8-flash-high",
+  "elapsed_seconds": 90.28,
+  "bilingual_alignment": [
+    {
+      "para_id": "c0001p0001",
+      "index": 1,
+      "raw_zh": "第1章 一個顧客",
+      "translated_vi": "Chương 1: Một vị khách"
+    },
+    {
+      "para_id": "c0001p0002",
+      "index": 2,
+      "raw_zh": "九江城，八裡湖畔。",
+      "translated_vi": "Thành Cửu Giang, bên bờ hồ Bát Lý."
+    },
+    {
+      "para_id": "c0001p0003",
+      "index": 3,
+      "raw_zh": "背對著湖的街道，一間狹小的店面。",
+      "translated_vi": "Trên con phố quay lưng về phía hồ, có một gian mặt bằng nhỏ hẹp."
+    },
+    {
+      "para_id": "c0001p0004",
+      "index": 4,
+      "raw_zh": "正門上四個金色大字“三錢濟世”，門左豎聯“卦中陰陽卜禍福，天命可改”，門右側“推拿、正骨、祝由術、家電維修”。",
+      "translated_vi": "Cửa chính treo bốn chữ mạ vàng \"Tam Tiền Tế Thế\", vế đối dọc bên trái cửa đề \"Quẻ định âm dương bói họa phúc, thiên mệnh khả cải\", bên phải cửa ghi \"Xoa bóp, nắn xương, Chúc Do thuật, sửa chữa đồ điện gia dụng\"."
+    },
+    {
+      "para_id": "c0001p0005",
+      "index": 5,
+      "raw_zh": "人流寡淡的街道上，一個面色蒼白，眼神無措的年輕女人徑直的走進了這家門店。",
+      "translated_vi": "Giữa con phố thưa thớt bóng người, một người phụ nữ trẻ gương mặt tái nhợt, ánh mắt hoang mang bất an đi thẳng vào cửa tiệm này."
+    },
+    {
+      "para_id": "c0001p0006",
+      "index": 6,
+      "raw_zh": "她看起來二十冒頭的年紀，身材消瘦，但是該大的地方豪氣乾雲，配上那書卷氣的清秀面龐，更憑添了七分誘惑。",
+      "translated_vi": "Cô trông chừng ngoài đôi mươi, vóc dáng mảnh khảnh, thế nhưng nơi cần nảy nở lại đẫy đà ngút ngàn, kết hợp cùng khuôn mặt thanh tú đậm chất thư hương, lại càng tăng thêm bảy phần quyến rũ."
+    },
+    {
+      "para_id": "c0001p0007",
+      "index": 7,
+      "raw_zh": "門店內空間狹小，光線昏暗，只是一張正對門的桌子就佔了裡面將近三分之一的面積。",
+      "translated_vi": "Không gian bên trong cửa tiệm chật hẹp, ánh sáng mờ tối, chỉ riêng một tấm bàn đối diện cửa chính đã chiếm gần một phần ba diện tích."
+    },
+    {
+      "para_id": "c0001p0008",
+      "index": 8,
+      "raw_zh": "書桌側面的書架上，擺滿了量子物理、超弦物理這些前沿物理讀本，與這風水店的格調格格不入。",
+      "translated_vi": "Trên giá sách bên cạnh bàn làm việc xếp đầy những cuốn sách vật lý tiên phong như vật lý lượng tử, vật lý siêu dây, hoàn toàn lạc lõng với phong cách của một tiệm phong thủy."
+    },
+    {
+      "para_id": "c0001p0009",
+      "index": 9,
+      "raw_zh": "桌子上電腦屏幕的光映著坐在桌子後面的一張臉。",
+      "translated_vi": "Ánh sáng từ màn hình máy tính trên bàn hắt lên một tấm gương mặt đang ngồi phía sau bàn."
+    },
+    {
+      "para_id": "c0001p0010",
+      "index": 10,
+      "raw_zh": "沒有三綹胡子，沒有明黃道袍，也沒有長發扎成的發髻。",
+      "translated_vi": "Không có chòm râu ba chỏm, không có đạo bào vàng óng, cũng chẳng có mái tóc dài búi củ hành."
+    },
+    {
+      "para_id": "c0001p0011",
+      "index": 11,
+      "raw_zh": "那是一張年輕白淨的臉，穿著白體恤，小腳的藍色牛仔褲，一雙白色板鞋。",
+      "translated_vi": "Đó là một tấm mặt trẻ trung, trắng trẻo, mặc áo thun trắng, quần jean xanh bó ống và mang một đôi giày thể thao trắng."
+    },
+    {
+      "para_id": "c0001p0012",
+      "index": 12,
+      "raw_zh": "這長相和行頭，相信前來算命的人一定很沒有安全感。",
+      "translated_vi": "Diện mạo và trang phục này hẳn sẽ khiến những ai đến bói toán cảm thấy vô cùng bất an, thiếu tin cậy."
+    },
+    {
+      "para_id": "c0001p0013",
+      "index": 13,
+      "raw_zh": "他叫雲千峰，是這家風水店的店主。",
+      "translated_vi": "Hắn tên là Vân Thiên Phong, là chủ nhân của tiệm phong thủy này."
+    },
+    {
+      "para_id": "c0001p0014",
+      "index": 14,
+      "raw_zh": "見有顧客光臨，他急忙起身，伸手打開了室內的燈。",
+      "translated_vi": "Thấy có khách ghé thăm, hắn vội vàng đứng dậy, đưa tay bật đèn trong phòng lên."
+    },
+    {
+      "para_id": "c0001p0015",
+      "index": 15,
+      "raw_zh": "如此看來，生意的確是不好的。",
+      "translated_vi": "Xem ra thì công việc làm ăn quả thật chẳng khấm khá gì."
+    },
+    {
+      "para_id": "c0001p0016",
+      "index": 16,
+      "raw_zh": "“你好，有什麽可以幫”",
+      "translated_vi": "\"Chào cô, tôi có thể giúp...\""
+    },
+    {
+      "para_id": "c0001p0017",
+      "index": 17,
+      "raw_zh": "雲千峰話沒說完，那面色蒼白的女人就用一種能聽到絕望的語調打斷了他的話：",
+      "translated_vi": "Vân Thiên Phong còn chưa dứt lời, người phụ nữ mặt mày tái nhợt kia đã ngắt lời hắn bằng một chất giọng đậm đặc vẻ tuyệt vọng:"
+    },
+    {
+      "para_id": "c0001p0018",
+      "index": 18,
+      "raw_zh": "“我的哥哥消失了，我想知道他在哪。”",
+      "translated_vi": "\"Anh trai tôi biến mất rồi, tôi muốn biết anh ấy đang ở đâu.\""
+    },
+    {
+      "para_id": "c0001p0019",
+      "index": 19,
+      "raw_zh": "這種語調聽得雲千峰的心臟揪起來，因為在這女人的語氣之中，他不僅感受到了痛苦絕望，更感受到了無邊的恐懼。",
+      "translated_vi": "Tông giọng ấy khiến tim Vân Thiên Phong thắt lại, bởi vì trong ngữ khí của người phụ nữ này, hắn không chỉ cảm nhận được nỗi đau khổ tuyệt vọng, mà còn thấy cả sự sợ hãi vô biên."
+    },
+    {
+      "para_id": "c0001p0020",
+      "index": 20,
+      "raw_zh": "他不是個合格的神棍，而是下意識的直接回道：",
+      "translated_vi": "Hắn không phải một kẻ lừa bịp chuyên nghiệp, mà chỉ theo bản năng buột miệng đáp:"
+    },
+    {
+      "para_id": "c0001p0021",
+      "index": 21,
+      "raw_zh": "“這得報警！”",
+      "translated_vi": "\"Việc này phải báo cảnh sát chứ!\""
+    },
+    {
+      "para_id": "c0001p0022",
+      "index": 22,
+      "raw_zh": "女人苦笑一聲，然後張開嘴深深的吸了一口氣吐出來，聲音有些顫抖道：",
+      "translated_vi": "Người phụ nữ cười khổ một tiếng, rồi há miệng hít sâu một hơi thật dài rồi thở hắt ra, giọng nói run rẩy đáp:"
+    },
+    {
+      "para_id": "c0001p0023",
+      "index": 23,
+      "raw_zh": "“報過了，你能想到的任何方式我都用過了，求神問卜已經是我最後能做的，這段時間，我走遍了這座城市的命理館，他們說的都不對，一點都不對，你這裡是最後一家，也是我最後的一絲奢望。”",
+      "translated_vi": "\"Báo rồi, bất cứ cách nào anh nghĩ ra được tôi đều đã thử qua, cầu thần bói quẻ là việc cuối cùng tôi có thể làm. Khoảng thời gian này, tôi đã đi khắp các phòng tử vi tướng số trong thành phố, bọn họ nói đều không đúng, chẳng đúng một chút nào. Chỗ của anh là nơi cuối cùng, cũng là tia hy vọng mong manh sót lại của tôi.\""
+    },
+    {
+      "para_id": "c0001p0024",
+      "index": 24,
+      "raw_zh": "雲千峰能理解這種心緒，明知無果，但若是不做點什麽，自己會崩潰。",
+      "translated_vi": "Vân Thiên Phong có thể thấu hiểu tâm trạng này, biết rõ vô vọng nhưng nếu không làm điều gì đó thì bản thân sẽ sụp đổ."
+    },
+    {
+      "para_id": "c0001p0025",
+      "index": 25,
+      "raw_zh": "他沒有多說什麽，而是眼睛盯著門口看過去，目不轉睛，表情怪異。",
+      "translated_vi": "Hắn không nói thêm gì, mà dán chặt mắt nhìn về phía cửa ra vào, không chớp mắt lấy một lần, nét mặt lộ rõ vẻ kỳ quái."
+    },
+    {
+      "para_id": "c0001p0026",
+      "index": 26,
+      "raw_zh": "這動作引得那女人也不禁回頭看過去。",
+      "translated_vi": "Động tác này khiến người phụ nữ cũng không kìm được mà ngoảnh đầu nhìn theo."
+    },
+    {
+      "para_id": "c0001p0027",
+      "index": 27,
+      "raw_zh": "也就在這一刻，雲千峰突然把一支筆一張紙推到女人身前，語氣快速道：",
+      "translated_vi": "Ngay chính khoảnh khắc này, Vân Thiên Phong đột ngột đẩy một cây bút và một tấm giấy ra trước mặt người phụ nữ, giọng nói dồn dập:"
+    },
+    {
+      "para_id": "c0001p0028",
+      "index": 28,
+      "raw_zh": "“迅速寫一個字，不許思考！”",
+      "translated_vi": "\"Mau viết một chữ, không được suy nghĩ!\""
+    },
+    {
+      "para_id": "c0001p0029",
+      "index": 29,
+      "raw_zh": "人的大腦很習慣接收命令而不是思考，這也是PUA能成立的基礎。",
+      "translated_vi": "Não bộ con người vốn rất quen với việc tiếp nhận mệnh lệnh thay vì suy nghĩ, đây cũng là nền tảng để các chiêu trò thao túng tâm lý vận hành."
+    },
+    {
+      "para_id": "c0001p0030",
+      "index": 30,
+      "raw_zh": "女人下意識的拿起筆，在那張A4紙上寫下了一個“潘”字。",
+      "translated_vi": "Người phụ nữ theo bản năng cầm bút lên, viết xuống tờ giấy A4 một chữ \"Phan\"."
+    },
+    {
+      "para_id": "c0001p0031",
+      "index": 31,
+      "raw_zh": "等到字寫完，女人都詫異，自己為什麽會寫出這個字來。",
+      "translated_vi": "Chờ đến khi viết xong, chính người phụ nữ cũng thấy kinh ngạc không hiểu tại sao mình lại viết ra chữ này."
+    },
+    {
+      "para_id": "c0001p0032",
+      "index": 32,
+      "raw_zh": "這不算是常用字，也不是自己的姓氏，自己周圍幾乎沒有用到這個字的時候，但卻莫名其妙的在自己下意識的情況下，躍然紙上。",
+      "translated_vi": "Đây không hẳn là chữ thông dụng, cũng không phải họ của cô, xung quanh cô hầu như chẳng bao giờ dùng tới chữ này, vậy mà nó lại xuất hiện rành rành trên mặt giấy một cách đầy khó hiểu dưới phản xạ vô thức của cô."
+    },
+    {
+      "para_id": "c0001p0033",
+      "index": 33,
+      "raw_zh": "看到那漂亮女人的表情，雲千峰舒了一口氣，因為這正是他想要看到的，“不思考”才能窺見真相。",
+      "translated_vi": "Nhìn thấy nét mặt của người phụ nữ xinh đẹp kia, Vân Thiên Phong khẽ thở phào một hơi, bởi lẽ đây chính là điều hắn muốn thấy — chỉ khi \"ngừng suy nghĩ\" mới có thể nhìn thấu chân tướng."
+    },
+    {
+      "para_id": "c0001p0034",
+      "index": 34,
+      "raw_zh": "人是一個極為複雜的意識體，由不止一個獨立的意識體集合而成。",
+      "translated_vi": "Con người vốn là một thể ý thức cực kỳ phức tạp, được hợp thành từ nhiều hơn một thể ý thức độc lập."
+    },
+    {
+      "para_id": "c0001p0035",
+      "index": 35,
+      "raw_zh": "其中大腦為權臣，剛愎自用，隻懂得分辨對錯，冷暖，好壞這樣簡單的二元思維，華夏好一點，因為大乘佛教的創立，產生了“悟”這種三元思維，算得上鶴立雞群了。",
+      "translated_vi": "Trong đó, đại não giữ vai quyền thần, ngang ngược tự phụ, chỉ biết phân biệt đúng sai, nóng lạnh, tốt xấu theo lối tư duy nhị nguyên nông cạn. Hoa Hạ thì khá hơn đôi chút, nhờ sự khai sáng của Phật giáo Đại thừa mà sản sinh ra lối tư duy tam nguyên mang chữ \"Ngộ\", có thể coi là vượt trội hơn hẳn."
+    },
+    {
+      "para_id": "c0001p0036",
+      "index": 36,
+      "raw_zh": "皮膚也擁有自己的獨立意識，它離開人體依舊能夠根據環境改變自身，更能通過直覺，讓人在看到別人打針的時候就產生痛感，算是個膽小怕事的護衛，利用恐懼阻止伱做任何事，哪怕是正確的事。",
+      "translated_vi": "Làn da cũng sở hữu ý thức độc lập của riêng mình. Ngay cả khi rời khỏi cơ thể người, nó vẫn có thể tự biến đổi theo môi trường, lại càng có khả năng thông qua trực giác để khiến người ta vừa thấy kẻ khác bị tiêm kim là liền cảm thấy đau nhói. Nó tựa như một gã cận vệ nhút nhát sợ phiền phức, luôn dùng nỗi sợ để ngăn bạn làm bất cứ điều gì, dẫu cho đó là việc đúng đắn."
+    },
+    {
+      "para_id": "c0001p0037",
+      "index": 37,
+      "raw_zh": "人體內的細菌則是第三個獨立意識，這數量上遠遠超過人體正常細胞的細菌掌管著人的情緒，當把一個抑鬱症患者腸道的細菌移到健康人體內後，被移植者就會患上抑鬱症。",
+      "translated_vi": "Vi khuẩn bên trong cơ thể người lại là thể ý thức độc lập thứ ba. Lượng vi khuẩn vượt xa số tế bào bình thường này chính là thứ thao túng cảm xúc của con người. Khi chuyển vi khuẩn đường ruột từ một bệnh nhân trầm cảm sang cơ thể người khỏe mạnh, người nhận cấy ghép cũng sẽ mắc phải chứng trầm cảm y hệt."
+    },
+    {
+      "para_id": "c0001p0038",
+      "index": 38,
+      "raw_zh": "所以細菌就像是皇帝后宮的三千佳麗，用欲望裹挾著君王，讓其不臨朝，把一切交給了大腦。",
+      "translated_vi": "Thế nên vi khuẩn chẳng khác nào ba ngàn giai lệ nơi hậu cung của bậc đế vương, dùng dục vọng để trói buộc quân vương, khiến ngài bỏ bê triều chính mà phó mặc tất cả cho đại não định đoạt."
+    },
+    {
+      "para_id": "c0001p0039",
+      "index": 39,
+      "raw_zh": "而真正的自我，被這三個獨立的意識體柔軟的囚禁起來，猶如缸中之腦，一生之中都極少出現，它就是道家尋找的真人真我，佛家尋找的智慧菩提。",
+      "translated_vi": "Trong khi đó, bản ngã chân chính lại bị ba thể ý thức độc lập này giam cầm một cách êm ái, tựa như bộ não trong thùng, cả một đời người cũng hiếm khi xuất đầu lộ diện. Nó chính là chân nhân chân ngã mà Đạo gia mải miết kiếm tìm, là trí tuệ bồ đề mà Phật gia hằng hướng tới."
+    },
+    {
+      "para_id": "c0001p0040",
+      "index": 40,
+      "raw_zh": "雲千峰先是用注視門外的方式吸引眼前女人的全部注意力，然後再利用突然的呵聲命令，讓眼前的女人在下意識狀態下繞過直覺，大腦，情緒這三道關見到真正的自我，與它刹那對話。",
+      "translated_vi": "Vân Thiên Phong trước tiên dùng cách nhìn chăm chú ra ngoài cửa để thu hút toàn bộ sự chú ý của người phụ nữ trước mắt, kế đó lại bất ngờ quát lớn ra lệnh, khiến cô trong trạng thái vô thức có thể vượt qua ba luồng quan ải gồm trực giác, đại não và cảm xúc để diện kiến bản ngã chân chính, tiến hành một cuộc đối thoại trong chớp mắt với nó."
+    },
+    {
+      "para_id": "c0001p0041",
+      "index": 41,
+      "raw_zh": "轉瞬間，便已經足夠智慧給出答案，它在微觀之中與量子為伴，開啟跨越時空的凝視，讓波變成了粒。",
+      "translated_vi": "Chỉ trong khoảnh khắc ngắn ngủi ấy, đã đủ để phần trí tuệ tối cao đưa ra câu trả lời. Nơi thế giới vi mô, nó đồng hành cùng lượng tử, mở ra cái nhìn chăm chú vượt qua thời không, biến sóng trở thành hạt."
+    },
+    {
+      "para_id": "c0001p0042",
+      "index": 42,
+      "raw_zh": "故此測字最忌諱思考，毫秒的遲疑，都會讓三個意識反應過來，阻止真我乍現。",
+      "translated_vi": "Do đó, thuật chiết tự tối kỵ nhất là suy nghĩ. Chỉ một phần nghìn giây chần chừ cũng đủ để ba thể ý thức kia kịp thời phản ứng, ngăn chặn chân ngã bất chợt hiển lộ."
+    },
+    {
+      "para_id": "c0001p0043",
+      "index": 43,
+      "raw_zh": "雲千峰看著眼神滿是疑惑的女人淡笑道：",
+      "translated_vi": "Vân Thiên Phong nhìn người phụ nữ với ánh mắt ngập tràn nghi hoặc, khẽ mỉm cười nói:"
+    },
+    {
+      "para_id": "c0001p0044",
+      "index": 44,
+      "raw_zh": "“是不是很詫異自己會寫出一個完全想不到的字？”",
+      "translated_vi": "“Có phải cô rất ngạc nhiên vì mình lại viết ra một chữ hoàn toàn không ngờ tới không?”"
+    },
+    {
+      "para_id": "c0001p0045",
+      "index": 45,
+      "raw_zh": "女人點了點頭沒有否認，帶著僅有的一絲絲希望，問道：",
+      "translated_vi": "Người phụ nữ gật đầu không hề phủ nhận, mang theo một tia hy vọng mong manh sót lại, lên tiếng hỏi:"
+    },
+    {
+      "para_id": "c0001p0046",
+      "index": 46,
+      "raw_zh": "“這個字能給我答案嗎？”",
+      "translated_vi": "“Chữ này có thể cho tôi câu trả lời sao?”"
+    },
+    {
+      "para_id": "c0001p0047",
+      "index": 47,
+      "raw_zh": "雲千峰沉吟了一下，道：",
+      "translated_vi": "Vân Thiên Phong trầm ngâm giây lát rồi đáp:"
+    },
+    {
+      "para_id": "c0001p0048",
+      "index": 48,
+      "raw_zh": "“看到你如此詫異自己寫下的字，那麽我覺得有七成幾率可以找到答案。”",
+      "translated_vi": "“Thấy cô kinh ngạc trước chữ mình vừa viết ra như vậy, tôi nghĩ có đến bảy phần xác suất tìm được câu trả lời.”"
+    },
+    {
+      "para_id": "c0001p0049",
+      "index": 49,
+      "raw_zh": "說著，他給自己點了一根煙，擺手製止還要說話的女人道：",
+      "translated_vi": "Nói đoạn, hắn châm một điếu thuốc lá cho mình, giơ tay ra hiệu ngăn người phụ nữ đang định mở lời:"
+    },
+    {
+      "para_id": "c0001p0050",
+      "index": 50,
+      "raw_zh": "“別出聲，我需要思考，你保持安靜。”",
+      "translated_vi": "“Đừng lên tiếng, tôi cần suy nghĩ, cô hãy giữ yên lặng.”"
+    },
+    {
+      "para_id": "c0001p0051",
+      "index": 51,
+      "raw_zh": "說完不再搭理那女人，深深吸了一口煙，沒冒出一縷煙絲，然後看著那個“潘”字，陷入了沉思，在腦海內拆解這個字給予的訊息。",
+      "translated_vi": "Dứt lời, hắn không buồn để ý đến người phụ nữ nữa, rít một hơi thuốc thật sâu, chẳng để lọt ra lấy một làn khói mỏng. Ánh mắt hắn nhìn chăm chú vào chữ \"Phan\" kia rồi rơi vào trầm tư, bắt đầu bóc tách từng tầng thông điệp mà con chữ này mang lại trong tâm trí."
+    },
+    {
+      "para_id": "c0001p0052",
+      "index": 52,
+      "raw_zh": "一根煙的時間。",
+      "translated_vi": "Độ chừng tàn một điếu thuốc."
+    },
+    {
+      "para_id": "c0001p0053",
+      "index": 53,
+      "raw_zh": "雲千峰把煙頭壓滅在煙灰缸內，然後開口道：",
+      "translated_vi": "Vân Thiên Phong dụi tắt đầu mẩu thuốc lá vào gạt tàn, sau đó cất lời:"
+    },
+    {
+      "para_id": "c0001p0054",
+      "index": 54,
+      "raw_zh": "“地陷西南，澤水匯之，人當在西南方向；番者異國外族，也有番國之意，所以他應該不在國內，大概率是在緬越地區。”",
+      "translated_vi": "“Địa hãm tây nam, trạch thủy tụ về, người ắt ở hướng tây nam; 'Phan' là ngoại tộc dị bang, cũng mang hàm ý phiên vương dị quốc, thế nên anh ta hẳn là không còn ở trong nước, xác suất cao là đang ở khu vực Miến - Việt.”"
+    },
+    {
+      "para_id": "c0001p0055",
+      "index": 55,
+      "raw_zh": "簡短一句話，那女人的眼睛卻立即亮了，那是希望的光芒。",
+      "translated_vi": "Chỉ một câu ngắn gọn, nhưng đôi mắt người phụ nữ lập tức sáng rực lên, đó là tia sáng rực rỡ của niềm hy vọng."
+    },
+    {
+      "para_id": "c0001p0056",
+      "index": 56,
+      "raw_zh": "她蹭的一下在椅子上站起來，異常激動，用手撐著上身，俯看著雲千峰，顫聲急促道：",
+      "translated_vi": "Cô bật dậy khỏi ghế, kích động đến tột cùng, hai tay chống đỡ thân trên chồm về phía trước, nhìn thẳng vào Vân Thiên Phong, giọng run rẩy dồn dập:"
+    },
+    {
+      "para_id": "c0001p0057",
+      "index": 57,
+      "raw_zh": "“對，你應該是對的！我哥在消失前一直在收集中緬邊境原始森林的資料，你應該是對的！還能看到更多的訊息嗎？”",
+      "translated_vi": "“Đúng, chắc chắn anh nói đúng! Trước khi biến mất, anh trai tôi liên tục thu thập tư liệu về các khu rừng nguyên sinh ở biên giới Trung - Miến, chắc chắn anh nói đúng! Anh còn nhìn ra thêm được manh mối nào nữa không?”"
+    },
+    {
+      "para_id": "c0001p0058",
+      "index": 58,
+      "raw_zh": "雲千峰對自己測算的準確度感到自豪，面帶得意，又沉吟片刻後，道：",
+      "translated_vi": "Vân Thiên Phong cảm thấy tự hào về độ chuẩn xác trong phép suy đoán của mình, khóe môi thoáng nét đắc ý. Hắn lại trầm ngâm giây lát rồi nói:"
+    },
+    {
+      "para_id": "c0001p0059",
+      "index": 59,
+      "raw_zh": "“潘這個讀音，源自於古老的藏地文明，意為“有用、有益”，後向四方傳播，像是地名番禺，潘水，TLF，倭國的名字傑潘(Japan)，都是源自於此文明輻射，包括希臘神話的潘多拉。",
+      "translated_vi": "“Âm đọc của chữ 'Phan' này vốn bắt nguồn từ nền văn minh Tây Tạng cổ đại, mang ý nghĩa là 'hữu dụng, có ích', về sau lan truyền ra bốn phương, tựa như các địa danh Phiên Ngung, Phan Thủy, Thổ Lỗ Phiên, hay tên gọi Japan của xứ Oa, tất cả đều bắt nguồn từ sự lan tỏa của nền văn minh này, kể cả chiếc hộp Pandora trong thần thoại Hy Lạp.”"
+    },
+    {
+      "para_id": "c0001p0060",
+      "index": 60,
+      "raw_zh": "這個字音出現的時間非常古老，可追溯到史前神話時代，所以我估算你哥哥應該是去那裡尋找某處非常古老的文明遺址，其年代很可能是史前神話時代。”",
+      "translated_vi": "“Thời điểm âm chữ này xuất hiện vô cùng xa xưa, có thể ngược dòng về tận thời đại thần thoại tiền sử, thế nên tôi phỏng đoán anh trai cô hẳn là đã đến đó để tìm kiếm một phế tích văn minh cổ xưa nào đó, niên đại của nó rất có thể là từ thời đại thần thoại tiền sử.”"
+    },
+    {
+      "para_id": "c0001p0061",
+      "index": 61,
+      "raw_zh": "那年輕女人聽完這話，先是笑了，緊接著又哭了，然後又哭又笑的對雲千峰說道：",
+      "translated_vi": "Người phụ nữ trẻ nghe xong những lời này, thoạt tiên bật cười, nhưng ngay sau đó lại rơi lệ, rồi cứ vừa khóc vừa cười nói với Vân Thiên Phong:"
+    },
+    {
+      "para_id": "c0001p0062",
+      "index": 62,
+      "raw_zh": "“對，你說的都對，我記得我哥癡迷史前文明，我沒瘋，我沒有妄想症，我有個哥哥，我真的有個哥哥.”",
+      "translated_vi": "“Đúng, những gì anh nói đều đúng cả! Tôi nhớ anh trai tôi cực kỳ say mê văn minh tiền sử... Tôi không điên, tôi không mắc chứng hoang tưởng, tôi có một người anh trai, tôi thật sự có một người anh trai!”"
+    },
+    {
+      "para_id": "c0001p0063",
+      "index": 63,
+      "raw_zh": "聽到這話，雲千峰懵了！",
+      "translated_vi": "Nghe thấy câu nói này, Vân Thiên Phong ngớ người chết lặng!"
+    },
+    {
+      "para_id": "c0001p0064",
+      "index": 64,
+      "raw_zh": "什麽叫你真有個哥哥？你不就是來找你哥哥的嗎？什麽情況？",
+      "translated_vi": "Thế nào gọi là cô thật sự có một người anh trai? Chẳng phải cô đến đây là để tìm anh trai mình sao? Rốt cuộc là tình hình thế nào?"
+    },
+    {
+      "para_id": "c0001p0065",
+      "index": 65,
+      "raw_zh": "雲千峰隱隱有一種不太好的預感。",
+      "translated_vi": "Trong lòng Vân Thiên Phong mơ hồ dấy lên một dự cảm chẳng lành."
+    }
+  ]
+}

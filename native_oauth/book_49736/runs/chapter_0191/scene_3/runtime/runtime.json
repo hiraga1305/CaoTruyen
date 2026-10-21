@@ -1,0 +1,32 @@
+{
+  "authentication": "cached_account; GEMINI_API_KEY unset",
+  "requested_model": "gemini-3.8-flash-high",
+  "agent": null,
+  "exit_code": 0,
+  "workspace": "D:\\AI\\Antigravity\\CaoTruyen",
+  "duration_seconds": 43.08,
+  "status": "SUCCESS",
+  "conversation_id": "5d39e873-337c-4de7-a626-4dfc00209cdc",
+  "usage": {
+    "input_tokens": 15082,
+    "output_tokens": 5393,
+    "thinking_tokens": 5276,
+    "cache_read_tokens": 0,
+    "total_tokens": 20475
+  },
+  "result": {
+    "conversation_id": "5d39e873-337c-4de7-a626-4dfc00209cdc",
+    "status": "SUCCESS",
+    "response": "§1 Fatina cứ thế bước đến trước mặt hai người, trên gương mặt rạng rỡ nụ cười tươi tắn.\n§2 Chân thành cảm ơn bạn đọc có số đuôi 82176 đã thưởng phiếu tháng, cảm ơn bạn đã ủng hộ!!!\n§3 Chúc mọi người đêm dài an giấc, mộng đẹp miên man!!!\n§4 Chúc ngủ ngon!!!\n\n<delta>\nNEW_ENT|法緹娜|Fatina|F|nàng|Bạn đồng hành thám hiểm\n</delta>\n",
+    "duration_seconds": 40.1711532,
+    "num_turns": 1,
+    "usage": {
+      "input_tokens": 15082,
+      "output_tokens": 5393,
+      "thinking_tokens": 5276,
+      "cache_read_tokens": 0,
+      "total_tokens": 20475
+    }
+  },
+  "event_count": 24
+}

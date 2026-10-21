@@ -1,0 +1,79 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0253|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Trong lòng Vân Thiên Phong, dù là Tây Vương Mẫu hay Nữ hoàng Sheba thì hẳn cũng đều nằm trong phạm vi ảnh hưởng của nền văn minh Hoa Hạ; thế nên hắn mới chọn hướng này, một khi được giải cứu sẽ có thể
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一道|một luồng
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §38):
+§1 [Ø=云千峰]導航地圖旁放著一個衛星電話，此時沒有暴風雪，信號很好。
+§2 [Ø=云千峰]雲千峰撥通了羅琳娜的電話，電話打通那一刻，他語速極快的說道：
+§3 [Ø=云千峰]“我現在駛向南磁極方向，你要盡可能最快的在南磁極附近的海岸安排救援， [||] 同時替我準備所有關於西王母和示巴女王的資料，時間很緊，我必須盡快找到西王母的所在。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§4 [Ø=云千峰]羅琳娜聽出了雲千峰語氣之中的急迫，於是忙問道：
+§5 “出了什麽大事？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§6 雲千峰苦笑道：
+§7 [Ø=云千峰]“天大的事，關系所有人的安危，也關系我內心的平靜。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 [Ø=云千峰]羅琳娜果然是個凡事早作準備的人，她回道：
+§9 [Ø=云千峰]“孫倩的船就在奧克蘭群島附近等待，她的船安裝了新的動力，可以在極夜進行救援， [||] 她會比你早到南磁極附近的海岸，我現在通過這個號碼鎖定你的實時坐標發給孫倩，讓她最快的與伱匯合。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§10 [Ø=云千峰]“謝謝你羅琳娜，認識你真是我這輩子最大的幸運。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=云千峰]“別說這些廢話，早點把事情全都處理好，安心回來吃軟飯。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§12 “好！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 [Ø=云千峰]雲千峰撒謊了，因為他知道自己很大可能沒辦法回去了。
+§14 [Ø=云千峰]放下電話，雲千峰來不及悲傷感歎，大腦幾乎在放下電話的一瞬間就開始繼續快速的運轉。
+§15 [Ø=云千峰]雖然看起來是絕路，但是雲千峰很了解自己， [||] 完全自絕的事情，無論如何自己都不會做的，這裡面一定有生機。
+§16 [Ø=云千峰]他在腦海裡複盤在南極遇到的所有情況，進行分析：
+§17 [Ø=云千峰]“小神經這群人把熱氣球和槍支上的標識和編碼全都抹除，應該是不希望別人發現他們是來自未來，畢竟補天之門的秘密如果一旦被很多人知道，那麽這個世界的時間線怕是要徹底亂套。
+§18 [Ø=云千峰]他們費勁心思破壞各個南極站的目的又是什麽？是了，是利用蝴蝶效應對未來盡可能的影響，看得出來， [||] 未來的世界真的很可怕，以至於在他們心裡認為，任何的改變都只能是好的。
+§19 [Ø=云千峰]但他們對我卻做到了盡可能的不改變，哪怕是西王母雕像的秘密，都要我自己去發現， [||] 也就是說，他們不希望改變我當前的經歷，隻想改變在那之後的我的選擇。”
+§20 [Ø=云千峰]“小神經說未來的我是希望我跟隨帝嚳的算計而走，但以我的性格，說出這句話一定是謊言，我不可能做到如此篤信一個陌生人。
+§21 那麽是什麽讓我能夠如此相信帝嚳的算計是正確的？正直的為人人犧牲的心嗎？
+§22 [Ø=云千峰]如果說現在的我選擇犧牲自己的路是帝嚳算計的選擇，那麽那個未來的我當初的選擇又是誰的算計？
+§23 [Ø=云千峰]當初我把全知之眼吞進肚子，微觀之中似乎有一股力量憤怒的要衝出來。
+§24 [Ø=云千峰]以我的了解，蚩尤甲沒有那個能力， [||] 石匠會也沒有。普羅那些山神也沒有那樣的力量，他們最多是通過補天之門做一些算計，但絕做不到在微觀之中有那麽強大的能量具現。
+§25 [Ø=云千峰]那個力量是誰？祂為什麽選擇小神經？會不會未來的我的選擇就是祂的算計，只為了把小神經送回到三十年前，成為祂的選擇，而我恰好破壞了祂的算計！
+§26 [Ø=云千峰]無論如何，祂絕不是帝嚳，因為我現在的選擇才是帝嚳的算計，那麽祂應該是帝嚳的敵人。
+§27 [Ø=云千峰]我當初走出野人山神跡，感受到的那種微觀的對弈，不是山神不是石匠也不是THEONE，而應該就是存在與微觀的帝嚳和這個未知的祂的博弈。
+§28 [Ø=云千峰]有博弈存在，作為第三者便能借力， [||] 生機一定就在這裡，不僅僅是其它所有人的生機，也是我的。”
+§29 [Ø=云千峰]想到這，雲千峰突然臉色煞白，驚呼：
+§30 [Ø=云千峰]“不對！小神經當初說過，她腦海內的兩個聲音都要她殺了我！我必然是帝嚳的選擇，這從扭曲島內， [||] 姮娥等著我完成婚禮就能確定，帝嚳就算要我死，也一定是在蚩尤完滿之後。
+§31 [Ø=云千峰]那麽就一定還有另一個強大的力量存在於微觀之中，帝嚳才是那個見縫插針，借力之人，而我是他借力的工具！
+§32 [Ø=云千峰]帝嚳啊！你是千古一帝，姮娥說你算計無雙，今天我選擇做好你的工具，看你能給我什麽驚喜！”
+§33 [Ø=云千峰]南極車在雪地上用最快的速度疾馳，在雪地上留下了一道[M1:một luồng]長長的車轍。
+§34 [Ø=云千峰]履帶車的目的地是南磁極點的海岸，就像有些人的人生，一開始就已經定製好了目的地， [||] 所有的轉折，不過是拐了個彎而已，但改變不了結局！
+§35 [Ø=云千峰]感謝liude的打賞，謝謝你的支持！！！
+§36 [Ø=云千峰]感謝絕世凶獸成和葉、尾數20674、星雲星宇、運氣冷的月票獎勵，謝謝你們的支持！！！
+§37 [Ø=云千峰]悶熱三十五度，感覺蒸了一天桑拿，你們那裡溫度如何？
+§38 [Ø=云千峰]祝大家晚安，好夢！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 38 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§38. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

@@ -1,0 +1,124 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0325|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Điều này cũng đồng nghĩa với việc, trong mắt những kẻ đó, A Cam đã là một kẻ sắp sửa phải chết.
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §85):
+§1 這才合乎邏輯。
+§2 [Ø=云千峰]阿甘的推特帳號已經玩了很多年，關注數量不算少。
+§3 [Ø=云千峰]“坐標，蘋果島東城，這裡被一群瘋子控制了，他們利用一種藍光， [||] 讓城市內所有人靜止，然後肆意玩弄，他們還能讀取人們的記憶，但是並不完整”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§4 阿甘把自己知道的全都以文字的形式標注上去。
+§5 [Ø=云千峰]當他把那些所有人靜止的視頻，和偷拍到的光頭黑風衣的視頻發上去後，很快就有了不少人看到，而且紛紛發表評論。
+§6 “又是無聊的陰謀論？不過這場景做的很像。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§7 [Ø=云千峰]“嘿，未必，阿甘是實名發布信息， [||] 他表示願意接受法律質詢，你看他把自己的證件都發了上來，他是認真的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 [Ø=云千峰]“畫面很真實，我用軟件分析過了， [||] 不是AI合成，這就是真實的現場，很可怕的畫面。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§9 [Ø=云千峰]“想想吧，前段時間蘋果島疑似蘋果火山爆發，被黑色濃煙籠罩， [||] 但是幾天前黑煙散盡，城市根本沒有任何損毀，這不是很奇怪嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§10 [Ø=云千峰]“你們沒看蘋果島官方的解釋嗎？黑煙是突如其來的，完全不知道怎麽產生，從沒有地震和海嘯，他們之所以傳不出消息， [||] 是因為海底光纜出現了故障，現在也已經修複，所以拜托大家，不要被這種愚蠢的信息誘導，這就是個騙流量的視頻。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=云千峰]“蘋果島的官方還能相信？在他們口中，F島水都是可以喝的。我相信這個叫阿甘的家夥。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§12 [Ø=云千峰]“我覺得，應該艾特一下J方。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 “阿甘是哪國人.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§14 [Ø=云千峰]阿甘開始明目張膽的在大街上遊蕩，遇到光頭風衣人， [||] 他就直接拍照，對方有的甚至會配合擺個剪刀手，這讓阿甘徹底迷茫了。
+§15 [Ø=云千峰]“對方知道我要做什麽，甚至知道我要發布這些信息，但是他們還在配合我？他們不怕嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§16 [Ø=云千峰]很顯然，他們是不怕的。
+§17 [Ø=云千峰]大約藍光閃過的半個小時後，整個城市閃爍一瞬的綠光。
+§18 [Ø=云千峰]那一刻，所有人再次生動起來。
+§19 [Ø=云千峰]他們繼續著之前的動作，邁開了腿，繼續著之前說著的話。
+§20 就好像沒有任何人發現丟失了半個小時。
+§21 [Ø=云千峰]也就在這一刻，阿甘停下了腳步。
+§22 [Ø=云千峰]不是他靜止了，而是他知道自己無路可走。
+§23 [Ø=云千峰]無論對方是誰，他已經掌控了這個城市的一切，甚至是蘋果島的一切。
+§24 一個極俊美的男人不知何時來到了阿甘的身側。
+§25 [Ø=云千峰]阿甘看到，那個男人身上穿著黑色的皮大衣， [||] 很合身，很漂亮，也很柔軟。
+§26 [Ø=云千峰]那皮衣一定是頭層皮，上面的紋理看起來和自己皮膚的紋理是那麽的像。
+§27 [Ø=云千峰]“你，你們到底是誰？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 [Ø=云千峰]阿甘發現，自己已經失去了恐懼。
+§29 [Ø=云千峰]最慘不過一死，他擺爛了。
+§30 那俊美的男人笑道：
+§31 “我們是你們基因記憶裡的神.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§32 [Ø=云千峰]他的語氣頓了一下，又補充了半句：
+§33 “也是你們基因記憶裡的魔鬼。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 阿甘看著他：
+§35 “你們要做什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 [Ø=云千峰]那俊美男人就好像是最標準的紳士，哪怕語調都是。
+§37 [Ø=云千峰]“很有趣的事，我帶你去看看.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 [Ø=云千峰]那俊美男人一招手，石頭的地面上，就展開了一個入口。
+§39 [Ø=云千峰]緊接著兩個人開始快速而平穩的下降，就像乘坐最優質的電梯。
+§40 [Ø=云千峰]應該已經是地下極深處，才停了下來。
+§41 [Ø=云千峰]這裡是一個巨大的殿堂，充滿了古老和科技混合的韻味。
+§42 那俊美的男人指著前方的地下大殿笑道：
+§43 [Ø=云千峰]“這裡，是無數歲月前， [||] 一個叫帝嚳的人類，給我們這些偉大的神準備的地牢，而現在它們是神殿。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 [Ø=云千峰]俊美男人帶著阿甘繼續前行，走進了一個更大的廳堂， [||] 這裡的牆壁上是整個東城的畫面，一絲不落，包括地下水道。
+§45 [Ø=云千峰]這一刻，阿甘對自己之前的行為感到幼稚且好笑。
+§46 [Ø=云千峰]俊美男人隨便用手指向畫面裡一個人，那個人的腦袋上就會出現無數的信息。
+§47 [Ø=云千峰]“看，在這裡，你可以看到這個人的所有記憶， [||] 丟失破損的除外，最有趣的是，他們以為自己還活著。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§48 這就是俊美男人口中的有趣。
+§49 [Ø=云千峰]而這個有趣，讓阿甘心底發寒。
+§50 “他們.他們都死了？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§51 [Ø=云千峰]俊美男人微笑點頭，禮貌道：
+§52 [Ø=云千峰]“當然，那麽大的海嘯，怎麽可能不死？你不是也和死去的瀨亞美同床共枕了很多次嗎？是不是很有趣？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§53 阿甘的身體在顫抖。
+§54 [Ø=云千峰]“可是，可是死人怎麽還能如活人一樣生活，聊天，工作？你在騙我！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§55 那俊美男人輕笑道：
+§56 [Ø=云千峰]“人類這種生命很簡單，他們甚至不知道真正的自我是什麽，所以只要給予一個意識的控制引導就足夠了，你眼前這個大殿內的機器，就是這東城所有死而複生之人的意識， [||] 它控制著他們的所有行為，盡可能的附和他們的記憶，讓他們認為自己從沒死去過，還活著。有點接近你們人類的所謂大數據，但遠超過你們的科技。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§57 [Ø=云千峰]阿甘看著那些畫面，問道：
+§58 “這樣做？只是為了有趣嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§59 [Ø=云千峰]那俊美男人搖頭，道：
+§60 [Ø=云千峰]“當然不，我們這些高貴的生命回歸了，當然要有一個合適的居所， [||] 我們選擇了蘋果島。你知道的，高貴的人是不需要生產工作的，那麽總要有人來保證我們奢靡的生活。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§61 [Ø=云千峰]阿甘點了點頭，道：
+§62 [Ø=云千峰]“所以，他們是你們的奴隸。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§63 [Ø=云千峰]“啊嗚，你這樣以為，但是他們可不會那麽以為， [||] 他們認為自己依舊是拚搏努力的個體，眼前有著所謂幸福的追求。我只需要利用這個“大數據意識”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]稍微刺激和引導一下，就能讓他們任何一個人感受到幸福。
+§64 [Ø=云千峰]我們會讓他們在可笑的“幸福”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]裡繁衍，生出更多的奴隸。我們也很喜歡漂亮的女人和男人，可以說，在我們眼中， [||] 這些行屍走肉，是比土地更加有價值，更能讓人愉悅的財產，或者說生產資料。”
+§65 [Ø=云千峰]阿甘終於看向那個俊美男人，沉聲道：
+§66 “我也死了嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§67 [Ø=云千峰]“不，你沒有，你還活著。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§68 “為什麽留下我活著？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§69 [Ø=云千峰]“我們需要不同性格的人做測試，從你們這些活人的反應，來印證大數據意識控制下的人群是不是看起來正常， [||] 就像木偶，你要玩活了，總需要訓練。你的性格很謹慎多疑，很適合作為印證對象。
+§70 [Ø=云千峰]也幸虧是你，讓我們了解了現代的人類。
+§71 [Ø=云千峰]現代的人類真的是很有趣啊，虛偽、愚昧、自欺欺人，做到這三樣，才能看起來是真真正正的活人。
+§72 [Ø=云千峰]這也是為什麽你後來越來越覺得自己如在夢中是一個道理，因為你接近了真相，甚至看到了真相， [||] 你身上沒有了人類的愚昧，做不到自欺欺人，所以越來越像個精神病患者。
+§73 [Ø=云千峰]還有，你難道真的不記得自己是怎麽才能活下去的嗎？”
+§74 阿甘回憶。
+§75 [Ø=云千峰]他剛到蘋果島，居住酒店的時候，第一選擇不是頂樓， [||] 而是中層，但是中層唯一剩下的房間裡面有著很大的異味，還有一些粘稠惡心的東西，阿甘才不得不選擇第二心儀的頂層。
+§76 [Ø=云千峰]“是你們讓我活下來的，但我不用說謝謝是吧？因為你們要殺死我了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§77 [Ø=云千峰]那俊美男人笑了，笑得就像聽到了孩子說得笑話，然後搖頭道：
+§78 [Ø=云千峰]“為什麽要殺你？你有沒有想過，我們這些高貴的神，會滿足一個蘋果島嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§79 [Ø=云千峰]阿甘一愣，醒悟道：
+§80 [Ø=云千峰]“你們.你們控制蘋果島，讓這裡一切正常，是要融入全世界？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§81 [Ø=云千峰]“錯，是控制全世界，讓這顆星球成為天堂。所以你有兩個選擇， [||] 要麽因為你發的那些言論和照片，被送進精神病院，要麽成為神的使者。
+§82 [Ø=云千峰]一旦成為了神的使者，你將擁有力量和權力，看那些美麗的女人，你可以肆意的享用它們， [||] 只需要稍微調整一下它們的大數據意識，無論她們多麽高貴，都可以讓你給她套上寵物的繩索。而獲得這一切，你只需要順從我，順從神聖亦或邪惡。
+§83 [Ø=云千峰]擁有自己意識的人很討厭，但也很有用，這座城市我們留下了一千個活人， [||] 其中八百九十九人成為了神的使者，一百人成為了精神病患者，你怎麽選擇？”
+§84 阿甘：“.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§85 劇終。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 85 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§85. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

@@ -1,0 +1,529 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 52,
+  "title": "Chương 52: Mắt đá tự xoay",
+  "total_paragraphs": 86,
+  "translated_paragraphs": 86,
+  "source_hash": "2629c400da6b60b66e8097b9abca6d123aef4c0423eb7d5d36271225454dc38f",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0052p0001",
+      "index": 1,
+      "raw_zh": "第52章 自轉的石眼",
+      "translated_vi": "Chương 52: Mắt đá tự xoay"
+    },
+    {
+      "para_id": "c0052p0002",
+      "index": 2,
+      "raw_zh": "“查無此人！”",
+      "translated_vi": "“Không tìm thấy người này trên hệ thống!”"
+    },
+    {
+      "para_id": "c0052p0003",
+      "index": 3,
+      "raw_zh": "這是薑玉林打電話後得到的答案。",
+      "translated_vi": "Đó là câu trả lời mà Khương Ngọc Lâm nhận được sau khi gọi điện thoại nhờ kiểm tra."
+    },
+    {
+      "para_id": "c0052p0004",
+      "index": 4,
+      "raw_zh": "也就是說，雲千峰被消失了。",
+      "translated_vi": "Nói cách khác, Vân Thiên Phong đã bị xóa sổ hoàn toàn."
+    },
+    {
+      "para_id": "c0052p0005",
+      "index": 5,
+      "raw_zh": "聽到了這確切的答案，雲千峰一屁股沉沉的坐在椅子上，整個人呆住了。",
+      "translated_vi": "Nhận được câu trả lời chuẩn xác này, Vân Thiên Phong ngồi phịch xuống ghế, cả người ngây dại như phỗng."
+    },
+    {
+      "para_id": "c0052p0006",
+      "index": 6,
+      "raw_zh": "自己玩命，千辛萬苦賺到了錢，結果開銀行卡的資格沒了，世界上還有比這更大的諷刺嗎？",
+      "translated_vi": "Mình liều mạng vào sinh ra tử, thiên tân vạn khổ kiếm được một món tiền, rốt cuộc tư cách mở thẻ ngân hàng cũng chẳng còn, trên đời này liệu có điều gì mỉa mai cay đắng hơn thế nữa không?"
+    },
+    {
+      "para_id": "c0052p0007",
+      "index": 7,
+      "raw_zh": "在場的人看著失神的雲千峰，都不知道該如何安慰他。",
+      "translated_vi": "Mọi người có mặt nhìn Vân Thiên Phong đang thất thần, chẳng ai biết phải an ủi hắn thế nào cho phải."
+    },
+    {
+      "para_id": "c0052p0008",
+      "index": 8,
+      "raw_zh": "維多利亞拍了拍雲千峰的肩膀，說道：",
+      "translated_vi": "Victoria vỗ vỗ vai Vân Thiên Phong, nói:"
+    },
+    {
+      "para_id": "c0052p0009",
+      "index": 9,
+      "raw_zh": "“這不是最終，也不是不可改變，薑玉林被抹除過，現在不是被恢復了？”",
+      "translated_vi": "“Đây chưa phải là kết cục cuối cùng, cũng chẳng phải là không thể đảo ngược; Khương Ngọc Lâm từng bị xóa sổ, chẳng phải bây giờ đã được khôi phục lại rồi sao?”"
+    },
+    {
+      "para_id": "c0052p0010",
+      "index": 10,
+      "raw_zh": "幾個人都看向維多利亞，了解她的人都知道，她不會隻說這種沒營養的安慰話，定然有她的分析。",
+      "translated_vi": "Mấy người đều nhìn về phía Victoria, ai hiểu tính cô đều biết cô tuyệt đối không bao giờ chỉ buông những lời an ủi sáo rỗng vô thưởng vô phạt, ắt hẳn cô đã có phân tích của riêng mình."
+    },
+    {
+      "para_id": "c0052p0011",
+      "index": 11,
+      "raw_zh": "維多利亞頓了一下，繼續道：",
+      "translated_vi": "Victoria ngưng lại một chút rồi tiếp tục:"
+    },
+    {
+      "para_id": "c0052p0012",
+      "index": 12,
+      "raw_zh": "“薑玉林和你遇到的情況，印證了我的猜測，那個力量沒有辦法同時讓一個以上的人被消失，這也是祂運算量的極限。",
+      "translated_vi": "“Trường hợp mà anh và Khương Ngọc Lâm gặp phải đã chứng thực cho suy đoán của tôi: nguồn sức mạnh kia không thể cùng một lúc xóa sổ từ hai người trở lên, đây chính là giới hạn năng lực tính toán của Ngài."
+    },
+    {
+      "para_id": "c0052p0013",
+      "index": 13,
+      "raw_zh": "之前選擇薑玉林，是因為他的星象定位法威脅到了祂的存在，而現在祂選擇了你，隻證明你擁有了比薑玉林更大的威脅，祂怕伱。",
+      "translated_vi": "Trước đó Ngài chọn Khương Ngọc Lâm là bởi vì phương pháp định vị tinh tượng của anh ta đe dọa đến sự tồn tại của Ngài; còn giờ đây Ngài chọn anh, chỉ chứng minh một điều rằng anh mang đến mối đe dọa còn lớn hơn cả Khương Ngọc Lâm, Ngài đang sợ anh đấy."
+    },
+    {
+      "para_id": "c0052p0014",
+      "index": 14,
+      "raw_zh": "祂要讓你在這世間難尋助力，處處受到掣肘，疲於奔命而無法威脅到祂。而你現在要做的就是好好活下去，等待機會。”",
+      "translated_vi": "Ngài muốn khiến anh bơ vơ giữa thế gian này chẳng thể tìm kiếm được trợ lực, đi đâu cũng bị trói chân gò tay, mệt nhoài bươn chải giữ mạng mà không còn tâm trí uy hiếp Ngài. Việc anh cần làm lúc này là sống cho thật tốt, kiên nhẫn chờ đợi thời cơ.”"
+    },
+    {
+      "para_id": "c0052p0015",
+      "index": 15,
+      "raw_zh": "雲千峰抬起頭，看著維多利亞無力道：",
+      "translated_vi": "Vân Thiên Phong ngẩng đầu lên, nhìn Victoria yếu ớt hỏi:"
+    },
+    {
+      "para_id": "c0052p0016",
+      "index": 16,
+      "raw_zh": "“等待另一個威脅比我還大的人出現嗎？”",
+      "translated_vi": "“Chờ một kẻ khác có mối đe dọa còn lớn hơn cả tôi xuất hiện sao?”"
+    },
+    {
+      "para_id": "c0052p0017",
+      "index": 17,
+      "raw_zh": "維多利亞看著車窗外，沉聲道：",
+      "translated_vi": "Victoria dõi mắt nhìn ra ngoài cửa sổ xe, trầm giọng đáp:"
+    },
+    {
+      "para_id": "c0052p0018",
+      "index": 18,
+      "raw_zh": "“等待另一個比你威脅更大的人出現，亦或是等待我們成功，當我們掌握了所謂“神”的密碼，就可以把這個世界改變到最美好的狀態，也包括你的生活。",
+      "translated_vi": "“Hoặc là đợi một kẻ mang mối đe dọa lớn hơn anh xuất hiện, hoặc là chờ đợi chúng tôi thành công. Một khi chúng tôi nắm giữ được mật mã của cái gọi là 'thần linh', chúng tôi có thể xoay chuyển thế giới này về trạng thái tốt đẹp nhất, bao gồm cả cuộc sống của anh."
+    },
+    {
+      "para_id": "c0052p0019",
+      "index": 19,
+      "raw_zh": "我現在對你的建議就是等待，遠離你的家人，因為誰也無法猜測祂還會對你做什麽。”",
+      "translated_vi": "Lời khuyên hiện giờ của tôi dành cho anh là hãy nhẫn nại chờ đợi, và tránh xa gia đình mình ra, bởi không một ai có thể đoán trước được Ngài sẽ còn giở thủ đoạn gì với anh nữa đâu.”"
+    },
+    {
+      "para_id": "c0052p0020",
+      "index": 20,
+      "raw_zh": "說著，她打開自己衣服內夾層的隱藏兜袋，在裡面取出一個很小的黑色石片，上面也是布滿了金色的圖騰。",
+      "translated_vi": "Nói đoạn, cô mở chiếc túi bí mật bên trong lớp lót áo khoác, lấy ra một mảnh đá đen rất nhỏ, bên trên cũng phủ kín những đồ đằng hoa văn dát vàng."
+    },
+    {
+      "para_id": "c0052p0021",
+      "index": 21,
+      "raw_zh": "維多利亞把那個石片遞給雲千峰，道：",
+      "translated_vi": "Victoria đưa mảnh đá ấy cho Vân Thiên Phong, bảo:"
+    },
+    {
+      "para_id": "c0052p0022",
+      "index": 22,
+      "raw_zh": "“你被消失了，但我們的記憶卻沒有被改變，那麽就證明你的猜測是對的，這種雕刻著連山易的石片可以避免被改變記憶，哪怕是與帶著它的人待在一起都會有效果，帶著它，永遠做你自己。”",
+      "translated_vi": "“Anh đã bị xóa sổ, nhưng ký ức của chúng tôi lại không hề bị xáo trộn, điều đó chứng minh phán đoán của anh là hoàn toàn chính xác. Mảnh đá khắc kinh Liên Sơn Dịch này có thể ngăn chặn việc bị biến đổi ký ức, thậm chí chỉ cần ở cạnh người mang nó bên mình cũng sinh ra hiệu lực. Cầm lấy nó đi, hãy mãi mãi giữ lấy bản ngã của chính mình.”"
+    },
+    {
+      "para_id": "c0052p0023",
+      "index": 23,
+      "raw_zh": "維多利亞是極懂得投資的，她們這次能活著回來，可以說全靠雲千峰的一身本事，這樣的人拉攏是必然的，因為以後大概率還用得到。",
+      "translated_vi": "Victoria là người cực kỳ am tường chuyện đầu tư. Bọn họ lần này có thể giữ được mạng sống trở về gần như đều nhờ cậy vào bản lĩnh thông thiên của Vân Thiên Phong, việc lôi kéo một nhân vật như hắn là điều tất yếu, bởi lẽ về sau chắc chắn sẽ còn phải nhờ vả đến nhiều."
+    },
+    {
+      "para_id": "c0052p0024",
+      "index": 24,
+      "raw_zh": "雲千峰苦笑一下，搖頭道：",
+      "translated_vi": "Vân Thiên Phong cười khổ, lắc đầu bảo:"
+    },
+    {
+      "para_id": "c0052p0025",
+      "index": 25,
+      "raw_zh": "“我現在的處境，被改變了記憶恐怕會更好些。”",
+      "translated_vi": "“Với tình cảnh hiện tại của tôi, khéo bị sửa đổi ký ức lại thấy dễ chịu hơn.”"
+    },
+    {
+      "para_id": "c0052p0026",
+      "index": 26,
+      "raw_zh": "維多利亞歪著頭，看著雲千峰道：",
+      "translated_vi": "Victoria nghiêng đầu, nhìn Vân Thiên Phong nói:"
+    },
+    {
+      "para_id": "c0052p0027",
+      "index": 27,
+      "raw_zh": "“如果你任憑祂改變你的記憶，那麽會有兩個你無法接受的結果，首先你會死的不明不白，最重要的，你會忘記我還欠你五百萬這件事。”",
+      "translated_vi": "“Nếu anh cứ mặc kệ cho Ngài thao túng ký ức, anh sẽ phải đối mặt với hai hậu quả mà mình tuyệt đối không cam lòng: thứ nhất là anh sẽ chết một cách không minh bạch, và quan trọng nhất là, anh sẽ quên bẵng mất việc tôi vẫn còn nợ anh năm triệu tệ đấy.”"
+    },
+    {
+      "para_id": "c0052p0028",
+      "index": 28,
+      "raw_zh": "雲千峰一把拿過那石片，小心翼翼的揣進內襯的兜內。",
+      "translated_vi": "Vân Thiên Phong chụp ngay lấy mảnh đá đen, cẩn tha cẩn thận nhét tọt vào túi áo lót trong ngực."
+    },
+    {
+      "para_id": "c0052p0029",
+      "index": 29,
+      "raw_zh": "維多利亞說的沒錯，這結果太可怕了！",
+      "translated_vi": "Victoria nói chí phải, hậu quả thứ hai quả thực quá đỗi kinh hoàng!"
+    },
+    {
+      "para_id": "c0052p0030",
+      "index": 30,
+      "raw_zh": "此時，這車上的人裡，只有秦疏影還沒有這種連山易石片。",
+      "translated_vi": "Lúc này, trong số những người ngồi trên xe, duy chỉ có Tần Sơ Ảnh là chưa có mảnh đá Liên Sơn Dịch hộ thân."
+    },
+    {
+      "para_id": "c0052p0031",
+      "index": 31,
+      "raw_zh": "秦疏影看到維多利亞那裡似乎還剩下一個，猶豫了一下，還是鼓起勇氣問道：",
+      "translated_vi": "Tần Sơ Ảnh thấy chỗ Victoria dường như vẫn còn sót lại một mảnh cuối cùng, do dự một lát rồi cũng lấy hết can đảm lên tiếng hỏi:"
+    },
+    {
+      "para_id": "c0052p0032",
+      "index": 32,
+      "raw_zh": "“能賣給我一個嗎？”",
+      "translated_vi": "“Cô có thể bán lại cho tôi một mảnh được không?”"
+    },
+    {
+      "para_id": "c0052p0033",
+      "index": 33,
+      "raw_zh": "維多利亞在兜裡拿出剩下的連山易石片，那是很小的一片，沉吟道：",
+      "translated_vi": "Victoria mò vào túi áo lôi ra mảnh đá Liên Sơn Dịch còn lại, đó là một mẩu rất nhỏ, cô trầm ngâm nói:"
+    },
+    {
+      "para_id": "c0052p0034",
+      "index": 34,
+      "raw_zh": "“我家族收藏古董二百多年，主要收藏的就是龍骨和蘇美爾泥板，兩個多世紀下來，也才在龍骨裡找到了八片這樣的連山易石片，其中一片跟著古恩留在了野人山神跡，我相信我手上這個，應該是這個世界上已知的最後一片，換句話說，這是無價之寶，你拿什麽跟我購買？”",
+      "translated_vi": "“Gia tộc tôi sưu tầm cổ vật hơn hai trăm năm qua, chủ yếu sưu tầm xương rồng (giáp cốt) và phiến đất sét Sumer. Trải qua hơn hai thế kỷ, cũng chỉ tìm thấy đúng tám mảnh đá Liên Sơn Dịch này lẫn trong giáp cốt, trong đó một mảnh đã cùng Gun vĩnh viễn nằm lại nơi di tích thần linh vùng Dã Nhân Sơn. Tôi tin mảnh đá trên tay mình hiện tại chính là mảnh cuối cùng được biết đến trên thế giới này; nói cách khác, đây là báu vật vô giá, cô lấy thứ gì ra để mua lại từ tay tôi?”"
+    },
+    {
+      "para_id": "c0052p0035",
+      "index": 35,
+      "raw_zh": "她說這句話的時候，沒有看著秦疏影，而是掃視了一下薑玉林。",
+      "translated_vi": "Khi nói dứt câu ấy, cô không nhìn Tần Sơ Ảnh mà liếc mắt quét qua Khương Ngọc Lâm."
+    },
+    {
+      "para_id": "c0052p0036",
+      "index": 36,
+      "raw_zh": "薑玉林似乎開口要說什麽，但是維多利亞立馬補了一句：",
+      "translated_vi": "Khương Ngọc Lâm dường như toan mở miệng nói điều gì, nhưng Victoria đã lập tức bồi thêm một câu:"
+    },
+    {
+      "para_id": "c0052p0037",
+      "index": 37,
+      "raw_zh": "“別提交情，誰想要這最後一個連山易石片，就拿等價的東西來換，一視同仁，你們幾個一人一個，是因為你們身上的價值，給雲千峰是因為他救了我一命。”",
+      "translated_vi": "“Đừng đem giao tình ra nói chuyện. Ai muốn có mảnh đá Liên Sơn Dịch cuối cùng này thì phải lấy vật có giá trị tương đương ra mà đổi, ai cũng như ai. Mấy người các anh mỗi người một mảnh là bởi giá trị bản thân của các anh, còn tặng cho Vân Thiên Phong là vì anh ấy đã cứu mạng tôi.”"
+    },
+    {
+      "para_id": "c0052p0038",
+      "index": 38,
+      "raw_zh": "薑玉林被堵了個正著，他可是在維多利亞那裡討來兩個這東西，實在沒法再張口，當下思索自己有啥寶貝能換，但是發現自己那些古董，都沒有能夠堪比這連山易石片的東西。",
+      "translated_vi": "Khương Ngọc Lâm bị chặn họng cứng đờ. Bản thân anh ta vốn đã xin xỏ từ chỗ Victoria hai mảnh rồi, giờ quả thực chẳng còn mặt mũi nào mở miệng nài nỉ thêm, trong lòng thầm tính toán xem mình có bảo vật gì tương xứng để đổi, ngặt nỗi những món cổ vật mình sưu tầm chẳng có thứ nào đủ tầm sánh ngang với mảnh đá Liên Sơn Dịch này."
+    },
+    {
+      "para_id": "c0052p0039",
+      "index": 39,
+      "raw_zh": "正在為難之際，旁邊雲千峰在兜裡掏出那片連山易石片遞給秦疏影，道：",
+      "translated_vi": "Đang lúc bế tắc khó xử, Vân Thiên Phong ngồi bên cạnh đã thò tay vào túi móc mảnh đá Liên Sơn Dịch vừa cất đưa sang cho Tần Sơ Ảnh, bảo:"
+    },
+    {
+      "para_id": "c0052p0040",
+      "index": 40,
+      "raw_zh": "“給你。”",
+      "translated_vi": "“Cho cô đấy.”"
+    },
+    {
+      "para_id": "c0052p0041",
+      "index": 41,
+      "raw_zh": "秦疏影搖頭，正要拒絕，因為她知道，雲千峰比自己更需要這個石片保命。",
+      "translated_vi": "Tần Sơ Ảnh lắc đầu toan từ chối, bởi cô biết rõ hơn ai hết, lúc này Vân Thiên Phong còn cần mảnh đá này để giữ mạng hơn cả mình."
+    },
+    {
+      "para_id": "c0052p0042",
+      "index": 42,
+      "raw_zh": "但是沒想到雲千峰直接一把塞進她手裡，嘴裡罵道：",
+      "translated_vi": "Thế nhưng chẳng ai ngờ Vân Thiên Phong lại dứt khoát nhét thẳng vào tay cô, miệng càu nhàu:"
+    },
+    {
+      "para_id": "c0052p0043",
+      "index": 43,
+      "raw_zh": "“別墨跡，給你就要著，別傻乎乎的！”",
+      "translated_vi": "“Đừng có lằng nhằng, cho thì cứ cầm lấy, đừng có ngốc nghếch thế!”"
+    },
+    {
+      "para_id": "c0052p0044",
+      "index": 44,
+      "raw_zh": "說完，不管在手僵在那裡，不知所措的秦疏影，轉頭看向維多利亞，道：",
+      "translated_vi": "Dứt lời, mặc kệ Tần Sơ Ảnh đang đứng hình sững sờ chẳng biết phải làm sao, hắn quay ngoắt sang nhìn Victoria, nói ráo hoảnh:"
+    },
+    {
+      "para_id": "c0052p0045",
+      "index": 45,
+      "raw_zh": "“剩下那片給我，預約下次救你一命！”",
+      "translated_vi": "“Mảnh còn lại đưa nốt cho tôi, xem như đặt cọc trước một mạng lần sau tôi cứu cô!”"
+    },
+    {
+      "para_id": "c0052p0046",
+      "index": 46,
+      "raw_zh": "維多利亞二話沒說，乾淨利索的把石片扔給了雲千峰，然後看了一眼薑玉林，眼神意味深長。",
+      "translated_vi": "Victoria không nói hai lời, dứt khoát ném luôn mảnh đá cho Vân Thiên Phong, rồi liếc nhìn Khương Ngọc Lâm một cái với ánh mắt đầy thâm ý."
+    },
+    {
+      "para_id": "c0052p0047",
+      "index": 47,
+      "raw_zh": "“玉林出來一下，我有事和你商量。”",
+      "translated_vi": "“Ngọc Lâm ra ngoài một chút, tôi có chuyện cần bàn với anh.”"
+    },
+    {
+      "para_id": "c0052p0048",
+      "index": 48,
+      "raw_zh": "說完，維多利亞先走出房車，薑玉林緊跟著下去。",
+      "translated_vi": "Nói xong, Victoria bước chân rời khỏi xe trước, Khương Ngọc Lâm liền rảo bước theo sau."
+    },
+    {
+      "para_id": "c0052p0049",
+      "index": 49,
+      "raw_zh": "倆人來到房車後一塊大石頭上坐下，看著前方遠處的房車，維多利亞先開口道：",
+      "translated_vi": "Hai người bước tới tảng đá lớn phía sau chiếc xe dã ngoại ngồi xuống, nhìn về phía chiếc xe phía xa, Victoria mở lời trước:"
+    },
+    {
+      "para_id": "c0052p0050",
+      "index": 50,
+      "raw_zh": "“我給你機會了。”",
+      "translated_vi": "“Tôi đã tạo cơ hội cho anh rồi đấy.”"
+    },
+    {
+      "para_id": "c0052p0051",
+      "index": 51,
+      "raw_zh": "薑玉林歎道：",
+      "translated_vi": "Khương Ngọc Lâm thở dài than thở:"
+    },
+    {
+      "para_id": "c0052p0052",
+      "index": 52,
+      "raw_zh": "“我沒反應過來，等反應過來，雲千峰先那麽做了，唉！我真沒想到雲千峰可以為疏影舍棄連山易石片這麽重要的東西。”",
+      "translated_vi": "“Tôi chậm mất một nhịp, đến khi kịp phản ứng thì Vân Thiên Phong đã nhanh tay làm trước rồi. Haizz! Tôi thực sự không ngờ Vân Thiên Phong lại có thể vì Sơ Ảnh mà sẵn sàng từ bỏ một báu vật trọng yếu như mảnh đá Liên Sơn Dịch.”"
+    },
+    {
+      "para_id": "c0052p0053",
+      "index": 53,
+      "raw_zh": "維多利亞氣笑了，道：",
+      "translated_vi": "Victoria bật cười vì tức, nói:"
+    },
+    {
+      "para_id": "c0052p0054",
+      "index": 54,
+      "raw_zh": "“舍棄？他是一份活兩份價，拿了我一片連山易石片，此時又證明連山易石片的巨大價值，我下次有事他會不出現？貪婪的家夥！又是了解人性的家夥！",
+      "translated_vi": "“Từ bỏ cái nỗi gì? Hắn là một công đôi việc, kiếm lời hai đầu đấy! Vừa lấy không của tôi một mảnh đá Liên Sơn Dịch, lại vừa khéo chứng minh giá trị kinh người của nó; lần sau tôi gặp nạn hắn dám không tới cứu chắc? Đúng là một kẻ vừa tham lam xảo quyệt, lại vừa thấu hiểu lòng người đến tận cùng!"
+    },
+    {
+      "para_id": "c0052p0055",
+      "index": 55,
+      "raw_zh": "對了，如果我沒猜錯，秦疏影恢復對你的記憶了，只不過後面的記憶也沒丟失，本來你還是有機會的。”",
+      "translated_vi": "À đúng rồi, nếu tôi đoán không nhầm thì Tần Sơ Ảnh đã khôi phục lại ký ức về anh rồi, có điều phần ký ức sau này của cô ấy cũng không hề mất đi. Đáng lý ra anh vẫn còn cơ hội cơ đấy.”"
+    },
+    {
+      "para_id": "c0052p0056",
+      "index": 56,
+      "raw_zh": "薑玉林點頭，道：",
+      "translated_vi": "Khương Ngọc Lâm gật đầu, nói:"
+    },
+    {
+      "para_id": "c0052p0057",
+      "index": 57,
+      "raw_zh": "“剛才她喊我那一刻，我就知道她的記憶恢復了，但是沒想到她沒忘記關於雲千峰的記憶，可能與我們都帶著連山易碎片有關，讓她雖然受到了篡改記憶的影響，但是影響較小，保留了兩份記憶。”",
+      "translated_vi": "“Khoảnh khắc cô ấy cất tiếng gọi tên tôi ban nãy, tôi đã nhận ra ký ức của cô ấy đã quay trở lại. Nhưng tôi không ngờ cô ấy lại không hề quên đi những ký ức liên quan đến Vân Thiên Phong; có lẽ do tất cả chúng ta đều mang theo mảnh vỡ Liên Sơn Dịch bên mình, khiến cô ấy tuy chịu ảnh hưởng từ việc thao túng ký ức nhưng tác động lại giảm thiểu đáng kể, thành ra lưu giữ trọn vẹn cả hai luồng ký ức song song.”"
+    },
+    {
+      "para_id": "c0052p0058",
+      "index": 58,
+      "raw_zh": "雖然是猜測，但似乎只有這一種解釋。",
+      "translated_vi": "Dẫu chỉ là phỏng đoán, nhưng dường như đây là lời giải thích duy nhất hợp lý."
+    },
+    {
+      "para_id": "c0052p0059",
+      "index": 59,
+      "raw_zh": "說到這，薑玉林嘴角一翹，繼續道：",
+      "translated_vi": "Nói tới đây, khóe môi Khương Ngọc Lâm khẽ nhếch lên, tiếp lời:"
+    },
+    {
+      "para_id": "c0052p0060",
+      "index": 60,
+      "raw_zh": "“不過即便如此，我依舊覺得我還有機會！不過你放心，我不會和雲千峰過不去，那人不錯。”",
+      "translated_vi": "“Thế nhưng dù vậy, tôi vẫn tin rằng mình vẫn còn cơ hội! Cô cứ yên tâm, tôi sẽ không tìm cách gây khó dễ cho Vân Thiên Phong đâu, tính cậu ta rất được.”"
+    },
+    {
+      "para_id": "c0052p0061",
+      "index": 61,
+      "raw_zh": "維多利亞點頭，道：",
+      "translated_vi": "Victoria gật đầu tán thành:"
+    },
+    {
+      "para_id": "c0052p0062",
+      "index": 62,
+      "raw_zh": "“我知道你不會，只是接下來雲千峰怎麽安排？你要和我去歐洲處理神軀的檢測，咱們必須把雲千峰安排在一個隨時能找到，還要安全的地方，拿了我的東西，就得隨叫隨到。”",
+      "translated_vi": "“Tôi biết anh không làm vậy. Chỉ là tiếp theo đây định thu xếp cho Vân Thiên Phong thế nào? Anh còn phải cùng tôi sang châu Âu xử lý việc kiểm nghiệm đoạn gen thần xác, chúng ta bắt buộc phải bố trí Vân Thiên Phong ở một nơi an toàn, lại có thể dễ dàng liên lạc bất cứ lúc nào. Đã cầm đồ của tôi thì phải gọi là tới ngay.”"
+    },
+    {
+      "para_id": "c0052p0063",
+      "index": 63,
+      "raw_zh": "倆人回到房車內對雲千峰說了一下倆人商量的結果，那就是讓雲千峰先去一個叫者昌的小縣城居住，薑玉林在那裡有一座背靠山巒的別院，以前是租給人開KTV和酒店，但是那地方邪門，幹啥啥賠，最後就一直空閑。",
+      "translated_vi": "Hai người quay lại xe dã ngoại, thông báo với Vân Thiên Phong kết quả thảo luận giữa họ: đó là để Vân Thiên Phong tạm thời đến lánh mặt tại một huyện nhỏ tên là Giả Xương. Khương Ngọc Lâm có một khu biệt viện lưng tựa dãy núi ở đó, trước kia từng cho người ta thuê mở quán karaoke KTV và khách sạn, ngặt nỗi khu đất đó tà môn kỳ quái, ai kinh doanh gì cũng lỗ chỏng gọng, rốt cuộc cứ bỏ hoang từ dạo ấy đến nay."
+    },
+    {
+      "para_id": "c0052p0064",
+      "index": 64,
+      "raw_zh": "者昌距離薑玉林的家只有一個小時車程，薑玉林在當地還是有些能量，畢竟雲千峰是個黑戶，要是沒人罩著早晚得進去，同時也易於掌控雲千峰的行蹤。",
+      "translated_vi": "Huyện Giả Xương chỉ cách nhà Khương Ngọc Lâm chừng một giờ chạy xe, Khương Ngọc Lâm ở địa phương cũng có chút thế lực và quan hệ; dẫu sao Vân Thiên Phong giờ đã là kẻ vô gia cư không danh không phận trên sổ bộ hộ tịch, nếu không có người che chở thì sớm muộn gì cũng bị công an tóm vào trại tạm giam, đồng thời việc này cũng tiện cho việc nắm bắt hành tung của hắn."
+    },
+    {
+      "para_id": "c0052p0065",
+      "index": 65,
+      "raw_zh": "雲千峰自然是願意這樣安排的，因為他現在已經無處可去，更不敢回家。",
+      "translated_vi": "Vân Thiên Phong đương nhiên bằng lòng với sự sắp xếp này, bởi lẽ giờ đây hắn đã không còn chốn dung thân, càng chẳng dám quay trở về nhà."
+    },
+    {
+      "para_id": "c0052p0066",
+      "index": 66,
+      "raw_zh": "房車一路疾馳，在半路的服務區，面紅目赤的維多利亞被接走，先一步回歐洲，其他人三天后回到薑玉林所在的城市。",
+      "translated_vi": "Chiếc xe dã ngoại lao vun vút trên đường. Tại một trạm dừng chân ven cao tốc, Victoria - lúc này sắc mặt đỏ ửng, hai mắt đỏ ngầu mệt mỏi - đã được người đến đón đi trước để bay về châu Âu; những người còn lại sau ba ngày di chuyển cũng trở về tới thành phố của Khương Ngọc Lâm."
+    },
+    {
+      "para_id": "c0052p0067",
+      "index": 67,
+      "raw_zh": "薑柔甲戀戀不舍的和雲千峰道別，連連說著一放假就去看雲千峰，她不能陪著雲千峰去者昌，因為她必須回去上大學了，已經逃課太久。",
+      "translated_vi": "Khương Nhu Giáp bịn rịn lưu luyến chia tay Vân Thiên Phong, miệng luôn mồm hứa hẹn hễ cứ được nghỉ lễ là sẽ lập tức đến Giả Xương thăm hắn. Cô không thể đi cùng Vân Thiên Phong tới Giả Xương được, bởi cô bắt buộc phải quay lại trường đại học điểm danh, chuyến đi này đã trốn tiết quá nhiều ngày rồi."
+    },
+    {
+      "para_id": "c0052p0068",
+      "index": 68,
+      "raw_zh": "至於秦疏影，這一路上對誰都若即若離，不和薑玉林照面，也不和雲千峰說話，一到了地方，悄悄的自己就離開，和誰也沒打招呼，像個失落的孤魂。",
+      "translated_vi": "Về phần Tần Sơ Ảnh, suốt dọc đường đi cô luôn giữ thái độ nửa gần nửa xa với tất cả mọi người, không giáp mặt Khương Ngọc Lâm, cũng chẳng trò chuyện lấy nửa câu với Vân Thiên Phong. Vừa về tới nơi, cô lặng lẽ một mình rời đi chẳng chào hỏi ai, tựa như một bóng ma cô độc lạc lõng."
+    },
+    {
+      "para_id": "c0052p0069",
+      "index": 69,
+      "raw_zh": "兩份記憶好梳理，但是兩份情就難纏了。",
+      "translated_vi": "Hai luồng ký ức thì dễ sắp xếp rõ ràng, nhưng vướng mắc giữa hai mối chân tình mới là thứ nan giải rối ren."
+    },
+    {
+      "para_id": "c0052p0070",
+      "index": 70,
+      "raw_zh": "最後只剩下巴猜負責開車帶著雲千峰去薑玉林在者昌的別院。",
+      "translated_vi": "Rốt cuộc chỉ còn lại Ba Chai nhận nhiệm vụ lái xe đưa Vân Thiên Phong tới khu biệt viện của Khương Ngọc Lâm tại Giả Xương."
+    },
+    {
+      "para_id": "c0052p0071",
+      "index": 71,
+      "raw_zh": "到了地方之後，雲千峰才發現自己把薑玉林的別院想小了。",
+      "translated_vi": "Tới nơi rồi, Vân Thiên Phong mới nhận ra bấy lâu nay mình đã đánh giá quá thấp quy mô biệt viện của Khương Ngọc Lâm."
+    },
+    {
+      "para_id": "c0052p0072",
+      "index": 72,
+      "raw_zh": "這是一個三棟中式建築的建築群，主樓五層，旁邊兩個伴樓，院子大概有七八百平。",
+      "translated_vi": "Đây là một quần thể gồm ba khối kiến trúc phong cách Trung Hoa cổ kính, tòa nhà chính cao năm tầng, hai bên là hai dãy nhà phụ, khoảng sân rộng chừng bảy tám trăm mét vuông."
+    },
+    {
+      "para_id": "c0052p0073",
+      "index": 73,
+      "raw_zh": "這別院背靠一座大山，是當地的景區，但因為就是一個小縣城，所以一天也看不到倆三人上去玩，安靜的鳥拉泡屎掉地上都能聽到回響。",
+      "translated_vi": "Biệt viện này tựa lưng vào một ngọn núi lớn vốn là danh thắng cảnh quan của địa phương, ngặt nỗi chỉ là một huyện lỵ nhỏ bé nên cả ngày chẳng thấy nổi hai ba mống khách vãng lai lên chơi, tĩnh mịch đến độ một con chim ỉa bậy rớt xuống đất cũng nghe rõ tiếng vọng."
+    },
+    {
+      "para_id": "c0052p0074",
+      "index": 74,
+      "raw_zh": "別院前面的馬路寬敞安靜，距離城市內最近的建築，走路都要半個小時，按理說這是非常適合開KTV的場所，怎麽就賠錢呢？",
+      "translated_vi": "Con đường trước mặt biệt viện thênh thang vắng lặng, cách khu dân cư gần nhất của thị trấn cũng phải mất tới nửa tiếng đi bộ; theo lý mà nói đây là địa điểm vô cùng lý tưởng để mở quán karaoke KTV, cớ sao kinh doanh lại thua lỗ nặng nề như vậy?"
+    },
+    {
+      "para_id": "c0052p0075",
+      "index": 75,
+      "raw_zh": "雲千峰左右看了看，找到了原因，心想：",
+      "translated_vi": "Vân Thiên Phong ngó nghiêng tứ phía một hồi rồi cũng tìm ra nguyên do, bụng bảo dạ:"
+    },
+    {
+      "para_id": "c0052p0076",
+      "index": 76,
+      "raw_zh": "“謔，山上有一座廟，所謂寧住廟前不住廟後，怪不得做什麽生意都賠，這院子風水不好啊！”",
+      "translated_vi": "“Chà chà, trên sườn núi có một ngôi miếu cổ! Người xưa có câu 'thà ở trước miếu chứ chẳng ở sau miếu', hèn chi làm ăn buôn bán gì ở đây cũng sạt nghiệp, phong thủy của khu viện này hãm tài quá!”"
+    },
+    {
+      "para_id": "c0052p0077",
+      "index": 77,
+      "raw_zh": "巴猜把人送到就要離開，雲千峰拉住他道：",
+      "translated_vi": "Ba Chai vừa chở người tới nơi toan cất bước rời đi, Vân Thiên Phong liền níu tay anh ta lại, bảo:"
+    },
+    {
+      "para_id": "c0052p0078",
+      "index": 78,
+      "raw_zh": "“幫我去我老家祠堂偷我家的族譜來，報銷往返路費和食宿費。”",
+      "translated_vi": "“Giúp tôi ghé về từ đường quê nhà trộm quyển gia phả họ Vân mang tới đây, tôi thanh toán trọn gói tiền vé xe đi lại lẫn ăn ở dọc đường.”"
+    },
+    {
+      "para_id": "c0052p0079",
+      "index": 79,
+      "raw_zh": "“切，不去，沒時間。”",
+      "translated_vi": "“Xì! Không đi đâu, rảnh rỗi đâu mà làm mấy trò trộm cắp đó.”"
+    },
+    {
+      "para_id": "c0052p0080",
+      "index": 80,
+      "raw_zh": "“我救過你的命！”",
+      "translated_vi": "“Tôi từng cứu mạng anh đấy!”"
+    },
+    {
+      "para_id": "c0052p0081",
+      "index": 81,
+      "raw_zh": "“那那我只能去了！”",
+      "translated_vi": "“Vậy... vậy thì tôi đành phải đi thôi!”"
+    },
+    {
+      "para_id": "c0052p0082",
+      "index": 82,
+      "raw_zh": "這話說出來，巴猜真是沒法拒絕，只能前往。",
+      "translated_vi": "Đem chuyện ơn cứu mạng ra ép, Ba Chai quả thực không cách nào chối từ nổi, đành ngậm ngùi nhận lời lên đường."
+    },
+    {
+      "para_id": "c0052p0083",
+      "index": 83,
+      "raw_zh": "巴猜走後，雲千峰伸了個懶腰，在主樓裡找到了一個帶浴室的房間，決定先洗個澡，然後找個最舒服的房間居住。",
+      "translated_vi": "Sau khi Ba Chai rời đi, Vân Thiên Phong vươn vai ngáp dài một cái, vào trong tòa nhà chính tìm được một căn phòng có buồng tắm riêng, quyết định tắm rửa cho sạch sẽ khoan khoái rồi mới chọn căn phòng ưng ý nhất để ở."
+    },
+    {
+      "para_id": "c0052p0084",
+      "index": 84,
+      "raw_zh": "當下脫掉衣服，把在神跡撿來的眼球奇石放在了桌子上，然後吊兒郎當的朝著浴室而去，就他自己在這，倒是隨意。",
+      "translated_vi": "Hắn liền cởi phăng quần áo, đặt hòn đá kỳ dị hình con mắt nhặt được ở di tích thần linh lên mặt bàn, rồi thong dong huýt sáo nghênh ngang bước vào phòng tắm; dù sao cả khu nhà chỉ có một mình hắn, tha hồ tự do tự tại."
+    },
+    {
+      "para_id": "c0052p0085",
+      "index": 85,
+      "raw_zh": "他不知道的是，就在他身後，那個放在桌子上的石眼球自己緩緩轉動起來，直到那逼真的眸子正盯著雲千峰遠去的後背，方才停止了轉動。",
+      "translated_vi": "Thế nhưng hắn chẳng hề hay biết rằng, ngay phía sau lưng hắn, hòn đá hình con mắt đặt trên mặt bàn kia bỗng từ từ tự xoay chuyển, mãi cho tới khi con ngươi sống động như thật của nó nhìn trừng trừng vào bóng lưng khuất dần của Vân Thiên Phong, nó mới chậm rãi dừng lại."
+    },
+    {
+      "para_id": "c0052p0086",
+      "index": 86,
+      "raw_zh": "感謝書友尾數06864的月票，謝謝你的支持！！！",
+      "translated_vi": "Chân thành cảm ơn bạn đọc có số đuôi 06864 đã ủng hộ phiếu tháng, cảm ơn sự đồng hành của bạn!!!"
+    }
+  ]
+}

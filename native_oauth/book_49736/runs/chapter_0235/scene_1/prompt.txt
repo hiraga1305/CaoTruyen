@@ -1,0 +1,93 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0235|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一張|một tấm
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §52):
+§1 235.第235章 不可思議
+§2 第235章 不可思議
+§3 肆虐的暴風雪終於安靜了下來。
+§4 璀璨的星光爬滿了天空。
+§5 [Ø=云千峰]一輪明月懶洋洋的在群星拱照下飄在天邊，不肯爬高一點。
+§6 他決定和琳達分享這份幸運。
+§7 [Ø=云千峰]然而琳達竟然和自己搶，這真的是太過分了。
+§8 然後雲千峰就氣醒了。
+§9 [Ø=云千峰]琳達雙臂十字交叉護著身前，此時正背對著雲千峰，眼中全是羞赧。
+§10 雲千峰隨後又來了句：
+§11 [Ø=云千峰]“沒格局啊，唉！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§12 琳達咬牙切齒。
+§13 [Ø=云千峰]睡醒的倆人，就那麽窩在一堆衣服裡，暖和的吃著背包內冰涼的牛肉罐頭。
+§14 齁鹹。
+§15 [Ø=云千峰]於是倆人就用高度酒當水，潤了一下喉嚨。
+§16 [Ø=云千峰]穿好衣服後，倆人分別去椅子後面方便了一下大小號。
+§17 [Ø=云千峰]出去上廁所那是不敢的，現在的溫度依舊很低，車內溫度計顯示，外面此刻溫度零下58度。
+§18 滴水成冰。
+§19 [Ø=云千峰]哪怕是在車內，倆人也依舊是凍得屁股生疼。
+§20 [Ø=云千峰]咧著嘴，強忍著完成新陳代謝。
+§21 [Ø=云千峰]剛吃過的罐頭盒子當承載工具，將大號扔出窗外，至於小號， [||] 只能隨它去了，反正頃刻間就在地板上變成一片冰， [||] 只要沒有潔癖，也沒什麽影響。
+§22 [Ø=云千峰]至於開窗放放氣味，他們是不會那麽傻去凍臉的，只能這樣忍著，幾分鍾後也就嗅不到了。
+§23 [Ø=云千峰]履帶車在接近東方站的時候，徹底失去了燃油。
+§24 好在他們已經可以遠遠的看到那片老舊的簡單建築。
+§25 [Ø=云千峰]只是那片建築上面黑煙滾滾，很顯然已經被炸毀。
+§26 [Ø=云千峰]琳達看到這一幕，絕望道：
+§27 [Ø=云千峰]“又是他們嗎？他們這是準備徹底斷絕我們的所有補給，活活凍死餓死我們嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 雲千峰冷冷道：
+§29 [Ø=云千峰]“炸不沒所有東西，他們提前炸掉這裡， [||] 就是為了讓我看見，他們在向我宣戰，那是宣戰的狼煙。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§30 [Ø=云千峰]說著，他脫掉身上的羽絨服，用白色的毛毯罩住頭身，然後低聲道：
+§31 [Ø=云千峰]“你躺在椅子上，做好保暖，把一件衣服偶爾用手臂舉起來， [||] 在車窗前晃動一下，搖晃身體讓車身隨著晃動，最好讓人以為是兩個人在車內親密，懂嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§32 [Ø=云千峰]琳達點了點頭，道：
+§33 [Ø=云千峰]“放心，我知道該怎麽做，只要他們不靠近，絕對看不出來裡面是一個人。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 [Ø=云千峰]雲千峰點了點頭，把車門打開一個縫隙， [||] 趴著鑽出去，然後就保持這樣趴在雪地上，快速用手肘帶動身體前行。
+§35 [Ø=云千峰]他的手臂力量，讓他這樣爬行比走路還要快，身披白色毛毯，幾乎一眨眼就徹底消失在這個天地間。
+§36 [Ø=云千峰]不出幾分鍾，雲千峰已經來到了那片冒煙的建築附近。
+§37 [Ø=云千峰]就見幾乎所有的建築都被炸得稀爛，但惟獨正中間一棟不大的木屋完好無損。
+§38 [Ø=云千峰]木屋的門洞開著，可以看到黑洞洞的門內有一張[M1:một tấm]厚實的長方形木桌， [||] 桌子上放著一個圓形的LED燈，燈光很微弱，只能照亮桌子那麽一圈大的范圍。
+§39 [Ø=云千峰]桌子挨著的兩個直角邊旁，各坐著一個人。
+§40 [Ø=云千峰]一個男人，一個女人。
+§41 [Ø=云千峰]因為穿著厚實的冬裝，看不出身形如何，但兩個人臉上的長條疤痕，證明他們絕對是久經沙場的好手。
+§42 [Ø=云千峰]倆人坐著的位置，正對著木門能夠看到，但只要稍微偏一點角度便無法再看到他們，那是極科學的安全位置。
+§43 [Ø=云千峰]雲千峰若是想用自己那把小手槍打到對方，就必須正對著門口，同樣自己也一定會被對方發現。
+§44 [Ø=云千峰]於是他眼珠一轉，團起了一個雪團，扔到了木屋的門上。
+§45 [Ø=云千峰]他不敢正對著門口，所以要引兩個人動起來。
+§46 然而他的打草驚蛇意外的沒有任何效果。
+§47 [Ø=云千峰]是的，是沒有絲毫的效果。
+§48 因為屋內的兩個人一動也不動。
+§49 [Ø=云千峰]雲千峰自覺遇到了心沉氣穩的對手，這樣的敵人最麻煩。
+§50 [Ø=云千峰]然而他又觀察了一會後，發現自己可能判斷錯了。
+§51 [Ø=云千峰]因為裡面那兩個人好似蠟像一樣，幾分鍾都沒改換動作。
+§52 [Ø=云千峰]“兩個可能，假人亦或是，他們已經死了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 52 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§52. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

@@ -1,0 +1,93 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0287|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|“A Cam là ai thế?”
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一座|một tòa
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §52):
+§1 [Ø=云千峰]雲千峰看著越來越近的野牛群，道：
+§2 “我也不認識啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§3 [Ø=云千峰]正說著，野牛群已經到了倆人身前三十米，沒有拐彎的意思，而是一往無前。
+§4 “靠！阿甘不靠譜啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§5 [Ø=云千峰]雲千峰罵了一句，撒腿就跑。
+§6 楊玉奴哀呼：
+§7 [Ø=云千峰]“郎君莫要棄我不顧，太真定.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 [Ø=云千峰]話沒說完，她發現雲千峰不是扔下她跑了，而是徑直的衝向了牛群。
+§9 玉奴歎：
+§10 [Ø=云千峰]“郎君此等英雄，若是聖人有你一半，玉奴何至慘死”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=云千峰]說著，看著雲千峰的方向，安然的坐在草地上，似乎已經接受了命運。
+§12 [Ø=云千峰]雲千峰死了，那麽她無論如何也無法獨自生存，她沒有那個能力， [||] 那麽直接被野牛群踩成肉餅，或許是個更好的結局，比永恆的活受罪強多了。
+§13 [Ø=云千峰]眼看著，雲千峰已經到了野牛群前面，就見雲千峰猛然跳躍而起，身體幾乎平行地面的衝撞過去。
+§14 竟是用自己的腦袋與野牛硬鋼。
+§15 “咚！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§16 很沉悶的聲響。
+§17 [Ø=云千峰]下一秒，就見雲千峰在空中一個後空翻，然後穩穩站在地上， [||] 而與他對撞的野牛向後翻了三個後空翻，然後砸在地上，腦袋癟下去一半，眼睛都陷進腦袋裡去了。
+§18 [Ø=云千峰]頭牛身後的牛群頓時四散，倉皇而逃，在距離雲千峰二三百米的位置散開， [||] 各自吃草，不時的用眼睛偷瞄雲千峰，就好像方才的事情完全沒有發生。
+§19 這就是食草動物的本性。
+§20 懦弱而自欺欺人。
+§21 [Ø=云千峰]玉奴驚呆了，第一次見到人把牛頂死。
+§22 [Ø=云千峰]隨後驚醒，郎君說過他是惡鬼，那自然是厲害的。
+§23 [Ø=云千峰]於是邁步跑過去，如謫仙之姿。
+§24 [Ø=云千峰]這人要是舞蹈跳得好，跑起來都好看，和跳舞似的。
+§25 “郎君真神人也！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§26 [Ø=云千峰]雲千峰看著地上的野牛，隨口道：
+§27 [Ø=云千峰]“你應該好奇，海島上怎麽會有野牛。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 [Ø=云千峰]太真一愣，對於大海，她完全不了解。
+§29 [Ø=云千峰]“很奇怪嗎？這是地獄啊，有什麽事不可能？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§30 就很有道理。
+§31 雲千峰搖頭道：
+§32 [Ø=云千峰]“正因為這裡是地獄，完全可以沒有這座島，但這座島存在了， [||] 有生命，而且生物圈很複雜，這就有問題了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 玉奴疑惑道：
+§34 [Ø=云千峰]“郎君，這有什麽怪異嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 [Ø=云千峰]雲千峰點頭，道：
+§36 [Ø=云千峰]“當然奇怪，這裡就不該有這樣一座[M1:một tòa]島，因為這裡是讓人受罪的， [||] 不該有這麽好的食物，但它存在了，定然意有所指，或者說有它的作用。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 [Ø=云千峰]“地獄，是女閻羅人製造的，他們創造這個海島，用意是什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 [Ø=云千峰]“這海島大部分被絕壁阻隔，只有兩處可入，而能進入的地方像兩個蟹爪，半圍出一個小港。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 [Ø=云千峰]“兩蟹爪位置，又是布滿了毒蛇和鹹水鱷魚，而過了毒蛇的位置向內， [||] 先是沼澤，後見公牛，這就是規律！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 [Ø=云千峰]玉奴完全沒聽懂，詫異道：
+§41 [Ø=云千峰]“郎君，太真不解，規律為何？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§42 雲千峰沉聲道：
+§43 “四庫！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 玉奴眼中愈加不解。
+§45 雲千峰指著他們走進來的方向道：
+§46 [Ø=云千峰]“蛇、鼉同現不為巳，小龍也，是為辰土， [||] 兩地形如蟹爪，半圍港口，正和辰土為水之庫的規則。
+§47 [Ø=云千峰]走過蛇從，便是沼澤，沼澤者， [||] 濕土也，在支為醜，醜者牛也，所以走過沼澤便遇公牛。
+§48 [Ø=云千峰]如果我猜的沒錯，下面我們會遇到戌土和未土之地形。
+§49 [Ø=云千峰]辰戌醜未，合稱四庫，四庫所在， [||] 必有寶物所藏，我們速速趕路，如果真的四庫全，那麽女閻羅人定是在這裡藏了極重要的東西！”
+§50 雲千峰眼睛都亮了。
+§51 感謝肖娜丶、Lsfpmzl、尾數26918、尾數18659、尾數47670、狐言鑾雨、血之藥、尾數44457、無我無物無時、踏月留香z、尾數06694、雖山高路遠、非無用、神祇papa、為仁不忍、尾數29200、可憐兮兮的袁先生、羽逸彤、尾數55940、尾數14847、戚文、尾數19236、尾數58717、終究灬意難平、心刀客、穹宵、尾數13546、尾數03005、塔克斯、尾數11405、尾數10151、漠落小妖、尾數01440、射和龜、Happysong、尾數43252、且看風雨122、尾數29725、尾數05537、尾數20551、尾數25937、尾數31289、花生ame、安靜已死、尾數49420、尾數25191、尾數48532、尾數08943、紅塵蹉跎、流浪人間的喵、尾數55870！！！
+§52 [Ø=云千峰]謝謝你們的月票支持，感激！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 52 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§52. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

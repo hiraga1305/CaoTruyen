@@ -1,0 +1,89 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0250|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §50):
+§1 250.第250章 不得不
+§2 第250章 不得不
+§3 [Ø=云千峰]雲千峰正要對小神經說什麽，但是哪怕是蓋著蓋頭，小神經也能從雲千峰的呼吸察覺他的舉動，於是開口打斷了雲千峰要說出的話。
+§4 小神經低聲道：
+§5 [Ø=云千峰]“聽他們的，求你！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§6 “求？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§7 [Ø=云千峰]雲千峰被這個字眼堵住了嘴，心裡莫名的發酸。
+§8 [Ø=云千峰]小神經用手引著雲千峰轉身，倆人面南背北，朝天而拜。
+§9 “二拜高堂！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§10 [Ø=云千峰]“老大和大姐頭的爸媽可不在這，怎麽拜？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=云千峰]“那祭台上應該是示巴女王的雕像，當得作為父母一拜。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§12 [Ø=云千峰]“閉嘴吧你，有文化嗎你，那是西王母，不是示巴。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 [Ø=云千峰]“伱才沒文化，示巴讀音來自藏語語系，就是西方的意思。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§14 “.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 [Ø=云千峰]這幫沒形象的家夥吵成一團，汙言穢語不斷。
+§16 雲千峰這才看到祭台上那尊雕像。
+§17 [Ø=云千峰]整體漢白玉雕琢，其像面帶獠牙虎頭面具，披散著過腰長發， [||] 一條豹尾在其身後朝天蜿蜒而伸，不知是裝飾還是觸角一類的東西，正是山海經內西王母的形象。
+§18 [Ø=云千峰]這雕像上面還雕刻著一條腿的輪廓，就被雕像單手托在掌中，在雕像身前一個石台上， [||] 擺放著一條大腿，上面布滿青色鱗紋，正是蚩尤甲的一條腿。
+§19 [Ø=云千峰]小神經引著雲千峰，倆人跪拜在西王母雕像之前，叩拜施禮。
+§20 [Ø=云千峰]下面的人看到這一幕，頓時不吵了，安靜下來。
+§21 [Ø=云千峰]待到倆人叩拜西王母雕像後，下面人齊聲喊道：
+§22 “夫妻對拜！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 除了琳達沒喊。
+§24 [Ø=云千峰]她想阻止狼人結婚，因為狼人還沒進她的集郵冊。
+§25 [Ø=云千峰]但是奈何，旁邊的人和按小雞子似的，她根本起不來。
+§26 [Ø=云千峰]小神經和雲千峰對面而立，同時折腰向對方施禮。
+§27 “禮成！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 “吃席咯！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 “吃尼瑪的席？會不會說話？啊？不會說話你別說！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§30 [Ø=云千峰]“峰哥我錯了，這詞的確不對，你說，你說！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=云千峰]那被稱為峰哥的沉思半晌，咳嗽了兩聲，道：
+§32 [Ø=云千峰]“吃席，吃席，百無禁忌！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 引來一陣噓聲。
+§34 [Ø=云千峰]沒人吃東西，除了琳達。
+§35 [Ø=云千峰]琳達自斟自飲，胡吃海喝，以填補內心的悲憤。
+§36 [Ø=云千峰]其他人都只是斟滿了三杯酒，然後對著一個空擋的席面敬酒飲盡一杯。
+§37 [Ø=云千峰]雲千峰知道，那個席面上本該有四個人，只不過他們都死了。
+§38 [Ø=云千峰]每個人都對著空席面敬了一杯酒，其中一人道：
+§39 [Ø=云千峰]“老七，老八，老十，小十六，你們在天有靈， [||] 看到老大和大姐頭成婚，也該瞑目了，唉，要是大姐頭早來一天，你們就能親眼看到這一幕了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 [Ø=云千峰]這句話，讓雲千峰知道， [||] 小神經是才來不久，而且是自己來的，不是被綁架。
+§41 [Ø=云千峰]這讓他的心臟往下沉，因為這意味著，小神經也是來殺自己的。
+§42 [Ø=云千峰]給空席敬酒後，那些人雙手端著剩下的兩杯酒，望著祭台上的雲千峰。
+§43 [Ø=云千峰]雲千峰知道，該來的終究還是要來的。
+§44 [Ø=云千峰]其中一人，身高差不多兩米，極為高大。
+§45 一雙手掌怕不是有雲千峰兩個大。
+§46 [Ø=云千峰]他托著兩杯酒來到祭台前，彎腰行禮，將其中一杯酒遞到雲千峰面前，笑道：
+§47 [Ø=云千峰]“老大，恭喜你和小神經終於喜結連理，我們也就放心了，咱們幹了這杯酒， [||] 前塵盡斷，等下我不會手軟，也希望老大你尊重我，不要留手。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§48 [Ø=云千峰]說著，舉杯就要飲盡，卻被雲千峰叫停。
+§49 [Ø=云千峰]“慢著，要殺要打都沒問題，你們可以告訴我為什麽嗎？我能感覺到你們認識我，甚至非常熟悉，但我沒有你們的記憶， [||] 或許是我的記憶被篡改了，亦或是我失憶了，我不知道原因，但我希望出手的時候，心裡是透徹的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§50 那高大的漢子哈哈大笑道：
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 50 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§50. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

@@ -1,0 +1,565 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 173,
+  "title": "Chương 173: Kế sách, kế hoạch và biến hóa",
+  "total_paragraphs": 92,
+  "translated_paragraphs": 92,
+  "source_hash": "2ee7cf02a97f3e0a002c6cf18941b3406609fb6267b78117ceb08003b00cb4e6",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0173p0001",
+      "index": 1,
+      "raw_zh": "第173章 計謀 計劃與變化",
+      "translated_vi": "Chương 173: Kế sách, kế hoạch và biến hóa"
+    },
+    {
+      "para_id": "c0173p0002",
+      "index": 2,
+      "raw_zh": "說來也怪。",
+      "translated_vi": "Nói ra cũng thật kỳ quặc."
+    },
+    {
+      "para_id": "c0173p0003",
+      "index": 3,
+      "raw_zh": "剛才還一心求死的約翰，在面對法緹娜那一刻，眼睛裡浸滿的全是愛意。",
+      "translated_vi": "John vừa rồi còn một lòng cầu chết, vậy mà ngay khoảnh khắc đối diện với Fatina, trong ánh mắt gã lại đong đầy toàn là tình yêu say đắm."
+    },
+    {
+      "para_id": "c0173p0004",
+      "index": 4,
+      "raw_zh": "就那小眼神，雲千峰發誓，如果法緹娜現在對約翰溫柔的說一句“你去死”，約翰誰都不用求。",
+      "translated_vi": "Nhìn cái ánh mắt ấy, Vân Thiên Phong thề rằng nếu giờ phút này Fatina chỉ cần dịu dàng nói một câu “Anh đi chết đi”, John chắc chắn sẽ chẳng cần phải cầu xin bất kỳ ai nữa."
+    },
+    {
+      "para_id": "c0173p0005",
+      "index": 5,
+      "raw_zh": "這與安德那些人面對法緹娜時那種敬仰的眼神不同，由此可見，在約翰內心深處，他是非常愛法緹娜的。",
+      "translated_vi": "Ánh nhìn này hoàn toàn khác biệt với sự tôn sùng kính ngưỡng của bọn người Ander khi diện kiến Fatina. Có thể thấy rõ từ sâu thẳm tâm can, John yêu Fatina đến nhường nào."
+    },
+    {
+      "para_id": "c0173p0006",
+      "index": 6,
+      "raw_zh": "或許也正是如此，他才會求雲千峰殺了他，因為他無法拒絕法緹娜。",
+      "translated_vi": "Có lẽ cũng chính vì lẽ đó mà gã mới cầu xin Vân Thiên Phong giết chết mình, bởi lẽ bản thân gã vĩnh viễn không cách nào cự tuyệt được Fatina."
+    },
+    {
+      "para_id": "c0173p0007",
+      "index": 7,
+      "raw_zh": "“可憐的男人！”",
+      "translated_vi": "“Đúng là người đàn ông đáng thương!”"
+    },
+    {
+      "para_id": "c0173p0008",
+      "index": 8,
+      "raw_zh": "這是雲千峰對約翰的最後評價。",
+      "translated_vi": "Đó là lời đánh giá sau cùng mà Vân Thiên Phong dành cho John."
+    },
+    {
+      "para_id": "c0173p0009",
+      "index": 9,
+      "raw_zh": "沒有任何人對法緹娜的命令產生懷疑，除了雲千峰。",
+      "translated_vi": "Chẳng một ai nảy sinh chút hoài nghi nào đối với mệnh lệnh của Fatina, ngoại trừ Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0173p0010",
+      "index": 10,
+      "raw_zh": "他對法緹娜既無愛意也無敬仰，她眼神的魔力對雲千峰毫無作用。",
+      "translated_vi": "Anh đối với Fatina vừa không có tình yêu lại chẳng có lòng kính ngưỡng, ma lực trong ánh mắt ả căn bản vô tác dụng với anh."
+    },
+    {
+      "para_id": "c0173p0011",
+      "index": 11,
+      "raw_zh": "於是他看著法緹娜說道：",
+      "translated_vi": "Thế là anh nhìn thẳng vào Fatina, cất tiếng:"
+    },
+    {
+      "para_id": "c0173p0012",
+      "index": 12,
+      "raw_zh": "“就這點淡水和飛機上的餐盒，不夠我們活過三天。”",
+      "translated_vi": "“Chỉ với ngần này nước ngọt cùng mấy hộp đồ ăn trên máy bay, không đủ để chúng ta cầm cự sống sót qua ba ngày đâu.”"
+    },
+    {
+      "para_id": "c0173p0013",
+      "index": 13,
+      "raw_zh": "法緹娜看著約翰，問道：",
+      "translated_vi": "Fatina quay sang nhìn John, hỏi:"
+    },
+    {
+      "para_id": "c0173p0014",
+      "index": 14,
+      "raw_zh": "“走到那裡要多久？”",
+      "translated_vi": "“Đi tới nơi đó mất bao lâu?”"
+    },
+    {
+      "para_id": "c0173p0015",
+      "index": 15,
+      "raw_zh": "約翰老實的回道：",
+      "translated_vi": "John thành thật đáp:"
+    },
+    {
+      "para_id": "c0173p0016",
+      "index": 16,
+      "raw_zh": "“親愛的法緹娜，那最少需要一周的時間，甚至更多。”",
+      "translated_vi": "“Fatina thân yêu, ít nhất cũng phải mất một tuần lễ, thậm chí còn lâu hơn thế nữa.”"
+    },
+    {
+      "para_id": "c0173p0017",
+      "index": 17,
+      "raw_zh": "雲千峰攤了攤手，道：",
+      "translated_vi": "Vân Thiên Phong dang hai tay ra, nói:"
+    },
+    {
+      "para_id": "c0173p0018",
+      "index": 18,
+      "raw_zh": "“所以，這就意味著，我們渴死的時候，距離你的目的地最少還有四天的路程。”",
+      "translated_vi": "“Cho nên điều này đồng nghĩa với việc lúc chúng ta chết khát, khoảng cách tới đích đến của cô ít nhất vẫn còn bốn ngày đường nữa.”"
+    },
+    {
+      "para_id": "c0173p0019",
+      "index": 19,
+      "raw_zh": "雲千峰的謹慎和分析能力，讓法緹娜對他刮目相看。",
+      "translated_vi": "Sự cẩn trọng cùng năng lực phân tích sắc sảo của Vân Thiên Phong khiến Fatina không khỏi nhìn anh bằng con mắt khác xưa."
+    },
+    {
+      "para_id": "c0173p0020",
+      "index": 20,
+      "raw_zh": "聽雲千峰這麽說，法緹娜很認真的問道：",
+      "translated_vi": "Nghe Vân Thiên Phong phân tích như vậy, Fatina vô cùng nghiêm túc hỏi lại:"
+    },
+    {
+      "para_id": "c0173p0021",
+      "index": 21,
+      "raw_zh": "“那麽，你覺得我們怎樣才能活下去？”",
+      "translated_vi": "“Vậy theo anh, chúng ta phải làm thế nào mới có thể sống sót?”"
+    },
+    {
+      "para_id": "c0173p0022",
+      "index": 22,
+      "raw_zh": "儼然一副把雲千峰當成軍師對待的表情。",
+      "translated_vi": "Điệu bộ này rõ ràng là đã coi Vân Thiên Phong như một quân sư cơ trí."
+    },
+    {
+      "para_id": "c0173p0023",
+      "index": 23,
+      "raw_zh": "雲軍師也真不是蓋的，用手試了試風，張嘴就來：",
+      "translated_vi": "Vị Vân quân sư đây cũng chẳng phải hạng hữu danh vô thực, anh giơ tay đón lấy chiều gió, liền cất lời tính kế:"
+    },
+    {
+      "para_id": "c0173p0024",
+      "index": 24,
+      "raw_zh": "“拋棄所有食物和淡水，隻帶著武器，然後朝著追來隊伍和綠洲方向連線的順風垂直方向逃。”",
+      "translated_vi": "“Vứt bỏ toàn bộ lương thực và nước ngọt, chỉ mang theo vũ khí bên mình, sau đó chạy trốn theo hướng xuôi gió vuông góc với đường thẳng nối giữa toán truy binh và ốc đảo.”"
+    },
+    {
+      "para_id": "c0173p0025",
+      "index": 25,
+      "raw_zh": "聽到這話，法緹娜沒出聲，似乎在思索。",
+      "translated_vi": "Nghe thấy lời này, Fatina không đáp lời ngay mà dường như đang đăm chiêu suy nghĩ."
+    },
+    {
+      "para_id": "c0173p0026",
+      "index": 26,
+      "raw_zh": "而安德則立馬開口罵道：",
+      "translated_vi": "Thế nhưng Ander thì lập tức nhảy dựng lên mắng mỏ:"
+    },
+    {
+      "para_id": "c0173p0027",
+      "index": 27,
+      "raw_zh": "“愚蠢又壞的外鄉人，那樣的話我們在太陽下活不過兩個小時，伱要害死我們嘛？”",
+      "translated_vi": "“Đồ ngoại bang ngu xuẩn lại còn hiểm độc! Làm như thế thì dưới ánh mặt trời thiêu đốt chúng ta sống không quá hai tiếng đồng hồ đâu, mày muốn hãm hại chúng tao chết đấy à?”"
+    },
+    {
+      "para_id": "c0173p0028",
+      "index": 28,
+      "raw_zh": "說著，端起槍，把槍口對準雲千峰，大有一言不合就開槍的意思。",
+      "translated_vi": "Vừa nói, gã vừa nâng súng lên chĩa thẳng nòng súng vào ngực Vân Thiên Phong, bộ dạng sẵn sàng bóp cò nếu không vừa ý."
+    },
+    {
+      "para_id": "c0173p0029",
+      "index": 29,
+      "raw_zh": "沒想到法緹娜卻怒斥道：",
+      "translated_vi": "Chẳng ngờ Fatina lại giận dữ quát lớn:"
+    },
+    {
+      "para_id": "c0173p0030",
+      "index": 30,
+      "raw_zh": "“安德，放下槍！”",
+      "translated_vi": "“Ander, buông súng xuống!”"
+    },
+    {
+      "para_id": "c0173p0031",
+      "index": 31,
+      "raw_zh": "安德不敢不聽話，急忙放下槍口，然後氣急敗壞的說道：",
+      "translated_vi": "Ander không dám cãi lời, vội vàng hạ nòng súng xuống, đoạn tức tối giậm chân nói:"
+    },
+    {
+      "para_id": "c0173p0032",
+      "index": 32,
+      "raw_zh": "“尊敬的法緹娜，這個外鄉人心很壞，他要把我們送上絕路，他一定是魔鬼派來阻攔真神降臨的壞蛋！讓我殺了他！”",
+      "translated_vi": "“Fatina tôn kính, tên ngoại bang này dã tâm cực kỳ hiểm độc! Hắn ta đang muốn dồn chúng ta vào bước đường cùng, chắc chắn hắn là tay sai ma quỷ phái tới để ngăn cản Chân Thần giáng lâm! Hãy để tôi giết hắn đi!”"
+    },
+    {
+      "para_id": "c0173p0033",
+      "index": 33,
+      "raw_zh": "法緹娜看都沒看安德，而是又注目了一眼雲千峰，然後淡淡的下令道：",
+      "translated_vi": "Fatina thậm chí chẳng buồn liếc mắt nhìn Ander, mà lại chăm chú nhìn Vân Thiên Phong thêm một cái, đoạn thản nhiên hạ lệnh:"
+    },
+    {
+      "para_id": "c0173p0034",
+      "index": 34,
+      "raw_zh": "“喝飽水，然後拋棄水囊和食物，我們朝著南向走。”",
+      "translated_vi": "“Uống thật no nước, sau đó vứt bỏ túi da cùng thức ăn, chúng ta di chuyển về hướng nam.”"
+    },
+    {
+      "para_id": "c0173p0035",
+      "index": 35,
+      "raw_zh": "南向，正是追兵和綠洲連線的垂直方向，而且是順風。",
+      "translated_vi": "Hướng nam, vừa hay chính là phương hướng vuông góc với đường nối giữa toán truy binh và ốc đảo, lại còn thuận chiều gió."
+    },
+    {
+      "para_id": "c0173p0036",
+      "index": 36,
+      "raw_zh": "安德驚呆了。",
+      "translated_vi": "Ander chết lặng cả người."
+    },
+    {
+      "para_id": "c0173p0037",
+      "index": 37,
+      "raw_zh": "約翰也驚訝的瞠目結舌。",
+      "translated_vi": "John cũng kinh ngạc đến há hốc mồm."
+    },
+    {
+      "para_id": "c0173p0038",
+      "index": 38,
+      "raw_zh": "只有阿菲法啥都沒想，是真的啥都沒想，也沒有自己思考的結論。",
+      "translated_vi": "Chỉ có Afifa là chẳng thèm suy nghĩ gì, mà thực sự là cô bé cũng chẳng có chút lăn tăn hay đưa ra kết luận nào cho riêng mình."
+    },
+    {
+      "para_id": "c0173p0039",
+      "index": 39,
+      "raw_zh": "不過自己姐姐那麽聰明的人都選擇了雲千峰的計劃，那麽就一定是對的。",
+      "translated_vi": "Có điều một người thông minh kiệt xuất như chị gái mình mà đã lựa chọn kế hoạch của Vân Thiên Phong thì chắc chắn đó là phương án chuẩn xác không cần bàn cãi."
+    },
+    {
+      "para_id": "c0173p0040",
+      "index": 40,
+      "raw_zh": "於是小聲對這雲千峰嘀咕道：",
+      "translated_vi": "Thế là cô ghé tai Vân Thiên Phong thì thầm:"
+    },
+    {
+      "para_id": "c0173p0041",
+      "index": 41,
+      "raw_zh": "“阿甘說過，華夏人都很聰明，果然是這樣的。”",
+      "translated_vi": "“Anh Cam từng bảo người Hoa ai nấy đều rất thông minh, quả đúng là như vậy thật.”"
+    },
+    {
+      "para_id": "c0173p0042",
+      "index": 42,
+      "raw_zh": "這讓雲千峰想起法緹娜之前說的“阿甘是華夏人”，心裡估摸著那阿甘不但是華夏人，還可能是自己的老鄉，否則不能把阿菲法忽悠瘸了。",
+      "translated_vi": "Điều này khiến Vân Thiên Phong nhớ lại lời Fatina nói lúc trước rằng “A Cam là người Hoa”. Trong lòng anh thầm phỏng đoán cái gã A Cam kia không chỉ là người Trung Quốc mà khéo chừng còn là đồng hương của mình nữa kia, bằng không làm sao có thể rót mật vào tai khiến con bé Afifa này tin sái cổ đến vậy."
+    },
+    {
+      "para_id": "c0173p0043",
+      "index": 43,
+      "raw_zh": "心中莫名想笑，但很明顯這個場合笑不得。",
+      "translated_vi": "Trong lòng anh bất giác buồn cười, nhưng rõ ràng trường hợp lúc này không thể bật cười ra tiếng được."
+    },
+    {
+      "para_id": "c0173p0044",
+      "index": 44,
+      "raw_zh": "別人的驚訝僅限於表情，他們不敢反對法緹娜的任何話，更不敢提意見。",
+      "translated_vi": "Sự kinh ngạc của những người khác chỉ dừng lại ở nét mặt, bọn họ chẳng dám phản đối bất kỳ lời nào của Fatina, lại càng không dám hé răng góp ý nửa câu."
+    },
+    {
+      "para_id": "c0173p0045",
+      "index": 45,
+      "raw_zh": "於是五個人打開了水囊，使勁的往肚子裡灌水。",
+      "translated_vi": "Thế là năm người cùng mở nắp túi nước, ra sức uống ừng ực cho căng tràn bụng."
+    },
+    {
+      "para_id": "c0173p0046",
+      "index": 46,
+      "raw_zh": "一個個都是小腹鼓鼓，這才扔掉水囊和飛機上的餐盒，朝南向快步而去。",
+      "translated_vi": "Ai nấy bụng đều căng tròn no ứ ự, lúc này mới vứt bỏ các túi da cùng hộp cơm trên máy bay lại, nhanh chân sải bước rảo về hướng nam."
+    },
+    {
+      "para_id": "c0173p0047",
+      "index": 47,
+      "raw_zh": "將近黎明時分，陰陽割昏曉，大風總是在這樣的時候降臨。",
+      "translated_vi": "Trời gần về sáng, ranh giới giữa ngày và đêm dần phân định, những cơn cuồng phong sa mạc luôn đổ dồn về vào những thời khắc như thế này."
+    },
+    {
+      "para_id": "c0173p0048",
+      "index": 48,
+      "raw_zh": "風把他們走過的腳印幾乎一下抹平，沒有留下一絲痕跡。",
+      "translated_vi": "Gió lốc cuốn cát gần như xóa sạch sành sanh mọi dấu chân họ vừa đi qua, không để lại bất kỳ tung tích nào."
+    },
+    {
+      "para_id": "c0173p0049",
+      "index": 49,
+      "raw_zh": "一隊人馬趕到了雲千峰他們之前宿營的沙包後面。",
+      "translated_vi": "Một toán nhân mã đuổi tới phía sau gò cát nơi nhóm Vân Thiên Phong từng hạ trại lúc trước."
+    },
+    {
+      "para_id": "c0173p0050",
+      "index": 50,
+      "raw_zh": "這隊人馬足足有四十九人，並且有著十幾條狗。",
+      "translated_vi": "Toán người này đông tới bốn mươi chín tên, kèm theo hơn mười con chó săn hung hãn."
+    },
+    {
+      "para_id": "c0173p0051",
+      "index": 51,
+      "raw_zh": "“偉大的奧瑞克，他們拋棄了所有物資，真的是一群瘋子。”",
+      "translated_vi": "“Oric vĩ đại, bọn chúng đã vứt bỏ lại toàn bộ vật tư, đúng là một lũ điên rồ!”"
+    },
+    {
+      "para_id": "c0173p0052",
+      "index": 52,
+      "raw_zh": "“偉大的奧瑞克，獵犬發現氣味分散到不同的方向，看來他們布下了疑陣。”",
+      "translated_vi": "“Oric vĩ đại, lũ chó săn phát hiện ra mùi hơi tản ra theo nhiều hướng khác nhau, xem ra bọn chúng đã bày ra nghi binh trận rồi.”"
+    },
+    {
+      "para_id": "c0173p0053",
+      "index": 53,
+      "raw_zh": "那位被稱為“奧瑞克”的男人手裡拿著一根銀質的十字架盤玩著，本應很大的眼睛眯著，似乎永遠在思索。",
+      "translated_vi": "Người đàn ông được xưng tụng là “Oric” kia tay đang mân mê một cây thánh giá bằng bạc, đôi mắt vốn dĩ rất to nay lại híp lại, dường như lúc nào cũng đang suy tính điều gì."
+    },
+    {
+      "para_id": "c0173p0054",
+      "index": 54,
+      "raw_zh": "他的面色很白，比他身上的衣服還要白。",
+      "translated_vi": "Gương mặt gã trắng bệch, thậm chí còn trắng hơn cả bộ y phục gã đang khoác trên người."
+    },
+    {
+      "para_id": "c0173p0055",
+      "index": 55,
+      "raw_zh": "但不是那種慘白，而是好似有些透明的水白。",
+      "translated_vi": "Nhưng đó không phải kiểu trắng bợt xác chết, mà là sắc trắng mờ trong suốt tựa như làn nước."
+    },
+    {
+      "para_id": "c0173p0056",
+      "index": 56,
+      "raw_zh": "在這群人裡，他身材最矮小也最瘦弱。",
+      "translated_vi": "Trong đám người này, vóc dáng của gã là thấp bé và gầy gò nhất."
+    },
+    {
+      "para_id": "c0173p0057",
+      "index": 57,
+      "raw_zh": "但是旁邊那群人高馬大的壯漢，卻對他畢恭畢敬。",
+      "translated_vi": "Thế nhưng đám tráng hán cao to lực lưỡng bên cạnh lại khúm núm cung kính với gã vô cùng."
+    },
+    {
+      "para_id": "c0173p0058",
+      "index": 58,
+      "raw_zh": "那種優越感，幾乎凝成了質。",
+      "translated_vi": "Cảm giác bề trên cao ngạo toát ra từ gã gần như đặc quánh lại thành hình."
+    },
+    {
+      "para_id": "c0173p0059",
+      "index": 59,
+      "raw_zh": "奧瑞克與法緹娜一樣，也是一種稱呼，只不過奧瑞克是另一種語言裡，神使的意思。",
+      "translated_vi": "Oric cũng giống như Fatina, đều là một danh xưng tôn quý, chỉ có điều trong một ngữ hệ khác, Oric mang ý nghĩa là “Sứ giả của Thần”."
+    },
+    {
+      "para_id": "c0173p0060",
+      "index": 60,
+      "raw_zh": "相比法緹娜，奧瑞克更加果斷。",
+      "translated_vi": "So với Fatina, Oric còn tỏ ra quyết đoán hơn nhiều."
+    },
+    {
+      "para_id": "c0173p0061",
+      "index": 61,
+      "raw_zh": "他幾乎不假思索，就下令道：",
+      "translated_vi": "Gã gần như chẳng cần suy nghĩ, lập tức hạ lệnh:"
+    },
+    {
+      "para_id": "c0173p0062",
+      "index": 62,
+      "raw_zh": "“三人一犬一組，去搜尋不同的方向，剩下的人同我用最快的速度趕往最近的綠洲。",
+      "translated_vi": "“Ba người một chó thành một tổ, tản ra truy lùng theo các hướng khác nhau! Những người còn lại đi cùng ta với tốc độ nhanh nhất tiến về ốc đảo gần đây nhất!"
+    },
+    {
+      "para_id": "c0173p0063",
+      "index": 63,
+      "raw_zh": "他們拋棄轍重，要想在這死亡之海活下去，就必須去綠洲做補給。",
+      "translated_vi": "Bọn chúng đã vứt bỏ toàn bộ đồ đạc hành lý, muốn sống sót trong Biển Chết này thì bắt buộc phải tới ốc đảo để tiếp tế."
+    },
+    {
+      "para_id": "c0173p0064",
+      "index": 64,
+      "raw_zh": "唯快不破，我們要比他們更快！”",
+      "translated_vi": "Tiên hạ thủ vi cường, tốc chiến tốc thắng, chúng ta nhất định phải nhanh hơn bọn chúng!”"
+    },
+    {
+      "para_id": "c0173p0065",
+      "index": 65,
+      "raw_zh": "這支隊伍的行動力堪稱絕頂，奧瑞克下達命令後，所有人自發組隊，很快分散而去。",
+      "translated_vi": "Khả năng chấp hành kỷ luật của toán người này quả thực xuất sắc tuyệt đỉnh. Vừa nghe Oric ra lệnh xong, tất cả liền tự động chia tổ, nhanh chóng tản ra các ngả."
+    },
+    {
+      "para_id": "c0173p0066",
+      "index": 66,
+      "raw_zh": "而奧瑞克則帶著剩下的十二人和三條狗，按照衛星電子地圖，朝著綠洲快速趕去。",
+      "translated_vi": "Còn Oric thì dẫn theo mười hai người còn lại cùng ba con chó, lần theo bản đồ điện tử vệ tinh, lao nhanh về phía ốc đảo."
+    },
+    {
+      "para_id": "c0173p0067",
+      "index": 67,
+      "raw_zh": "奧瑞克坐著狗拉的沙漠爬犁，其他人則是跑步跟隨著。",
+      "translated_vi": "Oric ngồi trên một chiếc xe trượt cát do chó kéo, còn những tên khác thì chạy bộ bám sát theo sau."
+    },
+    {
+      "para_id": "c0173p0068",
+      "index": 68,
+      "raw_zh": "此時，天已經大亮。",
+      "translated_vi": "Lúc này, trời đã sáng rõ."
+    },
+    {
+      "para_id": "c0173p0069",
+      "index": 69,
+      "raw_zh": "這世界上最嚴酷的環境開始了陰陽大逆轉。",
+      "translated_vi": "Môi trường khắc nghiệt bậc nhất trần gian bắt đầu một cuộc nghịch chuyển âm dương mãnh liệt."
+    },
+    {
+      "para_id": "c0173p0070",
+      "index": 70,
+      "raw_zh": "夜裡的寒冷被陽光頃刻驅散，炎熱幾乎沒有間歇的塞滿了這個世界。",
+      "translated_vi": "Cái lạnh buốt giá ban đêm bị ánh nắng xua tan trong nháy mắt, hơi nóng thiêu đốt tràn ngập khắp đất trời chẳng một giây ngưng nghỉ."
+    },
+    {
+      "para_id": "c0173p0071",
+      "index": 71,
+      "raw_zh": "距離這裡只有幾百米的一座沙包後面。",
+      "translated_vi": "Tại phía sau một gò cát chỉ cách nơi đó chừng vài trăm mét."
+    },
+    {
+      "para_id": "c0173p0072",
+      "index": 72,
+      "raw_zh": "安德在沙子下面鑽出來，來不及撣掉頭髮內的沙土，就急忙對著旁邊輕聲道：",
+      "translated_vi": "Ander trồi đầu lên từ dưới lớp cát, chưa kịp phủi sạch đất cát dính đầy trên tóc, đã vội vàng thì thào sang bên cạnh:"
+    },
+    {
+      "para_id": "c0173p0073",
+      "index": 73,
+      "raw_zh": "“偉大的法緹娜，他們離開了，已經走遠。”",
+      "translated_vi": "“Fatina vĩ đại, bọn chúng đã rời đi rồi, đã đi rất xa.”"
+    },
+    {
+      "para_id": "c0173p0074",
+      "index": 74,
+      "raw_zh": "安德一直在沙子下面，用耳朵傾聽周圍的一切。",
+      "translated_vi": "Ander nãy giờ vẫn vùi mình dưới cát, dán tai lắng nghe mọi động tĩnh xung quanh."
+    },
+    {
+      "para_id": "c0173p0075",
+      "index": 75,
+      "raw_zh": "法緹娜、約翰、阿菲法也陸續在沙子裡鑽了出來。",
+      "translated_vi": "Fatina, John và Afifa cũng lục tục ngoi lên khỏi lớp cát."
+    },
+    {
+      "para_id": "c0173p0076",
+      "index": 76,
+      "raw_zh": "原來他們根本沒有走遠。",
+      "translated_vi": "Hóa ra bọn họ căn bản chưa từng đi xa!"
+    },
+    {
+      "para_id": "c0173p0077",
+      "index": 77,
+      "raw_zh": "法緹娜聽到雲千峰的話後，就猜到了雲千峰的真正計劃。",
+      "translated_vi": "Fatina vừa nghe lời Vân Thiên Phong nói khi nãy liền đoán ra ngay kế hoạch thực sự của anh."
+    },
+    {
+      "para_id": "c0173p0078",
+      "index": 78,
+      "raw_zh": "拋棄水和食物，並不是真的拋棄，而是引誘敵人做錯選擇，然後在順風處躲避獵犬的嗅覺，同時挖沙坑隱藏身形，利用面紗蒙住口鼻，呼吸沙粒之間透進來的空氣。",
+      "translated_vi": "Vứt bỏ nước và lương thực không phải là thực sự từ bỏ, mà là để dụ kẻ địch đưa ra phán đoán sai lầm. Sau đó nấp ở phía xuôi gió nhằm vô hiệu hóa khứu giác của bầy chó săn, đồng thời đào hố cát giấu mình, dùng khăn mạng che kín miệng mũi để hít thở luồng không khí len lỏi qua từng kẽ hạt cát."
+    },
+    {
+      "para_id": "c0173p0079",
+      "index": 79,
+      "raw_zh": "阿菲法沒看到雲千峰，忙急道：",
+      "translated_vi": "Afifa không thấy bóng dáng Vân Thiên Phong đâu, vội lo lắng kêu lên:"
+    },
+    {
+      "para_id": "c0173p0080",
+      "index": 80,
+      "raw_zh": "“外鄉人呢？他不會悶死了吧！”",
+      "translated_vi": "“Tên người ngoại bang đâu rồi? Anh ta không bị ngạt thở chết đấy chứ!”"
+    },
+    {
+      "para_id": "c0173p0081",
+      "index": 81,
+      "raw_zh": "安德看了一眼旁邊的沙地，咬牙道：",
+      "translated_vi": "Ander liếc nhìn đụn cát bên cạnh, nghiến răng tức tối nói:"
+    },
+    {
+      "para_id": "c0173p0082",
+      "index": 82,
+      "raw_zh": "“他睡著很久了，我耳朵貼在沙子上，一直聽他的呼嚕聲。”",
+      "translated_vi": "“Hắn ngủ say như chết từ lâu rồi! Tai tao dán vào cát nãy giờ toàn phải nghe tiếng ngáy pho pho của hắn!”"
+    },
+    {
+      "para_id": "c0173p0083",
+      "index": 83,
+      "raw_zh": "雲千峰這一覺睡得很香。",
+      "translated_vi": "Vân Thiên Phong giấc này ngủ say sưa ngon lành biết bao."
+    },
+    {
+      "para_id": "c0173p0084",
+      "index": 84,
+      "raw_zh": "安德不得不承認，外鄉人不但壞還膽子大，這樣的環境下竟然能睡得這麽香。",
+      "translated_vi": "Ander không thể không thừa nhận, cái gã ngoại bang này không những xấu tính mà lá gan còn to tày trời, giữa hoàn cảnh ngàn cân treo sợi tóc thế này mà vẫn có thể ngủ ngon đến vậy."
+    },
+    {
+      "para_id": "c0173p0085",
+      "index": 85,
+      "raw_zh": "能不香嗎。",
+      "translated_vi": "Bảo sao mà không ngủ ngon cho được chứ?"
+    },
+    {
+      "para_id": "c0173p0086",
+      "index": 86,
+      "raw_zh": "大部隊全都散去了，剩下這四個人，就安德看起來有點戰鬥力，可以說雲千峰已經自由了。",
+      "translated_vi": "Đại đội truy binh đã tản mác đi hết, bốn người còn lại ở đây chỉ có mỗi Ander là trông còn có chút sức chiến đấu, có thể nói Vân Thiên Phong lúc này đã hoàn toàn tự do."
+    },
+    {
+      "para_id": "c0173p0087",
+      "index": 87,
+      "raw_zh": "他準備追兵走遠後，好好揍一頓安德，然後搶到地圖，奪走所謂神器，便即離開。",
+      "translated_vi": "Anh tính đợi toán truy binh đi thật xa sẽ tẩn cho Ander một trận nhừ tử, rồi giật lấy tấm bản đồ, đoạt luôn món gọi là thần khí kia rồi phủi mông bỏ đi."
+    },
+    {
+      "para_id": "c0173p0088",
+      "index": 88,
+      "raw_zh": "這些人識相，他就帶著他們活下去，不識相的話，他可就管不了那麽多了。",
+      "translated_vi": "Nếu đám người này biết điều thì anh sẽ dẫn họ cùng sống sót, còn bằng như không biết điều thì anh cũng chẳng hơi đâu bận tâm nhiều đến thế."
+    },
+    {
+      "para_id": "c0173p0089",
+      "index": 89,
+      "raw_zh": "然而，當阿菲法喚醒他之後，法緹娜的一句話，立即叫他放棄了之前的計劃，決定必須帶著法緹娜去到隕石被發現的地方。",
+      "translated_vi": "Thế nhưng, ngay khi Afifa đánh thức anh dậy, một câu nói của Fatina đã lập tức khiến anh từ bỏ toan tính ban đầu, hạ quyết tâm nhất định phải đưa Fatina đến tận nơi phát hiện ra khối thiên thạch."
+    },
+    {
+      "para_id": "c0173p0090",
+      "index": 90,
+      "raw_zh": "法緹娜看著那沉重的箱子，沉思片刻道：“.”",
+      "translated_vi": "Fatina nhìn chiếc hòm nặng trịch, trầm ngâm suy tính giây lát rồi nói: “...”"
+    },
+    {
+      "para_id": "c0173p0091",
+      "index": 91,
+      "raw_zh": "同志們，晚安！！！",
+      "translated_vi": "Các đồng chí, chúc ngủ ngon!!!"
+    },
+    {
+      "para_id": "c0173p0092",
+      "index": 92,
+      "raw_zh": "今晚嘗試做一個清明之夢！！！",
+      "translated_vi": "Đêm nay thử làm một giấc mơ tỉnh thức xem sao!!!"
+    }
+  ]
+}

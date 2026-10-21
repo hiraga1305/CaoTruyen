@@ -1,0 +1,709 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 168,
+  "title": "Chương 168: Vân Thủ Thân",
+  "total_paragraphs": 116,
+  "translated_paragraphs": 116,
+  "source_hash": "e3cf8f883612abd2afca7e7ffc4a16961597c29f8e474d73ab9e03338458dadb",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0168p0001",
+      "index": 1,
+      "raw_zh": "第168章 雲守身",
+      "translated_vi": "Chương 168: Vân Thủ Thân"
+    },
+    {
+      "para_id": "c0168p0002",
+      "index": 2,
+      "raw_zh": "這一晚注定是走不了了。",
+      "translated_vi": "Đêm nay xem như định sẵn là không thể rời đi được rồi."
+    },
+    {
+      "para_id": "c0168p0003",
+      "index": 3,
+      "raw_zh": "雲千峰昏迷了不下三個小時。",
+      "translated_vi": "Vân Thiên Phong hôn mê li bì không dưới ba tiếng đồng hồ."
+    },
+    {
+      "para_id": "c0168p0004",
+      "index": 4,
+      "raw_zh": "再醒來時還是深夜。",
+      "translated_vi": "Lúc anh tỉnh lại thì trời vẫn còn là đêm khuya thanh vắng."
+    },
+    {
+      "para_id": "c0168p0005",
+      "index": 5,
+      "raw_zh": "似乎這個被揉成團放進木樓金字塔的空間，只有黑夜。",
+      "translated_vi": "Dường như không gian bị vo tròn nhét vào bên trong tòa kim tự tháp bằng gỗ này chỉ tồn tại duy nhất màn đêm vĩnh cửu."
+    },
+    {
+      "para_id": "c0168p0006",
+      "index": 6,
+      "raw_zh": "雲千峰現在很憂傷，也很尷尬。",
+      "translated_vi": "Vân Thiên Phong lúc này vô cùng sầu não, mà cũng cực kỳ ngượng ngùng lúng túng."
+    },
+    {
+      "para_id": "c0168p0007",
+      "index": 7,
+      "raw_zh": "原因都是一件事，那就是發誓的時候被雷劈了。",
+      "translated_vi": "Nguyên do thảy đều bắt nguồn từ một chuyện: chính là lúc vừa mở miệng thề thốt thì bị sét đánh trúng."
+    },
+    {
+      "para_id": "c0168p0008",
+      "index": 8,
+      "raw_zh": "他自問發誓的時候應該是挺真心的，但很顯然羅琳娜是不會信的，因為雲千峰被雷劈了。",
+      "translated_vi": "Anh tự vấn lòng mình lúc thề quả thực khá là chân thành, nhưng rõ ràng Lorina đời nào chịu tin, bởi vì Vân Thiên Phong vừa thề xong là bị sét đánh trúng ngay tắp lự."
+    },
+    {
+      "para_id": "c0168p0009",
+      "index": 9,
+      "raw_zh": "雲千峰也確定羅琳娜是真的生氣了。",
+      "translated_vi": "Vân Thiên Phong cũng nhận thấy Lorina lần này giận thật rồi."
+    },
+    {
+      "para_id": "c0168p0010",
+      "index": 10,
+      "raw_zh": "雖然照顧被雷劈的自己無微不至，但拒絕親近的接觸，更是不正眼看雲千峰。",
+      "translated_vi": "Tuy rằng cô chăm sóc anh sau cú sét đánh vô cùng chu đáo ân cần không chê vào đâu được, nhưng lại kiên quyết cự tuyệt mọi tiếp xúc thân mật, thậm chí còn chẳng buồn liếc mắt nhìn thẳng vào anh."
+    },
+    {
+      "para_id": "c0168p0011",
+      "index": 11,
+      "raw_zh": "誰還不要點面子？",
+      "translated_vi": "Ai mà chẳng cần giữ chút thể diện chứ?"
+    },
+    {
+      "para_id": "c0168p0012",
+      "index": 12,
+      "raw_zh": "誰男友發誓的時候被雷劈，女生能不生氣？",
+      "translated_vi": "Bạn trai vừa mở miệng thề thốt đã bị sét đánh trúng, hỏi có cô gái nào mà không giận sôi máu cho được?"
+    },
+    {
+      "para_id": "c0168p0013",
+      "index": 13,
+      "raw_zh": "留後這個事便實實耽誤了。",
+      "translated_vi": "Thế là cái chuyện sinh con nối dõi xem như hoàn toàn bị lỡ dở."
+    },
+    {
+      "para_id": "c0168p0014",
+      "index": 14,
+      "raw_zh": "等到雲千峰能起身後，羅琳娜也不多說什麽，安靜的陪著雲千峰趕路。",
+      "translated_vi": "Đợi tới khi Vân Thiên Phong gượng dậy đi lại được, Lorina cũng chẳng nói năng gì nhiều, chỉ lẳng lặng đồng hành cùng anh tiếp tục lên đường."
+    },
+    {
+      "para_id": "c0168p0015",
+      "index": 15,
+      "raw_zh": "渡水之時，倆人還有些提心吊膽，擔心那些綠麟怪物沒有死絕。",
+      "translated_vi": "Lúc vượt qua mặt nước, cả hai người vẫn có đôi chút thảng thốt lo âu, thấp thỏm sợ đám quái vật vảy xanh kia vẫn chưa chết hết."
+    },
+    {
+      "para_id": "c0168p0016",
+      "index": 16,
+      "raw_zh": "所以靠著草筏子過水的時候，倆人一直盯著水下觀望，預防危險發生，能夠提前準備。",
+      "translated_vi": "Cho nên lúc nương theo chiếc bè cỏ vượt qua mặt hồ, hai người luôn căng mắt dán chặt nhìn xuống đáy nước để quan sát, phòng ngừa nguy hiểm ập tới bất ngờ còn kịp bề ứng phó."
+    },
+    {
+      "para_id": "c0168p0017",
+      "index": 17,
+      "raw_zh": "這湖水極為清澈，借著月光都能看進去很深，就好像空氣一般透徹。",
+      "translated_vi": "Làn nước hồ này trong vắt lạ thường, nương theo ánh trăng vằng vặc có thể nhìn thấu xuống tận đáy sâu, tinh khiết chẳng khác nào bầu không khí vậy."
+    },
+    {
+      "para_id": "c0168p0018",
+      "index": 18,
+      "raw_zh": "隱隱約約可以看到湖底似乎有一些建築的痕跡，都是巨石結構，形狀簡單，可惜看不到細節，只能看到大概的輪廓。",
+      "translated_vi": "Lờ mờ có thể trông thấy dưới đáy hồ dường như có dấu tích của một vài công trình kiến trúc, thảy đều là kết cấu đá tảng khổng lồ, hình dáng đơn sơ mộc mạc; đáng tiếc là không nhìn rõ được chi tiết mà chỉ thấy được đường nét bao quát đại khái."
+    },
+    {
+      "para_id": "c0168p0019",
+      "index": 19,
+      "raw_zh": "這樣直到對岸，那懸著心的才放下。",
+      "translated_vi": "Cứ như vậy cho tới khi sang đến bờ bên kia, trái tim đang treo lơ lửng của hai người mới được buông xuống."
+    },
+    {
+      "para_id": "c0168p0020",
+      "index": 20,
+      "raw_zh": "一直走了兩天時間，倆人才來到朱爾朱拉山頂。",
+      "translated_vi": "Đi ròng rã suốt hai ngày trời, hai người mới đặt chân lên đến đỉnh núi Djurdjura."
+    },
+    {
+      "para_id": "c0168p0021",
+      "index": 21,
+      "raw_zh": "雖然這兩天雲千峰和羅琳娜都是睡一個帳篷，但是羅琳娜隻把後背給雲千峰，雲千峰哄了幾次無果，便也只能順其自然。",
+      "translated_vi": "Tuy rằng hai ngày qua Vân Thiên Phong và Lorina đều ngủ chung một chiếc lều, nhưng Lorina chỉ quay lưng về phía Vân Thiên Phong. Anh dỗ dành mấy lần không có kết quả, đành phải để mặc mọi chuyện thuận theo tự nhiên."
+    },
+    {
+      "para_id": "c0168p0022",
+      "index": 22,
+      "raw_zh": "他現在頭大的事情太多，要思考的事情更多，腦子幾乎沒有一刻清閑，真的拿不出更多的時間來想辦法哄一個女人。",
+      "translated_vi": "Hiện tại những chuyện khiến anh đau đầu nhức óc quá nhiều, những việc cần phải suy tính lại càng nhiều hơn, đầu óc gần như chẳng lúc nào được thảnh thơi thanh thản, anh thực sự không thể bòn rút thêm chút thời gian nào để nghĩ cách dỗ dành một người phụ nữ."
+    },
+    {
+      "para_id": "c0168p0023",
+      "index": 23,
+      "raw_zh": "“愛怎怎地吧！”",
+      "translated_vi": "“Muốn ra sao thì ra vậy!”"
+    },
+    {
+      "para_id": "c0168p0024",
+      "index": 24,
+      "raw_zh": "雲千峰無可奈何，抓緊收斂心神，研究接下來要做的每一件事。",
+      "translated_vi": "Vân Thiên Phong bất đắc dĩ thở dài, vội vàng thu liễm tâm thần, tập trung nghiên cứu từng đường đi nước bước tiếp theo cần phải làm."
+    },
+    {
+      "para_id": "c0168p0025",
+      "index": 25,
+      "raw_zh": "倆人爬到山巔之後，身體漫過那圍在山巔的雲霧，探出頭來那一刻，就發現自己已經回到了木質金字塔的二樓。",
+      "translated_vi": "Sau khi hai người trèo lên đỉnh núi, thân thể vượt qua lớp mây mù bao phủ quanh đỉnh chóp, khoảnh khắc vừa thò đầu ra ngoài, họ liền phát hiện bản thân đã quay trở lại tầng hai của tòa kim tự tháp bằng gỗ."
+    },
+    {
+      "para_id": "c0168p0026",
+      "index": 26,
+      "raw_zh": "很顯然，這金字塔最頂端，屬於神的位置，是不允許雲千峰這樣的凡人登上去的。",
+      "translated_vi": "Rõ ràng là đỉnh chóp cao nhất của kim tự tháp này thuộc về vị trí của thần linh, tuyệt đối không cho phép người phàm trần như Vân Thiên Phong đặt chân bước lên."
+    },
+    {
+      "para_id": "c0168p0027",
+      "index": 27,
+      "raw_zh": "但是蚩尤的屍身卻可以放上去，這就證明，在黃帝眼中，蚩尤的身份是很高貴的，給予了應有的尊敬。",
+      "translated_vi": "Thế nhưng thi thể của Xi Vưu lại có thể đặt ở nơi đó, điều này chứng minh rằng trong mắt Hoàng Đế, thân phận của Xi Vưu vô cùng cao quý, được dành cho sự tôn trọng xứng tầm."
+    },
+    {
+      "para_id": "c0168p0028",
+      "index": 28,
+      "raw_zh": "從這一點可以看出來，黃帝當時對待蚩尤的種種，只是因為陣營的對立，而非私人仇怨。",
+      "translated_vi": "Từ điểm này có thể nhận ra, những đối đãi của Hoàng Đế đối với Xi Vưu năm xưa hoàn toàn bắt nguồn từ sự đối lập về mặt trận doanh, chứ không phải vì tư thù cá nhân."
+    },
+    {
+      "para_id": "c0168p0029",
+      "index": 29,
+      "raw_zh": "倆人走出木質金字塔，朝著來路而去，準備經由女閻羅母船，順岩畫水道回到地面之上。",
+      "translated_vi": "Hai người rảo bước ra khỏi kim tự tháp gỗ, men theo con đường cũ quay trở về, chuẩn bị xuyên qua chiến hạm mẹ Nữ Diêm La, thuận theo đường thủy bích họa nham thạch để trở lại mặt đất."
+    },
+    {
+      "para_id": "c0168p0030",
+      "index": 30,
+      "raw_zh": "與此同時，一群人出現在岩畫水道，女閻羅星母船艙門的外面。",
+      "translated_vi": "Cùng lúc đó, một nhóm người bỗng nhiên xuất hiện tại đường thủy bích họa nham thạch, ngay bên ngoài cánh cửa khoang của chiến hạm mẹ sao Nữ Diêm La."
+    },
+    {
+      "para_id": "c0168p0031",
+      "index": 31,
+      "raw_zh": "一群人，卻是兩派。",
+      "translated_vi": "Một nhóm người, nhưng lại chia thành hai phe phái rõ rệt."
+    },
+    {
+      "para_id": "c0168p0032",
+      "index": 32,
+      "raw_zh": "兩夥人分成兩堆，站在水裡對峙。",
+      "translated_vi": "Hai nhóm tách thành hai bên, đứng ngâm mình dưới nước đối đầu gay gắt."
+    },
+    {
+      "para_id": "c0168p0033",
+      "index": 33,
+      "raw_zh": "手裡的家夥全都瞄準這對方。",
+      "translated_vi": "Vũ khí trong tay bọn họ thảy đều chĩa thẳng vào đối phương."
+    },
+    {
+      "para_id": "c0168p0034",
+      "index": 34,
+      "raw_zh": "其中一夥人的領頭人，左手是一隻金屬的假手，長得也算漂亮，就是眼神始終蘊著怒火和恨意，好似誰都欠她點什麽似的，讓人極是不喜。",
+      "translated_vi": "Kẻ cầm đầu của một trong hai nhóm là một người phụ nữ có bàn tay trái giả bằng kim loại, dung mạo cũng tính là xinh đẹp, chỉ có điều ánh mắt luôn chất chứa ngọn lửa giận dữ cùng nỗi oán hận khôn nguôi, cứ như thể cả thế giới này đều nợ nần cô ta điều gì đó, khiến người ta cực kỳ phản cảm."
+    },
+    {
+      "para_id": "c0168p0035",
+      "index": 35,
+      "raw_zh": "這女人正是石匠會的一號。",
+      "translated_vi": "Người phụ nữ này chính là Số 1 của Hội Thợ Đá."
+    },
+    {
+      "para_id": "c0168p0036",
+      "index": 36,
+      "raw_zh": "一號對面是一個大肚翩翩的油膩男，頭頂已經半禿，全靠兩側頭髮支援，才能勉強挽尊。",
+      "translated_vi": "Đứng đối diện Số 1 là một gã đàn ông dầu mỡ bụng phệ ục ịch, đỉnh đầu đã hói mất một nửa, toàn phải nhờ đám tóc lơ thơ hai bên chải vắt sang để che chắn, miễn cưỡng vớt vát chút thể diện."
+    },
+    {
+      "para_id": "c0168p0037",
+      "index": 37,
+      "raw_zh": "這人正是當初在海裡被雲千峰打劫的胖子，是一個賒刀人。",
+      "translated_vi": "Người này chính là gã béo từng bị Vân Thiên Phong cướp bóc trên biển năm xưa, một người bán dao chịu."
+    },
+    {
+      "para_id": "c0168p0038",
+      "index": 38,
+      "raw_zh": "一號看著那胖子，嘴角帶著譏諷，道：",
+      "translated_vi": "Số 1 nhìn chằm chằm gã béo, khóe môi nhếch lên nụ cười giễu cợt, nói:"
+    },
+    {
+      "para_id": "c0168p0039",
+      "index": 39,
+      "raw_zh": "“難得，賒刀人竟然也敢走出華夏了。”",
+      "translated_vi": "“Hiếm thấy thật đấy, phường bán dao chịu các người thế mà cũng dám bước chân ra khỏi Hoa Hạ cơ à.”"
+    },
+    {
+      "para_id": "c0168p0040",
+      "index": 40,
+      "raw_zh": "那胖子長得就和氣，當下笑道：",
+      "translated_vi": "Gã béo kia tướng mạo vốn hòa nhã hiền lành, lập tức cười ha hả đáp:"
+    },
+    {
+      "para_id": "c0168p0041",
+      "index": 41,
+      "raw_zh": "“這是什麽話，這不是敢不敢的問題，是國外的人不會用華夏菜刀，我們的生意受到了你們這些老外智商的限制。”",
+      "translated_vi": "“Cô nói vậy là ý gì chứ, đây đâu phải chuyện dám hay không dám, mà là người nước ngoài các cô không biết dùng dao bếp Hoa Hạ, mối làm ăn của chúng tôi bị chỉ số thông minh của lũ ngoại quốc các người hạn chế đấy thôi.”"
+    },
+    {
+      "para_id": "c0168p0042",
+      "index": 42,
+      "raw_zh": "一號叱道：",
+      "translated_vi": "Số 1 quát khẽ:"
+    },
+    {
+      "para_id": "c0168p0043",
+      "index": 43,
+      "raw_zh": "“粗鄙！”",
+      "translated_vi": "“Thô bỉ!”"
+    },
+    {
+      "para_id": "c0168p0044",
+      "index": 44,
+      "raw_zh": "胖子回道：",
+      "translated_vi": "Gã béo đáp trả:"
+    },
+    {
+      "para_id": "c0168p0045",
+      "index": 45,
+      "raw_zh": "“大巧若拙。”",
+      "translated_vi": "“Đại xảo nhược chuyết, tài khéo như vụng về đấy!”"
+    },
+    {
+      "para_id": "c0168p0046",
+      "index": 46,
+      "raw_zh": "“我說的不是菜刀，是你！”",
+      "translated_vi": "“Tôi không nói con dao bếp, tôi đang nói anh đấy!”"
+    },
+    {
+      "para_id": "c0168p0047",
+      "index": 47,
+      "raw_zh": "“我誇得也不是菜刀，是我！”",
+      "translated_vi": "“Tôi cũng đâu có khen con dao bếp, tôi đang tự khen mình đấy chứ!”"
+    },
+    {
+      "para_id": "c0168p0048",
+      "index": 48,
+      "raw_zh": "一號知道自己嘴上討不到便宜，畢竟她認識這個胖子，那人是你罵他他能當成誇，於是選擇直奔主題，冷冷道：",
+      "translated_vi": "Số 1 thừa hiểu tài đấu khẩu của mình chẳng thể nào chiếm được thế thượng phong, dẫu sao cô ta cũng quen biết gã béo này, loại người mà bị cô ta chửi cũng coi như đang được khen ngợi, bèn quyết định đi thẳng vào vấn đề chính, lạnh lùng cất tiếng:"
+    },
+    {
+      "para_id": "c0168p0049",
+      "index": 49,
+      "raw_zh": "“伱們來這裡要做什麽？”",
+      "translated_vi": "“Các người tới đây rốt cuộc định làm gì?”"
+    },
+    {
+      "para_id": "c0168p0050",
+      "index": 50,
+      "raw_zh": "胖子笑道：",
+      "translated_vi": "Gã béo cười nói:"
+    },
+    {
+      "para_id": "c0168p0051",
+      "index": 51,
+      "raw_zh": "“和你們相反。”",
+      "translated_vi": "“Ngược lại với các cô.”"
+    },
+    {
+      "para_id": "c0168p0052",
+      "index": 52,
+      "raw_zh": "一號臉直接就氣青了，這挑釁得太直接。",
+      "translated_vi": "Gương mặt Số 1 tức thì xanh mét vì giận dữ, lời khiêu khích này quả thực quá mức trắng trợn."
+    },
+    {
+      "para_id": "c0168p0053",
+      "index": 53,
+      "raw_zh": "“這裡可不是華夏，我們在這裡可沒違反周契，九屠也沒話說，憑你們也能阻攔我們？”",
+      "translated_vi": "“Nơi này không phải Hoa Hạ, chúng tôi ở đây không hề vi phạm Chu Khế, Cửu Đồ cũng chẳng có tư cách nói nửa lời, chỉ bằng đám các người mà cũng đòi ngăn cản chúng tôi sao?”"
+    },
+    {
+      "para_id": "c0168p0054",
+      "index": 54,
+      "raw_zh": "胖子不慌不忙，點了根煙，嘬了一口，嘶哈一聲，道：",
+      "translated_vi": "Gã béo vẫn ung dung thong thả, châm một điếu thuốc lá, rít một hơi dài, phả khói ra một tiếng hà khoan khoái, cất giọng:"
+    },
+    {
+      "para_id": "c0168p0055",
+      "index": 55,
+      "raw_zh": "“這話說得，大不了咱們同歸於盡，便宜了雲千峰那小子唄。”",
+      "translated_vi": "“Nói thế làm gì cho mất công, cùng lắm thì chúng ta đồng quy vu tận, để món hời to lại cho thằng nhóc Vân Thiên Phong kia hưởng trọn chứ sao.”"
+    },
+    {
+      "para_id": "c0168p0056",
+      "index": 56,
+      "raw_zh": "一號怒道：",
+      "translated_vi": "Số 1 giận dữ quát:"
+    },
+    {
+      "para_id": "c0168p0057",
+      "index": 57,
+      "raw_zh": "“雲千峰不但獲得了全知之眼，蚩尤甲也得到了兩件，說不得現在已經是三件，我們必須現在阻止他，這關乎人類命運。我們需要一個被限制的蚩尤，而不是一個獨斷的蚩尤。”",
+      "translated_vi": "“Vân Thiên Phong không chỉ đoạt được Toàn Tri Chi Nhãn, mà giáp Xi Vưu cũng đã có được hai kiện, nói không chừng bây giờ đã là kiện thứ ba rồi! Chúng ta bắt buộc phải ngăn chặn hắn ngay lúc này, chuyện này liên quan mật thiết tới vận mệnh của toàn nhân loại. Chúng ta cần một Xi Vưu bị ước thúc hạn chế, chứ tuyệt đối không phải một Xi Vưu độc đoán lộng hành.”"
+    },
+    {
+      "para_id": "c0168p0058",
+      "index": 58,
+      "raw_zh": "胖子搖頭，歎道：",
+      "translated_vi": "Gã béo lắc đầu, thở dài một tiếng:"
+    },
+    {
+      "para_id": "c0168p0059",
+      "index": 59,
+      "raw_zh": "“當初蚩尤怎麽敗的？就是因為當初的蚩尤被限制，以大腦議會的形式，共聯八個人的大腦控制一個人，結果出現一個叛徒，便全軍覆沒，而如今你們還要走失敗過的老路，何必那麽愚蠢？”",
+      "translated_vi": "“Năm xưa Xi Vưu thất bại thế nào? Chính là bởi vì Xi Vưu thời đó bị kìm kẹp hạn chế, vận hành theo hình thức nghị hội đại não, liên kết tám bộ não để điều khiển một con người, kết quả xuất hiện một kẻ phản bội là lập tức toàn quân tan tác tan tành. Vậy mà ngày nay các người vẫn muốn giẫm vào vết xe đổ thất bại ấy, việc quái gì phải ngu xuẩn đến nhường đó?”"
+    },
+    {
+      "para_id": "c0168p0060",
+      "index": 60,
+      "raw_zh": "一號搖頭，道：",
+      "translated_vi": "Số 1 lắc đầu, đáp:"
+    },
+    {
+      "para_id": "c0168p0061",
+      "index": 61,
+      "raw_zh": "“但你有沒有想過，若是把所有權利給予一個有思維的蚩尤，結果會有多可怕？沒有人能永遠理智，也沒有人能永遠善良，若是如你們那樣打造一個沒有限制的蚩尤，那一人之下皆為奴隸。”",
+      "translated_vi": "“Thế nhưng anh đã từng nghĩ tới chưa, nếu như giao toàn bộ quyền lực tối thượng cho một Xi Vưu có tư duy độc lập hoàn chỉnh, hậu quả sẽ khủng khiếp đến mức nào? Chẳng một ai có thể giữ được sự lý trí mãi mãi, cũng không một ai có thể duy trì lòng lương thiện suốt đời suốt kiếp. Nếu cứ tạo ra một Xi Vưu không có bất kỳ sự ràng buộc nào như phe các anh mong muốn, thì muôn dân dưới gầm trời này thảy đều biến thành nô lệ!”"
+    },
+    {
+      "para_id": "c0168p0062",
+      "index": 62,
+      "raw_zh": "胖子搖頭，道：",
+      "translated_vi": "Gã béo lắc đầu, nói:"
+    },
+    {
+      "para_id": "c0168p0063",
+      "index": 63,
+      "raw_zh": "“人人都有弱點，限制不是挖空一個人的記憶就可以的。而且事實已經證明我們的選擇是對的。”",
+      "translated_vi": "“Con người ta ai cũng có điểm yếu, hạn chế đâu phải cứ đào rỗng ký ức của một người là giải quyết được. Hơn nữa thực tế đã chứng minh sự lựa chọn của chúng tôi là hoàn toàn đúng đắn.”"
+    },
+    {
+      "para_id": "c0168p0064",
+      "index": 64,
+      "raw_zh": "一號冷笑道：",
+      "translated_vi": "Số 1 cười khẩy:"
+    },
+    {
+      "para_id": "c0168p0065",
+      "index": 65,
+      "raw_zh": "“我沒看到有什麽事實證明你們是對的。”",
+      "translated_vi": "“Tôi chẳng thấy có thực tế nào chứng minh phe các anh là đúng đắn cả.”"
+    },
+    {
+      "para_id": "c0168p0066",
+      "index": 66,
+      "raw_zh": "胖子雙手抱拳向東，朗聲道：",
+      "translated_vi": "Gã béo chắp hai tay ôm quyền hướng về phương Đông, sang sảng cất giọng:"
+    },
+    {
+      "para_id": "c0168p0067",
+      "index": 67,
+      "raw_zh": "“當年始皇信我派之言，行書同文車同軌之策，焚書坑士，法出一家之言，現在看看我華夏文明，幾千年來何曾中斷？",
+      "translated_vi": "“Năm xưa Thủy Hoàng tin theo lời giáo phái của chúng tôi, thực thi chính sách sách cùng chữ xe cùng đường, đốt sách chôn sĩ nho, pháp luật xuất phát từ một mối. Giờ hãy nhìn xem nền văn minh Hoa Hạ của chúng tôi, mấy nghìn năm qua có từng bị gián đoạn hay chăng?"
+    },
+    {
+      "para_id": "c0168p0068",
+      "index": 68,
+      "raw_zh": "若是始皇聽信你們的舉賢為君，天賦人權做聯邦，哪有這幾千年文明，恐怕已經如OU洲那般，千年亂成一鍋粥，今人不識前人字。”",
+      "translated_vi": "Nếu Thủy Hoàng nghe theo lời xúi giục của các người, chọn người hiền tài làm vua, nhân quyền do trời ban để lập nên thể chế liên bang, thì làm sao có được mấy nghìn năm văn minh rực rỡ này? E rằng đã sớm giống như cái xứ châu Âu kia, ngàn năm hỗn loạn như nồi cháo cám, người đời sau chẳng nhận nổi mặt chữ của người đời trước!”"
+    },
+    {
+      "para_id": "c0168p0069",
+      "index": 69,
+      "raw_zh": "一號針鋒相對，譏笑道：",
+      "translated_vi": "Số 1 gay gắt ăn miếng trả miếng, mỉa mai cười nhạt:"
+    },
+    {
+      "para_id": "c0168p0070",
+      "index": 70,
+      "raw_zh": "“你錯了，事實證明我們才是對的，且看現在最富有最強大的，都是我們的思想結晶，結果才能證明一切！”",
+      "translated_vi": "“Anh lầm to rồi! Thực tế đã chứng minh chúng tôi mới là phe đúng đắn. Hãy nhìn xem những kẻ giàu có nhất, hùng mạnh nhất trên thế giới hiện nay, thảy đều là kết tinh tư tưởng của chúng tôi! Kết quả cuối cùng mới là thứ chứng minh tất cả!”"
+    },
+    {
+      "para_id": "c0168p0071",
+      "index": 71,
+      "raw_zh": "倆人誰也說不服誰，一如兩千多年前的鬼谷和墨翟。",
+      "translated_vi": "Hai bên chẳng ai thuyết phục nổi ai, y hệt như Quỷ Cốc Tử và Mặc Địch hơn hai nghìn năm trước."
+    },
+    {
+      "para_id": "c0168p0072",
+      "index": 72,
+      "raw_zh": "他們同處一山，一起修行，卻最終走向了相似，但卻又相反的兩條路。",
+      "translated_vi": "Họ cùng chung một ngọn núi, cùng nhau tu hành, nhưng cuối cùng lại rẽ sang hai ngã rẽ tương tự nhưng hoàn toàn trái ngược nhau."
+    },
+    {
+      "para_id": "c0168p0073",
+      "index": 73,
+      "raw_zh": "胖子很明顯不想同歸於盡，於是改為勸說，或者說是恐嚇。",
+      "translated_vi": "Gã béo hiển nhiên không hề muốn cá chết lưới rách đồng quy vu tận, bèn chuyển sang nước cờ khuyên giải, hay nói đúng hơn là dùng lời uy hiếp."
+    },
+    {
+      "para_id": "c0168p0074",
+      "index": 74,
+      "raw_zh": "“幾千年前咱們的師祖也算同宗，我家祖宗鬼谷和你們祖宗墨翟因為染指人間事，一起光榮的被九屠開除，這是患難之情啊！",
+      "translated_vi": "“Mấy nghìn năm trước sư tổ đôi bên cũng tính là cùng một gốc gác, tổ tông Quỷ Cốc nhà tôi cùng tổ tông Mặc Địch nhà các cô vì nhúng tay vào việc trần gian mà cùng vinh dự bị Cửu Đồ khai trừ, đây chính là mối thâm tình hoạn nạn có nhau đấy nhé!"
+    },
+    {
+      "para_id": "c0168p0075",
+      "index": 75,
+      "raw_zh": "所以我啊要勸你幾句，你自己要想清楚，全知之眼和蚩尤甲已經出來這麽多了，還都在一個人身上，你可見到九屠阻止？他們應該比我們更加無法接受蚩尤出現，但為什麽他們沒動？我們家領導想通這件事了，你們家的呢？要不要打個電話問問？”",
+      "translated_vi": "Cho nên tôi đây mới khuyên cô vài câu thật lòng, tự bản thân cô phải suy nghĩ cho kỹ càng vào. Toàn Tri Chi Nhãn cùng giáp Xi Vưu đã xuất thế nhiều đến nhường này, lại còn cùng tụ hội trên người một cá nhân, cô có thấy người của Cửu Đồ ra tay ngăn cản hay không? Đáng lý ra họ mới là những kẻ không thể chấp nhận sự xuất hiện của Xi Vưu hơn cả chúng ta, nhưng tại sao họ lại chẳng hề có động tĩnh gì? Lãnh đạo cấp cao bên phe chúng tôi đã thông suốt đạo lý này rồi, còn cấp trên của các cô thì sao? Có cần gọi một cuộc điện thoại để thỉnh thị hay không?”"
+    },
+    {
+      "para_id": "c0168p0076",
+      "index": 76,
+      "raw_zh": "一號沉默，到了她這個位置，就不能不知道九屠。",
+      "translated_vi": "Số 1 im lặng. Đã leo lên tới vị trí của cô ta thì không thể nào không biết đến Cửu Đồ."
+    },
+    {
+      "para_id": "c0168p0077",
+      "index": 77,
+      "raw_zh": "她也清楚胖子是用九屠的異常表現恐嚇自己，但卻不得不仔細思考這件事，因為沒人想和神秘的九屠為敵，因為這世界上沒人知道誰是九屠，但卻很清楚九屠的真實存在。",
+      "translated_vi": "Cô ta cũng hiểu rõ gã béo đang mượn biểu hiện khác thường của Cửu Đồ để uy hiếp tinh thần mình, song cô ta buộc phải cẩn trọng suy nghĩ về chuyện này. Bởi vì trên đời này chẳng ai muốn đối đầu với Cửu Đồ thần bí cả, thế gian này không một ai biết Cửu Đồ là những ai, nhưng lại nắm rất rõ sự tồn tại chân thực đến đáng sợ của Cửu Đồ."
+    },
+    {
+      "para_id": "c0168p0078",
+      "index": 78,
+      "raw_zh": "因為石匠會每一次華夏的神跡尋找任務，全都是人到了神跡門口就失聯，隨後人間蒸發。",
+      "translated_vi": "Bởi lẽ mỗi một lần Hội Thợ Đá cử người tới Hoa Hạ thực hiện nhiệm vụ tìm kiếm thần tích, tất thảy thám tử vừa mò tới cửa thần tích là lập tức mất liên lạc hoàn toàn, sau đó bốc hơi khỏi thế gian không một dấu vết."
+    },
+    {
+      "para_id": "c0168p0079",
+      "index": 79,
+      "raw_zh": "那是周契的范圍，九屠決不允許那樣的事情發生。",
+      "translated_vi": "Nơi đó thuộc phạm vi bảo hộ của Chu Khế, Cửu Đồ tuyệt đối không cho phép loại chuyện đó xảy ra."
+    },
+    {
+      "para_id": "c0168p0080",
+      "index": 80,
+      "raw_zh": "所以石匠會的人到了華夏，只會選擇在神跡外堵雲千峰，卻不敢跟進去。",
+      "translated_vi": "Thế nên người của Hội Thợ Đá một khi đặt chân tới đất Hoa Hạ chỉ dám chọn cách chặn đầu phục kích Vân Thiên Phong ở bên ngoài thần tích, chứ tuyệt nhiên không dám bám đuôi theo vào trong."
+    },
+    {
+      "para_id": "c0168p0081",
+      "index": 81,
+      "raw_zh": "一號示意手下人盯著對方，自己走到一處背人角落，掏出了特製的手機，撥通了電話。",
+      "translated_vi": "Số 1 ra hiệu cho đám thủ hạ dán mắt canh chừng đối phương, còn bản thân cô ta lùi tới một góc khuất vắng vẻ, rút chiếc điện thoại chuyên dụng được chế tạo đặc biệt ra, bấm số gọi đi."
+    },
+    {
+      "para_id": "c0168p0082",
+      "index": 82,
+      "raw_zh": "%%%%%%%%%%%%",
+      "translated_vi": "%%%%%%%%%%%%"
+    },
+    {
+      "para_id": "c0168p0083",
+      "index": 83,
+      "raw_zh": "雲千峰和羅琳娜一路回到母船內。",
+      "translated_vi": "Vân Thiên Phong và Lorina cùng nhau quay trở lại bên trong chiến hạm mẹ."
+    },
+    {
+      "para_id": "c0168p0084",
+      "index": 84,
+      "raw_zh": "“羅琳娜，你真要找個機會，想辦法把這裡買下來，把撞壞的那裂縫修好，咱們就有安全的避難所了。”",
+      "translated_vi": "“Lorina, cô thực sự nên tìm cơ hội nào đó, nghĩ cách mua lại khu vực này, sửa sang lại cái vết nứt bị va chạm hư hỏng kia, như vậy chúng ta sẽ có một nơi trú ẩn vô cùng an toàn.”"
+    },
+    {
+      "para_id": "c0168p0085",
+      "index": 85,
+      "raw_zh": "羅琳娜不出聲，不搭茬，無視雲千峰的話。",
+      "translated_vi": "Lorina không thèm lên tiếng, chẳng buồn bắt lời, xem những lời của Vân Thiên Phong như gió thoảng bên tai."
+    },
+    {
+      "para_id": "c0168p0086",
+      "index": 86,
+      "raw_zh": "心裡想著的還是雲千峰發誓被雷劈那件事，很不爽。",
+      "translated_vi": "Trong lòng cô vẫn canh cánh nhớ tới chuyện Vân Thiên Phong vừa thề thốt đã bị sét đánh trúng, cực kỳ khó chịu bực bội."
+    },
+    {
+      "para_id": "c0168p0087",
+      "index": 87,
+      "raw_zh": "雲千峰這兩天已經習慣了羅琳娜的漠視，當下也不生氣，示意羅琳娜待在原地，低聲道：",
+      "translated_vi": "Hai ngày nay Vân Thiên Phong đã quá quen với thái độ thờ ơ lạnh nhạt của Lorina, lúc này cũng không hề giận dỗi, khẽ ra hiệu bảo Lorina đứng yên tại chỗ, hạ thấp giọng nói:"
+    },
+    {
+      "para_id": "c0168p0088",
+      "index": 88,
+      "raw_zh": "“按照我的預測，石匠會那幫混蛋應該在門口等著我了，我去瞧一眼，要是真在，你就躲在掩體後面，我開黑把他們全宰了。”",
+      "translated_vi": "“Theo phán đoán của tôi, đám khốn nạn bên Hội Thợ Đá rất có thể đang chực chờ phục kích tôi ở ngoài cửa. Tôi ra ngó thử một cái, nếu bọn chúng thực sự ở đó, cô cứ nấp kỹ sau vật chắn, tôi sẽ đánh úp thịt sạch toàn bộ bọn chúng.”"
+    },
+    {
+      "para_id": "c0168p0089",
+      "index": 89,
+      "raw_zh": "說著，高抬腳，輕落步，京劇時遷似的躲在門後，低聲下達指令：",
+      "translated_vi": "Nói đoạn, anh nhón chân nhẹ nhàng nhấc bước, lén lút như Thời Thiên trong vở tuồng Kinh kịch nép sau cánh cửa, hạ lệnh bằng giọng trầm thấp:"
+    },
+    {
+      "para_id": "c0168p0090",
+      "index": 90,
+      "raw_zh": "“開艙門！”",
+      "translated_vi": "“Mở cửa khoang!”"
+    },
+    {
+      "para_id": "c0168p0091",
+      "index": 91,
+      "raw_zh": "艙門徐徐打開。",
+      "translated_vi": "Cửa khoang chiến hạm từ từ mở ra."
+    },
+    {
+      "para_id": "c0168p0092",
+      "index": 92,
+      "raw_zh": "然而，沒有任何人走進來。",
+      "translated_vi": "Thế nhưng, tuyệt nhiên không có bóng dáng bất kỳ ai bước vào."
+    },
+    {
+      "para_id": "c0168p0093",
+      "index": 93,
+      "raw_zh": "雲千峰有些詫異，先用唐刀往門外砍了一刀，自己才出現在門口。",
+      "translated_vi": "Vân Thiên Phong có chút kinh ngạc, trước tiên vung đao Đường chém bạt một nhát ra ngoài cửa, sau đó mới cẩn trọng lộ diện ở lối ra vào."
+    },
+    {
+      "para_id": "c0168p0094",
+      "index": 94,
+      "raw_zh": "結果門外空無一人。",
+      "translated_vi": "Kết quả bên ngoài trống không, chẳng có lấy một bóng người."
+    },
+    {
+      "para_id": "c0168p0095",
+      "index": 95,
+      "raw_zh": "羅琳娜看他那樣，憋不住笑，還得忍著，必須表情冷酷，一笑就破功了，當下冷冷道：",
+      "translated_vi": "Lorina nhìn bộ dạng thận trọng quá mức ấy của anh, suýt chút nữa bật cười thành tiếng, song vẫn phải cố nhịn, khuôn mặt buộc phải giữ vẻ lạnh lùng băng giá, hễ cười một cái là phá vỡ phong thái ngay, bèn lạnh giọng châm chọc:"
+    },
+    {
+      "para_id": "c0168p0096",
+      "index": 96,
+      "raw_zh": "“被迫害妄想症！”",
+      "translated_vi": "“Chứng hoang tưởng bị hại!”"
+    },
+    {
+      "para_id": "c0168p0097",
+      "index": 97,
+      "raw_zh": "雲千峰一臉不解，道：",
+      "translated_vi": "Vân Thiên Phong vẻ mặt đầy khó hiểu, lẩm bẩm:"
+    },
+    {
+      "para_id": "c0168p0098",
+      "index": 98,
+      "raw_zh": "“不應該啊，難道他們疏忽了？”",
+      "translated_vi": "“Không đúng lý chút nào, chẳng lẽ bọn chúng lại sơ suất đến thế sao?”"
+    },
+    {
+      "para_id": "c0168p0099",
+      "index": 99,
+      "raw_zh": "遙遠處，一號和胖子坐在一輛房車內，看著前面的顯示器。",
+      "translated_vi": "Ở đằng xa xa, Số 1 và gã béo đang ngồi bên trong một chiếc xe dã ngoại dọn nhà, chăm chú nhìn vào màn hình hiển thị trước mặt."
+    },
+    {
+      "para_id": "c0168p0100",
+      "index": 100,
+      "raw_zh": "胖子撇嘴，道：",
+      "translated_vi": "Gã béo bĩu môi, nói:"
+    },
+    {
+      "para_id": "c0168p0101",
+      "index": 101,
+      "raw_zh": "“這貨真陰險，也不管外面有沒有人，直接用刀砍，我和你說一號，得回我，要不你們全都得掛了，看出來了吧，那母船是雲千峰的主場！”",
+      "translated_vi": "“Cái thằng nhãi này quả thực hiểm độc thật đấy, chẳng thèm quan tâm bên ngoài có người hay không, vừa mở cửa là vung đao chém loạn xạ ngay. Tôi nói cho cô hay nhé Số 1, cũng may là nhờ có tôi can ngăn đấy, bằng không đám các người đều ngủm củ tỏi hết cả lượt rồi. Thấy rõ rồi chứ, chiến hạm mẹ kia chính là sân nhà của Vân Thiên Phong!”"
+    },
+    {
+      "para_id": "c0168p0102",
+      "index": 102,
+      "raw_zh": "一號也是後背一身冷汗，心有余悸。",
+      "translated_vi": "Số 1 lưng áo cũng ướt đẫm mồ hôi lạnh, trong lòng không khỏi có phần kinh hãi."
+    },
+    {
+      "para_id": "c0168p0103",
+      "index": 103,
+      "raw_zh": "雲千峰有一種如芒在背的感覺，當下用礦燈左右看了一圈，在岩畫上看到了一個小小的監視器，直接用手捏碎，沉聲自語，道：",
+      "translated_vi": "Vân Thiên Phong bỗng có cảm giác như gai nhọn đâm sau lưng, lập tức giơ đèn mỏ rọi một vòng xung quanh, phát hiện một thiết bị giám sát tí hon gắn trên bức bích họa nham thạch, bèn vươn tay bóp nát vụn, giọng trầm thấp tự nhủ:"
+    },
+    {
+      "para_id": "c0168p0104",
+      "index": 104,
+      "raw_zh": "“來過了，但走了！”",
+      "translated_vi": "“Từng đến đây rồi, nhưng đã rút lui!”"
+    },
+    {
+      "para_id": "c0168p0105",
+      "index": 105,
+      "raw_zh": "羅琳娜也被嚇了一跳，才確定雲千峰的小心是正確的，絕對不是神經質，但絕不道歉，先繃著臉，等他哄，被哄的感覺很好。",
+      "translated_vi": "Lorina cũng giật bắn mình, lúc này mới tin chắc rằng sự cẩn trọng của Vân Thiên Phong là hoàn toàn chính xác, tuyệt đối không phải bệnh thần kinh. Song cô quyết không mở miệng xin lỗi, vẫn giữ vẻ mặt lạnh tanh chờ anh dỗ dành, cảm giác được người ta dỗ dành quả thực rất dễ chịu."
+    },
+    {
+      "para_id": "c0168p0106",
+      "index": 106,
+      "raw_zh": "歷盡千辛萬苦，倆人順著之前留下的繩索爬到了幽谷之上。",
+      "translated_vi": "Trải qua muôn vàn gian khổ khó khăn, hai người men theo sợi dây thừng để lại từ trước trèo lên đỉnh vực sâu thẳm."
+    },
+    {
+      "para_id": "c0168p0107",
+      "index": 107,
+      "raw_zh": "房車依舊停在這裡，倆人上車向著酒店開去。",
+      "translated_vi": "Chiếc xe dã ngoại vẫn đỗ nguyên tại nơi này, cả hai lên xe rồi nổ máy chạy thẳng về phía khách sạn."
+    },
+    {
+      "para_id": "c0168p0108",
+      "index": 108,
+      "raw_zh": "路上，雲千峰囑咐道：",
+      "translated_vi": "Trên đường đi, Vân Thiên Phong dặn dò:"
+    },
+    {
+      "para_id": "c0168p0109",
+      "index": 109,
+      "raw_zh": "“到了酒店，你抓緊回去，我要去華夏一趟。”",
+      "translated_vi": "“Đến khách sạn rồi thì cô mau chóng thu xếp trở về đi, tôi phải đi Hoa Hạ một chuyến.”"
+    },
+    {
+      "para_id": "c0168p0110",
+      "index": 110,
+      "raw_zh": "羅琳娜繃不住了，這要分開了，當下後悔沒造娃，急忙問道：",
+      "translated_vi": "Lorina lập tức không giữ nổi vẻ mặt lạnh lùng nữa, nghe thấy sắp sửa chia tay, trong lòng cô không khỏi hối hận vì chưa kịp sinh con cho anh, vội vàng hỏi dồn:"
+    },
+    {
+      "para_id": "c0168p0111",
+      "index": 111,
+      "raw_zh": "“去華夏幹什麽？”",
+      "translated_vi": "“Đi Hoa Hạ làm gì cơ chứ?”"
+    },
+    {
+      "para_id": "c0168p0112",
+      "index": 112,
+      "raw_zh": "雲千峰道：",
+      "translated_vi": "Vân Thiên Phong đáp:"
+    },
+    {
+      "para_id": "c0168p0113",
+      "index": 113,
+      "raw_zh": "“查黃帝到帝嚳年間發生了什麽很難，但是查南北朝時雲守身的事，去華夏卻很容易能夠查清楚，只需要去雲氏直系的宗祠就可以，我要查查雲守身以及那個年代都發生了什麽.”",
+      "translated_vi": "“Điều tra những chuyện xảy ra từ thời Hoàng Đế cho tới thời Đế Cốc thì quá khó khăn, nhưng tìm hiểu về chuyện của Vân Thủ Thân vào thời Nam Bắc Triều thì về Hoa Hạ lại rất dễ dàng tra cứu rõ ràng, chỉ cần tới từ đường dòng chính của họ Vân là được. Tôi phải điều tra xem Vân Thủ Thân cũng như thời đại đó rốt cuộc đã xảy ra những biến cố gì...”"
+    },
+    {
+      "para_id": "c0168p0114",
+      "index": 114,
+      "raw_zh": "感謝3D胸神、尾數35573、無我無物無時、尾數07096、各種身份、蟲兒飄、不言他、普萊斯、廟裡供著神、誰會拒絕小猶太呢、尾數23455、對此不能靠近、尾數36439、就看正版書、尾數11405——的月票獎勵！！！",
+      "translated_vi": "Chân thành cảm ơn các bạn 3D Hung Thần, đuôi số 35573, Vô Ngã Vô Vật Vô Thời, đuôi số 07096, Đủ Mọi Thân Phận, Trùng Nhi Phiêu, Không Bàn Chuyện Khác, Price, Trong Miếu Thờ Thần, Ai Có Thể Từ Chối Bé Do Thái Chứ, đuôi số 23455, Chuyện Này Không Thể Tiến Gần, đuôi số 36439, Cứ Đọc Sách Bản Quyền, đuôi số 11405 đã tặng thưởng phiếu tháng!!!"
+    },
+    {
+      "para_id": "c0168p0115",
+      "index": 115,
+      "raw_zh": "謝謝你們在這裡！",
+      "translated_vi": "Cảm ơn các bạn vì đã luôn hiện diện ở nơi đây!"
+    },
+    {
+      "para_id": "c0168p0116",
+      "index": 116,
+      "raw_zh": "還有，今天月票怎這麽多？哈哈哈哈哈哈哈哈哈哈哈.",
+      "translated_vi": "Còn nữa, hôm nay sao phiếu tháng lại nhiều thế này cơ chứ? Ha ha ha ha ha ha ha ha ha ha ha."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0293|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §44):
+§1 293.第293章 其名為薑柔甲！
+§2 第293章 其名為薑柔甲！
+§3 一個不到零點五平方千米的小地方。
+§4 [Ø=云千峰]華夏九屠之首，號為天璣的邋遢老道出現在這裡，看起來似乎頗為奇怪。
+§5 [Ø=云千峰]但是仔細一分析，又會發現很合理。
+§6 [Ø=云千峰]道，信奉天地之間的規則，大到宏觀星宿的運行， [||] 小到滴水觀海，認為萬事萬物都在“反者道之動”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]的規則下變化，就很量子。
+§7 [Ø=云千峰]總結來說，真正的“道”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]是拒絕偶像崇拜的，或者可以稱之為另類的無神論者。
+§8 [Ø=云千峰]釋，真正的釋家，其實就是四個字“緣起性空”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]， [||] 此空不是凡俗所言的空空如也，而是空而有物，就非常超弦。
+§9 釋迦牟尼曾說過很重要的兩句話。
+§10 [Ø=云千峰]一句是在他出生那一刻，其左手指天， [||] 右手指地，大聲說：“天上天下，唯我獨尊。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=云千峰]一句是在他菩提樹下頓悟後，平靜的一句：“人人皆佛。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§12 [Ø=云千峰]這兩句話總結來說，真正的釋家眼裡，人人都是平等的且可以非常了不起的，人人皆人與人人皆佛沒有什麽不同。
+§13 [Ø=云千峰]有神論和無神論在釋家這裡，一下就不存在了意義。
+§14 [Ø=云千峰]這兩種思想，注定不是帝能完美駕馭和控制的。
+§15 [Ø=云千峰]儒家更不用說了，被朱扒灰改的孔子看了都得對他施展全武行，估計九屠看到他們也腦袋疼。
+§16 [Ø=云千峰]石匠會，那是墨家的傳承， [||] 而墨家是巫人文化科技和思想的傳承，理論上和帝是敵對，這也注定了石匠會不會聽從九屠的號召。
+§17 所以看似最不可能的THE ONE才是九屠控制的基本盤。
+§18 或許這也是為什麽THE ONE影響力那麽大的原因。
+§19 [Ø=云千峰]畢竟帝算計的是天下，甚至比天下更大。
+§20 [Ø=云千峰]很有古典美，且很莊重的書房內， [||] 兩個人在交談，從表情來看，彼此都是很尷尬的。
+§21 不能不尷尬。
+§22 [Ø=云千峰]人家信帝嚳那是為了上天堂，你現在找人下地獄去辦事，還是出不來那種，不尷尬就見鬼了。
+§23 [Ø=云千峰]對付雲千峰，那必然是需要高手的，且需要策略。
+§24 [Ø=云千峰]THE ONE培養那些能力卓越的大天使也是極不容易的，自然舍不得。
+§25 [Ø=云千峰]所以倆人會談兩個小時，前面十分鍾把事情說清楚， [||] 後面一個小時五十分鍾，就是倆人腳趾頭扣鞋底，沉默不語。
+§26 [Ø=云千峰]人的忠誠度能有多大，那是和有多大的好處成正比的。
+§27 [Ø=云千峰]這事，THE ONE的第一人，沒看到任何好處。
+§28 沒有好處如何馭人？
+§29 [Ø=云千峰]兩個小時零一分那一刻，古典的鍾敲響之時，書房內沉思的倆人一起抬頭看向對方，齊聲說出了其實一個小時五十一分之前就想好的兩個字：
+§30 “騙吧！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 “騙吧！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§32 [Ø=云千峰]都要臉，都想等對方先說。
+§33 [Ø=云千峰]最後沒轍，終於一起說出了唯一的方法。
+§34 [Ø=云千峰]倆人一起松了口氣，都不要臉，那就都有臉。
+§35 邋遢老道問道：
+§36 “主教可有策略？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 [Ø=云千峰]“暫時沒有，九屠可有成方？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 “我有一計可行。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 “說來聽聽！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 [Ø=云千峰]“有一人與雲千峰頗熟，倆人是患難之交，但彼此了解不深，其名為薑柔甲”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 @@@@@@@@@
+§42 [Ø=云千峰]某著名遊樂場，風景極美，但是禁止遊客靠近的地方。
+§43 [Ø=云千峰]這裡有一棟中世紀的古典建築，哥特式。
+§44 此地正是石匠會的總部。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 44 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§44. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

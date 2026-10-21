@@ -1,0 +1,75 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0244|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Vân Thiên Phong chuẩn bị lồm cồm bò dậy tiếp tục lên đường, dẫu sao cũng không thể nằm dưới khe núi này mà chờ chết, bản thân lại chẳng có cánh để bay ra ngoài, chỉ đành tự tìm lối thoát.
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §36):
+§1 [Ø=云千峰]結果剛爬起來一半，腰部的酸脹就讓他直接改變了想法。
+§2 [Ø=云千峰]“去特麽的，太累了，睡一覺再說！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§3 [Ø=云千峰]想著，往溫暖的地上一躺，三秒不到，鼾聲大作。
+§4 [Ø=云千峰]再醒來時，已經是五個小時以後。
+§5 [Ø=云千峰]此時腰不酸了，變成刺痛，好在總算是有了力氣。
+§6 [Ø=云千峰]刀和巴的組合，真的是太象形取義了。
+§7 這比切了都狠。
+§8 [Ø=云千峰]可能是因為鬼纏終於走了，琳達此時已經醒了，惴惴不安的坐在雲千峰身邊， [||] 緊緊挨著，那忐忑的樣，讓人生憐。
+§9 [Ø=云千峰]“叔叔，你醒了？真的是太好了，我以為你受傷了， [||] 給你全身檢查了一遍，想叫醒你，還叫不醒，我好怕！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§10 雲千峰笑道：
+§11 “怕什麽？我這不是還活著？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§12 [Ø=云千峰]說著話，爬起來，這才看到自己腦袋旁邊擺著三樣東西。
+§13 [Ø=云千峰]一個古色古香的，雕琢精致的金色打火機，上面嵌著藍色的寶石， [||] 猶若大海，背面雕刻著一個身帶翅膀，看不出男女的浮雕。
+§14 [Ø=云千峰]打火機下面，是一小盒雪茄， [||] 裡面少了幾根，雲千峰身邊還有一截吸掉一半的雪茄，就是煙盒內的款式。
+§15 [Ø=云千峰]在煙盒旁，是一個黑色的手環，拇指寬， [||] 三毫米厚度，上面雕刻著水紋，還有兩個符號，摸不出來是金屬的還是石頭的。
+§16 [Ø=云千峰]這個手環雲千峰見過，一直在薩弱的左手腕上帶著， [||] 是一對兒，他們倆交手幾次，雲千峰對這個東西有印象。
+§17 [Ø=云千峰]“這打火機，雪茄和手環是薩弱給我留下的？這算什麽？給錢的？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§18 [Ø=云千峰]想到這，雲千峰後背一陣發麻，突然覺得自己墮落了，不過挺開心。
+§19 “這是薩弱的善意啊！看來我以後少了一個死敵啦！哦吼！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§20 [Ø=云千峰]雲千峰高興的把地上那半截雪茄撿起來，重新點燃，使勁吸了一口。
+§21 [Ø=云千峰]煙嘴上，有他熟悉的味道，那幾個小時裡，無數次品嘗過的味道。
+§22 [Ø=云千峰]“看來薩弱也喜歡沒事的時候吸口煙，只是為什麽突然給我這些？就是不給這些，她只要不追殺我，我也不敢不原諒她啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 [Ø=云千峰]他哪知道，守望者每次找人類， [||] 都是給錢給物的，至於是聘禮還是什麽資，這個不太好解釋。
+§24 [Ø=云千峰]心情大好的雲千峰重新趴下，吸著雪茄對琳達道：
+§25 [Ø=云千峰]“給叔叔揉揉腰，著涼了”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§26 [Ø=云千峰]琳達對這位可是有求必應，畢竟要靠著人家活著走出去， [||] 而且琳達很想拿下叔叔，畢竟不吃人的狼人可遇不可求啊，不試試那對不起自己的性格。
+§27 [Ø=云千峰]一邊按，還一邊問問力道合適不合適，弄得挺專業。
+§28 [Ø=云千峰]雲千峰有一搭沒一搭的回著話，手裡拿著那個黑色的手環研究著。
+§29 [Ø=云千峰]“這上面的圖案應該是個象形字符，我瞧瞧，似人以雙手梳理頭髮，這應該是象形字的“艸”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]字， [||] 古艸通若、弱，周圍裝飾以水紋，那麽說，這是若水手環咯？好名字啊！”
+§30 [Ø=云千峰]“上善若水，水無形而化萬形，幾與道，不知道這手環價值幾何，薩弱這種幾萬歲的老妖精出手， [||] 肯定是好東西的，而且她幾乎從降臨開始，就帶著這個手環，必定有著特殊的意義，甚至是特殊的功能。
+§31 [Ø=云千峰]這是對環兒，給了我一個，薩弱留了一個？這.這不會是定情信物吧？”
+§32 [Ø=云千峰]雲千峰研究了半天，但並沒有發現手環有什麽特殊的功能，於是相對於此，他還是更喜歡那打火機。
+§33 [Ø=云千峰]把手環套在左手腕上，閉目享受了一會琳達的按摩後，倆人才繼續出發。
+§34 [Ø=云千峰]路上，琳達一個勁的讓雲千峰給她講狼人的生活， [||] 以及狼人和人能不能一起生小孩的問題，把雲千峰都問懵了，完全不知道琳達是把他當成狼人處理了。
+§35 [Ø=云千峰]這樣走了幾個小時，又吃了兩頓飯的時間後，倆人雖然還沒有走出崖隙，但雲千峰卻喜上心頭。
+§36 [Ø=云千峰]因為他腹內的全知之眼，動了！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 36 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§36. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

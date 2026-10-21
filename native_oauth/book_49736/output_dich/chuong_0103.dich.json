@@ -1,0 +1,505 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 103,
+  "title": "Chương 103: Lựa chọn",
+  "total_paragraphs": 82,
+  "translated_paragraphs": 82,
+  "source_hash": "9cd7471bd7f01eda561ece91b14512c60ca5f3629c98e5005fd8aba82a656c1b",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0103p0001",
+      "index": 1,
+      "raw_zh": "第103章 抉擇",
+      "translated_vi": "Chương 103: Lựa chọn"
+    },
+    {
+      "para_id": "c0103p0002",
+      "index": 2,
+      "raw_zh": "雲千峰低頭看了看自己已經不兜襠的內褲，歎氣道：",
+      "translated_vi": "Vân Thiên Phong cúi đầu nhìn chiếc quần lót đã rách toạc chẳng còn che nổi hạ bộ của mình, thở dài:"
+    },
+    {
+      "para_id": "c0103p0003",
+      "index": 3,
+      "raw_zh": "“我的部分內褲，裡麵包著的是孫倩的三根頭髮和三片指甲。”",
+      "translated_vi": "“Một phần mảnh vải quần lót của tôi, bên trong bọc ba sợi tóc và ba mẩu móng tay của Tôn Thiến.”"
+    },
+    {
+      "para_id": "c0103p0004",
+      "index": 4,
+      "raw_zh": "說著，他拿著紅布包來到植被與沙灘的邊緣，在土質的位置挖了一個坑，把紅布包埋進去，壓好土。",
+      "translated_vi": "Nói đoạn, anh cầm chiếc gói vải đỏ đi tới mép ranh giới giữa thảm thực vật và bờ cát, đào một cái hố nhỏ ngay chỗ có đất rồi chôn chiếc gói đỏ xuống, nén đất thật chặt."
+    },
+    {
+      "para_id": "c0103p0005",
+      "index": 5,
+      "raw_zh": "然後對著三個好奇的女人解釋道：",
+      "translated_vi": "Đoạn anh quay sang giải thích cho ba người phụ nữ đang tò mò trố mắt nhìn:"
+    },
+    {
+      "para_id": "c0103p0006",
+      "index": 6,
+      "raw_zh": "“這是魯班書裡記載的祝由術，如果這海島上有陰靈，用這種方法可以借命，代價是以後身上要背著借命的陰靈。”",
+      "translated_vi": "“Đây là Chúc Do thuật được ghi chép trong Lỗ Ban Thư. Nếu như trên hòn đảo này có âm linh, dùng phương pháp này có thể mượn mệnh, nhưng cái giá phải trả là sau này trên thân thể người đó sẽ phải cõng theo âm linh đã cho mượn mệnh.”"
+    },
+    {
+      "para_id": "c0103p0007",
+      "index": 7,
+      "raw_zh": "看著三雙震驚的眼神，雲千峰知道她們信了，急忙幫她們校正正確的世界觀，道：",
+      "translated_vi": "Nhìn ba đôi mắt tròn xoe đầy vẻ kinh ngạc, Vân Thiên Phong biết họ đã tin sái cổ, bèn vội vã uốn nắn lại nhân sinh quan đúng đắn cho họ:"
+    },
+    {
+      "para_id": "c0103p0008",
+      "index": 8,
+      "raw_zh": "“都是傳說，鬼知道管不管用，我這是沒辦法了，死馬權當活馬醫，就把自己知道的招全都用上，萬一有用呢是吧？”",
+      "translated_vi": "“Toàn là truyền thuyết cả thôi, ma mới biết có công hiệu hay không. Tôi cũng là hết cách rồi, ngựa chết xem như ngựa sống mà chữa, có ngón nghề nào biết được đều đem ra dùng ráo trọi, ngộ nhỡ lại có tác dụng thì sao, đúng không?”"
+    },
+    {
+      "para_id": "c0103p0009",
+      "index": 9,
+      "raw_zh": "三個女生的眼神立馬暗了一下。",
+      "translated_vi": "Ánh mắt ba cô gái lập tức chùng xuống đôi chút."
+    },
+    {
+      "para_id": "c0103p0010",
+      "index": 10,
+      "raw_zh": "人就是這麽奇怪，你說玄學的時候，他們就很容易感覺自己看到了希望，這種信念來的很奇妙，難究其源頭在人類出現後的哪一天。",
+      "translated_vi": "Con người ta vốn kỳ lạ như thế đấy, hễ bạn nhắc tới huyền học thì họ lại rất dễ cảm thấy như nhìn thấy hy vọng; niềm tin ấy nảy sinh vô cùng kỳ diệu, khó lòng truy cứu được ngọn nguồn bắt đầu từ ngày nào sau khi loài người xuất hiện trên cõi đời này."
+    },
+    {
+      "para_id": "c0103p0011",
+      "index": 11,
+      "raw_zh": "“你們三個馬上去海邊尋找食物，那些海螺扇貝什麽的，找到了就用樹枝把肉挑出來吃，先補充一下體能，我去裡面林子裡找找草藥，順便查看一下周邊環境。”",
+      "translated_vi": "“Ba cô mau ra bờ biển tìm kiếm đồ ăn đi, mấy thứ như ốc biển với sò điệp ấy, tìm được thì dùng cành cây cậy thịt ra mà ăn, bổ sung thể lực trước đã. Tôi vào sâu trong rừng tìm thảo dược, tiện thể thăm dò địa hình xung quanh luôn.”"
+    },
+    {
+      "para_id": "c0103p0012",
+      "index": 12,
+      "raw_zh": "這才是正事，三女知道擔心孫倩是沒有意義的，因為就像雲千峰說的，他們只能做能做的。",
+      "translated_vi": "Đây mới là chuyện chính sự lúc này. Ba cô gái hiểu rõ rằng lo lắng suông cho Tôn Thiến cũng chẳng giải quyết được gì, bởi lẽ đúng như lời Vân Thiên Phong nói, họ chỉ có thể làm những gì trong khả năng mà thôi."
+    },
+    {
+      "para_id": "c0103p0013",
+      "index": 13,
+      "raw_zh": "看到三個女生在這富饒的沙灘上很快找到了食物，雲千峰放心的朝著植被裡面走去。",
+      "translated_vi": "Thấy ba cô gái nhanh chóng tìm được thức ăn trên bờ biển trù phú này, Vân Thiên Phong mới yên tâm sải bước tiến sâu vào thảm thực vật rậm rạp."
+    },
+    {
+      "para_id": "c0103p0014",
+      "index": 14,
+      "raw_zh": "驕陽下，又是雨後的天氣，一切都變得那麽清晰。",
+      "translated_vi": "Dưới ánh nắng chói chang của tiết trời sau cơn mưa bão, vạn vật đều trở nên rành rọt lạ thường."
+    },
+    {
+      "para_id": "c0103p0015",
+      "index": 15,
+      "raw_zh": "雲千峰在天亮後，就舉得這叢林很不對勁。",
+      "translated_vi": "Ngay từ khi trời vừa rạng sáng, Vân Thiên Phong đã cảm thấy khu rừng rậm này có điểm vô cùng bất thường."
+    },
+    {
+      "para_id": "c0103p0016",
+      "index": 16,
+      "raw_zh": "現在走在裡面，更加確定了不對勁的地方。",
+      "translated_vi": "Giờ đây rảo bước bên trong, anh lại càng thêm khẳng định điểm kỳ quặc ấy."
+    },
+    {
+      "para_id": "c0103p0017",
+      "index": 17,
+      "raw_zh": "“這裡完全不像是一座海島，叢林裡的植物是明顯的北方物種，一棵椰子樹也見不到，倒是高大的黑松和樺樹最多。”",
+      "translated_vi": "“Nơi này hoàn toàn không giống một hòn đảo ngoài biển khơi, cây cối trong rừng rậm rõ ràng là các loài thực vật phương bắc, chẳng thấy nổi một cây dừa nào, ngược lại thông đen và bạch dương cao vút lại mọc nhiều nhất.”"
+    },
+    {
+      "para_id": "c0103p0018",
+      "index": 18,
+      "raw_zh": "他撫摸了一下身上被涼風吹起的雞皮，顰眉詫異道：",
+      "translated_vi": "Anh vuốt nhẹ lớp da gà nổi gai ốc vì làn gió lạnh phả vào người, khẽ nhíu mày kinh ngạc:"
+    },
+    {
+      "para_id": "c0103p0019",
+      "index": 19,
+      "raw_zh": "“叢林邊緣和沙灘上那麽炎熱，但是到了這裡，風竟然是冷的，難道島內有冰山？”",
+      "translated_vi": "“Rìa rừng rậm và bãi cát oi ả đến thế, vậy mà vừa bước vào đây, gió thổi lại mang theo hơi lạnh buốt giá, lẽ nào sâu trong đảo có núi băng?”"
+    },
+    {
+      "para_id": "c0103p0020",
+      "index": 20,
+      "raw_zh": "隨後他又釋然，一個正常人看不見的海島，出現什麽樣的怪事都不值得奇怪，因為它的存在本身就很奇怪。",
+      "translated_vi": "Rồi anh lại nhanh chóng bình tâm trở lại. Một hòn đảo mà người bình thường không thể nhìn thấy thì dẫu có xuất hiện chuyện quái đản cỡ nào cũng chẳng có gì đáng ngạc nhiên, bởi bản thân sự tồn tại của nó vốn dĩ đã là một điều quái dị rồi."
+    },
+    {
+      "para_id": "c0103p0021",
+      "index": 21,
+      "raw_zh": "北方的植被是雲千峰最熟悉的，他幾乎認識所有處於寒溫帶的植物，尋找草藥自然也方便許多。",
+      "translated_vi": "Hệ thực vật phương bắc là thứ mà Vân Thiên Phong quen thuộc nhất, anh gần như nhận biết mọi loài cây cỏ ở vùng ôn đới lạnh, việc tìm kiếm thảo dược tự nhiên cũng thuận tiện hơn rất nhiều."
+    },
+    {
+      "para_id": "c0103p0022",
+      "index": 22,
+      "raw_zh": "清熱解毒的蒲公英，利水消腫消炎的馬食菜和車輪菜，解毒斂血的大黃，滋陰補益的地黃，補氣壯力的山藥，幾乎到處可見。",
+      "translated_vi": "Bồ công anh thanh nhiệt giải độc, rau sam và mã đề lợi tiểu tiêu thũng tiêu viêm, đại hoàng giải độc cầm máu, địa hoàng tư âm bổ ích, củ mài bổ khí tăng cường sinh lực, gần như nơi đâu cũng có thể bắt gặp."
+    },
+    {
+      "para_id": "c0103p0023",
+      "index": 23,
+      "raw_zh": "尤其是見到山藥，雲千峰高興的幾乎笑出聲來，這東西可是能當主食的藥物。",
+      "translated_vi": "Đặc biệt khi trông thấy củ mài, Vân Thiên Phong mừng rỡ suýt chút nữa bật cười thành tiếng, thứ này chính là loại dược liệu có thể dùng thay lương thực chính."
+    },
+    {
+      "para_id": "c0103p0024",
+      "index": 24,
+      "raw_zh": "他挖了幾根山藥根，用旁邊的樹皮蹭掉上面的泥土，直接就那麽生吃起來。",
+      "translated_vi": "Anh đào lấy mấy củ mài, dùng mảnh vỏ cây bên cạnh chà sạch lớp bùn đất bám ngoài rồi cứ thế nhai sống ngấu nghiến."
+    },
+    {
+      "para_id": "c0103p0025",
+      "index": 25,
+      "raw_zh": "幾口下肚，腸胃頓時舒服起來，整個人也似乎有了精神，懈怠的腦細胞也開始有了力氣工作。",
+      "translated_vi": "Vài miếng trôi tuột vào bụng, dạ dày tức thì êm ái hẳn ra, cả người dường như cũng lấy lại được tinh thần, các tế bào não đang uể oải cũng bắt đầu có năng lượng để vận hành."
+    },
+    {
+      "para_id": "c0103p0026",
+      "index": 26,
+      "raw_zh": "“孫倩暫時無法移動，要想辦法生起篝火和搭建一個遮風擋雨的避身所。”",
+      "translated_vi": "“Tôn Thiến tạm thời chưa thể di chuyển, phải nghĩ cách nhóm một đống lửa và dựng một nơi trú ẩn che mưa chắn gió mới được.”"
+    },
+    {
+      "para_id": "c0103p0027",
+      "index": 27,
+      "raw_zh": "想到這，他收集了一些草藥，尤其是山藥，然後在站立的松樹上弄了些乾枯的松枝和松針，還把一個不知什麽鳥的巢給盜走，鳥巢可是最佳的戶外引火材料。",
+      "translated_vi": "Nghĩ đến đây, anh gom góp một ít thảo dược, đặc biệt là củ mài, sau đó bẻ vài cành thông khô cùng đống lá thông rụng trên thân cây, lại còn tiện tay cuỗm luôn chiếc tổ chim của một loài chim chẳng rõ tên; tổ chim vốn là vật liệu bùi nhùi mồi lửa tuyệt hảo nhất khi sinh tồn nơi hoang dã."
+    },
+    {
+      "para_id": "c0103p0028",
+      "index": 28,
+      "raw_zh": "然而，此時他已經深入叢林有一些距離，就在爬樹偷鳥巢的時候，他感覺到自己腹內有什麽轉動了一下，並且朝著島嶼深處滾動。",
+      "translated_vi": "Thế nhưng lúc này anh đã đi sâu vào rừng một quãng khá xa. Ngay khi đang trèo cây lấy tổ chim, anh chợt cảm nhận trong bụng mình có thứ gì đó khẽ xoay chuyển, rồi chực lăn tròn hướng về phía sâu trong hòn đảo."
+    },
+    {
+      "para_id": "c0103p0029",
+      "index": 29,
+      "raw_zh": "“石眼在動！”",
+      "translated_vi": "“Thạch nhãn đang chuyển động!”"
+    },
+    {
+      "para_id": "c0103p0030",
+      "index": 30,
+      "raw_zh": "雲千峰一驚，差點在樹上掉下去。",
+      "translated_vi": "Vân Thiên Phong giật thót mình, suýt nữa thì ngã nhào từ trên cây xuống."
+    },
+    {
+      "para_id": "c0103p0031",
+      "index": 31,
+      "raw_zh": "他太清楚這意味著什麽了。",
+      "translated_vi": "Anh quá hiểu rõ điều này mang ý nghĩa gì."
+    },
+    {
+      "para_id": "c0103p0032",
+      "index": 32,
+      "raw_zh": "“海島上有神跡，甚至整座海島就是神跡！”",
+      "translated_vi": "“Trên đảo có thần tích, thậm chí toàn bộ hòn đảo này chính là một thần tích!”"
+    },
+    {
+      "para_id": "c0103p0033",
+      "index": 33,
+      "raw_zh": "“我躲起來，那些人找不到我，但是卻能準確的在老爺廟把我捉到，證明只要我進入神跡，他們或者說是祂們就能知道我的位置！”",
+      "translated_vi": "“Tôi trốn đi thì bọn chúng không tìm ra, nhưng lại có thể chuẩn xác tóm gọn tôi ở Lão Gia Miếu, chứng tỏ chỉ cần tôi bước chân vào thần tích, bọn chúng hoặc là 'Bọn họ' sẽ có thể nắm bắt được vị trí của tôi!”"
+    },
+    {
+      "para_id": "c0103p0034",
+      "index": 34,
+      "raw_zh": "剛剛慶幸自己在無邊大海死裡逃生的喜悅，立馬好像被潑了一盆冷水的火堆，滅了！",
+      "translated_vi": "Niềm hân hoan vừa mới nhen nhóm vì may mắn thoát chết giữa biển khơi bao la tức thì tựa như đống lửa bị dội thẳng một gáo nước lạnh, tắt ngấm!"
+    },
+    {
+      "para_id": "c0103p0035",
+      "index": 35,
+      "raw_zh": "“或許，要進入神跡最深處，他們才能知道我的位置。不，不能心懷僥幸，要做最壞的打算。”",
+      "translated_vi": "“Hoặc có lẽ phải tiến vào nơi sâu nhất của thần tích thì bọn họ mới định vị được mình? Không, không thể ôm tâm lý may rủi được, phải chuẩn bị cho tình huống xấu nhất.”"
+    },
+    {
+      "para_id": "c0103p0036",
+      "index": 36,
+      "raw_zh": "“很可能在我踏入海島那一刻，祂們已經知道了我的位置，我必須早作應對才行。”",
+      "translated_vi": "“Rất có thể ngay khoảnh khắc tôi đặt chân lên hòn đảo, Bọn họ đã biết vị trí của tôi rồi, tôi nhất định phải sớm chuẩn bị đối sách mới được.”"
+    },
+    {
+      "para_id": "c0103p0037",
+      "index": 37,
+      "raw_zh": "“媽的，武器都被卷到大海裡，這要是有槍和手雷，他們來就來，我全殺了！現在怎麽辦？”",
+      "translated_vi": "“Mẹ kiếp, vũ khí đều bị sóng biển cuốn trôi sạch sành sanh. Giá mà giờ có súng với lựu đạn thì bọn chúng có mò tới tôi cũng giết sạch! Giờ phải làm sao đây?”"
+    },
+    {
+      "para_id": "c0103p0038",
+      "index": 38,
+      "raw_zh": "想著，他看著自己的右臂發呆，慢慢的笑容爬到了他的臉上。",
+      "translated_vi": "Vừa nghĩ ngợi, anh vừa nhìn đăm đăm vào cánh tay phải của mình, dần dần một nụ cười khẽ nở trên khóe môi."
+    },
+    {
+      "para_id": "c0103p0039",
+      "index": 39,
+      "raw_zh": "“這不就是最好的武器？神跡嗎？這裡會不會也有一隻手或者是一隻腳呢？那麽，我應該抓緊去神跡的最深處，拿到這最好的武器。”",
+      "translated_vi": "“Đây chẳng phải là vũ khí tuyệt hảo nhất hay sao? Thần tích ư? Liệu ở nơi này cũng có một bàn tay hay một bàn chân khác không? Như vậy thì mình càng phải khẩn trương tiến vào nơi sâu nhất của thần tích để đoạt lấy thứ vũ khí tối thượng này.”"
+    },
+    {
+      "para_id": "c0103p0040",
+      "index": 40,
+      "raw_zh": "“一切都是相對的，他們來，帶來了危險，但也會帶來能遠航的船，那我就奪了船，以後做海上的流浪者，你們去哪找我？哼！”",
+      "translated_vi": "“Mọi chuyện đều mang tính tương đối. Bọn chúng kéo tới mang theo hiểm nguy, song đồng thời cũng mang tới cả tàu thuyền có thể vượt biển viễn dương. Đến lúc đó mình sẽ cướp lấy tàu, sau này làm kẻ lãng du phiêu bạt trên đại dương, để xem các người tìm tôi ở đâu? Hừ!”"
+    },
+    {
+      "para_id": "c0103p0041",
+      "index": 41,
+      "raw_zh": "這麽一想，雲千峰立馬心寬起來，腦補自己帶著秦疏影在豪華輪船上一起流浪大海，做現代楚留香，禁不住開心的哼著小曲摘掉了鳥窩，然後邁著大步往回走。",
+      "translated_vi": "Nghĩ thông suốt như vậy, lòng dạ Vân Thiên Phong tức thì nhẹ nhõm hẳn ra. Anh tự vẽ nên viễn cảnh bản thân đưa Tần Sơ Ảnh cùng lênh đênh trên chiếc du thuyền xa hoa ngao du biển cả, làm một Sở Lưu Hương thời hiện đại, không kìm được thích thú vừa nghêu ngao huýt sáo vừa hái tổ chim xuống, đoạn sải bước dài quay trở lại bãi biển."
+    },
+    {
+      "para_id": "c0103p0042",
+      "index": 42,
+      "raw_zh": "回到沙灘後，他叫秦疏影三女拿著草藥去林子邊沉積的雨水裡清洗，自己則在海灘一塊數米高的大石頭背面開始鑽木取火。",
+      "translated_vi": "Trở lại bờ cát, anh bảo ba cô gái mang thảo dược ra vũng nước mưa đọng ven bìa rừng rửa sạch, còn bản thân thì nấp sau lưng một tảng đá khổng lồ cao vài mét trên bãi biển để bắt đầu khoan gỗ lấy lửa."
+    },
+    {
+      "para_id": "c0103p0043",
+      "index": 43,
+      "raw_zh": "巨石可以遮擋海風，是生火之地的最佳選擇，也適合做臨時避身所。",
+      "translated_vi": "Tảng đá lớn có thể chắn bớt gió biển, là lựa chọn tuyệt vời nhất để nhóm lửa, cũng rất thích hợp làm nơi trú ẩn tạm thời."
+    },
+    {
+      "para_id": "c0103p0044",
+      "index": 44,
+      "raw_zh": "無論如何，他們今天是無法趕路的，需要休息，更需要準備一些必要的裝備。",
+      "translated_vi": "Dù thế nào đi nữa thì ngày hôm nay họ cũng chẳng thể lên đường ngay được, ai nấy đều cần nghỉ ngơi, lại càng cần chuẩn bị một vài trang bị thiết yếu."
+    },
+    {
+      "para_id": "c0103p0045",
+      "index": 45,
+      "raw_zh": "德爺也得弄張樹皮當鞋不是，否則靠著腳掌這麽走，不出半天，腳掌上的皮都得磨沒了，更別說到處都是扎人的樹柵草根。",
+      "translated_vi": "Ngay cả Đức gia đi sinh tồn cũng phải kiếm mảnh vỏ cây làm giày cơ mà, bằng không cứ đi chân trần như thế này thì chưa đầy nửa ngày, lớp da dưới lòng bàn chân cũng bị mài mòn vẹt đi, huống chi khắp nơi toàn là cành cây gai góc và rễ cỏ đâm chọt."
+    },
+    {
+      "para_id": "c0103p0046",
+      "index": 46,
+      "raw_zh": "磨刀不誤砍柴工，如果那些家夥真的能這麽快找到自己，那麽自己也只能認命，拚個伱死我活罷了。",
+      "translated_vi": "Mài dao không sợ lỡ việc đốn củi. Nếu đám người kia thực sự có thể tìm ra anh nhanh đến vậy, thì anh cũng chỉ đành nhận mệnh, liều mạng một mất một còn với chúng mà thôi."
+    },
+    {
+      "para_id": "c0103p0047",
+      "index": 47,
+      "raw_zh": "因為真的那麽快的話，自己無論如何也走不到他們前面，反而省心。",
+      "translated_vi": "Bởi lẽ nếu bọn chúng tới nhanh cỡ đó, đằng nào anh cũng chẳng thể chạy trước được, nghĩ vậy ngược lại càng đỡ phải bận lòng."
+    },
+    {
+      "para_id": "c0103p0048",
+      "index": 48,
+      "raw_zh": "感謝乾燥的鳥窩。",
+      "translated_vi": "Thật cảm ơn chiếc tổ chim khô ráo."
+    },
+    {
+      "para_id": "c0103p0049",
+      "index": 49,
+      "raw_zh": "鑽木取火很順利，順利到雲千峰覺得好運徹底回到了自己身上。",
+      "translated_vi": "Việc khoan gỗ lấy lửa diễn ra vô cùng suôn sẻ, suôn sẻ tới mức khiến Vân Thiên Phong ngỡ rằng vận may đã hoàn toàn mỉm cười trở lại với mình."
+    },
+    {
+      "para_id": "c0103p0050",
+      "index": 50,
+      "raw_zh": "他覺得，這是那賒刀人的功勞。",
+      "translated_vi": "Anh thầm nghĩ, đây chính là công lao của người bán dao chịu năm xưa."
+    },
+    {
+      "para_id": "c0103p0051",
+      "index": 51,
+      "raw_zh": "因為賒刀人帶的那句話讓雲千峰明白一件事，那就是要和所謂的“神”一較長短，那就要拜老天爺當老大，順道而行。",
+      "translated_vi": "Bởi vì lời nhắn nhủ mà người bán dao chịu mang tới đã giúp Vân Thiên Phong thấu suốt một đạo lý: muốn đọ sức tranh cao thấp với cái gọi là \"Thần\", ắt phải tôn ông trời làm đại ca, thuận theo đạo trời mà hành sự."
+    },
+    {
+      "para_id": "c0103p0052",
+      "index": 52,
+      "raw_zh": "那樣才能好運，兔走時氣槍打不著。",
+      "translated_vi": "Có như thế mới đón được vận may, thỏ chạy giữa đồng súng hơi cũng bắn chẳng trúng."
+    },
+    {
+      "para_id": "c0103p0053",
+      "index": 53,
+      "raw_zh": "幾個女人拿著洗好的草藥回來，看到篝火，都開心的歡呼起來。",
+      "translated_vi": "Mấy người phụ nữ xách thảo dược đã rửa sạch quay lại, vừa trông thấy đống lửa trại, ai nấy đều vui sướng reo hò ầm ĩ."
+    },
+    {
+      "para_id": "c0103p0054",
+      "index": 54,
+      "raw_zh": "尤其是秦疏影，她看著篝火那溫婉嫣然的神情，動人極了。",
+      "translated_vi": "Đặc biệt là Tần Sơ Ảnh, nét mặt dịu dàng, nụ cười e ấp của cô khi nhìn ngắm ánh lửa bập bùng trông kiều diễm rung động lòng người biết bao."
+    },
+    {
+      "para_id": "c0103p0055",
+      "index": 55,
+      "raw_zh": "雲千峰用水泡透的樹皮當鍋，挑了些消炎消腫解毒的草藥配伍燉在一起。",
+      "translated_vi": "Vân Thiên Phong dùng vỏ cây ngâm đẫm nước làm nồi, chọn một số loại thảo dược có công dụng tiêu viêm, tiêu thũng, giải độc phối hợp lại để sắc chung."
+    },
+    {
+      "para_id": "c0103p0056",
+      "index": 56,
+      "raw_zh": "又用另一塊泡透的樹皮把山藥煮上當他們的主食，雖然山藥烤熟更好吃，但是他們現在虛弱的腸胃，恐怕暫時無法適應那樣難以消化的食物，煮粥是最佳選擇。",
+      "translated_vi": "Lại dùng một mảnh vỏ cây ngâm nước khác nấu củ mài làm lương thực chính cho họ. Dẫu rằng củ mài nướng chín ăn sẽ thơm ngon hơn, nhưng đường ruột suy nhược của họ lúc này e rằng tạm thời chưa thể thích nghi với món ăn khó tiêu hóa ấy, nấu cháo chính là lựa chọn tối ưu nhất."
+    },
+    {
+      "para_id": "c0103p0057",
+      "index": 57,
+      "raw_zh": "孫倩還活著，這其實已經是奇跡，讓雲千峰不由覺得自己的短褲撕的值得。",
+      "translated_vi": "Tôn Thiến vẫn còn sống, điều này thực chất đã là một kỳ tích, khiến Vân Thiên Phong không khỏi thầm nghĩ mảnh quần lót mình xé ra quả là đáng giá."
+    },
+    {
+      "para_id": "c0103p0058",
+      "index": 58,
+      "raw_zh": "昏迷的孫倩完全不省人事，根本沒法灌藥，雲千峰也沒避諱，就自己把那濃苦的草藥喝到嘴裡，然後用手掰開孫倩的嘴唇，用自己的嘴把藥湯渡進孫倩的口中。",
+      "translated_vi": "Tôn Thiến hôn mê bất tỉnh nhân sự, căn bản không thể uống thuốc trực tiếp, Vân Thiên Phong cũng chẳng kiêng dè né tránh, tự mình ngậm ngụm thuốc đắng ngắt vào miệng, sau đó dùng tay cậy bờ môi Tôn Thiến ra, lấy miệng truyền từng ngụm nước thuốc vào khoang miệng cô."
+    },
+    {
+      "para_id": "c0103p0059",
+      "index": 59,
+      "raw_zh": "一次不敢太多，生怕嗆到她的肺，本來就一口氣吊著，別直接給送走了。",
+      "translated_vi": "Mỗi lần anh không dám mớm quá nhiều, chỉ sợ làm thuốc sặc vào phổi cô, vốn dĩ chỉ còn một hơi tàn thoi thóp treo lơ lửng, lỡ tay một cái khéo lại tiễn người ta sang thế giới bên kia luôn."
+    },
+    {
+      "para_id": "c0103p0060",
+      "index": 60,
+      "raw_zh": "這裡的草藥一定年頭很多，且地靈，藥效很好。",
+      "translated_vi": "Cây cỏ thảo dược nơi này hẳn có niên đại rất lâu năm, lại nhờ linh khí của đất đai màu mỡ nên dược tính vô cùng công hiệu."
+    },
+    {
+      "para_id": "c0103p0061",
+      "index": 61,
+      "raw_zh": "因為孫倩再喝了草藥後，高燒明顯減退，嘴唇也開始有了一些血色。",
+      "translated_vi": "Bởi sau khi được mớm thảo dược, cơn sốt cao của Tôn Thiến đã hạ bớt rõ rệt, bờ môi nhợt nhạt cũng bắt đầu le lói chút sắc máu."
+    },
+    {
+      "para_id": "c0103p0062",
+      "index": 62,
+      "raw_zh": "幾個人圍坐在一起，喝著山藥粥，就著烤熟的海螺、扇貝和海蟹，身體暖暖的，說不出的舒坦。",
+      "translated_vi": "Mấy người ngồi quây quần bên nhau, húp cháo củ mài nóng hổi, ăn kèm ốc biển nướng, sò điệp và cua nướng, cơ thể ấm sực lên, khoan khoái dễ chịu không sao tả xiết."
+    },
+    {
+      "para_id": "c0103p0063",
+      "index": 63,
+      "raw_zh": "雲千峰吃得差不多，然後看著三女，鄭重的說道：",
+      "translated_vi": "Vân Thiên Phong ăn uống hòm hòm, đoạn nhìn ba cô gái, trịnh trọng cất tiếng:"
+    },
+    {
+      "para_id": "c0103p0064",
+      "index": 64,
+      "raw_zh": "“我在被人追殺，我懷疑他們可能已經知道了我的位置，所以我必須比他們更早一步在這海島上找到一樣東西。”",
+      "translated_vi": "“Tôi đang bị người ta truy sát, tôi nghi ngờ bọn chúng có lẽ đã biết vị trí của tôi rồi, vì thế tôi buộc phải nhanh chân hơn bọn chúng một bước để tìm thấy một thứ trên hòn đảo này.”"
+    },
+    {
+      "para_id": "c0103p0065",
+      "index": 65,
+      "raw_zh": "“你們必須清楚一件事，那就是這裡，這座海島內部一定極其詭異危險，你們跟著我，並不安全。”",
+      "translated_vi": "“Mấy cô cần phải hiểu rõ một điều, đó là nơi này, vùng trung tâm hòn đảo ắt hẳn cực kỳ quỷ dị và nguy hiểm. Các cô đi theo tôi sẽ chẳng an toàn chút nào đâu.”"
+    },
+    {
+      "para_id": "c0103p0066",
+      "index": 66,
+      "raw_zh": "“以我對追殺我的那些人的了解，他們一般不會傷害普通人，但我並不確定這一點，總之跟著我危險是百分百，留在這裡危險是百分之五十。”",
+      "translated_vi": "“Theo những gì tôi hiểu về đám người truy sát mình, thông thường bọn chúng sẽ không làm hại người vô can, nhưng tôi cũng không dám đoan chắc điều đó. Tóm lại, đi theo tôi thì nguy hiểm là một trăm phần trăm, còn ở lại nơi này nguy hiểm là năm mươi phần trăm.”"
+    },
+    {
+      "para_id": "c0103p0067",
+      "index": 67,
+      "raw_zh": "“所以，你們要做好選擇，是留在這裡還是跟著我都行，我不會強迫你們選擇，也不會拋棄你們。”",
+      "translated_vi": "“Thế nên, các cô hãy tự đưa ra lựa chọn, ở lại đây hay theo tôi đều được, tôi sẽ không ép buộc ai, cũng sẽ không ruồng bỏ mọi người.”"
+    },
+    {
+      "para_id": "c0103p0068",
+      "index": 68,
+      "raw_zh": "“你們要想清楚，因為我們幾乎身無寸縷，連一雙鞋子都沒有，路途一定是極其艱難的。”",
+      "translated_vi": "“Các cô phải suy nghĩ cho thật thấu đáo, bởi vì chúng ta gần như mình trần như nhộng, đến một đôi giày lót chân cũng không có, chặng đường phía trước nhất định sẽ vô cùng gian nan trắc trở.”"
+    },
+    {
+      "para_id": "c0103p0069",
+      "index": 69,
+      "raw_zh": "說完，不再出聲，他這是掏心窩子的話了，說不出更多。",
+      "translated_vi": "Nói xong, anh không mở miệng thêm lời nào nữa. Đây đều là những lời ruột gan chân thành nhất rồi, chẳng còn gì để giãi bày hơn."
+    },
+    {
+      "para_id": "c0103p0070",
+      "index": 70,
+      "raw_zh": "三個女人看了一眼篝火旁一動不動的孫倩，一時都沒有說話。",
+      "translated_vi": "Ba người phụ nữ liếc nhìn Tôn Thiến đang nằm bất động bên đống lửa, nhất thời không ai lên tiếng."
+    },
+    {
+      "para_id": "c0103p0071",
+      "index": 71,
+      "raw_zh": "這是個艱難的抉擇。",
+      "translated_vi": "Đây là một sự lựa chọn vô cùng khó khăn."
+    },
+    {
+      "para_id": "c0103p0072",
+      "index": 72,
+      "raw_zh": "張敏眼珠轉了轉，拍了千千和秦疏影的肩膀一下，道：",
+      "translated_vi": "Trương Mẫn đảo mắt một vòng, vỗ nhẹ lên vai Thiên Thiên và Tần Sơ Ảnh, bảo:"
+    },
+    {
+      "para_id": "c0103p0073",
+      "index": 73,
+      "raw_zh": "“陪我去一下廁所，我自己不敢。”",
+      "translated_vi": "“Đi vệ sinh với tôi một lát đi, một mình tôi không dám đâu.”"
+    },
+    {
+      "para_id": "c0103p0074",
+      "index": 74,
+      "raw_zh": "千千起身準備跟著張敏走向叢林淺處，見秦疏影卻沒有動，就招呼秦疏影：",
+      "translated_vi": "Thiên Thiên đứng dậy chuẩn bị đi theo Trương Mẫn ra phía bìa rừng, thấy Tần Sơ Ảnh vẫn ngồi yên bất động liền vẫy gọi:"
+    },
+    {
+      "para_id": "c0103p0075",
+      "index": 75,
+      "raw_zh": "“疏影你也來！快點！要不一會我們可不陪你，就只能叫雲陪著你了！羞死你！”",
+      "translated_vi": "“Chị Sơ Ảnh cũng đi đi chứ! Nhanh lên! Không lát nữa bọn em chẳng đi cùng chị đâu, lúc đấy chỉ có nước nhờ anh Vân đi theo thôi đấy! Xấu hổ chết đi được!”"
+    },
+    {
+      "para_id": "c0103p0076",
+      "index": 76,
+      "raw_zh": "秦疏影遲疑了一下，起身跟著倆女走進了叢林淺處。",
+      "translated_vi": "Tần Sơ Ảnh ngập ngừng đôi chút, rồi đứng dậy bước theo hai cô gái đi vào khoảng rừng thưa."
+    },
+    {
+      "para_id": "c0103p0077",
+      "index": 77,
+      "raw_zh": "雲千峰的內心很矛盾，他害怕自己面對荒野的孤獨，又不忍心欺騙她們。",
+      "translated_vi": "Cõi lòng Vân Thiên Phong giằng xé đầy mâu thuẫn. Anh sợ bản thân phải cô độc đối diện với chốn hoang dã mênh mông, nhưng lại chẳng nỡ dối gạt bọn họ."
+    },
+    {
+      "para_id": "c0103p0078",
+      "index": 78,
+      "raw_zh": "此時他猜測，三女應該都不會跟著自己去冒百分百存在的危險，但是這不怪她們，畢竟這不是她們必須做的事情。",
+      "translated_vi": "Lúc này anh thầm đoán định, có lẽ cả ba cô gái sẽ chẳng ai dại dột đi theo mình để dấn thân vào mối nguy hiểm hiển hiện mười mươi, song điều đó chẳng thể trách cứ họ được, dẫu sao đây cũng đâu phải là nghĩa vụ họ bắt buộc phải gánh vác."
+    },
+    {
+      "para_id": "c0103p0079",
+      "index": 79,
+      "raw_zh": "良久，三個人還沒有回來。",
+      "translated_vi": "Mãi một hồi lâu sau, ba người vẫn chưa thấy quay lại."
+    },
+    {
+      "para_id": "c0103p0080",
+      "index": 80,
+      "raw_zh": "“商量這麽久？看來還都是講究人，在我的救命之恩和危險之間猶豫吧？”",
+      "translated_vi": "“Bàn bạc lâu thế cơ à? Xem ra ai nấy đều là người biết điều, đang do dự giữa ơn cứu mạng của mình và mối nguy hiểm rình rập chăng?”"
+    },
+    {
+      "para_id": "c0103p0081",
+      "index": 81,
+      "raw_zh": "不多時，三女走出叢林，回到了篝火邊。",
+      "translated_vi": "Chẳng bao lâu sau, ba cô gái sải bước ra khỏi cánh rừng, trở lại bên đống lửa."
+    },
+    {
+      "para_id": "c0103p0082",
+      "index": 82,
+      "raw_zh": "她們不是去商量跟不跟著雲千峰，而是要給雲千峰一個驚喜。",
+      "translated_vi": "Bọn họ nào phải đi bàn bạc xem có nên đi theo Vân Thiên Phong hay không, mà là muốn dành tặng cho anh một bất ngờ lớn."
+    }
+  ]
+}

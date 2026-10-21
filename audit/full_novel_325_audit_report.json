@@ -1,0 +1,37 @@
+{
+  "total_chapters": 325,
+  "verified_chapters": 325,
+  "total_words": 856201,
+  "total_paras": 31011,
+  "raw_segments_total": 31011,
+  "missing_files": [],
+  "small_files": [],
+  "para_mismatches": [],
+  "cjk_leaks": [
+    [
+      228,
+      1,
+      "米"
+    ]
+  ],
+  "dsl_leaks": [],
+  "calque_hits": {},
+  "archaic_wuxia_hits": {
+    "đạo hữu": 2,
+    "tiểu nhị": 1
+  },
+  "standalone_nguoi_count": 72,
+  "standalone_ta_count": 92,
+  "prosody_run_ons": 20,
+  "prosody_clunky": 4,
+  "key_entities": {
+    "Vân Thiên Phong": 8283,
+    "Khương Nhu Giáp": 649,
+    "Tần Sơ Ảnh": 806,
+    "La Lâm Na": 43,
+    "Fatina": 456,
+    "Pháp Đề Na": 0,
+    "Tam Tiền Tế Thế": 2,
+    "Chúc Do thuật": 14
+  }
+}

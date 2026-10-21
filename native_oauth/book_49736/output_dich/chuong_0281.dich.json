@@ -1,0 +1,662 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 281,
+  "title": "Chương 281: Địa Tạng Vương",
+  "total_paragraphs": 108,
+  "translated_paragraphs": 108,
+  "source_hash": "6bad35305d5fda703576052e6b0c48363ac076e6d17894d8740209efe4fd2f8d",
+  "model_used": "gemini-3.8-flash-high",
+  "elapsed_seconds": 159.81,
+  "bilingual_alignment": [
+    {
+      "para_id": "c0281p0001",
+      "index": 1,
+      "raw_zh": "281.第281章 地藏王",
+      "translated_vi": "Chương 281: Địa Tạng Vương"
+    },
+    {
+      "para_id": "c0281p0002",
+      "index": 2,
+      "raw_zh": "第281章 地藏王",
+      "translated_vi": "Chương 281: Địa Tạng Vương"
+    },
+    {
+      "para_id": "c0281p0003",
+      "index": 3,
+      "raw_zh": "涼風習習，不冷不熱。",
+      "translated_vi": "Gió mát hiu hiu, không lạnh cũng chẳng nóng."
+    },
+    {
+      "para_id": "c0281p0004",
+      "index": 4,
+      "raw_zh": "淡霧自腳下緩緩而起，如煙縷縷。",
+      "translated_vi": "Làn sương nhạt từ dưới chân từ từ dâng lên, lượn lờ như từng sợi khói."
+    },
+    {
+      "para_id": "c0281p0005",
+      "index": 5,
+      "raw_zh": "周圍一片桂樹，花香滿溢。",
+      "translated_vi": "Xung quanh là cả một rừng quế, hương hoa ngập tràn."
+    },
+    {
+      "para_id": "c0281p0006",
+      "index": 6,
+      "raw_zh": "遠處薄霧之中，流水潺潺，一座白玉小拱橋橫架其上。",
+      "translated_vi": "Nơi màn sương mỏng đằng xa, tiếng nước chảy róc rách, một tòa cầu vòm nhỏ bằng bạch ngọc bắc ngang bên trên."
+    },
+    {
+      "para_id": "c0281p0007",
+      "index": 7,
+      "raw_zh": "橋對面是亭台樓閣，眼見似乎皆為玉石，精而雅致。",
+      "translated_vi": "Đối diện bên kia cầu là đình đài lầu các, nhìn qua dường như thảy đều tạc bằng ngọc thạch, tinh xảo mà thanh nhã."
+    },
+    {
+      "para_id": "c0281p0008",
+      "index": 8,
+      "raw_zh": "這裡，這般情景，雲千峰見過，但卻是在夢中。",
+      "translated_vi": "Nơi đây, cảnh tượng thế này, Vân Thiên Phong từng nhìn thấy, nhưng là ở trong mơ."
+    },
+    {
+      "para_id": "c0281p0009",
+      "index": 9,
+      "raw_zh": "而此刻，他掐了一下大腿，確定自己是醒著的。",
+      "translated_vi": "Mà lúc này, hắn tự véo vào đùi một cái, xác định bản thân đang hoàn toàn tỉnh táo."
+    },
+    {
+      "para_id": "c0281p0010",
+      "index": 10,
+      "raw_zh": "遠處，一個輕盈飄逸的身影正在飛奔而來。",
+      "translated_vi": "Phía xa, một bóng hình nhẹ nhàng thanh thoát đang lao nhanh tới."
+    },
+    {
+      "para_id": "c0281p0011",
+      "index": 11,
+      "raw_zh": "她赤著腳，著白裙，長發松挽，斜插一根玉簪，面上帶著一個青銅虎面具。",
+      "translated_vi": "Nàng đi chân trần, vận váy trắng, mái tóc dài vấn lỏng, cài xiên một chiếc trâm ngọc, trên mặt đeo một chiếc mặt nạ đồng hình hổ."
+    },
+    {
+      "para_id": "c0281p0012",
+      "index": 12,
+      "raw_zh": "人未至，柔而淨的聲音先遠遠傳來。",
+      "translated_vi": "Người chưa tới nơi, giọng nói dịu dàng trong trẻo đã từ xa vọng lại."
+    },
+    {
+      "para_id": "c0281p0013",
+      "index": 13,
+      "raw_zh": "“良人！”",
+      "translated_vi": "“Lương nhân!”"
+    },
+    {
+      "para_id": "c0281p0014",
+      "index": 14,
+      "raw_zh": "倩影在前，雲千峰急忙迎上去。",
+      "translated_vi": "Bóng hình thướt tha ở ngay trước mắt, Vân Thiên Phong vội vã đón tới."
+    },
+    {
+      "para_id": "c0281p0015",
+      "index": 15,
+      "raw_zh": "倆人雖然只在夢中見過幾次，但不知為何，雲千峰每每想起時光流影之中，等待他來禮成婚禮的那雙眼睛，就會覺得無比的虧欠。",
+      "translated_vi": "Hai người tuy chỉ gặp nhau vài lần trong mộng, nhưng chẳng hiểu vì sao, mỗi khi Vân Thiên Phong nhớ lại đôi mắt chờ đợi hắn tới cử hành hoàn tất hôn lễ trong dòng chảy thời gian lưu ảnh, đáy lòng lại dâng lên cảm giác vô cùng mắc nợ."
+    },
+    {
+      "para_id": "c0281p0016",
+      "index": 16,
+      "raw_zh": "那是由心而發的，根本不受雲千峰自己的情緒控制。",
+      "translated_vi": "Cảm xúc ấy phát ra từ tận đáy lòng, hoàn toàn không chịu sự kiểm soát của cảm xúc bản thân hắn."
+    },
+    {
+      "para_id": "c0281p0017",
+      "index": 17,
+      "raw_zh": "再一次，倆人無比的靠近了。",
+      "translated_vi": "Lại một lần nữa, hai người áp lại gần nhau đến không còn khoảng cách."
+    },
+    {
+      "para_id": "c0281p0018",
+      "index": 18,
+      "raw_zh": "雲千峰緊緊的盯著姮娥的眼睛，不瞬的看著，直到姮娥撲到了他的懷裡，雲千峰才伸出雙臂，緊緊摟住姮娥的細背，讓她更加的貼緊自己。",
+      "translated_vi": "Vân Thiên Phong chăm chú nhìn thẳng vào mắt Hằng Nga, không chớp mắt lấy một lần, mãi tới khi Hằng Nga nhào vào lòng mình, hắn mới vươn hai cánh tay, siết chặt lấy tấm lưng mảnh mai của cô, để cô càng nép sát vào người hắn hơn."
+    },
+    {
+      "para_id": "c0281p0019",
+      "index": 19,
+      "raw_zh": "他笑了，由心的笑了。",
+      "translated_vi": "Hắn mỉm cười, một nụ cười xuất phát từ tận đáy lòng."
+    },
+    {
+      "para_id": "c0281p0020",
+      "index": 20,
+      "raw_zh": "“良人，你終於來了。”",
+      "translated_vi": "“Lương nhân, anh cuối cùng cũng tới rồi.”"
+    },
+    {
+      "para_id": "c0281p0021",
+      "index": 21,
+      "raw_zh": "“姮娥，我來了，這裡是我的終點站嗎？”",
+      "translated_vi": "“Hằng Nga, tôi tới rồi. Nơi này là trạm dừng cuối cùng của tôi sao?”"
+    },
+    {
+      "para_id": "c0281p0022",
+      "index": 22,
+      "raw_zh": "姮娥點了點頭，沒有出聲。",
+      "translated_vi": "Hằng Nga gật đầu, không cất tiếng."
+    },
+    {
+      "para_id": "c0281p0023",
+      "index": 23,
+      "raw_zh": "雲千峰繼續柔聲道：",
+      "translated_vi": "Vân Thiên Phong tiếp tục dịu giọng hỏi:"
+    },
+    {
+      "para_id": "c0281p0024",
+      "index": 24,
+      "raw_zh": "“你也是帝嚳算計的執行者嗎？”",
+      "translated_vi": "“Cô cũng là người chấp hành những toan tính của Đế Cốc sao?”"
+    },
+    {
+      "para_id": "c0281p0025",
+      "index": 25,
+      "raw_zh": "姮娥再次點了點頭，雖然沒有出聲。",
+      "translated_vi": "Hằng Nga lại gật đầu, dẫu không phát ra tiếng động nào,"
+    },
+    {
+      "para_id": "c0281p0026",
+      "index": 26,
+      "raw_zh": "但卻沒有絲毫隱瞞，雲千峰問什麽，她都不會拒絕回答，而且回答的便是真話。",
+      "translated_vi": "nhưng không hề có chút giấu giếm; phàm là những gì Vân Thiên Phong hỏi, cô đều không từ chối trả lời, mà câu trả lời cũng chính là sự thật."
+    },
+    {
+      "para_id": "c0281p0027",
+      "index": 27,
+      "raw_zh": "“恨我嗎？”",
+      "translated_vi": "“Hận tôi không?”"
+    },
+    {
+      "para_id": "c0281p0028",
+      "index": 28,
+      "raw_zh": "雲千峰沉默了半晌，然後搖了搖頭，沒有說話。",
+      "translated_vi": "Vân Thiên Phong im lặng hồi lâu, rồi lắc đầu, không nói gì."
+    },
+    {
+      "para_id": "c0281p0029",
+      "index": 29,
+      "raw_zh": "“為什麽？”",
+      "translated_vi": "“Vì sao?”"
+    },
+    {
+      "para_id": "c0281p0030",
+      "index": 30,
+      "raw_zh": "雲千峰又是沉默了好一會，才搖頭道：",
+      "translated_vi": "Vân Thiên Phong lại trầm mặc thêm một lúc lâu, mới lắc đầu nói:"
+    },
+    {
+      "para_id": "c0281p0031",
+      "index": 31,
+      "raw_zh": "“不知道，就是不恨。”",
+      "translated_vi": "“Không biết nữa, chỉ là không hận.”"
+    },
+    {
+      "para_id": "c0281p0032",
+      "index": 32,
+      "raw_zh": "也都是實話。",
+      "translated_vi": "Cũng đều là những lời thật lòng."
+    },
+    {
+      "para_id": "c0281p0033",
+      "index": 33,
+      "raw_zh": "雲千峰雙臂又用了一些力，把姮娥更抱緊一些，不知道為何，哪怕就在眼前，就在身邊，還是覺得不夠近。",
+      "translated_vi": "Hai cánh tay Vân Thiên Phong lại siết thêm chút lực, ôm Hằng Nga chặt hơn một chút. Chẳng hiểu vì cớ gì, dẫu người đã ở ngay trước mắt, ngay bên cạnh mình, hắn vẫn thấy dường như còn chưa đủ gần."
+    },
+    {
+      "para_id": "c0281p0034",
+      "index": 34,
+      "raw_zh": "是共工的情感嗎？",
+      "translated_vi": "Là cảm xúc sót lại của Cộng Công sao?"
+    },
+    {
+      "para_id": "c0281p0035",
+      "index": 35,
+      "raw_zh": "姮娥也是這樣，一雙手臂不斷的把自己擠壓向雲千峰。",
+      "translated_vi": "Hằng Nga cũng vậy, đôi cánh tay không ngừng kéo ép thân mình dán chặt vào lòng Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0281p0036",
+      "index": 36,
+      "raw_zh": "“姮娥，接下來我需要做什麽？穿上完整的蚩尤嗎？”",
+      "translated_vi": "“Hằng Nga, tiếp theo tôi cần phải làm gì? Mặc lên Xi Vưu hoàn chỉnh sao?”"
+    },
+    {
+      "para_id": "c0281p0037",
+      "index": 37,
+      "raw_zh": "姮娥點了點頭，柔聲道：",
+      "translated_vi": "Hằng Nga gật đầu, dịu dàng đáp:"
+    },
+    {
+      "para_id": "c0281p0038",
+      "index": 38,
+      "raw_zh": "“九屠會告訴你該做什麽，他們就在桂花叢裡看著我們。”",
+      "translated_vi": "“Cửu Đồ sẽ nói cho anh biết nên làm gì, bọn họ đang ở trong rặng hoa quế nhìn chúng ta kìa.”"
+    },
+    {
+      "para_id": "c0281p0039",
+      "index": 39,
+      "raw_zh": "雲千峰回頭看向桂花林，大聲道：",
+      "translated_vi": "Vân Thiên Phong quay đầu nhìn về phía rừng hoa quế, cất giọng lớn:"
+    },
+    {
+      "para_id": "c0281p0040",
+      "index": 40,
+      "raw_zh": "“喂！你們能不能去遠點？我和我妻子小別再見，你們能不能給點私人空間？”",
+      "translated_vi": "“Này! Mấy người có thể tránh xa một chút được không? Tôi với vợ tôi xa cách lâu ngày mới gặp lại, mấy người có thể chừa chút không gian riêng tư được không hả?”"
+    },
+    {
+      "para_id": "c0281p0041",
+      "index": 41,
+      "raw_zh": "這不喊還好，一喊把九個人都喊出來了，距離更近了。",
+      "translated_vi": "Không lên tiếng thì còn đỡ, vừa hô lên một tiếng liền gọi cả chín người cùng bước ra, khoảng cách lại càng gần hơn."
+    },
+    {
+      "para_id": "c0281p0042",
+      "index": 42,
+      "raw_zh": "九屠為首的是個邋遢老道，他冷靜的看著雲千峰，聲音很慈祥，沒有敵意，更沒有殺氣，他道：",
+      "translated_vi": "Đứng đầu Cửu Đồ là một lão đạo sĩ lôi thôi lếch thếch. Lão điềm tĩnh nhìn Vân Thiên Phong, giọng nói vô cùng từ ái, không mang chút địch ý, càng chẳng có lấy nửa phần sát khí. Lão nói:"
+    },
+    {
+      "para_id": "c0281p0043",
+      "index": 43,
+      "raw_zh": "“西王母有命，雲千峰一入廣寒宮，我等九人便要寸目不離。”",
+      "translated_vi": "“Tây Vương Mẫu có lệnh, Vân Thiên Phong hễ bước vào Quảng Hàn Cung, chín người chúng ta liền phải tấc mắt không rời.”"
+    },
+    {
+      "para_id": "c0281p0044",
+      "index": 44,
+      "raw_zh": "雲千峰笑道：",
+      "translated_vi": "Vân Thiên Phong cười nói:"
+    },
+    {
+      "para_id": "c0281p0045",
+      "index": 45,
+      "raw_zh": "“你們不是只聽帝命嗎？”",
+      "translated_vi": "“Các người chẳng phải chỉ nghe theo mệnh lệnh của Đế sao?”"
+    },
+    {
+      "para_id": "c0281p0046",
+      "index": 46,
+      "raw_zh": "那邋遢老道笑道：",
+      "translated_vi": "Lão đạo sĩ lôi thôi cười đáp:"
+    },
+    {
+      "para_id": "c0281p0047",
+      "index": 47,
+      "raw_zh": "“聽西王母之命，就是帝嚳給的命令。”",
+      "translated_vi": "“Nghe theo lệnh của Tây Vương Mẫu, chính là mệnh lệnh do Đế Cốc ban xuống.”"
+    },
+    {
+      "para_id": "c0281p0048",
+      "index": 48,
+      "raw_zh": "似乎看出雲千峰疑惑什麽，邋遢老道補充道：",
+      "translated_vi": "Dường như nhìn ra nỗi thắc mắc của Vân Thiên Phong, lão đạo sĩ lôi thôi bồi thêm một câu:"
+    },
+    {
+      "para_id": "c0281p0049",
+      "index": 49,
+      "raw_zh": "“數千年前便口傳的命令。”",
+      "translated_vi": "“Mệnh lệnh được truyền miệng từ mấy ngàn năm trước.”"
+    },
+    {
+      "para_id": "c0281p0050",
+      "index": 50,
+      "raw_zh": "雲千峰撇嘴道：",
+      "translated_vi": "Vân Thiên Phong bĩu môi nói:"
+    },
+    {
+      "para_id": "c0281p0051",
+      "index": 51,
+      "raw_zh": "“口傳的命令可未必準，補天之門熱鬧得很。”",
+      "translated_vi": "“Mệnh lệnh truyền miệng thì chưa chắc đã chuẩn xác đâu, Cửa Bổ Thiên đang náo nhiệt lắm đấy.”"
+    },
+    {
+      "para_id": "c0281p0052",
+      "index": 52,
+      "raw_zh": "邋遢老道笑道：",
+      "translated_vi": "Lão đạo sĩ lôi thôi cười bảo:"
+    },
+    {
+      "para_id": "c0281p0053",
+      "index": 53,
+      "raw_zh": "“影響不到九屠，九屠等到今天才入世，便是不沾因果，不沾因果，補天之門對我們也無可奈何，你不就躲了因果嗎？所以帝嚳的命令，保真。”",
+      "translated_vi": "“Không ảnh hưởng tới Cửu Đồ được đâu. Cửu Đồ đợi đến tận ngày nay mới nhập thế, chính là để không dính nhân quả. Đã không dính nhân quả thì Cửa Bổ Thiên cũng chẳng làm gì được chúng ta. Cậu chẳng phải cũng đang trốn tránh nhân quả đó sao? Thế nên mệnh lệnh của Đế Cốc, bảo đảm là thật.”"
+    },
+    {
+      "para_id": "c0281p0054",
+      "index": 54,
+      "raw_zh": "雲千峰知道人是攆不走了，於是隻好直奔主題，問道：",
+      "translated_vi": "Vân Thiên Phong biết là không đuổi người đi được rồi, đành phải đi thẳng vào chủ đề chính, hỏi:"
+    },
+    {
+      "para_id": "c0281p0055",
+      "index": 55,
+      "raw_zh": "“蚩尤完整後，我會如何？”",
+      "translated_vi": "“Sau khi Si Vưu hoàn chỉnh, tôi sẽ ra sao?”"
+    },
+    {
+      "para_id": "c0281p0056",
+      "index": 56,
+      "raw_zh": "邋遢老道道：",
+      "translated_vi": "Lão đạo lếch thếch nói:"
+    },
+    {
+      "para_id": "c0281p0057",
+      "index": 57,
+      "raw_zh": "“全知之眼入腦，你瞬死。”",
+      "translated_vi": "“Toàn Tri Chi Nhãn tiến vào não, cậu chết ngay tức khắc.”"
+    },
+    {
+      "para_id": "c0281p0058",
+      "index": 58,
+      "raw_zh": "雲千峰冷聲道：",
+      "translated_vi": "Vân Thiên Phong lạnh giọng hỏi:"
+    },
+    {
+      "para_id": "c0281p0059",
+      "index": 59,
+      "raw_zh": "“就這？”",
+      "translated_vi": "“Chỉ thế thôi?”"
+    },
+    {
+      "para_id": "c0281p0060",
+      "index": 60,
+      "raw_zh": "邋遢老道繼續道：",
+      "translated_vi": "Lão đạo lếch thếch nói tiếp:"
+    },
+    {
+      "para_id": "c0281p0061",
+      "index": 61,
+      "raw_zh": "“此死非死，你的意識和記憶，將在全知之眼入腦一瞬間，進入女閻羅人利用全知之眼打造的空間，繼續存在。”",
+      "translated_vi": "“Cái chết này không phải là chết hẳn. Ý thức và ký ức của cậu, ngay khoảnh khắc Toàn Tri Chi Nhãn tiến vào não, sẽ đi vào không gian do người Nữ Diêm La mượn Toàn Tri Chi Nhãn tạo ra, tiếp tục tồn tại.”"
+    },
+    {
+      "para_id": "c0281p0062",
+      "index": 62,
+      "raw_zh": "雲千峰思索問道：",
+      "translated_vi": "Vân Thiên Phong trầm ngâm hỏi:"
+    },
+    {
+      "para_id": "c0281p0063",
+      "index": 63,
+      "raw_zh": "“以什麽狀態存在？”",
+      "translated_vi": "“Tồn tại dưới trạng thái nào?”"
+    },
+    {
+      "para_id": "c0281p0064",
+      "index": 64,
+      "raw_zh": "老道笑道：",
+      "translated_vi": "Lão đạo cười nói:"
+    },
+    {
+      "para_id": "c0281p0065",
+      "index": 65,
+      "raw_zh": "“若是從感知來說，你會覺得與現在沒有差別，但事實上，你已經是全知之眼內的一組活躍的數據。”",
+      "translated_vi": "“Nếu xét về mặt cảm giác, cậu sẽ thấy chẳng khác gì hiện tại, nhưng trên thực tế, cậu đã là một chuỗi dữ liệu sống động bên trong Toàn Tri Chi Nhãn rồi.”"
+    },
+    {
+      "para_id": "c0281p0066",
+      "index": 66,
+      "raw_zh": "姮娥接話道：",
+      "translated_vi": "Hằng Nga tiếp lời:"
+    },
+    {
+      "para_id": "c0281p0067",
+      "index": 67,
+      "raw_zh": "“良人，你要知道，即便是現在的你，或者說每一個人，本質上都是不同能量波動的組合體，而能量歸根結底也是數據。",
+      "translated_vi": "“Chàng à, chàng phải biết rằng, dẫu là chàng của hiện tại, hay nói đúng hơn là mỗi một con người, về bản chất đều là tổ hợp của những dao động năng lượng khác nhau, mà năng lượng quy tụ lại suy cho cùng cũng là dữ liệu."
+    },
+    {
+      "para_id": "c0281p0068",
+      "index": 68,
+      "raw_zh": "所以在全知之眼的儲存空間內，數據要活躍也需要能量，人的數據在其中受到其它數據的外力干擾”",
+      "translated_vi": "Cho nên trong không gian lưu trữ của Toàn Tri Chi Nhãn, dữ liệu muốn hoạt động cũng cần có năng lượng, dữ liệu con người ở trong đó nếu chịu ngoại lực can thiệp từ các dữ liệu khác...”"
+    },
+    {
+      "para_id": "c0281p0069",
+      "index": 69,
+      "raw_zh": "姮娥語速雖然很快，但是邋遢老道還是很快的打斷了她的話，笑道：",
+      "translated_vi": "Tốc độ nói của Hằng Nga tuy rất nhanh, nhưng lão đạo lếch thếch vẫn kịp thời ngắt lời nàng, cười nói:"
+    },
+    {
+      "para_id": "c0281p0070",
+      "index": 70,
+      "raw_zh": "“我們會告訴雲千峰一切的，等他進入全知之眼之後。”",
+      "translated_vi": "“Chúng tôi sẽ nói cho Vân Thiên Phong biết mọi chuyện, sau khi cậu ta vào trong Toàn Tri Chi Nhãn.”"
+    },
+    {
+      "para_id": "c0281p0071",
+      "index": 71,
+      "raw_zh": "姮娥微微點頭，果然不再出聲。",
+      "translated_vi": "Hằng Nga khẽ gật đầu, quả nhiên không lên tiếng nữa."
+    },
+    {
+      "para_id": "c0281p0072",
+      "index": 72,
+      "raw_zh": "雲千峰則在心裡琢磨姮娥的那句話。",
+      "translated_vi": "Còn Vân Thiên Phong thì nghiền ngẫm câu nói đó của Hằng Nga trong lòng."
+    },
+    {
+      "para_id": "c0281p0073",
+      "index": 73,
+      "raw_zh": "姮娥看似不經意的一段話，說的應該是很重要的東西，否則老道不會打斷。",
+      "translated_vi": "Đoạn nói tưởng như vô tình của Hằng Nga hẳn là chứa đựng điều gì vô cùng quan trọng, bằng không lão đạo đã chẳng cắt ngang."
+    },
+    {
+      "para_id": "c0281p0074",
+      "index": 74,
+      "raw_zh": "雲千峰笑道：",
+      "translated_vi": "Vân Thiên Phong cười nói:"
+    },
+    {
+      "para_id": "c0281p0075",
+      "index": 75,
+      "raw_zh": "“那你告訴我，如果我這組數據，在全知之眼內受到其它數據的干擾會如何？”",
+      "translated_vi": "“Vậy ông nói cho tôi biết đi, nếu cụm dữ liệu này của tôi bị các dữ liệu khác can thiệp bên trong Toàn Tri Chi Nhãn thì sẽ ra sao?”"
+    },
+    {
+      "para_id": "c0281p0076",
+      "index": 76,
+      "raw_zh": "老道笑道：",
+      "translated_vi": "Lão đạo cười đáp:"
+    },
+    {
+      "para_id": "c0281p0077",
+      "index": 77,
+      "raw_zh": "“不會如何，全知之眼內，永生不死。”",
+      "translated_vi": "“Chẳng sao cả, bên trong Toàn Tri Chi Nhãn là vĩnh sinh bất tử.”"
+    },
+    {
+      "para_id": "c0281p0078",
+      "index": 78,
+      "raw_zh": "“謊言！”",
+      "translated_vi": "“Nói dối!”"
+    },
+    {
+      "para_id": "c0281p0079",
+      "index": 79,
+      "raw_zh": "雲千峰第一時間判定，老道說的是謊話，但是他沒出口反駁。",
+      "translated_vi": "Vân Thiên Phong lập tức phán đoán lão đạo đang nói dối, nhưng hắn không mở miệng phản bác."
+    },
+    {
+      "para_id": "c0281p0080",
+      "index": 80,
+      "raw_zh": "而是在心裡確定了一件事：",
+      "translated_vi": "Mà chỉ thầm khẳng định một điều trong lòng:"
+    },
+    {
+      "para_id": "c0281p0081",
+      "index": 81,
+      "raw_zh": "“全知之眼內，也能被殺死。”",
+      "translated_vi": "“Bên trong Toàn Tri Chi Nhãn cũng có thể bị giết chết.”"
+    },
+    {
+      "para_id": "c0281p0082",
+      "index": 82,
+      "raw_zh": "不過雲千峰面色不變，點了點頭，表示自己知道了，然後道：",
+      "translated_vi": "Thế nhưng sắc mặt Vân Thiên Phong vẫn không đổi, gật đầu ra vẻ mình đã hiểu, rồi nói:"
+    },
+    {
+      "para_id": "c0281p0083",
+      "index": 83,
+      "raw_zh": "“幾千上萬年了，我和姮娥還沒洞房呢，你看她面具都不能摘，你說這事怎麽辦吧？”",
+      "translated_vi": "“Mấy ngàn vạn năm rồi, tôi với Hằng Nga còn chưa động phòng nữa kìa, ông nhìn xem, đến cả mặt nạ nàng ấy cũng không thể tháo, ông tính chuyện này giải quyết sao đây?”"
+    },
+    {
+      "para_id": "c0281p0084",
+      "index": 84,
+      "raw_zh": "老道一攤手，表示他也沒辦法。",
+      "translated_vi": "Lão đạo dang hai tay ra, tỏ ý mình cũng chịu chết."
+    },
+    {
+      "para_id": "c0281p0085",
+      "index": 85,
+      "raw_zh": "雲千峰顰眉看著遠處，問道：",
+      "translated_vi": "Vân Thiên Phong chau mày nhìn về phía xa, hỏi:"
+    },
+    {
+      "para_id": "c0281p0086",
+      "index": 86,
+      "raw_zh": "“姮娥，河水是溫泉嗎？”",
+      "translated_vi": "“Hằng Nga, nước sông là suối nước nóng à?”"
+    },
+    {
+      "para_id": "c0281p0087",
+      "index": 87,
+      "raw_zh": "姮娥柔聲道：",
+      "translated_vi": "Hằng Nga dịu dàng đáp:"
+    },
+    {
+      "para_id": "c0281p0088",
+      "index": 88,
+      "raw_zh": "“可以是溫泉，這裡是月球之內，你該知道這裡是什麽。”",
+      "translated_vi": "“Có thể là suối nước nóng, nơi này là bên trong Mặt Trăng, chàng hẳn phải biết nơi đây là gì.”"
+    },
+    {
+      "para_id": "c0281p0089",
+      "index": 89,
+      "raw_zh": "雲千峰點頭道：",
+      "translated_vi": "Vân Thiên Phong gật đầu nói:"
+    },
+    {
+      "para_id": "c0281p0090",
+      "index": 90,
+      "raw_zh": "“機器。”",
+      "translated_vi": "“Cỗ máy.”"
+    },
+    {
+      "para_id": "c0281p0091",
+      "index": 91,
+      "raw_zh": "姮娥轉頭對九屠道：",
+      "translated_vi": "Hằng Nga quay đầu nói với Cửu Đồ:"
+    },
+    {
+      "para_id": "c0281p0092",
+      "index": 92,
+      "raw_zh": "“我侍奉良人洗浴，不會離開你們的視線，這裡一切言語你們也聽得到，就不需要擔心什麽了。",
+      "translated_vi": "“Ta hầu hạ lang quân tắm gội, sẽ không rời khỏi tầm mắt các ngươi, mọi lời nói ở đây các ngươi cũng đều nghe thấy, không cần phải lo lắng điều gì."
+    },
+    {
+      "para_id": "c0281p0093",
+      "index": 93,
+      "raw_zh": "我是帝女，雖然外嫁，但依舊是帝女，我分得清輕重。",
+      "translated_vi": "Ta là Đế Nữ, tuy đã xuất giá nhưng vẫn là Đế Nữ, ta tự biết phân biệt nặng nhẹ."
+    },
+    {
+      "para_id": "c0281p0094",
+      "index": 94,
+      "raw_zh": "但你們也要理解我與良人的萬年之苦，我心疼他。”",
+      "translated_vi": "Nhưng các ngươi cũng phải thấu hiểu nỗi khổ vạn năm của ta và lang quân, ta xót chàng.”"
+    },
+    {
+      "para_id": "c0281p0095",
+      "index": 95,
+      "raw_zh": "九屠對姮娥說話可不敢笑嘻嘻，幾個人急忙行禮，表示不敢不從。",
+      "translated_vi": "Cửu Đồ đâu dám cợt nhả khi nói chuyện với Hằng Nga, mấy người vội vàng hành lễ, tỏ ý không dám không nghe theo."
+    },
+    {
+      "para_id": "c0281p0096",
+      "index": 96,
+      "raw_zh": "姮娥牽著雲千峰的手來到那河邊，此處距離九屠在幾十米外。",
+      "translated_vi": "Hằng Nga dắt tay Vân Thiên Phong bước tới bờ sông, nơi này cách đám người Cửu Đồ mấy chục mét."
+    },
+    {
+      "para_id": "c0281p0097",
+      "index": 97,
+      "raw_zh": "姮娥動手卸掉雲千峰身上的皮甲，引著他來到已經變得溫暖的河流之中。",
+      "translated_vi": "Hằng Nga cởi bỏ giáp da trên người Vân Thiên Phong, dẫn hắn bước xuống dòng sông đã trở nên ấm áp."
+    },
+    {
+      "para_id": "c0281p0098",
+      "index": 98,
+      "raw_zh": "她自己也穿著長裙跟著走入水中。",
+      "translated_vi": "Bản thân nàng cũng vận nguyên chiếc váy dài bước xuống dòng nước."
+    },
+    {
+      "para_id": "c0281p0099",
+      "index": 99,
+      "raw_zh": "河流不寬，只有幾米，但卻不淺，站在其中，恰好只有脖子以外在水面上。",
+      "translated_vi": "Dòng sông không rộng, chỉ chừng vài mét, nhưng lại không hề nông, đứng ở bên trong, vừa khéo chỉ có phần từ cổ trở lên là ở trên mặt nước."
+    },
+    {
+      "para_id": "c0281p0100",
+      "index": 100,
+      "raw_zh": "姮娥輕輕的擦拭雲千峰身上的風塵，身體圍著雲千峰緩緩移動，當她的後背方向對著九屠時，姮娥回手，撩動了一下頭髮，但手指卻在撩動頭髮的路程裡，把衣襟牽開了一塊。",
+      "translated_vi": "Hằng Nga nhẹ nhàng lau đi bụi trần trên người Vân Thiên Phong, thân thể chậm rãi di chuyển quanh hắn. Khi lưng nàng vừa vặn chắn ngang tầm mắt của Cửu Đồ, Hằng Nga vòng tay ra sau, vuốt nhẹ mái tóc một cái, thế nhưng trong lúc vuốt tóc, ngón tay nàng lại khẽ kéo vạt áo hé mở một góc."
+    },
+    {
+      "para_id": "c0281p0101",
+      "index": 101,
+      "raw_zh": "雲千峰立馬看到那雪白的脖頸上，一個掛墜吊在那裡。",
+      "translated_vi": "Vân Thiên Phong lập tức nhìn thấy trên chiếc cổ trắng ngần kia, có một mặt dây chuyền đang rủ xuống."
+    },
+    {
+      "para_id": "c0281p0102",
+      "index": 102,
+      "raw_zh": "那是一尊佛像。",
+      "translated_vi": "Đó là một pho tượng Phật."
+    },
+    {
+      "para_id": "c0281p0103",
+      "index": 103,
+      "raw_zh": "這小小的佛像雕工極為精致，其頭戴寶冠、身披天衣、瓔珞裝飾的天人相，一手持錫杖、一手持蓮花，正是地藏王象。",
+      "translated_vi": "Bức tượng Phật nhỏ bé này chạm trổ vô cùng tinh xảo, tướng mạo thiên nhân đầu đội bảo quan, khoác thiên y, điểm xuyết anh lạc, một tay cầm tích trượng, một tay cầm hoa sen, chính là pháp tướng Địa Tạng Vương."
+    },
+    {
+      "para_id": "c0281p0104",
+      "index": 104,
+      "raw_zh": "“奇怪，姮娥怎麽會帶佛像？她的古老遠遠超過這些，怎麽會突然戴著這個？”",
+      "translated_vi": "“Kỳ lạ, sao Hằng Nga lại đeo tượng Phật? Nàng vốn dĩ cổ xưa hơn những thứ này rất nhiều, sao đột nhiên lại đeo món đồ này?”"
+    },
+    {
+      "para_id": "c0281p0105",
+      "index": 105,
+      "raw_zh": "“是了，她是故意給我看這金吊墜，她不能說話，不能有讓人懷疑的動作，只能用意想不到的方式向我傳達信息，這地藏王金吊墜，就是她要給我的信息，可這是什麽意思呢？”",
+      "translated_vi": "“Phải rồi, nàng cố ý cho mình xem mặt dây chuyền vàng này. Nàng không thể nói, không thể làm ra những động tác khiến kẻ khác nghi ngờ, chỉ đành dùng phương thức không ai ngờ tới để truyền đạt tin tức cho mình. Mặt dây chuyền vàng hình Địa Tạng Vương này chính là thông điệp nàng muốn gửi tới, nhưng rốt cuộc nó có ý nghĩa gì chứ?”"
+    },
+    {
+      "para_id": "c0281p0106",
+      "index": 106,
+      "raw_zh": "感謝龍青蓮、書友尾數17573、書友尾數55783、苒喲、書友尾數51414、書友尾數59686、Xenomorph的月票獎勵，謝謝你們的支持！！！",
+      "translated_vi": "Cảm tạ Long Thanh Liên, bạn đọc có đuôi số 17573, bạn đọc có đuôi số 55783, Nhiễm Dữ, bạn đọc có đuôi số 51414, bạn đọc có đuôi số 59686, Xenomorph đã tặng thưởng phiếu tháng, cảm ơn sự ủng hộ của mọi người!!!"
+    },
+    {
+      "para_id": "c0281p0107",
+      "index": 107,
+      "raw_zh": "今天睡飽了，晚上碼字，開工！！！",
+      "translated_vi": "Hôm nay đã ngủ đẫy giấc rồi, tối nay gõ chữ, bắt đầu làm việc thôi!!!"
+    },
+    {
+      "para_id": "c0281p0108",
+      "index": 108,
+      "raw_zh": "祝大家好夢，晚安！！！",
+      "translated_vi": "Chúc mọi người mộng đẹp, ngủ ngon!!!"
+    }
+  ]
+}

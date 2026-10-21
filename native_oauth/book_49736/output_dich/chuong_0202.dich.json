@@ -1,0 +1,523 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 202,
+  "title": "Chương 202: Ánh Trăng Sáng Và Chuyện Kỳ Quái",
+  "total_paragraphs": 85,
+  "translated_paragraphs": 85,
+  "source_hash": "8f62e6ea73f37ca477072c5610fcf5bbf527bb6671a086a6a9cfec07c0f38aab",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0202p0001",
+      "index": 1,
+      "raw_zh": "第202章 白月光和古怪事",
+      "translated_vi": "Chương 202: Ánh Trăng Sáng Và Chuyện Kỳ Quái"
+    },
+    {
+      "para_id": "c0202p0002",
+      "index": 2,
+      "raw_zh": "雲氏在泰國開枝散葉近兩百年，族人早就遍布各地，有混得好的，自然也有混的差的。",
+      "translated_vi": "Dòng họ Vân cắm rễ khai cành tán lá ở đất Thái Lan ngót nghét gần hai trăm năm, con cháu trong họ từ lâu đã rải rác khắp muôn nơi, dĩ nhiên có người công thành danh toại, cũng chẳng thiếu kẻ sa sút bần hàn."
+    },
+    {
+      "para_id": "c0202p0003",
+      "index": 3,
+      "raw_zh": "雲千峰要找的這個人，原本是泰國這一脈雲氏的長房，但是後來家境落寞，三代前單傳的長房長孫做了上門女婿，孩子跟了女家的姓氏。",
+      "translated_vi": "Người mà Vân Thiên Phong muốn tìm kiếm vốn dĩ thuộc chi trưởng của nhánh họ Vân tại Thái Lan, ngặt nỗi về sau gia cảnh lụn bại, ba đời trước vị trưởng tử đích tôn độc đinh đã phải đi ở rể, con cái sinh ra đều mang theo họ mẹ."
+    },
+    {
+      "para_id": "c0202p0004",
+      "index": 4,
+      "raw_zh": "結果三代後，兩次金融W機，女方家境也自破敗。",
+      "translated_vi": "Nào ngờ qua ba đời sau, trải qua hai đợt khủng hoảng tài chính toàn cầu, phía nhà ngoại cũng theo đó mà phá sản khánh kiệt."
+    },
+    {
+      "para_id": "c0202p0005",
+      "index": 5,
+      "raw_zh": "隻留下了一根獨苗女娃，名叫婉娜拉·宋提查，也就是雲千峰將要尋找的目標。",
+      "translated_vi": "Rốt cuộc chỉ còn sót lại duy nhất một mụn con gái độc nhất, tên là Wannarot Sonthichai, cũng chính là mục tiêu mà Vân Thiên Phong đang nhắm tới."
+    },
+    {
+      "para_id": "c0202p0006",
+      "index": 6,
+      "raw_zh": "羅琳娜手下的白妹子是尋人的高手，不過泰國並沒有她的人手，重新布置之下，用了一周的時間，才把婉娜拉·宋提查的詳盡資料發到了雲千峰的手機裡。",
+      "translated_vi": "Bạch muội tử dưới trướng Lorina vốn là một cao thủ điều tra tung tích, song cô ả lại không có sẵn tai mắt tại Thái Lan, sau khi sắp đặt lại mạng lưới nhân sự, phải mất trọn một tuần lễ mới gửi được tập tài liệu tường tận về Wannarot Sonthichai vào điện thoại của Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0202p0007",
+      "index": 7,
+      "raw_zh": "包括她的長相，居住地址，人生履歷，祖宗三代，個人愛好，三圍等等。",
+      "translated_vi": "Bao gồm từ diện mạo, địa chỉ cư trú, sơ yếu lý lịch, tông tích ba đời, sở thích cá nhân cho đến số đo ba vòng..."
+    },
+    {
+      "para_id": "c0202p0008",
+      "index": 8,
+      "raw_zh": "雲千峰足足在曼谷吃喝玩樂一周，才先乘坐火車，然後轉乘媚河的小型客輪，直奔婉娜拉·宋提查的居住地黎府而去。",
+      "translated_vi": "Vân Thiên Phong thỏa thuê ăn chơi nhảy múa ở Bangkok suốt cả tuần lễ, sau đó mới bắt chuyến tàu hỏa rồi chuyển sang đi tàu khách cỡ nhỏ xuôi theo dòng sông Mê Kông, chạy thẳng tới tỉnh Loei - nơi cư ngụ của Wannarot Sonthichai."
+    },
+    {
+      "para_id": "c0202p0009",
+      "index": 9,
+      "raw_zh": "黎府不是外國旅客傾慕的旅遊路線，所以大多數去往那裡的客輪可不是旅遊者坐的那種乾淨舒適的小遊輪。",
+      "translated_vi": "Tỉnh Loei vốn không phải là tuyến du lịch ưa chuộng của du khách ngoại quốc, bởi thế phần lớn tàu thuyền đi đến nơi này chẳng hề sạch sẽ tiện nghi như những chiếc du thuyền nhỏ phục vụ khách tham quan."
+    },
+    {
+      "para_id": "c0202p0010",
+      "index": 10,
+      "raw_zh": "這客輪內擁擠簡陋不說，而且充滿了各種怪味，不但有人，還有帶著雞鴨兔子去黎府城鎮販賣的當地人。",
+      "translated_vi": "Khoang tàu khách này chẳng những chật chội tồi tàn mà còn sực lên đủ thứ mùi hôi hám kỳ quặc; bên trong không chỉ chen chúc hành khách mà còn có cả người bản xứ mang theo lồng gà, vịt, thỏ vào các thị trấn thuộc tỉnh Loei để buôn bán."
+    },
+    {
+      "para_id": "c0202p0011",
+      "index": 11,
+      "raw_zh": "相比較來說，雲千峰抱著的白狐法緹娜，是這裡最乾淨的其他動物。",
+      "translated_vi": "So bì ra thì con cáo trắng Fatina được Vân Thiên Phong ôm trong lòng chính là sinh vật sạch sẽ tinh tươm nhất trong số muôn loài ở chốn này."
+    },
+    {
+      "para_id": "c0202p0012",
+      "index": 12,
+      "raw_zh": "從登船開始，白狐法緹娜就始終把腦袋伸出窗外，吹著河風，打死也不把腦袋收回客輪內，那味道讓她無法呼吸。",
+      "translated_vi": "Kể từ lúc bước chân lên tàu, cáo trắng Fatina đã luôn thò hẳn đầu ra ngoài cửa sổ để đón gió sông, có đánh chết cũng quyết không thụt đầu vào trong khoang, cái mùi xú uế bên trong khiến cô ngạt thở không tài nào chịu nổi."
+    },
+    {
+      "para_id": "c0202p0013",
+      "index": 13,
+      "raw_zh": "雲千峰倒是皮實，對環境渾不在意，拿著手機看著婉娜拉·宋提查的資料。",
+      "translated_vi": "Vân Thiên Phong trái lại lại rất chai lì, đối với hoàn cảnh xung quanh chẳng mảy may bận tâm, chỉ thản nhiên cầm điện thoại xem hồ sơ của Wannarot Sonthichai."
+    },
+    {
+      "para_id": "c0202p0014",
+      "index": 14,
+      "raw_zh": "“長得還挺漂亮，個子這麽矮，該大的地方倒是不小，不知道是不是人工的；不要胡思亂想，這算不算親戚啊？",
+      "translated_vi": "“Trông cũng khá xinh xắn đấy chứ, người thấp bé hạt tiêu thế này mà chỗ cần đẫy đà lại chẳng hề khiêm tốn chút nào, không biết có phải hàng nhân tạo hay không; thôi đừng nghĩ linh tinh nữa, tính ra đây có được coi là họ hàng không nhỉ?"
+    },
+    {
+      "para_id": "c0202p0015",
+      "index": 15,
+      "raw_zh": "十八九歲，大學不去上，天天鬼混，這得管管。不過混得不好這很好啊，想來要買八姓竹書不是難事”",
+      "translated_vi": "Mới mười tám mười chín tuổi đầu, đại học thì không chịu học, tối ngày chỉ biết đàn đúm lêu lổng, cái này phải chấn chỉnh lại mới được. Nhưng mà sa cơ lỡ vận thế này kể ra cũng tốt, xem chừng muốn hỏi mua lại Bát Tính Trúc Thư sẽ chẳng phải chuyện gì khó khăn...”"
+    },
+    {
+      "para_id": "c0202p0016",
+      "index": 16,
+      "raw_zh": "正想著，白狐法緹娜竟然破天荒的把腦袋收回了客輪內，客輪內的氣味讓白狐法緹娜的小臉扭曲了一下，然後把尖細的嘴巴貼著雲千峰的耳朵低聲道：",
+      "translated_vi": "Đang miên man suy nghĩ thì cáo trắng Fatina bỗng nhiên phá lệ rụt đầu trở lại vào trong khoang tàu; thứ mùi hỗn tạp bốc lên khiến khuôn mặt nhỏ nhắn của cáo trắng Fatina méo xệch đi một thoáng, đoạn ghé cái mõm nhọn sát tai Vân Thiên Phong thì thào:"
+    },
+    {
+      "para_id": "c0202p0017",
+      "index": 17,
+      "raw_zh": "“看窗外，快！”",
+      "translated_vi": "“Mau nhìn ra ngoài cửa sổ, nhanh lên!”"
+    },
+    {
+      "para_id": "c0202p0018",
+      "index": 18,
+      "raw_zh": "雲千峰急忙轉頭，看向客輪那沒有窗戶的窗外。",
+      "translated_vi": "Vân Thiên Phong vội ngoảnh đầu nhìn ra ô cửa sổ không có kính chắn của mạn thuyền."
+    },
+    {
+      "para_id": "c0202p0019",
+      "index": 19,
+      "raw_zh": "就見一艘遊艇快速的馳騁在媚河之上，在遊艇的甲板上，穩穩的站立著一個穿著黑色長風衣的男人。",
+      "translated_vi": "Liền thấy một chiếc ca nô cao tốc đang rẽ sóng lao vun vút trên mặt sông Mê Kông; trên boong thuyền, một gã đàn ông mặc áo măng tô đen dài chấm gót đang đứng sừng sững bất động."
+    },
+    {
+      "para_id": "c0202p0020",
+      "index": 20,
+      "raw_zh": "這男人極為高大，頭頂沒有頭髮，帶著墨鏡，手上帶著黑手套，僅僅露出的一點臉上的皮膚，泛著油光，顯然是塗了太多防曬霜。",
+      "translated_vi": "Gã đàn ông này vóc người cực kỳ vạm vỡ hộ pháp, đầu trọc lốc không một sợi tóc, đeo kính râm đen kịt, hai tay mang găng tay da đen, chút da thịt hiếm hoi lộ ra trên mặt bóng nhẫy, rõ ràng là bôi trát quá nhiều kem chống nắng."
+    },
+    {
+      "para_id": "c0202p0021",
+      "index": 21,
+      "raw_zh": "本是陰沉的天氣，烏雲蓋頂，可是並沒有下雨，但是這黑衣人卻打著一把很大的黑傘。",
+      "translated_vi": "Trời đang lúc âm u xám xịt, mây đen giăng kín đỉnh đầu nhưng tuyệt nhiên không hề có mưa rơi, thế mà tên người áo đen kia lại bung một chiếc ô đen rất lớn che trên đầu."
+    },
+    {
+      "para_id": "c0202p0022",
+      "index": 22,
+      "raw_zh": "“幹嘛？你就是為了讓我看一個很怕曬的，愛臭美的醜男？”",
+      "translated_vi": "“Làm gì thế? Cô gọi tôi chỉ để nhìn một gã đàn ông xấu xí vừa sợ bắt nắng vừa làm bộ làm tịch này thôi sao?”"
+    },
+    {
+      "para_id": "c0202p0023",
+      "index": 23,
+      "raw_zh": "白狐法緹娜白了雲千峰一眼，道：",
+      "translated_vi": "Cáo trắng Fatina lườm nguýt Vân Thiên Phong một cái, bảo:"
+    },
+    {
+      "para_id": "c0202p0024",
+      "index": 24,
+      "raw_zh": "“他是奇跡號上的人，我見過他一眼，就在我們去中央大廳的時候，他站在甲板上看月亮。”",
+      "translated_vi": "“Hắn là người trên du thuyền Kỳ Tích đấy! Tôi từng liếc thấy hắn một lần, đúng vào lúc chúng ta đến đại sảnh trung tâm, khi đó hắn đứng trên boong tàu ngắm trăng.”"
+    },
+    {
+      "para_id": "c0202p0025",
+      "index": 25,
+      "raw_zh": "去中央大廳的時候，是傍晚，那時候的光線讓雲千峰沒法看清楚很遠，但是卻不耽誤白狐的視力。",
+      "translated_vi": "Khi tới đại sảnh trung tâm là vào buổi chạng vạng tối, ánh sáng lúc ấy khiến mắt người như Vân Thiên Phong không thể nhìn quá xa, song với thị lực sắc bén của loài cáo thì chẳng hề hấn gì."
+    },
+    {
+      "para_id": "c0202p0026",
+      "index": 26,
+      "raw_zh": "雲千峰算了一下時間，說道：",
+      "translated_vi": "Vân Thiên Phong tính toán lại mốc thời gian một chút rồi nói:"
+    },
+    {
+      "para_id": "c0202p0027",
+      "index": 27,
+      "raw_zh": "“按照行程，奇跡號應該也是到了泰國附近的海域。”",
+      "translated_vi": "“Chiếu theo hải trình thì du thuyền Kỳ Tích vào thời điểm này hẳn cũng đã cập vùng biển lân cận Thái Lan.”"
+    },
+    {
+      "para_id": "c0202p0028",
+      "index": 28,
+      "raw_zh": "白狐法緹娜低聲道：",
+      "translated_vi": "Cáo trắng Fatina hạ thấp giọng:"
+    },
+    {
+      "para_id": "c0202p0029",
+      "index": 29,
+      "raw_zh": "“聯想到那詭異的舞會，我總覺得這個人出現在這裡，會有事情發生。”",
+      "translated_vi": "“Liên tưởng tới buổi vũ hội quỷ dị kia, tôi luôn có linh cảm rằng gã này xuất hiện ở đây ắt sẽ có chuyện chẳng lành xảy ra.”"
+    },
+    {
+      "para_id": "c0202p0030",
+      "index": 30,
+      "raw_zh": "雲千峰歎氣道：",
+      "translated_vi": "Vân Thiên Phong thở dài nói:"
+    },
+    {
+      "para_id": "c0202p0031",
+      "index": 31,
+      "raw_zh": "“這個世界，每分每秒都有不好的事情在發生著，我們管不到那麽多的，做好自己就很好了，而且我們可以出現在這裡，他一樣可以，或許都是有自己的私事。”",
+      "translated_vi": "“Trên cõi đời này, từng phút từng giây đều có những điều tồi tệ diễn ra, chúng ta đâu thể ôm đồm quản hết được, lo chu toàn phận mình là tốt lắm rồi. Vả lại chúng ta xuất hiện ở đây được thì người ta cũng vậy thôi, biết đâu hắn cũng có việc riêng cần giải quyết.”"
+    },
+    {
+      "para_id": "c0202p0032",
+      "index": 32,
+      "raw_zh": "說完，縮回腦袋，繼續研究婉娜拉·宋提查的資料。",
+      "translated_vi": "Dứt lời, anh rụt đầu lại, tiếp tục nghiên cứu hồ sơ của Wannarot Sonthichai."
+    },
+    {
+      "para_id": "c0202p0033",
+      "index": 33,
+      "raw_zh": "正看著，手機彈出一條新聞。",
+      "translated_vi": "Đang xem thì màn hình điện thoại bỗng nhảy lên một mẩu tin tức thông báo."
+    },
+    {
+      "para_id": "c0202p0034",
+      "index": 34,
+      "raw_zh": "點開新聞網頁，自動翻譯。",
+      "translated_vi": "Nhấp vào trang tin tức, trình duyệt tự động dịch sang tiếng bản ngữ:"
+    },
+    {
+      "para_id": "c0202p0035",
+      "index": 35,
+      "raw_zh": "“近四百年來最大的滿月將降臨泰國，明天夜裡的月色一定極美，不過拒天文學家介紹，要看到世界上最大的滿月，黎府浦卡山是最佳的觀景地點此次月球低軌周期還有月余，也就意味著在太平洋深處，還能再見到一次幾百年來最大的滿月，而上一次是在印度洋最後還要提醒大家，在天亮時入山，小心毒蟲。”",
+      "translated_vi": "“Hiện tượng trăng tròn lớn nhất trong gần bốn trăm năm qua sắp xuất hiện trên bầu trời Thái Lan, ánh trăng đêm mai chắc chắn sẽ vô cùng mỹ lệ. Tuy nhiên theo các nhà thiên văn học chia sẻ, để chiêm ngưỡng vầng trăng tròn lớn nhất thế giới này thì đỉnh núi Phu Kha thuộc tỉnh Loei chính là địa điểm quan sát lý tưởng nhất... Chu kỳ Mặt Trăng ở quỹ đạo thấp lần này vẫn còn kéo dài hơn một tháng, đồng nghĩa với việc tại vùng biển sâu thuộc Thái Bình Dương, người ta sẽ còn được chứng kiến siêu trăng lớn nhất hàng trăm năm thêm một lần nữa, còn lần trước đó chính là ở Ấn Độ Dương... Sau cùng, xin khuyến cáo mọi người chỉ nên vào núi lúc trời sáng rõ và cẩn thận phòng tránh côn trùng có độc.”"
+    },
+    {
+      "para_id": "c0202p0036",
+      "index": 36,
+      "raw_zh": "下意識的，看到這個彈屏新聞後，雲千峰急忙轉頭看向窗外，只是那站著黑衣人的快艇已經遠遠的把客輪拋在後面，只在水天交界處留下一個黑點。",
+      "translated_vi": "Theo phản xạ tự nhiên sau khi đọc mẩu tin thông báo ấy, Vân Thiên Phong vội vã quay đầu nhìn ra ngoài cửa sổ; chỉ có điều chiếc ca nô chở tên người áo đen kia đã bỏ xa con tàu khách tồi tàn lại phía sau, chỉ còn sót lại một chấm đen nhỏ nhoi nơi ranh giới giữa sông nước và chân trời."
+    },
+    {
+      "para_id": "c0202p0037",
+      "index": 37,
+      "raw_zh": "法緹娜發現了雲千峰的異樣，忍著難聞的味道縮回毛茸茸的小腦袋，貼著耳根問道：",
+      "translated_vi": "Fatina phát giác ra nét dị thường của Vân Thiên Phong, bèn cố nén thứ mùi nồng nặc để rụt chiếc đầu lông xù vào sát vành tai anh, hỏi nhỏ:"
+    },
+    {
+      "para_id": "c0202p0038",
+      "index": 38,
+      "raw_zh": "“怎麽了？”",
+      "translated_vi": "“Sao thế anh?”"
+    },
+    {
+      "para_id": "c0202p0039",
+      "index": 39,
+      "raw_zh": "看到周圍的人也都在吸煙，雲千峰煙癮犯了，也點了根煙，吸了口才低聲道：",
+      "translated_vi": "Trông thấy mọi người xung quanh đều đang phì phèo nhả khói, cơn thèm thuốc của Vân Thiên Phong lại trỗi dậy, anh cũng châm một điếu thuốc, rít một hơi dài rồi mới trầm giọng bảo:"
+    },
+    {
+      "para_id": "c0202p0040",
+      "index": 40,
+      "raw_zh": "“黎府明天夜裡能看到幾百年來最大的滿月。”",
+      "translated_vi": "“Đêm mai tại tỉnh Loei có thể ngắm vầng trăng tròn lớn nhất trong suốt mấy trăm năm qua.”"
+    },
+    {
+      "para_id": "c0202p0041",
+      "index": 41,
+      "raw_zh": "白狐法緹娜納悶道：",
+      "translated_vi": "Cáo trắng Fatina khó hiểu:"
+    },
+    {
+      "para_id": "c0202p0042",
+      "index": 42,
+      "raw_zh": "“這怎麽了？天道運行，概率事件，這次可能就是蒲卡山的緯度觀看月亮才是最大的，這沒什麽奇怪。”",
+      "translated_vi": "“Thế thì có làm sao đâu? Thiên thể vận hành, chuyện xác suất thôi mà, lần này có lẽ do vĩ độ của núi Phu Kha là góc ngắm trăng tròn to nhất, chẳng có gì kỳ lạ cả.”"
+    },
+    {
+      "para_id": "c0202p0043",
+      "index": 43,
+      "raw_zh": "雲千峰低聲道：",
+      "translated_vi": "Vân Thiên Phong trầm giọng thì thào:"
+    },
+    {
+      "para_id": "c0202p0044",
+      "index": 44,
+      "raw_zh": "“上一次是印度洋，我們參加舞會那晚的海面坐標，看到的滿月最大。”",
+      "translated_vi": "“Lần trước là ở Ấn Độ Dương, ngay tại tọa độ mặt biển đêm hôm chúng ta tham dự buổi vũ hội kia, góc ngắm trăng tròn cũng là to nhất.”"
+    },
+    {
+      "para_id": "c0202p0045",
+      "index": 45,
+      "raw_zh": "說著，在網頁裡找到了奇跡號此次的航行路線，對照方才的彈窗新聞，繼續道：",
+      "translated_vi": "Nói đoạn, anh tìm kiếm hải trình lần này của du thuyền Kỳ Tích trên mạng, đối chiếu với mẩu tin vừa xem rồi tiếp tục:"
+    },
+    {
+      "para_id": "c0202p0046",
+      "index": 46,
+      "raw_zh": "“奇跡號遊輪的航行路線，就是月球低軌周期每一個最佳的觀景點，月亮一定與那些人要做的事情有關！”",
+      "translated_vi": "“Lộ trình di chuyển của du thuyền Kỳ Tích chính là từng điểm quan sát hoàn hảo nhất trong chu kỳ Mặt Trăng ở quỹ đạo thấp! Mặt Trăng chắc chắn có can hệ mật thiết tới những mưu tính của đám người kia!”"
+    },
+    {
+      "para_id": "c0202p0047",
+      "index": 47,
+      "raw_zh": "這才是雲千峰心裡不舒服的主要原因。",
+      "translated_vi": "Đây mới chính là nguyên nhân chủ yếu khiến cõi lòng Vân Thiên Phong cảm thấy bất an bồn chồn."
+    },
+    {
+      "para_id": "c0202p0048",
+      "index": 48,
+      "raw_zh": "姮娥是月神，居住在上古南山，而上古南山很可能就是月亮。",
+      "translated_vi": "Hằng Nga là Nguyệt Thần, ngụ tại Nam Sơn thời thượng cổ, mà Nam Sơn thời thượng cổ rất có thể chính là Mặt Trăng."
+    },
+    {
+      "para_id": "c0202p0049",
+      "index": 49,
+      "raw_zh": "也就是說，如果姮娥真的還活著，那麽祂應該就在月亮上。",
+      "translated_vi": "Nói cách khác, nếu như Hằng Nga thực sự còn sống, vậy thì Ngài ắt hẳn đang ở trên Mặt Trăng."
+    },
+    {
+      "para_id": "c0202p0050",
+      "index": 50,
+      "raw_zh": "而如今，那些人的詭異行為很可能與低軌道的滿月有著直接的聯系，是不是也就意味著，那些食人的家夥所做的事情，與姮娥有著撇不開的關系？",
+      "translated_vi": "Mà hiện tại, những hành vi quái đản của đám người kia rất có thể liên quan trực tiếp tới hiện tượng trăng tròn ở quỹ đạo thấp, liệu điều đó có đồng nghĩa với việc những thứ quái vật ăn thịt người kia đang làm những chuyện dính líu không thể chối bỏ với Hằng Nga?"
+    },
+    {
+      "para_id": "c0202p0051",
+      "index": 51,
+      "raw_zh": "無論怎麽說，雲千峰第一次拜堂，是姮娥。",
+      "translated_vi": "Bất luận nói thế nào đi chăng nữa, người đầu tiên mà Vân Thiên Phong bái đường thành thân chính là Hằng Nga."
+    },
+    {
+      "para_id": "c0202p0052",
+      "index": 52,
+      "raw_zh": "雖然只是夢中一面，但一種很特殊的情感已經埋在心裡。",
+      "translated_vi": "Dẫu chỉ là một lần tao ngộ thoáng qua trong mộng cảnh, nhưng một thứ tình cảm vô cùng đặc biệt đã sớm chôn chặt nơi đáy lòng anh."
+    },
+    {
+      "para_id": "c0202p0053",
+      "index": 53,
+      "raw_zh": "“這些食人的東西，與姮娥有關系嗎？”",
+      "translated_vi": "“Những thứ súc sinh ăn thịt người này rốt cuộc có liên hệ gì với Hằng Nga hay không?”"
+    },
+    {
+      "para_id": "c0202p0054",
+      "index": 54,
+      "raw_zh": "白狐法緹娜不知道這些事情，她思考的是現實問題。",
+      "translated_vi": "Cáo trắng Fatina không hề hay biết những uẩn khúc này, điều cô đang suy tính là vấn đề thực tế trước mắt."
+    },
+    {
+      "para_id": "c0202p0055",
+      "index": 55,
+      "raw_zh": "“雲千峰，婉娜拉·宋提查就在黎府，那個光頭黑衣人看起來也是去黎府，不得不防啊！”",
+      "translated_vi": "“Vân Thiên Phong, Wannarot Sonthichai đang ở tỉnh Loei, mà tên đầu trọc áo đen kia trông bộ dạng cũng là tới tỉnh Loei, chúng ta không thể không đề phòng!”"
+    },
+    {
+      "para_id": "c0202p0056",
+      "index": 56,
+      "raw_zh": "雲千峰使勁的吸了一口煙，低聲罵道：",
+      "translated_vi": "Vân Thiên Phong rít mạnh một hơi thuốc, khẽ mắng:"
+    },
+    {
+      "para_id": "c0202p0057",
+      "index": 57,
+      "raw_zh": "“都怪你，為了省那點錢非要做客輪，我們要是租個快艇，早都到了！你一個神，怎麽對錢那麽吝嗇？丟神不丟神！”",
+      "translated_vi": "“Tất cả là tại cô đấy, cứ vì tiếc mấy đồng bạc lẻ mà nhất quyết đòi đi cái thuyền khách rách nát này! Nếu chúng ta thuê một chiếc ca nô cao tốc thì đã đến nơi từ đời tám hoánh rồi! Cô đường đường là một vị Thần, sao lại keo kiệt bủn xỉn với tiền bạc đến thế hả? Không thấy mất mặt cho giới Thần linh à!”"
+    },
+    {
+      "para_id": "c0202p0058",
+      "index": 58,
+      "raw_zh": "白狐法緹娜呲牙，道：",
+      "translated_vi": "Cáo trắng Fatina nhe răng nanh, gắt:"
+    },
+    {
+      "para_id": "c0202p0059",
+      "index": 59,
+      "raw_zh": "“我查了，伱的銀行卡裡比我的錢多了幾倍，為什麽總是用我的？我要給阿菲法多留些錢。”",
+      "translated_vi": "“Tôi tra rồi nhé, tiền trong thẻ ngân hàng của anh nhiều gấp mấy lần của tôi, cớ sao lúc nào cũng bắt tôi quẹt thẻ? Tôi còn phải để dành tiền cho Afifa nữa chứ!”"
+    },
+    {
+      "para_id": "c0202p0060",
+      "index": 60,
+      "raw_zh": "一人一狐，兩個守財奴面面相覷良久，雲千峰吐了個煙圈，道：",
+      "translated_vi": "Một người một cáo, hai kẻ vắt cổ chày ra nước trừng mắt nhìn nhau hồi lâu, Vân Thiên Phong nhả một làn khói tròn, bảo:"
+    },
+    {
+      "para_id": "c0202p0061",
+      "index": 61,
+      "raw_zh": "“下次用羅琳娜的。”",
+      "translated_vi": "“Lần sau cứ quẹt thẻ của Lorina.”"
+    },
+    {
+      "para_id": "c0202p0062",
+      "index": 62,
+      "raw_zh": "擊掌，皆大歡喜，矛盾解除。",
+      "translated_vi": "Một người một cáo đập tay nhau cái bộp, đôi bên cùng hoan hỉ, mâu thuẫn lập tức tiêu tan."
+    },
+    {
+      "para_id": "c0202p0063",
+      "index": 63,
+      "raw_zh": "黎府，某小鎮。",
+      "translated_vi": "Tỉnh Loei, một thị trấn nọ."
+    },
+    {
+      "para_id": "c0202p0064",
+      "index": 64,
+      "raw_zh": "三男兩女正忙碌著往越野車裡放置一些戶外生存的用具。",
+      "translated_vi": "Ba gã đàn ông cùng hai cô gái đang tất bật xếp đồ dùng sinh tồn dã ngoại vào thùng xe việt dã."
+    },
+    {
+      "para_id": "c0202p0065",
+      "index": 65,
+      "raw_zh": "一個全身腱子肉，兩臂肘部套著護腕的男人一邊搬東西一邊雀躍道：",
+      "translated_vi": "Một gã thanh niên cơ bắp cuồn cuộn, hai bên khuỷu tay đeo băng bảo hộ, vừa khuân vác đồ vừa hớn hở nói:"
+    },
+    {
+      "para_id": "c0202p0066",
+      "index": 66,
+      "raw_zh": "“我們要抓緊行動，很多人都接到了活動的邀請卡，我們要抓緊趕去蒲卡山扎好營寨，這樣活動開始後，我們就能有更多的時間尋寶。”",
+      "translated_vi": "“Chúng ta phải nhanh chân lên mới được, rất nhiều người đều nhận được thiệp mời tham gia sự kiện rồi đấy, phải cấp tốc chạy tới núi Phu Kha dựng lều trại trước, như vậy lúc hoạt động bắt đầu chúng ta mới có nhiều thời gian đi săn kho báu!”"
+    },
+    {
+      "para_id": "c0202p0067",
+      "index": 67,
+      "raw_zh": "“安心啦，時間還早，好好檢查一下有沒有落下的工具，我猜測肯定有獎品是埋在土裡，工具很重要。”",
+      "translated_vi": "“Yên tâm đi, thời gian còn sớm chán, kiểm tra kỹ lại xem có bỏ quên dụng cụ nào không, tôi đoán chắc chắn sẽ có phần thưởng bị chôn dưới lòng đất đấy, đồ nghề mang theo là quan trọng nhất.”"
+    },
+    {
+      "para_id": "c0202p0068",
+      "index": 68,
+      "raw_zh": "“找到一個獎品，就是一萬美刀，我覺得我們要發財了！”",
+      "translated_vi": "“Chỉ cần đào được một món phần thưởng thôi là ẵm ngay một vạn đô la Mỹ rồi, tôi thấy phen này chúng ta sắp phát tài to đến nơi!”"
+    },
+    {
+      "para_id": "c0202p0069",
+      "index": 69,
+      "raw_zh": "“婉娜拉，如果這次我找到了獎品，你就嫁給我吧，因為我就是有錢人了。”",
+      "translated_vi": "“Wannarot à, nếu chuyến này tôi tìm được kho báu thì em gả cho tôi nhé, bởi vì lúc đó tôi đã là người có tiền rồi!”"
+    },
+    {
+      "para_id": "c0202p0070",
+      "index": 70,
+      "raw_zh": "婉娜拉正是雲千峰要去尋找的婉娜拉·宋提查，這五個男女都是無所事事遊手好閑的人，物以類聚。",
+      "translated_vi": "Cô gái tên Wannarot ấy chính là Wannarot Sonthichai mà Vân Thiên Phong đang cất công tìm kiếm; năm cô cậu thanh niên này thảy đều là những kẻ lông bông vô công rỗi nghề, đúng là ngưu tầm ngưu mã tầm mã."
+    },
+    {
+      "para_id": "c0202p0071",
+      "index": 71,
+      "raw_zh": "婉娜拉吸著煙，也不看旁邊說話的腱子肉男，說道：",
+      "translated_vi": "Wannarot phì phèo điếu thuốc trên môi, chẳng thèm liếc nhìn gã cơ bắp bên cạnh lấy một cái, nhạt giọng đáp:"
+    },
+    {
+      "para_id": "c0202p0072",
+      "index": 72,
+      "raw_zh": "“除非你找到一百個，否則別想我嫁給你。”",
+      "translated_vi": "“Trừ phi anh tìm được một trăm phần thưởng, bằng không đừng hòng mơ tưởng tôi gả cho anh.”"
+    },
+    {
+      "para_id": "c0202p0073",
+      "index": 73,
+      "raw_zh": "那腱子肉男哭臉，道：",
+      "translated_vi": "Gã thanh niên cơ bắp mếu máo rên rỉ:"
+    },
+    {
+      "para_id": "c0202p0074",
+      "index": 74,
+      "raw_zh": "“一共只有兩百份隱藏的獎品，你要我找到一半，天呐！”",
+      "translated_vi": "“Tổng cộng chỉ có hai trăm phần thưởng ẩn giấu thôi, em bắt tôi tìm được một nửa cơ á, trời đất ơi!”"
+    },
+    {
+      "para_id": "c0202p0075",
+      "index": 75,
+      "raw_zh": "幾分鍾後，五個人開著越野車疾馳而去，直奔不遠處的浦卡山。",
+      "translated_vi": "Vài phút sau, cả năm người leo lên chiếc xe việt dã rồ ga phóng vút đi, nhắm thẳng hướng núi Phu Kha cách đó không xa mà thẳng tiến."
+    },
+    {
+      "para_id": "c0202p0076",
+      "index": 76,
+      "raw_zh": "蒲卡山內，一個山坳裡，一輛房車停在樹木掩映之中。",
+      "translated_vi": "Bên trong rặng núi Phu Kha, tại một thung lũng khuất gió, một chiếc xe mobihome dã ngoại đang đỗ nép mình dưới bóng cây rậm rạp."
+    },
+    {
+      "para_id": "c0202p0077",
+      "index": 77,
+      "raw_zh": "房車的車窗都遮擋著黑色的窗簾。",
+      "translated_vi": "Các ô cửa kính của xe mobihome đều được buông rèm màu đen che kín mít."
+    },
+    {
+      "para_id": "c0202p0078",
+      "index": 78,
+      "raw_zh": "車內亮著一盞月亮形狀的月光燈。",
+      "translated_vi": "Bên trong khoang xe thắp sáng một ngọn đèn mang hình dáng vầng trăng khuyết, tỏa ánh sáng bàng bạc."
+    },
+    {
+      "para_id": "c0202p0079",
+      "index": 79,
+      "raw_zh": "燈光照射下，車內幾個沒有頭髮，身穿黑色西裝和風衣的人坐在裡面。",
+      "translated_vi": "Dưới ánh đèn rọi chiếu, vài kẻ đầu cạo trọc lốc, khoác trên mình âu phục đen và áo măng tô đen đang ngồi quây quần bên trong."
+    },
+    {
+      "para_id": "c0202p0080",
+      "index": 80,
+      "raw_zh": "之前媚河上雲千峰見到的那個黑衣人就坐在最舒服的座椅上，光亮的腦袋與月光燈相映成輝。",
+      "translated_vi": "Tên người áo đen mà ban nãy Vân Thiên Phong chạm mặt trên sông Mê Kông đang ngồi chễm chệ trên chiếc ghế êm ái nhất, cái đầu trọc bóng lộn của gã phản chiếu ánh đèn nguyệt quang trông vô cùng ma quái."
+    },
+    {
+      "para_id": "c0202p0081",
+      "index": 81,
+      "raw_zh": "“都準備好了嗎？”",
+      "translated_vi": "“Đã chuẩn bị thỏa đáng hết cả chưa?”"
+    },
+    {
+      "para_id": "c0202p0082",
+      "index": 82,
+      "raw_zh": "旁邊一個光頭黑衣忙道：",
+      "translated_vi": "Một tên đầu trọc mặc đồ đen bên cạnh vội vã thưa:"
+    },
+    {
+      "para_id": "c0202p0083",
+      "index": 83,
+      "raw_zh": "“都已經布置好了，絕不會出現任何差錯，為了食物的保質，我們還特意製作了一部分肉干，他們一定會吃到的。”",
+      "translated_vi": "“Toàn bộ đã được bài trí xong xuôi, tuyệt đối không xảy ra bất cứ sơ suất nào. Để bảo quản nguồn thức ăn tươi ngon, chúng tôi còn đặc chế riêng một phần thịt khô, bọn chúng nhất định sẽ nếm thử.”"
+    },
+    {
+      "para_id": "c0202p0084",
+      "index": 84,
+      "raw_zh": "車內所有人都微微一笑。",
+      "translated_vi": "Khắp khoang xe, tất cả mọi người đều nở một nụ cười mỉm đầy thâm độc."
+    },
+    {
+      "para_id": "c0202p0085",
+      "index": 85,
+      "raw_zh": "淡淡的月光燈下，他們的眼窩和法令都是濃濃的黑色，就像是一副古老的黑白色油畫.",
+      "translated_vi": "Dưới ánh đèn nguyệt quang lờ mờ lạnh lẽo, hốc mắt và rãnh cười nơi khóe miệng của bọn họ thảy đều phủ một màu đen thẫm đậm đặc, hệt như một bức tranh sơn dầu đen trắng cổ xưa đầy ma mị..."
+    }
+  ]
+}

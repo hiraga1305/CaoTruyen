@@ -1,0 +1,487 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 93,
+  "title": "Chương 93: Lần này có thân phận rồi",
+  "total_paragraphs": 79,
+  "translated_paragraphs": 79,
+  "source_hash": "931ca33c26eb795dfea45d87736d1b28b03c216d2184a91f9f1904c05207b2e1",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0093p0001",
+      "index": 1,
+      "raw_zh": "第93章 這下有身份了（繼續加更）",
+      "translated_vi": "Chương 93: Lần này có thân phận rồi"
+    },
+    {
+      "para_id": "c0093p0002",
+      "index": 2,
+      "raw_zh": "向北疾馳的房車上，福田等幾個人在餐桌上傾聽著什麽。",
+      "translated_vi": "Trên chiếc xe dã ngoại đang lao nhanh về hướng bắc, bọn người Phúc Điền đang ngồi quanh bàn ăn chăm chú lắng nghe điều gì đó."
+    },
+    {
+      "para_id": "c0093p0003",
+      "index": 3,
+      "raw_zh": "那是他們弄來的每一次發現雲千峰的人的詢問語音記錄。",
+      "translated_vi": "Đó là toàn bộ các bản ghi âm lời khai của những người từng nhìn thấy Vân Thiên Phong mà bọn chúng thu thập được."
+    },
+    {
+      "para_id": "c0093p0004",
+      "index": 4,
+      "raw_zh": "有超市老板的，有小區那對男女的，有煎粑地攤老板的，還有劉玲娣的。",
+      "translated_vi": "Có của chủ siêu thị, có của cặp nam nữ trong khu chung cư, có của ông chủ quầy bánh chiên ven đường, và cả của Lưu Linh Đệ."
+    },
+    {
+      "para_id": "c0093p0005",
+      "index": 5,
+      "raw_zh": "福田是個心細的人，他覺得要在這些人的字裡行間尋找別人沒發現的線索，才能更準確的推測出雲千峰的真正目標。",
+      "translated_vi": "Phúc Điền là một kẻ rất tỉ mỉ, gã cho rằng cần phải tìm kiếm những manh mối mà người khác bỏ sót giữa từng câu từng chữ của những người này, có như vậy mới suy đoán chuẩn xác hơn về mục tiêu thực sự của Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0093p0006",
+      "index": 6,
+      "raw_zh": "他們一個一個的聽過去，直到劉玲娣的詢問語音記錄播放到一半時，福田的臉色變了。",
+      "translated_vi": "Bọn chúng nghe qua từng đoạn một, mãi cho đến khi đoạn ghi âm tra hỏi Lưu Linh Đệ phát được một nửa, sắc mặt Phúc Điền bỗng đột ngột biến đổi."
+    },
+    {
+      "para_id": "c0093p0007",
+      "index": 7,
+      "raw_zh": "“停車！馬上停車，回碼頭！”",
+      "translated_vi": "\"Dừng xe! Lập tức dừng xe, quay lại bến cảng mau!\""
+    },
+    {
+      "para_id": "c0093p0008",
+      "index": 8,
+      "raw_zh": "那開車的人馬上停車，問道：",
+      "translated_vi": "Kẻ lái xe vội phanh kít lại, hỏi:"
+    },
+    {
+      "para_id": "c0093p0009",
+      "index": 9,
+      "raw_zh": "“怎麽了隊長？”",
+      "translated_vi": "\"Có chuyện gì thế đội trưởng?\""
+    },
+    {
+      "para_id": "c0093p0010",
+      "index": 10,
+      "raw_zh": "“抓緊回去，用最快的速度回去，雲千峰查詢了95年的詭異事件，他已經知道滿都拉圖不會記得他，所以他絕不會去尋找滿都拉圖，我們上當了，這個混蛋怎麽會想到這些？怎麽會！”",
+      "translated_vi": "\"Mau chóng quay lại, dùng tốc độ nhanh nhất quay trở lại đó! Vân Thiên Phong đã tra cứu sự kiện kỳ bí năm 95, hắn chắc chắn đã biết Mãn Đô Lạp Đồ sẽ không còn nhớ gì về hắn nữa, cho nên hắn tuyệt đối sẽ không đi tìm Mãn Đô Lạp Đồ đâu! Chúng ta trúng kế rồi, cái tên khốn kiếp này sao lại có thể nghĩ ra được những điều đó cơ chứ? Sao có thể chứ!\""
+    },
+    {
+      "para_id": "c0093p0011",
+      "index": 11,
+      "raw_zh": "這其實不奇怪，凡是走過的路，都會留下痕跡，哪怕是時間這條路。",
+      "translated_vi": "Thật ra điều này chẳng có gì lạ. Phàm là con đường nào từng đi qua ắt sẽ để lại dấu vết, dẫu đó là con đường thời gian đi chăng nữa."
+    },
+    {
+      "para_id": "c0093p0012",
+      "index": 12,
+      "raw_zh": "只要真正細心的人，就會發覺。",
+      "translated_vi": "Chỉ cần là một người thực sự cẩn trọng thì đều sẽ phát giác ra."
+    },
+    {
+      "para_id": "c0093p0013",
+      "index": 13,
+      "raw_zh": "雲千峰謹而又慎，依舊留下了查閱網站的痕跡，只可惜福田的細心來得晚了些。",
+      "translated_vi": "Vân Thiên Phong dù cẩn thận đến đâu thì vẫn lưu lại dấu vết truy cập trang web, chỉ tiếc là sự tỉ mỉ của Phúc Điền lại đến hơi muộn màng."
+    },
+    {
+      "para_id": "c0093p0014",
+      "index": 14,
+      "raw_zh": "站在空蕩蕩的碼頭上，福田臉色煞白。",
+      "translated_vi": "Đứng giữa bến cảng trống trải vắng hoe, gương mặt Phúc Điền trắng bệch như tờ giấy."
+    },
+    {
+      "para_id": "c0093p0015",
+      "index": 15,
+      "raw_zh": "“叫人查詢24小時內所有離開這裡的貨輪，一個也不能遺漏，無論大小國籍。”",
+      "translated_vi": "\"Bảo người ta kiểm tra toàn bộ tàu hàng đã rời cảng trong vòng hai mươi tư giờ qua, không được bỏ sót một chiếc nào, bất kể quy mô lớn nhỏ hay quốc tịch nước nào.\""
+    },
+    {
+      "para_id": "c0093p0016",
+      "index": 16,
+      "raw_zh": "這是他唯一能做的補救了，至於有沒有用，他自己也不知道，因為鬼知道雲千峰會不會半路偷渡到別的船上。",
+      "translated_vi": "Đây là biện pháp cứu vãn duy nhất mà gã có thể làm vào lúc này. Còn việc có hiệu quả hay không thì chính gã cũng chẳng rõ, bởi vì quỷ mới biết được liệu Vân Thiên Phong có giữa đường nhảy trộm sang tàu khác hay không."
+    },
+    {
+      "para_id": "c0093p0017",
+      "index": 17,
+      "raw_zh": "如果是他，他會那麽做，而雲千峰很明顯不比他笨。",
+      "translated_vi": "Nếu đổi lại là gã, gã cũng sẽ làm như vậy, mà Vân Thiên Phong hiển nhiên chẳng hề kém thông minh hơn gã."
+    },
+    {
+      "para_id": "c0093p0018",
+      "index": 18,
+      "raw_zh": "寬廣的水面上，一艘兩萬噸級的貨輪正在緩緩航行。",
+      "translated_vi": "Trên mặt nước mênh mông bát ngát, một con tàu chở hàng trọng tải hai vạn tấn đang chầm chậm rẽ sóng ra khơi."
+    },
+    {
+      "para_id": "c0093p0019",
+      "index": 19,
+      "raw_zh": "貨輪上堆滿了集裝箱，根據不同種類的貨物分別整齊的堆放在不同的位置。",
+      "translated_vi": "Trên tàu chất đầy những thùng container, phân theo từng chủng loại hàng hóa khác nhau mà được xếp gọn gàng ngăn nắp ở từng vị trí riêng biệt."
+    },
+    {
+      "para_id": "c0093p0020",
+      "index": 20,
+      "raw_zh": "有一些需要特殊防水防潮的貨物，哪怕裝在集裝箱裡，外面依舊用厚實的防水布進行捆扎遮蓋。",
+      "translated_vi": "Có một số loại hàng hóa đòi hỏi khả năng chống nước và chống ẩm đặc biệt, dẫu đã được đóng kín trong container thì bên ngoài vẫn được chằng buộc, che phủ bằng những tấm bạt chống thấm dày cộp."
+    },
+    {
+      "para_id": "c0093p0021",
+      "index": 21,
+      "raw_zh": "很明顯這些需要特殊防潮防水的集裝箱並不夠摞成一個方形，多余了一個放在上面，這樣用厚實的防水布遮蓋後，就會形成一個斜頂的空間。",
+      "translated_vi": "Rõ ràng là những thùng container chống ẩm chống thấm đặc thù này không đủ để xếp thành một khối hình vuông hoàn chỉnh, thừa ra một thùng đặt chỏng chơ phía trên, thế là sau khi trùm bạt chống thấm dày lên đã tạo thành một khoang trống hình mái dốc."
+    },
+    {
+      "para_id": "c0093p0022",
+      "index": 22,
+      "raw_zh": "在這個空間裡，一個身影蜷縮在裡面，透過一個米粒大的小窟窿看著外面的一切，正是福田他們苦苦尋找的雲千峰。",
+      "translated_vi": "Trong khoảng không gian ấy, một bóng người đang cuộn tròn thu mình bên trong, ghé mắt qua một lỗ thủng nhỏ chỉ bằng hạt gạo để quan sát toàn bộ khung cảnh bên ngoài. Đó chính là người mà bọn Phúc Điền đang khổ công tìm kiếm: Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0093p0023",
+      "index": 23,
+      "raw_zh": "他是那麽的安靜，每個動作都緩慢無比，不會發出一絲聲響。",
+      "translated_vi": "Hắn yên lặng đến lạ thường, từng cử động đều cực kỳ chậm rãi, không hề phát ra dẫu chỉ một tiếng động khẽ khàng."
+    },
+    {
+      "para_id": "c0093p0024",
+      "index": 24,
+      "raw_zh": "貨輪緩緩前行，他看到了三塊小礁石，木然的臉上終於有了表情。",
+      "translated_vi": "Con tàu chở hàng lững lờ trôi về phía trước. Khi nhìn thấy ba mỏm đá ngầm nhỏ, gương mặt vô cảm bấy lâu của hắn cuối cùng cũng xuất hiện biểu cảm."
+    },
+    {
+      "para_id": "c0093p0025",
+      "index": 25,
+      "raw_zh": "他笑了。",
+      "translated_vi": "Hắn mỉm cười."
+    },
+    {
+      "para_id": "c0093p0026",
+      "index": 26,
+      "raw_zh": "“雞骨礁，終於入海了啊！”",
+      "translated_vi": "\"Kê Cốt Tiêu... cuối cùng cũng ra tới biển lớn rồi!\""
+    },
+    {
+      "para_id": "c0093p0027",
+      "index": 27,
+      "raw_zh": "這一刻，他心中升起一種海闊憑魚躍天高任鳥飛的舒爽。",
+      "translated_vi": "Vào khoảnh khắc này, trong lòng hắn dâng lên một cảm giác sảng khoái tột cùng, tựa như cá lội biển rộng, chim thỏa sức bay lượn giữa trời cao."
+    },
+    {
+      "para_id": "c0093p0028",
+      "index": 28,
+      "raw_zh": "他在兜裡掏出兩個小瓶子，一個是維生素C，一個是維生素B族，都是藥店幾塊錢一瓶那種，他備了十幾瓶，就是怕自己在海上得了維生素缺乏症。",
+      "translated_vi": "Hắn thò tay vào túi móc ra hai chiếc lọ nhỏ, một lọ là vitamin C, một lọ là vitamin nhóm B, đều là loại giá vài tệ một lọ bán đầy ngoài hiệu thuốc. Hắn đã chuẩn bị sẵn mười mấy lọ chỉ vì sợ bản thân lênh đênh trên biển sẽ mắc chứng thiếu hụt vitamin."
+    },
+    {
+      "para_id": "c0093p0029",
+      "index": 29,
+      "raw_zh": "就那麽混著嘴裡並不多的唾液咽下去兩片維生素，然後剝了一塊奶糖在嘴裡，感受香甜在嘴裡擴散開來。",
+      "translated_vi": "Cứ thế, hắn hòa lẫn hai viên vitamin với chút nước bọt ít ỏi trong khoang miệng rồi nuốt ực xuống, sau đó bóc một viên kẹo sữa ngậm vào miệng, cảm nhận vị ngọt ngào béo ngậy đang tan dần ra."
+    },
+    {
+      "para_id": "c0093p0030",
+      "index": 30,
+      "raw_zh": "這幾天的時間，他就是靠著維生素和奶糖來補充自己的體力。",
+      "translated_vi": "Trong suốt mấy ngày qua, hắn chỉ dựa vào vitamin và kẹo sữa để duy trì thể lực cho bản thân."
+    },
+    {
+      "para_id": "c0093p0031",
+      "index": 31,
+      "raw_zh": "可以看到，他的臉頰已經瘦的塌陷下來，黑眼圈很重。",
+      "translated_vi": "Có thể thấy rõ hai bên má của hắn đã hóp sâu lại vì gầy rộc, quầng thâm quanh mắt đen sì trĩu nặng."
+    },
+    {
+      "para_id": "c0093p0032",
+      "index": 32,
+      "raw_zh": "他現在很口渴，但卻不敢出去尋找淡水，哪怕淡水就在防水布外面，那是雨水積蓄在防水布上。",
+      "translated_vi": "Lúc này hắn đang khát khô cả cổ, nhưng lại không dám ra ngoài tìm nước ngọt, dẫu cho nước ngọt đang nằm ngay bên ngoài tấm bạt chống thấm, đó là nước mưa đọng lại trên mặt bạt."
+    },
+    {
+      "para_id": "c0093p0033",
+      "index": 33,
+      "raw_zh": "只有晚上的時候，他才能偷偷潛出去喝一點那些髒水。",
+      "translated_vi": "Chỉ đợi tới ban đêm, hắn mới có thể lén lút bò ra ngoài húp tạm chút nước bẩn thỉu ấy."
+    },
+    {
+      "para_id": "c0093p0034",
+      "index": 34,
+      "raw_zh": "這幾天的時間，他已經把這艘貨輪的大概情況搞了個清楚。",
+      "translated_vi": "Suốt mấy ngày nay, hắn đã nắm bắt được đại khái tình hình của con tàu chở hàng này."
+    },
+    {
+      "para_id": "c0093p0035",
+      "index": 35,
+      "raw_zh": "和一般的貨輪差不多，這艘貨輪上的工作人員只有不到二十人，裡面高級船員可能只有五六個人，因為那幾個人很少出現在甲板上。",
+      "translated_vi": "Cũng giống như những tàu hàng thông thường khác, nhân viên làm việc trên con tàu này chỉ có chưa đầy hai mươi người. Trong đó thuyền viên cấp cao có lẽ chỉ có năm sáu người, bởi vì mấy người đó rất hiếm khi xuất hiện trên boong tàu."
+    },
+    {
+      "para_id": "c0093p0036",
+      "index": 36,
+      "raw_zh": "普通船員十人，他們會經常在甲板上巡邏，查看貨物的固定情況。",
+      "translated_vi": "Thuyền viên bình thường có mười người, họ thường xuyên đi tuần tra trên boong để kiểm tra tình trạng chằng buộc của hàng hóa."
+    },
+    {
+      "para_id": "c0093p0037",
+      "index": 37,
+      "raw_zh": "當然，肯定還有一直沒露面，但是必備的廚師。",
+      "translated_vi": "Đương nhiên, chắc chắn còn có người chưa từng lộ mặt nhưng là vị trí không thể thiếu: đầu bếp."
+    },
+    {
+      "para_id": "c0093p0038",
+      "index": 38,
+      "raw_zh": "深入大海，沒有了參照物，整個世界好似靜止。",
+      "translated_vi": "Đi sâu vào biển cả mênh mông, mất đi các vật mốc tham chiếu, cả thế giới dường như tĩnh lặng ngưng đọng."
+    },
+    {
+      "para_id": "c0093p0039",
+      "index": 39,
+      "raw_zh": "雲千峰看著手腕上的手表，看到貨輪開始向南航行。",
+      "translated_vi": "Vân Thiên Phong nhìn chiếc đồng hồ trên cổ tay, nhận thấy con tàu chở hàng bắt đầu chuyển hướng hải trình về phía nam."
+    },
+    {
+      "para_id": "c0093p0040",
+      "index": 40,
+      "raw_zh": "“看來不是去美洲的船舶，應該是走馬六甲海峽去非洲。”",
+      "translated_vi": "\"Xem ra đây không phải là tàu đi châu Mỹ, nhiều khả năng là qua eo biển Malacca để sang châu Phi.\""
+    },
+    {
+      "para_id": "c0093p0041",
+      "index": 41,
+      "raw_zh": "他想著，閉上眼睛回憶自己查詢的海島資料。",
+      "translated_vi": "Hắn vừa ngẫm nghĩ vừa nhắm mắt hồi tưởng lại những tư liệu về các hòn đảo trên biển mà mình từng tra cứu."
+    },
+    {
+      "para_id": "c0093p0042",
+      "index": 42,
+      "raw_zh": "“嗯，印度洋和大西洋的海島都很多，若是能找到一個有淡水的無人島，我就可以好好休整一下，再圖謀下一步。",
+      "translated_vi": "\"Ừm, ở Ấn Độ Dương và Đại Tây Dương có rất nhiều hòn đảo, nếu có thể tìm được một hòn đảo hoang có nước ngọt thì mình có thể dừng chân nghỉ ngơi chỉnh đốn một phen, rồi mới tính tiếp bước sau."
+    },
+    {
+      "para_id": "c0093p0043",
+      "index": 43,
+      "raw_zh": "或者去非洲也是不錯的選擇，華夏人的面孔，在非洲大部分地方，還是很容易活下來的。",
+      "translated_vi": "Hoặc sang châu Phi cũng là một lựa chọn không tồi. Gương mặt người Hoa Hạ ở phần lớn các khu vực tại châu Phi vẫn rất dễ dàng sinh tồn."
+    },
+    {
+      "para_id": "c0093p0044",
+      "index": 44,
+      "raw_zh": "那裡可沒有滿大街的天眼，一入人群，想找到我就沒那麽容易了。”",
+      "translated_vi": "Ở đó đâu có hệ thống camera giám sát phủ kín khắp hang cùng ngõ hẻm như nơi này, chỉ cần hòa mình vào dòng người thì muốn tìm ra mình tuyệt đối chẳng phải chuyện dễ dàng.\""
+    },
+    {
+      "para_id": "c0093p0045",
+      "index": 45,
+      "raw_zh": "他開始盤算接下來的所有可能性。",
+      "translated_vi": "Hắn bắt đầu toan tính mọi khả năng có thể xảy ra tiếp theo."
+    },
+    {
+      "para_id": "c0093p0046",
+      "index": 46,
+      "raw_zh": "沒有什麽計劃是完美的，他只能把所有可能做一個推演。",
+      "translated_vi": "Trên đời chẳng có kế hoạch nào là hoàn hảo tuyệt đối, hắn chỉ có thể đem tất cả các tình huống ra diễn dịch, suy tính một lượt."
+    },
+    {
+      "para_id": "c0093p0047",
+      "index": 47,
+      "raw_zh": "夜深了，巡邏的人剛剛離開沒多久。",
+      "translated_vi": "Đêm đã về khuya, người đi tuần tra vừa mới rời đi cách đó không lâu."
+    },
+    {
+      "para_id": "c0093p0048",
+      "index": 48,
+      "raw_zh": "雲千峰看了一眼手表，這人晚上巡邏很有規律，都是大概零點來看一眼，再出現基本就是凌晨了，讓他不禁感慨上班摸魚的員工真可愛。",
+      "translated_vi": "Vân Thiên Phong liếc nhìn đồng hồ. Kẻ này đi tuần đêm rất có quy luật, tầm khoảng mười hai giờ đêm sẽ lượn qua xem một vòng, lần tiếp theo xuất hiện thường phải vào lúc rạng sáng, khiến hắn không khỏi cảm thán rằng những nhân viên thích trốn việc quả thực đáng yêu làm sao."
+    },
+    {
+      "para_id": "c0093p0049",
+      "index": 49,
+      "raw_zh": "這段時間，是他活動筋骨的時間，也是喝水的時間。",
+      "translated_vi": "Khoảng thời gian này chính là lúc để hắn vận động gân cốt, đồng thời cũng là lúc để giải tỏa cơn khát."
+    },
+    {
+      "para_id": "c0093p0050",
+      "index": 50,
+      "raw_zh": "他小心的鑽出防水布，大口的呼吸著新鮮空氣，然後在那一大片防水布上仔細尋找著積存的雨水。",
+      "translated_vi": "Hắn cẩn thận chui ra khỏi tấm bạt chống thấm, hít một hơi thật sâu bầu không khí trong lành của biển đêm, sau đó tỉ mỉ tìm kiếm những vũng nước mưa đọng lại trên tấm bạt bạt ngàn kia."
+    },
+    {
+      "para_id": "c0093p0051",
+      "index": 51,
+      "raw_zh": "正是海上多雨的季節，這東西倒是不缺。",
+      "translated_vi": "Đang đúng vào mùa mưa trên biển, thứ này ngược lại không hề thiếu thốn."
+    },
+    {
+      "para_id": "c0093p0052",
+      "index": 52,
+      "raw_zh": "很快，他找到了一窪最乾淨的積水，裡面只有幾泡鳥糞，比前面幾個鳥糞多到好像黑芝麻糊的強多了。",
+      "translated_vi": "Chẳng mấy chốc, hắn đã tìm thấy một vũng nước đọng sạch sẽ nhất, bên trong chỉ có vài bãi phân chim, so với mấy vũng nước đằng trước phân chim nhiều đến mức đen đặc như chè mè đen thì chỗ này đã tốt hơn gấp bội phần."
+    },
+    {
+      "para_id": "c0093p0053",
+      "index": 53,
+      "raw_zh": "趴下臉去，咕嚕咕嚕的喝了一通。",
+      "translated_vi": "Hắn áp sát mặt xuống, ừng ực ừng ực uống một hơi thỏa thích."
+    },
+    {
+      "para_id": "c0093p0054",
+      "index": 54,
+      "raw_zh": "口感微澀，帶著一股子怪味，估計是泡鳥糞的味道。",
+      "translated_vi": "Vị nước hơi chát, thoang thoảng mùi lạ lùng, chắc hẳn là mùi ngâm phân chim."
+    },
+    {
+      "para_id": "c0093p0055",
+      "index": 55,
+      "raw_zh": "不過雲千峰已經習慣了，喝的一臉滿足。",
+      "translated_vi": "Thế nhưng Vân Thiên Phong đã quen dần với điều đó, uống xong với vẻ mặt vô cùng thỏa mãn."
+    },
+    {
+      "para_id": "c0093p0056",
+      "index": 56,
+      "raw_zh": "隨後，他順著集裝箱爬下去，來到甲板後方位置。",
+      "translated_vi": "Kế đó, hắn men theo những thùng container tụt xuống dưới, lần tới khu vực phía sau boong tàu."
+    },
+    {
+      "para_id": "c0093p0057",
+      "index": 57,
+      "raw_zh": "在這裡，靠近邊緣的地面上灑著不少黃小米，這是其中一個船員每天撒在這裡的。",
+      "translated_vi": "Tại nơi này, trên mặt sàn gần mép boong rải rác không ít kê vàng, đây là do một thuyền viên ngày nào cũng rải ở chỗ này."
+    },
+    {
+      "para_id": "c0093p0058",
+      "index": 58,
+      "raw_zh": "那家夥一定很善良，且喜歡小動物，這些小米就是專門喂給可能落在這裡的海鳥準備的。",
+      "translated_vi": "Gã kia chắc chắn là một người rất tốt bụng lại yêu thương động vật, số hạt kê này được chuẩn bị riêng để cho lũ chim biển có thể ghé qua đây ăn."
+    },
+    {
+      "para_id": "c0093p0059",
+      "index": 59,
+      "raw_zh": "每次他出現在這裡，看到小米被吃乾淨，都會顯得很開心，然後繼續撒。",
+      "translated_vi": "Mỗi lần gã xuất hiện ở đây, trông thấy hạt kê bị ăn sạch bách thì đều tỏ ra vô cùng vui vẻ, rồi lại tiếp tục rắc thêm."
+    },
+    {
+      "para_id": "c0093p0060",
+      "index": 60,
+      "raw_zh": "他不知道的是，這些小米其實全都進了雲千峰的肚子。",
+      "translated_vi": "Điều gã không hề hay biết là, toàn bộ số hạt kê ấy thực chất đã chui tọt vào bụng Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0093p0061",
+      "index": 61,
+      "raw_zh": "雖然很少，但這是雲千峰唯一獲得碳水的途徑。",
+      "translated_vi": "Dù lượng thức ăn ít ỏi, nhưng đây lại là con đường duy nhất giúp Vân Thiên Phong nạp thêm chút tinh bột vào người."
+    },
+    {
+      "para_id": "c0093p0062",
+      "index": 62,
+      "raw_zh": "吃光了那些小米，雲千峰躲在兩堆集裝箱中間的位置，緩慢的打了一會形意拳，舒展一下筋骨，然後歎著氣，重新鑽回防水布內，再次安靜的像個木頭。",
+      "translated_vi": "Ăn sạch chỗ hạt kê đó, Vân Thiên Phong ẩn mình vào khoảng trống giữa hai dãy container, chậm rãi luyện một bài Hình Ý Quyền để giãn gân cốt, sau đó thở dài một tiếng, lại chui tọt vào trong tấm bạt chống thấm, tiếp tục im lìm như một khúc gỗ mục."
+    },
+    {
+      "para_id": "c0093p0063",
+      "index": 63,
+      "raw_zh": "這樣航行了不知多少天，雲千峰愈加的渾渾噩噩，時間概念已經只剩下白天和黑夜。",
+      "translated_vi": "Cứ thế lênh đênh trôi dạt không biết đã qua bao nhiêu ngày, đầu óc Vân Thiên Phong ngày càng trở nên mơ màng mụ mẫm, khái niệm về thời gian giờ đây chỉ còn lại hai khái niệm ngày và đêm."
+    },
+    {
+      "para_id": "c0093p0064",
+      "index": 64,
+      "raw_zh": "更不知道自己身在何處，只知道還在大海上。",
+      "translated_vi": "Hắn càng không biết hiện tại mình đang ở phương trời nào, chỉ biết bản thân vẫn còn dập dềnh giữa biển khơi mênh mông."
+    },
+    {
+      "para_id": "c0093p0065",
+      "index": 65,
+      "raw_zh": "這是一種無奈的麻木。",
+      "translated_vi": "Đó là một sự tê liệt đầy bất lực."
+    },
+    {
+      "para_id": "c0093p0066",
+      "index": 66,
+      "raw_zh": "只不過今天變得不一樣了，因為他們遇到了很刺激的事情。",
+      "translated_vi": "Chỉ có điều ngày hôm nay đã trở nên khác biệt, bởi vì bọn họ vừa chạm trán một chuyện vô cùng gay cấn."
+    },
+    {
+      "para_id": "c0093p0067",
+      "index": 67,
+      "raw_zh": "貨輪正在海上航行，不遠處有一條中小型的住艙遊艇幾乎與他們平行航行。",
+      "translated_vi": "Con tàu chở hàng đang lướt sóng trên biển thì ở đằng xa cách đó không xa có một chiếc du thuyền cỡ vừa có khoang sinh hoạt đang chạy gần như song song với bọn họ."
+    },
+    {
+      "para_id": "c0093p0068",
+      "index": 68,
+      "raw_zh": "雲千峰羨慕的看著甲板上那泳裝美女手裡裝滿飲料的杯子，喉嚨情不自禁的上下跳動，他很想喝上一口。",
+      "translated_vi": "Vân Thiên Phong thèm thuồng nhìn ly đồ uống đầy ắp trên tay cô nàng người đẹp diện bikini đang đứng trên boong du thuyền, yết hầu hắn bất giác trồi lên sụt xuống, hắn thèm được uống một ngụm biết bao."
+    },
+    {
+      "para_id": "c0093p0069",
+      "index": 69,
+      "raw_zh": "“我要是在那樣的遊艇上該有多好，一定是一群無所事事的有錢人，開著遊艇環遊世界。”",
+      "translated_vi": "\"Nếu như mình cũng được ở trên chiếc du thuyền như thế thì thích biết mấy. Chắc chắn đó là một lũ nhà giàu rảnh rỗi sinh nông nổi, lái du thuyền đi vòng quanh thế giới đây mà.\""
+    },
+    {
+      "para_id": "c0093p0070",
+      "index": 70,
+      "raw_zh": "如今這個年代，靠著小遊艇航行世界的人越來越多，甚至還有靠無動力小型帆船航行世界的。",
+      "translated_vi": "Thời buổi này, những người dựa vào du thuyền nhỏ để du ngoạn vòng quanh thế giới ngày càng nhiều, thậm chí còn có kẻ chỉ dùng một chiếc thuyền buồm không gắn động cơ cỡ nhỏ mà vượt đại dương."
+    },
+    {
+      "para_id": "c0093p0071",
+      "index": 71,
+      "raw_zh": "“那遊艇上最多六七個人，我要是偷偷潛入進去，把船搶了”",
+      "translated_vi": "\"Trên chiếc du thuyền đó cùng lắm chỉ có sáu bảy người, nếu mình lén lút lẻn sang rồi cướp thuyền...\""
+    },
+    {
+      "para_id": "c0093p0072",
+      "index": 72,
+      "raw_zh": "只是心底隨便一想，但是讓雲千峰沒預料到的，這個念頭竟然揮之不去了。",
+      "translated_vi": "Ban đầu chỉ là một ý nghĩ thoáng qua trong đầu, thế nhưng điều khiến Vân Thiên Phong không ngờ tới chính là ý nghĩ ấy cứ luẩn quẩn mãi không chịu tan đi."
+    },
+    {
+      "para_id": "c0093p0073",
+      "index": 73,
+      "raw_zh": "他使勁的甩了甩頭，感覺自己被現實逼得已經開始向著野獸變化。",
+      "translated_vi": "Hắn ra sức lắc mạnh đầu, tự cảm thấy bản thân dường như đang bị hiện thực tàn khốc dồn ép tới mức bắt đầu biến chất thành một con dã thú."
+    },
+    {
+      "para_id": "c0093p0074",
+      "index": 74,
+      "raw_zh": "就在他內心裡善惡對抗的時候，幾艘快艇速度極快的駛向那艘住艙遊艇，它們繞著遊艇疾馳，隨著一聲槍響，逼停了遊艇。",
+      "translated_vi": "Giữa lúc thiện và ác đang giằng xé dữ dội trong lòng hắn, mấy chiếc ca-nô cao tốc với tốc độ xé gió lao vụt về phía chiếc du thuyền kia. Chúng lượn vòng quanh chiếc du thuyền, rồi kèm theo một tiếng súng nổ chát chúa, bọn chúng đã ép chiếc du thuyền phải dừng lại."
+    },
+    {
+      "para_id": "c0093p0075",
+      "index": 75,
+      "raw_zh": "緊接著，又有幾輛快艇朝著雲千峰躲藏的貨輪疾馳而來，依舊是繞圈盤旋，鳴槍逼停。",
+      "translated_vi": "Ngay sau đó, lại có thêm mấy chiếc ca-nô khác lao như tên bắn về phía con tàu chở hàng nơi Vân Thiên Phong đang ẩn nấp. Vẫn là chiêu bài lượn vòng vây hãm rồi nổ súng thị uy để bức dừng tàu."
+    },
+    {
+      "para_id": "c0093p0076",
+      "index": 76,
+      "raw_zh": "雲千峰愣了一下，轉而明白這是遇到海盜了。",
+      "translated_vi": "Vân Thiên Phong ngẩn người ra một thoáng, sau đó mới hiểu ra rằng đây là tao ngộ cướp biển rồi."
+    },
+    {
+      "para_id": "c0093p0077",
+      "index": 77,
+      "raw_zh": "然後他大概知道自己這些人是在哪出海域了，要麽是馬六甲海峽，要麽是到亞丁灣了。",
+      "translated_vi": "Tiếp đó, hắn đại khái đoán được vị trí vùng biển mà con tàu này đang đi qua: hoặc là eo biển Malacca, hoặc là đã tới vịnh Aden."
+    },
+    {
+      "para_id": "c0093p0078",
+      "index": 78,
+      "raw_zh": "“這下有身份了啊，應該是叫遇難者還是被俘人員？”",
+      "translated_vi": "\"Lần này thì có thân phận đàng hoàng rồi nhé, nên gọi là nạn nhân gặp nạn hay là tù binh bị bắt giữ đây?\""
+    },
+    {
+      "para_id": "c0093p0079",
+      "index": 79,
+      "raw_zh": "感謝惜谷未成的月票鼓勵，謝謝你的支持！！！",
+      "translated_vi": "Cảm ơn bạn Tích Cốc Vị Thành đã khích lệ bằng phiếu tháng, chân thành cảm ơn sự ủng hộ của bạn!!!"
+    }
+  ]
+}

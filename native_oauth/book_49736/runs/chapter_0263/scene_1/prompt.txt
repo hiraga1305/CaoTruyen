@@ -1,0 +1,105 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0263|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一座|một tòa
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §64):
+§1 263.第263章 萬米高山？
+§2 第263章 萬米高山？
+§3 [Ø=云千峰]大胡子一行人也走到了埡口前面的窄路，同樣也在河流的左側。
+§4 “你們看那兩個人是不是走錯路了？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§5 [Ø=云千峰]“那可是很危險的，要不要喊他們回來？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§6 旁邊一個轉山的當地人忙道：
+§7 [Ø=云千峰]“不要的嘛，有些人是走那條路噠，不奇怪。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 幾個人這才沒有呼喊雲千峰和卓瑪回到他們以為的正路上。
+§9 [Ø=云千峰]“大胡子，那是不是昨天晚上小夫妻倆開玩笑喊澀狼那倆人？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§10 [Ø=云千峰]大胡子舉目望過去，笑道：
+§11 [Ø=云千峰]“還真是他們倆，媳婦你看那銀，就是咱們在高速路上，我發現他車頂上有銀內個， [||] 你還罵我眼花了，銀家說了，真有個銀，咱乾對了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§12 [Ø=云千峰]大胡子的媳婦白了一眼大胡子，罵道：
+§13 [Ø=云千峰]“夢魘著了吧你，啥時候有過這事啊？我怎一點沒印象？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§14 大胡子急道：
+§15 [Ø=云千峰]“怎麽能沒印象膩，我要超車，你還抽我嘴巴了膩，怎麽忘了膩？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§16 [Ø=云千峰]說著，轉頭問他家女兒道：
+§17 [Ø=云千峰]“寶寶，你記得不？就是開房車的內個叔叔，記得不？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§18 [Ø=云千峰]和大胡子長得一點也不像的寶貝女兒猛搖頭，道：
+§19 [Ø=云千峰]“爸爸，我沒有印象誒，沒有這樣的事發生！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§20 大胡子都要急哭了：
+§21 [Ø=云千峰]“你們怎麽回事，明明我們就遇到過他，他昨天都承認了， [||] 你們問三兒，他昨天和我一起過去滴，他聽見了不？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 那個叫三兒的點頭道：
+§23 [Ø=云千峰]“那哥們兒好像真認識我姐夫，姐是不是你們記錯了？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 [Ø=云千峰]幾個人正說著，就見遠處一隻白色的狐狸快速的跑向雲千峰的位置。
+§25 雲千峰此時恰好把手裡那二十一眼天珠插進了鑰匙孔。
+§26 [Ø=云千峰]手扶在門上，雲千峰沉聲道：
+§27 “閉眼！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 卓瑪照做。
+§29 [Ø=云千峰]雲千峰一手攬著卓瑪的腰，一手推開那扇水晶石般的門。
+§30 [Ø=云千峰]白色狐狸幾乎在雲千峰開門走入那一刻，來到了雲千峰的身邊，它也聽到了雲千峰叫閉眼，於是當下聰明的閉上了亮晶晶的眼睛。
+§31 “嗖！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§32 兩人一狐悠然消失在幾個人眼中。
+§33 [Ø=云千峰]“哎呦，哎喲，哎呦我擦！姐夫，隱身了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 [Ø=云千峰]“別胡說，什麽隱身，一定是那狐狸成精了，狐狸精把銀抓走了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 [Ø=云千峰]“報警，報警，趕緊報警！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 “你們拍下來沒？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 [Ø=云千峰]“沒拍啊，誰能知道還有這神奇滴一幕啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 “.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 [Ø=云千峰]很多轉山的人在攀登最難路段埡口前，都會在這河邊的石頭上休息，所以看到這一幕的人不在少數。
+§40 [Ø=云千峰]可惜的是，沒有人幸運拍下這一幕。
+§41 [Ø=云千峰]當天這件超自然事件，迅速傳遍所有轉山者居住的賓館、營地和寺廟。
+§42 只不過狐狸精變成了主題。
+§43 走入水晶門之後的一瞬間。
+§44 [Ø=云千峰]雲千峰身心都只有一個感慨，那就是心曠神怡。
+§45 那從未嗅過的清香和從未見過的美麗植物和花朵遍布四周。
+§46 [Ø=云千峰]天空有雲，潔白如棉。
+§47 [Ø=云千峰]腳下有霧，飄渺如絮。
+§48 他們竟然出現在一座[M1:một tòa]極高的山頂之上。
+§49 [Ø=云千峰]這裡的植被並不高，就好像是一片平整的，野花組成的草甸。
+§50 [Ø=云千峰]所以站在這裡，能夠看到極遠處的景色。
+§51 [Ø=云千峰]眼前遠處也有高山，因為極遠，青色如墨，左右也是如此。
+§52 這些環山圈住了一片平整的空地。
+§53 [Ø=云千峰]那片空地上有湖泊，河流，和已經被大自然覆蓋的古老城市痕跡。
+§54 [Ø=云千峰]站在山頂，看山下遠處的城市痕跡，就好像那裡只有巴掌大小。
+§55 [Ø=云千峰]睜開眼的卓瑪看到這一幕，驚訝道：
+§56 [Ø=云千峰]“天啊，這山是有多高？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§57 [Ø=云千峰]雲千峰看著這如同在飛機上看地面的視覺，沉聲道：
+§58 [Ø=云千峰]“比珠穆朗瑪峰高很多，但這個高度， [||] 竟然還能生長植被，而且不冷，這才是最神奇的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§59 [Ø=云千峰]這本是不可能的事情，因為海拔每提高一千米，溫度下降六度， [||] 這座山怕是遠超過萬米之高，上面理應是萬年不化的冰川才對，但是這裡沒有。
+§60 雲千峰壓低聲音對著身邊呼喚：
+§61 “白狐？法緹娜？普羅？你在哪兒？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§62 [Ø=云千峰]在進入水晶門的時候，雲千峰看到白狐落在了自己的肩膀上。
+§63 旁邊一片草叢裡傳來白狐的聲音：
+§64 [Ø=云千峰]“我沒穿衣服，在這裡我沒辦法以狐狸的模樣存在，給我衣服！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 64 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§64. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

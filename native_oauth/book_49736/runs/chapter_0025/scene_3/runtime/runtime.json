@@ -1,0 +1,32 @@
+{
+  "authentication": "cached_account; GEMINI_API_KEY unset",
+  "requested_model": "gemini-3.8-flash-high",
+  "agent": null,
+  "exit_code": 0,
+  "workspace": "D:\\AI\\Antigravity\\CaoTruyen",
+  "duration_seconds": 31.57,
+  "status": "SUCCESS",
+  "conversation_id": "87fdb3bc-5b57-4564-a240-cec88db53e2a",
+  "usage": {
+    "input_tokens": 15041,
+    "output_tokens": 3635,
+    "thinking_tokens": 3558,
+    "cache_read_tokens": 0,
+    "total_tokens": 18676
+  },
+  "result": {
+    "conversation_id": "87fdb3bc-5b57-4564-a240-cec88db53e2a",
+    "status": "SUCCESS",
+    "response": "§1 Lúc này, Tần Sơ Ảnh đang dán mắt vào màn hình điện thoại, cả người nàng bất động tựa như một pho tượng, thế nhưng trong ánh mắt lại toát ra sát khí bức người!\n§2 Cảm ơn bạn đọc 58523 đã tặng thưởng, cảm ơn bạn đã ủng hộ!!! Vô cùng cảm kích!!!\n",
+    "duration_seconds": 28.1506481,
+    "num_turns": 1,
+    "usage": {
+      "input_tokens": 15041,
+      "output_tokens": 3635,
+      "thinking_tokens": 3558,
+      "cache_read_tokens": 0,
+      "total_tokens": 18676
+    }
+  },
+  "event_count": 18
+}

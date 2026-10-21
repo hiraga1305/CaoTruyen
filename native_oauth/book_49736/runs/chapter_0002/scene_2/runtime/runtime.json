@@ -1,0 +1,32 @@
+{
+  "authentication": "cached_account; GEMINI_API_KEY unset",
+  "requested_model": "gemini-3.8-flash-high",
+  "agent": null,
+  "exit_code": 0,
+  "workspace": "D:\\AI\\Antigravity\\CaoTruyen",
+  "duration_seconds": 40.07,
+  "status": "SUCCESS",
+  "conversation_id": "3df70ec3-d82f-41c8-8ae9-88f13e79001e",
+  "usage": {
+    "input_tokens": 15127,
+    "output_tokens": 4325,
+    "thinking_tokens": 4161,
+    "cache_read_tokens": 0,
+    "total_tokens": 19452
+  },
+  "result": {
+    "conversation_id": "3df70ec3-d82f-41c8-8ae9-88f13e79001e",
+    "status": "SUCCESS",
+    "response": "§1 “Nàng làm thật đấy chứ chẳng chơi! Thế thì nàng có bị tâm thần hay không phỏng có quan trọng gì? Liệu có tìm được người hay không phỏng có quan trọng gì? Có lừa người hay không phỏng có quan trọng gì?\n§2 Cóc có cái quái gì quan trọng hết! Trên đời này chẳng có chuyện gì quan trọng hơn việc cầm tiền về cho người nhà sống sung túc hơn! Kiếm được tháng nào hay tháng nấy!”\n§3 Nghĩ đến đây, hắn dập mạnh nửa điếu thuốc dở trên tay vào chiếc gạt tàn, đoạn nghiêm nghị và quả quyết nhìn Khương Nhu Giáp nói:\n§4 “Được! Trước hết cô cứ chuyển tiền tháng đầu tiên qua đây!”\n",
+    "duration_seconds": 34.8788999,
+    "num_turns": 1,
+    "usage": {
+      "input_tokens": 15127,
+      "output_tokens": 4325,
+      "thinking_tokens": 4161,
+      "cache_read_tokens": 0,
+      "total_tokens": 19452
+    }
+  },
+  "event_count": 37
+}

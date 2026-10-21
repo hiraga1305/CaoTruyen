@@ -1,0 +1,92 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0268|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一張|một tấm
+M2|一道|một luồng
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §50):
+§1 268.第268章 金丹三隻眼
+§2 第268章 金丹三隻眼
+§3 [Ø=云千峰]烏雲從四面八方向著天頂匯聚，欺壓著那亙古不曾移動的“太陽”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]，讓這個空間的光彩暗淡下來。
+§4 [Ø=云千峰]沒有風，卻能讓四面八方的水汽匯聚與頂，雲千峰猜測，這可能是地球呼吸的作用。
+§5 “地球的鼻孔在哪？南極？北極？還是海洋？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§6 [Ø=云千峰]他沒時間去思討這個問題，因為他必須為接下來一定會出現的暴雨做準備。
+§7 [Ø=云千峰]看了一下時間，距離天黑還有兩個小時，大雨可能會比天黑提前到來。
+§8 雲千峰急忙對白狐道：
+§9 [Ø=云千峰]“白狐，快去看看周圍的林子裡有沒有現成的樹洞山洞之類，等會的降雨量，普通的斜坡避身所恐怕不夠看。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§10 [Ø=云千峰]白狐知道，雲千峰現在腿腳不太方便，於是點了點頭，速度極快的攀上不遠處的一棵大樹。
+§11 雲千峰暗讚聰明。
+§12 站得高看得遠。
+§13 [Ø=云千峰]白狐的身形極其靈敏，在一棵樹上沒看到適合避雨的地方，當下也沒下來， [||] 而是順著樹枝，一彈一躍，直接到了另外一棵大樹上。
+§14 如此往複。
+§15 [Ø=云千峰]幾分鍾後，白狐開心的回來，指著一個方向道：
+§16 [Ø=云千峰]“遠處有很大的一個樹洞，大約十幾分鍾路程，足夠我們三個避雨休息！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 [Ø=云千峰]雲千峰大喜，白狐背起不能動彈的卓瑪，雲千峰轉移火種，三人快速的向著叢林裡鑽進去。
+§18 [Ø=云千峰]這裡的溫度大約在三十度左右，所以此地的植被非常茂密，高的矮的，擠滿了三十米以下的空間。
+§19 [Ø=云千峰]三個人擠著這些植被趕路，白狐所謂十幾分鍾路程， [||] 那是指沒有障礙物的情況下，現在這個情況，沒有半個小時別想到地方。
+§20 大雨比預想的要來的快。
+§21 [Ø=云千峰]走到半途，大雨就毫不憐惜的傾盆而落。
+§22 [Ø=云千峰]幾乎一個照面，三個人就徹底濕透了。
+§23 [Ø=云千峰]急促的雨點擊打著層層疊疊的闊葉，發出連續不斷的轟鳴，“嗡嗡嗡”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]的叫人耳根發麻。
+§24 [Ø=云千峰]溫度也隨之迅速下降，悶熱消失，取而代之的是難忍的濕冷。
+§25 [Ø=云千峰]白狐把尾巴遮在了自己的額前，不讓大雨迷失她的視線。
+§26 [Ø=云千峰]到達樹洞後，雲千峰放好火種後，用最快的速度在周圍開始拾撿柴火。
+§27 [Ø=云千峰]大雨剛下，那些散落的乾木，最多濕了一層皮，不耽誤燃燒。
+§28 [Ø=云千峰]白狐放好卓瑪後，[Ø_SHIFT=姜柔甲]也急忙衝出來拾柴。
+§29 [Ø=姜柔甲]倆人速度都不慢，很快在九平米大小的樹洞內，堆了一大堆的乾枝。
+§30 [Ø=姜柔甲]“夠了，回去吧！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=姜柔甲]雲千峰估算了一下，足夠晚上使用，便呼喊白狐一起回到了山洞。
+§32 [Ø=姜柔甲]篝火緩緩燃起，驅散了樹洞內的潮氣，濕冷的體感消失，連呼吸都變得順暢起來。
+§33 [Ø=姜柔甲]倆人正搭架子，準備用來熏烤衣服，順便還能當簾子，遮擋彼此的害羞。
+§34 [Ø=姜柔甲]然而，剛搭了一半，外面響起了一聲驚雷。
+§35 [Ø=姜柔甲]隨後就和放鞭炮似的，“哢嚓哢嚓”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]響個不停。
+§36 [Ø=姜柔甲]透過樹洞，可以看到外面昏暗的天空上，爬滿了金色的閃電，就好像半個天空罩了一張[M1:một tấm]金色的蜘蛛網。
+§37 [Ø=姜柔甲]第一聲雷響，雲千峰和白狐幾乎同時一哆嗦。
+§38 臉上現出了驚慌。
+§39 [Ø=姜柔甲]倆人自討是架不住雷劈的，同時深知到底是大意了，隻想著遮雨，卻沒想到這地底空間下雨也打雷。
+§40 [Ø=姜柔甲]這天氣住在樹洞裡，怕不是等於自殺。
+§41 [Ø=姜柔甲]濕撈撈的倆人同時擠在樹洞口，向著天空望去， [||] 後腿都蓄著力，看情形不對，立馬就跑。
+§42 [Ø=姜柔甲]觀察了一會後，倆人才放下心來。
+§43 [Ø=姜柔甲]閃電密布，但卻沒有一道[M2:một luồng]閃電劈下來。
+§44 似乎那些閃電都是向著天空太陽的位置匯聚。
+§45 雲千峰喃喃道：
+§46 “這是在給太陽充電嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§47 [Ø=姜柔甲]白狐搖了搖頭，道：
+§48 [Ø=姜柔甲]“這點電量不夠用吧？那太陽應該是氦-3聚變的方式釋放能量，瑪肆科說過，這顆星球內部有著存量很多的氦-3。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§49 [Ø=姜柔甲]這一點雲千峰倒是聽說過，因為這顆星球幾乎每時每刻都在地底釋放著稀少的氦-3，這種物質也被認為是最佳的聚變材料，因為不會產生汙染。
+§50 [Ø=姜柔甲]所以白狐說這個“太陽”[Q1:姜柔甲->云千峰|state:COURTEOUS|tone:thăm dò, lễ tiết]是氦-3聚變器，是絕對有可能的，而且可能性很大。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 50 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§50. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

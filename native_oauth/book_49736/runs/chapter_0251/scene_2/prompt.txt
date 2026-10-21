@@ -1,0 +1,88 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0251|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Tiểu Thần Kinh lắng nghe giọng nói run rẩy đang bị kìm nén của Vân Thiên Phong, dùng ngữ điệu vô cùng bình thản đáp:
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一張|một tấm
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §47):
+§1 [Ø=云千峰]“答案就在我身上放著，打敗我，你就能拿到它。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§2 這是雲千峰最恐懼聽到的話。
+§3 [Ø=云千峰]祭台上的這些倒下的人，雲千峰心裡難受，[Ø_SHIFT=姜柔甲]但不會讓他崩潰，因為他對他們沒有記憶。
+§4 [Ø=姜柔甲]但是小神經不一樣，不一樣！
+§5 雲千峰緩緩走近小神經。
+§6 [Ø=姜柔甲]小神經沒有要求雲千峰掀開蓋頭，她自己也沒有去掀開那紅色繡花的精致方布，似乎就準備以這樣無法看見的狀態與雲千峰一決生死。
+§7 [Ø=姜柔甲]聽到雲千峰腳步聲的位置，已經在自己身前一米半， [||] 小神經緩緩伸出手，掌心朝上立在身前，這是詠春拳的引手。
+§8 [Ø=姜柔甲]她準備用詠春聽勁的方式，與雲千峰盲打。
+§9 [Ø=姜柔甲]然而下一秒，小神經感覺到自己腰上被一個硬硬的東西頂著，那是一把手槍。
+§10 “你輸了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 雲千峰淡淡的說道。
+§12 [Ø=姜柔甲]小神經的話裡沒提決生死，那麽雲千峰就不會放棄這自己最能接受的方式。
+§13 [Ø=姜柔甲]小神經愣住了，她沒想到雲千峰竟然不講武德。
+§14 [Ø=姜柔甲]然而事實上，這本就不是比武，而且從結果來看，自己的確是輸了。
+§15 [Ø=姜柔甲]小神經垂下了攤出的右手，柔聲道：
+§16 [Ø=姜柔甲]“你贏了，掀開蓋頭。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 [Ø=姜柔甲]雲千峰收起槍，用雙手托起那鮮紅的方布，露出了小神經清麗的面龐。
+§18 [Ø=姜柔甲]她的臉很小，很俏。
+§19 [Ø=姜柔甲]尤其今天，她破天荒的畫了淡妝，讓她的眼睛愈加深邃明亮，小小的嘴唇仿似熟透的櫻桃。
+§20 “給我答案！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 [Ø=姜柔甲]雲千峰看著一身紅妝的小神經，再次問道。
+§22 [Ø=姜柔甲]小神經用雙臂攬住了雲千峰的腰，把臉靠在他的胸膛，聽著那“咚咚咚”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]的心跳，呢喃道：
+§23 [Ø=姜柔甲]“在我衣服裡，貼著我的皮膚，自己去拿。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 雲千峰接收到了小神經釋放的信號。
+§25 [Ø=姜柔甲]他似乎明白小神經為什麽釋放這樣的信號，那就是因為那祭台上的一張[M1:một tấm]張笑臉。
+§26 [Ø=姜柔甲]她希望他們的靈魂能夠知道，兩個人真的在一起了。
+§27 [Ø=姜柔甲]這與其說是寬慰靈魂，不如說是寬慰自己的內心。
+§28 這本就是唯心的。
+§29 [Ø=姜柔甲]雲千峰橫著抱起小神經，大步的走到西王母那巨大的雕像之後。
+§30 [Ø=姜柔甲]雕像的陰影中，只有飄渺的火把光影偶爾騷擾到這裡。
+§31 [Ø=姜柔甲]那很久之前，雲千峰就不止一次想象過的美好，他心裡最美的背影，完全坦誠的出現在自己眼中。
+§32 [Ø=姜柔甲]小神經趴在那裡，以肘觸地，回望雲千峰，細眼如絲。
+§33 [Ø=姜柔甲]雲千峰此刻才知道，什麽叫M骨天成。
+§34 那應該是這個世界上最美妙的聲音在這個石廳內如煙如霧彌漫開。
+§35 [Ø=姜柔甲]小神經沒有壓抑自己的聲音，她盡情的高歌著。
+§36 [Ø=姜柔甲]如果人真的有靈魂，那麽他們一定聽得到。
+§37 這是他們期盼多年的婚禮。
+§38 良久
+§39 小神經安靜的伏在雲千峰的懷裡。
+§40 [Ø=姜柔甲]而雲千峰手中，是一個微型的數碼相機，原本應該是做偷拍之用的東西。
+§41 這個相機就壓在小神經那堆衣服裡。
+§42 [Ø=姜柔甲]小神經爬起來，雙手攀著雲千峰的肩膀，柔聲道：
+§43 [Ø=姜柔甲]“你要的答案都在裡面，但打開前， [||] 你一定要記得保持冷靜，這裡沒有人的對錯，只有選擇”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 感謝肖娜丶、尾數27538、對此不能靠近、liude的月票獎勵。
+§45 謝謝你們的支持！！！
+§46 感激！！！
+§47 [Ø=姜柔甲]祝大家周末愉快，晚安！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 47 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§47. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

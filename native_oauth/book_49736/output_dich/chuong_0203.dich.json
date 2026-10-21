@@ -1,0 +1,601 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 203,
+  "title": "Chương 203: Nguyệt - Tháp - Sơn",
+  "total_paragraphs": 98,
+  "translated_paragraphs": 98,
+  "source_hash": "87552355df8180cb92c230606686f190eb9be2c0785b0e9323ee115f9a5f4eb5",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0203p0001",
+      "index": 1,
+      "raw_zh": "第203章 月.塔.山",
+      "translated_vi": "Chương 203: Nguyệt - Tháp - Sơn"
+    },
+    {
+      "para_id": "c0203p0002",
+      "index": 2,
+      "raw_zh": "天時下午，之前烏雲密布的天空晴得猝不及防。",
+      "translated_vi": "Tiết trời đã về chiều, bầu trời vốn giăng kín mây đen u ám bỗng chốc hửng nắng bất ngờ, trong xanh ngoài dự liệu."
+    },
+    {
+      "para_id": "c0203p0003",
+      "index": 3,
+      "raw_zh": "五月份的黎府，熱得人不想呼吸。",
+      "translated_vi": "Tháng Năm ở tỉnh Loei, cái nóng hầm hập như thiêu như đốt khiến người ta ngột ngạt chẳng buồn thở."
+    },
+    {
+      "para_id": "c0203p0004",
+      "index": 4,
+      "raw_zh": "雲千峰抱著白狐法緹娜，乘著一輛三輪出租車來到了婉娜拉·宋提查居住的小鎮。",
+      "translated_vi": "Vân Thiên Phong ôm cáo trắng Fatina ngồi trên chiếc xe tuk tuk ba bánh, lọc cọc chạy tới thị trấn nơi Wannarot Sonthichai đang sinh sống."
+    },
+    {
+      "para_id": "c0203p0005",
+      "index": 5,
+      "raw_zh": "這裡已經看不到泰國傳統的味道，只有隨處可以聞到的榴蓮味和高溫讓雲千峰意識到，這裡是泰國。",
+      "translated_vi": "Nơi này dường như chẳng còn vương lại chút phong vị truyền thống nào của xứ sở chùa vàng; chỉ có mùi sầu riêng thoang thoảng nồng đượm khắp mọi ngõ ngách cùng cái nóng như nung mới nhắc nhở Vân Thiên Phong nhận ra rằng mình đang ở Thái Lan."
+    },
+    {
+      "para_id": "c0203p0006",
+      "index": 6,
+      "raw_zh": "婉娜拉·宋提查的公寓鎖著門，是那種在外面上著鎖頭的門。",
+      "translated_vi": "Căn hộ của Wannarot Sonthichai cửa đóng then cài, bên ngoài còn móc một ổ khóa treo to tướng."
+    },
+    {
+      "para_id": "c0203p0007",
+      "index": 7,
+      "raw_zh": "所以連門都不用敲就知道裡面肯定沒人。",
+      "translated_vi": "Thế nên thậm chí chẳng cần phải gõ cửa cũng thừa biết bên trong chắc chắn không có người."
+    },
+    {
+      "para_id": "c0203p0008",
+      "index": 8,
+      "raw_zh": "雲千峰利用翻譯軟件，找她的鄰居打聽了一下，然而對於這個小太妹，她的鄰居似乎都對婉娜拉·宋提查沒有什麽好感，所以都不知道她的去向。",
+      "translated_vi": "Vân Thiên Phong nhờ cậy vào phần mềm dịch thuật trên điện thoại để lân la dò hỏi hàng xóm láng giềng xung quanh; ngặt nỗi đối với một cô ả ngổ ngáo bất hảo như thế, bà con lối xóm dường như chẳng mấy ai có thiện cảm với Wannarot Sonthichai, thành thử không một ai hay biết cô ấy đã đi đâu."
+    },
+    {
+      "para_id": "c0203p0009",
+      "index": 9,
+      "raw_zh": "雲千峰隻好轉回婉娜拉·宋提查的門前，看著那門鎖，遲疑了零點幾秒，確定周圍沒人，然後一拳頭把鎖砸壞。",
+      "translated_vi": "Vân Thiên Phong đành quay trở lại trước cửa phòng Wannarot Sonthichai, nhìn chòng chọc vào ổ khóa; sau khi ngập ngừng chừng vài phần mười giây và đoan chắc xung quanh không có ai dòm ngó, anh tung một đấm đập nát bét ổ khóa."
+    },
+    {
+      "para_id": "c0203p0010",
+      "index": 10,
+      "raw_zh": "婉娜拉·宋提查去哪裡了不重要，只要能找到八姓竹書便夠了。",
+      "translated_vi": "Wannarot Sonthichai đi đâu không quan trọng, miễn sao tìm ra được Bát Tính Trúc Thư là đủ."
+    },
+    {
+      "para_id": "c0203p0011",
+      "index": 11,
+      "raw_zh": "雲千峰和白狐法緹娜在那本就不大的屋子裡翻找了一通，這屋子裡面家具簡單，房屋結構簡單，翻遍了也不需要多久。",
+      "translated_vi": "Vân Thiên Phong cùng cáo trắng Fatina lật tung căn phòng vốn chẳng lấy gì làm rộng rãi ấy lên; đồ đạc bên trong vô cùng đơn sơ, kết cấu phòng ốc giản tiện, lục lọi khắp hang cùng ngõ hẻm cũng chẳng tốn bao nhiêu thời gian."
+    },
+    {
+      "para_id": "c0203p0012",
+      "index": 12,
+      "raw_zh": "最後雲千峰確定，這婉娜拉·宋提查很窮，沒有黃金飾品，沒有存款，沒有值錢的衣服，最多的只有丁字。",
+      "translated_vi": "Rốt cuộc Vân Thiên Phong có thể khẳng định chắc nịch rằng cô nàng Wannarot Sonthichai này nghèo rớt mồng tơi: không trang sức vàng bạc, không sổ tiết kiệm, không quần áo đắt tiền, thứ nhiều nhất trong phòng chỉ toàn là quần lót lọt khe."
+    },
+    {
+      "para_id": "c0203p0013",
+      "index": 13,
+      "raw_zh": "八姓竹書自然也沒有找到。",
+      "translated_vi": "Bát Tính Trúc Thư đương nhiên cũng chẳng thấy bóng dáng đâu."
+    },
+    {
+      "para_id": "c0203p0014",
+      "index": 14,
+      "raw_zh": "雲千峰把不下二十條丁字重新放好在抽屜裡，思索著還有沒有什麽地方自己沒有找到。",
+      "translated_vi": "Vân Thiên Phong xếp gọn gàng gần hai mươi chiếc quần lọt khe trở lại ngăn kéo, trong đầu không ngừng suy tính xem liệu còn xó xỉnh nào mình đã bỏ sót hay không."
+    },
+    {
+      "para_id": "c0203p0015",
+      "index": 15,
+      "raw_zh": "觀察了一圈，最後確定，沒有這樣的地方了。",
+      "translated_vi": "Đảo mắt quan sát một vòng, cuối cùng anh xác định dứt khoát: tuyệt đối không còn ngóc ngách nào nữa."
+    },
+    {
+      "para_id": "c0203p0016",
+      "index": 16,
+      "raw_zh": "他用手機翻譯軟件，給婉娜拉·宋提查發了一條信息，但是久久沒有回應，打電話是沒辦法打的，生怕語言不通。",
+      "translated_vi": "Anh dùng phần mềm dịch trên điện thoại soạn một tin nhắn gửi cho Wannarot Sonthichai, song chờ đợi mãi mà chẳng thấy hồi âm; còn việc gọi điện trực tiếp thì hoàn toàn bất khả thi vì sợ rào cản bất đồng ngôn ngữ."
+    },
+    {
+      "para_id": "c0203p0017",
+      "index": 17,
+      "raw_zh": "就在他犯愁接下來該怎麽辦的時候，白狐法緹娜叼著一張傳單跳到了雲千峰面前。",
+      "translated_vi": "Giữa lúc anh đang đau đầu chẳng biết phải làm sao tiếp theo thì cáo trắng Fatina bỗng ngậm một tờ rơi quảng cáo nhảy phốc tới trước mặt Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0203p0018",
+      "index": 18,
+      "raw_zh": "“呸！”",
+      "translated_vi": "“Phì!”"
+    },
+    {
+      "para_id": "c0203p0019",
+      "index": 19,
+      "raw_zh": "把傳單吐到雲千峰腿上，白狐法緹娜說道：",
+      "translated_vi": "Nhổ tờ rơi lên đùi Vân Thiên Phong, cáo trắng Fatina nói:"
+    },
+    {
+      "para_id": "c0203p0020",
+      "index": 20,
+      "raw_zh": "“看看這傳單上的內容。”",
+      "translated_vi": "“Mau xem nội dung trên tờ rơi này đi.”"
+    },
+    {
+      "para_id": "c0203p0021",
+      "index": 21,
+      "raw_zh": "雲千峰拍照，然後提取照片文字，進行翻譯。",
+      "translated_vi": "Vân Thiên Phong đưa máy lên chụp ảnh, sau đó trích xuất văn bản trong hình để dịch nghĩa."
+    },
+    {
+      "para_id": "c0203p0022",
+      "index": 22,
+      "raw_zh": "“我司斥巨資買下蒲卡山最美區域所有權，力求將其建設為全亞洲最優秀的遊覽勝地。",
+      "translated_vi": "“Công ty chúng tôi đã chi một khoản tiền khổng lồ mua lại toàn bộ quyền sở hữu khu vực đẹp nhất trên núi Phu Kha, quyết tâm xây dựng nơi đây thành thắng cảnh du lịch nghỉ dưỡng hàng đầu toàn châu Á."
+    },
+    {
+      "para_id": "c0203p0023",
+      "index": 23,
+      "raw_zh": "現已完成大型鬼屋、蹦極場地、攀岩場地、遊樂場、餐廳、觀景台等設施，在即將開業之前，我司將與六月二日晚八時舉辦尋寶盛會，並以隨機抽取的形式，將邀請卡發放到幸運的人手裡。",
+      "translated_vi": "Hiện tại đã hoàn thiện các hạng mục cơ sở vật chất gồm: nhà ma quy mô lớn, khu nhảy bungy mạo hiểm, bãi leo núi nhân tạo, công viên giải trí, chuỗi nhà hàng ẩm thực, đài ngắm cảnh... Trước thềm khai trương chính thức, vào hồi 20 giờ tối ngày 2 tháng 6, công ty chúng tôi sẽ long trọng tổ chức Ngày hội săn tìm kho báu, đồng thời dưới hình thức bốc thăm ngẫu nhiên đã gửi trao thiệp mời tận tay những vị khách may mắn nhất."
+    },
+    {
+      "para_id": "c0203p0024",
+      "index": 24,
+      "raw_zh": "屆時，我司將在規定區域內藏下200件幸運寶藏，尋得寶藏者，可在我司辦事處兌換一萬美元現金。",
+      "translated_vi": "Trong thời gian diễn ra sự kiện, công ty sẽ cất giấu 200 phần kho báu may mắn rải rác khắp khu vực quy định. Bất kỳ ai tìm được kho báu đều có thể tới văn phòng đại diện của chúng tôi để đổi lấy số tiền mặt trị giá 10.000 đô la Mỹ."
+    },
+    {
+      "para_id": "c0203p0025",
+      "index": 25,
+      "raw_zh": "活動期間，所有娛樂設施免費開放（我沒說可能有寶藏藏在娛樂設施之中喲），餐廳免費對外開放，所有參與者可免費品嘗我司高級廚師的料理。",
+      "translated_vi": "Trong suốt sự kiện, toàn bộ các công trình giải trí sẽ mở cửa hoàn toàn miễn phí (chúng tôi đâu có nói là kho báu có thể được giấu bên trong các khu trò chơi đâu nhé!), nhà hàng ẩm thực phục vụ tự do không thu phí, tất cả khách tham gia đều được miễn phí thưởng thức những món mỹ vị thượng hạng do chính các đầu bếp cao cấp của công ty chế biến."
+    },
+    {
+      "para_id": "c0203p0026",
+      "index": 26,
+      "raw_zh": "注意事項：我司已經在區域內放置足夠多的監控攝像，可以保證所有參與者的安全，也奉勸大家遵守遊戲規則，勿行違法之舉動。",
+      "translated_vi": "Lưu ý quan trọng: Công ty chúng tôi đã lắp đặt dày đặc hệ thống camera giám sát khắp toàn bộ khuôn viên, tuyệt đối bảo đảm an toàn tính mạng cho mọi người tham gia; đồng thời khuyến cáo quý khách hãy nghiêm chỉnh tuân thủ luật chơi, chớ có bất kỳ hành vi cướp đoạt trái pháp luật nào."
+    },
+    {
+      "para_id": "c0203p0027",
+      "index": 27,
+      "raw_zh": "期待見證幸運者成為百萬富翁！",
+      "translated_vi": "Kính chúc quý khách may mắn trở thành triệu phú!"
+    },
+    {
+      "para_id": "c0203p0028",
+      "index": 28,
+      "raw_zh": "俺必勝國際娛樂公司宣。”",
+      "translated_vi": "Công ty Giải trí Quốc tế An Tất Thắng trân trọng thông báo.”"
+    },
+    {
+      "para_id": "c0203p0029",
+      "index": 29,
+      "raw_zh": "白狐法緹娜看完上面的內容，立馬叫道：",
+      "translated_vi": "Cáo trắng Fatina vừa đọc xong nội dung trên tờ rơi liền lập tức kêu lên:"
+    },
+    {
+      "para_id": "c0203p0030",
+      "index": 30,
+      "raw_zh": "“搞事情，這絕對是搞事情！和那光頭黑衣人撇不開關系！”",
+      "translated_vi": "“Có mùi mờ ám rồi! Đây tuyệt đối là một cái bẫy giăng sẵn! Chắc chắn dính líu không thể chối cãi tới gã đầu trọc mặc áo đen kia!”"
+    },
+    {
+      "para_id": "c0203p0031",
+      "index": 31,
+      "raw_zh": "不得不說，近朱者赤近墨者黑，這白狐法緹娜的語氣越來越像雲千峰。",
+      "translated_vi": "Phải công nhận rằng gần mực thì đen gần đèn thì rạng, cái giọng điệu của con cáo trắng Fatina này ngày càng giống hệt như đúc Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0203p0032",
+      "index": 32,
+      "raw_zh": "雲千峰沉思道：",
+      "translated_vi": "Vân Thiên Phong trầm ngâm nói:"
+    },
+    {
+      "para_id": "c0203p0033",
+      "index": 33,
+      "raw_zh": "“這婉娜拉·宋提查肯定是參加俺必勝娛樂公司的活動去了，不得不說，這活動太過誘人，要是我接到了傳單，也一定會去。",
+      "translated_vi": "“Cô nàng Wannarot Sonthichai này chắc chắn là đã đi tham gia sự kiện của Công ty Giải trí An Tất Thắng rồi. Thú thật thì hoạt động này quá đỗi hấp dẫn, nếu là tôi nhận được tờ rơi thì tôi cũng nhất định sẽ mò tới."
+    },
+    {
+      "para_id": "c0203p0034",
+      "index": 34,
+      "raw_zh": "要建造這麽多的設施，沒有一兩年是無法完成的，如果說這是個套兒，那麽這些人在很早之前就已經開始計劃了，他們之中必定有通曉天體運行的高人。”",
+      "translated_vi": "Muốn xây dựng được ngần ấy công trình đồ sộ thì không mất một hai năm tuyệt đối không thể nào hoàn thiện nổi. Nếu đây thực sự là một cái bẫy rập thì đám người này đã phải lên kế hoạch từ rất lâu về trước rồi, trong nội bộ bọn chúng ắt hẳn phải có cao nhân am hiểu tường tận sự vận hành của các thiên thể.”"
+    },
+    {
+      "para_id": "c0203p0035",
+      "index": 35,
+      "raw_zh": "預測月球地軌時間不難，但是能夠提前計算出每個滿月的晚上，距離月亮最近的地球上的點，可就不是那麽容易的事情了。",
+      "translated_vi": "Việc dự báo thời điểm Mặt Trăng đi vào quỹ đạo thấp thì không khó, thế nhưng có thể tính toán chính xác trước nhiều năm rằng vào mỗi đêm trăng tròn, điểm nào trên bề mặt Trái Đất nằm gần Mặt Trăng nhất, thì đó tuyệt đối chẳng phải là chuyện dễ dàng gì."
+    },
+    {
+      "para_id": "c0203p0036",
+      "index": 36,
+      "raw_zh": "白狐法緹娜點頭，道：",
+      "translated_vi": "Cáo trắng Fatina gật đầu tán đồng:"
+    },
+    {
+      "para_id": "c0203p0037",
+      "index": 37,
+      "raw_zh": "“這還不是最難的，最難的是他們還要保證這個時間這個地點是晴天，這已經不是“難”字能夠形容的了，可以說地球上的科技和氣象水平根本無法保證這一點。”",
+      "translated_vi": "“Đó vẫn chưa phải là điều khó khăn nhất đâu! Cái khó nhất chính là bọn chúng còn phải đảm bảo đúng thời khắc đó, đúng địa điểm đó bầu trời phải quang đãng không một gợn mây! Điều này đã vượt xa khỏi giới hạn của chữ ‘khó’ rồi, có thể nói trình độ khoa học kỹ thuật và khí tượng hiện nay của Trái Đất căn bản không đời nào đảm bảo được điều ấy.”"
+    },
+    {
+      "para_id": "c0203p0038",
+      "index": 38,
+      "raw_zh": "雲千峰思索道：",
+      "translated_vi": "Vân Thiên Phong suy ngẫm bảo:"
+    },
+    {
+      "para_id": "c0203p0039",
+      "index": 39,
+      "raw_zh": "“如此說來，這個俺必勝公司只是巧合遇到了這樣的天文現象，而不是提前準備的，也就是說這不是搞事情，才合理。”",
+      "translated_vi": "“Nói như vậy thì Công ty An Tất Thắng này chỉ tình cờ gặp đúng hiện tượng thiên văn kỳ thú ấy chứ không phải chuẩn bị trước từ xưa, nghĩa là chuyện này không phải mưu đồ mờ ám thì mới hợp logic.”"
+    },
+    {
+      "para_id": "c0203p0040",
+      "index": 40,
+      "raw_zh": "白狐法緹娜微微頷首，道：",
+      "translated_vi": "Cáo trắng Fatina khẽ gật đầu:"
+    },
+    {
+      "para_id": "c0203p0041",
+      "index": 41,
+      "raw_zh": "“除非他們能夠控制天氣，否則不是搞事情才合理。”",
+      "translated_vi": "“Trừ phi bọn chúng có khả năng thao túng thời tiết, bằng không suy đoán không có mưu đồ mới là hợp lý.”"
+    },
+    {
+      "para_id": "c0203p0042",
+      "index": 42,
+      "raw_zh": "雲千峰看著俺必勝公司的名字，笑道：",
+      "translated_vi": "Vân Thiên Phong nhìn vào cái tên Công ty An Tất Thắng, bật cười nói:"
+    },
+    {
+      "para_id": "c0203p0043",
+      "index": 43,
+      "raw_zh": "“幸好是幾年前就動工的遊樂設施，否則這名字我都以為是針對我來的。”",
+      "translated_vi": "“Cũng may đây là khu vui chơi được khởi công xây dựng từ mấy năm trước, bằng không nhìn cái tên này khéo tôi lại tưởng bọn chúng cố tình nhắm vào tôi mất.”"
+    },
+    {
+      "para_id": "c0203p0044",
+      "index": 44,
+      "raw_zh": "嘴裡說著，開始在網頁上搜索這家公司的資料。",
+      "translated_vi": "Miệng thì nói vậy nhưng tay anh đã bắt đầu gõ tìm kiếm thông tin về công ty này trên mạng internet."
+    },
+    {
+      "para_id": "c0203p0045",
+      "index": 45,
+      "raw_zh": "“俺必勝娛樂公司（原名路西華娛樂有限公司），私人公司，注資三千萬美元，業務核心為世界各地旅遊路線探索和建設.”",
+      "translated_vi": "“Công ty Giải trí An Tất Thắng (tên ban đầu là Công ty TNHH Giải trí Lucifer), công ty tư nhân, vốn điều lệ 30 triệu đô la Mỹ, lĩnh vực kinh doanh cốt lõi là khảo sát và xây dựng các tuyến du lịch trên khắp thế giới...”"
+    },
+    {
+      "para_id": "c0203p0046",
+      "index": 46,
+      "raw_zh": "雲千峰秉承著多疑的性格，看了一眼這公司改名的時間，頓時眼睛都瞪圓了，急聲道：",
+      "translated_vi": "Vốn bản tính đa nghi ăn sâu vào máu, Vân Thiên Phong liếc nhìn mốc thời gian công ty đổi tên, hai mắt lập tức trợn tròn xoe, thảng thốt kêu lên:"
+    },
+    {
+      "para_id": "c0203p0047",
+      "index": 47,
+      "raw_zh": "“五月十五日改的名字！”",
+      "translated_vi": "“Đổi tên vào ngày 15 tháng 5!”"
+    },
+    {
+      "para_id": "c0203p0048",
+      "index": 48,
+      "raw_zh": "白狐法緹娜也意識到這不對勁，因為這公司十幾天前更改成功名字，就意味著他們更早的時候提出名字更改的申請。",
+      "translated_vi": "Cáo trắng Fatina cũng nhận ra điểm bất thường nghiêm trọng, bởi vì việc công ty này đổi tên thành công cách đây mười mấy ngày đồng nghĩa với việc bọn chúng đã nộp đơn xin đổi tên từ trước đó khá lâu."
+    },
+    {
+      "para_id": "c0203p0049",
+      "index": 49,
+      "raw_zh": "同時這公司名字又是雲千峰現用身份的名字，這就不是巧合那麽簡單了。",
+      "translated_vi": "Trong khi đó cái tên công ty này lại trùng khớp hoàn toàn với danh tính giả mà Vân Thiên Phong hiện đang sử dụng, đây tuyệt đối chẳng thể nào là sự trùng hợp ngẫu nhiên đơn thuần nữa rồi."
+    },
+    {
+      "para_id": "c0203p0050",
+      "index": 50,
+      "raw_zh": "雲千峰快速滑動手機屏幕，來到了公司法人欄，看到了一個長度讓人眩暈的名字。",
+      "translated_vi": "Vân Thiên Phong nhanh tay vuốt màn hình điện thoại xuống mục thông tin người đại diện theo pháp luật của công ty, liền đập vào mắt một cái tên dài dằng dặc đến mức khiến người ta hoa mắt chóng mặt."
+    },
+    {
+      "para_id": "c0203p0051",
+      "index": 51,
+      "raw_zh": "“法人是我！”",
+      "translated_vi": "“Người đại diện pháp luật là tôi!”"
+    },
+    {
+      "para_id": "c0203p0052",
+      "index": 52,
+      "raw_zh": "“法人變更也是前幾天。”",
+      "translated_vi": "“Thời điểm thay đổi người đại diện pháp luật cũng là mấy ngày trước!”"
+    },
+    {
+      "para_id": "c0203p0053",
+      "index": 53,
+      "raw_zh": "“這就是針對我來的！公司注冊地點是M國，看來這些人的勢力不小，否則無法做到這一點。”",
+      "translated_vi": "“Rõ ràng là nhắm thẳng vào tôi rồi! Địa điểm đăng ký của công ty là ở nước Mỹ, xem ra thế lực của đám người này không hề nhỏ, bằng không tuyệt đối không thể thao túng được chuyện này.”"
+    },
+    {
+      "para_id": "c0203p0054",
+      "index": 54,
+      "raw_zh": "白狐法緹娜疑惑，道：",
+      "translated_vi": "Cáo trắng Fatina khó hiểu, hỏi:"
+    },
+    {
+      "para_id": "c0203p0055",
+      "index": 55,
+      "raw_zh": "“可是你沒有收到活動邀請卡，他們也不可能知道你要去尋找婉娜拉·宋提查，怎麽針對你呢？”",
+      "translated_vi": "“Nhưng mà anh đâu có nhận được thiệp mời tham gia sự kiện, bọn chúng lại càng không thể biết trước anh sẽ lặn lội tới đây tìm kiếm Wannarot Sonthichai, vậy thì nhắm vào anh bằng cách nào chứ?”"
+    },
+    {
+      "para_id": "c0203p0056",
+      "index": 56,
+      "raw_zh": "說到這，白狐法緹娜和雲千峰同時恍然大悟，面對面說了句：",
+      "translated_vi": "Nói đến đây, cả cáo trắng Fatina lẫn Vân Thiên Phong đều đồng thời vỡ lẽ, bốn mắt nhìn nhau cùng bật thốt lên:"
+    },
+    {
+      "para_id": "c0203p0057",
+      "index": 57,
+      "raw_zh": "“就是因為不知道伱（我）來這裡，才這樣針對！”",
+      "translated_vi": "“Chính vì không biết anh (tôi) đến đây nên bọn chúng mới nhắm vào theo cách này!”"
+    },
+    {
+      "para_id": "c0203p0058",
+      "index": 58,
+      "raw_zh": "雲千峰恨恨道：",
+      "translated_vi": "Vân Thiên Phong căm phẫn nghiến răng:"
+    },
+    {
+      "para_id": "c0203p0059",
+      "index": 59,
+      "raw_zh": "“這些人睚眥必報啊！他們以為我在華夏，所以利用權利，把這家公司的一切都轉到我的名下，然後等到浦卡山這裡出了大事，我就要對這事負全責。”",
+      "translated_vi": "“Đám súc sinh này đúng là có thù tất báo mà! Bọn chúng đinh ninh tôi vẫn đang ở Hoa Hạ, cho nên đã lạm dụng quyền lực ngầm để sang tên toàn bộ công ty này cho tôi, đợi đến khi trên núi Phu Kha xảy ra đại họa kinh hoàng, tôi sẽ phải đứng ra gánh trọn mọi trách nhiệm trước pháp luật!”"
+    },
+    {
+      "para_id": "c0203p0060",
+      "index": 60,
+      "raw_zh": "白狐法緹娜點頭，道：",
+      "translated_vi": "Cáo trắng Fatina gật đầu tán thành:"
+    },
+    {
+      "para_id": "c0203p0061",
+      "index": 61,
+      "raw_zh": "“應該是這樣，這是報復你之前壞了他們在印度洋要做的事情，同時還找到了背鍋的人。”",
+      "translated_vi": "“Chắc chắn là như vậy rồi! Đây vừa là đòn trả thù vì anh đã phá đám đại lễ tế của bọn chúng ở Ấn Độ Dương, lại vừa tiện tay tìm được một kẻ thế mạng gánh tội thay!”"
+    },
+    {
+      "para_id": "c0203p0062",
+      "index": 62,
+      "raw_zh": "雲千峰咬牙，道：",
+      "translated_vi": "Vân Thiên Phong nghiến răng kèn kẹt:"
+    },
+    {
+      "para_id": "c0203p0063",
+      "index": 63,
+      "raw_zh": "“絕對不能出事啊，否則我又成通緝犯了！”",
+      "translated_vi": "“Tuyệt đối không thể để xảy ra chuyện được, bằng không tôi lại biến thành tội phạm truy nã mất!”"
+    },
+    {
+      "para_id": "c0203p0064",
+      "index": 64,
+      "raw_zh": "“這事報警還沒用，沒有任何實際證據，都是我們的猜測，現如今阻止這一切，只能是咱倆親自動手了！”",
+      "translated_vi": "“Chuyện này báo cảnh sát cũng vô dụng, chúng ta chẳng có chút bằng chứng xác thực nào trong tay, toàn bộ chỉ là suy luận; hiện giờ muốn ngăn chặn thảm kịch thì chỉ có hai đứa mình tự thân ra tay mà thôi!”"
+    },
+    {
+      "para_id": "c0203p0065",
+      "index": 65,
+      "raw_zh": "嘴上說著，抱起白狐法緹娜就往外跑。",
+      "translated_vi": "Vừa dứt lời, anh bế bổng cáo trắng Fatina lên rồi cắm đầu chạy thục mạng ra ngoài."
+    },
+    {
+      "para_id": "c0203p0066",
+      "index": 66,
+      "raw_zh": "來到破舊的街道上，雲千峰攔住一輛三輪出租車，把手機屏幕上已經翻譯的字跡給那司機看。",
+      "translated_vi": "Ra tới con phố cũ kỹ lởm chởm, Vân Thiên Phong chặn ngay một chiếc xe tuk tuk lại, chìa màn hình điện thoại đã dịch sẵn địa chỉ cho gã tài xế xem:"
+    },
+    {
+      "para_id": "c0203p0067",
+      "index": 67,
+      "raw_zh": "“去卡片上的地址，雙倍車錢！”",
+      "translated_vi": "“Đến địa chỉ ghi trên thẻ này, tôi trả gấp đôi tiền cước!”"
+    },
+    {
+      "para_id": "c0203p0068",
+      "index": 68,
+      "raw_zh": "那司機打了一個OK的手勢，右手一擰油門，把三輪車開出了跑車的動靜，噌的一下就竄了出去，直奔蒲卡山而去。",
+      "translated_vi": "Gã tài xế làm động tác tay OK, tay phải vít ga hết cỡ, phóng chiếc xe ba bánh gầm rú chẳng khác nào xe đua thể thao, vút một cái đã lao vụt đi, nhắm thẳng hướng núi Phu Kha mà phi."
+    },
+    {
+      "para_id": "c0203p0069",
+      "index": 69,
+      "raw_zh": "當初為了建設裡面的娛樂設施，路西華公司在山上修了水泥路，倒是比小鎮的街道還平坦乾淨。",
+      "translated_vi": "Khi trước để phục vụ việc xây dựng các công trình giải trí, Công ty Lucifer đã mở một con đường bê tông trải dài lên núi, xem ra còn bằng phẳng và sạch sẽ hơn hẳn đường phố dưới thị trấn."
+    },
+    {
+      "para_id": "c0203p0070",
+      "index": 70,
+      "raw_zh": "三輪車在隨著山形彎彎繞繞的水泥路上疾馳，兩側密集高大的綠植向後快速倒去，風聲灌得雲千峰張不開嘴。",
+      "translated_vi": "Chiếc xe ba bánh lao vun vút trên con đường bê tông uốn lượn quanh co theo triền núi, những hàng cây rậm rạp cao vút hai bên đường lùi lại phía sau vun vút, tiếng gió rít bên tai dữ dội đến mức khiến Vân Thiên Phong không mở nổi miệng."
+    },
+    {
+      "para_id": "c0203p0071",
+      "index": 71,
+      "raw_zh": "“哢哢哢”",
+      "translated_vi": "“Rắc rắc rắc...”"
+    },
+    {
+      "para_id": "c0203p0072",
+      "index": 72,
+      "raw_zh": "一陣亂響，三輪車後面冒起了濃煙。",
+      "translated_vi": "Một tràng âm thanh va đập kim loại chói tai vang lên, đuôi xe ba bánh bốc khói đen nghi ngút."
+    },
+    {
+      "para_id": "c0203p0073",
+      "index": 73,
+      "raw_zh": "那司機急忙停下車，一邊屋裡哇啦的說著什麽，一邊搖頭歎氣，一臉的倒霉相。",
+      "translated_vi": "Gã tài xế vội vàng phanh dúi dụi, miệng thì lảm nhảm nói một tràng tiếng Thái gì đó không rõ, đầu lắc nguầy nguậy thở ngắn than dài, mặt mày méo xệch như vừa dẫm phải phân."
+    },
+    {
+      "para_id": "c0203p0074",
+      "index": 74,
+      "raw_zh": "雲千峰心裡焦急，因為天色已經黑了下來，距離活動開始的時間越來越近，他必須在活動開始前把那些人弄下山。",
+      "translated_vi": "Trong lòng Vân Thiên Phong sốt ruột như lửa đốt, bởi lẽ trời đã nhá nhem tối hẳn, thời khắc sự kiện bắt đầu đang cận kề từng phút, anh bắt buộc phải lôi bằng được những con người vô tội kia xuống núi trước giờ khai cuộc."
+    },
+    {
+      "para_id": "c0203p0075",
+      "index": 75,
+      "raw_zh": "那司機用手機翻譯打字：",
+      "translated_vi": "Gã tài xế dùng điện thoại gõ chữ dịch sang:"
+    },
+    {
+      "para_id": "c0203p0076",
+      "index": 76,
+      "raw_zh": "“車開的太快，爆瓦了，修不好，不過路沒多遠了，你們沿著水泥路走下去，就能到地方。”",
+      "translated_vi": "“Xe chạy bạt mạng quá nên bị bó máy hỏng biên rồi, không sửa ngay được đâu. Nhưng mà đường chẳng còn bao xa nữa, hai người cứ men theo con đường bê tông này đi bộ tiếp là sẽ tới nơi.”"
+    },
+    {
+      "para_id": "c0203p0077",
+      "index": 77,
+      "raw_zh": "司機人不錯，地方沒送到，都不提車錢。",
+      "translated_vi": "Gã tài xế này tính tình khá tử tế, chưa chở khách tới tận nơi thì tuyệt nhiên không đả động gì tới chuyện tiền nong."
+    },
+    {
+      "para_id": "c0203p0078",
+      "index": 78,
+      "raw_zh": "雲千峰從來不對這些人苛刻，他知道他們的不易。",
+      "translated_vi": "Vân Thiên Phong trước giờ chẳng bao giờ khắt khe với những mảnh đời lao động nghèo, anh thấu hiểu nỗi vất vả mưu sinh của họ."
+    },
+    {
+      "para_id": "c0203p0079",
+      "index": 79,
+      "raw_zh": "於是在包裡掏出一遝錢放在那司機手裡，不但夠路費，估計修車都夠了，然後頭也不回的沿著水泥路開始奔跑。",
+      "translated_vi": "Thế là anh rút từ trong túi ra một xấp tiền nhét thẳng vào tay gã tài xế, số tiền ấy chẳng những thừa tiền cước xe mà ước chừng còn đủ cả chi phí sửa xe nữa; đoạn chẳng buồn quay đầu lại, anh cắm cổ chạy thục mạng dọc theo con đường bê tông."
+    },
+    {
+      "para_id": "c0203p0080",
+      "index": 80,
+      "raw_zh": "白狐一道白色閃電似的竄到雲千峰前面。",
+      "translated_vi": "Cáo trắng hóa thành một tia chớp trắng muốt lao vút lên trước dẫn đường cho Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0203p0081",
+      "index": 81,
+      "raw_zh": "天色越來越黑，司機小哥說不遠的路，倆人跑了半個小時還沒到。",
+      "translated_vi": "Trời mỗi lúc một tối mịt, quãng đường mà anh chàng tài xế bảo “chẳng còn bao xa” ấy, một người một cáo chạy ròng rã suốt nửa tiếng đồng hồ vẫn chưa thấy bóng dáng đích đến đâu."
+    },
+    {
+      "para_id": "c0203p0082",
+      "index": 82,
+      "raw_zh": "最主要的，在他們面前出現了岔路口。",
+      "translated_vi": "Nghiệt ngã nhất là ngay trước mặt họ bất ngờ xuất hiện một ngã ba đường."
+    },
+    {
+      "para_id": "c0203p0083",
+      "index": 83,
+      "raw_zh": "“走哪條？”",
+      "translated_vi": "“Đi đường nào bây giờ?”"
+    },
+    {
+      "para_id": "c0203p0084",
+      "index": 84,
+      "raw_zh": "白狐法緹娜也不知道該走那條路，就見她快速的爬上一顆很高的大樹，站在樹冠上向遠處看去。",
+      "translated_vi": "Cáo trắng Fatina cũng mù tịt chẳng rõ nên rẽ lối nào; chỉ thấy cô thoăn thoắt trèo tót lên một thân cây đại thụ cao vút, đứng trên ngọn cây phóng tầm mắt nhìn về phía xa xăm."
+    },
+    {
+      "para_id": "c0203p0085",
+      "index": 85,
+      "raw_zh": "很快她幾個跳躍來到樹下，指著右側的岔路道：",
+      "translated_vi": "Rất nhanh sau đó, cô tung mình mấy lượt nhảy xuống gốc cây, chỉ chân vào con đường rẽ bên phải, bảo:"
+    },
+    {
+      "para_id": "c0203p0086",
+      "index": 86,
+      "raw_zh": "“走這邊！”",
+      "translated_vi": "“Đi hướng này!”"
+    },
+    {
+      "para_id": "c0203p0087",
+      "index": 87,
+      "raw_zh": "倆人繼續向前奔跑十幾分鍾，此時天色已經徹底大黑，滾圓明亮的月亮在黑色的天幕裡展顏。",
+      "translated_vi": "Một người một cáo tiếp tục dốc sức chạy thêm mười mấy phút nữa; lúc này trời đã tối đen như mực, vầng trăng tròn vành vạnh và sáng rực rỡ bắt đầu hé lộ vẻ kiều diễm trên tấm màn nhung đen của bầu trời đêm."
+    },
+    {
+      "para_id": "c0203p0088",
+      "index": 88,
+      "raw_zh": "滾滾的霧氣在倆人前面不遠處的山間繚繞而起，濃如雲。",
+      "translated_vi": "Những luồng sương mù cuồn cuộn bắt đầu dâng lên lượn lờ giữa thung lũng cách hai người không xa, đặc quánh tựa như mây trời."
+    },
+    {
+      "para_id": "c0203p0089",
+      "index": 89,
+      "raw_zh": "而奇異的是，似乎只有不遠處那片山巒才有霧氣，其他地方絲縷也不見。",
+      "translated_vi": "Nhưng điều kỳ dị là dường như chỉ có vùng núi non đằng kia mới xuất hiện sương mù, còn khắp các khu vực khác xung quanh lại chẳng hề vương một sợi sương nào."
+    },
+    {
+      "para_id": "c0203p0090",
+      "index": 90,
+      "raw_zh": "就是雲千峰和白狐所在的位置，也是乾乾淨淨的，沒有一絲霧氣。",
+      "translated_vi": "Ngay cả vị trí Vân Thiên Phong và con cáo trắng đang đứng cũng sạch bách, không có lấy nửa sợi khói sương."
+    },
+    {
+      "para_id": "c0203p0091",
+      "index": 91,
+      "raw_zh": "那霧氣滾滾而上，並沒有發散開，而是違背物理規則的越向上越凝聚，攢出了一個尖。",
+      "translated_vi": "Màn sương mù cuồn cuộn bốc lên cao ấy tuyệt nhiên không hề tản mát ra bốn phía, mà trái lại còn đi ngược lại mọi định luật vật lý: càng lên cao lại càng cô đọng thu hẹp lại, ngưng tụ thành một mũi nhọn hoắt."
+    },
+    {
+      "para_id": "c0203p0092",
+      "index": 92,
+      "raw_zh": "短短幾分鍾的時間，那些霧氣已經飄蕩到極高處，而整個霧氣的輪廓上尖下闊，竟然有著棱角。",
+      "translated_vi": "Chỉ trong vòng vài phút ngắn ngủi, khối sương mù kia đã vút lên tận tầng trời cao vời vợi; toàn bộ đường nét của khối sương mù chóp nhọn đáy rộng, thậm chí còn hằn rõ từng góc cạnh sắc sảo."
+    },
+    {
+      "para_id": "c0203p0093",
+      "index": 93,
+      "raw_zh": "雲千峰被這一幕震撼了，嘴裡禁不住叫道：",
+      "translated_vi": "Vân Thiên Phong hoàn toàn bị cảnh tượng trước mắt làm cho chấn động tâm can, bất giác thảng thốt kêu lên:"
+    },
+    {
+      "para_id": "c0203p0094",
+      "index": 94,
+      "raw_zh": "“金字塔！”",
+      "translated_vi": "“Kim tự tháp!”"
+    },
+    {
+      "para_id": "c0203p0095",
+      "index": 95,
+      "raw_zh": "沒錯，霧氣組成的輪廓，正是一個巨大無比的金字塔。",
+      "translated_vi": "Không sai chút nào, đường viền do màn sương mù tạo thành chính là một tòa kim tự tháp khổng lồ không gì sánh kịp."
+    },
+    {
+      "para_id": "c0203p0096",
+      "index": 96,
+      "raw_zh": "而那明亮的滿月就似乎正掛在那霧氣組成的塔尖上。",
+      "translated_vi": "Mà vầng trăng tròn sáng ngời dường như đang ngự trị ngay trên đỉnh chóp của tòa tháp sương mù ấy."
+    },
+    {
+      "para_id": "c0203p0097",
+      "index": 97,
+      "raw_zh": "月光把那霧氣照的通體寒亮。",
+      "translated_vi": "Ánh trăng bàng bạc chiếu rọi khiến toàn thể khối sương mù sáng rực lên một sắc lạnh thấu xương."
+    },
+    {
+      "para_id": "c0203p0098",
+      "index": 98,
+      "raw_zh": "古時月，無相塔，今日山。",
+      "translated_vi": "Trăng xưa soi bóng, Vô Tướng Tháp ngưng hình, núi thẳm ngày nay."
+    }
+  ]
+}

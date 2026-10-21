@@ -1,0 +1,433 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 143,
+  "title": "Chương 143: Một Kẻ Sụp Đổ",
+  "total_paragraphs": 70,
+  "translated_paragraphs": 70,
+  "source_hash": "234991048db3b5015fd49d42387b578abec2339f695e72c4b623d6f1789cb896",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0143p0001",
+      "index": 1,
+      "raw_zh": "第143章 崩潰了一個",
+      "translated_vi": "Chương 143: Một Kẻ Sụp Đổ"
+    },
+    {
+      "para_id": "c0143p0002",
+      "index": 2,
+      "raw_zh": "倆人加快了腳步，一邊不遺漏兩側以及弧頂的岩畫內容，一邊向前趕去。",
+      "translated_vi": "Hai người rảo bước nhanh hơn, một mặt không bỏ sót bất kỳ chi tiết bích họa nào ở hai bên vách và đỉnh vòm, một mặt hối hả tiến về phía trước."
+    },
+    {
+      "para_id": "c0143p0003",
+      "index": 3,
+      "raw_zh": "岩畫的內容沒有像雲千峰想象的那樣，很快出現那群攜帶著所有戰利品的原始人的目的地，相反，從內容來看，這些原始人正在長途跋涉。",
+      "translated_vi": "Nội dung bích họa không diễn tiến nhanh chóng như Vân Thiên Phong hằng tưởng tượng, chẳng hề sớm xuất hiện đích đến của toán người nguyên thủy đang mang theo toàn bộ chiến lợi phẩm kia; trái lại, nhìn từ diễn biến hình vẽ, nhóm người này dường như đang trải qua một chuyến trường chinh vạn dặm đầy gian nan."
+    },
+    {
+      "para_id": "c0143p0004",
+      "index": 4,
+      "raw_zh": "大約每三米左右的畫卷代表著一個時間段。",
+      "translated_vi": "Cứ khoảng chừng ba mét chiều dài tranh cuộn trên vách lại đại diện cho một mốc thời gian."
+    },
+    {
+      "para_id": "c0143p0005",
+      "index": 5,
+      "raw_zh": "從太陽升起，然後紅日中天，再到夕陽西下。",
+      "translated_vi": "Từ lúc vầng dương ló rạng nơi chân trời, rồi mặt trời đỏ rực đứng bóng giữa ban trưa, cho tới khi hoàng hôn buông xuống phía tây."
+    },
+    {
+      "para_id": "c0143p0006",
+      "index": 6,
+      "raw_zh": "然後便是滿天星鬥的夜晚，在夜裡代表時間移動的，是一顆明亮的小圓球，從裡面人物等等對比來看，那圓球應該最多乒乓球大小，想來應該是月亮。",
+      "translated_vi": "Kế đó là màn đêm ngập tràn tinh tú lấp lánh; vật thể đại diện cho dòng chảy thời gian trong đêm là một khối cầu tròn nhỏ sáng rực, đối chiếu tỷ lệ với hình người và vạn vật xung quanh, khối cầu ấy nhiều nhất chỉ cỡ bằng quả bóng bàn, ngẫm ra hẳn phải là mặt trăng."
+    },
+    {
+      "para_id": "c0143p0007",
+      "index": 7,
+      "raw_zh": "在如此寫實的原始岩畫上，出現這麽小的月亮，這是極不合理的現象。",
+      "translated_vi": "Trên một bức bích họa nguyên thủy mang phong cách tả thực chuẩn xác dường này, việc xuất hiện một vầng trăng bé tí tẹo như thế là một hiện tượng vô cùng phi lý."
+    },
+    {
+      "para_id": "c0143p0008",
+      "index": 8,
+      "raw_zh": "雲千峰和羅琳娜幾乎同時放緩了腳步，來到那代表著夜色的岩畫面前，陷入沉思。",
+      "translated_vi": "Vân Thiên Phong và Lorina gần như cùng lúc chậm bước lại, đứng trước bức bích họa khắc họa màn đêm ấy mà trầm tư suy nghĩ."
+    },
+    {
+      "para_id": "c0143p0009",
+      "index": 9,
+      "raw_zh": "他們要搞清楚，為什麽史前人類要把月亮畫的如此之小。",
+      "translated_vi": "Họ cần phải làm sáng tỏ nguyên do vì sao con người thời tiền sử lại vẽ mặt trăng nhỏ bé đến nhường ấy."
+    },
+    {
+      "para_id": "c0143p0010",
+      "index": 10,
+      "raw_zh": "雲千峰疑惑道：",
+      "translated_vi": "Vân Thiên Phong nghi hoặc lẩm bẩm:"
+    },
+    {
+      "para_id": "c0143p0011",
+      "index": 11,
+      "raw_zh": "“不對啊，按照天文學觀察來說，月亮是漸漸遠離地球的，那麽在古時，月亮應該更大更圓才對啊！”",
+      "translated_vi": "“Vô lý thật, theo quan sát của thiên văn học hiện đại thì mặt trăng đang dần dần bay xa khỏi Trái Đất, như vậy vào thời viễn cổ, mặt trăng nhìn từ mặt đất phải to hơn và tròn trịa hơn mới đúng chứ!”"
+    },
+    {
+      "para_id": "c0143p0012",
+      "index": 12,
+      "raw_zh": "羅琳娜這時候也忘記了生氣的事，回應道：",
+      "translated_vi": "Lorina lúc này cũng gác cơn giận sang một bên, cất giọng tiếp lời:"
+    },
+    {
+      "para_id": "c0143p0013",
+      "index": 13,
+      "raw_zh": "“或許這岩畫製作的時間，是沒有月亮的年代。",
+      "translated_vi": "“Biết đâu thời điểm bức bích họa này được tạo ra lại là niên đại bầu trời chưa hề có mặt trăng."
+    },
+    {
+      "para_id": "c0143p0014",
+      "index": 14,
+      "raw_zh": "兩千三百年前，亞歷山大建立了當時世界上最大的圖書館，裡面藏書七十萬卷，囊括世界各地的書籍和文字。",
+      "translated_vi": "Hai nghìn ba trăm năm trước, Alexander Đại đế đã xây dựng nên thư viện lớn nhất thế giới thời bấy giờ, bên trong lưu trữ tới bảy mươi vạn cuộn sách, bao hàm toàn bộ điển tịch và văn tự khắp năm châu bốn biển."
+    },
+    {
+      "para_id": "c0143p0015",
+      "index": 15,
+      "raw_zh": "圖書館第一任館長代梅特留斯嗜書如命，將所有藏書進行翻譯翻閱，最後說出了至今讓科學界迷茫的一句話：古時候地球上的天空沒有月亮。因為所有書籍之中，都沒有出現月亮這個詞匯。",
+      "translated_vi": "Vị giám đốc đầu tiên của thư viện là Demetrius, một người say mê sách như sinh mệnh; ông đã đích thân phiên dịch và đọc hết toàn bộ số tàng thư ấy, để rồi cuối cùng thốt ra một câu nói khiến giới khoa học đến tận ngày nay vẫn hoang mang tột độ: 'Thời cổ đại, bầu trời Trái Đất không hề có mặt trăng'. Bởi vì trong tất cả các cổ thư thu thập được thời ấy, tuyệt nhiên không hề xuất hiện từ ngữ nào chỉ mặt trăng cả."
+    },
+    {
+      "para_id": "c0143p0016",
+      "index": 16,
+      "raw_zh": "這是極不尋常的，要知道月亮和太陽是地球文明最重視的天體，絕不可能不出現在文字之中。”",
+      "translated_vi": "Đây là một điều cực kỳ bất thường, phải biết rằng mặt trăng và mặt trời vốn là hai thiên thể được mọi nền văn minh trên Trái Đất coi trọng bậc nhất, tuyệt đối không thể nào vắng bóng trong văn tự.”"
+    },
+    {
+      "para_id": "c0143p0017",
+      "index": 17,
+      "raw_zh": "雲千峰不會覺得羅琳娜的話有多麽離譜，而是點頭道：",
+      "translated_vi": "Vân Thiên Phong không hề cho rằng lời của Lorina là hoang đường ly kỳ, mà khẽ gật đầu đồng tình:"
+    },
+    {
+      "para_id": "c0143p0018",
+      "index": 18,
+      "raw_zh": "“華夏古籍研究者之中，也有這樣的說法，那就是顓頊之前天上無月，也就是說，大洪水出現之前，天上是沒有月亮的。",
+      "translated_vi": "“Trong giới nghiên cứu cổ tịch Hoa Hạ cũng từng lưu truyền giả thuyết này: đó là trước thời Chuyên Húc, trên trời không hề có trăng, nói cách khác là trước trận đại hồng thủy viễn cổ, bầu trời Trái Đất vốn dĩ không có mặt trăng."
+    },
+    {
+      "para_id": "c0143p0019",
+      "index": 19,
+      "raw_zh": "而且在整個地球文明當中，最早記載月亮的文明，就是我們華夏，帝嚳後期始出現，有了姮娥月神之說，唐堯時代盛行。",
+      "translated_vi": "Hơn nữa trong toàn bộ các nền văn minh nhân loại, nền văn minh đầu tiên ghi chép về mặt trăng chính là Hoa Hạ chúng tôi. Cuối thời Đế Cốc mới bắt đầu xuất hiện, lưu truyền truyền thuyết về Nguyệt Thần Hằng Nga, rồi thịnh hành vào thời Đường Nghiêu."
+    },
+    {
+      "para_id": "c0143p0020",
+      "index": 20,
+      "raw_zh": "其次是埃及，埃及月神孔斯的出現，比華夏晚了大約三百年，而且埃及對月亮的稱呼很有深意，他們稱月亮為“被邪神偷走的左眼”，這個形容，讓很多愛幻想的古文明愛好者認為，月亮最早應該是與地球相連，而後遠離就很符合偷這個字眼。”",
+      "translated_vi": "Đứng thứ hai là Ai Cập; vị thần mặt trăng Khonsu của Ai Cập xuất hiện muộn hơn Hoa Hạ chừng ba trăm năm. Đã vậy, cách người Ai Cập gọi mặt trăng lại chứa đựng hàm ý vô cùng thâm sâu: họ gọi mặt trăng là 'con mắt trái bị tà thần đánh cắp'. Cách ví von này khiến rất nhiều nhà nghiên cứu văn minh cổ đại giàu trí tưởng tượng tin rằng, mặt trăng thuở ban sơ vốn dĩ gắn liền với Trái Đất, rồi sau đó tách xa ra, rất khớp với khái niệm 'bị đánh cắp'.”"
+    },
+    {
+      "para_id": "c0143p0021",
+      "index": 21,
+      "raw_zh": "羅琳娜點頭，道：",
+      "translated_vi": "Lorina khẽ gật đầu, tiếp lời:"
+    },
+    {
+      "para_id": "c0143p0022",
+      "index": 22,
+      "raw_zh": "“那或許，這岩畫畫的就是大洪水之前的撒哈拉沙漠。”",
+      "translated_vi": "“Vậy có lẽ bức bích họa này đang miêu tả sa mạc Sahara vào thời kỳ trước trận đại hồng thủy.”"
+    },
+    {
+      "para_id": "c0143p0023",
+      "index": 23,
+      "raw_zh": "雲千峰搖頭道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu, đáp:"
+    },
+    {
+      "para_id": "c0143p0024",
+      "index": 24,
+      "raw_zh": "“未必，你仔細看看岩畫裡夜間最亮的天體。”",
+      "translated_vi": "“Chưa chắc đâu, cô hãy nhìn kỹ thiên thể sáng nhất trong đêm trên bức bích họa kia xem.”"
+    },
+    {
+      "para_id": "c0143p0025",
+      "index": 25,
+      "raw_zh": "羅琳娜聞言，靠近過去仔細觀察，這一用心看，立馬發現了特異之處：",
+      "translated_vi": "Nghe vậy, Lorina ghé sát lại gần chăm chú quan sát. Vừa tập trung nhìn kỹ, cô lập tức phát hiện ra điểm dị thường:"
+    },
+    {
+      "para_id": "c0143p0026",
+      "index": 26,
+      "raw_zh": "“這天體中間有暗影層次，邊緣有橢圓虛影，這樣明顯的縱形規整條紋，應該是木星！”",
+      "translated_vi": "“Chính giữa thiên thể này có các lớp bóng mờ phân tầng, viền ngoài có bóng hình bầu dục mờ ảo, những vệt sọc dọc đều đặn rõ rệt dường này... hẳn phải là sao Mộc!”"
+    },
+    {
+      "para_id": "c0143p0027",
+      "index": 27,
+      "raw_zh": "這女人反應也是很快，一下判斷出這種寫實刻畫，表現的是星環，而在太陽系有星環的行星，只有土星、木星、海王星和女凱龍星，其中只有木星利用哈勃觀察時，有這樣縱跨行星表面的明顯條紋。",
+      "translated_vi": "Người phụ nữ này phản xạ cũng cực kỳ nhạy bén, lập tức nhận ra nét khắc họa tả thực ấy đang biểu thị vành đai hành tinh; mà trong hệ Mặt Trời, các hành tinh sở hữu vành đai chỉ có sao Thổ, sao Mộc, sao Hải Vương và tiểu hành tinh Chariklo, trong số đó chỉ có sao Mộc khi quan sát qua kính viễn vọng Hubble mới để lộ những đường vân sọc dọc chạy ngang bề mặt rõ ràng như thế."
+    },
+    {
+      "para_id": "c0143p0028",
+      "index": 28,
+      "raw_zh": "雲千峰看著羅琳娜那驚駭的表情，知道這女人也想到了自己想到的，於是沉聲道：",
+      "translated_vi": "Trông thấy nét mặt bàng hoàng kinh hãi của Lorina, Vân Thiên Phong biết ngay cô cũng đã nghĩ tới điều mà anh đang nghĩ, bèn trầm giọng:"
+    },
+    {
+      "para_id": "c0143p0029",
+      "index": 29,
+      "raw_zh": "“所以，這岩畫描述的，根本不是地球。”",
+      "translated_vi": "“Cho nên, bối cảnh mà bức bích họa này miêu tả căn bản không phải là Trái Đất.”"
+    },
+    {
+      "para_id": "c0143p0030",
+      "index": 30,
+      "raw_zh": "說到這，他開始行動起來。",
+      "translated_vi": "Dứt lời, anh lập tức bắt tay vào hành động."
+    },
+    {
+      "para_id": "c0143p0031",
+      "index": 31,
+      "raw_zh": "就見他先用手指測量了這個可能是木星的圖案直徑長短，然後回頭走到代表白天的岩畫前面，用手指測量太陽的大小。",
+      "translated_vi": "Chỉ thấy anh trước tiên dùng ngón tay đo độ dài đường kính của hoa văn nghi là sao Mộc kia, sau đó quay người đi tới trước mảng bích họa đại diện cho ban ngày, dùng ngón tay ướm đo kích thước của mặt trời."
+    },
+    {
+      "para_id": "c0143p0032",
+      "index": 32,
+      "raw_zh": "羅琳娜一直跟著雲千峰的腳步，好奇他在幹什麽。",
+      "translated_vi": "Lorina bước theo sát gót Vân Thiên Phong, tò mò không rõ anh đang tính toán điều gì."
+    },
+    {
+      "para_id": "c0143p0033",
+      "index": 33,
+      "raw_zh": "測好之後，雲千峰開始閉目心算，嘴裡嘟囔著：",
+      "translated_vi": "Đo đạc xong xuôi, Vân Thiên Phong nhắm mắt bắt đầu tính nhẩm, miệng lẩm bẩm tính toán:"
+    },
+    {
+      "para_id": "c0143p0034",
+      "index": 34,
+      "raw_zh": "“岩畫裡，太陽的直徑十厘米余一點，3.14乘以25，面積超過80平方厘米。那疑似木星的天體直徑是接近1.5厘米，面積不到7平方厘米，多加少減，岩畫裡太陽的面積應該是這顆夜間天體的15—20倍。",
+      "translated_vi": "“Trong bích họa, đường kính mặt trời nhỉnh hơn mười centimet một chút, 3,14 nhân với 25, diện tích vượt quá 80 centimet vuông. Còn thiên thể nghi là sao Mộc kia có đường kính xấp xỉ 1,5 centimet, diện tích chưa tới 7 centimet vuông. Bù trừ sai số, diện tích mặt trời trên bích họa gấp khoảng 15 đến 20 lần thiên thể ban đêm này."
+    },
+    {
+      "para_id": "c0143p0035",
+      "index": 35,
+      "raw_zh": "從我們之前發現來看，這些岩畫非常寫實，尤其是物體大小的對比，那麽如果這顆夜間的亮星是木星，在哪顆行星上能看到這麽大的木星？”",
+      "translated_vi": "Xét theo những gì chúng ta phát hiện trước đó, các bức bích họa này cực kỳ tả thực, nhất là tỷ lệ kích thước tương quan giữa các vật thể. Vậy nếu ngôi sao sáng ban đêm này là sao Mộc, thì đứng trên hành tinh nào mới có thể nhìn thấy một sao Mộc to lớn đến dường ấy?”"
+    },
+    {
+      "para_id": "c0143p0036",
+      "index": 36,
+      "raw_zh": "羅琳娜思索片刻，馬上說道：",
+      "translated_vi": "Lorina suy ngẫm trong giây lát, lập tức cất giọng:"
+    },
+    {
+      "para_id": "c0143p0037",
+      "index": 37,
+      "raw_zh": "“絕對沒有這樣一顆行星，距離木星最近的行星是火星，而火星上看木星，相當於地球上滿月的三十分之一大小，絕對達不到你說的這種比例。”",
+      "translated_vi": "“Tuyệt đối không có hành tinh nào như thế trong hệ Mặt Trời hiện tại! Hành tinh nằm gần sao Mộc nhất là sao Hỏa, mà đứng từ sao Hỏa nhìn sao Mộc thì kích thước chỉ bằng một phần ba mươi trăng rằm nhìn từ Trái Đất, tuyệt đối không thể nào đạt tới tỷ lệ như anh vừa tính toán.”"
+    },
+    {
+      "para_id": "c0143p0038",
+      "index": 38,
+      "raw_zh": "雲千峰搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu, đáp:"
+    },
+    {
+      "para_id": "c0143p0039",
+      "index": 39,
+      "raw_zh": "“不，有這樣一顆行星，根據提丟斯-波得定則，火星和木星之間的距離過大，應該曾經有過一顆行星，只不過最終碎成了火木之間的小行星帶。”",
+      "translated_vi": "“Không, từng có một hành tinh như thế tồn tại! Chiểu theo Định luật Titius-Bode, khoảng cách giữa sao Hỏa và sao Mộc quá lớn, nơi đó đáng lý từng tồn tại một hành tinh thực thụ, chỉ là cuối cùng nó đã bị vỡ vụn thành vành đai tiểu hành tinh nằm giữa sao Hỏa và sao Mộc ngày nay.”"
+    },
+    {
+      "para_id": "c0143p0040",
+      "index": 40,
+      "raw_zh": "羅琳娜顯然聽說過這個假說，忙道：",
+      "translated_vi": "Lorina rõ ràng từng nghe qua giả thuyết khoa học này, vội thốt lên:"
+    },
+    {
+      "para_id": "c0143p0041",
+      "index": 41,
+      "raw_zh": "“你的意思是說，岩畫上描述的地方，是傳說之中的女閻羅星？”",
+      "translated_vi": "“Ý anh muốn nói rằng, nơi được miêu tả trên bức bích họa này chính là tinh cầu Nữ Diêm La trong truyền thuyết sao?”"
+    },
+    {
+      "para_id": "c0143p0042",
+      "index": 42,
+      "raw_zh": "雲千峰深吸了一口氣，道：",
+      "translated_vi": "Vân Thiên Phong hít sâu một hơi, bảo:"
+    },
+    {
+      "para_id": "c0143p0043",
+      "index": 43,
+      "raw_zh": "“是啊，如果比例真的極為寫實，那麽我們尋找的東西，很可能是女閻羅星文明在地球上的痕跡。",
+      "translated_vi": "“Đúng vậy, nếu tỷ lệ kia thực sự chuẩn xác và mang tính tả thực cao, thì thứ mà chúng ta đang tìm kiếm rất có thể chính là dấu tích của nền văn minh tinh cầu Nữ Diêm La lưu lại trên Trái Đất."
+    },
+    {
+      "para_id": "c0143p0044",
+      "index": 44,
+      "raw_zh": "當然了，這更加證明了岩畫上這些人不是什麽尼安德特人，而是外星人，所以啊人做事不能想當然，要”",
+      "translated_vi": "Đương nhiên, điều này càng chứng minh rõ ràng những kẻ xuất hiện trên bích họa căn bản không phải người Neanderthal gì cả, mà là người ngoài hành tinh. Cho nên con người ta làm việc chớ có vội vàng võ đoán, mà phải...”"
+    },
+    {
+      "para_id": "c0143p0045",
+      "index": 45,
+      "raw_zh": "話沒說完，就聽到水花被掀起的聲響，羅琳娜仰著臉，扭腰轉身，咬牙使勁往前走，一聲不吭那種。",
+      "translated_vi": "Lời còn chưa dứt, tiếng bọt nước rẽ sóng ào ào đã vang lên. Lorina ngẩng cao mặt, ngoắt eo quay ngoắt người lại, nghiến chặt răng dồn hết sức bước nhanh về phía trước, tuyệt nhiên không buồn hé nửa lời."
+    },
+    {
+      "para_id": "c0143p0046",
+      "index": 46,
+      "raw_zh": "從她走在沒過膝蓋的水中，都能聽到跺腳聲，就知道這一步步的，得用多大力氣，震得緊身潛水服都擋不住後丘的奪魂顫。",
+      "translated_vi": "Nhìn cô lội trong dòng nước ngập ngang gối mà vẫn dội lên từng tiếng giậm chân thình thịch, là đủ hiểu mỗi bước chân dồn nén bao nhiêu uất hận giận dữ; từng bước nện xuống khiến bộ đồ lặn bó sát cũng chẳng thể nào che giấu nổi bờ mông đẫy đà rung lên từng hồi mê hồn đoạt phách."
+    },
+    {
+      "para_id": "c0143p0047",
+      "index": 47,
+      "raw_zh": "雲千峰眉開眼笑的急忙追上去，表情就很賤。",
+      "translated_vi": "Vân Thiên Phong hớn hở toe toét vội vã rảo bước đuổi theo, vẻ mặt đắc ý vô cùng trêu ngươi."
+    },
+    {
+      "para_id": "c0143p0048",
+      "index": 48,
+      "raw_zh": "一個是原本城府極深，喜怒不形於色，現在是點火就著。",
+      "translated_vi": "Một người vốn dĩ tâm cơ sâu thẳm, vui buồn không lộ ra mặt, giờ đây cứ hễ châm ngòi là nổ tung."
+    },
+    {
+      "para_id": "c0143p0049",
+      "index": 49,
+      "raw_zh": "一個是忍不住就想惹火她，這種行為就很莫名其妙。",
+      "translated_vi": "Một người thì cứ ngứa ngáy không kiềm chế nổi ham muốn chọc tức đối phương, cái hành vi này quả thật kỳ quặc không sao hiểu thấu."
+    },
+    {
+      "para_id": "c0143p0050",
+      "index": 50,
+      "raw_zh": "羅琳娜往前走了一段距離，心裡提醒自己：",
+      "translated_vi": "Lorina sải bước lên phía trước một quãng, trong lòng không ngừng tự nhắc nhở bản thân:"
+    },
+    {
+      "para_id": "c0143p0051",
+      "index": 51,
+      "raw_zh": "“這沒什麽值得生氣的，為什麽要生氣呢？這也不是什麽大事啊！我和他是隊友，要一起去探尋奇跡，不應該情緒化，羅琳娜啊，伱現在的表現還不如一個十七歲的少女。”",
+      "translated_vi": "“Chuyện này có gì đáng để phát hỏa đâu chứ? Cớ sao mình phải giận dữ thế này? Đây đâu phải là chuyện to tát gì! Mình và anh ta là đồng đội, phải cùng nhau thám hiểm tìm kiếm kỳ tích, tuyệt đối không được để cảm xúc chi phối. Lorina ơi là Lorina, biểu hiện hiện tại của mày thậm chí còn thua xa một đứa con gái mười bảy tuổi bồng bột nữa.”"
+    },
+    {
+      "para_id": "c0143p0052",
+      "index": 52,
+      "raw_zh": "想到這，她深呼吸一口氣，面容恢復以往的平靜，眼神是那麽的深邃。",
+      "translated_vi": "Nghĩ tới đó, cô hít sâu một hơi thật dài, nét mặt nhanh chóng khôi phục lại vẻ bình lặng vốn có, ánh mắt lại trở nên thâm trầm sâu thẳm."
+    },
+    {
+      "para_id": "c0143p0053",
+      "index": 53,
+      "raw_zh": "同時她也放緩了步伐，讓雲千峰追上了自己，倆人並肩而行。",
+      "translated_vi": "Đồng thời cô cũng chủ động thả chậm bước chân, để Vân Thiên Phong đuổi kịp mình, rồi hai người lại kề vai sát cánh cùng tiến bước."
+    },
+    {
+      "para_id": "c0143p0054",
+      "index": 54,
+      "raw_zh": "這樣倆人頭頂的礦燈才能把左右都照得清楚，不會錯過岩畫的任何細節。",
+      "translated_vi": "Có như vậy ánh đèn pha trên mũ của cả hai mới rọi sáng rõ ràng hai bên tả hữu, không bỏ lỡ bất kỳ ngóc ngách chi tiết nào của bích họa."
+    },
+    {
+      "para_id": "c0143p0055",
+      "index": 55,
+      "raw_zh": "雲千峰也是這麽想的，張嘴想要道歉，結果說出來的是：",
+      "translated_vi": "Vân Thiên Phong cũng có cùng suy nghĩ, anh mở miệng định buông lời tạ lỗi, ngặt nỗi câu bật ra khỏi miệng lại là:"
+    },
+    {
+      "para_id": "c0143p0056",
+      "index": 56,
+      "raw_zh": "“那可能真的不是尼安德特人.”",
+      "translated_vi": "“Đám đó... khéo quả thực không phải người Neanderthal đâu...”"
+    },
+    {
+      "para_id": "c0143p0057",
+      "index": 57,
+      "raw_zh": "“嘩啦！”",
+      "translated_vi": "“Ào!”"
+    },
+    {
+      "para_id": "c0143p0058",
+      "index": 58,
+      "raw_zh": "看著前面胯部擺動誇張如模特的羅琳娜，雲千峰暗暗罵了自己一句：",
+      "translated_vi": "Nhìn bóng lưng Lorina phía trước với vòng hông đong đưa khoa trương chẳng khác nào người mẫu sàn diễn, Vân Thiên Phong thầm tự mắng mỏ mình một câu:"
+    },
+    {
+      "para_id": "c0143p0059",
+      "index": 59,
+      "raw_zh": "“別這麽賤啊，你都多大了，還和小孩一樣，人家都跟來了，那就是隊友，而且人家還拿著你的身份信息，惹人家乾嗎，雲千峰你要注意了！”",
+      "translated_vi": "“Mày bớt cái thói ngứa mồm lại đi! Đã ngần này tuổi đầu rồi mà còn ấu trĩ như con nít, người ta đã chịu cất công theo tới tận đây thì chính là đồng đội sống chết có nhau, huống chi giấy tờ thân phận của mày còn nằm trong tay người ta kìa, chọc giận cô ấy làm cái quái gì không biết! Vân Thiên Phong, mày phải biết kiềm chế lại!”"
+    },
+    {
+      "para_id": "c0143p0060",
+      "index": 60,
+      "raw_zh": "後面倆人在對自己的克制下，終於相安無事，一路研究著岩畫的內容，猜測著可能遇到的情況，時間飛快而過。",
+      "translated_vi": "Về sau, nhờ nỗ lực kiềm chế của cả hai bên, cuối cùng đôi bên cũng sóng yên biển lặng, cùng nhau vừa đi vừa nghiên cứu cặn kẽ nội dung bích họa, suy đoán những tình huống bất trắc có thể đối mặt; thời gian thấm thoắt trôi qua mau."
+    },
+    {
+      "para_id": "c0143p0061",
+      "index": 61,
+      "raw_zh": "看了看手表，已經是深夜，礦燈換了幾次電池，還好羅琳娜弄來的手搖充電器效率很不錯，倆人一邊走一邊手搖充電，倒是也跟得上使用。",
+      "translated_vi": "Liếc nhìn đồng hồ đeo tay, lúc này đã là đêm khuya thanh vắng; pin đèn pha đã phải thay mấy lượt, may nhờ chiếc máy sạc quay tay mà Lorina mang theo có hiệu suất rất tốt, hai người vừa đi vừa thay phiên nhau quay tay sạc điện nên nguồn sáng vẫn đáp ứng đủ nhu cầu."
+    },
+    {
+      "para_id": "c0143p0062",
+      "index": 62,
+      "raw_zh": "眼看著到了休息的時間，但是這裡地面全是沒過膝蓋的冷水，根本無法睡覺，而且他們也需要讓泡了一天冷水的腳乾燥一下，否則會出大問題。",
+      "translated_vi": "Trông chừng đã đến giờ phải ngả lưng chợp mắt, ngặt nỗi mặt đất nơi đây toàn là dòng nước lạnh ngắt ngập ngang đầu gối, căn bản không có lấy một chỗ để ngả lưng; hơn nữa đôi bàn chân bị ngâm nước lạnh suốt cả ngày dài cũng cần phải được lau khô ráo, bằng không sẽ phát sinh hoại tử hoặc viêm loét nghiêm trọng."
+    },
+    {
+      "para_id": "c0143p0063",
+      "index": 63,
+      "raw_zh": "無奈之下，雲千峰隻好在這精美的史前岩畫上打進了幾顆岩釘，然後用應急用的傘兵繩穿過兩側岩釘，編織了一個網狀吊床，再把帳篷裡的睡袋往上一鋪，總算是弄出了能乾爽過夜的小吊床。",
+      "translated_vi": "Vạn bất đắc dĩ, Vân Thiên Phong đành phải cắn răng đóng mấy chiếc đinh leo núi vào bức bích họa tiền sử tuyệt mỹ trên vách, sau đó dùng dây dù nhảy dù dự phòng luồn qua các mấu đinh ở hai bên vách, đan thành một chiếc võng lưới treo lơ lửng, rồi trải chiếc túi ngủ lấy từ trong lều bạt lên trên; rốt cuộc cũng tạo ra được một chiếc võng treo nhỏ khô ráo để qua đêm."
+    },
+    {
+      "para_id": "c0143p0064",
+      "index": 64,
+      "raw_zh": "雲千峰弄好了吊床，急忙脫掉潛水服和鞋子，掛在岩釘上瀝水。",
+      "translated_vi": "Dựng xong chiếc võng, Vân Thiên Phong vội vã lột phăng bộ đồ lặn cùng đôi giày ướt sũng ra, móc lên đinh đá cho róc nước."
+    },
+    {
+      "para_id": "c0143p0065",
+      "index": 65,
+      "raw_zh": "他們為了節省背包空間，選擇的是濕式潛水服，這種潛水服要靠進入衣服內的少量水對體溫進行保暖，所以並不防水。",
+      "translated_vi": "Để tiết kiệm thể tích ba lô, họ chọn loại đồ lặn ướt, loại trang phục này phải nhờ một lượng nước mỏng lọt vào trong ép sát cơ thể để giữ nhiệt, cho nên căn bản không hề chống thấm nước."
+    },
+    {
+      "para_id": "c0143p0066",
+      "index": 66,
+      "raw_zh": "雲千峰身上隻穿著同樣濕透的平角褲，在冰冷的水裡洗了一下泡的泛白腫脹的雙腳，這才一翻身到了吊床上，在腳和小腿上塗抹維生素B軟膏，增加被水泡的皮膚增加新陳代謝，祛除皺皮。",
+      "translated_vi": "Trên người Vân Thiên Phong lúc này chỉ còn sót lại chiếc quần lót đùi cũng đã ướt đẫm; anh rửa qua đôi bàn chân đã ngâm nước đến trắng bợt phù nề dưới dòng nước lạnh, sau đó mới xoay người trèo tót lên võng, bôi một lớp thuốc mỡ vitamin B lên bàn chân và bắp chân để thúc đẩy quá trình trao đổi chất cho vùng da bị ngâm nước rộp trắng, giúp làm phẳng các nếp nhăn nheo."
+    },
+    {
+      "para_id": "c0143p0067",
+      "index": 67,
+      "raw_zh": "這才鑽進舒服的睡袋裡，吐了口氣，喊了聲爽。",
+      "translated_vi": "Xong xuôi, anh mới khoan khoái chui tọt vào trong chiếc túi ngủ êm ái ấm áp, thở phào một hơi dài rồi sảng khoái thốt lên: “Đã quá!”"
+    },
+    {
+      "para_id": "c0143p0068",
+      "index": 68,
+      "raw_zh": "然後看著站在水裡一動不動的羅琳娜，揮手道：",
+      "translated_vi": "Đoạn anh nhìn Lorina đang đứng chôn chân bất động dưới làn nước buốt, vẫy vẫy tay gọi:"
+    },
+    {
+      "para_id": "c0143p0069",
+      "index": 69,
+      "raw_zh": "“上來休息啊，睡醒了繼續出發。”",
+      "translated_vi": "“Lên đây nghỉ ngơi đi cô ơi, ngủ đẫy giấc rồi mai lại tiếp tục lên đường!”"
+    },
+    {
+      "para_id": "c0143p0070",
+      "index": 70,
+      "raw_zh": "回應雲千峰的，是羅琳娜崩潰的表情和眼神！",
+      "translated_vi": "Đáp lại lời mời nhiệt tình của Vân Thiên Phong, là ánh mắt và biểu cảm sụp đổ hoàn toàn của Lorina!"
+    }
+  ]
+}

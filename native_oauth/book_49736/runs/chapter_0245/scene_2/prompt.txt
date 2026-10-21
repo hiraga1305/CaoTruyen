@@ -1,0 +1,81 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0245|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Thật khó mà tưởng tượng nổi, sâu dưới khe nứt băng ở Nam Cực lại có thể tồn tại mức nhiệt độ dễ chịu dường này, thậm chí còn có cả mưa rơi.
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §42):
+§1 [Ø=云千峰]崖隙下的暖流遇到上空冰隙范圍的冷空氣，將冰川釋放的水汽凝結成水滴落下來，便是這小環境的雨。
+§2 [Ø=云千峰]可惜這裡沒有陽光，否則一定會是一個極佳的生態環境。
+§3 [Ø=云千峰]饒是如此，水中的水生動物和兩棲動物也及其熱鬧， [||] 有時候一走一過，驚到了水中的生物，就會響起陣陣水響。
+§4 [Ø=云千峰]雲千峰手電照著前方，尤其是水域范圍，避免再有之前那種巨大兩棲動物的偷襲。
+§5 [Ø=云千峰]倆人邊聊邊走，不知不覺走出很遠，就在琳達越貼著雲千峰越親密的時候，倆人不得不停住了腳步。
+§6 [Ø=云千峰]在他們前方，橫亙著一個長度不下十米，全身泛白，沒有眼睛的生物。
+§7 [Ø=云千峰]它看起來像是蠑螈，但體型更加纖長，倒是更像長著四隻腳的白蟒。
+§8 [Ø=云千峰]黑暗的環境讓它們的眼睛退化消失，不是白色的眸子，而是完全沒有了眼睛這個器官， [||] 鼻子上面只有兩個凹陷的坑，上面皮膚松垮，取而代之的，是超越想象般敏銳的聽覺和嗅覺。
+§9 [Ø=云千峰]倆人遠遠走來的腳步聲，已經驚醒了這慵懶好睡的生物。
+§10 [Ø=云千峰]它轉動著尖長，帶著鯉魚般須子的腦袋， [||] 用喇叭狀的鼻孔對著倆人的方向，鼻孔收縮擴張，正在收集倆人身上的味道。
+§11 [Ø=云千峰]全身眼睛的雪人嚇人，這沒有眼睛的東西也嚇人。
+§12 都能讓人頭皮發麻。
+§13 [Ø=云千峰]眼睛退化了，牙口卻很好。
+§14 [Ø=云千峰]那白花花好似得了白化病的東西一呲牙，就能看到它口腔內裡到歪斜的尖牙，比鱷魚的還惡心。
+§15 [Ø=云千峰]雲千峰回憶了一下薩弱揍之前那隻小一點的蠑螈的畫面，感覺自己應該也行。
+§16 [Ø=云千峰]這是人類的通病，就是看到別人行，就想當然的認為自己也可以。
+§17 於是低聲道：
+§18 [Ø=云千峰]“琳達你後退，躲遠點，咱們倆是華山一條道，只能弄死丫的才能繼續前進。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 [Ø=云千峰]琳達這人非常聽勸，一點不帶遲疑的，往後就跑，加油都不喊一聲。
+§20 [Ø=云千峰]雲千峰深呼吸幾次，看著那慢慢向著自己爬動，鼻孔煽動越來越快的白化蠑螈，做出了虎撲的姿勢。
+§21 [Ø=云千峰]他已經在腦海裡腦補好了過程，那就是學薩弱一樣，騎到怪物腦袋上，把它腦袋連皮帶骨砸扁。
+§22 [Ø=云千峰]區別在與薩弱會飛，而他只能想辦法跳上去。
+§23 [Ø=云千峰]那怪物越來越近，爬行也開始加速，在手電那朦朧的光照下，看起來就像是一條蛟龍向著雲千峰衝過來。
+§24 [Ø=云千峰]雲千峰感受到了那種巨大身體衝擊而來的壓迫感，忙咬緊牙關，舌尖頂著上顎， [||] 肩膀往前一裹，周身一體，全都搭上了架，沒有一處松散。
+§25 [Ø=云千峰]玩命搏鬥的次數多了，自然而然就學會了搏鬥的最佳身體狀態，那就是架子，也叫樁功。
+§26 [Ø=云千峰]舌頭搭架頸不虛，雙肩前裹胸背齊，腰跨外撐合上下， [||] 雙膝微曲重心移，湧泉如磨碾左右，腳趾才掌周身力。
+§27 [Ø=云千峰]“近了，更近了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 [Ø=云千峰]雲千峰深吸一口氣，準備撲擊跳躍。
+§29 [Ø=云千峰]然而，他意還沒動，崖隙上方突然傳來“轟隆隆”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]的悶響，猶如悶雷。
+§30 [Ø=云千峰]這聲響讓雲千峰下意識的向上看去，但上面黑洞洞的，什麽也看不見。
+§31 [Ø=云千峰]而眼前那巨大的怪物，在聽到這悶響後，似乎受到了極大的驚嚇， [||] 全身扭曲成了S形，來了個急轉彎，奔著旁邊的河水衝過去。
+§32 顯然是要沉水躲避那讓它恐懼的東西。
+§33 [Ø=云千峰]雲千峰不知道即將落下來的東西是什麽，但是顯然體型極大，否則不可能發出這樣的悶響。
+§34 [Ø=云千峰]再看那白化蠑螈的驚恐程度，就知道這到來的東西極為可怕。
+§35 [Ø=云千峰]於是想都沒想，回身幾步，抱住琳達就往前衝。
+§36 [Ø=云千峰]他要趁著那白化蠑螈躲避危險，沒時間搭理自己，和頂上那怪物落地之前的間隙，衝過去。
+§37 後退？
+§38 雲千峰從沒有過退路。
+§39 帝嚳早就把他所有退路堵死了！
+§40 感謝絕世凶獸成和葉、William_De、3D胸神、尾數13455、尾數34177的月票獎勵！！！
+§41 [Ø=云千峰]謝謝你們的支持，感激！！！
+§42 [Ø=云千峰]祝大家晚安，好夢！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 42 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§42. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

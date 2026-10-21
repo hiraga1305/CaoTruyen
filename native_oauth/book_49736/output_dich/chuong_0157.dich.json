@@ -1,0 +1,487 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 157,
+  "title": "Chương 157: Bóng Ma Tuổi Thơ",
+  "total_paragraphs": 79,
+  "translated_paragraphs": 79,
+  "source_hash": "ef5a91fff223570347ea2ab73db571f7f98e2182b219c623a35544e555847ca7",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0157p0001",
+      "index": 1,
+      "raw_zh": "第157章 童年的陰影",
+      "translated_vi": "Chương 157: Bóng Ma Tuổi Thơ"
+    },
+    {
+      "para_id": "c0157p0002",
+      "index": 2,
+      "raw_zh": "要說羅琳娜就是沒有秦疏影可愛。",
+      "translated_vi": "Nói về độ đáng yêu thì Lorina quả thực làm sao sánh được với Tần Sơ Ảnh."
+    },
+    {
+      "para_id": "c0157p0003",
+      "index": 3,
+      "raw_zh": "若是秦疏影知道了雲千峰真正的恐懼，一定會是一個極為柔軟溫柔的擁抱。",
+      "translated_vi": "Nếu là Tần Sơ Ảnh biết được nỗi sợ hãi thực sự của Vân Thiên Phong, chắc chắn chị sẽ dành cho anh một cái ôm vô cùng dịu dàng, mềm mại."
+    },
+    {
+      "para_id": "c0157p0004",
+      "index": 4,
+      "raw_zh": "而到了羅琳娜這裡，這女人知道了雲千峰緊張的真實原因後，竟然說了句：",
+      "translated_vi": "Thế nhưng đến lượt Lorina, sau khi người đàn bà này biết được nguyên do thật sự khiến Vân Thiên Phong căng thẳng, cô lại buông ra một câu:"
+    },
+    {
+      "para_id": "c0157p0005",
+      "index": 5,
+      "raw_zh": "“這樣的話，你只能自我了斷了。”",
+      "translated_vi": "“Nếu đã vậy thì anh chỉ còn nước tự kết liễu đời mình thôi.”"
+    },
+    {
+      "para_id": "c0157p0006",
+      "index": 6,
+      "raw_zh": "雲千峰撇嘴罵道：",
+      "translated_vi": "Vân Thiên Phong bĩu môi mắng:"
+    },
+    {
+      "para_id": "c0157p0007",
+      "index": 7,
+      "raw_zh": "“什麽屁話？我折騰來折騰去，就為了好好活著，這是不變的前提。”",
+      "translated_vi": "“Nói xàm gì đấy? Tôi lăn lộn đấu tranh sống dở chết dở đến tận giờ cũng chỉ vì muốn được sống thật tốt, đây là tiền đề bất di bất dịch.”"
+    },
+    {
+      "para_id": "c0157p0008",
+      "index": 8,
+      "raw_zh": "羅琳娜自然知道雲千峰這種人，乾不出來我為人人自我了斷這種事，於是又低聲笑道：",
+      "translated_vi": "Lorina đương nhiên thừa hiểu người như Vân Thiên Phong tuyệt đối chẳng bao giờ làm ra cái chuyện hy sinh vì nhân loại mà tự kết liễu mình, bèn hạ giọng cười khẽ:"
+    },
+    {
+      "para_id": "c0157p0009",
+      "index": 9,
+      "raw_zh": "“那要不你把魔鬼的頭盔和右臂都給我，我替你承擔一部分？”",
+      "translated_vi": "“Vậy hay là anh giao mũ giáp và cánh tay phải ma quỷ cho tôi đi, tôi gánh vác thay anh một phần?”"
+    },
+    {
+      "para_id": "c0157p0010",
+      "index": 10,
+      "raw_zh": "雲千峰一下就不緊張了，想到了魔鬼皮囊帶給自己的好處，這玩意兒代表著強大，就是沒人在身後推手，都得想辦法全弄手裡。",
+      "translated_vi": "Vân Thiên Phong lập tức chẳng còn chút căng thẳng nào nữa. Nghĩ đến những lợi ích mà lớp da ma quỷ mang lại cho mình, thứ này đại diện cho sức mạnh vô song, dẫu không có kẻ giật dây sau lưng thì anh cũng phải tìm đủ mọi cách vơ vét trọn vẹn vào tay."
+    },
+    {
+      "para_id": "c0157p0011",
+      "index": 11,
+      "raw_zh": "“想都別想，都是我的！”",
+      "translated_vi": "“Đừng hòng mơ tưởng, tất cả đều là của tôi!”"
+    },
+    {
+      "para_id": "c0157p0012",
+      "index": 12,
+      "raw_zh": "羅琳娜一攤手，道：",
+      "translated_vi": "Lorina dang hai tay ra, nói:"
+    },
+    {
+      "para_id": "c0157p0013",
+      "index": 13,
+      "raw_zh": "“那不就是咯，反正伱要拿到所有魔鬼的皮囊，有力量在後面推手，豈不是好事？你還不用說謝謝，自然也不用領情，回手就打祂一拳都沒問題。”",
+      "translated_vi": "“Thế thì đúng rồi còn gì! Đằng nào anh cũng muốn đoạt lấy tất cả da ma quỷ, có thế lực đứng sau lưng thúc đẩy chẳng phải là chuyện tốt hay sao? Anh vừa không cần cảm ơn, tự nhiên cũng chẳng cần ghi nợ ân tình, quay ngoắt lại đấm cho kẻ đó một cú vỡ mặt cũng chẳng sao cả.”"
+    },
+    {
+      "para_id": "c0157p0014",
+      "index": 14,
+      "raw_zh": "雲千峰難得主動親近一下羅琳娜，用手掐了掐那SHU女的臉頰，說道：",
+      "translated_vi": "Vân Thiên Phong hiếm hoi lắm mới chủ động thân mật với Lorina một lần. Anh đưa tay nhéo nhéo gò má của người phụ nữ thành thục, quyến rũ ấy mà bảo:"
+    },
+    {
+      "para_id": "c0157p0015",
+      "index": 15,
+      "raw_zh": "“好活，走，咱們出發。”",
+      "translated_vi": "“Nói hay lắm! Đi thôi, chúng ta xuất phát.”"
+    },
+    {
+      "para_id": "c0157p0016",
+      "index": 16,
+      "raw_zh": "羅琳娜嫵媚一笑，為雲千峰這種主動接近而欣喜，因為這意味著雲千峰正在慢慢忘掉羅琳娜和羅林之間的關系，把羅琳娜完全當成一個新生的女人看待。",
+      "translated_vi": "Lorina nở một nụ cười đầy vẻ quyến rũ, trong lòng vui sướng vì hành động chủ động gần gũi này của Vân Thiên Phong. Bởi lẽ điều đó đồng nghĩa với việc anh đang dần quên đi mối liên hệ giữa Lorina và Rolin, bắt đầu nhìn nhận cô như một người phụ nữ mới chào đời hoàn toàn độc lập."
+    },
+    {
+      "para_id": "c0157p0017",
+      "index": 17,
+      "raw_zh": "在羅琳娜的內心裡，一直呐喊我明明就是，從內到外都是，記憶都是——女的。",
+      "translated_vi": "Trong thâm tâm Lorina, cô luôn gào thét rằng mình rõ ràng là phụ nữ, từ trong ra ngoài, từ thể xác đến ký ức, tất thảy đều là nữ giới."
+    },
+    {
+      "para_id": "c0157p0018",
+      "index": 18,
+      "raw_zh": "雲千峰也覺得羅琳娜真是個會開解人的女人，她沒有直說什麽，但卻句句指向一個要點，那就是此時此刻的現實。",
+      "translated_vi": "Vân Thiên Phong cũng thầm thấy Lorina quả là một người phụ nữ rất khéo léo trong việc an ủi, giải tỏa tâm lý người khác. Cô không thuyết giáo dài dòng, nhưng câu nào câu nấy đều chĩa thẳng vào một trọng điểm cốt lõi: đó chính là hiện thực ở ngay giây phút này."
+    },
+    {
+      "para_id": "c0157p0019",
+      "index": 19,
+      "raw_zh": "想那麽遠沒有用，先看眼前，再圖以後。",
+      "translated_vi": "Nghĩ quá xa xôi chẳng có ích gì, trước tiên hãy nhìn vào trước mắt, rồi hẵng toan tính chuyện sau này."
+    },
+    {
+      "para_id": "c0157p0020",
+      "index": 20,
+      "raw_zh": "道理誰都懂，但換一個角度讓身受者在心裡發出這種感悟，效果是最好的，遠超過直接說“看眼前，別想那麽多”這樣的話。",
+      "translated_vi": "Đạo lý thì ai cũng hiểu, nhưng đổi một góc nhìn để chính người trong cuộc tự chiêm nghiệm ra điều đó trong lòng thì hiệu quả mới là tối ưu nhất, vượt xa những câu sáo rỗng đại loại như ‘nhìn vào thực tại đi, đừng nghĩ nhiều làm gì’."
+    },
+    {
+      "para_id": "c0157p0021",
+      "index": 21,
+      "raw_zh": "走在乾淨的路徑上，周圍叢林的陰暗處，常會出現瑩綠色的眼睛，看樣子都不是什麽太大的野獸，雲千峰拎著軍刀，也沒太過放在心上。",
+      "translated_vi": "Bước đi trên lối mòn quang đãng, trong những góc tối tăm của khu rừng rậm xung quanh chốc chốc lại lập lòe những cặp mắt xanh lè rờn rợn. Trông dáng vẻ có lẽ chẳng phải loài thú dữ to lớn gì, Vân Thiên Phong tay cầm dao găm quân dụng, cũng chẳng mảy may bận tâm."
+    },
+    {
+      "para_id": "c0157p0022",
+      "index": 22,
+      "raw_zh": "羅琳娜想起之前看到的那些怪異的枯骨，低聲道：",
+      "translated_vi": "Lorina nhớ lại những bộ xương khô quái dị nhìn thấy lúc trước, khẽ hỏi:"
+    },
+    {
+      "para_id": "c0157p0023",
+      "index": 23,
+      "raw_zh": "“這裡會不會還有那些三頭六臂的怪物？”",
+      "translated_vi": "“Ở đây liệu có còn những con quái vật ba đầu sáu tay như thế không?”"
+    },
+    {
+      "para_id": "c0157p0024",
+      "index": 24,
+      "raw_zh": "雲千峰搖頭，笑道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu cười nói:"
+    },
+    {
+      "para_id": "c0157p0025",
+      "index": 25,
+      "raw_zh": "“不可能的，那些怪物都是靠著生物科技製造出來的，女閻羅人都離開這裡超過萬年，上哪還有活著的。”",
+      "translated_vi": "“Không thể nào đâu. Lũ quái vật đó đều được tạo ra nhờ công nghệ sinh học, người Nữ Diêm La đã rời khỏi đây hơn vạn năm rồi, làm gì còn con nào sống sót được nữa.”"
+    },
+    {
+      "para_id": "c0157p0026",
+      "index": 26,
+      "raw_zh": "羅琳娜沉吟道：",
+      "translated_vi": "Lorina trầm ngâm:"
+    },
+    {
+      "para_id": "c0157p0027",
+      "index": 27,
+      "raw_zh": "“萬一那些怪物有後代呢？”",
+      "translated_vi": "“Nhỡ đâu lũ quái vật đó có hậu duệ thì sao?”"
+    },
+    {
+      "para_id": "c0157p0028",
+      "index": 28,
+      "raw_zh": "雲千峰笑出聲，道：",
+      "translated_vi": "Vân Thiên Phong bật cười thành tiếng:"
+    },
+    {
+      "para_id": "c0157p0029",
+      "index": 29,
+      "raw_zh": "“你什麽時候見過騾子有後代？什麽時候見過獅虎獸有後代？有些東西只能製造出來，但想讓它們像正常生物一樣繁衍群體，那是不可能的。這也是為什麽那麽多強大的山海經生物都消失了，否則這世界哪有人的位置。”",
+      "translated_vi": "“Cô đã thấy con la sinh con đẻ cái bao giờ chưa? Thấy con hổ sư có hậu duệ bao giờ chưa? Có những sinh vật chỉ có thể tạo ra bằng kỹ thuật nhân tạo, chứ muốn chúng sinh sôi nảy nở thành bầy đàn như sinh vật tự nhiên là điều bất khả thi. Đó cũng là lý do vì sao biết bao loài sinh vật hùng mạnh trong Sơn Hải Kinh đều đã biến mất, nếu không thì thế giới này làm gì còn chỗ đứng cho con người.”"
+    },
+    {
+      "para_id": "c0157p0030",
+      "index": 30,
+      "raw_zh": "羅琳娜點了點頭，心下寬慰不少。",
+      "translated_vi": "Lorina gật đầu, trong lòng cảm thấy nhẹ nhõm đi phần nào."
+    },
+    {
+      "para_id": "c0157p0031",
+      "index": 31,
+      "raw_zh": "他們走了一個多小時，又遇到了一個帶著翼骨的貓科枯骨和一個人形帶著四個翅膀骨頭的枯骨，都是非正常死亡，只是無法知道是被誰殺死。",
+      "translated_vi": "Họ đi hơn một giờ đồng hồ, lại bắt gặp một bộ xương họ mèo có xương cánh và một bộ xương hình người mang bốn chiếc xương cánh, tất cả đều chết bất đắc kỳ tử, chỉ là không rõ do ai hạ sát."
+    },
+    {
+      "para_id": "c0157p0032",
+      "index": 32,
+      "raw_zh": "正走著，突然一股異香撲面。",
+      "translated_vi": "Đang đi, bỗng nhiên một luồng hương thơm kỳ lạ nồng nặc xộc thẳng vào mũi."
+    },
+    {
+      "para_id": "c0157p0033",
+      "index": 33,
+      "raw_zh": "謹慎的倆人立馬止住身形，調整頭頂礦燈照射前方六路。",
+      "translated_vi": "Vốn tính cẩn trọng, cả hai lập tức dừng bước, chỉnh lại đèn pin trên mũ bảo hộ rọi về phía trước để dò xét tứ phía."
+    },
+    {
+      "para_id": "c0157p0034",
+      "index": 34,
+      "raw_zh": "就見前面已經是這個地下空間的盡頭。",
+      "translated_vi": "Chỉ thấy trước mặt đã là điểm tận cùng của không gian ngầm dưới lòng đất này."
+    },
+    {
+      "para_id": "c0157p0035",
+      "index": 35,
+      "raw_zh": "在那盡頭處，有一池清澈的潭水，面積不大，直徑也就五六米的圓形。",
+      "translated_vi": "Ở nơi tận cùng ấy có một đầm nước trong vắt, diện tích không lớn, hình tròn đường kính chừng năm sáu mét."
+    },
+    {
+      "para_id": "c0157p0036",
+      "index": 36,
+      "raw_zh": "池水旁邊是一座長不下五十米，高不下三十米的巨大木樓。",
+      "translated_vi": "Kế bên đầm nước sừng sững một tòa nhà gỗ khổng lồ dài không dưới năm mươi mét, cao không dưới ba mươi mét."
+    },
+    {
+      "para_id": "c0157p0037",
+      "index": 37,
+      "raw_zh": "整個木樓是原木以凹槽的形式堆疊而成，輔以立木卯楔加固，整體呈金字塔狀。",
+      "translated_vi": "Toàn bộ tòa nhà gỗ được ghép bằng những khúc gỗ nguyên khối đẽo rãnh xếp chồng lên nhau, gia cố bằng mộng nêm cọc gỗ thẳng đứng, cấu trúc tổng thể mang dáng dấp một tòa kim tự tháp."
+    },
+    {
+      "para_id": "c0157p0038",
+      "index": 38,
+      "raw_zh": "無數歲月洗禮下，那木樓依舊完整，甚至不見一絲蟲蛀。",
+      "translated_vi": "Trải qua sự gột rửa của năm tháng đằng đẵng vô tận, tòa nhà gỗ ấy vẫn nguyên vẹn như xưa, thậm chí chẳng hề có lấy một vết mối mọt."
+    },
+    {
+      "para_id": "c0157p0039",
+      "index": 39,
+      "raw_zh": "在那高大的金字塔平頂上，坐著一個人，手裡捧著一個玉石箱子。",
+      "translated_vi": "Trên đỉnh bằng phẳng của tòa kim tự tháp cao ngất ngưởng kia có một người đang ngồi xếp bằng, hai tay bưng một chiếc rương bằng ngọc bích."
+    },
+    {
+      "para_id": "c0157p0040",
+      "index": 40,
+      "raw_zh": "借著礦燈遠光仔細看，那坐著的人正是之前記錄影像裡被鞭打的奴隸。",
+      "translated_vi": "Nhờ ánh sáng rọi xa của đèn pin, nhìn kỹ lại thì người đang ngồi đó chính là tên nô lệ từng bị quất roi trong đoạn phim ghi hình trước đó."
+    },
+    {
+      "para_id": "c0157p0041",
+      "index": 41,
+      "raw_zh": "這個人不但沒有腐爛，而且看起來好像坐禪睡著了一般，面目如新，嘴角還帶著一絲笑意。",
+      "translated_vi": "Người này không những không hề thối rữa mà trông như một người đang ngồi thiền ngủ thiếp đi, diện mạo tươi tắn như mới, khóe miệng thậm chí còn vương một nụ cười mờ nhạt."
+    },
+    {
+      "para_id": "c0157p0042",
+      "index": 42,
+      "raw_zh": "只是那笑容看著有些殘忍。",
+      "translated_vi": "Chỉ có điều, nụ cười ấy trông có phần tàn nhẫn, lạnh lẽo."
+    },
+    {
+      "para_id": "c0157p0043",
+      "index": 43,
+      "raw_zh": "雲千峰感受了一下腹內石眼的東向，正是直指木樓頂部那玉石箱子。",
+      "translated_vi": "Vân Thiên Phong cảm nhận hướng chỉ của con mắt đá trong bụng, nó đang chĩa thẳng tắp về phía chiếc rương ngọc bích trên đỉnh tòa nhà gỗ."
+    },
+    {
+      "para_id": "c0157p0044",
+      "index": 44,
+      "raw_zh": "羅琳娜眯著眼睛，看著樓頂坐著的人，低聲道：",
+      "translated_vi": "Lorina nheo mắt nhìn người ngồi trên đỉnh tháp, khẽ thì thào:"
+    },
+    {
+      "para_id": "c0157p0045",
+      "index": 45,
+      "raw_zh": "“看不出死活來。”",
+      "translated_vi": "“Không nhìn ra được là còn sống hay đã chết.”"
+    },
+    {
+      "para_id": "c0157p0046",
+      "index": 46,
+      "raw_zh": "雲千峰也禁不住壓低聲音，回道：",
+      "translated_vi": "Vân Thiên Phong cũng bất giác hạ thấp giọng, đáp:"
+    },
+    {
+      "para_id": "c0157p0047",
+      "index": 47,
+      "raw_zh": "“肯定是死了的，只不過他應該服下了劇毒，或者周圍有劇毒的東西，導致細菌都沒法生存，所以沒有腐爛，看起來栩栩如生。”",
+      "translated_vi": "“Chắc chắn là chết rồi, có điều hẳn là anh ta đã uống phải kịch độc, hoặc xung quanh có thứ kịch độc khiến vi khuẩn cũng không thể tồn tại, thành ra xác không bị rữa nát mà vẫn trông như người sống.”"
+    },
+    {
+      "para_id": "c0157p0048",
+      "index": 48,
+      "raw_zh": "倆人正說著話，那金字塔上卻傳來“沙沙沙”的輕響。",
+      "translated_vi": "Hai người đang nói chuyện thì trên tòa kim tự tháp bỗng vang lên những tiếng ‘sột soạt’ rất khẽ."
+    },
+    {
+      "para_id": "c0157p0049",
+      "index": 49,
+      "raw_zh": "就見一個極嫵媚的臉龐出現在金字塔上，靠在那具盤坐的屍體旁邊。",
+      "translated_vi": "Chỉ thấy một khuôn mặt vô cùng kiều diễm yêu mị xuất hiện trên đỉnh kim tự tháp, nép sát ngay bên cạnh cỗ thi thể đang ngồi xếp bằng."
+    },
+    {
+      "para_id": "c0157p0050",
+      "index": 50,
+      "raw_zh": "那張臉，從審美角度講，美極了，尤其是還帶著邪魅的笑容，充滿了誘惑。",
+      "translated_vi": "Khuôn mặt ấy nếu xét theo góc độ thẩm mỹ thì quả thực đẹp mê hồn, đặc biệt là nụ cười tà mị nở trên môi đầy vẻ cám dỗ mê hoặc."
+    },
+    {
+      "para_id": "c0157p0051",
+      "index": 51,
+      "raw_zh": "但是雲千峰和羅琳娜都被那張臉嚇得後背冒冷汗，因為那張瓜子臉差不多和盤膝坐著的屍體一般大。",
+      "translated_vi": "Thế nhưng cả Vân Thiên Phong lẫn Lorina đều bị khuôn mặt ấy dọa cho lạnh toát sống lưng, mồ hôi túa ra đầm đìa, bởi vì gương mặt trái xoan kia to gần bằng cả thân hình của cỗ thi thể đang ngồi xếp bằng!"
+    },
+    {
+      "para_id": "c0157p0052",
+      "index": 52,
+      "raw_zh": "也就是說，金字塔上那張瓜子臉，最少有一米多長。",
+      "translated_vi": "Nói cách khác, khuôn mặt trái xoan trên kim tự tháp kia chí ít cũng phải dài hơn một mét."
+    },
+    {
+      "para_id": "c0157p0053",
+      "index": 53,
+      "raw_zh": "可以想象，一米長的臉，那不得配個九米長的身軀啊！",
+      "translated_vi": "Thử tưởng tượng xem, một khuôn mặt dài cả mét thì chẳng phải đi kèm một thân hình dài tới chín mét hay sao!"
+    },
+    {
+      "para_id": "c0157p0054",
+      "index": 54,
+      "raw_zh": "羅琳娜下意識來了句：",
+      "translated_vi": "Lorina theo bản năng thốt lên:"
+    },
+    {
+      "para_id": "c0157p0055",
+      "index": 55,
+      "raw_zh": "“巨人.”",
+      "translated_vi": "“Người khổng lồ...”"
+    },
+    {
+      "para_id": "c0157p0056",
+      "index": 56,
+      "raw_zh": "話沒說完，就被雲千峰堵住了嘴巴，拽著她向後慢慢退去。",
+      "translated_vi": "Lời còn chưa dứt đã bị Vân Thiên Phong bịt chặt miệng lại, kéo cô chầm chậm lùi về phía sau."
+    },
+    {
+      "para_id": "c0157p0057",
+      "index": 57,
+      "raw_zh": "一邊走一邊低聲道：",
+      "translated_vi": "Anh vừa lùi vừa hạ giọng dặn dò:"
+    },
+    {
+      "para_id": "c0157p0058",
+      "index": 58,
+      "raw_zh": "“別出聲，輕落步，那東西眼睛是盲的。”",
+      "translated_vi": "“Đừng phát ra tiếng động, bước thật khẽ, mắt của thứ kia bị mù rồi.”"
+    },
+    {
+      "para_id": "c0157p0059",
+      "index": 59,
+      "raw_zh": "羅琳娜也發現那巨臉的眸子在礦燈下顯出石頭般的灰白色，所謂有眼無珠。",
+      "translated_vi": "Lorina cũng nhận ra đôi mắt trên khuôn mặt khổng lồ kia dưới ánh đèn rọi ra một màu xám trắng như đá vôi, đúng kiểu có mắt mà không có tròng đen."
+    },
+    {
+      "para_id": "c0157p0060",
+      "index": 60,
+      "raw_zh": "但是很顯然，那張臉也感覺到有人靠近這裡，所以正在左右的挪動著腦袋，不用眼睛看也不用鼻子聞，而是不停的伸出舌頭，在空氣裡探來探去。",
+      "translated_vi": "Nhưng rõ ràng khuôn mặt đó cũng cảm nhận được có kẻ đang tiến lại gần, thế nên chiếc đầu to lớn ấy đang ngọ nguậy lắc lư qua lại. Nó không dùng mắt nhìn cũng chẳng dùng mũi ngửi, mà liên tục thè chiếc lưỡi dài ra thăm dò không khí xung quanh."
+    },
+    {
+      "para_id": "c0157p0061",
+      "index": 61,
+      "raw_zh": "倆人仔細看向那舌頭，發現那巨臉嘴裡的舌頭很長很細，差不多有一米多長，中間還分叉，就像一條放大幾十倍的蛇信子。",
+      "translated_vi": "Hai người nhìn kỹ vào chiếc lưỡi thì phát hiện chiếc lưỡi trong miệng khuôn mặt khổng lồ kia vừa dài vừa mảnh, ngót nghét hơn một mét, ở đầu còn chẻ đôi xẻ rãnh, y hệt như một chiếc lưỡi rắn bị phóng đại lên gấp mấy chục lần."
+    },
+    {
+      "para_id": "c0157p0062",
+      "index": 62,
+      "raw_zh": "轉了兩圈，似乎是沒發現雲千峰和羅琳娜，那巨大的瓜子臉就用分叉的舌頭在屍體身上舔了一圈，留下一層亮晶晶的粘液。",
+      "translated_vi": "Đảo quanh hai vòng dường như không phát hiện ra Vân Thiên Phong và Lorina, khuôn mặt trái xoan khổng lồ liền dùng chiếc lưỡi chẻ đôi liếm láp một vòng khắp thân cỗ thi thể, để lại một lớp chất nhầy bóng loáng."
+    },
+    {
+      "para_id": "c0157p0063",
+      "index": 63,
+      "raw_zh": "這恐怕就是雲千峰說的劇毒護膚水。",
+      "translated_vi": "Đây e chừng chính là loại kem dưỡng da kịch độc mà Vân Thiên Phong vừa nhắc tới."
+    },
+    {
+      "para_id": "c0157p0064",
+      "index": 64,
+      "raw_zh": "“啪”一塊略大的白礬結晶塊隨著雲千峰踩踏碎裂，發出脆響。",
+      "translated_vi": "“Rắc!” Một mẩu tinh thể phèn trắng khá lớn bị Vân Thiên Phong giẫm phải vỡ vụn, phát ra một tiếng động giòn tan."
+    },
+    {
+      "para_id": "c0157p0065",
+      "index": 65,
+      "raw_zh": "那巨臉撲棱一下彈著轉過來，把正臉面對著雲千峰和羅琳娜所在的方向，米長的舌頭伸出來，在空氣裡畫著圈圈，當那長舌頭對準雲千峰和羅琳娜的位置後，一下頓住，不在移動。",
+      "translated_vi": "Khuôn mặt khổng lồ kia bỗng ‘phắt’ một cái quay ngoắt lại, chĩa thẳng mặt chính diện về hướng Vân Thiên Phong và Lorina đang đứng. Chiếc lưỡi dài cả mét thè ra, vẽ những vòng tròn trong không khí; khi chiếc lưỡi dài ấy nhắm trúng vị trí của hai người, nó đột nhiên khựng lại, không hề dịch chuyển nữa."
+    },
+    {
+      "para_id": "c0157p0066",
+      "index": 66,
+      "raw_zh": "也就在這一刻，雲千峰拽著羅琳娜喊了句：",
+      "translated_vi": "Cũng chính ngay khoảnh khắc ấy, Vân Thiên Phong giật mạnh tay Lorina hét lớn:"
+    },
+    {
+      "para_id": "c0157p0067",
+      "index": 67,
+      "raw_zh": "“被鎖定了，快跑！”",
+      "translated_vi": "“Bị khóa mục tiêu rồi, chạy mau!”"
+    },
+    {
+      "para_id": "c0157p0068",
+      "index": 68,
+      "raw_zh": "幾乎同時，倆人身後傳來重物壓迫木樓的“嘎吱嘎吱”聲響，倆人都禁不住回頭看了一眼。",
+      "translated_vi": "Gần như cùng lúc, phía sau hai người truyền đến những tiếng cọt kẹt ken két do vật nặng đè nén lên sàn nhà gỗ. Cả hai đều không kìm được ngoái đầu lại nhìn một cái."
+    },
+    {
+      "para_id": "c0157p0069",
+      "index": 69,
+      "raw_zh": "就見那一米多長的大臉，下巴距離地面二三十公分，就那麽飄蕩著飛向二人，速度奇快。",
+      "translated_vi": "Chỉ thấy khuôn mặt khổng lồ dài hơn một mét kia, cằm chỉ cách mặt đất chừng hai ba mươi phân, cứ thế lơ lửng bay vút về phía hai người với tốc độ nhanh đến kinh hoàng."
+    },
+    {
+      "para_id": "c0157p0070",
+      "index": 70,
+      "raw_zh": "雲千峰發誓，這要不是鬼，自己就把它吃了。",
+      "translated_vi": "Vân Thiên Phong thề, nếu thứ này mà không phải là quỷ, anh tình nguyện nuốt sống nó vào bụng."
+    },
+    {
+      "para_id": "c0157p0071",
+      "index": 71,
+      "raw_zh": "倆人沒命的往前跑，氣喘如牛。",
+      "translated_vi": "Cả hai thục mạng cắm đầu cắm cổ chạy về phía trước, hơi thở dồn dập hồng hộc như trâu bò kéo cày."
+    },
+    {
+      "para_id": "c0157p0072",
+      "index": 72,
+      "raw_zh": "跑了一會後，雲千峰左耳朵動了動，停下腳步，拽住羅琳娜，喘息道：",
+      "translated_vi": "Chạy được một quãng, tai trái của Vân Thiên Phong khẽ giật giật, anh dừng bước rồi giật lấy tay Lorina, thở dốc:"
+    },
+    {
+      "para_id": "c0157p0073",
+      "index": 73,
+      "raw_zh": "“沒動靜了！”",
+      "translated_vi": "“Hết tiếng động rồi!”"
+    },
+    {
+      "para_id": "c0157p0074",
+      "index": 74,
+      "raw_zh": "沒想到，被自己一拽都沒轉身的羅琳娜，手指顫抖的指著前上方，嘴唇抖得更厲害，說：",
+      "translated_vi": "Nào ngờ Lorina bị anh kéo lại chẳng hề quay người, ngón tay run lẩy bẩy chỉ lên phía trước bên trên, cánh môi run rẩy dữ dội hơn, lắp bắp:"
+    },
+    {
+      "para_id": "c0157p0075",
+      "index": 75,
+      "raw_zh": "“在在在在樹上！”",
+      "translated_vi": "“Ở... ở... ở trên cây!”"
+    },
+    {
+      "para_id": "c0157p0076",
+      "index": 76,
+      "raw_zh": "雲千峰仰頭看去，果然見到那張巨大的瓜子臉掛在前面不遠的大樹上，看那表情似乎在看著倆人笑。",
+      "translated_vi": "Vân Thiên Phong ngửa đầu nhìn lên, quả nhiên thấy khuôn mặt trái xoan khổng lồ kia đang vắt vẻo treo trên cành cây đại thụ cách đó không xa, vẻ mặt dường như đang nhìn hai người mỉm cười."
+    },
+    {
+      "para_id": "c0157p0077",
+      "index": 77,
+      "raw_zh": "然後雲千峰確定那的確不是鬼，但自己真吃不了它。",
+      "translated_vi": "Để rồi Vân Thiên Phong dám chắc thứ đó đích thực không phải ma quỷ, nhưng anh cũng tuyệt đối không thể nuốt trôi nổi nó."
+    },
+    {
+      "para_id": "c0157p0078",
+      "index": 78,
+      "raw_zh": "那特麽是自己童年的陰影啊！",
+      "translated_vi": "Mẹ kiếp, đó chính là bóng ma tuổi thơ của anh chứ đâu!"
+    },
+    {
+      "para_id": "c0157p0079",
+      "index": 79,
+      "raw_zh": "大家晚安，我也先睡了，好好睡一覺，這幾天熬夜熬傻了！！！好夢大家！！！",
+      "translated_vi": "Chúc mọi người ngủ ngon, tôi cũng đi ngủ trước đây, phải ngủ một giấc thật đã đời, mấy hôm nay thức đêm thức hôm muốn đần cả người rồi!!! Chúc mọi người có những giấc mơ đẹp!!!"
+    }
+  ]
+}

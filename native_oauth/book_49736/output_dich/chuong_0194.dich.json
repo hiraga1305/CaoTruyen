@@ -1,0 +1,625 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 194,
+  "title": "Chương 194: Ký Sinh",
+  "total_paragraphs": 102,
+  "translated_paragraphs": 102,
+  "source_hash": "b59541c607736d2f6bdf5675686ff12f9923d74d9232d71714618add4bde3911",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0194p0001",
+      "index": 1,
+      "raw_zh": "第194章 寄生",
+      "translated_vi": "Chương 194: Ký Sinh"
+    },
+    {
+      "para_id": "c0194p0002",
+      "index": 2,
+      "raw_zh": "安德看到雲千峰用手頂著法緹娜衝過來，法緹娜額頭的血才剛剛混著白色的碎渣流出來。",
+      "translated_vi": "Ander nhìn thấy Vân Thiên Phong dùng tay nâng thi thể của Fatina làm lá chắn lao thục mạng tới; máu từ vầng trán của Fatina mới chỉ vừa kịp hòa lẫn với những mảnh óc trắng vỡ vụn túa ra ngoài."
+    },
+    {
+      "para_id": "c0194p0003",
+      "index": 3,
+      "raw_zh": "她臉上遺留著難以置信的表情，一雙沒有了光的眸子，似乎依舊在盯著安德審視和詢問。",
+      "translated_vi": "Trên gương mặt cô vẫn đọng lại biểu cảm bàng hoàng khó tin, đôi mắt đã tắt lịm ánh sáng dường như vẫn đang trừng trừng nhìn chòng chọc vào Ander như để phán xét và chất vấn."
+    },
+    {
+      "para_id": "c0194p0004",
+      "index": 4,
+      "raw_zh": "這一瞬間，安德沒來由的感覺到恐懼。",
+      "translated_vi": "Khoảnh khắc ấy, Ander bất giác trào dâng một nỗi sợ hãi vô cớ."
+    },
+    {
+      "para_id": "c0194p0005",
+      "index": 5,
+      "raw_zh": "但是看著自己托著步槍前端的左臂，那青色鱗片狀紋理的皮膚，讓他瞬間覺得一切都是值得的，哪怕是背叛。",
+      "translated_vi": "Thế nhưng khi nhìn xuống cánh tay trái đang nâng thân trước khẩu súng trường của mình—lớp da phủ đầy lớp vân vảy màu xanh lục—gã lập tức cảm thấy mọi thứ đều hoàn toàn xứng đáng, cho dù đó là sự phản bội đi chăng nữa."
+    },
+    {
+      "para_id": "c0194p0006",
+      "index": 6,
+      "raw_zh": "“他的左臂是他的要害，他一定知道我會射擊他的左臂，他的左側有石柱做掩體，那麽他一定會向左側閃避，然後逐步靠近我！那麽我要向左打偏一點！”",
+      "translated_vi": "“Cánh tay trái chính là tử huyệt của nó, nó nhất định biết tao sẽ nhắm bắn vào tay trái! Phía bên trái của nó có cột đá làm nơi ẩn nấp, vậy thì chắc chắn nó sẽ né sang bên trái rồi từng bước áp sát tao! Thế thì tao phải bắn chệch sang bên trái một chút mới được!”"
+    },
+    {
+      "para_id": "c0194p0007",
+      "index": 7,
+      "raw_zh": "安德預判著。",
+      "translated_vi": "Ander thầm tính toán phán đoán trong đầu."
+    },
+    {
+      "para_id": "c0194p0008",
+      "index": 8,
+      "raw_zh": "雲千峰頂著法緹娜當盾牌，眼睛順著法緹娜飄蕩的發絲縫隙看到安德舉起了槍。",
+      "translated_vi": "Vân Thiên Phong giơ cao xác của Fatina làm lá chắn, đôi mắt xuyên qua kẽ tóc bay lòa xòa của cô nhìn thấy Ander đang giương súng lên."
+    },
+    {
+      "para_id": "c0194p0009",
+      "index": 9,
+      "raw_zh": "“他一擊不中，必定會躲向右側的巨石柱，我必須用子彈攔停他的動作，讓他無處可躲，他也一定會阻攔我躲入左側的石柱之後。”",
+      "translated_vi": "“Gã một kích không trúng ắt sẽ né sang cột đá lớn bên phải, mình phải dùng đạn chặn đứng bước di chuyển của gã, khiến gã không có chỗ nào ẩn náu; và gã cũng nhất định sẽ tìm cách ngăn mình trốn sau cột đá bên trái.”"
+    },
+    {
+      "para_id": "c0194p0010",
+      "index": 10,
+      "raw_zh": "想著，他使勁把法緹娜的屍體往前一推，自己彎腰低身，在地上打了一個滾，閃向右側。",
+      "translated_vi": "Nghĩ đoạn, anh dùng hết sức bình sinh đẩy mạnh thi thể của Fatina về phía trước, bản thân cúi rạp người, tung một vòng lăn lộn sát mặt đất, né ngoắt sang bên phải."
+    },
+    {
+      "para_id": "c0194p0011",
+      "index": 11,
+      "raw_zh": "安德一聲槍響，把法緹娜的屍體打得在空中翻了一百八十度，跌落在地上。",
+      "translated_vi": "Tiếng súng của Ander rền vang, phát đạn hất tung thi thể của Fatina xoay tròn một trăm tám mươi độ giữa không trung rồi rơi bịch xuống nền đất."
+    },
+    {
+      "para_id": "c0194p0012",
+      "index": 12,
+      "raw_zh": "槍響的同時，他看到雲千峰的身影竟然出乎自己預料的滾向了右側。",
+      "translated_vi": "Cùng lúc tiếng súng nổ, gã nhìn thấy bóng dáng của Vân Thiên Phong lại nằm ngoài dự liệu mà lăn xả sang phía bên phải!"
+    },
+    {
+      "para_id": "c0194p0013",
+      "index": 13,
+      "raw_zh": "與此同時，雲千峰手裡的袖珍手槍冒出了火花。",
+      "translated_vi": "Ngay trong tích tắc ấy, khẩu súng ngắn bỏ túi trên tay Vân Thiên Phong bùng lên tia lửa chát chúa."
+    },
+    {
+      "para_id": "c0194p0014",
+      "index": 14,
+      "raw_zh": "“噠噠！”",
+      "translated_vi": "“Đoàng! Đoàng!”"
+    },
+    {
+      "para_id": "c0194p0015",
+      "index": 15,
+      "raw_zh": "兩聲槍響。",
+      "translated_vi": "Hai tiếng súng liên tiếp nổ vang."
+    },
+    {
+      "para_id": "c0194p0016",
+      "index": 16,
+      "raw_zh": "全都是奔著安德的右肩和偏右側射擊。",
+      "translated_vi": "Toàn bộ đều nhắm thẳng vào bả vai phải và chếch sang mạn sườn bên phải của Ander mà bắn."
+    },
+    {
+      "para_id": "c0194p0017",
+      "index": 17,
+      "raw_zh": "安德急忙在地上打了一個滾，卻是不敢向右側的石柱後面躲避，否則必然會被擊中。",
+      "translated_vi": "Ander cuống cuồng lăn xả trên mặt đất, tuyệt nhiên không dám né sang sau cột đá bên phải nữa, bằng không chắc chắn sẽ bị trúng đạn."
+    },
+    {
+      "para_id": "c0194p0018",
+      "index": 18,
+      "raw_zh": "“混蛋，他在阻攔我躲入掩體，好，那大家就移動著對戰，只要拉開距離，你就死定了！”",
+      "translated_vi": "“Khốn kiếp, nó đang phong tỏa đường lui vào nơi ẩn nấp của mình! Được thôi, vậy thì hai bên cùng vừa di chuyển vừa đấu súng, chỉ cần kéo giãn khoảng cách ra là mày chết chắc rồi!”"
+    },
+    {
+      "para_id": "c0194p0019",
+      "index": 19,
+      "raw_zh": "安德心頭念動，在滾倒的同時回擊一槍，然後趁著雲千峰低身躲避的空擋站起身，開始面對著雲千峰，向後快速退步。",
+      "translated_vi": "Trong lòng Ander thầm tính toán, vừa lăn người vừa bắn trả lại một phát, sau đó nhân lúc Vân Thiên Phong đang rạp mình né tránh liền bật dậy, mặt đối mặt với Vân Thiên Phong, thoăn thoắt lùi nhanh về phía sau."
+    },
+    {
+      "para_id": "c0194p0020",
+      "index": 20,
+      "raw_zh": "雲千峰發現了安德的意圖，他很清楚，一旦被安德拉開距離，那麽自己的小手槍對陣步槍，自己就是活靶子。",
+      "translated_vi": "Vân Thiên Phong phát giác ra ý đồ của Ander, anh hiểu quá rõ một khi bị Ander kéo giãn cự ly, khẩu súng lục nhỏ bé của mình đối đầu với súng trường thì chẳng khác nào một tấm bia sống di động."
+    },
+    {
+      "para_id": "c0194p0021",
+      "index": 21,
+      "raw_zh": "想追上去，可是安德的節奏掌握的非常好，每次雲千峰躲避之後，準備反擊時，就會迎來安德的槍響。",
+      "translated_vi": "Muốn đuổi riết theo, nhưng nhịp điệu tác chiến của Ander được khống chế vô cùng chuẩn xác; mỗi khi Vân Thiên Phong né tránh xong xuôi toan phản kích thì lập tức đón nhận tiếng súng bắn chặn của Ander."
+    },
+    {
+      "para_id": "c0194p0022",
+      "index": 22,
+      "raw_zh": "“不行，不能這樣被他帶著節奏！”",
+      "translated_vi": "“Không xong, không thể để gã dắt mũi theo nhịp độ này được!”"
+    },
+    {
+      "para_id": "c0194p0023",
+      "index": 23,
+      "raw_zh": "雲千峰也學安德，在下一次躲避的同時，連開三槍回擊，徹底打亂安德的節奏，讓他不得不趴在地上躲避。",
+      "translated_vi": "Vân Thiên Phong cũng học theo Ander, ngay trong lần né tránh kế tiếp, anh bóp cò bắn liền ba phát đáp trả, phá vỡ hoàn toàn tiết tấu của Ander, ép gã phải nằm rạp xuống đất để tránh đạn."
+    },
+    {
+      "para_id": "c0194p0024",
+      "index": 24,
+      "raw_zh": "掌握了節奏的雲千峰立馬起身奔跑追擊，拉近倆人的距離。",
+      "translated_vi": "Nắm lại được quyền chủ động, Vân Thiên Phong lập tức bật dậy sải bước đuổi riết theo, thu hẹp khoảng cách giữa hai người."
+    },
+    {
+      "para_id": "c0194p0025",
+      "index": 25,
+      "raw_zh": "安德趴在地上，橫著滾動，心裡計算著：",
+      "translated_vi": "Ander nằm rạp dưới nền đất, lăn ngang người sang một bên, trong đầu nhanh chóng tính toán:"
+    },
+    {
+      "para_id": "c0194p0026",
+      "index": 26,
+      "raw_zh": "“法緹娜的手槍彈容12發，之前強開裝著神器的箱子，使用了一顆，雲千峰又使用了五發，他現在還有六顆子彈，而我還有八顆子彈。”",
+      "translated_vi": "“Băng đạn khẩu súng ngắn của Fatina có dung lượng mười hai viên, trước đó bắn phá khóa hòm chứa thần khí đã tiêu tốn một viên, Vân Thiên Phong vừa bắn thêm năm phát nữa, giờ nó chỉ còn đúng sáu viên đạn; trong khi đó mình vẫn còn tới tám viên.”"
+    },
+    {
+      "para_id": "c0194p0027",
+      "index": 27,
+      "raw_zh": "想到這，他幾乎沒有瞄準，完全憑著感覺還擊一槍。",
+      "translated_vi": "Nghĩ tới đó, gã hầu như chẳng cần ngắm bắn cẩn thận mà hoàn toàn dựa vào trực giác bắn trả một phát."
+    },
+    {
+      "para_id": "c0194p0028",
+      "index": 28,
+      "raw_zh": "雲千峰不得不躲閃，只能選擇趴在地上，盡可能的躲開自己的雙腿和左臂。",
+      "translated_vi": "Vân Thiên Phong buộc phải né tránh, chỉ có thể chọn cách nằm ép sát mặt đất, cố gắng hết mức để che chắn đôi chân và cánh tay trái của mình."
+    },
+    {
+      "para_id": "c0194p0029",
+      "index": 29,
+      "raw_zh": "真心話，他害怕盲打遠遠超過瞄準。",
+      "translated_vi": "Nói thật lòng, anh sợ những phát bắn mò vu vơ của đối phương hơn xa những pha ngắm bắn kỹ lưỡng."
+    },
+    {
+      "para_id": "c0194p0030",
+      "index": 30,
+      "raw_zh": "安德很顯然是一名經過戰場洗禮的戰士，對於這種追擊戰，他明顯比雲千峰更有經驗。",
+      "translated_vi": "Ander rõ ràng là một tay chiến binh đã từng kinh qua bao lò lửa chiến trường, đối với loại hình truy kích cận chiến này, kinh nghiệm của gã phong phú hơn Vân Thiên Phong rất nhiều."
+    },
+    {
+      "para_id": "c0194p0031",
+      "index": 31,
+      "raw_zh": "你來我往幾次，安德終究是跑到了距離雲千峰五十米外，這時候安德還有五顆子彈，而雲千峰只剩下兩顆。",
+      "translated_vi": "Sau vài lượt ăn miếng trả miếng qua lại, rốt cuộc Ander cũng lùi được tới vị trí cách xa Vân Thiên Phong năm mươi mét. Lúc này Ander còn lại năm viên đạn, trong khi Vân Thiên Phong chỉ còn vẻn vẹn hai viên."
+    },
+    {
+      "para_id": "c0194p0032",
+      "index": 32,
+      "raw_zh": "安德站在一塊巨石後面，笑看著前方的石柱，雲千峰就躲在那後面，他開心的大聲道：",
+      "translated_vi": "Ander đứng nép sau một tảng cự thạch, nở nụ cười đắc thắng nhìn về cây cột đá phía trước nơi Vân Thiên Phong đang lẩn trốn, cao giọng cười lớn:"
+    },
+    {
+      "para_id": "c0194p0033",
+      "index": 33,
+      "raw_zh": "“雲千峰，你輸了！伱能躲到幾時？我這裡有牛肉干，有水囊，有射程遠超你的步槍，而你只剩下兩顆子彈，認輸吧，把身上那魔鬼的皮囊給我，我就饒你一命！”",
+      "translated_vi": "“Vân Thiên Phong, mày thua rồi! Mày trốn được bao lâu nữa chứ? Tao ở đây có thịt bò khô, có túi nước, có khẩu súng trường với tầm bắn vượt xa mày, còn mày thì chỉ còn trơ trọi hai viên đạn! Nhận thua đi, ngoan ngoãn giao nộp lớp da của ác ma trên người mày ra đây, tao sẽ tha cho mày một mạng!”"
+    },
+    {
+      "para_id": "c0194p0034",
+      "index": 34,
+      "raw_zh": "雲千峰躲在石柱後面，他知道安德說的都是實話，現在看來，自己輸定了。",
+      "translated_vi": "Vân Thiên Phong nép mình sau cột đá, anh hiểu những gì Ander nói hoàn toàn là sự thật; tình thế lúc này xem ra anh nắm chắc phần bại trong tay."
+    },
+    {
+      "para_id": "c0194p0035",
+      "index": 35,
+      "raw_zh": "他現在只要走出去，就會被安德一槍打中，因為安德是面向著那散發著柔和光芒的屏風，雲千峰只要一動，就是那屏風前的剪影，清晰的不能更清晰。",
+      "translated_vi": "Giờ đây chỉ cần anh bước chân ra ngoài là sẽ bị Ander bắn trúng ngay tức khắc, bởi vì Ander đang đứng đối diện với bức bình phong tỏa ra luồng ánh sáng dịu nhẹ; Vân Thiên Phong hễ khẽ nhúc nhích là chiếc bóng in trên nền bình phong sẽ hiện lên rõ mồn một không thể rõ hơn."
+    },
+    {
+      "para_id": "c0194p0036",
+      "index": 36,
+      "raw_zh": "安德可謂是得盡了地利。",
+      "translated_vi": "Ander có thể nói là đã chiếm trọn được mọi ưu thế về địa lợi."
+    },
+    {
+      "para_id": "c0194p0037",
+      "index": 37,
+      "raw_zh": "“雲千峰，認輸吧，乖乖的把魔鬼的皮囊給我，我已經看出你所有的弱點，你一路上都在躲避左臂和雙腿，哈哈哈！你的雙腿也是你的弱點，我槍裡的子彈不會再有虛發了。”",
+      "translated_vi": "“Vân Thiên Phong, đầu hàng đi! Ngoan ngoãn dâng lớp da ác ma ra đây! Tao đã nhìn thấu mọi điểm yếu của mày rồi, suốt dọc đường mày luôn ra sức bảo hộ cánh tay trái cùng đôi chân, ha ha ha! Đôi chân của mày cũng chính là điểm yếu chí mạng, những viên đạn trong súng của tao sẽ không bao giờ bắn trượt nữa đâu!”"
+    },
+    {
+      "para_id": "c0194p0038",
+      "index": 38,
+      "raw_zh": "“瑪德！”",
+      "translated_vi": "“Mẹ kiếp!”"
+    },
+    {
+      "para_id": "c0194p0039",
+      "index": 39,
+      "raw_zh": "雲千峰暗暗在心裡罵了一句，思討著如何轉變自己現在的弱勢。",
+      "translated_vi": "Vân Thiên Phong thầm rủa trong bụng một câu, đau đầu toan tính xem làm thế nào để đảo ngược thế yếu ngặt nghèo hiện tại."
+    },
+    {
+      "para_id": "c0194p0040",
+      "index": 40,
+      "raw_zh": "“他知道我有幾顆子彈，我卻不知道他還剩下多少，真的是麻煩！那屏風的光要是能滅掉就好了，大家都是一團漆黑，我反倒有優勢。”",
+      "translated_vi": "“Gã biết rõ mình còn mấy viên đạn, còn mình lại chẳng biết gã còn bao nhiêu, thật là phiền phức! Giá như luồng sáng từ bức bình phong kia tắt ngúm đi thì tốt biết mấy, đôi bên cùng chìm trong màn đêm đen kịt thì mình lại chiếm thế thượng phong.”"
+    },
+    {
+      "para_id": "c0194p0041",
+      "index": 41,
+      "raw_zh": "想到這，他眼睛一亮，心底冷笑道：",
+      "translated_vi": "Nghĩ đến đây, mắt anh chợt sáng bừng lên, trong lòng cười thầm:"
+    },
+    {
+      "para_id": "c0194p0042",
+      "index": 42,
+      "raw_zh": "“過猶不及啊！”",
+      "translated_vi": "“Khéo quá hóa vụng, dục tốc bất đạt mà!”"
+    },
+    {
+      "para_id": "c0194p0043",
+      "index": 43,
+      "raw_zh": "就見他嘴角翹著，露出笑容，大聲道：",
+      "translated_vi": "Khóe môi anh nhếch lên nở một nụ cười rạng rỡ, cất giọng gọi to:"
+    },
+    {
+      "para_id": "c0194p0044",
+      "index": 44,
+      "raw_zh": "“安德，你要對著神發誓，只要我把魔鬼的皮囊給了你，你就不會傷害我，不但不能殺我，更不能對我有絲毫的傷害，你能做到嗎？”",
+      "translated_vi": "“Ander, mày phải thề trước Thần linh rằng, chỉ cần tao giao nộp lớp da ác ma cho mày, mày sẽ không làm tổn hại tới tao, không những không được giết tao mà ngay cả một sợi lông chân cũng không được đụng vào! Mày làm được không?”"
+    },
+    {
+      "para_id": "c0194p0045",
+      "index": 45,
+      "raw_zh": "安德聽到這話，心裡笑開了花：",
+      "translated_vi": "Ander nghe thấy câu này thì trong bụng mở cờ:"
+    },
+    {
+      "para_id": "c0194p0046",
+      "index": 46,
+      "raw_zh": "“傻子啊，我連法緹娜都殺了，還會在乎誓言嗎？”",
+      "translated_vi": "“Đúng là thằng ngu, đến cả Fatina mà tao còn dám khử, thì xá gì dăm ba lời thề thốt hão huyền chứ?”"
+    },
+    {
+      "para_id": "c0194p0047",
+      "index": 47,
+      "raw_zh": "想是這麽想的，但是嘴裡說得可好聽：",
+      "translated_vi": "Trong bụng nghĩ như vậy, nhưng ngoài miệng gã lại dẻo như kẹo:"
+    },
+    {
+      "para_id": "c0194p0048",
+      "index": 48,
+      "raw_zh": "“當然，我現在就可以發誓！你要親眼看著我舉著手發誓嗎？我發誓不會在這個時候開槍的！”",
+      "translated_vi": "“Đương nhiên rồi! Tao có thể thề ngay bây giờ! Mày có muốn tận mắt nhìn tao giơ tay tuyên thề không? Tao thề sẽ không nổ súng vào lúc này đâu!”"
+    },
+    {
+      "para_id": "c0194p0049",
+      "index": 49,
+      "raw_zh": "雲千峰大聲回道：",
+      "translated_vi": "Vân Thiên Phong cao giọng đáp lại:"
+    },
+    {
+      "para_id": "c0194p0050",
+      "index": 50,
+      "raw_zh": "“好，我相信你不會違背對神的誓言，我會探出頭來看你，但不會露出我的弱點。”",
+      "translated_vi": "“Được, tao tin mày sẽ không dám làm trái lời thề trước Thần linh! Tao sẽ thò đầu ra nhìn mày, nhưng tuyệt đối không để lộ điểm yếu đâu đấy!”"
+    },
+    {
+      "para_id": "c0194p0051",
+      "index": 51,
+      "raw_zh": "安德說道：",
+      "translated_vi": "Ander bảo:"
+    },
+    {
+      "para_id": "c0194p0052",
+      "index": 52,
+      "raw_zh": "“沒問題，你現在可以監督我對天發誓了。”",
+      "translated_vi": "“Không thành vấn đề, bây giờ mày có thể giám sát tao chỉ tay lên trời lập thề được rồi.”"
+    },
+    {
+      "para_id": "c0194p0053",
+      "index": 53,
+      "raw_zh": "雲千峰真的把頭探出石柱，看向安德。",
+      "translated_vi": "Vân Thiên Phong quả thực thò đầu ra khỏi cột đá, nhìn về phía Ander."
+    },
+    {
+      "para_id": "c0194p0054",
+      "index": 54,
+      "raw_zh": "安德深知打雲千峰的腦袋毫無意義，於是真的一本正經的舉起單手，看著雲千峰開始發誓。",
+      "translated_vi": "Ander thừa biết bắn vào đầu Vân Thiên Phong chẳng có tác dụng gì, thế nên gã trịnh trọng giơ một bàn tay lên, nhìn Vân Thiên Phong bắt đầu mở miệng thề thốt."
+    },
+    {
+      "para_id": "c0194p0055",
+      "index": 55,
+      "raw_zh": "然而雲千峰很不滿意的喊道：",
+      "translated_vi": "Thế nhưng Vân Thiên Phong tỏ vẻ vô cùng không hài lòng, quát to:"
+    },
+    {
+      "para_id": "c0194p0056",
+      "index": 56,
+      "raw_zh": "“看著我幹什麽？發誓應該目視前方，心中不能有雜念！”",
+      "translated_vi": "“Nhìn tao làm cái gì? Tuyên thề thì phải nhìn thẳng về phía trước, trong lòng không được có tạp niệm!”"
+    },
+    {
+      "para_id": "c0194p0057",
+      "index": 57,
+      "raw_zh": "安德現在處於雲千峰手槍的有效射程之外，他倒是沒有什麽懼怕，當下目視前方舉起單手。",
+      "translated_vi": "Ander lúc này đang đứng ngoài tầm bắn hiệu quả của khẩu súng ngắn trong tay Vân Thiên Phong, gã chẳng có gì phải sợ hãi, bèn đưa mắt nhìn thẳng về phía trước, giơ cao một bàn tay lên."
+    },
+    {
+      "para_id": "c0194p0058",
+      "index": 58,
+      "raw_zh": "雲千峰看到這一幕，藏在身後的手槍，直接向著自己身後開了兩槍。",
+      "translated_vi": "Thấy cảnh tượng này, Vân Thiên Phong liền giấu khẩu súng lục ra sau lưng rồi dứt khoát nã liền hai phát đạn về phía sau lưng mình!"
+    },
+    {
+      "para_id": "c0194p0059",
+      "index": 59,
+      "raw_zh": "他身後七八米處那巨大的玉石屏風一下破碎，嘩啦一聲堆在地上。",
+      "translated_vi": "Tấm bình phong ngọc thạch khổng lồ cách sau lưng anh chừng bảy tám mét vỡ vụn tan tành, đổ sụp rào rào xuống mặt đất."
+    },
+    {
+      "para_id": "c0194p0060",
+      "index": 60,
+      "raw_zh": "神像和蓮花燈的強光直接晃入了目視前方的安德眼中，那一瞬間，他就覺得自己眼前一黑，什麽都看不見了。",
+      "translated_vi": "Luồng ánh sáng chói lòa kinh hồn từ bức tượng thần và ngọn đèn hoa sen không còn vật cản, chiếu thẳng vào đôi mắt đang nhìn chăm chú về phía trước của Ander; trong khoảnh khắc ấy, gã chỉ cảm thấy trước mắt tối sầm lại, mù lòa chẳng còn nhìn thấy bất cứ thứ gì nữa."
+    },
+    {
+      "para_id": "c0194p0061",
+      "index": 61,
+      "raw_zh": "他知道自己上了雲千峰的當，忘記了合適的光下，這裡是自己的地利，但一旦變成強光，這裡就是自己的弱勢。",
+      "translated_vi": "Gã lập tức hiểu ra mình đã trúng phải kế của Vân Thiên Phong, gã đã quên mất rằng dưới ánh sáng vừa phải thì nơi này là địa lợi của gã, nhưng một khi biến thành nguồn sáng cực mạnh thì đây lại là tử huyệt của chính gã."
+    },
+    {
+      "para_id": "c0194p0062",
+      "index": 62,
+      "raw_zh": "雲千峰顯然抓住了這個重點。",
+      "translated_vi": "Vân Thiên Phong rõ ràng đã tóm gọn đúng điểm mấu chốt chí mạng này."
+    },
+    {
+      "para_id": "c0194p0063",
+      "index": 63,
+      "raw_zh": "安德驚得急忙端起步槍，朝著身前左中右三個方向開了三槍，因為他的眼睛還沒有恢復視覺，只能這樣才能保證阻止雲千峰的靠近。",
+      "translated_vi": "Ander kinh hãi vội vàng nâng súng trường lên, bắn xối xả ba phát đạn về ba hướng trái, giữa, phải trước mặt; bởi vì thị lực chưa thể hồi phục, gã chỉ có thể dùng cách này để ngăn cản Vân Thiên Phong áp sát."
+    },
+    {
+      "para_id": "c0194p0064",
+      "index": 64,
+      "raw_zh": "他的戰術是正確的，正在快速靠近的雲千峰，被打向右側那顆子彈射中了左臂。",
+      "translated_vi": "Chiến thuật của gã hoàn toàn chuẩn xác; Vân Thiên Phong lúc này đang lao nhanh tới đã bị phát đạn bắn về mạn phải găm trúng cánh tay trái."
+    },
+    {
+      "para_id": "c0194p0065",
+      "index": 65,
+      "raw_zh": "子彈鑲嵌在他左大臂的骨頭裡，刺痛讓他瞬間冒出一身冷汗。",
+      "translated_vi": "Viên đạn cắm sâu vào xương bắp tay trái, cơn đau buốt thấu tim khiến mồ hôi lạnh của anh túa ra đầm đìa trong nháy mắt."
+    },
+    {
+      "para_id": "c0194p0066",
+      "index": 66,
+      "raw_zh": "整條手臂瞬間脫力，垂吊在身側。",
+      "translated_vi": "Toàn bộ cánh tay lập tức mất hết sức lực, buông thõng vô lực bên sườn."
+    },
+    {
+      "para_id": "c0194p0067",
+      "index": 67,
+      "raw_zh": "安德此時還剩下兩顆子彈，而他也已經恢復了視線。",
+      "translated_vi": "Lúc này Ander còn lại hai viên đạn, và tầm nhìn của gã cũng đã dần hồi phục lại."
+    },
+    {
+      "para_id": "c0194p0068",
+      "index": 68,
+      "raw_zh": "此時雲千峰距離他還有二十米，而他很清楚雲千峰已經沒有了子彈，自己可以好好的瞄準了。",
+      "translated_vi": "Hiện tại Vân Thiên Phong chỉ còn cách gã khoảng hai mươi mét, và gã biết rõ Vân Thiên Phong đã bắn hết sạch đạn, bản thân hoàn toàn có thể từ tốn ngắm bắn thật chuẩn xác."
+    },
+    {
+      "para_id": "c0194p0069",
+      "index": 69,
+      "raw_zh": "安德笑了，瞄準雲千峰的大腿，笑道：",
+      "translated_vi": "Ander nở nụ cười đắc ý, chĩa nòng súng nhắm thẳng vào đùi của Vân Thiên Phong, cười gằn:"
+    },
+    {
+      "para_id": "c0194p0070",
+      "index": 70,
+      "raw_zh": "“你完了，你沒有子彈了！”",
+      "translated_vi": "“Mày tiêu đời rồi, mày hết đạn rồi con ạ!”"
+    },
+    {
+      "para_id": "c0194p0071",
+      "index": 71,
+      "raw_zh": "說著，扣動扳機。",
+      "translated_vi": "Vừa dứt lời, gã siết chặt cò súng."
+    },
+    {
+      "para_id": "c0194p0072",
+      "index": 72,
+      "raw_zh": "幾乎在他扣動扳機的瞬間，雲千峰卻魚躍而起，整個人跳起來，好像飛人的姿勢，以頭肩迎著安德的方向。",
+      "translated_vi": "Gần như cùng lúc gã bóp cò, Vân Thiên Phong lại tung mình bật nhảy vọt lên cao tựa như tư thế người bay, lấy đầu và bả vai hướng thẳng về phía Ander."
+    },
+    {
+      "para_id": "c0194p0073",
+      "index": 73,
+      "raw_zh": "安德第一顆子彈打空了，但是他絲毫不氣餒，因為此時的雲千峰已經無處借力，自己下一槍，就會讓雲千峰徹底失去行動的能力。",
+      "translated_vi": "Phát đạn thứ nhất của Ander bắn trượt, nhưng gã chẳng hề nản lòng, bởi vì lúc này Vân Thiên Phong đang lơ lửng giữa không trung không còn điểm tựa lực, phát đạn kế tiếp của gã nhất định sẽ tước đoạt hoàn toàn khả năng di chuyển của anh."
+    },
+    {
+      "para_id": "c0194p0074",
+      "index": 74,
+      "raw_zh": "然而他沒想到的是，雲千峰在跳起來那一瞬間，把手裡的手槍當暗器扔了出來。",
+      "translated_vi": "Thế nhưng điều gã không thể ngờ tới là ngay khoảnh khắc tung mình bật nhảy, Vân Thiên Phong đã dùng chính khẩu súng ngắn trên tay làm ám khí phóng bạt mạng ra!"
+    },
+    {
+      "para_id": "c0194p0075",
+      "index": 75,
+      "raw_zh": "以雲千峰右臂的力量，要是安德被手槍砸中，最少也是骨斷筋折。",
+      "translated_vi": "Với sức mạnh khủng khiếp nơi cánh tay phải của Vân Thiên Phong, nếu Ander bị khẩu súng này nện trúng thì nhẹ nhất cũng phải gãy xương đứt gân."
+    },
+    {
+      "para_id": "c0194p0076",
+      "index": 76,
+      "raw_zh": "安德不敢大意，急忙揮動左手，擋住了砸向面門的手槍。",
+      "translated_vi": "Ander không dám khinh suất, vội vàng vung tay trái lên đỡ lấy khẩu súng đang bay vút vào mặt mình."
+    },
+    {
+      "para_id": "c0194p0077",
+      "index": 77,
+      "raw_zh": "強大的左臂擋住了手槍，他知道，雲千峰所有的招式都用完了，現在就等著自己射出最後一顆子彈。",
+      "translated_vi": "Cánh tay trái đầy uy lực đã cản phá được khẩu súng, gã biết mọi ngón đòn của Vân Thiên Phong đã cạn kiệt, giờ đây chỉ còn chờ gã bắn nốt viên đạn cuối cùng để kết liễu cuộc chơi."
+    },
+    {
+      "para_id": "c0194p0078",
+      "index": 78,
+      "raw_zh": "然而，還沒等他重新用左手托住步槍，他就感覺什麽東西鑽進了自己的胸口，有些冰涼。",
+      "translated_vi": "Thế nhưng chưa kịp dùng tay trái nâng lại nòng súng trường, gã chợt cảm thấy có thứ gì đó đâm sâu vào lồng ngực mình, mang theo một luồng buốt lạnh thấu xương."
+    },
+    {
+      "para_id": "c0194p0079",
+      "index": 79,
+      "raw_zh": "隨後，刺痛瞬間布滿他的全身，力量仿佛在那一瞬間被抽空，安德垂下了手臂和頭顱。",
+      "translated_vi": "Ngay sau đó, cơn đau xé ruột xé gan lập tức lan tỏa khắp cơ thể gã, toàn bộ sức lực dường như bị rút cạn trong khoảnh khắc; Ander rũ rượi buông thõng hai cánh tay và cúi gục đầu xuống."
+    },
+    {
+      "para_id": "c0194p0080",
+      "index": 80,
+      "raw_zh": "他看到一把爪刀以一個奇怪的角度扎進了自己的心臟下緣。",
+      "translated_vi": "Gã nhìn thấy một lưỡi dao vuốt quặp bằng một góc độ quái dị đang cắm sâu vào mép dưới trái tim mình."
+    },
+    {
+      "para_id": "c0194p0081",
+      "index": 81,
+      "raw_zh": "彌留之際，他看到了雲千峰的雙腿來到自己面前，還有他左臂滴落在地上的鮮血。",
+      "translated_vi": "Trong cơn hấp hối cuối cùng, gã nhìn thấy đôi chân của Vân Thiên Phong bước tới trước mặt mình, cùng với những giọt máu tươi từ cánh tay trái của anh đang tí tách rơi xuống đất."
+    },
+    {
+      "para_id": "c0194p0082",
+      "index": 82,
+      "raw_zh": "隨後他感覺到自己的下巴被一隻手抬了起來。",
+      "translated_vi": "Tiếp đó, gã cảm nhận được cằm mình bị một bàn tay nâng bổng lên."
+    },
+    {
+      "para_id": "c0194p0083",
+      "index": 83,
+      "raw_zh": "這讓他在死前看到了雲千峰那張得意的笑臉。",
+      "translated_vi": "Điều này giúp gã trước lúc lâm chung nhìn thấy trọn vẹn nụ cười đắc chí trên gương mặt Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0194p0084",
+      "index": 84,
+      "raw_zh": "也聽到了他這一生結束前，雲千峰對他最後的評語：",
+      "translated_vi": "Đồng thời cũng lắng nghe lời bình phẩm cuối cùng mà Vân Thiên Phong dành cho gã trước khi kết thúc cuộc đời:"
+    },
+    {
+      "para_id": "c0194p0085",
+      "index": 85,
+      "raw_zh": "“傻叉！”",
+      "translated_vi": "“Đồ ngu!”"
+    },
+    {
+      "para_id": "c0194p0086",
+      "index": 86,
+      "raw_zh": "安德這個時候，腦子裡只剩下一個疑惑：",
+      "translated_vi": "Vào giây phút này, trong đầu óc của Ander chỉ còn lại một điều hoang mang duy nhất:"
+    },
+    {
+      "para_id": "c0194p0087",
+      "index": 87,
+      "raw_zh": "“傻叉？傻叉是什麽意思？那是什麽意思？”",
+      "translated_vi": "“Đồ ngu? Đồ ngu có nghĩa là gì? Rốt cuộc từ đó có ý nghĩa gì chứ?”"
+    },
+    {
+      "para_id": "c0194p0088",
+      "index": 88,
+      "raw_zh": "他顫抖著嘴唇，卻無法提出疑問，在不解的遺憾之中結束了一切。",
+      "translated_vi": "Đôi môi gã run rẩy nhưng chẳng thể nào thốt ra câu hỏi được nữa, đành mang theo niềm tiếc nuối không lời đáp mà kết thúc tất cả."
+    },
+    {
+      "para_id": "c0194p0089",
+      "index": 89,
+      "raw_zh": "雲千峰用右手抓住安德的左臂，使勁一扭，就把他整個手臂拽斷下來，連著一塊肩膀。",
+      "translated_vi": "Vân Thiên Phong dùng tay phải tóm chặt lấy cánh tay trái của Ander, dùng sức vặn mạnh một cái, liền bẻ gãy lìa toàn bộ cánh tay của gã ra, kéo theo cả một mảng bả vai máu me đầm đìa."
+    },
+    {
+      "para_id": "c0194p0090",
+      "index": 90,
+      "raw_zh": "此刻，那所謂魔鬼的皮囊，在離開了生命體後，露出了真容，帶著一層青黑色鱗片的左臂。",
+      "translated_vi": "Giờ phút này, cái gọi là lớp da của ác ma sau khi rời khỏi cơ thể sống liền lộ ra diện mạo chân thực: một cánh tay trái phủ kín lớp vảy màu xanh đen lấp lánh."
+    },
+    {
+      "para_id": "c0194p0091",
+      "index": 91,
+      "raw_zh": "雲千峰抖掉了裡麵包裹著的安德的手臂，撕掉了自己的衣服袖子，把這魔鬼的皮囊包裹在自己的左臂上。",
+      "translated_vi": "Vân Thiên Phong rũ bỏ phần thịt tay của Ander bọc bên trong ra, xé toạc ống tay áo rách của mình rồi đem lớp da ác ma này bọc chặt vào cánh tay trái của bản thân."
+    },
+    {
+      "para_id": "c0194p0092",
+      "index": 92,
+      "raw_zh": "他覺得，這東西最起碼能起到止血的效果，因為他現在的傷勢可是不輕。",
+      "translated_vi": "Anh nghĩ bụng thứ này ít nhất cũng có thể mang lại hiệu quả cầm máu, bởi vì thương thế lúc này của anh không hề nhẹ chút nào."
+    },
+    {
+      "para_id": "c0194p0093",
+      "index": 93,
+      "raw_zh": "然而讓他意外的是，這左臂的皮囊包裹了自己的左臂之後，傷口處的皮囊開始快速蠕動，那原本一張皮，在傷口的位置竟然好像變成了某種粉末，比飛蛾翅膀上的塵還要細小。",
+      "translated_vi": "Thế nhưng điều khiến anh vô cùng bất ngờ là sau khi lớp da tay trái bọc lấy cánh tay anh, phần da tại vị trí vết thương liền bắt đầu ngọ nguậy co giật dữ dội; lớp da vốn dĩ nguyên vẹn kia tại miệng vết thương bỗng chốc hóa thành một thứ bột mịn li ti, còn nhỏ bé hơn cả những hạt bụi phấn trên cánh loài bướm đêm."
+    },
+    {
+      "para_id": "c0194p0094",
+      "index": 94,
+      "raw_zh": "那些塵蠕動著，鑽進了雲千峰左大臂的傷口，甚至能感覺到那些塵在傷口內遊動。",
+      "translated_vi": "Những hạt bụi phấn ấy cựa quậy bò trườn, chui tọt vào bên trong vết thương nơi bắp tay trái của Vân Thiên Phong, thậm chí anh còn có thể cảm nhận rõ ràng những hạt bụi đó đang bơi lội len lỏi bên trong miệng vết thương."
+    },
+    {
+      "para_id": "c0194p0095",
+      "index": 95,
+      "raw_zh": "很快，子彈就那麽自己冒了出來，傷口也在肉眼可見的愈合，就好像那些塵變成了雲千峰機體的組成部分，快速的修複了一切。",
+      "translated_vi": "Rất nhanh chóng, đầu đạn cứ thế tự động bị đẩy trồi ra ngoài, miệng vết thương cũng khép miệng lành lặn lại với tốc độ mắt thường có thể nhìn thấy, tựa như những hạt bụi phấn kia đã hòa thành một bộ phận cấu thành nên cơ thể của Vân Thiên Phong, nhanh chóng tu bổ phục hồi mọi thương tổn."
+    },
+    {
+      "para_id": "c0194p0096",
+      "index": 96,
+      "raw_zh": "“蚩尤甲這是這就是魔鬼的皮囊，祂是活的！是生命體！”",
+      "translated_vi": "“Xi Vưu Giáp... Đây là... Đây chính là lớp da của ác ma, nó là vật sống! Là một sinh mệnh thể!”"
+    },
+    {
+      "para_id": "c0194p0097",
+      "index": 97,
+      "raw_zh": "傷口的愈合，沒有帶給雲千峰喜悅，只有深深的恐懼。",
+      "translated_vi": "Sự lành lặn của vết thương chẳng hề đem lại cho Vân Thiên Phong niềm vui mừng, mà chỉ gieo vào lòng anh một nỗi sợ hãi tột cùng sâu sắc."
+    },
+    {
+      "para_id": "c0194p0098",
+      "index": 98,
+      "raw_zh": "之前，他把蚩尤甲的保護反應想當然的認定為神器。",
+      "translated_vi": "Trước kia, anh vẫn đương nhiên coi những phản ứng bảo vệ của Xi Vưu Giáp là công năng của một món thần khí."
+    },
+    {
+      "para_id": "c0194p0099",
+      "index": 99,
+      "raw_zh": "他現在才知道，這是多麽幼稚的認知。",
+      "translated_vi": "Giờ đây anh mới thấu tỏ nhận thức đó ngây thơ và nực cười biết bao."
+    },
+    {
+      "para_id": "c0194p0100",
+      "index": 100,
+      "raw_zh": "“根本不是什麽神器，祂是活物，是個生命體！蚩尤蚩尤，寄生，寄生！”",
+      "translated_vi": "“Căn bản chẳng phải thần khí gì cả, nó là một sinh vật sống, là một sinh mệnh thể! Xi Vưu... Xi Vưu... Ký sinh, ký sinh!”"
+    },
+    {
+      "para_id": "c0194p0101",
+      "index": 101,
+      "raw_zh": "雲千峰明白了一個讓他顫栗的事實。",
+      "translated_vi": "Vân Thiên Phong chợt hiểu ra một sự thật khiến anh phải rùng mình run rẩy."
+    },
+    {
+      "para_id": "c0194p0102",
+      "index": 102,
+      "raw_zh": "“地底岩畫上的那女人不是蚩尤，這身活著的皮囊才是.”",
+      "translated_vi": "“Người phụ nữ trên bức tranh khắc đá dưới lòng đất không phải là Xi Vưu, mà chính lớp da đang sống sờ sờ này mới thực sự là...”"
+    }
+  ]
+}

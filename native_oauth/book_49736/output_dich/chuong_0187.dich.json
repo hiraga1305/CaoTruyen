@@ -1,0 +1,517 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 187,
+  "title": "Chương 187: Không Thể Giải Thích",
+  "total_paragraphs": 84,
+  "translated_paragraphs": 84,
+  "source_hash": "7ba8ab3a0e6b795cf62dddfddd8f36b5acd3f3d4ef76c1c11eba61b854247796",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0187p0001",
+      "index": 1,
+      "raw_zh": "第187章 無法解釋",
+      "translated_vi": "Chương 187: Không Thể Giải Thích"
+    },
+    {
+      "para_id": "c0187p0002",
+      "index": 2,
+      "raw_zh": "雲千峰站在高大的石頭上，很快找到了之前遇到那些半截枯骨的位置。",
+      "translated_vi": "Vân Thiên Phong đứng trên một tảng đá cao lớn, nhanh chóng tìm thấy vị trí từng bắt gặp những khúc hài cốt khô cắm nửa thân trước đó."
+    },
+    {
+      "para_id": "c0187p0003",
+      "index": 3,
+      "raw_zh": "那裡有兩塊緊挨著的巨大石頭，形狀非常怪異，一眼就能找到。",
+      "translated_vi": "Nơi đó có hai khối cự thạch nằm san sát nhau với hình thù vô cùng kỳ dị, chỉ liếc mắt một cái là nhận ra ngay."
+    },
+    {
+      "para_id": "c0187p0004",
+      "index": 4,
+      "raw_zh": "雲千峰確定了一下方向，爬下石頭來快步趕回去。",
+      "translated_vi": "Vân Thiên Phong xác định lại phương hướng, trèo xuống tảng đá rồi rảo bước chạy vội trở về."
+    },
+    {
+      "para_id": "c0187p0005",
+      "index": 5,
+      "raw_zh": "這一路上，他又看到了不少那種半截栽在地上的枯骨，只是現在他已經不覺得奇異了。",
+      "translated_vi": "Dọc đường đi, anh lại trông thấy không ít những bộ xương khô cắm nửa người xuống mặt đất như thế, chỉ là giờ đây anh chẳng còn cảm thấy kỳ quái nữa."
+    },
+    {
+      "para_id": "c0187p0006",
+      "index": 6,
+      "raw_zh": "這些枯骨，都是被那種蜥蜴人般的怪物殺死。",
+      "translated_vi": "Những khúc xương khô này đều do loài quái vật dạng người thằn lằn kia sát hại."
+    },
+    {
+      "para_id": "c0187p0007",
+      "index": 7,
+      "raw_zh": "那些怪物把人半截拽到一米多深的地方，然後吃掉下半截。",
+      "translated_vi": "Bọn quái vật lôi nửa thân người xuống độ sâu hơn một mét, rồi gặm nhấm ăn sạch nửa thân dưới."
+    },
+    {
+      "para_id": "c0187p0008",
+      "index": 8,
+      "raw_zh": "因為害怕光，所以它們不會去嘗試吃掉上面的部分，而是留他們堵在那裡，不讓一絲光透入，而在外面看起來，那些人就好像站著死亡一般。",
+      "translated_vi": "Bởi vì sợ ánh sáng, chúng không bao giờ mạo hiểm trồi lên ăn nốt phần thân trên, mà để mặc xác họ chèn cứng ở miệng hố hòng ngăn chặn ánh sáng lọt vào. Nhìn từ bên ngoài, trông những nạn nhân ấy chẳng khác nào đang đứng chết sững giữa sa mạc."
+    },
+    {
+      "para_id": "c0187p0009",
+      "index": 9,
+      "raw_zh": "回到了他被拽入地下的位置。",
+      "translated_vi": "Khi quay trở lại vị trí mình bị lôi xuống lòng đất."
+    },
+    {
+      "para_id": "c0187p0010",
+      "index": 10,
+      "raw_zh": "雲千峰沒有看到法緹娜和安德，只在地上看到了一些血痕。",
+      "translated_vi": "Vân Thiên Phong không thấy bóng dáng của Fatina và Ander đâu cả, trên mặt đất chỉ còn vương vãi vài vệt máu loang lổ."
+    },
+    {
+      "para_id": "c0187p0011",
+      "index": 11,
+      "raw_zh": "而那些血痕都遺留在一個拖拽的痕跡上。",
+      "translated_vi": "Mà những vệt máu ấy đều đọng lại men theo một vệt kéo lê dài ngoằng."
+    },
+    {
+      "para_id": "c0187p0012",
+      "index": 12,
+      "raw_zh": "“她們拖著安德去了哪裡？”",
+      "translated_vi": "\"Bọn họ kéo lê Ander đi đâu rồi?\""
+    },
+    {
+      "para_id": "c0187p0013",
+      "index": 13,
+      "raw_zh": "雲千峰跟著拖拽的痕跡快步追上去，幾十米後，拖拽的痕跡消失，而在他眼前，有一個高不到一米的石頭平台。",
+      "translated_vi": "Vân Thiên Phong bám theo vết kéo lê rảo bước đuổi theo, đi chừng vài chục mét thì dấu vết kéo lê biến mất, hiện ra trước mắt anh là một bệ đá cao chưa đầy một mét."
+    },
+    {
+      "para_id": "c0187p0014",
+      "index": 14,
+      "raw_zh": "這石台大小如床鋪，形狀不規則，但是頂上很平坦，應該是天然形成。",
+      "translated_vi": "Bệ đá này rộng cỡ một chiếc giường nằm, hình thù không theo quy tắc nào nhưng bề mặt bên trên rất bằng phẳng, hẳn là do tự nhiên tạo thành."
+    },
+    {
+      "para_id": "c0187p0015",
+      "index": 15,
+      "raw_zh": "而在這裡，雲千峰沒有看到法緹娜和安德，只看到阿菲法安靜的躺在石台上一動不動。",
+      "translated_vi": "Tại đây, Vân Thiên Phong chẳng thấy Fatina lẫn Ander đâu, chỉ thấy Afifa đang nằm im lìm bất động trên bệ đá."
+    },
+    {
+      "para_id": "c0187p0016",
+      "index": 16,
+      "raw_zh": "若不是那長袍內，那高且茁壯的倆巨筍隨著呼吸上下輕動，雲千峰都以為她已經死了。",
+      "translated_vi": "Nếu không nhờ lớp áo choàng dài đang khẽ phập phồng lên xuống theo nhịp thở của đôi gò bồng đảo đẫy đà cao vút, Vân Thiên Phong hẳn đã ngỡ rằng cô đã chết rồi."
+    },
+    {
+      "para_id": "c0187p0017",
+      "index": 17,
+      "raw_zh": "那原本水嫩的皮膚變得青白，毫無血色。",
+      "translated_vi": "Làn da vốn mịn màng mọng nước của cô giờ đây chuyển sang màu xanh xao trắng bệch, không còn một giọt máu."
+    },
+    {
+      "para_id": "c0187p0018",
+      "index": 18,
+      "raw_zh": "波斯女人特有的立體臉頰，因為兩腮凹陷，而看起來像是黑白的剪影畫。",
+      "translated_vi": "Gương mặt góc cạnh đặc trưng của phụ nữ Ba Tư nay vì hai bên má hóp lại mà trông như một bức tranh cắt giấy hai màu đen trắng."
+    },
+    {
+      "para_id": "c0187p0019",
+      "index": 19,
+      "raw_zh": "“阿菲法！”",
+      "translated_vi": "\"Afifa!\""
+    },
+    {
+      "para_id": "c0187p0020",
+      "index": 20,
+      "raw_zh": "雲千峰叫著她的名字，跳上了石台。",
+      "translated_vi": "Vân Thiên Phong vừa gọi tên cô vừa nhảy tót lên bệ đá."
+    },
+    {
+      "para_id": "c0187p0021",
+      "index": 21,
+      "raw_zh": "很顯然阿菲法並不是沒有意識，因為伴隨著雲千峰的呼喊，她那極長的睫毛顫抖了幾下，但是卻沒能睜開眼睛。",
+      "translated_vi": "Rõ ràng Afifa không phải hoàn toàn mất đi tri giác, bởi theo tiếng gọi của Vân Thiên Phong, hàng mi dài cong vút của cô khẽ run rẩy mấy hồi, nhưng vẫn không tài nào mở mắt ra nổi."
+    },
+    {
+      "para_id": "c0187p0022",
+      "index": 22,
+      "raw_zh": "雲千峰急忙捉住阿菲法的手腕，三指搭上她的脈搏，微閉眼睛感受脈搏的跳動。",
+      "translated_vi": "Vân Thiên Phong vội vàng nắm lấy cổ tay Afifa, đặt ba ngón tay lên mạch đập, khép hờ mắt cảm nhận nhịp đập của mạch tượng."
+    },
+    {
+      "para_id": "c0187p0023",
+      "index": 23,
+      "raw_zh": "“脈搏跳動的太快了！”",
+      "translated_vi": "\"Mạch đập quá nhanh!\""
+    },
+    {
+      "para_id": "c0187p0024",
+      "index": 24,
+      "raw_zh": "一般情況下，一個原本健康的人脈搏跳動太快，主要是因為緊張和害怕，再有一種情況就是皮膚有大量液體滲出，虛脫或者脫水的時候，也會脈搏急速跳動。",
+      "translated_vi": "Thông thường, một người vốn khỏe mạnh mà mạch đập quá nhanh chủ yếu là do căng thẳng và sợ hãi; ngoài ra còn một trường hợp nữa là khi bề mặt da tiết ra một lượng lớn dịch thể, rơi vào trạng thái suy kiệt hoặc mất nước trầm trọng, mạch tượng cũng sẽ đập dồn dập như vậy."
+    },
+    {
+      "para_id": "c0187p0025",
+      "index": 25,
+      "raw_zh": "“法緹娜？安德！”",
+      "translated_vi": "\"Fatina? Ander!\""
+    },
+    {
+      "para_id": "c0187p0026",
+      "index": 26,
+      "raw_zh": "雲千峰喊了幾聲，不見倆人回應，加之石台下的沙土上，有著一串很淺很淺的腳印走向遠方深處，看方向正是走向這石陣的中心位置。",
+      "translated_vi": "Vân Thiên Phong cất giọng gọi mấy tiếng nhưng chẳng có ai đáp lại. Thêm vào đó, trên nền cát dưới chân bệ đá có một chuỗi dấu chân rất mờ in sâu dần về phía xa, nhìn hướng đi thì đúng là đang nhắm thẳng vào vị trí trung tâm của thạch trận."
+    },
+    {
+      "para_id": "c0187p0027",
+      "index": 27,
+      "raw_zh": "“法緹娜自己去了石陣中心處？她一定是以為我已經死了，可是安德呢？安德的腿受了傷，應該無法趕路才對。”",
+      "translated_vi": "\"Fatina một mình đi vào trung tâm thạch trận ư? Chắc chắn cô ấy nghĩ rằng mình đã chết. Nhưng còn Ander thì sao? Chân của Ander bị thương, theo lý thì không thể nào tự đi đường được mới phải.\""
+    },
+    {
+      "para_id": "c0187p0028",
+      "index": 28,
+      "raw_zh": "雲千峰腦子有點懵，有點搞不清楚這裡到底發生了什麽。",
+      "translated_vi": "Đầu óc Vân Thiên Phong có phần quay cuồng, không tài nào hiểu nổi rốt cuộc nơi này đã xảy ra chuyện quái quỷ gì."
+    },
+    {
+      "para_id": "c0187p0029",
+      "index": 29,
+      "raw_zh": "沒有了腳步聲回蕩，雲千峰此刻的腦子很清醒理智。",
+      "translated_vi": "Khi không còn những tiếng bước chân vang vọng bên tai, đầu óc Vân Thiên Phong lúc này đã hoàn toàn tỉnh táo và lý trí trở lại."
+    },
+    {
+      "para_id": "c0187p0030",
+      "index": 30,
+      "raw_zh": "他知道暫時不能想那麽多，而是應該先搞清楚阿菲法傷到了哪裡，先顧眼前。",
+      "translated_vi": "Anh hiểu rằng tạm thời chưa thể nghĩ ngợi quá nhiều, mà trước hết phải nắm rõ Afifa bị thương ở chỗ nào để xử lý việc trước mắt."
+    },
+    {
+      "para_id": "c0187p0031",
+      "index": 31,
+      "raw_zh": "雲千峰小心翼翼的解開阿菲法的長袍，生怕自己不小心觸碰到可能存在的傷口，造成二次傷害。",
+      "translated_vi": "Vân Thiên Phong cẩn thận từng li từng tí cởi áo choàng của Afifa ra, chỉ sợ bản thân lơ đãng chạm phải vết thương nào đó gây tổn thương thứ phát cho cô."
+    },
+    {
+      "para_id": "c0187p0032",
+      "index": 32,
+      "raw_zh": "巨筍顫抖著，很顯然阿菲法知道雲千峰在對她做什麽，禁不住的緊張，但卻沒有能力醒過來。",
+      "translated_vi": "Đôi gò bồng đảo khẽ run rẩy, rõ ràng Afifa biết Vân Thiên Phong đang làm gì với mình nên không kìm được căng thẳng, nhưng cô lại chẳng có đủ sức lực để tỉnh lại."
+    },
+    {
+      "para_id": "c0187p0033",
+      "index": 33,
+      "raw_zh": "雲千峰扶起阿菲法的軀乾，確定她上身沒有傷痕，也沒有出汗。",
+      "translated_vi": "Vân Thiên Phong đỡ phần thân trên của Afifa dậy, kiểm tra chắc chắn phần thân trên của cô không hề có vết thương tích nào, cũng chẳng hề vã mồ hôi."
+    },
+    {
+      "para_id": "c0187p0034",
+      "index": 34,
+      "raw_zh": "這基本上可以排除脫水的可能性。",
+      "translated_vi": "Điều này về cơ bản đã có thể loại trừ khả năng mất nước."
+    },
+    {
+      "para_id": "c0187p0035",
+      "index": 35,
+      "raw_zh": "忙幫她把長袍系好，然後去到長袍下面，掀開長袍。",
+      "translated_vi": "Anh vội vã thắt lại áo choàng cho cô, sau đó lần xuống phía dưới vén vạt áo lên."
+    },
+    {
+      "para_id": "c0187p0036",
+      "index": 36,
+      "raw_zh": "阿菲法生活的地方，長袍下一般是包著一塊布，大多是黑白格子的，其他什麽都沒有。",
+      "translated_vi": "Ở nơi Afifa sinh sống, bên dưới lớp áo choàng người ta thường chỉ quấn một tấm vải, phần lớn là vải kẻ ca-rô đen trắng, ngoài ra bên trong chẳng mặc thêm thứ gì khác."
+    },
+    {
+      "para_id": "c0187p0037",
+      "index": 37,
+      "raw_zh": "但是為了這次遠行探險，阿菲法穿了寬松的白色長褲，這可以最大限度的阻擋沙漠上那些砂礫反射陽光到臀腿上。",
+      "translated_vi": "Thế nhưng vì chuyến thám hiểm đường dài lần này, Afifa đã mặc một chiếc quần dài màu trắng ống rộng, như vậy có thể hạn chế tối đa việc cát sỏi sa mạc phản xạ ánh nắng hắt vào vùng mông và đùi."
+    },
+    {
+      "para_id": "c0187p0038",
+      "index": 38,
+      "raw_zh": "曬黑不曬黑的是小事，人家本身就白的透亮，主要是怕曬傷。",
+      "translated_vi": "Chuyện bị đen da hay không chỉ là chuyện nhỏ, bản thân cô nàng vốn dĩ đã trắng bóc nõn nà, quan trọng nhất vẫn là sợ bỏng nắng."
+    },
+    {
+      "para_id": "c0187p0039",
+      "index": 39,
+      "raw_zh": "沙漠反射的陽光是不可小覷的，晃瞎人的眼睛都是發生過的。",
+      "translated_vi": "Ánh nắng phản chiếu từ sa mạc không thể xem thường, chuyện làm mù mắt người ta cũng từng xảy ra không ít."
+    },
+    {
+      "para_id": "c0187p0040",
+      "index": 40,
+      "raw_zh": "雲千峰小心的褪掉那帶著寬松緊帶的白色長褲，阿菲法果然很傳統，裡面啥都沒有。",
+      "translated_vi": "Vân Thiên Phong cẩn thận tụt chiếc quần dài màu trắng cạp chun co giãn xuống, Afifa quả nhiên rất truyền thống, bên trong chẳng mặc thêm đồ lót nào."
+    },
+    {
+      "para_id": "c0187p0041",
+      "index": 41,
+      "raw_zh": "腰部到膝蓋沒有絲毫傷痕，也不見汗漬。",
+      "translated_vi": "Từ thắt lưng cho đến đầu gối không có lấy một vết thương tích, cũng không thấy vệt mồ hôi."
+    },
+    {
+      "para_id": "c0187p0042",
+      "index": 42,
+      "raw_zh": "然而當長褲褪到小腿時，阿菲法的身體不由自主的顫抖了一下，雲千峰確定，傷口就在小腿上。",
+      "translated_vi": "Tuy nhiên, khi chiếc quần được kéo tụt đến bắp chân thì thân thể Afifa bất giác run rẩy dữ dội, Vân Thiên Phong khẳng định chắc chắn rằng vết thương nằm ở cẳng chân."
+    },
+    {
+      "para_id": "c0187p0043",
+      "index": 43,
+      "raw_zh": "他不敢這樣繼續褪下去，怕二次破壞傷口，於是抽出腰間的爪刀，反手拿著，小心翼翼的割開褲子與皮膚不挨著的位置，露出了兩條小腿。",
+      "translated_vi": "Anh không dám tiếp tục kéo tụt xuống như thế vì sợ làm rách toạc vết thương, bèn rút chiếc vuốt đao dắt bên hông ra, cầm ngược lưỡi dao, tỉ mỉ rạch lớp vải quần ở những chỗ không chạm sát vào da thịt, làm lộ ra hai cẳng chân."
+    },
+    {
+      "para_id": "c0187p0044",
+      "index": 44,
+      "raw_zh": "那慘狀讓雲千峰不忍直視。",
+      "translated_vi": "Thảm cảnh trước mắt khiến Vân Thiên Phong không nỡ nhìn thẳng."
+    },
+    {
+      "para_id": "c0187p0045",
+      "index": 45,
+      "raw_zh": "阿菲法的右側小腿，從中間開始，一直到腳踝，幾乎沒有了皮膚，露出了紅色的肌理，上面滲出著粘液。",
+      "translated_vi": "Cẳng chân bên phải của Afifa từ đoạn giữa kéo dài cho tới tận mắt cá chân gần như đã bong tróc sạch lớp da ngoài, để lộ ra những thớ thịt đỏ hỏn, bên trên rỉ ra từng mảng chất nhầy dính nhớp."
+    },
+    {
+      "para_id": "c0187p0046",
+      "index": 46,
+      "raw_zh": "而在小腿的中間位置，有著明顯的幾個點狀傷痕。",
+      "translated_vi": "Ở vị trí chính giữa bắp chân xuất hiện rõ mấy vết thương dạng lỗ chấm li ti."
+    },
+    {
+      "para_id": "c0187p0047",
+      "index": 47,
+      "raw_zh": "應該是被尖牙所傷，傷口雖小，但是很深。",
+      "translated_vi": "Hẳn là bị răng nanh sắc nhọn cắn thủng, vết thương tuy nhỏ nhưng rất sâu."
+    },
+    {
+      "para_id": "c0187p0048",
+      "index": 48,
+      "raw_zh": "雲千峰用手測量了一下傷口上下的寬度，再回想自己手臂在那蜥蜴人般怪物嘴裡時的觸感，確定阿菲法這條右小腿，是被那種怪物橫著咬了一口。",
+      "translated_vi": "Vân Thiên Phong dùng tay ước lượng bề rộng trên dưới của vết cắn, rồi hồi tưởng lại cảm giác lúc cánh tay mình nằm trong mồm con quái vật người thằn lằn, khẳng định cẳng chân phải này của Afifa đã bị thứ quái vật đó ngoạm ngang một cú."
+    },
+    {
+      "para_id": "c0187p0049",
+      "index": 49,
+      "raw_zh": "“為什麽傷口周圍的皮膚全都不見了？這看起來很像是燒傷！”",
+      "translated_vi": "\"Tại sao vùng da xung quanh miệng vết thương lại biến mất hoàn toàn thế này? Nhìn thế này rất giống như bị bỏng rát!\""
+    },
+    {
+      "para_id": "c0187p0050",
+      "index": 50,
+      "raw_zh": "“是了，怪不得那怪物怕光！到了地表上就冒白煙皮膚迅速白化，一定是那怪物的體液裡含有大量的氯元素一樣的東西，遇到光那富含氯元素的體液就會在內部形成鹽酸，漂白燒傷它自己。",
+      "translated_vi": "\"Phải rồi, hèn chi con quái vật đó lại sợ ánh sáng đến thế! Vừa lên tới mặt đất là bốc khói trắng và da dẻ nhanh chóng chuyển màu trắng bệch, chắc chắn là dịch cơ thể của nó chứa hàm lượng lớn chất tựa như nguyên tố clo. Khi tiếp xúc với ánh sáng, chất dịch giàu clo ấy sẽ lập tức phản ứng sinh ra axit clohidric, tự tẩy trắng và thiêu bỏng chính cơ thể nó."
+    },
+    {
+      "para_id": "c0187p0051",
+      "index": 51,
+      "raw_zh": "阿菲法的小腿被那東西含在嘴裡，肯定沾了不少唾液，此時見光，也會形成一層鹽酸，所以造成了這樣的燒傷！”",
+      "translated_vi": "Bắp chân của Afifa từng bị ngậm trong mồm thứ đó, chắc chắn đã dính không ít nước bọt của nó. Khi ra ngoài gặp ánh sáng, nước bọt cũng hình thành một lớp axit clohidric, thế nên mới tạo thành vết bỏng hóa chất nghiêm trọng thế này!\""
+    },
+    {
+      "para_id": "c0187p0052",
+      "index": 52,
+      "raw_zh": "雲千峰唯一不確定的就是，那怪物體內是不是氯元素，也可能是其它容易在光下形成酸鹼變化的物質。",
+      "translated_vi": "Vân Thiên Phong điều duy nhất chưa chắc chắn là liệu trong cơ thể con quái vật có thực sự chứa nguyên tố clo hay không, cũng có thể là một loại vật chất khác dễ xảy ra biến đổi axit-bazơ dưới tác động của ánh sáng."
+    },
+    {
+      "para_id": "c0187p0053",
+      "index": 53,
+      "raw_zh": "但毫無疑問，阿菲法這條腿最主要的問題，不是那尖牙造成的傷口，而是燒傷。",
+      "translated_vi": "Nhưng không còn nghi ngờ gì nữa, vấn đề nghiêm trọng nhất trên đôi chân của Afifa lúc này không phải là vết răng nanh đâm thủng, mà chính là vết bỏng."
+    },
+    {
+      "para_id": "c0187p0054",
+      "index": 54,
+      "raw_zh": "雲千峰小心的脫掉阿菲法的鞋子，看到右腳基本完好無損，心下安慰不少。",
+      "translated_vi": "Vân Thiên Phong cẩn thận cởi giày của Afifa ra, thấy bàn chân phải về cơ bản vẫn lành lặn nguyên vẹn, trong lòng bất giác thấy an ủi đôi phần."
+    },
+    {
+      "para_id": "c0187p0055",
+      "index": 55,
+      "raw_zh": "大面積燒傷最怕沒一頭，因為兩側有完好皮膚的話，處理得當恢復速度會比較快。",
+      "translated_vi": "Bỏng diện tích lớn kiêng kỵ nhất là không còn phần da lành để nối liền, bởi nếu hai đầu vẫn còn giữ được mảng da nguyên vẹn thì khi xử lý đúng cách tốc độ hồi phục sẽ tương đối nhanh chóng."
+    },
+    {
+      "para_id": "c0187p0056",
+      "index": 56,
+      "raw_zh": "如果另一頭沒有完好的皮膚，無論怎麽處理，都會恢復的異常緩慢，甚至必須植皮。",
+      "translated_vi": "Nếu đầu kia cũng không còn da lành, bất kể xử lý ra sao thì vết thương cũng sẽ hồi phục vô cùng chậm chạp, thậm chí bắt buộc phải ghép da."
+    },
+    {
+      "para_id": "c0187p0057",
+      "index": 57,
+      "raw_zh": "雲千峰把阿菲法的褲子和鞋子全都脫掉，團成一個包，當成枕頭放在阿菲法的枕骨下。",
+      "translated_vi": "Vân Thiên Phong cởi sạch quần và giày của Afifa ra, cuộn tròn lại thành một bọc rồi kê xuống dưới gáy làm gối đầu cho cô."
+    },
+    {
+      "para_id": "c0187p0058",
+      "index": 58,
+      "raw_zh": "然後憑借記憶，快速的來到了一塊並不大的石頭前面。",
+      "translated_vi": "Kế đó anh lần theo trí nhớ, nhanh chân đi tới trước một tảng đá không quá lớn."
+    },
+    {
+      "para_id": "c0187p0059",
+      "index": 59,
+      "raw_zh": "這是一塊結晶方解石，瑩白，內裡透著淡粉色顆粒。",
+      "translated_vi": "Đây là một khối tinh thể đá canxit lấp lánh sắc trắng ngà, bên trong ánh lên những hạt khoáng sắc hồng nhạt."
+    },
+    {
+      "para_id": "c0187p0060",
+      "index": 60,
+      "raw_zh": "在中醫裡，方解石可以當中藥寒水石的替代品使用，外用最擅消炎止痛，去實火，對燒傷的效果也非常不錯。",
+      "translated_vi": "Trong Trung y, đá canxit có thể dùng thay thế cho vị thuốc hàn thủy thạch, dùng ngoài da sở trường nhất là tiêu viêm giảm đau, thanh trừ thực hỏa, hiệu quả đối với các vết bỏng cũng vô cùng xuất sắc."
+    },
+    {
+      "para_id": "c0187p0061",
+      "index": 61,
+      "raw_zh": "這就是中醫中藥最大的價值所在，它可能不是效果來的最好的，但永遠不會讓人等死。",
+      "translated_vi": "Đây chính là giá trị lớn nhất của y học cổ truyền và dược liệu tự nhiên: có thể nó không mang lại hiệu quả thần tốc nhất, nhưng vĩnh viễn không bao giờ bỏ mặc con người bó tay chờ chết."
+    },
+    {
+      "para_id": "c0187p0062",
+      "index": 62,
+      "raw_zh": "一方天地，哪怕是堪稱死亡之海的荒蕪沙漠裡，也一樣有著救急的藥材。",
+      "translated_vi": "Đất trời bao la, dẫu là nơi sa mạc hoang tàn được mệnh danh là biển chết đi chăng nữa, thì vẫn luôn tồn tại những vị thuốc cứu mạng trong cơn nguy cấp."
+    },
+    {
+      "para_id": "c0187p0063",
+      "index": 63,
+      "raw_zh": "雲千峰弄了一捧方解石粉，快速的回到阿菲法身邊。",
+      "translated_vi": "Vân Thiên Phong tán vội một vốc bột đá canxit, nhanh chóng trở lại bên cạnh Afifa."
+    },
+    {
+      "para_id": "c0187p0064",
+      "index": 64,
+      "raw_zh": "先用半水囊的清水把阿菲法小腿燒沒了皮膚的地方清理一邊，方法也很簡單，就是口含清水，然後攢成一線，利用水壓衝洗，這樣既能洗乾淨傷口，還不會造成二次摩擦的傷害。",
+      "translated_vi": "Trước tiên anh dùng nửa túi nước sạch để vệ sinh vùng da bị bỏng loét trên cẳng chân của Afifa. Phương pháp cũng rất đơn giản: anh ngậm một ngụm nước sạch rồi phun thành tia nước mảnh, dùng áp lực nước xối rửa sạch sẽ, làm như vậy vừa rửa trôi được chất bẩn trên vết thương, lại vừa không gây tổn thương do cọ xát thứ phát."
+    },
+    {
+      "para_id": "c0187p0065",
+      "index": 65,
+      "raw_zh": "隨後在沒了皮膚的地方均勻的灑上方解石粉，肌理滲透出的粘液會把這些石粉黏在傷口上，不至於脫落。",
+      "translated_vi": "Tiếp đó, anh rắc đều bột đá canxit lên những chỗ bị mất da, chất dịch tiết ra từ các thớ thịt sẽ kết dính lớp bột khoáng này vào vết thương mà không bị rơi rụng."
+    },
+    {
+      "para_id": "c0187p0066",
+      "index": 66,
+      "raw_zh": "把傷口用自己褲子上切下來的布片包扎好後，雲千峰又吞了一小把方解石粉，然後灌了一口水，在自己口中把方解石粉與清水混合均勻，然後掀開阿菲法的嘴唇，把嘴裡混合了方解石粉的水緩緩注入阿菲法的口中。",
+      "translated_vi": "Sau khi dùng mảnh vải xé từ ống quần của mình băng bó cẩn thận vết thương, Vân Thiên Phong lại nuốt một nhúm bột canxit nhỏ vào miệng rồi hớp thêm một ngụm nước, đảo đều cho bột khoáng hòa tan trong khoang miệng mình, đoạn khẽ cạy môi Afifa ra, từ từ mớm dòng nước thuốc hòa lẫn bột canxit sang miệng cô."
+    },
+    {
+      "para_id": "c0187p0067",
+      "index": 67,
+      "raw_zh": "沒辦法，他這裡沒有容器，只能用自己的嘴當藥碗。",
+      "translated_vi": "Chẳng còn cách nào khác, ở nơi này không có dụng cụ chứa đựng, anh đành phải lấy chính miệng mình làm chén thuốc."
+    },
+    {
+      "para_id": "c0187p0068",
+      "index": 68,
+      "raw_zh": "外敷方解石粉，是向外拔火毒。",
+      "translated_vi": "Đắp bột canxit bên ngoài là để hút hỏa độc ra ngoài."
+    },
+    {
+      "para_id": "c0187p0069",
+      "index": 69,
+      "raw_zh": "內服，則是為了把已經積聚在體內的實火泄下去。",
+      "translated_vi": "Uống vào trong người là nhằm hạ bớt luồng thực hỏa đã tích tụ trong tạng phủ."
+    },
+    {
+      "para_id": "c0187p0070",
+      "index": 70,
+      "raw_zh": "就這一口方解石粉溶液，再過一會，跑肚拉稀是沒跑的。",
+      "translated_vi": "Chỉ riêng một ngụm dung dịch bột khoáng này, lát nữa cô chắc chắn sẽ bị tiêu chảy tống độc ra ngoài."
+    },
+    {
+      "para_id": "c0187p0071",
+      "index": 71,
+      "raw_zh": "雲千峰知道阿菲法意識是清醒的，只是沒有力氣說話，於是就在她耳邊輕聲道：",
+      "translated_vi": "Vân Thiên Phong biết ý thức của Afifa vẫn tỉnh táo, chỉ là kiệt sức không nói nên lời, bèn ghé sát tai cô nhẹ nhàng nói:"
+    },
+    {
+      "para_id": "c0187p0072",
+      "index": 72,
+      "raw_zh": "“我去找找安德在哪兒，就在這附近不會走遠，會保證你在我的視線之內，所以你安心在這裡，不用害怕。”",
+      "translated_vi": "\"Tôi đi tìm xem Ander đang ở đâu, chỉ quanh quẩn gần đây không đi xa đâu, vẫn bảo đảm cô nằm trong tầm mắt của tôi, cho nên cô cứ yên tâm nằm đây nghỉ ngơi, đừng sợ nhé.\""
+    },
+    {
+      "para_id": "c0187p0073",
+      "index": 73,
+      "raw_zh": "雲千峰怕阿菲法在自己離開後著急上火，加重傷情，所以先安撫好，才開始在周圍尋找起來。",
+      "translated_vi": "Vân Thiên Phong sợ Afifa sau khi thấy mình rời đi sẽ sốt ruột lo lắng làm vết thương thêm trầm trọng, bèn dỗ dành cô an tâm trước rồi mới bắt đầu tìm kiếm xung quanh."
+    },
+    {
+      "para_id": "c0187p0074",
+      "index": 74,
+      "raw_zh": "然而那拖拽的痕跡在阿菲法躺著的石台前就已經消失不見，雲千峰只能在周圍漫無目的的尋找著。",
+      "translated_vi": "Thế nhưng dấu vết kéo lê kia tới trước bệ đá Afifa đang nằm đã biến mất tăm, Vân Thiên Phong đành phải mông lung tìm kiếm khắp các ngóc ngách xung quanh."
+    },
+    {
+      "para_id": "c0187p0075",
+      "index": 75,
+      "raw_zh": "“奇怪，安德的腿是被那怪物咬到了的，就看阿菲法腿上的傷情，安德絕對不會比阿菲法好多少，肯定無法趕路，怎麽就消失了？難道是被另外一隻怪物拖到地下吃掉了？可是那裡只有我被拽入地下的窟窿，到底怎麽回事？”",
+      "translated_vi": "\"Kỳ lạ thật, chân của Ander từng bị con quái vật kia cắn trúng, nhìn tình trạng vết thương trên chân Afifa thì vết thương của Ander tuyệt đối chẳng nhẹ hơn là bao, chắc chắn không thể tự đi được, sao lại biến mất không dấu tích thế này? Chẳng lẽ đã bị một con quái vật khác lôi xuống lòng đất ăn thịt rồi? Nhưng ở đằng kia chỉ có mỗi một cái hố nơi mình bị lôi xuống mà thôi, rốt cuộc là chuyện gì đã xảy ra?\""
+    },
+    {
+      "para_id": "c0187p0076",
+      "index": 76,
+      "raw_zh": "“離開石台的腳印只有一個，那麽離開的應該就是沒受傷的法緹娜，難道法緹娜背著安德離開的？就安德那不下兩百斤的體重，法緹娜怎麽可能背的動？”",
+      "translated_vi": "\"Dấu chân rời khỏi bệ đá chỉ có một hàng duy nhất, vậy thì người rời đi hẳn phải là Fatina - người duy nhất không bị thương. Chẳng lẽ Fatina đã cõng Ander đi? Nhưng với thể trọng ngót nghét một tạ của Ander, một cô gái như Fatina làm sao cõng nổi?\""
+    },
+    {
+      "para_id": "c0187p0077",
+      "index": 77,
+      "raw_zh": "“而且就算是背著一個人走，法緹娜難道不應該是背著阿菲法離開嗎？”",
+      "translated_vi": "\"Hơn nữa, nếu có cõng một ai đó rời đi, thì chẳng lẽ Fatina lại không cõng Afifa đi hay sao?\""
+    },
+    {
+      "para_id": "c0187p0078",
+      "index": 78,
+      "raw_zh": "正思考著，雲千峰突然整個人好像被點穴了一樣，突然愣在原處。",
+      "translated_vi": "Đang suy nghĩ miên man, Vân Thiên Phong bỗng đứng khựng lại như bị điểm huyệt, sững sờ chết trân tại chỗ."
+    },
+    {
+      "para_id": "c0187p0079",
+      "index": 79,
+      "raw_zh": "因為他腦海裡閃過另一個無法解釋的事情：",
+      "translated_vi": "Bởi vì trong tâm trí anh vừa lóe lên một chuyện khác không thể giải thích nổi:"
+    },
+    {
+      "para_id": "c0187p0080",
+      "index": 80,
+      "raw_zh": "“阿菲法！阿菲法的褲子是完好無損的！”",
+      "translated_vi": "\"Afifa! Quần của Afifa rõ ràng vẫn còn nguyên vẹn không hề rách nát!\""
+    },
+    {
+      "para_id": "c0187p0081",
+      "index": 81,
+      "raw_zh": "感謝那a很E的打賞，每當看到“萬”基數的打賞，人就精神很好！！！謝謝你的支持！！！還有我後台看不到的平台的打賞，謝謝你們的支持，我正在研究怎麽看到你們是誰！！！",
+      "translated_vi": "Cảm ơn độc giả đã ủng hộ phần thưởng lớn, mỗi lần thấy phần thưởng là tinh thần lại phấn chấn hẳn lên! Cảm ơn sự ủng hộ của các bạn! Còn các độc giả ủng hộ ở những nền tảng khác nữa, cảm ơn mọi người rất nhiều, tôi đang tìm cách xem danh sách của các bạn!"
+    },
+    {
+      "para_id": "c0187p0082",
+      "index": 82,
+      "raw_zh": "感謝那a很E、Deadcell、玄關道郎的月票獎勵，謝謝你們的支持！！！",
+      "translated_vi": "Cảm ơn các độc giả Deadcell, Huyền Quan Đạo Lang cùng các bạn khác đã bỏ phiếu thưởng nguyệt phiếu, cảm ơn sự ủng hộ của mọi người!"
+    },
+    {
+      "para_id": "c0187p0083",
+      "index": 83,
+      "raw_zh": "長夜漫漫，我先睡覺，祝大家好夢連連！！！",
+      "translated_vi": "Đêm dài đằng đẵng, tôi đi ngủ trước đây, chúc mọi người mơ đẹp liên miên!"
+    },
+    {
+      "para_id": "c0187p0084",
+      "index": 84,
+      "raw_zh": "晚安！！！",
+      "translated_vi": "Chúc ngủ ngon!!!"
+    }
+  ]
+}

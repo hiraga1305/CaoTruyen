@@ -1,0 +1,84 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0266|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|"Anh nhất định phải gặp Tây Vương Mẫu, đừng lãng phí thời gian nữa, để tôi đưa Trác Mã rời khỏi đây!"
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一道|một luồng
+M2|一座|một tòa
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §42):
+§1 [Ø=云千峰]雲千峰搖頭，咬牙道：
+§2 [Ø=云千峰]“不，我們都必須離開， [||] 你還不明白嗎白狐，西王母不可能在這座古城的范圍，不可能！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§3 [Ø=云千峰]白狐是極聰明的，從瑪肆科對她的尊重就能看出來，哪怕是最古早時逃難的白狐這個山神種族裡，白狐的能力都是排在前列的。
+§4 [Ø=云千峰]於是，雲千峰這句話就好像一道[M1:một luồng]閃電劈在了她腦海裡，帶來了無盡的震撼。
+§5 她聽懂了雲千峰的這句話。
+§6 [Ø=云千峰]是的，西王母絕不會在這座古城內，理由卻與西王母無關，而是與造物主有關。
+§7 造物主為什麽要建造這樣一座[M2:một tòa]快速讓基因進入完美狀態的實驗室？
+§8 因為造物主想要創造最完美的生命體。
+§9 為什麽造物主想要創造最完美的生命體？
+§10 [Ø=云千峰]答案就是，造物主也不是最完美的生命體！
+§11 [Ø=云千峰]那麽就證明，哪怕是造物主也不敢在這座實驗室內久住。
+§12 所以這裡是注定的空城。
+§13 [Ø=云千峰]甚至，這才是第一代人類滅絕的原因，更是人類被逐出伊甸園的原因。
+§14 “造物主不是完美的生命體！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 [Ø=云千峰]這個答案，就像雷電在白狐腦海裡爆炸。
+§16 [Ø=云千峰]智慧越高的生物，其實愈加容易對神崇拜，因為智慧越高，眼前的未解便越多。
+§17 [Ø=云千峰]這也是為什麽愛因斯坦、牛頓、霍金這些偉大的科學家，最後都選擇神學的原因。
+§18 [Ø=云千峰]可以說，雲千峰的這個答案， [||] 把白狐內心裡，靈神深處的某個東西打碎了，細碎。
+§19 [Ø=云千峰]“別發呆了白狐！我去引開巨蛇，你帶著卓瑪離開，我會去找到你！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§20 白狐因雲千峰的呼喚在震驚之中醒來。
+§21 [Ø=云千峰]她看到，卓瑪此時的狀態愈加可怖。
+§22 [Ø=云千峰]因為卓瑪的眉心正在裂開，形成了一個猙獰的傷口， [||] 更瘮人的是，似乎有什麽東西在那傷口裡蠕動，想要爬出來一般。
+§23 不能再耽擱了！
+§24 [Ø_SHIFT=姜柔甲]白狐急忙接過卓瑪背在自己身上，用長長的尾巴把卓瑪捆在自己的腰上，保證自己在最快速度奔跑的時候，也不會把卓瑪掉下來。
+§25 [Ø=姜柔甲]而雲千峰則是赤紅著眼睛，單腿蹦跳，直衝向那白色的巨蛇。
+§26 [Ø=姜柔甲]面對這樣擁有著智商和強大力量的冷血動物，沒人能保證自己可以活著回來，雲千峰也不能。
+§27 [Ø=姜柔甲]但也正是這種決絕的義無反顧，讓雲千峰爆發出了最大的力量和速度。
+§28 [Ø=姜柔甲]他沒有向以往那樣迂回，因為那毫無意義。
+§29 [Ø=姜柔甲]懂得太極拳的人都知道，迂回的戰術對蛇是沒用的。
+§30 [Ø=姜柔甲]只有最直接的最快速的傷害，才是唯一勝利的可能。
+§31 [Ø=姜柔甲]白狐眼看著雲千峰徑直的衝向巨蛇，哪怕前方就是巨蛇張開的血盆大口。
+§32 [Ø=姜柔甲]但是雲千峰沒有減速，他在加速，速度越來越快，他的目標竟然就是蛇的嘴巴。
+§33 唰！
+§34 [Ø=姜柔甲]雲千峰的身影沒入巨蛇的大嘴，[Ø_SHIFT=云千峰]同時一段一米多長的蛇信子帶著血跌落在地。
+§35 [Ø=云千峰]借助身體的速度和刀的鋒利，只是鋪一接觸，雲千峰就廢了巨蛇探看這世界最重要的器官。
+§36 [Ø=云千峰]沒有了蛇信子，巨蛇已經稱得上是半瞎，想要再去追趕白狐和卓瑪，幾乎是不可能的。
+§37 白狐聽到黑洞洞的蛇口傳來雲千峰的聲音：
+§38 “走！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 [Ø=云千峰]蛇口就像一個正在關閉的喇叭，將這個字音前面擴得猶如悶雷，隨著關閉，這個字最後的尾音完全消失。
+§40 [Ø=云千峰]讓雲千峰喊出的這個字，聽起來好像是“吇嗷”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]。
+§41 [Ø=云千峰]白狐抽了一下鼻子，背著卓瑪從巨蛇側面衝出，頭也不回的遠去。
+§42 [Ø=云千峰]嬌俏的鼻孔太小，終究無法容納所有的眼淚， [||] 水珠終究還是滑過眼角，隨風落在空中，祭奠雲千峰的犧牲。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 42 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§42. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

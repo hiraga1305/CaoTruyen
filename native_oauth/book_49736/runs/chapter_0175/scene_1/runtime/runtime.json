@@ -1,0 +1,32 @@
+{
+  "authentication": "cached_account; GEMINI_API_KEY unset",
+  "requested_model": "gemini-3.8-flash-high",
+  "agent": null,
+  "exit_code": 0,
+  "workspace": "D:\\AI\\Antigravity\\CaoTruyen",
+  "duration_seconds": 183.3,
+  "status": "SUCCESS",
+  "conversation_id": "4476dd17-97d9-4d59-8c43-2e1f693929e0",
+  "usage": {
+    "input_tokens": 90701,
+    "output_tokens": 7713,
+    "thinking_tokens": 6556,
+    "cache_read_tokens": 856670,
+    "total_tokens": 98414
+  },
+  "result": {
+    "conversation_id": "4476dd17-97d9-4d59-8c43-2e1f693929e0",
+    "status": "SUCCESS",
+    "response": "",
+    "duration_seconds": 150.4008052,
+    "num_turns": 1,
+    "usage": {
+      "input_tokens": 90701,
+      "output_tokens": 7713,
+      "thinking_tokens": 6556,
+      "cache_read_tokens": 856670,
+      "total_tokens": 98414
+    }
+  },
+  "event_count": 78
+}

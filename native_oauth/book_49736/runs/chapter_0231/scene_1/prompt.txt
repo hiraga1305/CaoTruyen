@@ -1,0 +1,104 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0231|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一道|một luồng
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §63):
+§1 231.第231章 處處陷阱
+§2 第231章 處處陷阱
+§3 [Ø=云千峰]那一瞬間，雲千峰感覺自己的心臟似乎被手術刀割開，一種來自靈魂的刺痛讓他顫栗。
+§4 他不明白自己為何突然如此難過。
+§5 [Ø=云千峰]就好像有一團揮不散的迷霧，正在吞噬自己的一切，從外到內。
+§6 [Ø=云千峰]雲千峰忍不住轉過身，跪在地上乾嘔起來， [||] 隻把臉憋的通紅，也僅吐出了一些酸水而已，火辣辣的彌著嗓子。
+§7 “是他們反饋給我的悲傷嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 [Ø=云千峰]見危險已經解除，琳達、傑裡周和蘇菲鍾才敢爬起來，傻愣愣的看著眼前的一切。
+§9 [Ø=云千峰]他們從開始到現在都是懵的，雲千峰與那二人的搏命來得太過突然，沒有任何征兆，就那麽火星撞地球的打了起來。
+§10 為什麽打他們不知道。
+§11 但結果他們看到了。
+§12 [Ø=云千峰]此時三人看向雲千峰的眼睛裡，充滿了恐懼。
+§13 還是琳達最先反應過來。
+§14 [Ø=云千峰]她明白一件事，那就是那兩個所謂的南極站工作人員與雲千峰是一起動殺手的，也就是說，那兩個人就是要殺死雲千峰。
+§15 [Ø=云千峰]相對於雲千峰來說，這只是他正當防衛的舉措，並沒有錯。
+§16 [Ø=云千峰]至於荷茜許，她在擋子彈前就已經死了，她活著的時候都不值得尊重分毫，更別提死了以後。
+§17 [Ø=云千峰]她走上前，柔聲道：
+§18 “雲”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 [Ø=云千峰]雲千峰揮了揮手，阻止了琳達的詢問，而是低啞著嗓子，說道：
+§20 [Ø=云千峰]“去外面，繞著有窗戶的位置向裡看，看看其他人是不是都死了，但切記什麽東西都不要碰。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 [Ø_SHIFT=姜柔甲]琳達和傑裡周急忙出去，按照雲千峰的吩咐仔細觀察，蘇菲鍾也急忙跟了出去，她可不敢和雲千峰單獨待在一起。
+§22 [Ø=姜柔甲]幾分鍾後，琳達是哭著回來的。
+§23 [Ø=姜柔甲]“全死了，全都死了， [||] 弗朗克叔叔，漢斯大伯，愛麗絲姐姐他們全都被殺了.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 [Ø=姜柔甲]傑裡周嚇得面無人色，顫聲道：
+§25 [Ø=姜柔甲]“哥啊，雞犬不留，雪橇犬也全都被殺了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§26 [Ø=姜柔甲]雲千峰微微點了點頭，把約翰的手槍拿起來揣到兜裡，有搜出了兩個裝滿的彈夾。
+§27 [Ø=姜柔甲]順手把打火機和那包1916收好，繼續道：
+§28 [Ø=姜柔甲]“收集保暖物品和食物，僅限於這個房間，其它任何一道[M1:một luồng]門都不要打開。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 [Ø=姜柔甲]幾個人不知道雲千峰為什麽下達這樣的命令，因為很顯然這裡不是儲存食物的倉庫更不是廚房，沒有多少吃的。
+§30 只有些許零食和一些高度酒。
+§31 [Ø=姜柔甲]琳達看著那兩個死去者的衣服，就要去扒下來。
+§32 [Ø=姜柔甲]卻被雲千峰一把拉住，沉聲道：
+§33 “給他們留著尊嚴。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 琳達不明白這是為什麽。
+§35 [Ø=姜柔甲]他扒霍曼衣服的時候可沒想過什麽尊嚴的問題，但卻要給這兩個要殺他的人死後的尊嚴。
+§36 這是什麽道理？
+§37 [Ø=姜柔甲]收拾好了以後，雲千峰推開門，道：
+§38 “咱們走吧。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 琳達一愣：
+§40 “去哪？我們不在這裡等著救援嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 [Ø=姜柔甲]雲千峰搖頭，道：
+§42 [Ø=姜柔甲]“這裡應該不安全，我們需要去別的南極站。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 [Ø=姜柔甲]蘇菲鍾戰戰兢兢的看著雲千峰，低聲道：
+§44 [Ø=姜柔甲]“我我不走行不行？我的腳很痛，我走不動了，這裡能有什麽不安全的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§45 [Ø=姜柔甲]雲千峰點了點頭，道：
+§46 “可以。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§47 傑裡周也急忙表示：
+§48 [Ø=姜柔甲]“那我也不走了，在這裡等著救援，要是不安全出了事，那我也認了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§49 [Ø=姜柔甲]雲千峰微微點了點頭，一句沒勸，背著自己的背包出門，來到雪地車旁看了一眼。
+§50 [Ø=姜柔甲]“果然，燃油全都放空了，堵死所有活路啊！不過百密一疏。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§51 [Ø=姜柔甲]他低聲自語，然後果斷的沿著來路腳印，朝著那熱氣球的位置大步走過去。
+§52 [Ø=姜柔甲]沒走出多遠，就聽身後傳來追趕的腳步聲。
+§53 [Ø=姜柔甲]“雲，等等我，等等我。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§54 [Ø=姜柔甲]琳達小跑著追上來，身上背著一個大背包，是在南極站那間屋子搜羅到的。
+§55 [Ø=姜柔甲]雲千峰沒有放緩腳步，依舊大步走著，直到琳達氣喘籲籲的追上自己。
+§56 “我還是和你走吧。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§57 [Ø=姜柔甲]雲千峰點了點頭，沒多說什麽。
+§58 [Ø=姜柔甲]“雲，我們回來這面幹嘛？距離這裡最近的南極站應該是東方站和聖彼得堡站，都不是這個方向。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§59 雲千峰回道：
+§60 [Ø=姜柔甲]“雪地車的燃油被放空了，我們需要拿走熱氣球上的燃油發動雪地車。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§61 [Ø=姜柔甲]琳達點了點頭，突然面現驚恐，道：
+§62 [Ø=姜柔甲]“這熱氣球就是那兩個人的，他們弄壞了熱氣球，殺死了雪橇犬， [||] 放空了雪地車的燃油，他們就是要所有人都無法活著離開，那迪蒙迪維爾站裡一定有危險！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§63 [Ø=姜柔甲]雲千峰看了看手表，沉聲道：
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 63 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§63. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

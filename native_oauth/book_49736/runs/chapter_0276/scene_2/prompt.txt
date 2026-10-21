@@ -1,0 +1,90 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0276|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Cô bất giác bước tới, dùng vòng tay mảnh khảnh ôm lấy cổ Vân Thiên Phong, cất lời an ủi hắn:
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一滴|một giọt
+M2|一滴|một giọt
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §48):
+§1 [Ø=云千峰]“這些都不是你的錯，是帝嚳的錯，都是他的算計！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§2 [Ø=云千峰]雲千峰用手蒙著臉，搖頭道：
+§3 [Ø=云千峰]“不，不全是帝嚳的算計，還有我的算計，還有巫族的算計！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§4 [Ø=云千峰]“此處所見，與我在南極的遭遇同出一轍，但目的決然相反。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§5 [Ø=云千峰]“三十年後的我，利用那些甘願為他而死的人的生命，用小神經的命，逼著我走入帝嚳的算計。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§6 [Ø=云千峰]“而扭曲島那些甘願赴死的巫族，他們在用自己的命， [||] 用這一族生命成山，壓著我，押著我不要走入帝嚳的算計。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§7 [Ø=云千峰]那偉大的曾經，會算計的不止帝嚳一個，還有巫族的巫覡！
+§8 [Ø=云千峰]巫族巫覡與帝嚳的對弈，勝敗皆在雲千峰身上體現。
+§9 [Ø=云千峰]是對小神經的兒女情長，還是對一族期望的承擔。
+§10 [Ø=云千峰]這兩份在雲千峰心中的輕重，決定了對弈的勝者。
+§11 [Ø=云千峰]任誰面對這樣的選擇，恐怕都會像雲千峰此時這般無助。
+§12 [Ø=云千峰]沒有什麽素不相識，當人身處此處， [||] 了解當初，便不再是不相識，而是感受到相同血脈的溫度。
+§13 [Ø=云千峰]男人的眼淚很奇怪，第一滴[M1:một giọt]掉不下來，你就永遠以為男人是鐵打的心肺。
+§14 [Ø=云千峰]而一旦落下來一滴[M2:một giọt]，便是決堤。
+§15 [Ø_SHIFT=姜柔甲]這難題讓雲千峰崩潰，眼前是婚禮石殿那些眼睛還有小神經的笑容，他們擠壓在雲千峰的腦子裡，似乎要把雲千峰的腦袋撐破。
+§16 [Ø=姜柔甲]他的腦子徹底亂了，他不會選。
+§17 [Ø=姜柔甲]白狐從未見過雲千峰如此，她緊緊的抱著雲千峰， [||] 想要用自己的體溫安穩他的心，然而雲千峰在顫抖，好似瘧疾般打著擺子。
+§18 [Ø=姜柔甲]白狐知道，必須找到解決這個問題的關鍵，雲千峰才能冷靜下來， [||] 她思索著，突然用毛茸茸的尾巴卷住了雲千峰， [||] 然後手尾並用的把雲千峰帶到了欘龍床之後，那些白色燈籠的光外。
+§19 [Ø=姜柔甲]卓瑪不知道白狐要幹嘛，[Ø_SHIFT=云千峰]急忙要跟上去。
+§20 [Ø=云千峰]然而隻前進了兩米，就聽到陰影裡白狐的聲音：
+§21 [Ø=云千峰]“不許過來，我在幫他！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 [Ø=云千峰]卓瑪不知道白狐要用什麽秘法，[Ø_SHIFT=姜柔甲]當下急忙止住腳步，停在那乾著急。
+§23 [Ø=姜柔甲]很快，卓瑪聽到了自己熟悉又陌生的喘息。
+§24 [Ø=姜柔甲]“現在你知道了，你就是雲千峰，你和共工沒關系， [||] 你沒有他的記憶，你就是你，共工可不認識我，更沒那什麽過我！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 [Ø=姜柔甲]白狐用最有力的證據，證明了雲千峰就是雲千峰，僅此而已，完全不需要那麽大壓力。
+§26 [Ø=姜柔甲]當然也不排除白狐早有圖謀，畢竟這是融合了一隻狐狸的性格， [||] 法緹娜的記憶，以及幾萬歲的普羅的意識的複雜生命體，你沒辦法用正常人的行為判斷。
+§27 [Ø=姜柔甲]然而雲千峰面對這證據，面對白狐的用心良苦， [||] 整個人似乎完全沒聽進去，而是發呆的看著白狐的眼睛，臉上表情幾度變換。
+§28 [Ø=姜柔甲]忽而疑惑，忽而驚訝，忽而又似乎想通了什麽。
+§29 [Ø=姜柔甲]白狐看到雲千峰的表情，突然覺得自己挺失敗的，這樣都沒扳過來，就很想吸根煙。
+§30 [Ø=姜柔甲]突然，雲千峰開口問道：
+§31 [Ø=姜柔甲]“白狐，為什麽用這樣的眼神看著我？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§32 [Ø=姜柔甲]白狐臉一紅，扭過頭去，叱道：
+§33 “明知故問！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 雲千峰馬上又問道：
+§35 “你願意為我去死嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 [Ø=姜柔甲]這沒來由的，轉折極大的一句問話，雲千峰卻是極為嚴肅的說出來。
+§37 [Ø=姜柔甲]白狐一愣，看得出雲千峰不是開玩笑，然後思索著：
+§38 [Ø=姜柔甲]“死？那倒不怕，神軀在還能活，怕什麽？但若是我沒有神軀呢？我能不能做到？呵我太可笑了，我竟然感覺好像也能！傻了嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 [Ø=姜柔甲]然後她看著雲千峰，糾結再三，說道：
+§40 [Ø=姜柔甲]“好像能！雖然我自己都不信，但我感覺就是好像能！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 [Ø=姜柔甲]雲千峰“哈哈哈”[Q1:姜柔甲->云千峰|state:COURTEOUS|tone:thăm dò, lễ tiết]的大笑起來，神情癲狂，指著虛空叫道：
+§42 [Ø=姜柔甲]“帝嚳！你算漏了！哈哈哈！帝嚳啊帝嚳，你終究算不盡人心！這一次， [||] 不是巫族的算計贏了，也不是你帝嚳的算計贏了，而是我贏了！我和三十年後的我贏了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 [Ø=姜柔甲]白狐驚呆了，心討我付出這麽多，就換回個瘋子！
+§44 當下更想吸煙了。
+§45 [Ø=姜柔甲]感謝書友尾數59847的大量月票獎勵，感謝書友我愛長弓、命運之zi、尾數17573、尾數04312、尾數17573的月票獎勵！！！
+§46 謝謝你們的支持！！！
+§47 [Ø=姜柔甲]我已經困得看東西雙影了，祝大家好夢！！！
+§48 晚安！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 48 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§48. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

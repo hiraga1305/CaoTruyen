@@ -1,0 +1,511 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 132,
+  "title": "Chương 132: Đầu Chó Giữ Mạng",
+  "total_paragraphs": 83,
+  "translated_paragraphs": 83,
+  "source_hash": "d6fa8b306cbe5a46882b4b27289a26edbb8d79d5782c788441d52f4008c37c59",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0132p0001",
+      "index": 1,
+      "raw_zh": "第132章 狗頭保命",
+      "translated_vi": "Chương 132: Đầu Chó Giữ Mạng"
+    },
+    {
+      "para_id": "c0132p0002",
+      "index": 2,
+      "raw_zh": "這沉浸式的4D畫面裡，一切都是靜止的，唯獨眼睛。",
+      "translated_vi": "Trong khung hình 4D sống động như hòa mình vào thực cảnh này, mọi thứ đều đứng im bất động, duy chỉ có những đôi mắt."
+    },
+    {
+      "para_id": "c0132p0003",
+      "index": 3,
+      "raw_zh": "那無數雙眼睛在這本該靜止的畫面裡，跟隨著雲千峰移動著，滾動著",
+      "translated_vi": "Vô số đôi mắt trong bức tranh vốn dĩ phải tĩnh lặng này đang chuyển động, đảo lia lịa dõi theo từng bước đi của Vân Thiên Phong..."
+    },
+    {
+      "para_id": "c0132p0004",
+      "index": 4,
+      "raw_zh": "似乎生怕他突然轉身跑了。",
+      "translated_vi": "Dường như chỉ sợ anh đột nhiên quay đầu bỏ chạy."
+    },
+    {
+      "para_id": "c0132p0005",
+      "index": 5,
+      "raw_zh": "三女見雲千峰突然踏步走向新娘的位置，都有些不知所措。",
+      "translated_vi": "Ba người phụ nữ thấy Vân Thiên Phong đột ngột cất bước tiến về phía cô dâu thì đều có chút luống cuống, chẳng biết phải làm sao."
+    },
+    {
+      "para_id": "c0132p0006",
+      "index": 6,
+      "raw_zh": "秦疏影急忙追上去，拉著雲千峰的手，急問道：",
+      "translated_vi": "Tần Sơ Ảnh vội vàng đuổi theo, nắm lấy tay Vân Thiên Phong sốt sắng hỏi:"
+    },
+    {
+      "para_id": "c0132p0007",
+      "index": 7,
+      "raw_zh": "“雲，你要去做什麽？這裡現在看到的一切都是假的，不要亂走。”",
+      "translated_vi": "“Vân, anh định làm gì thế? Mọi thứ nhìn thấy ở đây bây giờ đều là giả cả, đừng có đi lung tung.”"
+    },
+    {
+      "para_id": "c0132p0008",
+      "index": 8,
+      "raw_zh": "雲千峰此時知道了歸妹的真正含義，心裡反而不像之前那般擔心三女的安危，於是回頭微笑，道：",
+      "translated_vi": "Vân Thiên Phong lúc này đã hiểu được hàm ý thực sự của quẻ Quy Muội, trong lòng ngược lại không còn nơm nớp lo sợ cho sự an nguy của ba cô gái như trước nữa. Anh liền quay đầu mỉm cười trấn an:"
+    },
+    {
+      "para_id": "c0132p0009",
+      "index": 9,
+      "raw_zh": "“別擔心，我做事你還不放心，這裡磁錄景象靜止但卻沒有消失，應該就是等我來結束這件事。”",
+      "translated_vi": "“Đừng lo, anh làm việc em còn chưa yên tâm sao? Cảnh tượng từ tính ghi lại ở đây đứng yên nhưng không hề biến mất, ắt hẳn là đang đợi anh tới để kết thúc chuyện này.”"
+    },
+    {
+      "para_id": "c0132p0010",
+      "index": 10,
+      "raw_zh": "秦疏影一愣，疑惑道：",
+      "translated_vi": "Tần Sơ Ảnh ngẩn người, khó hiểu hỏi:"
+    },
+    {
+      "para_id": "c0132p0011",
+      "index": 11,
+      "raw_zh": "“等你？”",
+      "translated_vi": "“Đợi anh ư?”"
+    },
+    {
+      "para_id": "c0132p0012",
+      "index": 12,
+      "raw_zh": "雲千峰看著那新娘面具下的眸子，沉聲道：",
+      "translated_vi": "Vân Thiên Phong nhìn vào đôi mắt dưới lớp mặt nạ của cô dâu, trầm giọng bảo:"
+    },
+    {
+      "para_id": "c0132p0013",
+      "index": 13,
+      "raw_zh": "“這是一個我們完全無法理解的年代，是神話的源頭，也是文明的源頭，我不知道她是怎麽做到的，但我肯定一點，那雙眸子在曾經的這個瞬間，透過時空看到了我。”",
+      "translated_vi": "“Đây là một thời đại mà chúng ta hoàn toàn không thể thấu hiểu nổi, là cội nguồn của thần thoại, cũng là khởi nguyên của nền văn minh. Anh không biết cô ấy đã làm điều đó bằng cách nào, nhưng anh dám khẳng định một điều: đôi mắt ấy vào khoảnh khắc năm xưa đã xuyên qua thời không để nhìn thấy anh.”"
+    },
+    {
+      "para_id": "c0132p0014",
+      "index": 14,
+      "raw_zh": "秦疏影完全無法理解，搖頭道：",
+      "translated_vi": "Tần Sơ Ảnh hoàn toàn không thể nào lý giải nổi, lắc đầu nói:"
+    },
+    {
+      "para_id": "c0132p0015",
+      "index": 15,
+      "raw_zh": "“這怎麽可能，這是幾千甚至上萬年前的景象。”",
+      "translated_vi": "“Sao có thể như thế được, đây là cảnh tượng của mấy nghìn thậm chí hàng vạn năm trước cơ mà.”"
+    },
+    {
+      "para_id": "c0132p0016",
+      "index": 16,
+      "raw_zh": "雲千峰沉吟，道：",
+      "translated_vi": "Vân Thiên Phong trầm ngâm một lát rồi bảo:"
+    },
+    {
+      "para_id": "c0132p0017",
+      "index": 17,
+      "raw_zh": "“量子是不受時空限制的，今日看到的量子，同時也存在於無盡的上古年代，當然一樣也存在於未來。她能看到，我很奇怪，但能理解，回去吧，門口等著我，看到什麽都別害怕，也不要阻止，不要走過來，否則我怕有變故。”",
+      "translated_vi": "“Lượng tử vốn không bị giới hạn bởi thời không. Lượng tử chúng ta nhìn thấy ngày hôm nay cũng đồng thời tồn tại ở thời thượng cổ xa xăm, và đương nhiên cũng tồn tại ở cả tương lai. Cô ấy có thể nhìn thấy, anh tuy cảm thấy kỳ lạ nhưng hoàn toàn có thể hiểu được. Quay lại đi, đứng ở cửa chờ anh, lát nữa có thấy gì cũng đừng sợ hãi, cũng đừng ngăn cản hay bước qua đây, bằng không anh e là sẽ sinh biến.”"
+    },
+    {
+      "para_id": "c0132p0018",
+      "index": 18,
+      "raw_zh": "看到雲千峰自信的眼神，秦疏影雖然依舊擔心他，但卻知道自己不能耽誤他做正事，於是隻好一步三回頭的回到兩女身邊，在照壁旁看著雲千峰，眼中滿是擔憂。",
+      "translated_vi": "Trông thấy ánh mắt đầy vẻ tự tin của Vân Thiên Phong, Tần Sơ Ảnh dẫu trong lòng vẫn lo lắng khôn nguôi nhưng hiểu rằng mình không thể làm chậm trễ việc chính sự của anh. Cô đành phải một bước ba lần ngoảnh lại, trở về bên cạnh hai người bạn, đứng nép cạnh bức bình phong dõi mắt nhìn Vân Thiên Phong, trong đáy mắt đong đầy nỗi âu lo."
+    },
+    {
+      "para_id": "c0132p0019",
+      "index": 19,
+      "raw_zh": "雲千峰沒有任何遲疑，大步來到那青銅大鍾之前。",
+      "translated_vi": "Vân Thiên Phong không hề do dự chút nào, sải bước dài tiến đến trước quả chuông đồng khổng lồ kia."
+    },
+    {
+      "para_id": "c0132p0020",
+      "index": 20,
+      "raw_zh": "此時的大鍾是磁錄景象之中的外觀，上面覆蓋著紅綢。",
+      "translated_vi": "Lúc này chiếc chuông lớn mang diện mạo trong cảnh tượng từ tính, phía trên được phủ kín bằng dải lụa đỏ."
+    },
+    {
+      "para_id": "c0132p0021",
+      "index": 21,
+      "raw_zh": "雲千峰用手輕輕掀開紅綢，看向大鍾身上的雕紋。",
+      "translated_vi": "Vân Thiên Phong đưa tay nhẹ nhàng vén dải lụa đỏ lên, nhìn vào những hoa văn điêu khắc trên thân chuông."
+    },
+    {
+      "para_id": "c0132p0022",
+      "index": 22,
+      "raw_zh": "“是連山易！”",
+      "translated_vi": "“Là Liên Sơn Dịch!”"
+    },
+    {
+      "para_id": "c0132p0023",
+      "index": 23,
+      "raw_zh": "“在野人山和老爺廟的神跡裡，那些神軀金剛不壞，但卻害怕雕刻著連山易的石片，看來這盤瓠即便不是“神”，也有著千絲萬縷的聯系，這老丈人有點狠啊！”",
+      "translated_vi": "“Ở thần tích Dã Nhân Sơn và Lão Gia Miếu, những thần khu mình đồng da sắt kia đao thương bất nhập, nhưng lại sợ hãi những phiến đá khắc Liên Sơn Dịch. Xem ra vị Bàn Hộ này dẫu không phải ‘thần’ thì cũng có mối liên hệ muôn vàn sợi tơ gắn kết. Ông bố vợ này ra tay tàn nhẫn thật đấy!”"
+    },
+    {
+      "para_id": "c0132p0024",
+      "index": 24,
+      "raw_zh": "“嫁女是假，借機屠一神為真。”",
+      "translated_vi": "“Gả con gái là giả, mượn cớ đồ sát một vị thần mới là thật.”"
+    },
+    {
+      "para_id": "c0132p0025",
+      "index": 25,
+      "raw_zh": "“姮娥之父為帝嚳，帝嚳為顓頊侄，接替顓頊共主天下，顓頊絕地天通.”",
+      "translated_vi": "“Cha của Hằng Nga là Đế Cốc, Đế Cốc là cháu của Chuyên Húc, kế vị Chuyên Húc làm đồng chủ thiên hạ, mà Chuyên Húc thì tuyệt địa thiên thông...”"
+    },
+    {
+      "para_id": "c0132p0026",
+      "index": 26,
+      "raw_zh": "“難道上古，真的有一場曠日持久的人神之戰嗎？”",
+      "translated_vi": "“Chẳng lẽ thời thượng cổ thực sự từng nổ ra một trận đại chiến giữa người và thần kéo dài đằng đẵng sao?”"
+    },
+    {
+      "para_id": "c0132p0027",
+      "index": 27,
+      "raw_zh": "雲千峰想著，抽出海軍刀插進大鍾與地面的縫隙之中。",
+      "translated_vi": "Vân Thiên Phong vừa suy ngẫm, vừa rút con dao găm hải quân cắm sâu vào khe hở giữa chiếc chuông lớn và mặt đất."
+    },
+    {
+      "para_id": "c0132p0028",
+      "index": 28,
+      "raw_zh": "隨著海軍刀的深入，大鍾終於稍微扡起來一絲，雲千峰這才用右手摳住那縫隙，使勁往上抬起。",
+      "translated_vi": "Cùng với lưỡi dao hải quân lách sâu vào trong, quả chuông cuối cùng cũng được bẩy kênh lên một khe nhỏ. Vân Thiên Phong lúc này mới dùng bàn tay phải móc chặt vào khe hở đó, dồn lực nâng bổng lên."
+    },
+    {
+      "para_id": "c0132p0029",
+      "index": 29,
+      "raw_zh": "以他的右臂之力，抬這大鍾也相當費力。",
+      "translated_vi": "Với sức mạnh kinh người từ cánh tay phải của anh, việc nâng quả chuông lớn này lên cũng tốn không ít công sức."
+    },
+    {
+      "para_id": "c0132p0030",
+      "index": 30,
+      "raw_zh": "好不容易抬起來，他用手撐著，蹲下身緩緩移動腳步，鑽到了大鍾之內，然後松手緩緩放下大鍾，依舊擱在海軍刀上面，留下可以把住的縫隙。",
+      "translated_vi": "Khó khăn lắm mới nâng được lên, anh dùng một tay chống đỡ, cúi thấp người chầm chậm di chuyển bước chân rúc vào bên trong đại chung, sau đó buông tay từ từ hạ quả chuông xuống, để nó gác lên con dao hải quân, chừa lại một khe hở vừa đủ để bấu tay."
+    },
+    {
+      "para_id": "c0132p0031",
+      "index": 31,
+      "raw_zh": "抬舉大鍾，讓他幾乎脫力。",
+      "translated_vi": "Việc nâng chiếc chuông nặng ngàn cân suýt chút nữa khiến anh kiệt sức."
+    },
+    {
+      "para_id": "c0132p0032",
+      "index": 32,
+      "raw_zh": "在大鍾這漆黑的狹小空間裡，雲千峰靠著大鍾休息了一會，才打開在一號那裡順來的手電，查看大鍾內的情況。",
+      "translated_vi": "Trong không gian chật hẹp tối om như mực dưới quả chuông, Vân Thiên Phong tựa lưng vào thành chuông nghỉ ngơi một lát, rồi mới bật chiếc đèn pin thó được từ chỗ Số 1 lên để kiểm tra tình hình bên trong."
+    },
+    {
+      "para_id": "c0132p0033",
+      "index": 33,
+      "raw_zh": "大鍾底部，蜷縮著一具完整的枯骨，包括磁錄影像裡他身上的五色皮裙，都化為了烏有。",
+      "translated_vi": "Dưới đáy chuông là một bộ hài cốt khô cuộn tròn nguyên vẹn, bao gồm cả chiếc váy da năm sắc màu trên người hắn trong cảnh tượng từ tính, tất cả đều đã tan biến thành tro bụi hư vô."
+    },
+    {
+      "para_id": "c0132p0034",
+      "index": 34,
+      "raw_zh": "但歲月沒有摧毀一切，因為那完整的狗頭還在。",
+      "translated_vi": "Nhưng năm tháng không thể hủy diệt tất cả, bởi vì chiếc đầu chó nguyên vẹn kia vẫn còn đó."
+    },
+    {
+      "para_id": "c0132p0035",
+      "index": 35,
+      "raw_zh": "雲千峰眯著眼，把手電咬在嘴裡，用雙手拿起那狗頭。",
+      "translated_vi": "Vân Thiên Phong nheo mắt lại, ngậm chiếc đèn pin trong miệng rồi dùng hai tay nâng chiếc đầu chó ấy lên."
+    },
+    {
+      "para_id": "c0132p0036",
+      "index": 36,
+      "raw_zh": "“咣”的一聲，在狗頭裡掉出來一個骷髏頭，摔在地上，直接碎成無數塊，手電的光柱裡，飄蕩著激蕩的骨塵。",
+      "translated_vi": "\"Coong\" một tiếng giòn giã vang lên, từ bên trong đầu chó rơi tuột ra một cái đầu lâu, đập xuống mặt sàn vỡ vụn thành vô số mảnh. Dưới luồng sáng của đèn pin, bụi xương bay lơ lửng cuộn trào mù mịt."
+    },
+    {
+      "para_id": "c0132p0037",
+      "index": 37,
+      "raw_zh": "雲千峰一愣：",
+      "translated_vi": "Vân Thiên Phong ngẩn người:"
+    },
+    {
+      "para_id": "c0132p0038",
+      "index": 38,
+      "raw_zh": "“咦？竟然真的只是個頭套。”",
+      "translated_vi": "“Ủa? Thế mà lại thực sự chỉ là một cái mũ trùm đầu.”"
+    },
+    {
+      "para_id": "c0132p0039",
+      "index": 39,
+      "raw_zh": "就見這狗頭頭套，雖然看似狗頭，但是那一對耳朵，根本就是兩個犄角。",
+      "translated_vi": "Chỉ thấy chiếc mũ trùm đầu chó này dẫu thoạt nhìn tựa đầu chó, nhưng đôi tai của nó căn bản lại là hai chiếc sừng nhọn hoắt."
+    },
+    {
+      "para_id": "c0132p0040",
+      "index": 40,
+      "raw_zh": "面龐形狀像狗似狼，但是獠牙很長，根本無法判斷是什麽凶獸。",
+      "translated_vi": "Khuôn mặt có hình dáng nửa chó nửa sói, nanh vuốt lại dài nhọn hoắt, căn bản không thể đoán định nổi là loại hung thú nào."
+    },
+    {
+      "para_id": "c0132p0041",
+      "index": 41,
+      "raw_zh": "用手觸摸頭套的材質，似皮非皮，就覺得熟悉。",
+      "translated_vi": "Dùng tay sờ vào chất liệu của chiếc mũ trùm, cảm giác tựa như da thú nhưng lại không hẳn là da, mang lại cảm giác vô cùng quen thuộc."
+    },
+    {
+      "para_id": "c0132p0042",
+      "index": 42,
+      "raw_zh": "“瑪德，和賴在我右臂上那張手臂的皮是一樣的！”",
+      "translated_vi": "“Mẹ kiếp, giống hệt chất liệu của lớp da cánh tay đang bám lì trên cánh tay phải của mình!”"
+    },
+    {
+      "para_id": "c0132p0043",
+      "index": 43,
+      "raw_zh": "雲千峰之所以罵髒話，就是因為他來這裡的目的就是找到與這右臂配套的其它部分，增加自己的生存能力。",
+      "translated_vi": "Vân Thiên Phong sở dĩ văng tục là vì mục đích anh mạo hiểm tới đây chính là để tìm kiếm những bộ phận khác đồng bộ với cánh tay phải này nhằm gia tăng khả năng sinh tồn của bản thân."
+    },
+    {
+      "para_id": "c0132p0044",
+      "index": 44,
+      "raw_zh": "畢竟這右臂有多厲害，他非常清楚。",
+      "translated_vi": "Dù sao cánh tay phải này lợi hại đến mức nào, trong lòng anh hiểu rõ hơn ai hết."
+    },
+    {
+      "para_id": "c0132p0045",
+      "index": 45,
+      "raw_zh": "但是面對這狗頭，他太難受了。",
+      "translated_vi": "Nhưng đứng trước cái đầu chó này, anh cảm thấy khó chịu tột cùng."
+    },
+    {
+      "para_id": "c0132p0046",
+      "index": 46,
+      "raw_zh": "“這這要是帶上了，肯定能變強，但變醜！而且很可能和右臂一樣，完全摘不下去。”",
+      "translated_vi": "“Cái... cái này nếu mà đội vào chắc chắn sẽ mạnh lên, nhưng mà xấu ma chê quỷ hờn! Đã thế rất có thể cũng giống như cánh tay phải, hoàn toàn không tháo ra được.”"
+    },
+    {
+      "para_id": "c0132p0047",
+      "index": 47,
+      "raw_zh": "“不過，會不會帶上以後，也像右臂一樣，成為紋身的模樣？那樣的話，還是能接受的。”",
+      "translated_vi": "“Cơ mà, liệu đội vào rồi có biến thành hình xăm giống như cánh tay phải không nhỉ? Nếu được như thế thì vẫn có thể chấp nhận được.”"
+    },
+    {
+      "para_id": "c0132p0048",
+      "index": 48,
+      "raw_zh": "帶不帶，這是個選擇題，但並不難選。",
+      "translated_vi": "Đội hay không đội, đây là một câu hỏi lựa chọn, nhưng cũng chẳng hề khó để chọn."
+    },
+    {
+      "para_id": "c0132p0049",
+      "index": 49,
+      "raw_zh": "變醜和變強之間，雲千峰選擇了後者，因為他想活著，僅此而已。",
+      "translated_vi": "Giữa việc trở nên xấu xí và trở nên mạnh mẽ, Vân Thiên Phong đã chọn vế sau, bởi vì anh muốn sống sót, chỉ đơn giản vậy thôi."
+    },
+    {
+      "para_id": "c0132p0050",
+      "index": 50,
+      "raw_zh": "右臂刀槍不入，那麽這頭套戴上了，估計也刀槍不入，一個不怕打的腦袋，那是相當重要了。",
+      "translated_vi": "Cánh tay phải đao thương bất nhập, vậy thì cái mũ trùm đầu này một khi đội vào e rằng cũng đao thương bất nhập. Một cái đầu không sợ bị đánh đập đối với anh quả thực quan trọng vô cùng."
+    },
+    {
+      "para_id": "c0132p0051",
+      "index": 51,
+      "raw_zh": "“先別帶上，等會用人臉和秦疏影他們道個別，留個好印象。”",
+      "translated_vi": "“Khoan hẵng đội vội, lát nữa phải dùng mặt người để chào tạm biệt nhóm Tần Sơ Ảnh, để lại chút ấn tượng tốt đẹp đã.”"
+    },
+    {
+      "para_id": "c0132p0052",
+      "index": 52,
+      "raw_zh": "他的心很悲涼。",
+      "translated_vi": "Cõi lòng anh dâng lên một nỗi bi thương chua xót."
+    },
+    {
+      "para_id": "c0132p0053",
+      "index": 53,
+      "raw_zh": "把狗頭夾在腋下，他拿起一根那疑似盤瓠的骨頭，借著手電的光線仔細看了看。",
+      "translated_vi": "Kẹp chiếc đầu chó vào nách, anh nhặt một mẩu xương nghi là của Bàn Hộ lên, nương theo ánh đèn pin quan sát kỹ lưỡng."
+    },
+    {
+      "para_id": "c0132p0054",
+      "index": 54,
+      "raw_zh": "“就是人骨啊！沒什麽特殊的啊！”",
+      "translated_vi": "“Rõ ràng là xương người mà! Chẳng có điểm gì đặc biệt cả!”"
+    },
+    {
+      "para_id": "c0132p0055",
+      "index": 55,
+      "raw_zh": "他用手使勁捏了一下，那根臂骨直接就碎裂，看不出和普通的枯骨有任何區別。",
+      "translated_vi": "Anh dùng sức bóp nhẹ một cái, khúc xương cánh tay kia liền lập tức nát vụn, nhìn không ra bất kỳ sự khác biệt nào so với xương khô thông thường."
+    },
+    {
+      "para_id": "c0132p0056",
+      "index": 56,
+      "raw_zh": "“奇怪，如果盤瓠是人，他為什麽害怕雕刻著連山易的大鍾？他在裡面，身高馬大，再不濟也能把這大鍾撞翻，他沒有就證明他甚至不敢觸碰這大鍾。”",
+      "translated_vi": "“Kỳ lạ thật, nếu Bàn Hộ là con người thì cớ sao ông ta lại sợ hãi quả chuông khắc Liên Sơn Dịch này? Ông ta ở bên trong, thân hình vạm vỡ to lớn, dẫu thế nào cũng có thể húc đổ quả chuông này chứ. Ông ta không làm điều đó chứng tỏ ông ta thậm chí còn không dám chạm vào quả chuông.”"
+    },
+    {
+      "para_id": "c0132p0057",
+      "index": 57,
+      "raw_zh": "“我是人，但我不怕連山易，秦疏影他們也不怕，這就證明人是不怕連山易的，這疑似盤瓠的家夥，肯定與人有不同之處，可惜化為枯骨，什麽也看不出了。”",
+      "translated_vi": "“Mình là người, nhưng mình không hề sợ Liên Sơn Dịch, nhóm Tần Sơ Ảnh cũng không sợ, điều đó chứng minh con người không sợ Liên Sơn Dịch. Kẻ nghi là Bàn Hộ này chắc chắn có điểm khác biệt so với loài người, tiếc là đã hóa thành xương khô nên chẳng nhìn ra được manh mối gì nữa.”"
+    },
+    {
+      "para_id": "c0132p0058",
+      "index": 58,
+      "raw_zh": "大鍾內再沒有什麽值得尋找的東西，一覽無遺的空間。",
+      "translated_vi": "Bên trong quả chuông lớn không còn thứ gì đáng để tìm kiếm nữa, không gian liếc mắt một cái là nhìn thấu toàn bộ."
+    },
+    {
+      "para_id": "c0132p0059",
+      "index": 59,
+      "raw_zh": "雲千峰緩了口氣，用右手抓住大鍾邊沿，開口吐氣發力。",
+      "translated_vi": "Vân Thiên Phong thở hắt ra một hơi, dùng bàn tay phải nắm chặt lấy mép chuông, hít sâu vận lực."
+    },
+    {
+      "para_id": "c0132p0060",
+      "index": 60,
+      "raw_zh": "這一次他沒有緩緩抬起，而是選擇直接把這千鈞大鍾向後掀翻。",
+      "translated_vi": "Lần này anh không từ từ nâng lên nữa, mà dứt khoát hất tung quả chuông ngàn cân này ngửa ra phía sau."
+    },
+    {
+      "para_id": "c0132p0061",
+      "index": 61,
+      "raw_zh": "這樣比緩緩抬起省勁多了。",
+      "translated_vi": "Làm như thế đỡ tốn sức hơn nâng chầm chậm rất nhiều."
+    },
+    {
+      "para_id": "c0132p0062",
+      "index": 62,
+      "raw_zh": "巨大的嗡鳴聲在大殿內響起，驚得外面三女心中一顫。",
+      "translated_vi": "Tiếng ong ong trầm đục đinh tai vang dội khắp đại điện khiến tim ba người phụ nữ ở bên ngoài giật thót một cái."
+    },
+    {
+      "para_id": "c0132p0063",
+      "index": 63,
+      "raw_zh": "但她們看到雲千峰在大鍾內出現，卻立馬有放平了心。",
+      "translated_vi": "Nhưng khi nhìn thấy Vân Thiên Phong bình an vô sự bước ra từ dưới đáy chuông, lòng bọn họ lập tức nhẹ nhõm trở lại."
+    },
+    {
+      "para_id": "c0132p0064",
+      "index": 64,
+      "raw_zh": "雲千峰腋下夾著狗頭，看著那新娘。",
+      "translated_vi": "Vân Thiên Phong kẹp chiếc đầu chó dưới nách, ngước nhìn cô dâu kia."
+    },
+    {
+      "para_id": "c0132p0065",
+      "index": 65,
+      "raw_zh": "就見新娘的眸子依舊盯著雲千峰看。",
+      "translated_vi": "Chỉ thấy đôi mắt của cô dâu vẫn đang nhìn chằm chằm vào Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0132p0066",
+      "index": 66,
+      "raw_zh": "雲千峰看磁錄景象依舊靜止，就思索著自己還差那個步驟。",
+      "translated_vi": "Thấy cảnh tượng từ tính vẫn bất động như cũ, Vân Thiên Phong trầm ngâm suy nghĩ xem mình còn thiếu bước nào nữa."
+    },
+    {
+      "para_id": "c0132p0067",
+      "index": 67,
+      "raw_zh": "隨即，他知道自己該怎麽做了。",
+      "translated_vi": "Ngay sau đó, anh liền hiểu ra mình phải làm gì."
+    },
+    {
+      "para_id": "c0132p0068",
+      "index": 68,
+      "raw_zh": "於是就見他面對著那新娘子跪下，把雙手拖起來，等著新娘子給嫁妝，讓這婚禮完成。",
+      "translated_vi": "Thế là chỉ thấy anh quỳ xuống đối diện với cô dâu, hai tay nâng cao lên như chiếc mâm hứng, chờ đợi cô dâu trao của hồi môn để hoàn tất hôn lễ này."
+    },
+    {
+      "para_id": "c0132p0069",
+      "index": 69,
+      "raw_zh": "然而，依舊沒有動靜。",
+      "translated_vi": "Thế nhưng, xung quanh vẫn không hề có chút động tĩnh nào."
+    },
+    {
+      "para_id": "c0132p0070",
+      "index": 70,
+      "raw_zh": "三女都看傻了，心話雲千峰這是要幹嘛？",
+      "translated_vi": "Ba người phụ nữ nhìn tới ngây người, trong bụng thầm tự hỏi rốt cuộc Vân Thiên Phong đang muốn làm cái trò gì?"
+    },
+    {
+      "para_id": "c0132p0071",
+      "index": 71,
+      "raw_zh": "雲千峰歎了口氣，站起身來，回到三女身邊，對著秦疏影說道：",
+      "translated_vi": "Vân Thiên Phong khẽ thở dài một tiếng, đứng dậy quay trở lại bên cạnh ba cô gái, nói với Tần Sơ Ảnh:"
+    },
+    {
+      "para_id": "c0132p0072",
+      "index": 72,
+      "raw_zh": "“疏影，記住我現在的臉。”",
+      "translated_vi": "“Sơ Ảnh, hãy nhớ kỹ khuôn mặt này của anh lúc này nhé.”"
+    },
+    {
+      "para_id": "c0132p0073",
+      "index": 73,
+      "raw_zh": "秦疏影被這話說愣住了，忙問道：",
+      "translated_vi": "Tần Sơ Ảnh bị câu nói ấy làm cho sững sờ, vội hỏi dồn:"
+    },
+    {
+      "para_id": "c0132p0074",
+      "index": 74,
+      "raw_zh": "“我都刻在心裡了，伱你要幹嘛？”",
+      "translated_vi": "“Em đã khắc sâu vào tim rồi, anh... anh định làm gì thế?”"
+    },
+    {
+      "para_id": "c0132p0075",
+      "index": 75,
+      "raw_zh": "雲千峰無奈，道：",
+      "translated_vi": "Vân Thiên Phong bất đắc dĩ bảo:"
+    },
+    {
+      "para_id": "c0132p0076",
+      "index": 76,
+      "raw_zh": "“我可能要變成狗頭人了，你們多看一眼是一眼，抓緊，給你們十秒鍾。”",
+      "translated_vi": "“Anh có lẽ sắp biến thành người đầu chó rồi, mấy người nhìn thêm được cái nào hay cái nấy, nhanh lên, cho mấy cô mười giây.”"
+    },
+    {
+      "para_id": "c0132p0077",
+      "index": 77,
+      "raw_zh": "秦疏影急道：",
+      "translated_vi": "Tần Sơ Ảnh sốt ruột kêu lên:"
+    },
+    {
+      "para_id": "c0132p0078",
+      "index": 78,
+      "raw_zh": "“不變行不行？”",
+      "translated_vi": "“Không biến đổi có được không anh?”"
+    },
+    {
+      "para_id": "c0132p0079",
+      "index": 79,
+      "raw_zh": "雲千峰抬頭看了一眼大殿的頂部，但是他的目光的焦點分明是大殿外的天空。",
+      "translated_vi": "Vân Thiên Phong ngửa đầu nhìn lên nóc đại điện, nhưng tiêu điểm ánh mắt của anh rõ ràng lại hướng về bầu trời bên ngoài đại điện."
+    },
+    {
+      "para_id": "c0132p0080",
+      "index": 80,
+      "raw_zh": "“唉！不變出不去！”",
+      "translated_vi": "“Haizz! Không biến đổi thì không ra ngoài được đâu!”"
+    },
+    {
+      "para_id": "c0132p0081",
+      "index": 81,
+      "raw_zh": "這沒法阻止了。",
+      "translated_vi": "Chuyện này không còn cách nào ngăn cản được nữa."
+    },
+    {
+      "para_id": "c0132p0082",
+      "index": 82,
+      "raw_zh": "十秒一過，雲千峰對著秦疏影和另外兩女一笑，轉身走到新娘面前，面對著她跪好。",
+      "translated_vi": "Mười giây vừa trôi qua, Vân Thiên Phong mỉm cười với Tần Sơ Ảnh và hai cô gái còn lại, rồi xoay người bước tới trước mặt cô dâu, quỳ ngay ngắn đối diện với nàng."
+    },
+    {
+      "para_id": "c0132p0083",
+      "index": 83,
+      "raw_zh": "然後雙手托起狗頭頭套，套在了自己的腦袋上",
+      "translated_vi": "Sau đó, anh hai tay nâng chiếc mũ trùm đầu chó lên, chụp thẳng vào đầu mình..."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0290|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §98):
+§1 290.第290章 風水局
+§2 第290章 風水局
+§3 十八層內。
+§4 地獄的夜晚沒有星。
+§5 [Ø=云千峰]到了夜裡，只剩下四周無盡的漆黑。
+§6 [Ø=云千峰]那小小的篝火無法驅散這樣的黑暗，只能照亮小小的一塊地方。
+§7 [Ø=云千峰]野牛肉大補，倆人現在身上熱氣亂竄。
+§8 [Ø=云千峰]女人喜潔淨，尤其是這沒事就泡華清池的楊玉奴。
+§9 [Ø=云千峰]吃飽後出了細汗，想到自己風吹日曬一千多年沒洗澡，楊玉奴就分外覺得難受。
+§10 [Ø=云千峰]“郎君，妾身想去潔身，如此黏膩， [||] 非常不適，不瞞郎君，妾身略有潔癖。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=云千峰]雲千峰聽到這話就驚呆了，問道：
+§12 “你竟然有潔癖？你竟然說自己有潔癖？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 [Ø=云千峰]楊玉奴被雲千峰反問的有點懵，因為她說的是真話，自己真的有潔癖，於是弱弱道：
+§14 [Ø=云千峰]“是有些的，郎君為何如此驚訝？難不成，太真在郎君眼裡很髒嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 [Ø=云千峰]說著，臉上露出了淡淡的哀怨、弱弱的委屈、小小的嗔怒，眸子裡還蒙了水霧。
+§16 [Ø=云千峰]這就是楊玉奴的手段，表情用淡，絕不誇張。
+§17 [Ø=云千峰]她倒不是想對雲千峰用馭男手段，完全是習慣。
+§18 [Ø=云千峰]雲千峰摸了摸鼻子，舔了舔嘴唇，然後笑道：
+§19 [Ø=云千峰]“大丫鬟啊，你一千多年沒刷牙，都吃了牛肉了，你說你有潔癖”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§20 “嘔！！！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 [Ø=云千峰]雲千峰話沒說完，楊玉奴吐了。
+§22 心裡怒罵：“你缺德不缺德！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 [Ø=云千峰]雲千峰不說這話，楊玉奴真沒想起來，餓壞了，而且一千多年， [||] 腦子還沒緩過來，這不是才吃飽，就才想起乾淨來，結果就被雲千峰沉重的打擊了一下。
+§24 “嚶嚶嬰太真不活了吧嗚嗚嗚.在郎君眼裡太真成了.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 一哭二鬧三上吊的前奏。
+§26 [Ø=云千峰]雲千峰都要笑岔氣了，當下忙拽著楊玉奴的胳膊，笑得面容扭曲道：
+§27 [Ø=云千峰]“走走走，潔身潔身去。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 [Ø=云千峰]楊玉奴一扭搭，委屈道：
+§29 [Ø=云千峰]“不去，讓太真髒死算了，一千多年不洗澡， [||] 一千多年不刷牙，髒死算了，反正太真也是郎君的丫鬟，丟的也不是太真的臉。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§30 雲千峰“哼哼”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]兩聲道：
+§31 “不去打死！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§32 [Ø=云千峰]楊玉奴曲腰行禮，柔聲道：
+§33 [Ø=云千峰]“太真去就是了，郎君莫嚇唬人，太真膽子小，嚇壞了誰伺候郎君起居？可使不得。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 [Ø=云千峰]這女人對現實的妥協速度，超越光速。
+§35 [Ø=云千峰]順風耍脾氣，頂風就轉向，哲學啊！
+§36 [Ø=云千峰]就這套太極拳，雲千峰都覺得絲滑，完全無處使力，最後只能順著她走。
+§37 [Ø=云千峰]“走走，老爺我帶你去潔身。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 [Ø=云千峰]雲千峰很清楚，楊玉奴對自己說要潔身，那就是怕黑，想叫自己陪著。
+§39 [Ø=云千峰]此時主動請纓，卻沒覺得自己被拿捏了， [||] 反而有一種對方離不開自己，要依靠自己的滿足感，虛榮心莫名的就被滿足了。
+§40 [Ø=云千峰]潤物細無聲，有手段的女人都是這樣讓男人傾家蕩產的。
+§41 [Ø=云千峰]楊玉奴在篝火邊上弄了些黑炭，用闊葉包了， [||] 又弄了根柔韌的樹枝，用銀牙咬了咬，這便成了牙刷。
+§42 [Ø=云千峰]還別說，挺有方法，懂得挺多。
+§43 [Ø=云千峰]雲千峰閉目感受一下，沒有被窺伺的感覺，這才領著楊玉奴去溪水源頭的池水邊。
+§44 [Ø=云千峰]在雲千峰看來，楊玉奴說出“做牛做馬”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]那句話時，她所有權就是自己的了， [||] 那就不是別人隨便看的，畢竟他不是蘇東坡，也沒有蘇東坡的愛好。
+§45 [Ø=云千峰]池水邊的光線分外的好，伸手不見五指。
+§46 挨著邊上洗澡都別想看見。
+§47 [Ø=云千峰]楊玉奴在上遊，雲千峰在挨著的下遊，把衣服摸黑用石頭壓在岸邊，就那麽在冰冷的水裡清洗起來。
+§48 [Ø=云千峰]每隔一小會，楊玉奴就會問一句：
+§49 “郎君在否？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§50 “在呢。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§51 [Ø=云千峰]再隔一會，還問，可見這是多沒有安全感。
+§52 [Ø=云千峰]雲千峰後來被問得煩了，就乾脆開始哼小曲，楊玉奴終於不再問了，能聽見。
+§53 [Ø=云千峰]雲千峰早早的洗好，穿好皮甲坐在水邊等著，嘴裡還唱著“那一年的雪花飄落梅花開枝頭，那一年的華清池旁留下太多愁.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]。
+§54 [Ø=云千峰]楊玉奴洗的很仔細，自然也慢，為了乾淨不怕冷。
+§55 [Ø=云千峰]“郎君，這是唱我的？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§56 [Ø=云千峰]“後世唱你的歌多了去了，你洗澡那小破池子都成了旅遊聖地，進去看一眼還得買門票，瑪德！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§57 [Ø=云千峰]“郎君，能都和太真講講嗎？太真很想知道。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§58 [Ø=云千峰]“好啊，你啊， [||] 老出名了，被稱為華夏五千年裡，最漂亮的四個女人之一”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§59 [Ø=云千峰]“郎君，那這樣一個女人成了你的丫鬟，你可得對她好些。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§60 [Ø=云千峰]“嗯，那是，盡量不往死打。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§61 “.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§62 回到篝火旁。
+§63 沐浴後的楊玉奴在微弱的火光下似乎散發著光芒。
+§64 [Ø=云千峰]只是簡單的用碳清洗，但近了卻能嗅到淡淡的香，也是神奇。
+§65 [Ø=云千峰]疲憊而又吃多了的倆人，就那麽挨著躺在枯草上，露天睡得死沉。
+§66 [Ø=云千峰]楊玉奴挨著雲千峰比較近，似乎這樣才能睡踏實，畢竟這裡的一切都讓人不安。
+§67 [Ø=云千峰]但又絕對不挨著，保持著一個距離。
+§68 [Ø=云千峰]一千多年的折磨，沒讓她學會堅強，隻學會了膽小和恐懼。
+§69 [Ø=云千峰]雲千峰感覺到楊玉奴的謹小慎微，心裡暗討：
+§70 [Ø=云千峰]“知道恐懼的人好啊，知道怕就不會做錯事。不過保持不挨著的距離是什麽意思？看來這女人還是喜歡琴棋書畫的雅人啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§71 [Ø=云千峰]雲千峰翻身，背對著楊玉奴，屁股一拱， [||] 故意碰到楊玉奴，後者果然不動聲色的躲了開去，雲千峰嘴角翹了翹，睡沉過去。
+§72 次日天亮。
+§73 [Ø=云千峰]雲千峰用兩個小時，使用指揮刀砍樹， [||] 搭了一個斜坡避身所，這東西臨時居住，最起碼能遮風擋雨。
+§74 [Ø=云千峰]隨後他去那倒霉的野牛群逛了一圈，花費一個多小時時間弄回來一頭公牛。
+§75 [Ø=云千峰]午飯前把牛皮剝下，牛角留好，剩下的活都是楊玉奴的。
+§76 [Ø=云千峰]一頭牛已經足夠楊玉奴忙活一整天，都未必能弄完。
+§77 所以下午雲千峰便沒了事情做。
+§78 [Ø=云千峰]他左思右想，決定出去逛逛。
+§79 [Ø=云千峰]“大丫鬟，你在這裡忙著，我出去逛逛， [||] 晚些回來，你記得把牛鞭今晚都烤了，那玩意曬幹了不好吃。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§80 [Ø=云千峰]楊玉奴臉色一下羞紅一片，低頭蚊子聲道：
+§81 “嗯”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§82 嗯完了才想起問：
+§83 [Ø=云千峰]“郎君去哪？不要走遠，否則太真很怕！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§84 雲千峰笑道：
+§85 [Ø=云千峰]“放心，就這跟前轉轉。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§86 [Ø=云千峰]說著，順走了楊玉奴原本脖子上那白綾，大踏步的走了出去。
+§87 [Ø=云千峰]無邊的苦海之中，一個礁石上， [||] 蹲著一個女人，長得還不錯，看著很職業。
+§88 [Ø=云千峰]她在陰冷的海風裡瑟瑟發抖，面色慘白的看著茫茫無盡的海水，淚流滿面。
+§89 [Ø=云千峰]她很餓，很冷，很怕。
+§90 [Ø=云千峰]但是她無處可去，因為礁石的周圍滿是嗜血的鯊魚。
+§91 [Ø=云千峰]她只能被困在這裡，在饑餓、寒冷和恐懼裡渡過那漫長的一分一秒。
+§92 [Ø=云千峰]就在這時，遠處海面上卻有一個黑色的身影快速移動過來。
+§93 [Ø=云千峰]看樣子就好像在衝浪，但是海上明明沒有浪。
+§94 [Ø=云千峰]“奇怪，他是怎麽做到速度這麽快？都沒有海浪！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§95 [Ø=云千峰]“哎喲，想這個幹嘛！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§96 [Ø_SHIFT=姜柔甲]這女人急忙站直了，把衣領往開拽了拽，高聲呼喊：
+§97 “救命！救命啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§98 [Ø=姜柔甲]雲千峰正騎著鯊魚快艇亂轉，這遇到一個活的，心知是蚩尤歸位後死的人，否則不能這麽活蹦亂跳。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 98 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§98. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

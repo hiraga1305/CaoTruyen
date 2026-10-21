@@ -1,0 +1,397 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 70,
+  "title": "Chương 70: Mật văn Hoàng Đế",
+  "total_paragraphs": 64,
+  "translated_paragraphs": 64,
+  "source_hash": "3e4c77fae3213320d33e5c287305656e23ab8132bc1e719036aeb182f64ddfda",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0070p0001",
+      "index": 1,
+      "raw_zh": "第70章 黃帝密文",
+      "translated_vi": "Chương 70: Mật văn Hoàng Đế"
+    },
+    {
+      "para_id": "c0070p0002",
+      "index": 2,
+      "raw_zh": "“不、不、不，這怎麽可能？除非地球停止自轉，否則怎麽可能存在大地與太陽的相對靜止。”",
+      "translated_vi": "“Không, không thể nào! Trừ phi Trái Đất ngừng tự quay quanh trục, bằng không làm sao có thể tồn tại trạng thái đứng yên tương đối giữa mặt đất và mặt trời được?”"
+    },
+    {
+      "para_id": "c0070p0003",
+      "index": 3,
+      "raw_zh": "地球停止自轉，這世界頃刻間就會崩壞，而他們現在還活的好好地，所以自然是不可能發生的。",
+      "translated_vi": "Trái Đất mà ngừng tự quay thì thế giới này trong khoảnh khắc sẽ sụp đổ tan tành ngay, trong khi họ lúc này vẫn đang sống sờ sờ ra đó, cho nên chuyện ấy hiển nhiên là không thể xảy ra."
+    },
+    {
+      "para_id": "c0070p0004",
+      "index": 4,
+      "raw_zh": "“可是，除了地球停止自轉，還有什麽情況能讓大地和太陽形成類似的相對靜止呢？”",
+      "translated_vi": "“Thế nhưng ngoài việc Trái Đất ngừng quay, còn có tình huống nào khác có thể khiến mặt đất và mặt trời hình thành trạng thái tương đối đứng yên như thế này cơ chứ?”"
+    },
+    {
+      "para_id": "c0070p0005",
+      "index": 5,
+      "raw_zh": "白妹子聽到雲千峰自言自語，年輕的腦袋瓜靈感迸發，神秘兮兮的靠近雲千峰，在他耳邊輕聲道：",
+      "translated_vi": "Cô gái họ Bạch nghe thấy Vân Thiên Phong lẩm bẩm một mình, cái đầu non nớt của tuổi trẻ bỗng bộc phát linh cảm, liền thần thần bí bí ghé sát lại gần Vân Thiên Phong, thì thào vào tai anh:"
+    },
+    {
+      "para_id": "c0070p0006",
+      "index": 6,
+      "raw_zh": "“會謀會系外星銀？這磊系外星銀個灰船，嘔們看告個黑西系嘭謀？”",
+      "translated_vi": "“Lịu có phởi ngừi ngoài hành tinh hem? Chỗ lày nà phi thiền của ngừi ngoài hành tinh, cái chúng mềnh nhìn thía nà màn hền?”"
+    },
+    {
+      "para_id": "c0070p0007",
+      "index": 7,
+      "raw_zh": "雲千峰都驚呆了，心話舌頭尖沒了，說話竟然是粵語和東北口音的混搭。",
+      "translated_vi": "Vân Thiên Phong nghe mà ngây cả người ra, trong lòng thầm than trời: cái cô nương này bị đứt chóp lưỡi xong nói chuyện lại biến thành món lẩu thập cẩm lai căng giữa giọng Quảng Đông với giọng Đông Bắc thế này."
+    },
+    {
+      "para_id": "c0070p0008",
+      "index": 8,
+      "raw_zh": "這很難翻譯啊！",
+      "translated_vi": "Cái này thực sự quá khó để phiên dịch rồi đấy!"
+    },
+    {
+      "para_id": "c0070p0009",
+      "index": 9,
+      "raw_zh": "前面雲千峰算是勉強想明白了，但是後面那句怎麽也搞不清楚，於是問道：",
+      "translated_vi": "Đoạn trước Vân Thiên Phong còn miễn cưỡng hiểu được, nhưng câu sau thì anh vắt óc mãi vẫn chẳng tài nào luận ra nổi, bèn hỏi lại:"
+    },
+    {
+      "para_id": "c0070p0010",
+      "index": 10,
+      "raw_zh": "“嘭謀是啥啊？”",
+      "translated_vi": "“‘Màn hền’ là cái quái gì thế?”"
+    },
+    {
+      "para_id": "c0070p0011",
+      "index": 11,
+      "raw_zh": "白妹子急得使勁一扭搭，跺了一下腳，抓狂道：",
+      "translated_vi": "Cô gái họ Bạch sốt ruột vặn vẹo cả người, dậm chân thon bành bạch, phát cáu gắt lên:"
+    },
+    {
+      "para_id": "c0070p0012",
+      "index": 12,
+      "raw_zh": "“你這個銀仲謀種謀棒，嘭謀就是嘭謀啦！”",
+      "translated_vi": "“Anh này xao ngốc nghếch thía nhờ, màn hền chính nà màn hền á!”"
+    },
+    {
+      "para_id": "c0070p0013",
+      "index": 13,
+      "raw_zh": "說著用手指在地上寫了倆字“屏幕”。",
+      "translated_vi": "Vừa nói, cô vừa lấy ngón tay vạch xuống nền đất hai chữ: “Màn hình”."
+    },
+    {
+      "para_id": "c0070p0014",
+      "index": 14,
+      "raw_zh": "看著地上的字，雲千峰和朱柏龍面面相覷，一起吧嗒吧嗒嘴，心裡再次感慨“多好一姑娘啊.”。",
+      "translated_vi": "Nhìn hai chữ viết trên mặt đất, Vân Thiên Phong và Chu Bách Long đưa mắt nhìn nhau đầy bất lực, cùng chép miệng tặc lưỡi mấy tiếng, trong bụng thầm cảm thán lần thứ n: “Đúng là một cô gái xinh xắn đáng yêu, thế mà...”."
+    },
+    {
+      "para_id": "c0070p0015",
+      "index": 15,
+      "raw_zh": "白妹子的意思是，這裡是外星人的飛船，他們看到的其實是飛船上的巨大屏幕，所以才會出現太陽與地面靜止的畫面。",
+      "translated_vi": "Ý của cô gái họ Bạch là nơi đây vốn là phi thuyền của người ngoài hành tinh, những gì họ trông thấy thực chất chỉ là một màn hình khổng lồ trên phi thuyền mà thôi, bởi vậy mới xuất hiện khung cảnh mặt trời đứng yên bất động so với mặt đất."
+    },
+    {
+      "para_id": "c0070p0016",
+      "index": 16,
+      "raw_zh": "這雖然也不靠譜，但最起碼比地球停轉靠譜了一點，但你要說外星飛船裡除了石頭就是草木，那實在有點扯。",
+      "translated_vi": "Giả thuyết này tuy nghe cũng chẳng đáng tin cậy cho lắm, nhưng chí ít ra vẫn còn có lý hơn cái chuyện Trái Đất ngừng quay. Ngặt nỗi nếu bảo trong phi thuyền của người ngoài hành tinh mà ngoài đá tảng với cỏ cây hoa lá ra chẳng có thiết bị công nghệ nào thì quả thực hơi bị hoang đường quá trớn."
+    },
+    {
+      "para_id": "c0070p0017",
+      "index": 17,
+      "raw_zh": "雲千峰之所以糾結，是因為太陽否定了這裡是地下的空間，證明他們是在地面之上。",
+      "translated_vi": "Sở dĩ Vân Thiên Phong đau đầu bứt tóc là bởi sự hiện diện của mặt trời đã phủ nhận hoàn toàn khả năng nơi đây là một không gian dưới lòng đất, chứng minh họ đang ở trên mặt đất."
+    },
+    {
+      "para_id": "c0070p0018",
+      "index": 18,
+      "raw_zh": "隨後發現太陽和地面是相對靜止關系，這又與地球的客觀規律相違背，讓他無法判定自己到底身在何處。",
+      "translated_vi": "Song sau đó lại phát hiện mặt trời và mặt đất nằm trong mối quan hệ tương đối đứng yên, điều này lại đi ngược lại với quy luật khách quan của Trái Đất, khiến anh căn bản không thể xác định nổi bản thân rốt cuộc đang trôi dạt ở chốn nào."
+    },
+    {
+      "para_id": "c0070p0019",
+      "index": 19,
+      "raw_zh": "他使勁晃了晃腦袋，把這些想不清楚的事拋之腦外，深呼吸讓自己冷靜下來，思考接下來的行動。",
+      "translated_vi": "Anh lắc mạnh đầu một cái, gạt phắt những điều chưa thể lý giải sang một bên, hít một hơi thật sâu để lấy lại bình tĩnh rồi suy tính cho những hành động kế tiếp."
+    },
+    {
+      "para_id": "c0070p0020",
+      "index": 20,
+      "raw_zh": "“無論這裡是不是神跡空間，我都要繼續向前探索。是神跡空間，就要找到神軀。不是神跡空間，也要想辦法走出去，不糾結有的沒的，隻做必須做的。”",
+      "translated_vi": "“Bất luận nơi này có phải là không gian di tích thần thánh hay không, mình vẫn phải tiếp tục tiến về phía trước thám hiểm. Nếu là không gian di tích thì phải tìm cho ra thần thể; còn nếu không phải thì cũng phải nghĩ cách thoát ra ngoài. Không cần vướng bận những chuyện viển vông vô ích, chỉ làm những việc buộc phải làm.”"
+    },
+    {
+      "para_id": "c0070p0021",
+      "index": 21,
+      "raw_zh": "又等待了一段時間，此時已經是晚上九點鍾。",
+      "translated_vi": "Lại kiên nhẫn đợi thêm một hồi, lúc này đồng hồ đã điểm chín giờ tối."
+    },
+    {
+      "para_id": "c0070p0022",
+      "index": 22,
+      "raw_zh": "太陽依舊在天邊一動不動，讓這個世界浸泡在橘色之中。",
+      "translated_vi": "Vầng thái dương nơi chân trời vẫn cứ sững sờ bất động, dìm trọn cả thế giới này vào một sắc cam nồng đượm ma mị."
+    },
+    {
+      "para_id": "c0070p0023",
+      "index": 23,
+      "raw_zh": "霧氣般的細碎雨滴依舊在飄蕩著，絲毫沒有停下來的意思。",
+      "translated_vi": "Những giọt mưa bụi mỏng manh như làn sương mờ vẫn lơ lửng giăng mắc khắp nơi, chẳng mảy may có dấu hiệu ngơi nghỉ."
+    },
+    {
+      "para_id": "c0070p0024",
+      "index": 24,
+      "raw_zh": "雲千峰看著遠處如煙飄蕩的地方就有四五處，但是根本無法判斷那是蘑菇的孢子還是真正的煙霧。",
+      "translated_vi": "Vân Thiên Phong phóng tầm mắt nhìn ra phía xa, thấy có tới bốn năm điểm đang nghi ngút bốc lên làn khói mờ ảo, nhưng anh căn bản không tài nào phân biệt nổi đó là cột bào tử nấm bắn ra hay là khói lửa thực sự."
+    },
+    {
+      "para_id": "c0070p0025",
+      "index": 25,
+      "raw_zh": "“百米寬的巨口把我們吸進來，旋轉著拋出去，最遠的人之間距離甚至達到幾百米，巨大蘑菇噴射孢子又讓狼煙通訊失效，想要這樣等到彼此匯合幾率太過渺茫，他們也會明白這一點，然後選擇直接去尋找神軀。”",
+      "translated_vi": "“Cái miệng khổng lồ rộng cả trăm mét đã hút trọn chúng mình vào rồi xoay tròn quăng quật ra các hướng, khoảng cách giữa những người xa nhất thậm chí lên tới hàng trăm mét. Đám nấm khổng lồ liên tục phun trào bào tử lại làm vô hiệu hóa phương thức liên lạc bằng khói lửa báo hiệu, muốn ngồi đây đợi mọi người tự tìm đến tụ họp quả thực xác suất quá đỗi mong manh. E rằng những người kia cũng sẽ sớm hiểu ra điều này, rồi dứt khoát chọn cách đi thẳng tới tìm kiếm thần thể.”"
+    },
+    {
+      "para_id": "c0070p0026",
+      "index": 26,
+      "raw_zh": "想到這，雲千峰站起身，撣了撣褲子上的泥土，對旁邊倆人說道：",
+      "translated_vi": "Nghĩ đến đây, Vân Thiên Phong đứng dậy, phủi sạch bụi đất bám trên ống quần, quay sang nói với hai người bên cạnh:"
+    },
+    {
+      "para_id": "c0070p0027",
+      "index": 27,
+      "raw_zh": "“我要繼續出發尋找離開這裡的辦法，你們是在這裡等著其他人匯合還是跟著我一起走？我必須事先聲明，前路可能會有危險，所以伱們自己做選擇。”",
+      "translated_vi": "“Tôi sẽ tiếp tục lên đường tìm cách rời khỏi nơi này. Hai người muốn ở lại đây chờ những người khác đến tụ họp hay đi theo tôi? Tôi phải nói trước là con đường phía trước lành ít dữ nhiều, có thể gặp phải nguy hiểm khôn lường, cho nên hai người hãy tự mình đưa ra lựa chọn.”"
+    },
+    {
+      "para_id": "c0070p0028",
+      "index": 28,
+      "raw_zh": "朱柏龍看了看四周，問道：",
+      "translated_vi": "Chu Bách Long nhìn dáo dác xung quanh một lượt, hỏi:"
+    },
+    {
+      "para_id": "c0070p0029",
+      "index": 29,
+      "raw_zh": "“那你知道咱們該往哪面走？左邊？右邊？還是前邊？”",
+      "translated_vi": "“Thế anh có biết chúng mình nên đi về hướng nào không? Rẽ trái? Rẽ phải? Hay đâm thẳng về phía trước?”"
+    },
+    {
+      "para_id": "c0070p0030",
+      "index": 30,
+      "raw_zh": "雲千峰搖了搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu:"
+    },
+    {
+      "para_id": "c0070p0031",
+      "index": 31,
+      "raw_zh": "“我不知道，但我選擇往前！”",
+      "translated_vi": "“Tôi không biết, nhưng tôi chọn đâm thẳng về phía trước!”"
+    },
+    {
+      "para_id": "c0070p0032",
+      "index": 32,
+      "raw_zh": "要想知道這裡是不是神跡，去往核心區域是不二的選擇。",
+      "translated_vi": "Muốn biết nơi đây rốt cuộc có phải là di tích thần thánh hay không, tiến thẳng vào khu vực trung tâm là sự lựa chọn duy nhất và tối ưu nhất."
+    },
+    {
+      "para_id": "c0070p0033",
+      "index": 33,
+      "raw_zh": "朱柏龍伸了個懶腰，躺在篝火旁，道：",
+      "translated_vi": "Chu Bách Long vươn vai một cái thật dài, ngả lưng nằm bệt xuống cạnh đống lửa trại, bảo:"
+    },
+    {
+      "para_id": "c0070p0034",
+      "index": 34,
+      "raw_zh": "“那我還是在這裡等著別人匯合吧，在這裡亂走，那不找死嗎！”",
+      "translated_vi": "“Thế thì tôi thà cứ nằm ườn ở đây chờ người khác tới tụ họp cho lành. Ở cái chốn ma quái này mà đi lung tung chẳng khác nào tự đâm đầu vào chỗ chết!”"
+    },
+    {
+      "para_id": "c0070p0035",
+      "index": 35,
+      "raw_zh": "雲千峰沒勸說，因為沒必要，當下轉身迎著日頭的方向走去。",
+      "translated_vi": "Vân Thiên Phong chẳng buồn khuyên can làm gì cho mất công, lập tức quay người rảo bước tiến thẳng về hướng vầng thái dương."
+    },
+    {
+      "para_id": "c0070p0036",
+      "index": 36,
+      "raw_zh": "白妹子糾結的原地轉了三個圈，最後使勁一跺腳，選擇快步追上雲千峰的方向。",
+      "translated_vi": "Cô gái họ Bạch bối rối xoay vòng tròn tại chỗ đến ba lượt, cuối cùng giậm mạnh chân một cái, quyết định rảo bước chạy đuổi theo hướng đi của Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0070p0037",
+      "index": 37,
+      "raw_zh": "她倒不是不怕危險，主要是感覺雲千峰好像比朱柏龍看著靠譜。",
+      "translated_vi": "Không phải cô không sợ nguy hiểm, mà chủ yếu là cô cảm thấy đi theo Vân Thiên Phong trông đáng tin cậy hơn hẳn cái gã Chu Bách Long kia."
+    },
+    {
+      "para_id": "c0070p0038",
+      "index": 38,
+      "raw_zh": "雲千峰看著頭頂雲霧之中若隱若現的青紫色電弧，對著白妹子道：",
+      "translated_vi": "Vân Thiên Phong nhìn những tia hồ quang điện màu tím xanh thoắt ẩn thoắt hiện trong tầng mây mù trên đỉnh đầu, dặn dò cô gái họ Bạch:"
+    },
+    {
+      "para_id": "c0070p0039",
+      "index": 39,
+      "raw_zh": "“一定要保護好嘴巴，那些人面篆很可能就在附近躲著。”",
+      "translated_vi": "“Nhất định phải che chắn miệng cho cẩn thận, đám Nhân Diện Triện kia rất có thể đang rình rập ẩn nấp ngay quanh đây đấy.”"
+    },
+    {
+      "para_id": "c0070p0040",
+      "index": 40,
+      "raw_zh": "白妹子深受其害，一聽這話頓時嚇得小臉煞白，連連點頭表示自己會小心。",
+      "translated_vi": "Từng nếm trải nỗi kinh hoàng thấu tận tim gan, cô gái họ Bạch vừa nghe thấy câu đó mặt mũi liền cắt không còn một hột máu, vội vã gật đầu lia lịa ra hiệu rằng mình sẽ hết sức cẩn thận."
+    },
+    {
+      "para_id": "c0070p0041",
+      "index": 41,
+      "raw_zh": "人面篆這東西比較難纏，因為人被它寄生之後，自己並不會發覺，想來那東西咬到人的舌頭後，會釋放某種麻醉劑，讓人感覺不到舌頭被慢慢吞噬的疼痛。",
+      "translated_vi": "Nhân Diện Triện là loài quái vật cực kỳ khó đối phó, bởi khi con người bị nó ký sinh vào thì bản thân hoàn toàn không hề hay biết. Xem ra sau khi ngoạm chặt lấy lưỡi người ta, thứ đó sẽ tiết ra một loại độc tố gây mê khiến nạn nhân không hề cảm nhận được nỗi đau đớn khi chiếc lưỡi bị nó gặm nhấm nuốt chửng từng chút một."
+    },
+    {
+      "para_id": "c0070p0042",
+      "index": 42,
+      "raw_zh": "倆人在這猶如石炭紀的叢林裡小心翼翼的走著，大約千米左右，身邊的雨霧突然就消失了。",
+      "translated_vi": "Hai người cẩn trọng từng bước dò dẫm trong khu rừng nguyên sinh chẳng khác nào Kỷ Than Đá, đi được chừng một cây số thì làn mưa bụi nhớp nháp bên người bỗng nhiên biến mất tăm."
+    },
+    {
+      "para_id": "c0070p0043",
+      "index": 43,
+      "raw_zh": "抬起頭來，上方霧氣依舊，但卻不再飄蕩下來。",
+      "translated_vi": "Ngẩng đầu nhìn lên, tầng sương mù phía trên vẫn lơ lửng giăng kín, nhưng không còn hạt nước nào rơi rớt xuống nữa."
+    },
+    {
+      "para_id": "c0070p0044",
+      "index": 44,
+      "raw_zh": "轉回身，伸出手，近在咫尺之地，卻依舊碎雨飄蕩，乾濕分離得涇渭分明。",
+      "translated_vi": "Quay người lại đưa tay ra, nơi chỉ cách mình một gang tấc, mưa bụi vẫn lất phất bay lượn, khô và ướt tách biệt rạch ròi phân minh như ranh giới sông Kinh sông Vị."
+    },
+    {
+      "para_id": "c0070p0045",
+      "index": 45,
+      "raw_zh": "也就在這裡，周圍的植物特發生了極大的變化。",
+      "translated_vi": "Cũng chính tại nơi này, thảm thực vật xung quanh đã xảy ra sự biến đổi cực kỳ to lớn."
+    },
+    {
+      "para_id": "c0070p0046",
+      "index": 46,
+      "raw_zh": "不再是那種石炭紀的蕨類天下，而似乎是變成了熱帶的雨林，木質樹木變得多了起來。",
+      "translated_vi": "Không còn là thiên hạ độc tôn của loài dương xỉ thân gỗ thời Kỷ Than Đá nữa, mà dường như đã chuyển mình thành một khu rừng mưa nhiệt đới, các loại thân cây gỗ bắt đầu xuất hiện dày đặc."
+    },
+    {
+      "para_id": "c0070p0047",
+      "index": 47,
+      "raw_zh": "有一種很像榕樹的巨大樹木，隨便一棵怕是都有直徑七八米，上面氣根繚繞，在風中蕩著，一如陰靈的長發。",
+      "translated_vi": "Có một loài đại thụ trông rất giống cây đa cây si, tùy tiện chọn bừa một gốc e rằng đường kính thân cây cũng phải lên tới bảy tám mét, rễ khí sinh chằng chịt quấn quanh rủ xuống, đung đưa trong gió hệt như suối tóc xõa dài của đám âm linh oan hồn."
+    },
+    {
+      "para_id": "c0070p0048",
+      "index": 48,
+      "raw_zh": "也就是在這晴雨、木蕨的交界處，立著一塊巨大的石頭。",
+      "translated_vi": "Và ngay tại ranh giới giao thoa giữa nắng mưa cùng hai vùng thực vật mộc - quyết ấy, sừng sững dựng một khối cự thạch khổng lồ."
+    },
+    {
+      "para_id": "c0070p0049",
+      "index": 49,
+      "raw_zh": "這老大的石頭足有七八米高，輪廓隨形，並沒有修飾，但是對著蕨類植物一側的面卻被簡單磨平，上面雕刻著一幅圖案。",
+      "translated_vi": "Khối đá khổng lồ kia cao tới bảy tám mét, đường nét gồ ghề tự nhiên không hề qua đục đẽo chỉnh sửa, duy chỉ có bề mặt hướng về phía vùng thực vật dương xỉ là được mài phẳng đơn sơ, bên trên khắc họa một đồ án kỳ dị."
+    },
+    {
+      "para_id": "c0070p0050",
+      "index": 50,
+      "raw_zh": "圖案很簡單，就是一個象征樹木的三叉線條，上面掛著一個人的腦袋，在這個樹木旁邊，則是一個跪著的背影，看起來那背影的人應該是在叩拜太陽。",
+      "translated_vi": "Đồ án vô cùng giản đơn: chỉ là ba đường nét rẽ nhánh tượng trưng cho một thân cây, trên ngọn cây treo lủng lẳng một cái đầu người. Bên cạnh gốc cây ấy là bóng lưng của một người đang quỳ rạp xuống, xem dáng vẻ thì người đó dường như đang thành kính dập đầu bái lạy mặt trời."
+    },
+    {
+      "para_id": "c0070p0051",
+      "index": 51,
+      "raw_zh": "而他跪拜的方向，也正是這裡太陽永恆不變的方向。",
+      "translated_vi": "Mà phương hướng người đó quỳ lạy cũng chính là phương vị vĩnh hằng bất biến của vầng thái dương nơi chốn này."
+    },
+    {
+      "para_id": "c0070p0052",
+      "index": 52,
+      "raw_zh": "雲千峰看著這幅象形圖符，總覺得哪裡不對勁，就是感覺不舒服，但一時之間還找不到不對勁的地方。",
+      "translated_vi": "Vân Thiên Phong chăm chú nhìn đồ án tượng hình này, trong lòng cứ cảm thấy có điều gì đó sai sai, một cảm giác gợn gợn bất an dâng lên, nhưng nhất thời anh vẫn chưa thể chỉ ra được điểm bất thường rốt cuộc nằm ở đâu."
+    },
+    {
+      "para_id": "c0070p0053",
+      "index": 53,
+      "raw_zh": "白妹子看著石頭上的圖刻，道：",
+      "translated_vi": "Cô gái họ Bạch ngước nhìn đồ án khắc trên đá, cất tiếng:"
+    },
+    {
+      "para_id": "c0070p0054",
+      "index": 54,
+      "raw_zh": "“這應該系古襖咯象形痣。”",
+      "translated_vi": "“Cái lày chắc nà chữ tượng hền cổ xưa nhở.”"
+    },
+    {
+      "para_id": "c0070p0055",
+      "index": 55,
+      "raw_zh": "雲千峰已經有點習慣這丫頭的口音了，大腦直接翻譯，當下點頭道：",
+      "translated_vi": "Vân Thiên Phong đã bắt đầu quen dần với chất giọng ngọng líu của cô bé, đại não tự động phiên dịch, anh liền gật đầu bảo:"
+    },
+    {
+      "para_id": "c0070p0056",
+      "index": 56,
+      "raw_zh": "“沒錯，正是象形字，樹上一人頭，這是“梟”字，人跪拜太陽，就是“陽”字，所以這石碑上寫的是“梟陽”。”",
+      "translated_vi": "“Không sai, đích thị là chữ tượng hình. Cây treo một đầu người, đây chính là chữ ‘Kiêu’. Người quỳ lạy mặt trời, chính là chữ ‘Dương’. Cho nên hai chữ khắc trên bia đá này chính là ‘Kiêu Dương’.”"
+    },
+    {
+      "para_id": "c0070p0057",
+      "index": 57,
+      "raw_zh": "白妹子顰眉思索道：",
+      "translated_vi": "Cô gái họ Bạch cau mày ngẫm nghĩ rồi bảo:"
+    },
+    {
+      "para_id": "c0070p0058",
+      "index": 58,
+      "raw_zh": "“波對啊，梟字上面系鳥，而且梟陽城遺址嘔去過，不系這樣幾。”",
+      "translated_vi": "“Hông đúng òi, chữ Kiêu trên đầu nà con chim cơ mờ. Vả lại di tích Kiêu Dương thành tui từng tới òi, hông giống thía lày đâu.”"
+    },
+    {
+      "para_id": "c0070p0059",
+      "index": 59,
+      "raw_zh": "雲千峰搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu giải thích:"
+    },
+    {
+      "para_id": "c0070p0060",
+      "index": 60,
+      "raw_zh": "“樹上一隻鳥，那是“集”字，梟字鳥首是先秦時代的產物，將“梟”“縣”二字分離，更早之前一直都是人頭，就是代表梟首之刑。”",
+      "translated_vi": "“Trên cây đậu một con chim, đó là chữ ‘Tập’. Chữ ‘Kiêu’ có đầu chim vốn là sản vật của thời kỳ Tiên Tần, dùng để phân định rạch ròi giữa hai chữ ‘Kiêu’ và ‘Huyện’. Còn vào thời kỳ xa xưa hơn trước đó, bên trên trước sau vẫn luôn là một cái đầu người, tượng trưng cho hình phạt bêu đầu thị chúng kiêu thủ.”"
+    },
+    {
+      "para_id": "c0070p0061",
+      "index": 61,
+      "raw_zh": "“而至於你說你去過梟陽城遺址與這裡不一樣，那一點也不奇怪，因為梟陽城是漢朝建立，不可能用這種最最古老的象形字符。”",
+      "translated_vi": "“Còn như cô bảo từng đến di tích Kiêu Dương thành thấy không giống nơi này, điều đó chẳng có gì lạ cả. Bởi Kiêu Dương thành được thiết lập vào thời nhà Hán, thời đó đời nào lại dùng tới những ký tự tượng hình nguyên thủy cổ xưa bậc nhất này.”"
+    },
+    {
+      "para_id": "c0070p0062",
+      "index": 62,
+      "raw_zh": "“你看這字符看似簡單，但卻有虛影，這意味著這字符是黃帝密文字符，而不是普通的象形字符。”",
+      "translated_vi": "“Cô nhìn xem, ký tự này nom bề ngoài tuy giản đơn nhưng lại có những bóng mờ hư ảo bao quanh. Điều này chứng tỏ đây chính là ký tự thuộc về Mật văn Hoàng Đế, chứ tuyệt đối không phải là chữ tượng hình thông thường.”"
+    },
+    {
+      "para_id": "c0070p0063",
+      "index": 63,
+      "raw_zh": "“相傳倉頡雙瞳四目，他看到的世界和我們是不一樣的，所以他最早創造的字，也就是黃帝密文，都是這種帶有虛影疊態的字形，有人說這虛影代表著空間，也有人說這是因為倉頡看到的東西就是這樣，具體為何就不得而知了。”",
+      "translated_vi": "“Tương truyền Thương Hiệt có hai con ngươi bốn mắt, thế giới mà ông trông thấy hoàn toàn khác biệt với chúng ta. Vì thế những văn tự đầu tiên do ông sáng tạo ra, tức là Mật văn Hoàng Đế, đều mang hình thái xếp chồng bóng mờ như thế này. Có người cho rằng bóng mờ hư ảo ấy đại diện cho không gian đa chiều, cũng có người nói đó là do vạn vật Thương Hiệt nhìn thấy vốn dĩ đã có hình thái lượng tử như vậy, rốt cuộc chân tướng ra sao thì không ai khảo chứng nổi.”"
+    },
+    {
+      "para_id": "c0070p0064",
+      "index": 64,
+      "raw_zh": "“所以，這個梟陽，絕對不是梟陽城，一定有別的含義，是什麽呢？”",
+      "translated_vi": "“Thế nên, hai chữ ‘Kiêu Dương’ nơi đây tuyệt đối không phải là Kiêu Dương thành, mà nhất định ẩn chứa một hàm nghĩa hoàn toàn khác. Rốt cuộc nó là gì cơ chứ?”"
+    }
+  ]
+}

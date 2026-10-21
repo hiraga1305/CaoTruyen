@@ -1,0 +1,90 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0267|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §51):
+§1 [Ø=云千峰]267.第267章 帝嚳，比我急！
+§2 [Ø=云千峰]第267章 帝嚳，比我急！
+§3 雲千峰的行為是無私勇敢的。
+§4 [Ø=云千峰]但是此時，在漆黑蛇口之中的雲千峰是後悔的。
+§5 “衝動了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§6 [Ø=云千峰]雖然他已經不是第一次乾這種事，而且每次都後悔。
+§7 後悔之後還會後怕。
+§8 [Ø=云千峰]惡性循環，但就是不改。
+§9 性格使然。
+§10 [Ø=云千峰]雲千峰用藏刀插進巨蛇的上顎，雙手抓住刀把，抵抗著巨蛇的吞咽。
+§11 [Ø=云千峰]巨蛇口腔內的吞咽肌包裹著雲千峰，擠壓著，蠕動著，想要把雲千峰咽進肚腹。
+§12 [Ø=云千峰]而雲千峰就像逆水而行的魚，身體靈活的隨著巨蛇吞咽肌的蠕動，借力卸力，愣是靠著藏刀穩住了身形。
+§13 [Ø=云千峰]他很清楚，絕不能被吞進蛇胃，否則就憑著蛇的胃酸，能輕易的把自己的左腿消化得只剩下骨頭渣。
+§14 [Ø=云千峰]雖然蛇的口腔也不安全，因為大部分蛇的口腔分泌物都有毒，而且大概率是神經性毒素。
+§15 [Ø=云千峰]比如，雲千峰現在的左腿就超級疼。
+§16 [Ø=云千峰]疼雖難忍，但最起碼還留著腿。
+§17 [Ø=云千峰]“蚩尤甲不成套，缺陷真的是太大了！否則就是進去蛇腹又如何，我剖開蛇肚子鑽出來就好！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§18 [Ø=云千峰]雲千峰心裡暗歎倒霉，同時研究著怎麽想辦法讓巨蛇把自己吐出去。
+§19 [Ø=云千峰]他也不知道那塊肌肉可以刺激巨蛇嘔吐，畢竟沒學過這方面的知識，於是只能在抵抗吞咽的同時，用右腿在蛇口內各個部位瘋狂嘗試。
+§20 [Ø=云千峰]也不知道哪下被他踢正了，頭頂的黑暗裡裂開一條光縫，卻是巨蛇把嘴張了開。
+§21 [Ø=云千峰]身上的擠壓感也在同時消失，整個蛇的口腔和咽腔同時撐開，雲千峰知道機不可失， [||] 雙手用力一拽藏刀，右腿在打滑的巨蛇上顎踢了一腳借力，整個人奔著張開的蛇嘴飛去。
+§22 [Ø=云千峰]藏刀和雲千峰右腿帶來的疼痛，[Ø_SHIFT=姜柔甲]刺激著巨蟒急忙閉嘴，眼看著那光縫越來越小，雲千峰卻是已經半截鑽出了巨蛇之口。
+§23 [Ø_SHIFT=云千峰]當下急忙用雙手砸向蛇的毒牙，再次借力加速，終於在巨蛇閉嘴之前翻到了外面。
+§24 [Ø=云千峰]全身黏糊糊的他在地上打了一個滾，徹底變成泥人。
+§25 [Ø=云千峰]然後雲千峰啥也顧不得，在地上滾動了兩下後， [||] 手腳並用，和三足蟾蜍似的，向著白狐離開的方向奔去。
+§26 [Ø=云千峰]眼神很差，全靠蛇信子收集周圍信息的巨蛇似乎有些暈頭轉向，連控制身體的平衡都受到了影響。
+§27 [Ø=云千峰]它發狠追向雲千峰，但卻像喝醉了似的， [||] 總是拜道，終被雲千峰甩到了身後，消失不見。
+§28 [Ø=云千峰]雲千峰現在突然明悟，為啥名字裡帶“拜”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]字的，都愛摔跟頭，拜道啊！
+§29 [Ø=云千峰]眼看著巨蛇被自己甩掉，還沒來得及高興，就發現左腿的疼痛開始蔓延。
+§30 [Ø=云千峰]髖部，右腿， [||] 胸腹，手臂，最後是嘴巴和腦袋。
+§31 全身都是那種單純的疼。
+§32 最後疼到雲千峰失去了對身體的控制。
+§33 [Ø=云千峰]快速爬行奔跑的他就那麽突然身體僵硬，在慣性下，身體犁著土， [||] 掀起了一條土溝，然後整個人直挺挺的躺在地上，一動不動。
+§34 [Ø=云千峰]可怕的是，雲千峰此時的極為清醒的，知道身邊發生的一切。
+§35 [Ø=云千峰]一片枯葉落在了雲千峰的身上，那種體感，就好像被全身布滿尖刺的巨大石頭砸了一下那麽疼。
+§36 這也是毒性蟲蛇最殘忍的地方。
+§37 [Ø=云千峰]它們總是讓獵物保持最清醒的狀態，然後無限量的放大疼痛，直到獵物死去。
+§38 [Ø=云千峰]如果說這是大自然進化導致的，雲千峰是打死也不信的。
+§39 因為大自然沒必要如此殘忍。
+§40 [Ø=云千峰]雲千峰堅信，劇毒蟲蛇的這種捕食獵物的方式， [||] 是本心的惡毒，一定有著歷史原因，雖然那可能是在人類歷史之外的高度。
+§41 [Ø=云千峰]也不知過了多久，在這種地獄酷刑的痛楚下，雲千峰失去了意識。
+§42 [Ø=云千峰]在失去意識的前一秒，他腦海裡只有一個念頭：
+§43 [Ø=云千峰]“屮，幾十年了，又拉褲兜子了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 [Ø=云千峰]有毒的蟲蛇，為了方便吸血和食肉，在讓獵物疼痛的同時， [||] 也會放松對方的肌肉，讓血流更順暢，口感更絲滑。
+§45 [Ø=云千峰]雲千峰現在就是這樣，全身的絕對放松，松到
+§46 [Ø=云千峰]但他知道自己不會死，因為全知之眼正在他體內瘋狂的旋轉，每一秒鍾，自己的身體狀態都在變好。
+§47 [Ø=云千峰]當他再次醒來時，身上的疼痛已經完全消失，但是沒穿任何衣服， [||] 頭下枕著一個柔軟的東西，不用看就知道，那是白狐的尾巴。
+§48 [Ø=云千峰]很顯然，白狐再把卓瑪放到安全位置後，就回來尋找雲千峰了，並且幫雲千峰擦拭乾淨身上。
+§49 [Ø=云千峰]雲千峰爬了起來，看到白狐就趴在自己身邊，似乎睡著了，看得出來自己昏迷了很久。
+§50 [Ø=云千峰]在白狐的旁邊，則是一動不動的卓瑪。
+§51 [Ø=云千峰]卓瑪無疑還活著，因為還能看到她的呼吸。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 51 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§51. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

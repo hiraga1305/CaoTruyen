@@ -1,0 +1,82 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0260|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Và khi hệ thống gương Kozyrev do quần thể kim tự tháp quanh núi Cương Nhâm cấu thành được khai mở trước mắt, giới khoa học không khỏi dấy lên mối hoài nghi kỳ dị: Tại sao tất cả những mặt lõm ấy lại c
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一座|một tòa
+M2|兩座|hai tòa
+M3|兩斤|hai cân
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §39):
+§1 [Ø=云千峰]這顯然是不可能的，因為一座[M1:một tòa]山的質量和密度決定，它不可能存在更多的信息。
+§2 [Ø=云千峰]最後他們做出推論，得出了兩個答案。
+§3 [Ø=云千峰]第一：岡壬山是一根天線，這些金字塔群形成的科濟列夫鏡子群，是加強這根天線的收集效率。
+§4 [Ø=云千峰]第二：岡壬山不完整，在未知的歲月裡， [||] 岡壬山不是現在這個樣子，它應該鏈接著什麽，只是已經無從想象。
+§5 [Ø=云千峰]這第二個結論，其實很應對不周山的傳說。
+§6 不完整的山。
+§7 [Ø=云千峰]然而，隨著那支拍攝照片的科考隊成員相繼離奇離世， [||] 岡壬山也被當地封禁，不再允許人登山，只能沿著古老的繞山路祈福。
+§8 [Ø=云千峰]於是這個研究也就徹底終結，沒能得出最終的答案。
+§9 [Ø=云千峰]雲千峰隨後觀察信徒繞山祈福的那條長達六十六公裡的路途，在這條三拜九叩，甚至五體投地祈福的路上， [||] 有兩處正好處於兩座[M2:hai tòa]雪峰之間，相信卓瑪遇到的雪崩，就是在這兩個位置。
+§10 “難道要登山去看看嘛？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 這可真的難住了雲千峰。
+§12 因為他並沒發現什麽比較詭異的地形。
+§13 [Ø=云千峰]在雲千峰看來，現在唯一比較神奇的地方，就是岡壬山北坡化雪， [||] 南坡積雪，那麽北坡的那個凹陷處，或許會有什麽不一樣的發現。
+§14 [Ø=云千峰]就在他心裡嘀咕的時候，旁邊卓瑪的夢話卻讓雲千峰無法集中精神。
+§15 雲千峰準備去帳篷外面思考。
+§16 [Ø=云千峰]然而他轉身剛掀開狹小帳篷的簾子，就整個人愣在原處， [||] 因為卓瑪的夢話越來越清晰，而在這些夢話裡，雲千峰聽到了幾個字眼：
+§17 “香巴拉阿加森.@#$@#$%”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§18 [Ø=云千峰]卓瑪說的是當地語言，雲千峰聽不懂，但是香巴拉和阿加森這兩個發音，他卻是知道的。
+§19 [Ø=云千峰]香巴拉就是傳說的香格裡拉，也是西方傳說的伊甸園。
+§20 [Ø=云千峰]而阿加森，是圍繞香巴拉的城市群落。
+§21 那代表著未知的古老文明。
+§22 [Ø=云千峰]“三青鳥的胎記，證明卓瑪很可能就是西王母的信使，卓瑪作為引導的信使，她夢中的話會不會是一種指引？
+§23 [Ø=云千峰]可是不對啊，格比格說過， [||] 香格裡拉是在川蜀，在南山和天海的七色影子裡，那麽定然與這裡是無關的。
+§24 看來就是燒糊塗了！”
+§25 [Ø=云千峰]雲千峰覺得自己來了這世界屋脊以後，腦子越來越傾向迷信的方向了。
+§26 [Ø=云千峰]當下自嘲的搖頭笑了笑，就準備鑽出帳篷繼續研究那些拍攝的視頻。
+§27 [Ø=云千峰]然而就在這時，卓瑪蹭的一下坐直身體，用纖手一把抓住雲千峰的手腕，動作之大， [||] 力量之大，讓卓瑪本就睡前松開的腰帶散落，長袍的衣襟敞開，黑暗中難得亮起一團白皙。
+§28 同時卓瑪嘴裡不斷的念叨著：
+§29 [Ø=云千峰]“香巴拉，香巴拉，香巴拉找到它，找到她.香巴拉.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§30 [Ø=云千峰]雲千峰只能聽懂“香巴拉”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]這個音譯，其它完全聽不懂。
+§31 [Ø=云千峰]他用手在卓瑪眼前晃了晃，卓瑪的眼珠紋絲不動。
+§32 [Ø=云千峰]雲千峰靠近卓瑪那有著刀削棱角的面龐，看向她的眸子。
+§33 就見她的黑色眼珠速度極快的震顫著。
+§34 [Ø=云千峰]這種眼球震顫的現象，大多出現在人做夢的時候。
+§35 [Ø=云千峰]因為人做夢的時候，夢裡的時間速度遠遠超過真實的時間速度，所以在觀察夢中那些情景時， [||] 夢裡的你以為自己在正常觀察，而事實上，眼球需要急速的轉動，才能捕捉到那些夢中的景象。
+§36 於是就會出現劇烈的眼球震顫。
+§37 [Ø=云千峰]卓瑪的眼球震顫的太快了，以至於好似出現了雙瞳幻影，就好像狂喝了兩斤[M3:hai cân]高度白酒，站在炕沿上蹦跳的來神了的薩滿的眼睛。
+§38 這一幕是如此的詭異。
+§39 [Ø=云千峰]“天，卓瑪到底在夢中看到了什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 39 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§39. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

@@ -1,0 +1,76 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0246|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §37):
+§1 246.第246章 命懸一線
+§2 第246章 命懸一線
+§3 雲千峰這人有個優點。
+§4 那就是跑路的時候絕不回頭。
+§5 [Ø=云千峰]真被追上再玩命，追不上也不好奇。
+§6 但是琳達可沒有那麽好的心理素質。
+§7 [Ø=云千峰]也是雲千峰扛著她，讓她不需要自己看路。
+§8 [Ø=云千峰]琳達用雙手支撐著雲千峰的腰眼位置，把自己的腦袋抬起來，看向後方。
+§9 [Ø=云千峰]就見伴隨著“轟隆隆”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]悶響越來越近，竟然有雪花開始飄落。
+§10 [Ø=云千峰]那些雪花絨絨的一個團，只有拇指頭大小，輕飄飄的落下來。
+§11 [Ø=云千峰]“下雪了，叔叔！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§12 [Ø=云千峰]然而，琳達話音剛落，就見那些飄落的雪花突然都睜開了一隻眼睛。
+§13 [Ø=云千峰]每一朵雪花上，都有一隻圓溜溜，好似人窒息時撐裂的眼球。
+§14 [Ø=云千峰]黑眼仁小，白眼仁多，上面還布滿了密密麻麻的血絲。
+§15 [Ø=云千峰]“叔叔，是雪人！是雪人下來了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§16 [Ø=云千峰]琳達言語之中，充滿了驚恐。
+§17 被吃和被吃之間區別很大。
+§18 琳達的眸子裡映著那些散落的雪人。
+§19 [Ø=云千峰]就見它們落在那白化的蠑螈身上，那巨大的怪物竟然嚇得一步也不會走了，全身瑟瑟發抖。
+§20 [Ø=云千峰]雪球在蠑螈身上，地上開始匯聚，變成一條條白色的長蛇，盤在了那白化蠑螈的身上快速蠕動爬行。
+§21 [Ø=云千峰]而後順著那白化蠑螈的鼻子，口腔，糞門等開孔處，鑽進了白化蠑螈的體內。
+§22 [Ø=云千峰]也就是幾個呼吸間，那些組成白蛇的雪人便又鑽了出來，在外面一條條匯聚在一起，堆成了一堆沒有腳的雪人。
+§23 [Ø=云千峰]可以看到，它們每一個的體型都變大了不少，有手拇指那麽大，變成了腳拇指頭的大小。
+§24 [Ø=云千峰]這裡可沒有讓皮膚迅速結冰的溫度，隨著雪人鑽出來， [||] 那白化蠑螈便如泄了氣的氣球，瞬間憋了下去，裡面竟然連根骨頭都沒剩下。
+§25 [Ø=云千峰]琳達眼睜睜的看著那組成雪人的絨球滾動了一下，然後齊刷刷的睜開眼睛看向自己的方向。
+§26 [Ø=云千峰]河水裡藍色的動物冷光，讓這一幕極為陰森可怖。
+§27 [Ø=云千峰]“叔叔快跑，雪人朝著咱們追上來了！它們速度好快！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 [Ø=云千峰]雲千峰當機立斷，大聲道：
+§29 [Ø=云千峰]“琳達，吸氣，憋住！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§30 [Ø=云千峰]琳達當然知道雲千峰要幹嘛，[Ø_SHIFT=姜柔甲]當下急忙猛吸一口氣，直把小饅頭變成發面北方大饅頭。
+§31 [Ø=姜柔甲]而與此同時，雲千峰也一躍而起，抱著琳達直接跳進了旁邊那上冷下熱的河水之中。
+§32 [Ø=姜柔甲]幾乎在雲千峰落水那一瞬間，那沒腿的雪人恰好漫過雲千峰起跳的位置，前後相差不到一秒鍾，那就是生與死的距離。
+§33 “嘩啦！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 [Ø=姜柔甲]身體漫過一層冰涼，緊接著沒入了一片溫暖適宜。
+§35 水中竟然比外面看到的一切更清楚。
+§36 光合、金白、沙水清。
+§37 發光的動物竟是如此多種多樣。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 37 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§37. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

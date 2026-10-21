@@ -1,0 +1,439 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 22,
+  "title": "Chương 22: Buộc phải thế",
+  "total_paragraphs": 71,
+  "translated_paragraphs": 71,
+  "source_hash": "cbc777bfe1af506d867a1d49f5ddc04c1edf4930acd17e99f48a78d640ba571f",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0022p0001",
+      "index": 1,
+      "raw_zh": "第22章 不得不",
+      "translated_vi": "Chương 22: Buộc phải thế"
+    },
+    {
+      "para_id": "c0022p0002",
+      "index": 2,
+      "raw_zh": "除了鬼以外，他們找不到任何答案能與眼前所見之物匹配。",
+      "translated_vi": "Ngoại trừ ma quỷ ra, họ chẳng thể tìm được bất kỳ câu trả lời nào có thể tương thích với thứ tận mắt nhìn thấy trước mặt."
+    },
+    {
+      "para_id": "c0022p0003",
+      "index": 3,
+      "raw_zh": "一群帶著慘白人臉的腦袋在風中漂浮，你就是讓愛因斯坦來了，也得尖叫ghost。",
+      "translated_vi": "Một bầy đầu người mang khuôn mặt trắng bệch lơ lửng trôi dạt trong gió, cảnh tượng này dẫu có lôi Einstein đến đây thì ông cũng phải thét lên một tiếng “Ghost!” mà thôi."
+    },
+    {
+      "para_id": "c0022p0004",
+      "index": 4,
+      "raw_zh": "雲千峰緊咬著牙不讓自己發出聲響，不光是嚇得，主要是還疼，旁邊兩女因為驚恐，掐著他胳膊那叫一個用力。",
+      "translated_vi": "Vân Thiên Phong cắn chặt răng không để mình bật ra tiếng động, chẳng những vì sợ hãi, mà phần lớn là do quá đau: hai cô gái bên cạnh vì hoảng loạn tột độ mà bấm vào bắp tay hắn đau điếng người."
+    },
+    {
+      "para_id": "c0022p0005",
+      "index": 5,
+      "raw_zh": "他在手機上調整了一下，轉換到了太陽能燈位置的攝像頭。",
+      "translated_vi": "Hắn thao tác trên điện thoại một chút, chuyển góc nhìn sang chiếc camera đặt ở vị trí đèn năng lượng mặt trời."
+    },
+    {
+      "para_id": "c0022p0006",
+      "index": 6,
+      "raw_zh": "這裡屏幕一片漆黑，只在屏幕邊緣一角有太陽能燈散射出的光暈。",
+      "translated_vi": "Màn hình ở đây tối đen như mực, chỉ có một góc mép màn hình hắt ra chút quầng sáng tán xạ từ chiếc đèn năng lượng mặt trời."
+    },
+    {
+      "para_id": "c0022p0007",
+      "index": 7,
+      "raw_zh": "隨後，他再次把鏡頭調轉到篝火旁，畫面中這裡依舊熱鬧，那些腦袋胡亂飄飛，速度很快，繞著篝火盤旋，似乎在尋找什麽，絲毫沒有離開的意思。",
+      "translated_vi": "Sau đó, hắn lại chuyển ống kính về phía đống lửa trại, khung cảnh nơi này vẫn náo loạn như cũ, những chiếc đầu người bay loạn xạ tứ tung với tốc độ rất nhanh, lượn vòng quanh đống lửa dường như đang tìm kiếm thứ gì đó, chẳng mảy may có ý định rời đi."
+    },
+    {
+      "para_id": "c0022p0008",
+      "index": 8,
+      "raw_zh": "就在這時，一團巨大的黑影緩緩出現在屏幕之中。",
+      "translated_vi": "Đúng lúc này, một khối bóng đen khổng lồ từ từ xuất hiện trong khung hình."
+    },
+    {
+      "para_id": "c0022p0009",
+      "index": 9,
+      "raw_zh": "那是一頭棕熊，巨大的棕熊。",
+      "translated_vi": "Đó là một con gấu nâu, một con gấu nâu khổng lồ."
+    },
+    {
+      "para_id": "c0022p0010",
+      "index": 10,
+      "raw_zh": "體長接近三米，趴著四肢走路，感覺那高度都差不多有一米八。",
+      "translated_vi": "Chiều dài thân mình của nó ngót nghét ba mét, khi bò bằng bốn chân mà nom chiều cao cũng xấp xỉ một mét tám."
+    },
+    {
+      "para_id": "c0022p0011",
+      "index": 11,
+      "raw_zh": "這樣的體型，無疑是叢林之中的霸主，就是孟加拉虎遇到它，也會選擇繞路躲避。",
+      "translated_vi": "Thể hình cỡ này không thể nghi ngờ chính là bá chủ trong chốn rừng sâu, dẫu là hổ Bengal chạm trán nó cũng phải chọn cách đi đường vòng mà tránh né."
+    },
+    {
+      "para_id": "c0022p0012",
+      "index": 12,
+      "raw_zh": "這頭棕熊眼珠在篝火的映襯下，反射著淡銀色，與之前他們解剖的那頭棕熊一般。",
+      "translated_vi": "Dưới ánh lửa trại bập bùng, đôi con ngươi của con gấu nâu này phản chiếu ra ánh bạc nhàn nhạt, y hệt như con gấu mà trước đó họ từng mổ xẻ."
+    },
+    {
+      "para_id": "c0022p0013",
+      "index": 13,
+      "raw_zh": "巨大的棕熊對火光有些恐懼，它用鼻子嗅著，躊躇了片刻，向著石洞後面繞去。",
+      "translated_vi": "Con gấu nâu hộ pháp có phần kiêng dè ánh lửa, nó hếch mũi ngửi ngửi, do dự một lát rồi lén lút vòng ra phía sau hang đá."
+    },
+    {
+      "para_id": "c0022p0014",
+      "index": 14,
+      "raw_zh": "然而，還沒走幾步，就在它靠近石洞幾米遠的時候，那些在天上飄蕩的人頭呼啦啦衝向棕熊，紛紛貼向棕熊的屁股和腦袋。",
+      "translated_vi": "Thế nhưng, còn chưa đi được mấy bước, ngay khi nó vừa tiến sát hang đá chừng vài mét, đám đầu người đang lơ lửng trên không trung bỗng ùa một tiếng lao vút về phía con gấu, tranh nhau bám chặt vào mông và đầu của nó."
+    },
+    {
+      "para_id": "c0022p0015",
+      "index": 15,
+      "raw_zh": "位置有限，沒有搶到位置的那些人頭便不甘的在棕熊腦袋上空飄蕩，發出“嗚嗚”的鬼叫，似乎在控訴那貼在屁股和腦袋上的同類。",
+      "translated_vi": "Chỗ bám có hạn, những chiếc đầu không giành được vị trí bèn bất mãn lơ lửng trên đỉnh đầu con gấu, phát ra những tiếng ma gào “u u” ai oán, dường như đang oán thán lũ đồng loại nhanh chân bám vào đầu và mông kia."
+    },
+    {
+      "para_id": "c0022p0016",
+      "index": 16,
+      "raw_zh": "那可憐的棕熊在地上僅僅滾動了一下，身體就好像泄了氣的氣球，肉眼可見的快速乾癟下來，只是片刻便即不動。",
+      "translated_vi": "Con gấu nâu tội nghiệp chỉ kịp lăn lộn một vòng trên mặt đất, toàn thân nó đã như quả bóng xì hơi, khô quắt lại với tốc độ thấy rõ bằng mắt thường, chỉ trong chốc lát đã nằm im bất động."
+    },
+    {
+      "para_id": "c0022p0017",
+      "index": 17,
+      "raw_zh": "幾秒鍾後，那些人臉紛紛離開棕熊的身體，再次撲向篝火，在篝火上空圍繞飄蕩。",
+      "translated_vi": "Mấy giây sau, những khuôn mặt người kia rủ nhau rời khỏi xác con gấu, lại một lần nữa nhào về phía đống lửa trại, lượn lờ chao đảo trên ngọn lửa."
+    },
+    {
+      "para_id": "c0022p0018",
+      "index": 18,
+      "raw_zh": "而屏幕之中，那頭棕熊已經由之前的壯碩變為此刻的枯槁。",
+      "translated_vi": "Còn trên màn hình, con gấu nâu từ dáng vẻ lực lưỡng ban nãy giờ đã biến thành một đống xác khô gầy guộc xơ xác."
+    },
+    {
+      "para_id": "c0022p0019",
+      "index": 19,
+      "raw_zh": "雲千峰毫不懷疑，這頭巨大的叢林霸主，已經毫無尊嚴的變成了乾屍，是的，毫無尊嚴。",
+      "translated_vi": "Vân Thiên Phong không hề nghi ngờ, vị bá chủ rừng xanh to lớn này đã biến thành một cái xác khô một cách hoàn toàn không có chút tôn nghiêm nào, đúng vậy, chẳng còn lấy một mảy may tôn nghiêm."
+    },
+    {
+      "para_id": "c0022p0020",
+      "index": 20,
+      "raw_zh": "可以肯定，眼前這些飄蕩的人頭，就是石洞旁將人變成乾屍的凶手，這是一群惡鬼。",
+      "translated_vi": "Hoàn toàn có thể khẳng định, đám đầu người trôi nổi trước mắt chính là hung thủ đã biến những người bên cạnh hang đá thành xác khô, đây rõ ràng là một bầy ác quỷ."
+    },
+    {
+      "para_id": "c0022p0021",
+      "index": 21,
+      "raw_zh": "雲千峰心中的恐懼自不必說，如果不是緊緊咬著牙，恐怕已經無法自控的發出驚叫。",
+      "translated_vi": "Nỗi sợ hãi trong lòng Vân Thiên Phong tự nhiên không cần phải bàn cãi, nếu không nhờ cắn chặt răng thì e rằng hắn cũng chẳng thể kiềm chế nổi mà hét toáng lên."
+    },
+    {
+      "para_id": "c0022p0022",
+      "index": 22,
+      "raw_zh": "兩女則靠著掐雲千峰胳膊的肉保持鎮定，但依舊在這恐懼之中引起了不合時宜的反應。",
+      "translated_vi": "Hai cô gái thì dựa vào việc cấu véo thịt bắp tay Vân Thiên Phong để duy trì sự bình tĩnh, thế nhưng giữa cơn kinh hãi tột cùng này, cơ thể họ vẫn nảy sinh phản ứng sinh lý vô cùng bất tiện."
+    },
+    {
+      "para_id": "c0022p0023",
+      "index": 23,
+      "raw_zh": "薑柔甲輕輕的在雲千峰掌心寫了幾個字：",
+      "translated_vi": "Khương Nhu Giáp khẽ đưa ngón tay viết mấy chữ vào lòng bàn tay Vân Thiên Phong:"
+    },
+    {
+      "para_id": "c0022p0024",
+      "index": 24,
+      "raw_zh": "“我內急。”",
+      "translated_vi": "“Tôi buồn tiểu.”"
+    },
+    {
+      "para_id": "c0022p0025",
+      "index": 25,
+      "raw_zh": "女人N路短，遇到驚嚇，最容易出現尿急的症狀。",
+      "translated_vi": "Phụ nữ đường niệu đạo ngắn, hễ gặp cơn kinh sợ tột độ là rất dễ xuất hiện triệu chứng buồn tiểu khẩn cấp."
+    },
+    {
+      "para_id": "c0022p0026",
+      "index": 26,
+      "raw_zh": "雲千峰微微搖頭，用嘴說了一個無聲的字：",
+      "translated_vi": "Vân Thiên Phong khẽ lắc đầu, nhép miệng thốt ra một chữ không thành tiếng:"
+    },
+    {
+      "para_id": "c0022p0027",
+      "index": 27,
+      "raw_zh": "“忍！”",
+      "translated_vi": "“Nhịn!”"
+    },
+    {
+      "para_id": "c0022p0028",
+      "index": 28,
+      "raw_zh": "薑柔甲咬著牙苦著臉搖頭，意思自己真忍不住了。",
+      "translated_vi": "Khương Nhu Giáp cắn răng méo mặt lắc đầu, ý bảo mình thật sự nhịn không nổi nữa rồi."
+    },
+    {
+      "para_id": "c0022p0029",
+      "index": 29,
+      "raw_zh": "秦疏影動作極輕的在包裡拿出他們做飯的鍋，用手指了指，意思是用這個接著。",
+      "translated_vi": "Tần Sơ Ảnh cử động cực kỳ nhẹ nhàng, lôi chiếc nồi nấu ăn trong ba lô ra, lấy ngón tay chỉ chỉ, ý bảo dùng cái này mà hứng."
+    },
+    {
+      "para_id": "c0022p0030",
+      "index": 30,
+      "raw_zh": "雲千峰忙搖頭，無聲說：",
+      "translated_vi": "Vân Thiên Phong vội vàng lắc đầu, ra khẩu hình không tiếng:"
+    },
+    {
+      "para_id": "c0022p0031",
+      "index": 31,
+      "raw_zh": "“有聲響。”",
+      "translated_vi": "“Có tiếng động.”"
+    },
+    {
+      "para_id": "c0022p0032",
+      "index": 32,
+      "raw_zh": "秦疏影拿出一條毛巾鋪在鍋底，意思這樣就沒有聲響了。",
+      "translated_vi": "Tần Sơ Ảnh rút ra một chiếc khăn mặt lót vào đáy nồi, ra hiệu làm thế này sẽ không phát ra tiếng động."
+    },
+    {
+      "para_id": "c0022p0033",
+      "index": 33,
+      "raw_zh": "雲千峰豎起大拇指，讚歎這個方法好。",
+      "translated_vi": "Vân Thiên Phong giơ ngón tay cái lên, khen ngợi cách này hay."
+    },
+    {
+      "para_id": "c0022p0034",
+      "index": 34,
+      "raw_zh": "薑柔甲輕手輕腳的爬到帳篷尾部，處理自己的內急。",
+      "translated_vi": "Khương Nhu Giáp rón rén bò về góc đuôi lều để giải quyết nỗi buồn cấp bách."
+    },
+    {
+      "para_id": "c0022p0035",
+      "index": 35,
+      "raw_zh": "還真沒有什麽動靜。",
+      "translated_vi": "Quả nhiên không hề có chút tiếng động nào."
+    },
+    {
+      "para_id": "c0022p0036",
+      "index": 36,
+      "raw_zh": "雲千峰繼續觀察實時攝像，但很快覺得有哪裡不對勁，轉頭看向秦疏影，做了一個擦臉的動作，又指了指自己，無聲怒道：“我的毛巾！”",
+      "translated_vi": "Vân Thiên Phong tiếp tục quan sát hình ảnh camera truyền về, nhưng rất nhanh hắn nhận ra có điều gì đó sai sai, bèn quay đầu nhìn Tần Sơ Ảnh, làm động tác lau mặt rồi tự chỉ vào mình, trừng mắt tức tối thốt khẩu hình không tiếng: “Khăn mặt của tôi!”"
+    },
+    {
+      "para_id": "c0022p0037",
+      "index": 37,
+      "raw_zh": "秦疏影裝沒看見，把臉埋在枕頭上，裝死。",
+      "translated_vi": "Tần Sơ Ảnh vờ như không thấy, vùi mặt vào gối giả chết."
+    },
+    {
+      "para_id": "c0022p0038",
+      "index": 38,
+      "raw_zh": "薑柔甲剛完事，秦疏影也爬起來，她也內急，一樣是被嚇的。",
+      "translated_vi": "Khương Nhu Giáp vừa giải quyết xong, Tần Sơ Ảnh cũng lồm cồm bò dậy, cô nàng cũng mắc tiểu, cũng là do bị dọa cho sợ chết khiếp."
+    },
+    {
+      "para_id": "c0022p0039",
+      "index": 39,
+      "raw_zh": "雲千峰內心歎了口氣，暗罵這秦疏影看起來挺正直的一個人，怎麽這麽蔫壞。",
+      "translated_vi": "Trong lòng Vân Thiên Phong thở dài sườn sượt, thầm rủa Tần Sơ Ảnh này trông mặt mũi thì đoan trang chính trực, sao bụng dạ lại thâm hiểm ngấm ngầm thế không biết."
+    },
+    {
+      "para_id": "c0022p0040",
+      "index": 40,
+      "raw_zh": "這樣足足過了兩個小時，那些飄飛的人頭依舊不肯離去，但始終也只是圍繞著篝火盤旋。",
+      "translated_vi": "Cứ như vậy ròng rã suốt hai tiếng đồng hồ, những chiếc đầu người bay lơ lửng kia vẫn chẳng chịu rời đi, nhưng trước sau cũng chỉ lượn quanh đống lửa."
+    },
+    {
+      "para_id": "c0022p0041",
+      "index": 41,
+      "raw_zh": "雲千峰用手機打了幾個字：",
+      "translated_vi": "Vân Thiên Phong gõ mấy chữ trên màn hình điện thoại:"
+    },
+    {
+      "para_id": "c0022p0042",
+      "index": 42,
+      "raw_zh": "“睡吧，我們是安全的。”",
+      "translated_vi": "“Ngủ đi, chúng ta an toàn rồi.”"
+    },
+    {
+      "para_id": "c0022p0043",
+      "index": 43,
+      "raw_zh": "兩女搖頭，不敢睡。",
+      "translated_vi": "Hai cô gái lắc đầu, chẳng dám chợp mắt."
+    },
+    {
+      "para_id": "c0022p0044",
+      "index": 44,
+      "raw_zh": "雲千峰只能補了句：",
+      "translated_vi": "Vân Thiên Phong đành gõ thêm một câu:"
+    },
+    {
+      "para_id": "c0022p0045",
+      "index": 45,
+      "raw_zh": "“輪班睡，你們倆先睡，我值班看著。”",
+      "translated_vi": "“Chia ca ra mà ngủ, hai người ngủ trước đi, tôi thức canh chừng.”"
+    },
+    {
+      "para_id": "c0022p0046",
+      "index": 46,
+      "raw_zh": "兩女這次點頭，側著身子，夾漢堡似的擠著雲千峰，緩緩睡去。",
+      "translated_vi": "Hai cô gái lúc này mới gật đầu, nằm nghiêng người ép chặt lấy Vân Thiên Phong như kẹp bánh mì kẹp thịt, rồi dần dần chìm vào giấc ngủ."
+    },
+    {
+      "para_id": "c0022p0047",
+      "index": 47,
+      "raw_zh": "見她們倆睡沉，雲千峰把手機往頭頂一放，就那麽趴著也睡著了。",
+      "translated_vi": "Thấy hai nàng đã ngủ say, Vân Thiên Phong đặt chiếc điện thoại lên phía trên đỉnh đầu, cứ thế nằm sấp ngủ thiếp đi."
+    },
+    {
+      "para_id": "c0022p0048",
+      "index": 48,
+      "raw_zh": "不是他不負責，而是他確定最起碼今晚他們是安全的。",
+      "translated_vi": "Không phải hắn thiếu trách nhiệm, mà bởi hắn nắm chắc chí ít trong đêm nay bọn họ hoàn toàn an toàn."
+    },
+    {
+      "para_id": "c0022p0049",
+      "index": 49,
+      "raw_zh": "至於為什麽趴著這麽不健康的睡姿，也實在是沒辦法。",
+      "translated_vi": "Còn về lý do tại sao lại chọn tư thế nằm sấp thiếu lành mạnh đến thế, thực sự là vạn bất đắc dĩ."
+    },
+    {
+      "para_id": "c0022p0050",
+      "index": 50,
+      "raw_zh": "躺著睡，明早會尷尬。",
+      "translated_vi": "Nằm ngửa thì sáng mai sẽ rất khó xử."
+    },
+    {
+      "para_id": "c0022p0051",
+      "index": 51,
+      "raw_zh": "側身睡，無論正面對著誰，保準兩個人尷尬。",
+      "translated_vi": "Nằm nghiêng thì bất kể quay mặt về phía ai, đảm bảo cả hai người đều sẽ ngượng chín mặt."
+    },
+    {
+      "para_id": "c0022p0052",
+      "index": 52,
+      "raw_zh": "於是，只能趴著。",
+      "translated_vi": "Vì thế, chỉ đành nằm sấp."
+    },
+    {
+      "para_id": "c0022p0053",
+      "index": 53,
+      "raw_zh": "再醒來時，天剛蒙蒙亮。",
+      "translated_vi": "Đến khi tỉnh dậy, trời mới vừa tờ mờ sáng."
+    },
+    {
+      "para_id": "c0022p0054",
+      "index": 54,
+      "raw_zh": "看到視頻上，那些飛舞的人頭已經不見蹤影。",
+      "translated_vi": "Nhìn vào màn hình video, những chiếc đầu người bay lượn khi trước đã chẳng còn tăm hơi."
+    },
+    {
+      "para_id": "c0022p0055",
+      "index": 55,
+      "raw_zh": "雲千峰急忙翻找自動錄製的視頻，很快找到了那些人頭離開的時間。",
+      "translated_vi": "Vân Thiên Phong vội vã lật xem đoạn video tự động ghi hình, rất nhanh đã tìm được mốc thời gian bầy đầu người kia rời đi."
+    },
+    {
+      "para_id": "c0022p0056",
+      "index": 56,
+      "raw_zh": "秦疏影這個時候也醒來，看到雲千峰正在回放視頻，看到那些鬼臉人頭離開的時間點，忙低聲道：",
+      "translated_vi": "Đúng lúc này Tần Sơ Ảnh cũng thức giấc, thấy Vân Thiên Phong đang tua lại video và trông thấy thời điểm đám đầu người mặt quỷ kia rời đi, cô liền nhỏ giọng nói:"
+    },
+    {
+      "para_id": "c0022p0057",
+      "index": 57,
+      "raw_zh": "“清晨五點，這是卯時初，雞叫第三聲的時間，難道真的是厲鬼？”",
+      "translated_vi": "“Năm giờ sáng, đây là lúc đầu giờ Mão, thời khắc gà gáy ba tiếng, chẳng lẽ thật sự là ác quỷ?”"
+    },
+    {
+      "para_id": "c0022p0058",
+      "index": 58,
+      "raw_zh": "華夏有雞叫三聲，諸鬼退避的傳說，似乎正印證了這些鬼臉飛頭是傳說之中的惡鬼。",
+      "translated_vi": "Dân gian Trung Hoa có truyền thuyết gà gáy ba tiếng thì trăm quỷ lui tán, dường như vừa khéo ứng nghiệm việc những chiếc đầu lâu mặt quỷ biết bay này chính là lũ ác quỷ trong truyền thuyết."
+    },
+    {
+      "para_id": "c0022p0059",
+      "index": 59,
+      "raw_zh": "雲千峰點了點頭，但旋即又搖了搖頭，道：",
+      "translated_vi": "Vân Thiên Phong gật đầu, nhưng ngay sau đó lại lắc đầu, nói:"
+    },
+    {
+      "para_id": "c0022p0060",
+      "index": 60,
+      "raw_zh": "“是，但也不是。說它是，是因為它很可能是當地傳說之中惡鬼，說它不是，是因為它絕不是我們基因記憶之中的鬼。",
+      "translated_vi": "“Phải, mà cũng không phải. Bảo là phải, vì nó rất có thể chính là ác quỷ trong truyền thuyết bản địa; bảo không phải, vì nó tuyệt đối không phải là ma quỷ trong ký ức di truyền của chúng ta."
+    },
+    {
+      "para_id": "c0022p0061",
+      "index": 61,
+      "raw_zh": "這兩者有很大的區別，傳說的惡鬼我們似乎很了解，但其實是未知；而眼下我們看到的這群“鬼”，似乎未知，但其實已知。”",
+      "translated_vi": "Hai thứ này có sự khác biệt rất lớn: ác quỷ trong truyền thuyết ngỡ như chúng ta rất hiểu rõ, nhưng thực chất lại là điều chưa biết; còn bầy ‘quỷ’ mà chúng ta tận mắt thấy lúc này, ngỡ như chưa biết, nhưng thực chất lại là điều đã biết.”"
+    },
+    {
+      "para_id": "c0022p0062",
+      "index": 62,
+      "raw_zh": "說到這，他起身對著已經醒來的兩女，道：",
+      "translated_vi": "Nói đến đây, hắn đứng dậy bảo hai cô gái lúc này đều đã tỉnh hẳn:"
+    },
+    {
+      "para_id": "c0022p0063",
+      "index": 63,
+      "raw_zh": "“走，我們去看看昨天群鬼作亂的現場，你們就知道什麽是未知什麽是已知了。”",
+      "translated_vi": "“Đi thôi, chúng ta qua xem hiện trường bầy quỷ tác oai tác quái đêm qua, hai người sẽ hiểu thế nào là điều chưa biết và thế nào là điều đã biết.”"
+    },
+    {
+      "para_id": "c0022p0064",
+      "index": 64,
+      "raw_zh": "兩女極度好奇，不但好奇已知未知，也好奇昨天雲千峰的各種布置意義何在。",
+      "translated_vi": "Hai người phụ nữ vô cùng tò mò, chẳng những tò mò về điều đã biết và chưa biết kia, mà còn hiếu kỳ không rõ ý nghĩa của những sự sắp xếp ngày hôm qua của Vân Thiên Phong rốt cuộc là nhằm mục đích gì."
+    },
+    {
+      "para_id": "c0022p0065",
+      "index": 65,
+      "raw_zh": "再次來到三角石洞旁，篝火依舊在微微燃燒，冒著青煙。",
+      "translated_vi": "Lại đến bên hang đá hình tam giác, đống lửa trại vẫn đang âm ỉ cháy, bốc lên những làn khói xanh nhàn nhạt."
+    },
+    {
+      "para_id": "c0022p0066",
+      "index": 66,
+      "raw_zh": "那頭乾癟的巨大棕熊淒慘的倒在地上，秦疏影還特意去觀察了一下孔竅，確定棕熊死法與之前的乾屍相同。",
+      "translated_vi": "Con gấu nâu khổng lồ khô quắt ngã gục thê thảm trên mặt đất, Tần Sơ Ảnh còn đặc biệt tiến lại quan sát các lỗ khiếu trên xác nó, xác định cách chết của con gấu hoàn toàn tương đồng với các xác khô trước đó."
+    },
+    {
+      "para_id": "c0022p0067",
+      "index": 67,
+      "raw_zh": "秦疏影看著篝火，問雲千峰道：",
+      "translated_vi": "Tần Sơ Ảnh nhìn đống lửa trại, hỏi Vân Thiên Phong:"
+    },
+    {
+      "para_id": "c0022p0068",
+      "index": 68,
+      "raw_zh": "“冒這麽大的風險引那些東西出來，伱都得到了什麽已知，我特好奇。”",
+      "translated_vi": "“Liều mạng mạo hiểm lớn như thế để dẫn dụ những thứ kia ra, rốt cuộc anh thu được điều ‘đã biết’ gì, tôi cực kỳ tò mò đấy.”"
+    },
+    {
+      "para_id": "c0022p0069",
+      "index": 69,
+      "raw_zh": "雲千峰思索了一下，道：",
+      "translated_vi": "Vân Thiên Phong trầm ngâm một lát, nói:"
+    },
+    {
+      "para_id": "c0022p0070",
+      "index": 70,
+      "raw_zh": "“已知那東西是鬼，已知那東西不是鬼。還有你前面的說法是錯誤的，我從沒想引它們出來，而是不得不引它們出來，因為只有這樣，才能百分百的隱藏我們。”",
+      "translated_vi": "“Đã biết thứ đó là quỷ, cũng đã biết thứ đó không phải là quỷ. Hơn nữa cách nói trước đó của cô là sai rồi, tôi chưa từng muốn dẫn dụ chúng ra, mà là buộc phải dẫn dụ chúng ra. Bởi vì chỉ có làm như vậy, mới có thể ẩn giấu chúng ta một cách an toàn tuyệt đối.”"
+    },
+    {
+      "para_id": "c0022p0071",
+      "index": 71,
+      "raw_zh": "兩女好奇的看著雲千峰，在兩女看來，既然知道是篝火引來了那些鬼東西，那麽只要不燃燒篝火就可以了，這不是冒險是什麽？",
+      "translated_vi": "Hai cô gái hiếu kỳ nhìn chằm chằm Vân Thiên Phong. Theo suy nghĩ của họ, một khi đã biết chính đống lửa trại thu hút những thứ quái quỷ kia đến, vậy thì chỉ cần không đốt lửa trại là xong chuyện, đây không phải liều mạng mạo hiểm thì là cái gì?"
+    }
+  ]
+}

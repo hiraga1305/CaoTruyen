@@ -1,0 +1,32 @@
+{
+  "authentication": "cached_account; GEMINI_API_KEY unset",
+  "requested_model": "gemini-3.8-flash-high",
+  "agent": null,
+  "exit_code": 0,
+  "workspace": "D:\\AI\\Antigravity\\CaoTruyen",
+  "duration_seconds": 47.1,
+  "status": "SUCCESS",
+  "conversation_id": "ccdc6e97-93fb-4add-9d38-1f3ca3e3fdcc",
+  "usage": {
+    "input_tokens": 15122,
+    "output_tokens": 4990,
+    "thinking_tokens": 4866,
+    "cache_read_tokens": 0,
+    "total_tokens": 20112
+  },
+  "result": {
+    "conversation_id": "ccdc6e97-93fb-4add-9d38-1f3ca3e3fdcc",
+    "status": "SUCCESS",
+    "response": "§1 “Nơi này đã là điểm tận cùng của thần tích này, mà pho tượng thần vạn năm vẫn như mới kia lại là thứ duy nhất bất hủ trước năm tháng mà chúng ta bắt gặp. Bởi vậy tôi đoán, đó căn bản chẳng phải tượng thần nào cả, mà Ngài chính là thần khu.”\n§2 Một lời thốt ra khiến ai nấy đều kinh hãi, Vân Thiên Phong thầm nhủ trong bụng:\n§3 “Đây mà là thần khu ư? Thần thánh phương nào mà lại mọc ra cái dạng củ cặc thế này!”\n",
+    "duration_seconds": 43.4511794,
+    "num_turns": 1,
+    "usage": {
+      "input_tokens": 15122,
+      "output_tokens": 4990,
+      "thinking_tokens": 4866,
+      "cache_read_tokens": 0,
+      "total_tokens": 20112
+    }
+  },
+  "event_count": 27
+}

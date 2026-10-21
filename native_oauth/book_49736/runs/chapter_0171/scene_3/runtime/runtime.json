@@ -1,0 +1,32 @@
+{
+  "authentication": "cached_account; GEMINI_API_KEY unset",
+  "requested_model": "gemini-3.8-flash-high",
+  "agent": null,
+  "exit_code": 0,
+  "workspace": "D:\\AI\\Antigravity\\CaoTruyen",
+  "duration_seconds": 17.03,
+  "status": "SUCCESS",
+  "conversation_id": "4076dde9-65df-48af-9d15-81d874c40d99",
+  "usage": {
+    "input_tokens": 15044,
+    "output_tokens": 1521,
+    "thinking_tokens": 1502,
+    "cache_read_tokens": 0,
+    "total_tokens": 16565
+  },
+  "result": {
+    "conversation_id": "4076dde9-65df-48af-9d15-81d874c40d99",
+    "status": "SUCCESS",
+    "response": "§1 Còn nữa, chúc mọi người ngủ ngon, mộng đẹp triền miên!!!\n",
+    "duration_seconds": 13.3249257,
+    "num_turns": 1,
+    "usage": {
+      "input_tokens": 15044,
+      "output_tokens": 1521,
+      "thinking_tokens": 1502,
+      "cache_read_tokens": 0,
+      "total_tokens": 16565
+    }
+  },
+  "event_count": 5
+}

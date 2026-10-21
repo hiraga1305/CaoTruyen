@@ -1,0 +1,32 @@
+{
+  "authentication": "cached_account; GEMINI_API_KEY unset",
+  "requested_model": "gemini-3.8-flash-high",
+  "agent": null,
+  "exit_code": 0,
+  "workspace": "D:\\AI\\Antigravity\\CaoTruyen",
+  "duration_seconds": 31.55,
+  "status": "SUCCESS",
+  "conversation_id": "748d857a-91ea-424f-82c4-98cc9fb93219",
+  "usage": {
+    "input_tokens": 15228,
+    "output_tokens": 3401,
+    "thinking_tokens": 3217,
+    "cache_read_tokens": 0,
+    "total_tokens": 18629
+  },
+  "result": {
+    "conversation_id": "748d857a-91ea-424f-82c4-98cc9fb93219",
+    "status": "SUCCESS",
+    "response": "§1 “Không thành vấn đề, bản thân tôi vốn có công ty hàng hải, con tàu kia hoàn toàn có thể đăng ký dưới danh nghĩa công ty của tôi.”\n§2 Vừa nói, nàng vừa quẳng cho Vân Thiên Phong một cuốn hộ chiếu. Hóa ra người phụ nữ này đã sớm làm xong thân phận giả cho hắn từ trước, quả đúng là mẫu người luôn tính toán chu toàn mọi sự.\n§3 Vân Thiên Phong gật đầu, nói:\n§4 “Vậy chúng ta xuất phát ngay bây giờ, không cần đợi trời sáng.”\n§5 Không lâu sau, một chiếc trực thăng cất cánh từ nóc biệt thự, lao thẳng về phía sân bay Fiji.\n§6 Chúc mọi người cuối tuần vui vẻ, cả nhà ngủ ngon nhé!!! Tôi cũng đi nghỉ trước đây, phải điều chỉnh lại đồng hồ sinh học một chút rồi!!!\n",
+    "duration_seconds": 28.1802972,
+    "num_turns": 1,
+    "usage": {
+      "input_tokens": 15228,
+      "output_tokens": 3401,
+      "thinking_tokens": 3217,
+      "cache_read_tokens": 0,
+      "total_tokens": 18629
+    }
+  },
+  "event_count": 35
+}

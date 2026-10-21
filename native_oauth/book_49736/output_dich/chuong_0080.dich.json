@@ -1,0 +1,385 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 80,
+  "title": "Chương 80: Một người cổ đại",
+  "total_paragraphs": 62,
+  "translated_paragraphs": 62,
+  "source_hash": "655f856f367b6d73611ddad4b39d26e1967814596e7392454e6ee70ecb0535a0",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0080p0001",
+      "index": 1,
+      "raw_zh": "第80章 一個古人",
+      "translated_vi": "Chương 80: Một người cổ đại"
+    },
+    {
+      "para_id": "c0080p0002",
+      "index": 2,
+      "raw_zh": "聽到雲千峰的分析後，維多利亞倒是有了新的見解。",
+      "translated_vi": "Sau khi nghe Vân Thiên Phong phân tích, Victoria lại nảy sinh một kiến giải mới."
+    },
+    {
+      "para_id": "c0080p0003",
+      "index": 3,
+      "raw_zh": "她認為用八卦台鎮壓神跡空間這種事，一定是人做的，因為八卦台從形到意，幾乎都是華夏史前人類文明的標志性物品，而華夏史又是唯一的未斷代文明，是唯一能映射整個史前人類行為的參照物。",
+      "translated_vi": "Cô cho rằng việc dùng Bát Quái đài để trấn áp không gian thần tích chắc chắn là do con người làm. Bởi lẽ Bát Quái đài từ hình thức đến ý nghĩa hầu như đều là vật phẩm mang tính biểu tượng của nền văn minh nhân loại tiền sử Hoa Hạ; mà lịch sử Hoa Hạ lại là nền văn minh duy nhất không bị đứt đoạn, là vật tham chiếu duy nhất có thể phản chiếu toàn bộ hành vi của nhân loại thời tiền sử."
+    },
+    {
+      "para_id": "c0080p0004",
+      "index": 4,
+      "raw_zh": "如果參照華夏文明解讀神話歷史，就一定是人類鎮壓了“神軀”，理由是華夏文明記載的“絕地天通”。",
+      "translated_vi": "Nếu đối chiếu theo nền văn minh Hoa Hạ để giải mã lịch sử thần thoại, thì chắc chắn là nhân loại đã trấn áp “Thần Khu”, với lý do chính là sự kiện “Tuyệt Địa Thiên Thông” từng được ghi chép trong sử sách Hoa Hạ."
+    },
+    {
+      "para_id": "c0080p0005",
+      "index": 5,
+      "raw_zh": "維多利亞認為，絕地天通可能不是後世解讀的上古文明領袖為了杜絕宗教攝政那麽簡單的人為事跡，而是字面意義上的“絕地天通”。",
+      "translated_vi": "Victoria nhận định rằng Tuyệt Địa Thiên Thông có lẽ không đơn thuần chỉ là một sự tích nhân tạo nhằm ngăn chặn việc tôn giáo can dự vào chính sự của các bậc thủ lĩnh văn minh thượng cổ như người đời sau lý giải, mà nó mang đúng nghĩa đen của bốn chữ “Tuyệt Địa Thiên Thông”: cắt đứt hoàn toàn sự liên thông giữa đất và trời."
+    },
+    {
+      "para_id": "c0080p0006",
+      "index": 6,
+      "raw_zh": "古華夏文明的人王，真的利用了某種手段，把所謂的“神”，鎮壓或者是其它什麽方式，趕出了人類權利階層，甚至是驅逐。",
+      "translated_vi": "Các bậc Nhân Vương của nền văn minh Hoa Hạ cổ đại đã thực sự vận dụng một thủ đoạn nào đó để trấn áp cái gọi là “Thần”, hoặc bằng phương thức nào khác tống cổ chúng ra khỏi giai cấp nắm giữ quyền lực của nhân loại, thậm chí là trục xuất hoàn toàn."
+    },
+    {
+      "para_id": "c0080p0007",
+      "index": 7,
+      "raw_zh": "而且從此以後“絕地天通”似乎成為了華夏文明的某種ZZ正確。",
+      "translated_vi": "Hơn nữa kể từ đó về sau, “Tuyệt Địa Thiên Thông” dường như đã trở thành một dạng chuẩn mực chính trị đúng đắn bất thành văn của nền văn minh Hoa Hạ."
+    },
+    {
+      "para_id": "c0080p0008",
+      "index": 8,
+      "raw_zh": "因為這種行為甚至不止一次，商周交接之時，從各個角度來看，裡面也藏著絕地天通續集的感覺。",
+      "translated_vi": "Bởi vì hành động này thậm chí không chỉ diễn ra một lần; vào thời khắc chuyển giao giữa hai triều đại Thương - Chu, nhìn từ mọi góc độ đều phảng phất cảm giác như một phần tiếp theo của sự kiện Tuyệt Địa Thiên Thông."
+    },
+    {
+      "para_id": "c0080p0009",
+      "index": 9,
+      "raw_zh": "維多利亞始終沒有想明白的一件事是，為什麽絕地天通的續集之後，人王降級成了天子，這種事絕不可能是自願，必然存在掣肘。",
+      "translated_vi": "Điều duy nhất mà Victoria trước sau vẫn nghĩ mãi không thông là: vì cớ gì sau phần tiếp theo của Tuyệt Địa Thiên Thông, vị thế của Nhân Vương lại bị hạ cấp xuống thành Thiên Tử? Loại chuyện này tuyệt đối không thể là tự nguyện, tất phải tồn tại sự kiềm tỏa áp chế từ một thế lực vô hình nào đó."
+    },
+    {
+      "para_id": "c0080p0010",
+      "index": 10,
+      "raw_zh": "然而，時間不允許倆人做更多的探討，因為他們已經來到了那巨石城市之下。",
+      "translated_vi": "Thế nhưng thời gian không cho phép hai người bàn luận sâu thêm, bởi vì họ đã bước tới chân tòa thành cự thạch sừng sững."
+    },
+    {
+      "para_id": "c0080p0011",
+      "index": 11,
+      "raw_zh": "雲千峰在其中幾個洞口處探頭探腦的觀察了一會，發現並不是所有的洞口裡面都有微光散射而出，只有少部分因為洞穴貫通兩側，能讓火光透入，但不知為何，另一側的洞穴都是很小的孔洞，密密麻麻的，好像電腦的風箱網。",
+      "translated_vi": "Vân Thiên Phong thò đầu ngó nghiêng quan sát tại vài cửa hang một lát, phát hiện không phải tất cả các miệng hang đều có ánh sáng mờ le lói tỏa ra. Chỉ có một phần nhỏ do thông suốt cả hai bờ vách nên mới đón được ánh lửa lọt vào; nhưng chẳng rõ vì sao mà các lỗ hổng ở bờ bên kia lại là những lỗ thông khí rất nhỏ, chi chít dày đặc hệt như tấm lưới tản nhiệt của thùng máy vi tính."
+    },
+    {
+      "para_id": "c0080p0012",
+      "index": 12,
+      "raw_zh": "讓他詫異的是，這些洞穴裡都有風吹拂而出，但溫度比自己想象的要低很多，但這裡距離那巨大的晚霞之火估計只有一兩百米，遠比之前他們休息的地方要近，但這裡的風反而比那裡要涼爽。",
+      "translated_vi": "Điều khiến anh ngạc nhiên là từ bên trong những hang hốc này đều có gió phả ra, nhiệt độ lại thấp hơn nhiều so với dự tính. Nơi đây cách biển lửa ráng chiều khổng lồ kia ước chừng chỉ tầm một hai trăm mét, gần hơn nhiều so với chỗ họ vừa dừng chân nghỉ ngơi, vậy mà làn gió ở đây ngược lại còn mát mẻ hơn hẳn đằng kia."
+    },
+    {
+      "para_id": "c0080p0013",
+      "index": 13,
+      "raw_zh": "“奇怪，這裡反而比較涼快！”",
+      "translated_vi": "“Kỳ lạ thật, chỗ này ngược lại còn mát mẻ hơn!”"
+    },
+    {
+      "para_id": "c0080p0014",
+      "index": 14,
+      "raw_zh": "朱柏龍用手拍了拍那淡金色的巨石道：",
+      "translated_vi": "Chu Bách Long đưa tay vỗ vỗ lên tảng cự thạch màu vàng nhạt, nói:"
+    },
+    {
+      "para_id": "c0080p0015",
+      "index": 15,
+      "raw_zh": "“難道是小說裡常說的什麽千年寒玉那樣的寶物？”",
+      "translated_vi": "“Chẳng lẽ đây là món bảo vật như hàn ngọc nghìn năm mà tiểu thuyết thường hay nhắc tới?”"
+    },
+    {
+      "para_id": "c0080p0016",
+      "index": 16,
+      "raw_zh": "維多利亞則笑道：",
+      "translated_vi": "Victoria mỉm cười giải thích:"
+    },
+    {
+      "para_id": "c0080p0017",
+      "index": 17,
+      "raw_zh": "“是膨脹吸熱原理，這石頭城坐落遠處那大火前方，地勢又高，幾乎可以保證時時刻刻有風自大火方向吹來。那些風在另一側那些狹小洞穴入口處被擠壓，釋放了攜帶的熱量，進入洞穴後再膨脹開來，吸收洞內的熱量，所以石洞內鑽出來的風會比較涼爽。”",
+      "translated_vi": "“Đó là nguyên lý giãn nở thu nhiệt đấy. Tòa thành đá này tọa lạc ngay phía trước biển lửa đằng xa, địa thế lại cao ráo, gần như bảo đảm lúc nào cũng có gió thổi tới từ hướng ngọn lửa. Luồng gió ấy bị nén ép lại tại những cửa hang hẹp tí hon ở phía bên kia nên đã giải phóng bớt lượng nhiệt mà nó mang theo, sau khi lọt vào trong lòng hang lại giãn nở bung ra, hút bớt nhiệt lượng trong hang, vì thế làn gió luồn qua các hốc đá thổi ra mới mát mẻ như vậy.”"
+    },
+    {
+      "para_id": "c0080p0018",
+      "index": 18,
+      "raw_zh": "雲千峰恍然大悟，道：",
+      "translated_vi": "Vân Thiên Phong vỡ lẽ, gật gù:"
+    },
+    {
+      "para_id": "c0080p0019",
+      "index": 19,
+      "raw_zh": "“我記得，好像哪個地方還用這種原理做不用電的空調窗。身邊跟著一個博學的人，是一件幸運的事。”",
+      "translated_vi": "“Tôi nhớ ra rồi, hình như có nơi người ta cũng áp dụng nguyên lý này để làm cửa sổ điều hòa không cần dùng điện. Đi bên cạnh một người uyên bác quả là một điều may mắn.”"
+    },
+    {
+      "para_id": "c0080p0020",
+      "index": 20,
+      "raw_zh": "維多利亞被這一記馬屁拍的很舒服，然後就想到自己真的被他狠狠拍過，心中又有點蠢蠢欲動。",
+      "translated_vi": "Cú nịnh khéo này khiến Victoria cảm thấy vô cùng thoải mái; đoạn cô lại chợt nhớ tới việc mình quả thực từng bị anh “vỗ mạnh” một trận tơi bời, cõi lòng bỗng dâng lên chút rạo rực ngứa ngáy khó tả."
+    },
+    {
+      "para_id": "c0080p0021",
+      "index": 21,
+      "raw_zh": "這些石洞雖然錯落複雜，但是雲千峰並不擔心會迷路，因為他手上那石眼絕對會把他們送到該去的地方。",
+      "translated_vi": "Những hang đá này dẫu cho đan xen chằng chịt phức tạp, nhưng Vân Thiên Phong chẳng hề lo lắng chuyện lạc đường, bởi vì con mắt đá trên tay anh chắc chắn sẽ dẫn đường đưa họ tới nơi cần đến."
+    },
+    {
+      "para_id": "c0080p0022",
+      "index": 22,
+      "raw_zh": "“走吧，咱們進去，看這石眼的指示，咱們要找到向上去的樓梯才行。”",
+      "translated_vi": "“Đi thôi, chúng ta vào trong. Xem hướng chỉ của mắt đá này, chúng ta phải tìm được cầu thang dẫn lên trên mới được.”"
+    },
+    {
+      "para_id": "c0080p0023",
+      "index": 23,
+      "raw_zh": "石眼斜向上看，那麽證明某個很重要的位置，就在這石頭城市的上方某處。",
+      "translated_vi": "Mắt đá đang liếc xéo chếch lên trên, chứng tỏ một vị trí vô cùng trọng yếu đang nằm tại một nơi nào đó ở tầng trên của tòa thành cự thạch này."
+    },
+    {
+      "para_id": "c0080p0024",
+      "index": 24,
+      "raw_zh": "洞穴內光線晦暗，但大多數地方處於可以看清楚周圍的亮度，只有一些橫穿的洞廊裡面黑乎乎一團，亮度甚至不如月夜。",
+      "translated_vi": "Ánh sáng bên trong hang động tuy mờ ảo tăm tối, nhưng phần lớn các khu vực vẫn đủ độ sáng để nhìn rõ xung quanh, chỉ có một số hành lang cắt ngang là đen ngòm như mực, độ sáng thậm chí còn thua xa một đêm trăng khuyết."
+    },
+    {
+      "para_id": "c0080p0025",
+      "index": 25,
+      "raw_zh": "這顯然是人工鑿刻的巨石城市，用一座山這麽大的巨石雕刻成一個族群的家，這很完美。",
+      "translated_vi": "Nơi đây rõ ràng là một tòa thành cự thạch do con người đục đẽo mà thành. Dùng một khối cự thạch đồ sộ bằng cả ngọn núi để chạm khắc thành tổ ấm cho cả một tộc quần, quả thực là một công trình hoàn mỹ."
+    },
+    {
+      "para_id": "c0080p0026",
+      "index": 26,
+      "raw_zh": "但是可惜鑿刻的方式很粗獷，洞穴上到處都是鑿痕，沒有絲毫的修飾。",
+      "translated_vi": "Nhưng tiếc thay phương thức đục đẽo lại quá đỗi thô sơ thô ráp, khắp vách hang chằng chịt những vết búa đục nham nhở, chẳng hề có lấy một chút chạm trổ gọt giũa tỉ mỉ nào."
+    },
+    {
+      "para_id": "c0080p0027",
+      "index": 27,
+      "raw_zh": "這讓喜歡看壁畫做猜測的維多利亞有些不爽。",
+      "translated_vi": "Điều này khiến một người vốn thích ngắm nhìn các bức bích họa để suy đoán lịch sử như Victoria cảm thấy có phần cụt hứng."
+    },
+    {
+      "para_id": "c0080p0028",
+      "index": 28,
+      "raw_zh": "走在斑駁不平的石洞之中，雲千峰猜測道：",
+      "translated_vi": "Rảo bước trong hang đá gồ ghề lồi lõm, Vân Thiên Phong phỏng đoán:"
+    },
+    {
+      "para_id": "c0080p0029",
+      "index": 29,
+      "raw_zh": "“看這粗糙的鑿刻手法，想來這裡就是贛巨人這種穴居部落生物的家，它們是被趕出家園，成為被動的守護者。”",
+      "translated_vi": "“Nhìn thủ pháp đục đẽo thô vụng này, ắt hẳn nơi đây từng là hang ổ chốn dung thân của giống loài bộ lạc sống trong hang như Cán Cự Nhân. Chúng đã bị kẻ khác xua đuổi khỏi quê hương, biến thành những kẻ canh gác bị động bên ngoài.”"
+    },
+    {
+      "para_id": "c0080p0030",
+      "index": 30,
+      "raw_zh": "朱柏龍低聲道：",
+      "translated_vi": "Chu Bách Long hạ giọng hỏi:"
+    },
+    {
+      "para_id": "c0080p0031",
+      "index": 31,
+      "raw_zh": "“是誰把它們趕出去？趕出去自己住嗎？這裡沒發現生活痕跡啊！”",
+      "translated_vi": "“Là ai đuổi chúng đi cơ chứ? Đuổi đi để tự mình chiếm lấy ở sao? Nhưng ở đây đâu thấy dấu vết sinh hoạt nào đâu!”"
+    },
+    {
+      "para_id": "c0080p0032",
+      "index": 32,
+      "raw_zh": "的確，這裡看到的那些石器鼎碗都已經破敗，石床上也落滿了灰塵，很顯然已經不知多久沒有活物在這裡出現過。",
+      "translated_vi": "Quả đúng như vậy, những vò vạc đồ đá trông thấy ở nơi này đều đã sứt mẻ đổ nát, trên giường đá cũng bám đầy một lớp bụi dày, hiển nhiên đã không biết qua bao nhiêu năm tháng chẳng hề có bóng dáng sinh vật sống nào đặt chân tới chốn này."
+    },
+    {
+      "para_id": "c0080p0033",
+      "index": 33,
+      "raw_zh": "幾個人走在石洞裡，除了腳步聲就只剩下風灌入的聲音，鬼哭狼嚎的，但是聲音不大。",
+      "translated_vi": "Mấy người cất bước trong hang đá, ngoài tiếng bước chân xào xạc thì chỉ còn lại tiếng gió rít luồn qua khe đá, rền rĩ như quỷ khóc sói gào nhưng âm lượng không quá lớn."
+    },
+    {
+      "para_id": "c0080p0034",
+      "index": 34,
+      "raw_zh": "也正如維多利亞說的那樣，是洞內的溫度要比外面低很多，最少十幾度的溫差，雖然依舊讓人汗流浹背，但是卻在能忍受的范圍內。",
+      "translated_vi": "Đúng như những gì Victoria đã nói, nhiệt độ bên trong hang thấp hơn bên ngoài rất nhiều, chênh lệch ít nhất cũng phải mười mấy độ. Dẫu cho mồ hôi vẫn túa ra ướt đẫm lưng áo, nhưng ít ra vẫn nằm trong ngưỡng có thể chịu đựng được."
+    },
+    {
+      "para_id": "c0080p0035",
+      "index": 35,
+      "raw_zh": "維多利亞聽到倆人的話，思索道：",
+      "translated_vi": "Nghe cuộc trò chuyện của hai người, Victoria trầm ngâm suy nghĩ:"
+    },
+    {
+      "para_id": "c0080p0036",
+      "index": 36,
+      "raw_zh": "“不知道在外面的時候你們有沒有注意到，這金字塔形的巨石，上面沒有尖頂，這種輪廓很像瑪雅金字塔，最上方是做祭祀之用的祭台。",
+      "translated_vi": "“Không biết lúc ở bên ngoài mọi người có để ý không, khối cự thạch hình kim tự tháp này không hề có đỉnh nhọn. Kiểu đường nét này rất giống các kim tự tháp Maya, phần trên cùng chính là tế đài dùng để hành lễ tế tự."
+    },
+    {
+      "para_id": "c0080p0037",
+      "index": 37,
+      "raw_zh": "把贛巨人都攆出去，可能是有人利用這裡作為祭台溝通神靈，也可能是做法事鎮壓某種邪惡。”",
+      "translated_vi": "Việc xua đuổi bầy Cán Cự Nhân ra ngoài, có lẽ là do có người muốn biến nơi này thành tế đài để thông linh câu thông với thần linh, hoặc giả cũng có thể là lập đàn làm pháp sự nhằm trấn áp một loài tà ác nào đó.”"
+    },
+    {
+      "para_id": "c0080p0038",
+      "index": 38,
+      "raw_zh": "雲千峰覺得還有第三種可能，於是道：",
+      "translated_vi": "Vân Thiên Phong cảm thấy vẫn còn khả năng thứ ba, bèn lên tiếng:"
+    },
+    {
+      "para_id": "c0080p0039",
+      "index": 39,
+      "raw_zh": "“會不會是擺放神軀用的？”",
+      "translated_vi": "“Liệu có khi nào nơi đó dùng để an đặt Thần Khu không?”"
+    },
+    {
+      "para_id": "c0080p0040",
+      "index": 40,
+      "raw_zh": "維多利亞不確定，道：",
+      "translated_vi": "Victoria cũng không dám chắc, đáp:"
+    },
+    {
+      "para_id": "c0080p0041",
+      "index": 41,
+      "raw_zh": "“也有可能。”",
+      "translated_vi": "“Cũng có khả năng đó.”"
+    },
+    {
+      "para_id": "c0080p0042",
+      "index": 42,
+      "raw_zh": "朱柏龍和白妹子不知道神軀是什麽東西，但是很明智的選擇不問，知道的越少越好。",
+      "translated_vi": "Chu Bách Long cùng cô gái da trắng chẳng hiểu Thần Khu rốt cuộc là thứ gì, nhưng họ rất khôn ngoan lựa chọn im lặng không hỏi, chuyện càng biết ít thì càng an toàn."
+    },
+    {
+      "para_id": "c0080p0043",
+      "index": 43,
+      "raw_zh": "小神經則是完全不好奇這些事情，她現在腦子裡很亂。",
+      "translated_vi": "Tiểu Thần Kinh thì hoàn toàn chẳng mảy may tò mò về những chuyện này, trong đầu cô lúc này đang rối bời như tơ vò."
+    },
+    {
+      "para_id": "c0080p0044",
+      "index": 44,
+      "raw_zh": "那之前消失的兩個聲音都回來了，就在雲千峰掏出石眼那一刻，全都再次出現。",
+      "translated_vi": "Hai luồng âm thanh từng biến mất trước đó nay đều đã quay trở lại; ngay khoảnh khắc Vân Thiên Phong rút mắt đá ra, chúng đã đồng loạt xuất hiện lần nữa."
+    },
+    {
+      "para_id": "c0080p0045",
+      "index": 45,
+      "raw_zh": "它們聒噪的在小神經腦海裡呼喚著。",
+      "translated_vi": "Chúng ồn ào inh ỏi không ngừng gào thét kêu gào bên trong tâm trí của Tiểu Thần Kinh."
+    },
+    {
+      "para_id": "c0080p0046",
+      "index": 46,
+      "raw_zh": "“那石眼是你的，得到它，一定要得到它。”",
+      "translated_vi": "“Con mắt đá đó là của mày, đoạt lấy nó, nhất định phải đoạt lấy nó!”"
+    },
+    {
+      "para_id": "c0080p0047",
+      "index": 47,
+      "raw_zh": "“那石眼是邪惡的惡魔，搶到它，將它留在這裡，殺死所有人，不能讓他們釋放惡魔！”",
+      "translated_vi": "“Con mắt đá đó là ác quỷ tà ác, cướp lấy nó, giữ nó lại nơi này! Giết sạch tất cả mọi người đi, không được để bọn chúng giải thoát cho ác quỷ!”"
+    },
+    {
+      "para_id": "c0080p0048",
+      "index": 48,
+      "raw_zh": "“那石眼好熟悉，熟悉到它好像是我身體的一部分！”",
+      "translated_vi": "“Con mắt đá kia quen thuộc quá, quen thuộc đến mức dường như nó chính là một phần thân thể của mình!”"
+    },
+    {
+      "para_id": "c0080p0049",
+      "index": 49,
+      "raw_zh": "“得到它，你將知道伱自己是誰，你將獲得所有的記憶，動手吧，為什麽等待？”",
+      "translated_vi": "“Đoạt lấy nó, mày sẽ biết rõ bản thân mày rốt cuộc là ai, mày sẽ tìm lại toàn bộ ký ức! Ra tay đi, còn chần chừ đợi chờ điều gì nữa?”"
+    },
+    {
+      "para_id": "c0080p0050",
+      "index": 50,
+      "raw_zh": "“那是惡魔，一旦得到釋放，人類就完了，一切都完了！將它囚禁起來，就在這裡，你還在等什麽？殺了所有人，所有人！囚禁它！”",
+      "translated_vi": "“Đó là ác quỷ, một khi được thả ra thì nhân loại sẽ diệt vong, tất cả sẽ tan thành mây khói! Hãy giam cầm nó lại, ngay tại chốn này! Mày còn đợi cái gì nữa? Giết sạch tất cả mọi người, giết hết! Giam cầm nó lại!”"
+    },
+    {
+      "para_id": "c0080p0051",
+      "index": 51,
+      "raw_zh": "“不能殺，雲千峰給我的感覺很熟悉，很珍貴的熟悉，不能殺，眼球也很熟悉，向他要，他會給我！”",
+      "translated_vi": "“Không thể giết! Vân Thiên Phong đem lại cho mình một cảm giác vô cùng quen thuộc, sự quen thuộc trân quý khôn xiết, không thể giết anh ấy được! Nhãn cầu đá kia cũng rất thân quen, mình mở lời xin anh ấy, anh ấy nhất định sẽ cho mình!”"
+    },
+    {
+      "para_id": "c0080p0052",
+      "index": 52,
+      "raw_zh": "三個聲音吵得小神經有些抓狂，遠不是外表看起來那麽冷靜淡然。",
+      "translated_vi": "Ba luồng âm thanh cãi vã tranh giành dữ dội khiến Tiểu Thần Kinh muốn phát điên phát cuồng, căn bản không hề điềm tĩnh lạnh nhạt như dáng vẻ bên ngoài của cô."
+    },
+    {
+      "para_id": "c0080p0053",
+      "index": 53,
+      "raw_zh": "小神經已經有些無法忍耐，她深吸一口氣，快步的朝著前面引路的雲千峰走過去，很快她就在側面看到了雲千峰手上的石球。",
+      "translated_vi": "Tiểu Thần Kinh dường như đã không còn kìm nén nổi nữa, cô hít sâu một hơi, rảo bước đuổi theo Vân Thiên Phong đang dẫn đường phía trước. Rất nhanh sau đó, từ một bên sườn, cô đã nhìn thấy hòn bi đá nằm gọn trong lòng bàn tay anh."
+    },
+    {
+      "para_id": "c0080p0054",
+      "index": 54,
+      "raw_zh": "她要拿到它。",
+      "translated_vi": "Cô muốn đoạt lấy nó."
+    },
+    {
+      "para_id": "c0080p0055",
+      "index": 55,
+      "raw_zh": "然而，她剛剛情不自禁伸出去那一刻，雲千峰突然拐了個彎，進入了一個封閉的石室，因為石眼球把他指引到了這裡。",
+      "translated_vi": "Thế nhưng đúng vào khoảnh khắc cô không kìm lòng được mà thò tay ra, Vân Thiên Phong lại đột ngột rẽ sang một góc ngoặt, bước vào một căn thạch thất khép kín, bởi vì con mắt đá đã dẫn đường đưa anh tới tận nơi này."
+    },
+    {
+      "para_id": "c0080p0056",
+      "index": 56,
+      "raw_zh": "這裡已經是金字塔巨石中間的位置，這個位置溫度最舒服，乾燥而舒適。",
+      "translated_vi": "Nơi đây đã là vị trí trung tâm của khối cự thạch kim tự tháp, nhiệt độ ở vị trí này là dễ chịu nhất, vừa khô ráo lại vừa khoan khoái."
+    },
+    {
+      "para_id": "c0080p0057",
+      "index": 57,
+      "raw_zh": "小神經甩了甩頭，也急忙跟著走進去。",
+      "translated_vi": "Tiểu Thần Kinh lắc lắc đầu, cũng vội vã cất bước theo vào."
+    },
+    {
+      "para_id": "c0080p0058",
+      "index": 58,
+      "raw_zh": "石室內光線有些暗，幾個人幾秒鍾後才適應了這裡的亮度，並不大的石室內的一切，也映入眼簾。",
+      "translated_vi": "Ánh sáng trong thạch thất có phần mờ tối, mấy người phải mất vài giây mới thích nghi được với độ sáng nơi đây; mọi thứ bên trong căn phòng đá không quá rộng lớn liền lập tức hiện rõ trước mắt."
+    },
+    {
+      "para_id": "c0080p0059",
+      "index": 59,
+      "raw_zh": "這裡應該原本是住人的房間，裡面有一張粗糙的石床，石床旁邊有一張石台，想來是飯桌之類功用的東西。",
+      "translated_vi": "Nơi này hẳn nguyên bản là một căn phòng dùng cho người ở, bên trong kê một chiếc giường đá thô sơ, cạnh giường đá là một chiếc bàn đá, xem chừng dùng làm bàn ăn hay đồ vật có công năng tương tự."
+    },
+    {
+      "para_id": "c0080p0060",
+      "index": 60,
+      "raw_zh": "在石床上盤膝坐著一個身影，面目看不清楚，但一身長袍寬袖證明，這是一個古人。",
+      "translated_vi": "Ngay trên chiếc giường đá đang có một bóng người khoanh chân ngồi xếp bằng; dung mạo nhìn không rõ, nhưng bộ trường bào tay rộng trên người đã chứng minh rõ ràng: đây là một người thời cổ đại."
+    },
+    {
+      "para_id": "c0080p0061",
+      "index": 61,
+      "raw_zh": "這石球還真和古人有緣！",
+      "translated_vi": "Con mắt đá này quả thực có duyên tiền định với người cổ đại!"
+    },
+    {
+      "para_id": "c0080p0062",
+      "index": 62,
+      "raw_zh": "感謝書友咖啡你個棒棒糖的打賞，感謝書友仰望半月的星空0和渲染0筆墨情的月票鼓勵，謝謝你們，無比感激！！！",
+      "translated_vi": "Cảm ơn phần thưởng của bạn đọc Cà Phê Cho Bạn Cây Kẹo Mút, cảm ơn sự khích lệ bằng phiếu tháng của hai bạn Ngưỡng Vọng Bán Nguyệt Đích Tinh Không 0 và Huyễn Nhiễm 0 Bút Mặc Tình, cảm ơn mọi người, vô cùng cảm kích!!!"
+    }
+  ]
+}

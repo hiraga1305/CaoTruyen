@@ -1,0 +1,103 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0261|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §64):
+§1 261.第261章 兩個香巴拉
+§2 第261章 兩個香巴拉
+§3 [Ø=云千峰]雲千峰穩住心神，靠近卓瑪，用極輕的聲音問道：
+§4 [Ø=云千峰]“卓瑪，香巴拉在哪裡？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§5 [Ø=云千峰]他必須用這種低頻率低分貝的聲音詢問，否則卓瑪會醒來。
+§6 [Ø=云千峰]因為很顯然，信息或許是藏在卓瑪夢中的。
+§7 大概這就是為什麽格比格讓卓瑪做雲千峰向導的原因。
+§8 [Ø=云千峰]卓瑪的眼球依舊在震顫著，速度甚至更快了，看起來已經完全是雙瞳。
+§9 “窩拉.窩拉窩拉香巴拉.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§10 [Ø=云千峰]雲千峰知道夢中的卓瑪是在回答自己的問題，但是他實在聽不懂，只要盡可能的靠近她， [||] 把這些發音記住，等到卓瑪醒來，他再詢問翻譯。
+§11 [Ø=云千峰]因為雲千峰要靠近卓瑪低語問話，倆人已經距離很近，此時雲千峰側耳對著卓瑪的嘴巴再次靠近， [||] 倆人現在的樣子看起來，就像是雲千峰擁抱著卓瑪，把嘴巴照著卓瑪耳朵位置貼過去的狀態。
+§12 [Ø=云千峰]這也沒什麽，畢竟問心無愧的事。
+§13 [Ø=云千峰]但問題是，卓瑪這時候醒了！
+§14 [Ø=云千峰]於是，不是問題的問題變成了問題。
+§15 “啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§16 [Ø=云千峰]卓瑪眼看著雲千峰抱著自己貼過來，[Ø_SHIFT=姜柔甲]急忙一把推開雲千峰，然後就著LED燈的光亮，看到自己散落的五色腰帶和敞開的衣襟。
+§17 [Ø=姜柔甲]烈馬都能降服的女人，你就別指望她脾氣好。
+§18 [Ø=姜柔甲]就見卓瑪衣衫都沒掩，一把拽過旁邊的藏刀，直接抽了出來。
+§19 “臥槽！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§20 [Ø=姜柔甲]雲千峰發出驚歎，轉身鑽出帳篷，速度奇快。
+§21 [Ø=姜柔甲]卓瑪緊跟著在後面追出來，嘴裡屋裡哇啦的全是當地話，顯然是憤怒極了。
+§22 [Ø=姜柔甲]雲千峰看到一塊壁立的大石頭，怕不是有三米高，當下跑過去，借力用右腿使勁一點地， [||] 飛身形跳將起來，手一搭石頭頂端，整個人翻了上去，站在石頭上對著卓瑪大聲道：
+§23 [Ø=姜柔甲]“誤會，誤會，你聽我解釋！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 [Ø=姜柔甲]卓瑪指著自己胸口散開的衣襟，大聲道：
+§25 “你要怎麽解釋？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§26 [Ø=姜柔甲]雲千峰忙雙手投降狀，道：
+§27 [Ø=姜柔甲]“先把衣服掩好，萬一有別的遊客在附近，看見了咱們多虧是不是？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 [Ø=姜柔甲]卓瑪才想起自己跑光這茬，[Ø_SHIFT=云千峰]急忙掩好了衣服，怒目看著雲千峰罵道：
+§29 [Ø=云千峰]“壞人，你不但是個騙子，還是個澀狼！壞人！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§30 [Ø=云千峰]越說似乎越生氣，卓瑪把藏刀咬在嘴裡，手腳並用，準備爬到雲千峰站著的大石頭上。
+§31 [Ø=云千峰]這丫頭體輕身體靈活，倒是真能爬上去。
+§32 [Ø=云千峰]但奈何雲千峰在上面，卓瑪腦袋一冒頭，雲千峰就用手掌按著卓瑪的腦袋瓜往下一用力，卓瑪便又掉了下去。
+§33 [Ø=云千峰]如此反覆幾次，卓瑪怒不可遏，想要拿刀扔雲千峰， [||] 結果發現嘴裡叼著的藏刀不知道啥時候不見了，抬頭一看，在雲千峰手裡攥著呢。
+§34 [Ø=云千峰]“壞人，把刀給我的嘛，那是我的嘛！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 [Ø=云千峰]雲千峰貓兒似的往下一擺手，道：
+§36 [Ø=云千峰]“別鬧，我真的是聽你說夢話呢，你在夢裡說香巴拉， [||] 我問你香巴拉在哪，那就“窩拉窩拉”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]個不停，我也不知道那是什麽意思。”
+§37 [Ø=云千峰]卓瑪才不信雲千峰的話，咬牙道：
+§38 [Ø=云千峰]“胡說，我睡得可好嘛，根本沒做夢！你就不要狡辯啦，壞人！澀狼！我要殺了你！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 [Ø=云千峰]事實證明，周圍真的還有遊客，卓瑪的喊叫聲，已經把露營的一些人喊醒。
+§40 [Ø=云千峰]雲千峰看到遠處有人影靠近，手裡還拿著手電筒。
+§41 [Ø=云千峰]其實啊，見義勇為的人， [||] 這個世界從來不缺，只是沒有媒體報道而已，就很奇怪。
+§42 [Ø=云千峰]雲千峰不能讓這個誤會繼續下去，他可沒時間狡辯這些事，更不想和別人掰扯。
+§43 [Ø=云千峰]於是他跳下石頭，一邊走向卓瑪，一邊說道：
+§44 [Ø=云千峰]“那我向你證明，我絕對沒有對你做什麽的意思。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§45 [Ø=云千峰]卓瑪一愣，下意識問：
+§46 “怎麽證明的嘛？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§47 [Ø=云千峰]話沒說完，就被雲千峰一把抱起來，夾在腋窩下，倆人一起鑽進了帳篷。
+§48 卓瑪嚇壞了。
+§49 [Ø=云千峰]就這力氣，自己根本沒法反抗啊，刀還在人家手裡。
+§50 [Ø=云千峰]雲千峰把卓瑪扔到帳篷內，雙手抓住卓瑪的手臂，壓在卓瑪的頭頂上方， [||] 身體自上壓下去，但是保持著一點距離，然後說道：
+§51 “能反抗嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§52 [Ø=云千峰]卓瑪咽了口唾沫，很誠實道：
+§53 “不能！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§54 雲千峰繼續道：
+§55 [Ø=云千峰]“那你睡不睡著，我想做什麽，有影響？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§56 卓瑪搖了搖頭。
+§57 雲千峰笑道：
+§58 “那信了？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§59 卓瑪再次點了點頭。
+§60 [Ø=云千峰]這大姑娘不傻，這時候要是敢說不信，鬼知道雲千峰下一步怎麽證明，反正吃虧的肯定是自己。
+§61 [Ø=云千峰]最主要的，雲千峰有一點說得對，他要是壞人，那卓瑪根本無法反抗。
+§62 [Ø=云千峰]外面傳來了腳步聲，還有手電的光束自沒拉好的帳篷門簾射進來。
+§63 [Ø=云千峰]相信，外面的人能看到雲千峰壓著卓瑪手臂的姿勢。
+§64 [Ø=云千峰]“裡面的人出來，我剛才可是聽見了，有個姑娘喊澀狼，你不出來我可不客氣了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 64 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§64. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

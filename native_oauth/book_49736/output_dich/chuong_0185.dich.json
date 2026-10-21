@@ -1,0 +1,553 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 185,
+  "title": "Chương 185: Toàn Là Nửa Đoạn!",
+  "total_paragraphs": 90,
+  "translated_paragraphs": 90,
+  "source_hash": "6c62f6df67bfcf6eb7b286b5a401011bf3524f9293e8ec0b9651b986a758ce6e",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0185p0001",
+      "index": 1,
+      "raw_zh": "第185章 全是半截的！",
+      "translated_vi": "Chương 185: Toàn Là Nửa Đoạn!"
+    },
+    {
+      "para_id": "c0185p0002",
+      "index": 2,
+      "raw_zh": "雲千峰滿以為需要很大力氣才能把屍骨在沙子裡拔出來，但是沒想到很輕松就辦到了，以至於他不得不向後退了兩步，卸去使用過多的力氣。",
+      "translated_vi": "Vân Thiên Phong cứ ngỡ phải dùng rất nhiều sức lực mới có thể nhổ được bộ hài cốt ra khỏi cát, nhưng không ngờ lại làm được quá đỗi nhẹ nhàng, đến mức anh phải lảo đảo lùi lại hai bước để triệt tiêu lực dư thừa."
+    },
+    {
+      "para_id": "c0185p0003",
+      "index": 3,
+      "raw_zh": "而枯骨拽出來以後，雲千峰才明白為什麽這麽輕松，因為只有半截枯骨。",
+      "translated_vi": "Đến khi lôi được bộ hài cốt ra, Vân Thiên Phong mới hiểu vì sao lại nhẹ bẫng đến thế: bởi vì đây chỉ là một nửa đoạn thi thể."
+    },
+    {
+      "para_id": "c0185p0004",
+      "index": 4,
+      "raw_zh": "這具骷髏從盆骨以下，全都沒了蹤影。",
+      "translated_vi": "Bộ xương khô này từ phần xương chậu trở xuống thảy đều mất hút không một dấu vết."
+    },
+    {
+      "para_id": "c0185p0005",
+      "index": 5,
+      "raw_zh": "雲千峰急忙用軍刀挖下去，然而挖了半米深，也沒看到另一半枯骨。",
+      "translated_vi": "Vân Thiên Phong vội dùng dao găm đào bới xuống dưới, song đào sâu hơn nửa mét cũng chẳng hề thấy nửa đoạn xương còn lại đâu."
+    },
+    {
+      "para_id": "c0185p0006",
+      "index": 6,
+      "raw_zh": "這也就意味著，這具枯骨被挪到這裡的時候就是半截，而且還特意挖了個小坑把半截屍體立在這裡。",
+      "translated_vi": "Điều này đồng nghĩa với việc, bộ hài cốt khi bị di dời đến đây vốn đã chỉ còn một nửa, hơn nữa người ta còn cố ý đào một chiếc hố nhỏ để cắm nửa đoạn thi thể đứng sừng sững ở chỗ này."
+    },
+    {
+      "para_id": "c0185p0007",
+      "index": 7,
+      "raw_zh": "“是不是某種祭祀儀式？”",
+      "translated_vi": "“Liệu có phải là một nghi thức tế lễ nào đó không?”"
+    },
+    {
+      "para_id": "c0185p0008",
+      "index": 8,
+      "raw_zh": "阿菲法思索說道。",
+      "translated_vi": "Afifa trầm ngâm phỏng đoán."
+    },
+    {
+      "para_id": "c0185p0009",
+      "index": 9,
+      "raw_zh": "還別說，看起來真的很像，而且似乎也只有這種解釋比較合理。",
+      "translated_vi": "Đừng nói chứ trông quả thực rất giống, mà dường như cũng chỉ có cách giải thích này là tương đối hợp lý."
+    },
+    {
+      "para_id": "c0185p0010",
+      "index": 10,
+      "raw_zh": "也就在這時候，安德指著屍體後面不遠處，一塊大石頭的側面，驚道：",
+      "translated_vi": "Đúng lúc này, Ander chỉ tay về phía bên hông một tảng đá lớn cách sau lưng bộ hài cốt không xa, kinh ngạc thốt lên:"
+    },
+    {
+      "para_id": "c0185p0011",
+      "index": 11,
+      "raw_zh": "“看，那裡還有一具立著的枯骨！”",
+      "translated_vi": "“Nhìn kìa, bên kia cũng có một bộ xương khô đứng thẳng!”"
+    },
+    {
+      "para_id": "c0185p0012",
+      "index": 12,
+      "raw_zh": "雲千峰抬眼一看，和這個枯骨一樣，也是半身立在那裡，腦袋耷拉著。",
+      "translated_vi": "Vân Thiên Phong ngước mắt nhìn sang, y hệt như bộ hài cốt này, cũng là nửa thân trên cắm đứng tại đó, đầu rũ xuống gục vào lồng ngực."
+    },
+    {
+      "para_id": "c0185p0013",
+      "index": 13,
+      "raw_zh": "幾個人急忙走過去，同樣把枯骨拔出來，然後往下挖。",
+      "translated_vi": "Mấy người vội vàng bước lại gần, cũng nhấc bộ xương khô lên rồi cắm cúi đào sâu xuống."
+    },
+    {
+      "para_id": "c0185p0014",
+      "index": 14,
+      "raw_zh": "“也是沒有了下半截，看來可能真的是某種祭祀形式，那面還有。”",
+      "translated_vi": "“Cũng chẳng có nửa thân dưới, xem ra có khả năng thực sự là một hình thức tế lễ nào đó. Bên kia vẫn còn kìa.”"
+    },
+    {
+      "para_id": "c0185p0015",
+      "index": 15,
+      "raw_zh": "在這具枯骨的側面不遠處，有著同樣姿勢的枯骨，走過去一看，和前面兩個一樣。",
+      "translated_vi": "Cách bên hông bộ hài cốt này không xa lại có một bộ xương với tư thế tương tự, bước lại xem xét thì thấy cũng y chang hai bộ trước."
+    },
+    {
+      "para_id": "c0185p0016",
+      "index": 16,
+      "raw_zh": "“很多啊，你們看那面還有好幾個，那還有兩個衣服沒腐爛的。”",
+      "translated_vi": "“Nhiều lắm, mọi người nhìn sang bên kia xem còn có mấy bộ nữa kìa, bên đó còn có hai bộ quần áo vẫn chưa mục nát.”"
+    },
+    {
+      "para_id": "c0185p0017",
+      "index": 17,
+      "raw_zh": "安德指著遠處喊道。",
+      "translated_vi": "Ander chỉ tay ra xa hô lớn."
+    },
+    {
+      "para_id": "c0185p0018",
+      "index": 18,
+      "raw_zh": "有衣服，那就有信息，雲千峰急忙跑過去查看。",
+      "translated_vi": "Có quần áo nghĩa là có manh mối thông tin, Vân Thiên Phong liền vội vã chạy lại kiểm tra."
+    },
+    {
+      "para_id": "c0185p0019",
+      "index": 19,
+      "raw_zh": "在這兩具衣服還沒氧化腐爛的屍骨旁邊，雲千峰看到了槍口插在地上的步槍，枯骨的手指上還有那代表著石匠會的戒指。",
+      "translated_vi": "Bên cạnh hai bộ hài cốt có y phục chưa bị oxy hóa mục rữa này, Vân Thiên Phong trông thấy những khẩu súng trường cắm nòng xuống cát, trên ngón tay xương xẩu còn đeo chiếc nhẫn biểu tượng của Hội Thợ Đá."
+    },
+    {
+      "para_id": "c0185p0020",
+      "index": 20,
+      "raw_zh": "法緹娜他們這時候也追了過來，看到雲千峰拿著一枚戒指發呆，就問道：",
+      "translated_vi": "Nhóm Fatina lúc này cũng chạy tới nơi, thấy Vân Thiên Phong cầm chiếc nhẫn thẫn thờ ngắm nghía, bèn cất tiếng hỏi:"
+    },
+    {
+      "para_id": "c0185p0021",
+      "index": 21,
+      "raw_zh": "“那是什麽？”",
+      "translated_vi": "“Đó là thứ gì vậy?”"
+    },
+    {
+      "para_id": "c0185p0022",
+      "index": 22,
+      "raw_zh": "雲千峰看著戒指，說道：",
+      "translated_vi": "Vân Thiên Phong nhìn chiếc nhẫn, đáp:"
+    },
+    {
+      "para_id": "c0185p0023",
+      "index": 23,
+      "raw_zh": "“一個組織的信物，這些人專門尋找和進入一些奇怪的秘境，尋找一些東西。”",
+      "translated_vi": "“Tín vật của một tổ chức bí mật, những kẻ này chuyên môn tìm kiếm và thâm nhập vào các bí cảnh kỳ dị để săn lùng một số thứ.”"
+    },
+    {
+      "para_id": "c0185p0024",
+      "index": 24,
+      "raw_zh": "阿菲法急道：",
+      "translated_vi": "Afifa sốt ruột hỏi:"
+    },
+    {
+      "para_id": "c0185p0025",
+      "index": 25,
+      "raw_zh": "“他們也是衝著神器來的？”",
+      "translated_vi": "“Họ cũng nhắm vào thần khí sao?”"
+    },
+    {
+      "para_id": "c0185p0026",
+      "index": 26,
+      "raw_zh": "雲千峰聽到這話，淡笑道：",
+      "translated_vi": "Vân Thiên Phong nghe vậy khẽ mỉm cười:"
+    },
+    {
+      "para_id": "c0185p0027",
+      "index": 27,
+      "raw_zh": "“放心，不是，他們要找的東西與你們不重合；不過還是有個壞消息。”",
+      "translated_vi": "“Yên tâm đi, không phải đâu, thứ họ tìm kiếm không trùng lặp với mục tiêu của các cô. Tuy nhiên, vẫn có một tin xấu.”"
+    },
+    {
+      "para_id": "c0185p0028",
+      "index": 28,
+      "raw_zh": "旁邊三人一愣，心臟都有些懸著，一起注目雲千峰。",
+      "translated_vi": "Ba người bên cạnh ngẩn người ra, trái tim ai nấy đều thắt lại, đồng loạt dồn ánh mắt về phía Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0185p0029",
+      "index": 29,
+      "raw_zh": "雲千峰用手指拈花摩挲著那枚石匠會的戒指，沉聲道：",
+      "translated_vi": "Vân Thiên Phong mân mê chiếc nhẫn của Hội Thợ Đá trong tay, trầm giọng nói:"
+    },
+    {
+      "para_id": "c0185p0030",
+      "index": 30,
+      "raw_zh": "“壞消息是，這不是祭祀儀式，也就意味著，他們是被殺死在這裡。”",
+      "translated_vi": "“Tin xấu là, đây hoàn toàn không phải nghi thức tế lễ, điều đó đồng nghĩa với việc họ bị giết chết ngay tại nơi này.”"
+    },
+    {
+      "para_id": "c0185p0031",
+      "index": 31,
+      "raw_zh": "安德想到了什麽，忙道：",
+      "translated_vi": "Ander như sực nghĩ ra điều gì, vội nói:"
+    },
+    {
+      "para_id": "c0185p0032",
+      "index": 32,
+      "raw_zh": "“腰斬？”",
+      "translated_vi": "“Chém ngang lưng sao?”"
+    },
+    {
+      "para_id": "c0185p0033",
+      "index": 33,
+      "raw_zh": "這些枯骨，無一例外都是沒有了下半截身體，看起來就很像是腰斬。",
+      "translated_vi": "Những bộ xương khô này không một ngoại lệ đều thiếu mất nửa thân dưới, nhìn qua quả thực rất giống bị hình phạt chém ngang lưng."
+    },
+    {
+      "para_id": "c0185p0034",
+      "index": 34,
+      "raw_zh": "雲千峰不置可否，遲疑道：",
+      "translated_vi": "Vân Thiên Phong không tỏ rõ thái độ đồng tình hay phản bác, ngập ngừng bảo:"
+    },
+    {
+      "para_id": "c0185p0035",
+      "index": 35,
+      "raw_zh": "“看起來很像，但問題是，另外半截身體都哪去了？”",
+      "translated_vi": "“Trông thì rất giống, nhưng vấn đề là nửa đoạn thân thể còn lại đã đi đâu rồi?”"
+    },
+    {
+      "para_id": "c0185p0036",
+      "index": 36,
+      "raw_zh": "法緹娜懂的東西不少，她思索道：",
+      "translated_vi": "Fatina vốn hiểu biết sâu rộng, cô suy đoán:"
+    },
+    {
+      "para_id": "c0185p0037",
+      "index": 37,
+      "raw_zh": "“會不會是被拿走做日晷了？”",
+      "translated_vi": "“Liệu có khi nào bị lấy đi làm đồng hồ mặt trời không?”"
+    },
+    {
+      "para_id": "c0185p0038",
+      "index": 38,
+      "raw_zh": "日晷是很古老的年代，人們利用豎影計算時間的方法。",
+      "translated_vi": "Đồng hồ mặt trời là phương pháp từ thời cổ xưa mà con người lợi dụng bóng đổ để tính toán thời gian."
+    },
+    {
+      "para_id": "c0185p0039",
+      "index": 39,
+      "raw_zh": "而最古老的日晷，都是用人的大腿骨。",
+      "translated_vi": "Mà những chiếc đồng hồ mặt trời cổ xưa nhất đều dùng xương đùi người để làm cọc đo."
+    },
+    {
+      "para_id": "c0185p0040",
+      "index": 40,
+      "raw_zh": "因為哪怕身高相差很多的人，大腿骨的長度差距也不是很大，算得上是當時的一種尺度標準。",
+      "translated_vi": "Bởi vì dẫu chiều cao của con người có chênh lệch nhiều, thì độ dài xương đùi cũng không sai biệt quá lớn, có thể coi là một loại quy chuẩn đo lường thời bấy giờ."
+    },
+    {
+      "para_id": "c0185p0041",
+      "index": 41,
+      "raw_zh": "就像中醫裡最早都是用幾橫指來作為刻度標準。",
+      "translated_vi": "Hệt như trong Đông y thời sơ khai, người ta thường dùng bề ngang mấy ngón tay để làm chuẩn mực đo lường huyệt vị."
+    },
+    {
+      "para_id": "c0185p0042",
+      "index": 42,
+      "raw_zh": "雲千峰指了指石陣內的地面，說道：",
+      "translated_vi": "Vân Thiên Phong chỉ tay xuống mặt đất trong thạch trận, bảo:"
+    },
+    {
+      "para_id": "c0185p0043",
+      "index": 43,
+      "raw_zh": "“這裡根本透不進來光，怎麽做日晷啊？”",
+      "translated_vi": "“Nơi này ánh sáng mặt trời căn bản không rọi tới nổi, thì làm sao dựng đồng hồ mặt trời được chứ?”"
+    },
+    {
+      "para_id": "c0185p0044",
+      "index": 44,
+      "raw_zh": "幾個人正猜測著各種可能，從而推測他們可能遇到的危險。",
+      "translated_vi": "Mấy người đua nhau phỏng đoán đủ mọi giả thuyết, nhằm suy luận ra mối hiểm nguy mà mình sắp sửa phải đối mặt."
+    },
+    {
+      "para_id": "c0185p0045",
+      "index": 45,
+      "raw_zh": "然而實在找不到合理的可能性。",
+      "translated_vi": "Song thực sự chẳng thể tìm ra một khả năng nào nghe có vẻ hợp lý."
+    },
+    {
+      "para_id": "c0185p0046",
+      "index": 46,
+      "raw_zh": "但是現實，很快給了他們答案。",
+      "translated_vi": "Thế nhưng hiện thực phũ phàng đã rất nhanh đem lại câu trả lời cho họ."
+    },
+    {
+      "para_id": "c0185p0047",
+      "index": 47,
+      "raw_zh": "幾個人沿著下坡繼續向深坑內前行。",
+      "translated_vi": "Mấy người men theo triền dốc tiếp tục tiến sâu vào trong lòng hố sụt."
+    },
+    {
+      "para_id": "c0185p0048",
+      "index": 48,
+      "raw_zh": "到了這裡，已經不需要爬到高處判斷高低了，因為坡度越來越大，已經可以憑借身體感覺到這種變化。",
+      "translated_vi": "Đi tới chốn này, họ chẳng cần phải trèo lên cao để phán đoán độ dốc nữa, vì độ dốc càng lúc càng lớn, cơ thể hoàn toàn có thể cảm nhận rõ rệt sự biến chuyển của địa hình."
+    },
+    {
+      "para_id": "c0185p0049",
+      "index": 49,
+      "raw_zh": "幾個人正走著，法緹娜突然身形一個挒斜，好像踩到了棉花似的。",
+      "translated_vi": "Mấy người đang cất bước, bỗng nhiên thân hình Fatina lảo đảo chao đảo, tựa như dẫm phải một búi bông mềm xốp."
+    },
+    {
+      "para_id": "c0185p0050",
+      "index": 50,
+      "raw_zh": "而她腳下那原本帶著一點硬殼的沙地，突然像開水似的翻滾起來。",
+      "translated_vi": "Mà bãi cát vốn có lớp vỏ cứng cáp dưới chân cô đột ngột sôi trào cuồn cuộn chẳng khác nào nước sôi."
+    },
+    {
+      "para_id": "c0185p0051",
+      "index": 51,
+      "raw_zh": "那沙土翻動的范圍，就在法緹娜腳下一圈。",
+      "translated_vi": "Phạm vi cát đất sôi trào cuộn lên đúng trọn một vòng tròn ngay dưới chân Fatina."
+    },
+    {
+      "para_id": "c0185p0052",
+      "index": 52,
+      "raw_zh": "幾乎眨眼間，法緹娜的身形就開始下陷，兩個呼吸的功夫，就已經沒到了膝蓋。",
+      "translated_vi": "Gần như chỉ trong chớp mắt, cơ thể Fatina bắt đầu sụt lún xuống, chỉ chừng hai nhịp thở đã ngập đến tận đầu gối."
+    },
+    {
+      "para_id": "c0185p0053",
+      "index": 53,
+      "raw_zh": "自從遇到了那些詭異的半截枯骨，雲千峰一直處於警覺的狀態。",
+      "translated_vi": "Kể từ lúc bắt gặp những bộ hài cốt nửa đoạn kỳ dị kia, Vân Thiên Phong vẫn luôn duy trì trạng thái cảnh giác cao độ."
+    },
+    {
+      "para_id": "c0185p0054",
+      "index": 54,
+      "raw_zh": "這讓他得以做出最快的反應速度。",
+      "translated_vi": "Nhờ thế anh mới có thể bộc phát phản xạ nhanh nhạy nhất."
+    },
+    {
+      "para_id": "c0185p0055",
+      "index": 55,
+      "raw_zh": "幾乎是法緹娜身形往下落的一瞬間，雲千峰的雙手就抓住了法緹娜的蜂腰，腰跨坐力，借著腿蹬之力，直接用摔跤招式的扭頭摔，把法緹娜橫著扔出去兩米多遠。",
+      "translated_vi": "Gần như ngay khoảnh khắc thân mình Fatina sụt xuống, đôi tay Vân Thiên Phong đã chộp lấy vòng eo thon gọn của cô, vận lực từ hông eo, mượn sức đạp của đôi chân, tung ra một chiêu vặn người quật ngã trong môn vật, hất bổng Fatina bay ngang ra xa hơn hai mét."
+    },
+    {
+      "para_id": "c0185p0056",
+      "index": 56,
+      "raw_zh": "法緹娜在被雲千峰扔出去的同時，他們聽到了一聲皮革被撕裂的聲響。",
+      "translated_vi": "Cùng lúc Fatina bị Vân Thiên Phong quẳng ra ngoài, họ nghe thấy một tiếng “roạc” rách toạc của da thuộc."
+    },
+    {
+      "para_id": "c0185p0057",
+      "index": 57,
+      "raw_zh": "再看騰空落地的法緹娜，右腳上的皮靴鞋底已經沒了蹤影，看那裂口的狀態，似乎是什麽東西用極大的力量把法緹娜的鞋底撕扯下去。",
+      "translated_vi": "Nhìn lại Fatina vừa tiếp đất, đế chiếc ủng da bên chân phải của cô đã biến mất không còn tăm hơi, nhìn mép rách toạc lởm chởm, dường như có thứ gì đó đã dùng một cự lực kinh hồn xé phăng đế giày của cô đi."
+    },
+    {
+      "para_id": "c0185p0058",
+      "index": 58,
+      "raw_zh": "安德反應也不算慢，就在雲千峰把法緹娜甩出去之後，他就對著那翻滾的沙土位置連開了幾槍。",
+      "translated_vi": "Phản ứng của Ander cũng chẳng hề chậm chạp, ngay sau khi Vân Thiên Phong hất văng Fatina ra, gã liền chĩa súng nã liên tiếp mấy phát đạn vào vùng cát đất đang cuộn trào sôi sục."
+    },
+    {
+      "para_id": "c0185p0059",
+      "index": 59,
+      "raw_zh": "三槍過後，那沙土一下安靜下來，不再蠕動。",
+      "translated_vi": "Sau ba tiếng súng nổ, vùng cát lún lập tức yên ắng trở lại, không còn ngọ nguậy nữa."
+    },
+    {
+      "para_id": "c0185p0060",
+      "index": 60,
+      "raw_zh": "就在他們以為下面撕扯法緹娜的東西已經被擊斃的時候，手拿著步槍的安德腳下，沙土突然滾動起來。",
+      "translated_vi": "Đúng lúc họ ngỡ rằng thứ dưới lòng đất giằng xé Fatina đã bị bắn hạ, thì dưới chân Ander đang cầm súng trường, cát đất bỗng nhiên sôi sục cuộn trào dữ dội."
+    },
+    {
+      "para_id": "c0185p0061",
+      "index": 61,
+      "raw_zh": "雲千峰正去扶法緹娜起來。",
+      "translated_vi": "Vân Thiên Phong đang cúi xuống đỡ Fatina đứng dậy."
+    },
+    {
+      "para_id": "c0185p0062",
+      "index": 62,
+      "raw_zh": "剛才那一摔，可把這女人摔了夠嗆。",
+      "translated_vi": "Cú quẳng vừa rồi quả thực đã khiến người phụ nữ này ê ẩm cả người."
+    },
+    {
+      "para_id": "c0185p0063",
+      "index": 63,
+      "raw_zh": "這也是仗著波斯女人身段柔軟，再加上局部地區減震非常好，否則都得重傷。",
+      "translated_vi": "Cũng may nhờ vóc dáng phụ nữ Ba Tư mềm mại uyển chuyển, lại thêm các đường nét đẫy đà giúp giảm chấn cực tốt, bằng không e rằng đã chấn thương nặng rồi."
+    },
+    {
+      "para_id": "c0185p0064",
+      "index": 64,
+      "raw_zh": "然而，剛扶起來一半，安德那裡便出了問題。",
+      "translated_vi": "Thế nhưng vừa đỡ được một nửa thì phía Ander lập tức xảy ra chuyện."
+    },
+    {
+      "para_id": "c0185p0065",
+      "index": 65,
+      "raw_zh": "雲千峰此時距離安德的位置可比剛才距離法緹娜遠了不止一倍。",
+      "translated_vi": "Vị trí của Vân Thiên Phong lúc này so với Ander xa hơn khoảng cách ban nãy tới chỗ Fatina gấp bội phần."
+    },
+    {
+      "para_id": "c0185p0066",
+      "index": 66,
+      "raw_zh": "當下心中焦急，雙腿一瞪，好似猛獸捕食似的，撲向安德，想要把他撞出危險區域。",
+      "translated_vi": "Trong lòng nóng như lửa đốt, anh liền đạp mạnh hai chân, tựa như mãnh thú vồ mồi lao vụt tới Ander, muốn húc gã văng ra khỏi khu vực nguy hiểm."
+    },
+    {
+      "para_id": "c0185p0067",
+      "index": 67,
+      "raw_zh": "剛被扶起來一半的法緹娜直接又摔倒在地上。",
+      "translated_vi": "Fatina vừa được đỡ dậy một nửa liền lại ngã sóng xoài xuống đất."
+    },
+    {
+      "para_id": "c0185p0068",
+      "index": 68,
+      "raw_zh": "雲千峰撲過去的時候，沙土已經沒過安德膝蓋一大截，雲千峰撲到他身上，想要借著身體的慣性把安德斜向上撞出來。",
+      "translated_vi": "Khi Vân Thiên Phong lao tới nơi, cát lún đã ngập quá đầu gối Ander một đoạn dài. Vân Thiên Phong tông thẳng vào người gã, muốn mượn quán tính của cơ thể để hất Ander văng chéo lên trên."
+    },
+    {
+      "para_id": "c0185p0069",
+      "index": 69,
+      "raw_zh": "但是安德腳下似乎牢牢鎖在了沙土之下，竟然不能被移動分毫。",
+      "translated_vi": "Thế nhưng bàn chân Ander dường như đã bị khóa chặt cứng dưới lớp cát sâu, thế mà không hề nhúc nhích dù chỉ nửa phân."
+    },
+    {
+      "para_id": "c0185p0070",
+      "index": 70,
+      "raw_zh": "反倒是因為自己的這大力拉扯，讓他嘴裡發出極度痛苦的呼嚎。",
+      "translated_vi": "Ngược lại, chính vì cú kéo giằng bằng sức mạnh kinh người này của anh mà khiến miệng Ander bật ra tiếng thét gào đau đớn tột cùng."
+    },
+    {
+      "para_id": "c0185p0071",
+      "index": 71,
+      "raw_zh": "能讓安德這樣的爺們發出這樣的聲音，雲千峰相信，他一定是疼急了。",
+      "translated_vi": "Có thể khiến một đấng nam nhi gan góc như Ander phải rú lên thảm thiết như vậy, Vân Thiên Phong tin chắc rằng gã hẳn phải đau đớn đến thấu tận tim gan."
+    },
+    {
+      "para_id": "c0185p0072",
+      "index": 72,
+      "raw_zh": "更讓雲千峰佩服的是，再這樣的危險和疼痛下，安德並沒有失去心神，手裡的步槍沒有亂放，而是槍口朝下，打開保險，伸進沙土裡面“砰砰砰”打起來，一梭子直接把彈夾打乾淨。",
+      "translated_vi": "Càng khiến Vân Thiên Phong khâm phục hơn là, dưới nỗi đau đớn cùng hiểm nguy ngút trời như thế, Ander vẫn không hề loạn tâm trí. Gã không hề bắn loạn xạ, mà dí nòng súng trường chúc thẳng xuống dưới, mở chốt an toàn, cắm sâu vào lòng cát rồi “đoàng đoàng đoàng” siết cò, xả sạch cả một băng đạn xuống đáy cát."
+    },
+    {
+      "para_id": "c0185p0073",
+      "index": 73,
+      "raw_zh": "然而並沒有什麽用，也不知是沒打到還是其它的原因，他的身體依舊被抓著往沙土內陷進去。",
+      "translated_vi": "Thế nhưng chẳng mang lại chút tác dụng nào, không rõ là bắn trượt hay vì nguyên cớ nào khác, cơ thể gã vẫn tiếp tục bị thứ vô hình bên dưới lôi tuột chìm sâu vào lòng cát."
+    },
+    {
+      "para_id": "c0185p0074",
+      "index": 74,
+      "raw_zh": "說起來話長，而事實上，從雲千峰撲過來，到安德打完一梭子子彈，也就不到十秒鍾。",
+      "translated_vi": "Kể ra thì dài dòng, song trên thực tế, từ lúc Vân Thiên Phong lao tới cho đến khi Ander nã hết sạch băng đạn, tổng cộng chưa đầy mười giây đồng hồ."
+    },
+    {
+      "para_id": "c0185p0075",
+      "index": 75,
+      "raw_zh": "安德子彈打完，雲千峰也撲過頭後折身過來。",
+      "translated_vi": "Đạn của Ander vừa cạn, Vân Thiên Phong sau cú nhào người trớn đà cũng lập tức xoay ngoắt lại."
+    },
+    {
+      "para_id": "c0185p0076",
+      "index": 76,
+      "raw_zh": "進入這石陣後，他們本就因為那些回響而血壓升高，情緒不穩。",
+      "translated_vi": "Kể từ lúc bước vào thạch trận này, họ vốn dĩ đã bị những tiếng vọng u uất làm cho huyết áp tăng cao, cảm xúc bất ổn."
+    },
+    {
+      "para_id": "c0185p0077",
+      "index": 77,
+      "raw_zh": "此刻雲千峰已經衝動到自己有些無法克制。",
+      "translated_vi": "Đến giây phút này, Vân Thiên Phong đã phẫn nộ kích động tới mức bản thân gần như không thể kìm nén nổi nữa."
+    },
+    {
+      "para_id": "c0185p0078",
+      "index": 78,
+      "raw_zh": "那種異常惱火的情緒籠罩著他的身心。",
+      "translated_vi": "Một cơn giận dữ ngút ngàn điên cuồng bủa vây lấy toàn bộ tâm can và thể xác anh."
+    },
+    {
+      "para_id": "c0185p0079",
+      "index": 79,
+      "raw_zh": "就見他一臉狠色，身形跳起來，然後直接把右手懟進了安德腳下那翻滾的沙土之中。",
+      "translated_vi": "Chỉ thấy vẻ mặt anh đằng đằng sát khí, thân hình bật nhảy lên rồi cắm thẳng cánh tay phải vào trong dòng cát đang sôi trào cuộn xoáy dưới chân Ander."
+    },
+    {
+      "para_id": "c0185p0080",
+      "index": 80,
+      "raw_zh": "緊接著，雲千峰似乎抓住了什麽，又好像是被什麽東西抓住了他的手。",
+      "translated_vi": "Ngay sau đó, dường như Vân Thiên Phong đã tóm chặt lấy thứ gì, mà lại tựa như tay anh đã bị một thứ quái đản nào đó ngoạm chặt."
+    },
+    {
+      "para_id": "c0185p0081",
+      "index": 81,
+      "raw_zh": "就見他身體快速的向著翻滾的沙土這種扎進去。",
+      "translated_vi": "Chỉ thấy cơ thể anh nhanh như cắt bị hút chìm thẳng vào giữa hố cát xoáy cuồn cuộn."
+    },
+    {
+      "para_id": "c0185p0082",
+      "index": 82,
+      "raw_zh": "眨眼功夫，雲千峰的腦袋、肩膀就都已經到了沙土之下。",
+      "translated_vi": "Trong chớp mắt, đầu và bờ vai của Vân Thiên Phong đã lút sâu xuống dưới mặt cát."
+    },
+    {
+      "para_id": "c0185p0083",
+      "index": 83,
+      "raw_zh": "再一個呼吸間，就已經沒到了腰部。",
+      "translated_vi": "Chỉ thêm một nhịp thở nữa, cát lún đã ngập tới tận thắt lưng."
+    },
+    {
+      "para_id": "c0185p0084",
+      "index": 84,
+      "raw_zh": "法緹娜和阿菲法看到這一幕，兩女幾乎同時撲過去，一人拽著雲千峰的一隻腳，拔河似的往後拽過去",
+      "translated_vi": "Fatina và Afifa chứng kiến cảnh tượng kinh hoàng ấy, hai người phụ nữ gần như cùng lúc lao tới, mỗi người ôm chặt lấy một chân Vân Thiên Phong, dồn hết sức bình sinh kéo giật ngược ra sau như đang kéo co..."
+    },
+    {
+      "para_id": "c0185p0085",
+      "index": 85,
+      "raw_zh": "兩女心中都響著一個聲音：",
+      "translated_vi": "Trong lòng hai cô gái lúc này chỉ vang vọng duy nhất một tiếng gào thét:"
+    },
+    {
+      "para_id": "c0185p0086",
+      "index": 86,
+      "raw_zh": "“他不能死，他死了我們就絕對完了！”",
+      "translated_vi": "“Anh ấy tuyệt đối không thể chết, anh ấy mà chết thì chúng ta coi như xong đời!”"
+    },
+    {
+      "para_id": "c0185p0087",
+      "index": 87,
+      "raw_zh": "感謝塔克斯、小小陳daddy、尾數29869、Deadcell、廟裡供著神、qim1983、最愛小皇叔的月票獎勵！！！",
+      "translated_vi": "Cảm ơn các bạn Tux, Daddy Tiểu Trần, đuôi số 29869, Deadcell, Trong Miếu Thờ Thần, qim1983, Thích Nhất Tiểu Hoàng Thúc đã tặng phiếu tháng!!!"
+    },
+    {
+      "para_id": "c0185p0088",
+      "index": 88,
+      "raw_zh": "謝謝你們一直以來的支持！！！！！！！！！",
+      "translated_vi": "Chân thành cảm ơn sự ủng hộ từ trước đến nay của các bạn!!!!!!!!!"
+    },
+    {
+      "para_id": "c0185p0089",
+      "index": 89,
+      "raw_zh": "還有，祝大家晚安，我今天依舊不熬夜，先睡了，估計睡眠快導好了！！！",
+      "translated_vi": "Ngoài ra, chúc mọi người ngủ ngon, hôm nay tôi tiếp tục không thức khuya, ngủ trước đây, chắc nhịp sinh học sắp điều chỉnh xong rồi!!!"
+    },
+    {
+      "para_id": "c0185p0090",
+      "index": 90,
+      "raw_zh": "好夢！！！",
+      "translated_vi": "Chúc mộng đẹp!!!"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0229|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|八成|tám phần
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §53):
+§1 229.第229章 熟悉的陌生人
+§2 第229章 熟悉的陌生人
+§3 [Ø=云千峰]聽到這話，荷茜許忙顫聲道：
+§4 “那咱們快走吧。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§5 眾人紛紛附和。
+§6 [Ø=云千峰]雲千峰卻沒急，站在那已經損壞的不能更壞的熱氣球旁，用手敲擊著承載筐的邊緣。
+§7 [Ø=云千峰]“鐺鐺鐺，鐺鐺鐺”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 [Ø=云千峰]所有人都不知道他在想什麽，或者說是準備做什麽。
+§9 [Ø=云千峰]就在他們詫異的當口，雲千峰手一頓，停止了敲擊，轉身看著四個人道：
+§10 [Ø=云千峰]“傑裡周，以太陽的方向為十二點鍾方向，你朝著十點鍾方向前走三千步， [||] 然後仔細觀察四周，如果沒有什麽情況，就順著腳印走回來。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=云千峰]“蘇菲鍾，你沿著八點鍾方向前行，也是走三千步，沒有發現也是盡快返回。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§12 [Ø=云千峰]“荷茜許，你沿著六點鍾方向，也是三千步。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 [Ø=云千峰]“琳達，你沿著四點鍾方向前行三千步，要求同上。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§14 [Ø=云千峰]“我走兩點鍾方向，大家馬上出發，快去快回。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 [Ø=云千峰]雲千峰沒時間具體解釋原因，下達了命令後，當先朝著兩點鍾方向快步而去。
+§16 [Ø=云千峰]其他人不明所以，但他們完全沒有在南極生存的能力，只能放棄自己的思考，跟從雲千峰的思路行動。
+§17 [Ø=云千峰]這是他們唯一的選擇，最起碼在到達迪蒙迪維爾站之前。
+§18 [Ø=云千峰]哪怕他們在內心裡咒罵雲千峰是在浪費時間，但卻不敢提出任何異議。
+§19 [Ø=云千峰]太陽只剩下梭子大小掛在天邊，極夜即將來臨， [||] 可能是明天，也可能是下一個小時，沒有人知道。
+§20 [Ø=云千峰]他們只是知道，再不找到迪蒙迪維爾站，他們的末日就來了。
+§21 [Ø=云千峰]厚雪難行，三千步沒那麽好走。
+§22 [Ø=云千峰]將近一個小時以後，幾個人才陸續回到熱氣球的位置。
+§23 [Ø=云千峰]琳達第二個回來，一看到雲千峰就主動報告：
+§24 [Ø=云千峰]“雪，全是雪，其他什麽都沒有。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 [Ø=云千峰]雲千峰點了點頭，沒說什麽。
+§26 [Ø=云千峰]很快，傑裡周走了回來， [||] 他體重輕，腳不小，反倒是比別人走的輕松。
+§27 [Ø=云千峰]“哥，啥也沒有啊，你讓我們找什麽啊？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 雲千峰笑道：
+§29 [Ø=云千峰]“一會就知道了，別急。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§30 [Ø=云千峰]十幾分鍾後，一隻耳荷茜許也走了回來，也不知是害怕還是怎麽著，哭唧唧回來的。
+§31 [Ø=云千峰]“一路上除了雪就是雪，那風聲嚇人，太嚇人了，我又得烤褲子了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§32 怪不得哭了。
+§33 [Ø=云千峰]雲千峰沒言語，就站在原處跳腳取暖，等待著。
+§34 把身邊三個人急得直轉圈。
+§35 [Ø=云千峰]“這個蘇菲，怎麽還不回來？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 “是不是迷路了？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 “八成[M1:tám phần]是凍死了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 [Ø=云千峰]“不會迷路啊，咱們的腳印都在。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 [Ø=云千峰]又是幾分鍾後，雲千峰展顏一笑，開心道：
+§40 “跟我走。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 幾個人急忙跟上去。
+§42 荷茜許忙道：
+§43 “我們還要浪費時間去找蘇菲嗎？太陽就剩下一線了啊！咱們抓緊找迪蒙迪維爾站吧。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 傑裡周也是這個意思。
+§45 就連琳達都覺得去找蘇菲的決議是不理智的。
+§46 [Ø=云千峰]“雲，你不是說，這是文明不達之地嗎？應該遵循生存的叢林法則！那我們為了蘇菲，搭上所有人值得嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§47 雲千峰笑道：
+§48 “我就是帶你們去迪蒙迪維爾站啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§49 [Ø=云千峰]說著話，他腳步沒停，毫不遲疑的踩著蘇菲鍾的腳印向八點鍾方向而去。
+§50 [Ø=云千峰]琳達的好奇心永遠是最重的，她小跑著追上去，急問道：
+§51 “迪蒙迪維爾站在這個方向？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§52 [Ø=云千峰]雲千峰點頭，道：
+§53 [Ø=云千峰]“對，兩點一線是準確的，但我們的腿有偏差，不過偏差距離不會很大。那個熱氣球無論是誰弄到這裡， [||] 都能證明一件事，那就是熱氣球的位置，距離某個南極站絕不會很遠，而這裡最近的就是迪蒙迪維爾站。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 53 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§53. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

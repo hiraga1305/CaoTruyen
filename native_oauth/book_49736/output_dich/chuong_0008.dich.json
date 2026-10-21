@@ -1,0 +1,541 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 8,
+  "title": "Chương 8: Sống và chết",
+  "total_paragraphs": 88,
+  "translated_paragraphs": 88,
+  "source_hash": "c99886df1056b7b4b9020bf3063fd11464d16b09080c548bca7fabf66af360c4",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0008p0001",
+      "index": 1,
+      "raw_zh": "第8章 生與死",
+      "translated_vi": "Chương 8: Sống và chết"
+    },
+    {
+      "para_id": "c0008p0002",
+      "index": 2,
+      "raw_zh": "不同的兩間浴室內，雲千峰和薑柔甲各自在從事就寢前的梳洗。",
+      "translated_vi": "Ở hai gian phòng tắm tách biệt, Vân Thiên Phong và Khương Nhu Giáp ai nấy đều đang bận rộn với việc vệ sinh tắm rửa trước giờ đi ngủ."
+    },
+    {
+      "para_id": "c0008p0003",
+      "index": 3,
+      "raw_zh": "此時已經是凌晨兩點多，這倆人查看著那些薑玉林看過的資料，聊著關於薑玉林的一切，不知不覺見便已經後半夜，都是哈欠連天，困得眼皮發沉。",
+      "translated_vi": "Lúc này đã hơn hai giờ sáng. Cả hai vừa lật xem mớ tài liệu mà Khương Ngọc Lâm từng nghiên cứu, vừa hàn huyên đủ chuyện liên quan đến anh ấy, chẳng hay biết đêm đã về khuya từ lúc nào. Giờ đây ai nấy đều ngáp ngắn ngáp dài, mi mắt nặng trĩu vì cơn buồn ngủ ập đến."
+    },
+    {
+      "para_id": "c0008p0004",
+      "index": 4,
+      "raw_zh": "花灑噴灑著舒適的溫水，讓薑柔甲緊繃的神經有了刹那的舒緩。",
+      "translated_vi": "Vòi hoa sen phun ra làn nước ấm áp dễ chịu, giúp những dây thần kinh căng như dây đàn suốt bao ngày qua của Khương Nhu Giáp có được khoảnh khắc thư thái hiếm hoi."
+    },
+    {
+      "para_id": "c0008p0005",
+      "index": 5,
+      "raw_zh": "純淨的水流淋過青絲，漫過白皙的脖頸，漫過高峰，在峽谷匯聚成溪河，淋漓而落。",
+      "translated_vi": "Dòng nước tinh khiết xối qua mái tóc đen nhánh, lướt qua chiếc cổ trắng ngần, tràn qua đôi gò bồng đảo cao vút, rồi hội tụ nơi khe sâu thành những dòng suối nhỏ, tí tách tuôn rơi."
+    },
+    {
+      "para_id": "c0008p0006",
+      "index": 6,
+      "raw_zh": "洗漱完畢，薑柔甲拿起掛好的睡衣，卻不由得遲疑下來。",
+      "translated_vi": "Tắm gội xong xuôi, Khương Nhu Giáp với tay lấy bộ đồ ngủ treo sẵn trên giá, nhưng rồi bất giác ngập ngừng."
+    },
+    {
+      "para_id": "c0008p0007",
+      "index": 7,
+      "raw_zh": "這件兩件套的睡衣是蠶絲材質，輕薄透光，想到晚上要和雲千峰睡在一張床上，她急忙換了一套冬天穿的棉睡衣。",
+      "translated_vi": "Bộ đồ ngủ hai mảnh này làm bằng lụa tơ tằm, vừa mỏng manh lại xuyên thấu. Nghĩ đến cảnh lát nữa phải nằm chung một chiếc giường với Vân Thiên Phong, cô vội vàng đổi sang một bộ đồ ngủ bằng vải cotton dày dặn dành cho mùa đông."
+    },
+    {
+      "para_id": "c0008p0008",
+      "index": 8,
+      "raw_zh": "但，即便是這套冬天穿的睡衣也實在薄的可憐，因為她的房間帶有中央空調，四季恆溫，不過好在這棉質睡衣不透光。",
+      "translated_vi": "Thế nhưng, ngay cả bộ đồ ngủ mùa đông này thực chất cũng mỏng dính đến tội nghiệp, bởi vì phòng cô lắp đặt điều hòa trung tâm bốn mùa nhiệt độ luôn ổn định. Dẫu vậy, chí ít thì chất vải cotton này không bị nhìn xuyên thấu."
+    },
+    {
+      "para_id": "c0008p0009",
+      "index": 9,
+      "raw_zh": "對於要不要睡覺的時候穿文胸，薑柔甲考慮了足足三分鍾，最後還是決定不穿，要不然真的睡不著，有點大。",
+      "translated_vi": "Về chuyện lúc ngủ có nên mặc áo lót hay không, Khương Nhu Giáp đã đắn đo ròng rã suốt ba phút đồng hồ, cuối cùng vẫn quyết định cởi ra không mặc. Nếu mặc vào thì thật sự không tài nào chợp mắt nổi, bởi vì khuôn ngực có phần đẫy đà quá khổ."
+    },
+    {
+      "para_id": "c0008p0010",
+      "index": 10,
+      "raw_zh": "雲千峰更慘，當時和薑柔甲離開的匆忙，根本沒來得及拿換洗的衣物，而薑柔甲哥哥的所有物品也都憑空消失，這整棟別院內，只有薑柔甲的衣物。",
+      "translated_vi": "Vân Thiên Phong thì thảm hại hơn nhiều. Lúc rời đi cùng Khương Nhu Giáp quá mức vội vã, hắn căn bản chẳng kịp mang theo quần áo để thay. Mà mọi đồ đạc của anh trai Khương Nhu Giáp đều đã bốc hơi không một dấu vết, khắp cả căn biệt viện thênh thang này, chỉ toàn là đồ dùng của phụ nữ."
+    },
+    {
+      "para_id": "c0008p0011",
+      "index": 11,
+      "raw_zh": "穿薑柔甲的內褲，雲千峰是絕對不會同意的，這關乎尊嚴，當然薑柔甲也不會同意。",
+      "translated_vi": "Mặc quần lót của Khương Nhu Giáp ư? Vân Thiên Phong tuyệt đối không đời nào đồng ý, điều này can hệ đến lòng tự trọng của một thằng đàn ông. Mà dĩ nhiên, Khương Nhu Giáp cũng chẳng thể nào chấp thuận chuyện hoang đường ấy."
+    },
+    {
+      "para_id": "c0008p0012",
+      "index": 12,
+      "raw_zh": "無奈之下，他隻好僅穿著薑柔甲的睡衣暫時遮體，對付過這晚，明天回去取衣物。",
+      "translated_vi": "Cực chẳng đã, hắn đành khoác tạm một bộ áo ngủ của Khương Nhu Giáp để che chắn tấm thân, qua quýt cho xong đêm nay rồi sáng mai tính chuyện quay về lấy quần áo sau."
+    },
+    {
+      "para_id": "c0008p0013",
+      "index": 13,
+      "raw_zh": "薑柔甲在浴室一走出來，正在擦拭青絲長發的手立馬頓住，然後破天荒的笑了。",
+      "translated_vi": "Vừa bước ra khỏi phòng tắm, bàn tay đang lau mái tóc ướt sũng của Khương Nhu Giáp lập tức khựng lại, rồi sau đó, cô phá lên cười – một nụ cười hiếm thấy từ ngày gặp mặt."
+    },
+    {
+      "para_id": "c0008p0014",
+      "index": 14,
+      "raw_zh": "眼前雲千峰穿著一身綢緞女士睡衣，又因為雲千峰比薑柔甲高壯不少，胳膊長腿長的，看起來極為喜感，尤其是雲千峰臉上還帶著那麽點羞澀，很有臉皮的樣子。",
+      "translated_vi": "Trước mắt cô, Vân Thiên Phong đang khoác trên mình bộ đồ ngủ lụa satin dành cho nữ giới. Do vóc người hắn cao to vạm vỡ hơn Khương Nhu Giáp rất nhiều, chân dài tay vượn, trông bộ dạng hài hước không sao tả xiết. Đặc biệt là trên mặt hắn còn vương chút ngượng ngùng e thẹn, ra vẻ người biết giữ chút thể diện."
+    },
+    {
+      "para_id": "c0008p0015",
+      "index": 15,
+      "raw_zh": "這是認識到現在，雲千峰第一次見薑柔甲笑，那明明只是一個表情，但卻好像迎面吹拂來了溫暖的風。",
+      "translated_vi": "Kể từ lúc quen biết đến giờ, đây là lần đầu tiên Vân Thiên Phong thấy Khương Nhu Giáp mỉm cười. Rõ ràng chỉ là một nét biểu cảm thoáng qua, nhưng tựa như một làn gió xuân ấm áp ùa vào sưởi ấm cả gian phòng."
+    },
+    {
+      "para_id": "c0008p0016",
+      "index": 16,
+      "raw_zh": "薑柔甲笑了一下，然後臉卻紅了，雲千峰的綢緞睡衣透光。",
+      "translated_vi": "Khương Nhu Giáp cười một cái, rồi sau đó gò má lại bất giác đỏ lựng. Bộ đồ lụa trên người Vân Thiên Phong... lại bị ngược sáng nhìn xuyên qua."
+    },
+    {
+      "para_id": "c0008p0017",
+      "index": 17,
+      "raw_zh": "當下急忙把雲千峰迎面方向的壁燈關了，但沒想到，隻留著背面的壁燈，輪廓看的更清楚。",
+      "translated_vi": "Cô nàng cuống cuồng với tay tắt phắt ngọn đèn tường đối diện Vân Thiên Phong. Nhưng ngặt một nỗi, chỉ để lại ngọn đèn hắt từ phía sau lưng, đường nét cơ thể ẩn hiện bên dưới lớp lụa mỏng lại càng lộ rõ mồn một."
+    },
+    {
+      "para_id": "c0008p0018",
+      "index": 18,
+      "raw_zh": "於是隻好放棄，選擇非禮勿視，然後拿起繩索，道：",
+      "translated_vi": "Bất đắc dĩ, cô đành bỏ cuộc, tự nhủ lòng 'phi lễ chớ nhìn', sau đó cầm cuộn dây thừng lên rồi dõng dạc bảo:"
+    },
+    {
+      "para_id": "c0008p0019",
+      "index": 19,
+      "raw_zh": "“你，躺好。”",
+      "translated_vi": "\"Anh... nằm ngay ngắn xuống mau!\""
+    },
+    {
+      "para_id": "c0008p0020",
+      "index": 20,
+      "raw_zh": "雲千峰哭笑不得，一臉無奈道：",
+      "translated_vi": "Vân Thiên Phong dở khóc dở cười, gương mặt lộ rõ vẻ bất lực:"
+    },
+    {
+      "para_id": "c0008p0021",
+      "index": 21,
+      "raw_zh": "“薑柔甲，你就是求我，我都不會碰你的，真不用捆住。”",
+      "translated_vi": "\"Khương Nhu Giáp à, nói thật dù cô có van nài cầu xin, tôi cũng chẳng thèm đụng vào cô đâu. Thật sự không cần phải trói nghiến lại thế này đâu mà.\""
+    },
+    {
+      "para_id": "c0008p0022",
+      "index": 22,
+      "raw_zh": "他說的是真心話，眼看著自己這是遇到超自然事件了，後續吉凶難料，他不會把回頭的余地堵上。",
+      "translated_vi": "Hắn nói những lời này hoàn toàn là thật lòng. Trước mắt rõ ràng là hắn đã dính vào một sự kiện siêu nhiên quỷ quái, tiền đồ phía trước hung cát khôn lường, hắn tuyệt đối không dại dột tự bít kín đường lui của mình."
+    },
+    {
+      "para_id": "c0008p0023",
+      "index": 23,
+      "raw_zh": "薑柔甲不為所動，指著床上，道：",
+      "translated_vi": "Khương Nhu Giáp chẳng hề dao động, ngón tay chỉ thẳng lên giường:"
+    },
+    {
+      "para_id": "c0008p0024",
+      "index": 24,
+      "raw_zh": "“別廢話，快點躺好。”",
+      "translated_vi": "\"Bớt nói nhảm đi, mau ngoan ngoãn nằm xuống!\""
+    },
+    {
+      "para_id": "c0008p0025",
+      "index": 25,
+      "raw_zh": "雲千峰很抗拒，道：",
+      "translated_vi": "Vân Thiên Phong vẫn ra sức kháng cự:"
+    },
+    {
+      "para_id": "c0008p0026",
+      "index": 26,
+      "raw_zh": "“那我去客房睡。”",
+      "translated_vi": "\"Thế để tôi sang phòng khách ngủ.\""
+    },
+    {
+      "para_id": "c0008p0027",
+      "index": 27,
+      "raw_zh": "薑柔甲搖頭道：",
+      "translated_vi": "Khương Nhu Giáp lắc đầu nguầy nguậy:"
+    },
+    {
+      "para_id": "c0008p0028",
+      "index": 28,
+      "raw_zh": "“伱以為我願意和你睡一張床啊？我是怕你記憶也像秦疏影一樣被篡改了，趕緊聽話，要不我拿合同說話了。”",
+      "translated_vi": "\"Anh tưởng tôi thèm chung giường với anh lắm đấy phỏng? Tôi là sợ sáng mai tỉnh dậy ký ức của anh cũng bị bóp méo như Tần Sơ Ảnh thì toi! Mau ngoan ngoãn nghe lời đi, bằng không tôi lôi điều khoản hợp đồng ra nói chuyện đấy!\""
+    },
+    {
+      "para_id": "c0008p0029",
+      "index": 29,
+      "raw_zh": "一提合同，雲千峰秒慫，立馬乖乖躺到床上，閉眼認命。",
+      "translated_vi": "Hễ cứ nhắc đến hợp đồng là Vân Thiên Phong lập tức cụp đuôi nhận thua, ngoan ngoãn leo lên giường nằm sõng soài, nhắm nghiền hai mắt chấp nhận số phận."
+    },
+    {
+      "para_id": "c0008p0030",
+      "index": 30,
+      "raw_zh": "薑柔甲很顯然沒學過繩藝，捆得叫一塌糊塗。",
+      "translated_vi": "Khương Nhu Giáp rõ ràng chưa từng học qua nghệ thuật trói dây, cách trói của cô nàng vụng về đến mức chẳng ra cái thể thống gì."
+    },
+    {
+      "para_id": "c0008p0031",
+      "index": 31,
+      "raw_zh": "雲千峰眯眼看著薑柔甲忙碌，薄薄的棉質睡衣在律動下，美妙的輪廓時而若隱若現。",
+      "translated_vi": "Vân Thiên Phong hé mắt nhìn Khương Nhu Giáp lăng xăng bận rộn, lớp áo ngủ cotton mỏng manh theo từng cử động nhấp nhô của cô mà để lộ những đường cong tuyệt mỹ lúc ẩn lúc hiện."
+    },
+    {
+      "para_id": "c0008p0032",
+      "index": 32,
+      "raw_zh": "“薑柔甲，你把我捆成大字型，那你睡哪？睡我身上？”",
+      "translated_vi": "\"Khương Nhu Giáp, cô trói tôi dang chân dang tay thành hình chữ Đại thế này thì cô ngủ ở đâu? Ngủ đè lên người tôi chắc?\""
+    },
+    {
+      "para_id": "c0008p0033",
+      "index": 33,
+      "raw_zh": "薑柔甲扶額，急忙把雲千峰的腳在床尾解開，就那麽並著纏了幾圈。",
+      "translated_vi": "Khương Nhu Giáp vỗ trán ảo não, vội vã cởi mối dây buộc hai chân Vân Thiên Phong ở cuối giường ra, rồi khép hai chân hắn lại quấn đại vài vòng."
+    },
+    {
+      "para_id": "c0008p0034",
+      "index": 34,
+      "raw_zh": "“薑柔甲，現在我是Y字形，你這是準備用我右胳膊當枕頭？”",
+      "translated_vi": "\"Này Khương Nhu Giáp, bây giờ tôi thành hình chữ Y rồi, cô tính gối đầu lên cánh tay phải của tôi đấy à?\""
+    },
+    {
+      "para_id": "c0008p0035",
+      "index": 35,
+      "raw_zh": "薑柔甲有點泄氣，發現這事真的有點麻煩。",
+      "translated_vi": "Khương Nhu Giáp có phần nản lòng, phát hiện việc trói người này quả thực phiền toái hơn tưởng tượng rất nhiều."
+    },
+    {
+      "para_id": "c0008p0036",
+      "index": 36,
+      "raw_zh": "思索片刻後，道：",
+      "translated_vi": "Trầm ngâm một thoáng, cô dứt khoát ra lệnh:"
+    },
+    {
+      "para_id": "c0008p0037",
+      "index": 37,
+      "raw_zh": "“你趴著。”",
+      "translated_vi": "\"Anh nằm sấp xuống!\""
+    },
+    {
+      "para_id": "c0008p0038",
+      "index": 38,
+      "raw_zh": "雲千峰照辦，然後被薑柔甲把雙手捆在了背後，五花大綁那種。",
+      "translated_vi": "Vân Thiên Phong đành ngoan ngoãn làm theo, rồi bị Khương Nhu Giáp trói ngoặt hai tay ra sau lưng theo đúng kiểu trói giật cánh khuỷu."
+    },
+    {
+      "para_id": "c0008p0039",
+      "index": 39,
+      "raw_zh": "半個多小時後，零廂情願的倆人終於睡在了一起。",
+      "translated_vi": "Hơn nửa tiếng đồng hồ trôi qua, hai kẻ chẳng ai tình nguyện cuối cùng cũng nằm chung một giường."
+    },
+    {
+      "para_id": "c0008p0040",
+      "index": 40,
+      "raw_zh": "放下心來的薑柔甲秒睡著。",
+      "translated_vi": "Trút bỏ được gánh nặng trong lòng, Khương Nhu Giáp chìm vào giấc ngủ trong tíc tắc."
+    },
+    {
+      "para_id": "c0008p0041",
+      "index": 41,
+      "raw_zh": "她實在是太累了。",
+      "translated_vi": "Cô quả thực đã quá đỗi kiệt sức rồi."
+    },
+    {
+      "para_id": "c0008p0042",
+      "index": 42,
+      "raw_zh": "這一個多月的時間，幾乎一直沒有休息好，還時刻在自我懷疑之中煎熬。",
+      "translated_vi": "Suốt hơn một tháng ròng rã qua, cô hầu như chưa từng có một giấc ngủ trọn vẹn, lại luôn bị thiêu đốt trong nỗi dày vò và hoài nghi chính bản thân mình."
+    },
+    {
+      "para_id": "c0008p0043",
+      "index": 43,
+      "raw_zh": "而現在，一切的一切都開始明朗，她不再自我懷疑，一切的一切有了走向，她終於是睡著了，她不得不承認，這份安全感是雲千峰給予的，一個僅僅認識一天不到的男人。",
+      "translated_vi": "Mà giờ đây, mọi chuyện dần hé mở sáng tỏ, cô không còn phải tự dằn vặt nghi ngờ tâm trí mình nữa, mọi bế tắc đã có lối thoát để bước tiếp. Cô rốt cuộc cũng có thể an tâm thiếp đi, và cô buộc phải thừa nhận rằng, cảm giác an toàn vững chãi này là do Vân Thiên Phong mang lại — một người đàn ông mà cô mới chỉ quen biết chưa đầy một ngày trời."
+    },
+    {
+      "para_id": "c0008p0044",
+      "index": 44,
+      "raw_zh": "緣，妙不可言，哪怕這可能是被有心演算的“緣”。",
+      "translated_vi": "Duyên phận quả là điều kỳ diệu khôn xiết, cho dù đây rất có thể là một 'cơ duyên' đã được ai đó hữu ý bày binh bố trận tính toán từ trước."
+    },
+    {
+      "para_id": "c0008p0045",
+      "index": 45,
+      "raw_zh": "聽到薑柔甲呼吸平穩，雲千峰輕輕吐了口氣，他這樣趴著可是真不好睡，而且他是個夜貓子，一到晚上就精神。",
+      "translated_vi": "Lắng nghe hơi thở đều đặn êm đềm của Khương Nhu Giáp, Vân Thiên Phong khẽ thở hắt ra một hơi. Nằm sấp thế này quả thực khó chịu vô cùng, huống hồ hắn vốn là loài cú đêm, cứ hễ đêm xuống là tinh thần lại tỉnh như sáo sậu."
+    },
+    {
+      "para_id": "c0008p0046",
+      "index": 46,
+      "raw_zh": "就見他趴著扭動手臂，三兩下就把一隻手抽了出來。",
+      "translated_vi": "Chỉ thấy hắn vặn vẹo cánh tay vài cái, loáng một cái đã rút được một bên tay ra ngoài."
+    },
+    {
+      "para_id": "c0008p0047",
+      "index": 47,
+      "raw_zh": "薑柔甲還是太善良，沒舍得綁得太緊，怕勒傷了雲千峰。",
+      "translated_vi": "Khương Nhu Giáp dẫu sao vẫn quá lương thiện, không nỡ siết dây quá chặt vì sợ hắn bị bầm tím trầy xước da thịt."
+    },
+    {
+      "para_id": "c0008p0048",
+      "index": 48,
+      "raw_zh": "抽出來一隻手，剩下的就好辦了，三分鍾不到的時間，薑柔甲忙活了半個小時的捆綁就全都解開。",
+      "translated_vi": "Một khi đã rút được một tay ra thì chuyện còn lại dễ như trở bàn tay. Chưa đầy ba phút sau, mớ dây nhợ chằng chịt mà Khương Nhu Giáp hì hục trói suốt nửa tiếng đồng hồ đã bị hắn cởi sạch sành sanh."
+    },
+    {
+      "para_id": "c0008p0049",
+      "index": 49,
+      "raw_zh": "扭動放松著手腕，雲千峰借著竹影月光看著身邊睡熟的女孩，心裡莫名生出“這要是一個和我一樣為生存而掙扎的普通女孩該多好”的心緒。",
+      "translated_vi": "Vừa xoay cổ tay thư giãn gân cốt, Vân Thiên Phong vừa nương theo ánh trăng rọi qua bóng trúc mà ngắm nhìn cô gái đang say giấc nồng bên cạnh. Trong lòng hắn bất giác dâng lên một nỗi niềm vu vơ: 'Giá như cô ấy cũng chỉ là một cô gái bình thường đang chật vật mưu sinh như mình thì tốt biết mấy'."
+    },
+    {
+      "para_id": "c0008p0050",
+      "index": 50,
+      "raw_zh": "想到這，他不由自嘲一笑，淡淡自語了句“癩蛤蟆想吃天鵝肉”，然後果斷不再看那秀美的容顏，轉身輕聲下床，來到室外，坐在門前的台階上，看著玉輪明月，默默的吸著煙。",
+      "translated_vi": "Nghĩ đến đó, hắn tự giễu cười một tiếng, lẩm bẩm tự mắng mình: 'Đúng là cóc ghẻ mà đòi ăn thịt thiên nga'. Hắn dứt khoát ngoảnh mặt đi, không nhìn ngắm dung nhan kiều diễm ấy nữa, nhẹ nhàng rón rén bước xuống giường đi ra ngoài sân, ngồi bệt trên bậc thềm đá, ngước nhìn vầng trăng vằng vặc mà lặng lẽ châm một điếu thuốc."
+    },
+    {
+      "para_id": "c0008p0051",
+      "index": 51,
+      "raw_zh": "“命運的饋贈，早在暗中標好了價格，不要想太多，不能要太多”",
+      "translated_vi": "\"Những món quà của số phận, từ lâu đã được âm thầm định giá sẵn rồi. Đừng suy nghĩ quá nhiều, cũng chớ có tham lam đòi hỏi quá phận...\""
+    },
+    {
+      "para_id": "c0008p0052",
+      "index": 52,
+      "raw_zh": "雲千峰警醒著自己。",
+      "translated_vi": "Vân Thiên Phong tự cảnh tỉnh chính mình."
+    },
+    {
+      "para_id": "c0008p0053",
+      "index": 53,
+      "raw_zh": "與此同時。",
+      "translated_vi": "Cùng lúc đó."
+    },
+    {
+      "para_id": "c0008p0054",
+      "index": 54,
+      "raw_zh": "歐洲。",
+      "translated_vi": "Tại châu Âu xa xôi."
+    },
+    {
+      "para_id": "c0008p0055",
+      "index": 55,
+      "raw_zh": "幾百年歷史的石頭城堡內。",
+      "translated_vi": "Bên trong một tòa lâu đài bằng đá cổ kính có lịch sử hàng trăm năm."
+    },
+    {
+      "para_id": "c0008p0056",
+      "index": 56,
+      "raw_zh": "一個女人，面孔如埃及女王，身材更像是由雄性的所有欲望組成，這萬千嫵媚的女人坐在壁爐前，赤腳踏在整張虎皮的地毯上。",
+      "translated_vi": "Một người phụ nữ mang gương mặt kiêu kỳ sắc sảo tựa Nữ hoàng Ai Cập, vóc dáng bốc lửa như được đúc kết từ tất thảy mọi dục vọng thầm kín của giống đực. Người đàn bà vạn phần ma mị ấy đang ngồi trước lò sưởi bập bùng, đôi chân trần ngọc ngà giẫm lên tấm thảm da hổ nguyên vẹn."
+    },
+    {
+      "para_id": "c0008p0057",
+      "index": 57,
+      "raw_zh": "她恐怕是外形上最完美的女人，她叫羅琳娜，準確來說應該稱之為羅琳娜男爵。",
+      "translated_vi": "Ả ta có lẽ là người phụ nữ sở hữu vẻ ngoài hoàn mỹ nhất trần đời. Ả tên là La Lâm Na, hay chuẩn xác hơn phải gọi là Nam tước La Lâm Na."
+    },
+    {
+      "para_id": "c0008p0058",
+      "index": 58,
+      "raw_zh": "羅琳娜細膩豐潤的大腿上，坐著一個金發碧眼的美麗少女，蛇一樣的抱著她的脖頸。",
+      "translated_vi": "Trên cặp đùi thon thả mịn màng của La Lâm Na là một thiếu nữ tóc vàng mắt biếc xinh đẹp tuyệt trần, tựa như một con rắn mềm mại uốn lượn ôm chặt lấy cổ ả."
+    },
+    {
+      "para_id": "c0008p0059",
+      "index": 59,
+      "raw_zh": "這時外面走進一個端莊的白胡子管家，腰杆筆直，施禮道：",
+      "translated_vi": "Lúc này, một vị quản gia râu trắng đoan trang bước vào từ bên ngoài, lưng thẳng tắp như cây tùng, kính cẩn cúi mình hành lễ:"
+    },
+    {
+      "para_id": "c0008p0060",
+      "index": 60,
+      "raw_zh": "“親愛的男爵大人，這次終於沒有讓您失望。”",
+      "translated_vi": "\"Kính thưa Nam tước đại nhân tôn quý, lần này rốt cuộc chúng tôi đã không phụ sự kỳ vọng của ngài.\""
+    },
+    {
+      "para_id": "c0008p0061",
+      "index": 61,
+      "raw_zh": "說著，管家把手上打印的幾張照片給了這位美婦，補充道：",
+      "translated_vi": "Nói đoạn, vị quản gia đưa mấy tấm ảnh in sẵn trên tay cho người đàn bà kiều diễm, bồi thêm một câu:"
+    },
+    {
+      "para_id": "c0008p0062",
+      "index": 62,
+      "raw_zh": "“你要尋找的年輕人找到了，但是另外那個老人依舊沒有消息。”",
+      "translated_vi": "\"Người thanh niên mà ngài tìm kiếm đã được tìm thấy, nhưng lão già kia thì vẫn bặt vô âm tín như trước.\""
+    },
+    {
+      "para_id": "c0008p0063",
+      "index": 63,
+      "raw_zh": "美婦接過那張紙，看到了上面雲千峰的照片，迷蒙如醉的眼睛不易察覺的亮了一下，隨後淡淡道：",
+      "translated_vi": "Người phụ nữ đón lấy tờ giấy, nhìn thấy bức ảnh của Vân Thiên Phong trên đó, đôi mắt mơ màng như say thoáng ánh lên một tia sáng khó lòng phát giác, rồi hờ hững cất giọng:"
+    },
+    {
+      "para_id": "c0008p0064",
+      "index": 64,
+      "raw_zh": "“老漢斯，他是死人還是活人？”",
+      "translated_vi": "\"Lão Hans, cậu ta là người chết hay người sống?\""
+    },
+    {
+      "para_id": "c0008p0065",
+      "index": 65,
+      "raw_zh": "這話問的管家老漢斯一愣，急忙施禮道：",
+      "translated_vi": "Câu hỏi kỳ quặc ấy khiến quản gia lão Hans sững người trong giây lát, vội vàng khom mình đáp:"
+    },
+    {
+      "para_id": "c0008p0066",
+      "index": 66,
+      "raw_zh": "“是活人，我的男爵大人！”",
+      "translated_vi": "\"Là người sống thưa Nam tước đại nhân!\""
+    },
+    {
+      "para_id": "c0008p0067",
+      "index": 67,
+      "raw_zh": "羅琳娜眼中的驚訝一閃而過，隨後揚起美妙的脖頸，嗅花似得吸了一口氣，淡淡問道：",
+      "translated_vi": "Nét kinh ngạc lóe lên trong đáy mắt La Lâm Na rồi biến mất, ả khẽ ngửa chiếc cổ cao quý phái, hít một hơi thật sâu tựa như đang thưởng thức hương hoa, thản nhiên gặng hỏi:"
+    },
+    {
+      "para_id": "c0008p0068",
+      "index": 68,
+      "raw_zh": "“確定他是那個人？”",
+      "translated_vi": "\"Chắc chắn cậu ta chính là người đó chứ?\""
+    },
+    {
+      "para_id": "c0008p0069",
+      "index": 69,
+      "raw_zh": "老漢斯非常肯定的回答道：",
+      "translated_vi": "Lão Hans trả lời bằng giọng điệu chắc như đinh đóng cột:"
+    },
+    {
+      "para_id": "c0008p0070",
+      "index": 70,
+      "raw_zh": "“確定，對比長相後，我們還弄到他的頭髮與您給我的頭髮做了DNA對比，一定不會錯。”",
+      "translated_vi": "\"Xác định chắc chắn ạ! Sau khi đối chiếu diện mạo, chúng tôi còn lấy được mẫu tóc của cậu ta để giám định ADN với sợi tóc mà ngài giao cho, tuyệt đối không thể có sai sót.\""
+    },
+    {
+      "para_id": "c0008p0071",
+      "index": 71,
+      "raw_zh": "羅琳娜的表情愈加耐人尋味，仿似自言自語的問：",
+      "translated_vi": "Vẻ mặt của La Lâm Na càng thêm phần thâm sâu khó lường, ả cất tiếng như thể đang tự nói với chính mình:"
+    },
+    {
+      "para_id": "c0008p0072",
+      "index": 72,
+      "raw_zh": "“老漢斯，你說死人能復活嗎？”",
+      "translated_vi": "\"Lão Hans, ông nói xem người chết có thể phục sinh không?\""
+    },
+    {
+      "para_id": "c0008p0073",
+      "index": 73,
+      "raw_zh": "老漢斯急忙鄭重回答道：",
+      "translated_vi": "Lão Hans vội vã nghiêm cẩn đáp lời:"
+    },
+    {
+      "para_id": "c0008p0074",
+      "index": 74,
+      "raw_zh": "“哦，我的男爵大人，我的信仰告訴我，那是主才有的能力。”",
+      "translated_vi": "\"Ôi, Nam tước đại nhân của tôi ơi, đức tin mách bảo tôi rằng, đó là quyền năng duy nhất chỉ thuộc về Thiên Chúa.\""
+    },
+    {
+      "para_id": "c0008p0075",
+      "index": 75,
+      "raw_zh": "羅琳娜淡淡一笑，無限魅惑，道：",
+      "translated_vi": "La Lâm Na khẽ mỉm cười, nụ cười toát ra vẻ quyến rũ mê hồn:"
+    },
+    {
+      "para_id": "c0008p0076",
+      "index": 76,
+      "raw_zh": "“那就是不能復活，叫人盯著他，把他的一舉一動告訴我，不要被他發現。”",
+      "translated_vi": "\"Nói vậy tức là không thể phục sinh rồi. Phái người theo dõi cậu ta sát sao, báo cáo từng đường đi nước bước cho ta, tuyệt đối không được để cậu ta phát hiện.\""
+    },
+    {
+      "para_id": "c0008p0077",
+      "index": 77,
+      "raw_zh": "管家施禮後退出門，羅琳娜拍了一下坐在自己身上那金發女人的屁股，朝著門外撇了一下頭，那女人才扭著水蛇腰站起來，搖著一步三顫的臀兒走了出去。",
+      "translated_vi": "Vị quản gia cúi chào rồi lui ra ngoài. La Lâm Na vỗ nhẹ vào mông thiếu nữ tóc vàng đang ngồi trong lòng mình, khẽ hất cằm về phía cửa. Lúc này cô gái mới uốn éo vòng eo con rắn đứng dậy, lắc lư cặp mông nảy nở theo từng bước chân mà rời khỏi căn phòng."
+    },
+    {
+      "para_id": "c0008p0078",
+      "index": 78,
+      "raw_zh": "見門關好，羅琳娜沒了方才的淡定從容，忙坐起身，打開書架上的機關，進入密室，從一個保險箱裡面拿出來一個看不出材質的盒子。",
+      "translated_vi": "Thấy cánh cửa đã đóng chặt, La Lâm Na chẳng còn giữ vẻ ung dung điềm tĩnh ban nãy nữa. Ả vội vàng đứng bật dậy, kích hoạt cơ quan ẩn sau giá sách để bước vào mật thất, rồi từ trong két sắt lôi ra một chiếc hộp không rõ làm bằng chất liệu gì."
+    },
+    {
+      "para_id": "c0008p0079",
+      "index": 79,
+      "raw_zh": "這盒子青黑顏色，上面布滿了金色的圖文。",
+      "translated_vi": "Chiếc hộp mang sắc màu xanh đen u tối, trên bề mặt chạm trổ dày đặc những đồ hình hoa văn màu vàng kim."
+    },
+    {
+      "para_id": "c0008p0080",
+      "index": 80,
+      "raw_zh": "羅琳娜拿出裡面的三張照片，與老漢斯拿來的照片對照細看。",
+      "translated_vi": "La Lâm Na lấy ba tấm ảnh cất bên trong ra, đặt cạnh bức ảnh mà lão Hans vừa mang tới để đối chiếu săm soi."
+    },
+    {
+      "para_id": "c0008p0081",
+      "index": 81,
+      "raw_zh": "第一張是在一輛車內的自拍，一個盎格魯白胡子老頭坐在副駕駛，旁邊司機很明顯就是雲千峰。",
+      "translated_vi": "Tấm thứ nhất là bức ảnh tự sướng chụp trong một chiếc ô tô: một ông lão người Anglo râu tóc bạc phơ đang ngồi ở ghế phụ, còn người lái xe bên cạnh rõ mồn một chính là Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0008p0082",
+      "index": 82,
+      "raw_zh": "第二張是兩個人站在一座巨大的石頭古建築前，看不出古建築的輪廓，也是白胡子老頭和雲千峰。",
+      "translated_vi": "Tấm thứ hai chụp hai người đứng trước một công trình kiến trúc cổ bằng đá khổng lồ, không rõ đường nét tổng thể của phế tích, vẫn là ông lão râu bạc nọ cùng với Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0008p0083",
+      "index": 83,
+      "raw_zh": "最後一張，很明顯是一片坍塌的廢墟，幾輛挖掘機器在照片的邊緣露出一角，而照片的中間，是躺在廢墟坑內，兩具砸的稀巴爛，只有腦袋完整的屍體。",
+      "translated_vi": "Tấm ảnh cuối cùng rõ ràng là một bãi phế tích đổ nát hoang tàn, góc ảnh lấp ló vài chiếc máy xúc cơ giới. Mà ở chính giữa khung hình, nằm sâu dưới hố phế tích là hai cỗ thi thể nát bấy be bét, chỉ duy nhất phần đầu lâu là còn nguyên vẹn."
+    },
+    {
+      "para_id": "c0008p0084",
+      "index": 84,
+      "raw_zh": "一具是那白胡子老頭，另一具，是雲千峰。",
+      "translated_vi": "Một cỗ thi thể là của ông lão râu bạc kia, còn cỗ thi thể còn lại... chính là Vân Thiên Phong!"
+    },
+    {
+      "para_id": "c0008p0085",
+      "index": 85,
+      "raw_zh": "羅琳娜那似乎動一下都是挑逗的食指擦過照片上兩個人的臉，低低自語：",
+      "translated_vi": "Ngón tay trỏ đầy khiêu khích của La Lâm Na khẽ miết qua gương mặt hai người trong ảnh, ả thì thào tự nhủ:"
+    },
+    {
+      "para_id": "c0008p0086",
+      "index": 86,
+      "raw_zh": "“你是誰？你又是誰？又是誰把你們的照片放在我的保險箱裡？目的是什麽？就為了引我花重金去非洲給兩個死人收屍嗎？”",
+      "translated_vi": "\"Ngươi là ai? Còn ngươi lại là ai? Kẻ nào đã lén đặt những tấm ảnh này vào trong két sắt của ta? Mục đích rốt cuộc là gì? Chỉ vì muốn dẫn dụ ta bỏ ra cả đống tiền sang tận châu Phi nhặt xác cho hai kẻ đã chết sao?\""
+    },
+    {
+      "para_id": "c0008p0087",
+      "index": 87,
+      "raw_zh": "說著，她回過頭去，看著擺放在密室桌子上的兩個骷髏頭骨，站起身在其中一個上面輕柔的撫摸著，淡淡道：",
+      "translated_vi": "Nói đoạn, ả quay đầu nhìn về phía hai chiếc đầu lâu khô khốc đang đặt trang trọng trên chiếc bàn trong mật thất. Ả đứng dậy, đưa bàn tay thon thả khẽ mơn trớn lên một trong hai hộp sọ đó, thầm thì buông lời:"
+    },
+    {
+      "para_id": "c0008p0088",
+      "index": 88,
+      "raw_zh": "“你不是死了嗎？為什麽還活著？你身上一定有很多秘密吧？我不知道的秘密，我很好奇啊.”",
+      "translated_vi": "\"Chẳng phải ngươi đã chết rồi sao? Cớ sao ngươi vẫn còn sống sờ sờ trên cõi đời này? Trên người ngươi nhất định đang cất giấu rất nhiều bí mật đúng không? Những bí mật mà ta chưa từng hay biết... ta thực sự tò mò lắm đấy...\""
+    }
+  ]
+}

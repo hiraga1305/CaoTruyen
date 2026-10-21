@@ -1,0 +1,463 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 46,
+  "title": "Chương 46: Báng bổ thần linh",
+  "total_paragraphs": 75,
+  "translated_paragraphs": 75,
+  "source_hash": "b3ba8abe4b685e0b66f9a27acf1e670860eee907dbef072a047229eaa4c7d29e",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0046p0001",
+      "index": 1,
+      "raw_zh": "第46章 瀆神",
+      "translated_vi": "Chương 46: Báng bổ thần linh"
+    },
+    {
+      "para_id": "c0046p0002",
+      "index": 2,
+      "raw_zh": "滿都拉圖的話不僅雲千峰不信，其他人也多存否定。",
+      "translated_vi": "Lời Mandulatu nói không chỉ Vân Thiên Phong không tin, mà những người khác cũng phần lớn ôm mối hoài nghi."
+    },
+    {
+      "para_id": "c0046p0003",
+      "index": 3,
+      "raw_zh": "巴猜首先搖頭道：",
+      "translated_vi": "Bachai là người đầu tiên lắc đầu lên tiếng:"
+    },
+    {
+      "para_id": "c0046p0004",
+      "index": 4,
+      "raw_zh": "“滿都拉圖，那林伽形的神像看起來就是一塊頑石，說祂是生命體，真的太過難以置信。而且世界各地的傳說裡，神都是按照自己的形象創造了人，你們看那神像除了腦袋哪裡像人？那根本就是生殖崇拜的想象！維多利亞小姐，你覺得呢？”",
+      "translated_vi": "“Mandulatu, pho tượng hình linga kia nhìn thế nào cũng chỉ là một khối đá trơ lì, bảo rằng Nó là một thực thể sống thì thật sự khó tin đến hoang đường. Huống hồ trong truyền thuyết khắp thế giới, thần linh đều tạo ra con người theo hình bóng của chính mình, mọi người nhìn xem pho tượng đó ngoài cái đầu ra thì có chỗ nào giống người? Đó căn bản chỉ là sản phẩm tưởng tượng của tục thờ sinh thực khí mà thôi! Cô Victoria, cô thấy thế nào?”"
+    },
+    {
+      "para_id": "c0046p0005",
+      "index": 5,
+      "raw_zh": "巴猜覺得滿都拉圖說的讓他無法相信。",
+      "translated_vi": "Bachai cảm thấy những gì Mandulatu nói hoàn toàn không thể nuốt trôi."
+    },
+    {
+      "para_id": "c0046p0006",
+      "index": 6,
+      "raw_zh": "維多利亞掃視了大廳一眼，平靜道：",
+      "translated_vi": "Victoria đưa mắt đảo quanh đại sảnh một lượt, bình thản cất lời:"
+    },
+    {
+      "para_id": "c0046p0007",
+      "index": 7,
+      "raw_zh": "“我倒是覺得滿都拉圖說的有道理，你們看這大廳裡，下面到處都是被打掉鼻子的神像，這意味著在這個神跡建造的年代，發生過一場以不同“神”為信仰的陣營戰爭。",
+      "translated_vi": "“Tôi lại thấy Mandulatu nói có lý đấy. Mọi người nhìn khắp đại sảnh này xem, phía dưới la liệt những pho tượng thần đều bị đập gãy mũi. Điều này có nghĩa là vào thời đại mà di tích thần thánh này được xây dựng, từng nổ ra một cuộc chiến tranh giữa các phe phái với những đức tin về các ‘vị thần’ khác nhau."
+    },
+    {
+      "para_id": "c0046p0008",
+      "index": 8,
+      "raw_zh": "那些被敲掉鼻子的神像，就是戰敗陣營的圖騰，敲掉祂們鼻子的，就是他們的信徒，因為祂們的信徒戰敗了，改變了信仰，那中間林伽形的神像則是勝利者，成為了這裡的唯一的神。",
+      "translated_vi": "Những pho tượng bị gõ gãy mũi kia chính là vật tổ của phe chiến bại. Kẻ đập gãy mũi các tượng thần lại chính là tín đồ của họ, bởi vì khi tín đồ bại trận, họ buộc phải thay đổi đức tin. Còn pho tượng hình linga ở chính giữa chính là kẻ chiến thắng, trở thành vị thần duy nhất ngự trị nơi đây."
+    },
+    {
+      "para_id": "c0046p0009",
+      "index": 9,
+      "raw_zh": "這等於史前人類幫我們大浪淘沙一次，把虛假的都敲掉了鼻子，隻留下真正的唯一不朽的神像。",
+      "translated_vi": "Việc này chẳng khác nào nhân loại thời tiền sử đã giúp chúng mình gạn đục khơi trong một lần, đập gãy mũi toàn bộ những kẻ giả mạo, chỉ giữ lại duy nhất một pho tượng thần chân chính và bất hủ."
+    },
+    {
+      "para_id": "c0046p0010",
+      "index": 10,
+      "raw_zh": "什麽樣的神像才能具有唯一性？肉身像的可能性最大，所以那林伽神像即便不是神軀本身，神軀也一定就包裹在這層石皮之內，就像四千年前流傳至今的古埃及科爾布林一書記載的雙生子儀式一樣，那是一種需要包裹身體得到永生的方法。”",
+      "translated_vi": "Một pho tượng thần thế nào mới có tính chất độc nhất vô nhị? Khả năng cao nhất chính là tượng nhục thân. Thế nên pho tượng linga kia dẫu không phải bản thân thần thể, thì thần thể nhất định cũng đang được bọc kín bên trong lớp vỏ đá này, tương tự như nghi thức Song Sinh được ghi chép trong cuốn sách Kolbrin lưu truyền bốn ngàn năm qua của Ai Cập cổ đại — một phương thức bọc kín cơ thể để đạt tới sự trường sinh.”"
+    },
+    {
+      "para_id": "c0046p0011",
+      "index": 11,
+      "raw_zh": "看得出來，維多利亞是他們幾個人的核心，所有人都圍繞著她展開問題的討論。",
+      "translated_vi": "Có thể thấy rõ Victoria chính là linh hồn cốt lõi của nhóm người này, mọi cuộc thảo luận đều xoay quanh cô ấy."
+    },
+    {
+      "para_id": "c0046p0012",
+      "index": 12,
+      "raw_zh": "雲千峰不知道這些人為何如此篤定有神軀這種傳說中的東西存在，相信他們一定是找到了很確切的證據，但是他沒有問。",
+      "translated_vi": "Vân Thiên Phong không rõ vì sao đám người này lại đoan chắc về sự tồn tại của thứ trong truyền thuyết như “thần thể” đến vậy, hẳn là họ đã nắm được bằng chứng vô cùng xác thực, thế nhưng anh không buồn hỏi han."
+    },
+    {
+      "para_id": "c0046p0013",
+      "index": 13,
+      "raw_zh": "他不想了解任何關於這件事的信息，更不準備參與其中，他已經想好了，這次回去後，拿著二百萬找個三四線小城市過幸福生活，這些人他一個都不會再聯系，包括秦疏影和薑柔甲。",
+      "translated_vi": "Anh chẳng muốn nghe ngóng bất kỳ tin tức nào liên quan đến chuyện này, càng không có ý định nhúng tay vào. Anh đã tính toán đâu ra đấy, lần này trở về, cầm trong tay hai triệu tệ rồi tìm một thành phố nhỏ cấp ba, cấp bốn nào đó sống chuỗi ngày an nhàn hạnh phúc, tuyệt đối sẽ không liên lạc lại với bất kỳ ai trong số này nữa, kể cả Tần Sơ Ảnh và Khương Nhu Giáp."
+    },
+    {
+      "para_id": "c0046p0014",
+      "index": 14,
+      "raw_zh": "雲千峰仔細計算過，這些錢的利息就夠他生活，甚至花不到那麽多，自己隨便乾點什麽，都能安穩的度過下半生，才不會傻到去趟“長生”的渾水。",
+      "translated_vi": "Vân Thiên Phong đã tính toán kỹ lưỡng, chỉ riêng tiền lãi gửi ngân hàng của ngần ấy tiền cũng thừa sức trang trải sinh hoạt, thậm chí tiêu còn chẳng hết, bản thân chỉ cần túc tắc làm chút việc vặt là có thể bình yên trải qua nửa đời sau, ngu gì mà nhảy vào vũng nước đục “trường sinh” cơ chứ."
+    },
+    {
+      "para_id": "c0046p0015",
+      "index": 15,
+      "raw_zh": "自古以來，尋求長生的人，有幾個有好下場？又有誰成功了？",
+      "translated_vi": "Xưa nay, những kẻ mưu cầu trường sinh có mấy ai nhận được kết cục tốt đẹp? Mà đã có ai thực sự thành công đâu?"
+    },
+    {
+      "para_id": "c0046p0016",
+      "index": 16,
+      "raw_zh": "薑柔甲和秦疏影依舊還是以雲千峰為核心，見到雲千峰坐在一邊默不作聲，就都坐在他身邊陪著，對旁邊的討論不聽不問不搭茬。",
+      "translated_vi": "Khương Nhu Giáp và Tần Sơ Ảnh thì vẫn luôn coi Vân Thiên Phong là chỗ dựa. Thấy anh ngồi im lặng một bên, hai cô gái liền tới ngồi cạnh bầu bạn, đối với cuộc bàn tán xung quanh thì chẳng buồn nghe, chẳng buồn hỏi, cũng chẳng thèm chen ngang."
+    },
+    {
+      "para_id": "c0046p0017",
+      "index": 17,
+      "raw_zh": "秦疏影看著來路，笑著柔聲道：",
+      "translated_vi": "Tần Sơ Ảnh đưa mắt nhìn lại lối đi lúc trước, khẽ mỉm cười nói nhỏ:"
+    },
+    {
+      "para_id": "c0046p0018",
+      "index": 18,
+      "raw_zh": "“鬼門關、黃泉路、奈何橋，可惜沒有孟婆，否則咱們三個都算一生一世過了。”",
+      "translated_vi": "“Quỷ Môn quan, Hoàng Tuyền lộ, cầu Nại Hà... Tiếc là chẳng có bà Mạnh, nếu không ba đứa mình coi như cũng cùng nhau đi hết một kiếp người rồi.”"
+    },
+    {
+      "para_id": "c0046p0019",
+      "index": 19,
+      "raw_zh": "雲千峰點頭，道：",
+      "translated_vi": "Vân Thiên Phong gật đầu, đáp:"
+    },
+    {
+      "para_id": "c0046p0020",
+      "index": 20,
+      "raw_zh": "“沒有才正常，只要是神跡必然是成與大洪水之前，而孟婆的原型是孟薑女的，時間根本對不上的。”",
+      "translated_vi": "“Không có mới là bình thường. Cứ là di tích thần thánh thì ắt hẳn phải được tạo lập từ trước trận Đại Hồng Thủy, còn nguyên mẫu của Mạnh Bà lại là Mạnh Khương Nữ, mốc thời gian hoàn toàn không khớp nhau.”"
+    },
+    {
+      "para_id": "c0046p0021",
+      "index": 21,
+      "raw_zh": "維多利亞坐的位置距離雲千峰比較近，她聽到了三個人的談話，就回頭道：",
+      "translated_vi": "Chỗ Victoria ngồi khá gần Vân Thiên Phong, nghe thấy ba người trò chuyện, cô ấy liền quay đầu lại bảo:"
+    },
+    {
+      "para_id": "c0046p0022",
+      "index": 22,
+      "raw_zh": "“孟薑女是孟婆的說法，是從華夏的元朝開始的，是文人劇本的胡說，事實上孟婆一詞在金文便已經有了，其存在之古老，是無法想象的。",
+      "translated_vi": "“Thuyết cho rằng Mạnh Khương Nữ là Mạnh Bà chỉ bắt đầu từ thời nhà Nguyên ở Trung Hoa, chẳng qua là lời thêu dệt trong kịch bản của giới văn nhân mà thôi. Trên thực tế, hai chữ ‘Mạnh Bà’ đã xuất hiện từ thời Kim Văn khắc trên đồ đồng rồi, sự tồn tại của bà ấy cổ xưa vượt xa sức tưởng tượng của mọi người."
+    },
+    {
+      "para_id": "c0046p0023",
+      "index": 23,
+      "raw_zh": "而且，誰告訴伱們這裡沒有孟婆？你們去門口站高點仔細看橋頭泉眼旁的巨石。”",
+      "translated_vi": "Huống chi, ai bảo với các bạn là nơi này không có Mạnh Bà? Mọi người thử ra cửa, đứng lên chỗ cao rồi nhìn kỹ tảng cự thạch cạnh mắt suối ở đầu cầu xem.”"
+    },
+    {
+      "para_id": "c0046p0024",
+      "index": 24,
+      "raw_zh": "雲千峰三人一聽這話，都好奇的走到是室外，站在一塊大石頭上遙望橋頭。",
+      "translated_vi": "Ba người Vân Thiên Phong nghe vậy thì không khỏi tò mò bước ra ngoài, trèo lên một tảng đá lớn phóng tầm mắt nhìn về phía đầu cầu."
+    },
+    {
+      "para_id": "c0046p0025",
+      "index": 25,
+      "raw_zh": "燈火闌珊，將遠處的景色映照的朦朧，能看到的更多只是輪廓。",
+      "translated_vi": "Ánh đèn le lói khiến cảnh sắc phía xa mờ ảo chập chờn, phần lớn chỉ thấy được những đường nét mờ nhạt."
+    },
+    {
+      "para_id": "c0046p0026",
+      "index": 26,
+      "raw_zh": "但已經足夠了，三個人都被看到的景象震撼。",
+      "translated_vi": "Thế nhưng chừng đó cũng đã quá đủ, cả ba người đều bị cảnh tượng đập vào mắt làm cho chấn động."
+    },
+    {
+      "para_id": "c0046p0027",
+      "index": 27,
+      "raw_zh": "遠遠看去，那橋頭巨大無比的石頭，根本就是一個人頭的石像，那石像有鼻子有眼，不是年老婆婆的形象，而是一個貌美的女性模樣。",
+      "translated_vi": "Nhìn từ đằng xa, khối đá khổng lồ ở đầu cầu kia căn bản chính là một pho tượng đầu người bằng đá. Tượng có đủ mắt mũi rõ ràng, nhưng không phải hình hài của một bà lão già nua, mà lại mang dung mạo của một thiếu nữ tuyệt mỹ."
+    },
+    {
+      "para_id": "c0046p0028",
+      "index": 28,
+      "raw_zh": "那石頭的頭像似乎微微頷首，眼睛看著下面的清泉。",
+      "translated_vi": "Pho tượng đầu đá ấy hơi cúi xuống, ánh mắt như đang đăm đăm dõi nhìn dòng suối trong vắt bên dưới."
+    },
+    {
+      "para_id": "c0046p0029",
+      "index": 29,
+      "raw_zh": "不識廬山真面目，隻緣身在此山中。",
+      "translated_vi": "Quả đúng là chẳng biết Lư Sơn mặt thật sao, chỉ vì thân ở giữa non cao."
+    },
+    {
+      "para_id": "c0046p0030",
+      "index": 30,
+      "raw_zh": "隻怪當時他們距離得太近，根本看不出那是一個石像的輪廓。",
+      "translated_vi": "Chỉ trách lúc trước họ đứng quá gần nên mới không thể nhận ra đường nét của một pho tượng đá."
+    },
+    {
+      "para_id": "c0046p0031",
+      "index": 31,
+      "raw_zh": "秦疏影喃喃道：",
+      "translated_vi": "Tần Sơ Ảnh lẩm bẩm:"
+    },
+    {
+      "para_id": "c0046p0032",
+      "index": 32,
+      "raw_zh": "“鬼門關、黃泉路這怎麽會是神軀的藏所？不應該是厲鬼的居所嗎？”",
+      "translated_vi": "“Quỷ Môn quan, Hoàng Tuyền lộ... nơi đây sao lại là chỗ cất giấu thần thể được? Chẳng phải đáng lẽ phải là hang ổ của lệ quỷ hay sao?”"
+    },
+    {
+      "para_id": "c0046p0033",
+      "index": 33,
+      "raw_zh": "秦疏影話剛說完，身後傳來了維多利亞的聲音：",
+      "translated_vi": "Lời Tần Sơ Ảnh vừa dứt, phía sau đã vang lên giọng của Victoria:"
+    },
+    {
+      "para_id": "c0046p0034",
+      "index": 34,
+      "raw_zh": "“那你以為地獄是為誰服務的？你要知道，這個世界一切都是相對的，在某些人的記憶裡是恐懼的地獄，可能在某些人的記憶裡就是美妙的天堂，畢竟有些人的幸福是建立在別人的痛苦之上的，那麽天堂地獄重疊又有什麽奇怪呢？",
+      "translated_vi": "“Vậy cô nghĩ địa ngục được sinh ra để phục vụ cho ai? Cô phải hiểu rằng, vạn vật trên thế gian này đều mang tính tương đối. Trong ký ức của một số người, đó là địa ngục kinh hoàng, nhưng trong ký ức của những kẻ khác, có khi lại là thiên đường êm ái. Suy cho cùng, hạnh phúc của kẻ này vốn dĩ được xây dựng trên nỗi thống khổ của người khác, vậy thì thiên đường và địa ngục chồng lấn lên nhau có gì là lạ chứ?"
+    },
+    {
+      "para_id": "c0046p0035",
+      "index": 35,
+      "raw_zh": "而且是誰的居所不重要，重要的是聽到這些我們會恐懼，源自基因深處的恐懼，帶著敬畏的恐懼，這種恐懼為何根植在人記憶的最深處不得而知，想來在久遠的史前這裡就是讓人敬畏之地。",
+      "translated_vi": "Huống hồ đây là nơi ở của ai không quan trọng, quan trọng là khi nghe tới những thứ này, chúng mình sẽ sợ hãi — một nỗi sợ bắt nguồn từ tận sâu thẳm trong hệ gen, nỗi sợ hãi xen lẫn niềm sùng kính. Vì sao nỗi sợ này lại bám rễ sâu đến thế trong tầng ký ức sâu kín nhất của con người thì không ai biết được, nhưng có thể đoán rằng từ thời tiền sử xa xăm, nơi đây vốn đã là vùng đất khiến người đời phải khiếp sợ và tôn kính."
+    },
+    {
+      "para_id": "c0046p0036",
+      "index": 36,
+      "raw_zh": "而在遠古時期，能讓人類同時生出敬畏和恐懼的，只有神！",
+      "translated_vi": "Mà vào thời viễn cổ, thứ duy nhất có thể khiến nhân loại vừa sinh lòng tôn kính vừa run sợ hãi hùng... chỉ có Thần!"
+    },
+    {
+      "para_id": "c0046p0037",
+      "index": 37,
+      "raw_zh": "這種敬畏根植在基因裡，讓人類編織出地獄的形象，但這些只不過是後人不明就裡講的故事，就和孟薑女被編排成孟婆一樣，信不得，所以沒有研究價值。”",
+      "translated_vi": "Nỗi tôn kính này cắm rễ vào gen, khiến nhân loại tự dệt nên hình tượng địa ngục, nhưng đó chẳng qua chỉ là những câu chuyện do hậu thế mơ hồ thêu dệt nên mà thôi, hệt như chuyện Mạnh Khương Nữ bị gán ghép thành Mạnh Bà vậy, không đáng tin, và cũng chẳng có giá trị nghiên cứu.”"
+    },
+    {
+      "para_id": "c0046p0038",
+      "index": 38,
+      "raw_zh": "這個維多利亞了解的知識非廣博，若不是那古怪的毛病，雲千峰覺得這個女人堪稱完美。",
+      "translated_vi": "Kiến thức mà Victoria này nắm giữ vô cùng uyên bác, nếu không vì cái tật quái gở kia thì Vân Thiên Phong cảm thấy người phụ nữ này quả thực có thể xem là hoàn hảo."
+    },
+    {
+      "para_id": "c0046p0039",
+      "index": 39,
+      "raw_zh": "雲千峰一看維多利亞跟了過來，心知她不會是特意來當導遊解說，必然是有事，而且恐怕是找自己幫忙。",
+      "translated_vi": "Thấy Victoria đi theo sau, Vân Thiên Phong thừa biết cô ấy chẳng rỗi hơi đi làm hướng dẫn viên giải thích dông dài, ắt hẳn là có chuyện, mà e rằng lại muốn nhờ anh giúp đỡ."
+    },
+    {
+      "para_id": "c0046p0040",
+      "index": 40,
+      "raw_zh": "果然，維多利亞說完，轉頭看向雲千峰，話鋒一轉道：",
+      "translated_vi": "Quả nhiên, sau khi dứt lời, Victoria quay sang nhìn Vân Thiên Phong, chuyển chủ đề:"
+    },
+    {
+      "para_id": "c0046p0041",
+      "index": 41,
+      "raw_zh": "“滿都拉圖很確定那萬年依舊保持嶄新的神像就是神軀，他的直覺從未錯過，我們需要在神像身上切下一塊來帶走做研究，但問題是我們試過了遠投刀斧，但是根本無法破壞祂一絲一毫，所以我們準備用這個來試試。”",
+      "translated_vi": "“Mandulatu rất đoan chắc pho tượng trải qua vạn năm mà vẫn mới nguyên kia chính là thần thể, trực giác của ông ấy chưa từng sai bao giờ. Chúng tôi cần cắt lấy một mẩu trên người pho tượng đem về nghiên cứu. Thế nhưng ngặt nỗi chúng tôi đã thử phóng đao ném rìu từ xa mà căn bản chẳng thể làm sứt mẻ Nó lấy một mảy may, cho nên chúng tôi dự định dùng thứ này để thử.”"
+    },
+    {
+      "para_id": "c0046p0042",
+      "index": 42,
+      "raw_zh": "說著，維多利亞摘下了脖子上掛著的一個掛墜，那是和薑柔甲一樣的連山符，只是維多利亞的更大一些，寬度相同，但長度堪稱一把小刀。",
+      "translated_vi": "Vừa nói, Victoria vừa tháo mặt dây chuyền trên cổ xuống. Đó cũng là một miếng bùa Liên Sơn y hệt của Khương Nhu Giáp, chỉ có điều mảnh của Victoria lớn hơn một chút, bề ngang bằng nhau nhưng chiều dài thì đủ tựa một con dao găm nhỏ."
+    },
+    {
+      "para_id": "c0046p0043",
+      "index": 43,
+      "raw_zh": "維多利亞繼續道：",
+      "translated_vi": "Victoria nói tiếp:"
+    },
+    {
+      "para_id": "c0046p0044",
+      "index": 44,
+      "raw_zh": "“這上面是連山易，也是人類歷史上最早的字符，比象形文字還要早。傳說這是伏羲造的書契，也就是某種契約，只是契約的另一方是誰已經無法考證。",
+      "translated_vi": "“Mặt trên khắc chữ Liên Sơn Dịch, cũng là hệ ký tự sớm nhất trong lịch sử nhân loại, còn cổ hơn cả chữ tượng hình. Truyền thuyết kể rằng đây là thư khế do Phục Hy tạo ra, tức là một dạng giao ước, chỉ có điều bên còn lại của bản giao ước là ai thì đã không còn tài liệu nào khảo chứng được."
+    },
+    {
+      "para_id": "c0046p0045",
+      "index": 45,
+      "raw_zh": "但連山易號稱可算計上天，想來破壞一下神軀也是有可能的，現在的問題是，我們都無法觸碰神像，只有你可以。",
+      "translated_vi": "Thế nhưng Liên Sơn Dịch nổi danh là có thể suy tính cả ý trời, ngẫm ra muốn làm tổn hại thần thể cũng không phải là điều bất khả. Vấn đề hiện tại là, tất cả chúng tôi đều không thể chạm vào pho tượng thần, chỉ có anh là làm được."
+    },
+    {
+      "para_id": "c0046p0046",
+      "index": 46,
+      "raw_zh": "我不會讓你白工作，會給你足夠的報酬，你可以選擇加入我們一起尋求長生，也可以選擇金錢。”",
+      "translated_vi": "Tôi sẽ không để anh phải làm không công, tôi sẽ trả cho anh thù lao xứng đáng. Anh có thể chọn gia nhập cùng chúng tôi mưu cầu trường sinh, hoặc cũng có thể chọn lấy tiền.”"
+    },
+    {
+      "para_id": "c0046p0047",
+      "index": 47,
+      "raw_zh": "雲千峰沒有絲毫遲疑，問道：",
+      "translated_vi": "Vân Thiên Phong chẳng mảy may do dự, hỏi thẳng:"
+    },
+    {
+      "para_id": "c0046p0048",
+      "index": 48,
+      "raw_zh": "“多少錢？”",
+      "translated_vi": "“Bao nhiêu tiền?”"
+    },
+    {
+      "para_id": "c0046p0049",
+      "index": 49,
+      "raw_zh": "維多利亞搖頭輕歎，她不理解為什麽會有人為那些沒有意義的數字放棄長生的可能，但她還是認真的回答道：",
+      "translated_vi": "Victoria lắc đầu thở dài, cô ấy không sao hiểu nổi vì cớ gì lại có người vì những con số vô nghĩa kia mà từ bỏ cơ hội trường sinh, song vẫn nghiêm túc đáp lời:"
+    },
+    {
+      "para_id": "c0046p0050",
+      "index": 50,
+      "raw_zh": "“不成功什麽都沒有，切下來給你五百萬。”",
+      "translated_vi": "“Nếu không thành công thì chẳng được gì, cắt được một mẩu xuống sẽ đưa anh năm triệu.”"
+    },
+    {
+      "para_id": "c0046p0051",
+      "index": 51,
+      "raw_zh": "五百萬！別說切一塊下來，就是把神像腦袋整個切下來，雲千峰都不帶有任何遲疑的，不就是身體和精神遭點罪嗎，小意思。",
+      "translated_vi": "Năm triệu tệ! Đừng nói chỉ cắt một mẩu nhỏ, dẫu có bảo anh gọt phăng cả cái đầu pho tượng xuống thì Vân Thiên Phong cũng chẳng thèm chớp mắt. Chẳng qua là thể xác với tinh thần chịu chút khổ sở thôi mà, chuyện muỗi!"
+    },
+    {
+      "para_id": "c0046p0052",
+      "index": 52,
+      "raw_zh": "為了確保能夠切割到真正的神軀，他們用射槍掛鉤吊索，一端綁住雲千峰，另一端古恩和巴猜倆人拽動，把雲千峰懸空吊到了神像耳畔。",
+      "translated_vi": "Để đảm bảo có thể cắt trúng thần thể thực sự, bọn họ dùng súng bắn móc neo dây cáp treo, một đầu buộc chặt quanh người Vân Thiên Phong, đầu còn lại do Gu'en và Bachai cùng nhau kéo giữ, treo lơ lửng Vân Thiên Phong lên sát bên tai pho tượng thần."
+    },
+    {
+      "para_id": "c0046p0053",
+      "index": 53,
+      "raw_zh": "神像這個位置最纖薄，只要隨便切下一塊，都能確保得到神軀的基因，哪怕這是包裹的神軀。",
+      "translated_vi": "Vị trí này của pho tượng là mỏng manh nhất, chỉ cần tùy ý cắt xuống một mẩu cũng đủ đảm bảo thu được gen của thần thể, dẫu cho đây chỉ là lớp bọc bên ngoài."
+    },
+    {
+      "para_id": "c0046p0054",
+      "index": 54,
+      "raw_zh": "雲千峰手裡拿著維多利亞的連山符，深吸一口氣，使勁的切向神像那老大的耳垂，隨後雲千峰心中即驚訝又歡喜。",
+      "translated_vi": "Vân Thiên Phong cầm miếng bùa Liên Sơn của Victoria trong tay, hít sâu một hơi rồi dồn sức rạch mạnh vào dái tai to tướng của pho tượng. Ngay sau đó, cõi lòng anh vừa kinh ngạc lại vừa mừng rỡ."
+    },
+    {
+      "para_id": "c0046p0055",
+      "index": 55,
+      "raw_zh": "鷹吞蛇，蛇吞鼠，鼠把弓弦蛀，真是一物降一物。",
+      "translated_vi": "Chim ưng nuốt rắn, rắn nuốt chuột, chuột lại gặm đứt dây cung, đúng thật là vỏ quýt dày có móng tay nhọn, vạn vật tương khắc."
+    },
+    {
+      "para_id": "c0046p0056",
+      "index": 56,
+      "raw_zh": "那原本金剛不壞的神像，被小小的黑石片一下切進去毫米深度，幾乎在黑石片破壞了神像那一刻，在場的所有人都在內心裡感受到了細碎的竊竊私語。",
+      "translated_vi": "Pho tượng thần vốn mình đồng da sắt kia lại bị phiến đá đen nhỏ bé rạch sâu vào cả milimét. Gần như ngay khoảnh khắc phiến đá đen làm tổn hại pho tượng, tất cả mọi người có mặt đều cảm nhận được những tiếng thì thào vụn vặt vang vọng tận đáy lòng."
+    },
+    {
+      "para_id": "c0046p0057",
+      "index": 57,
+      "raw_zh": "就好像誰在他們耳邊忽遠忽近的小聲說話，一個字也聽不清，但卻很真實的感受到，這是一種恐嚇。",
+      "translated_vi": "Cứ như thể có ai đó đang ghé sát bên tai họ thì thào lúc gần lúc xa, chẳng nghe rõ nổi một từ, nhưng lại cảm nhận chân thực đến rợn người rằng đó chính là một lời đe dọa."
+    },
+    {
+      "para_id": "c0046p0058",
+      "index": 58,
+      "raw_zh": "滿都拉圖眉頭皺了起來，作為一個名副其實的黑薩滿，他感受到了危險，急忙在背包裡掏出一個木盒子，在裡面倒出幾隻五色斑斕的甲蟲，放飛了出去。",
+      "translated_vi": "Mandulatu nhíu chặt mày, với tư cách là một Shaman Đen danh xứng với thực, ông ấy lập tức ngửi thấy mùi nguy hiểm, vội vã móc từ trong ba lô ra một chiếc hộp gỗ, trút ra mấy con bọ cánh cứng ngũ sắc sặc sỡ rồi thả chúng bay đi."
+    },
+    {
+      "para_id": "c0046p0059",
+      "index": 59,
+      "raw_zh": "也在此刻，雲千峰被卷入了夢境。",
+      "translated_vi": "Đúng lúc này, Vân Thiên Phong lại bị cuốn vào trong cõi mộng."
+    },
+    {
+      "para_id": "c0046p0060",
+      "index": 60,
+      "raw_zh": "只不過他已經有了經驗，熟能生巧，立刻止息讓自己走出夢境，然後在走出的那一刻，手臂再次用力，讓黑石片更深入神像的身體一些。",
+      "translated_vi": "Có điều anh đã có kinh nghiệm dắt túi, trăm hay không bằng tay quen, liền lập tức nín thở tĩnh tâm kéo bản thân thoát khỏi mộng cảnh. Ngay tích tắc vừa tỉnh lại, cánh tay anh lại bồi thêm lực, ấn phiến đá đen ngập sâu hơn vào thân thể pho tượng."
+    },
+    {
+      "para_id": "c0046p0061",
+      "index": 61,
+      "raw_zh": "隨著黑石片的深入，那種縈繞在他們耳邊內心的竊竊私語越來越密集，已經煩亂到隱隱讓人發狂的程度。",
+      "translated_vi": "Theo độ ngập sâu dần của phiến đá đen, những tiếng thì thầm váng vất bên tai và trong tâm trí mọi người càng lúc càng dồn dập, phiền nhiễu tới mức khiến người ta như muốn phát điên."
+    },
+    {
+      "para_id": "c0046p0062",
+      "index": 62,
+      "raw_zh": "滿都拉圖的十幾隻甲蟲紛紛飛了回來，上面粘著黏稠的菌液，一看這東西，滿都拉圖整個臉都變了顏色，恰好此時雲千峰再次走出夢境，滿都拉圖急忙高聲道：",
+      "translated_vi": "Mười mấy con bọ cánh cứng của Mandulatu bay dạt trở về, trên mình chúng dính đầy thứ dịch nấm sền sệt. Thoáng thấy thứ dịch này, sắc mặt Mandulatu lập tức biến đổi, đúng lúc Vân Thiên Phong lại một lần nữa thoát khỏi cơn mơ, Mandulatu vội thất thanh hét lớn:"
+    },
+    {
+      "para_id": "c0046p0063",
+      "index": 63,
+      "raw_zh": "“加快速度，雅禁都蘇醒了！”",
+      "translated_vi": "“Nhanh tay lên, lũ Nhã Cấm Đô tỉnh giấc hết rồi!”"
+    },
+    {
+      "para_id": "c0046p0064",
+      "index": 64,
+      "raw_zh": "聽到這話，維多利亞急忙驚聲下令道：",
+      "translated_vi": "Nghe thấy thế, Victoria vội hoảng hốt ra lệnh:"
+    },
+    {
+      "para_id": "c0046p0065",
+      "index": 65,
+      "raw_zh": "“秦疏影和薑柔甲你們兩個拽住繩子穩住雲千峰，巴猜繼續尋找出口，挖也得給我挖出來一條路，其他的人跟我去守住門口，不能讓那些東西進來！否則咱們全都得死！”",
+      "translated_vi": "“Tần Sơ Ảnh, Khương Nhu Giáp, hai người giữ chặt dây thừng cố định Vân Thiên Phong! Bachai tiếp tục tìm lối thoát hiểm, đào cũng phải đào ra một con đường cho tôi! Những người còn lại theo tôi ra canh giữ cửa lớn, tuyệt đối không được để thứ đó lọt vào, nếu không tất cả chúng mình đều phải chôn thây tại đây!”"
+    },
+    {
+      "para_id": "c0046p0066",
+      "index": 66,
+      "raw_zh": "雲千峰滿身大汗，呼吸已經紊亂，畢竟每次走出夢境，都是對身心的折磨，尤其是聽到滿都拉圖的話，他更是急得發瘋。",
+      "translated_vi": "Toàn thân Vân Thiên Phong ướt đẫm mồ hôi, hơi thở đã trở nên hỗn loạn. Dù sao thì mỗi lần thoát khỏi mộng cảnh đều là một màn tra tấn tàn khốc đối với cả thể xác lẫn tinh thần, nhất là khi nghe thấy tiếng hét của Mandulatu, anh lại càng sốt ruột đến phát cuồng."
+    },
+    {
+      "para_id": "c0046p0067",
+      "index": 67,
+      "raw_zh": "這種情緒讓他體內那類似死藤水的物質瘋狂分泌，也讓他幾乎可以瞬時在真實和夢境之間遊走，切割的速度成倍加快。",
+      "translated_vi": "Luồng cảm xúc ấy kích thích vật chất tương tự Ayahuasca trong cơ thể anh điên cuồng tiết ra, khiến anh gần như có thể lập tức qua lại giữa thực tại và cõi mộng trong chớp mắt, tốc độ cắt gọt cũng tăng lên gấp bội."
+    },
+    {
+      "para_id": "c0046p0068",
+      "index": 68,
+      "raw_zh": "“哢！”",
+      "translated_vi": "“Rắc!”"
+    },
+    {
+      "para_id": "c0046p0069",
+      "index": 69,
+      "raw_zh": "神像耳垂被雲千峰反覆幾次環繞切割，終於被他切下來一小塊。",
+      "translated_vi": "Phần dái tai của pho tượng sau mấy lần bị Vân Thiên Phong rạch quanh tỉ mỉ cuối cùng cũng bị anh cắt rời ra một mẩu nhỏ."
+    },
+    {
+      "para_id": "c0046p0070",
+      "index": 70,
+      "raw_zh": "雲千峰看了一眼，確定這神像的材質內外一致，並沒有夾心，心想薑玉林他們怕是白忙活一場，但他沒所謂，反正切下來了，就得給錢。",
+      "translated_vi": "Vân Thiên Phong liếc mắt nhìn qua, xác định chất liệu của pho tượng này trong ngoài đồng nhất, chẳng hề có ruột thịt hay kẽ hở nào, thầm nghĩ đám người Khương Ngọc Lâm e rằng uổng công vô ích rồi. Song anh chẳng bận tâm, bất luận thế nào, cứ cắt xuống được là phải chi tiền."
+    },
+    {
+      "para_id": "c0046p0071",
+      "index": 71,
+      "raw_zh": "他鼓起勇氣兩手捧起那塊所謂的神軀，確定並沒有進入夢境的感覺，這才對著門口高喊：",
+      "translated_vi": "Anh lấy hết can đảm dùng hai tay nâng mẩu cái gọi là “thần thể” kia lên, sau khi chắc chắn bản thân không hề có cảm giác bị hút vào mộng cảnh, bấy giờ mới hướng về phía cửa lớn hét to:"
+    },
+    {
+      "para_id": "c0046p0072",
+      "index": 72,
+      "raw_zh": "“切下來了！”",
+      "translated_vi": "“Cắt được rồi!”"
+    },
+    {
+      "para_id": "c0046p0073",
+      "index": 73,
+      "raw_zh": "話音未落，就看到一張人皮順著石門頂部的縫隙鑽了進來，空洞透明的眼眶望著手捧神像耳垂的雲千峰。",
+      "translated_vi": "Lời còn chưa dứt, liền thấy một tấm da người men theo khe hở trên đỉnh cửa đá trườn vào, hai hốc mắt trống rỗng trong suốt đăm đăm nhìn chằm chằm vào Vân Thiên Phong đang hai tay bưng mẩu dái tai tượng thần."
+    },
+    {
+      "para_id": "c0046p0074",
+      "index": 74,
+      "raw_zh": "雲千峰竟然在那透明的兩個窟窿裡感受到了憎恨的情緒。",
+      "translated_vi": "Vân Thiên Phong lại có thể từ hai cái lỗ thủng trong suốt kia cảm nhận được rõ ràng một luồng oán hận ngút trời."
+    },
+    {
+      "para_id": "c0046p0075",
+      "index": 75,
+      "raw_zh": "感謝書友落花逐水影徒隨和子邱澤熙的打賞，感謝書友群星0和會說話的橡皮的月票，謝謝你們的支持！！！感激~~~",
+      "translated_vi": "Cảm ơn các bạn đọc Lạc Hoa Trục Thủy Ảnh Đồ Tùy và Tử Khâu Trạch Hi đã tặng thưởng, cảm ơn Quần Tinh 0 và Cục Tẩy Biết Nói đã bỏ phiếu tháng, cảm ơn sự ủng hộ của mọi người!!! Vô cùng cảm kích~~~"
+    }
+  ]
+}

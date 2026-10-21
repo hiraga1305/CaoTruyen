@@ -1,0 +1,88 @@
+{
+  "book_id": "49736",
+  "book_title": "Đi Tìm Vô Gian Địa Ngục",
+  "total_chapters": 325,
+  "active_chapter": 325,
+  "active_wave": 65,
+  "total_waves": 65,
+  "total_words_accumulated": 876612,
+  "total_paras_accumulated": 31825,
+  "workers": {
+    "Worker-Final": {
+      "worker_id": "Worker-Final",
+      "last_chapter": 325,
+      "last_title": "325.第324章 阿甘正傳：逃離蘋果島（完）",
+      "status": "IDLE",
+      "last_duration": 232.06,
+      "updated_at": 1792589895.501312
+    }
+  },
+  "recent_records": [
+    {
+      "chapter_num": 321,
+      "title": "321.第320章 阿甘正傳：逃離蘋果島（2）",
+      "wave_num": 65,
+      "worker_id": "Worker-Final",
+      "status": "COMPLETED",
+      "paragraphs": 150,
+      "words": 3734,
+      "duration_seconds": 179.88,
+      "gate_pass": true,
+      "prosody_anomalies": 0,
+      "timestamp": 1792589895.4947956
+    },
+    {
+      "chapter_num": 322,
+      "title": "322.第321章 阿甘正傳：逃離蘋果島（3）",
+      "wave_num": 65,
+      "worker_id": "Worker-Final",
+      "status": "COMPLETED",
+      "paragraphs": 156,
+      "words": 4143,
+      "duration_seconds": 194.9,
+      "gate_pass": true,
+      "prosody_anomalies": 0,
+      "timestamp": 1792589895.4967012
+    },
+    {
+      "chapter_num": 323,
+      "title": "323.第322章 阿甘正傳：逃離蘋果島（4）",
+      "wave_num": 65,
+      "worker_id": "Worker-Final",
+      "status": "COMPLETED",
+      "paragraphs": 134,
+      "words": 3828,
+      "duration_seconds": 218.96,
+      "gate_pass": true,
+      "prosody_anomalies": 0,
+      "timestamp": 1792589895.4981892
+    },
+    {
+      "chapter_num": 324,
+      "title": "324.第323章 阿甘正傳：逃離蘋果島（5）",
+      "wave_num": 65,
+      "worker_id": "Worker-Final",
+      "status": "COMPLETED",
+      "paragraphs": 146,
+      "words": 3933,
+      "duration_seconds": 212.41,
+      "gate_pass": true,
+      "prosody_anomalies": 0,
+      "timestamp": 1792589895.4997046
+    },
+    {
+      "chapter_num": 325,
+      "title": "325.第324章 阿甘正傳：逃離蘋果島（完）",
+      "wave_num": 65,
+      "worker_id": "Worker-Final",
+      "status": "COMPLETED",
+      "paragraphs": 170,
+      "words": 4302,
+      "duration_seconds": 232.06,
+      "gate_pass": true,
+      "prosody_anomalies": 0,
+      "timestamp": 1792589895.5013103
+    }
+  ],
+  "last_updated": "2026-10-21T20:38:15+0700"
+}

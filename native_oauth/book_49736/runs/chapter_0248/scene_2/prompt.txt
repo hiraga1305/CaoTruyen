@@ -1,0 +1,94 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0248|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §55):
+§1 而且這些光譜本身又是騙局。
+§2 [Ø=云千峰]比如說藍色的東西，一定不是藍色的，因為它反射藍光，但在我們眼睛裡是藍色的。
+§3 [Ø=云千峰]所以，要看到真相，就需要另外一雙不受紅塵蒙蔽的眼睛。
+§4 [Ø=云千峰]那些人利用死藤水來做到這一點，而我有我自己的辦法。”
+§5 [Ø=云千峰]琳達不能完全理解雲千峰這句話的意思，但她明白了一件事， [||] 那就是這個世界很神秘，神秘到自以為明白的一切，都未必是真的。
+§6 [Ø=云千峰]雲千峰仔細觀察四周，很快發現山洞深處那一點搖晃的火光。
+§7 [Ø=云千峰]紅色的火苗搖曳著，遠遠看著不比螢火蟲大。
+§8 [Ø=云千峰]這裡洞口很多，好似樹葉的脈絡，在這樣的地下空間裡亂走是極其危險的，那麽朝著火苗走是唯一的選擇。
+§9 [Ø=云千峰]雲千峰走在前面，呼吸很輕，小心到極致。
+§10 [Ø=云千峰]琳達怯生生的跟在雲千峰身後，不時的把腦袋在雲千峰肩膀側面露出來看看前方，像個膽小的小貓。
+§11 倆人終於來到那火苗前方。
+§12 那是一個插在岩壁上的火把。
+§13 [Ø=云千峰]一團什麽動物的皮，纏著一根骨頭，那些動物的皮上浸滿了油脂，這就成了一個可以燃燒很久的火把。
+§14 [Ø=云千峰]“不是萬年燈，這些火把是剛剛製作出來不久的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 [Ø=云千峰]聽到這話，琳達低聲道：
+§16 [Ø=云千峰]“那就是說，這裡還有其他人？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 [Ø=云千峰]雲千峰點了點頭，肯定了琳達的猜測。
+§18 [Ø=云千峰]“小心點，可能是那些要殺我的人，他們在等著我自投羅網。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 [Ø=云千峰]琳達很想說“那咱們快逃吧”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]，但是話沒說出口就否定了自己的建議。
+§20 因為無處可逃。
+§21 [Ø=云千峰]火把的位置，是這個石洞的一個直角拐彎處。
+§22 [Ø=云千峰]從這裡開始，一拐彎後的石洞內， [||] 每隔一段距離，就有一根這樣的火把，把並不寬闊的石洞照得很清楚。
+§23 [Ø=云千峰]可以看得出來，這裡哪怕是天然的石洞，但也一定經過人工的雕琢。
+§24 [Ø=云千峰]地面打磨的很平整，兩側岩壁上刻畫著很多象形的符文。
+§25 [Ø=云千峰]水紋、雲紋、蝠紋等等，讓然感受到一種很難言表的韻味。
+§26 [Ø=云千峰]這樣走了十幾分鍾，他們來到了這個石洞的盡頭。
+§27 在這裡有一扇巨大的石門。
+§28 石門上雕刻著一個場景的浮雕。
+§29 [Ø=云千峰]那是六個手捧陶罐，穿著怪異的人。
+§30 [Ø=云千峰]她們有的頭插羽毛，有的頭吊獸尾，身上都穿著綴滿寶石的寬松長袍。
+§31 [Ø=云千峰]六個人相對而坐在一個六芒星的圖案上，而在六芒星的中間，躺著一個人首蛇身的生物。
+§32 [Ø=云千峰]這浮雕極為靈動，甚至能感覺到那六個人在念詠著咒語，把手裡陶罐內的東西倒向地面上躺著的那個生物。
+§33 [Ø=云千峰]而地面上那個生物，給觀看者的感覺，就是死亡。
+§34 [Ø=云千峰]琳達別的不認識，但是她知道六芒星，因為這個圖符在西方很盛行。
+§35 [Ø=云千峰]“這些人是巫女，她們在使用六芒星的陣法， [||] 我記得這是召喚魔鬼用的，原來我們西方文明在很久很久的古老年代，就出現在南極了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 [Ø=云千峰]雲千峰沒忍住，笑了。
+§37 [Ø=云千峰]琳達看出來他是嘲笑，於是恙怒道：
+§38 [Ø=云千峰]“你笑什麽？我說的不對嗎？事實擺在這裡啊！你們東方是五行，用五芒星啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 [Ø=云千峰]雲千峰指著浮雕上的六芒星，問道：
+§40 “那你知道六芒星的原理是什麽？作用是什麽？最原始出現在何處？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 琳達回道：
+§42 [Ø=云千峰]“六芒星又被稱為所羅門王的封印，有著神秘而強大的邪惡力量，能夠溝通地獄的惡魔， [||] 無論是塔羅牌還是詛咒，都需要六芒星陣的幫助。最原始的出處，應該就是所羅門王那裡吧！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 雲千峰笑道：
+§44 [Ø=云千峰]“你說的，全都不對！六芒星的圖符和五芒星圖符，都是在天傾西北地陷西南之前就出現了，那時候所羅門距離出生還早著呢。
+§45 [Ø=云千峰]在那個古老的年代，五芒星被稱為紫薇星陣，之所以華夏用五芒星，就是因為紫薇星陣投影在華夏地區。
+§46 [Ø=云千峰]而六芒星的真實名字叫勾陳星陣，其投影地在世界屋脊位置，包括世界屋脊西側的一片土地。
+§47 [Ø=云千峰]所以你會發現，世界屋脊周圍一圈的地方，都使用六芒星陣作為神秘力量的來源，只不過很少有人知道出處。
+§48 [Ø=云千峰]至於你們西方使用六芒星陣，原因是什麽我就不解釋了。”
+§49 語氣中的不屑讓琳達很想把雲千峰努努咯。
+§50 [Ø=云千峰]當然也就想想，動手是不敢的。
+§51 [Ø=云千峰]面對打不過的敵人忍氣吞聲，是西方人最大的智慧。
+§52 於是琳達決定轉移話題：
+§53 [Ø=云千峰]“叔叔，看你表情，你好像知道這浮雕上的六個人是誰。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§54 [Ø=云千峰]雲千峰點了點頭，道：
+§55 [Ø=云千峰]“大人物，非常古老的大人物！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 55 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§55. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

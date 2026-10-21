@@ -1,0 +1,511 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 165,
+  "title": "Chương 165: Biển Thiên Nam",
+  "total_paragraphs": 83,
+  "translated_paragraphs": 83,
+  "source_hash": "cc03eba523a493dffa1cc13b9ba96f7bf80b7bc5e4f440660a7789ec9b4bf478",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0165p0001",
+      "index": 1,
+      "raw_zh": "第165章 天南之海",
+      "translated_vi": "Chương 165: Biển Thiên Nam"
+    },
+    {
+      "para_id": "c0165p0002",
+      "index": 2,
+      "raw_zh": "隨著美女蛇那一聲老牛般的怪叫，天地間的大雨變得奇怪起來。",
+      "translated_vi": "Cùng với tiếng kêu quái dị như bò rống của mỹ nữ xà, cơn mưa lớn giữa đất trời bỗng nhiên trở nên vô cùng kỳ lạ."
+    },
+    {
+      "para_id": "c0165p0003",
+      "index": 3,
+      "raw_zh": "就好像那面翻浪的湖泊有吸力般，密集的雨滴打著旋的向著湖面集中，看起來就像是湖面上刮起了蠕動的龍卷風。",
+      "translated_vi": "Cứ như thể mặt hồ đang cuộn sóng dữ dội kia sở hữu một lực hút vô hình, từng hạt mưa dày đặc xoay tít thành vòng xoáy rồi tập trung đổ dồn về phía lòng hồ, nom chẳng khác nào một cơn lốc xoáy khổng lồ đang oằn mình uốn lượn trên mặt nước."
+    },
+    {
+      "para_id": "c0165p0004",
+      "index": 4,
+      "raw_zh": "皮開肉綻的美女蛇也好，那些綠麟皮的怪物也罷，都被那旋轉的怪力吸附進漩渦，身不由己的跟著旋轉，速度越來越快。",
+      "translated_vi": "Bất kể là mỹ nữ xà thịt nát da tróc hay đám quái vật mang lớp da vảy xanh lá, tất cả đều bị thứ quái lực xoay tròn kia hút chặt vào giữa vòng xoáy, thân thể bất giác cuốn theo cơn lốc cuồn cuộn với tốc độ mỗi lúc một kinh hoàng."
+    },
+    {
+      "para_id": "c0165p0005",
+      "index": 5,
+      "raw_zh": "剛才湖邊澆得人睜不開眼睛的大雨，被這一吸，竟然變得渺茫茫如煙雨。",
+      "translated_vi": "Trận mưa xối xả ban nãy từng khiến người ta xót mắt không mở nổi mi, giờ đây bị sức hút ấy gom lại thì quanh bờ hồ bỗng chỉ còn lại màn mưa bụi mịt mờ như khói sương giăng mắc."
+    },
+    {
+      "para_id": "c0165p0006",
+      "index": 6,
+      "raw_zh": "羅琳娜怕被雷劈，急忙在樹上跳下來，摔了個腚墩。",
+      "translated_vi": "Lorina sợ bị sét đánh trúng, liền vội vã từ trên chạc cây nhảy tót xuống, mông nện thẳng xuống đất một cú ê ẩm."
+    },
+    {
+      "para_id": "c0165p0007",
+      "index": 7,
+      "raw_zh": "好在她減震足夠厚實，倒是沒受什麽傷。",
+      "translated_vi": "May sao cặp mông của cô nàng có độ giảm xóc vô cùng đẫy đà, nên rốt cuộc chẳng hề hấn thương tích gì."
+    },
+    {
+      "para_id": "c0165p0008",
+      "index": 8,
+      "raw_zh": "一溜小跑來到雲千峰身邊，見到雲千峰正在手拽茅草，速扎成物。",
+      "translated_vi": "Cô nàng lật đật chạy lon ton tới bên cạnh Vân Thiên Phong, thấy anh đang nhanh tay vơ lấy đám cỏ tranh ven bờ, thoăn thoắt bện chúng thành từng hình thù kỳ dị."
+    },
+    {
+      "para_id": "c0165p0009",
+      "index": 9,
+      "raw_zh": "一物似雞冠，一物似鴨頭，還一物如魚帶尾。",
+      "translated_vi": "Một vật nom tựa mào gà, một vật tựa đầu vịt, còn một vật lại tựa như con cá uốn đuôi."
+    },
+    {
+      "para_id": "c0165p0010",
+      "index": 10,
+      "raw_zh": "正合小三牲禮。",
+      "translated_vi": "Vừa vặn tương ứng với đại lễ tiểu tam sinh."
+    },
+    {
+      "para_id": "c0165p0011",
+      "index": 11,
+      "raw_zh": "雲千峰手速很快，不求精益，只求神似。",
+      "translated_vi": "Tay Vân Thiên Phong thoăn thoắt như múa, không màng cầu kỳ chi tiết, cốt sao đạt được cái thần thái cốt cách của vật phẩm."
+    },
+    {
+      "para_id": "c0165p0012",
+      "index": 12,
+      "raw_zh": "弄好小三牲，雲千峰屈身用手把湖沙攢起成平頂金字塔形的方台，將三個茅草編造的小三牲放在上面。",
+      "translated_vi": "Bện xong lễ vật tiểu tam sinh, Vân Thiên Phong khom người dùng tay vun cát ven hồ đắp thành một phương đài hình kim tự tháp đỉnh bằng phẳng, rồi cẩn trọng đặt ba món đồ cỏ tranh lên trên đài tế."
+    },
+    {
+      "para_id": "c0165p0013",
+      "index": 13,
+      "raw_zh": "羅琳娜現在是心裡又害怕又好奇。",
+      "translated_vi": "Lúc này trong lòng Lorina vừa khiếp sợ lại vừa hiếu kỳ tột bậc."
+    },
+    {
+      "para_id": "c0165p0014",
+      "index": 14,
+      "raw_zh": "怕的是這天威和湖中的亂戰。",
+      "translated_vi": "Khiếp sợ trước uy lực thịnh nộ của trời đất và cuộc hỗn chiến kinh thiên động địa giữa lòng hồ."
+    },
+    {
+      "para_id": "c0165p0015",
+      "index": 15,
+      "raw_zh": "好奇的是雲千峰在乾嗎。",
+      "translated_vi": "Lại hiếu kỳ không hiểu rốt cuộc Vân Thiên Phong đang làm trò gì."
+    },
+    {
+      "para_id": "c0165p0016",
+      "index": 16,
+      "raw_zh": "“親愛的，你在幹嘛？”",
+      "translated_vi": "“Anh yêu, anh đang làm gì thế?”"
+    },
+    {
+      "para_id": "c0165p0017",
+      "index": 17,
+      "raw_zh": "之前雲千峰表露心意，羅琳娜的稱呼立馬就變了。",
+      "translated_vi": "Trước đó Vân Thiên Phong vừa mới bộc bạch nỗi lòng, cách xưng hô của Lorina liền lập tức đổi giọng ngọt xớt ngay tắp lự."
+    },
+    {
+      "para_id": "c0165p0018",
+      "index": 18,
+      "raw_zh": "雲千峰拍了羅琳娜的大腿一下，說道：",
+      "translated_vi": "Vân Thiên Phong vỗ nhẹ lên bắp đùi Lorina một cái, dặn dò:"
+    },
+    {
+      "para_id": "c0165p0019",
+      "index": 19,
+      "raw_zh": "“跪下，什麽都別問，等下我喊什麽你就跟著喊什麽，千萬別說錯了。”",
+      "translated_vi": "“Quỳ xuống mau, chớ có hỏi gì hết! Lát nữa tôi hô khẩu quyết gì thì cô cứ răm rắp hô theo nấy, ngàn vạn lần không được đọc sai đâu đấy!”"
+    },
+    {
+      "para_id": "c0165p0020",
+      "index": 20,
+      "raw_zh": "羅琳娜急忙聽話的跪在雲千峰身後側面，表情嚴肅且緊張。",
+      "translated_vi": "Lorina vội vàng ngoan ngoãn quỳ nép một bên phía sau lưng Vân Thiên Phong, nét mặt vô cùng trang nghiêm xen lẫn căng thẳng cực độ."
+    },
+    {
+      "para_id": "c0165p0021",
+      "index": 21,
+      "raw_zh": "就見雲千峰以雨水淨手，仰頭用嘴接雨水漱口，用雙手大拇指掐住中指中節，呈青龍訣，隨後高聲仰天呼喊：",
+      "translated_vi": "Chỉ thấy Vân Thiên Phong hứng nước mưa rửa sạch hai tay, ngửa đầu há miệng đón nước mưa súc sạch miệng, dùng hai ngón tay cái bấm chặt vào lóng giữa ngón tay giữa kết thành Thanh Long Quyết, đoạn ngửa mặt lên trời cất cao giọng xướng lớn:"
+    },
+    {
+      "para_id": "c0165p0022",
+      "index": 22,
+      "raw_zh": "“百年千年，飛升成仙！”",
+      "translated_vi": "“Trăm năm nghìn năm, phi thăng thành tiên!”"
+    },
+    {
+      "para_id": "c0165p0023",
+      "index": 23,
+      "raw_zh": "羅琳娜在其後，跟著高聲複誦。",
+      "translated_vi": "Lorina quỳ phía sau, cũng cất giọng sang sảng đọc theo."
+    },
+    {
+      "para_id": "c0165p0024",
+      "index": 24,
+      "raw_zh": "“百年千年，飛升成仙！”",
+      "translated_vi": "“Trăm năm nghìn năm, phi thăng thành tiên!”"
+    },
+    {
+      "para_id": "c0165p0025",
+      "index": 25,
+      "raw_zh": "“四海五谷豐，風雷終成龍！”",
+      "translated_vi": "“Bốn biển ngũ cốc phong, mưa gió ắt hóa rồng!”"
+    },
+    {
+      "para_id": "c0165p0026",
+      "index": 26,
+      "raw_zh": "“.”",
+      "translated_vi": "“Bốn biển ngũ cốc phong, mưa gió ắt hóa rồng!”"
+    },
+    {
+      "para_id": "c0165p0027",
+      "index": 27,
+      "raw_zh": "說來也怪，剛才那匹練似的雷電，好像刮刀一樣斬在美女蛇身上，次次帶起焦黑，而隨著雲千峰走蛟訣呼喊而出，那雷電仿佛變成了子鼠，劈到美女蛇身上，不再起來焦煙，而是鑽進它那巨大的身軀。",
+      "translated_vi": "Nói ra cũng thật kỳ lạ, những tia sét lóa mắt tựa dải lụa bạc ban nãy cứ như lưỡi dao cạo chém phầm phập vào thân thể mỹ nữ xà, nhát nào nhát nấy đều để lại những vết cháy đen khét lẹt; thế nhưng theo từng câu khẩu quyết Tẩu Giao được Vân Thiên Phong dõng dạc hô vang, sấm sét giáng xuống dường như lại biến thành những con chuột nhỏ lanh lẹ luồn lách. Khi đánh trúng vào mình mỹ nữ xà, chúng không còn bốc lên khói khét cháy da nữa, mà lại chui tọt thẳng vào sâu trong cơ thể hộ pháp của nó."
+    },
+    {
+      "para_id": "c0165p0028",
+      "index": 28,
+      "raw_zh": "若不是親眼所見，雲千峰自己都無法相信，這世間還有這樣的奇異，這樣讓人無解的規則。",
+      "translated_vi": "Nếu không phải tận mắt chứng kiến, chính bản thân Vân Thiên Phong cũng chẳng thể nào tin nổi trên cõi đời này lại tồn tại điều kỳ dị khó tin cùng quy tắc huyền bí khôn xiết nhường này."
+    },
+    {
+      "para_id": "c0165p0029",
+      "index": 29,
+      "raw_zh": "人在這天地間渺小如塵埃，命賤如草芥。",
+      "translated_vi": "Con người giữa chốn càn khôn này nhỏ bé tựa bụi trần, mạng mỏng manh như cỏ rác."
+    },
+    {
+      "para_id": "c0165p0030",
+      "index": 30,
+      "raw_zh": "那巫族製造出來的美女蛇明明更強，命長難估其劫。",
+      "translated_vi": "Con mỹ nữ xà do Vu tộc tạo tác ra rõ ràng mạnh mẽ phi phàm hơn gấp bội, tuổi thọ dài lâu khôn lường trải qua biết bao kiếp nạn."
+    },
+    {
+      "para_id": "c0165p0031",
+      "index": 31,
+      "raw_zh": "但它要與雷電交擊，逆天而上，卻需要小小人類的一句口封。",
+      "translated_vi": "Thế nhưng khi nó muốn chống chọi với sấm sét cuồng bạo, nghịch thiên thăng hoa, thì lại bắt buộc phải cần tới một lời phong tặng của một con người bé nhỏ!"
+    },
+    {
+      "para_id": "c0165p0032",
+      "index": 32,
+      "raw_zh": "這就好像電腦寫好的程序，天地便根據這程序運行，不問理由，只有規則。",
+      "translated_vi": "Điều này hệt như những dòng code đã được lập trình sẵn trong máy tính, đất trời cứ chiếu theo quy trình vận hành đó mà thực thi, không màng lý do, chỉ tuân theo quy tắc tuyệt đối."
+    },
+    {
+      "para_id": "c0165p0033",
+      "index": 33,
+      "raw_zh": "看著那美女蛇越飛越高，逆著旋轉的龍吸水向上攀遊，在它身旁身下，那些綠皮怪物在水和電的作用下，身上全都焦黑一片，有死無活。",
+      "translated_vi": "Chứng kiến cảnh con mỹ nữ xà mỗi lúc một bay lên cao, bơi ngược theo vòi rồng hút nước cuồn cuộn leo thẳng lên trời cao; ở xung quanh và bên dưới nó, đám quái vật vảy xanh dưới tác động khủng khiếp của dòng nước xoáy và luồng điện cực mạnh đều bị cháy đen thui rụi toàn thân, chết không còn một mống."
+    },
+    {
+      "para_id": "c0165p0034",
+      "index": 34,
+      "raw_zh": "再強的鱗片，也擋不住雷電燒焦內髒。",
+      "translated_vi": "Lớp vảy giáp dẫu kiên cố đến đâu cũng chẳng thể ngăn nổi uy lực sấm sét thiêu rụi lục phủ ngũ tạng bên trong."
+    },
+    {
+      "para_id": "c0165p0035",
+      "index": 35,
+      "raw_zh": "雲千峰感恩美女蛇龍吟走蛟，以必死的劫來救自己，心下緊張的看著越遊越高的美女蛇。",
+      "translated_vi": "Vân Thiên Phong trong lòng tràn ngập lòng biết ơn đối với con mỹ nữ xà đã cất tiếng long ngâm tẩu giao, lấy chính kiếp nạn cửu tử nhất sinh của mình để giải vây cứu mạng hai người. Anh căng thẳng dõi mắt nhìn theo bóng dáng mỹ nữ xà đang bơi lượn vút lên tầng mây."
+    },
+    {
+      "para_id": "c0165p0036",
+      "index": 36,
+      "raw_zh": "此刻那蛇身已經破爛見骨，似乎隨時都會散架。",
+      "translated_vi": "Lúc này thân hình rắn khổng lồ của nó đã rách toác sâu thấy tận xương trắng, ngỡ như có thể tan tác vỡ vụn bất cứ lúc nào."
+    },
+    {
+      "para_id": "c0165p0037",
+      "index": 37,
+      "raw_zh": "“哞！”",
+      "translated_vi": "“Ụm...!”"
+    },
+    {
+      "para_id": "c0165p0038",
+      "index": 38,
+      "raw_zh": "又是一聲如牛的龍吟。",
+      "translated_vi": "Lại thêm một tiếng long ngâm trầm đục như tiếng trâu rống vang dội khắp bốn bề."
+    },
+    {
+      "para_id": "c0165p0039",
+      "index": 39,
+      "raw_zh": "美女蛇已經沒入漆黑的雲霧看不見蹤影，隻聞得這一聲。",
+      "translated_vi": "Mỹ nữ xà đã lặn ngập vào giữa làn mây mù tối đen như mực, chẳng còn thấy bóng dáng đâu nữa, chỉ còn sót lại tiếng gầm vang vọng hư không."
+    },
+    {
+      "para_id": "c0165p0040",
+      "index": 40,
+      "raw_zh": "隨後，風停雨弱，天地間揮揮灑灑，只有輕雨襲草的沙沙聲響。",
+      "translated_vi": "Liền sau đó, cuồng phong lắng xuống, mưa giông ngớt hạt. Giữa đất trời mông lung chỉ còn lại tiếng mưa bụi rơi rả rích xào xạc trên đám cỏ dại ven hồ."
+    },
+    {
+      "para_id": "c0165p0041",
+      "index": 41,
+      "raw_zh": "雲千峰不知道美女蛇去了哪裡，是飛到了雲霧之中，還是掉了下來，因為那閃電和黑色的天幕，讓他沒辦法看到最終。",
+      "translated_vi": "Vân Thiên Phong chẳng thể biết được mỹ nữ xà rốt cuộc đã trôi dạt về nơi nao, là đã bay vút vào tầng mây mù sâu thẳm, hay là đã rơi rụng xuống đất; bởi lẽ lằn chớp giật cùng bức màn trời đen kịt đã che khuất tầm mắt, khiến anh không cách nào chứng kiến được kết cục cuối cùng."
+    },
+    {
+      "para_id": "c0165p0042",
+      "index": 42,
+      "raw_zh": "羅琳娜站在雲千峰身畔，也仰頭看著半天空，好一會才問道：",
+      "translated_vi": "Lorina đứng sát bên cạnh Vân Thiên Phong, cũng ngửa cổ ngước nhìn lên vòm không trung vời vợi, một hồi lâu sau mới khẽ hỏi:"
+    },
+    {
+      "para_id": "c0165p0043",
+      "index": 43,
+      "raw_zh": "“剛才到底是怎麽回事？”",
+      "translated_vi": "“Ban nãy rốt cuộc là chuyện gì xảy ra vậy anh?”"
+    },
+    {
+      "para_id": "c0165p0044",
+      "index": 44,
+      "raw_zh": "雲千峰輕聲道：",
+      "translated_vi": "Vân Thiên Phong trầm giọng đáp:"
+    },
+    {
+      "para_id": "c0165p0045",
+      "index": 45,
+      "raw_zh": "“走蛟！在華夏的民間傳說裡，蛇五百年成蛟，千年浴雷則成龍，那美女蛇怕是萬年了，等到今天才想著走。”",
+      "translated_vi": "“Tẩu giao đấy! Trong truyền thuyết dân gian của Trung Hoa, rắn tu luyện năm trăm năm thì hóa giao, ngàn năm tắm mình trong lôi kiếp thì hóa rồng. Con mỹ nữ xà kia e rằng đã sống cả vạn năm rồi, mãi tới hôm nay mới quyết định tẩu giao vượt kiếp.”"
+    },
+    {
+      "para_id": "c0165p0046",
+      "index": 46,
+      "raw_zh": "羅琳娜沒聽過這個傳說，這裡不是她的民間，但不妨礙她好奇：",
+      "translated_vi": "Lorina chưa từng nghe qua truyền thuyết này, nơi đây vốn dĩ chẳng phải cội nguồn văn hóa của cô, song điều đó chẳng hề ngăn cản được nỗi hiếu kỳ trong lòng:"
+    },
+    {
+      "para_id": "c0165p0047",
+      "index": 47,
+      "raw_zh": "“你們華夏的龍很不科學，沒有翅膀卻能飛，是不是都是被這種風卷起來的？”",
+      "translated_vi": "“Rồng của Trung Hoa các anh thật chẳng khoa học chút nào, không có cánh mà lại biết bay, chẳng lẽ toàn bộ đều do bị những luồng cuồng phong xoáy tròn thế này cuốn lên trời sao?”"
+    },
+    {
+      "para_id": "c0165p0048",
+      "index": 48,
+      "raw_zh": "雲千峰看了一眼羅琳娜，笑道：",
+      "translated_vi": "Vân Thiên Phong liếc nhìn Lorina một cái, mỉm cười trêu:"
+    },
+    {
+      "para_id": "c0165p0049",
+      "index": 49,
+      "raw_zh": "“那風停了，伱見到美女蛇掉下來了嗎？”",
+      "translated_vi": "“Thế giờ gió lặng rồi, cô có thấy con mỹ nữ xà rơi xuống đất không?”"
+    },
+    {
+      "para_id": "c0165p0050",
+      "index": 50,
+      "raw_zh": "羅琳娜搖頭，道：",
+      "translated_vi": "Lorina lắc đầu đáp:"
+    },
+    {
+      "para_id": "c0165p0051",
+      "index": 51,
+      "raw_zh": "“沒有，可能是被刮遠了我們沒看見？否則怎麽可能飛？”",
+      "translated_vi": "“Không thấy, có thể là bị gió thổi bạt đi xa tít tắp nên chúng ta không nhìn thấy chăng? Chứ nếu không thì sao nó bay lượn được cơ chứ?”"
+    },
+    {
+      "para_id": "c0165p0052",
+      "index": 52,
+      "raw_zh": "雲千峰思索道：",
+      "translated_vi": "Vân Thiên Phong trầm ngâm giải thích:"
+    },
+    {
+      "para_id": "c0165p0053",
+      "index": 53,
+      "raw_zh": "“龍呢，在我們華夏是披雷吐火的神獸，祂們住在江河湖海，全是水，而水是什麽組成的？電解水後會生出什麽？”",
+      "translated_vi": "“Loài rồng ấy mà, ở Trung Hoa chúng tôi là thần thú khoác sấm nhả lửa, ngự trị nơi sông sâu biển thẳm đầy nước. Mà nước cấu tạo từ chất gì? Điện phân nước thì sinh ra chất gì nào?”"
+    },
+    {
+      "para_id": "c0165p0054",
+      "index": 54,
+      "raw_zh": "羅琳娜恍然大悟，道：",
+      "translated_vi": "Lorina bỗng vỡ lẽ, thốt lên:"
+    },
+    {
+      "para_id": "c0165p0055",
+      "index": 55,
+      "raw_zh": "“哦，你們華夏的龍是吞了一肚子水，然後利用體內的強電，把水分解成氧氣和氫氣，把自己變成一個氫氣球？”",
+      "translated_vi": "“Ồ! Có phải rồng của Trung Hoa nuốt no một bụng nước, sau đó vận dụng luồng điện cực mạnh trong cơ thể để phân tách nước thành khí oxy và khí hydro, tự biến bản thân thành một quả bóng bay khí hydro không?”"
+    },
+    {
+      "para_id": "c0165p0056",
+      "index": 56,
+      "raw_zh": "雲千峰打了個響指，笑道：",
+      "translated_vi": "Vân Thiên Phong búng ngón tay cái tách, bật cười bảo:"
+    },
+    {
+      "para_id": "c0165p0057",
+      "index": 57,
+      "raw_zh": "“大概是如此的！”",
+      "translated_vi": "“Đại khái là vậy đấy!”"
+    },
+    {
+      "para_id": "c0165p0058",
+      "index": 58,
+      "raw_zh": "羅琳娜看雲千峰不是好笑，就橫了雲千峰一眼，嘟囔道：",
+      "translated_vi": "Lorina thấy vẻ cười cợt của Vân Thiên Phong chẳng có ý tốt, liền lườm xéo anh một cái, bĩu môi lầm bầm:"
+    },
+    {
+      "para_id": "c0165p0059",
+      "index": 59,
+      "raw_zh": "“你就騙我玩吧！”",
+      "translated_vi": "“Anh chỉ khéo bịa chuyện trêu tôi thôi!”"
+    },
+    {
+      "para_id": "c0165p0060",
+      "index": 60,
+      "raw_zh": "說著，看雲千峰面對著湖面發呆，就問道：",
+      "translated_vi": "Nói đoạn, thấy Vân Thiên Phong đang quay mặt về phía mặt hồ ngẩn ngơ xuất thần, cô liền hỏi:"
+    },
+    {
+      "para_id": "c0165p0061",
+      "index": 61,
+      "raw_zh": "“想什麽呢？”",
+      "translated_vi": "“Anh đang suy nghĩ gì thế?”"
+    },
+    {
+      "para_id": "c0165p0062",
+      "index": 62,
+      "raw_zh": "雲千峰疑惑道：",
+      "translated_vi": "Vân Thiên Phong cất giọng đầy vẻ hoài nghi trăn trở:"
+    },
+    {
+      "para_id": "c0165p0063",
+      "index": 63,
+      "raw_zh": "“羅琳娜，你說為什麽鯉魚要躍龍門？鱒魚為什麽要不停的逆流向著高處遊？湖海裡的蚌要張開自己的甲殼對著上天？你說高空裡到底有什麽吸引著它們？以至於它們不惜冒險這樣去做？”",
+      "translated_vi": "“Lorina này, cô bảo vì sao cá chép lại cứ phải vượt long môn? Vì sao cá hồi vân lại không ngừng bơi ngược dòng thác hướng lên chốn cao vời? Vì sao loài trai ngao dưới sông biển lại thích mở toang lớp vỏ cứng ngửa mặt nhìn lên vòm trời? Cô nói xem trên khoảng trời cao thẳm kia rốt cuộc có thứ gì thu hút chúng, đến mức khiến chúng chẳng tiếc mạng sống mạo hiểm làm như vậy?”"
+    },
+    {
+      "para_id": "c0165p0064",
+      "index": 64,
+      "raw_zh": "對於鯉魚、鱒魚和老蚌來說，這樣的行為都是極其危險的，尤其是珍珠蚌。",
+      "translated_vi": "Đối với cá chép, cá hồi vân và loài trai già, hành vi ấy đều cực kỳ nguy hiểm đến tính mạng, nhất là loài trai ngọc."
+    },
+    {
+      "para_id": "c0165p0065",
+      "index": 65,
+      "raw_zh": "羅琳娜沉吟，道：",
+      "translated_vi": "Lorina ngẫm nghĩ một lát rồi đáp:"
+    },
+    {
+      "para_id": "c0165p0066",
+      "index": 66,
+      "raw_zh": "“生物學者說那是動物基因記憶帶來的習性，也有說是因為環境，總之沒有完全的結論。”",
+      "translated_vi": "“Các nhà sinh vật học cho rằng đó là tập tính bắt nguồn từ ký ức di truyền trong nguồn gen của loài vật, cũng có người giải thích là do hoàn cảnh môi trường tác động, tóm lại chưa có một kết luận nào hoàn toàn ngã ngũ cả.”"
+    },
+    {
+      "para_id": "c0165p0067",
+      "index": 67,
+      "raw_zh": "雲千峰又道：",
+      "translated_vi": "Vân Thiên Phong lại hỏi dồn:"
+    },
+    {
+      "para_id": "c0165p0068",
+      "index": 68,
+      "raw_zh": "“那為什麽它們的基因裡會有這樣的記憶？”",
+      "translated_vi": "“Thế thì vì cớ gì trong nguồn gen của chúng lại lưu giữ ký ức kỳ lạ như thế?”"
+    },
+    {
+      "para_id": "c0165p0069",
+      "index": 69,
+      "raw_zh": "羅琳娜緩緩搖頭，她真的不知道，連猜測都沒有。",
+      "translated_vi": "Lorina chậm rãi lắc đầu, cô thực sự chẳng thể biết nổi, đến cả phán đoán cũng không có manh mối."
+    },
+    {
+      "para_id": "c0165p0070",
+      "index": 70,
+      "raw_zh": "雲千峰回頭問道：",
+      "translated_vi": "Vân Thiên Phong quay đầu nhìn sang cô, hỏi tiếp:"
+    },
+    {
+      "para_id": "c0165p0071",
+      "index": 71,
+      "raw_zh": "“還記得剛才那綠麟怪物剛出現的時候，我好像看到了原始時空的光景，你看到了嗎？”",
+      "translated_vi": "“Cô còn nhớ ban nãy lúc con quái vật vảy xanh vừa xuất hiện không, tôi dường như đã nhìn thấy quang cảnh của thời không nguyên thủy xa xưa, cô có nhìn thấy cảnh tượng đó không?”"
+    },
+    {
+      "para_id": "c0165p0072",
+      "index": 72,
+      "raw_zh": "羅琳娜忙點頭，道：",
+      "translated_vi": "Lorina vội vàng gật đầu lia lịa:"
+    },
+    {
+      "para_id": "c0165p0073",
+      "index": 73,
+      "raw_zh": "“看到了，應該是那種生物體內能夠分泌含有記憶的分泌物，我們聞到了，在腦海裡形成了影像，這樣的生物很多，但大部分都是蜥蜴和蛇才這種冷血動物，才有這種記憶腺體的分泌物。”",
+      "translated_vi": "“Có thấy chứ! Chắc hẳn là do trong cơ thể loài sinh vật kia có thể tiết ra chất dịch mang theo ký ức, chúng ta hít phải nên trong tâm trí mới hình thành nên ảo ảnh. Loài sinh vật như vậy vốn không ít, nhưng phần lớn đều là bò sát máu lạnh như thằn lằn và rắn mới sở hữu tuyến dịch mang ký ức như thế.”"
+    },
+    {
+      "para_id": "c0165p0074",
+      "index": 74,
+      "raw_zh": "雲千峰不在意什麽動物有這種分泌物，他在意的是：",
+      "translated_vi": "Vân Thiên Phong chẳng bận tâm tới việc loài động vật nào sở hữu tuyến dịch bài tiết ấy, điều anh thực sự để tâm chính là:"
+    },
+    {
+      "para_id": "c0165p0075",
+      "index": 75,
+      "raw_zh": "“羅琳娜，那你看到天空上的湖水了嗎？”",
+      "translated_vi": "“Lorina, thế cô có nhìn thấy biển hồ trên bầu trời không?”"
+    },
+    {
+      "para_id": "c0165p0076",
+      "index": 76,
+      "raw_zh": "羅琳娜一愣，閉目回憶片刻，然後驚訝，道：",
+      "translated_vi": "Lorina ngẩn người, nhắm mắt hồi tưởng lại giây lát, rồi giật mình kinh ngạc thốt lên:"
+    },
+    {
+      "para_id": "c0165p0077",
+      "index": 77,
+      "raw_zh": "“看到了，你這一說我才想起來，當時覺得情景很古怪，原來就是怪在這裡！奇怪啊，動物帶有記憶的分泌物，展現的是它們所見的一切，一定是真實的，天空怎麽會有湖水？",
+      "translated_vi": "“Thấy rồi! Anh vừa nhắc tôi mới nhớ ra, lúc ấy tôi đã cảm thấy khung cảnh quá đỗi kỳ quặc, hóa ra điều kỳ dị chính là nằm ở chỗ này! Lạ thật đấy, dịch tiết mang ký ức của loài vật tái hiện lại tất cả những gì mắt chúng từng chứng kiến, chắc chắn phải là chuyện có thực! Vậy cớ sao trên bầu trời lại có biển hồ được chứ?"
+    },
+    {
+      "para_id": "c0165p0078",
+      "index": 78,
+      "raw_zh": "會不會是因為這些綠麟怪物生活在水底.不對，它們追趕的是原始的人類，人類不是生活在水下，這到底是怎麽回事？不是地球嗎？”",
+      "translated_vi": "Chẳng lẽ là vì lũ quái vật vảy xanh này vốn sinh sống dưới đáy nước... Khoan đã, không đúng! Chúng rõ ràng đang đuổi giết loài người nguyên thủy, mà con người đâu có sống dưới đáy nước được! Rốt cuộc đây là chuyện quái quỷ gì vậy? Chẳng lẽ nơi đó không phải là Trái Đất sao?”"
+    },
+    {
+      "para_id": "c0165p0079",
+      "index": 79,
+      "raw_zh": "雲千峰似乎想起了什麽，拽起羅琳娜的手，來到了裝置巫神軀乾的玉石箱子旁邊，指著箱蓋上的雕紋，道：",
+      "translated_vi": "Vân Thiên Phong dường như sực nhớ ra điều gì, anh liền kéo tay Lorina đi tới bên cạnh chiếc rương ngọc đựng phần thân mình Vu Thần, chỉ tay vào những đường nét điêu khắc trên nắp rương mà bảo:"
+    },
+    {
+      "para_id": "c0165p0080",
+      "index": 80,
+      "raw_zh": "“鯉魚躍龍門也好，鱒魚逆行也罷，甚至是走蛟升天，會不會都是因為世界原本是這個樣子的？”",
+      "translated_vi": "“Cá chép vượt long môn cũng vậy, cá hồi ngược thác cũng thế, thậm chí cả chuyện tẩu giao thăng thiên... liệu có phải tất cả đều bắt nguồn từ việc thế giới thuở sơ khai vốn dĩ chính là mang hình hài như thế này?”"
+    },
+    {
+      "para_id": "c0165p0081",
+      "index": 81,
+      "raw_zh": "羅琳娜看著那玉石上的雕紋，聯想到雲千峰說的話，臉上全都是難以置信的驚訝。",
+      "translated_vi": "Lorina chăm chú nhìn đồ án điêu khắc trên mặt đá ngọc, liên hệ tới những lời Vân Thiên Phong vừa phân tích, trên gương mặt cô ngập tràn nỗi kinh ngạc khó tin đến tột cùng."
+    },
+    {
+      "para_id": "c0165p0082",
+      "index": 82,
+      "raw_zh": "“這這怎麽可能？”",
+      "translated_vi": "“Chuyện... chuyện này làm sao có thể chứ?”"
+    },
+    {
+      "para_id": "c0165p0083",
+      "index": 83,
+      "raw_zh": "大家晚安，我今天也早睡！！！好夢！！！",
+      "translated_vi": "Chúc mọi người ngủ ngon, hôm nay tôi cũng đi ngủ sớm đây!!! Chúc mộng đẹp!!!"
+    }
+  ]
+}

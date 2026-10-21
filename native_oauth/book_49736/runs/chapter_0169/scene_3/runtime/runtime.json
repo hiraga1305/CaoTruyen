@@ -1,0 +1,32 @@
+{
+  "authentication": "cached_account; GEMINI_API_KEY unset",
+  "requested_model": "gemini-3.8-flash-high",
+  "agent": null,
+  "exit_code": 0,
+  "workspace": "D:\\AI\\Antigravity\\CaoTruyen",
+  "duration_seconds": 25.54,
+  "status": "SUCCESS",
+  "conversation_id": "8cb8e1d9-d1eb-40bf-80af-30423245e3aa",
+  "usage": {
+    "input_tokens": 15154,
+    "output_tokens": 2797,
+    "thinking_tokens": 2690,
+    "cache_read_tokens": 0,
+    "total_tokens": 17951
+  },
+  "result": {
+    "conversation_id": "8cb8e1d9-d1eb-40bf-80af-30423245e3aa",
+    "status": "SUCCESS",
+    "response": "§1 Nhìn mấy người Hoa Hạ tóc đen mắt đen ngồi trong khoang máy bay, Vân Thiên Phong thở phào nhẹ nhõm một hơi dài. Hắn mỉm cười ngắm nhìn mây mù ngoài cửa sổ, trong lòng cất tiếng reo vang:\n§2 “Hoa Hạ, tôi đã trở về rồi!”\n§3 Chúc mọi người kỳ nghỉ lễ vui vẻ!!!\n§4 Chơi thật vui, nghỉ ngơi thật tốt nhé!!!\n§5 Chúc ngủ ngon!!!\n",
+    "duration_seconds": 22.0670378,
+    "num_turns": 1,
+    "usage": {
+      "input_tokens": 15154,
+      "output_tokens": 2797,
+      "thinking_tokens": 2690,
+      "cache_read_tokens": 0,
+      "total_tokens": 17951
+    }
+  },
+  "event_count": 19
+}

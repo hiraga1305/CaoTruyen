@@ -1,0 +1,620 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 294,
+  "title": "Chương 294: Đây rốt cuộc là mê cục gì?",
+  "total_paragraphs": 101,
+  "translated_paragraphs": 101,
+  "source_hash": "9bddbecb11954527c65893d99b73ecda8598adab759748b1ebfeef8433abcb3b",
+  "model_used": "gemini-3.8-flash-high",
+  "elapsed_seconds": 139.29,
+  "bilingual_alignment": [
+    {
+      "para_id": "c0294p0001",
+      "index": 1,
+      "raw_zh": "294.第294章 這是什麽迷局？",
+      "translated_vi": "Chương 294: Đây rốt cuộc là mê cục gì?"
+    },
+    {
+      "para_id": "c0294p0002",
+      "index": 2,
+      "raw_zh": "第294章 這是什麽迷局？",
+      "translated_vi": "Chương 294: Đây rốt cuộc là mê cục gì?"
+    },
+    {
+      "para_id": "c0294p0003",
+      "index": 3,
+      "raw_zh": "薑柔甲發誓，這是她打噴嚏最多的一天。",
+      "translated_vi": "Khương Nhu Giáp thề rằng, đây là ngày cô hắt hơi nhiều nhất trong đời."
+    },
+    {
+      "para_id": "c0294p0004",
+      "index": 4,
+      "raw_zh": "羅琳娜的私人島嶼上。",
+      "translated_vi": "Trên hòn đảo tư nhân của Lorinna."
+    },
+    {
+      "para_id": "c0294p0005",
+      "index": 5,
+      "raw_zh": "一艘沒有任何機械的精致木船內。",
+      "translated_vi": "Bên trong một con thuyền gỗ tinh xảo, tuyệt nhiên không gắn bất kỳ thiết bị cơ giới nào."
+    },
+    {
+      "para_id": "c0294p0006",
+      "index": 6,
+      "raw_zh": "白狐和羅琳娜坐在船艙之中。",
+      "translated_vi": "Bạch Hồ và Lorinna đang ngồi đối diện nhau trong khoang thuyền."
+    },
+    {
+      "para_id": "c0294p0007",
+      "index": 7,
+      "raw_zh": "“瑪肆科是在哪裡得到的消息？”",
+      "translated_vi": "\"Musk lấy được tin tức từ đâu?\""
+    },
+    {
+      "para_id": "c0294p0008",
+      "index": 8,
+      "raw_zh": "白狐聽羅琳娜問，回道：",
+      "translated_vi": "Nghe Lorinna hỏi, Bạch Hồ liền đáp:"
+    },
+    {
+      "para_id": "c0294p0009",
+      "index": 9,
+      "raw_zh": "“很確定，是THE ONE那裡的密探傳出來的。”",
+      "translated_vi": "\"Rất chắc chắn, là do mật thám bên THE ONE truyền tin ra.\""
+    },
+    {
+      "para_id": "c0294p0010",
+      "index": 10,
+      "raw_zh": "羅琳娜聽到這話後，冷冷一笑道：",
+      "translated_vi": "Nghe xong câu đó, Lorinna cười lạnh một tiếng:"
+    },
+    {
+      "para_id": "c0294p0011",
+      "index": 11,
+      "raw_zh": "“華夏有一句話叫“項莊舞劍，意在沛公”，石匠會那面的密探傳不出來消息，但是THE ONE那裡卻可以，這不是很奇怪嗎？”",
+      "translated_vi": "\"Hoa Hạ có câu 'Hạng Trang múa kiếm, ý tại Bái Công'. Mật thám phía Hội Thợ Đá không cách nào truyền nổi tin tức, nhưng bên THE ONE lại truyền ra được, điều này chẳng phải quá kỳ quặc sao?\""
+    },
+    {
+      "para_id": "c0294p0012",
+      "index": 12,
+      "raw_zh": "白狐顰眉道：",
+      "translated_vi": "Bạch Hồ khẽ nhíu mày:"
+    },
+    {
+      "para_id": "c0294p0013",
+      "index": 13,
+      "raw_zh": "“你的意思是說，九屠醉翁之意不在酒？”",
+      "translated_vi": "\"Ý cô là, Cửu Đồ túy ông chi ý bất tại tửu?\""
+    },
+    {
+      "para_id": "c0294p0014",
+      "index": 14,
+      "raw_zh": "羅琳娜點頭道：",
+      "translated_vi": "Lorinna gật đầu:"
+    },
+    {
+      "para_id": "c0294p0015",
+      "index": 15,
+      "raw_zh": "“沒錯，我們、石匠會，甚至所有人都知道，全知之眼是九屠想要的，蚩尤也是九屠想要控制的，六道盤更不用說。",
+      "translated_vi": "\"Không sai. Chúng ta, Hội Thợ Đá, thậm chí tất cả mọi người đều biết Mắt Toàn Tri là thứ Cửu Đồ thèm muốn, Xi Vưu cũng là đối tượng Cửu Đồ muốn khống chế, bàn xoay sáu luồng lại càng không cần phải nói."
+    },
+    {
+      "para_id": "c0294p0016",
+      "index": 16,
+      "raw_zh": "那麽這些消息怎麽可能如此容易的傳出來，而且是由THE ONE傳出來？",
+      "translated_vi": "Vậy thì những tin tức này sao có thể rò rỉ ra ngoài dễ dàng như thế, đã vậy lại còn phát xuất từ THE ONE?"
+    },
+    {
+      "para_id": "c0294p0017",
+      "index": 17,
+      "raw_zh": "九屠的真正目的絕不是全知之眼和六道盤，甚至不是雲千峰，他們必然有別的圖謀。",
+      "translated_vi": "Mục đích thực sự của Cửu Đồ tuyệt đối không phải Mắt Toàn Tri và bàn xoay sáu luồng, thậm chí còn chẳng phải Vân Thiên Phong. Bọn chúng chắc chắn đang mưu tính một chuyện khác."
+    },
+    {
+      "para_id": "c0294p0018",
+      "index": 18,
+      "raw_zh": "現在的做法，完全就是為了把所有人的目光集中在南山，以此掩人耳目。”",
+      "translated_vi": "Mọi động thái lúc này hoàn toàn chỉ nhằm thu hút toàn bộ ánh mắt đổ dồn về Nam Sơn, mượn cớ đó để che mắt thiên hạ.\""
+    },
+    {
+      "para_id": "c0294p0019",
+      "index": 19,
+      "raw_zh": "白狐緩緩點頭，道：",
+      "translated_vi": "Bạch Hồ chậm rãi gật đầu, nói:"
+    },
+    {
+      "para_id": "c0294p0020",
+      "index": 20,
+      "raw_zh": "“你說得對，定然是這樣的，那咱們現在怎麽辦？”",
+      "translated_vi": "\"Cô nói rất đúng, nhất định là như thế rồi. Vậy giờ chúng ta phải làm sao?\""
+    },
+    {
+      "para_id": "c0294p0021",
+      "index": 21,
+      "raw_zh": "羅琳娜思索道：",
+      "translated_vi": "Lorinna trầm ngâm suy tính:"
+    },
+    {
+      "para_id": "c0294p0022",
+      "index": 22,
+      "raw_zh": "“雲千峰那裡完全不需要擔心，按照姮娥傳來消息，雲千峰連喝我送去的飲料，都會讓楊玉奴先喝一口，然後自己才會喝，那些人算計不到他的。",
+      "translated_vi": "\"Phía Vân Thiên Phong hoàn toàn không cần phải lo lắng. Theo tin Hằng Nga truyền về, Vân Thiên Phong cẩn trọng tới mức ngay cả đồ uống tôi gửi đến cũng bắt Dương Ngọc Nô nếm thử một ngụm trước rồi bản thân mới uống. Đám người kia không cách nào tính kế được hắn đâu."
+    },
+    {
+      "para_id": "c0294p0023",
+      "index": 23,
+      "raw_zh": "所以不用管他，我們把精力集中起來，一定要查出九屠的真正目的，或許那才是最可怕的！”",
+      "translated_vi": "Cho nên không cần bận tâm đến hắn. Chúng ta hãy tập trung toàn bộ tinh lực, nhất định phải tra ra mục đích thực sự của Cửu Đồ. Có khi đó mới chính là thứ đáng sợ nhất!\""
+    },
+    {
+      "para_id": "c0294p0024",
+      "index": 24,
+      "raw_zh": "@@@@@@@@@",
+      "translated_vi": "***"
+    },
+    {
+      "para_id": "c0294p0025",
+      "index": 25,
+      "raw_zh": "各方撓頭算計的時候，雲千峰這裡很愜意，完全不知道各方為了算計他都要頭禿。",
+      "translated_vi": "Trong lúc các phe phái đang vò đầu bứt tai toan tính, thì phía Vân Thiên Phong lại vô cùng thong dong, hoàn toàn không hay biết các thế lực vì mưu tính hại mình mà đến mức sắp hói cả đầu."
+    },
+    {
+      "para_id": "c0294p0026",
+      "index": 26,
+      "raw_zh": "楊玉奴將一塊熟好的牛皮鋪在平地上，就那麽赤著腳，在那臥牛大的地方翩翩起舞。",
+      "translated_vi": "Dương Ngọc Nô trải một tấm da bò đã thuộc xong lên nền đất bằng phẳng, cứ thế để chân trần, uyển chuyển lướt múa trên khoảnh đất chỉ vỏn vẹn bằng con trâu nằm."
+    },
+    {
+      "para_id": "c0294p0027",
+      "index": 27,
+      "raw_zh": "雖然沒有音樂相合，但依舊美不勝收。",
+      "translated_vi": "Dẫu không có nhạc đệm hòa cùng, nhưng vũ điệu ấy vẫn đẹp đến nao lòng."
+    },
+    {
+      "para_id": "c0294p0028",
+      "index": 28,
+      "raw_zh": "楊玉奴是舞蹈大家，身體柔軟，但柔中帶剛。",
+      "translated_vi": "Dương Ngọc Nô vốn là bậc thầy vũ đạo, thân thể mềm mại tựa không xương nhưng trong nhu có cương."
+    },
+    {
+      "para_id": "c0294p0029",
+      "index": 29,
+      "raw_zh": "一身位置剛好的肉肉，也跟隨著舞蹈有韻律的動著。",
+      "translated_vi": "Lớp da thịt đẫy đà nở nang phân bố cực kỳ cân đối cũng nương theo từng nhịp múa mà rung động đầy tiết tấu."
+    },
+    {
+      "para_id": "c0294p0030",
+      "index": 30,
+      "raw_zh": "她忽而踢直了長腿，忽而又一個旋轉，裙擺飛揚。",
+      "translated_vi": "Nàng chợt vung thẳng đôi chân dài miên man, thoáng chốc lại xoay tròn một vòng, vạt váy tung bay phấp phới."
+    },
+    {
+      "para_id": "c0294p0031",
+      "index": 31,
+      "raw_zh": "雲千峰看得眼目不瞬，腦子裡只有一句讚歎：",
+      "translated_vi": "Vân Thiên Phong nhìn đến mức không chớp mắt, trong đầu chỉ còn sót lại đúng một câu tán thán:"
+    },
+    {
+      "para_id": "c0294p0032",
+      "index": 32,
+      "raw_zh": "“啊！沒複製褲子”",
+      "translated_vi": "\"A! Quên nhân bản quần bên trong rồi!\""
+    },
+    {
+      "para_id": "c0294p0033",
+      "index": 33,
+      "raw_zh": "一曲舞罷，雲千峰一個人掌聲如雷。",
+      "translated_vi": "Một điệu múa dứt, một mình Vân Thiên Phong vỗ tay rầm rầm như sấm dậy."
+    },
+    {
+      "para_id": "c0294p0034",
+      "index": 34,
+      "raw_zh": "楊玉奴翩然飄過來，一伸手道：",
+      "translated_vi": "Dương Ngọc Nô nhẹ nhàng lướt tới, chìa tay ra nói:"
+    },
+    {
+      "para_id": "c0294p0035",
+      "index": 35,
+      "raw_zh": "“郎君，可樂！”",
+      "translated_vi": "\"Lang quân, cola!\""
+    },
+    {
+      "para_id": "c0294p0036",
+      "index": 36,
+      "raw_zh": "她現在知道那飲料的名字了。",
+      "translated_vi": "Giờ thì nàng đã biết tên gọi của thứ đồ uống này rồi."
+    },
+    {
+      "para_id": "c0294p0037",
+      "index": 37,
+      "raw_zh": "雲千峰在泉水裡拎出來一罐冰好的，遞到了楊玉奴手裡。",
+      "translated_vi": "Vân Thiên Phong mò từ dưới dòng suối ra một lon đã được ướp lạnh, đưa vào tay Dương Ngọc Nô."
+    },
+    {
+      "para_id": "c0294p0038",
+      "index": 38,
+      "raw_zh": "這熟透的女人立馬笑顏如花。",
+      "translated_vi": "Người đàn bà chín mọng, đằm thắm này lập tức nở nụ cười tươi như hoa."
+    },
+    {
+      "para_id": "c0294p0039",
+      "index": 39,
+      "raw_zh": "那是真真兒的高興，絕無虛假，可見她喜歡甜食到什麽程度。",
+      "translated_vi": "Đó là niềm vui sướng thực sự từ tận đáy lòng, tuyệt đối không chút giả tạo, đủ thấy nàng mê đồ ngọt đến nhường nào."
+    },
+    {
+      "para_id": "c0294p0040",
+      "index": 40,
+      "raw_zh": "楊玉奴一邊美滋滋的喝著可樂，一邊工作，把第三張牛皮撐好熟皮。",
+      "translated_vi": "Dương Ngọc Nô vừa thích chí nhấp từng ngụm cola, vừa bắt tay vào việc, căng tấm da bò thứ ba trong ba tấm ra để nạo thuộc."
+    },
+    {
+      "para_id": "c0294p0041",
+      "index": 41,
+      "raw_zh": "也就不到一個小時之後，這女人用碳和花瓣混合的洗手粉洗乾淨手，又湊到雲千峰身邊，媚笑道：",
+      "translated_vi": "Chưa đầy một tiếng sau, người phụ nữ này dùng bột rửa tay điều chế từ than củi hòa cùng cánh hoa rửa sạch đôi bàn tay, lại sán lại gần bên Vân Thiên Phong, cười duyên dáng:"
+    },
+    {
+      "para_id": "c0294p0042",
+      "index": 42,
+      "raw_zh": "“郎君，太真唱歌也是一絕，我給你唱首歌吧！”",
+      "translated_vi": "\"Lang quân, Thái Chân hát cũng là một tuyệt kỹ đấy, để thiếp hát cho chàng nghe một khúc nhé!\""
+    },
+    {
+      "para_id": "c0294p0043",
+      "index": 43,
+      "raw_zh": "一曲罷了，雲千峰去泉水裡又取出一罐可樂，可以看到泉水裡可樂分三堆放置，分屬不同的背包。",
+      "translated_vi": "Một khúc ca vừa dứt, Vân Thiên Phong lại bước tới dòng suối lấy thêm một lon cola. Có thể thấy cola dưới dòng nước được xếp thành ba đống riêng biệt, lấy ra từ ba chiếc ba lô khác nhau."
+    },
+    {
+      "para_id": "c0294p0044",
+      "index": 44,
+      "raw_zh": "這一次，雲千峰拿了中間那堆的，上一次是左手那堆。",
+      "translated_vi": "Lần này, Vân Thiên Phong lấy từ đống ở giữa, còn lần trước là đống bên tay trái."
+    },
+    {
+      "para_id": "c0294p0045",
+      "index": 45,
+      "raw_zh": "遞給楊玉奴後，雲千峰笑問道：",
+      "translated_vi": "Đưa lon nước cho Dương Ngọc Nô xong, Vân Thiên Phong cười hỏi:"
+    },
+    {
+      "para_id": "c0294p0046",
+      "index": 46,
+      "raw_zh": "“還有什麽絕活，一起使出來。”",
+      "translated_vi": "\"Còn tuyệt chiêu ngón nghề nào nữa, trổ ra hết một lượt đi.\""
+    },
+    {
+      "para_id": "c0294p0047",
+      "index": 47,
+      "raw_zh": "楊玉奴接過可樂，剛迫不及待喝了一口，聽到雲千峰這話，頓時面色紅頭，低頭叱道：",
+      "translated_vi": "Dương Ngọc Nô đón lấy lon cola, vừa sốt sắng nhấp một ngụm, nghe thấy câu nói này của Vân Thiên Phong thì sắc mặt bỗng chốc đỏ bừng, cúi gằm mặt hờn dỗi trách khẽ:"
+    },
+    {
+      "para_id": "c0294p0048",
+      "index": 48,
+      "raw_zh": "“郎君你孟浪！”",
+      "translated_vi": "\"Lang quân, chàng thật là buông tuồng cợt nhả!\""
+    },
+    {
+      "para_id": "c0294p0049",
+      "index": 49,
+      "raw_zh": "這話把雲千峰直接說愣住了。",
+      "translated_vi": "Lời này thốt ra khiến Vân Thiên Phong ngẩn tò te tại chỗ."
+    },
+    {
+      "para_id": "c0294p0050",
+      "index": 50,
+      "raw_zh": "心討：",
+      "translated_vi": "Hắn thầm nghĩ:"
+    },
+    {
+      "para_id": "c0294p0051",
+      "index": 51,
+      "raw_zh": "“我就是問問她還有什麽絕活，怎麽就孟浪了？”",
+      "translated_vi": "\"Tôi chỉ hỏi xem cô ấy còn ngón tuyệt kỹ nào nữa thôi mà, sao lại thành sỗ sàng rồi?\""
+    },
+    {
+      "para_id": "c0294p0052",
+      "index": 52,
+      "raw_zh": "思索良久，再見楊玉奴那羞怯的表情，突然間他悟了。",
+      "translated_vi": "Suy ngẫm hồi lâu, lại nhìn vẻ thẹn thùng ngượng ngùng của Dương Ngọc Nô, hắn chợt bừng tỉnh ngộ ra."
+    },
+    {
+      "para_id": "c0294p0053",
+      "index": 53,
+      "raw_zh": "“楊玉奴恐怕只有三絕，一舞一歌，至於第三個絕技嘛，很難言表，但就憑這唐明皇五十六歲娶了楊玉奴，一直寵愛到唐明皇七十歲，還戀戀不舍，一日難離，就知道楊玉奴的第三樣絕活是什麽了！”",
+      "translated_vi": "\"Dương Ngọc Nô e rằng chỉ có ba tuyệt kỹ: một múa, một hát. Còn như tuyệt kỹ thứ ba thì thật khó nói thành lời, nhưng cứ nhìn Đường Minh Hoàng năm mươi sáu tuổi nạp Dương Ngọc Nô, sủng ái mãi đến tận năm bảy mươi tuổi, vẫn lưu luyến không rời, một ngày không xa được, là đủ biết tuyệt chiêu thứ ba của nàng là gì rồi!\""
+    },
+    {
+      "para_id": "c0294p0054",
+      "index": 54,
+      "raw_zh": "雲千峰內心感歎：",
+      "translated_vi": "Vân Thiên Phong thầm cảm thán trong lòng:"
+    },
+    {
+      "para_id": "c0294p0055",
+      "index": 55,
+      "raw_zh": "“楊玉奴一定是此道真正的大家！七十歲還能讓他行已經是天難地難，還能讓其一日難離，這就是難以想象的技巧了，不，不對，我滴神啊！",
+      "translated_vi": "\"Dương Ngọc Nô nhất định là bậc thầy đích thực của đạo này! Bảy mươi tuổi mà vẫn khiến ông ta 'hành sự' được đã là chuyện khó hơn lên trời, lại còn khiến ông ta một ngày cũng khó dời, đây quả thực là kỹ xảo khó mà tưởng tượng nổi. Không, không đúng, lạy chúa tôi ơi!"
+    },
+    {
+      "para_id": "c0294p0056",
+      "index": 56,
+      "raw_zh": "那是藝術！”",
+      "translated_vi": "Đó là nghệ thuật!\""
+    },
+    {
+      "para_id": "c0294p0057",
+      "index": 57,
+      "raw_zh": "皮膚白的人容易臉紅，楊玉奴很白，所以在罵了雲千峰孟浪後，一直到睡覺前，臉都是紅紅的，眸子裡濕漉漉的。",
+      "translated_vi": "Người da trắng thường dễ đỏ mặt, Dương Ngọc Nô lại trắng nõn nà, thế nên sau khi mắng Vân Thiên Phong sỗ sàng, mãi cho đến tận trước lúc đi ngủ, gương mặt nàng vẫn ửng hồng, đôi mắt ngấn nước long lanh."
+    },
+    {
+      "para_id": "c0294p0058",
+      "index": 58,
+      "raw_zh": "並不寬敞的斜坡避身所內，四面透風，今晚似乎比昨日冷些。",
+      "translated_vi": "Bên trong chỗ tránh gió dựng tạm trên sườn dốc chẳng mấy rộng rãi, bốn bề lộng gió, đêm nay dường như lạnh hơn hôm qua đôi chút."
+    },
+    {
+      "para_id": "c0294p0059",
+      "index": 59,
+      "raw_zh": "倆人躺在一張熟好的牛皮上，沉沉入睡。",
+      "translated_vi": "Hai người nằm trên một tấm da bò đã thuộc kỹ, chìm vào giấc ngủ say."
+    },
+    {
+      "para_id": "c0294p0060",
+      "index": 60,
+      "raw_zh": "今日有些奇怪，因為雲千峰再觸碰到楊玉奴後，楊玉奴並沒有如之前幾夜那般快速的躲開，而是就憑著雲千峰那麽挨著。",
+      "translated_vi": "Hôm nay có chút kỳ lạ, bởi vì sau khi Vân Thiên Phong chạm vào người Dương Ngọc Nô, nàng không còn né tránh thật nhanh như mấy đêm trước nữa, mà cứ để mặc cho hắn tựa sát vào như vậy."
+    },
+    {
+      "para_id": "c0294p0061",
+      "index": 61,
+      "raw_zh": "或許是因為冷吧？",
+      "translated_vi": "Có lẽ là do lạnh chăng?"
+    },
+    {
+      "para_id": "c0294p0062",
+      "index": 62,
+      "raw_zh": "就在他們睡沉的時候，閻羅殿內九屠正在開會。",
+      "translated_vi": "Ngay trong lúc họ đang ngủ say, bên trong Diêm La điện, Cửu Đồ đang họp bàn."
+    },
+    {
+      "para_id": "c0294p0063",
+      "index": 63,
+      "raw_zh": "邋遢老道手裡攥著一把竹簽，對著身前捌人九個魂兒道：",
+      "translated_vi": "Lão đạo lếch thếch nắm chặt một nắm thẻ tre trong tay, quay sang nói với tám người chín cái hồn phách trước mặt:"
+    },
+    {
+      "para_id": "c0294p0064",
+      "index": 64,
+      "raw_zh": "“抽到短簽的，從今日起開始瀆職，直到被全知之眼關押，而後會繼續抽簽，我們只能希望早早的處理掉雲千峰以及他可能帶來的問題。”",
+      "translated_vi": "\"Kẻ nào rút trúng thẻ ngắn, kể từ hôm nay bắt đầu chểnh mảng tắc trách chức vụ, cho đến khi bị Toàn Tri Chi Nhãn giam cầm mới thôi. Sau đó sẽ tiếp tục bốc thăm, chúng ta chỉ có thể hy vọng sớm ngày xử lý xong Vân Thiên Phong cùng những rắc rối mà hắn có thể mang lại.\""
+    },
+    {
+      "para_id": "c0294p0065",
+      "index": 65,
+      "raw_zh": "捌人九魂兒無奈，知道自己不選也得選，於是紛紛抽簽。",
+      "translated_vi": "Tám người chín hồn bất lực, biết rằng mình không muốn chọn cũng phải chọn, thế là lần lượt rút thẻ."
+    },
+    {
+      "para_id": "c0294p0066",
+      "index": 66,
+      "raw_zh": "那個雙重人格之一的右弼抽到了短簽。",
+      "translated_vi": "Hữu Bật – một trong hai nhân cách của kẻ song trùng nhân cách nọ – đã rút trúng thẻ ngắn."
+    },
+    {
+      "para_id": "c0294p0067",
+      "index": 67,
+      "raw_zh": "他悲哀的對著自己的另一個人格左輔悲戚道：",
+      "translated_vi": "Hắn buồn bã quay sang nhân cách còn lại của mình là Tả Phụ, thê lương nói:"
+    },
+    {
+      "para_id": "c0294p0068",
+      "index": 68,
+      "raw_zh": "“左輔，以後只有你了，你是不是很高興？”",
+      "translated_vi": "\"Tả Phụ, sau này chỉ còn lại một mình cậu thôi, cậu có thấy vui không?\""
+    },
+    {
+      "para_id": "c0294p0069",
+      "index": 69,
+      "raw_zh": "左輔悲傷的使勁搖頭道：",
+      "translated_vi": "Tả Phụ đau buồn ra sức lắc đầu:"
+    },
+    {
+      "para_id": "c0294p0070",
+      "index": 70,
+      "raw_zh": "“不，我一點也不開心，我喜歡躲在你身後右弼！”",
+      "translated_vi": "\"Không, tớ chẳng vui chút nào cả, tớ thích nấp sau lưng cậu cơ, Hữu Bật!\""
+    },
+    {
+      "para_id": "c0294p0071",
+      "index": 71,
+      "raw_zh": "其他幾人都是搖頭歎氣，頗有兔死狐悲之感。",
+      "translated_vi": "Mấy người còn lại đều lắc đầu thở dài, không khỏi dâng lên cảm giác thỏ chết cáo buồn."
+    },
+    {
+      "para_id": "c0294p0072",
+      "index": 72,
+      "raw_zh": "邋遢老道對著那抽到短簽的右弼叮囑道：",
+      "translated_vi": "Lão đạo lếch thếch dặn dò Hữu Bật – kẻ vừa rút phải thẻ ngắn:"
+    },
+    {
+      "para_id": "c0294p0073",
+      "index": 73,
+      "raw_zh": "“我要去做一些布局，可能這幾天不會來，你切記一點，除了這個人以外，其它所有給雲千峰送東西的人，都不能送到第十八層，明白嗎？”",
+      "translated_vi": "\"Ta phải đi bố trí một vài thế trận, mấy ngày này có thể sẽ không tới. Ngươi hãy ghi nhớ kỹ một điều, ngoại trừ người này ra, tất cả những kẻ khác đến đưa đồ cho Vân Thiên Phong tuyệt đối không được chuyển tới tầng thứ mười tám, hiểu chưa?\""
+    },
+    {
+      "para_id": "c0294p0074",
+      "index": 74,
+      "raw_zh": "說著，邋遢老道同時遞過去一張照片。",
+      "translated_vi": "Vừa nói, lão đạo lếch thếch vừa đưa sang một tấm ảnh chụp."
+    },
+    {
+      "para_id": "c0294p0075",
+      "index": 75,
+      "raw_zh": "照片上的人正是薑柔甲。",
+      "translated_vi": "Người trong ảnh chính là Khương Nhu Giáp."
+    },
+    {
+      "para_id": "c0294p0076",
+      "index": 76,
+      "raw_zh": "那抽到短簽的人格右弼使勁的點了一下頭，道：",
+      "translated_vi": "Nhân cách Hữu Bật rút trúng thẻ ngắn ra sức gật đầu, đáp:"
+    },
+    {
+      "para_id": "c0294p0077",
+      "index": 77,
+      "raw_zh": "“放心吧，必定完成帝之命令，百死不惜！”",
+      "translated_vi": "\"Yên tâm đi, nhất định sẽ hoàn thành mệnh lệnh của Đế, dẫu chết trăm lần cũng không tiếc!\""
+    },
+    {
+      "para_id": "c0294p0078",
+      "index": 78,
+      "raw_zh": "邋遢老道稽首道：",
+      "translated_vi": "Lão đạo lếch thếch chắp tay thi lễ:"
+    },
+    {
+      "para_id": "c0294p0079",
+      "index": 79,
+      "raw_zh": "“善！”",
+      "translated_vi": "\"Thiện!\""
+    },
+    {
+      "para_id": "c0294p0080",
+      "index": 80,
+      "raw_zh": "其他人也都對著右弼施禮。",
+      "translated_vi": "Những người khác cũng đều hướng về phía Hữu Bật hành lễ."
+    },
+    {
+      "para_id": "c0294p0081",
+      "index": 81,
+      "raw_zh": "他們知道，右弼必將成為九屠裡第一個被全知之眼判罰之人，因為每天來給雲千峰送東西的魂兒太多了，他只能不斷的破壞全知之眼的規則，以此來拖延雲千峰找到六道盤的時間，給他們的帝嚳爭取時間。",
+      "translated_vi": "Bọn họ đều biết, Hữu Bật chắc chắn sẽ trở thành kẻ đầu tiên trong Cửu Đồ bị Toàn Tri Chi Nhãn kết tội trừng phạt, bởi lẽ mỗi ngày những linh hồn đến đưa đồ cho Vân Thiên Phong quá nhiều, hắn chỉ có thể không ngừng phá vỡ quy tắc của Toàn Tri Chi Nhãn, dùng cách này để trì hoãn thời gian Vân Thiên Phong tìm ra bàn xoay sáu luồng, tranh thủ thêm thời gian cho Đế Khốc của bọn họ."
+    },
+    {
+      "para_id": "c0294p0082",
+      "index": 82,
+      "raw_zh": "當天黎明之前，右弼見到了該見到的人，他無需與之交流，便將目標送到了第十八層地獄。",
+      "translated_vi": "Trước rạng sáng ngày hôm đó, Hữu Bật đã gặp được người cần gặp. Hắn chẳng cần giao tiếp với đối phương, liền đưa thẳng mục tiêu tới tầng địa ngục thứ mười tám."
+    },
+    {
+      "para_id": "c0294p0083",
+      "index": 83,
+      "raw_zh": "右弼必須承認，THE ONE的工作效率還是很強的，這麽快就準備好了，而且似乎準備的極為充分，只不過他沒太看懂THE ONE的布局。",
+      "translated_vi": "Hữu Bật buộc phải thừa nhận, hiệu suất làm việc của THE ONE quả thực vô cùng đáng nể, nhanh như vậy đã chuẩn bị xong xuôi, hơn nữa dường như chuẩn bị cực kỳ chu đáo, chỉ có điều hắn không hiểu rõ cho lắm bố cục sắp đặt của THE ONE."
+    },
+    {
+      "para_id": "c0294p0084",
+      "index": 84,
+      "raw_zh": "“是迷局嗎？很高深啊，我竟無法堪破其妙，等那邋遢天璣回來，當要好好問問其中奧妙所在。”",
+      "translated_vi": "\"Là một ván cờ mê cung sao? Thật cao thâm khó lường, ta lại chẳng thể nhìn thấu được chỗ huyền diệu bên trong. Đợi đến khi tên Thiên Cơ lếch thếch kia trở về, nhất định phải hỏi cho ra lẽ sự huyền diệu ẩn chứa trong đó mới được.\""
+    },
+    {
+      "para_id": "c0294p0085",
+      "index": 85,
+      "raw_zh": "想著，右弼深深歎了口氣，知道自己這樣下去，撐不了多久，就得被全知之眼打進地獄，心中不免悲涼，於是看著虛空遠處，沉聲道：",
+      "translated_vi": "Nghĩ đoạn, Hữu Bật thở dài một hơi thật sâu, biết rõ bản thân cứ tiếp tục như thế này thì chẳng chống đỡ được bao lâu nữa là sẽ bị Toàn Tri Chi Nhãn đày đọa xuống địa ngục. Đáy lòng không khỏi dâng lên niềm bi lương, hắn bèn nhìn về phía cõi hư không xa xăm, trầm giọng nói:"
+    },
+    {
+      "para_id": "c0294p0086",
+      "index": 86,
+      "raw_zh": "“帝，苟富貴勿相忘，記得來救右弼啊！”",
+      "translated_vi": "\"Đế, phú quý xin đừng quên nhau, ngài nhớ đến cứu Hữu Bật đấy nhé!\""
+    },
+    {
+      "para_id": "c0294p0087",
+      "index": 87,
+      "raw_zh": "次日。",
+      "translated_vi": "Ngày hôm sau."
+    },
+    {
+      "para_id": "c0294p0088",
+      "index": 88,
+      "raw_zh": "地獄十八層內。",
+      "translated_vi": "Bên trong tầng mười tám của địa ngục."
+    },
+    {
+      "para_id": "c0294p0089",
+      "index": 89,
+      "raw_zh": "雲千峰和楊玉奴起床洗漱完畢後。",
+      "translated_vi": "Sau khi Vân Thiên Phong và Dương Ngọc Nô thức dậy, rửa mặt chải chuốt xong xuôi."
+    },
+    {
+      "para_id": "c0294p0090",
+      "index": 90,
+      "raw_zh": "“大丫鬟，咱們今天不熟牛皮，你就安心製作食物就好，我要出海一趟，把那些給咱們送物資的人帶到這島上來，放心不會安置在這裡，這是我們倆的居所，決不讓外人來。”",
+      "translated_vi": "\"Đại nha hoàn, hôm nay chúng ta không thuộc da bò nữa, cô cứ yên tâm làm đồ ăn là được. Tôi phải ra biển một chuyến, đưa những người tiếp tế vật tư cho chúng ta lên hòn đảo này. Cứ yên tâm, tôi sẽ không sắp xếp họ ở chỗ này đâu, đây là nơi ở của hai chúng ta, tuyệt đối không để người ngoài bước vào.\""
+    },
+    {
+      "para_id": "c0294p0091",
+      "index": 91,
+      "raw_zh": "已經住的熟悉了，楊玉奴現在也不是很怕自己白天在這裡，於是叮囑道：",
+      "translated_vi": "Đã ở quen dần, ban ngày một mình ở lại đây Dương Ngọc Nô cũng không còn quá sợ hãi nữa, nàng liền dặn dò:"
+    },
+    {
+      "para_id": "c0294p0092",
+      "index": 92,
+      "raw_zh": "“那郎君可早些回來，天黑了太真會怕。”",
+      "translated_vi": "\"Vậy lang quân nhớ về sớm một chút, trời tối rồi Thái Chân sẽ sợ.\""
+    },
+    {
+      "para_id": "c0294p0093",
+      "index": 93,
+      "raw_zh": "雲千峰笑道：",
+      "translated_vi": "Vân Thiên Phong cười nói:"
+    },
+    {
+      "para_id": "c0294p0094",
+      "index": 94,
+      "raw_zh": "“放心吧，天黑前肯定回來，還有別使勁喝可樂。”",
+      "translated_vi": "\"Yên tâm đi, trước khi trời tối tôi nhất định sẽ quay về. Còn nữa, đừng có uống coca nhiều quá đấy.\""
+    },
+    {
+      "para_id": "c0294p0095",
+      "index": 95,
+      "raw_zh": "說完，拎著絞死楊玉奴的白綾出發了。",
+      "translated_vi": "Dứt lời, hắn xách theo dải lụa trắng từng siết cổ Dương Ngọc Nô, cất bước lên đường."
+    },
+    {
+      "para_id": "c0294p0096",
+      "index": 96,
+      "raw_zh": "雲千峰沒想到的是，這一趟出去，不但讓自己對楊玉奴食言了，還給自己帶來了天大的麻煩",
+      "translated_vi": "Điều Vân Thiên Phong không ngờ tới chính là, chuyến đi lần này không những khiến hắn thất hứa với Dương Ngọc Nô, mà còn mang tới cho hắn một rắc rối tày trời..."
+    },
+    {
+      "para_id": "c0294p0097",
+      "index": 97,
+      "raw_zh": "感謝ㄨ獨孤敗天ㄟ、BB小方、書友尾數05286、特_別扭、健談的普信男鋼鐵版、隱身\\守候、韓成蹊、書友尾數49961、的打賞，謝謝你們的支持，感激！！！",
+      "translated_vi": "Cảm ơn ㄨĐộc Cô Bại Thiênㄟ, BB Tiểu Phương, Thư hữu đuôi 05286, Đặc_Biệt Biệt Nữu, Kiện Đàm Đích Phổ Tín Nam Cương Thiết Bản, Ẩn Thân\\Thủ Hậu, Hàn Thành Hề, Thư hữu đuôi 49961 đã khen thưởng, cảm ơn sự ủng hộ của các bạn, vô cùng cảm kích!!!"
+    },
+    {
+      "para_id": "c0294p0098",
+      "index": 98,
+      "raw_zh": "感謝ㄨ獨孤敗天ㄟ、特_別扭、X8test、隱身\\守候、盧三、尾數59853、尾數04098、觀天神君、那就明天見吧、為什麽不開窗、lovel乾飯人、葉子雅雅、站五渣、我是來看章節說的、尾數30847、尾數50188、尾數49961、尾數03936、我的懶病沒藥醫、尾數05286、金大耎的男朋友、一花一世界_Ae、木遊悠、尾數39859、尾數59735、尾數22062、尾數18659、尾數41610、某科學的超中二少年、枉然悵然、Anivn、焉城第一劍仙、尾數51577、摯愛孤獨233、尾數15224、125毫米炮炮手、柴可夫不羈、尾數25596、409、我才不是一個無知少年、尾數07736、尾數45691、尾數37200、沒想好叫什麽、星的景、妮姬大法好、我一生的摯愛啊、Xenomorph、Chuansir的月票鼓勵！！！",
+      "translated_vi": "Cảm ơn ㄨĐộc Cô Bại Thiênㄟ, Đặc_Biệt Biệt Nữu, X8test, Ẩn Thân\\Thủ Hậu, Lư Tam, đuôi 59853, đuôi 04098, Quan Thiên Thần Quân, Vậy Thì Ngày Mai Gặp Nhé, Sao Lại Không Mở Cửa Sổ, lovel Càn Phạn Nhân, Diệp Tử Nhã Nhã, Chiến Ngũ Tra, Tôi Là Tới Xem Bình Luận Chương, đuôi 30847, đuôi 50188, đuôi 49961, đuôi 03936, Bệnh Lười Của Tôi Hết Thuốc Chữa, đuôi 05286, Bạn Trai Của Kim Đại Nhuyễn, Nhất Hoa Nhất Thế Giới_Ae, Mộc Du Du, đuôi 39859, đuôi 59735, đuôi 22062, đuôi 18659, đuôi 41610, Thiếu Niên Siêu Trung Nhị Nào Đó, Uổng Nhiên Trướng Nhiên, Anivn, Yên Thành Đệ Nhất Kiếm Tiên, đuôi 51577, Chí Ái Cô Độc 233, đuôi 15224, Pháo Thủ Pháo 125mm, Tchaikovsky Bất Cơ, đuôi 25596, 409, Tôi Mới Không Phải Là Thiếu Niên Vô Tri, đuôi 07736, đuôi 45691, đuôi 37200, Chưa Nghĩ Ra Tên Gì, Tinh Đích Cảnh, NIKKE Đại Pháp Hảo, Tình Yêu Cả Đời Của Tôi Ơi, Xenomorph, Chuansir đã cổ vũ bằng phiếu tháng!!!"
+    },
+    {
+      "para_id": "c0294p0099",
+      "index": 99,
+      "raw_zh": "謝謝你們的支持，感激！！！",
+      "translated_vi": "Cảm ơn sự ủng hộ của mọi người, vô cùng cảm kích!!!"
+    },
+    {
+      "para_id": "c0294p0100",
+      "index": 100,
+      "raw_zh": "今天精神不錯，我繼續碼字，祝大家好夢！！！",
+      "translated_vi": "Hôm nay tinh thần khá tốt, tôi tiếp tục gõ chữ đây, chúc mọi người mộng đẹp!!!"
+    },
+    {
+      "para_id": "c0294p0101",
+      "index": 101,
+      "raw_zh": "晚安！！！",
+      "translated_vi": "Chúc ngủ ngon!!!"
+    }
+  ]
+}

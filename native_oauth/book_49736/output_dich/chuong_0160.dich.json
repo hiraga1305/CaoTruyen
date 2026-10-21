@@ -1,0 +1,559 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 160,
+  "title": "Chương 160: Thân Ở Nơi Nào?",
+  "total_paragraphs": 91,
+  "translated_paragraphs": 91,
+  "source_hash": "08dd1e2d39383e17f757e53bc95183f9b07cd03c53f2e969a896693416d65334",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0160p0001",
+      "index": 1,
+      "raw_zh": "第160章 身在何處？",
+      "translated_vi": "Chương 160: Thân Ở Nơi Nào?"
+    },
+    {
+      "para_id": "c0160p0002",
+      "index": 2,
+      "raw_zh": "美女蛇在木壘金字塔外如哭似訴，焦急的在木塔周圍盤旋著，這樣足足十幾分鍾，它似乎想起了什麽，蠕動著巨大的神軀，爬上了木塔，快速的來到了木塔頂部。",
+      "translated_vi": "Con mỹ nữ xà ở bên ngoài tòa kim tự tháp xếp bằng gỗ như khóc như than, nôn nóng lượn quanh chân tháp gỗ suốt mười mấy phút đồng hồ. Dường như chợt nhớ ra điều gì, nó uốn éo thân hình to lớn bò trườn lên tháp gỗ, nhanh chóng tiến lên đỉnh tháp."
+    },
+    {
+      "para_id": "c0160p0003",
+      "index": 3,
+      "raw_zh": "它用纖長的蛇信子再次舔了一下那面目如新的屍體和屍體手裡的玉石箱子，然後用蛇信子輕輕卷起屍體和箱子，順著那通往平頂塔頂的出口扔了進去。",
+      "translated_vi": "Nó dùng chiếc lưỡi rắn thon dài liếm láp lại một lần nữa cỗ thi thể diện mạo như còn sống cùng chiếc rương ngọc bích trong tay xác chết, sau đó nhẹ nhàng quấn lấy thi thể và chiếc rương rồi thả dọc theo lối cửa thông xuống bên trong đỉnh tháp bằng phẳng."
+    },
+    {
+      "para_id": "c0160p0004",
+      "index": 4,
+      "raw_zh": "詭異的是，那麽重的玉石箱子，跌落在那黑洞洞的出口甬道內，卻沒有絲毫的聲響傳出來。",
+      "translated_vi": "Quái đản ở chỗ, chiếc rương ngọc bích nặng trịch đến thế khi rơi vào đường hầm tăm tối kia lại chẳng hề phát ra bất kỳ một tiếng động nào."
+    },
+    {
+      "para_id": "c0160p0005",
+      "index": 5,
+      "raw_zh": "做好這一切後，那人面蛇一扭身，臉上露出決絕之色，一咬牙在那堪堪容納自己大臉的出口鑽進去。",
+      "translated_vi": "Làm xong tất thảy những điều đó, con rắn mặt người khẽ uốn mình, trên khuôn mặt lộ rõ vẻ quyết tuyệt, nghiến răng chui tọt vào lối cửa vốn chỉ vừa vặn cho khuôn mặt khổng lồ của nó lọt qua."
+    },
+    {
+      "para_id": "c0160p0006",
+      "index": 6,
+      "raw_zh": "就好像追進老鼠洞的毒蛇，緊貼著洞口蠕動而入，直到最後一截纖細的尾巴消失不見。",
+      "translated_vi": "Y hệt như một con rắn độc trườn đuổi theo vào hang chuột, nó dán chặt mình vào miệng hang trườn vào trong, cho tới khi đoạn đuôi thon mảnh cuối cùng cũng biến mất dạng."
+    },
+    {
+      "para_id": "c0160p0007",
+      "index": 7,
+      "raw_zh": "雲千峰和羅琳娜在一萬年前的廁所裡休息好一會，才算是緩過了力氣。",
+      "translated_vi": "Vân Thiên Phong và Lorina ngồi nghỉ trong gian nhà vệ sinh từ một vạn năm trước hồi lâu, rốt cuộc mới hồi phục lại được phần nào sức lực."
+    },
+    {
+      "para_id": "c0160p0008",
+      "index": 8,
+      "raw_zh": "在這裡沒有聽到美女蛇撞擊木塔的聲響，倆人終於放下心來。",
+      "translated_vi": "Ở nơi này không nghe thấy tiếng con mỹ nữ xà đâm húc vào tháp gỗ nữa, hai người rốt cuộc cũng trút được gánh nặng trong lòng."
+    },
+    {
+      "para_id": "c0160p0009",
+      "index": 9,
+      "raw_zh": "雲千峰用礦燈看著上方，道：",
+      "translated_vi": "Vân Thiên Phong rọi đèn pin lên phía trên, nói:"
+    },
+    {
+      "para_id": "c0160p0010",
+      "index": 10,
+      "raw_zh": "“再上去一層，應該就到塔尖之下了，到時候我去拿到玉石箱子，要是運氣好，是另外一隻魔鬼手臂，我感覺自己應該能硬鋼一下那美女蛇。”",
+      "translated_vi": "“Lên thêm một tầng nữa chắc là tới ngay dưới chóp tháp rồi. Đến lúc đó tôi sẽ đi lấy chiếc rương ngọc bích, nếu vận may mỉm cười mà vớ được cánh tay ma quỷ còn lại, tôi cảm giác mình hoàn toàn có thể đấu tay đôi sống mái một trận với con mỹ nữ xà kia.”"
+    },
+    {
+      "para_id": "c0160p0011",
+      "index": 11,
+      "raw_zh": "羅琳娜點頭，然後提醒雲千峰道：",
+      "translated_vi": "Lorina gật đầu, sau đó nhắc nhở Vân Thiên Phong:"
+    },
+    {
+      "para_id": "c0160p0012",
+      "index": 12,
+      "raw_zh": "“應該叫巫神手臂了。”",
+      "translated_vi": "“Giờ phải gọi là cánh tay Vu Thần mới đúng chứ.”"
+    },
+    {
+      "para_id": "c0160p0013",
+      "index": 13,
+      "raw_zh": "雲千峰笑了一下，道：",
+      "translated_vi": "Vân Thiên Phong cười cười đáp:"
+    },
+    {
+      "para_id": "c0160p0014",
+      "index": 14,
+      "raw_zh": "“還真是，走咱們上樓。”",
+      "translated_vi": "“Cũng đúng thật, đi thôi, chúng ta lên tầng nào.”"
+    },
+    {
+      "para_id": "c0160p0015",
+      "index": 15,
+      "raw_zh": "倆人一前一後，沿著萬年不腐的木質台階向上而去。",
+      "translated_vi": "Hai người trước sau nối gót nhau, men theo những bậc thang gỗ vạn năm không mục nát mà bước lên phía trên."
+    },
+    {
+      "para_id": "c0160p0016",
+      "index": 16,
+      "raw_zh": "這裡一層樓就有十米高，台階旁邊還不設護欄，走在上面倆人都摒著呼吸，生怕掉下去屁股摔八瓣，當然了要是羅琳娜的話，那格局能摔十六瓣。",
+      "translated_vi": "Mỗi tầng ở nơi này cao tới mười mét, mép cầu thang lại không hề có lan can che chắn, đi trên đó hai người đều nín thở nín hơi, chỉ sợ sẩy chân ngã xuống thì mông vỡ làm tám mảnh; dĩ nhiên nếu là Lorina với phom dáng đẫy đà kia thì khéo vỡ làm mười sáu mảnh mất."
+    },
+    {
+      "para_id": "c0160p0017",
+      "index": 17,
+      "raw_zh": "來到三樓的入口，雲千峰當先踏步而入。",
+      "translated_vi": "Bước tới lối vào tầng ba, Vân Thiên Phong đi trước sải bước tiến vào."
+    },
+    {
+      "para_id": "c0160p0018",
+      "index": 18,
+      "raw_zh": "一走進來，他就聞到了一股清香，迎面還有清風吹拂。",
+      "translated_vi": "Vừa bước vào bên trong, anh lập tức ngửi thấy một mùi hương cỏ cây thanh khiết, trước mặt còn có làn gió mát rượi thổi qua."
+    },
+    {
+      "para_id": "c0160p0019",
+      "index": 19,
+      "raw_zh": "就好像身在開滿鮮花的郊野。",
+      "translated_vi": "Cảm giác ngỡ như đang đứng giữa một cánh đồng ngoại ô nở rộ muôn sắc hoa tươi."
+    },
+    {
+      "para_id": "c0160p0020",
+      "index": 20,
+      "raw_zh": "這讓雲千峰一愣神，身體釘在原地，身後的羅琳娜一個收腳不及時，撞到了雲千峰後背上，被自己的彈性向後彈去。",
+      "translated_vi": "Điều đó khiến Vân Thiên Phong ngẩn người chết sững tại chỗ, Lorina theo sau hãm phanh không kịp liền đâm sầm vào lưng anh, rồi bị chính độ đàn hồi nảy nở trên người mình đẩy bật ngược ra sau."
+    },
+    {
+      "para_id": "c0160p0021",
+      "index": 21,
+      "raw_zh": "羅琳娜眼明手快，急忙一把抱住雲千峰的腰，才把自己身形穩住，然而就在這光景，雲千峰卻突然轉身，變成面對著羅琳娜，就好像倆人擁抱一般。",
+      "translated_vi": "Lorina mắt tinh tay lẹ, vội vàng ôm chặt lấy eo Vân Thiên Phong mới giữ vững được thân hình. Thế nhưng ngay đúng khoảnh khắc này, Vân Thiên Phong lại đột ngột xoay người lại đối diện với cô, trông chẳng khác nào hai người đang ôm ấp lấy nhau."
+    },
+    {
+      "para_id": "c0160p0022",
+      "index": 22,
+      "raw_zh": "只不過雲千峰的台詞很不合時宜。",
+      "translated_vi": "Chỉ có điều câu thoại của Vân Thiên Phong lại chẳng đúng lúc đúng chỗ chút nào."
+    },
+    {
+      "para_id": "c0160p0023",
+      "index": 23,
+      "raw_zh": "“羅琳娜咱們快回去.”",
+      "translated_vi": "“Lorina, chúng ta mau quay lại...”"
+    },
+    {
+      "para_id": "c0160p0024",
+      "index": 24,
+      "raw_zh": "話說到一半，他不說了，而是看著羅琳娜的身後，整個人陷入沉思。",
+      "translated_vi": "Lời nói mới được một nửa thì anh im bặt, ánh mắt chăm chú nhìn ra phía sau lưng Lorina, cả người chìm vào trầm tư."
+    },
+    {
+      "para_id": "c0160p0025",
+      "index": 25,
+      "raw_zh": "羅琳娜被雲千峰的語氣和表情嚇了一跳，急忙也回頭看過去。",
+      "translated_vi": "Lorina bị ngữ điệu cùng vẻ mặt của Vân Thiên Phong dọa cho giật mình, vội vàng ngoái đầu nhìn theo."
+    },
+    {
+      "para_id": "c0160p0026",
+      "index": 26,
+      "raw_zh": "頭頂礦燈照射下，倆人的身後哪裡還有什麽下樓的出口。",
+      "translated_vi": "Dưới ánh đèn rọi từ trên đỉnh đầu, phía sau hai người làm gì còn lối ra dẫn xuống lầu nữa."
+    },
+    {
+      "para_id": "c0160p0027",
+      "index": 27,
+      "raw_zh": "燈光所及之處，全都是尺高的植被，上面星星點點的開著鮮活的野花。",
+      "translated_vi": "Nơi ánh đèn rọi tới ngập tràn cỏ cây hoa lá cao chừng một thước, điểm xuyết rải rác những đóa hoa dại tươi tắn đầy sức sống."
+    },
+    {
+      "para_id": "c0160p0028",
+      "index": 28,
+      "raw_zh": "雲千峰急忙關掉頭頂的礦燈，沒有了眼頂燈光的晃眼，他漸漸適應了周圍的光線。",
+      "translated_vi": "Vân Thiên Phong vội tắt đèn trên mũ bảo hộ. Không còn ánh đèn chói lòa trước mắt, thị giác của anh dần dà thích nghi với ánh sáng xung quanh."
+    },
+    {
+      "para_id": "c0160p0029",
+      "index": 29,
+      "raw_zh": "野花，草地，潺潺溪流，偶爾散落在草地上的三兩棵大小不一的樹木。",
+      "translated_vi": "Hoa dại, đồng cỏ mướt xanh, dòng suối nhỏ róc rách chảy êm đềm, rải rác trên bãi cỏ là đôi ba cây gỗ lớn nhỏ đứng đơn độc."
+    },
+    {
+      "para_id": "c0160p0030",
+      "index": 30,
+      "raw_zh": "天空上，月朗星稀，渾圓的月亮玉盤似的懸掛在天邊。",
+      "translated_vi": "Trên bầu trời cao vút, trăng thanh sao thưa, vầng trăng tròn vành vạnh như chiếc đĩa ngọc treo lơ lửng nơi chân trời."
+    },
+    {
+      "para_id": "c0160p0031",
+      "index": 31,
+      "raw_zh": "羅琳娜此時也關閉了頭頂礦燈，在看清楚身邊的環境後，她難以置信的說道：",
+      "translated_vi": "Lorina lúc này cũng tắt đèn trên đầu đi, sau khi nhìn rõ khung cảnh chung quanh, cô không thể nào tin nổi thốt lên:"
+    },
+    {
+      "para_id": "c0160p0032",
+      "index": 32,
+      "raw_zh": "“這不可能，那木質金字塔接近三十米高，我們倆現在最多走到二十米高度，無論如何，我們應該是在木質金字塔內，怎麽可能到了室外？”",
+      "translated_vi": "“Chuyện này không thể nào! Tòa kim tự tháp gỗ kia cao gần ba mươi mét, chúng ta giờ nhiều nhất mới đi tới độ cao hai mươi mét. Dù thế nào đi nữa chúng ta cũng phải đang ở bên trong tháp gỗ chứ, sao có thể ra ngoài trời thế này được?”"
+    },
+    {
+      "para_id": "c0160p0033",
+      "index": 33,
+      "raw_zh": "雲千峰詭異的事情遇到過不少，但這樣的情況並不是第一次遇到，他忙道：",
+      "translated_vi": "Chuyện kỳ quái quỷ dị thì Vân Thiên Phong đã trải qua không ít, và tình huống kiểu này cũng chẳng phải lần đầu tiên anh gặp phải, bèn vội bảo:"
+    },
+    {
+      "para_id": "c0160p0034",
+      "index": 34,
+      "raw_zh": "“別急，我看看是不是夢境幻覺。”",
+      "translated_vi": "“Đừng vội, để tôi xem đây có phải là ảo giác mộng cảnh hay không.”"
+    },
+    {
+      "para_id": "c0160p0035",
+      "index": 35,
+      "raw_zh": "說著，他開始屏住呼吸，體內類似死藤水的物質開始大量分泌，然而周圍的環境並沒有任何改變，一切依舊如眼前所見。",
+      "translated_vi": "Vừa nói, anh vừa bắt đầu nín thở, chất tương tự như Ayahuasca trong cơ thể bắt đầu tiết ra một lượng lớn. Thế nhưng khung cảnh xung quanh không hề có bất kỳ biến chuyển nào, tất thảy vẫn y nguyên như những gì mắt thấy."
+    },
+    {
+      "para_id": "c0160p0036",
+      "index": 36,
+      "raw_zh": "“呼”雲千峰長長的呼吸一口氣，搖頭道：",
+      "translated_vi": "“Phù...” Vân Thiên Phong thở hắt ra một hơi thật dài, lắc đầu nói:"
+    },
+    {
+      "para_id": "c0160p0037",
+      "index": 37,
+      "raw_zh": "“不是幻覺夢境，這裡是真實的環境。”",
+      "translated_vi": "“Không phải ảo giác mộng cảnh, nơi này là môi trường có thật.”"
+    },
+    {
+      "para_id": "c0160p0038",
+      "index": 38,
+      "raw_zh": "這下雲千峰也懵了。",
+      "translated_vi": "Lần này đến lượt Vân Thiên Phong cũng ngớ người hoang mang."
+    },
+    {
+      "para_id": "c0160p0039",
+      "index": 39,
+      "raw_zh": "因為這根本無法解釋。",
+      "translated_vi": "Bởi lẽ điều này căn bản không thể nào giải thích nổi."
+    },
+    {
+      "para_id": "c0160p0040",
+      "index": 40,
+      "raw_zh": "“我們一路向北而行，這麽多天，最少向北走了百公裡遠近，所以即便是室外，這裡也一定是沙漠，這世界最大的撒哈拉沙漠。",
+      "translated_vi": "“Chúng ta đi miết về hướng bắc suốt bao nhiêu ngày qua, ít nhất cũng đã tiến về phía bắc cả trăm cây số. Thế nên dẫu có là ngoài trời đi chăng nữa thì nơi đây nhất định phải là sa mạc, sa mạc Sahara lớn nhất thế giới này."
+    },
+    {
+      "para_id": "c0160p0041",
+      "index": 41,
+      "raw_zh": "但這裡，分明是富饒的草原，會不會是我們方向走錯了？”",
+      "translated_vi": "Thế nhưng nơi đây rõ ràng là một thảo nguyên trù phú tốt tươi, liệu có phải chúng ta đi nhầm phương hướng rồi không?”"
+    },
+    {
+      "para_id": "c0160p0042",
+      "index": 42,
+      "raw_zh": "羅琳娜分析著說道。",
+      "translated_vi": "Lorina phân tích đưa ra giả thuyết."
+    },
+    {
+      "para_id": "c0160p0043",
+      "index": 43,
+      "raw_zh": "雲千峰搖頭，指向偏東南方向，說道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu, đưa tay chỉ về hướng đông nam chếch một chút, nói:"
+    },
+    {
+      "para_id": "c0160p0044",
+      "index": 44,
+      "raw_zh": "“羅琳娜你看那裡，是不是很熟悉？”",
+      "translated_vi": "“Lorina, cô nhìn đằng kia xem, có thấy quen mắt không?”"
+    },
+    {
+      "para_id": "c0160p0045",
+      "index": 45,
+      "raw_zh": "羅琳娜順著雲千峰的手指看向遠處。",
+      "translated_vi": "Lorina thuận theo ngón tay chỉ của Vân Thiên Phong nhìn về phía xa xăm."
+    },
+    {
+      "para_id": "c0160p0046",
+      "index": 46,
+      "raw_zh": "這裡是一片平原，偏乾的濕度讓這裡的可視度極遠，就在平原的盡頭，有群山如水墨般鑲嵌在天邊。",
+      "translated_vi": "Nơi đây là một vùng bình nguyên rộng lớn, độ ẩm khô ráo khiến tầm nhìn xa cực kỳ khoáng đạt. Ngay nơi tận cùng của bình nguyên, có những rặng núi sừng sững tựa như bức tranh thủy mặc khảm vào tận chân trời."
+    },
+    {
+      "para_id": "c0160p0047",
+      "index": 47,
+      "raw_zh": "羅琳娜眯眼看了一會，驚呼道：",
+      "translated_vi": "Lorina nheo mắt nhìn một hồi, kinh hãi thốt lên:"
+    },
+    {
+      "para_id": "c0160p0048",
+      "index": 48,
+      "raw_zh": "“朱爾朱拉山？”",
+      "translated_vi": "“Dãy núi Djurdjura?”"
+    },
+    {
+      "para_id": "c0160p0049",
+      "index": 49,
+      "raw_zh": "她不能不驚訝，因為他們倆人就是從朱爾朱拉山的阿蘇伊爾幽谷進入的地下水道，一路向北來到這裡。",
+      "translated_vi": "Cô không thể không kinh ngạc, bởi vì hai người bọn họ chính là từ hẻm vực sâu Anou Ifflis trên dãy núi Djurdjura đi vào đường dẫn nước ngầm, một mạch thẳng hướng bắc mà tới đây."
+    },
+    {
+      "para_id": "c0160p0050",
+      "index": 50,
+      "raw_zh": "雖然他們目測不出來準確的距離，但是那高山距離倆人百十公裡是絕對有的，而且又是在南方略偏東，證明他們從未走錯過方向。",
+      "translated_vi": "Dù bọn họ không thể ước lượng chính xác cự ly bằng mắt thường, nhưng ngọn núi cao kia cách hai người ngót nghét trăm cây số là điều chắc chắn. Hơn nữa nó lại nằm ở phía nam hơi chếch đông, chứng minh bọn họ chưa từng đi sai phương hướng một bước nào."
+    },
+    {
+      "para_id": "c0160p0051",
+      "index": 51,
+      "raw_zh": "羅琳娜搖頭，道：",
+      "translated_vi": "Lorina lắc đầu nói:"
+    },
+    {
+      "para_id": "c0160p0052",
+      "index": 52,
+      "raw_zh": "“不，這不現實，這個位置一定是沙漠，這是百分百可以確定的事情。”",
+      "translated_vi": "“Không, điều này thật phi lý. Vị trí này nhất định phải là sa mạc, đây là chuyện chắc chắn một trăm phần trăm.”"
+    },
+    {
+      "para_id": "c0160p0053",
+      "index": 53,
+      "raw_zh": "雲千峰看著羅琳娜，攥住她的手，輕聲道：",
+      "translated_vi": "Vân Thiên Phong nhìn Lorina, nắm chặt lấy tay cô, khẽ nói:"
+    },
+    {
+      "para_id": "c0160p0054",
+      "index": 54,
+      "raw_zh": "“別緊張，既來之則安之，而且你說的不對，這個位置應該是木樓內，不該是室外的天空下。”",
+      "translated_vi": "“Đừng căng thẳng, đã đến thì cứ an lòng ở lại. Vả lại cô nói chưa đúng đâu, vị trí này đúng ra phải là bên trong tòa nhà gỗ, chứ không thể nào là dưới bầu trời ngoài thiên nhiên được.”"
+    },
+    {
+      "para_id": "c0160p0055",
+      "index": 55,
+      "raw_zh": "羅琳娜一愣，轉而回過神來。",
+      "translated_vi": "Lorina ngẩn người, sau đó liền tỉnh táo lại:"
+    },
+    {
+      "para_id": "c0160p0056",
+      "index": 56,
+      "raw_zh": "“對，你說的對，這裡應該是木樓內，我被環境引導了思維。”",
+      "translated_vi": "“Đúng, anh nói rất đúng, nơi đây hẳn phải là bên trong nhà gỗ mới phải, tôi đã bị hoàn cảnh xung quanh đánh lừa tư duy.”"
+    },
+    {
+      "para_id": "c0160p0057",
+      "index": 57,
+      "raw_zh": "雲千峰點頭，道：",
+      "translated_vi": "Vân Thiên Phong gật đầu, bảo:"
+    },
+    {
+      "para_id": "c0160p0058",
+      "index": 58,
+      "raw_zh": "“是的，這很危險，一旦被環境主導了思維，忘記了對最根本的分析，就會陷入無限的錯誤。”",
+      "translated_vi": "“Đúng vậy, điều này cực kỳ nguy hiểm. Một khi bị môi trường chi phối lối suy nghĩ mà quên mất việc phân tích bản chất cốt lõi nhất thì sẽ rơi vào vòng xoáy sai lầm bất tận.”"
+    },
+    {
+      "para_id": "c0160p0059",
+      "index": 59,
+      "raw_zh": "羅琳娜“嗯”了一聲，雲千峰總能給人以安全感，很穩很真實的那種，雖然有的時候羅琳娜能感覺到雲千峰其實也慌得一批，但那氣場的范兒就很正。",
+      "translated_vi": "Lorina ‘ừm’ một tiếng. Vân Thiên Phong luôn mang lại cho người ta cảm giác an toàn, một cảm giác rất vững chãi, rất chân thực; dù thỉnh thoảng Lorina cũng cảm nhận được anh chàng này trong bụng kỳ thực cũng đang hoảng loạn muốn chết, nhưng phong thái và khí trường toát ra bên ngoài thì luôn chuẩn chỉnh đĩnh đạc."
+    },
+    {
+      "para_id": "c0160p0060",
+      "index": 60,
+      "raw_zh": "“那我們現在怎麽辦？”",
+      "translated_vi": "“Vậy giờ chúng ta phải làm sao?”"
+    },
+    {
+      "para_id": "c0160p0061",
+      "index": 61,
+      "raw_zh": "雲千峰隨意道：",
+      "translated_vi": "Vân Thiên Phong tùy tiện nói:"
+    },
+    {
+      "para_id": "c0160p0062",
+      "index": 62,
+      "raw_zh": "“我說了啊，既來之則安之，這裡有山有水有河流，伱看河裡還有魚蝦，咱們倆就是在這活一輩子，也就是沒手機玩而已。”",
+      "translated_vi": "“Tôi vừa nói rồi đấy thôi, đã đến thì cứ an lòng mà sống. Ở đây có núi có non có sông suối, cô nhìn xem dưới sông còn có tôm cá bơi lội kia kìa, hai chúng ta dẫu có sống ở đây cả đời thì cũng chỉ là thiếu chiếc điện thoại di động để nghịch thôi mà.”"
+    },
+    {
+      "para_id": "c0160p0063",
+      "index": 63,
+      "raw_zh": "羅琳娜低頭，禁不住笑道：",
+      "translated_vi": "Lorina cúi đầu, không kìm được bật cười:"
+    },
+    {
+      "para_id": "c0160p0064",
+      "index": 64,
+      "raw_zh": "“這裡沒有醫院啊！”",
+      "translated_vi": "“Ở đây làm gì có bệnh viện!”"
+    },
+    {
+      "para_id": "c0160p0065",
+      "index": 65,
+      "raw_zh": "雲千峰沒太懂羅琳娜的邏輯：",
+      "translated_vi": "Vân Thiên Phong chưa hiểu kịp mạch tư duy của Lorina:"
+    },
+    {
+      "para_id": "c0160p0066",
+      "index": 66,
+      "raw_zh": "“啊？”",
+      "translated_vi": "“Hả?”"
+    },
+    {
+      "para_id": "c0160p0067",
+      "index": 67,
+      "raw_zh": "羅琳娜把臉側過去，半個後頸對著雲千峰，低聲道：",
+      "translated_vi": "Lorina quay mặt sang một bên, để lộ nửa chiếc gáy trắng ngần về phía Vân Thiên Phong, thỏ thẻ:"
+    },
+    {
+      "para_id": "c0160p0068",
+      "index": 68,
+      "raw_zh": "“沒有產院啊！”",
+      "translated_vi": "“Không có bệnh viện phụ sản mà!”"
+    },
+    {
+      "para_id": "c0160p0069",
+      "index": 69,
+      "raw_zh": "雲千峰一拍羅琳娜的肩膀，笑道：",
+      "translated_vi": "Vân Thiên Phong vỗ bẹp một cái vào vai Lorina, cười lớn:"
+    },
+    {
+      "para_id": "c0160p0070",
+      "index": 70,
+      "raw_zh": "“想什麽呢你？我們是好朋友，好兄弟，走，咱們好好在這周圍看看，確定一下這到底是個什麽地方。”",
+      "translated_vi": "“Cô nghĩ đi đâu thế hả? Chúng ta là bạn tốt, là huynh đệ chí cốt! Đi thôi, chúng ta đi thám thính xung quanh một vòng xem sao, để xác định xem rốt cuộc nơi này là chốn nào.”"
+    },
+    {
+      "para_id": "c0160p0071",
+      "index": 71,
+      "raw_zh": "羅琳娜聽到雲千峰的話，笑臉頓時僵住了。",
+      "translated_vi": "Nghe thấy câu nói đó của Vân Thiên Phong, nụ cười trên gương mặt Lorina lập tức đờ đẫn cứng đờ lại."
+    },
+    {
+      "para_id": "c0160p0072",
+      "index": 72,
+      "raw_zh": "心臟好像被什麽翻騰了一下，很難受。",
+      "translated_vi": "Trái tim dường như bị một bàn tay vô hình bóp nghẹt đảo lộn, khó chịu đến nghẹn ngào."
+    },
+    {
+      "para_id": "c0160p0073",
+      "index": 73,
+      "raw_zh": "她能感覺到，雲千峰自從知道自己是羅林經過光門衍生出來，就一直在保持著和自己的距離。",
+      "translated_vi": "Cô có thể cảm nhận được, kể từ khi Vân Thiên Phong biết cô là do Rolin bước qua cánh cổng ánh sáng tái sinh diễn hóa ra, anh vẫn luôn cố tình giữ khoảng cách nhất định với cô."
+    },
+    {
+      "para_id": "c0160p0074",
+      "index": 74,
+      "raw_zh": "只不過，雲千峰第一次這麽直白的表述出來。",
+      "translated_vi": "Chỉ có điều, đây là lần đầu tiên Vân Thiên Phong thẳng thừng bộc bạch ra thành lời rõ ràng đến thế."
+    },
+    {
+      "para_id": "c0160p0075",
+      "index": 75,
+      "raw_zh": "當下，所有的風景都不在美妙。",
+      "translated_vi": "Ngay khoảnh khắc này, mọi cảnh sắc tươi đẹp bỗng chốc chẳng còn chút thi vị nào nữa."
+    },
+    {
+      "para_id": "c0160p0076",
+      "index": 76,
+      "raw_zh": "安靜的跟在雲千峰身後，一聲不吭。",
+      "translated_vi": "Cô lặng lẽ bước theo sau lưng Vân Thiên Phong, không hé răng lấy một lời."
+    },
+    {
+      "para_id": "c0160p0077",
+      "index": 77,
+      "raw_zh": "其實真不怪羅琳娜生氣，你之前都放進去三分之一了，現在說兄弟，擱誰誰不生氣？",
+      "translated_vi": "Kỳ thực cũng chẳng thể trách Lorina giận dỗi cho được, lúc trước anh đã cho vào tới một phần ba rồi, giờ lại mở mồm ra bảo là anh em huynh đệ, thử hỏi rơi vào ai mà không nổi đóa lên chứ?"
+    },
+    {
+      "para_id": "c0160p0078",
+      "index": 78,
+      "raw_zh": "尤其是羅琳娜，那一直是別人高攀不起的女人，有生以來第一次被人嫌棄，無論男人還是女人，這都是第一次。",
+      "translated_vi": "Huống hồ một người ngút ngàn kiêu hãnh như Lorina vốn dĩ luôn là người phụ nữ mà kẻ khác chẳng thể với tới, đây là lần đầu tiên trong đời cô bị người khác ghẻ lạnh xua đuổi, bất kể là từ đàn ông hay phụ nữ thì đây đều là lần đầu tiên."
+    },
+    {
+      "para_id": "c0160p0079",
+      "index": 79,
+      "raw_zh": "別看她長得好似Y望的集合體，女人之中的女人，但其實性格非常剛毅。",
+      "translated_vi": "Đừng thấy vẻ ngoài của cô trông quyến rũ mê hồn hệt như hiện thân của mọi dục vọng trần thế, người phụ nữ trong số những người phụ nữ, nhưng tính cách thực chất lại vô cùng quật cường cương nghị."
+    },
+    {
+      "para_id": "c0160p0080",
+      "index": 80,
+      "raw_zh": "當下受到了雲千峰這種屈辱，立馬在心中升起無形之劍，斬向了那一縷相思。",
+      "translated_vi": "Vừa phải nếm trải nỗi sỉ nhục bẽ bàng này từ Vân Thiên Phong, trong lòng cô lập tức tuốt ra một thanh bảo kiếm vô hình, vung lên chém đứt sợi tơ tương tư vương vấn bấy lâu."
+    },
+    {
+      "para_id": "c0160p0081",
+      "index": 81,
+      "raw_zh": "相思線斷，此生無緣。",
+      "translated_vi": "Tơ tương tư đứt đoạn, kiếp này coi như hữu duyên vô phận."
+    },
+    {
+      "para_id": "c0160p0082",
+      "index": 82,
+      "raw_zh": "這抽象一劍斬完，羅琳娜生悶氣的委屈表情瞬間變得淡然。",
+      "translated_vi": "Sau nhát kiếm mang tính trừu tượng kia, nét mặt ấm ức dỗi hờn của Lorina lập tức hóa thành vẻ thản nhiên, lãnh đạm."
+    },
+    {
+      "para_id": "c0160p0083",
+      "index": 83,
+      "raw_zh": "“不就是個叫雲千峰的男人嘛，你連我朋友都不是，就是個隊友。”",
+      "translated_vi": "“Chẳng qua cũng chỉ là một gã đàn ông tên Vân Thiên Phong mà thôi. Anh thậm chí còn chẳng phải bạn bè của tôi, cùng lắm chỉ là đồng đội mà thôi.”"
+    },
+    {
+      "para_id": "c0160p0084",
+      "index": 84,
+      "raw_zh": "揚起女王的下顎，面帶從容的表情，羅琳娜覺得自己又是自己了，那感覺真的很美妙，自信而宏大。",
+      "translated_vi": "Khẽ nâng chiếc cằm kiêu sa của bậc nữ vương lên, mang theo vẻ mặt ung dung bình thản, Lorina cảm thấy mình đã tìm lại được chính mình. Cảm giác ấy thực sự vô cùng tuyệt diệu, tự tin và đầy kiêu hãnh."
+    },
+    {
+      "para_id": "c0160p0085",
+      "index": 85,
+      "raw_zh": "就是腳下踩到了一個小坑，身形不穩一個挒斜，損害了這種大女主氣場。",
+      "translated_vi": "Chỉ có điều dưới chân bỗng giẫm phải một cái hố nhỏ, thân hình chao đảo loạng choạng suýt ngã, làm sứt mẻ đi khí chất nữ cường nhân đỉnh cao ấy."
+    },
+    {
+      "para_id": "c0160p0086",
+      "index": 86,
+      "raw_zh": "雲千峰看到羅琳娜身形一晃，急忙用手扶住羅琳娜的腰肢，關心道：",
+      "translated_vi": "Thấy Lorina lảo đảo, Vân Thiên Phong vội vã đưa tay đỡ lấy vòng eo thon gọn của cô, ân cần hỏi han:"
+    },
+    {
+      "para_id": "c0160p0087",
+      "index": 87,
+      "raw_zh": "“小心點，注意安全。”",
+      "translated_vi": "“Cẩn thận một chút, chú ý an toàn.”"
+    },
+    {
+      "para_id": "c0160p0088",
+      "index": 88,
+      "raw_zh": "感受到那張充滿溫度的大手暖著自己的腰側，羅琳娜內心呼嘯：",
+      "translated_vi": "Cảm nhận được bàn tay to lớn ấm áp kia đang sưởi ấm bên hông mình, trong lòng Lorina gào thét:"
+    },
+    {
+      "para_id": "c0160p0089",
+      "index": 89,
+      "raw_zh": "“偶買噶的，線又連上了.”",
+      "translated_vi": "“Trời đất quỷ thần ơi, sợi tơ tương tư lại nối lại rồi...”"
+    },
+    {
+      "para_id": "c0160p0090",
+      "index": 90,
+      "raw_zh": "感謝八方翰墨、、繁花血景9527的打賞，謝謝你們一直以來的支持！！！",
+      "translated_vi": "Chân thành cảm ơn phần thưởng từ Bát Phương Hàn Mặc, Phồn Hoa Huyết Cảnh 9527, cảm ơn sự ủng hộ trước sau như một của các bạn suốt bấy lâu nay!!!"
+    },
+    {
+      "para_id": "c0160p0091",
+      "index": 91,
+      "raw_zh": "感謝雜家不是咱家、尾數56689、尾數56362、誰的曾經不荒唐、尾數08826的月票獎勵，謝謝你們一直都在！！！",
+      "translated_vi": "Chân thành cảm ơn sự khích lệ bằng phiếu tháng từ Tạp Gia Bất Thị Tảm Gia, bạn đọc đuôi số 56689, bạn đọc đuôi số 56362, Thùy Đích Tằng Kinh Bất Hoang Đường, bạn đọc đuôi số 08826, cảm ơn vì sự hiện diện đồng hành của các bạn nơi đây!!!"
+    }
+  ]
+}

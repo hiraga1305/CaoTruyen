@@ -1,0 +1,541 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 158,
+  "title": "Chương 158: Mật Mã Kỳ Quặc Của Vu Nhân",
+  "total_paragraphs": 88,
+  "translated_paragraphs": 88,
+  "source_hash": "57949356ec6d08dc4c802845ec4b0757672275dce4fc325ae026930ec87d0810",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0158p0001",
+      "index": 1,
+      "raw_zh": "第158章 巫人的奇葩密碼",
+      "translated_vi": "Chương 158: Mật Mã Kỳ Quặc Của Vu Nhân"
+    },
+    {
+      "para_id": "c0158p0002",
+      "index": 2,
+      "raw_zh": "想當年在小學語文課學到魯先生那百草園一文後，還是小娃子的雲千峰連著做了幾天噩夢。",
+      "translated_vi": "Nhớ năm xưa khi học bài văn ‘Từ Bách Thảo Viên Đến Tam Vị Thư Ốc’ của Lỗ Tấn thời tiểu học, cậu nhóc Vân Thiên Phong ngày ấy đã liên tục gặp ác mộng suốt mấy ngày liền."
+    },
+    {
+      "para_id": "c0158p0003",
+      "index": 3,
+      "raw_zh": "而如今算是夢想成真了。",
+      "translated_vi": "Còn giờ đây, coi như giấc mộng xưa đã biến thành hiện thực."
+    },
+    {
+      "para_id": "c0158p0004",
+      "index": 4,
+      "raw_zh": "就見那米長的瓜子臉，瞪著沒有黑眼仁的灰色眸子，嘴裡伸出分叉的米長舌頭，發出仿似女人笑的聲音。",
+      "translated_vi": "Chỉ thấy khuôn mặt trái xoan dài cả mét kia đang trừng trừng đôi mắt màu xám xịt không có tròng đen, trong miệng thè ra chiếc lưỡi chẻ đôi dài hơn một mét, phát ra những âm thanh rờn rợn tựa như tiếng phụ nữ khúc khích cười."
+    },
+    {
+      "para_id": "c0158p0005",
+      "index": 5,
+      "raw_zh": "而在這米長的瓜子臉後面，連著一條足有十二三米，油桶粗細的蛇身。",
+      "translated_vi": "Nối liền phía sau khuôn mặt trái xoan dài cả mét ấy là một thân rắn dài tới mười hai mười ba mét, to ngang ngửa thùng phuy dầu."
+    },
+    {
+      "para_id": "c0158p0006",
+      "index": 6,
+      "raw_zh": "蛇身後背黑褐色，帶著赤紅色的條紋，腹部汙白色，微微泛青，簡直就是一條大號的赤鏈蛇。",
+      "translated_vi": "Lưng rắn có màu nâu đen điểm xuyết những dải vằn đỏ rực, phần bụng màu trắng đục hơi ánh sắc xanh lam, quả thực chẳng khác nào một con rắn xích liên phiên bản khổng lồ."
+    },
+    {
+      "para_id": "c0158p0007",
+      "index": 7,
+      "raw_zh": "那張米長瓜子臉吐出的蛇信子鎖定兩人位置後，相對於那張臉來說絕對的櫻桃小口緩緩張開。",
+      "translated_vi": "Chiếc lưỡi rắn thè ra từ khuôn mặt trái xoan dài một mét sau khi khóa chặt vị trí của hai người, cái miệng chúm chím như miệng anh đào so với tỷ lệ khuôn mặt ấy liền từ từ há rộng ra."
+    },
+    {
+      "para_id": "c0158p0008",
+      "index": 8,
+      "raw_zh": "很快上嘴唇就擴張到眼簾下面，下嘴唇都到了蛇腹。",
+      "translated_vi": "Rất nhanh chóng, môi trên đã banh rộng ngoác đến tận mí mắt dưới, môi dưới kéo dài xuống tận phần bụng rắn."
+    },
+    {
+      "para_id": "c0158p0009",
+      "index": 9,
+      "raw_zh": "一張大嘴上下左右撐開，猶如一扇入戶的大門，只不過這扇門是通往死亡的地獄。",
+      "translated_vi": "Một cái miệng khổng lồ mở toang bốn phía trên dưới trái phải, chẳng khác nào một cánh cổng dẫn vào nhà, chỉ có điều cánh cổng này lại dẫn thẳng tới địa ngục tử vong."
+    },
+    {
+      "para_id": "c0158p0010",
+      "index": 10,
+      "raw_zh": "人首美女蛇身子纏在大樹上，腦袋好像箭一樣射向雲千峰二人。",
+      "translated_vi": "Con rắn mỹ nữ đầu người mình rắn quấn chặt thân mình quanh thân cây đại thụ, chiếc đầu khổng lồ tựa như mũi tên rời cung bắn thẳng về phía hai người Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0158p0011",
+      "index": 11,
+      "raw_zh": "眨眼間那巨大的腦袋就到了倆人近前，粉紅色的口腔內部，散發著腥臭與異香的混合氣味，讓人眩暈欲嘔。",
+      "translated_vi": "Trong chớp mắt, chiếc đầu khổng lồ kia đã ập tới sát ngay trước mặt hai người, khoang miệng màu hồng phấn bên trong tỏa ra một mùi hương kỳ dị hòa lẫn mùi tanh tưởi nồng nặc, khiến người ta choáng váng muốn nôn thốc nôn tháo."
+    },
+    {
+      "para_id": "c0158p0012",
+      "index": 12,
+      "raw_zh": "雲千峰發誓，這東西並不惡心，但卻是自己見過的最單純恐懼的東西。",
+      "translated_vi": "Vân Thiên Phong thề rằng thứ này nhìn không đến mức buồn nôn gớm ghiếc, nhưng nó lại là thứ mang lại cảm giác sợ hãi thuần túy nhất mà anh từng chứng kiến."
+    },
+    {
+      "para_id": "c0158p0013",
+      "index": 13,
+      "raw_zh": "他把手裡的軍刀匕首迎著那大嘴飛射出去，靠著右臂的強力，那軍刀在空中刮出了風聲，“嗖”的一下插到那美女巨蛇的信子上，疼得那巨大的蛇身打著滾在大樹上翻下來，砸的大地一陣震顫。",
+      "translated_vi": "Anh đón lấy cái miệng khổng lồ ấy rồi vung tay phóng mạnh con dao găm quân dụng ra ngoài. Nhờ vào sức mạnh kinh hồn của cánh tay phải, con dao găm rít gió vun vút trong không trung, ‘phập’ một tiếng găm thẳng vào chiếc lưỡi rắn của con cự xà mỹ nữ. Đau đớn tột cùng khiến thân hình đồ sộ của nó quằn quại lăn lộn ngã nhào từ trên cây xuống, nện xuống mặt đất làm mặt đất rung chuyển dữ dội."
+    },
+    {
+      "para_id": "c0158p0014",
+      "index": 14,
+      "raw_zh": "雲千峰趁著這個端口，拽著羅琳娜撒腿就跑，一邊跑一邊喊：",
+      "translated_vi": "Thừa dịp sơ hở này, Vân Thiên Phong giật lấy tay Lorina cắm đầu cắm cổ tháo chạy, vừa chạy vừa hét lớn:"
+    },
+    {
+      "para_id": "c0158p0015",
+      "index": 15,
+      "raw_zh": "“你往入口跑，我引開它！”",
+      "translated_vi": "“Cô chạy về phía lối vào đi, để tôi dụ nó ra chỗ khác!”"
+    },
+    {
+      "para_id": "c0158p0016",
+      "index": 16,
+      "raw_zh": "羅琳娜身高和雲千峰差不多，但是莫名比雲千峰腿長，跑的倒是比雲千峰還快。",
+      "translated_vi": "Chiều cao của Lorina gần như tương đương Vân Thiên Phong, nhưng đôi chân lại dài hơn một cách kỳ lạ, chạy thậm chí còn nhanh hơn cả anh."
+    },
+    {
+      "para_id": "c0158p0017",
+      "index": 17,
+      "raw_zh": "她聽到雲千峰這樣說，就一邊疾奔一邊問道：",
+      "translated_vi": "Nghe Vân Thiên Phong bảo thế, cô vừa lao như bay vừa cao giọng hỏi:"
+    },
+    {
+      "para_id": "c0158p0018",
+      "index": 18,
+      "raw_zh": "“那它要是專門追我怎麽辦？”",
+      "translated_vi": "“Thế nhỡ nó cứ nhất quyết đuổi theo tôi thì sao?”"
+    },
+    {
+      "para_id": "c0158p0019",
+      "index": 19,
+      "raw_zh": "雲千峰也實誠，大聲道：",
+      "translated_vi": "Vân Thiên Phong cũng thật thà hết nước, gào to:"
+    },
+    {
+      "para_id": "c0158p0020",
+      "index": 20,
+      "raw_zh": "“那我會回來給你燒紙的！”",
+      "translated_vi": "“Thế thì tôi sẽ quay lại hóa vàng mã cho cô!”"
+    },
+    {
+      "para_id": "c0158p0021",
+      "index": 21,
+      "raw_zh": "羅琳娜瞪了雲千峰以眼，大聲悲憤道：",
+      "translated_vi": "Lorina trừng mắt lườm Vân Thiên Phong một cái, bi phẫn gào lên bằng tiếng Anh:"
+    },
+    {
+      "para_id": "c0158p0022",
+      "index": 22,
+      "raw_zh": "“The couple did actually like the two birds of the same forest that flew away separately when the disaster impended.”",
+      "translated_vi": "“The couple did actually like the two birds of the same forest that flew away separately when the disaster impended.”"
+    },
+    {
+      "para_id": "c0158p0023",
+      "index": 23,
+      "raw_zh": "雲千峰有點懵，大聲喊道：",
+      "translated_vi": "Vân Thiên Phong ngơ ngác một giây, hét tướng lên:"
+    },
+    {
+      "para_id": "c0158p0024",
+      "index": 24,
+      "raw_zh": "“啥意思？”",
+      "translated_vi": "“Nghĩa là cái quái gì thế?”"
+    },
+    {
+      "para_id": "c0158p0025",
+      "index": 25,
+      "raw_zh": "羅琳娜咬牙恨恨道：",
+      "translated_vi": "Lorina nghiến răng căm hận đáp:"
+    },
+    {
+      "para_id": "c0158p0026",
+      "index": 26,
+      "raw_zh": "“夫妻本是同林鳥，大難來時各自飛！”",
+      "translated_vi": "“Vợ chồng vốn là chim cùng rừng, gặp nạn lớn thì mạnh ai nấy bay!”"
+    },
+    {
+      "para_id": "c0158p0027",
+      "index": 27,
+      "raw_zh": "喊著，倆人非常默契的左右一分，跑向不同的方向。",
+      "translated_vi": "Vừa dứt tiếng hét, hai người vô cùng ăn ý tách ra hai hướng trái phải, chạy về hai ngả khác nhau."
+    },
+    {
+      "para_id": "c0158p0028",
+      "index": 28,
+      "raw_zh": "然後雲千峰此生以來，終於遇到一個比自己還倒霉的人。",
+      "translated_vi": "Và rồi, trong suốt cả cuộc đời mình, rốt cuộc Vân Thiên Phong cũng gặp được một kẻ còn xui xẻo hơn cả bản thân."
+    },
+    {
+      "para_id": "c0158p0029",
+      "index": 29,
+      "raw_zh": "就見那美女蛇滾動著十幾米長的巨大身軀，看都沒看雲千峰一眼，直奔著羅琳娜就追過去。",
+      "translated_vi": "Chỉ thấy con mỹ nữ xà kia quằn quại tấm thân khổng lồ dài hơn chục mét, thậm chí chẳng thèm liếc Vân Thiên Phong lấy một cái, hùng hổ trườn thẳng theo hướng Lorina mà đuổi riết."
+    },
+    {
+      "para_id": "c0158p0030",
+      "index": 30,
+      "raw_zh": "巨大的腦袋隨著身體的蠕動左右擺動，那條長長的信子快速的吞吐，始終瞄準著羅琳娜屁股的位置。",
+      "translated_vi": "Chiếc đầu khổng lồ lắc lư sang hai bên theo từng nhịp trườn uốn lượn của cơ thể, chiếc lưỡi dài ngoằng liên tục thò thụt nhanh như chớp, trước sau đều nhắm chuẩn xác vào vị trí bờ mông của Lorina."
+    },
+    {
+      "para_id": "c0158p0031",
+      "index": 31,
+      "raw_zh": "羅琳娜聞到了那異香和腥臭混合的濃厚怪味，禁不住回頭看了一眼，見到那蛇信子的位置，當下TUN部肌肉一緊，差點嚇尿。",
+      "translated_vi": "Lorina ngửi thấy mùi hương kỳ quái nồng nặc pha lẫn tanh tưởi phía sau, không kìm được ngoái đầu nhìn lại một cái. Vừa thấy vị trí chiếc lưỡi rắn đang chĩa vào, cơ mông cô lập tức thít chặt lại, sợ đến mức suýt chút nữa tè ra quần."
+    },
+    {
+      "para_id": "c0158p0032",
+      "index": 32,
+      "raw_zh": "心裡怒罵：",
+      "translated_vi": "Trong lòng cô phẫn nộ gào thét:"
+    },
+    {
+      "para_id": "c0158p0033",
+      "index": 33,
+      "raw_zh": "“這蛇有鬣狗基因嗎？”",
+      "translated_vi": "“Con rắn này mang gen linh cẩu hay sao mà khoái chơi trò cắn trộm mông thế hả?”"
+    },
+    {
+      "para_id": "c0158p0034",
+      "index": 34,
+      "raw_zh": "眼看著蛇信子已經碰到了自己，羅琳娜悲憤高呼：",
+      "translated_vi": "Trông thấy chiếc lưỡi rắn đã chạm vào người mình, Lorina bi phẫn gào toáng lên:"
+    },
+    {
+      "para_id": "c0158p0035",
+      "index": 35,
+      "raw_zh": "“雲千峰，我要死啦！你記得把羅林弄這來變成女的嫁給伱”",
+      "translated_vi": "“Vân Thiên Phong, tôi chết chắc rồi! Anh nhớ mang Rolin tới đây biến thành phụ nữ rồi gả cho anh đấy nhé...”"
+    },
+    {
+      "para_id": "c0158p0036",
+      "index": 36,
+      "raw_zh": "雲千峰沒搞懂羅琳娜這句話的邏輯，因為他沒時間思考，正在用最快的速度追著美女蛇的尾巴。",
+      "translated_vi": "Vân Thiên Phong chẳng thể nào hiểu nổi logic trong câu nói đó của Lorina, bởi vì anh đâu có thời gian mà nghĩ ngợi, lúc này đang dốc cạn bình sinh đuổi bám theo đuôi con mỹ nữ xà."
+    },
+    {
+      "para_id": "c0158p0037",
+      "index": 37,
+      "raw_zh": "他到底還是做不到見死不救，尤其是他和羅琳娜倆人之間有著某種心電感應似的聯系，讓他能夠清晰地感覺到羅琳娜此刻的不甘、絕望和不舍。",
+      "translated_vi": "Anh rốt cuộc vẫn không thể làm ngơ thấy chết không cứu, huống chi giữa anh và Lorina dường như tồn tại một mối liên kết thần giao cách cảm vi diệu, khiến anh cảm nhận được rõ ràng nỗi uất ức, tuyệt vọng và cả sự quyến luyến không nỡ rời xa lúc này của cô."
+    },
+    {
+      "para_id": "c0158p0038",
+      "index": 38,
+      "raw_zh": "她舍不得雲千峰，雲千峰也一樣。",
+      "translated_vi": "Cô không nỡ rời xa Vân Thiên Phong, và anh cũng thế."
+    },
+    {
+      "para_id": "c0158p0039",
+      "index": 39,
+      "raw_zh": "這美女蛇的鱗片極其堅韌，雲千峰用自己堪比項羽的右臂使勁砸下去，那美女蛇頭都不帶回的，根本沒感覺。",
+      "translated_vi": "Lớp vảy của con mỹ nữ xà này kiên cố vô cùng, Vân Thiên Phong dùng cánh tay phải sở hữu sức mạnh chẳng kém Hạng Vũ nện xuống một cú trời giáng, vậy mà con rắn thậm chí chẳng buồn ngoái đầu lại, căn bản không hề xi nhê."
+    },
+    {
+      "para_id": "c0158p0040",
+      "index": 40,
+      "raw_zh": "就這樣的鱗甲，用槍打都無濟於事。",
+      "translated_vi": "Với lớp vảy giáp cỡ này, có dùng súng bắn e rằng cũng vô phương cứu vãn."
+    },
+    {
+      "para_id": "c0158p0041",
+      "index": 41,
+      "raw_zh": "眼看著美女蛇就要用那大嘴一口把羅琳娜吞進去，雲千峰急中生智，想到了美女蛇的要害之處。",
+      "translated_vi": "Mắt thấy con mỹ nữ xà sắp sửa há cái miệng rộng ngoác nuốt chửng Lorina vào bụng, trong cơn nguy cấp Vân Thiên Phong bỗng nảy ra sáng kiến, nhớ tới điểm hiểm yếu nhất của loài rắn."
+    },
+    {
+      "para_id": "c0158p0042",
+      "index": 42,
+      "raw_zh": "這是一條雌蛇，雲千峰在它尾巴下端看到了一小塊沒有鱗片的地方，那裡還有個小紅點。",
+      "translated_vi": "Đây là một con rắn cái! Ở đoạn dưới chót đuôi của nó, Vân Thiên Phong nhìn thấy một khoảng nhỏ không hề có vảy, nơi đó còn lộ ra một chấm đỏ nho nhỏ."
+    },
+    {
+      "para_id": "c0158p0043",
+      "index": 43,
+      "raw_zh": "當下手指成爪，照著那紅點就扣了進去。",
+      "translated_vi": "Ngay lập tức anh co ngón tay thành trảo, nhắm thẳng vào chấm đỏ đó mà bấu mạnh vào!"
+    },
+    {
+      "para_id": "c0158p0044",
+      "index": 44,
+      "raw_zh": "美女蛇的血門大口已經把羅琳娜當頭罩住，羅琳娜連哭都嚇忘了，整個人懵在原處，等待著死亡的降臨。",
+      "translated_vi": "Cái miệng máu đỏ lòm của con mỹ nữ xà đã trùm kín đỉnh đầu Lorina, cô sợ hãi đến mức quên cả khóc lóc, cả người đờ đẫn tại chỗ chờ đợi tử thần giáng xuống."
+    },
+    {
+      "para_id": "c0158p0045",
+      "index": 45,
+      "raw_zh": "她看到蛇口內粉紅色的內膜，還有那蠕動著的吞咽肌肉，知道自己即將進入蛇腹，在那強酸的消化液裡變成腐爛的食物。",
+      "translated_vi": "Cô nhìn thấy lớp màng hồng phấn bên trong vòm miệng rắn cùng những thớ cơ nuốt đang co bóp ngọ nguậy, biết rằng mình sắp sửa lọt vào bụng rắn, tan thành thức ăn thối rữa dưới lớp dịch tiêu hóa axít cực mạnh."
+    },
+    {
+      "para_id": "c0158p0046",
+      "index": 46,
+      "raw_zh": "然而，就在蛇口漸漸合住，遮擋了光明那一刻。",
+      "translated_vi": "Thế nhưng, ngay vào khoảnh khắc miệng rắn dần khép lại che khuất ánh sáng."
+    },
+    {
+      "para_id": "c0158p0047",
+      "index": 47,
+      "raw_zh": "很突然。",
+      "translated_vi": "Quá đỗi bất ngờ!"
+    },
+    {
+      "para_id": "c0158p0048",
+      "index": 48,
+      "raw_zh": "羅琳娜聽到美女蛇嗓子眼裡竟然發出了一聲極為詭異的叫聲。",
+      "translated_vi": "Lorina bỗng nghe từ tận sâu trong cổ họng con mỹ nữ xà phát ra một tiếng rên rỉ cực kỳ quái đản."
+    },
+    {
+      "para_id": "c0158p0049",
+      "index": 49,
+      "raw_zh": "那叫聲婉轉，節奏綿長，莫名的非常熟悉。",
+      "translated_vi": "Tiếng kêu ấy uốn éo du dương, nhịp điệu kéo dài miên man, lại quen thuộc một cách lạ lùng."
+    },
+    {
+      "para_id": "c0158p0050",
+      "index": 50,
+      "raw_zh": "隨著那聲巨大的顫音，羅琳娜被蛇嗓子噴出的一口氣，直接吹得往前飛出去，在地上滾出了五六米遠，才止住身形。",
+      "translated_vi": "Kèm theo một âm rung chấn động cực lớn, Lorina bị một luồng khí từ cuống họng con rắn phụt ra thổi bay vèo về phía trước, lăn lông lốc trên mặt đất năm sáu mét mới dừng lại được."
+    },
+    {
+      "para_id": "c0158p0051",
+      "index": 51,
+      "raw_zh": "然後她抬頭看到雲千峰就站在美女蛇的後面，整條右臂似乎完全貫入了美女蛇的體內。",
+      "translated_vi": "Để rồi khi ngẩng đầu lên, cô thấy Vân Thiên Phong đang đứng ngay phía sau con mỹ nữ xà, nguyên cả cánh tay phải dường như đã cắm ngập hoàn toàn vào bên trong cơ thể con quái vật."
+    },
+    {
+      "para_id": "c0158p0052",
+      "index": 52,
+      "raw_zh": "羅琳娜心中油然生出感激，因為這男人沒有拋棄她，奮不顧身的來救自己，沒有勞燕分飛。",
+      "translated_vi": "Trong lòng Lorina dâng trào niềm cảm kích vô bờ bến, bởi vì người đàn ông này đã không vứt bỏ cô, liều mình xông tới cứu mạng cô, không hề có chuyện mạnh ai nấy chạy."
+    },
+    {
+      "para_id": "c0158p0053",
+      "index": 53,
+      "raw_zh": "同時心中對雲千峰多了十二分的敬佩。",
+      "translated_vi": "Đồng thời sự khâm phục dành cho Vân Thiên Phong trong lòng cô cũng tăng thêm mười hai phần."
+    },
+    {
+      "para_id": "c0158p0054",
+      "index": 54,
+      "raw_zh": "“這，真男人啊！啥都敢上！”",
+      "translated_vi": "“Đây mới đích thực là đấng nam nhi chứ! Cái gì cũng dám chơi tới bến!”"
+    },
+    {
+      "para_id": "c0158p0055",
+      "index": 55,
+      "raw_zh": "雲千峰看著發愣的羅琳娜，高聲怒罵道：",
+      "translated_vi": "Vân Thiên Phong thấy Lorina còn ngồi ngây ra đó, liền cao giọng quát lớn:"
+    },
+    {
+      "para_id": "c0158p0056",
+      "index": 56,
+      "raw_zh": "“傻娘們站著幹嘛？趕緊跑，往木樓裡面跑！”",
+      "translated_vi": "“Con mụ ngốc này còn đứng đực ra đấy làm gì? Chạy mau, chạy vào trong tòa nhà gỗ!”"
+    },
+    {
+      "para_id": "c0158p0057",
+      "index": 57,
+      "raw_zh": "原本雲千峰的想法是，自己傷了美女蛇，那麽美女蛇一定追殺自己才對，所以讓羅琳娜往出口跑，然後自己引著美女蛇往木樓跑，只要自己進了木樓，這大蛇別想追進去，因為入口有門。",
+      "translated_vi": "Ban đầu dự tính của Vân Thiên Phong là hễ mình đả thương con rắn thì chắc chắn nó sẽ quay sang truy sát mình, thế nên mới bảo Lorina chạy về phía lối ra, còn mình sẽ dụ nó về hướng tòa nhà gỗ; chỉ cần anh chui tọt vào bên trong nhà gỗ thì con rắn khổng lồ đừng hòng đuổi theo vì cửa vào có then chốt."
+    },
+    {
+      "para_id": "c0158p0058",
+      "index": 58,
+      "raw_zh": "而現在看來，雌性之間才是天然恨，那美女蛇盯死了羅琳娜，那麽計劃就要改變。",
+      "translated_vi": "Nào ngờ xem ra giống cái với nhau mới là mối thù trời sinh, con mỹ nữ xà cứ ghim chặt lấy Lorina không tha, vậy thì kế hoạch bắt buộc phải thay đổi."
+    },
+    {
+      "para_id": "c0158p0059",
+      "index": 59,
+      "raw_zh": "羅琳娜瞬間清醒，撇開比雲千峰還長的大長腿，悶頭往木樓方向奔跑。",
+      "translated_vi": "Lorina lập tức bừng tỉnh, sải đôi chân dài miên man còn dài hơn cả chân Vân Thiên Phong, cắm đầu cắm cổ lao thục mạng về phía tòa nhà gỗ."
+    },
+    {
+      "para_id": "c0158p0060",
+      "index": 60,
+      "raw_zh": "她很清楚，自己先跑遠，雲千峰才能放心跑。",
+      "translated_vi": "Cô hiểu rất rõ, chỉ khi mình chạy ra xa thì Vân Thiên Phong mới có thể yên tâm thoát thân."
+    },
+    {
+      "para_id": "c0158p0061",
+      "index": 61,
+      "raw_zh": "美女蛇受到突然襲擊，先是一仰脖子把羅琳娜下意識吐出去，緊接著動物習性，使勁的一扭油桶粗的蛇身，把胳膊還在美女蛇身體內的雲千峰甩得飛出去老遠。",
+      "translated_vi": "Bị tập kích bất ngờ nơi hiểm yếu, con mỹ nữ xà trước tiên ngửa cổ theo bản năng nhổ Lorina ra ngoài, ngay sau đó theo thói quen loài vật, nó uốn mạnh tấm thân to như thùng phuy, hất văng Vân Thiên Phong lúc bấy giờ cánh tay vẫn còn cắm trong người nó bay ra xa tít mù."
+    },
+    {
+      "para_id": "c0158p0062",
+      "index": 62,
+      "raw_zh": "雲千峰借著勁，在地上打了兩個滾，爬起來頭也不回撒腿就跑。",
+      "translated_vi": "Vân Thiên Phong mượn đà lăn lộn hai vòng trên mặt đất, lồm cồm bò dậy rồi chẳng thèm ngoái cổ lại, co cẳng chạy bạt mạng."
+    },
+    {
+      "para_id": "c0158p0063",
+      "index": 63,
+      "raw_zh": "硬鋼這麽一個怪物，他不是有沒有勇氣的問題，而是自己沒那麽低的智商。",
+      "translated_vi": "Đấu tay đôi sống mái với một con quái vật như thế này, đây không phải vấn đề dũng cảm hay không, mà là anh chưa đến mức ngu si đần độn như thế."
+    },
+    {
+      "para_id": "c0158p0064",
+      "index": 64,
+      "raw_zh": "那美女蛇在地上打了個顫，翻正了身體，一擺腦袋，追著雲千峰的方向而去。",
+      "translated_vi": "Con mỹ nữ xà rùng mình một cái trên mặt đất, lật thẳng thân mình lại rồi lắc lắc cái đầu, quay ngoắt sang đuổi theo hướng Vân Thiên Phong chạy."
+    },
+    {
+      "para_id": "c0158p0065",
+      "index": 65,
+      "raw_zh": "相對於羅琳娜，雲千峰這個獵物難纏很多。",
+      "translated_vi": "So với Lorina, con mồi Vân Thiên Phong này khó xơi hơn bội phần."
+    },
+    {
+      "para_id": "c0158p0066",
+      "index": 66,
+      "raw_zh": "他專挑植被茂密的地方跑，那美女蛇巨大的身軀在樹木之間左搖右擺，需要浪費極多時間。",
+      "translated_vi": "Anh cố tình chọn những bụi rậm cây cối rậm rạp chằng chịt mà luồn lách, thân hình hộ pháp của con rắn phải lượn qua lượn lại giữa các thân cây đại thụ, tiêu tốn rất nhiều thời gian."
+    },
+    {
+      "para_id": "c0158p0067",
+      "index": 67,
+      "raw_zh": "那美女蛇顯然有著一定的智商，而且脾氣暴躁。",
+      "translated_vi": "Con mỹ nữ xà kia rõ ràng sở hữu một mức trí tuệ nhất định, tính khí lại vô cùng nóng nảy gắt gỏng."
+    },
+    {
+      "para_id": "c0158p0068",
+      "index": 68,
+      "raw_zh": "眼見雲千峰這個小不點就在自己身前不遠，但就是追不上。",
+      "translated_vi": "Mắt thấy tên nhãi con Vân Thiên Phong kia ngay sát trước mặt mình nhưng đuổi mãi không kịp."
+    },
+    {
+      "para_id": "c0158p0069",
+      "index": 69,
+      "raw_zh": "氣的這龐大的家夥把路過的大樹撞得“碰碰”亂響，枝搖葉擺。",
+      "translated_vi": "Cơn giận dữ khiến sinh vật khổng lồ này va rầm rầm vào những thân cây trên đường đi, làm cành lá rung chuyển nghiêng ngả tơi bời."
+    },
+    {
+      "para_id": "c0158p0070",
+      "index": 70,
+      "raw_zh": "那木樓就在眼前不遠。",
+      "translated_vi": "Tòa nhà gỗ đã sừng sững ngay trước mắt."
+    },
+    {
+      "para_id": "c0158p0071",
+      "index": 71,
+      "raw_zh": "但就是這段路，決定著存亡。",
+      "translated_vi": "Thế nhưng chính đoạn đường ngắn ngủi này lại quyết định sống còn."
+    },
+    {
+      "para_id": "c0158p0072",
+      "index": 72,
+      "raw_zh": "因為木樓前是一片空地，沒有任何障礙物能夠幫助雲千峰阻攔這條美女蛇的速度。",
+      "translated_vi": "Bởi lẽ trước tòa nhà gỗ là một khoảng đất trống trơn, chẳng hề có bất kỳ vật cản nào có thể giúp Vân Thiên Phong kìm hãm tốc độ của con mỹ nữ xà."
+    },
+    {
+      "para_id": "c0158p0073",
+      "index": 73,
+      "raw_zh": "羅琳娜已經到了木樓門口，但是卻被阻攔在門外。",
+      "translated_vi": "Lorina đã tới trước cửa nhà gỗ, nhưng lại bị chặn đứng ở bên ngoài."
+    },
+    {
+      "para_id": "c0158p0074",
+      "index": 74,
+      "raw_zh": "她焦急的大聲對著雲千峰喊道：",
+      "translated_vi": "Cô sốt ruột gào to về phía Vân Thiên Phong:"
+    },
+    {
+      "para_id": "c0158p0075",
+      "index": 75,
+      "raw_zh": "“是密碼鎖，上面是你說的那種古彝文符號！”",
+      "translated_vi": "“Là khóa mật mã! Trên đó có những ký hiệu chữ Di cổ mà anh từng nói!”"
+    },
+    {
+      "para_id": "c0158p0076",
+      "index": 76,
+      "raw_zh": "雲千峰聽到這話，轉回身又一頭扎進樹林裡，大聲回道：",
+      "translated_vi": "Nghe thấy thế, Vân Thiên Phong đành quay ngoắt người cắm đầu lủi lại vào trong rừng cây, hét lớn:"
+    },
+    {
+      "para_id": "c0158p0077",
+      "index": 77,
+      "raw_zh": "“說符號的樣子！”",
+      "translated_vi": "“Nói hình dạng ký hiệu ra xem nào!”"
+    },
+    {
+      "para_id": "c0158p0078",
+      "index": 78,
+      "raw_zh": "羅琳娜急忙大聲道：",
+      "translated_vi": "Lorina vội vàng gào lớn:"
+    },
+    {
+      "para_id": "c0158p0079",
+      "index": 79,
+      "raw_zh": "“兩個反著的Z左右疊加，中間一條下弧線，弧線上一個黑點；",
+      "translated_vi": "“Hai chữ Z ngược xếp chồng trái phải, ở giữa có một đường vòng cung uốn xuống, trên đường cong có một chấm đen;"
+    },
+    {
+      "para_id": "c0158p0080",
+      "index": 80,
+      "raw_zh": "第二個字符，兩條方向相反的立弧線左右交叉，中間一個黑點；",
+      "translated_vi": "Ký tự thứ hai, hai đường vòng cung đứng ngược chiều đan chéo trái phải, chính giữa có một chấm đen;"
+    },
+    {
+      "para_id": "c0158p0081",
+      "index": 81,
+      "raw_zh": "第三個很像一個古老的大炮，一根炮管向上，帶著兩個圓形的車輪；",
+      "translated_vi": "Ký tự thứ ba rất giống một khẩu pháo cổ, một nòng pháo chĩa thẳng lên trên, bên dưới có hai bánh xe tròn;"
+    },
+    {
+      "para_id": "c0158p0082",
+      "index": 82,
+      "raw_zh": "第四個很像一個蘑菇丁，旁邊長著小草；",
+      "translated_vi": "Ký tự thứ tư rất giống một tai nấm nhỏ, bên cạnh có cỏ mọc;"
+    },
+    {
+      "para_id": "c0158p0083",
+      "index": 83,
+      "raw_zh": "第五個又像是一個古老的大炮，不過炮管向左，車輪在右；",
+      "translated_vi": "Ký tự thứ năm lại giống như một khẩu pháo cổ, nhưng nòng pháo quay sang trái, bánh xe ở bên phải;"
+    },
+    {
+      "para_id": "c0158p0084",
+      "index": 84,
+      "raw_zh": "第六個是一個圓角方形，中間一個阿拉伯數字3。",
+      "translated_vi": "Ký tự thứ sáu là một hình vuông bo góc tròn, ở giữa có một chữ số Ả Rập 3."
+    },
+    {
+      "para_id": "c0158p0085",
+      "index": 85,
+      "raw_zh": "就這六個符號，但只有三個可以擺放的凹槽！”",
+      "translated_vi": "Chỉ có sáu ký hiệu này thôi, nhưng lại chỉ có ba rãnh lõm để đặt vào!”"
+    },
+    {
+      "para_id": "c0158p0086",
+      "index": 86,
+      "raw_zh": "雲千峰一聽這些符號的描述，一邊跑一邊皺眉思索，半晌後罵了句：",
+      "translated_vi": "Vân Thiên Phong nghe miêu tả những ký hiệu đó, vừa chạy vừa cau mày suy tính, hồi lâu sau liền chửi đổng một câu:"
+    },
+    {
+      "para_id": "c0158p0087",
+      "index": 87,
+      "raw_zh": "“這幫巫人真汙！”",
+      "translated_vi": "“Lũ Vu nhân này đúng là đen tối thô tục hết chỗ nói!”"
+    },
+    {
+      "para_id": "c0158p0088",
+      "index": 88,
+      "raw_zh": "感謝尾數19997、赤余心之所善、與命無染的月票獎勵，謝謝你們的支持！感激！！！！！！！！！",
+      "translated_vi": "Chân thành cảm ơn sự khích lệ bằng phiếu tháng từ bạn đọc đuôi số 19997, Xích Dư Tâm Chi Sở Thiện, Dữ Mệnh Vô Nhiễm, cảm ơn sự ủng hộ của các bạn! Vô cùng cảm kích!!!!!!!!!"
+    }
+  ]
+}

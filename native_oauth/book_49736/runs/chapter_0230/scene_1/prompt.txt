@@ -1,0 +1,90 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0230|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §51):
+§1 230.第230章 我們是祭品！
+§2 第230章 我們是祭品！
+§3 [Ø=云千峰]那兩個工作人員翻找了半天，可算是把醫療箱翻了出來，其中一人一臉尷尬的笑道：
+§4 [Ø=云千峰]“醫生總是亂放東西，下次一定要罵死他。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§5 [Ø=云千峰]說著話，倆人打開醫療箱，找出了止痛藥和麻藥。
+§6 還有準備簡單外科手術的手術刀。
+§7 [Ø=云千峰]“約翰，你要把住她的手腳，千萬不能讓她亂動。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 [Ø=云千峰]這兩個人膽子也是大，割耳朵這樣的活， [||] 說接就接，而且也不找個乾淨點的房間，就準備在桌子上搞定。
+§9 [Ø=云千峰]那個拿著手術刀，手表戴在右手的金發碧眼看向雲千峰，道：
+§10 [Ø=云千峰]“嘿，朋友，你能幫我按住你這個夥伴的頭嗎？我們的麻藥恐怕效果沒有那麽好，必須保證她不會因為疼痛和恐懼而扭動。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=云千峰]雲千峰點頭，微笑道：
+§12 “願意效勞。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 [Ø=云千峰]說著，面帶笑容的來到荷茜許的頭側，雙手按向荷茜許的頭頂和下巴。
+§14 [Ø=云千峰]然而，就在雙手即將觸碰到荷茜許頭部的時候， [||] 那兩隻手化掌為拳，往上一翻，徑直鑽向那右手戴表的金發碧眼的咽喉。
+§15 [Ø=云千峰]一動就是下死手，一點余地未留。
+§16 [Ø=云千峰]雲千峰如此突然的舉動，讓所有人都大吃一驚。
+§17 [Ø=云千峰]更讓他們不解的是，那右手戴著手表的人幾乎同時出手，用手術刀刺向雲千峰的眼睛。
+§18 動手沒有一先一後。
+§19 [Ø=云千峰]下手都未留情，直奔死穴。
+§20 [Ø=云千峰]雲千峰一偏頭，手術刀擦著他的顴骨劃過去，在元的保護下，沒有留下絲毫的傷痕。
+§21 [Ø=云千峰]那右手戴著手表的家夥也是一個側身，躲過了雲千峰一個上斜打出的鑽拳。
+§22 [Ø=云千峰]雙雙失手，倆人都沒有後退，而是幾乎同時向對方迫近，手中毒辣的招式頻出。
+§23 一個招招不離雲千峰的眼睛和大腿動脈位置。
+§24 雲千峰則是招招不離對方咽喉下檔和後腦。
+§25 就像是一個師傅教出來的兩個陰損的徒弟互相喂招。
+§26 [Ø=云千峰]那被稱為約翰，表盤在左手脈搏處的人不知在何處掏出一把手槍，頂在了躺在桌子上的荷茜許的腦袋，大聲道：
+§27 [Ø=云千峰]“住手，否則我殺了她！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 [Ø=云千峰]聽到這話，雲千峰的拳頭更加威猛，攻擊頻率也更快了起來，似乎生怕對方不開槍。
+§29 荷茜許大聲呼救：
+§30 [Ø=云千峰]“不要，不要殺我，雲千峰，你住手啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=云千峰]見雲千峰不為所動，約翰用槍直接在荷茜許的肩膀上開了一個洞。
+§32 [Ø_SHIFT=姜柔甲]伴隨著荷茜許的慘叫，約翰再次大聲吼道：
+§33 [Ø=姜柔甲]“住手，我不是開玩笑的！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 [Ø=姜柔甲]雲千峰此時恰好一把擼掉了對手的那把手術刀，聽到約翰呼喊， [||] 一甩手將手術刀飛了出去，不是射向約翰，而是直接扎進了荷茜許的另一個肩膀。
+§35 [Ø=姜柔甲]態度很明確，你丫快點殺。
+§36 [Ø_SHIFT=云千峰]荷茜許崩潰了，哭嚎著：
+§37 [Ø=云千峰]“為什麽？為什麽要這樣對我，老天爺啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 [Ø=云千峰]骨子裡，到了最恐懼的時候，荷茜許還是把上帝給忘了。
+§39 何苦呢！
+§40 [Ø=云千峰]其他幾個人早就嚇得趴在地上，傑裡周更是鑽到了沙發底下。
+§41 [Ø=云千峰]對方沒有了手術刀，對雲千峰沒有了一毫威脅，頓時落於下風，被雲千峰亂拳砸中頭部和腹部。
+§42 [Ø=云千峰]就雲千峰那堪比狗熊的力氣，只是幾下， [||] 就把對方打得嘴巴和鼻孔內傷滲血，倒在了地上，爬不起來。
+§43 “砰砰砰”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]連續三槍。
+§44 [Ø=云千峰]第一槍打中了雲千峰的頭部，讓他在慣性下身體向後倒去，第二槍打中雲千峰的下巴，[Ø_SHIFT=姜柔甲]加速了他的倒地。
+§45 [Ø=姜柔甲]第三槍，則是準確打向雲千峰的大腿動脈。
+§46 [Ø=姜柔甲]三槍，沒有一槍是多余的，非常有計劃和章法。
+§47 [Ø=姜柔甲]這愈加明顯的證明，這倆人熟悉雲千峰，知道要殺雲千峰，只能從腿部入手。
+§48 [Ø=姜柔甲]然而雲千峰玩命的本事絕不比這倆人差，他在倒下的一瞬間， [||] 就讓雙腳騰空，勾起了旁邊的桌子，擋住了自己的雙腿。
+§49 [Ø=姜柔甲]那顆子彈嵌進了厚實的硬木卓子，被帶偏了方向。
+§50 [Ø=姜柔甲]荷茜許直接被翻倒的桌子掀飛，落在了桌子的另一側。
+§51 [Ø=姜柔甲]趕巧的是，那沉重堅硬的桌子，恰好砸在了荷茜許的腦袋，直接砸的變了形。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 51 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§51. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

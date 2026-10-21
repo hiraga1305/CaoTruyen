@@ -1,0 +1,78 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0234|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一張|một tấm
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §37):
+§1 234.第234章 生命與生存
+§2 第234章 生命與生存
+§3 [Ø=云千峰]隨著極夜的降臨，溫度下降的速度非常快。
+§4 [Ø=云千峰]之前雲千峰和琳達在雪地車內，包裹著層層冬裝還能堅持，但現在卻完全扛不住，懂得渾身發抖。
+§5 [Ø=云千峰]雲千峰還好些，就是腿抖，琳達是全身顫栗那種，牙齒都在咯咯咯的打架。
+§6 [Ø=云千峰]正在開雪地車的琳達緩緩把雪地車停住，看著雲千峰喘息道：
+§7 [Ø=云千峰]“叔叔啊，我有些上不來氣，呼吸好困難！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 [Ø=云千峰]不只是琳達，就是雲千峰也感覺呼吸非常瘀滯，胸口憋悶的難受。
+§9 倆人的狀態很明顯是缺氧了。
+§10 [Ø=云千峰]按理說隨著極夜的到來，南極的氣壓會開始慢慢升高，呼吸應該會比極晝的時候更容易一些才對。
+§11 [Ø=云千峰]但是也有特例，那就是暴風雪即將到來之前，南極的氣壓會陡然降低，甚至達到人無法承受的程度。
+§12 [Ø=云千峰]雲千峰借著車燈看出去，然後指著左前方道：
+§13 [Ø=云千峰]“琳達，我們把車開到那個冰山斷層處去，在那裡應該能夠躲避這場暴風雪。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§14 [Ø=云千峰]這些年，隨著全球變暖，在南極出現很多這種冰山坍塌後留的斷層，看起來就像是冰雪鑄就的懸崖。
+§15 [Ø=云千峰]南極的暴風雪都是極其可怕的，風速能達到百米每秒，力量大得能夠輕而易舉的將二百多斤的冰塊拋飛到幾千米之外， [||] 如果兩個人不找個背風的地方，恐怕在暴風雪後，就不知道被狂風卷到那個爪哇國去了。
+§16 [Ø=云千峰]倆人來到那冰崖之下時，琳達已經需要張著嘴巴喘氣， [||] 頻率之快，好似哮喘一般，讓人聽著都感覺憋悶。
+§17 [Ø=云千峰]雲千峰忙把倆人的座椅放平，這樣就成了一張[M1:một tấm]小床。
+§18 [Ø=云千峰]可別小瞧這張小床，它能讓睡在上面的人盡可能的遠離地面，更容易保持倆人的體溫。
+§19 [Ø=云千峰]把兩件大羽絨服鋪在厚棉墊的椅子上，雲千峰扶著已經非常虛弱的琳達躺好，然後把飛機上帶下來的三條毛毯蓋在琳達身上，說道：
+§20 [Ø=云千峰]“暴風雪時，這裡的溫度會急速下降到零下六七十度，甚至更低， [||] 你自己是無法抗住這樣的低溫的，我們需要體溫共享，所以你需要脫掉你外面的衣服，明白嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 [Ø=云千峰]琳達勉強的點了點頭，伸著手軟的胳膊，喘息道：
+§22 [Ø=云千峰]“叔叔，我沒力氣了，伱幫我。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 沒有人會在這樣的環境下糾結其它。
+§24 [Ø=云千峰]雲千峰沒說話，但手已經開始了它的工作。
+§25 [Ø=云千峰]要脫掉一個人的全身的衣服，尤其是厚實的冬裝，真是一件耗費精力的事情，尤其是對方無力無法配合的時候。
+§26 [Ø=云千峰]雲千峰盡可能解除琳達身上的束縛，任何一點胸腔的解壓步驟，都能增加活命的機會。
+§27 [Ø=云千峰]這不是開玩笑，南極的缺氧，會死人的。
+§28 [Ø=云千峰]把琳達身上的衣服都鋪在毛毯上，增加倆人的保暖層。
+§29 [Ø=云千峰]隨後雲千峰也鑽進毛毯之內，快速的把身上的衣服脫掉，鋪在琳達的衣服上，讓倆人看起來就像是窩在一堆厚實的衣服之中。
+§30 [Ø=云千峰]看起來應該很暖和，但位置放在零下六七十度的南極，這些衣服和毛毯真的完全不夠。
+§31 女生是羞澀的。
+§32 [Ø=云千峰]琳達把後背對著雲千峰，但極盡可能的把後背挨著雲千峰。
+§33 接觸面能夠提升倆人共享體溫的效果。
+§34 [Ø=云千峰]琳達的體溫久久沒有恢復，十幾分鍾的時間， [||] 依舊還是冰涼的後背，哪怕有雲千峰的體溫共享，也依舊沒有作用。
+§35 [Ø=云千峰]最可怕的是，琳達現在呼吸的聲音已經帶著空腔的氣聲，就像一個人在不斷的打著飽嗝。
+§36 [Ø=云千峰]雲千峰知道，琳達之所以無法烘暖身體，是因為缺氧，呼吸困難導致的血液循環停滯減慢。
+§37 “琳達？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 37 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§37. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

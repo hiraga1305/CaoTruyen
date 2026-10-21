@@ -1,0 +1,93 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0287|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一張|một tấm
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §52):
+§1 287.第287章 四庫俱全
+§2 第287章 四庫俱全
+§3 [Ø=云千峰]這裡的蛇太多了，密密麻麻彼此交纏。
+§4 [Ø=云千峰]紅綠交織在一起，好像一張[M1:một tấm]色彩斑斕的地毯。
+§5 [Ø=云千峰]每一腳踩下去，最少都有兩三條蛇被踩到，甚至更多。
+§6 [Ø=云千峰]有些毒蛇還會順著他的靴子往上爬，速度竟然不慢，雲千峰也不理會， [||] 爬到腰上，就順手拍掉，反正這些東西根本傷不到他。
+§7 [Ø=云千峰]蚩尤跟了進來，這些小東西想擦破他的皮兒都辦不到。
+§8 [Ø=云千峰]雲千峰在現實世界的時候，也去過這種毒蛇霸佔的區域。
+§9 [Ø=云千峰]在他老家，一個山村裡，就有一個山頭生滿了蛇類，被當地人稱作蛇山。
+§10 [Ø=云千峰]無論多麽響晴的天，那個山頭肯定都籠著霧氣，靠近了就能聞到腥味。
+§11 [Ø=云千峰]只是到了山邊，就能做到三步一條蛇，相當瘮人。
+§12 [Ø=云千峰]雲千峰小時候在那山邊抓過蛇，用來給大人泡酒，結果就去了一次， [||] 回來後就發燒，全身無力，躺了好幾天。
+§13 [Ø=云千峰]所以他對這東西有陰影，走得非常快，恨不得一下跑出這蛇群的范圍。
+§14 [Ø=云千峰]玉奴騎在雲千峰的脖子上，雙手緊緊把住雲千峰的腦袋，生怕自己掉了下去。
+§15 [Ø=云千峰]即便如此，那下面交織如網的毒蛇，還是讓她瑟瑟發抖。
+§16 [Ø=云千峰]她一抖，雲千峰的脖子就癢癢，然後就會縮一下脖子。
+§17 他可是短發。
+§18 [Ø=云千峰]於是，他一縮脖子，玉奴的肌肉就哆嗦一下，抖得更厲害。
+§19 [Ø=云千峰]於是，惡性循環。
+§20 [Ø=云千峰]這樣走了半個多小時，腳下總算再看不到那些紅綠花紋，三角腦袋的毒蛇。
+§21 [Ø=云千峰]玉奴可算是受夠了短發的折磨，忙道：
+§22 [Ø=云千峰]“郎君，太真自己走吧，不想郎君受累。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 [Ø=云千峰]雲千峰歎了口氣，道：
+§24 [Ø=云千峰]“我也想啊，不過夠嗆， [||] 前面是沼澤地，就憑這十八層地獄的尿性，裡面不危險才是怪事。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 [Ø=云千峰]說著，先把一隻腳踩進沼澤地，稀溏的泥水直接沒過膝蓋。
+§26 [Ø=云千峰]雲千峰把腿用力的在淤泥裡拽出來，就見上面爬滿了小拇指大小的吸血螞蝗。
+§27 [Ø=云千峰]就這螞蝗的數量，要不是蚩尤跟著他來到這裡，現在他的腿可能已經只剩下一層皮和骨頭，裡面絕對蛀空。
+§28 太真是個很容易和現實妥協的人。
+§29 [Ø=云千峰]她見到這一幕，舔了舔略粉的紅唇，柔聲道：
+§30 [Ø=云千峰]“郎君受累了，太真以後一定結草銜環，報答你！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=云千峰]就很聽話，雲千峰不讓說做牛做馬，那咱就結草銜環。
+§32 [Ø=云千峰]說完了結草銜環，太真臉又紅了，也不知道這女人腦子裡都裝了啥。
+§33 [Ø=云千峰]反正好像就是聽不得“環”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]字，一聽就臉紅。
+§34 [Ø=云千峰]這沼澤地越來越深，雲千峰不得不雙手托舉玉奴， [||] 把她舉在頭頂上，玉奴則把雙腳踩在雲千峰肩膀上，這樣才能避免被那些螞蝗咬到。
+§35 [Ø=云千峰]雲千峰的全身，胸口往下，已經爬滿了那些惡心的東西。
+§36 黑甲都變成白色的。
+§37 [Ø=云千峰]又是半個小時，走出了這片沼澤。
+§38 [Ø=云千峰]那是一片草原，還不小。
+§39 [Ø=云千峰]地面土地比較堅硬，終於算是正常了。
+§40 [Ø=云千峰]就在雲千峰剛把玉奴放在地上，讓她自己走的時候，遠處傳來了“轟隆隆”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]的悶響。
+§41 玉奴疑惑道：
+§42 “打雷了？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 [Ø=云千峰]雲千峰耳朵動了動，指著一個方向道：
+§44 [Ø=云千峰]“不是打雷，是野牛！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§45 [Ø=云千峰]遠處，一群野牛結隊，呈尖刀陣，向著倆人的位置衝過來。
+§46 [Ø=云千峰]還沒到跟前，就把腦袋低下去，用尖利的牛角對著他們的方向。
+§47 [Ø=云千峰]玉奴嚇得花容失色，顫聲道：
+§48 “這這可如何是好？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§49 雲千峰淡定道：
+§50 [Ø=云千峰]“別擔心，阿菲法說阿甘說過，當野牛群朝你衝過來的時候， [||] 只要你淡定的不動，野牛群會在距離你三四十米的距離時急轉彎逃走，它們就是嚇唬人的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§51 玉奴顫聲道：
+§52 “阿甘是誰？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 52 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§52. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

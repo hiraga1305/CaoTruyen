@@ -1,0 +1,111 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0273|scene:01|route:LOW|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一座|một tòa
+M2|一座|một tòa
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §69):
+§1 273.第273章 燈火樓台一萬家
+§2 第273章 燈火樓台一萬家
+§3 [Ø=云千峰]三人到了石像旁邊，雲千峰把LED燈交到卓瑪手上，然後深吸氣， [||] 緊接著突然開聲發力， [||] 手掌呈掌刀，照著石像的腳趾砍過去。
+§4 “啪啪啪！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§5 “哢！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§6 石像的腳趾被雲千峰斬斷了兩根。
+§7 [Ø=云千峰]但是他沒有住手，而是繼續劈砍。
+§8 [Ø=云千峰]很快，石像的五根腳趾，包括一小段腳掌，都被雲千峰用掌刀震裂下來。
+§9 [Ø=云千峰]而在這個過程裡，石像紋絲不動。
+§10 白狐和卓瑪都驚呆了。
+§11 [Ø=云千峰]因為事實做出了證明，那就是石像不是因為聲波而穩定懸浮在這裡。
+§12 [Ø=云千峰]不是因為雲千峰對石像的撞擊沒有造成石像移動，而是因為石像丟掉了腳掌，但卻依舊紋絲沒動。
+§13 [Ø=云千峰]一個物體失去了部分質量和體積，它的共振頻率必然發生改變。
+§14 [Ø=云千峰]石像失去了部分質量和體積，但它依舊紋絲沒動，這就宣告了聲波說法是錯誤的。
+§15 白狐苦惱道：
+§16 [Ø=云千峰]“可，若不是聲波，還能是什麽呢？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 [Ø=云千峰]卓瑪有了第三眼，但是見識沒見長，低聲道：
+§18 [Ø=云千峰]“一定是法術，神奇的法術。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 [Ø=云千峰]雲千峰搖頭，道：
+§20 [Ø=云千峰]“從古至今，無論什麽法術，掀開來都有一個能夠解釋的原理，比如懸浮巨石， [||] 它依舊是物理技術的運用，只是我們現代科技還沒掌握聲波移動巨大物體，但那是早晚的事，因為我們知道了原理。
+§21 [Ø=云千峰]所以在我看來，法術只是一個名詞， [||] 人類命名的名詞，本身與神秘不相關，而與認知相關。
+§22 [Ø=云千峰]我們現在需要從別的角度來分析，這石像為什麽可以如此穩定的漂浮在這，紋絲不動。”
+§23 [Ø=云千峰]三個人回到石頭上又研究了良久，然而卻沒有找到可行的原理。
+§24 [Ø=云千峰]只是，他們很快就沒時間思考這件事了。
+§25 因為更詭異的一幕出現了。
+§26 時間已經過去了四個半小時。
+§27 [Ø=云千峰]可是這裡依舊一片漆黑，太陽沒有露面。
+§28 [Ø=云千峰]而根據他們這幾天的觀察，此時應該是天亮半個小時後。
+§29 [Ø=云千峰]這裡的日夜時間非常穩定，沒有一秒的誤差，但是現在這個誤差出現了，還是超大的誤差。
+§30 [Ø=云千峰]三個人忍住，又等了一個小時，終於都忍不住了。
+§31 白狐道：
+§32 [Ø=云千峰]“或許，白天不會來了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 卓瑪也急道：
+§34 “現在該怎麽辦？不能在這裡傻等著嘛！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 [Ø=云千峰]雲千峰看著漆黑的四野，沉聲道：
+§36 [Ø=云千峰]“別急，我相信帝嚳！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 [Ø=云千峰]白狐和卓瑪完全想不通，此時的困境和相信不相信帝嚳有什麽關系。
+§38 白狐低聲問道：
+§39 “那我們就這樣等著嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 [Ø=云千峰]雲千峰搖頭，道：
+§41 [Ø=云千峰]“我相信帝嚳，是可以肯定這裡一定有出路，還有信息需要我們去發覺。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§42 [Ø=云千峰]說著，他轉頭對著白狐道：
+§43 [Ø=云千峰]“拿著冷光燈，找一棵附近最高的大樹爬上去，看看四周遠處的情況。這是個能聽到，能嗅到的世界， [||] 但是氣味和聲音都沒有可疑的信息，那麽唯一的出路一定在這我們以為沒有光的世界，需要去看到，帝嚳一向如此，最不可能的就是可能。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 [Ø=云千峰]白狐拿起LED燈，以自己的夜眼，憑借微弱的光在附近快速的找到了一棵粗壯的大樹，然後迅速的攀爬上去。
+§45 [Ø=云千峰]毛茸茸的大尾巴，讓她的平衡性超好。
+§46 [Ø=云千峰]雲千峰就看到那白色的燈光在不遠處快速的向上移動，在高處停留了幾秒鍾後，便又快速的下降，很快回到了篝火邊。
+§47 [Ø=云千峰]“雲千峰，你又說對了，果然需要用眼睛看！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§48 卓瑪急道：
+§49 “發現了什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§50 [Ø=云千峰]白狐指著一個方向，用一種極為難以置信的語氣道：
+§51 [Ø=云千峰]“在那個方向千米外，有燈火。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§52 雲千峰詫異道：
+§53 “燈火？多少？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§54 [Ø=云千峰]白狐長長的吐了口氣，沉聲道：
+§55 “萬家燈火！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§56 [Ø=云千峰]雲千峰蹭的一下在篝火邊站起來，驚訝道：
+§57 “遠處有一座[M1:một tòa]城？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§58 白狐深深的點了一下頭。
+§59 [Ø=云千峰]在這沒有白天的區域裡，有一座[M2:một tòa]城，還閃耀著無數燈火，這已經詭異到沒邊了。
+§60 卓瑪疑惑道：
+§61 “難道這裡還有居民？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§62 白狐苦笑道：
+§63 [Ø=云千峰]“不知道，但如果有，會不會都是人身蛇尾？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§64 [Ø=云千峰]他們都清楚，去那座城的結果吉凶難料，但他們卻沒有更多的選擇。
+§65 [Ø=云千峰]時間不容浪費，雲千峰幾乎沒有任何遲疑，就讓白狐拿著LED燈在前方開路，自己拽著白狐的尾巴， [||] 卓瑪拽著雲千峰的衣服，三人排成一排，小心翼翼的在岸邊的叢林裡穿梭，向著那未知的城走去。
+§66 [Ø=云千峰]城，在一個坑裡，是個典型的天坑。
+§67 [Ø=云千峰]長不過兩千米，寬不下一千米。
+§68 [Ø=云千峰]雲千峰三人就站在天坑的邊緣，俯瞰這個天坑城市。
+§69 [Ø=云千峰]借著城內的燈火，可以看到這裡燈火樓台，非常熱鬧。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 69 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§69. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

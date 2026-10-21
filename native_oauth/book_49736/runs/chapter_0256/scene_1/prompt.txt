@@ -1,0 +1,83 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0256|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §44):
+§1 256.第256章 再遇
+§2 第256章 再遇
+§3 [Ø=云千峰]可以看得出來，白妹子在安排車輛的時候，也是有過精細計算的。
+§4 [Ø=云千峰]要去岡壬山，最佳路線就是上318國道轉219國道， [||] 而雲千峰下飛機的地方前往318，抄近路的話，有一段比較顛簸的沿湖老路。
+§5 而牧馬人最擅長的就是走那樣的路段。
+§6 [Ø=云千峰]雲千峰幾乎不用思考，上車就按照電子地圖設置好的路線一路疾馳便可，可謂是節省了太多的時間。
+§7 [Ø=云千峰]一到318，雲千峰就看到電子地圖上有一個綠點在閃動，就在路口處。
+§8 [Ø=云千峰]而在那裡，停著一輛陸地巡洋艦， [||] 旁邊站著一個人，手裡舉著一個牌子，上面是雲千峰的名字。
+§9 [Ø=云千峰]雲千峰知道，這是白妹子安排在這裡等待自己的。
+§10 [Ø=云千峰]換不同型號的車，應對不同的路況，同時省去雲千峰加油的時間。
+§11 [Ø=云千峰]雲千峰沒廢話，把車往旁邊一橫，也不熄火， [||] 直接上了那輛陸地巡洋艦，這輛車同樣也沒熄火，雲千峰一腳油門直接上了318，一路疾馳。
+§12 [Ø=云千峰]這輛陸地巡洋艦明顯是經過改裝的，動力很強，速度也非常快。
+§13 [Ø=云千峰]最主要駕駛的時候，比牧馬人要舒服很多，很穩。
+§14 [Ø=云千峰]雲千峰幾乎油門踩到底在路上疾馳，這一路上極少能看到人家，寬敞的路上，跑一個小時也未必能遇到兩輛車。
+§15 [Ø=云千峰]唯一需要擔心的，就是可能突然在旁邊草原上衝出來一隻犛牛或者羚羊之類的野生動物。
+§16 [Ø=云千峰]當這輛陸地巡洋艦油箱只剩下三分之一時，雲千峰再次看到路邊等待自己的人。
+§17 [Ø=云千峰]這次是換了一輛保時捷卡宴，這算是越野車裡速度最快的一款。
+§18 [Ø=云千峰]看得出來，接下來的路段會比較平緩，適合使用這輛速度上更有優勢的車。
+§19 [Ø=云千峰]換第四輛車的時候，換成了兩個人等待，一個是司機。
+§20 [Ø=云千峰]白妹子有計算雲千峰的體力，她估算這個時候雲千峰心中的那股急勁已經過去， [||] 應該可以休息，於是給他安排了司機，讓他能夠在後座睡覺。
+§21 [Ø=云千峰]增加一個人的承載雖然會減慢一點車速，但雲千峰總是需要休息的。
+§22 [Ø=云千峰]五個小時以後，等待的人再次換成一個。
+§23 [Ø=云千峰]於是有變成了雲千峰自己開車，直到再次增加司機讓他休息。
+§24 [Ø=云千峰]這一次，雲千峰睡醒後，越野車已經疾馳在夜幕的草原上，這裡已經沒有路。
+§25 [Ø=云千峰]不多時，汽車減速停在路邊，那司機對著雲千峰說道：
+§26 [Ø=云千峰]“雲先生，接下來的路汽車無法行走，不過這裡距離岡壬山已經很近， [||] 我們把物資都放在了文扎的一個皮子廟裡，你跟著電子地圖就能走到那，向導也在那裡等待您。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 [Ø=云千峰]雲千峰點了點頭，一下車就看到不遠處有一人一馬站在湖邊，手拿電子地圖等待著。
+§28 [Ø=云千峰]月色朦朧，但還能看出個大概，那應該是個穿著傳統藏服的女孩，衣襟邊緣都是五彩的花色裝飾， [||] 頭戴一個狐皮帽，腰上纏著五色的腰帶，腰左側別著一把月牙形的藏刀，在月光下刀鞘反射著銀光。
+§29 [Ø=云千峰]白妹子詢問過雲千峰會不會騎馬，得到了否定的答案後，白妹子便有了這樣的安排，那就是安排一個騎馬的高手帶著雲千峰趕往放置物資的廟裡。
+§30 [Ø=云千峰]這小丫頭應該超過了17歲，因為狐狸帽下露出來的，是成年型辮套。
+§31 [Ø=云千峰]在這裡，女孩十五歲或者十七歲時，會把小孩的辮套改成這樣。
+§32 [Ø=云千峰]不過應該沒有成婚，因為這少女的三根辮子都是梳編起來。
+§33 [Ø=云千峰]雪區的女孩颯爽大方，更讓雲千峰開心的是，她的華夏語非常好。
+§34 [Ø=云千峰]“嘿，不會騎馬的男人，用我抱你上來的嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 [Ø=云千峰]女孩騎在馬背上，笑問雲千峰，清脆的聲音在這沒有遮掩的月夜下，似乎連聲帶的邊緣震動都能聽得那麽真切。
+§36 [Ø=云千峰]雲千峰尷尬一笑，問道：
+§37 “這馬力氣大嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 [Ø=云千峰]那女孩一愣，隨後道：
+§39 [Ø=云千峰]“當然，我是最好的騎手，這是最好的馬啦！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 [Ø=云千峰]雲千峰點了點頭，右腿用力點地，一個旱地拔蔥， [||] 整個人跳起來兩米高，一個拋物線恰好落在了女孩身後，穩穩的坐在馬背上。
+§41 [Ø=云千峰]而這匹駿馬也不愧是良駒，只是身體向下顫了一下，隨即便站穩如初。
+§42 [Ø=云千峰]女孩被雲千峰的操作驚豔了一下，讚道：
+§43 [Ø=云千峰]“好俊的身手，有這樣腿力的漢子，一定會找到好老婆的嘛！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 [Ø=云千峰]說著，女孩雙腿一夾，馬匹便撒腿奔跑起來。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 44 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§44. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

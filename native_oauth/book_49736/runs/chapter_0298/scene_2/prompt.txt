@@ -1,0 +1,121 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0298|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Vân Thiên Phong lại hỏi:
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|九成|chín phần
+M2|六道|sáu luồng
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §79):
+§1 “為什麽可以拿起來？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§2 [Ø=云千峰]大天使覺得這個問題很無聊，但因為是雲千峰問，她不得不回答：
+§3 [Ø=云千峰]“因為我手指上的指紋與石子之間形成的阻力大過了地球給予這石子的重力，所以就被我拿起來了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§4 雲千峰又問道：
+§5 “那為什麽會有重力？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§6 大天使耐著性子道：
+§7 [Ø=云千峰]“是地心引力和地球自轉離心力的合力，形成了重力。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 雲千峰笑道：
+§9 “為什麽會有地心引力？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§10 [Ø=云千峰]大天使語速變快，道:
+§11 [Ø=云千峰]“因為質量會產生引力，萬有引力難道您不知道？“
+§12 [Ø=云千峰]大天使有點惱火，因為這些問題太過幼稚。
+§13 [Ø=云千峰]雲千峰也不急，依舊笑道：
+§14 “為什麽有質量就會有引力？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 [Ø=云千峰]大天使語塞，遲疑道：
+§16 [Ø=云千峰]“這個，科學界還麽有定論，暫時無法解釋。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 雲千峰大笑道：
+§18 [Ø=云千峰]“信不信，任何科學公理，只要這樣問下去，都會出現一個科學體系裡最尷尬的事情，那就是所有的科學理論往前推導， [||] 最終一定會有一個盡頭是無法用科學解釋的，那就是規則本身，是道，是規則，是老子說的“我之所見即為真理”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]。
+§19 [Ø=云千峰]右弼的雙魚風水局不是科學，但他遵守了那科學無法解釋的規則， [||] 所以一定會有用，科學是一個學科，不是全部。”
+§20 [Ø=云千峰]大天使一時很難接受這種理論，但她不得不承認一點，那就是科學的根是無法用科學解釋的，[Ø_SHIFT=姜柔甲]這無疑很讓人崩潰。
+§21 [Ø=姜柔甲]距離右弼進入十八層地獄後僅僅一周時間，第二個抽了短簽的文曲也被全知之眼罰進了十八層。
+§22 [Ø=姜柔甲]文曲被黑白雙色的力量送走後，天璣等幾人才發現， [||] 文曲是把該不該送到十八層的人，都送到了十八層，也難怪雲千峰的工人越來越多。
+§23 “文曲為何要如此？求死嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 [Ø=姜柔甲]“文曲名字雖帶了個文字，卻是我們中脾氣最倔的一個，他定然是心中有氣，無法接受自己堂堂九屠竟成為小小棋子。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 [Ø=姜柔甲]“不僅如此，文曲好勝心強，他是急著去十八層， [||] 幫助雲千峰對付帝的算計，他想要帝明白，九屠的驕傲帝也不能隨意羞辱……”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§26 [Ø=姜柔甲]這一次，沒有九屠咒罵，而僅僅是分析對方的心理。
+§27 [Ø=姜柔甲]這說明，他們已經接受了必然存在的可預見的結局。
+§28 [Ø=姜柔甲]十五天后，九屠的巨門進入十八層。
+§29 [Ø=姜柔甲]一個半月後，廉貞進入十八層。
+§30 [Ø=姜柔甲]……六個月後，除了邋遢天璣， [||] 所有九屠都進了十八層，且被其他九屠有心尋找，最終全都被雲千峰收納。
+§31 [Ø=姜柔甲]此時，雙魚風水局已經完成了九成[M1:chín phần]，就差連接戌庫之地帝一小段水路。
+§32 [Ø=姜柔甲]估計最多再有一周時間，便可完全竣工，然後開始衝庫。
+§33 [Ø=姜柔甲]也在這一天，一個人出現在南山月宮。
+§34 [Ø=姜柔甲]她與姮娥一樣，戴著青銅虎面具，那猙獰的面具也沒能遮住那一身雍容。
+§35 “西王母！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 [Ø=姜柔甲]對於西王母的出現，姮娥略顯驚訝。
+§37 “怎麽？帝女不歡迎我嗎？怕我是來殺雲千峰的？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 [Ø=姜柔甲]姮娥沒出聲，等於肯定。
+§39 [Ø=姜柔甲]西王母不惱不怒，平靜道：
+§40 [Ø=姜柔甲]“恐怕你要難過了，我的確是來殺雲千峰的，而且還需要帝女的幫助。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 姮娥笑了：
+§42 [Ø=姜柔甲]“恐怕西王母要失望了，姮娥是不會幫你的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 西王母也笑道：
+§44 [Ø=姜柔甲]“不，帝女一定會幫我的，難不成帝女真的以為帝嚳的算計之下會有燈下黑？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§45 [Ø=姜柔甲]西王母不理會姮娥驚愕的眼神，繼續道：
+§46 [Ø=姜柔甲]“你的所有行為，包括利用地藏王像提醒雲千峰，利用那些凡人算計九屠，早都在帝嚳算計之中。
+§47 [Ø=姜柔甲]我沒有揭穿你，是因為帝嚳需要雲千峰進入第十八層地獄。
+§48 [Ø=姜柔甲]九屠可以上當，同樣是因為帝嚳需要九屠進入第十八層地獄，而不是因為你的算計他們才進入十八層地獄。
+§49 你當真以為帝嚳猜不到六道[M2:sáu luồng]盤在第十八層地獄之中？
+§50 [Ø=姜柔甲]他早就知道，只是他不稀罕去取罷了。
+§51 [Ø=姜柔甲]同樣的，這次我來殺雲千峰，你會幫我， [||] 也在帝嚳的算計之內。相信我，在帝嚳算計的盡頭之前，一切的一切，都在他的掌控之中。
+§52 [Ø=姜柔甲]而現在嗎，距離帝嚳算計的盡頭，還有不足四個月， [||] 而殺雲千峰，就在這幾日，還在帝嚳的算計之中。
+§53 怎麽？是不是不信自己會幫我？”
+§54 姮娥搖頭果斷道：
+§55 [Ø=姜柔甲]“無論如何，姮娥不會幫你，哪怕是帝命。我是共工妻，那才是我唯一的身份。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§56 西王母淡笑道：
+§57 [Ø=姜柔甲]“我知道你和共工的感情有多深，也正因為知道你對共工的感情，帝嚳才算準你會幫我殺雲千峰。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§58 [Ø=姜柔甲]說著，她看了一眼八副冰棺內八個個九屠的屍體，淡淡道：
+§59 [Ø=姜柔甲]“這冰棺可護住這些人的軀殼不會腐爛，但是可惜，人們只能感覺冰冷，人類最是可笑。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§60 [Ø=姜柔甲]說著又看向孤單一人頭戴大腦議會儀器的天璣，最後看了一眼閉目吻著銀行卡，躺在晶體艙內的雲千峰。
+§61 [Ø=姜柔甲]確定一切正常，然後才輕啟腳步，貼近姮娥的耳朵，用極輕的聲音說了幾句話。
+§62 [Ø=姜柔甲]可以看到，姮娥的眼神裡先是驚愕， [||] 緊接著是恐懼， [||] 隨後是無奈，最後是果決。
+§63 [Ø=姜柔甲]她看著西王母，沉聲道：
+§64 [Ø=姜柔甲]“好，我幫你！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§65 [Ø=姜柔甲]是的，在帝嚳算盡之前，沒人能逃出他的掌心，更是連拒絕的心力都無法擁有。
+§66 [Ø=姜柔甲]聽到姮娥這話，西王母在壞中取出了一個玉瓶，遞給姮娥，道：
+§67 [Ø=姜柔甲]“那就打開那讓人無可奈何的艙體，將這玉瓶內的藥液均勻的塗抹在雲千峰的皮膚上，記得要均勻，這種東西我也不是很多。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§68 “這藥？“
+§69 [Ø=姜柔甲]“這藥是給蚩尤用的，蚩尤的意識進入十八層地獄保護雲千峰，這是雲千峰在地獄的優勢， [||] 但在這裡，有你的幫忙，卻成為了他最大的弱點，去吧帝女。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§70 [Ø=姜柔甲]姮娥深呼吸一口氣，來到艙體前，打開了那只有她能打開的艙體，然後緩緩解開雲千峰的衣服。
+§71 [Ø=姜柔甲]西王母瞄了一眼姮娥在雲千峰身上的纖手，眼中笑意濃，淡淡道：
+§72 [Ø=姜柔甲]“我這就去閻羅殿，好好的欣賞這出好戲，帝女記得一會兒也來，可別錯過了”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§73 [Ø=姜柔甲]感謝書友尾數99789、尾數58838、尾數05715、雲卿君墓、尾數43567、尾數22655、尾數59913、尾數57686、尾數58931、爛柯棋緣何故、尾數50259的打賞，謝謝你們的支持！！！
+§74 感謝東方永嘉、涉惡、今為螻蟻_ac、兮鴛、尾數46796、魔羽銀天、invisl、尾數27134、尾數10944、Maskjoker、Xenomorph、尾數58357、非觴、尾數42013、尾數01001、尾數02573、尾數19972、尾數13388、尾數21056、SY眰恦、尾數21056、尾數15281、有無所謂、餓死在灶台的廚師、尾數26877、尾數13241、尾數23749_eb、一個找尋故事的人、某科學的超中二少年、尾數216488、維沃、尾數55838、沉沒丶、尾數48759尾數16538的月票獎勵！！！
+§75 [Ø=姜柔甲]作家說字數滿了，明天繼續記錄之前落下的！！！
+§76 [Ø=姜柔甲]還有，今天坐一天車， [||] 到家太晚了，距離五千字差七百字，明天加倍補上！
+§77 [Ø=姜柔甲]先在這裡謝謝大家的支持，看到很多打賞和月票的信息，心裡非常感激！！！
+§78 [Ø=姜柔甲]我已經到了東北，這裡溫度很舒服，終於不用汗流浹背的碼字了！！！
+§79 [Ø=姜柔甲]祝大家好夢，晚安！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 79 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§79. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

@@ -2,6 +2,7 @@
 from .base_cartridge import BaseGenreCartridge, GenreConstraintSpec
 from .western_occult import WesternOccultCartridge, PhoneticBackTransliterator
 from .classical_xianxia import ClassicalXianxiaCartridge
+from .urban_suspense import UrbanSuspenseCartridge
 
 __all__ = [
     "BaseGenreCartridge",
@@ -9,4 +10,5 @@ __all__ = [
     "WesternOccultCartridge",
     "PhoneticBackTransliterator",
     "ClassicalXianxiaCartridge",
+    "UrbanSuspenseCartridge",
 ]

@@ -1,0 +1,93 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0233|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §54):
+§1 233.第233章 這一章是一定要看的！
+§2 第233章 這一章是一定要看的！
+§3 [Ø=云千峰]當白狐在中世紀風格的書房內出現時，那正在書房內的人似乎已經等待多時。
+§4 [Ø=云千峰]“普羅，我感應到了你，你怎麽才來？還有，你的癖好怎麽越來越古怪？當人不好嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§5 白狐普羅歎息一聲：
+§6 [Ø=云千峰]“一言難盡，非我所願， [||] 只是濕瑪，伱這麽多年了，怎麽還是偏愛又高又白又胖的形象？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§7 [Ø=云千峰]那被稱為濕瑪的人也是歎息一聲，道：
+§8 [Ø=云千峰]“一言難盡，非我所願，我當時投胎的時候仔細觀察了， [||] 我覺得就那父母的長相，我應該長到肖恩康納利那麽帥，但誰想到變成了肥胖長殘版本。
+§9 [Ø=云千峰]普羅，你現在的前置記憶是狐狸嗎？我該怎麽稱呼你？”
+§10 白狐普羅說道：
+§11 [Ø=云千峰]“我現在的前置記憶是一個叫法緹娜的女人，你呢？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§12 濕瑪忙道：
+§13 [Ø=云千峰]“我現在的名字叫瑪肆科，你竟然不知道我的名字？你們家沒通網嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§14 白狐道：
+§15 [Ø=云千峰]“才回歸文明世界不久，沒來得及了解這一切，其他同族都還好嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§16 瑪肆科聳聳肩道：
+§17 [Ø=云千峰]“都還是老樣子，只不過現在大家玩得越來越肆意，很多都封了自己的記憶投胎，就為了玩刺激。
+§18 [Ø=云千峰]當然，最過分的還是小扎格，因為我收購了一個社交軟件， [||] 導致他的公司股票腰斬，小扎格竟然打電話威脅我，以後去火星在我的神軀上撒尿。
+§19 [Ø=云千峰]你知道的，他很小氣，一定會那麽做， [||] 所以我最近很忙，急著搞科技上火星，把我的神軀藏好。”
+§20 白狐笑道：
+§21 [Ø=云千峰]“小扎格的神軀在金星上吧？那裡那麽熱，火氣大點很正常， [||] 唉，就我們普羅星的同族，只有我活了下來。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 倆人默哀。
+§23 [Ø=云千峰]隨後他們又敘舊了一會，主要是白狐詢問各個同族現在的情況。
+§24 然後她發現一個問題：
+§25 [Ø=云千峰]“瑪肆科，為什麽我們的同族沒有一個是華夏人？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§26 [Ø=云千峰]瑪肆科一拍桌子，憤怒道：
+§27 [Ø=云千峰]“還不是該死的九屠，他們逼著我們和周天子簽訂了契約， [||] 生生世世不得生在華夏，說是怕我們投錯了胎，變成你這樣成精的畜生嚇到了小孩子。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 白狐急道：
+§29 “這不很明擺著是借口嗎？你們竟然還答應？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§30 [Ø=云千峰]瑪肆科無奈聳了聳肩，道：
+§31 [Ø=云千峰]“當然是借口，他們就是害怕我們輪回在華夏文明之中，了解了帝嚳的思維方式， [||] 至於我們為什麽答應，當然是怕嗎！我們害怕帝嚳咯，不許山神生華夏就是帝嚳的禁律。
+§32 [Ø=云千峰]帝嚳分封天下，把他認為比較垃圾的品種全都攆出了華夏神州地界，沿著北緯三十度線一路分封，一竿子全給攆出去， [||] 命令分封各部只能稱王不可稱皇，文字給音不給形，建塔必須有尖，不許平頂，永低他的嫡系華夏文明一個等級。”
+§33 [Ø=云千峰]白狐法緹娜還是看了很多資料的，她詫異道：
+§34 “帝嚳？周時帝嚳不是早就薨了嗎？還有什麽可怕？而且帝嚳不就是個人嗎？咱們可是神！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 瑪肆科苦笑道：
+§36 [Ø=云千峰]“普羅，你知道你最幸運的是什麽嗎？就是你沒親身經歷帝嚳的年代，那是眾神尿褲子的年代，我說的神可不僅僅包括我們這些被帝嚳封為山神的， [||] 還有其它你完全不知道的更可怕的存在，我們他們都怕帝嚳，這不丟神，一點都不丟。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 白狐不解道：
+§38 [Ø=云千峰]“我不了解帝嚳，但是帝嚳再強，周時他已經薨了，又有什麽可怕呢？我無法理解。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 [Ø=云千峰]瑪肆科歎息著，眼中全是恐懼和敬仰，說道：
+§40 [Ø=云千峰]“咱們一族在數千年前也是那麽認為的，我們自覺還是比較謹慎的， [||] 直等到帝嚳薨後，又忍過了唐堯和大禹兩位人皇，才開始暗暗運作。
+§41 [Ø=云千峰]我們輪回轉生到西商部族，靠著咱們的學識漸漸壯大殷商，然後趁著夏朝衰弱之際， [||] 東進而上，一舉消滅夏國，入主神州。
+§42 [Ø=云千峰]我們當時以為自己成功了，還在沾沾自喜， [||] 自大的覺得帝嚳算計不過如此，無法福緣千年，我們真的是太愚蠢了。”
+§43 [Ø=云千峰]白狐回憶了一下自己看過的世界史，納悶道：
+§44 [Ø=云千峰]“你們，不對，是我們確實成功了啊！商王朝確實入主神州了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§45 瑪肆科搖了搖頭：
+§46 [Ø=云千峰]“不，我們只是棋子，被已經薨了的帝嚳，玩弄於掌心的棋子。
+§47 [Ø=云千峰]商始，我們覺得這個世界是我們的了， [||] 我們放松了警惕，墮落到把人類端上了祭祀的餐桌，以此滿足我們高人一等的心裡。
+§48 [Ø=云千峰]人怨暗生，當時九屠之首薑尚遊歷天下而歸， [||] 而後直入西岐，我們誰都沒想到，薑尚帶領著九屠竟然把散落天下的巫族余孽全都匯聚在一起。
+§49 [Ø=云千峰]西岐姬昌在薑尚的幫扶下，東進伐商，巫族余孽和我們展開了後世小說裡常說的封神之戰，人類觀戰， [||] 我們玩命，那一戰巫族余孽死亡殆盡，而我們苦心在神州建立的一切，也都飛灰湮滅。
+§50 [Ø=云千峰]之前我們還以為巫族余孽未盡，是帝嚳力所不逮，那時候才知道，巫族余孽， [||] 本就是給我們留著的，而且留得恰好與我們當時的實力旗鼓相當，大家都是帝嚳的棋子，這是多麽精妙的算計。
+§51 [Ø=云千峰]知識、強大的體魄，乃至於科技，在智慧面前， [||] 什麽都不是，渺小如塵埃，就像我們面對帝嚳。”
+§52 [Ø=云千峰]白狐也是禁不住屏住呼吸，只是聽說，就已經感受到了帝嚳這個名字帶來的壓迫感。
+§53 [Ø=云千峰]“帝嚳竟然如此可怕！這要多強大的算計，才能福澤後世千年？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§54 瑪肆科眼中帶著敬畏道：
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 54 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§54. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

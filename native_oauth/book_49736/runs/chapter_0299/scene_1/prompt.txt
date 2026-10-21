@@ -1,0 +1,127 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0299|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|六道|sáu luồng
+M2|六道|sáu luồng
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §85):
+§1 299.第299章 這不是我腦子
+§2 第299章 這不是我腦子
+§3 [Ø=云千峰]西王母的意識出現在閻羅殿內，邋遢天璣並不吃驚，但是臉上卻同時出現了“果然如此“和“不解“兩種互相矛盾的情緒，而這都被西王母一眼看透。
+§4 “知道我會來？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§5 [Ø=云千峰]見西王母問，天璣忙問禮答道：
+§6 [Ø=云千峰]“是有這樣的猜測，但實在不知西王母為何而來。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§7 [Ø=云千峰]西王母眼神平靜，隨意道：
+§8 [Ø=云千峰]“因為帝嚳早就算到九屠會背叛，所以在這個時間點我就該出現在這裡。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§9 [Ø=云千峰]天璣的身體明顯一抖，臉上的恐懼無法遮掩。
+§10 [Ø=云千峰]這是他最恐懼的事情，那就是九屠本身已經被帝嚳算計，而不再是算計的執行者。
+§11 [Ø=云千峰]因為這意味著，天璣所想的九屠在十八層地獄繼續存活，恐怕也成了奢望。
+§12 [Ø=云千峰]他們雖然已經是萬年後的九屠一代，但古老的巨石硬盤不但記錄了帝嚳的算計，更記錄了帝嚳的事跡，天璣很清楚帝嚳對待叛徒的手段。
+§13 [Ø=云千峰]西王母看著因驚嚇而面無血色的邋遢天璣，淡淡道：
+§14 [Ø=云千峰]“皚雪遍野，愚者隻聞其寒，所以說人類啊，不值得。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 [Ø=云千峰]這沒來由的一句話，聽得天璣面上驚恐更甚，寬松的褲腿抖動著，那是肌肉不自覺的顫栗。
+§16 [Ø=云千峰]西王母搖了搖頭，很顯然對天璣此時的表現非常蔑視，而後不屑道：
+§17 [Ø=云千峰]“打開十八層的光幕，陪我看一出雲千峰的好戲。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§18 [Ø=云千峰]天璣看了一下時間，沉吟片刻，道：
+§19 “此時怕是不適合。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§20 [Ø=云千峰]西王母一愣，這是她完全沒想到的回答，於是問道:
+§21 “哦？這個時間有什麽說法？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 邋遢天璣道：
+§23 [Ø=云千峰]“這個時間，楊玉奴正在給雲千峰做一些特殊的按摩，此時倆人會在避身所內，什麽也看不見。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 西王母顰眉道：
+§25 [Ø=云千峰]“無聊的人類，不用擔心， [||] 雲千峰今天什麽也享受不到，只有泯滅前的痛苦，打開光幕吧。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§26 [Ø=云千峰]天璣只能領命，打開了第十八層地獄的監視光幕。
+§27 [Ø=云千峰]姮娥也在此時走了進來，站在西王母身側，注目光幕之上。
+§28 [Ø=云千峰]的確什麽也看不到，但卻能聽到吸吮和口水滴落的聲音，可見收音效果極好。
+§29 西王母譏笑道：
+§30 [Ø=云千峰]“姮娥，你說人類怎麽就喜歡這種低級無聊的事情？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 姮娥淡淡道：
+§32 “因為他們是人類。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 西王母搖頭道：
+§34 [Ø=云千峰]“所以，你為什麽要喜歡這麽無聊的東西。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 姮娥淡淡道：
+§36 [Ø=云千峰]“因為他是人心，從人而來，卻以不是人心為傲，算是忘八。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 [Ø=云千峰]西王母不出聲了，因為姮娥剛才這句，等於把她罵了懟了。
+§38 [Ø=云千峰]雲千峰眼睛遮著，這是楊玉奴的硬性要求，導致雲千峰到現在也沒猜到是哪五種方式。
+§39 [Ø=云千峰]就在享受的時候，他的肚皮突然一麻，失去了直覺。
+§40 [Ø=云千峰]緊接著整個軀幹麻木，接下來是雙臂， [||] 雙腿，後背，脖子
+§41 [Ø=云千峰]雲千峰在雙腿徹底麻木之前，一下衝出避身所， [||] 整個人站在避身所前，想天空望去，正與姮娥和西王母的視線對接。
+§42 也在這一刻雲千峰大聲喊了一句：
+§43 “為什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 這句話顯然是質問姮娥的。
+§45 [Ø=云千峰]雲千峰清楚自己被算計了，而且是在自己真實的身體之上，那是一種感知，真實的感知。
+§46 西王母淡淡道：
+§47 [Ø=云千峰]“是南山信物給他的感知吧？他知道是你害他了，他一定很恨你。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§48 姮娥沉聲道：
+§49 [Ø=云千峰]“南山是我，我是南山，南山本就是他的， [||] 他自然感知到一切，他會恨我，但最終不會！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§50 西王母笑道：
+§51 “你很自信。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§52 [Ø=云千峰]楊玉奴在避身所內隨著衝出來，一邊系著腰帶。
+§53 [Ø=云千峰]還沒等她說話，雲千峰就急道：
+§54 “告訴九屠停下衝庫.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§55 [Ø=云千峰]話沒說完，雲千峰就那麽表情凝固，站在那裡一動不動。
+§56 但他還在呼吸。
+§57 就像是睜著眼睛睡著了。
+§58 [Ø=云千峰]楊玉奴呼喚來了九屠，跟來的還有大天使和石匠一號。
+§59 一群人圍著雲千峰不知所措。
+§60 巨門道：
+§61 [Ø=云千峰]“似乎是沉睡了，說說到底是怎麽回事。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§62 [Ø=云千峰]楊玉奴說了大概情況，包括雲千峰仰望天空的那句質問。
+§63 右弼咬牙道：
+§64 [Ø=云千峰]“是姮娥對蚩尤下手了，真是沒想到她會那麽做。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§65 璿璣疑惑道：
+§66 [Ø=云千峰]“雲千峰的意識已經脫離了身體，那麽姮娥只能是對蚩尤下手。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§67 貪狼道：
+§68 [Ø=云千峰]“沒錯，只能是這樣，蚩尤意識保護雲千峰的意識跟隨進入第十八層， [||] 二者本就連帶在一起，所以對著蚩尤下手，便可以直接波及到雲千峰。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§69 七殺沉思道：
+§70 [Ø=云千峰]“那便不是絕路，他們做不到現實的滅殺，更無法做到此地意識的滅殺， [||] 應該只是影響，比如現在這樣，猶如沉睡。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§71 玉衡道：
+§72 [Ø=云千峰]“所以雲千峰讓我們停下四庫衝陣，就是讓我們等著他恢復，他應該猜到了什麽。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§73 右弼點頭道：
+§74 [Ø=云千峰]“大家去維持那些工人的秩序，大天使、一號，你們倆人一定要盯緊了， [||] 不能出亂子，不聽話的扔去喂鯊魚，不要手軟。
+§75 [Ø=云千峰]貴妃在這裡，但有異動， [||] 請馬上告知我們，雲千峰一定不會有事，也不能有事。”
+§76 [Ø=云千峰]所有人如臨大敵，他們不能不緊張。
+§77 [Ø=云千峰]能不能在這第十八層活下去，活好，甚至有一天走出這裡，全在雲千峰身上， [||] 那是他們最現實的利益，尤其是一旦雲千峰獲得六道[M1:sáu luồng]盤，那麽他們就能以更好的狀態回到現實，那樣的可能可以讓他們甘願為雲千峰做一切他們能做到的事情。
+§78 [Ø=云千峰]至於自己獲取六道[M2:sáu luồng]盤，九屠他們想都不敢想， [||] 因為他們知道自己守不住，那就不是人能做到的事情，但是蚩尤可以。
+§79 [Ø=云千峰]他們現在能做的，就是穩住一切，期望雲千峰能夠找到恢復自己的方法。
+§80 真的能嗎？
+§81 [Ø=云千峰]他們不知道，只能祈禱。
+§82 [Ø=云千峰]外面九屠臨危布局之時，靜止不動的雲千峰卻處於一個極其微妙之境地。
+§83 [Ø=云千峰]這是一個很大的建築院落，陰沉昏暗，光亮就是那幾個吊著的燈籠和天上霧蒙蒙的月光。
+§84 [Ø=云千峰]雲千峰身處其中，看了看安靜的四周，心討：
+§85 [Ø=云千峰]“這便應該是困住我的東西，困住了我的所有思維和感知，建築的形態嗎？那我就看看這裡布局再說。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 85 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§85. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

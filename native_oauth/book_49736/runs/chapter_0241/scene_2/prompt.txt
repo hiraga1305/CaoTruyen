@@ -1,0 +1,77 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0241|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Chẳng hạn như nóc nhà thế giới, đỉnh cao quanh năm phủ tuyết trắng, dưới chân núi lại xanh ngắt chồi non, điều đó do chênh lệch độ cao quyết định, nhưng tiền đề là phải có ánh nắng mặt trời chiếu rọi,
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §38):
+§1 [Ø=云千峰]雲千峰摸了一把冰涼的石壁，上面濕漉漉的，好似回南天的瓷磚，全是水珠。
+§2 [Ø=云千峰]那些水珠在石壁上匯聚，然後化為細流落在地面上。
+§3 [Ø=云千峰]地面上也全是岩石，被這些水流衝擊出蟲蛀般的彎曲溝壑，那些溝壑就好像血管， [||] 把石壁落下去的水，運輸到崖隙中央，在那裡匯聚成一條寬足有四五米的河流。
+§4 [Ø=云千峰]履帶車，恰好就落在河流旁邊，差一毫就會進水。
+§5 [Ø=云千峰]“這些水珠是上面冰川緩慢融化出來，可是熱量來源在哪裡？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§6 [Ø=云千峰]“崖隙是空的，沒有積雪，熱量一定就在這崖隙之中，而且很均衡！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§7 [Ø=云千峰]想到這，[Ø_SHIFT=姜柔甲]雲千峰急忙蹲下身，用手觸摸石頭地面。
+§8 [Ø=姜柔甲]地面上，濕漉漉的水很涼，那是冰川剛剛融化出來，自然如此。
+§9 [Ø=姜柔甲]但若是把手放在地面上停留一會，就會發現完全不是如此。
+§10 因為雲千峰感覺到了熱。
+§11 [Ø=姜柔甲]“這些地面上的石頭是熱的！我知道了，是地熱導致這裡沒有積存冰雪，更是地熱形成了這個巨大的冰隙，原來如此！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§12 [Ø=姜柔甲]“這下面或許距離岩漿不遠，亦或是其它形式的熱源，真的是世界之大， [||] 無奇不有啊！要是這裡有光源，恐怕都會有綠色的植被，可惜了啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 [Ø=姜柔甲]這是個好消息，因為這裡的溫度最起碼不會把他和琳達凍死。
+§14 [Ø=姜柔甲]他來到履帶車旁，看到琳達依舊昏迷，想來剛才嚇得不輕。
+§15 [Ø=姜柔甲]車內有些異味，估計這丫頭沒憋住。
+§16 而且恐怕大小都沒憋住。
+§17 “等會再給她洗澡吧。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§18 [Ø=姜柔甲]想著，他用手電照了一下溫度計，發現這裡的溫度竟然有零上七八度，但是因為水汽濕冷， [||] 所以感覺就好像是南方的三九天，暗搓搓的冷，透骨難受，但不要命。
+§19 [Ø=姜柔甲]他來到水邊，用手感受了一下水流的方向和速度。
+§20 [Ø=姜柔甲]“很平緩的流速，向右手方向流動，有趣的河水， [||] 表面溫度很涼，但到了兩三公分深度以下，竟然是溫熱的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 [Ø=姜柔甲]雲千峰喜上心頭，[Ø_SHIFT=云千峰]急忙脫掉衣服， [||] 剛才失重後， [||] 嚇出一身汗，黏糊糊的難受，剛好洗個澡。
+§22 [Ø=云千峰]脫到一半，雲千峰總有一種“怕後”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]的感覺， [||] 下意識的拿著手電向後照射，然而後面黑洞洞的，什麽都沒有。
+§23 [Ø=云千峰]“唉，小時候豬尾巴吃多了，瑪德，一到烏漆墨黑的地方就感覺後面有東西！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 [Ø=云千峰]雲千峰念叨著，緩緩走進水中。
+§25 [Ø=云千峰]漫過水面的一層冰涼，下面溫暖舒適，簡直就是天然溫泉。
+§26 [Ø=云千峰]雲千峰舒服的長舒一口氣，美滋滋的哼起了小曲。
+§27 [Ø=云千峰]洗著洗著，才把琳達想起來。
+§28 [Ø=云千峰]“得給她也順手洗一下，那味兒啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 [Ø=云千峰]想著，把琳達拖出車來，拍了拍臉，竟然不醒。
+§30 [Ø=云千峰]雲千峰也沒墨跡，該看不該看的都看過，沒啥了不起的。
+§31 [Ø=云千峰]於是一頓剝粽子，然後把琳達也抱進了河水之中。
+§32 [Ø=云千峰]雲千峰不知道的是，在他的不遠處，最多也就七八米遠，那漆黑無光之中站著一個人影。
+§33 [Ø=云千峰]她看著雲千峰在水中洗澡，眸子裡一會閃動狠辣的鋒芒，一會閃動著猶豫遲疑，忽而又似乎出現了一抹溫柔。
+§34 [Ø=云千峰]這樣的變化，一秒鍾可以轉換數次。
+§35 [Ø=云千峰]她，正是薩弱。
+§36 感謝絕世凶獸成和葉、尾數15753_ab、尾數17623、尾數25977、尾數34177的月票獎勵！！！
+§37 [Ø=云千峰]謝謝你們的支持，感激！！！
+§38 [Ø=云千峰]祝大家好夢，晚安！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 38 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§38. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

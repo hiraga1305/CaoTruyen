@@ -1,0 +1,49 @@
+{
+  "book_id": "49736",
+  "book_title_vi": "Đi Tìm Vô Gian Địa Ngục",
+  "genre": "URBAN_SUSPENSE_MYSTERY",
+  "golden_anchors": [
+    {
+      "mode": "INVESTIGATION_ATMOSPHERE",
+      "description": "Tả cảnh không gian huyền bí, u ám, tĩnh lặng",
+      "zh": "九江城，八裡湖畔。背對著湖的街道，一間狹小的店面。正門上四個金色大字“三錢濟世”，門左豎聯“卦中陰陽卜禍福，天命可改”，門右側“推拿、正骨、祝由術、家電維修”。",
+      "vi": "Thành Cửu Giang, ven bờ hồ Bát Lý. Trên con phố nằm quay lưng về phía mặt hồ có một gian cửa tiệm nhỏ hẹp. Phía trên cửa chính là bốn chữ lớn thếp vàng “Tam Tiền Tế Thế”. Vế đối bên trái viết: “Trong quẻ âm dương bói họa phúc, thiên mệnh đổi dời”; bên phải ghi: “Xoa bóp, nắn xương, chúc do thuật, sửa chữa đồ điện”."
+    },
+    {
+      "mode": "DIALOGUE_TENSE",
+      "description": "Đối thoại đô thị sắc sảo, điềm đạm, giữ vững xưng hô tôi - cô / tôi - anh",
+      "zh": "雲千峰看著眼前的女人，淡淡說道：“既然進了這扇門，就請坐吧。說說看，你想算什麼？”姜柔甲神色淒楚，顫聲道：“我想請你幫我找一個人，一個所有人都說不存在的人。”",
+      "vi": "Vân Thiên Phong nhìn người phụ nữ trước mắt, điềm đạm nói: “Đã bước vào cánh cửa này thì xin mời ngồi. Nói thử xem, cô muốn xem điều gì?” Khương Nhu Giáp nét mặt bi thương, giọng run rẩy: “Tôi muốn nhờ anh tìm giúp một người, một người mà tất cả mọi người đều bảo rằng không hề tồn tại.”"
+    },
+    {
+      "mode": "DEDUCTION_MYSTERY",
+      "description": "Suy luận trắc tự, huyền học cổ xưa kết hợp kiến thức tiền sử",
+      "zh": "雲千峰在紙上寫下那個字，凝視片刻方道：“此音源自極古之文明，本義為有用。由是推之，你兄長前往該處，必是為了探尋某處年代可溯至史前神話的古老遺址。”",
+      "vi": "Vân Thiên Phong viết chữ ấy ra giấy, chăm chú nhìn giây lát mới cất lời: “Âm đọc này vốn bắt nguồn từ một nền văn minh cực kỳ cổ xưa, mang hàm nghĩa 'hữu dụng'. Từ đó suy ra, anh trai cô tới nơi ấy hẳn là để tìm kiếm một di chỉ cổ xưa nào đó mà niên đại có thể ngược dòng về tận thời kỳ thần thoại tiền sử.”"
+    }
+  ],
+  "pacing_rules": {
+    "INVESTIGATION": {
+      "avg_words_per_sentence": 20,
+      "sino_vietnamese_ratio": 0.35,
+      "temp": 0.25,
+      "top_p": 0.85
+    },
+    "DIALOGUE": {
+      "avg_words_per_sentence": 12,
+      "sino_vietnamese_ratio": 0.20,
+      "temp": 0.30,
+      "top_p": 0.90
+    },
+    "CLIMAX_HORROR": {
+      "avg_words_per_sentence": 8,
+      "sino_vietnamese_ratio": 0.40,
+      "temp": 0.20,
+      "top_p": 0.80
+    }
+  },
+  "forbidden_words": [
+    "tại hạ", "các hạ", "tiểu nữ", "bổn tọa", "thiếp thân", "huynh đài", "đại hiệp",
+    "ok", "okay", "ảo ma", "cực gắt", "pro", "vãi"
+  ]
+}

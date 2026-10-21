@@ -1,0 +1,97 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0291|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|六道|sáu luồng
+M2|六道|sáu luồng
+M3|六道|sáu luồng
+M4|六道|sáu luồng
+M5|六道|sáu luồng
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §52):
+§1 291.第291章 帝心
+§2 第291章 帝心
+§3 [Ø=云千峰]雲千峰見天色還早，決定馬上就去看看地勢，研究一下如何讓四庫相衝。
+§4 [Ø=云千峰]這是沒有鑰匙的情況下，打開庫房的唯一方法那就是撞碎了它。
+§5 [Ø=云千峰]楊玉奴這次沒喊他別走遠，因為她把那將自己勒死的白綾藏起來了。
+§6 [Ø=云千峰]雲千峰一走，楊玉奴就把雲千峰扔在一旁的易拉罐撿起來，仔細研究起來。
+§7 [Ø=云千峰]先用手小心的把拽下來的拉扣撫平，又用手摸了摸開口的邊沿，水汪汪的美麗大眼睛眯了起來， [||] 然後朝著分離出的牛骨走去，眼睛放光，那是智慧的光！
+§8 [Ø=云千峰]雲千峰爬上了這海島的最高點，向著四處張望，尋找著能夠利用風水，惹四庫相衝的方法。
+§9 [Ø=云千峰]正看著，那種窺伺的感覺又出現了。
+§10 [Ø=云千峰]“這九屠天天沒事就監視我，看來是已經迫不及待要對我下手了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=云千峰]他哪知道，九屠真不是故意想起來他， [||] 主要是天天抱著包死的人太多了，都是來給雲千峰送東西的，想把他忘了都不成。
+§12 “雲千峰在做什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 “總不會是欣賞風景就是。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§14 [Ø=云千峰]“第一眼，看得出來他似乎在尋找什麽東西，但我們看向他時，他的眼神就變了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 “他能感知到我們監視他？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§16 [Ø=云千峰]“不排除這種可能，帝選中了他， [||] 哪怕他再平庸，走到現在也已經不凡了，保不齊有什麽秘密藏著。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 [Ø=云千峰]那邋遢老道眯著眼睛沉思半晌，突然道：
+§18 [Ø=云千峰]“視線拉遠，給我看海島的輪廓。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 旁邊一人急忙調整。
+§20 [Ø=云千峰]那邋遢老道起初還是思索的神色，隨後面色越來越難看，旁邊幾人也露出驚訝之色。
+§21 [Ø=云千峰]“辰戌醜未，這是四庫！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 [Ø=云千峰]“庫藏秘寶，女閻羅人在這島裡定然藏了東西。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 [Ø=云千峰]“雲千峰看出那是四庫了，他就在尋找那個東西。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 [Ø=云千峰]由此可見，九屠也都精通術數，俯瞰一眼，便看出這海島的格局和功用。
+§25 邋遢老道沉思道：
+§26 [Ø=云千峰]“辰藏戊乙癸；戌藏戊辛丁；醜藏己癸辛； [||] 未藏己丁乙；統而言之，四庫所藏不過有六，戊土、己土、癸水、丁火、辛金、乙木。十天乾內有形有質之物皆在於此。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 [Ø=云千峰]說到這，旁邊七人都是面色一變。
+§28 其中一人急道：
+§29 [Ø=云千峰]“帝當年得蚩尤與全知之眼移與南山，唯女閻羅巫人之另一重寶六道[M1:sáu luồng]盤未曾尋得，那可是巫人對生命研究的頂峰結晶。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§30 [Ø=云千峰]“巫人能造那些恐怖的怪物，據說便是因為那六道[M2:sáu luồng]盤之功，帝當年尋之不得，會不會是被巫人藏在了這十八層地獄的四庫之島上？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=云千峰]“除了六道[M3:sáu luồng]盤，還有什麽值得女閻羅人如此大費周章？定然是了，難怪當初無論如何也尋不到，竟是被藏在了有進無出的第十八層地獄。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§32 [Ø=云千峰]“這也就意味著，那不是有進無出之地，而是一定能夠走得出來！是誰做出這般算計，竟連帝都瞞過了？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 [Ø=云千峰]“休要胡言！帝無所不知，相信定有對策，只是你我還未參透，時機還未來臨。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 邋遢老道沉聲道：
+§35 [Ø=云千峰]“都不要吵了！現在迫在眉睫的不是六道[M4:sáu luồng]盤，而是那成群結隊等著去十八層地獄的，抱著背包的人。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 一個九屠道：
+§37 [Ø=云千峰]“他們有什麽？不就是帶去一些吃食，如何影響大局？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 [Ø=云千峰]邋遢老道指著光幕上那島嶼，沉聲道：
+§39 [Ø=云千峰]“若要打開四庫，必須使之相衝，此島相衝之庫皆有所隔，必以移山填海之風水局方能破。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 旁邊一個擅長風水秘術的九屠驚聲道：
+§41 [Ø=云千峰]“移山填海，需要大量的人力物力，而我們正把這些人力物力送到十八層地獄！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§42 “混帳！原來那些人的目標是這裡！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 [Ø=云千峰]“卑鄙啊！這不是陰謀，而是陽謀，是個選擇題！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 [Ø=云千峰]“我們要麽瀆職，將那些人送往十八層外的他處，要麽就只能硬著頭皮將人力物力送達， [||] 雲千峰一旦堪破風水局，定會到處搜羅人力匯聚四庫之島，而我們則必須去做一個選擇了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§45 [Ø=云千峰]“如何選擇？選擇瀆職，我們九個全都得被全知之眼判進地獄， [||] 等著新的十殿閻羅審判，我等是不懼死，但誰來主持帝嚳的輪回大局？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§46 [Ø=云千峰]“可若是被雲千峰拿到了六道[M5:sáu luồng]盤，真的走出來，我們九個在這裡還有意義嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§47 [Ø=云千峰]“那是後話，先做眼前！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§48 [Ø=云千峰]“別吵了，我去瑤池問問王母，或許帝在王母那裡有叮囑。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§49 [Ø=云千峰]“如此甚好，快去快回”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§50 [Ø=云千峰]瑤池，還是那樣悶熱潮濕。
+§51 但西王母住的地方極其舒適。
+§52 [Ø=云千峰]不冷不熱，不濕不燥。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 52 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§52. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

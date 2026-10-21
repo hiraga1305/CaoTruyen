@@ -1,0 +1,980 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 316,
+  "title": "Chương 316: Bố cục của sáu luồng",
+  "total_paragraphs": 161,
+  "translated_paragraphs": 161,
+  "source_hash": "8b10a2d728ef6871e412873ce101dd31cb1b3175ccc22fa1666e527c1d9e4b22",
+  "model_used": "gemini-3.8-flash-high",
+  "elapsed_seconds": 269.06,
+  "bilingual_alignment": [
+    {
+      "para_id": "c0316p0001",
+      "index": 1,
+      "raw_zh": "316.第316章 六道的布局",
+      "translated_vi": "Chương 316: Bố cục của sáu luồng"
+    },
+    {
+      "para_id": "c0316p0002",
+      "index": 2,
+      "raw_zh": "第316章 六道的布局",
+      "translated_vi": "Chương 316: Bố cục của sáu luồng"
+    },
+    {
+      "para_id": "c0316p0003",
+      "index": 3,
+      "raw_zh": "這條路名為桂林路。",
+      "translated_vi": "Con đường này mang tên đường Quế Lâm."
+    },
+    {
+      "para_id": "c0316p0004",
+      "index": 4,
+      "raw_zh": "曾幾何時，這裡在夜間常有泡菜和小日子聚會喝酒，畢竟這座城市就這兩種留生最多，",
+      "translated_vi": "Đã từng có dạo, nơi đây về đêm thường có đám người Hàn với tụi Nhật Bản tụ tập nhậu nhẹt, dẫu sao thì thành phố này cũng có hai nhóm lưu học sinh ấy là đông nhất."
+    },
+    {
+      "para_id": "c0316p0005",
+      "index": 5,
+      "raw_zh": "但是因為他們太吵，聲音比旁邊喝酒的爺們兒們的聲音穿透力更強，引起了不知次數的“你瞅我幹啥？再瞅我試試”的熱烈交流之後，在夜間的這條路上，幾乎再也聽不到那奇怪到比口哨還讓人尿急的聲音。",
+      "translated_vi": "Thế nhưng vì bọn họ quá đỗi ồn ào, tiếng gào thét còn chói tai hơn cả mấy gã đàn ông ngồi nhậu bên cạnh, trải qua không biết bao nhiêu lần \"giao lưu nồng nhiệt\" với bài khẩu quyết kinh điển: \"Mày dòm tao làm cái gì? Thử dòm cái nữa xem!\", trên con đường này về đêm gần như chẳng còn nghe thấy cái thứ âm thanh quái dị khiến người ta buồn tiểu còn hơn tiếng huýt sáo ấy nữa."
+    },
+    {
+      "para_id": "c0316p0006",
+      "index": 6,
+      "raw_zh": "據說泡菜都匯聚到隆裡路區域，小日子則不知聚向何處。",
+      "translated_vi": "Nghe đâu đám người Hàn đều dạt cả về khu vực đường Long Lý, còn tụi Nhật Bản thì chẳng rõ tụ tập ở phương nào."
+    },
+    {
+      "para_id": "c0316p0007",
+      "index": 7,
+      "raw_zh": "後來有個哥們兒去隆裡路吃飯，恰好正是泡菜聚集點，結果把這靜吧的泡菜老板從二樓打到了一樓，這哥們做好了拘留半個月的打算，但結果蹲了半年，理由是WJ事件。",
+      "translated_vi": "Về sau có một chiến hữu đến đường Long Lý ăn cơm, đúng ngay tụ điểm của đám người Hàn, kết quả là dần cho lão chủ quán rượu tĩnh người Hàn một trận từ tầng hai lăn xuống tận tầng một. Gã này đã chuẩn bị sẵn tâm lý bị tạm giam nửa tháng, nào ngờ rốt cuộc phải ngồi bóc lịch tới nửa năm, lý do là dính líu đến sự vụ ngoại giao."
+    },
+    {
+      "para_id": "c0316p0008",
+      "index": 8,
+      "raw_zh": "作者是這件事的殃及池魚者。",
+      "translated_vi": "Tác giả chính là con cá dưới ao bị vạ lây trong vụ việc ấy."
+    },
+    {
+      "para_id": "c0316p0009",
+      "index": 9,
+      "raw_zh": "從那以後，這幫哥們才收斂了很多，因為大家的背景拉偏架。",
+      "translated_vi": "Kể từ dạo đó, đám chiến hữu này mới kiềm chế lại đôi phần, bởi lẽ phía can thiệp đứng ra phân xử có phần thiên vị."
+    },
+    {
+      "para_id": "c0316p0010",
+      "index": 10,
+      "raw_zh": "但哪怕如此，這條路上，夜晚吃燒烤喝大酒的時段，但凡長得不合群，語言不合群的男性，總能引來很多目光的注目，美女反而存在感不高。",
+      "translated_vi": "Thế nhưng dẫu có như vậy, trên con đường này, vào khung giờ ăn đồ nướng nốc rượu đêm, hễ gã đàn ông nào có tướng mạo lạc quẻ, ăn nói dị hợm, thì y như rằng sẽ thu hút vô số ánh mắt săm soi, ngược lại mỹ nữ ở đây lại chẳng mấy ai để ý."
+    },
+    {
+      "para_id": "c0316p0011",
+      "index": 11,
+      "raw_zh": "跟著薩弱追趕的兩個守望者就很巧，長得不合群，語言也不合群，頓時就成了這條街上最靚的仔。",
+      "translated_vi": "Hai Kẻ Thủ Vọng bám đuổi theo Tát Nhược lại khéo làm sao, vừa có tướng mạo dị thường, lời ăn tiếng nói cũng chẳng giống ai, thoắt cái đã biến thành hai kẻ nổi bật nhất trên khắp con phố."
+    },
+    {
+      "para_id": "c0316p0012",
+      "index": 12,
+      "raw_zh": "別看人群擁擠，但薩弱往前趕路，幾乎沒有什麽阻隔。",
+      "translated_vi": "Đừng thấy đám đông chen chúc mà lầm, Tát Nhược rảo bước lao đi phía trước gần như chẳng gặp chút cản trở nào."
+    },
+    {
+      "para_id": "c0316p0013",
+      "index": 13,
+      "raw_zh": "一個挺著大肚子的女人，打不得罵不得，這幫哥們兒相當拎得清，老遠的就躲開。",
+      "translated_vi": "Một người phụ nữ bụng mang dạ chửa lùm lùm, đánh không được mà mắng cũng chẳng xong, đám chiến hữu này rất biết điều, từ đằng xa đã vội vã né sang một bên."
+    },
+    {
+      "para_id": "c0316p0014",
+      "index": 14,
+      "raw_zh": "純吃虧的事，那是不乾的。",
+      "translated_vi": "Cái chuyện rước phần thiệt vào thân thì tuyệt đối không ai làm."
+    },
+    {
+      "para_id": "c0316p0015",
+      "index": 15,
+      "raw_zh": "尤其是這個時間，身邊都帶著女朋友，就沒有女朋友的，也得有個臨時的。",
+      "translated_vi": "Huống chi vào giờ giấc này, bên cạnh ai nấy đều dắt theo bạn gái, dẫu không có người yêu chính thức thì cũng phải kẹp theo một cô tạm bợ."
+    },
+    {
+      "para_id": "c0316p0016",
+      "index": 16,
+      "raw_zh": "在女人面前，那就是要有禮貌。",
+      "translated_vi": "Ở trước mặt phụ nữ, đương nhiên phải tỏ ra lịch sự."
+    },
+    {
+      "para_id": "c0316p0017",
+      "index": 17,
+      "raw_zh": "當然，這個禮貌局限性比較大。",
+      "translated_vi": "Tất nhiên, sự lịch sự này cũng có giới hạn khá eo hẹp."
+    },
+    {
+      "para_id": "c0316p0018",
+      "index": 18,
+      "raw_zh": "比如躲過了薩弱之後，看到前面兩個身材略顯高大，一看長相就不合群的人後，尤其是這倆人還生擠，有點橫逛的意思，一點也不禮貌，於是他們開始思考躲還是不躲這個問題了。",
+      "translated_vi": "Chẳng hạn như sau khi né được Tát Nhược, nhìn thấy phía trước có hai gã vóc dáng cao to dị thường, vừa nhìn mặt là biết ngay kẻ lạc loài, đã vậy hai tên này còn hùng hổ lấn tới, ra vẻ nghênh ngang ngang ngược, chẳng có chút lịch sự nào, thế là bọn họ bắt đầu cân nhắc tới vấn đề: nên né hay không né?"
+    },
+    {
+      "para_id": "c0316p0019",
+      "index": 19,
+      "raw_zh": "“躲？會不會被旁邊妹子認為我慫？膽小怕事？”",
+      "translated_vi": "\"Né ư? Chẳng lẽ để em gái bên cạnh nghĩ mình hèn hạ? Nhát gan sợ phiền phức sao?\""
+    },
+    {
+      "para_id": "c0316p0020",
+      "index": 20,
+      "raw_zh": "“不躲？打起來人生脆啊，打壞了怎整？”",
+      "translated_vi": "\"Không né à? Đánh nhau lỡ tay đập gãy xương người ta thì tính thế nào?\""
+    },
+    {
+      "para_id": "c0316p0021",
+      "index": 21,
+      "raw_zh": "轉頭一咬牙，再一想：“能勾八怎的？好像我有錢賠似的！權當戒煙了！”",
+      "translated_vi": "Ngoảnh đầu lại nghiến răng một cái, rồi nghĩ tiếp: \"Mẹ kiếp, cùng lắm thì làm sao? Làm như bố mày có tiền đền không bằng! Cứ coi như bớt hút thuốc lá là xong!\""
+    },
+    {
+      "para_id": "c0316p0022",
+      "index": 22,
+      "raw_zh": "對於自己輸了挨揍的問題，那是沒考慮過的，腦子裡忘了長那根弦。",
+      "translated_vi": "Còn về chuyện nếu mình đánh thua bị ăn đòn, thì căn bản chẳng hề nghĩ tới, trong đầu vốn dĩ đã thiếu mất sợi dây thần kinh ấy rồi."
+    },
+    {
+      "para_id": "c0316p0023",
+      "index": 23,
+      "raw_zh": "於是，躲還是不躲，一下就成了哲學問題，經濟學問題、法律問題和生活健康問題。",
+      "translated_vi": "Thế là, chuyện né hay không né thoắt cái đã biến thành một vấn đề triết học, vấn đề kinh tế học, vấn đề pháp luật kiêm cả vấn đề sức khỏe đời sống."
+    },
+    {
+      "para_id": "c0316p0024",
+      "index": 24,
+      "raw_zh": "而這些個問題，在身邊有女人，兜比臉還乾淨的漢子眼裡，都不是問題。",
+      "translated_vi": "Mà những vấn đề này, trong mắt những gã đàn ông bên cạnh đang có phụ nữ, túi quần lại sạch bong hơn cả mặt, thì rốt cuộc chẳng phải là vấn đề gì hết."
+    },
+    {
+      "para_id": "c0316p0025",
+      "index": 25,
+      "raw_zh": "於是，不躲。",
+      "translated_vi": "Cho nên, không né."
+    },
+    {
+      "para_id": "c0316p0026",
+      "index": 26,
+      "raw_zh": "有這樣想法的絕不止一個，而是很多。",
+      "translated_vi": "Kẻ có suy nghĩ như vậy tuyệt đối không chỉ có một người, mà là rất nhiều."
+    },
+    {
+      "para_id": "c0316p0027",
+      "index": 27,
+      "raw_zh": "於是這倆守望者在一頓肩膀的碰撞下艱難前行。",
+      "translated_vi": "Thế là hai Kẻ Thủ Vọng phải chật vật nhích từng bước giữa muôn vàn những cú huých vai va chạm."
+    },
+    {
+      "para_id": "c0316p0028",
+      "index": 28,
+      "raw_zh": "終於，他們遇到了一夥比較衝動的。",
+      "translated_vi": "Cuối cùng, bọn chúng cũng đụng phải một toán hung hăng hơn cả."
+    },
+    {
+      "para_id": "c0316p0029",
+      "index": 29,
+      "raw_zh": "人多的一夥，都容易衝動。",
+      "translated_vi": "Hễ phe nào đông người là phe đó rất dễ nổi máu bốc đồng."
+    },
+    {
+      "para_id": "c0316p0030",
+      "index": 30,
+      "raw_zh": "“砰”的肩膀撞擊後，兩個守望者被身後的人抓住了肩膀，下意識回頭看過去，就聽到了他們能聽懂，但是其實沒聽懂的台詞。",
+      "translated_vi": "Sau tiếng \"bốp\" do bả vai va chạm, hai Kẻ Thủ Vọng liền bị người phía sau tóm chặt lấy vai. Bọn chúng theo bản năng ngoái đầu nhìn lại, lập tức nghe thấy một câu thoại mà chúng hiểu từng chữ, nhưng thực chất lại chẳng hiểu nổi thâm ý bên trong."
+    },
+    {
+      "para_id": "c0316p0031",
+      "index": 31,
+      "raw_zh": "“你瞅啥？”",
+      "translated_vi": "\"Mày dòm cái gì?\""
+    },
+    {
+      "para_id": "c0316p0032",
+      "index": 32,
+      "raw_zh": "地獄之王給他們在人間行走的兩條規矩。",
+      "translated_vi": "Vua Địa Ngục từng đặt ra hai quy tắc cho bọn chúng khi hành tẩu nơi nhân gian."
+    },
+    {
+      "para_id": "c0316p0033",
+      "index": 33,
+      "raw_zh": "第一：不可以在人前展開翅膀和異能，以免暴露守望者的存在。",
+      "translated_vi": "Thứ nhất: Tuyệt đối không được giương cánh và thi triển dị năng trước mặt người khác, để tránh làm bại lộ sự tồn tại của Kẻ Thủ Vọng."
+    },
+    {
+      "para_id": "c0316p0034",
+      "index": 34,
+      "raw_zh": "第二：盡可能不要傷人，以避免暴露守望者的存在。",
+      "translated_vi": "Thứ hai: Cố gắng hết sức không làm đả thương con người, nhằm tránh để lộ tung tích của Kẻ Thủ Vọng."
+    },
+    {
+      "para_id": "c0316p0035",
+      "index": 35,
+      "raw_zh": "之所以這樣規定，是因為守望者還沒建設好蘋果火山附近的大本營，而且祂們知道H彈的威力，也知道這個世界隱藏著一些可怕的人物，所以在一切準備好之前，祂們不敢讓一切暴露，而是以黑霧籠罩所在處，悄悄進行著建設。",
+      "translated_vi": "Sở dĩ có quy định như vậy là vì Kẻ Thủ Vọng vẫn chưa xây dựng xong đại bản doanh ở khu vực lân cận núi lửa Táo, hơn nữa bọn họ biết rõ uy lực của bom nhiệt hạch, cũng biết thế giới này còn ẩn giấu những nhân vật đáng sợ khôn lường. Bởi vậy trước khi mọi thứ sẵn sàng, bọn họ không dám để lộ bất cứ điều gì, mà chỉ dùng sương mù đen bao phủ nơi đóng quân, âm thầm tiến hành xây dựng."
+    },
+    {
+      "para_id": "c0316p0036",
+      "index": 36,
+      "raw_zh": "因為不懂這台詞的危險，博學的守望者轉換到了華夏語，很正常的回答了這句話：",
+      "translated_vi": "Bởi vì không hiểu được sự nguy hiểm ẩn sau câu thoại kia, gã Thủ Vọng vốn học rộng hiểu nhiều liền chuyển sang tiếng Hoa, thản nhiên đáp lại một câu hết sức bình thường:"
+    },
+    {
+      "para_id": "c0316p0037",
+      "index": 37,
+      "raw_zh": "“你拽我，當然看你啊！”",
+      "translated_vi": "\"Mày túm lấy tao, tao đương nhiên phải nhìn mày rồi!\""
+    },
+    {
+      "para_id": "c0316p0038",
+      "index": 38,
+      "raw_zh": "“你再看我一眼試試！”",
+      "translated_vi": "\"Mày thử liếc thêm một cái nữa xem!\""
+    },
+    {
+      "para_id": "c0316p0039",
+      "index": 39,
+      "raw_zh": "又是守望者感覺聽懂了，其實沒聽懂的話。",
+      "translated_vi": "Lại là một câu mà Kẻ Thủ Vọng ngỡ như mình đã hiểu, nhưng thực tế lại hoàn toàn chẳng hiểu mô tê gì."
+    },
+    {
+      "para_id": "c0316p0040",
+      "index": 40,
+      "raw_zh": "於是，兩個守望者失去了最後和平解決的機會，因為祂們確實還在看。",
+      "translated_vi": "Thế là, hai Kẻ Thủ Vọng đã đánh mất cơ hội cuối cùng để giải quyết trong hòa bình, bởi vì bọn họ quả thực vẫn đang nhìn chằm chằm."
+    },
+    {
+      "para_id": "c0316p0041",
+      "index": 41,
+      "raw_zh": "莫名其妙的攻擊接踵而來，守望者倒是不怕他們打，畢竟這是物種之間的差距。",
+      "translated_vi": "Những đòn tấn công vô duyên vô cớ dồn dập ập tới. Kẻ Thủ Vọng thực chất chẳng hề sợ bị đánh, dẫu sao đây cũng là sự cách biệt về đẳng cấp sinh học giữa hai giống loài."
+    },
+    {
+      "para_id": "c0316p0042",
+      "index": 42,
+      "raw_zh": "但還手，如果不展示一些能力的話，這些人還真難纏。",
+      "translated_vi": "Thế nhưng nếu đánh trả mà không để lộ chút năng lực nào, thì đám người này quả thực vô cùng khó chơi."
+    },
+    {
+      "para_id": "c0316p0043",
+      "index": 43,
+      "raw_zh": "當兩個守望者憑借一身巨力撂倒一幫，衝出重圍後，哪裡還能再找到薩弱的氣息，早就逃得遠了。",
+      "translated_vi": "Đến khi hai Kẻ Thủ Vọng dựa vào sức mạnh cơ bắp phi thường quật ngã cả đám rồi phá vòng vây xông ra, thì hơi thở của Tát Nhược đã chẳng còn dấu vết, nàng đã cao chạy xa bay tự lúc nào."
+    },
+    {
+      "para_id": "c0316p0044",
+      "index": 44,
+      "raw_zh": "薩弱沒想到，自己逃了幾千裡，以為已經甩掉了追蹤的守望者，結果剛一進城，就被發現。",
+      "translated_vi": "Tát Nhược không ngờ rằng, mình bôn ba trốn chạy mấy ngàn dặm, ngỡ đã cắt đuôi được đám Kẻ Thủ Vọng truy tung, nào ngờ vừa mới đặt chân vào thành phố là đã bị phát hiện ngay tức khắc."
+    },
+    {
+      "para_id": "c0316p0045",
+      "index": 45,
+      "raw_zh": "她走在荒郊，心裡琢磨著：",
+      "translated_vi": "Nàng cất bước giữa chốn đồng hoang, trong lòng thầm toan tính:"
+    },
+    {
+      "para_id": "c0316p0046",
+      "index": 46,
+      "raw_zh": "“看來城市絕對不能再去了，他們一定是破解了監控攝像，只要我被連網的攝像頭拍到，就會立刻被他們發現。”",
+      "translated_vi": "\"Xem ra tuyệt đối không thể bén mảng tới thành phố nữa, bọn chúng chắc chắn đã xâm nhập vào hệ thống camera giám sát, chỉ cần mình lọt vào ống kính có kết nối mạng là sẽ bị phát hiện ngay lập tức.\""
+    },
+    {
+      "para_id": "c0316p0047",
+      "index": 47,
+      "raw_zh": "心裡想著，她打開手裡的地圖冊，開始研究下一步該去哪裡。",
+      "translated_vi": "Vừa suy nghĩ, nàng vừa giở cuốn tập bản đồ trong tay ra, bắt đầu nghiên cứu xem bước tiếp theo nên đi về đâu."
+    },
+    {
+      "para_id": "c0316p0048",
+      "index": 48,
+      "raw_zh": "手機是不敢用了，如今的手機，攝像頭啥時候打開，往往和自己無關，就很神奇的。",
+      "translated_vi": "Điện thoại thì chẳng dám dùng nữa rồi. Điện thoại ngày nay kỳ quặc ở chỗ, camera bật mở lúc nào nhiều khi lại chẳng liên quan gì đến bản thân mình."
+    },
+    {
+      "para_id": "c0316p0049",
+      "index": 49,
+      "raw_zh": "於是她琢磨來去，決定繼續向西北偏北前進，那裡是山區，道路崎嶇，建設落後，最適合躲避。",
+      "translated_vi": "Thế là nàng tính đi tính lại, quyết định tiếp tục tiến về hướng bắc chếch tây. Nơi đó là vùng rừng núi trập trùng, đường sá hiểm trở gập ghềnh, cơ sở hạ tầng lạc hậu, thích hợp nhất để ẩn thân lánh nạn."
+    },
+    {
+      "para_id": "c0316p0050",
+      "index": 50,
+      "raw_zh": "薩弱很清楚，守望者不會放棄繼續追捕她，因為她是一個雌性的守望者，是造物主的忌諱。",
+      "translated_vi": "Tát Nhược hiểu rất rõ, Kẻ Thủ Vọng sẽ không đời nào từ bỏ việc lùng bắt nàng, bởi vì nàng là một Kẻ Thủ Vọng giống cái, là điều đại kỵ của Đấng Sáng Tạo."
+    },
+    {
+      "para_id": "c0316p0051",
+      "index": 51,
+      "raw_zh": "作為一個雌性守望者，薩弱很清楚，自己並不比其它守望者強大，甚至還略有不如。",
+      "translated_vi": "Với tư cách là một Kẻ Thủ Vọng giống cái, Tát Nhược biết rõ thực lực của mình chẳng hề mạnh hơn những Kẻ Thủ Vọng khác, thậm chí còn có phần thua kém."
+    },
+    {
+      "para_id": "c0316p0052",
+      "index": 52,
+      "raw_zh": "那麽她很確定，造物主忌諱的不會是雌性守望者本身，那麽會是什麽？",
+      "translated_vi": "Vậy nên nàng dám chắc chắn, điều Đấng Sáng Tạo kiêng kỵ tuyệt nhiên không phải là bản thân một Kẻ Thủ Vọng mang giới tính cái, vậy thì rốt cuộc là thứ gì?"
+    },
+    {
+      "para_id": "c0316p0053",
+      "index": 53,
+      "raw_zh": "她走在荒野裡，踩著獸徑，下意識的撫摸著隆起的肚子，心中其實已經有了大概可能的答案。",
+      "translated_vi": "Nàng bước đi giữa chốn hoang vu, giẫm lên lối mòn của muông thú, bàn tay theo bản năng vuốt ve bụng dưới nhô cao, trong lòng thực chất đã có sẵn một câu trả lời gần như chuẩn xác."
+    },
+    {
+      "para_id": "c0316p0054",
+      "index": 54,
+      "raw_zh": "雌性守望者與雄性守望者最大的區別就在這裡。",
+      "translated_vi": "Điểm khác biệt lớn nhất giữa Kẻ Thủ Vọng giống cái và Kẻ Thủ Vọng giống đực chính là nằm ở chỗ này."
+    },
+    {
+      "para_id": "c0316p0055",
+      "index": 55,
+      "raw_zh": "那麽這個間接，才可能是造物主真正的忌諱。",
+      "translated_vi": "Vậy thì cái hệ quả gián tiếp này, mới có khả năng là điều đại kỵ thực sự của Đấng Sáng Tạo."
+    },
+    {
+      "para_id": "c0316p0056",
+      "index": 56,
+      "raw_zh": "而這個最大可能是造物主忌諱的小東西，此刻就在自己的身體裡，是自己生命的延伸。",
+      "translated_vi": "Mà sinh linh bé nhỏ nhiều khả năng là điều cấm kỵ của Đấng Sáng Tạo ấy, lúc này lại đang nằm trọn trong cơ thể nàng, là sự tiếp nối sinh mệnh của chính nàng."
+    },
+    {
+      "para_id": "c0316p0057",
+      "index": 57,
+      "raw_zh": "“千難萬難，無論是誰，也無法阻止我帶你來到這個世界，無論因此帶來什麽！”",
+      "translated_vi": "\"Dẫu ngàn nan vạn hiểm, bất kể là ai đi chăng nữa, cũng đừng hòng ngăn cản mẹ mang con đến với thế giới này, cho dù điều đó có kéo theo bất cứ tai ương nào!\""
+    },
+    {
+      "para_id": "c0316p0058",
+      "index": 58,
+      "raw_zh": "這種情感，是作為守望者不知多少歲月的薩弱所從來沒有感受過的。",
+      "translated_vi": "Cái thứ tình cảm thiêng liêng này, là điều mà Tát Nhược suốt bao năm tháng đằng đẵng làm Kẻ Thủ Vọng chưa từng một lần cảm nhận được."
+    },
+    {
+      "para_id": "c0316p0059",
+      "index": 59,
+      "raw_zh": "為了這種情感，她深信自己敢與面對一切，敢與打破一切，哪怕面對無法戰勝的存在。",
+      "translated_vi": "Vì thứ tình cảm ấy, nàng tin chắc rằng mình dám đương đầu với tất thảy, dám đập tan mọi xiềng xích, dẫu cho phải đối mặt với những thực thể không thể nào chiến thắng."
+    },
+    {
+      "para_id": "c0316p0060",
+      "index": 60,
+      "raw_zh": "薩弱收斂著自己的氣息，不敢使用飛翔的能力，因為哪怕一絲的不小心，都可能被追捕自己的守望者發現。",
+      "translated_vi": "Tát Nhược thu liễm khí tức của mình, chẳng dám vận dụng năng lực bay lượn, bởi vì chỉ cần một chút sơ sẩy nhỏ thôi cũng đủ để đám Kẻ Thủ Vọng truy đuổi phát hiện ra nàng."
+    },
+    {
+      "para_id": "c0316p0061",
+      "index": 61,
+      "raw_zh": "那不是幾個，而很可能是全部守望者都在尋找自己。",
+      "translated_vi": "Đó không chỉ là vài ba tên, mà rất có thể toàn bộ Kẻ Thủ Vọng đều đang ráo riết săn lùng nàng."
+    },
+    {
+      "para_id": "c0316p0062",
+      "index": 62,
+      "raw_zh": "因為，祂們一定也猜到了造物主的忌諱是什麽，也知道那忌諱在自己身上。",
+      "translated_vi": "Bởi lẽ, bọn họ nhất định cũng đã đoán ra điều kiêng kỵ của Đấng Sáng Tạo là gì, và biết rõ điều cấm kỵ ấy đang hiện diện trên thân xác nàng."
+    },
+    {
+      "para_id": "c0316p0063",
+      "index": 63,
+      "raw_zh": "就在薩弱歷盡艱險，在原始叢林裡躲避守望者追捕之時，身在南山的雲千峰又開始忙碌起來。",
+      "translated_vi": "Ngay trong lúc Tát Nhược nếm trải muôn vàn gian nan, lẩn trốn sự truy lùng của Kẻ Thủ Vọng nơi rừng nguyên sinh rậm rạp, thì Vân Thiên Phong lúc này đang ở Nam Sơn cũng lại bắt đầu tất bật bận rộn."
+    },
+    {
+      "para_id": "c0316p0064",
+      "index": 64,
+      "raw_zh": "原因是姮娥告訴他關於蘋果火山的事情。",
+      "translated_vi": "Nguyên do là Hằng Nga đã nói cho hắn biết chuyện liên quan đến núi lửa Táo."
+    },
+    {
+      "para_id": "c0316p0065",
+      "index": 65,
+      "raw_zh": "“守望者全都復活了？那可真是個大麻煩！”",
+      "translated_vi": "\"Kẻ Thủ Vọng đã sống lại toàn bộ rồi sao? Thế thì đúng là rắc rối lớn rồi đấy!\""
+    },
+    {
+      "para_id": "c0316p0066",
+      "index": 66,
+      "raw_zh": "“不對啊，要是如你所說，十八層地獄應該人滿為患了，怎麽我沒感覺到多了許多人？”",
+      "translated_vi": "\"Nhưng không đúng, nếu như cô nói, thì mười tám tầng địa ngục đáng lẽ phải chật ních người rồi chứ, sao tôi lại chẳng cảm nhận thấy số lượng linh hồn tăng lên bao nhiêu?\""
+    },
+    {
+      "para_id": "c0316p0067",
+      "index": 67,
+      "raw_zh": "雲千峰思考的角度，總是讓姮娥猝不及防。",
+      "translated_vi": "Góc độ suy nghĩ của Vân Thiên Phong trước nay luôn khiến Hằng Nga phải bất ngờ, trở tay không kịp."
+    },
+    {
+      "para_id": "c0316p0068",
+      "index": 68,
+      "raw_zh": "她思索道：",
+      "translated_vi": "Nàng trầm ngâm suy nghĩ rồi nói:"
+    },
+    {
+      "para_id": "c0316p0069",
+      "index": 69,
+      "raw_zh": "“若是這樣，應該是守望者有讓靈魂意識沒辦法被全知之眼收納的方法，所以才把那大島上的靈魂意識都困住了。”",
+      "translated_vi": "\"Nếu quả đúng như vậy, hẳn là Kẻ Thủ Vọng có phương pháp khiến cho ý thức linh hồn không thể bị Con Mắt Toàn Tri thu nạp, cho nên mới phong tỏa toàn bộ ý thức linh hồn trên hòn đảo lớn kia lại.\""
+    },
+    {
+      "para_id": "c0316p0070",
+      "index": 70,
+      "raw_zh": "雲千峰沉思，在他心中，一切行為皆是利益驅使。",
+      "translated_vi": "Vân Thiên Phong trầm ngâm suy tính. Trong nhận thức của hắn, mọi hành vi trên đời đều bị lợi ích dẫn dắt."
+    },
+    {
+      "para_id": "c0316p0071",
+      "index": 71,
+      "raw_zh": "“守望者不會無緣無故困住那些人的靈魂意識，除非有用。”",
+      "translated_vi": "\"Kẻ Thủ Vọng sẽ không vô duyên vô cớ giam hãm ý thức linh hồn của những người đó, trừ phi việc ấy có tác dụng.\""
+    },
+    {
+      "para_id": "c0316p0072",
+      "index": 72,
+      "raw_zh": "姮娥面色微變，道：",
+      "translated_vi": "Sắc mặt Hằng Nga khẽ biến đổi, nàng nói:"
+    },
+    {
+      "para_id": "c0316p0073",
+      "index": 73,
+      "raw_zh": "“一個人的靈魂意識，或許微不足道，但是巨量匯聚在一起，那就非常可怕了，祂們是要利用那些能量。”",
+      "translated_vi": "\"Ý thức linh hồn của một người có lẽ nhỏ bé không đáng kể, nhưng khi một lượng khổng lồ tụ lại với nhau thì lại vô cùng khủng khiếp. Bọn họ muốn lợi dụng nguồn năng lượng đó.\""
+    },
+    {
+      "para_id": "c0316p0074",
+      "index": 74,
+      "raw_zh": "雲千峰點了點頭，沉聲道：",
+      "translated_vi": "Vân Thiên Phong gật đầu, trầm giọng nói:"
+    },
+    {
+      "para_id": "c0316p0075",
+      "index": 75,
+      "raw_zh": "“就怕祂們是用人類的靈魂意識創造什麽詭異的東西，量子級的元，已經如此可怕，同樣是量子級的靈魂意識凝結成的東西，其強大一定也是驚人的。”",
+      "translated_vi": "\"Chỉ sợ bọn họ dùng ý thức linh hồn của nhân loại để tạo ra thứ quái đản nào đó. 'Nguyên' cấp lượng tử đã đáng sợ đến mức này, thì thứ được ngưng kết từ ý thức linh hồn cũng ở cấp lượng tử chắc chắn sẽ sở hữu sức mạnh kinh hoàng khôn xiết.\""
+    },
+    {
+      "para_id": "c0316p0076",
+      "index": 76,
+      "raw_zh": "姮娥擔憂道：",
+      "translated_vi": "Hằng Nga lo lắng nói:"
+    },
+    {
+      "para_id": "c0316p0077",
+      "index": 77,
+      "raw_zh": "“那我們現在必須做些什麽。”",
+      "translated_vi": "\"Vậy bây giờ chúng ta cần phải làm gì đó.\""
+    },
+    {
+      "para_id": "c0316p0078",
+      "index": 78,
+      "raw_zh": "雲千峰非常讚同的點頭，道：",
+      "translated_vi": "Vân Thiên Phong gật đầu rất mực tán đồng, cất tiếng:"
+    },
+    {
+      "para_id": "c0316p0079",
+      "index": 79,
+      "raw_zh": "“當然，我必須馬上回地球一趟，處理一些事情。”",
+      "translated_vi": "\"Tất nhiên rồi, tôi cần phải lập tức trở về Trái Đất một chuyến để xử lý vài việc.\""
+    },
+    {
+      "para_id": "c0316p0080",
+      "index": 80,
+      "raw_zh": "姮娥擔憂道：",
+      "translated_vi": "Hằng Nga lo âu nói:"
+    },
+    {
+      "para_id": "c0316p0081",
+      "index": 81,
+      "raw_zh": "“你不要輕易涉險，要知道，你可是帝留下的，人類文明最後的堡壘，無論發生什麽，只要南山能逃走，我們都不要去涉險。”",
+      "translated_vi": "\"Anh đừng tùy tiện mạo hiểm. Phải biết rằng, anh chính là pháo đài cuối cùng của nền văn minh nhân loại mà Đế lưu lại. Cho dù có xảy ra bất cứ chuyện gì, chỉ cần Nam Sơn còn có thể chạy thoát thì chúng ta tuyệt đối đừng dấn thân vào hiểm cảnh.\""
+    },
+    {
+      "para_id": "c0316p0082",
+      "index": 82,
+      "raw_zh": "雲千峰再次點頭，笑道：",
+      "translated_vi": "Vân Thiên Phong lại gật đầu, mỉm cười nói:"
+    },
+    {
+      "para_id": "c0316p0083",
+      "index": 83,
+      "raw_zh": "“放心，守望者的事情不歸我管，我也不會管，我下去只是做我必須做的事情，乖乖等我，我很快就會回來，這是我的家，而我是個準是回家的男人。”",
+      "translated_vi": "\"Cứ yên tâm, chuyện của Người Canh Gác không thuộc thẩm quyền của anh, anh cũng chẳng thèm bận tâm. Anh đi xuống dưới đó chỉ để làm những việc mình buộc phải làm thôi. Ngoan ngoãn đợi anh, anh sẽ trở về rất nhanh. Nơi này là nhà của anh, mà anh là người đàn ông luôn về nhà đúng hẹn.\""
+    },
+    {
+      "para_id": "c0316p0084",
+      "index": 84,
+      "raw_zh": "姮娥幸福到臉紅，尤其是想到雲千峰被繩子綁住時的樣子，便很不舍得雲千峰走。",
+      "translated_vi": "Hằng Nga ngập tràn hạnh phúc đến đỏ bừng cả khuôn mặt, đặc biệt là khi nghĩ tới dáng vẻ Vân Thiên Phong bị dây thừng trói chặt, trong lòng lại càng thêm quyến luyến không nỡ để hắn rời đi."
+    },
+    {
+      "para_id": "c0316p0085",
+      "index": 85,
+      "raw_zh": "而那是雲千峰的痛，羅琳娜這個壞人，很明顯是反著教的。",
+      "translated_vi": "Mà đó lại chính là nỗi đau của Vân Thiên Phong. La Lâm Na cái ả xấu xa kia, rõ ràng là cố tình dạy ngược lại."
+    },
+    {
+      "para_id": "c0316p0086",
+      "index": 86,
+      "raw_zh": "寸阿止的教學，真的是太損了！",
+      "translated_vi": "Trò chỉ bảo của Thốn A Chỉ quả thực quá đỗi tai quái!"
+    },
+    {
+      "para_id": "c0316p0087",
+      "index": 87,
+      "raw_zh": "這必須報復回去。",
+      "translated_vi": "Mối thù này nhất định phải trả đũa thích đáng."
+    },
+    {
+      "para_id": "c0316p0088",
+      "index": 88,
+      "raw_zh": "雲千峰利用二十一眼天珠，故地重遊，來到了瑤池的雨林邊緣。",
+      "translated_vi": "Vân Thiên Phong mượn dùng thiên châu hai mươi mốt mắt, đi lại chốn cũ, đặt chân tới rìa khu rừng mưa của Dao Trì."
+    },
+    {
+      "para_id": "c0316p0089",
+      "index": 89,
+      "raw_zh": "剛到這裡，就見到了人身蛇尾的卓瑪在那石門前發呆。",
+      "translated_vi": "Vừa tới nơi, hắn liền trông thấy Trác Mã với nửa thân người nửa thân rắn đang ngơ ngẩn thẫn thờ đứng trước cánh cổng đá."
+    },
+    {
+      "para_id": "c0316p0090",
+      "index": 90,
+      "raw_zh": "很顯然，她現在後悔孤獨的留在這裡了，但是又不知道怎麽回去。",
+      "translated_vi": "Rõ ràng, giờ đây cô bé đã hối hận vì phải cô độc ở lại chốn này, nhưng lại chẳng biết làm cách nào để quay về."
+    },
+    {
+      "para_id": "c0316p0091",
+      "index": 91,
+      "raw_zh": "於是見到雲千峰，甩著大尾巴就撲過來，抱著雲千峰哭。雲千峰的黑色皮甲肩膀上，一下就被鼻涕打濕了。",
+      "translated_vi": "Thế nên vừa trông thấy Vân Thiên Phong, cô liền vung chiếc đuôi lớn nhào thẳng tới, ôm chặt lấy hắn mà khóc nức nở. Bả vai áo giáp da màu đen của Vân Thiên Phong thoáng chốc đã bị nước mắt nước mũi làm ướt sũng."
+    },
+    {
+      "para_id": "c0316p0092",
+      "index": 92,
+      "raw_zh": "“想回家了？”",
+      "translated_vi": "\"Muốn về nhà rồi à?\""
+    },
+    {
+      "para_id": "c0316p0093",
+      "index": 93,
+      "raw_zh": "卓瑪點了點頭，然後看著自己的魚尾巴，又有些遲疑。",
+      "translated_vi": "Trác Mã gật đầu, đoạn nhìn xuống chiếc đuôi cá của mình, vẻ mặt lại thoáng chút ngập ngừng do dự."
+    },
+    {
+      "para_id": "c0316p0094",
+      "index": 94,
+      "raw_zh": "“別擔心，回去之後，我幫你變回來。”",
+      "translated_vi": "\"Đừng lo, sau khi quay về, tôi sẽ giúp cô biến trở lại như cũ.\""
+    },
+    {
+      "para_id": "c0316p0095",
+      "index": 95,
+      "raw_zh": "卓瑪眼睛一亮。",
+      "translated_vi": "Đôi mắt Trác Mã lập tức sáng rực lên."
+    },
+    {
+      "para_id": "c0316p0096",
+      "index": 96,
+      "raw_zh": "“你可以做到？”",
+      "translated_vi": "\"Anh làm được thật sao?\""
+    },
+    {
+      "para_id": "c0316p0097",
+      "index": 97,
+      "raw_zh": "“當然.”",
+      "translated_vi": "\"Đương nhiên rồi.\""
+    },
+    {
+      "para_id": "c0316p0098",
+      "index": 98,
+      "raw_zh": "雲千峰知道西王母討厭自己，於是就沒打招呼，畢竟上次手指頭乾得壞事，把瑤池的人怕是得罪光了。",
+      "translated_vi": "Vân Thiên Phong biết Tây Vương Mẫu ghét cay ghét đắng mình, thế nên chẳng buồn chào hỏi. Dù sao lần trước ngón tay gây ra chuyện bậy bạ kia, e rằng đã đắc tội sạch sành sanh người ở Dao Trì rồi."
+    },
+    {
+      "para_id": "c0316p0099",
+      "index": 99,
+      "raw_zh": "於是帶著卓瑪，利用二十一眼天珠和改變腦波接受，回到了他和卓瑪進入香巴拉的那個石門。",
+      "translated_vi": "Hắn liền dẫn theo Trác Mã, mượn dùng thiên châu hai mươi mốt mắt kết hợp với việc thay đổi tần số tiếp nhận sóng não để quay trở lại cánh cổng đá nơi hắn và Trác Mã từng tiến vào Shambhala."
+    },
+    {
+      "para_id": "c0316p0100",
+      "index": 100,
+      "raw_zh": "在不遠處，一個並不顯眼的平頂雪峰上，雲千峰利用六道盤，完善了卓瑪的基因。",
+      "translated_vi": "Tại một đỉnh tuyết bằng phẳng không mấy bắt mắt ở cách đó không xa, Vân Thiên Phong sử dụng đĩa sáu luồng để hoàn thiện lại bộ gen cho Trác Mã."
+    },
+    {
+      "para_id": "c0316p0101",
+      "index": 101,
+      "raw_zh": "卓瑪本身就很特殊，以至於可以一個身體裝置兩套基因，甚至還能更多，但是雲千峰沒敢冒險，隻把雙腿人形的基因裝進去，在一番痛苦之後，卓瑪轉變回來，穿著雲千峰之前的大衣，抱著雲千峰又是好一陣大哭。",
+      "translated_vi": "Bản thân Trác Mã vốn rất đặc thù, đặc thù đến mức trong một thân thể có thể dung nạp cùng lúc hai bộ gen, thậm chí còn nhiều hơn thế. Nhưng Vân Thiên Phong không dám mạo hiểm, chỉ cấy ghép bộ gen hai chân hình người vào bên trong. Sau một hồi đau đớn dữ dội, Trác Mã đã biến đổi trở lại. Khoác lên mình chiếc áo khoác trước đó của Vân Thiên Phong, cô lại ôm chầm lấy hắn khóc ròng thêm một hồi lâu."
+    },
+    {
+      "para_id": "c0316p0102",
+      "index": 102,
+      "raw_zh": "倆人再次回到格比格的土廟，雲千峰換上了之前留在這裡的衣服。",
+      "translated_vi": "Hai người lại quay trở về ngôi miếu đất của Cách Bỉ Cách, Vân Thiên Phong thay lại bộ quần áo từng để lại nơi này."
+    },
+    {
+      "para_id": "c0316p0103",
+      "index": 103,
+      "raw_zh": "很明顯，這次格比格看雲千峰的時候，眼睛睜得更大了。",
+      "translated_vi": "Rõ ràng lần này khi Cách Bỉ Cách nhìn Vân Thiên Phong, đôi mắt ông ta càng trừng to hơn trước."
+    },
+    {
+      "para_id": "c0316p0104",
+      "index": 104,
+      "raw_zh": "要不是雲千峰知道格比格越尊重一個人，眼睛睜得越大，還以為格比格要發火呢。",
+      "translated_vi": "Nếu không phải Vân Thiên Phong hiểu rõ Cách Bỉ Cách càng tôn kính ai thì hai mắt lại mở càng to, hắn còn tưởng ông lão sắp sửa nổi trận lôi đình."
+    },
+    {
+      "para_id": "c0316p0105",
+      "index": 105,
+      "raw_zh": "飛機汽車哪有現在雲千峰的速度快，於是雲千峰借著夜色，利用元隱蔽自己的光學影象，以最快的速度突襲到達羅琳娜的私人島嶼。",
+      "translated_vi": "Máy bay hay ô tô làm sao bì kịp tốc độ phi thường của Vân Thiên Phong lúc này. Hắn liền mượn bóng đêm mịt mùng, vận dụng Nguyên để che giấu hình ảnh quang học của bản thân, với tốc độ kinh hoàng lao vút tới hòn đảo tư nhân của La Lâm Na."
+    },
+    {
+      "para_id": "c0316p0106",
+      "index": 106,
+      "raw_zh": "雲千峰之所以這麽著急來這裡，是因為他知道這個世界上，還有著能阻止靈魂意識被全知之眼收取的方法和能力，那麽他就無法完全屏蔽羅琳娜和秦疏影的危險，他要帶她們去南山。",
+      "translated_vi": "Vân Thiên Phong sở dĩ vội vã chạy tới đây là bởi hắn biết trên thế giới này vẫn còn tồn tại những phương pháp và năng lực có thể ngăn chặn ý thức linh hồn bị Toàn Tri Chi Nhãn thu nạp. Như thế thì hắn không thể nào hoàn toàn che chắn hết mọi hiểm nguy cho La Lâm Na và Tần Sơ Ảnh, hắn buộc phải đưa hai người họ về Nam Sơn."
+    },
+    {
+      "para_id": "c0316p0107",
+      "index": 107,
+      "raw_zh": "但是讓雲千峰沒想到的是，羅琳娜和秦疏影都拒絕去南山。",
+      "translated_vi": "Thế nhưng điều khiến Vân Thiên Phong không ngờ tới chính là cả La Lâm Na lẫn Tần Sơ Ảnh đều một mực từ chối tới Nam Sơn."
+    },
+    {
+      "para_id": "c0316p0108",
+      "index": 108,
+      "raw_zh": "在之前，羅琳娜不知道一些秘辛之前，確實準備登陸南山來著。",
+      "translated_vi": "Trước đó, khi chưa biết được một vài bí mật thâm sâu, quả thực La Lâm Na từng có ý định đổ bộ lên Nam Sơn."
+    },
+    {
+      "para_id": "c0316p0109",
+      "index": 109,
+      "raw_zh": "但是現在知道那是姮娥的地盤，作為隻作老大不當老二的羅琳娜來說，是絕不會去的，她只在自己說的算的地方。",
+      "translated_vi": "Nhưng hiện giờ biết nơi đó là địa bàn của Hằng Nga, một kẻ chỉ chịu làm đại ca chứ quyết không cam phận làm kẻ thứ hai như La Lâm Na tuyệt đối sẽ chẳng bao giờ đặt chân tới. Cô ta chỉ chịu ở lại những nơi mà lời mình nói ra là mệnh lệnh tối cao."
+    },
+    {
+      "para_id": "c0316p0110",
+      "index": 110,
+      "raw_zh": "這是性格的原因，寧死不改的那種。",
+      "translated_vi": "Đó là do bản tính, loại tính cách thà chết chứ chẳng bao giờ chịu thay đổi."
+    },
+    {
+      "para_id": "c0316p0111",
+      "index": 111,
+      "raw_zh": "秦疏影性子本來就柔弱，如今已經習慣了這私人島嶼的生活，也不願意改變。",
+      "translated_vi": "Tần Sơ Ảnh tính tình vốn đã nhu mì, nay đã quen với nếp sống thanh bình trên hòn đảo tư nhân này, cũng chẳng muốn có thêm xáo trộn."
+    },
+    {
+      "para_id": "c0316p0112",
+      "index": 112,
+      "raw_zh": "雲千峰看確實勸不動，於是退而求其次，在海底一座山峰之上，給羅琳娜秦疏影很仔細的完善了一次基因。",
+      "translated_vi": "Vân Thiên Phong nhận thấy quả thực không tài nào khuyên nhủ nổi, đành phải lùi một bước cầu thứ yếu, ở trên đỉnh một tòa núi dưới đáy biển sâu, hắn đã cẩn thận hoàn thiện lại bộ gen cho cả La Lâm Na lẫn Tần Sơ Ảnh."
+    },
+    {
+      "para_id": "c0316p0113",
+      "index": 113,
+      "raw_zh": "他利用基因進化的程序，給了兩女力量、速度、快速修複，可拚著痛苦長出收回的翅膀，可在海底深潛速遊的能力。",
+      "translated_vi": "Hắn vận dụng quy trình tiến hóa gen, ban cho hai nàng sức mạnh, tốc độ, khả năng phục hồi siêu tốc, đôi cánh có thể cắn răng chịu đau để mọc ra thu vào, cùng năng lực lặn sâu bơi nhanh dưới đáy đại dương."
+    },
+    {
+      "para_id": "c0316p0114",
+      "index": 114,
+      "raw_zh": "但卻完美的保留了兩個人的外貌沒受到任何影響，在雲千峰眼裡，她們倆就是完美的，增一絲，減一絲，都是破壞。",
+      "translated_vi": "Đồng thời, hắn vẫn hoàn mỹ bảo toàn dung mạo của hai người mà không để chịu bất kỳ ảnh hưởng nào. Trong mắt Vân Thiên Phong, hai người họ vốn đã quá đỗi hoàn hảo, thêm một tấc hay bớt một phân đều là sự phá hoại."
+    },
+    {
+      "para_id": "c0316p0115",
+      "index": 115,
+      "raw_zh": "著實是費了很大一番心思，有了這些能力，哪怕再大的危險，在這個物質世界裡，她們都能等來雲千峰的救援，這就足夠了。",
+      "translated_vi": "Quả thực đã phải hao tổn không ít tâm tư. Có được những năng lực này, dẫu gặp phải hiểm nguy lớn đến đâu trong thế giới vật chất, hai nàng đều có thể kiên cường chống đỡ chờ Vân Thiên Phong tới ứng cứu, thế là đã quá đủ."
+    },
+    {
+      "para_id": "c0316p0116",
+      "index": 116,
+      "raw_zh": "隨後，本著物盡其用的理念，雲千峰給了羅琳娜十二道青色石牌，這石牌是令牌形狀，巴掌大小，上面刻滿了規則符文。",
+      "translated_vi": "Kế đó, xuất phát từ tôn chỉ tận dụng tối đa mọi thứ, Vân Thiên Phong giao cho La Lâm Na mười hai luồng thẻ đá màu xanh. Tấm thẻ đá này có hình dạng lệnh bài, lớn chừng bàn tay, phía trên khắc kín những phù văn quy tắc."
+    },
+    {
+      "para_id": "c0316p0117",
+      "index": 117,
+      "raw_zh": "這些令牌是與全知之眼配套之物，雲千峰完全獲得了元之後，才知道這東西的存在，並且在閻羅殿找到了它們。",
+      "translated_vi": "Những chiếc lệnh bài này là vật phẩm đi kèm đồng bộ với Toàn Tri Chi Nhãn. Chỉ sau khi hoàn toàn nắm giữ Nguyên, Vân Thiên Phong mới biết được sự tồn tại của chúng và tìm thấy chúng ở trong Diêm La điện."
+    },
+    {
+      "para_id": "c0316p0118",
+      "index": 118,
+      "raw_zh": "這些令牌的作用很大，主要是用來引魂，據說還有一些其它奇怪的能力，畢竟這令牌也和元一樣，是極為精密的量子級機器，用變化多端來形容一點不過。",
+      "translated_vi": "Tác dụng của những lệnh bài này vô cùng to lớn, chủ yếu dùng để dẫn hồn, nghe đâu còn ẩn chứa một vài năng lực kỳ dị khác. Dù sao thứ lệnh bài này cũng giống hệt như Nguyên, là một cỗ máy lượng tử cực kỳ tinh vi, dùng bốn chữ \"biến hóa khôn lường\" để hình dung cũng chẳng hề quá lời chút nào."
+    },
+    {
+      "para_id": "c0316p0119",
+      "index": 119,
+      "raw_zh": "這個世界上，不但有著能阻止意識靈魂回歸全知之眼的方法，還有一些執念很強的靈魂意識，能夠抵抗全知之眼的收取。",
+      "translated_vi": "Trên cõi đời này, không chỉ tồn tại những thủ đoạn ngăn cản linh hồn ý thức quay trở về Toàn Tri Chi Nhãn, mà còn có cả những linh hồn ý thức mang chấp niệm quá đỗi mãnh liệt, đủ sức kháng cự lại sự thu nạp của Toàn Tri Chi Nhãn."
+    },
+    {
+      "para_id": "c0316p0120",
+      "index": 120,
+      "raw_zh": "而這些執念有著很大的隱患，比如如果一個執念強大到能夠融合其他的靈魂意識，那麽就好像養蠱一樣，最終這種疊加，會產生一些災難級的存在，必須將這樣的靈魂意識強製帶到全知之眼內。",
+      "translated_vi": "Mà những chấp niệm ấy lại tiềm ẩn mối nguy hại khôn lường. Chẳng hạn nếu một chấp niệm đủ hùng mạnh để thôn phệ dung hợp những linh hồn ý thức khác, thì chẳng khác nào nuôi cổ độc. Sự tích tụ cộng dồn ấy cuối cùng sẽ sản sinh ra những thực thể cấp bậc thảm họa, cho nên buộc phải cưỡng chế áp giải những linh hồn ý thức như vậy vào bên trong Toàn Tri Chi Nhãn."
+    },
+    {
+      "para_id": "c0316p0121",
+      "index": 121,
+      "raw_zh": "雲千峰稱呼這些人為引渡人，其實就和民間傳說的鬼差沒什麽分別。",
+      "translated_vi": "Vân Thiên Phong gọi những người đảm trách việc này là Người Dẫn Độ, thực chất chẳng khác biệt gì so với quỷ sai trong các truyền thuyết dân gian."
+    },
+    {
+      "para_id": "c0316p0122",
+      "index": 122,
+      "raw_zh": "這種令牌共有一百零八枚，分為天罡三十六道，和地煞七十二道。",
+      "translated_vi": "Loại lệnh bài này tổng cộng có một trăm lẻ tám viên, phân thành ba mươi sáu luồng Thiên Cương và bảy mươi hai luồng Địa Sát."
+    },
+    {
+      "para_id": "c0316p0123",
+      "index": 123,
+      "raw_zh": "雲千峰給羅琳娜的是地煞七十二道之中的二十四枚，同時將整個M州的靈魂事宜交給她處理，這是最大的信任，也是可怕的權力。",
+      "translated_vi": "Thứ Vân Thiên Phong trao cho La Lâm Na chính là hai mươi bốn viên nằm trong số bảy mươi hai luồng Địa Sát, đồng thời giao phó toàn bộ sự vụ linh hồn của cả châu M cho cô ta quản lý. Đây là sự tín nhiệm tối cao, cũng là một thứ quyền lực vô cùng đáng sợ."
+    },
+    {
+      "para_id": "c0316p0124",
+      "index": 124,
+      "raw_zh": "正事辦完了，雖然不是來報仇的，但是該報的仇，一個也落不下。",
+      "translated_vi": "Chính sự đã lo liệu xong xuôi, tuy chuyến này không phải tới để báo thù, nhưng món nợ nào cần đòi thì quyết chẳng thể bỏ sót một mối nào."
+    },
+    {
+      "para_id": "c0316p0125",
+      "index": 125,
+      "raw_zh": "這個晚上，整整一個晚上，一直到天亮，羅琳娜實際上只是一次。",
+      "translated_vi": "Đêm hôm ấy, ròng rã suốt một đêm cho tới tận lúc bình minh, La Lâm Na trên thực tế chỉ có một lần duy nhất."
+    },
+    {
+      "para_id": "c0316p0126",
+      "index": 126,
+      "raw_zh": "而秦疏影倒是唱了一晚上的昆曲兒。",
+      "translated_vi": "Còn Tần Sơ Ảnh thì lại rả rích hát Côn khúc suốt cả một đêm dài."
+    },
+    {
+      "para_id": "c0316p0127",
+      "index": 127,
+      "raw_zh": "於是，當雲千峰離開去處理別的事宜後，羅琳娜撥通了姮娥的電話：",
+      "translated_vi": "Thế nên, ngay khi Vân Thiên Phong vừa rời đi để xử lý các công việc khác, La Lâm Na liền bấm số gọi điện thoại cho Hằng Nga:"
+    },
+    {
+      "para_id": "c0316p0128",
+      "index": 128,
+      "raw_zh": "“喂，姮娥啊，雲千峰其實喜歡你需要強迫.越殘忍他越喜歡.對！”",
+      "translated_vi": "\"Alo, Hằng Nga à? Vân Thiên Phong ấy mà, thật ra anh ta thích cô phải dùng biện pháp mạnh cơ... Càng tàn nhẫn anh ta lại càng thích... Chuẩn luôn đấy!\""
+    },
+    {
+      "para_id": "c0316p0129",
+      "index": 129,
+      "raw_zh": "美麗廣闊的大草原上，一間掛滿了五色彩條的氈房內。",
+      "translated_vi": "Trên thảo nguyên bao la ngút ngàn tuyệt đẹp, bên trong một căn lều nỉ treo đầy những dải lụa ngũ sắc rực rỡ."
+    },
+    {
+      "para_id": "c0316p0130",
+      "index": 130,
+      "raw_zh": "滿都拉圖對雲千峰的到來，既驚訝又覺得本該如此。",
+      "translated_vi": "Mãn Đô Lạp Đồ đối với sự xuất hiện của Vân Thiên Phong vừa cảm thấy kinh ngạc, lại vừa thấy đó là điều dĩ nhiên phải thế."
+    },
+    {
+      "para_id": "c0316p0131",
+      "index": 131,
+      "raw_zh": "他也保留了記憶的夢境，而以滿都拉圖的本事，怎麽可能猜不到夢境是真的？於是這段時間，他早與薑玉林和維多利亞取得了聯系，更因為羅琳娜的布局，知道了雲千峰這段時間的經歷。",
+      "translated_vi": "Ông ta cũng lưu giữ lại ký ức trong cõi mộng, mà với bản lĩnh của Mãn Đô Lạp Đồ, làm sao không đoán ra được giấc mộng ấy là chân thực? Vì vậy trong suốt khoảng thời gian qua, ông ta đã sớm thiết lập liên lạc với Khương Ngọc Lâm và Victoria, lại nhờ vào những sắp đặt của La Lâm Na mà nắm rõ mọi trải nghiệm của Vân Thiên Phong trong thời gian gần đây."
+    },
+    {
+      "para_id": "c0316p0132",
+      "index": 132,
+      "raw_zh": "莫名的，滿都拉圖很羨慕歷盡了艱辛苦難的雲千峰，就如雲千峰羨慕滿都拉圖的生活一樣。",
+      "translated_vi": "Thật kỳ lạ, Mãn Đô Lạp Đồ lại vô cùng ngưỡng mộ Vân Thiên Phong - người đã nếm trải đủ mọi gian lao trắc trở, hệt như cái cách Vân Thiên Phong hâm mộ cuộc sống tự do tự tại của Mãn Đô Lạp Đồ vậy."
+    },
+    {
+      "para_id": "c0316p0133",
+      "index": 133,
+      "raw_zh": "這個薩滿用大禮迎接雲千峰，因為滿都拉圖清楚，眼前的已經是神祇。",
+      "translated_vi": "Vị Shaman này dùng đại lễ cung kính nghênh đón Vân Thiên Phong, bởi Mãn Đô Lạp Đồ hiểu rõ mồn một rằng, kẻ đang đứng sừng sững trước mặt mình lúc này đã là một vị thần linh tối cao."
+    },
+    {
+      "para_id": "c0316p0134",
+      "index": 134,
+      "raw_zh": "所以，無論雲千峰如何談論之前的交情，滿都拉圖都是恭敬的過分。",
+      "translated_vi": "Thế nên, bất luận Vân Thiên Phong có nhắc lại tình bằng hữu thuở trước thân tình ra sao, Mãn Đô Lạp Đồ vẫn giữ thái độ cung kính đến mức thái quá."
+    },
+    {
+      "para_id": "c0316p0135",
+      "index": 135,
+      "raw_zh": "雲千峰無奈，體會到了孤家寡人的痛苦，那就是沒有朋友。",
+      "translated_vi": "Vân Thiên Phong đành bất lực thở dài, thấm thía nỗi cô đơn cay đắng của kẻ cô gia quả nhân: đó chính là không còn lấy một người bạn bè đúng nghĩa."
+    },
+    {
+      "para_id": "c0316p0136",
+      "index": 136,
+      "raw_zh": "他隻好歎著氣，將十二枚地煞道令牌給了滿都拉圖，讓他處理此地以北所有區域的靈魂事宜，包括北極，並且利用這附近的山，利用六道盤給滿都拉圖完善了一下基因。",
+      "translated_vi": "Hắn chỉ đành ngậm ngùi, giao mười hai viên lệnh bài Địa Sát cho Mãn Đô Lạp Đồ, để ông ta toàn quyền xử lý các sự vụ linh hồn ở mọi khu vực từ nơi này trở lên phía bắc, bao gồm cả Bắc Cực, đồng thời mượn ngọn núi gần đó cùng với đĩa sáu luồng để hoàn thiện lại bộ gen cho Mãn Đô Lạp Đồ một phen."
+    },
+    {
+      "para_id": "c0316p0137",
+      "index": 137,
+      "raw_zh": "給自己工作，總要能力越強越好，這也是給的好處。",
+      "translated_vi": "Làm việc cho mình thì năng lực đương nhiên càng mạnh càng tốt, đây cũng xem như là chút bổng lộc mà hắn ban tặng."
+    },
+    {
+      "para_id": "c0316p0138",
+      "index": 138,
+      "raw_zh": "雲千峰在滿都拉圖的恭送下離開，眨眼消失不見。",
+      "translated_vi": "Vân Thiên Phong rời đi trong sự cung kính tiễn đưa của Mãn Đô Lạp Đồ, chỉ trong chớp mắt đã biến mất không còn tăm hơi."
+    },
+    {
+      "para_id": "c0316p0139",
+      "index": 139,
+      "raw_zh": "滿都拉圖則馬上騎馬，去買了最上好的木材，親自開始雕刻雲千峰的等身像，因為雲千峰以後，就是他的信仰。",
+      "translated_vi": "Mãn Đô Lạp Đồ lập tức cưỡi ngựa đi tìm mua loại gỗ thượng hạng nhất, đích thân bắt tay vào đục đẽo điêu khắc một bức tượng có kích thước bằng người thật của Vân Thiên Phong, bởi lẽ từ nay về sau, Vân Thiên Phong chính là đức tin tối thượng của ông ta."
+    },
+    {
+      "para_id": "c0316p0140",
+      "index": 140,
+      "raw_zh": "雲千峰不該怪滿都拉圖拉遠了兩個人的距離，不該的。",
+      "translated_vi": "Vân Thiên Phong không nên trách cứ Mãn Đô Lạp Đồ đã kéo giãn khoảng cách giữa hai người, thực sự không nên chút nào."
+    },
+    {
+      "para_id": "c0316p0141",
+      "index": 141,
+      "raw_zh": "一座豪華巨大的莊園內，維多利亞一直在等待雲千峰的出現。",
+      "translated_vi": "Bên trong một tòa trang viên xa hoa đồ sộ, Victoria vẫn luôn mòn mỏi chờ đợi sự xuất hiện của Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0316p0142",
+      "index": 142,
+      "raw_zh": "在給雲千峰送貨物去十八層的任務裡，維多利亞幾乎和時悟一樣瘋狂，不僅僅是因為私人感情，更因為雲千峰身上有她追求的一切。",
+      "translated_vi": "Trong nhiệm vụ vận chuyển hàng hóa xuống tầng mười tám cho Vân Thiên Phong trước kia, Victoria gần như điên cuồng chẳng kém gì Thời Ngộ, không chỉ đơn thuần vì tình cảm riêng tư, mà còn bởi trên người Vân Thiên Phong hội tụ tất cả những gì cô đang khao khát kiếm tìm."
+    },
+    {
+      "para_id": "c0316p0143",
+      "index": 143,
+      "raw_zh": "她知道，雲千峰已經走出了十八層，回到了現實，可是久久沒有出現，於是她準備寫小作文發網上。",
+      "translated_vi": "Cô biết rõ Vân Thiên Phong đã bước chân ra khỏi tầng mười tám, trở về với thế giới hiện thực, thế nhưng mãi mà chẳng thấy tăm hơi bóng dáng hắn đâu, cho nên cô bèn chuẩn bị viết một bài tâm thư bóc phốt dài dằng dặc để tung lên mạng xã hội."
+    },
+    {
+      "para_id": "c0316p0144",
+      "index": 144,
+      "raw_zh": "雖然當初雲千峰是做好人好事，但女人的嘴，完全可以咬成他吃乾抹淨不負責任。",
+      "translated_vi": "Dẫu rằng khi xưa Vân Thiên Phong là làm việc thiện cứu người, nhưng qua cái miệng của phụ nữ, hoàn toàn có thể đổi trắng thay đen, cắn ngược lại thành hắn ăn no chùi mép rồi rũ bỏ sạch trách nhiệm."
+    },
+    {
+      "para_id": "c0316p0145",
+      "index": 145,
+      "raw_zh": "你都成神了，不來管管我，那說不過去。",
+      "translated_vi": "Anh đã thành thần rồi mà chẳng thèm đoái hoài quản đến tôi thì thật là quá đỗi vô lý."
+    },
+    {
+      "para_id": "c0316p0146",
+      "index": 146,
+      "raw_zh": "正寫著小作文，苦思多年來在網上看到的套路，沒想到身後響起一個熟悉的聲音：",
+      "translated_vi": "Đang lúc ngồi cặm cụi viết bài bóc phốt, vắt óc suy nghĩ những chiêu trò drama tích lũy bao năm trên mạng, chẳng ngờ sau lưng bỗng vang lên một giọng nói quen thuộc:"
+    },
+    {
+      "para_id": "c0316p0147",
+      "index": 147,
+      "raw_zh": "“你這.汙蔑啊！”",
+      "translated_vi": "\"Cô làm thế này... rõ ràng là vu khống trắng trợn đấy nhé!\""
+    },
+    {
+      "para_id": "c0316p0148",
+      "index": 148,
+      "raw_zh": "維多利亞一時沒反應過來，用精英女強人的語氣，果斷道：",
+      "translated_vi": "Victoria nhất thời chưa kịp định thần, liền dùng ngay chất giọng của một nữ cường nhân tinh anh, quả quyết đáp:"
+    },
+    {
+      "para_id": "c0316p0149",
+      "index": 149,
+      "raw_zh": "“管用就行，真假不重哈！我開玩笑的！”",
+      "translated_vi": "\"Có tác dụng là được, thật giả đâu quan trọng... Á ha! Tôi đùa chút thôi mà!\""
+    },
+    {
+      "para_id": "c0316p0150",
+      "index": 150,
+      "raw_zh": "說完，轉身就撲了上去。",
+      "translated_vi": "Dứt lời, cô quay phắt người lại rồi nhào thẳng vào lòng hắn."
+    },
+    {
+      "para_id": "c0316p0151",
+      "index": 151,
+      "raw_zh": "這個時候用語言解釋，那是傻子才做的實情，維多利亞可不傻，於是用行動道歉。",
+      "translated_vi": "Vào những lúc như thế này mà dùng lời lẽ để phân bua giải thích thì chỉ có kẻ ngốc mới làm, Victoria nào có ngốc nghếch đến vậy, thế là cô liền dùng luôn hành động thực tế để nói lời tạ lỗi."
+    },
+    {
+      "para_id": "c0316p0152",
+      "index": 152,
+      "raw_zh": "被賄賂成功的雲千峰，利用六道盤完善了維多利亞的基因，又給她留下了十二枚地煞道令牌，由維多利亞全權處理整個OU洲的靈魂事宜，然後天亮離開。",
+      "translated_vi": "Vân Thiên Phong bị hối lộ thành công, liền sử dụng đĩa sáu luồng để hoàn thiện bộ gen cho Victoria, lại để lại cho cô mười hai viên lệnh bài Địa Sát, giao quyền cho Victoria toàn quyền xử lý các sự vụ linh hồn của toàn bộ châu Âu, rồi rời đi khi trời vừa hửng sáng."
+    },
+    {
+      "para_id": "c0316p0153",
+      "index": 153,
+      "raw_zh": "維多利亞，成功的達成了自己的夢想。",
+      "translated_vi": "Victoria đã thành công chạm tay vào giấc mộng cháy bỏng của cuộc đời mình."
+    },
+    {
+      "para_id": "c0316p0154",
+      "index": 154,
+      "raw_zh": "活下去，活好，終成神。",
+      "translated_vi": "Sống sót, sống thật huy hoàng, và cuối cùng đắc đạo thành thần."
+    },
+    {
+      "para_id": "c0316p0155",
+      "index": 155,
+      "raw_zh": "然後雲千峰對F州的人選犯了難，因為自己在那裡，並不認識能夠信任的朋友，而地煞道令牌，他是不會隨意交給誰的，那是力量。",
+      "translated_vi": "Sau đó, Vân Thiên Phong lại đau đầu không biết nên chọn ai cho khu vực châu Phi, bởi vì ở mảnh đất ấy hắn chẳng quen biết bất kỳ người bạn nào đủ độ tin cậy. Mà lệnh bài Địa Sát thì hắn tuyệt đối không thể tùy tiện giao bừa cho ai, bởi đó chính là sức mạnh tối thượng."
+    },
+    {
+      "para_id": "c0316p0156",
+      "index": 156,
+      "raw_zh": "自己確實可以隨意收回，但那時候必定已經是在不好的事情發生之後，於事無補。",
+      "translated_vi": "Bản thân hắn quả thực có thể tùy ý thu hồi lại bất cứ lúc nào, nhưng tới khi đó ắt hẳn chuyện tồi tệ đã xảy ra rồi, có vãn hồi cũng chẳng còn tác dụng gì nữa."
+    },
+    {
+      "para_id": "c0316p0157",
+      "index": 157,
+      "raw_zh": "“交給誰呢？”",
+      "translated_vi": "\"Nên giao cho ai bây giờ?\""
+    },
+    {
+      "para_id": "c0316p0158",
+      "index": 158,
+      "raw_zh": "感謝書友：做而論道，葬愛丶橫渠，尾數56754，一個人的精彩_Ed，染青12138的打賞，謝謝你們的支持！！！",
+      "translated_vi": "Cảm tạ các độc giả: Tọa Nhi Luận Đạo, Táng Ái 丶 Hoành Cừ, đuôi số 56754, Nhất Cá Nhân Đích Tinh Thải_Ed, Nhiễm Thanh 12138 đã tặng thưởng, chân thành cảm ơn sự ủng hộ của các bạn!!!"
+    },
+    {
+      "para_id": "c0316p0159",
+      "index": 159,
+      "raw_zh": "感謝書友：藍是黑，絕世凶獸成和葉，青蓮，王家萬事無憂，那天我好壞，大大灬的土豪，窗框文，春起朝晨，風吹麥浪_cb，98度的抉擇，山海爬，lionvincent，Carmpie，看第一章就知道能不能看，白雲托起藍天，呆va，尾數：18934，18216，21419，12186，51510，29852，24153，10517，14893，15562，25327，39710，10298_aC，的月票獎勵，謝謝你們的支持！！！",
+      "translated_vi": "Cảm tạ các độc giả: Lam Thị Hắc, Tuyệt Thế Hung Thú Thành Hòa Diệp, Thanh Liên, Vương Gia Vạn Sự Vô Ưu, Na Thiên Ngã Hảo Hoại, Đại Đại 灬 Đích Thổ Hào, Song Khung Văn, Xuân Khởi Triêu Thần, Phong Xuy Mạch Lãng_cb, Quyết Trạch 98 Độ, Sơn Hải Bò, lionvincent, Carmpie, Xem Chương Đầu Là Biết Có Đọc Được Không, Mây Trắng Đỡ Trời Xanh, Ngốc va, cùng các số đuôi: 18934, 18216, 21419, 12186, 51510, 29852, 24153, 10517, 14893, 15562, 25327, 39710, 10298_aC đã tặng thưởng nguyệt phiếu, chân thành cảm ơn sự ủng hộ của các bạn!!!"
+    },
+    {
+      "para_id": "c0316p0160",
+      "index": 160,
+      "raw_zh": "繼續安利東北的夏天，又是穿著外套的一天！！！",
+      "translated_vi": "Tiếp tục nhiệt liệt đề cử mùa hè ở vùng Đông Bắc, lại thêm một ngày nữa phải mặc áo khoác ra đường rồi!!!"
+    },
+    {
+      "para_id": "c0316p0161",
+      "index": 161,
+      "raw_zh": "祝大家好夢，晚安！！！",
+      "translated_vi": "Chúc mọi người có những giấc mơ đẹp, ngủ ngon nhé!!!"
+    }
+  ]
+}

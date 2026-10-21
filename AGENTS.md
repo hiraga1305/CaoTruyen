@@ -1,0 +1,54 @@
+# QUY TẮC BẮT BUỘC CHO AGENTS & MỌI LUỒNG LÀM VIỆC — CAOTRUYEN ANTIGRAVITY SESSION VISIBILITY
+
+Tất cả các agents, subagents và script xử lý dịch thuật (Wave Orchestrator, Batch Pipelines, Worker Pools) trong dự án CaoTruyen **BẮT BUỘC TUÂN THỦ** cơ chế hiển thị tiến độ trực tiếp trong session Antigravity:
+
+---
+
+## 1. Hiển Thị Tiến Độ Trực Tiếp Trong Chat / Session (In-Session Visibility)
+
+Mỗi khi thực thi, bắt đầu, hoặc kết thúc bất kỳ lượt dịch chương hay wave nào:
+1. **Bảng / Badge Tiến Độ Trong Chat**:
+   - Phải hiển thị rõ:
+     - Tên tác phẩm & thể loại.
+     - Chương hiện tại (`Current Chapter`) & Khoảng chương (`Range`).
+     - Wave hiện tại (`Wave X / Y`).
+     - Thanh tiến độ & phần trăm (`[████████░░░] XX.X%`).
+     - Tổng số từ & số đoạn lũy kế.
+     - Trạng thái các luồng Worker song song.
+   - Có thể lấy nhanh từ `SessionMonitor.render_markdown_badge()`.
+
+2. **Artifact Dashboard Tự Động (Generative UI & Markdown)**:
+   - Hệ thống tự động đồng bộ vào thư mục `<appDataDir>\brain\<conversation-id>`:
+     - `translation_live_dashboard.html`: Widget Generative UI tương thích Tailwind CSS và biến theme Antigravity (`--card`, `--foreground`, `--border`, `--background`). Hỗ trợ nhúng qua thẻ `<agent-embed src="file:///.../translation_live_dashboard.html"></agent-embed>`.
+     - `translation_session_dashboard.md`: Bảng điều khiển chi tiết cho người dùng theo dõi ở side pane.
+
+---
+
+## 2. Tích Hợp Vào Mọi Pipeline & Script Sau Này (Pipeline Discipline)
+
+Mọi file runner hoặc bộ điều phối mới tạo sau này **BẮT BUỘC** gọi `SessionMonitor`:
+
+```python
+from native_oauth.session_monitor import get_session_monitor
+
+# Khởi tạo hoặc lấy monitor
+mon = get_session_monitor(book_id=BOOK_ID, book_title=BOOK_TITLE, total_chapters=TOTAL_CHAPS)
+
+# Khi bắt đầu dịch chương/wave
+mon.record_worker_active(worker_id="Worker-1", chapter_num=chap_num, wave_num=wave_idx)
+
+# Khi dịch xong một chương
+mon.record_chapter_done(
+    chapter_num=chap_num,
+    title=title,
+    wave_num=wave_idx,
+    worker_id="Worker-1",
+    paragraphs=len(paras),
+    words=word_count,
+    duration_seconds=elapsed,
+    gate_pass=is_pass,
+    prosody_anomalies=anomalies_count
+)
+```
+
+Tuyệt đối không chạy luồng dịch ngầm mà không có cơ chế xuất trạng thái hiển thị trực tiếp cho phiên làm việc Antigravity của người dùng.

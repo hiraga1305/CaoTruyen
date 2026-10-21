@@ -1,0 +1,481 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 153,
+  "title": "Chương 153: Ánh Đèn Cuối Lối Đi",
+  "total_paragraphs": 78,
+  "translated_paragraphs": 78,
+  "source_hash": "088d02aff8c6dc53e67a408473a5704e0b723d21aad3fef2238ea878a5a9ce4e",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0153p0001",
+      "index": 1,
+      "raw_zh": "第153章 甬道盡頭的燈光",
+      "translated_vi": "Chương 153: Ánh Đèn Cuối Lối Đi"
+    },
+    {
+      "para_id": "c0153p0002",
+      "index": 2,
+      "raw_zh": "聽到雲千峰這麽說，羅琳娜思索片刻，道：",
+      "translated_vi": "Nghe Vân Thiên Phong nói vậy, Lorina trầm ngâm suy nghĩ giây lát rồi cất lời:"
+    },
+    {
+      "para_id": "c0153p0003",
+      "index": 3,
+      "raw_zh": "“我還是跟著你下去吧，我有點擔心。”",
+      "translated_vi": "“Tôi vẫn nên đi xuống cùng anh thì hơn, tôi có chút lo lắng.”"
+    },
+    {
+      "para_id": "c0153p0004",
+      "index": 4,
+      "raw_zh": "雲千峰笑道：",
+      "translated_vi": "Vân Thiên Phong cười bảo:"
+    },
+    {
+      "para_id": "c0153p0005",
+      "index": 5,
+      "raw_zh": "“擔心什麽？真的遇到危險，你也幫不上什麽忙，在上面安心等著我。”",
+      "translated_vi": "“Lo lắng cái gì chứ? Nếu thực sự gặp phải nguy hiểm thì cô cũng đâu giúp được gì nhiều, cứ ở bên trên yên tâm đợi tôi đi.”"
+    },
+    {
+      "para_id": "c0153p0006",
+      "index": 6,
+      "raw_zh": "羅琳娜搖頭，道：",
+      "translated_vi": "Lorina lắc đầu đáp:"
+    },
+    {
+      "para_id": "c0153p0007",
+      "index": 7,
+      "raw_zh": "“我擔心的不是你在下面遇到什麽危險，我擔心的是我在上面，萬一突然又想起伱坑我這件事，把那個“乂”符號的按鈕按一下。”",
+      "translated_vi": "“Tôi lo lắng không phải là việc anh ở dưới đó gặp phải nguy hiểm gì, mà tôi lo là khi tôi ở một mình trên này, vạn nhất đột nhiên lại nhớ tới chuyện anh gài bẫy hại tôi, rồi tiện tay ấn một phát vào cái nút hình chữ X kia kìa.”"
+    },
+    {
+      "para_id": "c0153p0008",
+      "index": 8,
+      "raw_zh": "雲千峰看了一眼黑漆漆的甬道，舔了舔嘴唇，然後吸了口氣，好似突然想起了什麽似的，點頭道：",
+      "translated_vi": "Vân Thiên Phong liếc nhìn đường hầm tối om như mực, liếm liếm bờ môi, rồi hít sâu một hơi như thể chợt nhớ ra điều gì, gật đầu lia lịa:"
+    },
+    {
+      "para_id": "c0153p0009",
+      "index": 9,
+      "raw_zh": "“還別說，你真的要和我一起下去，要是我死裡面了，你還是要困死在這裡，你打不開艙門啊！和我下去對，互相幫襯，要活一起活，咱們倆以後也算是生死與共了。”",
+      "translated_vi": "“Khoan hẵng nói, cô thực sự phải đi xuống cùng tôi đấy! Ngộ nhỡ tôi chết rấp bên trong, cô cũng sẽ bị nhốt chết dí ở chốn này thôi, cô làm sao mở được cửa khoang chứ! Cùng tôi xuống dưới là chuẩn rồi, đôi bên giúp đỡ lẫn nhau, sống cùng sống, chết cùng chết, hai chúng mình từ nay xem như đồng cam cộng khổ vào sinh ra tử rồi.”"
+    },
+    {
+      "para_id": "c0153p0010",
+      "index": 10,
+      "raw_zh": "羅琳娜心裡想笑，臉上卻是橫了雲千峰一眼。",
+      "translated_vi": "Lorina trong bụng buồn cười muốn chết, nhưng ngoài mặt lại liếc xéo Vân Thiên Phong một cái sắc lẻm."
+    },
+    {
+      "para_id": "c0153p0011",
+      "index": 11,
+      "raw_zh": "說得好聽，生死與共。",
+      "translated_vi": "Nói thì nghe hay lắm, cái gì mà đồng cam cộng khổ, vào sinh ra tử."
+    },
+    {
+      "para_id": "c0153p0012",
+      "index": 12,
+      "raw_zh": "其實是真的怕自己在上面把他封死在裡邊。",
+      "translated_vi": "Kỳ thực là anh thực sự sợ cô ở trên này sẽ ấn nút nhốt anh chết nghẹn bên trong mà thôi."
+    },
+    {
+      "para_id": "c0153p0013",
+      "index": 13,
+      "raw_zh": "否則雲千峰不會反手就嚇唬回來。",
+      "translated_vi": "Bằng không Vân Thiên Phong đâu có trở mặt hù dọa ngược lại ngay tức khắc như thế."
+    },
+    {
+      "para_id": "c0153p0014",
+      "index": 14,
+      "raw_zh": "倆人心眼都不大。",
+      "translated_vi": "Bụng dạ cả hai người đều chẳng rộng lượng gì cho cam."
+    },
+    {
+      "para_id": "c0153p0015",
+      "index": 15,
+      "raw_zh": "雲千峰看了看時間，繼續道：",
+      "translated_vi": "Vân Thiên Phong liếc nhìn thời gian, nói tiếp:"
+    },
+    {
+      "para_id": "c0153p0016",
+      "index": 16,
+      "raw_zh": "“磨刀不誤砍柴工，咱們將近二十個小時沒休息了，現在睡一會，休息好了闖一闖那史前甬道。”",
+      "translated_vi": "“Mài dao không làm lỡ việc đốn củi, chúng mình đã gần hai mươi tiếng đồng hồ chưa được chợp mắt rồi, giờ ngủ một giấc đã, nghỉ ngơi lấy lại sức rồi hãy xông pha vào đường hầm tiền sử kia.”"
+    },
+    {
+      "para_id": "c0153p0017",
+      "index": 17,
+      "raw_zh": "這裡地面乾燥，尤其是這艦船似金似石的材質，摸上去一點也不會冰涼，可見保溫效果奇好。",
+      "translated_vi": "Mặt đất nơi này khô ráo, nhất là chất liệu nửa kim nửa đá của thân tàu mẹ, sờ vào chẳng hề thấy lạnh buốt chút nào, có thể thấy khả năng giữ nhiệt tốt đến kỳ lạ."
+    },
+    {
+      "para_id": "c0153p0018",
+      "index": 18,
+      "raw_zh": "雲千峰就把睡袋隨便鋪在地上，用潛水服折疊當枕頭，倆人和衣躺在上面。",
+      "translated_vi": "Vân Thiên Phong liền trải tùy tiện chiếc túi ngủ xuống đất, gấp bộ đồ lặn lại làm gối, hai người mặc nguyên quần áo nằm lên trên."
+    },
+    {
+      "para_id": "c0153p0019",
+      "index": 19,
+      "raw_zh": "衣服就絕對不敢脫的，倆人“天生夫妻”那種吸引力，真的是無法抗拒。",
+      "translated_vi": "Quần áo thì tuyệt đối không ai dám cởi, sức hút mãnh liệt của cặp “phu thê trời sinh” giữa hai người thực sự là không thể nào chống cự nổi."
+    },
+    {
+      "para_id": "c0153p0020",
+      "index": 20,
+      "raw_zh": "就這樣，倆人腦子裡還都是那讓人心跳的情景，第一人稱那種。",
+      "translated_vi": "Cứ thế, trong đầu hai người vẫn cứ lởn vởn những cảnh tượng khiến tim đập chân run, lại còn là dưới góc nhìn ngôi thứ nhất nữa chứ."
+    },
+    {
+      "para_id": "c0153p0021",
+      "index": 21,
+      "raw_zh": "羅琳娜不知怎麽了，就很想和雲千峰說說話，每當雲千峰時間長沉默不語，她就有點患得患失，開始想著雲千峰是不是因為自己的過去，所以厭惡自己。",
+      "translated_vi": "Lorina chẳng hiểu làm sao, chỉ rất muốn được trò chuyện cùng Vân Thiên Phong. Cứ mỗi khi anh im lặng hồi lâu không lên tiếng, cô lại bắt đầu thấy bồn chồn lo lắng được mất, thầm nghĩ chẳng hay có phải vì quá khứ của mình mà Vân Thiên Phong chán ghét mình hay không."
+    },
+    {
+      "para_id": "c0153p0022",
+      "index": 22,
+      "raw_zh": "“雲千峰，我不明白，羅林明明已經死了，怎麽又活過來？”",
+      "translated_vi": "“Vân Thiên Phong, tôi không hiểu, Rolin rõ ràng đã chết rồi, sao lại sống lại được chứ?”"
+    },
+    {
+      "para_id": "c0153p0023",
+      "index": 23,
+      "raw_zh": "雲千峰回道：",
+      "translated_vi": "Vân Thiên Phong đáp:"
+    },
+    {
+      "para_id": "c0153p0024",
+      "index": 24,
+      "raw_zh": "“因為我做了一件讓很多隱藏在暗中的力量都無法接受的事情，他們不惜在三十年前改變了一件小事，企圖讓我無法出生，這件事引起了蝴蝶效應，後續很多事情都發生了改變，死去的人自然也會活過來，唯一沒有被改變的，就是我們倆。”",
+      "translated_vi": "“Bởi vì tôi đã làm một chuyện khiến rất nhiều thế lực ẩn nấp trong bóng tối không thể nào chấp nhận nổi. Bọn họ không tiếc công sức quay về ba mươi năm trước để thay đổi một sự việc nhỏ nhoi, mưu toan khiến tôi không thể nào ra đời. Chuyện đó đã gây ra hiệu ứng cánh bướm, hàng loạt việc diễn ra sau này đều bị biến đổi, người đã khuất đương nhiên cũng sẽ sống lại, thứ duy nhất không bị thay đổi chính là hai người chúng mình.”"
+    },
+    {
+      "para_id": "c0153p0025",
+      "index": 25,
+      "raw_zh": "羅琳娜腦子聰明，很容易想通這裡面的關節，於是歎道：",
+      "translated_vi": "Lorina đầu óc thông minh mẫn tiệp, rất dễ dàng nghĩ thông mắt xích then chốt trong này, bèn thở dài:"
+    },
+    {
+      "para_id": "c0153p0026",
+      "index": 26,
+      "raw_zh": "“雲千峰，我現在明白，為什麽別人的記憶怎麽改變，我們倆的記憶都沒事了，無論你說的“祂”是從微觀記憶下手，還是從時間上下手。”",
+      "translated_vi": "“Vân Thiên Phong, giờ thì tôi đã hiểu vì sao ký ức của người khác bị thay đổi thế nào thì ký ức của hai đứa mình vẫn nguyên vẹn không hề hấn gì rồi, bất kể 'Ngài' mà anh nói ra tay từ tầng thứ vi mô của ký ức hay can thiệp từ dòng thời gian.”"
+    },
+    {
+      "para_id": "c0153p0027",
+      "index": 27,
+      "raw_zh": "雲千峰也有思考這個問題，這個時候也很想聽聽羅琳娜的結論，於是轉了轉身，問道：",
+      "translated_vi": "Vân Thiên Phong vốn cũng trăn trở về vấn đề này, lúc này anh cũng rất muốn lắng nghe kết luận của Lorina, bèn trở mình quay sang hỏi:"
+    },
+    {
+      "para_id": "c0153p0028",
+      "index": 28,
+      "raw_zh": "“你是怎麽想的？”",
+      "translated_vi": "“Cô nghĩ thế nào?”"
+    },
+    {
+      "para_id": "c0153p0029",
+      "index": 29,
+      "raw_zh": "羅琳娜也轉了轉身，面對著雲千峰，說道：",
+      "translated_vi": "Lorina cũng trở mình, đối diện với Vân Thiên Phong, cất lời:"
+    },
+    {
+      "para_id": "c0153p0030",
+      "index": 30,
+      "raw_zh": "“因為我們倆在這個空間的因果“祂”無法影響，那個十面體光門才是我們倆一切的因，無論是記憶還是身體發膚，所以相對於這個世界，我們倆是真正的新人，隻存在了幾年的新人。”",
+      "translated_vi": "“Bởi vì nhân quả của hai chúng mình tại không gian này thì 'Ngài' không thể nào tác động tới được. Cánh cổng ánh sáng khối thập diện kia mới là khởi nguyên của mọi căn nguyên nơi hai đứa mình, từ ký ức cho đến da thịt thân thể; thế nên xét đối với thế giới này, hai chúng mình thực sự là những con người hoàn toàn mới, những tân nhân mới chỉ tồn tại vẻn vẹn vài năm nay mà thôi.”"
+    },
+    {
+      "para_id": "c0153p0031",
+      "index": 31,
+      "raw_zh": "雲千峰“嗯”了一聲，道：",
+      "translated_vi": "Vân Thiên Phong “ừ” một tiếng, tiếp lời:"
+    },
+    {
+      "para_id": "c0153p0032",
+      "index": 32,
+      "raw_zh": "“我覺得，也只能是這樣一個可能，十面體的維度高過了我們身處的時空維度，這個高緯度時空是我們倆形成的因，所以“祂”在三維度如何用力，也影響不到我們倆，我們倆還真的是新人。”",
+      "translated_vi": "“Tôi nghĩ cũng chỉ có thể là khả năng này. Chiều không gian của khối thập diện cao hơn chiều không thời gian mà chúng ta đang sống, thời không thứ nguyên cao này là nguyên nhân hình thành nên hai chúng mình, cho nên dẫu 'Ngài' có dùng lực thế nào trong không gian ba chiều thì cũng chẳng thể ảnh hưởng tới hai đứa mình, chúng mình quả thực là người mới hoàn toàn.”"
+    },
+    {
+      "para_id": "c0153p0033",
+      "index": 33,
+      "raw_zh": "羅琳娜笑得很溫柔，沉吟了一下，來了句：",
+      "translated_vi": "Lorina cười rất đỗi dịu dàng, trầm ngâm giây lát rồi buông một câu:"
+    },
+    {
+      "para_id": "c0153p0034",
+      "index": 34,
+      "raw_zh": "“其實，我的記憶裡，我一直就是女人，我和羅林沒有關系，沒有任何關系，我是羅琳娜。”",
+      "translated_vi": "“Kỳ thực, trong ký ức của tôi, tôi trước giờ vẫn luôn là phụ nữ. Tôi và Rolin chẳng có can hệ gì hết, không hề có bất cứ mối liên hệ nào cả, tôi là Lorina.”"
+    },
+    {
+      "para_id": "c0153p0035",
+      "index": 35,
+      "raw_zh": "雲千峰知道羅琳娜想要表達什麽，眼珠一轉，笑道：",
+      "translated_vi": "Vân Thiên Phong biết thừa Lorina muốn biểu đạt điều gì, tròng mắt đảo một vòng, cười trêu:"
+    },
+    {
+      "para_id": "c0153p0036",
+      "index": 36,
+      "raw_zh": "“可是，你一直都是隻喜歡女孩子不是嗎？”",
+      "translated_vi": "“Thế nhưng chẳng phải từ trước đến giờ cô chỉ thích con gái thôi hay sao?”"
+    },
+    {
+      "para_id": "c0153p0037",
+      "index": 37,
+      "raw_zh": "羅琳娜很誠實的點了點頭，道：",
+      "translated_vi": "Lorina thành thật gật đầu thú nhận:"
+    },
+    {
+      "para_id": "c0153p0038",
+      "index": 38,
+      "raw_zh": "“喜歡，現在也依舊喜歡，但更喜歡你，都怪那討厭的光門，讓你的所有都吸引我，包括你的小氣量。”",
+      "translated_vi": "“Thích chứ, bây giờ vẫn thích, nhưng tôi lại càng thích anh hơn. Đều tại cánh cổng ánh sáng đáng ghét kia, khiến mọi thứ thuộc về anh đều mê hoặc thu hút tôi, kể cả cái thói hẹp hòi nhỏ mọn của anh nữa.”"
+    },
+    {
+      "para_id": "c0153p0039",
+      "index": 39,
+      "raw_zh": "雲千峰不敢接話了，這女人越來越直接了。",
+      "translated_vi": "Vân Thiên Phong không dám mở miệng tiếp lời nữa, người phụ nữ này càng lúc càng thẳng thắn bộc trực quá đỗi."
+    },
+    {
+      "para_id": "c0153p0040",
+      "index": 40,
+      "raw_zh": "或者應該說，羅琳娜一直就是這麽直接的人。",
+      "translated_vi": "Hay đúng hơn phải nói rằng, Lorina xưa nay vốn luôn là người bộc trực như vậy."
+    },
+    {
+      "para_id": "c0153p0041",
+      "index": 41,
+      "raw_zh": "就好像她會什麽都不說，先把那三張可怕的照片給雲千峰看，這就是她的性格。",
+      "translated_vi": "Tựa như cái cách cô chẳng nói chẳng rằng, ném thẳng ba bức ảnh đáng sợ kia cho Vân Thiên Phong xem trước, đó chính là tính cách của cô."
+    },
+    {
+      "para_id": "c0153p0042",
+      "index": 42,
+      "raw_zh": "見雲千峰閉著眼睛不回話，好像睡著了似的，羅琳娜往雲千峰身旁擠了擠，嘟囔了一句：",
+      "translated_vi": "Thấy Vân Thiên Phong nhắm nghiền hai mắt không đáp lại, làm như đã ngủ say, Lorina liền nhích người rúc sát vào bên cạnh anh, lẩm bẩm một câu:"
+    },
+    {
+      "para_id": "c0153p0043",
+      "index": 43,
+      "raw_zh": "“怕秦疏影嗎？等我回去後，把秦疏影追到手，她就不會是阻礙了！”",
+      "translated_vi": "“Sợ Tần Sơ Ảnh sao? Đợi tôi trở về, tán đổ Tần Sơ Ảnh luôn, vậy thì cô ấy sẽ chẳng còn là chướng ngại nữa!”"
+    },
+    {
+      "para_id": "c0153p0044",
+      "index": 44,
+      "raw_zh": "雲千峰都裝睡了，此刻自然打死不說話，否則自己也要忍受不住那種不可避免的吸引力，但是聽到羅琳娜這聲嘟囔，還是禁不住身體一僵。",
+      "translated_vi": "Vân Thiên Phong đã giả vờ ngủ rồi, lúc này dĩ nhiên đánh chết cũng không mở miệng, bằng không chính anh cũng sẽ chẳng thể kiềm chế nổi sức hút mãnh liệt khó lòng cưỡng lại ấy; nhưng vừa nghe câu lẩm bẩm này của Lorina, toàn thân anh vẫn không kìm được mà cứng đờ lại."
+    },
+    {
+      "para_id": "c0153p0045",
+      "index": 45,
+      "raw_zh": "因為他感覺，羅琳娜真的能乾出這種事來！",
+      "translated_vi": "Bởi vì anh có linh cảm rằng, Lorina hoàn toàn có thể làm ra cái trò như thế thật!"
+    },
+    {
+      "para_id": "c0153p0046",
+      "index": 46,
+      "raw_zh": "然後腦子開始胡思亂想起來。",
+      "translated_vi": "Rồi sau đó đầu óc anh bắt đầu miên man suy nghĩ vẩn vơ."
+    },
+    {
+      "para_id": "c0153p0047",
+      "index": 47,
+      "raw_zh": "“嘶，還別說，疏影那柔弱的勁，還真有點像”",
+      "translated_vi": "“Chậc chậc, khoan hẵng nói, cái nét mong manh yếu đuối của Sơ Ảnh khéo lại đúng gu...”"
+    },
+    {
+      "para_id": "c0153p0048",
+      "index": 48,
+      "raw_zh": "想著想著，終究疲累的他沉沉睡去。",
+      "translated_vi": "Nghĩ ngợi miên man một hồi, sự mệt mỏi rã rời rốt cuộc cũng kéo anh chìm sâu vào giấc mộng."
+    },
+    {
+      "para_id": "c0153p0049",
+      "index": 49,
+      "raw_zh": "旁邊的羅琳娜也呼吸平穩，依稀可聞輕輕的鼾聲。",
+      "translated_vi": "Bên cạnh, nhịp thở của Lorina cũng dần trở nên đều đặn êm đềm, thấp thoáng nghe thấy tiếng ngáy nhè nhẹ dịu dàng."
+    },
+    {
+      "para_id": "c0153p0050",
+      "index": 50,
+      "raw_zh": "這一覺倆人睡得深沉香甜，再醒來時竟然已經是十個小時以後。",
+      "translated_vi": "Giấc ngủ này hai người ngủ say sưa ngon giấc vô cùng, đến khi tỉnh dậy thì đã là mười tiếng đồng hồ sau."
+    },
+    {
+      "para_id": "c0153p0051",
+      "index": 51,
+      "raw_zh": "倆人就著水壺裡的泉水，吃了點壓縮餅乾，就直奔那甬道走去。",
+      "translated_vi": "Hai người nhấp chút nước suối trong bình, ăn tạm vài miếng lương khô nén rồi thẳng hướng đường hầm mà tiến bước."
+    },
+    {
+      "para_id": "c0153p0052",
+      "index": 52,
+      "raw_zh": "甬道內漆黑一片，雲千峰嘗試下達指令打開照明，但是顯然這裡已經不屬於母船，根本沒有任何反應。",
+      "translated_vi": "Bên trong đường hầm tối om mịt mùng, Vân Thiên Phong thử phát khẩu lệnh mở đèn chiếu sáng, nhưng rõ ràng nơi này đã không còn thuộc phạm vi của tàu mẹ nữa nên chẳng hề có bất kỳ phản ứng nào."
+    },
+    {
+      "para_id": "c0153p0053",
+      "index": 53,
+      "raw_zh": "倆人隻好打開頭頂礦燈照明，雲千峰用軍刀在甬道的牆壁上劃了幾下，確定這就是石頭的甬道。",
+      "translated_vi": "Hai người đành bật đèn pin thợ mỏ trên trán để chiếu sáng, Vân Thiên Phong dùng dao găm quân dụng rạch vài đường lên vách hầm, xác định nơi đây hoàn toàn là một đường hầm bằng đá tự nhiên."
+    },
+    {
+      "para_id": "c0153p0054",
+      "index": 54,
+      "raw_zh": "想來應該是女閻羅人在這裡降落後，挖出了這樣一條通往地下的路。",
+      "translated_vi": "Nghĩ kỹ thì hẳn là sau khi người Nữ Diêm La hạ cánh xuống nơi này, họ đã đào khoét nên một con đường dẫn sâu xuống lòng đất như thế này."
+    },
+    {
+      "para_id": "c0153p0055",
+      "index": 55,
+      "raw_zh": "羅琳娜思索道：",
+      "translated_vi": "Lorina suy ngẫm bảo:"
+    },
+    {
+      "para_id": "c0153p0056",
+      "index": 56,
+      "raw_zh": "“女閻羅人挖這樣一條深入地下的甬道會是做什麽用呢？珍藏某些東西嗎？”",
+      "translated_vi": "“Người Nữ Diêm La đào một đường hầm ăn sâu xuống lòng đất thế này rốt cuộc là để làm gì nhỉ? Cất giấu món đồ quý giá nào đó chăng?”"
+    },
+    {
+      "para_id": "c0153p0057",
+      "index": 57,
+      "raw_zh": "雲千峰搖了搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu đáp:"
+    },
+    {
+      "para_id": "c0153p0058",
+      "index": 58,
+      "raw_zh": "“不應該，藏東西還有什麽比他那已經埋在地下的母船更安全？”",
+      "translated_vi": "“Không hợp lý, giấu đồ thì còn nơi nào an toàn hơn con tàu mẹ đã vùi sâu dưới lòng đất của họ chứ?”"
+    },
+    {
+      "para_id": "c0153p0059",
+      "index": 59,
+      "raw_zh": "羅琳娜反駁道：",
+      "translated_vi": "Lorina phản bác:"
+    },
+    {
+      "para_id": "c0153p0060",
+      "index": 60,
+      "raw_zh": "“或許，在女閻羅母船剛降落的時候，母船並沒有直接沉入地下呢？那時候這裡可還不是沙漠呢，所以他們需要更隱秘的場所。”",
+      "translated_vi": "“Có lẽ khi con tàu mẹ Nữ Diêm La vừa mới hạ cánh, nó chưa lập tức chìm sâu vào lòng đất thì sao? Vào thời điểm ấy nơi đây vẫn chưa phải là sa mạc, cho nên họ cần một nơi chốn bí mật kín đáo hơn.”"
+    },
+    {
+      "para_id": "c0153p0061",
+      "index": 61,
+      "raw_zh": "雲千峰點頭，道：",
+      "translated_vi": "Vân Thiên Phong gật đầu đồng tình:"
+    },
+    {
+      "para_id": "c0153p0062",
+      "index": 62,
+      "raw_zh": "“你說得對，當時這裡可能還不是沙漠，我也猜不到這是做什麽用，總之走到盡頭，自有答案。”",
+      "translated_vi": "“Cô nói đúng, lúc ấy nơi đây có lẽ chưa biến thành sa mạc. Tôi cũng không đoán nổi con đường này dùng để làm gì, tóm lại cứ đi tới tận cùng thì tự khắc sẽ có câu trả lời.”"
+    },
+    {
+      "para_id": "c0153p0063",
+      "index": 63,
+      "raw_zh": "倆人就這麽手握著軍刀，在兩米余寬的甬道台階上謹慎的向下走去。",
+      "translated_vi": "Cứ thế, hai người tay nắm chặt dao găm quân dụng, cẩn trọng men theo những bậc thang đường hầm rộng hơn hai mét mà bước dần xuống dưới."
+    },
+    {
+      "para_id": "c0153p0064",
+      "index": 64,
+      "raw_zh": "這樣走了半個多小時，倆人才看到階梯下面露出了一點亮光。",
+      "translated_vi": "Đi như vậy suốt hơn nửa tiếng đồng hồ, hai người mới nhìn thấy phía dưới bậc thang le lói một vệt sáng mờ."
+    },
+    {
+      "para_id": "c0153p0065",
+      "index": 65,
+      "raw_zh": "羅琳娜看著那透出光的甬道盡頭，不可思議道：",
+      "translated_vi": "Lorina nhìn về phía cuối đường hầm đang hắt ra ánh sáng, cảm thấy khó tin thốt lên:"
+    },
+    {
+      "para_id": "c0153p0066",
+      "index": 66,
+      "raw_zh": "“這甬道階梯坡度接近四十五度，我們倆步行的速度走了半個多小時，這裡最起碼是地下一千米深處，可我怎麽好像聽到了野獸的叫聲？”",
+      "translated_vi": "“Độ dốc của bậc thang đường hầm này gần bốn mươi lăm độ, hai chúng mình đi bộ suốt hơn nửa tiếng đồng hồ, nơi này chí ít cũng phải sâu nghìn mét dưới lòng đất, thế nhưng sao tôi lại dường như nghe thấy tiếng dã thú gầm rú nhỉ?”"
+    },
+    {
+      "para_id": "c0153p0067",
+      "index": 67,
+      "raw_zh": "雲千峰舔了舔嘴唇，壓低聲音道：",
+      "translated_vi": "Vân Thiên Phong liếm liếm khóe môi, hạ thấp giọng bảo:"
+    },
+    {
+      "para_id": "c0153p0068",
+      "index": 68,
+      "raw_zh": "“我也聽到了！”",
+      "translated_vi": "“Tôi cũng nghe thấy rồi!”"
+    },
+    {
+      "para_id": "c0153p0069",
+      "index": 69,
+      "raw_zh": "說著，深吸一口氣，握緊軍刀，沒有絲毫遲疑的大步走向甬道的出口。",
+      "translated_vi": "Dứt lời, anh hít sâu một hơi, siết chặt thanh dao găm quân dụng, chẳng chút ngần ngại sải bước tiến thẳng về phía cửa ra của đường hầm."
+    },
+    {
+      "para_id": "c0153p0070",
+      "index": 70,
+      "raw_zh": "當他們來到甬道盡頭，看到甬道通往的空間後，都是一臉詫異。",
+      "translated_vi": "Khi hai người tới cuối đường hầm, nhìn thấy không gian mà con đường này thông tới, trên mặt ai nấy đều hiện rõ vẻ kinh ngạc tột độ."
+    },
+    {
+      "para_id": "c0153p0071",
+      "index": 71,
+      "raw_zh": "在他們眼前，到處是茂密的植被，但這些植被之間，卻有著清晰的路徑，連一根雜草都沒有的乾淨路徑。",
+      "translated_vi": "Đập vào mắt họ là thảm thực vật rậm rạp xanh tươi khắp nơi, nhưng giữa những khóm cây ấy lại hiện hữu một lối đi rõ ràng rành mạch, một lối mòn sạch sẽ tinh tươm đến mức chẳng có lấy một cọng cỏ dại."
+    },
+    {
+      "para_id": "c0153p0072",
+      "index": 72,
+      "raw_zh": "入目每一棵足夠幾人環抱的大樹上，都有一個發著光的樹洞，那樹洞足夠當成臥房。",
+      "translated_vi": "Từng thân cây cổ thụ to lớn mấy người ôm trước mắt đều có một hốc cây phát ra ánh sáng lung linh, hốc cây ấy rộng rãi đến mức đủ dùng làm một gian phòng ngủ."
+    },
+    {
+      "para_id": "c0153p0073",
+      "index": 73,
+      "raw_zh": "更神奇的是，每一棵大樹旁邊，都立著一根高不下五米的立柱，上面帶著環形的發光體。",
+      "translated_vi": "Kỳ diệu hơn nữa là bên cạnh mỗi thân đại thụ đều dựng một chiếc cột trụ cao không dưới năm mét, phía trên mang một khối phát quang hình vành khuyên."
+    },
+    {
+      "para_id": "c0153p0074",
+      "index": 74,
+      "raw_zh": "羅琳娜情不自禁的問道：",
+      "translated_vi": "Lorina không kìm được cất tiếng hỏi:"
+    },
+    {
+      "para_id": "c0153p0075",
+      "index": 75,
+      "raw_zh": "“雲，我們這是到了某處公園嗎？”",
+      "translated_vi": "“Vân, có phải chúng mình đã lạc vào một công viên nào đó rồi không?”"
+    },
+    {
+      "para_id": "c0153p0076",
+      "index": 76,
+      "raw_zh": "雲千峰也懵了，這看起來就是一個非常美麗的公園，否則根本無法解釋那些路燈是怎麽回事。",
+      "translated_vi": "Vân Thiên Phong cũng sững sờ ngơ ngác, cảnh tượng nơi đây trông chẳng khác nào một công viên tuyệt đẹp, bằng không căn bản không thể giải thích nổi những cột đèn đường kia rốt cuộc là thế nào."
+    },
+    {
+      "para_id": "c0153p0077",
+      "index": 77,
+      "raw_zh": "畢竟，燈是需要電能的。",
+      "translated_vi": "Dẫu sao thì đèn chiếu sáng luôn cần phải có điện năng."
+    },
+    {
+      "para_id": "c0153p0078",
+      "index": 78,
+      "raw_zh": "周末愉快，大家晚安！！！",
+      "translated_vi": "Chúc mọi người cuối tuần vui vẻ, ngủ ngon nhé!!!"
+    }
+  ]
+}

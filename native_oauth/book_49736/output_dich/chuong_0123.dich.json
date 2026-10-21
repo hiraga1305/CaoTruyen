@@ -1,0 +1,517 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 123,
+  "title": "Chương 123: Cuộc trùng phùng đầy bất an",
+  "total_paragraphs": 84,
+  "translated_paragraphs": 84,
+  "source_hash": "36729f0abed9c328255d719187d605c3daebbc5fe72cdb42b2a86c94959bd40f",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0123p0001",
+      "index": 1,
+      "raw_zh": "第123章 不安的重逢",
+      "translated_vi": "Chương 123: Cuộc trùng phùng đầy bất an"
+    },
+    {
+      "para_id": "c0123p0002",
+      "index": 2,
+      "raw_zh": "秦疏影雖然不明白死亡時間與危險之間的關系，但是不耽誤她立馬去觀察雲千峰需要的結果。",
+      "translated_vi": "Tần Sơ Ảnh tuy chưa hiểu rõ mối liên hệ giữa thời điểm tử vong và mức độ nguy hiểm, song điều đó chẳng hề cản trở việc cô lập tức đi tìm kiếm kết quả mà Vân Thiên Phong đang cần."
+    },
+    {
+      "para_id": "c0123p0003",
+      "index": 3,
+      "raw_zh": "千千在一旁低聲問道：",
+      "translated_vi": "Thiên Thiên đứng bên cạnh cất giọng hỏi khẽ:"
+    },
+    {
+      "para_id": "c0123p0004",
+      "index": 4,
+      "raw_zh": "“雲千峰，死亡時間一樣不一樣有什麽區別嗎？”",
+      "translated_vi": "“Vân Thiên Phong, thời điểm chết giống nhau hay khác nhau thì có gì khác biệt sao anh?”"
+    },
+    {
+      "para_id": "c0123p0005",
+      "index": 5,
+      "raw_zh": "雲千峰陰沉著臉點了點頭，道：",
+      "translated_vi": "Vân Thiên Phong sa sầm nét mặt gật đầu, đáp:"
+    },
+    {
+      "para_id": "c0123p0006",
+      "index": 6,
+      "raw_zh": "“如果死亡時間不一樣，那咱們麻煩就大了。”",
+      "translated_vi": "“Nếu thời gian chết không giống nhau, thì rắc rối của chúng ta to chuyện rồi đấy.”"
+    },
+    {
+      "para_id": "c0123p0007",
+      "index": 7,
+      "raw_zh": "張敏急忙雙手合十，祈禱道：",
+      "translated_vi": "Trương Mẫn vội vàng chắp hai tay lại cầu nguyện:"
+    },
+    {
+      "para_id": "c0123p0008",
+      "index": 8,
+      "raw_zh": "“佛祖保佑，死亡時間一定要一樣啊！”",
+      "translated_vi": "“Phật tổ phù hộ, thời điểm chết nhất định phải giống nhau nhé!”"
+    },
+    {
+      "para_id": "c0123p0009",
+      "index": 9,
+      "raw_zh": "先不問為什麽，直接臨時抱佛腳，是個聰明人。",
+      "translated_vi": "Chưa thèm hỏi nguyên do vì sao mà đã ôm chân Phật cầu may ngay tắp lự, quả là một kẻ thức thời lanh lợi."
+    },
+    {
+      "para_id": "c0123p0010",
+      "index": 10,
+      "raw_zh": "然而，雲千峰一把捂住張敏的大嘴巴，道：",
+      "translated_vi": "Thế nhưng, Vân Thiên Phong lập tức đưa tay bịt chặt cái miệng rộng của Trương Mẫn lại, quát khẽ:"
+    },
+    {
+      "para_id": "c0123p0011",
+      "index": 11,
+      "raw_zh": "“千萬別，如果死亡時間一樣，那咱們的麻煩就更大了！”",
+      "translated_vi": "“Đừng có bậy bạ! Nếu thời gian chết mà giống hệt nhau, thì rắc rối của chúng ta còn kinh khủng hơn gấp bội phần!”"
+    },
+    {
+      "para_id": "c0123p0012",
+      "index": 12,
+      "raw_zh": "張敏和千千聽到這句話，立馬目瞪口呆。",
+      "translated_vi": "Trương Mẫn cùng Thiên Thiên nghe thấy câu ấy thì lập tức trố mắt ngây người."
+    },
+    {
+      "para_id": "c0123p0013",
+      "index": 13,
+      "raw_zh": "就連正在觀察屍骨的秦疏影都被雲千峰這句話嗆了口水，連連咳嗽。",
+      "translated_vi": "Ngay cả Tần Sơ Ảnh đang cặm cụi quan sát thi cốt cũng bị câu nói này của Vân Thiên Phong làm cho sặc nước bọt, ho sù sụ liên hồi."
+    },
+    {
+      "para_id": "c0123p0014",
+      "index": 14,
+      "raw_zh": "三女幾乎齊聲問道：",
+      "translated_vi": "Ba cô gái gần như đồng thanh hỏi dồn:"
+    },
+    {
+      "para_id": "c0123p0015",
+      "index": 15,
+      "raw_zh": "“為什麽？”",
+      "translated_vi": "“Tại sao lại thế?”"
+    },
+    {
+      "para_id": "c0123p0016",
+      "index": 16,
+      "raw_zh": "雲千峰沉吟，道：",
+      "translated_vi": "Vân Thiên Phong trầm ngâm giây lát rồi giải thích:"
+    },
+    {
+      "para_id": "c0123p0017",
+      "index": 17,
+      "raw_zh": "“同一時間死亡，代表她們最大可能是被外力殺死，也就是這裡存在著一個可怕的存在，隨時能要了咱們的命。",
+      "translated_vi": "“Cùng chết vào một thời điểm đồng nghĩa với khả năng lớn nhất là họ bị ngoại lực sát hại, tức là ở nơi này đang tồn tại một thực thể vô cùng đáng sợ, có thể đoạt mạng chúng ta bất cứ lúc nào."
+    },
+    {
+      "para_id": "c0123p0018",
+      "index": 18,
+      "raw_zh": "而不是同一時間死亡，則代表著這些著這些人不是被外力殺死，而是生生被困死在這裡。”",
+      "translated_vi": "Còn nếu không chết cùng lúc, chứng tỏ những con người này không phải bị ngoại lực giết chết, mà là bị vây hãm cho tới chết ở nơi đây.”"
+    },
+    {
+      "para_id": "c0123p0019",
+      "index": 19,
+      "raw_zh": "雲千峰沒有解釋為什麽這裡會出現如此多的一個人的屍骨，而是單純解釋了不同時間死亡代表的危險原因和級別。",
+      "translated_vi": "Vân Thiên Phong không giải thích vì sao nơi này lại xuất hiện nhiều thi cốt của cùng một người đến thế, mà chỉ đơn thuần phân tích nguyên nhân và cấp độ nguy hiểm tương ứng với từng mốc thời gian tử vong."
+    },
+    {
+      "para_id": "c0123p0020",
+      "index": 20,
+      "raw_zh": "很顯然，困死的級別要比被強大的敵人殺死來的低。",
+      "translated_vi": "Rõ ràng, cấp độ bị vây khốn đến chết vẫn còn thấp hơn nhiều so với việc bị kẻ thù hùng mạnh tàn sát."
+    },
+    {
+      "para_id": "c0123p0021",
+      "index": 21,
+      "raw_zh": "畢竟被困，是給予時間闖關的。",
+      "translated_vi": "Dẫu sao bị kẹt lại thì vẫn còn có thời gian để tìm đường vượt ải."
+    },
+    {
+      "para_id": "c0123p0022",
+      "index": 22,
+      "raw_zh": "他們運氣不錯，只是麻煩大了，不是麻煩更大了。",
+      "translated_vi": "Xem ra vận may của họ vẫn chưa đến nỗi tệ: chỉ là rắc rối lớn, chứ chưa phải rắc rối tồi tệ hơn."
+    },
+    {
+      "para_id": "c0123p0023",
+      "index": 23,
+      "raw_zh": "秦疏影看著雲千峰，道：",
+      "translated_vi": "Tần Sơ Ảnh ngẩng lên nhìn Vân Thiên Phong, bảo:"
+    },
+    {
+      "para_id": "c0123p0024",
+      "index": 24,
+      "raw_zh": "“有些無法對比出死亡時間，但是最下面一層和最上面的屍骨，死亡時間差距不小，甚至可能有幾十年的差距。”",
+      "translated_vi": "“Có những bộ hài cốt không thể đối chiếu rõ thời gian tử vong, nhưng lớp xương dưới đáy cùng và lớp xương trên đỉnh chênh lệch nhau không hề nhỏ, thậm chí có thể cách nhau tới mấy mươi năm.”"
+    },
+    {
+      "para_id": "c0123p0025",
+      "index": 25,
+      "raw_zh": "雲千峰聽到這個結論，長舒了口氣，點頭道：",
+      "translated_vi": "Vân Thiên Phong nghe được kết luận này thì thở phào nhẹ nhõm, gật đầu nói:"
+    },
+    {
+      "para_id": "c0123p0026",
+      "index": 26,
+      "raw_zh": "“以往我進入的神跡，危險大多來自於奇怪的人面或者人形生物，但是這個神跡，危險似乎就是地形本身，這裡大概率是一個困人的迷宮，咱們要小心趕路了，不要錯過身邊的任何變化，很可能有隱藏的其他路口，很容易被忽略的路口。”",
+      "translated_vi": "“Trước đây những thần tích mà tôi từng bước vào, mối nguy hiểm phần lớn đều đến từ những sinh vật hình người hoặc mặt người kỳ quái. Nhưng tại thần tích này, sự nguy hiểm dường như bắt nguồn từ chính địa hình. Nơi đây khả năng cao là một mê cung giam hãm người ta. Chúng ta phải hết sức cẩn thận khi di chuyển, đừng bỏ sót bất kỳ biến chuyển nào xung quanh, rất có thể có những ngã rẽ ẩn giấu vô cùng dễ bị bỏ qua.”"
+    },
+    {
+      "para_id": "c0123p0027",
+      "index": 27,
+      "raw_zh": "千千忙道：",
+      "translated_vi": "Thiên Thiên vội tiếp lời:"
+    },
+    {
+      "para_id": "c0123p0028",
+      "index": 28,
+      "raw_zh": "“不會忽略，這裡除了石頭還是石頭，兩側都沒有遮掩，若是有別的路口，絕不會看不到。”",
+      "translated_vi": "“Không bỏ sót được đâu anh, ở đây ngoài đá ra thì chỉ toàn là đá, hai bên vách chẳng có gì che chắn, nếu có ngã rẽ khác thì tuyệt đối không thể nào không nhìn thấy.”"
+    },
+    {
+      "para_id": "c0123p0029",
+      "index": 29,
+      "raw_zh": "雲千峰搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu bác bỏ:"
+    },
+    {
+      "para_id": "c0123p0030",
+      "index": 30,
+      "raw_zh": "“這裡光線暗，古人很擅長利用光線做文章，比如奇門遁甲陣法，就是利用視覺差，讓人不知不覺的犯錯，你們看這條崖隙，幾乎每隔一段距離就會轉一個S形的彎，很可能就是用來擾亂我們視線用的，總之都留心吧。”",
+      "translated_vi": "“Ánh sáng nơi này rất mờ ảo, mà người xưa lại cực kỳ tinh thông việc lợi dụng ánh sáng để bố trí cạm bẫy. Chẳng hạn như trận pháp Kỳ Môn Độn Giáp chính là tận dụng sự sai lệch về thị giác để khiến con người bất tri bất giác phạm sai lầm. Mọi người nhìn khe nứt này xem, cứ đi một đoạn ngắn là lại ngoằn ngoèo thành một khúc cua chữ S, rất có thể chính là dùng để gây nhiễu loạn tầm nhìn của chúng ta. Tóm lại cứ phải cẩn thận lưu tâm.”"
+    },
+    {
+      "para_id": "c0123p0031",
+      "index": 31,
+      "raw_zh": "三女點頭，跟著雲千峰開始攀爬那座屍山。",
+      "translated_vi": "Ba cô gái gật đầu đồng thuận, bám sát theo sau Vân Thiên Phong bắt đầu trèo qua ngọn núi xương khô ấy."
+    },
+    {
+      "para_id": "c0123p0032",
+      "index": 32,
+      "raw_zh": "真心話，爬這樣一座由枯骨組成的山包，那種滋味難以形容。",
+      "translated_vi": "Thú thực, cảm giác trèo lên một gò đồi chất ngất toàn xương người chết như thế này thật khó mà diễn tả bằng lời."
+    },
+    {
+      "para_id": "c0123p0033",
+      "index": 33,
+      "raw_zh": "每當雙手不得不觸碰那些枯骨時，身體就好像過了靜電一樣，後背發麻，汗毛豎起。",
+      "translated_vi": "Cứ mỗi bận đôi tay bất đắc dĩ phải chạm vào những khúc xương trắng ấy, cả thân thể lại như bị luồng tĩnh điện giật qua, sống lưng tê buốt, lông tơ toàn thân dựng đứng hết cả lên."
+    },
+    {
+      "para_id": "c0123p0034",
+      "index": 34,
+      "raw_zh": "幸好四個都是人，畢竟毛少。",
+      "translated_vi": "May mà cả bốn đều là người, lông tóc dẫu sao cũng ít."
+    },
+    {
+      "para_id": "c0123p0035",
+      "index": 35,
+      "raw_zh": "這要是四隻貓，估計就是從頭炸毛炸到尾。",
+      "translated_vi": "Chứ nếu là bốn con mèo, e rằng từ đầu tới đuôi lông lá đã xù dựng ngược cả rồi."
+    },
+    {
+      "para_id": "c0123p0036",
+      "index": 36,
+      "raw_zh": "千千那頭髮都無風自蕩了。",
+      "translated_vi": "Tóc của Thiên Thiên thậm chí đã vô cớ bay là đà dù chẳng hề có một ngọn gió."
+    },
+    {
+      "para_id": "c0123p0037",
+      "index": 37,
+      "raw_zh": "攀過了枯骨堆，四個人都是長長的吐了一口氣，然後頭都不回的快步往前走。",
+      "translated_vi": "Trèo qua được đống xương khô chất cao như núi, cả bốn người đều thở hắt ra một hơi dài, rồi không thèm quay đầu lại mà cắm cúi rảo bước thật nhanh về phía trước."
+    },
+    {
+      "para_id": "c0123p0038",
+      "index": 38,
+      "raw_zh": "不堪回首。",
+      "translated_vi": "Chẳng ai muốn ngoái lại nhìn cảnh tượng hãi hùng ấy thêm lần nào nữa."
+    },
+    {
+      "para_id": "c0123p0039",
+      "index": 39,
+      "raw_zh": "直走了十幾米，拐過一個S彎，才感覺心裡沒那麽緊張了。",
+      "translated_vi": "Đi được mười mấy mét, quẹo qua một khúc quanh chữ S, trong lòng mọi người mới vơi bớt phần nào nỗi căng thẳng ngột ngạt."
+    },
+    {
+      "para_id": "c0123p0040",
+      "index": 40,
+      "raw_zh": "因為在這裡，回頭已經看不到那屍山。",
+      "translated_vi": "Bởi vì đứng ở vị trí này, ngoảnh lại đã không còn nhìn thấy ngọn núi thây cốt kia nữa."
+    },
+    {
+      "para_id": "c0123p0041",
+      "index": 41,
+      "raw_zh": "秦疏影情緒稍微平緩，才一邊走一邊問出心中疑惑：",
+      "translated_vi": "Tần Sơ Ảnh cảm xúc hơi dịu lại đôi chút, mới vừa bước đi vừa cất lời hỏi nỗi hoài nghi trong lòng:"
+    },
+    {
+      "para_id": "c0123p0042",
+      "index": 42,
+      "raw_zh": "“雲，一個人怎麽可能有那麽多的身體？這讓人感覺太不真實了。”",
+      "translated_vi": "“Vân, làm sao một người lại có thể có nhiều thân xác đến thế được? Chuyện này khiến người ta cảm thấy quá đỗi hư ảo.”"
+    },
+    {
+      "para_id": "c0123p0043",
+      "index": 43,
+      "raw_zh": "雲千峰搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu, đáp:"
+    },
+    {
+      "para_id": "c0123p0044",
+      "index": 44,
+      "raw_zh": "“我也搞不清楚，這根本無法理解，不過我猜想，很可能和她砸碎的那塊石頭有關，不過那不重要，重要的是她為什麽會被生生困死在這裡，而且困了幾十年。”",
+      "translated_vi": "“Tôi cũng chẳng rõ nữa, điều này căn bản không cách nào lý giải nổi. Tuy nhiên tôi phỏng đoán rất có thể có liên quan tới khối đá mà bà ta đã đập nát. Nhưng chuyện đó không quan trọng, quan trọng là vì sao bà ta lại bị giam hãm đến chết ở nơi đây suốt mấy mươi năm ròng.”"
+    },
+    {
+      "para_id": "c0123p0045",
+      "index": 45,
+      "raw_zh": "張敏忙道：",
+      "translated_vi": "Trương Mẫn vội chen vào:"
+    },
+    {
+      "para_id": "c0123p0046",
+      "index": 46,
+      "raw_zh": "“是啊，幾十年，再難走的路，爬也爬出去了啊！而且這路很平坦，多好走啊！”",
+      "translated_vi": "“Phải đấy! Mấy chục năm trời, đường có hiểm trở đến mấy thì bò cũng phải bò ra ngoài được chứ! Huống chi con đường này bằng phẳng thế này, đi lại dễ dàng biết bao!”"
+    },
+    {
+      "para_id": "c0123p0047",
+      "index": 47,
+      "raw_zh": "千千猜測道：",
+      "translated_vi": "Thiên Thiên suy đoán:"
+    },
+    {
+      "para_id": "c0123p0048",
+      "index": 48,
+      "raw_zh": "“會不會是前方有什麽無法逾越的天塹，亦或是有什麽恐怖的東西堵在出口，才把她困死在這裡？”",
+      "translated_vi": "“Liệu có phải phía trước có vực sâu nghìn trượng không thể vượt qua, hoặc có thứ gì đó vô cùng khủng khiếp chặn đứng ở lối ra, nên mới khiến bà ta bị kẹt chết ở nơi này không?”"
+    },
+    {
+      "para_id": "c0123p0049",
+      "index": 49,
+      "raw_zh": "秦疏影搖頭，道：",
+      "translated_vi": "Tần Sơ Ảnh lắc đầu bảo:"
+    },
+    {
+      "para_id": "c0123p0050",
+      "index": 50,
+      "raw_zh": "“那不應該，前面無路，她最起碼可以往回走啊！不至於生生困死在這崖隙裡，一定有我們沒想到的原因。”",
+      "translated_vi": "“Không nên như thế. Nếu phía trước không có đường, chí ít bà ấy cũng có thể quay ngược trở lại mà! Đâu đến mức bị vây chết trong khe nứt vách đá này, ắt hẳn phải có nguyên do nào đó mà chúng ta chưa nghĩ tới.”"
+    },
+    {
+      "para_id": "c0123p0051",
+      "index": 51,
+      "raw_zh": "幾個人猜測著，然而完全沒有結論，這一切都超出了他們的認知。",
+      "translated_vi": "Mấy người mải miết phỏng đoán nhưng hoàn toàn không thể đưa ra kết luận, tất cả những chuyện này đều đã vượt quá tầm hiểu biết của họ."
+    },
+    {
+      "para_id": "c0123p0052",
+      "index": 52,
+      "raw_zh": "也就在這時，他們再次經過了兩具枯骨。",
+      "translated_vi": "Đúng vào lúc này, họ lại một lần nữa đi ngang qua hai bộ xương khô."
+    },
+    {
+      "para_id": "c0123p0053",
+      "index": 53,
+      "raw_zh": "又是一男一女，一個有衣服，一個沒有。",
+      "translated_vi": "Lại là một nam một nữ, một người có quần áo, một người thì không."
+    },
+    {
+      "para_id": "c0123p0054",
+      "index": 54,
+      "raw_zh": "雲千峰直接走過去，用海軍刀把那具女性的枯骨翻動了一下，露出左側第七真肋。",
+      "translated_vi": "Vân Thiên Phong liền sải bước tới, dùng con dao găm quân nhu lật thi thể bộ xương nữ lên, để lộ ra xương sườn thật thứ bảy bên mạn sườn trái."
+    },
+    {
+      "para_id": "c0123p0055",
+      "index": 55,
+      "raw_zh": "“還是她！”",
+      "translated_vi": "“Vẫn là bà ta!”"
+    },
+    {
+      "para_id": "c0123p0056",
+      "index": 56,
+      "raw_zh": "秦疏影蹲下身，仔細看了看，道：",
+      "translated_vi": "Tần Sơ Ảnh ngồi xổm xuống, chăm chú quan sát rồi bảo:"
+    },
+    {
+      "para_id": "c0123p0057",
+      "index": 57,
+      "raw_zh": "“和之前看到的一樣，兩具枯骨死亡時間相隔很遠，看起來就好像她在幾乎同一時間死在了這些男人的屍體旁邊。”",
+      "translated_vi": "“Y như những gì chúng ta thấy trước đó, thời điểm tử vong của hai bộ xương cách nhau rất xa. Nhìn qua thì cứ như thể bà ấy gần như cùng chết một lúc bên cạnh thi thể của những người đàn ông này vậy.”"
+    },
+    {
+      "para_id": "c0123p0058",
+      "index": 58,
+      "raw_zh": "雲千峰沉聲道：",
+      "translated_vi": "Vân Thiên Phong trầm giọng nói:"
+    },
+    {
+      "para_id": "c0123p0059",
+      "index": 59,
+      "raw_zh": "“是陪伴，她要陪伴這裡的每個人，然後把自己獨自扔在一邊。”",
+      "translated_vi": "“Là bầu bạn. Bà ta muốn ở bên cạnh làm bạn với từng người ở nơi này, rồi sau đó lại vứt bỏ chính bản thân mình trơ trọi một xó.”"
+    },
+    {
+      "para_id": "c0123p0060",
+      "index": 60,
+      "raw_zh": "千千道：",
+      "translated_vi": "Thiên Thiên nói tiếp:"
+    },
+    {
+      "para_id": "c0123p0061",
+      "index": 61,
+      "raw_zh": "“是把她無數個自己扔在了一邊。”",
+      "translated_vi": "“Là vứt bỏ vô số bản thể của chính mình sang một bên mới đúng chứ.”"
+    },
+    {
+      "para_id": "c0123p0062",
+      "index": 62,
+      "raw_zh": "雲千峰搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu, đáp:"
+    },
+    {
+      "para_id": "c0123p0063",
+      "index": 63,
+      "raw_zh": "“不，她隻把一個自己扔在了一邊，她能面對所有隊友，但卻無法面對自己。”",
+      "translated_vi": "“Không, bà ta chỉ vứt bỏ duy nhất một bản thân mình sang một bên thôi. Bà ta có thể đối diện với tất cả đồng đội, nhưng lại chẳng thể nào đối diện nổi với chính mình.”"
+    },
+    {
+      "para_id": "c0123p0064",
+      "index": 64,
+      "raw_zh": "千千不解，道：",
+      "translated_vi": "Thiên Thiên không hiểu, hỏi dồn:"
+    },
+    {
+      "para_id": "c0123p0065",
+      "index": 65,
+      "raw_zh": "“可是，她把自己堆了一堆啊！”",
+      "translated_vi": "“Thế nhưng, bà ấy tự chất đống thi thể của mình thành một gò cao ngất ngưởng kia mà!”"
+    },
+    {
+      "para_id": "c0123p0066",
+      "index": 66,
+      "raw_zh": "雲千峰沒出聲，似乎是不想回答這個問題。",
+      "translated_vi": "Vân Thiên Phong im lặng không đáp, dường như anh chẳng muốn trả lời câu hỏi nghiệt ngã này."
+    },
+    {
+      "para_id": "c0123p0067",
+      "index": 67,
+      "raw_zh": "見千千還要追問，秦疏影給了她答案：",
+      "translated_vi": "Thấy Thiên Thiên định gặng hỏi tiếp, Tần Sơ Ảnh liền đưa ra câu trả lời cho cô:"
+    },
+    {
+      "para_id": "c0123p0068",
+      "index": 68,
+      "raw_zh": "“那些她都不是她，而是食物。”",
+      "translated_vi": "“Những bản thể đó đều không phải là bà ấy, mà là... thức ăn.”"
+    },
+    {
+      "para_id": "c0123p0069",
+      "index": 69,
+      "raw_zh": "“啊？”",
+      "translated_vi": "“Hả?”"
+    },
+    {
+      "para_id": "c0123p0070",
+      "index": 70,
+      "raw_zh": "千千一愣，但是轉而明白了。",
+      "translated_vi": "Thiên Thiên sửng sốt, nhưng thoắt cái cô liền vỡ lẽ."
+    },
+    {
+      "para_id": "c0123p0071",
+      "index": 71,
+      "raw_zh": "被困在這毛都不長的石頭崖隙內幾十年，不吃東西怎麽可能？",
+      "translated_vi": "Bị vây khốn trong khe nứt vách đá cằn cỗi không mọc nổi một ngọn cỏ này suốt mấy mươi năm ròng, không ăn gì thì làm sao sống nổi chứ?"
+    },
+    {
+      "para_id": "c0123p0072",
+      "index": 72,
+      "raw_zh": "“難怪她無法面對自己，要把唯一的自己扔在一邊接受自己的懲罰。”",
+      "translated_vi": "“Thảo nào bà ấy không dám đối diện với chính mình, đành phải vứt bỏ bản thể duy nhất sang một bên để đón nhận sự trừng phạt của lương tâm.”"
+    },
+    {
+      "para_id": "c0123p0073",
+      "index": 73,
+      "raw_zh": "一想到那畫面，四個人都是不寒而栗，同時又覺得那個九號很可憐。",
+      "translated_vi": "Vừa nghĩ tới thảm cảnh rợn người ấy, cả bốn người đều lạnh toát sống lưng, đồng thời lại dâng lên niềm xót thương vô hạn cho người phụ nữ mang số 9 kia."
+    },
+    {
+      "para_id": "c0123p0074",
+      "index": 74,
+      "raw_zh": "接下來的路，三女挨著雲千峰更近了，雲千峰腳步稍微遲疑一下，後面肯定有人撞到自己。",
+      "translated_vi": "Suốt đoạn đường tiếp theo, ba cô gái nép sát rạt vào bên cạnh Vân Thiên Phong, bước chân anh chỉ cần khựng lại một thoáng là người phía sau chắc chắn sẽ va sầm vào lưng anh."
+    },
+    {
+      "para_id": "c0123p0075",
+      "index": 75,
+      "raw_zh": "再次經過了幾對枯骨，依舊是一男一女，他們查看了幾次，都是九號那個女人的枯骨，然後便懶得再去查看，就那麽一走一過，期盼著快點到達出口處。",
+      "translated_vi": "Tiếp tục đi qua thêm mấy cặp xương khô nữa, vẫn cứ là một nam một nữ; họ kiểm tra vài lần đều xác nhận là thi cốt của người phụ nữ số 9, về sau cũng chẳng buồn xem xét nữa, cứ thế lướt qua, thầm cầu mong sớm ngày tìm thấy lối thoát."
+    },
+    {
+      "para_id": "c0123p0076",
+      "index": 76,
+      "raw_zh": "可是這個希望很快就被徹底打碎破滅。",
+      "translated_vi": "Thế nhưng niềm hy vọng mong manh ấy đã nhanh chóng bị đập tan tành thành từng mảnh vụn."
+    },
+    {
+      "para_id": "c0123p0077",
+      "index": 77,
+      "raw_zh": "因為他們又遇到了一對枯骨。",
+      "translated_vi": "Bởi vì trước mắt họ lại xuất hiện thêm một đôi xương khô nữa."
+    },
+    {
+      "para_id": "c0123p0078",
+      "index": 78,
+      "raw_zh": "三女只是掃了一眼那兩具枯骨，沒有什麽神情波動，似乎已經對枯骨麻木了。",
+      "translated_vi": "Ba cô gái chỉ liếc nhìn hai bộ hài cốt kia một cái, nét mặt không hề gợn chút cảm xúc, dường như họ đã chai sạn với những đống xương khô này rồi."
+    },
+    {
+      "para_id": "c0123p0079",
+      "index": 79,
+      "raw_zh": "然而雲千峰看到那枯骨後，整個人突然愣住，下意識的停下腳步，導致後面的千千和張敏同時貼在雲千峰後背上，生生被自己的彈性彈得向後仰了一下。",
+      "translated_vi": "Thế nhưng khi Vân Thiên Phong nhìn thấy hai bộ xương khô ấy, cả người anh bỗng chốc sững sờ chết trân, bất giác khựng lại bước chân khiến Thiên Thiên và Trương Mẫn đi phía sau đồng loạt dán chặt vào lưng anh, lực đàn hồi từ lồng ngực làm cả hai bật nảy ngửa ra sau."
+    },
+    {
+      "para_id": "c0123p0080",
+      "index": 80,
+      "raw_zh": "“怎麽了？”",
+      "translated_vi": "“Có chuyện gì thế anh?”"
+    },
+    {
+      "para_id": "c0123p0081",
+      "index": 81,
+      "raw_zh": "肩膀旁邊的秦疏影見雲千峰臉上帶著驚慌，急忙問道。",
+      "translated_vi": "Tần Sơ Ảnh đứng ngay bên vai thấy sắc mặt Vân Thiên Phong lộ rõ vẻ kinh hoàng, liền vội vã hỏi dồn."
+    },
+    {
+      "para_id": "c0123p0082",
+      "index": 82,
+      "raw_zh": "雲千峰指著那兩具枯骨，帶著顫音低聲道：",
+      "translated_vi": "Vân Thiên Phong run rẩy chỉ tay về phía hai bộ hài cốt trước mặt, nghẹn ngào cất giọng run rẩy:"
+    },
+    {
+      "para_id": "c0123p0083",
+      "index": 83,
+      "raw_zh": "“他們身上的羊皮圍裙，是我蓋上去的，他們是我們進入崖隙遇到的那第一對枯骨。”",
+      "translated_vi": "“Chiếc tạp dề da cừu trên người họ... là do chính tay tôi đắp lên. Bọn họ chính là cặp xương khô đầu tiên chúng ta bắt gặp khi vừa bước chân vào khe nứt vách đá này.”"
+    },
+    {
+      "para_id": "c0123p0084",
+      "index": 84,
+      "raw_zh": "來咯！來咯！小紅接客啦~~~",
+      "translated_vi": "Đến rồi! Đến rồi đây! Tiểu Hồng ra tiếp khách nè~~~"
+    }
+  ]
+}

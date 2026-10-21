@@ -1,0 +1,85 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0286|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Nàng lập tức vội vã quỳ phục xuống, cất tiếng gọi lớn:
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §46):
+§1 [Ø=云千峰]“郎君留步，帶著太真一起走吧，太真定做牛做馬報答郎君！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§2 [Ø=云千峰]雲千峰都趴水裡遊出一段水路，聽到這話，[Ø_SHIFT=姜柔甲]急忙打了一個旋，遊了回來。
+§3 [Ø=姜柔甲]眼看著楊玉奴緊張的松了口氣，顯然是怕雲千峰真的走了。
+§4 “做牛做馬？當真？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§5 這話把楊玉奴問愣住了。
+§6 [Ø=姜柔甲]“當不當真呢？這話不就是誇張一下嗎？對方怎麽好像當真了？就我這容貌，做牛做馬？真舍得嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§7 [Ø=姜柔甲]眼看著雲千峰問的認真嚴肅，楊玉奴很清楚，自己必須認真嚴肅的回答，於是忙道：
+§8 [Ø=姜柔甲]“自然當真，太真可以發誓！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§9 [Ø=姜柔甲]“好，那你發誓！我叫雲千峰。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§10 楊玉奴又愣了一下。
+§11 “這和以往的男人不太一樣啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§12 [Ø=姜柔甲]但為了求活，為了不遭罪，楊玉奴一咬銀牙，指天開始發誓。
+§13 還挺毒的。
+§14 [Ø=姜柔甲]“我楊玉奴終身侍奉郎君雲千峰，做牛做馬， [||] 任勞任怨，但有違背，必死後入十八層地獄。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 [Ø=姜柔甲]雲千峰滿意的點了點頭，把楊玉奴脖子上的素色長巾拽下來，問了句：
+§16 “這是不是勒死你那根白綾？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 [Ø=姜柔甲]楊玉奴一哆嗦，點了點頭。
+§18 [Ø=姜柔甲]“這人，當真不憐香惜玉啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 [Ø=姜柔甲]雲千峰拎著白綾，跳入水中，大約十幾分鍾後，他浮出水面。
+§20 [Ø=姜柔甲]是站著的，快速升上來，就那麽站在水面上。
+§21 [Ø=姜柔甲]楊玉奴頓時覺得驚奇，仔細一看，才發現雲千峰是站在一條巨大的鯊魚背上，而那條白綾， [||] 穿進了這大鯊魚的鼻孔，在鯊魚的嘴裡繞出來，被雲千峰拽在雙手之中，成了韁繩。
+§22 [Ø=姜柔甲]雲千峰看了看身邊熙攘的鯊魚群，知道楊玉奴要是和自己一樣站在鯊魚背上，那到了綠洲就成無腳人了。
+§23 [Ø=姜柔甲]於是略一思索，直接騎在鯊魚背上，對著楊玉奴招手道：
+§24 [Ø=姜柔甲]“來，騎在我脖頸上，放心，穩當！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 [Ø=姜柔甲]楊玉奴也知道這是唯一能夠帶著自己離開這裡的方式，於是鼓起勇氣，走向鯊魚背。
+§26 [Ø=姜柔甲]眼看楊玉奴到了水邊，雲千峰一拉白綾，鯊魚吃痛，頓時聽話的把身體貼著礁石浮著。
+§27 [Ø=姜柔甲]雲千峰稍微彎腰低頭，用手臂引著楊玉奴騎在自己脖頸上。
+§28 [Ø=姜柔甲]“抱住我的脖子，千萬別松手，咱們出發！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 [Ø=姜柔甲]說著，一抖白綾，鯊魚便箭一樣飛射而出，朝著樹枝飄來的方向疾馳而去。
+§30 [Ø=姜柔甲]長有植物的島嶼是存在的，還不小。
+§31 騎著鯊魚跑了半個小時才繞了一圈。
+§32 [Ø=姜柔甲]問題是，這海島三面絕壁， [||] 上面還能看到被蒼鷹啄食了一半，掛在崖壁上半死不活的人，可見這絕不是上島的好路。
+§33 [Ø=姜柔甲]另一面倒是平坦，一半是亂石草叢，一半是銀色的沙灘。
+§34 [Ø=姜柔甲]亂石草叢很陰森，上面還趴著面部扭曲的靜止人，很顯然是個強人， [||] 竟然來到了這島上的，問題是上面爬滿了毒蛇，都是尖腦袋紅冠子，保準一口全身疼得生不如死。
+§35 [Ø=姜柔甲]銀色的沙灘也很美，但上面趴滿了黑灰色的巨大鱷魚，不用猜全是鹹水鱷魚，因為只有鹹水鱷魚能長到接近十米長。
+§36 [Ø=姜柔甲]這裡很乾淨，沒有人的痕跡。
+§37 [Ø=姜柔甲]雲千峰糾結了片刻，決定選擇走布滿毒蛇的石頭草叢，畢竟這裡能保證楊玉奴是囫圇個兒的。
+§38 [Ø=姜柔甲]想有個這麽有名有貌的丫鬟伺候，那就得有付出。
+§39 [Ø=姜柔甲]楊玉奴看到那麽多密密麻麻的毒蛇，顫聲道：
+§40 [Ø=姜柔甲]“郎君可要護住妾身，太真以後定做牛做馬服侍郎君。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 雲千峰無奈的歎了口氣道：
+§42 [Ø=姜柔甲]“可別說牛馬了，你騎著我呢！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 [Ø=姜柔甲]說著，跳上亂石草叢， [||] 直接踩到了三條蛇，然後抽回鯊魚鼻子裡的白綾，大踏步而去。
+§44 他需要一個安家之所。
+§45 [Ø=姜柔甲]感謝：月的眼淚在流淌、書友尾數47670、花生ame、森林傘、看那明月的星光、熱心網友焦先生、妖血之盟、好一個大頭的月票獎勵，謝謝你們的支持！！！
+§46 祝大家晚安好夢！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 46 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§46. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

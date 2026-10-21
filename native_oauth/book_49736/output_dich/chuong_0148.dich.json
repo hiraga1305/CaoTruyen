@@ -1,0 +1,505 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 148,
+  "title": "Chương 148: Anh Vân Phát Tài Rồi!",
+  "total_paragraphs": 82,
+  "translated_paragraphs": 82,
+  "source_hash": "bfdb6ce914a4e6b27b4f6a732310431a75e14f9a0ed60c882e838589b01e5d7b",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0148p0001",
+      "index": 1,
+      "raw_zh": "第148章 雲哥發達了！",
+      "translated_vi": "Chương 148: Anh Vân Phát Tài Rồi!"
+    },
+    {
+      "para_id": "c0148p0002",
+      "index": 2,
+      "raw_zh": "雲千峰用自己那堪比霸王項羽的右臂連捶帶打好一陣，那大門依舊紋絲不動。",
+      "translated_vi": "Vân Thiên Phong vận dụng cánh tay phải dũng mãnh chẳng khác nào Bá Vương Hạng Vũ ra sức đấm thùm thụp một hồi lâu, cánh đại môn kia vẫn sừng sững trơ trơ không chút lay chuyển."
+    },
+    {
+      "para_id": "c0148p0003",
+      "index": 3,
+      "raw_zh": "然後他確定，這玩意兒絕對不是外力能夠打開的，只能靠鑰匙。",
+      "translated_vi": "Sau đó anh khẳng định chắc nịch, thứ đồ chơi này tuyệt đối không thể dùng ngoại lực để mở ra được, chỉ có thể cậy nhờ vào chìa khóa."
+    },
+    {
+      "para_id": "c0148p0004",
+      "index": 4,
+      "raw_zh": "羅琳娜提出了質疑，問道：",
+      "translated_vi": "Lorina dấy lên mối nghi ngờ, lên tiếng hỏi:"
+    },
+    {
+      "para_id": "c0148p0005",
+      "index": 5,
+      "raw_zh": "“那為什麽疑似你的屍體會被順著這裡衝到幾十公裡外的泉水之中？”",
+      "translated_vi": "“Vậy tại sao thi thể nghi là của anh lại có thể theo dòng nước nơi này bị cuốn trôi ra tận suối nước ngầm cách đây mấy chục cây số?”"
+    },
+    {
+      "para_id": "c0148p0006",
+      "index": 6,
+      "raw_zh": "雲千峰思索片刻，回道：",
+      "translated_vi": "Vân Thiên Phong trầm ngâm giây lát rồi đáp:"
+    },
+    {
+      "para_id": "c0148p0007",
+      "index": 7,
+      "raw_zh": "“這個東西很明顯是坐在水上的，你看地下水都是在下方流出，而不是在門內流出。",
+      "translated_vi": "“Thứ này rất rõ ràng là tọa lạc ngay trên mặt nước, cô xem dòng nước ngầm đều chảy ra từ bên dưới đáy, chứ không phải tuôn ra từ bên trong cánh cửa."
+    },
+    {
+      "para_id": "c0148p0008",
+      "index": 8,
+      "raw_zh": "所以這意味著當時的人是從別的入口進入這扇門後面，那裡同時還有能夠進入地下水道的出入口。",
+      "translated_vi": "Bởi vậy điều này đồng nghĩa với việc người thời đó đã đi vào sau cánh cửa từ một lối vào khác, nơi đó đồng thời cũng có cửa ngõ thông ra mạch nước ngầm dưới lòng đất."
+    },
+    {
+      "para_id": "c0148p0009",
+      "index": 9,
+      "raw_zh": "但很顯然，這門下與水之間的縫隙完全不夠鑽出去一個人的體型，小孩都不行，想來需要雨季，沙漠裡水位最高的時候，這裡的縫隙才會變大，容我們鑽進水下去尋找進入門後的入口。”",
+      "translated_vi": "Thế nhưng hiển nhiên khoảng cách khe hở giữa chân cửa và mặt nước hoàn toàn không đủ cho một người chui lọt, ngay cả đứa trẻ con cũng không vừa. E rằng phải đợi tới mùa mưa, khi mực nước ngầm dưới sa mạc dâng cao nhất, khe hở nơi đây mới nới rộng ra, đủ để chúng ta lặn xuống nước tìm kiếm lối vào phía sau cánh cửa.”"
+    },
+    {
+      "para_id": "c0148p0010",
+      "index": 10,
+      "raw_zh": "羅琳娜看著雲千峰，點了點頭，道：",
+      "translated_vi": "Lorina nhìn Vân Thiên Phong, gật đầu bảo:"
+    },
+    {
+      "para_id": "c0148p0011",
+      "index": 11,
+      "raw_zh": "“所以？”",
+      "translated_vi": "“Thế cho nên?”"
+    },
+    {
+      "para_id": "c0148p0012",
+      "index": 12,
+      "raw_zh": "雲千峰無奈一笑，道：",
+      "translated_vi": "Vân Thiên Phong cười trừ bất lực:"
+    },
+    {
+      "para_id": "c0148p0013",
+      "index": 13,
+      "raw_zh": "“所以，我們需要休息吃東西，吃飽了好往回走，尋找別的方式進入其中，比如從地上的沙漠出發，我們記得大概的前進方向，應該找得到這裡。”",
+      "translated_vi": "“Cho nên, chúng ta cần nghỉ ngơi ăn uống, ăn no nê rồi quay trở ra tìm phương thức khác để thâm nhập vào trong. Chẳng hạn như xuất phát từ mặt sa mạc phía trên, chúng ta nhớ rõ phương hướng tiến lên đại khái, hẳn là có thể tìm tới đúng vị trí này.”"
+    },
+    {
+      "para_id": "c0148p0014",
+      "index": 14,
+      "raw_zh": "在這裡等著水位上漲是不現實的，誰也不知道是這裡地質變化造成的門下縫隙變小還是其他原因，這也就意味著，之前他們受的苦是無用功。",
+      "translated_vi": "Ngồi đây chờ nước dâng là chuyện viển vông phi thực tế. Chẳng ai biết được khe hở dưới chân cửa bị thu hẹp là do biến đổi địa chất hay vì nguyên nhân nào khác, điều này cũng đồng nghĩa với việc những nỗi gian khổ họ nếm trải trước đó đã hóa thành công cốc."
+    },
+    {
+      "para_id": "c0148p0015",
+      "index": 15,
+      "raw_zh": "倆人都很沮喪，但這個世界就是這樣，計劃總是沒有變化快。",
+      "translated_vi": "Cả hai đều vô cùng chán nản, song cuộc đời vốn dĩ là thế, kế hoạch định ra xưa nay chẳng bao giờ đuổi kịp biến cố bất ngờ."
+    },
+    {
+      "para_id": "c0148p0016",
+      "index": 16,
+      "raw_zh": "就著地下泉水，吃了塊壓縮餅乾，吃了一片維生素C片，這就算完成了一餐飯。",
+      "translated_vi": "Uống ngụm nước suối ngầm, gặm miếng lương khô nén, nuốt một viên vitamin C, thế là coi như xong bữa cơm."
+    },
+    {
+      "para_id": "c0148p0017",
+      "index": 17,
+      "raw_zh": "隨後雲千峰一如之前，開始在岩畫上打岩釘，製作吊床。",
+      "translated_vi": "Sau đó Vân Thiên Phong lại như thường lệ, bắt đầu đóng đinh leo núi lên vách đá bích họa để căng võng."
+    },
+    {
+      "para_id": "c0148p0018",
+      "index": 18,
+      "raw_zh": "其實還不到晚上睡覺的時間，但反正要休息之後直接往回走，那不如好好睡一覺，畢竟昨晚睡得都不是很好。",
+      "translated_vi": "Kỳ thực lúc này vẫn chưa tới giờ ngủ ban đêm, nhưng đằng nào cũng phải nghỉ ngơi cho lại sức rồi mới quay về, chi bằng cứ đánh một giấc thật say, dẫu sao đêm qua cả hai đều chẳng ngủ yên giấc."
+    },
+    {
+      "para_id": "c0148p0019",
+      "index": 19,
+      "raw_zh": "一如昨晚，雲千峰把身上的衣服鞋子掛在岩釘上，首先鑽進帳篷，背對著羅琳娜。",
+      "translated_vi": "Tương tự như đêm qua, Vân Thiên Phong cởi quần áo cùng giày dép máng lên đinh đá, rồi chui vào trong lều trước tiên, quay lưng lại với Lorina."
+    },
+    {
+      "para_id": "c0148p0020",
+      "index": 20,
+      "raw_zh": "後者不過多久，也鑽進了帳篷。",
+      "translated_vi": "Người sau chẳng bao lâu cũng chui tọt vào bên trong."
+    },
+    {
+      "para_id": "c0148p0021",
+      "index": 21,
+      "raw_zh": "然後昨晚那種忍無可忍，又開始襲擊兩個人的身心。",
+      "translated_vi": "Thế rồi cảm giác ngứa ngáy rạo rực không thể kìm nén của đêm qua lại bắt đầu ập đến cắn xé tâm can và thể xác hai người."
+    },
+    {
+      "para_id": "c0148p0022",
+      "index": 22,
+      "raw_zh": "羅琳娜吐著熱氣，用很輕的聲音說道：",
+      "translated_vi": "Lorina phả ra từng luồng hơi thở nóng rực, cất giọng thật khẽ:"
+    },
+    {
+      "para_id": "c0148p0023",
+      "index": 23,
+      "raw_zh": "“雲千峰，不如你再來一次昨晚的戲法吧！”",
+      "translated_vi": "“Vân Thiên Phong, hay là anh lại diễn trò ảo thuật như đêm qua thêm một lần nữa đi!”"
+    },
+    {
+      "para_id": "c0148p0024",
+      "index": 24,
+      "raw_zh": "雲千峰苦笑道：",
+      "translated_vi": "Vân Thiên Phong cười khổ đáp:"
+    },
+    {
+      "para_id": "c0148p0025",
+      "index": 25,
+      "raw_zh": "“那辦法用一次行，兩次就不管用了，伱有心理準備。”",
+      "translated_vi": "“Chiêu đó xài một lần thì được, lần thứ hai là hết tác dụng rồi, cô đã có chuẩn bị tâm lý trước chưa.”"
+    },
+    {
+      "para_id": "c0148p0026",
+      "index": 26,
+      "raw_zh": "羅琳娜搖頭，道：",
+      "translated_vi": "Lorina lắc đầu bảo:"
+    },
+    {
+      "para_id": "c0148p0027",
+      "index": 27,
+      "raw_zh": "“你誤會了，我就是想著，看到那樣一張臉，我肯定就沒想法了。”",
+      "translated_vi": "“Anh hiểu lầm rồi, tôi chỉ nghĩ là nhìn thấy bản mặt gớm ghiếc kia thì tôi ắt sẽ tắt ngấm mọi dục vọng tơ tưởng thôi.”"
+    },
+    {
+      "para_id": "c0148p0028",
+      "index": 28,
+      "raw_zh": "雲千峰想想，也是那麽回事，畢竟只要不是倆人都忍無可忍，這個事還是忍得過去的，就怕倆人都忍不住，那就鐵定完蛋了。",
+      "translated_vi": "Vân Thiên Phong ngẫm lại thấy cũng có lý, dù sao chỉ cần không phải cả hai cùng mất kiểm soát thì chuyện này vẫn có thể nhịn được, chỉ sợ cả đôi bên đều không kìm lòng nổi thì toi đời chắc chắn."
+    },
+    {
+      "para_id": "c0148p0029",
+      "index": 29,
+      "raw_zh": "於是沒怎麽猶豫，照著岩壁就是一撞。",
+      "translated_vi": "Thế là anh chẳng thèm do dự, nhắm thẳng vách đá cụng đầu một cú."
+    },
+    {
+      "para_id": "c0148p0030",
+      "index": 30,
+      "raw_zh": "“嘭”的一聲悶響後，雲千峰那狗頭頭套自動保護啟動，他又變了成了狗頭人，長著血盆大口，看著羅琳娜猙獰的笑道：",
+      "translated_vi": "Sau một tiếng “bịch” trầm đục, chiếc mũ trùm đầu chó của Vân Thiên Phong lập tức kích hoạt cơ chế tự bảo vệ, anh lại biến thành kẻ đầu chó mình người, há to cái mồm đỏ lòm như chậu máu, nhe răng cười dữ tợn nhìn Lorina:"
+    },
+    {
+      "para_id": "c0148p0031",
+      "index": 31,
+      "raw_zh": "“怎麽樣？還有想法嗎？”",
+      "translated_vi": "“Sao nào? Còn ham muốn tơ tưởng gì nữa không?”"
+    },
+    {
+      "para_id": "c0148p0032",
+      "index": 32,
+      "raw_zh": "羅琳娜都要哭了，悲憤道：",
+      "translated_vi": "Lorina mếu máo suýt khóc, ai oán thốt lên:"
+    },
+    {
+      "para_id": "c0148p0033",
+      "index": 33,
+      "raw_zh": "“我覺得我心理一定有問題，怎麽看到狼人還有想法？我完了，看來是躲不過去了，要不然我就從了你吧。”",
+      "translated_vi": "“Tôi thấy tâm lý mình chắc chắn có vấn đề rồi, sao nhìn thấy người sói mà vẫn còn cảm giác rạo rực thế này? Tôi xong đời rồi, xem ra kiếp nạn này trốn không thoát đâu, hay là tôi thuận theo anh luôn cho rồi.”"
+    },
+    {
+      "para_id": "c0148p0034",
+      "index": 34,
+      "raw_zh": "由此可見，他們倆之間這種吸引力，已經超越了理智，羅琳娜幾近崩潰了。",
+      "translated_vi": "Đủ thấy lực hút giữa hai người họ lúc này đã vượt xa khỏi lằn ranh lý trí, Lorina gần như sắp sụp đổ hoàn toàn."
+    },
+    {
+      "para_id": "c0148p0035",
+      "index": 35,
+      "raw_zh": "這話是能說出口的嗎？這樣說了，雲千峰還怎麽忍。",
+      "translated_vi": "Lời này mà cũng thốt ra được sao? Nói đến nước này rồi thì Vân Thiên Phong nhịn thế quái nào được nữa!"
+    },
+    {
+      "para_id": "c0148p0036",
+      "index": 36,
+      "raw_zh": "於是他也不想忍了，一翻身就壓了過去。",
+      "translated_vi": "Thế là anh cũng chẳng thèm nén nhịn nữa, lật người đè thẳng tới."
+    },
+    {
+      "para_id": "c0148p0037",
+      "index": 37,
+      "raw_zh": "然而，還沒等他們實施生物的必備技能時，一件意想不到的事情徹底打亂了他們的進度。",
+      "translated_vi": "Thế nhưng, còn chưa kịp thi triển bản năng sinh tồn tất yếu của sinh vật thì một chuyện ngoài ý muốn đã hoàn toàn phá vỡ tiến trình của hai người."
+    },
+    {
+      "para_id": "c0148p0038",
+      "index": 38,
+      "raw_zh": "鬼魅一般，那道非金非木的厚重大門自己就那麽無聲的打開了。",
+      "translated_vi": "Hệt như ma quái quỷ quyệt, cánh đại môn dày cộm phi kim phi mộc kia lại tự động mở toang một cách êm ru không một tiếng động."
+    },
+    {
+      "para_id": "c0148p0039",
+      "index": 39,
+      "raw_zh": "進度剛剛達到三分之一的雲千峰急忙抽身而起，往上一竄，抽出了腰帶上的軍刀匕首，然後屏息目視著那扇大門之內的動靜。",
+      "translated_vi": "Tiến độ mới chỉ đạt tới một phần ba, Vân Thiên Phong đã giật bắn người vùng dậy, nhảy vọt lên, rút phắt con dao găm quân dụng bên hông ra, nín thở đăm đăm nhìn vào những động tĩnh bên trong cánh cửa lớn."
+    },
+    {
+      "para_id": "c0148p0040",
+      "index": 40,
+      "raw_zh": "裡面異常安靜，漆黑如墨，看不到裡面任何情況。",
+      "translated_vi": "Bên trong tĩnh lặng đến dị thường, đen đặc như mực, chẳng thể nhìn thấy bất kỳ động tĩnh gì."
+    },
+    {
+      "para_id": "c0148p0041",
+      "index": 41,
+      "raw_zh": "倆人急忙起身穿上濕噠噠的衣服和鞋子，打開頭頂礦燈，來到那已經洞開的大門之前。",
+      "translated_vi": "Cả hai vội vàng ngồi dậy tròng vào người bộ quần áo cùng giày dép còn ươn ướt, bật đèn pin đội đầu lên rồi tiến tới trước cánh cửa lớn đã mở toang."
+    },
+    {
+      "para_id": "c0148p0042",
+      "index": 42,
+      "raw_zh": "羅琳娜臉還紅著，氣喘籲籲道：",
+      "translated_vi": "Gương mặt Lorina vẫn còn đỏ ửng, thở hổn hển thốt lên:"
+    },
+    {
+      "para_id": "c0148p0043",
+      "index": 43,
+      "raw_zh": "“怪不得這門連縫隙都沒有，原來是向上伸縮門。可是，它怎麽就自己開了呢？”",
+      "translated_vi": "“Hèn chi cánh cửa này không có nổi một kẽ hở, hóa ra là cửa co rút thu lên phía trên. Cơ mà, sao nó lại tự động mở ra thế này?”"
+    },
+    {
+      "para_id": "c0148p0044",
+      "index": 44,
+      "raw_zh": "倆人現在的身體狀態，對危險極度的不敏感，沒怎麽覺得害怕，畢竟都不是賢者模式。",
+      "translated_vi": "Trạng thái cơ thể của hai người lúc này cực kỳ trơ lì với sự nguy hiểm, chẳng hề thấy sợ hãi là bao, dẫu sao cũng chẳng ai đang ở trạng thái hiền giả thanh thản cả."
+    },
+    {
+      "para_id": "c0148p0045",
+      "index": 45,
+      "raw_zh": "好在雲千峰腦子沒受影響，當下指了指自己的腦袋，說道：",
+      "translated_vi": "May sao đầu óc Vân Thiên Phong không bị ảnh hưởng, bèn chỉ tay vào đầu mình, bảo:"
+    },
+    {
+      "para_id": "c0148p0046",
+      "index": 46,
+      "raw_zh": "“我估計那門上有面部識別系統，我那狗頭臉就是鑰匙。”",
+      "translated_vi": "“Tôi đoán trên cánh cửa kia có hệ thống nhận diện khuôn mặt, cái mặt chó của tôi chính là chìa khóa.”"
+    },
+    {
+      "para_id": "c0148p0047",
+      "index": 47,
+      "raw_zh": "想到之前岩畫上新神那狗頭人的模樣，這個答案就變得非常合理。",
+      "translated_vi": "Nghĩ tới hình tượng người đầu chó của tân thần trên bức bích họa trước đó, câu trả lời này lập tức trở nên vô cùng hữu lý."
+    },
+    {
+      "para_id": "c0148p0048",
+      "index": 48,
+      "raw_zh": "外面的泉水開始順著打開的大門流進裡面黑漆漆的空間。",
+      "translated_vi": "Dòng suối bên ngoài bắt đầu men theo cánh cửa mở toang tràn vào không gian tối đen như mực bên trong."
+    },
+    {
+      "para_id": "c0148p0049",
+      "index": 49,
+      "raw_zh": "雲千峰和羅琳娜蹚著水，小心翼翼的走進那伸手不見五指的黑暗之中。",
+      "translated_vi": "Vân Thiên Phong và Lorina lội nước, cẩn trọng từng bước dấn thân vào màn đêm giơ tay không thấy năm ngón."
+    },
+    {
+      "para_id": "c0148p0050",
+      "index": 50,
+      "raw_zh": "“嗡”的一聲，那是沉重且巨大的物體與空氣摩擦的聲響。",
+      "translated_vi": "“Oong” một tiếng, đó là âm thanh ma sát rợn người giữa một vật thể khổng lồ nặng nề với không khí."
+    },
+    {
+      "para_id": "c0148p0051",
+      "index": 51,
+      "raw_zh": "身後的大門轟然落下，截斷了泉水也截斷了倆人的退路。",
+      "translated_vi": "Cánh đại môn phía sau ầm ầm sập xuống, chặn đứng dòng nước suối, đồng thời cũng cắt đứt luôn đường lui của cả hai."
+    },
+    {
+      "para_id": "c0148p0052",
+      "index": 52,
+      "raw_zh": "倆人調亮了頭頂礦燈，在這黑暗的空間裡仔細查看著。",
+      "translated_vi": "Hai người tăng độ sáng của đèn pin đội đầu, tỉ mỉ quan sát khắp không gian tối tăm này."
+    },
+    {
+      "para_id": "c0148p0053",
+      "index": 53,
+      "raw_zh": "若不是他們之前看到了艙門的高科技，真的無法想象這裡可能是一個不明飛行器的內部，因為這裡面看起來和高科技毫無關系。",
+      "translated_vi": "Nếu không phải tận mắt chứng kiến khoang cửa đậm chất công nghệ cao trước đó, thì quả thực khó lòng tưởng tượng nổi nơi đây lại là bên trong của một vật thể bay không xác định, bởi nội thất trông chẳng có chút can hệ nào tới công nghệ hiện đại cả."
+    },
+    {
+      "para_id": "c0148p0054",
+      "index": 54,
+      "raw_zh": "非金非木的古怪材質毫無整齊感，到處是風蝕一般的凸凹，讓人有深處天然洞穴的感覺。",
+      "translated_vi": "Chất liệu kỳ quái phi kim phi mộc hoàn toàn không có cảm giác bằng phẳng ngăn nắp, khắp nơi lồi lõm mấp mô tựa như bị gió xói mòn, mang lại cảm giác như đang đứng sâu trong một hang động tự nhiên."
+    },
+    {
+      "para_id": "c0148p0055",
+      "index": 55,
+      "raw_zh": "羅琳娜倒是對這種裝飾有自己的理解：",
+      "translated_vi": "Lorina lại có cách nhìn nhận riêng về lối kiến trúc bài trí này:"
+    },
+    {
+      "para_id": "c0148p0056",
+      "index": 56,
+      "raw_zh": "“想來是因為這些女閻羅人的科技發展太快了，以至於還沒走出原始的純粹自然審美，就有了超越我們現代地球人的科技，兩者結合，就會有這種穴居美的高科技飛船。”",
+      "translated_vi": "“Chắc hẳn là do khoa học kỹ thuật của tộc người Nữ Diêm La phát triển quá thần tốc, đến mức còn chưa kịp thoát khỏi gu thẩm mỹ thuần tự nhiên nguyên thủy thì đã nắm giữ công nghệ vượt xa người Trái Đất hiện đại. Khi cả hai kết hợp lại thì liền tạo ra một phi thuyền công nghệ cao mang vẻ đẹp hang động thế này.”"
+    },
+    {
+      "para_id": "c0148p0057",
+      "index": 57,
+      "raw_zh": "“嗯”雲千峰點頭道：",
+      "translated_vi": "“Ừm.” Vân Thiên Phong gật đầu tán thành:"
+    },
+    {
+      "para_id": "c0148p0058",
+      "index": 58,
+      "raw_zh": "“應該是這個原因，而且女閻羅星的首領一直都是巫覡，那種與大自然無法分割的神靈崇拜，也影響著他們的審美。”",
+      "translated_vi": "“Chắc chắn là vì nguyên do đó. Huống hồ thủ lĩnh hành tinh Nữ Diêm La xưa nay vẫn luôn là vu hích, sự sùng bái thần linh gắn liền mật thiết với mẹ thiên nhiên cũng đã định hình gu thẩm mỹ của họ.”"
+    },
+    {
+      "para_id": "c0148p0059",
+      "index": 59,
+      "raw_zh": "倆人轉頭各自看著不同的方向，企圖通過一個部分一個部分看過去，然後在腦海裡模擬出這個空間的全景。",
+      "translated_vi": "Cả hai ngoảnh đầu nhìn sang những hướng khác nhau, toan rà soát từng ngóc ngách rồi phác họa toàn cảnh không gian này trong tâm trí."
+    },
+    {
+      "para_id": "c0148p0060",
+      "index": 60,
+      "raw_zh": "“雲千峰，你看這應該是這裡的結構圖。”",
+      "translated_vi": "“Vân Thiên Phong, anh nhìn xem, đây hẳn là sơ đồ cấu trúc của nơi này.”"
+    },
+    {
+      "para_id": "c0148p0061",
+      "index": 61,
+      "raw_zh": "聽到羅琳娜的話，雲千峰急忙湊過去，仔細看著那被礦燈照亮的石台區域。",
+      "translated_vi": "Nghe tiếng Lorina gọi, Vân Thiên Phong vội rảo bước lại gần, chăm chú nhìn vào khu vực bệ đá đang được ánh đèn rọi sáng."
+    },
+    {
+      "para_id": "c0148p0062",
+      "index": 62,
+      "raw_zh": "那裡有一個粗圓珠筆形的立體結構模型，大小約一米長短，其內半透明，看不出什麽材質。",
+      "translated_vi": "Tại đó đặt một mô hình lập thể hình trụ tựa cây bút bi cỡ lớn, dài chừng một mét, bên trong bán trong suốt, chẳng rõ cấu tạo từ vật liệu gì."
+    },
+    {
+      "para_id": "c0148p0063",
+      "index": 63,
+      "raw_zh": "在不同的角度看，能看到內部被分割成的每個空間。",
+      "translated_vi": "Quan sát từ các góc độ khác nhau, có thể thấy từng khoang không gian được phân chia rành rọt bên trong."
+    },
+    {
+      "para_id": "c0148p0064",
+      "index": 64,
+      "raw_zh": "雲千峰腦海裡回憶自己查閱過的關於神秘飛行器的資料，說道：",
+      "translated_vi": "Vân Thiên Phong lục tìm trong ký ức những tư liệu về các vật thể bay bí ẩn mà mình từng đọc, cất lời:"
+    },
+    {
+      "para_id": "c0148p0065",
+      "index": 65,
+      "raw_zh": "“如果這真的是飛行器，那麽這種圓珠筆形的柱體飛行器，一般是母船，長度一般是三百到三千米。”",
+      "translated_vi": "“Nếu đây thực sự là một phi hành khí, thì loại hình trụ thon dài dạng cây bút này thường là tàu mẹ, chiều dài thông thường dao động từ ba trăm đến ba nghìn mét.”"
+    },
+    {
+      "para_id": "c0148p0066",
+      "index": 66,
+      "raw_zh": "羅琳娜道：",
+      "translated_vi": "Lorina tiếp lời:"
+    },
+    {
+      "para_id": "c0148p0067",
+      "index": 67,
+      "raw_zh": "“肯定是母船，畢竟他們這是舉家逃亡，你看這裡，應該就是咱們倆所處的位置。”",
+      "translated_vi": "“Chắc chắn là tàu mẹ rồi, dù sao họ cũng là cả tộc di tản trốn chạy. Anh nhìn chỗ này xem, đây hẳn là vị trí hai chúng ta đang đứng.”"
+    },
+    {
+      "para_id": "c0148p0068",
+      "index": 68,
+      "raw_zh": "雲千峰看到羅琳娜指著筆尖的位置，那裡恰好有一個入艙門。",
+      "translated_vi": "Vân Thiên Phong nhìn theo ngón tay Lorina chỉ vào phần ngòi bút, nơi đó quả thực có một cửa khoang ra vào."
+    },
+    {
+      "para_id": "c0148p0069",
+      "index": 69,
+      "raw_zh": "羅琳娜一邊仔細觀察一邊說道：",
+      "translated_vi": "Lorina vừa quan sát tỉ mỉ vừa phân tích:"
+    },
+    {
+      "para_id": "c0148p0070",
+      "index": 70,
+      "raw_zh": "“這艘母船整體縱向分為四個部分，再以橫向切割，分成了十幾個連通的空間，最後面整個的單獨空間，應該就是母船的控制中心，也是母船真正的前方，艙門還能自動開啟關閉，證明這艘母船一定還有備用能源，咱們找找開關在哪裡。”",
+      "translated_vi": "“Chiếc tàu mẹ này theo chiều dọc được chia làm bốn phần lớn, rồi lại cắt ngang chia thành mười mấy khoang thông nhau. Khoang đơn độc rộng lớn nhất tít đằng sau hẳn là trung tâm điều khiển của tàu mẹ, đồng thời cũng chính là phần đầu thực sự của phi thuyền. Cửa khoang vẫn có thể tự động đóng mở, chứng tỏ tàu mẹ này nhất định còn năng lượng dự phòng, chúng ta mau tìm xem công tắc nằm ở đâu.”"
+    },
+    {
+      "para_id": "c0148p0071",
+      "index": 71,
+      "raw_zh": "雲千峰聽到這話，眼珠轉了轉，突然說了句：",
+      "translated_vi": "Vân Thiên Phong nghe vậy, đảo tròn tròng mắt, bất thình lình thốt lên một câu:"
+    },
+    {
+      "para_id": "c0148p0072",
+      "index": 72,
+      "raw_zh": "“燈光照明啟動！”",
+      "translated_vi": "“Kích hoạt hệ thống chiếu sáng!”"
+    },
+    {
+      "para_id": "c0148p0073",
+      "index": 73,
+      "raw_zh": "羅琳娜一愣神的功夫，周圍的牆壁整體開始緩緩亮起微光，倆人所處的空間漸漸清晰起來。",
+      "translated_vi": "Trong lúc Lorina còn đang ngẩn ngơ, toàn bộ vách tường xung quanh đã bắt đầu tỏa ra ánh sáng mờ ảo êm dịu, không gian nơi hai người đứng dần dần hiện rõ mồn một."
+    },
+    {
+      "para_id": "c0148p0074",
+      "index": 74,
+      "raw_zh": "雲千峰喜上眉梢，忙又說道：",
+      "translated_vi": "Vân Thiên Phong hớn hở ra mặt, vội hô tiếp:"
+    },
+    {
+      "para_id": "c0148p0075",
+      "index": 75,
+      "raw_zh": "“燈光照明關閉。”",
+      "translated_vi": "“Tắt hệ thống chiếu sáng.”"
+    },
+    {
+      "para_id": "c0148p0076",
+      "index": 76,
+      "raw_zh": "那剛剛亮起來的牆壁便又緩緩暗了下去，空間再次恢復一團漆黑。",
+      "translated_vi": "Bức tường vừa bừng sáng lập tức mờ dần rồi tắt lịm, không gian lại chìm vào bóng tối mịt mùng."
+    },
+    {
+      "para_id": "c0148p0077",
+      "index": 77,
+      "raw_zh": "羅琳娜好奇大聲道：",
+      "translated_vi": "Lorina tò mò cất giọng thật to:"
+    },
+    {
+      "para_id": "c0148p0078",
+      "index": 78,
+      "raw_zh": "“燈光照明啟動。”",
+      "translated_vi": "“Kích hoạt hệ thống chiếu sáng.”"
+    },
+    {
+      "para_id": "c0148p0079",
+      "index": 79,
+      "raw_zh": "牆壁沒有絲毫的反應。",
+      "translated_vi": "Vách tường chẳng hề có lấy nửa phần phản ứng."
+    },
+    {
+      "para_id": "c0148p0080",
+      "index": 80,
+      "raw_zh": "雲千峰哈哈大笑，道：",
+      "translated_vi": "Vân Thiên Phong cười ha hả sảng khoái:"
+    },
+    {
+      "para_id": "c0148p0081",
+      "index": 81,
+      "raw_zh": "“羅琳娜，這是我的地盤，哈哈哈，我發達了！”",
+      "translated_vi": "“Lorina ơi, đây là địa bàn của tôi rồi! Ha ha ha, anh đây phát tài rồi!”"
+    },
+    {
+      "para_id": "c0148p0082",
+      "index": 82,
+      "raw_zh": "感謝塔克斯、qim1983、回頭太難a、一劍遊俠、啊威18試、不過一場風雨的月票獎勵，謝謝你們的支持，我熱情的源泉！！！！！！！！！",
+      "translated_vi": "Chân thành cảm ơn Tucker, qim1983, Hồi Đầu Thái Nan a, Nhất Kiếm Du Hiệp, A Uy 18 Thí, Bất Quá Nhất Tràng Phong Vũ đã thưởng phiếu tháng khích lệ, cảm ơn sự ủng hộ của các bạn, nguồn động lực vô tận của tôi!!!!!!!!!"
+    }
+  ]
+}

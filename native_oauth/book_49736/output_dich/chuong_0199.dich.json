@@ -1,0 +1,577 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 199,
+  "title": "Chương 199: Khói Lửa Nhân Gian",
+  "total_paragraphs": 94,
+  "translated_paragraphs": 94,
+  "source_hash": "acbb9d7f436db04ecc343c25ead0154235e1b2164c0fc5a3c49be614ffc2d233",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0199p0001",
+      "index": 1,
+      "raw_zh": "第199章 人間煙火",
+      "translated_vi": "Chương 199: Khói Lửa Nhân Gian"
+    },
+    {
+      "para_id": "c0199p0002",
+      "index": 2,
+      "raw_zh": "這艘遊輪是航行在大海上的龐然大物。",
+      "translated_vi": "Chiếc du thuyền này là một gã khổng lồ sừng sững lướt sóng trên đại dương bao la."
+    },
+    {
+      "para_id": "c0199p0003",
+      "index": 3,
+      "raw_zh": "長三百六十多米，高六十四米，有十六層甲板，每一層都有客房、娛樂設施和餐廳。",
+      "translated_vi": "Chiều dài hơn ba trăm sáu mươi mét, chiều cao sáu mươi tư mét, sở hữu mười sáu tầng boong tàu, mỗi tầng đều có các phòng nghỉ dưỡng, khu vui chơi giải trí và nhà hàng ăn uống."
+    },
+    {
+      "para_id": "c0199p0004",
+      "index": 4,
+      "raw_zh": "並且這艘遊輪上，有著一萬多株綠色植物，處處生機盎然。",
+      "translated_vi": "Hơn nữa trên du thuyền còn trồng hơn một vạn cây xanh, bốn bề nơi nơi đều tràn đầy nhựa sống."
+    },
+    {
+      "para_id": "c0199p0005",
+      "index": 5,
+      "raw_zh": "六千多名乘客在兩千多名工作者的服務下，在這裡過著天堂般的奢侈生活。",
+      "translated_vi": "Hơn sáu nghìn hành khách dưới sự phục vụ của hơn hai nghìn nhân viên đang tận hưởng cuộc sống xa hoa tựa chốn bồng lai tiên cảnh ở nơi này."
+    },
+    {
+      "para_id": "c0199p0006",
+      "index": 6,
+      "raw_zh": "雲千峰和法緹娜居住的客房在這裡只能算是中檔，有著一面臨海的窗子，五十平米的居住空間。",
+      "translated_vi": "Căn phòng nghỉ mà Vân Thiên Phong và Fatina ở chỉ được xếp vào hạng trung, có một khung cửa sổ hướng ra biển lớn và diện tích chừng năm mươi mét vuông."
+    },
+    {
+      "para_id": "c0199p0007",
+      "index": 7,
+      "raw_zh": "純木的家具，純木的地板，五棵綠植，以及一張圓形的水床。",
+      "translated_vi": "Nội thất bằng gỗ tự nhiên, sàn lát gỗ nguyên khối, năm chậu cây xanh cùng một chiếc đệm nước hình tròn cỡ lớn."
+    },
+    {
+      "para_id": "c0199p0008",
+      "index": 8,
+      "raw_zh": "據說水床可以最大限度的讓客人在睡覺時忽略海上的顛簸。",
+      "translated_vi": "Nghe đâu đệm nước có thể giảm thiểu tối đa cảm giác bồng bềnh chao đảo của sóng biển trong lúc du khách say giấc."
+    },
+    {
+      "para_id": "c0199p0009",
+      "index": 9,
+      "raw_zh": "一到了這種需要高消費維持的地方，雲千峰就很想念羅琳娜，他相信如果是和羅琳娜出遊，他們倆一定是住在最豪華最貴的房間裡，享受帝王般的服務。",
+      "translated_vi": "Cứ hễ đặt chân tới những chốn cần mức chi tiêu đắt đỏ bậc này, Vân Thiên Phong lại nhớ Lorina da diết. Anh tin chắc nếu đi du lịch cùng Lorina, hai người nhất định sẽ ngụ tại căn phòng tráng lệ và xa xỉ bậc nhất, tận hưởng sự phục vụ đẳng cấp đế vương."
+    },
+    {
+      "para_id": "c0199p0010",
+      "index": 10,
+      "raw_zh": "於是他給羅琳娜打了一個電話。",
+      "translated_vi": "Thế là anh nhấc máy gọi điện cho Lorina."
+    },
+    {
+      "para_id": "c0199p0011",
+      "index": 11,
+      "raw_zh": "結果開口第一句，羅琳娜就問道：",
+      "translated_vi": "Kết quả vừa mới bắt máy, câu đầu tiên Lorina hỏi đã là:"
+    },
+    {
+      "para_id": "c0199p0012",
+      "index": 12,
+      "raw_zh": "“誰那麽倒霉綁架了你？”",
+      "translated_vi": "“Kẻ nào lại xui xẻo đến mức đi bắt cóc anh thế?”"
+    },
+    {
+      "para_id": "c0199p0013",
+      "index": 13,
+      "raw_zh": "話不投機半句多，雲千峰果斷掛了電話。",
+      "translated_vi": "Lời không hợp nhau nửa câu cũng thừa, Vân Thiên Phong dứt khoát cúp máy cái rụp."
+    },
+    {
+      "para_id": "c0199p0014",
+      "index": 14,
+      "raw_zh": "羅琳娜連發了二十四條簡訊道歉，附帶雲千峰最喜歡看的羅琳娜的照片四十八張，然後雲千峰原諒了她。",
+      "translated_vi": "Lorina liền gửi dồn dập hai mươi tư tin nhắn xin lỗi, đính kèm bốn mươi tám bức ảnh của cô mà Vân Thiên Phong thích ngắm nghía nhất, sau đó Vân Thiên Phong mới chịu tha thứ cho cô."
+    },
+    {
+      "para_id": "c0199p0015",
+      "index": 15,
+      "raw_zh": "又給秦疏影打了電話，得知那柔似水的女人依舊住在羅琳娜的私人島嶼上，而且倆人似乎成了無話不談的好朋友，這是個很好的開始。",
+      "translated_vi": "Anh lại gọi điện cho Tần Sơ Ảnh, được biết người phụ nữ dịu dàng như làn nước mùa thu ấy vẫn đang ở trên hòn đảo tư nhân của Lorina, hơn nữa hai người dường như đã trở thành bạn thân không có chuyện gì giấu nhau. Đây quả là một khởi đầu hết sức tốt đẹp."
+    },
+    {
+      "para_id": "c0199p0016",
+      "index": 16,
+      "raw_zh": "心情大好的雲千峰來到書桌前，用筆在一張紙上書寫著。",
+      "translated_vi": "Tâm trạng vô cùng phấn khởi, Vân Thiên Phong bước tới trước bàn làm việc, cầm bút nắn nót viết lên một trang giấy."
+    },
+    {
+      "para_id": "c0199p0017",
+      "index": 17,
+      "raw_zh": "已知：",
+      "translated_vi": "ĐÃ BIẾT:"
+    },
+    {
+      "para_id": "c0199p0018",
+      "index": 18,
+      "raw_zh": "一：女閻羅文明捋清。",
+      "translated_vi": "Một: Văn minh Nữ Diêm La đã được làm rõ manh mối."
+    },
+    {
+      "para_id": "c0199p0019",
+      "index": 19,
+      "raw_zh": "二：魔鬼的皮囊“元”的因果捋清。",
+      "translated_vi": "Hai: Ngọn ngành nhân quả về lớp vỏ bọc ác ma mang tên ‘Nguyên’ đã được sáng tỏ."
+    },
+    {
+      "para_id": "c0199p0020",
+      "index": 20,
+      "raw_zh": "三：雲氏族群與神話傳說有著緊密的聯系，尤其是與九屠之間的關系。",
+      "translated_vi": "Ba: Thị tộc họ Vân có mối liên hệ mật thiết với các truyền thuyết thần thoại, nhất là mối quan hệ với Cửu Đồ."
+    },
+    {
+      "para_id": "c0199p0021",
+      "index": 21,
+      "raw_zh": "人非已知的這種“神”所創造。",
+      "translated_vi": "Con người không phải do những ‘Thần’ đã biết này tạo ra."
+    },
+    {
+      "para_id": "c0199p0022",
+      "index": 22,
+      "raw_zh": "進化論勝？",
+      "translated_vi": "Thuyết tiến hóa thắng thế?"
+    },
+    {
+      "para_id": "c0199p0023",
+      "index": 23,
+      "raw_zh": "未必。",
+      "translated_vi": "Chưa chắc."
+    },
+    {
+      "para_id": "c0199p0024",
+      "index": 24,
+      "raw_zh": "可能：",
+      "translated_vi": "KHẢ NĂNG:"
+    },
+    {
+      "para_id": "c0199p0025",
+      "index": 25,
+      "raw_zh": "一：炎帝部落為火星文明逃到地球的後裔。",
+      "translated_vi": "Một: Bộ tộc Viêm Đế là hậu duệ của nền văn minh Hỏa Tinh đào thoát tới Trái Đất."
+    },
+    {
+      "para_id": "c0199p0026",
+      "index": 26,
+      "raw_zh": "二：火星未碎裂，炎部的神軀應該遺留在了火星上。",
+      "translated_vi": "Hai: Hỏa Tinh chưa từng nổ tung vỡ vụn, thần khu của bộ tộc Viêm Đế hẳn vẫn còn lưu lại trên Hỏa Tinh."
+    },
+    {
+      "para_id": "c0199p0027",
+      "index": 27,
+      "raw_zh": "三：石匠會可能是墨家文明傳人，賒刀人是鬼谷文明傳人，他們與華夏史前文明有著密切的關系，包括九屠。",
+      "translated_vi": "Ba: Thạch Tượng Hội có thể là truyền nhân của nền văn minh Mặc gia, Xa Đao Nhân là truyền nhân của nền văn minh Quỷ Cốc, bọn họ có quan hệ mật thiết với nền văn minh tiền sử Hoa Hạ, bao gồm cả Cửu Đồ."
+    },
+    {
+      "para_id": "c0199p0028",
+      "index": 28,
+      "raw_zh": "這或許是炎部歸附黃帝部落的根本原因。",
+      "translated_vi": "Đây có lẽ là nguyên nhân cốt lõi khiến bộ tộc Viêm Đế quy phục bộ tộc Hoàng Đế."
+    },
+    {
+      "para_id": "c0199p0029",
+      "index": 29,
+      "raw_zh": "因為他們失去了“神”，無法打敗擁有元，不怕死的巫部。",
+      "translated_vi": "Bởi vì bọn họ đã mất đi ‘Thần’, không thể đánh bại được Vu bộ vốn sở hữu Nguyên và chẳng hề sợ chết."
+    },
+    {
+      "para_id": "c0199p0030",
+      "index": 30,
+      "raw_zh": "華夏歷史是有跡可循的，",
+      "translated_vi": "Lịch sử Hoa Hạ quả thực đều có vết tích để lần theo."
+    },
+    {
+      "para_id": "c0199p0031",
+      "index": 31,
+      "raw_zh": "未知：",
+      "translated_vi": "CHƯA BIẾT:"
+    },
+    {
+      "para_id": "c0199p0032",
+      "index": 32,
+      "raw_zh": "一：人類是自然進化還是神創？若是自然進化，為何與地球的自然格格不入？若是神創，那麽這個“神”又是誰？",
+      "translated_vi": "Một: Loài người là do tiến hóa tự nhiên hay là do Thần sáng tạo? Nếu là tiến hóa tự nhiên, cớ sao lại hoàn toàn lạc lõng chẳng thể dung hòa với giới tự nhiên của Trái Đất? Nếu là do Thần sáng tạo, vậy thì vị ‘Thần’ này rốt cuộc là ai?"
+    },
+    {
+      "para_id": "c0199p0033",
+      "index": 33,
+      "raw_zh": "二：為什麽每個在神跡內遇到的古人，都是雲氏一脈，這絕不是巧合，一定有著必然的因在其中，而這與我一定有著極密切的關系，甚至是一切答案的鑰匙。",
+      "translated_vi": "Hai: Tại sao mỗi người cổ đại gặp được trong các thần tích đều thuộc về một mạch họ Vân? Đây tuyệt đối không phải là sự trùng hợp ngẫu nhiên, nhất định phải có một nguyên nhân tất yếu ẩn giấu bên trong, và điều này ắt hẳn có can hệ vô cùng mật thiết tới tôi, thậm chí là chìa khóa mở ra toàn bộ đáp án."
+    },
+    {
+      "para_id": "c0199p0034",
+      "index": 34,
+      "raw_zh": "三：巫族身後是“元”，炎部身後是火星的神軀，普羅人身後是普羅，那麽黃帝身後是誰？伏羲身後是誰？雲氏，或者說現在的我，在這裡到底是什麽樣的一顆棋子？",
+      "translated_vi": "Ba: Đứng sau Vu tộc là ‘Nguyên’, đứng sau Viêm bộ là thần khu Hỏa Tinh, đứng sau người Proser là Phổ La, vậy thì đứng sau Hoàng Đế là ai? Đứng sau Phục Hy là ai? Dòng họ Vân, hay nói đúng hơn là bản thân tôi lúc này, rốt cuộc đóng vai trò là một quân cờ như thế nào trong ván cờ này?"
+    },
+    {
+      "para_id": "c0199p0035",
+      "index": 35,
+      "raw_zh": "四：為什麽三皇的符號與古印度濕婆、毗濕奴、梵天的符號相同？他們是創世者，而為什麽創世者的記憶只在地球流傳？",
+      "translated_vi": "Bốn: Vì sao biểu tượng của Tam Hoàng lại tương đồng với biểu tượng của Shiva, Vishnu và Brahma trong thần thoại Ấn Độ cổ đại? Bọn họ là những Đấng Sáng Tạo, thế nhưng tại sao ký ức về Đấng Sáng Tạo lại chỉ lưu truyền ở Trái Đất?"
+    },
+    {
+      "para_id": "c0199p0036",
+      "index": 36,
+      "raw_zh": "五：那些可怕的形如蜥蜴的生物是什麽？為什麽它們食人，且以看待低等動物的目光看待人類？",
+      "translated_vi": "Năm: Những sinh vật đáng sợ có hình thù giống như loài thằn lằn kia là thứ gì? Vì sao chúng lại ăn thịt người, đồng thời nhìn nhận loài người bằng ánh mắt coi khinh như loài động vật bậc thấp?"
+    },
+    {
+      "para_id": "c0199p0037",
+      "index": 37,
+      "raw_zh": "六：姮娥到底是夢，還是依舊存在？在月亮上嗎？",
+      "translated_vi": "Sáu: Hằng Nga rốt cuộc chỉ là một giấc mộng, hay thực sự vẫn còn tồn tại? Nàng đang ở trên Mặt Trăng sao?"
+    },
+    {
+      "para_id": "c0199p0038",
+      "index": 38,
+      "raw_zh": "七：天上並無南海，那麽月球是否是上古的南山？",
+      "translated_vi": "Bảy: Trên bầu trời chẳng hề có Nam Hải, vậy thì Mặt Trăng liệu có phải là Nam Sơn thời thượng cổ hay không?"
+    },
+    {
+      "para_id": "c0199p0039",
+      "index": 39,
+      "raw_zh": "八：我是否是盤瓠的轉世？否則無法解釋史前磁錄裡姮娥的等待。",
+      "translated_vi": "Tám: Liệu tôi có phải là chuyển kiếp của Bàn Hộ hay không? Nếu không thì chẳng tài nào giải thích nổi sự đợi chờ của Hằng Nga trong đoạn băng từ tiền sử."
+    },
+    {
+      "para_id": "c0199p0040",
+      "index": 40,
+      "raw_zh": "九：周契到底是什麽？是九屠符嗎？周天子與神之間到底簽訂了什麽契約，為什麽簽訂，與九屠與雲氏又有什麽關聯？與我有什麽關聯？",
+      "translated_vi": "Chín: Chu khế rốt cuộc là thứ gì? Có phải là Cửu Đồ Phù không? Giữa Chu Thiên Tử và các vị Thần rốt cuộc đã ký kết loại khế ước nào, vì sao lại ký kết, và có mối liên hệ ra sao với Cửu Đồ cùng họ Vân? Nó có can hệ gì đến tôi?"
+    },
+    {
+      "para_id": "c0199p0041",
+      "index": 41,
+      "raw_zh": "十：為什麽“元”的後果如此可怕，依舊有人在幫我？甚至之前獵殺我的勢力都似乎隱藏了起來，他們在等待什麽？",
+      "translated_vi": "Mười: Tại sao hậu quả của ‘Nguyên’ đáng sợ đến thế mà vẫn có người ngấm ngầm giúp đỡ tôi? Thậm chí những thế lực từng ráo riết truy sát tôi trước kia dường như cũng đã lặn mất tăm, bọn họ đang chờ đợi điều gì?"
+    },
+    {
+      "para_id": "c0199p0042",
+      "index": 42,
+      "raw_zh": "十一：帝嚳想要利用我做什麽？最後又將用什麽樣的方式殺了我？車裂？還是金鍾？",
+      "translated_vi": "Mười một: Đế Khốc muốn lợi dụng tôi để làm gì? Sau cùng ông ấy sẽ dùng phương thức nào để trừ khử tôi? Ngũ mã phanh thây? Hay là nhốt vào kim chung?"
+    },
+    {
+      "para_id": "c0199p0043",
+      "index": 43,
+      "raw_zh": "十二：從普羅傳遞給普羅人的科技來看，與地球人類的科技是極為相似的，祂不知道那能發電的玉石牆是何人建造，而玉石牆的發電原理與金字塔同出一轍，那麽金字塔代表的文明一定不是“神”的文明，因為太陽系的“神”是同一隻隊伍的高維生物，那麽金字塔背後是誰？是誰的文明？",
+      "translated_vi": "Mười hai: Từ nền khoa học kỹ thuật mà Phổ La truyền dạy cho người Proser, nó cực kỳ tương đồng với khoa học kỹ thuật của loài người trên Trái Đất. Ngài ấy không hề biết bức tường ngọc thạch có khả năng phát điện kia là do ai tạo dựng, trong khi nguyên lý phát điện của tường ngọc thạch lại cùng một khuôn mẫu với kim tự tháp. Như vậy nền văn minh mà kim tự tháp đại diện chắc chắn không phải là nền văn minh của ‘Thần’, bởi các ‘Thần’ trong Hệ Mặt Trời đều thuộc cùng một toán sinh vật cao chiều. Vậy thì đứng sau kim tự tháp là ai? Đó là nền văn minh của kẻ nào?"
+    },
+    {
+      "para_id": "c0199p0044",
+      "index": 44,
+      "raw_zh": "十三：絕地天通應該是存在的，黎的圖騰已經出現，而且確實用青銅門封住了地下的某種東西，絕地天通的真相是什麽？大地之下封印的又是什麽？",
+      "translated_vi": "Mười ba: Sự kiện Tuyệt Địa Thiên Thông hẳn là có thật. Đồ đằng chữ Lê đã xuất hiện, và quả thực đã dùng cánh cổng đồng xanh để phong tỏa một thứ gì đó dưới lòng đất. Chân tướng của Tuyệt Địa Thiên Thông là gì? Dưới lòng đất sâu kia rốt cuộc đang phong ấn thứ gì?"
+    },
+    {
+      "para_id": "c0199p0045",
+      "index": 45,
+      "raw_zh": "未知的答案遠遠不止這些，但寫到這，雲千峰發現，自己以為自己已經在這險關重重的路上了解了很多，但用筆呈現出來後才知道，自己知道的太少了，未知的答案太多，而且這些未知的答案才是更多的關系到自己的命運。",
+      "translated_vi": "Những ẩn số chưa có lời giải còn vượt xa ngần này, nhưng viết tới đây, Vân Thiên Phong chợt nhận ra: anh ngỡ rằng mình đã thấu hiểu được rất nhiều điều trên chặng đường đầy rẫy hiểm nguy gian nan này, song chỉ đến khi đặt bút viết ra giấy mới vỡ lẽ mình biết quá ít ỏi. Những câu hỏi chưa có lời đáp còn quá nhiều, và chính những ẩn số ấy mới là thứ liên quan mật thiết nhất tới vận mệnh của anh."
+    },
+    {
+      "para_id": "c0199p0046",
+      "index": 46,
+      "raw_zh": "他索性扔下手中的筆，默默的歎了一口氣，讓有些壓抑難受的胸腔疏散一下。",
+      "translated_vi": "Anh dứt khoát buông bút xuống bàn, khẽ thở dài một tiếng thật dài để xua đi cảm giác đè nén ngột ngạt trong lồng ngực."
+    },
+    {
+      "para_id": "c0199p0047",
+      "index": 47,
+      "raw_zh": "白狐法緹娜兩隻前爪搭在窗台上，望著窗外的大海，和遠處岸邊城市的燈火。",
+      "translated_vi": "Hồ ly trắng Fatina gác hai móng vuốt trước lên bậu cửa sổ, dõi mắt nhìn ra biển cả mênh mông cùng ánh đèn rực rỡ của thành phố nơi bờ xa."
+    },
+    {
+      "para_id": "c0199p0048",
+      "index": 48,
+      "raw_zh": "雲千峰見她看得專注，便問道：",
+      "translated_vi": "Vân Thiên Phong thấy cô nhìn chăm chú như vậy liền cất tiếng hỏi:"
+    },
+    {
+      "para_id": "c0199p0049",
+      "index": 49,
+      "raw_zh": "“沒見識的樣子，看什麽呢？”",
+      "translated_vi": "“Cái điệu bộ chưa thấy sự đời bao giờ kia, đang ngắm nhìn cái gì thế?”"
+    },
+    {
+      "para_id": "c0199p0050",
+      "index": 50,
+      "raw_zh": "對於唯命是從的夥伴，說話是不需要客氣的，要時時打壓。",
+      "translated_vi": "Đối với một người bạn đồng hành răm rắp nghe lời thì ăn nói chẳng cần phải khách sáo, thỉnh thoảng phải chèn ép dập tắt nhuệ khí mới được."
+    },
+    {
+      "para_id": "c0199p0051",
+      "index": 51,
+      "raw_zh": "白狐法緹娜沉聲道：",
+      "translated_vi": "Hồ ly trắng Fatina trầm giọng đáp:"
+    },
+    {
+      "para_id": "c0199p0052",
+      "index": 52,
+      "raw_zh": "“我在看，地球的科技已經發展到普羅星最後的程度了，這很危險。”",
+      "translated_vi": "“Tôi đang quan sát. Khoa học kỹ thuật của Trái Đất hiện đã phát triển tới giai đoạn cuối cùng của hành tinh Proser năm xưa rồi. Điều này vô cùng nguy hiểm.”"
+    },
+    {
+      "para_id": "c0199p0053",
+      "index": 53,
+      "raw_zh": "雲千峰知道白狐所謂的危險是什麽，如今地球的科技，很可能在巧合之下，就打開一扇不知通往何處的大門。",
+      "translated_vi": "Vân Thiên Phong hiểu mối nguy hiểm mà bạch hồ muốn nói là gì. Khoa học kỹ thuật của Trái Đất ngày nay rất có thể chỉ trong một sự tình cờ ngẫu nhiên nào đó sẽ mở toang một cánh cổng dẫn tới một nơi không ai lường trước được."
+    },
+    {
+      "para_id": "c0199p0054",
+      "index": 54,
+      "raw_zh": "“別想那些你無法改變的事情了，來看看我寫的未知答案，看看你能解答哪個問題。”",
+      "translated_vi": "“Đừng bận tâm tới những chuyện cô không thể thay đổi nữa, lại đây xem những câu hỏi chưa có lời giải tôi vừa viết ra xem, xem cô có thể giải đáp được câu nào không.”"
+    },
+    {
+      "para_id": "c0199p0055",
+      "index": 55,
+      "raw_zh": "唯命是從的白狐法緹娜不情願的走了過來，看著紙上的字跡。",
+      "translated_vi": "Bạn đồng hành răm rắp nghe lời Fatina đành miễn cưỡng rảo bước lại gần, liếc nhìn những dòng chữ trên trang giấy."
+    },
+    {
+      "para_id": "c0199p0056",
+      "index": 56,
+      "raw_zh": "“這些象形字符簡化得難名其意，等我學習一下。”",
+      "translated_vi": "“Những ký tự tượng hình này giản hóa tới mức khó hiểu được ý nghĩa nguyên thủy, đợi tôi học một chút đã.”"
+    },
+    {
+      "para_id": "c0199p0057",
+      "index": 57,
+      "raw_zh": "說著打開電腦，用爪子開始翻轉網頁，開始學習簡化漢字。",
+      "translated_vi": "Vừa nói cô vừa mở máy tính lên, dùng móng vuốt lướt lướt trang web, bắt đầu học chữ Hán giản thể."
+    },
+    {
+      "para_id": "c0199p0058",
+      "index": 58,
+      "raw_zh": "半個小時後，白狐法緹娜關掉電腦網頁，自信的再次來到那張紙之前，開始順利的閱讀。",
+      "translated_vi": "Nửa giờ sau, hồ ly trắng Fatina đóng trang web máy tính lại, tự tin bước tới trước tờ giấy lần nữa, bắt đầu đọc trôi chảy không chút vấp váp."
+    },
+    {
+      "para_id": "c0199p0059",
+      "index": 59,
+      "raw_zh": "這學習能力，讓雲千峰五體投地。",
+      "translated_vi": "Khả năng tiếp thu học hỏi cỡ này khiến Vân Thiên Phong phải bái phục sát đất."
+    },
+    {
+      "para_id": "c0199p0060",
+      "index": 60,
+      "raw_zh": "當然，是在心裡。",
+      "translated_vi": "Dĩ nhiên là chỉ khâm phục ở trong lòng thôi."
+    },
+    {
+      "para_id": "c0199p0061",
+      "index": 61,
+      "raw_zh": "因為，唯命是從>五體投地。",
+      "translated_vi": "Bởi vì: răm rắp nghe lời > bái phục sát đất."
+    },
+    {
+      "para_id": "c0199p0062",
+      "index": 62,
+      "raw_zh": "白狐法緹娜看了一遍後，淡淡道：",
+      "translated_vi": "Hồ ly trắng Fatina lướt qua một lượt rồi nhàn nhạt nói:"
+    },
+    {
+      "para_id": "c0199p0063",
+      "index": 63,
+      "raw_zh": "“我能回答的很少，首先第一個問題，在我看來，人類不是自然進化的結果，接下來回答第五個問題的時候，伱會明白。”",
+      "translated_vi": "“Tôi có thể giải đáp rất ít ỏi. Đầu tiên là câu hỏi thứ nhất: theo tôi thấy, loài người tuyệt đối không phải là kết quả của quá trình tiến hóa tự nhiên. Chút nữa khi trả lời câu hỏi thứ năm anh sẽ hiểu.”"
+    },
+    {
+      "para_id": "c0199p0064",
+      "index": 64,
+      "raw_zh": "“第五個問題最簡單，你自己已經給出了答案，這個世界上，從來都是高級動物吃低級動物，所以那些蜥蜴怪物食人有兩個可能，那就是想證明自己比人類高級，亦或是它們本就比人類高級。”",
+      "translated_vi": "“Câu hỏi thứ năm là đơn giản nhất, bản thân anh đã tự đưa ra câu trả lời rồi. Trên thế giới này, xưa nay luôn là động vật bậc cao ăn thịt động vật bậc thấp. Cho nên việc lũ quái vật thằn lằn kia ăn thịt người chỉ có hai khả năng: một là muốn chứng minh bản thân cao cấp hơn loài người, hai là vốn dĩ chúng thực sự cao cấp hơn loài người.”"
+    },
+    {
+      "para_id": "c0199p0065",
+      "index": 65,
+      "raw_zh": "雲千峰明白這個道理，他看過漢尼拔那部電視劇，那裡面的漢尼拔就有這種優越感的心緒。",
+      "translated_vi": "Vân Thiên Phong hiểu rất rõ đạo lý này, anh từng xem bộ phim truyền hình Hannibal, nhân vật Hannibal trong phim cũng mang tâm lý kẻ cả thượng đẳng như thế."
+    },
+    {
+      "para_id": "c0199p0066",
+      "index": 66,
+      "raw_zh": "但他不明白這和人是不是自然進化有什麽關系，於是忙問道：",
+      "translated_vi": "Thế nhưng anh không hiểu điều này thì có can hệ gì tới việc loài người có phải tiến hóa tự nhiên hay không, bèn vội hỏi:"
+    },
+    {
+      "para_id": "c0199p0067",
+      "index": 67,
+      "raw_zh": "“這與人是不是神創有關系嗎？”",
+      "translated_vi": "“Cái này thì có liên quan gì tới việc con người có phải do Thần sáng tạo hay không?”"
+    },
+    {
+      "para_id": "c0199p0068",
+      "index": 68,
+      "raw_zh": "白狐法緹娜點了點頭，道：",
+      "translated_vi": "Hồ ly trắng Fatina gật đầu nói:"
+    },
+    {
+      "para_id": "c0199p0069",
+      "index": 69,
+      "raw_zh": "“當然有，因為在最初的時候，我也有這種優越感，想要把人類端上餐桌，事實上我們那樣做過，就是你們所謂的邪惡祭祀。",
+      "translated_vi": "“Đương nhiên là có. Bởi vì vào thời kỳ đầu tiên, tôi cũng từng mang thứ cảm giác thượng đẳng này, từng muốn đưa con người lên bàn tiệc. Trên thực tế chúng tôi từng làm như vậy, chính là thứ mà các anh gọi là tế lễ tà ác đó."
+    },
+    {
+      "para_id": "c0199p0070",
+      "index": 70,
+      "raw_zh": "但是後來我發現，我不能那樣做，因為那樣做了之後，我附身替我交換時間的人，會生病死亡。",
+      "translated_vi": "Thế nhưng về sau tôi nhận ra mình không thể làm như vậy được nữa. Bởi vì sau khi làm thế, người bị tôi nhập hồn để thay tôi trao đổi với thời gian sẽ lâm bệnh rồi chết."
+    },
+    {
+      "para_id": "c0199p0071",
+      "index": 71,
+      "raw_zh": "最後我仔細觀察才明白了原因，原來人類的基因裡有一個不可改變的禁製，那就是不能互食，否則會產生一種致命的病毒，而這只能是人為，因為自然界裡，只有人的基因裡有這樣的禁製，證明這不是天然進化形成的。",
+      "translated_vi": "Mãi về sau khi quan sát kỹ lưỡng tôi mới vỡ lẽ nguyên do: hóa ra trong bộ gen của con người có cài sẵn một tầng cấm chế không thể nào thay đổi, đó là đồng loại tuyệt đối không thể ăn thịt lẫn nhau, nếu không sẽ sinh ra một loại virus chí mạng. Mà điều này chỉ có thể là do nhân vi sắp đặt, bởi lẽ trong toàn cõi tự nhiên duy chỉ có bộ gen của con người là tồn tại tầng cấm chế này, chứng tỏ nó tuyệt đối không phải do tiến hóa tự nhiên mà thành."
+    },
+    {
+      "para_id": "c0199p0072",
+      "index": 72,
+      "raw_zh": "進化是存在的，但進化永遠只能是一個過程，這個過程一定是讓人適應這個世界的生存，同一個自然環境裡，進化的結果一定是與這個世界的其他動物形成共性，而不是區別。”",
+      "translated_vi": "Quá trình tiến hóa quả thực có tồn tại, nhưng tiến hóa mãi mãi chỉ là một quá trình. Quá trình này nhất định là để giúp sinh vật thích nghi với việc sinh tồn trong thế giới này. Trong cùng một môi trường tự nhiên, kết quả của tiến hóa ắt hẳn phải hình thành nên tính tương đồng với các loài động vật khác trên thế giới, chứ không thể tạo ra sự dị biệt tuyệt đối như thế.”"
+    },
+    {
+      "para_id": "c0199p0073",
+      "index": 73,
+      "raw_zh": "雲千峰知道這種專屬於人類的基因禁製，那就是脘病D。",
+      "translated_vi": "Vân Thiên Phong biết tầng cấm chế gen độc nhất vô nhị chỉ dành riêng cho loài người này, đó chính là bệnh do hạt Prion gây ra."
+    },
+    {
+      "para_id": "c0199p0074",
+      "index": 74,
+      "raw_zh": "他點了點頭，認可了普羅的說法。",
+      "translated_vi": "Anh khẽ gật đầu, đồng thuận với nhận định của Phổ La."
+    },
+    {
+      "para_id": "c0199p0075",
+      "index": 75,
+      "raw_zh": "“還能回答其它的疑惑嗎？”",
+      "translated_vi": "“Cô còn có thể giải đáp được những mối nghi hoặc khác không?”"
+    },
+    {
+      "para_id": "c0199p0076",
+      "index": 76,
+      "raw_zh": "白狐法緹娜看著窗外玉盤一般的圓月，沉聲道：",
+      "translated_vi": "Hồ ly trắng Fatina nhìn vầng trăng tròn vành vạnh như chiếc mâm ngọc ngoài cửa sổ, trầm giọng đáp:"
+    },
+    {
+      "para_id": "c0199p0077",
+      "index": 77,
+      "raw_zh": "“月亮很奇怪，我來到地球的時候，它並不在天上，我甚至不知道它的存在，但是在一次地裂的大洪水之後，我第一次見到了它，那時候它離我那麽近，而我眼睜睜的看著它遠去，其它的我便不知道了。”",
+      "translated_vi": "“Mặt Trăng vô cùng kỳ lạ. Khi tôi mới tới Trái Đất, nó vốn dĩ không hề ngự trên bầu trời, tôi thậm chí còn không hề hay biết đến sự tồn tại của nó. Nhưng sau một trận đại hồng thủy kèm theo nứt toác mặt đất, tôi mới lần đầu tiên nhìn thấy nó. Thời điểm đó nó ở khoảng cách rất gần với tôi, và tôi đã trơ mắt đứng nhìn nó dần trôi dạt ra xa. Còn những điều khác thì tôi chịu, không biết nữa.”"
+    },
+    {
+      "para_id": "c0199p0078",
+      "index": 78,
+      "raw_zh": "“還有，你的猜測是對的，那些玉石發電的文明，不是我們的文明，一定來自於另外一個文明，甚至我懷疑它們與普羅星和火星的毀滅有關，其它的我都無法回答你，因為那也是我在尋找的答案。”",
+      "translated_vi": "“Thêm nữa, phán đoán của anh hoàn toàn chính xác. Nền văn minh phát điện bằng ngọc thạch kia không phải là văn minh của chúng tôi, nhất định đến từ một nền văn minh khác. Thậm chí tôi nghi ngờ chúng có liên quan tới sự hủy diệt của hành tinh Proser và Hỏa Tinh. Những điều khác tôi không thể trả lời anh được, bởi đó cũng chính là đáp án mà tôi đang mải miết đi tìm.”"
+    },
+    {
+      "para_id": "c0199p0079",
+      "index": 79,
+      "raw_zh": "雲千峰點了點頭，用打火機點燃了那張紙，眼睛盯著它燃燒為灰燼，還不忘用手把它碾碎。",
+      "translated_vi": "Vân Thiên Phong gật đầu, lấy bật lửa châm cháy tờ giấy kia, mắt chăm chú nhìn ngọn lửa thiêu rụi nó thành tro tàn, lại không quên đưa tay nghiền nát vụn ra."
+    },
+    {
+      "para_id": "c0199p0080",
+      "index": 80,
+      "raw_zh": "然後對著白狐法緹娜說道：",
+      "translated_vi": "Sau đó anh quay sang bảo hồ ly trắng Fatina:"
+    },
+    {
+      "para_id": "c0199p0081",
+      "index": 81,
+      "raw_zh": "“今晚遊輪的中央大廳有一場面對貴賓的舞會，很奇怪我竟然收到了邀請，估計是搞錯了，不過不重要，我們準備準備去熱鬧一下吧。”",
+      "translated_vi": "“Tối nay tại đại sảnh trung tâm của du thuyền có tổ chức một buổi vũ hội dành cho khách VIP. Thật kỳ lạ là tôi lại nhận được thiệp mời, ước chừng là phát nhầm thôi, nhưng không quan trọng, chúng ta chuẩn bị một chút rồi xuống góp vui đi.”"
+    },
+    {
+      "para_id": "c0199p0082",
+      "index": 82,
+      "raw_zh": "白狐法緹娜眼神肅穆，用深沉的語調說道：",
+      "translated_vi": "Hồ ly trắng Fatina ánh mắt nghiêm nghị, dùng ngữ điệu thâm trầm đáp:"
+    },
+    {
+      "para_id": "c0199p0083",
+      "index": 83,
+      "raw_zh": "“不，我不喜熱鬧，你自己去吧。”",
+      "translated_vi": "“Không, tôi không thích chốn náo nhiệt, anh tự đi một mình đi.”"
+    },
+    {
+      "para_id": "c0199p0084",
+      "index": 84,
+      "raw_zh": "事實上，是她受夠了被拴著狗繩的待遇。",
+      "translated_vi": "Thực chất là vì cô đã ngán ngẩm đến tận cổ cái cảnh bị tròng dây xích chó dắt đi rồi."
+    },
+    {
+      "para_id": "c0199p0085",
+      "index": 85,
+      "raw_zh": "雲千峰點了點頭，說道：",
+      "translated_vi": "Vân Thiên Phong gật gù bảo:"
+    },
+    {
+      "para_id": "c0199p0086",
+      "index": 86,
+      "raw_zh": "“也成，反正是花你家的錢，我還想著舞會上食物那麽多，可以省下一頓飯錢。”",
+      "translated_vi": "“Cũng được thôi, dù sao cũng là tiêu tiền nhà cô mà. Tôi còn đang tính bụng thức ăn ở vũ hội ê hề như thế thì có thể tiết kiệm được một bữa ăn.”"
+    },
+    {
+      "para_id": "c0199p0087",
+      "index": 87,
+      "raw_zh": "白狐法緹娜沉吟了一下，說道：",
+      "translated_vi": "Hồ ly trắng Fatina trầm ngâm chốc lát rồi cất lời:"
+    },
+    {
+      "para_id": "c0199p0088",
+      "index": 88,
+      "raw_zh": "“突然就有了想看看人間煙火的興致，我們同去吧！帶個隱蔽些的兜子，我覺得我們能做到省下三頓飯錢。”",
+      "translated_vi": "“Tự dưng tôi lại nổi hứng muốn đi ngắm nhìn khói lửa nhân gian một phen rồi. Chúng ta cùng đi thôi! Nhớ mang theo một cái túi kín đáo một chút, tôi thấy chúng ta hoàn toàn có thể tiết kiệm được hẳn ba bữa cơm đấy.”"
+    },
+    {
+      "para_id": "c0199p0089",
+      "index": 89,
+      "raw_zh": "說著，跑過去把狗繩叼了起來，放到雲千峰面前。",
+      "translated_vi": "Vừa dứt lời, cô liền lon ton chạy tới ngoạm lấy sợi dây dắt chó lên, đặt ngay ngắn trước mặt Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0199p0090",
+      "index": 90,
+      "raw_zh": "普羅的神格，神的節操，在雲千峰眼前散落一地。",
+      "translated_vi": "Thần cách của Phổ La, khí tiết của Thần linh, cứ thế rơi vãi tan tành trước mắt Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0199p0091",
+      "index": 91,
+      "raw_zh": "“奇了怪了，為什麽會邀請我呢？我也不是貴賓啊！”",
+      "translated_vi": "“Lạ lùng thật, tại sao lại mời mình cơ chứ? Mình đâu phải khách VIP đâu!”"
+    },
+    {
+      "para_id": "c0199p0092",
+      "index": 92,
+      "raw_zh": "感謝肖娜丶-793、尾數31918、尾數47021、尾數42711、舊月新樽盛、用愛發電的月票獎勵，謝謝你們的支持，感激不盡！！！",
+      "translated_vi": "Chân thành cảm ơn các bạn độc giả đã bỏ phiếu tháng ủng hộ, cảm ơn sự đồng hành quý báu của mọi người rất nhiều!"
+    },
+    {
+      "para_id": "c0199p0093",
+      "index": 93,
+      "raw_zh": "今天頁面顯示有打賞，但是後台沒有顯示，在這裡感謝我沒看到名字的你，謝謝你的支持！！！",
+      "translated_vi": "Hôm nay trang truyện hiển thị có độc giả ủng hộ tiền thưởng nhưng hệ thống chưa hiện tên, tôi xin gửi lời cảm ơn tới bạn giấu tên nhé, cảm ơn sự ủng hộ của bạn!"
+    },
+    {
+      "para_id": "c0199p0094",
+      "index": 94,
+      "raw_zh": "祝大家好夢，晚安！！！",
+      "translated_vi": "Chúc mọi người ngủ ngon và có những giấc mộng đẹp!"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0240|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Tiếng va đập "keng keng keng" chát chúa vang dội không ngớt hệt như một tràng pháo nổ, tận mắt thấy chiếc mũ bảo hiểm bằng sợi carbon đen tuyền kia bắt đầu lõm xuống, đồng thời nứt toác ra từng đường 
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §43):
+§1 “就要成功了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§2 [Ø_SHIFT=姜柔甲]雲千峰內心驚喜，只要打開裂縫，把朱砂和銀粉灌進去，薩弱就完蛋了！
+§3 百日恩？
+§4 [Ø=姜柔甲]然而，就在這時候，薩弱反擊了。
+§5 只不過反擊的方式讓雲千峰非常詫異。
+§6 [Ø=姜柔甲]因為薩弱軀乾蠕動了一下，腹部一緊，茁壯的X腔一抬， [||] “呃”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]的一聲，吐出了一口酸水，糊了雲千峰一臉。
+§7 [Ø=姜柔甲]“哎呀，用埋汰招？你當勞資不會？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 [Ø=姜柔甲]雲千峰怒了，一邊砸薩弱的頭盔，一邊“呸呸呸”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]。
+§9 [Ø=姜柔甲]薩弱在雲千峰的暴擊下，吐出了反胃的酸水，深吸一口氣，腹部的絞痛才平複下來， [||] 身體恢復了力氣，大喝一聲“起”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]，身後雙翅一震，把騎在自己身上的雲千峰彈起來。
+§10 [Ø=姜柔甲]雲千峰見薩弱要飛起來，哪能讓她拉開距離，當下用手一撐地， [||] 整個人彈起來老高，再次纏抱住薩弱，恢復到最初的戰鬥狀態。
+§11 [Ø=姜柔甲]薩弱憤怒，這個人類的招法太過難纏， [||] 無賴至極，但她不得不承認，這很聰明。
+§12 [Ø=姜柔甲]旁邊七個蜥蜴人在薩弱嘔吐的時候，鼻子動了動，眼中全都露出了不可思議的驚訝。
+§13 隨後則是恐懼。
+§14 [Ø=姜柔甲]那七個蜥蜴人幾乎想都沒想，也不站立了，直接趴在雪地上，向著遠處就跑。
+§15 這一幕把雲千峰看懵了。
+§16 “蜥蜴人為什麽要逃？有危險靠近？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 [Ø=姜柔甲]下意識的四下張望，卻沒發現什麽危險迫近。
+§18 [Ø=姜柔甲]就在雲千峰一走神的光景，薩弱抽出了一隻手，掰開雲千峰的腿， [||] 順勢一腳蹬在了雲千峰的肚子上，直接把雲千峰隕石似的慣到了地上，還手很快的拽走了雲千峰的腰包。
+§19 “嘭！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§20 [Ø=姜柔甲]雲千峰砸在雪地上，雪花四射，直接砸出了一個大坑，把雲千峰埋進了雪裡。
+§21 “呃！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 [Ø=姜柔甲]雲千峰被這一腳踹的反胃，也吐了一口酸水，只是可惜沒有吐在薩弱身上，讓他有些遺憾。
+§23 [Ø=姜柔甲]他爬出雪坑之後，正準備繼續和薩弱玩命，但沒想到卻看到了讓他完全不解，無比震驚的一幕。
+§24 [Ø=姜柔甲]薩弱在疾飛，速度快到視線無法捕捉。
+§25 [Ø=姜柔甲]她俯衝向那些逃跑的蜥蜴人，用雲千峰腰包內的朱砂銀粉蛋砸向那些蜥蜴人。
+§26 [Ø=姜柔甲]甚至更狠，直接把朱砂銀粉蛋塞進蜥蜴人的嘴巴和眼眶。
+§27 [Ø_SHIFT=云千峰]慘叫聲四起，薩弱殺了一個蜥蜴人，立馬就追趕下一個，大有斬盡殺絕的意思。
+§28 [Ø=云千峰]那些蜥蜴人不知為何，絲毫不敢反抗，只會拚命的逃竄。
+§29 雲千峰很想大聲問問：
+§30 “何必自相殘殺啊？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=云千峰]但理智告訴他，現在不是吃瓜的時候，而是絕佳的逃跑時機。
+§32 [Ø=云千峰]就見他快速的跑到履帶車前，鑽進車門，大聲道：
+§33 [Ø=云千峰]“走走走，快走，油門到底，別省油！！！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 “蹭！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 [Ø=云千峰]履帶車在琳達的操作下，箭一樣射出去。
+§36 [Ø=云千峰]然而，剛躥出去十幾米，外面似乎傳來一聲悶雷般的響聲， [||] 大地好像變成了油鍋，顫栗了起來，緊接著車內倆人突然感覺到一陣失重感。
+§37 車窗前的雪地開始快速向上抬起。
+§38 大地會抬起來嘛？
+§39 很顯然不會。
+§40 [Ø=云千峰]那麽，
+§41 只能是倆人在下沉。
+§42 “啊是南極冰隙！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 [Ø=云千峰]“死定了啊，叔叔！抱著我一起死”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 43 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§43. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

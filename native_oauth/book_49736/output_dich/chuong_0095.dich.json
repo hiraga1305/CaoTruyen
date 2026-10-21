@@ -1,0 +1,469 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 95,
+  "title": "Chương 95: Làm ác ắt có báo ứng!",
+  "total_paragraphs": 76,
+  "translated_paragraphs": 76,
+  "source_hash": "532b6d644b49695ade7810d5d7510f8158c2e2b01deed368c989803c686d40c6",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0095p0001",
+      "index": 1,
+      "raw_zh": "第95章 作惡是要還的！（抱歉，昨晚睡著了，一覺十個半小時）",
+      "translated_vi": "Chương 95: Làm ác ắt có báo ứng!"
+    },
+    {
+      "para_id": "c0095p0002",
+      "index": 2,
+      "raw_zh": "看到秦疏影那一刻，雲千峰就感覺熱血往腦袋上衝，血壓頓時升高。",
+      "translated_vi": "Nhìn thấy Tần Sơ Ảnh vào giây phút ấy, Vân Thiên Phong chỉ cảm thấy máu nóng dồn thẳng lên não, huyết áp tức thì tăng vọt."
+    },
+    {
+      "para_id": "c0095p0003",
+      "index": 3,
+      "raw_zh": "因為她的出現，完全打亂了雲千峰的計劃。",
+      "translated_vi": "Bởi vì sự xuất hiện của cô đã hoàn toàn làm đảo lộn mọi kế hoạch của Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0095p0004",
+      "index": 4,
+      "raw_zh": "雲千峰之所以看起來並不著急，是因為他已經決定在今晚那海盜頭子和自己單練的時候，趁機宰了他，拿走那海盜頭子的武器，然後偷一艘快艇逃之夭夭。",
+      "translated_vi": "Vân Thiên Phong sở dĩ thoạt nhìn có vẻ không hề sốt ruột là vì hắn đã sớm quyết định: đợi tối nay khi tên trùm cướp biển muốn \"đơn đả độc đấu\" với hắn, hắn sẽ nhân cơ hội làm thịt gã, cướp lấy vũ khí của tên trùm rồi trộm một chiếc ca-nô cao tốc mà cao chạy xa bay."
+    },
+    {
+      "para_id": "c0095p0005",
+      "index": 5,
+      "raw_zh": "以他現在的能力，只要不是硬頂這些帶著槍支的家夥，逃走的概率是極大的。",
+      "translated_vi": "Với năng lực của hắn lúc này, chỉ cần không phải đối đầu trực diện với đám người lăm lăm súng đạn kia thì xác suất trốn thoát là cực kỳ cao."
+    },
+    {
+      "para_id": "c0095p0006",
+      "index": 6,
+      "raw_zh": "可是秦疏影出現在這裡，那麽他之前擬定的計劃就完全不能用了，因為他做不到看著秦疏影被一群男人欺辱而無動於衷，哪怕他知道這個女人很可能已經不認識自己。",
+      "translated_vi": "Nhưng Tần Sơ Ảnh lại xuất hiện ở nơi này, thế thì kế hoạch đã định sẵn trước đó hoàn toàn không thể dùng được nữa, bởi vì hắn không tài nào trơ mắt nhìn Tần Sơ Ảnh bị một lũ đàn ông làm nhục mà có thể dửng dưng vô cảm, dẫu cho hắn biết rõ người phụ nữ này rất có thể đã chẳng còn nhớ mình là ai."
+    },
+    {
+      "para_id": "c0095p0007",
+      "index": 7,
+      "raw_zh": "雲千峰壓低聲音喊出了秦疏影的名字，這讓正在無聲悲哭的秦疏影不由自主的看向雲千峰。",
+      "translated_vi": "Vân Thiên Phong hạ thấp giọng gọi tên Tần Sơ Ảnh, điều này khiến cho Tần Sơ Ảnh đang nức nở khóc thầm bất giác ngước mắt nhìn về phía hắn."
+    },
+    {
+      "para_id": "c0095p0008",
+      "index": 8,
+      "raw_zh": "那是一張消瘦且胡子拉碴的臉，秦疏影很確定自己不認識，但又覺得很眼熟，那種感覺很奇怪。",
+      "translated_vi": "Đó là một gương mặt gầy guộc hốc hác với bộ râu ria xồm xoàm lởm chởm, Tần Sơ Ảnh dám khẳng định chắc chắn mình không quen biết người này, nhưng lại cảm thấy có nét rất quen mắt, cảm giác ấy vô cùng kỳ lạ."
+    },
+    {
+      "para_id": "c0095p0009",
+      "index": 9,
+      "raw_zh": "“你，你認識我？”",
+      "translated_vi": "\"Anh... anh quen tôi sao?\""
+    },
+    {
+      "para_id": "c0095p0010",
+      "index": 10,
+      "raw_zh": "她壓抑著聲音，始終不讓自己哭出聲來，她是了解男人的，她清楚的知道，哭聲一旦發出來，只會讓那些家夥更加無法忘記那些想法。",
+      "translated_vi": "Cô kìm nén giọng nói, trước sau đều cố không để bản thân bật khóc thành tiếng. Cô rất hiểu đàn ông, cô biết rõ ràng một khi tiếng khóc thút thít vang lên sẽ chỉ càng kích thích đám cầm thú kia không thể nào dập tắt những tà niệm nhơ nhớp trong đầu."
+    },
+    {
+      "para_id": "c0095p0011",
+      "index": 11,
+      "raw_zh": "雲千峰一看，果然如自己猜測，她不認識自己了。",
+      "translated_vi": "Vân Thiên Phong nhìn qua liền nhận ra đúng như dự đoán của mình, cô quả thực đã không còn nhận ra hắn nữa."
+    },
+    {
+      "para_id": "c0095p0012",
+      "index": 12,
+      "raw_zh": "“我認得你，那時候伱是一個醫生，現在呢？”",
+      "translated_vi": "\"Tôi biết cô. Khi đó cô là một bác sĩ, còn bây giờ thì sao?\""
+    },
+    {
+      "para_id": "c0095p0013",
+      "index": 13,
+      "raw_zh": "秦疏影有些錯愕，因為她從來不曾是個醫生。",
+      "translated_vi": "Tần Sơ Ảnh hơi ngỡ ngàng, bởi vì cô chưa từng bao giờ làm bác sĩ cả."
+    },
+    {
+      "para_id": "c0095p0014",
+      "index": 14,
+      "raw_zh": "“我，我是個舞蹈老師，我從不曾是個醫生。”",
+      "translated_vi": "\"Tôi... tôi là một giáo viên dạy múa, tôi chưa từng làm bác sĩ bao giờ.\""
+    },
+    {
+      "para_id": "c0095p0015",
+      "index": 15,
+      "raw_zh": "雲千峰淡淡笑道：",
+      "translated_vi": "Vân Thiên Phong nhàn nhạt cười nói:"
+    },
+    {
+      "para_id": "c0095p0016",
+      "index": 16,
+      "raw_zh": "“可能是在夢裡。”",
+      "translated_vi": "\"Có lẽ là trong giấc mơ chăng.\""
+    },
+    {
+      "para_id": "c0095p0017",
+      "index": 17,
+      "raw_zh": "這如果是在一個咖啡廳，那麽這樣的話會被當成不高明的搭訕，但在這裡，此時，秦疏影聽到這樣的話，卻整個人愣住了。",
+      "translated_vi": "Nếu như câu nói này diễn ra trong một quán cà phê, nó chắc chắn sẽ bị coi là một màn bắt chuyện vụng về thô thiển. Thế nhưng ở nơi này, vào thời khắc này, khi Tần Sơ Ảnh nghe được những lời ấy, cả người cô bỗng sững sờ ngây dại."
+    },
+    {
+      "para_id": "c0095p0018",
+      "index": 18,
+      "raw_zh": "她突然知道自己為什麽看著眼前的男人眼熟了，因為他在自己的夢裡出現過，不止一次。",
+      "translated_vi": "Cô đột nhiên hiểu ra tại sao mình lại thấy người đàn ông trước mắt này quen thuộc đến vậy, bởi vì hắn từng xuất hiện trong những giấc mơ của cô, không chỉ một lần."
+    },
+    {
+      "para_id": "c0095p0019",
+      "index": 19,
+      "raw_zh": "看著目瞪口呆注目自己的秦疏影，雲千峰低聲道：",
+      "translated_vi": "Nhìn Tần Sơ Ảnh đang trố mắt nhìn mình đầy ngỡ ngàng, Vân Thiên Phong hạ giọng bảo:"
+    },
+    {
+      "para_id": "c0095p0020",
+      "index": 20,
+      "raw_zh": "“別擔心，不會有事的，告訴我你怎麽會在這裡？”",
+      "translated_vi": "\"Đừng sợ, sẽ không sao đâu. Hãy nói cho tôi biết, sao cô lại ở nơi này?\""
+    },
+    {
+      "para_id": "c0095p0021",
+      "index": 21,
+      "raw_zh": "秦疏影指著自己身旁一樣在哭的女生道：",
+      "translated_vi": "Tần Sơ Ảnh chỉ tay vào cô bạn bên cạnh cũng đang khóc nấc, nói:"
+    },
+    {
+      "para_id": "c0095p0022",
+      "index": 22,
+      "raw_zh": "“我朋友知道我最近狀態不是很好，就約我一起出去玩，恰好她的朋友的朋友準備利用遊艇環太平洋，我們就都一起來了。”",
+      "translated_vi": "\"Bạn tôi biết thời gian gần đây tâm trạng của tôi không được tốt nên rủ tôi ra ngoài khuây khỏa. Vừa hay bạn của bạn cô ấy chuẩn bị dùng du thuyền đi vòng quanh Thái Bình Dương, thế là chúng tôi cùng đi với nhau.\""
+    },
+    {
+      "para_id": "c0095p0023",
+      "index": 23,
+      "raw_zh": "雲千峰轉頭掃視一圈，裡面四女兩男，除了自己和另外一個男生，全都長得頂尖標志，就是那個男的，打扮一下，你都看不出男女來。",
+      "translated_vi": "Vân Thiên Phong quay đầu nhìn lướt qua một lượt. Bên trong có bốn nữ hai nam, ngoại trừ hắn và một người đàn ông khác ra, tất cả đều sở hữu dung mạo tuấn tú xinh đẹp xuất chúng. Thậm chí gã trai kia nếu trang điểm lên một chút thì chẳng thể phân biệt nổi là nam hay nữ."
+    },
+    {
+      "para_id": "c0095p0024",
+      "index": 24,
+      "raw_zh": "最醜只有我和你這種感覺很不好。",
+      "translated_vi": "Cái cảm giác \"xấu nhất chỉ có tôi với anh\" này quả thực chẳng dễ chịu chút nào."
+    },
+    {
+      "para_id": "c0095p0025",
+      "index": 25,
+      "raw_zh": "雲千峰指著這裡唯二不能稱之為好看的男人道：",
+      "translated_vi": "Vân Thiên Phong chỉ vào người đàn ông duy nhất còn lại không thể khen là ưa nhìn kia, hỏi:"
+    },
+    {
+      "para_id": "c0095p0026",
+      "index": 26,
+      "raw_zh": "“他是遊艇的主人吧？”",
+      "translated_vi": "\"Gã này là chủ nhân chiếc du thuyền đúng không?\""
+    },
+    {
+      "para_id": "c0095p0027",
+      "index": 27,
+      "raw_zh": "秦疏影點頭，道：",
+      "translated_vi": "Tần Sơ Ảnh gật đầu, đáp:"
+    },
+    {
+      "para_id": "c0095p0028",
+      "index": 28,
+      "raw_zh": "“嗯，他的女朋友是我朋友的朋友的朋友！”",
+      "translated_vi": "\"Vâng, bạn gái của anh ta là bạn của bạn của bạn tôi!\""
+    },
+    {
+      "para_id": "c0095p0029",
+      "index": 29,
+      "raw_zh": "這是一個單線傳遞信任的團隊，最不靠譜那種，隻適合特務組織，不適合組團旅遊，容易噶腰子。",
+      "translated_vi": "Đây chính là kiểu đội nhóm truyền giao niềm tin theo một chuỗi đơn tuyến, loại hình kém tin cậy nhất trên đời, chỉ thích hợp cho các tổ chức điệp viên chứ chẳng hề phù hợp để lập hội du lịch, cực kỳ dễ bị lừa bán nội tạng."
+    },
+    {
+      "para_id": "c0095p0030",
+      "index": 30,
+      "raw_zh": "雲千峰看向那個這裡面最醜的男人，也就是遊艇的主人問道：",
+      "translated_vi": "Vân Thiên Phong nhìn về phía gã đàn ông xấu xí nhất trong đám, cũng chính là chủ chiếc du thuyền, cất tiếng hỏi:"
+    },
+    {
+      "para_id": "c0095p0031",
+      "index": 31,
+      "raw_zh": "“你叫什麽名字？”",
+      "translated_vi": "\"Mày tên là gì?\""
+    },
+    {
+      "para_id": "c0095p0032",
+      "index": 32,
+      "raw_zh": "那明雙眼皮沒割好的男人見雲千峰問，忙道：",
+      "translated_vi": "Gã đàn ông có mí mắt hai mí cắt hỏng thấy Vân Thiên Phong hỏi thì vội vàng đáp:"
+    },
+    {
+      "para_id": "c0095p0033",
+      "index": 33,
+      "raw_zh": "“哦，我叫李銀赫，請多關照。”",
+      "translated_vi": "\"Ồ, tôi tên là Lý Ngân Hách, xin được chỉ giáo nhiều hơn.\""
+    },
+    {
+      "para_id": "c0095p0034",
+      "index": 34,
+      "raw_zh": "說著還伸出手，要和雲千峰握手。",
+      "translated_vi": "Nói đoạn, gã còn chìa tay ra định bắt tay với Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0095p0035",
+      "index": 35,
+      "raw_zh": "雲千峰在那因為割了雙眼皮，而顯得眼仁小的眸子裡，沒有看到絲毫的驚慌，這可不像一個被海盜綁架的人該有的樣子。",
+      "translated_vi": "Trong cặp mắt vì phẫu thuật cắt mí hỏng mà con ngươi trông bé tí teo của gã, Vân Thiên Phong không hề nhận thấy dẫu chỉ một tia hoảng loạn. Đây hoàn toàn không phải là dáng vẻ mà một người bị cướp biển bắt cóc nên có."
+    },
+    {
+      "para_id": "c0095p0036",
+      "index": 36,
+      "raw_zh": "看到伸過來的手，雲千峰笑著伸出自己的右手，與李銀赫的右手握在一處，緊接著就聽到一陣骨節脆響和李銀赫的慘叫聲。",
+      "translated_vi": "Nhìn bàn tay chìa ra kia, Vân Thiên Phong mỉm cười đưa tay phải của mình ra bắt lấy tay phải của Lý Ngân Hách. Ngay sau đó, liền nghe thấy một tràng tiếng xương khớp vỡ vụn răng rắc vang lên kèm theo tiếng gào thét thảm thiết của Lý Ngân Hách."
+    },
+    {
+      "para_id": "c0095p0037",
+      "index": 37,
+      "raw_zh": "“哦啊！gei sei gi，你要幹嘛！啊，斷了，斷了！”",
+      "translated_vi": "\"Á á á! Đồ khốn nạn, mày định làm gì hả! A a, gãy rồi, gãy xương rồi!\""
+    },
+    {
+      "para_id": "c0095p0038",
+      "index": 38,
+      "raw_zh": "李銀赫的女朋友急忙撲過來，撕扯雲千峰的胳膊，怒道：",
+      "translated_vi": "Bạn gái của Lý Ngân Hách cuống cuồng lao tới cào cấu cánh tay Vân Thiên Phong, giận dữ quát:"
+    },
+    {
+      "para_id": "c0095p0039",
+      "index": 39,
+      "raw_zh": "“你要幹嘛？你要幹嘛？”",
+      "translated_vi": "\"Anh định làm gì thế? Anh định làm cái gì hả?\""
+    },
+    {
+      "para_id": "c0095p0040",
+      "index": 40,
+      "raw_zh": "雲千峰回手一個反抽，把李銀赫的女朋友抽得捂著臉原地轉了一圈，然後頹然倒在地上。",
+      "translated_vi": "Vân Thiên Phong vung tay trái tát ngược một phát trời giáng, đánh cho bạn gái của Lý Ngân Hách ôm mặt quay mòng mòng một vòng tại chỗ rồi ngã sóng soài xuống sàn."
+    },
+    {
+      "para_id": "c0095p0041",
+      "index": 41,
+      "raw_zh": "另外幾個人恐懼的看著雲千峰，眼中除了恐懼，還有厭惡。",
+      "translated_vi": "Mấy người còn lại hoảng sợ nhìn Vân Thiên Phong, trong ánh mắt ngoài nỗi sợ hãi ra thì còn tràn ngập sự chán ghét."
+    },
+    {
+      "para_id": "c0095p0042",
+      "index": 42,
+      "raw_zh": "都這個時候了，還要窩裡橫，這是很讓人討厭的行為。",
+      "translated_vi": "Đã rơi vào bước đường này rồi mà còn giở thói bắt nạt người nhà, ức hiếp đồng bọn, đây quả là hành vi khiến người ta cực kỳ chướng mắt."
+    },
+    {
+      "para_id": "c0095p0043",
+      "index": 43,
+      "raw_zh": "雲千峰頭也不回，看都沒看倒地的女人，更不理會那些人的眼神，而是眼睛盯著李銀赫，似笑非笑，滿是殘忍。",
+      "translated_vi": "Vân Thiên Phong chẳng thèm ngoảnh đầu lại, không buồn liếc nhìn người phụ nữ vừa ngã gục, càng không bận tâm đến ánh mắt của những kẻ kia, mà hai mắt hắn cứ trừng trừng nhìn thẳng vào Lý Ngân Hách, nụ cười nửa miệng đầy lạnh lùng và tàn nhẫn."
+    },
+    {
+      "para_id": "c0095p0044",
+      "index": 44,
+      "raw_zh": "“大哥，別捏了，斷了，真的斷了，有話好好說。”",
+      "translated_vi": "\"Đại ca, đừng bóp nữa, gãy rồi, gãy thật rồi! Có gì từ từ nói mà đại ca!\""
+    },
+    {
+      "para_id": "c0095p0045",
+      "index": 45,
+      "raw_zh": "雲千峰一笑，抓住李銀赫右手的小拇指，使勁一掰，直接把他的小指掰得向反方向彎折。",
+      "translated_vi": "Vân Thiên Phong khẽ cười, nắm lấy ngón tay út bàn tay phải của Lý Ngân Hách, ra sức bẻ ngoặt một phát, bẻ ngược ngón út của gã sang chiều đối diện."
+    },
+    {
+      "para_id": "c0095p0046",
+      "index": 46,
+      "raw_zh": "“這才是斷了，懂嗎？”",
+      "translated_vi": "\"Như thế này mới gọi là gãy, hiểu chưa?\""
+    },
+    {
+      "para_id": "c0095p0047",
+      "index": 47,
+      "raw_zh": "“混蛋，你到底要幹嘛？發什麽瘋？”",
+      "translated_vi": "\"Khốn kiếp, rốt cuộc mày muốn làm cái gì? Phát điên cái gì thế hả?\""
+    },
+    {
+      "para_id": "c0095p0048",
+      "index": 48,
+      "raw_zh": "雲千峰用手指彈了一下李銀赫被掰斷的小指，道：",
+      "translated_vi": "Vân Thiên Phong dùng ngón tay búng nhẹ vào ngón út đã bị bẻ gãy gập của Lý Ngân Hách, thong thả nói:"
+    },
+    {
+      "para_id": "c0095p0049",
+      "index": 49,
+      "raw_zh": "“不幹什麽，就是折磨你，然後殺了你，因為你這種人死一萬次都不虧。俊男美女湊到一起，你廢了不少力氣吧？給這個膽小狡詐的海盜當下線多久了？”",
+      "translated_vi": "\"Chẳng làm gì cả, chỉ là muốn tra tấn mày, sau đó giết chết mày thôi. Bởi vì loại súc sinh như mày chết một vạn lần cũng không hết tội. Gom góp được ngần này nam thanh nữ tú lại với nhau, mày đã tốn không ít công sức đấy nhỉ? Làm tay sai chỉ điểm cho đám cướp biển nhát gan giảo hoạt này bao lâu rồi?\""
+    },
+    {
+      "para_id": "c0095p0050",
+      "index": 50,
+      "raw_zh": "李銀赫眼中的恐懼彌漫，他看出雲千峰真的是要殺了自己。",
+      "translated_vi": "Nỗi sợ hãi lan tràn khắp đáy mắt Lý Ngân Hách, gã nhận ra người đàn ông này thực sự muốn lấy mạng mình."
+    },
+    {
+      "para_id": "c0095p0051",
+      "index": 51,
+      "raw_zh": "他慌忙用腳踹向那鐵欄杆，嘴裡呼喊著：",
+      "translated_vi": "Gã cuống cuồng giơ chân đạp thình thình vào chấn song sắt, miệng gào thét thất thanh:"
+    },
+    {
+      "para_id": "c0095p0052",
+      "index": 52,
+      "raw_zh": "“快來救我，快來救我！他們知道是我賣了他們！”",
+      "translated_vi": "\"Mau tới cứu tao! Mau tới cứu tao với! Bọn chúng biết tao bán đứng bọn chúng rồi!\""
+    },
+    {
+      "para_id": "c0095p0053",
+      "index": 53,
+      "raw_zh": "這話一出口，牢房內剛還用恐懼和厭惡眼神盯著雲千峰的四女一男立馬露出了驚愕的神情。",
+      "translated_vi": "Lời này vừa thốt ra khỏi miệng, bốn nữ một nam trong buồng giam ban nãy còn nhìn Vân Thiên Phong bằng ánh mắt sợ hãi và căm ghét lập tức lộ rõ vẻ mặt bàng hoàng kinh ngạc."
+    },
+    {
+      "para_id": "c0095p0054",
+      "index": 54,
+      "raw_zh": "緊接著，他們發了瘋似的撲向李銀赫，用指甲撓，用牙齒咬，無所不用其極。",
+      "translated_vi": "Ngay sau đó, bọn họ phát điên lao vào xâu xé Lý Ngân Hách, dùng móng tay cào cấu, dùng răng cắn xé, chẳng từ một thủ đoạn nào."
+    },
+    {
+      "para_id": "c0095p0055",
+      "index": 55,
+      "raw_zh": "李銀赫在死亡的威脅面前，一個衝動喊出了實話，想狡辯都來不及，只能拚命呼喊求救。",
+      "translated_vi": "Lý Ngân Hách trong cơn hoảng loạn khi đối mặt với cái chết cận kề đã lỡ miệng hét toạc ra sự thật, muốn giảo biện cũng không kịp nữa, chỉ còn biết liều mạng la hét cầu cứu."
+    },
+    {
+      "para_id": "c0095p0056",
+      "index": 56,
+      "raw_zh": "他的聲音很大，驚動了艙門外的海盜，那個家夥提著手槍來到下面，看到李銀赫正被幾個人圍攻，滿臉都是血，眼眶都豁開了，頓時嚇了一跳。",
+      "translated_vi": "Tiếng la của gã quá lớn, làm kinh động tới tên cướp biển gác ngoài cửa khoang. Tên đó xách súng ngắn chạy vội xuống dưới, nhìn thấy Lý Ngân Hách đang bị mấy người xúm lại tấn công tơi bời, máu me be bét đầy mặt, khóe mắt toạc cả ra, lập tức giật nảy mình hoảng hốt."
+    },
+    {
+      "para_id": "c0095p0057",
+      "index": 57,
+      "raw_zh": "那海盜抬起槍，先是用泰語，然後是馬來語、日語和韓語，最後是中文喊著：",
+      "translated_vi": "Tên cướp biển giơ súng lên, trước tiên quát bằng tiếng Thái, rồi đến tiếng Mã Lai, tiếng Nhật, tiếng Hàn, cuối cùng dùng tiếng Trung quát lớn:"
+    },
+    {
+      "para_id": "c0095p0058",
+      "index": 58,
+      "raw_zh": "“住手，否則我開槍了！”",
+      "translated_vi": "\"Dừng tay lại, bằng không tao bắn chết!\""
+    },
+    {
+      "para_id": "c0095p0059",
+      "index": 59,
+      "raw_zh": "這話讓裡面的人立馬老實了，面對著槍口，他們沒有勇氣反抗。",
+      "translated_vi": "Tiếng quát khiến đám người bên trong lập tức ngoan ngoãn dừng lại. Đối diện với họng súng lạnh lùng, họ chẳng còn chút dũng khí nào để phản kháng."
+    },
+    {
+      "para_id": "c0095p0060",
+      "index": 60,
+      "raw_zh": "那海盜來到鐵柵欄門前，在兜裡掏出鑰匙，一邊用槍頂著幾個人的方向，一邊打開門，把李銀赫接了出來。",
+      "translated_vi": "Tên cướp biển tiến tới trước cửa chấn song sắt, thò tay vào túi móc chùm chìa khóa ra, một tay chĩa súng về phía đám người trong phòng, tay kia mở khóa cửa rồi lôi Lý Ngân Hách ra ngoài."
+    },
+    {
+      "para_id": "c0095p0061",
+      "index": 61,
+      "raw_zh": "然後反身把門鎖好，這才把槍落下，扶著李銀赫準備離開。",
+      "translated_vi": "Sau đó gã quay người khóa chặt cửa sắt lại, lúc này mới hạ súng xuống, đỡ Lý Ngân Hách toan rời đi."
+    },
+    {
+      "para_id": "c0095p0062",
+      "index": 62,
+      "raw_zh": "也就在這個時候，雲千峰一步跳到柵欄前，身後扼住後背對著自己那海盜的脖子，右手一用力，那海盜連聲音都沒來得及發出來，就碎了喉骨，吐著血沫子，倒在地上。",
+      "translated_vi": "Cũng chính vào khoảnh khắc này, Vân Thiên Phong bước vọt một bước tới trước song sắt, thò hai tay qua khe hở bóp nghẹt lấy cổ tên cướp biển đang quay lưng về phía mình. Bàn tay phải hắn đột ngột phát lực siết mạnh, tên cướp biển thậm chí còn chưa kịp ú ớ lấy nửa lời thì xương thanh quản đã vỡ vụn, sùi bọt máu tươi mà ngã quỵ xuống đất."
+    },
+    {
+      "para_id": "c0095p0063",
+      "index": 63,
+      "raw_zh": "他的脖子一挺一挺的，承受著窒息的痛苦，最後一挺身，橫躺在地上，只有還沒完全死去神經的小腿還在一跳一跳的，好似抽筋。",
+      "translated_vi": "Cổ gã giật giật từng cơn trong nỗi đau đớn nghẹt thở cùng cực, cuối cùng ưỡn người một cái rồi nằm bất động trên sàn, chỉ còn bắp chân với các dây thần kinh chưa chết hẳn vẫn đang co giật từng chập như bị chuột rút."
+    },
+    {
+      "para_id": "c0095p0064",
+      "index": 64,
+      "raw_zh": "李銀赫嚇懵了，連滾帶爬的想要逃走，卻被雲千峰抓住腳踝，輕松的拽了回來，使勁一帶，直接把李銀赫的襠部撞在了鐵欄杆上。",
+      "translated_vi": "Lý Ngân Hách sợ đến hồn bay phách lạc, luống cuống bò lết định bỏ chạy, nhưng lại bị Vân Thiên Phong tóm chặt lấy mắt cá chân, nhẹ nhàng lôi giật ngược trở lại. Hắn dùng sức giật mạnh một cái, khiến hạ bộ của Lý Ngân Hách va đập thẳng vào chấn song sắt thô ráp."
+    },
+    {
+      "para_id": "c0095p0065",
+      "index": 65,
+      "raw_zh": "隻一下，該碎的都碎了，李銀赫發出一聲奇怪的叫聲，直接昏死了過去。",
+      "translated_vi": "Chỉ một cú va đập ấy, thứ gì cần nát đều đã nát bấy. Lý Ngân Hách rên lên một tiếng quái dị rồi ngất lịm đi tại chỗ."
+    },
+    {
+      "para_id": "c0095p0066",
+      "index": 66,
+      "raw_zh": "雲千峰拿過海盜兜裡的鑰匙打開了牢門，走出去開始脫那海盜的衣服。",
+      "translated_vi": "Vân Thiên Phong thò tay lấy chùm chìa khóa trong túi tên cướp biển mở cửa ngục, bước ra ngoài và bắt đầu lột quần áo của tên cướp biển kia."
+    },
+    {
+      "para_id": "c0095p0067",
+      "index": 67,
+      "raw_zh": "這些海盜都是穿著迷彩軍裝，這種衣服結實耐磨，而且舒適。",
+      "translated_vi": "Đám cướp biển này đều mặc trang phục rằn ri quân đội, loại vải này vừa chắc chắn chống mài mòn lại vừa thoải mái vận động."
+    },
+    {
+      "para_id": "c0095p0068",
+      "index": 68,
+      "raw_zh": "雲千峰用最快的速度把自己的外套褲子脫掉，換上了海盜的衣服，帶上海盜的帽子和墨鏡。",
+      "translated_vi": "Vân Thiên Phong lấy tốc độ nhanh nhất cởi phăng áo khoác và quần ngoài của mình ra, thay vào bộ đồ của tên cướp biển, đội mũ và đeo kính râm của gã lên."
+    },
+    {
+      "para_id": "c0095p0069",
+      "index": 69,
+      "raw_zh": "看著手上的手槍和腰帶上掛著的兩顆手雷，雲千峰思索片刻後，先是掐人中把昏死的李銀赫喚醒，然後右手抓住他的下巴緩緩使勁慢扭，左手捂住他的嘴巴不讓他出聲，李銀赫的腦袋“嘎嘣”轉了兩百度.",
+      "translated_vi": "Nhìn khẩu súng ngắn trong tay và hai quả lựu đạn gài bên thắt lưng, Vân Thiên Phong ngẫm nghĩ trong giây lát. Hắn liền bấm mạnh vào huyệt nhân trung để đánh thức Lý Ngân Hách đang hôn mê dậy, sau đó tay phải nắm lấy cằm gã từ từ phát lực vặn xoắn, tay trái bịt chặt miệng không cho gã phát ra tiếng kêu, đầu của Lý Ngân Hách phát ra tiếng \"rắc\" giòn giã rồi quay ngoắt hai trăm độ ra phía sau..."
+    },
+    {
+      "para_id": "c0095p0070",
+      "index": 70,
+      "raw_zh": "雲千峰覺得自己變了。",
+      "translated_vi": "Vân Thiên Phong cảm thấy bản thân mình đã thay đổi."
+    },
+    {
+      "para_id": "c0095p0071",
+      "index": 71,
+      "raw_zh": "把李銀赫的脖子轉了多半圈後，他內心沒有太大的波動。",
+      "translated_vi": "Sau khi vặn ngược cổ của Lý Ngân Hách hơn nửa vòng tròn, trong lòng hắn không hề có chút gợn sóng dao động nào."
+    },
+    {
+      "para_id": "c0095p0072",
+      "index": 72,
+      "raw_zh": "遙想不久前，他刺死蒙繞時嚇得全身發軟，連續幾天噩夢，但是現在，竟是如此淡定，若是說感想，他只是覺得這樣死，太便宜李銀赫這個人渣雜碎了。",
+      "translated_vi": "Nhớ lại cách đây không lâu, khi đâm chết Mông Nhiễu, hắn sợ đến mức bủn rủn cả tay chân, gặp ác mộng suốt mấy ngày liền. Vậy mà giờ đây lại có thể bình thản đến nhường này. Nếu muốn nói về cảm nghĩ, hắn chỉ thấy để cho Lý Ngân Hách chết kiểu này quả là quá hời cho thứ cặn bã súc sinh ấy."
+    },
+    {
+      "para_id": "c0095p0073",
+      "index": 73,
+      "raw_zh": "也正是這種心情下，他才會好似變態般先把李銀赫喊醒，然後再扭瓜蛋，但依舊覺得便宜了他，不解氣！",
+      "translated_vi": "Cũng chính trong tâm trạng ấy, hắn mới hành xử như một kẻ biến thái: đánh thức Lý Ngân Hách tỉnh lại trước rồi mới vặn gãy cổ gã, thế nhưng vẫn cảm thấy quá dễ dàng cho gã, chưa hả được cơn giận trong lòng!"
+    },
+    {
+      "para_id": "c0095p0074",
+      "index": 74,
+      "raw_zh": "雲千峰晃了晃肩膀，讓自己放松下來，轉頭對著身後幾人問道：",
+      "translated_vi": "Vân Thiên Phong khẽ lắc hai bờ vai để thả lỏng cơ thể, rồi quay đầu lại nhìn mấy người phía sau cất tiếng hỏi:"
+    },
+    {
+      "para_id": "c0095p0075",
+      "index": 75,
+      "raw_zh": "“你們誰會叫CHUANG？”",
+      "translated_vi": "\"Trong số các cô, ai biết giả vờ rên rỉ trên giường?\""
+    },
+    {
+      "para_id": "c0095p0076",
+      "index": 76,
+      "raw_zh": "感謝漆鴉、黃昏下的無奈、最愛小皇叔、尾數55365、尾數02989的月票鼓勵，謝謝你們的支持，謝謝！！！",
+      "translated_vi": "Chân thành cảm ơn bạn đọc Thất Nha, Hoàng Hôn Hạ Đích Vô Nại, Tối Ái Tiểu Hoàng Thúc, và các bạn có số đuôi 55365, 02989 đã khích lệ bằng phiếu tháng, cảm ơn sự ủng hộ của mọi người, chân thành cảm ơn!!!"
+    }
+  ]
+}

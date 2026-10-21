@@ -1,0 +1,709 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 110,
+  "title": "Chương 110: Anh có ý gì đây?",
+  "total_paragraphs": 116,
+  "translated_paragraphs": 116,
+  "source_hash": "e0f228d5fad6902339bbf889f4552e9c767adbc0d23f57bfcd714bdfa7b35467",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0110p0001",
+      "index": 1,
+      "raw_zh": "第110章 你這是什麽意思？",
+      "translated_vi": "Chương 110: Anh có ý gì đây?"
+    },
+    {
+      "para_id": "c0110p0002",
+      "index": 2,
+      "raw_zh": "雲千峰來到孫倩身邊，這個女人身上黃泥大部分抖落，露出裡面如雪之肌，見其雙目緊閉，呼吸若有若無，雲千峰用中指彈了彈刀刃，發出幾聲脆鳴，然後看著孫倩淡淡道：",
+      "translated_vi": "Vân Thiên Phong bước tới bên cạnh Tôn Thiến. Lớp bùn vàng trên người người phụ nữ này phần lớn đã bong tróc, để lộ ra làn da trắng ngần như tuyết bên trong. Thấy hai mắt cô vẫn nhắm nghiền, hơi thở như có như không, Vân Thiên Phong dùng ngón tay giữa búng nhẹ vào sống dao phát ra vài tiếng leng keng lảnh lót, rồi nhìn Tôn Thiến thản nhiên cất lời:"
+    },
+    {
+      "para_id": "c0110p0003",
+      "index": 3,
+      "raw_zh": "“人有三魂胎光、爽靈、幽精，孫倩當時在海上又驚又怕，被我救上岸後更是深度昏迷不醒，不知癢痛。",
+      "translated_vi": "“Con người có ba hồn: Thai Quang, Sảng Linh và U Tinh. Tôn Thiến lúc ở ngoài biển vừa kinh vừa sợ, sau khi được tôi cứu lên bờ lại rơi vào trạng thái hôn mê sâu bất tỉnh nhân sự, chẳng biết đau ngứa là gì."
+    },
+    {
+      "para_id": "c0110p0004",
+      "index": 4,
+      "raw_zh": "按照中醫的說法，這是魂丟了，沒有藥物的情況下，我只能死馬當活馬醫，按照古人的祝由術做了引魂的方法，借別的靈動給她吊命，讓她的魂有機會有時間歸位。",
+      "translated_vi": "Theo cách nói của Trung y, đây là hiện tượng mất hồn. Trong tình cảnh không có thuốc men thang dược, tôi đành phải xem ngựa chết làm ngựa sống mà chữa, dựa theo Chúc Do thuật của cổ nhân làm phép dẫn hồn, mượn một linh động khác để níu giữ sinh mạng cho cô ấy, cho hồn phách của cô ấy có cơ hội và thời gian để quay về quy vị."
+    },
+    {
+      "para_id": "c0110p0005",
+      "index": 5,
+      "raw_zh": "我不確定你是不是我用祝由術引來的某種東西，但我確定現在的你不是孫倩，同時我也要告訴你，伱的目標這樣做是實現不了的。”",
+      "translated_vi": "Tôi không chắc liệu anh có phải là thứ gì đó do tôi dùng Chúc Do thuật dẫn tới hay không, nhưng tôi dám chắc anh của hiện tại tuyệt đối không phải là Tôn Thiến. Đồng thời tôi cũng muốn nói cho anh hay, mục đích của anh nếu cứ làm như thế này thì vĩnh viễn chẳng thể thực hiện được đâu.”"
+    },
+    {
+      "para_id": "c0110p0006",
+      "index": 6,
+      "raw_zh": "見孫倩依舊沒有任何反應，雲千峰似乎也不急，繼續侃侃道：",
+      "translated_vi": "Thấy Tôn Thiến vẫn chẳng có chút phản ứng nào, Vân Thiên Phong cũng chẳng hề sốt ruột, ung dung nói tiếp:"
+    },
+    {
+      "para_id": "c0110p0007",
+      "index": 7,
+      "raw_zh": "“怎麽？以為我詐你？那你聽我細說一下，“靈”者祝由也，是巫師以口念動咒語與天地溝通，所以祝由術唯一能引來吊命的東西，只能是替代三魂之一的爽靈。”",
+      "translated_vi": "“Sao nào? Cho là tôi đang gài bẫy anh à? Vậy thì anh nghe tôi phân tích cặn kẽ đây: chữ ‘Linh’ vốn khởi phát từ Chúc Do, là vu sư dùng miệng niệm chú ngữ để câu thông cùng trời đất, cho nên thứ duy nhất mà Chúc Do thuật có thể dẫn tới để níu mạng chỉ có thể là thứ thế chỗ cho Sảng Linh - một trong ba hồn mà thôi."
+    },
+    {
+      "para_id": "c0110p0008",
+      "index": 8,
+      "raw_zh": "“因為我對祝由術也不是很確定，因為那東西不科學，所以我之前不確定你是不是佔了孫倩三魂的爽靈位。”",
+      "translated_vi": "Bởi vì tôi đối với Chúc Do thuật cũng không dám chắc mười mươi, thứ đó vốn chẳng hề theo khoa học, thế nên trước đó tôi không dám khẳng định liệu anh có phải đang chiếm giữ vị trí Sảng Linh trong ba hồn của Tôn Thiến hay không."
+    },
+    {
+      "para_id": "c0110p0009",
+      "index": 9,
+      "raw_zh": "“不過我後來觀察分析了一下，你這東西陰冷的很，絕不可能佔胎光這純陽之位，你看到千千和張敏被撕掉草裙馬甲的身體眼神也沒有波動，證明你的X取向依舊是女人，這證明你不是佔了幽精之位，那麽就只能是爽靈位了。”",
+      "translated_vi": "Nhưng về sau tôi quan sát và phân tích lại, thứ như anh âm lãnh vô cùng, tuyệt đối không thể chiếm vị trí Thai Quang vốn thuộc thuần dương. Khi nhìn thấy thân thể của Thiên Thiên và Trương Mẫn bị xé rách váy cỏ và áo gi-lê, ánh mắt của anh cũng chẳng hề gợn sóng, chứng tỏ xu hướng tính dục của anh vẫn là phụ nữ, điều này chứng minh anh không chiếm vị trí U Tinh, vậy thì chỉ có thể là vị trí Sảng Linh mà thôi."
+    },
+    {
+      "para_id": "c0110p0010",
+      "index": 10,
+      "raw_zh": "“爽靈在人體能乾嗎？尤其是你這後來的爽靈能乾嗎？我告訴你，在救回孫倩之後，我第一時間用黃泥堵住了她的谷道地門，不讓陰魄離散，所以當孫倩醒來後，依舊還是孫倩的記憶，你能給她什麽？不過是一些天賦罷了。”",
+      "translated_vi": "Sảng Linh trong cơ thể con người có thể làm được gì? Đặc biệt là kẻ đến sau như anh thì làm được trò trống gì chứ? Tôi nói cho anh hay, sau khi cứu Tôn Thiến về, ngay từ đầu tôi đã dùng bùn vàng bịt kín Cốc Đạo Địa Môn của cô ấy, không để âm phách ly tán. Bởi vậy một khi Tôn Thiến thực sự tỉnh lại thì vẫn giữ nguyên ký ức của chính cô ấy, anh có thể cho cô ấy được gì nào? Chẳng qua chỉ là vài phần thiên phú mà thôi."
+    },
+    {
+      "para_id": "c0110p0011",
+      "index": 11,
+      "raw_zh": "“像你這種東西，在我們華夏命理裡面叫後天童子，不過是一個活人身上背著一個不是自己魂魄的東西而已。”",
+      "translated_vi": "Thứ như anh, trong mệnh lý học Hoa Hạ của chúng tôi gọi là Hậu Thiên Đồng Tử, bất quá chỉ là một người sống cõng trên mình một thứ hồn phách không thuộc về bản thân mà thôi."
+    },
+    {
+      "para_id": "c0110p0012",
+      "index": 12,
+      "raw_zh": "“所以，孫倩醒來，你什麽也主導不了，你的目的無法達成。孫倩死了，你更是白費心機，依舊無法達成目標。”",
+      "translated_vi": "Cho nên hễ Tôn Thiến tỉnh lại, anh chẳng thể chi phối được bất cứ điều gì, mục đích của anh sẽ không thành. Còn nếu Tôn Thiến chết đi, anh lại càng uổng công phí sức, vẫn chẳng đạt được mục đích."
+    },
+    {
+      "para_id": "c0110p0013",
+      "index": 13,
+      "raw_zh": "“你也別想用孫倩的命來威脅我，那辦不到，我隨時可以一刀把你和她一起剁了，所以你的目標最終只能求助於我，記得是求，還有別裝作聽不懂，你現在用的是孫倩的腦子，船長先生！”",
+      "translated_vi": "Anh cũng đừng mong lấy mạng của Tôn Thiến ra để uy hiếp tôi, vô ích thôi. Tôi bất cứ lúc nào cũng có thể vung một dao chém đứt đầu cả anh lẫn cô ta. Vì vậy mục tiêu của anh cuối cùng chỉ có thể cầu cứu tôi. Nhớ kỹ cho tôi, là cầu xin đấy! Và đừng giả vờ như không hiểu, anh hiện tại đang mượn bộ não của Tôn Thiến đấy, thưa ngài Thuyền trưởng!”"
+    },
+    {
+      "para_id": "c0110p0014",
+      "index": 14,
+      "raw_zh": "原本看似昏迷沉睡的孫倩一下睜開了眼睛，盯著雲千峰，良久用完全不屬於孫倩的聲音沙啞問道：",
+      "translated_vi": "Tôn Thiến vốn dường như đang hôn mê say ngủ bỗng chốc mở to hai mắt, nhìn trừng trừng vào Vân Thiên Phong, hồi lâu sau mới dùng một giọng nói khàn khàn hoàn toàn không thuộc về Tôn Thiến hỏi:"
+    },
+    {
+      "para_id": "c0110p0015",
+      "index": 15,
+      "raw_zh": "“你怎麽知道？”",
+      "translated_vi": "“Làm sao cậu biết?”"
+    },
+    {
+      "para_id": "c0110p0016",
+      "index": 16,
+      "raw_zh": "雲千峰冷笑道：",
+      "translated_vi": "Vân Thiên Phong cười lạnh đáp:"
+    },
+    {
+      "para_id": "c0110p0017",
+      "index": 17,
+      "raw_zh": "“那些被異化的船員很想要女人，但很明顯這裡最容易下手的就是你，也就是孫倩，可是從始至終沒有一個異化的船員來招惹孫倩，這不是很奇怪嗎？那麽只有一個可能，你是他們的同類，而且級別高於他們，以至於他們不敢對你有絲毫逾越，所以船長先生，求我吧。”",
+      "translated_vi": "“Đám thủy thủ bị dị hóa kia rất thèm muốn đàn bà, nhưng rõ ràng ở đây người dễ ra tay nhất chính là anh, tức là Tôn Thiến này. Thế nhưng từ đầu đến cuối không có bất kỳ một tên thủy thủ dị hóa nào dám bén mảng tới trêu chọc Tôn Thiến, điều này chẳng phải quá kỳ quặc hay sao? Vậy thì chỉ có một khả năng duy nhất: anh là đồng loại của bọn chúng, hơn nữa cấp bậc lại cao hơn chúng, khiến chúng không dám có nửa phần vượt quyền mạo phạm. Thế nên, thưa ngài Thuyền trưởng, cầu xin tôi đi.”"
+    },
+    {
+      "para_id": "c0110p0018",
+      "index": 18,
+      "raw_zh": "孫倩咧嘴一笑，真真的皮笑肉不笑，然後冷冷道：",
+      "translated_vi": "Tôn Thiến nhếch mép cười, đúng nghĩa cười ngoài da mặt mà lòng không cười, đoạn lạnh lùng nói:"
+    },
+    {
+      "para_id": "c0110p0019",
+      "index": 19,
+      "raw_zh": "“求你？你們都是我的，我想怎樣就怎樣，我們有一百人，只要有一個還活著，就能繼續為這裡發光，我們是經歷了異空間而形成的最偉大的生命！”",
+      "translated_vi": "“Cầu xin cậu? Tất cả các người đều là của tôi, tôi muốn làm gì thì làm! Chúng tôi có một trăm người, chỉ cần một người còn sống là có thể tiếp tục phát huy sức mạnh ở nơi này. Chúng tôi là những sinh mệnh vĩ đại nhất được tạo nên sau khi trải qua không gian dị giới!”"
+    },
+    {
+      "para_id": "c0110p0020",
+      "index": 20,
+      "raw_zh": "孫倩說著這話時，雲千峰就感覺燈泡越來越亮，很快被他重新用桌子頂上的門傳來了猛烈的撞擊聲。",
+      "translated_vi": "Khi Tôn Thiến thốt ra những lời này, Vân Thiên Phong liền cảm thấy bóng đèn điện ngày càng sáng rực lên, và rất nhanh sau đó cánh cửa vừa được anh dùng bàn chặn lại truyền đến những tiếng va đập dữ dội."
+    },
+    {
+      "para_id": "c0110p0021",
+      "index": 21,
+      "raw_zh": "與此同時，牆壁上無數玄色的影子好像一條條蜈蚣，密密麻麻的出現在地板，牆壁和棚頂，向著雲千峰和三女圍了過來。",
+      "translated_vi": "Cùng lúc đó, trên vách tường vô số chiếc bóng màu đen huyền tựa như từng đàn rết bò lúc nhúc, dày đặc xuất hiện trên mặt sàn, vách tường và trần nhà, ùn ùn bao vây về phía Vân Thiên Phong và ba cô gái."
+    },
+    {
+      "para_id": "c0110p0022",
+      "index": 22,
+      "raw_zh": "三女嚇得瑟瑟發抖，聚在雲千峰身旁，恐懼的嘴唇抖動，卻說不出話來。",
+      "translated_vi": "Ba cô gái sợ hãi run rẩy bần bật, nép chặt bên cạnh Vân Thiên Phong, đôi môi sợ đến mức mấp máy run rẩy mà chẳng thốt nên lời."
+    },
+    {
+      "para_id": "c0110p0023",
+      "index": 23,
+      "raw_zh": "雲千峰臉上卻絲毫沒有被圍困的覺悟，平靜的很。",
+      "translated_vi": "Thế nhưng trên gương mặt Vân Thiên Phong lại chẳng hề có vẻ gì là đang bị vây khốn, bình thản đến lạ thường."
+    },
+    {
+      "para_id": "c0110p0024",
+      "index": 24,
+      "raw_zh": "他看著孫倩，沉聲道：",
+      "translated_vi": "Anh nhìn Tôn Thiến, trầm giọng nói:"
+    },
+    {
+      "para_id": "c0110p0025",
+      "index": 25,
+      "raw_zh": "“你能控制得住她們幾個女人，但卻控制不住我，這你很清楚，所以一開始你就準備利用這些人車輪戰騷擾，直到我徹底失去抵抗能力，因為你害怕我，因為你們有致命的弱點，那就是這艘艦船，沒有它，你們就是沒有了身體的孤魂野鬼，頃刻死。”",
+      "translated_vi": "“Anh có thể khống chế được mấy người phụ nữ này, nhưng lại chẳng thể khống chế được tôi, điều này anh tự hiểu rõ nhất. Bởi vậy ngay từ đầu anh đã định dùng chiến thuật luân phiên quấy nhiễu cho tới khi tôi hoàn toàn cạn kiệt sức kháng cự, bởi vì anh sợ tôi! Bởi vì các người có một nhược điểm chí mạng, đó chính là con tàu chiến này. Không có nó, các người chỉ là lũ cô hồn dã quỷ mất đi thân xác, chết ngay tức khắc.”"
+    },
+    {
+      "para_id": "c0110p0026",
+      "index": 26,
+      "raw_zh": "門已經被撞得裂開，馬上就要失守。",
+      "translated_vi": "Cánh cửa đã bị va đập nứt toác, sắp sửa thất thủ đến nơi."
+    },
+    {
+      "para_id": "c0110p0027",
+      "index": 27,
+      "raw_zh": "三女的腳下已經擠滿了玄色的影子，它們黏住了三女的腳掌，讓她們無法行走，張敏甚至驚得摔倒，身上的草馬甲已經被奇跡般的撕掉。",
+      "translated_vi": "Dưới chân ba cô gái đã chen chúc dày đặc những chiếc bóng màu đen huyền, chúng bám dính chặt lấy bàn chân họ khiến họ không thể cất bước. Trương Mẫn thậm chí kinh hãi ngã nhào, chiếc áo gi-lê cỏ trên người đã bị xé toạc một cách quái gở."
+    },
+    {
+      "para_id": "c0110p0028",
+      "index": 28,
+      "raw_zh": "秦疏影和千千彼此攙扶著沒倒，這讓秦疏影保住了身上的衣服。",
+      "translated_vi": "Tần Sơ Ảnh và Thiên Thiên dìu đỡ lấy nhau nên không bị ngã, nhờ vậy Tần Sơ Ảnh vẫn giữ được nguyên vẹn quần áo trên người."
+    },
+    {
+      "para_id": "c0110p0029",
+      "index": 29,
+      "raw_zh": "三女的驚叫聲響起，孫倩笑得很陰冷，道：",
+      "translated_vi": "Tiếng la hét kinh hoàng của ba cô gái vang lên, Tôn Thiến cười hết sức âm hiểm, nói:"
+    },
+    {
+      "para_id": "c0110p0030",
+      "index": 30,
+      "raw_zh": "“你怎麽毀掉這艘艦船？哈哈哈！”",
+      "translated_vi": "“Cậu làm cách nào để hủy diệt con tàu này chứ? Ha ha ha!”"
+    },
+    {
+      "para_id": "c0110p0031",
+      "index": 31,
+      "raw_zh": "那笑著的表情很討厭，似乎再說“殺我啊？有能耐你殺我啊！”，似乎篤定雲千峰不會對孫倩下殺手。",
+      "translated_vi": "Nét mặt cười cợt kia vô cùng đáng ghét, tựa như đang muốn nói: “Giết tao đi? Có giỏi thì mày giết tao đi!”, dường như đinh ninh rằng Vân Thiên Phong sẽ không dám ra tay sát hại Tôn Thiến."
+    },
+    {
+      "para_id": "c0110p0032",
+      "index": 32,
+      "raw_zh": "雲千峰淡淡一笑，絲毫不理會三女的驚叫聲，也不理會孫倩的挑釁，而是用最大的聲音說道：",
+      "translated_vi": "Vân Thiên Phong mỉm cười thản nhiên, chẳng mảy may bận tâm tới tiếng thét của ba cô gái, cũng chẳng để ý đến sự khiêu khích của Tôn Thiến, mà cất giọng vang dội nhất dõng dạc nói:"
+    },
+    {
+      "para_id": "c0110p0033",
+      "index": 33,
+      "raw_zh": "“底艙裡有炸藥，有易燃物，我只要去到下面一把火，你們什麽都沒了，所以馬上住手，我數一個數，1”",
+      "translated_vi": "“Dưới khoang đáy có thuốc nổ, có vật liệu dễ cháy. Tôi chỉ cần xuống dưới đó châm một mồi lửa, tất cả các người sẽ tan thành mây khói! Thế nên lập tức dừng tay lại cho tôi. Tôi đếm đúng một tiếng: Một...”"
+    },
+    {
+      "para_id": "c0110p0034",
+      "index": 34,
+      "raw_zh": "一字剛起音，孫倩驚叫一聲，那些影子全都後退到邊上，撞門的聲音也停了下來。",
+      "translated_vi": "Chữ “Một” vừa mới thốt ra, Tôn Thiến liền hét toáng lên kinh hãi, tất cả những chiếc bóng kia lập tức lùi dạt sang hai bên mép tường, tiếng va đập cửa cũng im bặt."
+    },
+    {
+      "para_id": "c0110p0035",
+      "index": 35,
+      "raw_zh": "張敏脫離了地板的控制，急忙撲倒雲千峰腳下，嚇得嗚嗚嗚哭起來。",
+      "translated_vi": "Trương Mẫn thoát khỏi sự kìm kẹp của sàn nhà, vội vã nhào tới dưới chân Vân Thiên Phong, sợ đến phát khóc thút thít."
+    },
+    {
+      "para_id": "c0110p0036",
+      "index": 36,
+      "raw_zh": "雲千峰低頭問道：",
+      "translated_vi": "Vân Thiên Phong cúi đầu hỏi:"
+    },
+    {
+      "para_id": "c0110p0037",
+      "index": 37,
+      "raw_zh": "“張敏，沒事吧？”",
+      "translated_vi": "“Trương Mẫn, cô không sao chứ?”"
+    },
+    {
+      "para_id": "c0110p0038",
+      "index": 38,
+      "raw_zh": "張敏點了點頭，道：",
+      "translated_vi": "Trương Mẫn gật đầu đáp:"
+    },
+    {
+      "para_id": "c0110p0039",
+      "index": 39,
+      "raw_zh": "“就是好像被摸了！嗚嗚嗚！”",
+      "translated_vi": "“Chỉ là... hình như bị sờ soạng khắp người rồi! Hu hu hu!”"
+    },
+    {
+      "para_id": "c0110p0040",
+      "index": 40,
+      "raw_zh": "孫倩看著雲千峰的表情判斷著，她在估算眼前這個對手是不是真的有玉石俱焚的決心。",
+      "translated_vi": "Tôn Thiến nhìn nét mặt của Vân Thiên Phong để dò xét, đối phương đang tính toán xem liệu đối thủ trước mắt có thực sự mang quyết tâm cá chết lưới rách hay không."
+    },
+    {
+      "para_id": "c0110p0041",
+      "index": 41,
+      "raw_zh": "最後她發現，自己根本不敢賭。",
+      "translated_vi": "Cuối cùng kẻ ngự trong thân xác cô nhận ra, bản thân căn bản không dám đánh cược."
+    },
+    {
+      "para_id": "c0110p0042",
+      "index": 42,
+      "raw_zh": "困在這裡八十年，它們不想永遠困在這裡，想死都不行。",
+      "translated_vi": "Bị giam cầm ở nơi này suốt tám mươi năm ròng, bọn chúng chẳng hề muốn vĩnh viễn bị giam hãm ở đây, muốn chết cũng không chết được."
+    },
+    {
+      "para_id": "c0110p0043",
+      "index": 43,
+      "raw_zh": "最後，她終於在雲千峰狠辣的目光下敗下陣來，低頭以卑微的語氣道：",
+      "translated_vi": "Rốt cuộc kẻ đó đành phải chịu thua trước ánh mắt tàn độc sắc lạnh của Vân Thiên Phong, cúi đầu cất giọng hạ mình khúm núm:"
+    },
+    {
+      "para_id": "c0110p0044",
+      "index": 44,
+      "raw_zh": "“你說得對，我們只是想在你們失魂的狀態下控制你們，但那不是目的，我們只是想離開這裡，回到自由自在的大海上，您能幫我們實現嗎？雲先生！”",
+      "translated_vi": "“Cậu nói đúng, chúng tôi chỉ muốn khống chế các người trong trạng thái mất hồn, nhưng đó không phải là mục đích cuối cùng. Chúng tôi chỉ muốn rời khỏi nơi này, quay trở về với biển cả bao la tự do tự tại. Cậu có thể giúp chúng tôi thực hiện điều đó được không, ngài Vân?”"
+    },
+    {
+      "para_id": "c0110p0045",
+      "index": 45,
+      "raw_zh": "這麽大一艘艦船，距離大海七八公裡，還到處都是山包和巨大的樹木，在雲千峰看來，這是肯定辦不到的。",
+      "translated_vi": "Một con tàu chiến to lớn dường nào, cách bờ biển những bảy tám cây số, lại thêm khắp nơi đều là đồi dốc và những cây đại thụ ngút ngàn, theo Vân Thiên Phong thấy thì điều này chắc chắn là bất khả thi."
+    },
+    {
+      "para_id": "c0110p0046",
+      "index": 46,
+      "raw_zh": "於是說道：",
+      "translated_vi": "Thế là anh dõng dạc nói:"
+    },
+    {
+      "para_id": "c0110p0047",
+      "index": 47,
+      "raw_zh": "“沒問題！”",
+      "translated_vi": "“Không vấn đề gì!”"
+    },
+    {
+      "para_id": "c0110p0048",
+      "index": 48,
+      "raw_zh": "孫倩眼睛一亮，帶著激動和迫切，道：",
+      "translated_vi": "Đôi mắt Tôn Thiến sáng bừng lên, ngập tràn vẻ kích động và khẩn thiết:"
+    },
+    {
+      "para_id": "c0110p0049",
+      "index": 49,
+      "raw_zh": "“真的可以嗎？借你的榮光，我八十年來第一次看到了大海，它距離我們太遠了，真的可以嗎？”",
+      "translated_vi": "“Thật sự có thể sao? Nhờ ơn cậu, suốt tám mươi năm qua lần đầu tiên tôi nhìn thấy biển cả, nó cách chúng tôi quá xa xôi, thật sự có thể đưa chúng tôi trở về sao?”"
+    },
+    {
+      "para_id": "c0110p0050",
+      "index": 50,
+      "raw_zh": "雲千峰笑道：",
+      "translated_vi": "Vân Thiên Phong mỉm cười đáp:"
+    },
+    {
+      "para_id": "c0110p0051",
+      "index": 51,
+      "raw_zh": "“小事一樁，不過是花點錢的事情而已，恰好我不缺錢，你就說你想艦船飄出去還是想用大型運輸機吊著飛出去？”",
+      "translated_vi": "“Chuyện nhỏ như con thỏ, bất quá chỉ là vấn đề tiền bạc mà thôi, mà vừa khéo tôi lại chẳng thiếu tiền. Anh cứ nói đi, anh muốn con tàu chiến này trôi nổi ra ngoài, hay muốn dùng máy bay vận tải hạng nặng cẩu bay thẳng ra biển?”"
+    },
+    {
+      "para_id": "c0110p0052",
+      "index": 52,
+      "raw_zh": "孫倩立馬道：",
+      "translated_vi": "Tôn Thiến lập tức đáp:"
+    },
+    {
+      "para_id": "c0110p0053",
+      "index": 53,
+      "raw_zh": "“都行！”",
+      "translated_vi": "“Cách nào cũng được!”"
+    },
+    {
+      "para_id": "c0110p0054",
+      "index": 54,
+      "raw_zh": "雲千峰搓了搓手指，問道：",
+      "translated_vi": "Vân Thiên Phong xoa xoa ngón tay, hỏi:"
+    },
+    {
+      "para_id": "c0110p0055",
+      "index": 55,
+      "raw_zh": "“我有什麽好處？憑什麽幫你？”",
+      "translated_vi": "“Vậy tôi được lợi ích gì? Lấy lý do gì để tôi giúp anh?”"
+    },
+    {
+      "para_id": "c0110p0056",
+      "index": 56,
+      "raw_zh": "話都說到這份上了，孫倩身上這位船長哪敢說“不幫我就弄死你”這話，因為他覺得雲千峰真的有能力把這裡炸了。",
+      "translated_vi": "Lời lẽ đã nói đến nước này, vị thuyền trưởng ngự trên thân xác Tôn Thiến nào dám thốt ra câu “không giúp tao thì tao giết mày”, bởi vì gã cảm thấy Vân Thiên Phong thực sự có khả năng cho nổ tung nơi này."
+    },
+    {
+      "para_id": "c0110p0057",
+      "index": 57,
+      "raw_zh": "於是用卑微的語氣繼續道：",
+      "translated_vi": "Thế là gã dùng ngữ khí khúm núm tiếp tục nói:"
+    },
+    {
+      "para_id": "c0110p0058",
+      "index": 58,
+      "raw_zh": "“您可以說條件，只要讓我們活著回到大海上。”",
+      "translated_vi": "“Ngài có thể đưa ra điều kiện, chỉ cần để chúng tôi được sống sót quay trở lại biển khơi.”"
+    },
+    {
+      "para_id": "c0110p0059",
+      "index": 59,
+      "raw_zh": "雲千峰看著孫倩，伸出右手，以不能談判的語氣說道：",
+      "translated_vi": "Vân Thiên Phong nhìn Tôn Thiến, chìa bàn tay phải ra, nói bằng giọng điệu không thể chối từ:"
+    },
+    {
+      "para_id": "c0110p0060",
+      "index": 60,
+      "raw_zh": "“要我把這艦船弄出去，除非我是這裡的船長，把船長戒指給我！這是我的財產，我才值得那麽做！”",
+      "translated_vi": "“Muốn tôi mang con tàu chiến này ra ngoài thì trừ phi tôi là thuyền trưởng ở đây. Đưa chiếc nhẫn thuyền trưởng cho tôi! Đây phải là tài sản của tôi thì tôi mới bõ công làm việc đó!”"
+    },
+    {
+      "para_id": "c0110p0061",
+      "index": 61,
+      "raw_zh": "孫倩眼神中嘲諷之色一閃而過，心裡想著：",
+      "translated_vi": "Trong ánh mắt Tôn Thiến thoáng qua một tia giễu cợt, trong bụng thầm nghĩ:"
+    },
+    {
+      "para_id": "c0110p0062",
+      "index": 62,
+      "raw_zh": "“不怕你貪婪，就怕你不貪！這樣最好！”",
+      "translated_vi": "“Chẳng sợ cậu tham lam, chỉ sợ cậu không tham mà thôi! Như thế này là tốt nhất!”"
+    },
+    {
+      "para_id": "c0110p0063",
+      "index": 63,
+      "raw_zh": "心裡這樣想，但是臉上卻故意露出滿是猶豫的神色，還假裝幾次張嘴想要說什麽，但卻似乎害怕沒敢說，最後用卑微的語氣說道：",
+      "translated_vi": "Trong lòng nghĩ vậy, song ngoài mặt gã lại cố tình để lộ vẻ do dự khó xử, còn giả vờ mấy lần hé môi định nói gì đó nhưng dường như sợ hãi nên không dám nói, cuối cùng dùng giọng hạ mình khúm núm cất lời:"
+    },
+    {
+      "para_id": "c0110p0064",
+      "index": 64,
+      "raw_zh": "“是，船長大人，戒指在壁板的那個位置深處。”",
+      "translated_vi": "“Vâng, thưa ngài Thuyền trưởng, chiếc nhẫn nằm sâu ở vị trí kia bên trong tấm vách ạ.”"
+    },
+    {
+      "para_id": "c0110p0065",
+      "index": 65,
+      "raw_zh": "雲千峰按照孫倩指點的位置，用軍刀挖了進去，很快找到了銀白色的金屬指環，質地很堅硬，不知道是什麽金屬。",
+      "translated_vi": "Vân Thiên Phong theo vị trí Tôn Thiến chỉ điểm, dùng quân đao khoét sâu vào bên trong, rất nhanh sau đó đã tìm thấy một chiếc nhẫn kim loại màu trắng bạc, chất liệu vô cùng cứng chắc, không rõ là loại kim loại gì."
+    },
+    {
+      "para_id": "c0110p0066",
+      "index": 66,
+      "raw_zh": "帶上船長戒指，雲千峰看著孫倩，道：",
+      "translated_vi": "Đeo chiếc nhẫn thuyền trưởng vào tay, Vân Thiên Phong nhìn Tôn Thiến rồi bảo:"
+    },
+    {
+      "para_id": "c0110p0067",
+      "index": 67,
+      "raw_zh": "“以後你就是我的副船長，替我管理好我的財產。”",
+      "translated_vi": "“Từ nay về sau anh là phó thuyền trưởng của tôi, thay tôi quản lý cho tốt tài sản của tôi.”"
+    },
+    {
+      "para_id": "c0110p0068",
+      "index": 68,
+      "raw_zh": "“是，船長大人。”",
+      "translated_vi": "“Rõ, thưa ngài Thuyền trưởng.”"
+    },
+    {
+      "para_id": "c0110p0069",
+      "index": 69,
+      "raw_zh": "說完，孫倩還對著著地上和牆上那些影子，大聲道：",
+      "translated_vi": "Dứt lời, Tôn Thiến còn hướng về phía những chiếc bóng trên sàn và trên vách tường quát lớn:"
+    },
+    {
+      "para_id": "c0110p0070",
+      "index": 70,
+      "raw_zh": "“你們怎麽不敬禮？”",
+      "translated_vi": "“Sao các người không chào ngài Thuyền trưởng hả?!”"
+    },
+    {
+      "para_id": "c0110p0071",
+      "index": 71,
+      "raw_zh": "那些影子急忙擺出了敬禮的姿勢。",
+      "translated_vi": "Những chiếc bóng kia lập tức đứng nghiêm giơ tay làm tư thế chào theo nghi thức quân đội."
+    },
+    {
+      "para_id": "c0110p0072",
+      "index": 72,
+      "raw_zh": "雲千峰這才滿意的點了點頭，下令道：",
+      "translated_vi": "Bấy giờ Vân Thiên Phong mới gật đầu hài lòng, hạ lệnh:"
+    },
+    {
+      "para_id": "c0110p0073",
+      "index": 73,
+      "raw_zh": "“把所有藥物和還能吃的食物帶到這裡，對了還有香煙、衣服、鞋子和武器。”",
+      "translated_vi": "“Mang tất cả thuốc men và lương thực còn có thể ăn được tới đây. Đúng rồi, mang cả thuốc lá, quần áo, giày dép và vũ khí nữa.”"
+    },
+    {
+      "para_id": "c0110p0074",
+      "index": 74,
+      "raw_zh": "那些影子和門外看不到的家夥立馬行動起來，很快一些物資就粘著牆壁或者飄著放到了這間屋子的地板上，為了能回到大海上，他們很積極。",
+      "translated_vi": "Đám bóng ma cùng những kẻ vô hình ngoài cửa lập tức hành động ngay. Rất nhanh sau đó, một số nhu yếu phẩm bám dính dọc theo tường vách hoặc bay lơ lửng được đặt xuống sàn căn phòng này. Để được trở về với biển cả, bọn chúng tỏ ra vô cùng tích cực."
+    },
+    {
+      "para_id": "c0110p0075",
+      "index": 75,
+      "raw_zh": "藥物真心不少，尤其是有最緊要的消炎藥和鎮痛藥。",
+      "translated_vi": "Thuốc men quả thực không hề ít, đặc biệt là có những loại thiết yếu nhất như thuốc kháng viêm và thuốc giảm đau."
+    },
+    {
+      "para_id": "c0110p0076",
+      "index": 76,
+      "raw_zh": "食物一言難盡，除了酒還能喝，就剩下鹽和糖沒徹底變質。",
+      "translated_vi": "Lương thực thì đúng là ba chấm khó nói, ngoại trừ rượu còn uống được thì chỉ còn muối và đường là chưa bị biến chất hoàn toàn."
+    },
+    {
+      "para_id": "c0110p0077",
+      "index": 77,
+      "raw_zh": "衣服鞋子都氧化的一碰就碎，還不如草裙結實，直接沒法穿。",
+      "translated_vi": "Quần áo và giày dép đều đã bị oxy hóa đến mức hễ chạm vào là mủn nát, thậm chí còn chẳng chắc chắn bằng váy cỏ, hoàn toàn không thể mặc nổi."
+    },
+    {
+      "para_id": "c0110p0078",
+      "index": 78,
+      "raw_zh": "雲千峰嫌棄的直撇嘴。",
+      "translated_vi": "Vân Thiên Phong bĩu môi chê bai ra mặt."
+    },
+    {
+      "para_id": "c0110p0079",
+      "index": 79,
+      "raw_zh": "武器也是沒了，槍械和刀具都腐蝕嚴重無法使用，品質遠達不到這把海軍刀的質量，不過細想也是，如果這些武器都完好，他們就不用車輪戰消耗雲千峰了。",
+      "translated_vi": "Vũ khí cũng chẳng còn gì ra hồn, súng ống và dao găm đều bị rỉ sét ăn mòn nghiêm trọng đến mức không dùng được, chất lượng kém xa thanh dao hải quân này. Nhưng ngẫm kỹ lại cũng đúng, nếu số vũ khí này còn nguyên vẹn thì bọn chúng đã chẳng cần phải dùng chiến thuật luân phiên đánh mòn sức Vân Thiên Phong làm gì."
+    },
+    {
+      "para_id": "c0110p0080",
+      "index": 80,
+      "raw_zh": "雖然他們本質上是要控制雲千峰幾個人而不是殺死，但是用槍控制豈不是更容易。",
+      "translated_vi": "Mặc dù về bản chất mục đích của chúng là khống chế nhóm người Vân Thiên Phong chứ không phải giết chết, nhưng nếu dùng súng để khống chế chẳng phải dễ dàng hơn nhiều sao."
+    },
+    {
+      "para_id": "c0110p0081",
+      "index": 81,
+      "raw_zh": "還好香煙不少，讓雲千峰些許安慰。",
+      "translated_vi": "May sao thuốc lá còn khá nhiều, đem lại cho Vân Thiên Phong đôi chút an ủi."
+    },
+    {
+      "para_id": "c0110p0082",
+      "index": 82,
+      "raw_zh": "幫孫倩上好藥，又給她服用了消炎藥，雲千峰對著她說道：",
+      "translated_vi": "Băng bó bôi thuốc cẩn thận cho Tôn Thiến, lại cho cô uống thuốc kháng viêm xong, Vân Thiên Phong quay sang bảo cô:"
+    },
+    {
+      "para_id": "c0110p0083",
+      "index": 83,
+      "raw_zh": "“事情宜早不宜遲，咱們立即開始行動，有了這艘艦船，我不需要海島內的東西了，但是你必須跟著我，我可不放心把女人放在船上，那群桀驁不馴的船員，哼！”",
+      "translated_vi": "“Việc này nên sớm không nên muộn, chúng ta lập tức hành động ngay. Đã có con tàu chiến này rồi thì tôi chẳng cần mấy thứ trên đảo nữa, nhưng anh phải đi theo tôi. Tôi không đời nào yên tâm để phụ nữ lại trên tàu đâu, cái đám thủy thủ ngỗ ngược bất kham kia, hừ!”"
+    },
+    {
+      "para_id": "c0110p0084",
+      "index": 84,
+      "raw_zh": "孫倩忙道：",
+      "translated_vi": "Tôn Thiến vội nói:"
+    },
+    {
+      "para_id": "c0110p0085",
+      "index": 85,
+      "raw_zh": "“船長大人，我們現在該做什麽？”",
+      "translated_vi": "“Thưa ngài Thuyền trưởng, bây giờ chúng ta nên làm gì ạ?”"
+    },
+    {
+      "para_id": "c0110p0086",
+      "index": 86,
+      "raw_zh": "雲千峰很有船長派頭，撇著嘴道：",
+      "translated_vi": "Vân Thiên Phong ra dáng thuyền trưởng vô cùng, bĩu môi nói:"
+    },
+    {
+      "para_id": "c0110p0087",
+      "index": 87,
+      "raw_zh": "“你們跟著我去發無線電，叫人來把我們弄到大海上。”",
+      "translated_vi": "“Các người theo tôi đi phát tín hiệu vô tuyến điện, gọi người tới kéo chúng ta ra biển.”"
+    },
+    {
+      "para_id": "c0110p0088",
+      "index": 88,
+      "raw_zh": "孫倩忙道：",
+      "translated_vi": "Tôn Thiến vội đáp:"
+    },
+    {
+      "para_id": "c0110p0089",
+      "index": 89,
+      "raw_zh": "“無線電不能使用了，艦船到了這裡之後便不能用了。”",
+      "translated_vi": "“Vô tuyến điện không dùng được nữa rồi, con tàu từ lúc tới đây là hệ thống liên lạc đã hỏng hẳn.”"
+    },
+    {
+      "para_id": "c0110p0090",
+      "index": 90,
+      "raw_zh": "雲千峰搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu than:"
+    },
+    {
+      "para_id": "c0110p0091",
+      "index": 91,
+      "raw_zh": "“那就麻煩了，只能我們親自想辦法了。”",
+      "translated_vi": "“Thế thì phiền toái rồi, chỉ còn nước tự chúng ta nghĩ cách thôi.”"
+    },
+    {
+      "para_id": "c0110p0092",
+      "index": 92,
+      "raw_zh": "孫倩忙問道：",
+      "translated_vi": "Tôn Thiến vội hỏi dồn:"
+    },
+    {
+      "para_id": "c0110p0093",
+      "index": 93,
+      "raw_zh": "“我們根本無法辦到這一點啊！”",
+      "translated_vi": "“Nhưng chúng ta căn bản không thể làm được việc đó mà!”"
+    },
+    {
+      "para_id": "c0110p0094",
+      "index": 94,
+      "raw_zh": "雲千峰看著孫倩，無奈道：",
+      "translated_vi": "Vân Thiên Phong nhìn Tôn Thiến, làm bộ bất đắc dĩ:"
+    },
+    {
+      "para_id": "c0110p0095",
+      "index": 95,
+      "raw_zh": "“那只能去外面放一把大火，擺個求救信號，讓過往飛機或者衛星發現我們了，你現在應該知道孫倩的記憶，此時這個世界已經有衛星了，叫那些影子和看不見的家夥都跟著我去外面尋乾柴。”",
+      "translated_vi": "“Vậy thì chỉ còn cách ra ngoài đốt một đống lửa lớn, xếp thành tín hiệu cầu cứu để máy bay bay ngang qua hoặc vệ tinh phát hiện ra chúng ta thôi. Hiện tại anh hẳn đã nắm được ký ức của Tôn Thiến rồi, thế giới bây giờ đã có vệ tinh nhân tạo. Mau bảo đám bóng ma và những kẻ vô hình kia theo tôi ra ngoài nhặt củi khô.”"
+    },
+    {
+      "para_id": "c0110p0096",
+      "index": 96,
+      "raw_zh": "孫倩一臉無奈道：",
+      "translated_vi": "Tôn Thiến vẻ mặt đầy bất lực đáp:"
+    },
+    {
+      "para_id": "c0110p0097",
+      "index": 97,
+      "raw_zh": "“他們都無法離開艦船，我能離開也要依附孫倩才能辦到。”",
+      "translated_vi": "“Bọn chúng đều không thể rời khỏi tàu chiến, ngay cả tôi muốn ra ngoài cũng phải bám nhờ vào Tôn Thiến mới làm được.”"
+    },
+    {
+      "para_id": "c0110p0098",
+      "index": 98,
+      "raw_zh": "雲千峰的嘴都撇到天上去了，那一臉的不滿意，狠狠罵道：",
+      "translated_vi": "Vân Thiên Phong bĩu môi tận mang tai, vẻ mặt tràn ngập bất mãn, mắng như tát nước:"
+    },
+    {
+      "para_id": "c0110p0099",
+      "index": 99,
+      "raw_zh": "“一群廢物！還得我這個船長去幹活！唉！”",
+      "translated_vi": "“Một lũ vô dụng! Rốt cuộc vẫn phải để đích thân thuyền trưởng như tôi đi làm việc! Ai dà!”"
+    },
+    {
+      "para_id": "c0110p0100",
+      "index": 100,
+      "raw_zh": "說著，對孫倩道：",
+      "translated_vi": "Dứt lời, anh quay sang bảo Tôn Thiến:"
+    },
+    {
+      "para_id": "c0110p0101",
+      "index": 101,
+      "raw_zh": "“走，你也別閑著，等會幫我坐在篝火邊添柴火。”",
+      "translated_vi": "“Đi thôi, anh cũng đừng có ngồi rảnh rỗi, lát nữa ngồi bên đống lửa thêm củi giúp tôi.”"
+    },
+    {
+      "para_id": "c0110p0102",
+      "index": 102,
+      "raw_zh": "說完，帶著三女，抬著孫倩重新來到艙門處，這一次艙門一旋就開。",
+      "translated_vi": "Nói đoạn, anh dẫn theo ba cô gái, khiêng Tôn Thiến một lần nữa quay lại trước cửa khoang. Lần này cánh cửa vừa xoay một cái là mở toang."
+    },
+    {
+      "para_id": "c0110p0103",
+      "index": 103,
+      "raw_zh": "幾個人走到甲板上，沿著山坡下來，秦疏影等三女就要開始撿柴火。",
+      "translated_vi": "Mấy người bước ra boong tàu, men theo sườn dốc đi xuống. Tần Sơ Ảnh cùng hai cô gái toan bắt tay vào nhặt củi khô."
+    },
+    {
+      "para_id": "c0110p0104",
+      "index": 104,
+      "raw_zh": "但是沒想到雲千峰卻笑著對她們說道：",
+      "translated_vi": "Thế nhưng không ngờ Vân Thiên Phong lại mỉm cười nói với họ:"
+    },
+    {
+      "para_id": "c0110p0105",
+      "index": 105,
+      "raw_zh": "“別撿了，這裡的求救信號衛星看不到。”",
+      "translated_vi": "“Đừng nhặt nữa, tín hiệu cầu cứu ở đây vệ tinh không nhìn thấy đâu.”"
+    },
+    {
+      "para_id": "c0110p0106",
+      "index": 106,
+      "raw_zh": "三女和孫倩都是一愣，尤其是孫倩，一臉難以置信的看著雲千峰，急道：",
+      "translated_vi": "Ba cô gái cùng Tôn Thiến đều ngớ người ra, đặc biệt là Tôn Thiến, vẻ mặt đầy khó tin nhìn chằm chằm Vân Thiên Phong, cuống quýt hỏi:"
+    },
+    {
+      "para_id": "c0110p0107",
+      "index": 107,
+      "raw_zh": "“你你這是什麽意思？”",
+      "translated_vi": "“Cậu... cậu có ý gì đây?!”"
+    },
+    {
+      "para_id": "c0110p0108",
+      "index": 108,
+      "raw_zh": "雲千峰摩挲著手指上的船長戒指，冷笑道：",
+      "translated_vi": "Vân Thiên Phong mân mê chiếc nhẫn thuyền trưởng trên ngón tay, cười gằn:"
+    },
+    {
+      "para_id": "c0110p0109",
+      "index": 109,
+      "raw_zh": "“有句話是那麽說的，越帥的男人越愛撒謊。”",
+      "translated_vi": "“Có một câu nói thế này: Đàn ông càng đẹp trai thì càng thích nói dối.”"
+    },
+    {
+      "para_id": "c0110p0110",
+      "index": 110,
+      "raw_zh": "說著，一甩頭髮，繼續道：",
+      "translated_vi": "Vừa nói, anh vừa hất mái tóc một cái, nói tiếp:"
+    },
+    {
+      "para_id": "c0110p0111",
+      "index": 111,
+      "raw_zh": "“而我想要告訴你的是，不帥的一樣撒謊！”",
+      "translated_vi": "“Mà điều tôi muốn nói cho anh hay là: Kẻ không đẹp trai cũng nói dối y như thế!”"
+    },
+    {
+      "para_id": "c0110p0112",
+      "index": 112,
+      "raw_zh": "話畢，他抽出海軍刀，對著三女說道：",
+      "translated_vi": "Dứt lời, anh tuốt phắt thanh dao hải quân ra, quay sang bảo ba cô gái:"
+    },
+    {
+      "para_id": "c0110p0113",
+      "index": 113,
+      "raw_zh": "“把孫倩用草繩綁好，等我去把這艦船真真正正的變成咱們的財產！”",
+      "translated_vi": "“Dùng dây cỏ trói chặt Tôn Thiến lại, đợi tôi đi biến con tàu chiến này chân chính trở thành tài sản của chúng ta!”"
+    },
+    {
+      "para_id": "c0110p0114",
+      "index": 114,
+      "raw_zh": "說著，直奔艙門走了進去。",
+      "translated_vi": "Nói đoạn, anh sải bước lao thẳng vào cánh cửa khoang tàu."
+    },
+    {
+      "para_id": "c0110p0115",
+      "index": 115,
+      "raw_zh": "身後，是孫倩撕心裂肺的咒罵。",
+      "translated_vi": "Phía sau lưng anh, là những tiếng chửi rủa xé gan xé phổi của Tôn Thiến."
+    },
+    {
+      "para_id": "c0110p0116",
+      "index": 116,
+      "raw_zh": "感謝瓷格格、夢裡跑不快、尾數15947、DS0153、白甜、日光傾城、尾數21912、漆鴉、陌愛、人生白天、奈津萘、廟裡供著神、的月票鼓勵，謝謝在這裡依舊見到你們！感激！！！！！！！！！",
+      "translated_vi": "Chân thành cảm ơn sự khích lệ bằng phiếu tháng từ Từ Cách Cách, Trong Mộng Chạy Không Nhanh, bạn đọc có số đuôi 15947, DS0153, Bạch Điềm, Nhật Quang Khuynh Thành, bạn đọc có số đuôi 21912, Thất Nha, Mạch Ái, Nhân Sinh Bạch Thiên, Nại Tân Nại, Miếu Lý Cúng Thần, cảm ơn vì vẫn được thấy các bạn nơi đây! Vô cùng cảm kích!"
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 224,
+  "title": "Chương 224: Nín Thở Mới Sống Được",
+  "total_paragraphs": 107,
+  "translated_paragraphs": 107,
+  "source_hash": "e2b309392eeb2f1a7a8ee4950cea3ca6a66b1aae2492bd7b77bcc5e4c73a1717",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0224p0001",
+      "index": 1,
+      "raw_zh": "第224章 不喘氣才能活",
+      "translated_vi": "Chương 224: Nín Thở Mới Sống Được"
+    },
+    {
+      "para_id": "c0224p0002",
+      "index": 2,
+      "raw_zh": "羅琳娜：“我的底線是，用你東西，你要懂得感恩！”",
+      "translated_vi": "Phương châm của Lorina là: “Dùng đồ của người khác, mày phải biết đường mà mang ơn!”"
+    },
+    {
+      "para_id": "c0224p0003",
+      "index": 3,
+      "raw_zh": "就比如雲千峰，想到羅琳娜，心中就很感恩。",
+      "translated_vi": "Chẳng hạn như Vân Thiên Phong, mỗi khi nhớ tới Lorina thì trong lòng anh đều ngập tràn sự biết ơn sâu sắc."
+    },
+    {
+      "para_id": "c0224p0004",
+      "index": 4,
+      "raw_zh": "哪怕羅琳娜隻用了他三分之一的東西幾秒鍾。",
+      "translated_vi": "Cho dù Lorina mới chỉ dùng có một phần ba thứ đồ chơi của anh vỏn vẹn trong vài giây ngắn ngủi."
+    },
+    {
+      "para_id": "c0224p0005",
+      "index": 5,
+      "raw_zh": "前面機艙內，霍曼的手機聽筒內傳來他父親的咆哮。",
+      "translated_vi": "Tại khoang trước máy bay, từ loa ống nghe điện thoại của Homan truyền ra tiếng gầm thét lôi đình của cha hắn."
+    },
+    {
+      "para_id": "c0224p0006",
+      "index": 6,
+      "raw_zh": "“混帳！昨天答應的好好的，今天就出爾反爾，他們這是謀殺！我要起訴他們！必須”",
+      "translated_vi": "“Đồ khốn nạn! Hôm qua đã đồng ý đâu vào đấy rồi, hôm nay lại lật lọng tráo trở, bọn họ làm thế chẳng khác nào mưu sát! Tao phải kiện chết mẹ chúng nó! Nhất định...”"
+    },
+    {
+      "para_id": "c0224p0007",
+      "index": 7,
+      "raw_zh": "哪怕沒開免提，這面也聽得清清楚楚，可見霍曼的父親被氣到什麽程度。",
+      "translated_vi": "Dẫu không bật loa ngoài thì bên này vẫn nghe thấy rõ mồn một từng câu từng chữ, đủ hiểu cha của Homan đang tức tối đến mức độ nào."
+    },
+    {
+      "para_id": "c0224p0008",
+      "index": 8,
+      "raw_zh": "霍曼這次不是哭腔，是真的哭了：",
+      "translated_vi": "Lần này Homan không chỉ mếu máo đơn thuần nữa, mà là nước mắt ngắn nước mắt dài khóc thật sự:"
+    },
+    {
+      "para_id": "c0224p0009",
+      "index": 9,
+      "raw_zh": "“哦，親愛的爸爸，您別發火了，快想想辦法，就算是要起訴他們，也要我們安全降落了以後不是嗎？”",
+      "translated_vi": "“Ôi cha yêu quý của con, cha đừng nổi nóng nữa, mau nghĩ cách cứu chúng con với, dẫu muốn kiện bọn họ thì cũng phải đợi chúng con hạ cánh an toàn đã chứ?”"
+    },
+    {
+      "para_id": "c0224p0010",
+      "index": 10,
+      "raw_zh": "霍曼的父親冷靜下來，沉聲道：",
+      "translated_vi": "Cha của Homan lấy lại bình tĩnh, trầm giọng bảo:"
+    },
+    {
+      "para_id": "c0224p0011",
+      "index": 11,
+      "raw_zh": "“再等一等，我繼續想辦法，實在不行，用整機降落傘迫降到相對平坦的地方吧，暫時只有這個辦法。”",
+      "translated_vi": "“Ráng đợi thêm một chút nữa đi, cha đang tiếp tục nghĩ cách. Nếu vạn bất đắc dĩ thì đành bung dù cứu hộ toàn thân phi cơ để đáp khẩn cấp xuống một bãi đất tương đối bằng phẳng vậy, tạm thời chỉ còn mỗi cách này thôi.”"
+    },
+    {
+      "para_id": "c0224p0012",
+      "index": 12,
+      "raw_zh": "霍曼大哭：",
+      "translated_vi": "Homan gào khóc thảm thiết:"
+    },
+    {
+      "para_id": "c0224p0013",
+      "index": 13,
+      "raw_zh": "“哦，爸爸，整機降落傘並不是絕對安全的，危險依舊很大，哦”",
+      "translated_vi": "“Ôi cha ơi, hệ thống dù toàn thân máy bay đâu có an toàn tuyệt đối, độ rủi ro vẫn cực kỳ cao mà, hu hu...”"
+    },
+    {
+      "para_id": "c0224p0014",
+      "index": 14,
+      "raw_zh": "那嗓門，真對得起那一身的肌肉，很洪亮。",
+      "translated_vi": "Cái chất giọng ấy quả thực rất xứng tầm với thân hình cơ bắp đồ sộ kia, vang dội như chuông đồng."
+    },
+    {
+      "para_id": "c0224p0015",
+      "index": 15,
+      "raw_zh": "雲千峰知道，不能繼續下去了，否則真的整機傘降，那危險性實在是太大了，畢竟那只是不得已的情況下唯一的選擇。",
+      "translated_vi": "Vân Thiên Phong hiểu rằng không thể tiếp tục dùng dằng thế này được nữa, bằng không nếu thật sự phải bung dù hạ cánh khẩn cấp thì độ nguy hiểm quả thực quá lớn, bởi lẽ đó chỉ là lựa chọn hạ sách cuối cùng khi cùng đường bí lối mà thôi."
+    },
+    {
+      "para_id": "c0224p0016",
+      "index": 16,
+      "raw_zh": "於是他大步走到前面，在一群人詫異的暮光之中，敲了敲駕駛艙的門，對著裡面的駕駛員傑克用英文道：",
+      "translated_vi": "Thế là anh sải bước đi lên khoang trước, trước những ánh mắt đầy vẻ kinh ngạc của đám người xung quanh, anh gõ nhẹ vào cửa buồng lái rồi dùng tiếng Anh nói với viên phi công Jack ở bên trong:"
+    },
+    {
+      "para_id": "c0224p0017",
+      "index": 17,
+      "raw_zh": "“呼叫下面機場，就說俺必勝在這架飛機上。”",
+      "translated_vi": "“Hãy liên lạc với sân bay bên dưới, cứ bảo ngài Ngã Tất Thắng đang ở trên chuyến bay này.”"
+    },
+    {
+      "para_id": "c0224p0018",
+      "index": 18,
+      "raw_zh": "傑克不解的看著雲千峰，那一身衣服看起來太過樸素，怎麽看也不會是個大人物。",
+      "translated_vi": "Jack khó hiểu nhìn chằm chằm Vân Thiên Phong, bộ trang phục trên người anh trông quá đỗi bình dị mộc mạc, nhìn thế nào cũng không giống một nhân vật tầm cỡ có máu mặt."
+    },
+    {
+      "para_id": "c0224p0019",
+      "index": 19,
+      "raw_zh": "後面幾個人也在嘀咕“誰是俺必勝”“不知道啊”“他會說英文”“他故意讓我們尷尬”“卑鄙的華.”。",
+      "translated_vi": "Mấy người ngồi phía sau cũng xì xào bàn tán: “Ai là Ngã Tất Thắng cơ?”, “Ai mà biết được!”, “Ủa hắn biết nói tiếng Anh kìa!”, “Hắn cố tình làm bọn mình bẽ mặt!”, “Đúng là thằng Tàu đê tiện...”."
+    },
+    {
+      "para_id": "c0224p0020",
+      "index": 20,
+      "raw_zh": "“快點吧，除非你真的想整機傘降。”",
+      "translated_vi": "“Nhanh lên đi, trừ phi anh thực sự muốn cả chiếc máy bay phải bung dù đáp liều.”"
+    },
+    {
+      "para_id": "c0224p0021",
+      "index": 21,
+      "raw_zh": "雲千峰對著發愣的傑克補充道。",
+      "translated_vi": "Vân Thiên Phong bồi thêm một câu với Jack đang đứng đờ người ra."
+    },
+    {
+      "para_id": "c0224p0022",
+      "index": 22,
+      "raw_zh": "傑克不知可否，但還是遲疑的拿起對講機呼叫：",
+      "translated_vi": "Jack bán tín bán nghi, nhưng rồi vẫn chần chừ nhấc bộ đàm lên phát tín hiệu gọi:"
+    },
+    {
+      "para_id": "c0224p0023",
+      "index": 23,
+      "raw_zh": "“呼叫，呼叫，俺必勝先生在我們的飛機上，他.”",
+      "translated_vi": "“Xin gọi, xin gọi đài kiểm soát, ngài Ngã Tất Thắng hiện đang ở trên chuyến bay của chúng tôi, ngài ấy...”"
+    },
+    {
+      "para_id": "c0224p0024",
+      "index": 24,
+      "raw_zh": "話沒說完，對面就大聲道：",
+      "translated_vi": "Lời còn chưa dứt thì đầu dây bên kia đã cất giọng vang dội đầy vẻ kích động:"
+    },
+    {
+      "para_id": "c0224p0025",
+      "index": 25,
+      "raw_zh": "“請讓我與俺必勝先生通話。”",
+      "translated_vi": "“Xin làm ơn chuyển máy cho tôi được nói chuyện trực tiếp với ngài Ngã Tất Thắng!”"
+    },
+    {
+      "para_id": "c0224p0026",
+      "index": 26,
+      "raw_zh": "傑克沒想到，提這個俺必勝貌似真的管用。",
+      "translated_vi": "Jack không ngờ rằng nhắc tới cái tên Ngã Tất Thắng này xem ra lại hiệu nghiệm đến thế."
+    },
+    {
+      "para_id": "c0224p0027",
+      "index": 27,
+      "raw_zh": "雲千峰接過話筒，就聽到對方恭敬道：",
+      "translated_vi": "Vân Thiên Phong đón lấy ống nghe, lập tức nghe thấy giọng điệu cung kính của đối phương ở đầu dây bên kia:"
+    },
+    {
+      "para_id": "c0224p0028",
+      "index": 28,
+      "raw_zh": "“哦，俺必勝先生，我們就是為了等待您，才沒有讓別的飛機降落，怕耽誤了您休息的時間，沒想到您就在這架飛機上，羅琳娜小姐沒有告訴我們您在哪架飛機上，隻說了大概到達的時間，並說到了我們自然就知道。”",
+      "translated_vi": "“Ôi, kính chào ngài Ngã Tất Thắng! Chúng tôi chính là vì muốn chờ đón ngài nên mới không cho bất kỳ chuyến bay nào hạ cánh, sợ làm phiền tới thời gian nghỉ ngơi quý báu của ngài. Nào ngờ ngài lại đang ngự trên chính chuyến bay này! Tiểu thư Lorina không nói rõ cho chúng tôi hay ngài ngồi chiếc phi cơ nào, chỉ báo trước khoảng thời gian ngài sẽ đến và dặn dò khi nào tới nơi thì chúng tôi tự khắc sẽ biết.”"
+    },
+    {
+      "para_id": "c0224p0029",
+      "index": 29,
+      "raw_zh": "這絕對是羅琳娜能乾出來的事。",
+      "translated_vi": "Đây tuyệt đối đúng là phong cách làm việc của Lorina."
+    },
+    {
+      "para_id": "c0224p0030",
+      "index": 30,
+      "raw_zh": "雲千峰面無表情，聲音嚴肅，但不尖銳，問道：",
+      "translated_vi": "Nét mặt Vân Thiên Phong không chút biểu cảm, giọng điệu nghiêm nghị nhưng không gay gắt, cất lời hỏi:"
+    },
+    {
+      "para_id": "c0224p0031",
+      "index": 31,
+      "raw_zh": "“為什麽不說華語，而說這種有缺陷的，沒有未來的語言？”",
+      "translated_vi": "“Tại sao lại không nói tiếng Trung, mà lại dùng cái thứ ngôn ngữ khiếm khuyết chẳng có chút tương lai tiền đồ này?”"
+    },
+    {
+      "para_id": "c0224p0032",
+      "index": 32,
+      "raw_zh": "“哦，俺必勝先生，我們現在正在培訓華語的教學，偉大的語言太難了。”",
+      "translated_vi": "“Ôi, thưa ngài Ngã Tất Thắng, hiện tại chúng tôi đang tổ chức các khóa đào tạo giảng dạy tiếng Trung cấp tốc ạ, thứ ngôn ngữ vĩ đại ấy quả thực quá đỗi thâm sâu khó học.”"
+    },
+    {
+      "para_id": "c0224p0033",
+      "index": 33,
+      "raw_zh": "雲千峰淡淡道：",
+      "translated_vi": "Vân Thiên Phong bình thản bảo:"
+    },
+    {
+      "para_id": "c0224p0034",
+      "index": 34,
+      "raw_zh": "“抓緊學，好好學，安排降落吧。”",
+      "translated_vi": "“Tranh thủ thời gian mà học hành cho tử tế vào, mau sắp xếp cho máy bay hạ cánh đi.”"
+    },
+    {
+      "para_id": "c0224p0035",
+      "index": 35,
+      "raw_zh": "說完，把對講機遞給傑克，不動聲色，雲淡風輕的走到後面，坐下系好安全帶，拿起書本，誰也沒看，誰也沒理。",
+      "translated_vi": "Nói xong, anh đưa lại bộ đàm cho Jack, nét mặt thản nhiên điềm tĩnh rảo bước quay về hàng ghế sau, ngồi xuống thắt chặt dây an toàn rồi lại cầm cuốn sách lên đọc, chẳng buồn nhìn lấy một ai, cũng chẳng buồn để tâm tới bất cứ người nào."
+    },
+    {
+      "para_id": "c0224p0036",
+      "index": 36,
+      "raw_zh": "這一飛機的人，除了他和傑裡周，全都說英文，全都被他剛才指桑罵槐的損了一通，但是沒有一個人出聲，悄悄話都沒有。",
+      "translated_vi": "Toàn bộ hành khách trên chuyến bay này, ngoại trừ anh và Jerry Chu, tất cả đều giao tiếp bằng tiếng Anh, ai nấy đều bị đòn bóng gió châm chọc mỉa mai ban nãy của anh quất cho một cú đau điếng, song tuyệt nhiên không một ai dám hé răng nửa lời, ngay cả tiếng xì xào to nhỏ cũng bặt vô âm tín."
+    },
+    {
+      "para_id": "c0224p0037",
+      "index": 37,
+      "raw_zh": "前面幾個人，包括駕駛員傑克，都在心裡琢磨：",
+      "translated_vi": "Mấy người ngồi phía trước, bao gồm cả viên phi công Jack, trong lòng đều thầm suy tính:"
+    },
+    {
+      "para_id": "c0224p0038",
+      "index": 38,
+      "raw_zh": "“他那低調的衣服，現在感覺一下，真的是太有質感了！”",
+      "translated_vi": "“Bộ quần áo giản dị của anh ta, giờ ngẫm lại mới thấy quả thực vô cùng đẳng cấp và chất lượng!”"
+    },
+    {
+      "para_id": "c0224p0039",
+      "index": 39,
+      "raw_zh": "“他一定是個大人物，我們觸摸不到高度的大人物，呵，大人物又怎樣，依舊是個支N。”",
+      "translated_vi": "“Hắn chắc chắn là một đại nhân vật, một đại nhân vật ở tầm cao mà chúng ta không với tới nổi. Hừ, đại nhân vật thì đã sao, chung quy vẫn chỉ là một tên Tàu khựa.”"
+    },
+    {
+      "para_id": "c0224p0040",
+      "index": 40,
+      "raw_zh": "“怪不得不讓我們降落，原來是在等他，華夏人就愛做這種搞特殊的自私自利的事情”",
+      "translated_vi": "“Thảo nào người ta không cho hạ cánh, hóa ra là đang chờ hắn! Người Hoa lúc nào cũng thích cái kiểu kiếm đặc quyền đặc lợi ích kỷ tư lợi như thế...”"
+    },
+    {
+      "para_id": "c0224p0041",
+      "index": 41,
+      "raw_zh": "“再怎麽樣，基因在那裡，怎麽能和霍曼比.”",
+      "translated_vi": "“Dẫu thế nào đi chăng nữa thì nguồn gen rành rành ở đó, làm sao sánh bằng anh chàng Homan được...”"
+    },
+    {
+      "para_id": "c0224p0042",
+      "index": 42,
+      "raw_zh": "他們沒有對機場的不負責任而生氣，反而把好的情緒和不好的情緒都暗暗釋放在了雲千峰的身上。",
+      "translated_vi": "Bọn họ không hề tức giận trước thái độ vô trách nhiệm của sân bay, ngược lại còn trút toàn bộ mọi cảm xúc hỉ nộ ái ố lên đầu Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0224p0043",
+      "index": 43,
+      "raw_zh": "這種思緒很奇怪，難以形容。",
+      "translated_vi": "Cái lối suy nghĩ ấy quả thực vô cùng kỳ quái, khó mà diễn tả cho xiết."
+    },
+    {
+      "para_id": "c0224p0044",
+      "index": 44,
+      "raw_zh": "甚至堪稱離譜。",
+      "translated_vi": "Thậm chí có thể xem là hết sức phi lý."
+    },
+    {
+      "para_id": "c0224p0045",
+      "index": 45,
+      "raw_zh": "因為雲千峰讓他們得以最快的速度安全降落，這讓他得到了駕駛員傑克的尊重，但卻得不到某些很奇怪的華夏人的尊重。",
+      "translated_vi": "Bởi vì Vân Thiên Phong đã giúp bọn họ có thể hạ cánh an toàn với tốc độ nhanh nhất, điều này giúp anh nhận được sự kính trọng của viên phi công Jack, nhưng lại chẳng thể đổi lấy sự tôn trọng từ một vài kẻ mang dòng máu Trung Hoa quái đản kia."
+    },
+    {
+      "para_id": "c0224p0046",
+      "index": 46,
+      "raw_zh": "就很狗。",
+      "translated_vi": "Đúng là thứ cặn bã trớ trêu."
+    },
+    {
+      "para_id": "c0224p0047",
+      "index": 47,
+      "raw_zh": "當然了，他們要是知道這機場曾經隸屬於俺必勝公司，而俺必勝公司的擁有者是眼前這個所謂低調的男人的話，應該會腹語出更難聽的話吧。",
+      "translated_vi": "Dĩ nhiên, nếu như bọn họ biết được sân bay này vốn từng trực thuộc công ty Ngã Tất Thắng, mà chủ sở hữu thực sự của công ty Ngã Tất Thắng lại chính là người đàn ông ăn mặc khiêm nhường trước mắt này, thì có lẽ trong bụng họ sẽ lại tuôn ra những lời lẽ còn cay độc chói tai hơn nữa."
+    },
+    {
+      "para_id": "c0224p0048",
+      "index": 48,
+      "raw_zh": "沒錯，這機場是雲千峰的，雖然是羅琳娜在統一管理。",
+      "translated_vi": "Đúng vậy, sân bay này là của riêng Vân Thiên Phong, dẫu rằng hiện tại do Lorina đứng ra quản lý thống nhất toàn bộ."
+    },
+    {
+      "para_id": "c0224p0049",
+      "index": 49,
+      "raw_zh": "而羅琳娜絕對是一個好的管理者。",
+      "translated_vi": "Và Lorina chắc chắn là một người quản lý tài ba xuất chúng."
+    },
+    {
+      "para_id": "c0224p0050",
+      "index": 50,
+      "raw_zh": "機艙內很安靜，這些人或許不喜歡雲千峰，但內心裡絕對存了一絲絲懼意，再也沒有之前的肆無忌憚。",
+      "translated_vi": "Trong khoang máy bay vô cùng tĩnh lặng, đám người này dẫu có không ưa Vân Thiên Phong đi chăng nữa nhưng tận đáy lòng tuyệt đối đã dấy lên vài phần sợ hãi kiêng dè, không còn dám ngang ngược lỗ mãng như trước nữa."
+    },
+    {
+      "para_id": "c0224p0051",
+      "index": 51,
+      "raw_zh": "在那一刻起，飛機的主人似乎不再是包機的荷茜許，而是雲千峰。",
+      "translated_vi": "Kể từ giây phút ấy trở đi, chủ nhân của chuyến bay dường như không còn là kẻ bỏ tiền bao trọn gói Hotsey Hứa nữa, mà chính là Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0224p0052",
+      "index": 52,
+      "raw_zh": "他的呼吸主導著這不大的機艙內的節奏。",
+      "translated_vi": "Từng nhịp thở của anh chi phối toàn bộ tiết tấu bên trong khoang máy bay nhỏ hẹp này."
+    },
+    {
+      "para_id": "c0224p0053",
+      "index": 53,
+      "raw_zh": "飛機安全降落後，下面有人鋪著紅毯歡迎。",
+      "translated_vi": "Sau khi máy bay hạ cánh an toàn, phía dưới đường băng đã có người trải sẵn thảm đỏ nghênh đón."
+    },
+    {
+      "para_id": "c0224p0054",
+      "index": 54,
+      "raw_zh": "本就是個不大的小鎮，估摸著全鎮一半的人都劃拉來當拉拉隊了。",
+      "translated_vi": "Vốn chỉ là một thị trấn nhỏ tí hon, ước chừng có tới nửa số dân cư toàn thị trấn đã được gom lại làm đội cổ vũ hoan nghênh."
+    },
+    {
+      "para_id": "c0224p0055",
+      "index": 55,
+      "raw_zh": "羅琳娜為了面子花的錢，遠遠超過她的私人飛機和遊艇。",
+      "translated_vi": "Số tiền Lorina chi ra để làm rạng danh thể diện vượt xa giá trị của chiếc chuyên cơ và du thuyền riêng của cô."
+    },
+    {
+      "para_id": "c0224p0056",
+      "index": 56,
+      "raw_zh": "這牌面讓同機的幾個人愈加確信，這是個大人物，很大很大那種。",
+      "translated_vi": "Màn chào đón phô trương thanh thế này khiến mấy người cùng đi trên chuyến bay càng thêm tin chắc rằng người này là một đại nhân vật, thuộc vào hàng cực kỳ tầm cỡ."
+    },
+    {
+      "para_id": "c0224p0057",
+      "index": 57,
+      "raw_zh": "於是，在飛機加滿油，繼續出發之後，機艙內所有人都顯得有些拘謹。",
+      "translated_vi": "Thế là sau khi máy bay tiếp đầy nhiên liệu và tiếp tục cất cánh lên đường, tất cả mọi người trong khoang đều tỏ ra gượng gạo e dè thấy rõ."
+    },
+    {
+      "para_id": "c0224p0058",
+      "index": 58,
+      "raw_zh": "除了傑裡周。",
+      "translated_vi": "Ngoại trừ Jerry Chu."
+    },
+    {
+      "para_id": "c0224p0059",
+      "index": 59,
+      "raw_zh": "自從他發現雲千峰包裡竟然有富春山居之後，煙癮比之前更大了，一會一根那種，而且每次必須自拍，然後修圖發朋友圈。",
+      "translated_vi": "Kể từ khi phát hiện trong túi của Vân Thiên Phong có cả thuốc lá Phú Xuân Sơn Cư hảo hạng, cơn nghiện thuốc của cậu ta lại càng bùng phát dữ dội hơn trước, cứ chốc chốc lại phì phèo một điếu, mà mỗi lần hút là nhất quyết phải chụp ảnh tự sướng, chỉnh sửa ảnh rồi đăng lên vòng bạn bè khoe khoang."
+    },
+    {
+      "para_id": "c0224p0060",
+      "index": 60,
+      "raw_zh": "他爸媽把他送走，想來用處並不大。",
+      "translated_vi": "Cha mẹ tống cổ cậu ta ra nước ngoài xem chừng chẳng mang lại tác dụng giáo dục gì to tát cho lắm."
+    },
+    {
+      "para_id": "c0224p0061",
+      "index": 61,
+      "raw_zh": "然而，這種安靜在幾個小時後被一聲驚呼打斷了。",
+      "translated_vi": "Thế nhưng bầu không khí tĩnh lặng ấy đã bị một tiếng kinh hô thất thanh cắt ngang sau vài giờ bay."
+    },
+    {
+      "para_id": "c0224p0062",
+      "index": 62,
+      "raw_zh": "駕駛員傑克在駕駛艙內突然喊道：",
+      "translated_vi": "Viên phi công Jack trong buồng lái bỗng nhiên hét toáng lên:"
+    },
+    {
+      "para_id": "c0224p0063",
+      "index": 63,
+      "raw_zh": "“法克，那是什麽東西？”",
+      "translated_vi": "“Khốn kiếp, cái thứ quái quỷ gì đằng kia thế?”"
+    },
+    {
+      "para_id": "c0224p0064",
+      "index": 64,
+      "raw_zh": "一群人聽那動靜似乎帶著一點忐忑，都急忙湊過去，看向窗外。",
+      "translated_vi": "Mọi người nghe ngữ điệu có vẻ hốt hoảng bất an liền vội vàng xúm lại gần, nhìn dán mắt ra ngoài cửa sổ."
+    },
+    {
+      "para_id": "c0224p0065",
+      "index": 65,
+      "raw_zh": "他們現在屬於低空飛行，距離地面也就三四百米。",
+      "translated_vi": "Hiện tại máy bay đang duy trì tầm bay thấp, cách mặt đất chỉ khoảng ba bốn trăm mét."
+    },
+    {
+      "para_id": "c0224p0066",
+      "index": 66,
+      "raw_zh": "就見遠處半空之中，懸停著一個直徑不超過四十公分的綠色光環。",
+      "translated_vi": "Chỉ thấy lơ lửng giữa lưng chừng không trung phía xa xa có một vầng hào quang màu xanh lục với đường kính không quá bốn mươi phân."
+    },
+    {
+      "para_id": "c0224p0067",
+      "index": 67,
+      "raw_zh": "那光環似乎完全靜止，就連散發出來的光都貌似是不動的，保持著一個形狀。",
+      "translated_vi": "Vầng quang hoàn ấy dường như hoàn toàn bất động, ngay cả ánh sáng tỏa ra từ nó dường như cũng ngưng đọng, giữ nguyên một hình thù cố định."
+    },
+    {
+      "para_id": "c0224p0068",
+      "index": 68,
+      "raw_zh": "傑裡周急忙拿起手機開始拍照，嘴裡還喊著：",
+      "translated_vi": "Jerry Chu vội vã rút điện thoại ra bấm máy chụp lia lịa, miệng không ngừng la to:"
+    },
+    {
+      "para_id": "c0224p0069",
+      "index": 69,
+      "raw_zh": "“臥槽，飛碟！”",
+      "translated_vi": "“Đậu má, đĩa bay kìa!”"
+    },
+    {
+      "para_id": "c0224p0070",
+      "index": 70,
+      "raw_zh": "旁邊幾個同學向著他投出了鄙視的目光。",
+      "translated_vi": "Mấy người bạn học bên cạnh lập tức ném cho cậu ta những cái nhìn đầy khinh bỉ."
+    },
+    {
+      "para_id": "c0224p0071",
+      "index": 71,
+      "raw_zh": "霍曼撇嘴道：",
+      "translated_vi": "Homan bĩu môi chế giễu:"
+    },
+    {
+      "para_id": "c0224p0072",
+      "index": 72,
+      "raw_zh": "“嘿，傑裡，作為一個物理生，還是學高能粒子的，伱做出這樣的判斷，老師都會氣到自殺。”",
+      "translated_vi": "“Này Jerry, là sinh viên vật lý lại còn theo chuyên ngành hạt năng lượng cao, cậu mà đưa ra phán đoán như thế thì giáo sư sẽ tức tới mức nhảy lầu tự sát mất.”"
+    },
+    {
+      "para_id": "c0224p0073",
+      "index": 73,
+      "raw_zh": "傑裡不服氣，道：",
+      "translated_vi": "Jerry không phục, cãi lại:"
+    },
+    {
+      "para_id": "c0224p0074",
+      "index": 74,
+      "raw_zh": "“那你說那不是飛碟能是什麽？”",
+      "translated_vi": "“Thế cậu bảo không phải đĩa bay thì nó là cái giống gì?”"
+    },
+    {
+      "para_id": "c0224p0075",
+      "index": 75,
+      "raw_zh": "霍曼不假思索，道：",
+      "translated_vi": "Homan chẳng cần suy nghĩ đáp ngay:"
+    },
+    {
+      "para_id": "c0224p0076",
+      "index": 76,
+      "raw_zh": "“應該是聖艾爾摩之火。”",
+      "translated_vi": "“Chắc chắn là ánh lửa Thánh Elmo.”"
+    },
+    {
+      "para_id": "c0224p0077",
+      "index": 77,
+      "raw_zh": "作為高能粒子專業的學生，都知道這個詞匯的意思，傑裡周除外。",
+      "translated_vi": "Là sinh viên chuyên ngành hạt năng lượng cao, ai nấy đều thấu hiểu thuật ngữ này hàm ý điều gì, ngoại trừ Jerry Chu."
+    },
+    {
+      "para_id": "c0224p0078",
+      "index": 78,
+      "raw_zh": "聖艾爾摩之火，本質上是一種G狀放電，只不過是溫度很低的等離子，並不會對觸碰的物體造成傷害。",
+      "translated_vi": "Ánh lửa Thánh Elmo về bản chất là một hiện tượng phóng điện vầng quang, chẳng qua là dạng plasma nhiệt độ thấp, sẽ không gây tổn hại cho các vật thể mà nó chạm vào."
+    },
+    {
+      "para_id": "c0224p0079",
+      "index": 79,
+      "raw_zh": "琳達顰眉，搖頭道：",
+      "translated_vi": "Linda chau mày, lắc đầu nói:"
+    },
+    {
+      "para_id": "c0224p0080",
+      "index": 80,
+      "raw_zh": "“可這是晴天，沒有產生聖艾爾摩之火的條件，我覺得我們應該提前繞遠一點，因為我懷疑那是球狀閃電。”",
+      "translated_vi": "“Nhưng trời đang quang mây tạnh, không hề có điều kiện để hình thành ánh lửa Thánh Elmo. Tôi nghĩ chúng ta nên chủ động bay vòng ra xa một chút, bởi vì tôi nghi ngờ đó chính là sét hòn.”"
+    },
+    {
+      "para_id": "c0224p0081",
+      "index": 81,
+      "raw_zh": "作為球狀閃電，他們這個專業就更加熟悉了，雖然科學界並不知道球狀閃電的真正成因，但正是因為無法解釋，所以這個東西才在業界更加出名。",
+      "translated_vi": "Nhắc tới sét hòn thì sinh viên chuyên ngành này lại càng hiểu rõ hơn bao giờ hết, dẫu rằng giới khoa học vẫn chưa thể lý giải cội nguồn hình thành chính xác của sét hòn, song chính vì sự bí ẩn khôn cùng ấy mà nó lại càng nổi danh vang dội trong giới vật lý."
+    },
+    {
+      "para_id": "c0224p0082",
+      "index": 82,
+      "raw_zh": "雖然球狀閃電也大多出現在雷暴天氣，但也有過晴天出現的記錄，這與聖艾爾摩之火並不相同。",
+      "translated_vi": "Tuy rằng sét hòn đa phần xuất hiện vào thời tiết dông bão sấm sét, nhưng lịch sử cũng từng ghi nhận những trường hợp nó xuất hiện vào ngày nắng ráo quang mây, điểm này hoàn toàn khác biệt so với ánh lửa Thánh Elmo."
+    },
+    {
+      "para_id": "c0224p0083",
+      "index": 83,
+      "raw_zh": "聽到那東西可能是球狀閃電之後，所有人都覺得後背有些發麻，因為那東西的殺傷力太過詭異。",
+      "translated_vi": "Nghe nhắc tới việc thứ kia có thể là sét hòn, sống lưng mọi người đều cảm thấy lành lạnh tê rần, bởi vì sức sát thương của thứ này quả thực quá đỗi quái đản dị thường."
+    },
+    {
+      "para_id": "c0224p0084",
+      "index": 84,
+      "raw_zh": "是的，它破壞力的詭異性，甚至力壓了它巨大的破壞性，成為了解它的人最害怕的地方。",
+      "translated_vi": "Đúng vậy, tính chất kỳ quái trong khả năng phá hủy của nó thậm chí còn lấn át cả uy lực tàn phá khủng khiếp, trở thành nỗi khiếp sợ lớn nhất đối với những ai từng hiểu biết về nó."
+    },
+    {
+      "para_id": "c0224p0085",
+      "index": 85,
+      "raw_zh": "就比如，它破壞力的選擇性。",
+      "translated_vi": "Chẳng hạn như tính chọn lọc trong khả năng hủy diệt của nó."
+    },
+    {
+      "para_id": "c0224p0086",
+      "index": 86,
+      "raw_zh": "一群人中間鑽進來一個球狀閃電，它可能爆炸，也可能不爆炸。",
+      "translated_vi": "Khi một khối sét hòn chui tọt vào giữa một đám đông, nó có thể phát nổ dữ dội, mà cũng có thể hoàn toàn không nổ."
+    },
+    {
+      "para_id": "c0224p0087",
+      "index": 87,
+      "raw_zh": "如果爆炸了，也不是每個人都受傷，很可能只有一個倒霉蛋。",
+      "translated_vi": "Nếu nó phát nổ, cũng chưa chắc tất cả mọi người đều dính thương tích, rất có thể chỉ có duy nhất một kẻ đen đủi gặp nạn."
+    },
+    {
+      "para_id": "c0224p0088",
+      "index": 88,
+      "raw_zh": "這個倒霉蛋很可能只是衣服被燒光了，但身體只是輕傷。",
+      "translated_vi": "Kẻ xui xẻo này rất có thể chỉ bị thiêu rụi toàn bộ quần áo trên người, nhưng thân thể lại chỉ trầy xước nhẹ."
+    },
+    {
+      "para_id": "c0224p0089",
+      "index": 89,
+      "raw_zh": "也可能衣服沒壞，但是皮膚幾乎燒沒，移皮的機會都沒有。",
+      "translated_vi": "Mà cũng có thể quần áo chẳng hề sứt mẻ gì, nhưng toàn bộ lớp da thịt trên người lại bị đốt cháy trơ trụi không còn cơ hội cấy ghép da."
+    },
+    {
+      "para_id": "c0224p0090",
+      "index": 90,
+      "raw_zh": "還可能是衣服和皮膚都沒事，但是五髒六腑都熟了，鼻孔冒出來烤肉的香味兒。",
+      "translated_vi": "Thậm chí có thể quần áo lẫn làn da đều nguyên vẹn bình an vô sự, nhưng lục phủ ngũ tạng bên trong đã chín nhừ bốc ra mùi thịt nướng thơm lừng qua lỗ mũi."
+    },
+    {
+      "para_id": "c0224p0091",
+      "index": 91,
+      "raw_zh": "很隨機，很肆意，很詭異。",
+      "translated_vi": "Cực kỳ ngẫu nhiên, cực kỳ tùy hứng, và cực kỳ quái dị."
+    },
+    {
+      "para_id": "c0224p0092",
+      "index": 92,
+      "raw_zh": "傑克忙轉向，企圖繞過那個綠色的光環。",
+      "translated_vi": "Jack vội vàng bẻ lái chuyển hướng, mưu toan bay lượn vòng tránh né vầng quang hoàn màu xanh lục kia."
+    },
+    {
+      "para_id": "c0224p0093",
+      "index": 93,
+      "raw_zh": "然而墨菲定律很少讓人失望。",
+      "translated_vi": "Thế nhưng định luật Murphy hiếm khi nào khiến người ta phải thất vọng."
+    },
+    {
+      "para_id": "c0224p0094",
+      "index": 94,
+      "raw_zh": "那綠色的光環就那麽突然消失了。",
+      "translated_vi": "Vầng quang hoàn xanh lục kia thình lình biến mất không còn tăm tích."
+    },
+    {
+      "para_id": "c0224p0095",
+      "index": 95,
+      "raw_zh": "這現象倒是不奇怪，畢竟球狀閃電是可以靜止狀態下，突然提速到每小時兩萬多公裡，堪比瞬移。",
+      "translated_vi": "Hiện tượng này vốn chẳng có gì lạ, bởi lẽ sét hòn hoàn toàn có khả năng từ trạng thái tĩnh lặng bất động tức thì tăng tốc lên hơn hai vạn cây số mỗi giờ, sánh ngang với thuật dịch chuyển tức thời."
+    },
+    {
+      "para_id": "c0224p0096",
+      "index": 96,
+      "raw_zh": "而且這種急速，只出現在晴天之下的球狀閃電，一如今天。",
+      "translated_vi": "Hơn nữa tốc độ siêu phàm này chỉ xuất hiện ở những khối sét hòn sinh ra vào ngày nắng ráo quang mây, y hệt như ngày hôm nay vậy."
+    },
+    {
+      "para_id": "c0224p0097",
+      "index": 97,
+      "raw_zh": "幾個人長舒了一口氣，因為按照球狀閃電的速度，這個時候恐怕都到北半球了。",
+      "translated_vi": "Mấy người cùng thở phào nhẹ nhõm một hơi, bởi vì chiếu theo tốc độ khủng khiếp của sét hòn thì giờ phút này e rằng nó đã bay tít sang tận Bắc Bán Cầu rồi."
+    },
+    {
+      "para_id": "c0224p0098",
+      "index": 98,
+      "raw_zh": "然而，沒等他們把這口氣吐完，突然一下全都面帶恐懼的愣在當場。",
+      "translated_vi": "Thế nhưng khi ngụm khí nhẹ nhõm còn chưa kịp thở ra hết, tất cả mọi người đột nhiên biến sắc kinh hoàng chết sững ngay tại chỗ."
+    },
+    {
+      "para_id": "c0224p0099",
+      "index": 99,
+      "raw_zh": "因為，一個綠色的，直徑不到四十公分的光環，就那麽視飛機的外殼為無物般，慢悠悠的自機艙底部飄了進來，懸停在機艙的中間，好像一隻眼睛，注視著他們。",
+      "translated_vi": "Bởi vì một vầng quang hoàn màu xanh lục với đường kính chưa đầy bốn mươi phân, cứ thế xem lớp vỏ hợp kim máy bay như chốn không người, từ tốn trôi lơ lửng xuyên qua đáy khoang máy bay đi vào, dừng lại ngay giữa lòng khoang phi cơ như một con mắt quỷ dị đang chăm chú dõi nhìn bọn họ."
+    },
+    {
+      "para_id": "c0224p0100",
+      "index": 100,
+      "raw_zh": "琳達是個高材生，懂得的知識非常多，而她就坐在雲千峰的旁邊。",
+      "translated_vi": "Linda là một sinh viên xuất sắc, kiến thức tích lũy vô cùng uyên bác, mà cô lại đang ngồi ngay cạnh Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0224p0101",
+      "index": 101,
+      "raw_zh": "就見琳達用極為緩慢的動作抬起手，捂住了自己的口鼻。",
+      "translated_vi": "Chỉ thấy Linda cử động cánh tay với động tác cực kỳ chậm rãi cẩn trọng, đưa tay bịt chặt lấy miệng và mũi của mình."
+    },
+    {
+      "para_id": "c0224p0102",
+      "index": 102,
+      "raw_zh": "人的呼吸會使身邊的溫度發生變化，氣流發生變化，濕度發生變化，而這些變化都能夠吸引球狀閃電的光臨。",
+      "translated_vi": "Hơi thở của con người sẽ làm biến đổi nhiệt độ, luồng khí lưu và độ ẩm ở môi trường xung quanh, mà tất cả những biến chuyển vi mô ấy đều có thể thu hút sét hòn mò tới ghé thăm."
+    },
+    {
+      "para_id": "c0224p0103",
+      "index": 103,
+      "raw_zh": "雲千峰看到這一幕，如法炮製，緩緩的抬起手，也把自己的口鼻捂住。",
+      "translated_vi": "Vân Thiên Phong chứng kiến cảnh tượng này liền làm theo y hệt, từ từ nhấc tay lên bịt kín cả mũi lẫn miệng."
+    },
+    {
+      "para_id": "c0224p0104",
+      "index": 104,
+      "raw_zh": "接下來是傑裡周，然後是吧台旁的那三位。",
+      "translated_vi": "Tiếp đó là Jerry Chu, rồi tới lượt ba người ngồi bên quầy bar đằng trước."
+    },
+    {
+      "para_id": "c0224p0105",
+      "index": 105,
+      "raw_zh": "時間一分一秒的過去，大家的臉都越來越紅。",
+      "translated_vi": "Thời gian trôi qua từng giây từng phút, sắc mặt của tất cả mọi người đều đỏ bừng lên như gấc chín."
+    },
+    {
+      "para_id": "c0224p0106",
+      "index": 106,
+      "raw_zh": "在這樣安靜的，氣流穩定的空間裡，下一個呼吸的人，很可能就是球狀閃電的選擇。",
+      "translated_vi": "Trong một không gian tĩnh lặng đến ngột ngạt với luồng khí lưu ổn định thế này, kẻ nào thở ra nhịp tiếp theo rất có thể sẽ trở thành mục tiêu được sét hòn lựa chọn."
+    },
+    {
+      "para_id": "c0224p0107",
+      "index": 107,
+      "raw_zh": "肺活量的比拚，開始了。",
+      "translated_vi": "Cuộc đọ sức dung tích phổi, chính thức bắt đầu."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0309|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Số Một vẻ mặt không phục, đương nhiên là nhằm vào Đế Cốc rồi.
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一座|một tòa
+M2|六道|sáu luồng
+M3|六道|sáu luồng
+M4|六道|sáu luồng
+M5|六道|sáu luồng
+M6|六道|sáu luồng
+M7|一張|một tấm
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §58):
+§1 [Ø=云千峰]這女人傲嬌的很，左手沒了都沒改過來，真可謂是本性難移。
+§2 [Ø=云千峰]雲千峰該說的說了，這才深吸一口氣，跳進了那溫度舒適的湖水之中。
+§3 [Ø=云千峰]湖水比想象的清澈，可見度五六米內是非常清晰的， [||] 雲千峰可以看到更遠，甚至可以看清微光下的物品，這也得益於他完全掌控了全套蚩尤的加持。
+§4 [Ø=云千峰]至於氧氣呼吸，那更不是問題。
+§5 [Ø=云千峰]雲千峰在水下，完全可以靠著蚩尤甲在水下呼吸，甚至於雲千峰感覺這玩意還能吸收光能， [||] 對月光很敏感，對陽光要差一些，顯然光的強弱不是重點，光波的長度才是核心。
+§6 [Ø=云千峰]理論上來講，雲千峰現在算是半個機器人，只不過和四維度生物山神一樣，擁有兩個身體，但雲千峰比山神一族強的地方是， [||] 兩個身體可以融合，也可以分離，兩個都是他，兩個都是活的，而不用像山神一族一樣，需要一個靜止的神軀躲在時間的背後。
+§7 [Ø=云千峰]雲千峰在水下揮動手臂，蹬著腿，快速的向著湖底沉下去。
+§8 [Ø=云千峰]一路上，極乾淨，沒有見到任何生物。
+§9 [Ø=云千峰]“這裡溫度適宜，怎麽會一點生命痕跡都沒有？奇怪！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§10 [Ø=云千峰]想著，雲千峰加快了下潛的速度。
+§11 [Ø=云千峰]“這湖水如此之深，竟然還沒有看到底部，我這已經下潛了上千米， [||] 不知還有多深，看來這裡的深度，遠遠超過貝加爾湖。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§12 [Ø=云千峰]貝加爾湖最深處才一千幾百米，這裡很顯然超過了。
+§13 [Ø=云千峰]如此下潛了兩千余米，已經超過了潛艇的下潛深度。
+§14 [Ø=云千峰]“巫人藏下的東西，看來真的只有集齊了完整的蚩尤才能得到， [||] 否則別說四庫對衝，就連下這戌庫之地，都辦不到。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 [Ø=云千峰]雲千峰可以感覺到，蚩尤甲不是在抵抗水壓， [||] 而是在調整自己和雲千峰的身體，來適應水壓，這無疑比能夠抵抗壓力更強大也更聰明。
+§16 “到底了！可那是什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 [Ø=云千峰]水下光線已經極暗，哪怕雲千峰此時的視力，也無法看清多遠，更遠處則只能勉強看到黑乎乎的輪廓。
+§18 [Ø=云千峰]這極深的水下，好似有一座[M1:một tòa]大樓的框架，沒有牆壁，只有橫梁豎柱的層層架構。
+§19 [Ø=云千峰]在這層疊的框架上，一層一層的擺滿了棺材大小的東西，一個挨著一個，密密麻麻。
+§20 [Ø=云千峰]雲千峰遲疑了片刻，向著深處那層層疊疊的東西遊過去。
+§21 [Ø=云千峰]越來越近，那些東西的模樣也越來越清晰。
+§22 [Ø=云千峰]那是一種艙體，上面帶著透明的晶體罩，和南山之中，自己真身躺著的晶體罩相似。
+§23 [Ø=云千峰]不安的情緒自雲千峰心中升起，他已經猜到那些艙體內都是什麽。
+§24 [Ø=云千峰]靠到近前，那艙體內的一切終於勉強看得清楚。
+§25 [Ø=云千峰]不出預料，那時一個個沉睡靜止的意識體。
+§26 [Ø=云千峰]雲千峰看著那深不知多少，長寬也不知多少的框架，和上面密布的艙體，不由得後背發麻：
+§27 “這這龐大數量的意識體怎麽會沉在這湖底？巫族人藏下的？那麽這些意識體應該是巫族最後的記憶。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 這是唯一的可能。
+§29 [Ø=云千峰]那就是巫族在徹底敗給帝嚳的算計後，將全知之眼內的巫人意識藏在了這四庫之島上，沉在了這湖底，等待蘇醒的那一天。
+§30 [Ø=云千峰]雲千峰仔細觀察那艙體，就見每個艙體內都有一個好似溫度計的透明管子。
+§31 [Ø=云千峰]在這個管子裡有著液體，管子上有著刻度， [||] 伴隨著雲千峰激蕩旁邊的水流，管子內的液體上下浮動，在不同的刻度上徘徊。
+§32 [Ø=云千峰]雲千峰看著那管子上的刻度，雖然不認識巫人的數字，但雲千峰分辨得出顏色，很明顯管子上的刻度分成三個部分， [||] 中間應該是安全的刻度范圍，一旦管子裡液體標示的刻度達到中間這個刻度之外，連接著管子的一個平衡器就會移動，那麽結果應該就是這些晶體艙衝出水面。
+§33 也就意味著幾千甚是上萬年前的巫人最後記憶的蘇醒。
+§34 雲千峰知道自己面對的難題是什麽了。
+§35 [Ø=云千峰]如果自己將海水引到這低於海平面的湖水之中，造成辰戌相衝，那麽釋放進入的海水，勢必造成這裡壓力的變化， [||] 那麽這些艙體內的平衡裝置就會被打破，全部衝出水面，巫族最後的記憶，這數量龐大的巫人意識就會蘇醒復活。
+§36 [Ø=云千峰]而那時候，即便這四庫之島內藏著的寶物出現，寶物最終的歸屬也不一定就是雲千峰的，因為巫人很可能會搶奪。
+§37 [Ø=云千峰]如果不行使四庫相衝，那麽巫人最後的記憶自然會繼續沉睡，但也意味著雲千峰永遠別想得到這裡藏著的寶物。
+§38 [Ø=云千峰]這很可能是六道[M2:sáu luồng]盤的寶物，雲千峰怎麽舍得放棄。
+§39 [Ø=云千峰]“這或許才是帝嚳當年不來取六道[M3:sáu luồng]盤的原因吧？他也不知道該如何處理或者對付這些善戰的巫族記憶，而現在這個難題，轉嫁到了我的頭上。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 [Ø=云千峰]雲千峰現在只有兩個選擇，冒險一試，如果失敗， [||] 恐怕只有自己能活著離開，其他人在這樣數量的巫族意識下，絕無生理。
+§41 [Ø=云千峰]要麽就是放棄六道[M5:sáu luồng][M4:sáu luồng]盤，放棄將全知之眼變成完整的六道[M5:sáu luồng][M4:sáu luồng]輪回，以後只能收納意識靈魂，但永遠無法代謝意識靈魂。
+§42 [Ø=云千峰]雲千峰很清楚，一個空間無論多大，終究都是有限的，包括宇宙。
+§43 [Ø=云千峰]如果無法代謝收納的意識靈魂，全知之眼內的地府空間，早晚也會像地球一樣，超載。
+§44 [Ø=云千峰]“先回去，讓所有人逃得遠遠的再說，否則一旦開啟衝庫，後果難料。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§45 [Ø=云千峰]雲千峰最終還是選擇冒險一搏，他已經走到今天這一步，怎麽會放棄完全掌控六道[M6:sáu luồng]的可能。
+§46 [Ø=云千峰]就在他準備轉身離開之時，突然一種如芒在背的感覺出現。
+§47 “我被危險的生物鎖定了！是河魁！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§48 [Ø=云千峰]戌土之湖，必生河魁。
+§49 [Ø=云千峰]雲千峰穩住身形，緩緩轉身，看向身後。
+§50 [Ø=云千峰]就見一個人馬座原形懸浮在水中，自己的身後。
+§51 [Ø=云千峰]那是一匹白馬，但馬頭的位置，卻是一個人的上半身。
+§52 [Ø=云千峰]她青色長發披散，在水中飄蕩，額頭綁著一個鑲嵌著藍寶石的額帶。
+§53 [Ø=云千峰]很講究的是，身上還穿著實在稱不上嚴實的皮甲。
+§54 [Ø=云千峰]有沒有保護作用不好說，但肯定會讓敵人超常發揮戰鬥力。
+§55 [Ø=云千峰]在那人馬座上半身的手裡，提著一張[M7:một tấm]弓， [||] 此時弓拉滿弦，一顆鋒利的箭矢掛在弦上，鋒利的箭尖正對著雲千峰的心窩位置。
+§56 [Ø=云千峰]說來奇怪，當看到身後那物時， [||] 雲千峰腦海裡第一想到的不是恐懼，也不是如何對付這物，而是疑惑：
+§57 [Ø=云千峰]“這玩意要是吃東西，是吃到人肚子還是馬肚子裡？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§58 這的確是個問題！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 58 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§58. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

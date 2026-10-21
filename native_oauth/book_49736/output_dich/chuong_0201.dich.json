@@ -1,0 +1,685 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 201,
+  "title": "Chương 201: Con Số Ba Mươi",
+  "total_paragraphs": 112,
+  "translated_paragraphs": 112,
+  "source_hash": "e96e6614a4a8a04f1d72b489646f5fb59a70c774576239c73250973721117397",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0201p0001",
+      "index": 1,
+      "raw_zh": "第201章 數字三十",
+      "translated_vi": "Chương 201: Con Số Ba Mươi"
+    },
+    {
+      "para_id": "c0201p0002",
+      "index": 2,
+      "raw_zh": "遊輪中央大廳內。",
+      "translated_vi": "Bên trong đại sảnh trung tâm của du thuyền."
+    },
+    {
+      "para_id": "c0201p0003",
+      "index": 3,
+      "raw_zh": "雲千峰看著手機屏幕上羅琳娜的照片，禁不住笑出了聲。",
+      "translated_vi": "Vân Thiên Phong nhìn bức ảnh của Lorina trên màn hình điện thoại, không nhịn được bật cười thành tiếng."
+    },
+    {
+      "para_id": "c0201p0004",
+      "index": 4,
+      "raw_zh": "白狐法緹娜看著雲千峰的表情，好奇道：",
+      "translated_vi": "Cáo trắng Fatina nhìn biểu cảm của Vân Thiên Phong, tò mò hỏi:"
+    },
+    {
+      "para_id": "c0201p0005",
+      "index": 5,
+      "raw_zh": "“發生了什麽事？你這麽開心？”",
+      "translated_vi": "“Có chuyện gì xảy ra thế? Sao anh lại vui vẻ đến vậy?”"
+    },
+    {
+      "para_id": "c0201p0006",
+      "index": 6,
+      "raw_zh": "雲千峰低聲道：",
+      "translated_vi": "Vân Thiên Phong hạ giọng:"
+    },
+    {
+      "para_id": "c0201p0007",
+      "index": 7,
+      "raw_zh": "“今天的這個怪事，無論目的是什麽，現在危險一定是解除了。”",
+      "translated_vi": "“Chuyện kỳ quái ngày hôm nay, bất kể mục đích của chúng là gì, thì giờ đây nguy hiểm chắc chắn đã được giải trừ.”"
+    },
+    {
+      "para_id": "c0201p0008",
+      "index": 8,
+      "raw_zh": "白狐法緹娜不解，問道：",
+      "translated_vi": "Cáo trắng Fatina không hiểu, bèn hỏi:"
+    },
+    {
+      "para_id": "c0201p0009",
+      "index": 9,
+      "raw_zh": "“就因為這張照片？這女人很漂亮。”",
+      "translated_vi": "“Chỉ vì bức ảnh này thôi sao? Người phụ nữ này quả thực rất đẹp.”"
+    },
+    {
+      "para_id": "c0201p0010",
+      "index": 10,
+      "raw_zh": "雲千峰點了點頭，道：",
+      "translated_vi": "Vân Thiên Phong gật đầu, nói:"
+    },
+    {
+      "para_id": "c0201p0011",
+      "index": 11,
+      "raw_zh": "“對，就是因為這張照片。這大廳內所有的人，如果我猜測沒錯的話，都是我這樣的小人物，哪怕失蹤了，也不會有誰真的關心。",
+      "translated_vi": "“Đúng thế, chính là nhờ bức ảnh này. Toàn bộ người trong đại sảnh này, nếu tôi đoán không nhầm, đều là những nhân vật nhỏ bé tầm thường như tôi, cho dù có mất tích đi chăng nữa cũng chẳng có ai thực sự bận tâm đoái hoài."
+    },
+    {
+      "para_id": "c0201p0012",
+      "index": 12,
+      "raw_zh": "如此看來，這些人做事很小心謹慎，不容許出現差錯，而如今差錯出現了，他們必定收手。”",
+      "translated_vi": "Xem ra đám người này hành sự vô cùng cẩn trọng dè dặt, tuyệt đối không dung thứ cho bất kỳ sai sót nào xảy ra. Mà nay sai sót đã hiện hữu, bọn chúng tất nhiên sẽ phải thu tay.”"
+    },
+    {
+      "para_id": "c0201p0013",
+      "index": 13,
+      "raw_zh": "小人物的悲哀就在這裡，那就是這世界上，除了你自己和你的父母，沒人真的在意伱的死活，除了此三者外的一切。",
+      "translated_vi": "Nỗi bi ai của kẻ thấp cổ bé họng chính là ở chỗ đó: trên cõi đời này, ngoại trừ bản thân cậu cùng cha mẹ sinh thành ra, chẳng một ai thực sự quan tâm đến sự sống chết của cậu cả."
+    },
+    {
+      "para_id": "c0201p0014",
+      "index": 14,
+      "raw_zh": "然而你卻無法去抱怨這種不公平，就像雪花沒法抱怨為什麽別的雪花落在了南極，而自己卻摞在了煤堆。",
+      "translated_vi": "Thế nhưng người ta lại chẳng thể nào oán thán sự bất công ấy, hệt như bông tuyết chẳng thể oán trách vì sao những bông tuyết khác được đậu nơi Nam Cực tinh khôi, còn mình thì lại rơi xuống đống than đen đúa bẩn thỉu."
+    },
+    {
+      "para_id": "c0201p0015",
+      "index": 15,
+      "raw_zh": "正如雲千峰所料，這所謂的貴賓舞會沒有發生任何事情。",
+      "translated_vi": "Đúng như Vân Thiên Phong dự liệu, cái gọi là buổi vũ hội khách VIP này rốt cuộc chẳng hề xảy ra bất cứ sự cố nào."
+    },
+    {
+      "para_id": "c0201p0016",
+      "index": 16,
+      "raw_zh": "雲千峰肚子餓的難受，便抱著白狐法緹娜離開舞會現場，沒有人阻攔，回到了他們居住的甲板層，隨便點了一些吃食，便回到了自己的艙室。",
+      "translated_vi": "Bụng đói cồn cào khó chịu, Vân Thiên Phong liền ôm cáo trắng Fatina rời khỏi hiện trường vũ hội; chẳng có ai cản bước, anh quay trở lại tầng boong phòng nghỉ của mình, tùy tiện gọi vài món lót dạ rồi trở về khoang thuyền."
+    },
+    {
+      "para_id": "c0201p0017",
+      "index": 17,
+      "raw_zh": "對於沒有手指的法緹娜來說，吃飯是很沒有尊嚴的，因為需要雲千峰喂，她才能不需要像畜生一樣用舌頭舔盤子。",
+      "translated_vi": "Đối với một kẻ chẳng có ngón tay như Fatina, việc ăn uống thực sự vô cùng mất thể diện, bởi cô cần Vân Thiên Phong đút từng miếng thì mới không phải giống như loài thú hoang dùng lưỡi liếm láp trên đĩa thức ăn."
+    },
+    {
+      "para_id": "c0201p0018",
+      "index": 18,
+      "raw_zh": "夜裡，雲千峰霸佔著床鋪，白狐法緹娜爭奪床鋪失敗後，窩在沙發上憤憤不平。",
+      "translated_vi": "Đêm xuống, Vân Thiên Phong độc chiếm chiếc giường đệm lớn. Sau khi tranh giành giường bất thành, cáo trắng Fatina đành phải cuộn tròn trên chiếc ghế sô pha, trong lòng ngập tràn ấm ức hậm hực."
+    },
+    {
+      "para_id": "c0201p0019",
+      "index": 19,
+      "raw_zh": "如此在遊輪上閑極無聊了十幾天，遊輪終於到達了叁亞。",
+      "translated_vi": "Cứ thế nhàn rỗi đến phát chán trên du thuyền suốt hơn mười ngày trời, con tàu cuối cùng cũng cập bến Tam Á."
+    },
+    {
+      "para_id": "c0201p0020",
+      "index": 20,
+      "raw_zh": "雖然已經沒有了身份，換句話說，這世界上已經沒有華夏的雲千峰。",
+      "translated_vi": "Dẫu rằng bản thân đã không còn danh tính hợp pháp, hay nói cách khác, trên thế giới này đã chẳng còn một Vân Thiên Phong mang quốc tịch Hoa Hạ nữa."
+    },
+    {
+      "para_id": "c0201p0021",
+      "index": 21,
+      "raw_zh": "但是不知道為什麽，雙腳落在華夏的土地上時，雲千峰沒來由的感覺心安。",
+      "translated_vi": "Nhưng chẳng hiểu vì sao, khoảnh khắc hai bàn chân chạm xuống mảnh đất Hoa Hạ, nơi đáy lòng Vân Thiên Phong lại dâng lên một cảm giác an tâm khó tả."
+    },
+    {
+      "para_id": "c0201p0022",
+      "index": 22,
+      "raw_zh": "家這個東西，真的隻存在於心裡。",
+      "translated_vi": "Khái niệm về “nhà”, quả thực chỉ tồn tại nơi sâu thẳm trong tâm tưởng mỗi người."
+    },
+    {
+      "para_id": "c0201p0023",
+      "index": 23,
+      "raw_zh": "抱著白狐法緹娜打了一輛出租車，直奔幾十公裡外的雲氏宗祠。",
+      "translated_vi": "Anh ôm cáo trắng Fatina vẫy một chiếc taxi, chạy thẳng tới nhà thờ họ Vân nằm cách đó mấy chục cây số."
+    },
+    {
+      "para_id": "c0201p0024",
+      "index": 24,
+      "raw_zh": "此處宗祠，是雲氏在華夏最大的祠堂，始建於明朝永樂年間，因建於橫山之上，所以被稱為橫山祠。",
+      "translated_vi": "Nhà thờ họ này là từ đường lớn nhất của dòng họ Vân tại đất Hoa Hạ, được khởi dựng từ thời Vĩnh Lạc triều nhà Minh; vì tọa lạc trên núi Hoành Sơn nên thường được gọi là Hoành Sơn Từ."
+    },
+    {
+      "para_id": "c0201p0025",
+      "index": 25,
+      "raw_zh": "雲千峰抱著白狐站在祠堂之前，看著三三倆倆的遊客，歎了口氣。",
+      "translated_vi": "Vân Thiên Phong ôm con cáo trắng đứng trước cửa từ đường, nhìn từng tốp du khách dăm ba người thong dong dạo bước, khẽ thở dài một tiếng."
+    },
+    {
+      "para_id": "c0201p0026",
+      "index": 26,
+      "raw_zh": "這裡已經是當地的旅遊景點。",
+      "translated_vi": "Nơi đây đã trở thành một điểm du lịch tham quan của địa phương."
+    },
+    {
+      "para_id": "c0201p0027",
+      "index": 27,
+      "raw_zh": "向祠堂的管理員訴說了來意，並表示自己是海外雲氏回來尋祖，頓時受到了熱情的歡迎。",
+      "translated_vi": "Sau khi giãi bày mục đích ghé thăm với người quản lý từ đường và tự xưng mình là con cháu họ Vân ở hải ngoại lặn lội trở về nhận tổ quy tông, anh lập tức nhận được sự đón tiếp vô cùng nồng hậu."
+    },
+    {
+      "para_id": "c0201p0028",
+      "index": 28,
+      "raw_zh": "就好像海外這個詞，直接把自己的地位提高了一般。",
+      "translated_vi": "Cứ như thể hai chữ “hải ngoại” kia đã lập tức nâng tầm vị thế của anh lên cả một bậc vậy."
+    },
+    {
+      "para_id": "c0201p0029",
+      "index": 29,
+      "raw_zh": "這種熱情已經不是好客那麽簡單。",
+      "translated_vi": "Sự nhiệt tình ấy e rằng chẳng còn đơn thuần là lòng hiếu khách nữa."
+    },
+    {
+      "para_id": "c0201p0030",
+      "index": 30,
+      "raw_zh": "得知要看族譜，必須當地的雲氏族長同意，而且放置族譜的保險箱鑰匙也只有族長才有。",
+      "translated_vi": "Được biết muốn tra xem gia phả thì bắt buộc phải có sự đồng ý của tộc trưởng họ Vân nơi đây, hơn nữa chìa khóa chiếc két sắt cất giữ gia phả cũng chỉ có tộc trưởng mới nắm giữ."
+    },
+    {
+      "para_id": "c0201p0031",
+      "index": 31,
+      "raw_zh": "不過既然雲千峰是洋人，那自然不用雲千峰去尋找族長，自然有人跑腿，免費的那種。",
+      "translated_vi": "Tuy nhiên, đã mang cái mác kiều bào hải ngoại thì dĩ nhiên chẳng cần phiền tới Vân Thiên Phong phải thân chinh đi tìm tộc trưởng; khắc có người lăng xăng chạy việc thay anh, mà lại còn là phục vụ nhiệt tình không lấy một xu."
+    },
+    {
+      "para_id": "c0201p0032",
+      "index": 32,
+      "raw_zh": "也不知道他們圖的什麽。",
+      "translated_vi": "Cũng chẳng rõ rốt cuộc bọn họ mưu cầu điều gì."
+    },
+    {
+      "para_id": "c0201p0033",
+      "index": 33,
+      "raw_zh": "雲千峰坐在棗木的椅子上，點燃了一根細杆雪茄，吸著煙等待著。",
+      "translated_vi": "Vân Thiên Phong ngồi trên chiếc ghế gỗ táo, châm một điếu xì gà thân mảnh, nhả khói ung dung chờ đợi."
+    },
+    {
+      "para_id": "c0201p0034",
+      "index": 34,
+      "raw_zh": "在他身後是禁止吸煙四個大字，不過雲千峰是真的沒注意，而周圍的人覺得這很正常。",
+      "translated_vi": "Ngay sau lưng anh là tấm biển ghi bốn chữ lớn “CẤM HÚT THUỐC LÁ”, song Vân Thiên Phong thực sự không để ý tới, còn những người xung quanh lại cảm thấy điều này hoàn toàn bình thường."
+    },
+    {
+      "para_id": "c0201p0035",
+      "index": 35,
+      "raw_zh": "不多時，老族長坐著車趕來，在族長的笑容裡，雲千峰沒看到那種阿諛，而就是對於同宗同族的一種善意。",
+      "translated_vi": "Không bao lâu sau, vị lão tộc trưởng ngồi xe vội vã chạy tới; trong nụ cười của cụ, Vân Thiên Phong không hề thấy nét a dua nịnh nọt nào, mà chỉ đơn thuần là thiện ý chân thành dành cho người cùng chung huyết thống cội nguồn."
+    },
+    {
+      "para_id": "c0201p0036",
+      "index": 36,
+      "raw_zh": "這讓他舒服許多，因為這才應該是華夏的基本人樣。",
+      "translated_vi": "Điều đó khiến anh cảm thấy thoải mái hơn rất nhiều, bởi lẽ đây mới chính là cốt cách căn bản đáng có của con người Hoa Hạ."
+    },
+    {
+      "para_id": "c0201p0037",
+      "index": 37,
+      "raw_zh": "老頭名叫雲光泰，長子長孫，當地雲氏輩分最大的一位。",
+      "translated_vi": "Lão nhân tên gọi Vân Quang Thái, là trưởng tử đích tôn, người có vai vế cao nhất trong dòng họ Vân tại địa phương."
+    },
+    {
+      "para_id": "c0201p0038",
+      "index": 38,
+      "raw_zh": "“小夥子，你是哪一支的？什麽輩分？”",
+      "translated_vi": "“Cậu thanh niên, cháu thuộc chi phái nào? Vai vế chữ đệm ra sao?”"
+    },
+    {
+      "para_id": "c0201p0039",
+      "index": 39,
+      "raw_zh": "雲千峰急忙客氣道：",
+      "translated_vi": "Vân Thiên Phong vội vàng nhã nhặn đáp:"
+    },
+    {
+      "para_id": "c0201p0040",
+      "index": 40,
+      "raw_zh": "“北遷那一支，我叫雲千峰，但實際是祥字輩，譜祖是南北朝時期的雲守身。”",
+      "translated_vi": "“Cháu thuộc chi dời lên phía bắc ạ. Tên cháu là Vân Thiên Phong, nhưng theo vai vế thực tế là chữ Tường, tổ khai phả là ngài Vân Thủ Thân thời Nam Bắc Triều.”"
+    },
+    {
+      "para_id": "c0201p0041",
+      "index": 41,
+      "raw_zh": "老者很顯然對雲氏源流極其熟悉，當下喜道：",
+      "translated_vi": "Lão nhân rõ ràng vô cùng tường tận ngọn ngành dòng dõi họ Vân, lập tức mừng rỡ nói:"
+    },
+    {
+      "para_id": "c0201p0042",
+      "index": 42,
+      "raw_zh": "“北遷那一支，按理說，你們才是咱們雲氏大枝的長房。”",
+      "translated_vi": "“Chi phái dời lên phía bắc ư! Đúng theo thứ bậc thì các cháu mới chính là chi trưởng của đại nhánh họ Vân chúng ta đấy!”"
+    },
+    {
+      "para_id": "c0201p0043",
+      "index": 43,
+      "raw_zh": "一邊說著，領著雲千峰走進遊客止步的房間，這房間內供奉著火神祝融，在祝融象下有一個紅木箱子。",
+      "translated_vi": "Vừa nói, cụ vừa dẫn Vân Thiên Phong bước vào căn phòng treo biển cấm du khách; bên trong căn phòng này phụng thờ Hỏa Thần Chúc Dung, bên dưới tượng Chúc Dung đặt một chiếc hòm gỗ gụ."
+    },
+    {
+      "para_id": "c0201p0044",
+      "index": 44,
+      "raw_zh": "老者打開紅木箱子，裡面是一個防水的保險箱，這裡面放著的便是雲氏的宗譜。",
+      "translated_vi": "Lão nhân mở hòm gỗ gụ ra, bên trong là một chiếc két sắt chống thấm nước; thứ cất giữ trong này chính là tông phổ của dòng họ Vân."
+    },
+    {
+      "para_id": "c0201p0045",
+      "index": 45,
+      "raw_zh": "族譜一拿出來，雲千峰便迫不及待的開始向上翻閱，首先找到了北遷那支的譜祖雲守身。",
+      "translated_vi": "Gia phả vừa được lấy ra, Vân Thiên Phong đã nóng lòng lật giở ngược dòng thời gian về trước, việc đầu tiên là tìm đến vị tổ khai phả của chi bắc thiên: Vân Thủ Thân."
+    },
+    {
+      "para_id": "c0201p0046",
+      "index": 46,
+      "raw_zh": "就見上書：",
+      "translated_vi": "Liền thấy trên trang sách ghi rõ:"
+    },
+    {
+      "para_id": "c0201p0047",
+      "index": 47,
+      "raw_zh": "雲守身，長房長孫，生隆安四年，離世始光二年。",
+      "translated_vi": "Vân Thủ Thân, trưởng phòng trưởng tôn, sinh năm Long An thứ tư, ly thế năm Thủy Quang thứ hai."
+    },
+    {
+      "para_id": "c0201p0048",
+      "index": 48,
+      "raw_zh": "雲守身生卒（公元400年—公元425年）",
+      "translated_vi": "Năm sinh năm mất của Vân Thủ Thân (Năm 400 Công nguyên — Năm 425 Công nguyên)."
+    },
+    {
+      "para_id": "c0201p0049",
+      "index": 49,
+      "raw_zh": "後面還介紹了416年，雲守身十七歲時，便遷其長子北去的記錄。",
+      "translated_vi": "Phía sau còn ghi chép thêm chi tiết: vào năm 416, khi Vân Thủ Thân mới mười bảy tuổi, ngài đã lệnh cho con trai trưởng của mình thiên di lên phương bắc."
+    },
+    {
+      "para_id": "c0201p0050",
+      "index": 50,
+      "raw_zh": "那個年代，十幾歲有幾個孩子，倒是正常得很，但讓未成年的兒子遠遷，這就不正常了。",
+      "translated_vi": "Vào thời đại hỗn loạn ấy, mười mấy tuổi đã có vài mụn con vốn là chuyện hết sức bình thường, thế nhưng việc để một đứa con chưa thành niên viễn xứ phương xa thì lại hoàn toàn bất thường."
+    },
+    {
+      "para_id": "c0201p0051",
+      "index": 51,
+      "raw_zh": "因為是新修的族譜，裡面加上了公元紀年，便於記錄。",
+      "translated_vi": "Do đây là bản gia phả mới tu sửa sau này nên đã được bổ sung thêm năm Công nguyên nhằm tiện cho việc ghi chép tra cứu."
+    },
+    {
+      "para_id": "c0201p0052",
+      "index": 52,
+      "raw_zh": "雲千峰詫異，道：",
+      "translated_vi": "Vân Thiên Phong kinh ngạc thốt lên:"
+    },
+    {
+      "para_id": "c0201p0053",
+      "index": 53,
+      "raw_zh": "“雲氏守身隻活了二十五歲？”",
+      "translated_vi": "“Ngài Vân Thủ Thân chỉ sống vỏn vẹn hai mươi lăm năm thôi sao?”"
+    },
+    {
+      "para_id": "c0201p0054",
+      "index": 54,
+      "raw_zh": "他回想著野人山神跡出口裂縫處的乾屍，那最起碼是個五十左右歲的人，絕不可能是二十五歲的年輕人。",
+      "translated_vi": "Anh nhớ lại xác ướp khô ở kẽ nứt lối ra của Thần tích trên núi Dã Nhân; người đó ít nhất cũng phải tầm ngũ tuần trở lên, tuyệt đối không thể là một thanh niên mới hai mươi lăm tuổi."
+    },
+    {
+      "para_id": "c0201p0055",
+      "index": 55,
+      "raw_zh": "當下心想：",
+      "translated_vi": "Trong lòng anh thầm nghĩ:"
+    },
+    {
+      "para_id": "c0201p0056",
+      "index": 56,
+      "raw_zh": "“看來我之前的猜想是錯誤的，野人山內的乾屍，絕不可能是雲守身，那麽雲氏與神跡之間就沒有什麽必然的聯系。”",
+      "translated_vi": "“Xem ra suy đoán trước đây của mình đã sai lầm. Xác khô bên trong núi Dã Nhân tuyệt đối không thể là Vân Thủ Thân, như vậy giữa họ Vân và Thần tích cũng chẳng có mối liên hệ tất yếu nào.”"
+    },
+    {
+      "para_id": "c0201p0057",
+      "index": 57,
+      "raw_zh": "想著，旁邊雲光泰聽到雲千峰的話，笑道：",
+      "translated_vi": "Đang suy nghĩ miên man thì Vân Quang Thái đứng bên cạnh nghe thấy lời lẩm bẩm của Vân Thiên Phong, bèn cười bảo:"
+    },
+    {
+      "para_id": "c0201p0058",
+      "index": 58,
+      "raw_zh": "“族譜的記錄是絕對準確的，都是原譜一輩輩修過來，一個字都不帶差的。”",
+      "translated_vi": "“Ghi chép trong gia phả là chuẩn xác tuyệt đối đấy cháu à, đều do các đời truyền lại rồi tu bổ nối tiếp, không sai lệch lấy nửa chữ đâu.”"
+    },
+    {
+      "para_id": "c0201p0059",
+      "index": 59,
+      "raw_zh": "這一個字都不帶差的話，卻突然讓雲千峰心念一動，因為他發現了族譜對雲守身記錄的不同之處。",
+      "translated_vi": "Câu nói “không sai lệch lấy nửa chữ” kia bất chợt khiến cõi lòng Vân Thiên Phong chấn động, bởi lẽ anh đã nhận ra một điểm dị thường trong cách ghi chép về Vân Thủ Thân."
+    },
+    {
+      "para_id": "c0201p0060",
+      "index": 60,
+      "raw_zh": "因為兩邊兩支已經無法判斷雲千峰和老人雲光泰誰的輩分高，雲千峰隻好叫他大爺。",
+      "translated_vi": "Do phân chia hai nhánh đã quá xa xôi, khó lòng xác định được giữa Vân Thiên Phong và cụ ông Vân Quang Thái ai có vai vế cao hơn, nên Vân Thiên Phong đành gọi cụ là bác."
+    },
+    {
+      "para_id": "c0201p0061",
+      "index": 61,
+      "raw_zh": "“大爺，為什麽別的人記錄為逝，而雲守身記錄為離世？”",
+      "translated_vi": "“Thưa bác, tại sao những người khác đều được ghi chép là ‘thệ’, riêng ngài Vân Thủ Thân lại được ghi là ‘ly thế’?”"
+    },
+    {
+      "para_id": "c0201p0062",
+      "index": 62,
+      "raw_zh": "雲光泰捋了捋胡子，搖頭，道：",
+      "translated_vi": "Vân Quang Thái vuốt chòm râu, lắc đầu đáp:"
+    },
+    {
+      "para_id": "c0201p0063",
+      "index": 63,
+      "raw_zh": "“那麽久遠的事情了，誰能知道哇！但老譜就是這麽記載的，而且不僅僅是你們的譜祖雲守身，裡面還有幾個也是標注的離世，而不是逝。”",
+      "translated_vi": "“Chuyện từ thuở xa xưa đến thế, ai mà biết rõ được chứ! Nhưng mà gia phả cổ ghi chép rành rành như vậy đấy, mà chẳng riêng gì vị tổ khai phả Vân Thủ Thân của các cháu đâu, bên trong vẫn còn vài vị nữa cũng được chú thích là ‘ly thế’ chứ không phải ‘thệ’.”"
+    },
+    {
+      "para_id": "c0201p0064",
+      "index": 64,
+      "raw_zh": "說著，他小心的翻展族譜，再次找到了一個標注離世的記錄。",
+      "translated_vi": "Vừa dứt lời, cụ cẩn thận lật giở từng trang gia phả, một lần nữa tìm ra một bản ghi chú có chữ ‘ly thế’."
+    },
+    {
+      "para_id": "c0201p0065",
+      "index": 65,
+      "raw_zh": "雲千峰一看時間，是唐玄宗安史之亂時期。",
+      "translated_vi": "Vân Thiên Phong liếc nhìn mốc thời gian, là vào thời Đường Huyền Tông xảy ra Loạn An Sử."
+    },
+    {
+      "para_id": "c0201p0066",
+      "index": 66,
+      "raw_zh": "雲光泰繼續翻找。",
+      "translated_vi": "Vân Quang Thái tiếp tục lật tìm."
+    },
+    {
+      "para_id": "c0201p0067",
+      "index": 67,
+      "raw_zh": "宋末元初，而且這位還是個道士。",
+      "translated_vi": "Cuối đời Tống đầu đời Nguyên, hơn nữa vị tiên tổ này còn là một đạo sĩ."
+    },
+    {
+      "para_id": "c0201p0068",
+      "index": 68,
+      "raw_zh": "接下來一個，標注為“離世”的時間是元末明初。",
+      "translated_vi": "Người kế tiếp được ghi chú “ly thế” rơi vào khoảng thời gian cuối đời Nguyên đầu đời Minh."
+    },
+    {
+      "para_id": "c0201p0069",
+      "index": 69,
+      "raw_zh": "隨後便再沒有這樣的記錄。",
+      "translated_vi": "Sau đó thì không còn bất kỳ ghi chép nào tương tự nữa."
+    },
+    {
+      "para_id": "c0201p0070",
+      "index": 70,
+      "raw_zh": "這幾個時間點，無法不讓人懷疑這幾個標注離世的先祖，一定有著什麽特別之處。",
+      "translated_vi": "Những mốc thời gian trùng hợp này khiến người ta không thể không hoài nghi rằng mấy vị tiên tổ được ghi chú “ly thế” chắc chắn phải có điểm gì đó vô cùng đặc biệt."
+    },
+    {
+      "para_id": "c0201p0071",
+      "index": 71,
+      "raw_zh": "都為華夏文明存亡之機。",
+      "translated_vi": "Toàn bộ đều rơi đúng vào những thời khắc tồn vong nguy cấp nhất của nền văn minh Hoa Hạ."
+    },
+    {
+      "para_id": "c0201p0072",
+      "index": 72,
+      "raw_zh": "再往前面看，漢武時期還有一個標注為離世的先祖。",
+      "translated_vi": "Lật ngược về phía trước nữa, vào thời Hán Vũ Đế cũng có một vị tiên tổ được ghi chú là “ly thế”."
+    },
+    {
+      "para_id": "c0201p0073",
+      "index": 73,
+      "raw_zh": "但是卻沒有更早的族譜記載了。",
+      "translated_vi": "Thế nhưng lại chẳng còn ghi chép gia phả nào xa xưa hơn thế."
+    },
+    {
+      "para_id": "c0201p0074",
+      "index": 74,
+      "raw_zh": "“大爺，沒有秦朝甚至更早的譜系記錄嗎？”",
+      "translated_vi": "“Bác ơi, không có ghi chép phả hệ thời nhà Tần hay thậm chí sớm hơn nữa sao ạ?”"
+    },
+    {
+      "para_id": "c0201p0075",
+      "index": 75,
+      "raw_zh": "他很想找到關於九屠妘起的記錄，而那是秦初年代。",
+      "translated_vi": "Anh rất muốn tìm kiếm manh mối ghi chép về Cửu Đồ Vân Khởi, người sống vào thời kỳ đầu nhà Tần."
+    },
+    {
+      "para_id": "c0201p0076",
+      "index": 76,
+      "raw_zh": "雲光泰笑著搖頭，道：",
+      "translated_vi": "Vân Quang Thái mỉm cười lắc đầu, bảo:"
+    },
+    {
+      "para_id": "c0201p0077",
+      "index": 77,
+      "raw_zh": "“沒有啦，這都是全華夏雲氏湊到一起，才能完成這麽大時間跨度的族譜，要找更早的，華夏應該是沒有了。”",
+      "translated_vi": "“Không còn đâu cháu, đây là nhờ toàn bộ con cháu họ Vân khắp cõi Hoa Hạ gom góp tư liệu lại mới hoàn thành được bộ gia phả có bước nhảy thời gian dài dằng dặc đến thế này đấy. Nếu muốn tìm những bản ghi sớm hơn thì e rằng trên đất Hoa Hạ chẳng còn nữa đâu.”"
+    },
+    {
+      "para_id": "c0201p0078",
+      "index": 78,
+      "raw_zh": "雲千峰聽出了其中的言外之意，當下忙問道：",
+      "translated_vi": "Vân Thiên Phong nghe ra được ẩn ý sâu xa trong lời nói ấy, lập tức dồn dập hỏi:"
+    },
+    {
+      "para_id": "c0201p0079",
+      "index": 79,
+      "raw_zh": "“那您的意思是，別處還有？”",
+      "translated_vi": "“Ý bác là ở nơi khác vẫn còn lưu giữ ạ?”"
+    },
+    {
+      "para_id": "c0201p0080",
+      "index": 80,
+      "raw_zh": "雲光泰點了點頭，道：",
+      "translated_vi": "Vân Quang Thái gật đầu, nói:"
+    },
+    {
+      "para_id": "c0201p0081",
+      "index": 81,
+      "raw_zh": "“清時，雲氏雲崇出洋，僑居泰國，勤懇持家，發展壯大，成為富甲一方的大豪，他曾在最亂的時候，傾盡全力保存很多華夏典籍，其中就有八姓竹書，裡面記載了秦前雲氏八姓的譜系。",
+      "translated_vi": "“Thời nhà Thanh, một người con họ Vân tên là Vân Sùng xuất dương, kiều ngụ tại đất Thái Lan, nhờ cần cù gây dựng cơ nghiệp mà ngày một lớn mạnh, trở thành một cự phú giàu có nức tiếng một phương. Vào những năm tháng loạn lạc điêu linh nhất, ông ấy từng dốc toàn lực bảo tồn rất nhiều điển tịch cổ của Hoa Hạ, trong đó có Bát Tính Trúc Thư ghi chép tường tận phả hệ tám họ của chi tộc họ Vân trước thời nhà Tần."
+    },
+    {
+      "para_id": "c0201p0082",
+      "index": 82,
+      "raw_zh": "只是雲崇後人早就更名換姓，與咱們斷了往來，我們幾次去求八姓竹書一看，都被拒絕。後生你若是有心，就走一趟泰國吧，若是能把八姓竹書拍照下來，我雲光泰給你鞠躬。”",
+      "translated_vi": "Chỉ hiềm nỗi con cháu đời sau của Vân Sùng từ lâu đã đổi tên đổi họ, cắt đứt hoàn toàn liên lạc với họ hàng chúng ta. Mấy bận chúng tôi cử người sang cầu xin được chiêm ngưỡng Bát Tính Trúc Thư một lần đều bị khước từ. Hậu sinh như cháu nếu có lòng, chi bằng hãy cất công sang Thái Lan một chuyến xem sao; nếu có thể chụp lại được hình ảnh của Bát Tính Trúc Thư, Vân Quang Thái này nguyện cúi đầu bái tạ cháu.”"
+    },
+    {
+      "para_id": "c0201p0083",
+      "index": 83,
+      "raw_zh": "雲千峰則表示，自己一定會去泰國試試，讓雲光泰好一陣激動，宴請了午餐和晚餐。",
+      "translated_vi": "Vân Thiên Phong liền tỏ rõ quyết tâm, khẳng định mình nhất định sẽ sang Thái Lan thử thời vận một phen, khiến Vân Quang Thái xúc động khôn xiết, khoản đãi anh linh đình cả bữa trưa lẫn bữa tối."
+    },
+    {
+      "para_id": "c0201p0084",
+      "index": 84,
+      "raw_zh": "雲千峰目標明確，沒有多做停留，直接買好了飛往泰國的機票，當夜乘機離開。",
+      "translated_vi": "Mục tiêu đã rành mạch rõ ràng, Vân Thiên Phong không hề nán lại lâu, lập tức đặt mua vé máy bay sang Thái Lan rồi lên đường ngay trong đêm."
+    },
+    {
+      "para_id": "c0201p0085",
+      "index": 85,
+      "raw_zh": "雲光泰派人專門送他去機場，可謂積極。",
+      "translated_vi": "Cụ Vân Quang Thái còn sốt sắng phái hẳn người đánh xe tiễn anh tận tới sân bay, đủ thấy lòng nhiệt thành đến mức nào."
+    },
+    {
+      "para_id": "c0201p0086",
+      "index": 86,
+      "raw_zh": "在飛機上，雲千峰看著手機屏幕上拍攝下來的，那幾位標注為“離世”的先祖記錄，沉思著。",
+      "translated_vi": "Ngồi trên khoang máy bay, Vân Thiên Phong chăm chú nhìn những bức ảnh chụp lại trang gia phả ghi chép về mấy vị tiên tổ có chú thích “ly thế”, chìm sâu vào trầm tư."
+    },
+    {
+      "para_id": "c0201p0087",
+      "index": 87,
+      "raw_zh": "白狐法緹娜見雲千峰這一看就是半個小時，一聲不吭的，便疑惑道：",
+      "translated_vi": "Cáo trắng Fatina thấy Vân Thiên Phong cứ nhìn chằm chằm màn hình suốt nửa tiếng đồng hồ mà chẳng thốt ra nửa lời, bèn thắc mắc hỏi:"
+    },
+    {
+      "para_id": "c0201p0088",
+      "index": 88,
+      "raw_zh": "“這樣看，能看出什麽來？”",
+      "translated_vi": "“Nhìn mãi như thế thì xem ra được trò trống gì chứ?”"
+    },
+    {
+      "para_id": "c0201p0089",
+      "index": 89,
+      "raw_zh": "雲千峰指著手機屏幕說道：",
+      "translated_vi": "Vân Thiên Phong chỉ ngón tay vào màn hình điện thoại, nói:"
+    },
+    {
+      "para_id": "c0201p0090",
+      "index": 90,
+      "raw_zh": "“你瞧，這幾位記錄為“離世”的雲氏族人，都是年紀不到三十歲，這是他們的共性，絕無超過三十歲之人。”",
+      "translated_vi": "“Cô nhìn xem, mấy vị tộc nhân họ Vân được ghi là ‘ly thế’ này thảy đều chưa tròn ba mươi tuổi. Đây chính là điểm chung giữa bọn họ, tuyệt đối không có ai vượt quá ngưỡng ba mươi tuổi cả.”"
+    },
+    {
+      "para_id": "c0201p0091",
+      "index": 91,
+      "raw_zh": "白狐法緹娜不解，道：",
+      "translated_vi": "Cáo trắng Fatina không hiểu, bảo:"
+    },
+    {
+      "para_id": "c0201p0092",
+      "index": 92,
+      "raw_zh": "“這有什麽奇怪的？”",
+      "translated_vi": "“Chuyện đó thì có gì kỳ lạ đâu?”"
+    },
+    {
+      "para_id": "c0201p0093",
+      "index": 93,
+      "raw_zh": "雲千峰說道：",
+      "translated_vi": "Vân Thiên Phong giải thích:"
+    },
+    {
+      "para_id": "c0201p0094",
+      "index": 94,
+      "raw_zh": "“很奇怪，因為其它三十歲以內死去的族人，卻沒有標注為“離世”，證明離世這個記錄很特殊，只不過已經沒人知道這是為什麽了。”",
+      "translated_vi": "“Vô cùng kỳ lạ là đằng khác. Bởi vì những tộc nhân khác qua đời trước tuổi ba mươi lại không hề được ghi chú là ‘ly thế’. Điều này chứng tỏ hai chữ ‘ly thế’ mang một ý nghĩa hết sức đặc thù, chỉ có điều ngày nay chẳng còn ai hay biết lý do thực sự đằng sau nữa.”"
+    },
+    {
+      "para_id": "c0201p0095",
+      "index": 95,
+      "raw_zh": "百思不得其解。",
+      "translated_vi": "Trăm mối nghĩ suy vẫn chẳng tìm ra lời giải đáp."
+    },
+    {
+      "para_id": "c0201p0096",
+      "index": 96,
+      "raw_zh": "三個小時眨眼就過，飛機已經在廊曼機場降落。",
+      "translated_vi": "Ba tiếng đồng hồ trôi qua trong chớp mắt, máy bay đã hạ cánh xuống sân bay Don Mueang."
+    },
+    {
+      "para_id": "c0201p0097",
+      "index": 97,
+      "raw_zh": "雲千峰再次踏上異國他鄉。",
+      "translated_vi": "Vân Thiên Phong một lần nữa đặt chân lên mảnh đất nơi xứ người."
+    },
+    {
+      "para_id": "c0201p0098",
+      "index": 98,
+      "raw_zh": "走出機場，悄然看到街上那複古的公交車，雲千峰突然整個人愣在那裡。",
+      "translated_vi": "Vừa bước ra khỏi cổng sân bay, tình cờ trông thấy chiếc xe buýt mang kiểu dáng hoài cổ chạy lướt trên đường phố, Vân Thiên Phong chợt sững sờ chết lặng tại chỗ."
+    },
+    {
+      "para_id": "c0201p0099",
+      "index": 99,
+      "raw_zh": "白狐見雲千峰一動不動，忙問道：",
+      "translated_vi": "Thấy Vân Thiên Phong bỗng dưng bất động như hóa đá, cáo trắng vội hỏi:"
+    },
+    {
+      "para_id": "c0201p0100",
+      "index": 100,
+      "raw_zh": "“怎麽了？”",
+      "translated_vi": "“Sao thế anh?”"
+    },
+    {
+      "para_id": "c0201p0101",
+      "index": 101,
+      "raw_zh": "雲千峰指著不遠處那輛複古的公交車，顫聲道：",
+      "translated_vi": "Vân Thiên Phong run rẩy chỉ tay về phía chiếc xe buýt hoài cổ cách đó không xa, giọng run run:"
+    },
+    {
+      "para_id": "c0201p0102",
+      "index": 102,
+      "raw_zh": "“我的父母就是在這樣一輛公交車上相遇相知，而後有了我。”",
+      "translated_vi": "“Cha mẹ tôi năm xưa chính là gặp gỡ và nên duyên trên một chiếc xe buýt hệt như thế này, rồi sau đó mới sinh ra tôi.”"
+    },
+    {
+      "para_id": "c0201p0103",
+      "index": 103,
+      "raw_zh": "他的聲音裡帶著驚恐。",
+      "translated_vi": "Giọng nói của anh ngập tràn nỗi bàng hoàng kinh hãi."
+    },
+    {
+      "para_id": "c0201p0104",
+      "index": 104,
+      "raw_zh": "白狐不解道：",
+      "translated_vi": "Cáo trắng khó hiểu nói:"
+    },
+    {
+      "para_id": "c0201p0105",
+      "index": 105,
+      "raw_zh": "“這有什麽好激動的呢？而且你在恐懼。”",
+      "translated_vi": "“Chuyện này có gì đáng để kích động đâu cơ chứ? Mà tôi thấy anh còn đang sợ hãi nữa kìa.”"
+    },
+    {
+      "para_id": "c0201p0106",
+      "index": 106,
+      "raw_zh": "雲千峰看著白狐法緹娜，沉聲道：",
+      "translated_vi": "Vân Thiên Phong nhìn thẳng vào cáo trắng Fatina, trầm giọng nói:"
+    },
+    {
+      "para_id": "c0201p0107",
+      "index": 107,
+      "raw_zh": "“但是有個力量在三十年前，阻止了我父母相遇，那個我沒有出生，擾亂了因果，為什麽是三十年前？為什麽雲氏族譜內標注為“離世”的人，都是三十歲以內？三十這個數字很可能才是關鍵！”",
+      "translated_vi": "“Nhưng có một thế lực vào ba mươi năm trước đã ngăn cản cha mẹ tôi gặp nhau, khiến cho bản thể tôi khi ấy không được sinh ra, làm xáo trộn toàn bộ nhân quả! Tại sao lại là ba mươi năm trước? Tại sao những người trong gia phả họ Vân được ghi chú là ‘ly thế’ đều chết dưới ba mươi tuổi? Rất có thể con số ba mươi này mới chính là mấu chốt then chốt!”"
+    },
+    {
+      "para_id": "c0201p0108",
+      "index": 108,
+      "raw_zh": "白狐法緹娜徹底聽傻了，她完全不明白雲千峰在說什麽，哪怕她的大腦連接著神的意識，依舊無法明了。",
+      "translated_vi": "Cáo trắng Fatina nghe xong thì ngơ ngác hoàn toàn; cô căn bản chẳng thể hiểu nổi Vân Thiên Phong đang nói về điều gì, dẫu cho bộ não của cô đang liên kết với ý thức của Thần linh đi chăng nữa thì vẫn không tài nào lĩnh hội nổi."
+    },
+    {
+      "para_id": "c0201p0109",
+      "index": 109,
+      "raw_zh": "雲千峰深深的吸了一口氣，說道：",
+      "translated_vi": "Vân Thiên Phong hít sâu một hơi, cất lời:"
+    },
+    {
+      "para_id": "c0201p0110",
+      "index": 110,
+      "raw_zh": "“走，咱們馬上去找到八姓竹書，只要找到了妘起的生卒年月，一切就有了答案！”",
+      "translated_vi": "“Đi thôi, chúng ta phải lập tức tìm cho ra Bát Tính Trúc Thư! Chỉ cần tra được năm sinh năm mất của Vân Khởi thì mọi ẩn số sẽ có câu trả lời!”"
+    },
+    {
+      "para_id": "c0201p0111",
+      "index": 111,
+      "raw_zh": "沒月票沒打賞的一天！！！",
+      "translated_vi": "Lại một ngày không có phiếu tháng cũng chẳng có donate thưởng chương!!!"
+    },
+    {
+      "para_id": "c0201p0112",
+      "index": 112,
+      "raw_zh": "祝大家好夢，晚安！！！",
+      "translated_vi": "Chúc mọi người mộng đẹp, chúc ngủ ngon!!!"
+    }
+  ]
+}

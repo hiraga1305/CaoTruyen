@@ -1,0 +1,132 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0282|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|六道|sáu luồng
+M2|一張|một tấm
+M3|六道|sáu luồng
+M4|六道|sáu luồng
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §88):
+§1 282.第282章 身入無間
+§2 第282章 身入無間
+§3 [Ø=云千峰]見到雲千峰盯著自己胸口的地藏王象掛墜，姮娥不動聲色的眨了兩下眼睛，肯定了雲千峰的猜測。
+§4 [Ø=云千峰]雲千峰看到了姮娥的眼神，確定了這地藏王象就是姮娥要傳達給自己的信息，想來一定是相關重大。
+§5 [Ø=云千峰]只是他現在完全不明白這是什麽意思，最麻煩的是他無法詢問。
+§6 [Ø=云千峰]雲千峰相信姮娥，因為姮娥看他時的眼神。
+§7 [Ø=云千峰]他無比確定，那眼神是如他知道自己是共工一樣的那朵花兒， [||] [Ø_SHIFT=姜柔甲]情緒崩潰時， [||] 白狐一樣的眼神，絕無虛假。
+§8 [Ø=姜柔甲]就在剛才，他還再次確定了一次那眼神，千真萬確。
+§9 [Ø=姜柔甲]雲千峰不知道姮娥為何對自己那麽好，或許只有姮娥知道， [||] 但他確定，帝嚳算漏了姮娥，姮娥就是帝嚳的燈下黑。
+§10 [Ø=姜柔甲]他很想知道這是為什麽，畢竟姮娥是帝女， [||] 但他很清楚，現在是絕無法詢問的，只能把這份好奇藏在心底。
+§11 姮娥並沒有停止傳遞消息。
+§12 [Ø=姜柔甲]因為雲千峰很快發現，姮娥在用溫泉水給他擦拭身體的時候， [||] 手上的尾指始終是岔開的，單獨的落在一邊，以與手掌並不完全相同的角度劃過他的皮膚。
+§13 而且這些動作是重複的。
+§14 雲千峰閉上眼睛感悟姮娥小指的每個動作。
+§15 “撇、點、點、撇、點、點、橫”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§16 [Ø=姜柔甲]“不是象形字，是方塊字。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 [Ø=姜柔甲]雲千峰繼續感受，很快拚湊出第一個字：
+§18 “等？這藏著什麽含義？這個字和地藏王象有什麽關聯？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 [Ø=姜柔甲]“慢著，還有第二個字。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§20 “撇、撇、豎、橫、豎待字！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 “等待！姮娥要我等待什麽？等待又和地藏王有什麽關系？嗯？還有字！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 [Ø=姜柔甲]“橫、豎，是個十字。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 [Ø=姜柔甲]“撇、橫折鉤、橫、橫，月字，十月？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 [Ø=姜柔甲]隨後，姮娥小指的動作，就是重複“等待十月”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]四個字。
+§25 雲千峰突然笑著柔聲道：
+§26 “你會像重前一樣“等待”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]我回來嗎？”
+§27 姮娥溫柔道：
+§28 [Ø=姜柔甲]“我會一直“等待”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]你，一如曾經。”
+§29 [Ø=姜柔甲]雲千峰攬著姮娥的腰，歎息道：
+§30 [Ø=姜柔甲]“十月清霜重，飄零何處歸。這一別不知又要什麽時候相見了，我飄零，你也飄零。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 姮娥柔聲道：
+§32 [Ø=姜柔甲]“君非常人，莫說清霜，便是有早雪摧花， [||] 良人也是早梅，定能笑看萬花摧，我等你回來。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 [Ø=姜柔甲]早雪為十月雪，早梅為十月梅。
+§34 [Ø=姜柔甲]對完了暗號，姮娥的小指果然不再做動作，因為她知道，雲千峰已經讀懂了她的意思。
+§35 [Ø=姜柔甲]姮娥並不解釋，似乎很自信， [||] 只要雲千峰看到自己的地藏王掛墜，還有自己小指手寫的兩個字，就足夠了一般。
+§36 [Ø=姜柔甲]雲千峰見姮娥並不再有其它動作，也知道姮娥要傳達的消息已經傳達完了，那麽就只能靠自己搞清楚這兩個訊息的含義了。
+§37 [Ø=姜柔甲]姮娥把雲千峰上上下下用巧手洗了個乾淨，連那不老實的小雲千峰都處理了一下。
+§38 [Ø=姜柔甲]雲千峰看著姮娥，道：
+§39 [Ø=姜柔甲]“可惜，還是沒能洞房，不知你還要戴著面具多久。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 姮娥笑著柔聲道：
+§41 [Ø=姜柔甲]“戴習慣了，以後也隻對著你摘下。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§42 [Ø=姜柔甲]雲千峰歎了口氣，道：
+§43 [Ø=姜柔甲]“走吧，九屠也等久了，去辦正事吧。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 [Ø=姜柔甲]聽到這話，姮娥攥著雲千峰的手，不由自主的緊了一下， [||] 轉而馬上放松，順從的點了點頭，擺動蓮步引著雲千峰來到岸邊。
+§45 [Ø=姜柔甲]姮娥的裙子材料很特殊，出水則乾，根本不需要晾曬。
+§46 [Ø=姜柔甲]雲千峰穿好皮甲，拎著蚩尤左腿，對著走來的九屠道：
+§47 [Ø=姜柔甲]“我的幾個朋友死在了南極，但他們的記憶數據和意識還沒有消散，我死後你們必須保證把他們接到全知之眼內。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§48 那邋遢老道忙道：
+§49 [Ø=姜柔甲]“這一點你放心，蚩尤歸位後，但凡還存在的孤魂， [||] 全都會自動被納入全知之眼，以後死去的人的意識，也一定會回到全知之眼內。
+§50 [Ø=姜柔甲]這就是人類關於輪回記憶的原因，全知之眼即是人類記憶之中的六道[M1:sáu luồng]， [||] 而我九人將會共同掌控全知之眼，審判進入全知之眼的意識善惡，進行獎懲。
+§51 或天堂或地獄。”
+§52 雲千峰笑道：
+§53 “十殿閻羅嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§54 邋遢老道笑道：
+§55 “差不多。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§56 [Ø=姜柔甲]雲千峰“嘖”[Q1:姜柔甲->云千峰|state:COURTEOUS|tone:thăm dò, lễ tiết]了一聲，道：
+§57 “可你們才九個人啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§58 九屠內一人抬頭道：
+§59 [Ø=姜柔甲]“我，雙重人格，一個頂倆，恰好十個。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§60 [Ø=姜柔甲]雲千峰豎了一個大拇指，說了聲你牛逼。
+§61 [Ø=姜柔甲]“好了，咱們去辦正事吧。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§62 [Ø=姜柔甲]邋遢老道點了點頭，做了一個請字，然後當先引路。
+§63 [Ø=姜柔甲]走過亭台樓閣，花園小溪。
+§64 大約半個小時才走到一個假山石洞之前。
+§65 [Ø=姜柔甲]姮娥站在洞前，那石門自動打開，很顯然姮娥才是這裡的主人，真正的主人。
+§66 [Ø=姜柔甲]沿著石洞走進去，環境立馬一百八十度變化。
+§67 [Ø=姜柔甲]外面是華風樓閣園林，裡面則是科技感滿滿，和進入了幻想之中的太空船一般。
+§68 [Ø=姜柔甲]到處是金屬質感的平整牆壁和地板，走廊筆直，都是直角交叉。
+§69 [Ø=姜柔甲]姮娥說了聲“去密室”[Q1:姜柔甲->云千峰|state:COURTEOUS|tone:thăm dò, lễ tiết]後，腳下地板自動帶著人前行，速度很快很穩。
+§70 [Ø=姜柔甲]不多時，十一個人來到了一間牆壁極厚實，空間並不大的房間。
+§71 [Ø=姜柔甲]這裡大概只有五六十平米，地面正中間一個太空休眠艙般的東西擺在那。
+§72 [Ø=姜柔甲]透明的弧形罩子，裡面是一張[M2:một tấm]很符合人體結構的躺床。
+§73 [Ø=姜柔甲]在這個太空艙般的東西四周，有九根晶瑩的細管連著九個頭盔，很顯然這就是九屠用來控制雲千峰腦內全知之眼的設備。
+§74 邋遢老道介紹道：
+§75 [Ø=姜柔甲]“這是當年女閻羅人的設備，巫族敗後，被帝帶到了南山之內，就是為了今天做準備。
+§76 [Ø=姜柔甲]在這艙內，你會進入冬眠狀態，這樣可以保證你的機體不會死亡，保存千年甚至更久。
+§77 [Ø=姜柔甲]而在這個時間裡，你的身體就是六道[M3:sáu luồng]輪回。”
+§78 [Ø=姜柔甲]雲千峰點了點頭，道：
+§79 [Ø=姜柔甲]“我想知道的是，我還有機會回來現實嗎？我和姮娥的洞房還沒入呢。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§80 邋遢老道沉吟笑道：
+§81 [Ø=姜柔甲]“或許吧，誰知道呢，畢竟你是第一個在有意識的時候成為六道[M4:sáu luồng]輪回主體的人類， [||] 以前的女閻羅人，都是直接用無腦人，不存在你問的這個問題。
+§82 [Ø=姜柔甲]也就是說，並無前例，便無答案，一切皆有可能。”
+§83 [Ø=姜柔甲]雲千峰歎了口氣，道：
+§84 [Ø=姜柔甲]“也就是說，只能看命了， [||] 行，我知道了，那咱們開始吧。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§85 邋遢老道笑道：
+§86 “還要等一下。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§87 雲千峰問道：
+§88 “等什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 88 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§88. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

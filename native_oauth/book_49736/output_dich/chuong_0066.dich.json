@@ -1,0 +1,445 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 66,
+  "title": "Chương 66: Lưu Dụ hại tôi",
+  "total_paragraphs": 72,
+  "translated_paragraphs": 72,
+  "source_hash": "9892e455d59769fea4bf5e030ae68d430769ae8be3ccd34fdb9e169c0c2d6f1e",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0066p0001",
+      "index": 1,
+      "raw_zh": "第66章 劉裕誤我",
+      "translated_vi": "Chương 66: Lưu Dụ hại tôi"
+    },
+    {
+      "para_id": "c0066p0002",
+      "index": 2,
+      "raw_zh": "聽到倆人說出了兩個答案，薑玉林和維多利亞面面相覷，然後饒有興致的看著兩人，倒是看戲的態度。",
+      "translated_vi": "Nghe hai người đưa ra hai đáp án hoàn toàn trái ngược, Khương Ngọc Lâm và Victoria đưa mắt nhìn nhau đầy ngạc nhiên, rồi thích thú dõi theo cả hai với vẻ như đang chờ xem kịch hay."
+    },
+    {
+      "para_id": "c0066p0003",
+      "index": 3,
+      "raw_zh": "滿都拉圖翹嘴，仰臉傲氣道：",
+      "translated_vi": "Mandulatu nhếch mép, ngẩng cằm đầy vẻ ngạo nghễ nói:"
+    },
+    {
+      "para_id": "c0066p0004",
+      "index": 4,
+      "raw_zh": "“雲千峰你這次錯了，此地為澤兌，兌為金，金生水，水性沉靜如民，遇官土則止，見財火則動，故此入口定在離火卦位。”",
+      "translated_vi": "“Vân Thiên Phong, lần này anh sai bét rồi. Nơi này là Trạch Đoái, Đoái thuộc Kim, Kim sinh Thủy. Tính Thủy trầm lắng như dân chúng, gặp Quan Thổ ắt ngưng, thấy Tài Hỏa liền động, cho nên lối vào nhất định nằm ở quẻ vị Ly Hỏa.”"
+    },
+    {
+      "para_id": "c0066p0005",
+      "index": 5,
+      "raw_zh": "雲千峰笑道：",
+      "translated_vi": "Vân Thiên Phong cười đáp:"
+    },
+    {
+      "para_id": "c0066p0006",
+      "index": 6,
+      "raw_zh": "“滿都拉圖不過如此，以前真是高看了你，你難道忘了，這裡在史前可不是大澤，此地乃為兩山間之夾谷，其形緊窄，藏風聚物，風入山下，閉而難出，一如濁精入宮，既物腐生蟲，所以此地乃是山風蠱卦，人面篆就是證明。",
+      "translated_vi": "“Mandulatu cũng chỉ đến thế mà thôi, trước giờ tôi thật sự đã đánh giá anh quá cao rồi. Lẽ nào anh quên mất, thời tiền sử nơi đây đâu phải là đầm lầy lớn! Chỗ này vốn là hẻm vực kẹp giữa hai rặng núi, địa thế hiểm hẹp, tàng phong tụ vật, gió lọt xuống chân núi thì bế tắc khó thoát ra, chẳng khác nào trọc tinh nhập cung, vật ắt sinh giòi bọ. Cho nên quẻ tượng của nơi này chính là Sơn Phong Cổ, đám Nhân Diện Triện kia chính là bằng chứng xác thực nhất."
+    },
+    {
+      "para_id": "c0066p0007",
+      "index": 7,
+      "raw_zh": "得蠱卦者，當取法吹拂萬物之風，化淤除汙，方能利涉大川，而八卦之中，有此能動者，唯震雷辟此邪，又因艮卦陽數為1，巽卦陽數為3，二數相加正是四陽數之震卦，故此我斷定，入口就在震卦方位。”",
+      "translated_vi": "Người gặp quẻ Cổ phải lấy pháp của ngọn gió thổi lay vạn vật, khai thông ứ đọng, quét sạch ô uế, mới có thể thuận bề qua sông lớn. Mà trong Bát Quái, có thể phát huy động năng ấy để trừ khử tà khí, chỉ duy nhất có Chấn Lôi. Lại thêm hào dương của quẻ Cấn là một, hào dương của quẻ Tốn là ba, hai số cộng lại đúng bằng bốn số dương của quẻ Chấn. Vì vậy, tôi dám đoan chắc lối vào nằm ngay ở phương vị quẻ Chấn.”"
+    },
+    {
+      "para_id": "c0066p0008",
+      "index": 8,
+      "raw_zh": "滿都拉圖一拍大腿，“哎呀”一聲，懊惱道：",
+      "translated_vi": "Mandulatu đập bốp vào đùi, thảng thốt kêu lên một tiếng “Ái chà”, ảo não nói:"
+    },
+    {
+      "para_id": "c0066p0009",
+      "index": 9,
+      "raw_zh": "“我怎麽忘了這茬，這裡史前不是大澤啊！劉裕誤我！”",
+      "translated_vi": "“Sao tôi lại quên khuấy mất chuyện này chứ, thời tiền sử nơi đây đâu phải đầm lầy! Lưu Dụ hại tôi rồi!”"
+    },
+    {
+      "para_id": "c0066p0010",
+      "index": 10,
+      "raw_zh": "接著倆人舉起右手交擊一掌後，裝腔作勢的倆人一起哈哈大笑。",
+      "translated_vi": "Dứt lời, hai người đồng loạt giơ tay phải lên đập tay đánh ‘bốp’ một cái, rồi làm bộ làm tịch cùng nhau phá lên cười ha hả."
+    },
+    {
+      "para_id": "c0066p0011",
+      "index": 11,
+      "raw_zh": "滿都拉圖搖頭歎道：",
+      "translated_vi": "Mandulatu lắc đầu cảm thán:"
+    },
+    {
+      "para_id": "c0066p0012",
+      "index": 12,
+      "raw_zh": "“卦象變化萬千，一人一解，全憑心斷，這把是我輸了，下次定贏伱。”",
+      "translated_vi": "“Quẻ tượng biến hóa vạn đường, mỗi người mỗi cách giải, tất cả tùy thuộc vào tâm niệm suy đoán. Lần này tôi chịu thua anh, phen sau nhất định sẽ thắng lại.”"
+    },
+    {
+      "para_id": "c0066p0013",
+      "index": 13,
+      "raw_zh": "雲千峰仰臉笑道：",
+      "translated_vi": "Vân Thiên Phong ngửa mặt cười ha hả:"
+    },
+    {
+      "para_id": "c0066p0014",
+      "index": 14,
+      "raw_zh": "“隨時恭候，憑我鐵口直斷，到現在還沒算錯過事情.嗯。”",
+      "translated_vi": "“Xin rửa tai lắng đợi. Xưa nay dựa vào bản lĩnh thiết khẩu trực đoán, tôi đây chưa từng đoán sai bao giờ... ừm.”"
+    },
+    {
+      "para_id": "c0066p0015",
+      "index": 15,
+      "raw_zh": "說這話的時候，小神經看了雲千峰一眼，頓時讓雲千峰內心很受挫。",
+      "translated_vi": "Vừa dứt câu, Tiểu Thần Kinh liền liếc xéo Vân Thiên Phong một cái, khiến lòng tự tôn của anh trong chớp mắt bị giội ngay một gáo nước lạnh."
+    },
+    {
+      "para_id": "c0066p0016",
+      "index": 16,
+      "raw_zh": "薑玉林也被倆人這模樣逗笑，拍這倆人肩膀道：",
+      "translated_vi": "Khương Ngọc Lâm cũng bật cười trước màn tung hứng của hai người, vỗ vai cả hai bảo:"
+    },
+    {
+      "para_id": "c0066p0017",
+      "index": 17,
+      "raw_zh": "“辦完事再吹牛，現在的問題是，知道入口，知道怎麽打開嗎？”",
+      "translated_vi": "“Làm xong việc rồi hẵng chém gió. Vấn đề lúc này là biết lối vào rồi thì có biết cách mở ra không?”"
+    },
+    {
+      "para_id": "c0066p0018",
+      "index": 18,
+      "raw_zh": "雲千峰搖頭道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu:"
+    },
+    {
+      "para_id": "c0066p0019",
+      "index": 19,
+      "raw_zh": "“有我在，你要擔心的不該是能不能打開，而是打開之後怎麽辦。”",
+      "translated_vi": "“Có tôi ở đây, điều anh cần lo không phải là có mở được hay không, mà là mở ra rồi thì phải làm sao.”"
+    },
+    {
+      "para_id": "c0066p0020",
+      "index": 20,
+      "raw_zh": "薑玉林面色一變，苦著臉，道：",
+      "translated_vi": "Khương Ngọc Lâm sắc mặt chợt đanh lại, méo mặt nói:"
+    },
+    {
+      "para_id": "c0066p0021",
+      "index": 21,
+      "raw_zh": "“是啊，這才是最大的難題。”",
+      "translated_vi": "“Phải rồi, đấy mới là nan đề lớn nhất.”"
+    },
+    {
+      "para_id": "c0066p0022",
+      "index": 22,
+      "raw_zh": "這八卦台整體嵌入湖底深處，不出意外，以往船隻沉沒，就是因為這八卦台下方熱氣將八卦台拱起縫隙，釋放氣泡，將船隻吸入八卦台下方空間。",
+      "translated_vi": "Chiếc Bát Quái đài này được khảm trọn vẹn sâu dưới đáy hồ. Nếu không có gì bất ngờ, các vụ đắm tàu thuyền trước đây chính là do luồng nhiệt khí bên dưới đẩy hở khe nứt của đài Bát Quái, phun bọt khí làm mất sức nổi rồi hút tàu thuyền vào không gian bên dưới đài."
+    },
+    {
+      "para_id": "c0066p0023",
+      "index": 23,
+      "raw_zh": "當然若只是打開入口，水勢倒灌雖然不至於像整個八卦台被拱起那麽嚴重，但是開門之人也勢必被卷入那伏羲八卦台之下。",
+      "translated_vi": "Dĩ nhiên, nếu chỉ mở lối vào, dòng nước tràn vào tuy không đến mức kinh hoàng như lúc toàn bộ Bát Quái đài bị hất tung lên, nhưng người mở cửa chắc chắn cũng sẽ bị cuốn trôi xuống bên dưới Phục Hy Bát Quái đài."
+    },
+    {
+      "para_id": "c0066p0024",
+      "index": 24,
+      "raw_zh": "而最可怕的是，這個八卦台你進得去，但是想從這個入口出來則是絕無可能，因為每次開啟，必然有大水衝入，逆行不得。",
+      "translated_vi": "Và đáng sợ nhất là, đài Bát Quái này người ta vào thì được, nhưng muốn chui ra từ lối cũ thì tuyệt đối không thể, bởi mỗi lần mở ra ắt sẽ có dòng nước dữ cuồn cuộn dốc ngược vào trong, căn bản không cách nào bơi ngược dòng."
+    },
+    {
+      "para_id": "c0066p0025",
+      "index": 25,
+      "raw_zh": "又是一個沒有回頭路的詭異之地。",
+      "translated_vi": "Lại thêm một vùng đất quỷ dị không có đường quay đầu."
+    },
+    {
+      "para_id": "c0066p0026",
+      "index": 26,
+      "raw_zh": "維多利亞思索道：",
+      "translated_vi": "Victoria ngẫm nghĩ rồi cất lời:"
+    },
+    {
+      "para_id": "c0066p0027",
+      "index": 27,
+      "raw_zh": "“其實，從野人山的神跡就能看出，神跡空間的入口就是入口，出口就是出口，本身就是不可逆的，所以我們壓根就不需要考慮在入口這裡出來的問題。",
+      "translated_vi": "“Thực ra, từ di tích thần thánh ở Dã Nhân Sơn có thể thấy rõ, lối vào không gian di tích là lối vào, còn lối ra là lối ra, bản thân chúng vốn dĩ đã mang tính chất một đi không trở lại rồi. Thế nên chúng ta vốn dĩ chẳng cần bận tâm đến chuyện quay ra từ lối này làm gì."
+    },
+    {
+      "para_id": "c0066p0028",
+      "index": 28,
+      "raw_zh": "野人山神跡在地下，我們無所畏懼前往，這裡也不過就是多了一個水下因素，我們有什麽好糾結的？",
+      "translated_vi": "Di tích ở Dã Nhân Sơn nằm sâu dưới lòng đất, chúng ta còn chẳng hề e sợ dấn thân vào, nơi này chẳng qua chỉ thêm vào yếu tố dưới nước mà thôi, có gì mà phải đắn đo lưỡng lự chứ?"
+    },
+    {
+      "para_id": "c0066p0029",
+      "index": 29,
+      "raw_zh": "神軀基因我們已經找到了一半，其他部分一定就在某個神跡內，我是一定要下去看看的。",
+      "translated_vi": "Bộ gen của thần thể chúng ta đã tìm được một nửa, những phần còn lại nhất định đang ẩn giấu trong một di tích nào đó, tôi nhất quyết phải xuống dưới xem cho bằng được."
+    },
+    {
+      "para_id": "c0066p0030",
+      "index": 30,
+      "raw_zh": "從選擇了這條路開始，用你們華夏的話說，我已經做好了不成功便成仁的準備。”",
+      "translated_vi": "Kể từ khoảnh khắc chọn bước lên con đường này, nói theo cách của người Hoa Hạ các anh, tôi đã chuẩn bị sẵn tâm thế không thành công cũng thành nhân rồi.”"
+    },
+    {
+      "para_id": "c0066p0031",
+      "index": 31,
+      "raw_zh": "一個凡人，卻妄想讓自己成為“神”，她就只能瘋狂到讓自己一往無前，更像苦行僧一樣虔誠的磨礪自己，為成神做著所有準備。",
+      "translated_vi": "Một kẻ phàm trần lại ôm vọng tưởng biến bản thân thành “Thần”, cô ta chỉ có thể điên cuồng lao về phía trước không màng tất cả, hệt như một tu sĩ khổ hạnh thành kính tôi luyện chính mình, chuẩn bị mọi thứ cho con đường phong thần."
+    },
+    {
+      "para_id": "c0066p0032",
+      "index": 32,
+      "raw_zh": "恐怕，也正是因為她這種凡事敢當人先的做派，才能讓這些人甘心的陪著她在這條別人看來是笑話的路上越走越遠。",
+      "translated_vi": "E rằng, cũng chính tác phong dám xông pha đi đầu trong mọi chuyện của cô mới khiến những người này cam tâm tình nguyện theo chân cô dấn bước ngày càng xa trên con đường mà thiên hạ coi như trò cười này."
+    },
+    {
+      "para_id": "c0066p0033",
+      "index": 33,
+      "raw_zh": "薑玉林沉聲道：",
+      "translated_vi": "Khương Ngọc Lâm trầm giọng nói:"
+    },
+    {
+      "para_id": "c0066p0034",
+      "index": 34,
+      "raw_zh": "“我父母意外離世那天開始，“人有旦夕禍福”這個問題就成了我驅之不散的夢魘，人若是不能掌控自己的命運，那麽一切努力不過是一場空，所以要麽死去要麽沒有恐懼，我也下去。”",
+      "translated_vi": "“Từ ngày cha mẹ tôi qua đời vì tai nạn bất ngờ, câu nói ‘đời người họa phúc khôn lường’ đã trở thành cơn ác mộng đeo bám tôi khôn nguôi. Con người nếu không thể tự nắm giữ vận mệnh của mình thì mọi nỗ lực phấn đấu chung quy cũng chỉ là bọt nước hư vô. Cho nên hoặc là chết đi, hoặc là vĩnh viễn không còn biết sợ hãi. Tôi cũng sẽ xuống.”"
+    },
+    {
+      "para_id": "c0066p0035",
+      "index": 35,
+      "raw_zh": "薑玉林的心緒卻與維多利亞不同，薑玉林更像是一個極度恐高症患者站在高處，學會飛翔和跳下去二選一。",
+      "translated_vi": "Tâm trạng của Khương Ngọc Lâm lại khác với Victoria. Khương Ngọc Lâm giống như một người mắc chứng sợ độ cao tột độ đang đứng bên bờ vực, buộc phải chọn một trong hai: học cách bay lượn, hoặc nhảy thẳng xuống."
+    },
+    {
+      "para_id": "c0066p0036",
+      "index": 36,
+      "raw_zh": "滿都拉圖笑道：",
+      "translated_vi": "Mandulatu cười bảo:"
+    },
+    {
+      "para_id": "c0066p0037",
+      "index": 37,
+      "raw_zh": "“我倒是不想下去，但你們怎麽離得開我，我隻好舍命陪君子了。”",
+      "translated_vi": "“Tôi thì chẳng ham hố gì chuyện xuống dưới đó, nhưng ngặt nỗi các người làm sao thiếu tôi cho được, đành liều mình bồi tiếp quân tử vậy.”"
+    },
+    {
+      "para_id": "c0066p0038",
+      "index": 38,
+      "raw_zh": "巴猜舔了舔嘴唇，道：",
+      "translated_vi": "Bachai liếm môi, nói:"
+    },
+    {
+      "para_id": "c0066p0039",
+      "index": 39,
+      "raw_zh": "“維多利亞救過我的命，滿都拉圖救過我的命，連這初出茅廬的雲千峰都救過我的命，我是肯定要跟著你們的，總得找機會還還帳。”",
+      "translated_vi": "“Victoria từng cứu mạng tôi, Mandulatu từng cứu mạng tôi, ngay cả cậu nhóc mới bước chân vào đời như Vân Thiên Phong cũng từng cứu mạng tôi. Tôi chắc chắn phải đi theo mọi người rồi, ít ra cũng phải tìm cơ hội mà trả nợ ân tình chứ.”"
+    },
+    {
+      "para_id": "c0066p0040",
+      "index": 40,
+      "raw_zh": "幾個人把目光看向雲千峰。",
+      "translated_vi": "Mọi người đồng loạt hướng ánh mắt về phía Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0066p0041",
+      "index": 41,
+      "raw_zh": "雲千峰把拳頭捏的嘎嘣響，咬牙切齒，道：",
+      "translated_vi": "Vân Thiên Phong siết chặt nắm đấm kêu răng rắc, nghiến răng nghiến lợi nói:"
+    },
+    {
+      "para_id": "c0066p0042",
+      "index": 42,
+      "raw_zh": "“這下面的東西幾次三番想要我的命，所以我不但要下去，還要乾它！”",
+      "translated_vi": "“Cái thứ bên dưới năm lần bảy lượt muốn lấy mạng tôi, thế nên tôi không chỉ xuống, mà còn phải cho nó biết tay!”"
+    },
+    {
+      "para_id": "c0066p0043",
+      "index": 43,
+      "raw_zh": "人面篆幾次三番的針對，早讓雲千峰憋了一肚子火，既然確定八卦台下有個力量想要自己的命，那麽最好的選擇就是先要了它的命。",
+      "translated_vi": "Việc lũ Nhân Diện Triện liên tục nhắm vào mình từ lâu đã khiến Vân Thiên Phong kìm nén một bụng lửa giận. Đã dám chắc dưới đài Bát Quái có một thế lực ngấm ngầm muốn lấy mạng anh, vậy thì lựa chọn tốt nhất chính là lấy mạng nó trước."
+    },
+    {
+      "para_id": "c0066p0044",
+      "index": 44,
+      "raw_zh": "維多利亞搖頭，道：",
+      "translated_vi": "Victoria lắc đầu bảo:"
+    },
+    {
+      "para_id": "c0066p0045",
+      "index": 45,
+      "raw_zh": "“不行，不能全都下去，上面要留人。我們帶著信號發射器，讓上面的人能知道我們在地下的位置和行進方向。",
+      "translated_vi": "“Không được, không thể xuống hết toàn bộ, bên trên phải có người ở lại giữ chốt. Chúng ta sẽ mang theo máy phát tín hiệu để người ở trên nắm được vị trí và phương hướng di chuyển của chúng ta dưới lòng đất."
+    },
+    {
+      "para_id": "c0066p0046",
+      "index": 46,
+      "raw_zh": "這樣，如果我們最後被困在地下，上面的人也能想辦法把咱們救出來。薑玉林對這些設備精通，巴猜善於打洞，你們倆留在上面，雲千峰、滿都拉圖和我下去。”",
+      "translated_vi": "Làm vậy thì ngộ nhỡ cuối cùng chúng ta bị mắc kẹt dưới lòng đất, người ở trên cũng có thể nghĩ cách giải cứu. Khương Ngọc Lâm tinh thông các thiết bị này, Bachai lại giỏi đào bới hang ngách, hai người hãy ở lại trên mặt nước. Vân Thiên Phong, Mandulatu và tôi sẽ xuống dưới.”"
+    },
+    {
+      "para_id": "c0066p0047",
+      "index": 47,
+      "raw_zh": "她話音剛落，小神經在旁邊淡淡道：",
+      "translated_vi": "Lời cô vừa dứt, Tiểu Thần Kinh ngồi bên cạnh liền nhàn nhạt cất lời:"
+    },
+    {
+      "para_id": "c0066p0048",
+      "index": 48,
+      "raw_zh": "“我也去。”",
+      "translated_vi": "“Tôi cũng đi.”"
+    },
+    {
+      "para_id": "c0066p0049",
+      "index": 49,
+      "raw_zh": "維多利亞看著小神經那嬌弱的小身板，搖頭勸道：",
+      "translated_vi": "Victoria nhìn dáng vóc nhỏ nhắn mảnh mai của Tiểu Thần Kinh, lắc đầu khuyên can:"
+    },
+    {
+      "para_id": "c0066p0050",
+      "index": 50,
+      "raw_zh": "“下面可是很危險的，這不是旅遊。”",
+      "translated_vi": "“Bên dưới nguy hiểm lắm đấy, đây đâu phải đi du lịch.”"
+    },
+    {
+      "para_id": "c0066p0051",
+      "index": 51,
+      "raw_zh": "雲千峰心話就是危險才得帶著她，於是說道：",
+      "translated_vi": "Trong lòng Vân Thiên Phong thầm nhủ: Chính vì nguy hiểm mới càng phải mang cô ấy theo! Thế là anh liền lên tiếng:"
+    },
+    {
+      "para_id": "c0066p0052",
+      "index": 52,
+      "raw_zh": "“聽她的，帶著她。”",
+      "translated_vi": "“Nghe cô ấy đi, mang cô ấy theo.”"
+    },
+    {
+      "para_id": "c0066p0053",
+      "index": 53,
+      "raw_zh": "雲千峰開口，維多利亞沒再多說什麽，薑玉林則開始打電話，叫人弄來幾套消防隊員穿的那種衣服。",
+      "translated_vi": "Thấy Vân Thiên Phong nói vậy, Victoria không phản đối thêm nữa. Khương Ngọc Lâm lập tức rút điện thoại ra gọi, nhờ người kiếm vài bộ đồ cách nhiệt chuyên dụng của lính cứu hỏa mang tới."
+    },
+    {
+      "para_id": "c0066p0054",
+      "index": 54,
+      "raw_zh": "維多利亞計算過，既然人面篆那種生物能在神跡空間生存，那麽就證明那裡的溫度不會非常高，定然在有碳基生命能接受的范圍。",
+      "translated_vi": "Victoria đã tính toán kỹ, sinh vật như Nhân Diện Triện đã có thể sinh tồn trong không gian di tích thần thánh thì chứng tỏ nhiệt độ ở đó không thể quá cao, chắc chắn nằm trong ngưỡng chịu đựng của sinh vật gốc carbon."
+    },
+    {
+      "para_id": "c0066p0055",
+      "index": 55,
+      "raw_zh": "但她依舊還是做了有可能出現短暫高溫的準備，如果下面溫度很高，當湖水倒灌進入後，地下神跡空間會瞬間出現大量蒸汽，緊接著空間內溫度就會瞬間降下來，所以他們需要能夠抵抗短時間蒸汽溫度的裝備。",
+      "translated_vi": "Dẫu vậy, cô vẫn chuẩn bị sẵn cho tình huống nhiệt độ tăng vọt trong thoáng chốc. Nếu bên dưới quá nóng, khi nước hồ ồ ạt đổ dồn vào, không gian di tích dưới lòng đất sẽ bốc lên một lượng hơi nước khổng lồ trong chớp mắt, rồi nhiệt độ mới nhanh chóng hạ xuống. Bởi thế họ rất cần trang bị có thể chống chịu được luồng hơi nước nóng bỏng trong thời gian ngắn ngủi ấy."
+    },
+    {
+      "para_id": "c0066p0056",
+      "index": 56,
+      "raw_zh": "此時已經是下午，幾個人也不想在路上勞累耽擱時間，就決定直接在遊艇上吃喝，休息好了，再去八卦台下闖一闖。",
+      "translated_vi": "Lúc này trời đã ngả về chiều, mọi người cũng chẳng muốn đi lại vất vả làm lỡ dở thời gian nên quyết định ăn uống ngay trên du thuyền. Nghỉ ngơi cho lại sức rồi mới tiến thẳng xuống dưới đài Bát Quái thám hiểm một phen."
+    },
+    {
+      "para_id": "c0066p0057",
+      "index": 57,
+      "raw_zh": "到了晚飯時間，四個監督的漁船都紛紛回岸，估計是回家吃飯去了。倒是有一艘很有古典美的木船在幾人遊艇的不遠處，雕梁畫柱的像古代的船舶，上面似乎是觀光客。",
+      "translated_vi": "Đến giờ cơm tối, bốn chiếc thuyền đánh cá làm nhiệm vụ giám sát lần lượt quay về bờ, chắc là về nhà ăn cơm. Ngược lại, cách du thuyền của họ không xa có một chiếc thuyền gỗ mang nét đẹp cổ kính, xà chạm cột vẽ hệt như thuyền bè thời cổ, trên đó dường như chở khách du lịch ngắm cảnh."
+    },
+    {
+      "para_id": "c0066p0058",
+      "index": 58,
+      "raw_zh": "斜雨輕微，雲千峰等人用燒烤架在甲板的遮雨棚下燒烤著早就備好的食材。",
+      "translated_vi": "Mưa phùn lất phất chéo nghiêng, nhóm Vân Thiên Phong kê bếp nướng dưới mái che trên boong tàu, nướng những nguyên liệu đã chuẩn bị sẵn từ trước."
+    },
+    {
+      "para_id": "c0066p0059",
+      "index": 59,
+      "raw_zh": "牛肉、腰子、茄子、韭菜、豆腐皮應有盡有。",
+      "translated_vi": "Thịt bò, cật heo, cà tím, hẹ tây, váng đậu... món gì cũng có đủ."
+    },
+    {
+      "para_id": "c0066p0060",
+      "index": 60,
+      "raw_zh": "沒想到維多利亞不但能吃慣這種食物，還是燒烤達人，一邊親自給大家烤肉，一邊洋洋得意的聊著烹飪感悟。",
+      "translated_vi": "Không ngờ Victoria không những quen ăn mấy món này mà còn là một tay nướng thịt cừ khôi. Cô vừa đích thân nướng đồ ăn cho mọi người, vừa hào hứng khoe những chiêm nghiệm ẩm thực của bản thân."
+    },
+    {
+      "para_id": "c0066p0061",
+      "index": 61,
+      "raw_zh": "“咱們幾個人就像這油、鹽、孜然、花椒、辣椒粉，各不相同，但混在一起就能讓本腥膻的牛肉隻余醇香，這就很符合你們華夏的一句話，君子和而不同。",
+      "translated_vi": "“Mấy người chúng ta chẳng khác nào dầu ăn, muối hạt, thì là Ai Cập, hoa tiêu cùng ớt bột, mỗi thứ một vị riêng biệt, nhưng hòa quyện lại liền khiến miếng thịt bò tanh ngái ban đầu chỉ còn lại phong vị nồng nàn thơm phức. Điều này rất đúng với một câu của người Hoa Hạ các anh: Quân tử hòa nhi bất đồng."
+    },
+    {
+      "para_id": "c0066p0062",
+      "index": 62,
+      "raw_zh": "認識你們真的是太幸運了，這種偶然，在你們這裡叫.叫緣分，對吧？",
+      "translated_vi": "Quen biết các anh thật sự là điều quá đỗi may mắn. Sự tình cờ này, ở đất nước các anh gọi là... gọi là duyên phận, đúng không?"
+    },
+    {
+      "para_id": "c0066p0063",
+      "index": 63,
+      "raw_zh": "我非常喜歡華夏的文化，你們知道為什麽嗎？就因為全世界的神，只有華夏才擁有從人變成神的傳說，而那正是我們要做的。”",
+      "translated_vi": "Tôi cực kỳ yêu thích văn hóa Hoa Hạ, các anh có biết vì sao không? Chính là vì trong chư thần khắp thế giới, duy chỉ có Hoa Hạ mới sở hữu truyền thuyết từ con người tu luyện hóa thành Thần, và đó cũng chính là điều chúng ta đang hướng tới.”"
+    },
+    {
+      "para_id": "c0066p0064",
+      "index": 64,
+      "raw_zh": "維多利亞對華夏文明歷史和典故的了解，比大多數的華夏人都詳盡，但即便如此，在雲千峰和薑玉林眼裡，維多利亞對華夏文化依舊沒入門，甚至不如不識字的老婦。",
+      "translated_vi": "Victoria am hiểu lịch sử văn minh và điển tích Hoa Hạ còn tường tận hơn phần lớn người bản xứ, thế nhưng dù có vậy, trong mắt Vân Thiên Phong và Khương Ngọc Lâm, cô ấy đối với văn hóa Hoa Hạ vẫn chưa hề chạm tới ngưỡng cửa, thậm chí còn chẳng bằng một bà lão mù chữ nơi thôn dã."
+    },
+    {
+      "para_id": "c0066p0065",
+      "index": 65,
+      "raw_zh": "理由很簡單，就是不識字的老婦都明白“緣分”是什麽意思，但是任何一個老外也搞不懂，因為在他們眼裡“注定”和“偶然”是對立的，但緣分這個詞，卻讓這兩者完美統一了。",
+      "translated_vi": "Lý do rất đơn giản: ngay cả một bà lão mù chữ cũng hiểu thấu “duyên phận” rốt cuộc là gì, nhưng bất kỳ một người ngoại quốc nào cũng chẳng thể tài nào ngộ ra nổi. Bởi trong mắt họ, “tất yếu” và “ngẫu nhiên” là hai mặt đối lập hoàn toàn; thế nhưng từ “duyên phận” ấy lại có thể dung hòa cả hai điều đó một cách hoàn mỹ tuyệt luân."
+    },
+    {
+      "para_id": "c0066p0066",
+      "index": 66,
+      "raw_zh": "十年修得同船度，百年修得共枕眠，前世的注定此生的偶然，才是緣分，否則就是有緣無分。",
+      "translated_vi": "Mười năm tu mới chung một chuyến thuyền, trăm năm tu mới chung gối chăn; tiền kiếp đã an bài, kiếp này tình cờ hội ngộ, đó mới thực là duyên phận, bằng không chỉ là hữu duyên vô phận mà thôi."
+    },
+    {
+      "para_id": "c0066p0067",
+      "index": 67,
+      "raw_zh": "但是雲千峰和薑玉林都沒有反駁維多利亞，沒辦法，華夏文明就是這麽含蓄，帶著一股子暗搓搓的優越感的含蓄。",
+      "translated_vi": "Thế nhưng cả Vân Thiên Phong lẫn Khương Ngọc Lâm đều chẳng ai buồn phản bác Victoria. Biết sao được, văn minh Hoa Hạ vốn dĩ hàm súc như thế đấy, một sự hàm súc ẩn chứa nét kiêu hãnh thầm kín không cần phô trương."
+    },
+    {
+      "para_id": "c0066p0068",
+      "index": 68,
+      "raw_zh": "形容起來就是“淡然一笑，抿嘴不語”。",
+      "translated_vi": "Diễn tả bằng lời thì chính là: “Mỉm cười thản nhiên, mím môi không nói”."
+    },
+    {
+      "para_id": "c0066p0069",
+      "index": 69,
+      "raw_zh": "所有人裡，只有小神經一句話也不說，悶著頭就是吃東西，葷素不忌，什麽熟了吃什麽。",
+      "translated_vi": "Trong tất cả mọi người, duy chỉ có Tiểu Thần Kinh là chẳng hé răng lấy một lời, cứ cắm cúi ăn uống, không kén chọn chay mặn, thứ gì chín tới là gắp ăn thứ đó."
+    },
+    {
+      "para_id": "c0066p0070",
+      "index": 70,
+      "raw_zh": "正吃著，小神經眉頭微微皺起，暗暗想：",
+      "translated_vi": "Đang ăn dở, hàng mày thanh tú của Tiểu Thần Kinh chợt khẽ nhíu lại, thầm nghĩ trong bụng:"
+    },
+    {
+      "para_id": "c0066p0071",
+      "index": 71,
+      "raw_zh": "“那木舶上的人一直盯著雲千峰看很久了.”",
+      "translated_vi": "“Mấy người trên chiếc thuyền gỗ kia cứ nhìn chằm chằm vào Vân Thiên Phong suốt từ nãy đến giờ...”"
+    },
+    {
+      "para_id": "c0066p0072",
+      "index": 72,
+      "raw_zh": "感謝書友、陌愛的月票，謝謝你的鼓勵，謝謝！！！",
+      "translated_vi": "Cảm ơn bạn đọc Mạch Ái đã bỏ phiếu tháng, cảm ơn sự khích lệ của bạn, cảm ơn rất nhiều!!!"
+    }
+  ]
+}

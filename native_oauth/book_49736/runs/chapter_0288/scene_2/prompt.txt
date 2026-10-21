@@ -1,0 +1,92 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0288|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Mùi, ấy là Dê.
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §53):
+§1 [Ø=云千峰]但雲千峰認為，絕不會是一群小綿羊，因為巫人絕對不會那麽善良。
+§2 [Ø=云千峰]女閻羅人設置這個四庫之地，肯定是用來藏東西，這雲千峰非常確信。
+§3 因為四庫就是乾這個用的。
+§4 [Ø=云千峰]而藏東西就需要絕對安全，那麽這個藏起來的東西，一定是只有某個人能夠拿到，其他人來到這裡只能死。
+§5 [Ø=云千峰]所以雲千峰相信，這裡沒有一處是安全的。
+§6 [Ø=云千峰]然而，直到他們來到這小溪的盡頭，那一池方圓不過五六米的清池之前，也沒有遇到任何危險。
+§7 雲千峰奇怪道：
+§8 [Ø=云千峰]“不應該啊，沒有羊， [||] 也沒有帶著羊角的怪物，更沒有能夠象形取義羊的東西，為何會這樣？到底是缺了什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§9 楊玉奴道：
+§10 [Ø=云千峰]“郎君，非得有羊在這裡嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=云千峰]雲千峰點了點頭，道：
+§12 [Ø=云千峰]“水庫後為蛇、鼉，沼澤後為醜牛、那溫泉湖泊只看岸邊枯骨，便知湖中有獸， [||] 當為河魁，三者皆有應支的動物，這裡不可能沒有。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 [Ø=云千峰]說著，雲千峰閉目思索，念叨著：
+§14 [Ø=云千峰]“辰土內藏著戊土、乙木、癸水，我們進入之地，有矮木草叢， [||] 也有亂石成堆，兩蟹爪形之地也圈了癸水，更有小龍、鼉活其氣，辰庫很完整。
+§15 [Ø=云千峰]醜土內藏著己土、癸水、辛金，沼澤之地三者俱全， [||] 更有公牛以牛角應辛金之像，活醜土之氣，醜庫也是完整的。
+§16 [Ø=云千峰]戌土內藏戊土、丁火、辛金，雖未見水底戌土之貌，但僅憑湖水溫熱， [||] 便可確定其內三者俱全，再有河魁活其氣，戌庫也是完整的。
+§17 [Ø=云千峰]未土內藏乙木、己土、丁火，此地己土乙木已有，但丁火未現， [||] 是了，這裡缺了丁火，或許有了丁火，便可見活氣之物。”
+§18 楊玉奴問道：
+§19 “何為丁火？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§20 雲千峰道：
+§21 [Ø=云千峰]“有形之火便為丁火，篝火、燭火等皆為丁火，而篝火和燭火散發出的光，則為丙火。
+§22 [Ø=云千峰]所以，我們現在需要一堆篝火，完整未庫內的藏乾，使其完整。”
+§23 楊玉奴忙道：
+§24 [Ø=云千峰]“是不是藏乾全了，便可見活氣之物？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 雲千峰沉吟道：
+§26 “有這個可能。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 楊玉奴又道：
+§28 [Ø=云千峰]“郎君可有猜測，那會是何物？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 雲千峰思索道：
+§30 [Ø=云千峰]“若按西方所講，估計咱們會見到頭長羊角的惡魔。若是東方所講，估計會有羊刃的刀兵之災，反正我不信會有好事。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 楊玉奴低聲道：
+§32 “那咱們還是不完全藏乾好些吧？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 雲千峰笑道：
+§34 [Ø=云千峰]“放心，便是有事，我也扛得住。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 [Ø=云千峰]說著，他招呼楊玉奴開始一起尋找乾柴。
+§36 不多時弄了一大堆。
+§37 [Ø=云千峰]雲千峰把之前弄到的那把手槍的子彈彈頭卸下，把火藥倒在弄好的引火絨上。
+§38 [Ø=云千峰]“大丫鬟，把耳朵捂住。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 [Ø_SHIFT=姜柔甲]楊玉奴急忙雙手捂住耳朵，下一秒就聽“嘭”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]的一聲響，那引火絨神奇的燃起了一團火焰。
+§40 [Ø=姜柔甲]架上乾柴，不多時篝火便熊熊而起。
+§41 [Ø=姜柔甲]篝火沒有驅散恐懼，楊玉奴小心的看著四周，等待著雲千峰所說的活氣之恐怖生物。
+§42 [Ø=姜柔甲]然而，並沒有。
+§43 雲千峰也有點懵。
+§44 [Ø=姜柔甲]“不對啊，未庫藏乾已經全了，己土、乙木、丁火都在了，怎麽還不見活氣之物？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§45 [Ø=姜柔甲]他看向四周，側耳傾聽，然而一切都是那麽的安然，沒有絲毫的異動。
+§46 直到最後雲千峰把雙目集中在楊玉奴身上。
+§47 [Ø=姜柔甲]隨後就見他雙手快速的掐動，嘴裡念著天乾地支之名。
+§48 [Ø=姜柔甲]不多時，雲千峰面現恐懼，咬牙顫聲道：
+§49 [Ø=姜柔甲]“果然，果然還是算計！我特麽的還在他們的算計之中！不是帝嚳的算計，這不該是帝嚳的算計，是誰的？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§50 感謝肖娜丶、Lsfpmzl、尾數26918、尾數18659、尾數47670、狐言鑾雨、血之藥、尾數44457、無我無物無時、踏月留香z、尾數06694、雖山高路遠、非無用、神祇papa、為仁不忍、尾數29200、可憐兮兮的袁先生、羽逸彤、尾數55940、尾數14847、戚文、尾數19236、尾數58717、終究灬意難平、心刀客、穹宵、尾數13546、尾數03005、塔克斯、尾數11405、尾數10151、漠落小妖、尾數01440、射和龜、Happysong、尾數43252、且看風雨122、尾數29725、尾數05537、尾數20551、尾數25937、尾數31289、花生ame、安靜已死、尾數49420、尾數25191、尾數48532、尾數08943、紅塵蹉跎、流浪人間的喵、尾數55870！！！
+§51 [Ø=姜柔甲]謝謝你們的月票支持，感激！！！
+§52 祝大家好夢！！！
+§53 晚安！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 53 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§53. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

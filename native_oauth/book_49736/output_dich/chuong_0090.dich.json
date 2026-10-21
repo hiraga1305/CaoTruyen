@@ -1,0 +1,463 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 90,
+  "title": "Chương 90: Người quen xa lạ",
+  "total_paragraphs": 75,
+  "translated_paragraphs": 75,
+  "source_hash": "c1657b46cd188259f08d76a8a70b418b285d81d86bf30d23af49e03e89d09963",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0090p0001",
+      "index": 1,
+      "raw_zh": "第90章 熟悉的陌生人（盟主加更繼續ING，竟然睡著了剛剛）",
+      "translated_vi": "Chương 90: Người quen xa lạ"
+    },
+    {
+      "para_id": "c0090p0002",
+      "index": 2,
+      "raw_zh": "一堆排泄物上面的弩矢尾部兀自顫抖著，證明雲千峰剛才的確來過這裡。",
+      "translated_vi": "Đuôi mũi tên nỏ cắm ngập trên bãi chất thải vẫn còn run lên bần bật, minh chứng cho việc ban nãy Vân Thiên Phong quả thực từng có mặt tại nơi này."
+    },
+    {
+      "para_id": "c0090p0003",
+      "index": 3,
+      "raw_zh": "“他他怎麽不見了？”",
+      "translated_vi": "“Hắn... hắn biến đâu mất rồi?”"
+    },
+    {
+      "para_id": "c0090p0004",
+      "index": 4,
+      "raw_zh": "此時的薑柔甲已經撕下了臉上的偽裝，變成了小佩。",
+      "translated_vi": "Lúc này, \"Khương Nhu Giáp\" đã lột phăng lớp dịch dung ngụy trang trên mặt xuống, hiện nguyên hình là Tiểu Bội."
+    },
+    {
+      "para_id": "c0090p0005",
+      "index": 5,
+      "raw_zh": "井邊看著小佩，道：",
+      "translated_vi": "Tỉnh Biên nhìn Tiểu Bội, gằn giọng bảo:"
+    },
+    {
+      "para_id": "c0090p0006",
+      "index": 6,
+      "raw_zh": "“這家夥是個騙子，他之前和你說的話，沒有一句是真的，這個混帳！你在這裡，他絕對無法從出口下山，他只能是向著回路走了，我們追，他跑不遠！”",
+      "translated_vi": "“Tên này là một kẻ đại bịp bợm! Những lời hắn vừa nói với cô không có lấy một câu thật lòng, đồ khốn kiếp! Có cô chốt chặn ở đây, hắn tuyệt đối không thể nào xuống núi bằng lối ra này được, hắn chỉ có thể quay đầu chạy ngược về đường cũ thôi. Đuổi theo mau, hắn chưa thể chạy xa được đâu!”"
+    },
+    {
+      "para_id": "c0090p0007",
+      "index": 7,
+      "raw_zh": "小佩頓時覺得無窮的委屈和恥辱在內心翻滾，一邊跟著井邊幾個人後面跑，一邊實在忍不住哭道：",
+      "translated_vi": "Tiểu Bội tức thì cảm thấy muôn vàn uất ức cùng nỗi nhục nhã ê chề cuộn trào trong lòng. Cô ta vừa cắm đầu chạy theo sau nhóm của Tỉnh Biên, vừa không kìm được mà nức nở khóc ròng:"
+    },
+    {
+      "para_id": "c0090p0008",
+      "index": 8,
+      "raw_zh": "“他侵犯了我，嗚嗚嗚，你們千萬不要讓福田知道這一切，嗚嗚嗚。”",
+      "translated_vi": "“Hắn đã làm nhục tôi rồi, hu hu hu... Mọi người ngàn vạn lần đừng để Phúc Điền biết chuyện này nhé, hu hu hu.”"
+    },
+    {
+      "para_id": "c0090p0009",
+      "index": 9,
+      "raw_zh": "正說著，耳朵裡的耳機傳來福田的聲音：",
+      "translated_vi": "Đang mải mếu máo thì trong tai nghe Bluetooth bỗng vang lên giọng nói lạnh tanh của Phúc Điền:"
+    },
+    {
+      "para_id": "c0090p0010",
+      "index": 10,
+      "raw_zh": "“我已經知道了，我們被井邊叫來圍堵雲千峰，現在正在他上山的路上圍堵他。”",
+      "translated_vi": "“Tôi biết hết rồi. Tôi vừa được Tỉnh Biên gọi sang chi viện chặn đường Vân Thiên Phong, hiện giờ đang phục kích đón đầu hắn trên con đường dẫn lên núi đây.”"
+    },
+    {
+      "para_id": "c0090p0011",
+      "index": 11,
+      "raw_zh": "小佩臉色都變了，急忙道：",
+      "translated_vi": "Mặt mày Tiểu Bội biến sắc dữ dội, cuống quýt thanh minh:"
+    },
+    {
+      "para_id": "c0090p0012",
+      "index": 12,
+      "raw_zh": "“福田，我是被迫的，是他用強。”",
+      "translated_vi": "“Phúc Điền, em là bị ép buộc mà, là hắn dùng vũ lực ép em...”"
+    },
+    {
+      "para_id": "c0090p0013",
+      "index": 13,
+      "raw_zh": "“住嘴！伱當我的耳朵是聾的嘛？你叫的和殺豬一樣，很爽嗎？”",
+      "translated_vi": "“Câm mồm! Cô tưởng tai tôi điếc chắc? Cô rên la nghe hệt như chọc tiết lợn, sướng lắm có phải không?”"
+    },
+    {
+      "para_id": "c0090p0014",
+      "index": 14,
+      "raw_zh": "井邊很尷尬，一邊奔跑一邊幫小佩解釋道：",
+      "translated_vi": "Tỉnh Biên vô cùng ngượng ngùng, vừa chạy thục mạng vừa lên tiếng đỡ lời giải vây cho Tiểu Bội:"
+    },
+    {
+      "para_id": "c0090p0015",
+      "index": 15,
+      "raw_zh": "“都怪我，是我讓小佩一切配合他的，我們也沒想到那個家夥會在這種情況下想到做那種事，福田我會給你一個交代。大家不要因為任務的事情吵架，那家夥就是故意惡心我們，讓我們憤怒的，互相離隙，不能上當！”",
+      "translated_vi": "“Tất cả là tại tôi, chính tôi đã ra lệnh cho Tiểu Bội phải bằng mọi giá phối hợp với hắn. Chúng ta cũng chẳng thể ngờ nổi trong tình thế ngàn cân treo sợi tóc như vậy mà tên khốn kia lại nảy ra ý định làm cái chuyện đồi bại đó, tôi nhất định sẽ cho cậu một lời giải thích thỏa đáng. Mọi người đừng vì chuyện nhiệm vụ mà cãi vã chia rẽ nhau, tên kia cố tình làm trò kinh tởm ấy là để chọc tức chúng ta, khiến nội bộ ta nghi kỵ lẫn nhau, tuyệt đối không được trúng kế của hắn!”"
+    },
+    {
+      "para_id": "c0090p0016",
+      "index": 16,
+      "raw_zh": "福田冷哼一聲，道：",
+      "translated_vi": "Phúc Điền hừ lạnh một tiếng, nói:"
+    },
+    {
+      "para_id": "c0090p0017",
+      "index": 17,
+      "raw_zh": "“這件事以後再說，你確定他向著來路跑來了嗎？”",
+      "translated_vi": "“Chuyện này tính sau đi! Anh có dám chắc chắn là hắn đang chạy ngược lại lối cũ không?”"
+    },
+    {
+      "para_id": "c0090p0018",
+      "index": 18,
+      "raw_zh": "井邊點頭，道：",
+      "translated_vi": "Tỉnh Biên gật đầu quả quyết bảo:"
+    },
+    {
+      "para_id": "c0090p0019",
+      "index": 19,
+      "raw_zh": "“我確定，這個家夥故意隱藏了蹤跡，但我已經知道他是怎麽做到的，這個混蛋的手臂力量很大，在奔跑一段路程後會選擇用單手撐起身體跳躍，讓我們找不到腳印，但是現在這招對我沒有用了。”",
+      "translated_vi": "“Tôi dám chắc! Tên này cố tình xóa sạch dấu vết, nhưng tôi đã nhìn thấu cách thức hắn làm rồi. Cánh tay của tên khốn đó sức mạnh phi thường, chạy được một đoạn hắn liền dùng một tay chống đẩy cả cơ thể để nhảy vọt qua khoảng không, làm chúng ta không tìm ra dấu chân. Nhưng giờ trò vặt vãnh này đã vô tác dụng trước mắt tôi rồi.”"
+    },
+    {
+      "para_id": "c0090p0020",
+      "index": 20,
+      "raw_zh": "“單手跳躍？怎麽可能！”",
+      "translated_vi": "“Dùng một tay chống nhảy vọt á? Làm sao có thể chứ!”"
+    },
+    {
+      "para_id": "c0090p0021",
+      "index": 21,
+      "raw_zh": "“但這就是事實，總之遇到他不要廢話，直接射殺！”",
+      "translated_vi": "“Nhưng đó hoàn toàn là sự thật! Tóm lại hễ chạm mặt hắn thì đừng nói nhảm, lập tức bắn chết ngay tại chỗ!”"
+    },
+    {
+      "para_id": "c0090p0022",
+      "index": 22,
+      "raw_zh": "小佩忙道：",
+      "translated_vi": "Tiểu Bội vội nghiến răng nghiến lợi chen vào:"
+    },
+    {
+      "para_id": "c0090p0023",
+      "index": 23,
+      "raw_zh": "“不要直接殺死他，這個混蛋騙我，我要折磨他生不如死！”",
+      "translated_vi": "“Đừng bắn chết hắn ngay! Tên khốn nạn ấy dám lừa gạt tôi, tôi phải tra tấn hắn sống không bằng chết mới hả dạ!”"
+    },
+    {
+      "para_id": "c0090p0024",
+      "index": 24,
+      "raw_zh": "不多時，原本趕往極江那面，卻半路被井邊喊回的福田幾個人和井邊四人匯合。",
+      "translated_vi": "Chẳng bao lâu sau, nhóm người của Phúc Điền — vốn đang xuôi về phía thành Cửu Giang nhưng giữa đường bị Tỉnh Biên gọi ngược trở lại — đã hội quân cùng bốn người nhóm Tỉnh Biên."
+    },
+    {
+      "para_id": "c0090p0025",
+      "index": 25,
+      "raw_zh": "井邊驚訝道：",
+      "translated_vi": "Tỉnh Biên kinh ngạc thốt lên:"
+    },
+    {
+      "para_id": "c0090p0026",
+      "index": 26,
+      "raw_zh": "“怎麽可能？他無路可走，怎麽會沒有見到他！”",
+      "translated_vi": "“Làm sao có thể chứ? Hắn vốn cùng đường rồi cơ mà, sao các cậu lại không chạm mặt hắn?”"
+    },
+    {
+      "para_id": "c0090p0027",
+      "index": 27,
+      "raw_zh": "福田是另一個小隊的組長，他看也不看剛和自己戀愛沒多久的小佩，冷聲道：",
+      "translated_vi": "Phúc Điền là đội trưởng của một phân đội khác, hắn thậm chí chẳng buồn liếc mắt nhìn cô bạn gái Tiểu Bội vừa mới hẹn hò với mình chưa được bao lâu, lạnh lùng hỏi:"
+    },
+    {
+      "para_id": "c0090p0028",
+      "index": 28,
+      "raw_zh": "“他的痕跡呢？”",
+      "translated_vi": "“Dấu vết của hắn đâu?”"
+    },
+    {
+      "para_id": "c0090p0029",
+      "index": 29,
+      "raw_zh": "井邊指著地面道：",
+      "translated_vi": "Tỉnh Biên chỉ tay xuống nền đất, đáp:"
+    },
+    {
+      "para_id": "c0090p0030",
+      "index": 30,
+      "raw_zh": "“在這裡消失了！”",
+      "translated_vi": "“Biến mất ngay tại đây!”"
+    },
+    {
+      "para_id": "c0090p0031",
+      "index": 31,
+      "raw_zh": "說完，他看向不遠處的懸崖，急忙拿起弩箭，壓低聲音道：",
+      "translated_vi": "Nói đoạn, hắn đưa mắt nhìn về phía vách núi dựng đứng cách đó không xa, vội vàng nâng nỏ lên, hạ giọng thì thầm:"
+    },
+    {
+      "para_id": "c0090p0032",
+      "index": 32,
+      "raw_zh": "“可能藏在懸崖背面。”",
+      "translated_vi": "“Rất có thể hắn đang ẩn nấp ở vách đá phía sau lưng đồi.”"
+    },
+    {
+      "para_id": "c0090p0033",
+      "index": 33,
+      "raw_zh": "這是極有可能的，只要膽子夠大，找一個能落腳的地方，就能夠藏起來。",
+      "translated_vi": "Khả năng này cực kỳ lớn. Chỉ cần lá gan đủ lớn, tìm được một mỏm đá có thể đặt chân là hoàn toàn có thể trốn kín mít."
+    },
+    {
+      "para_id": "c0090p0034",
+      "index": 34,
+      "raw_zh": "幾個人都掏出自己的手弩，箭矢上弦，謹慎的挪步來到懸崖邊上。",
+      "translated_vi": "Cả bọn đồng loạt rút nỏ tay ra, lắp tên vào rãnh, thận trọng nhón từng bước chân tiến sát mép vực thẳm."
+    },
+    {
+      "para_id": "c0090p0035",
+      "index": 35,
+      "raw_zh": "順著高度三十多米的懸崖峭壁往下一看。",
+      "translated_vi": "Dõi mắt nhìn xuống bờ vách đá cheo leo cao hơn ba mươi mét."
+    },
+    {
+      "para_id": "c0090p0036",
+      "index": 36,
+      "raw_zh": "一個個都是目瞪口呆。",
+      "translated_vi": "Từng kẻ một đều há hốc mồm, trợn tròn mắt kinh ngạc."
+    },
+    {
+      "para_id": "c0090p0037",
+      "index": 37,
+      "raw_zh": "雲千峰的確就在懸崖背面，只不過已經快到懸崖底部。",
+      "translated_vi": "Vân Thiên Phong quả thực đang ở trên vách đá sau lưng đồi, chỉ có điều anh đã tụt xuống gần tới đáy vực."
+    },
+    {
+      "para_id": "c0090p0038",
+      "index": 38,
+      "raw_zh": "最嚇人的是，他的攀岩方式，竟然是隻用一隻右手。",
+      "translated_vi": "Điều rùng mình ghê gớm nhất là, phương thức leo vách đá của anh vậy mà chỉ dùng duy nhất một cánh tay phải!"
+    },
+    {
+      "para_id": "c0090p0039",
+      "index": 39,
+      "raw_zh": "就見他抓住凸起的岩石掛在懸崖上，然後一松手，身體下落，眼睛始終盯著下方，不錯過任何凸起的岩石。",
+      "translated_vi": "Chỉ thấy anh dùng bàn tay phải bám chặt lấy một mỏm đá nhô ra treo lơ lửng trên vách đá, sau đó buông tay ra để cơ thể rơi tự do xuống dưới, đôi mắt luôn khóa chặt vào vách đá bên dưới, không bỏ sót bất kỳ mỏm đá nhô nào."
+    },
+    {
+      "para_id": "c0090p0040",
+      "index": 40,
+      "raw_zh": "當下落一段距離後，他就會用右手抓住下面凸起的岩石，讓自己重新掛在懸崖上，如此往複，已經快到懸崖底部。",
+      "translated_vi": "Rơi được một đoạn, anh lại vung tay phải chộp chuẩn xác vào một phiến đá nhô bên dưới để hãm đà, lại treo lơ lửng người lên vách đá. Cứ thế lặp đi lặp lại nhiều lần, anh đã tụt sát đáy vực thẳm."
+    },
+    {
+      "para_id": "c0090p0041",
+      "index": 41,
+      "raw_zh": "這情景，讓上面幾個人想到了李連傑在致命搖籃裡那經典的跳樓動作，幾乎同出一轍，只不過雲千峰用的是單手。",
+      "translated_vi": "Cảnh tượng này khiến mấy kẻ đứng trên đỉnh núi liên tưởng ngay đến động tác nhảy lầu kinh điển của Lý Liên Kiệt trong bộ phim \"Cái Nôi Của Quỷ\", gần như y hệt không sai một ly, chỉ có điều Vân Thiên Phong lại thực hiện bằng độc một cánh tay."
+    },
+    {
+      "para_id": "c0090p0042",
+      "index": 42,
+      "raw_zh": "雲千峰看到懸崖上放探出來的幾個腦袋，心下也是一驚，暗罵這些人速度可真快。",
+      "translated_vi": "Vân Thiên Phong ngước nhìn thấy vài cái đầu thò ra trên mép vực, trong lòng cũng khẽ giật mình, thầm rủa lũ người này đuổi theo nhanh thật."
+    },
+    {
+      "para_id": "c0090p0043",
+      "index": 43,
+      "raw_zh": "心下一急，頓時加快了下降的速度，在距離地面五米左右的地方直接松手，整個人在空中翻轉橫落，在接近地面那一刻，神奇的調動重心，和貓一樣四肢著地，然後往旁邊一撐，把下墜的力道橫向轉移，隨後後背著地，在地上打了幾個滾，安全著陸。",
+      "translated_vi": "Tình thế cấp bách, anh lập tức tăng tốc tụt xuống. Cách mặt đất chừng năm mét, anh liền buông tay nhảy thẳng xuống, cả người xoay chuyển trên không trung, khoảnh khắc sắp chạm đất liền kỳ diệu điều chỉnh trọng tâm, bốn chi tiếp đất hệt như loài mèo rồi chống tay sang bên cạnh để triệt tiêu lực rơi thẳng đứng thành đà trượt ngang, tiếp đó lưng chạm đất lăn lông lốc vài vòng, tiếp đất an toàn tuyệt đối."
+    },
+    {
+      "para_id": "c0090p0044",
+      "index": 44,
+      "raw_zh": "與此同時，上面的箭矢也已經落了下來。",
+      "translated_vi": "Cùng lúc đó, những mũi tên nỏ từ trên cao cũng rào rào cắm phầm phập xuống nền đất."
+    },
+    {
+      "para_id": "c0090p0045",
+      "index": 45,
+      "raw_zh": "雲千峰連滾帶爬閃到了旁邊的樹叢裡，然後消失不見。",
+      "translated_vi": "Vân Thiên Phong nhanh như cắt lộn nhào mấy vòng lủi thẳng vào bụi rậm bên cạnh, rồi biến mất không còn tăm hơi."
+    },
+    {
+      "para_id": "c0090p0046",
+      "index": 46,
+      "raw_zh": "幾個人恨的牙癢癢，尤其是小佩，簡直恨雲千峰入骨，她無法接受那種愚弄。",
+      "translated_vi": "Mấy kẻ trên đỉnh núi tức đến nghiến răng kèn kẹt, đặc biệt là Tiểu Bội, cô ta căm hận Vân Thiên Phong đến tận xương tủy, không thể nào nuốt trôi sự sỉ nhục và trêu đùa bỡn cợt vừa rồi."
+    },
+    {
+      "para_id": "c0090p0047",
+      "index": 47,
+      "raw_zh": "“隊長，他一定是去了薑玉林在昌城的別院，他剛才和我提過那裡，那裡很隱蔽也很安全！”",
+      "translated_vi": "“Đội trưởng, hắn nhất định là chạy tới biệt viện của Khương Ngọc Lâm ở Xương Thành rồi! Ban nãy hắn vừa nhắc với tôi về nơi đó, chỗ ấy vô cùng kín đáo và an toàn!”"
+    },
+    {
+      "para_id": "c0090p0048",
+      "index": 48,
+      "raw_zh": "福田幾個人看了一眼小佩，金城冷哼道：",
+      "translated_vi": "Nhóm người của Phúc Điền liếc nhìn Tiểu Bội một cái, Kim Thành liền hừ lạnh bảo:"
+    },
+    {
+      "para_id": "c0090p0049",
+      "index": 49,
+      "raw_zh": "“那個混蛋就沒有一句實話，他一直在用陽謀分散我們的隊伍，讓我們無法合力圍捕，這次也是，不過他的套路也就如此，說了哪裡，就一定不會去。”",
+      "translated_vi": "“Cái tên khốn đó chẳng có lấy một lời nói thật! Hắn luôn dùng dương mưu để phân tán hàng ngũ chúng ta, khiến chúng ta không thể hợp lực vây bắt. Lần này cũng chẳng ngoại lệ, ngón đòn của hắn chỉ có vậy thôi: miệng nói đi đâu thì chắc chắn tuyệt đối sẽ không bao giờ mò tới đó!”"
+    },
+    {
+      "para_id": "c0090p0050",
+      "index": 50,
+      "raw_zh": "井邊急忙拿起電話，呼喊著：",
+      "translated_vi": "Tỉnh Biên vội vàng chụp lấy bộ đàm, gầm lên lệnh cho các tổ:"
+    },
+    {
+      "para_id": "c0090p0051",
+      "index": 51,
+      "raw_zh": "“所有人去極江八裡湖薑玉林的別墅，他一定去了那裡！相信我，如果他不是去了那裡，我在十樓跳下去謝罪！”",
+      "translated_vi": "“Tất cả mọi người lập tức tới ngay biệt thự của Khương Ngọc Lâm ở hồ Bát Lý thành Cửu Giang! Hắn chắc chắn đã mò tới đó! Tin tôi đi, nếu hắn không tới đó, tôi xin nhảy từ tầng mười xuống tạ tội!”"
+    },
+    {
+      "para_id": "c0090p0052",
+      "index": 52,
+      "raw_zh": "陽謀嗎？",
+      "translated_vi": "Dương mưu ư?"
+    },
+    {
+      "para_id": "c0090p0053",
+      "index": 53,
+      "raw_zh": "就是陽謀。",
+      "translated_vi": "Đúng là dương mưu thật."
+    },
+    {
+      "para_id": "c0090p0054",
+      "index": 54,
+      "raw_zh": "因為只有陽謀才能讓對方不得不犯錯。",
+      "translated_vi": "Bởi vì chỉ có dương mưu bày ra giữa ban ngày ban mặt mới khiến đối phương không thể không phạm sai lầm."
+    },
+    {
+      "para_id": "c0090p0055",
+      "index": 55,
+      "raw_zh": "更能讓敵人亂了方寸。",
+      "translated_vi": "Càng có thể khiến kẻ thù hoàn toàn rối loạn tâm trí, mất sạch phương hướng."
+    },
+    {
+      "para_id": "c0090p0056",
+      "index": 56,
+      "raw_zh": "就在井邊他們召集所有人手向著極江八裡湖趕去的時候，雲千峰已經來到了自己之前居住的那座別院。",
+      "translated_vi": "Ngay lúc Tỉnh Biên cùng đồng bọn rầm rộ tập hợp toàn bộ nhân lực hớt hải lao về phía hồ Bát Lý ở thành Cửu Giang, thì Vân Thiên Phong đã ung dung đặt chân tới ngôi biệt viện mà anh từng tá túc trước đây."
+    },
+    {
+      "para_id": "c0090p0057",
+      "index": 57,
+      "raw_zh": "別院還是老樣子，只是被自己啃皮吃花的桃樹又變得和之前一樣完美。",
+      "translated_vi": "Biệt viện vẫn mang vẻ bài trí y như cũ, duy chỉ có cây đào từng bị anh cắn vỏ nuốt hoa năm nào giờ đây lại sinh sôi hoàn mỹ không tì vết hệt như thuở ban đầu."
+    },
+    {
+      "para_id": "c0090p0058",
+      "index": 58,
+      "raw_zh": "看到那棵桃樹的時候，雲千峰隱隱覺得自己抓到了什麽，但又不確定，他現在沒有時間思考這些，他需要休息，同時扔下另一個陽謀。",
+      "translated_vi": "Nhìn thấy cây đào ấy, trong lòng Vân Thiên Phong mơ hồ cảm thấy dường như mình đã nắm bắt được điều gì đó cốt lõi, nhưng lại chưa thể khẳng định chắc chắn. Lúc này anh chẳng có tâm trí đâu để suy ngẫm miên man, anh cần được nghỉ ngơi hồi phục thể lực, đồng thời tung ra thêm một đòn dương mưu tiếp theo."
+    },
+    {
+      "para_id": "c0090p0059",
+      "index": 59,
+      "raw_zh": "一個女人出現在主樓的門前，模樣雲千峰極為熟悉。",
+      "translated_vi": "Một người phụ nữ bỗng xuất hiện ngay trước cửa tòa nhà chính, dung mạo của cô ấy khiến Vân Thiên Phong thấy quen thuộc vô cùng."
+    },
+    {
+      "para_id": "c0090p0060",
+      "index": 60,
+      "raw_zh": "他急忙笑著打招呼道：",
+      "translated_vi": "Anh vội tươi cười cất tiếng chào:"
+    },
+    {
+      "para_id": "c0090p0061",
+      "index": 61,
+      "raw_zh": "“劉玲娣，你怎麽在這裡？”",
+      "translated_vi": "“Lưu Linh Đệ, sao cô lại ở đây thế này?”"
+    },
+    {
+      "para_id": "c0090p0062",
+      "index": 62,
+      "raw_zh": "劉玲娣一愣，因為眼前這個人她不認識，於是遲疑道：",
+      "translated_vi": "Lưu Linh Đệ ngẩn người ra, bởi lẽ người đàn ông trước mắt này cô hoàn toàn chẳng quen biết, liền ngập ngừng hỏi:"
+    },
+    {
+      "para_id": "c0090p0063",
+      "index": 63,
+      "raw_zh": "“你好，你是哪位？”",
+      "translated_vi": "“Chào anh, anh là ai vậy ạ?”"
+    },
+    {
+      "para_id": "c0090p0064",
+      "index": 64,
+      "raw_zh": "雲千峰臉上露出了難以置信的表情，甚至還有點傷心的神情，說道：",
+      "translated_vi": "Trên gương mặt Vân Thiên Phong lập tức hiện lên vẻ khó tin đến cùng cực, thậm chí còn phảng phất nét đau xót tủi thân, cất giọng trách móc:"
+    },
+    {
+      "para_id": "c0090p0065",
+      "index": 65,
+      "raw_zh": "“你不記得我了嗎？難道你真的不記得我了嗎？我們曾經是戀人，你的胸口下方有一顆芝麻大的小痣，你的臀尖上也有一顆很小的痣，左側！你竟然把我這麽親密的人忘記了？也是啊，這麽多年了，我又沒有什麽值得別人記得。”",
+      "translated_vi": "“Cô không nhớ ra tôi sao? Lẽ nào cô thật sự quên sạch tôi rồi à? Chúng ta từng là người yêu của nhau mà! Phía dưới ngực cô có một nốt ruồi nhỏ bằng hạt vừng, trên mông cô cũng có một nốt ruồi con con nằm ở bên trái! Người từng thân mật khăng khít đến thế mà cô nỡ lòng nào quên béng đi được ư? Nhưng mà cũng phải thôi, bao nhiêu năm trôi qua rồi, bản thân tôi cũng chẳng có điểm gì nổi trội đáng để người ta ghi nhớ cả.”"
+    },
+    {
+      "para_id": "c0090p0066",
+      "index": 66,
+      "raw_zh": "劉玲娣感覺自己好像叫雷劈了，特備懵。",
+      "translated_vi": "Lưu Linh Đệ cảm thấy cả người như bị sét đánh ngang tai, đầu óc quay cuồng ngơ ngác hoàn toàn."
+    },
+    {
+      "para_id": "c0090p0067",
+      "index": 67,
+      "raw_zh": "她懵的不是別的，而是自己怎麽會忘記曾經的戀人？這不可能啊！但是人家說的完全沒錯。",
+      "translated_vi": "Cô ta hoang mang tột độ không phải vì điều gì khác, mà là vì tại sao bản thân mình lại có thể quên đi người tình cũ được chứ? Điều này vốn dĩ vô lý hết sức! Thế nhưng những chi tiết bí mật trên cơ thể mà người ta vừa vanh vách kể ra lại chuẩn xác đến từng milimét."
+    },
+    {
+      "para_id": "c0090p0068",
+      "index": 68,
+      "raw_zh": "於是掰著手指頭計算自己和幾個人戀愛過，尤其是達到過那種關系。",
+      "translated_vi": "Thế là cô nàng bắt đầu bẻ từng ngón tay ra để đếm xem trong đời mình từng yêu đương với bao nhiêu người, đặc biệt là những người từng tiến tới mối quan hệ thể xác mặn nồng kia."
+    },
+    {
+      "para_id": "c0090p0069",
+      "index": 69,
+      "raw_zh": "一隻手沒數完，她徹底迷亂了，真不記得。",
+      "translated_vi": "Đếm hết một bàn tay mà vẫn chưa hết danh sách, đầu óc cô ta hoàn toàn rối bời hỗn loạn, quả thực chẳng thể nào nhớ nổi."
+    },
+    {
+      "para_id": "c0090p0070",
+      "index": 70,
+      "raw_zh": "雲千峰哪裡會給她時間仔細思考，立馬轉換角度，道：",
+      "translated_vi": "Vân Thiên Phong làm sao cho cô ta có thời gian để định thần suy nghĩ, lập tức chuyển hướng câu chuyện ngay:"
+    },
+    {
+      "para_id": "c0090p0071",
+      "index": 71,
+      "raw_zh": "“薑玉林呢？他是去歐洲了，還是在這？我去八裡湖沒找到他，電話還關機。”",
+      "translated_vi": "“Khương Ngọc Lâm đâu rồi? Anh ấy sang châu Âu rồi hay vẫn ở đây? Tôi qua hồ Bát Lý tìm mà chẳng thấy bóng dáng, gọi điện thì thuê bao khóa máy.”"
+    },
+    {
+      "para_id": "c0090p0072",
+      "index": 72,
+      "raw_zh": "劉玲娣更加迷亂了，這人不但和自己特別熟，還和自己的老板也熟，但自己卻給忘了。",
+      "translated_vi": "Lưu Linh Đệ nghe vậy thì càng thêm hoang mang bối rối tột độ. Người này không chỉ tường tận mọi ngóc ngách trên thân thể mình, mà lại còn thân thiết với cả ông chủ của mình nữa, vậy mà chính cô ta lại quên sạch sành sanh."
+    },
+    {
+      "para_id": "c0090p0073",
+      "index": 73,
+      "raw_zh": "於是手足無措的把雲千峰往屋裡讓，一邊回答道：",
+      "translated_vi": "Thế là cô ta lúng túng luống cuống nghiêng người mời Vân Thiên Phong bước vào trong nhà, miệng vừa rối rít đáp lời:"
+    },
+    {
+      "para_id": "c0090p0074",
+      "index": 74,
+      "raw_zh": "“薑先生去歐洲了，他很少來這裡，只是對不起，我真的不記得你了，我我.”",
+      "translated_vi": "“Khương tiên sinh đi châu Âu rồi ạ, anh ấy hiếm khi ghé qua nơi này lắm. Chỉ là... thật lòng xin lỗi anh, em thực sự không nhớ nổi anh là ai nữa rồi, em... em...”"
+    },
+    {
+      "para_id": "c0090p0075",
+      "index": 75,
+      "raw_zh": "感謝縱橫千裡的打賞，感謝誰的曾經不荒唐和尾數06790的月票鼓勵，謝謝你們的支持！！！我會努力更更更！！！",
+      "translated_vi": "Chân thành cảm ơn Tung Hoành Vạn Dặm đã khen thưởng, cảm ơn Ai Từng Chẳng Hoang Đường và bạn đọc số đuôi 06790 đã khích lệ bằng phiếu tháng, cảm ơn sự ủng hộ của mọi người!!! Tôi sẽ nỗ lực bạo chương liên tục tiếp tục!!!"
+    }
+  ]
+}

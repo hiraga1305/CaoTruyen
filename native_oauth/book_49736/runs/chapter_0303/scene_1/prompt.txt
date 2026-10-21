@@ -1,0 +1,71 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0303|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §32):
+§1 303.第303章 破局
+§2 第303章 破局
+§3 [Ø=云千峰]這刻碑嚴格來說，其實並不能算是碑，因為其輪廓為立方體，更像是一個半截的方體立柱。
+§4 [Ø=云千峰]其底部基座為蓮花形疊層雕刻，好似一朵花拱著這塊似石非石的立方體。
+§5 [Ø=云千峰]那疊層的蓮花座基看起來很有律動，說是蓮花也成， [||] 說是旋轉的河圖也不算錯，因為銀河星系的動態圖，正是如此疊層螺旋。
+§6 [Ø=云千峰]基座之上的立方體底部，雕刻著雲紋，絲絲縷縷， [||] 寓意為天地之界，但凡這樣的雲紋之上所刻之物，必然非凡。
+§7 [Ø=云千峰]相傳禹王碑和金約櫃內的十誡碑都是雲紋襯托其上字符，意為自天上來。
+§8 [Ø=云千峰]去掉了底座和底部雲紋，上面的部分，恰好就是一個正方體， [||] 而這個正方體可見的四面上，刻滿了密密匝匝的字符，全都是類似黃帝密文的規則文字。
+§9 [Ø=云千峰]可惜的是，雲千峰能夠辨認出含義的字符並不多，無法幫助他辨認出石碑四面的具體內容。
+§10 [Ø=云千峰]“這立方體的位置，恰好在腦顱之府的中間，應當是松果體所在的位置。松果體在人體，為回光照耀之地，也是人體神田所在， [||] 也就意味著，這刻碑上展示的，應該是元的運行規則，如果是規則的話，那單個字符的含義反而是最不重要的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=云千峰]想到這，雲千峰仔細觀察正方體的四個面，繞了三圈。
+§12 [Ø=云千峰]“每個面的字符看起來凌亂，但很明顯是分成了六個部分。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 [Ø=云千峰]挖掘一個規則最簡單的方法，就是尋找其中蘊含的最簡單的數。
+§14 [Ø=云千峰]就好像華夏的祖先，先找到了陰陽的概念，然後發現了天地人三才， [||] 又觀察了四季，而後有了五行，這2.3.4.5就是這天地運行的最基本規則。
+§15 [Ø=云千峰]發現了規則，哪怕沒能力改變規則，最起碼也能趨吉避凶，這就是術數最早出現的目的。
+§16 [Ø=云千峰]思索著，雲千峰站到這立方體的基座上，用手伸到立方體頂部用手指撫摸，感受上面的刻痕。
+§17 [Ø=云千峰]“頂部只是簡單的洛書螺旋紋，並沒有規則字符，那麽這四面才是記載的主體。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§18 [Ø=云千峰]雲千峰跳下來，在此矚目眼前布滿字符的立方體，沉思自語：
+§19 [Ø=云千峰]“一面分成六個部分，四面就是二十四個部分，每個部分由三個卷在一起， [||] 呈螺旋狀的五個字符組成，這應該就是這四面刻符最基本的數，這個數呈現的規則，或許就是元的運行規則。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§20 [Ø=云千峰]雲千峰習慣性的翻兜，奈河沒有煙，只要嘬著小拇指思索：
+§21 [Ø=云千峰]“4，24，3，5，四季，二十四節氣， [||] 三元，五日，對，就是這個規律，這是奇門遁甲的局，是時空理數的運行規律！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 [Ø=云千峰]他沒有紙筆，只能看著那四面刻符，左手掐天乾地支， [||] 右手在四面刻符上虛畫，眼見他額頭冒汗，呼吸越來越紊亂。
+§23 [Ø=云千峰]奇門遁甲數本就是這世界上最難的數學規則，若是計算空間的局還好些， [||] 畢竟變數少，但一旦計算時間局，有的人能夠生生累死。
+§24 [Ø=云千峰]這東西還有一個更可怕的地方，那就是不懂的人什麽事都沒有，而懂的人，一旦開始推算， [||] 根本停不下來，大腦就像計算機中了毒一樣，無法控制的自動運行那些規則數，直到耗盡最後一絲能量，抑或是徹底燒報廢成為瘋子。
+§25 [Ø=云千峰]雲千峰現在就處於這種CPU將要燒壞的狀態，雙目赤紅， [||] 張著嘴喘氣，加快運化大腦運轉時能量消耗的代謝，以此盡可能的讓自己的腦子不至於徹底亂了程序。
+§26 [Ø=云千峰]但他必須這麽做，因為雲千峰心知必須找到元的運行規則，才能搞清楚元為什麽需要一個沒有記憶，但是有思維的意識才能復活。
+§27 [Ø=云千峰]知道了這個規則，那麽他才能想辦法找到對付元的辦法，甚至是完全的掌握元。
+§28 [Ø=云千峰]這是極為複雜的運算過程，之前幾個數字不過是基數，還要再分化，而且加入奇門遁甲的時間運行規律的數字順序。
+§29 [Ø=云千峰]就比如一個節氣，還要分為上元，中元和下元，一元一局。
+§30 [Ø=云千峰]每個節氣還都是獨立的循環系統，一如那些卷曲螺旋的字符組，需要用一，七，四；二， [||] 五，八；三，九，六；這樣不同的數組規律進行配合運算。
+§31 [Ø=云千峰]每個數組之間還要間隔五個數字，保證一個系統轉換到另一個運算系統時，彼此之間互不聯系，做成一個個獨立的奇門遁甲局。
+§32 [Ø=云千峰]再加上陽數正排，陰數逆排，直接讓這本就複雜的數組局勢呈幾何量增加。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 32 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§32. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

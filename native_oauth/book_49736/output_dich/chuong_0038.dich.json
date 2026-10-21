@@ -1,0 +1,463 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 38,
+  "title": "Chương 38: Chết sững trên thuyền gỗ",
+  "total_paragraphs": 75,
+  "translated_paragraphs": 75,
+  "source_hash": "abed965795d3fef088ba3eed565ea7ca1c006ed60d54f41f8795f31b9d455181",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0038p0001",
+      "index": 1,
+      "raw_zh": "第38章 呆立木舟之上",
+      "translated_vi": "Chương 38: Chết sững trên thuyền gỗ"
+    },
+    {
+      "para_id": "c0038p0002",
+      "index": 2,
+      "raw_zh": "鬼門關的石門處傳來“趿拉趿拉”的聲響，一雙穿著廉價所料拖鞋的雙足走進了鬼門關，站在那石台碼頭上，手裡盤玩著一把手電，望著三人遠去的方向，安靜的等待著。",
+      "translated_vi": "Nơi cánh cửa đá Quỷ Môn Quan bỗng vọng lại tiếng dép loẹt xoẹt. Một đôi chân xỏ trong đôi dép lê nhựa rẻ tiền thong thả bước qua ngưỡng cửa Quỷ Môn Quan, dừng chân trên bến tàu thềm đá. Tay gã mân mê mân mó chiếc đèn pin, đưa mắt nhìn theo hướng ba người vừa khuất dạng, lặng lẽ kiên nhẫn đứng chờ."
+    },
+    {
+      "para_id": "c0038p0003",
+      "index": 3,
+      "raw_zh": "雲千峰三人把吃奶得勁都使出來，讓木舟飛快的朝著盡頭浮動，每當身上沒有力氣的時候，就看看貼在牆上的人形熒光，便立馬又生出新力來。",
+      "translated_vi": "Nhóm ba người Vân Thiên Phong dốc toàn bộ sức bình sinh đến mức cạn kiệt, kéo con thuyền gỗ lướt vun vút về phía cuối dòng nước. Cứ mỗi khi đôi tay bủn rủn sắp kiệt sức, chỉ cần ngước mắt liếc nhìn những mảng lân quang hình người dán chặt trên bờ vách đá, trong lòng lại bùng lên một nguồn sức mạnh mới để mà cắm đầu cắm cổ kéo tiếp."
+    },
+    {
+      "para_id": "c0038p0004",
+      "index": 4,
+      "raw_zh": "黃泉路的盡頭就在眼前，他們看見了光，火光。",
+      "translated_vi": "Điểm cuối của con đường Hoàng Tuyền đã hiện ra ngay trước mắt. Họ trông thấy ánh sáng — ánh lửa."
+    },
+    {
+      "para_id": "c0038p0005",
+      "index": 5,
+      "raw_zh": "不是一點，而是無數盞火光，凌亂的出現在眼前遠處，高低無序的排列著。",
+      "translated_vi": "Chẳng phải chỉ một đốm le lói, mà là vô vàn ngọn lửa đèn chập chờn xuất hiện lộn xộn ở khoảng không xa xa phía trước, cao thấp so le không theo bất kỳ trật tự nào."
+    },
+    {
+      "para_id": "c0038p0006",
+      "index": 6,
+      "raw_zh": "三人現在對光有著無比的向往，哪怕那些火光也很詭異，但總比黑暗的詭異要容易接受得多。",
+      "translated_vi": "Lúc này ba người đều khao khát ánh sáng đến cùng cực. Dẫu cho những ngọn lửa kia có nhuốm màu ma quái đi chăng nữa, thì chung quy vẫn dễ chấp nhận hơn nhiều so với thứ quái dị chìm trong bóng tối mịt mùng."
+    },
+    {
+      "para_id": "c0038p0007",
+      "index": 7,
+      "raw_zh": "來到水路的盡頭，迎面是一座石拱橋，這黃漿漿的水似乎就是在這橋頭下面湧出來，薑柔甲顫聲道：",
+      "translated_vi": "Tới điểm cuối của đường thủy, sừng sững đón đầu họ là một cây cầu vòm bằng đá. Dòng nước vàng đục sền sệt dường như được bắt nguồn từ mạch ngầm trào ra ngay dưới chân cầu. Khương Nhu Giáp run rẩy cất tiếng:"
+    },
+    {
+      "para_id": "c0038p0008",
+      "index": 8,
+      "raw_zh": "“這怕不是奈何橋了！”",
+      "translated_vi": "“Cái này... chẳng lẽ là cầu Nại Hà trong truyền thuyết sao!”"
+    },
+    {
+      "para_id": "c0038p0009",
+      "index": 9,
+      "raw_zh": "雲千峰往水裡啐了一口唾沫，道：",
+      "translated_vi": "Vân Thiên Phong nhổ toẹt một bãi nước bọt xuống dòng nước, nghiến răng bảo:"
+    },
+    {
+      "para_id": "c0038p0010",
+      "index": 10,
+      "raw_zh": "“正好去看看孟婆長啥樣。”",
+      "translated_vi": "“Vừa khéo, để tôi qua xem thử mụ Mạnh Bà trông mặt mũi tròn méo thế nào.”"
+    },
+    {
+      "para_id": "c0038p0011",
+      "index": 11,
+      "raw_zh": "說話的時候咬牙切齒，很顯然是用狠話給自己壯膽。",
+      "translated_vi": "Giọng điệu của hắn nghiến ken két, rõ ràng là đang cố buông lời bặm trợn để tự tiếp thêm can đảm cho chính mình."
+    },
+    {
+      "para_id": "c0038p0012",
+      "index": 12,
+      "raw_zh": "到了橋邊，雲千峰先上岸，然後趴在石橋上，用手拽住船尖。",
+      "translated_vi": "Thuyền cập mép cầu, Vân Thiên Phong nhảy lên bờ trước, sau đó nằm rạp xuống mặt cầu đá, dùng hai tay túm chặt lấy mũi thuyền."
+    },
+    {
+      "para_id": "c0038p0013",
+      "index": 13,
+      "raw_zh": "等到兩女到了橋上後，他也不撒手，而是對兩女道：",
+      "translated_vi": "Chờ cho hai cô gái an toàn bước lên cầu, hắn vẫn không hề buông tay mà ngoái lại bảo:"
+    },
+    {
+      "para_id": "c0038p0014",
+      "index": 14,
+      "raw_zh": "“來，一起用力把木舟拽到橋上。”",
+      "translated_vi": "“Nào, hai người phụ tôi một tay, hợp lực kéo phắt chiếc thuyền gỗ này lên mặt cầu.”"
+    },
+    {
+      "para_id": "c0038p0015",
+      "index": 15,
+      "raw_zh": "兩女不解，秦疏影道：",
+      "translated_vi": "Hai cô gái ngơ ngác không hiểu, Tần Sơ Ảnh hỏi:"
+    },
+    {
+      "para_id": "c0038p0016",
+      "index": 16,
+      "raw_zh": "“我們又走不了回頭路，把它弄上來幹嘛？”",
+      "translated_vi": "“Bọn mình đằng nào cũng chẳng quay lại đường cũ được, kéo nó lên đây làm gì cơ chứ?”"
+    },
+    {
+      "para_id": "c0038p0017",
+      "index": 17,
+      "raw_zh": "雲千峰冷笑一聲，道：",
+      "translated_vi": "Vân Thiên Phong cười khẩy một tiếng:"
+    },
+    {
+      "para_id": "c0038p0018",
+      "index": 18,
+      "raw_zh": "“你們忘了還有個第四者？之前和你說他可能是貴人可能是路過，都是麻痹他的，怕他在旁邊偷聽。",
+      "translated_vi": "“Hai người quên mất vẫn còn kẻ thứ tư bám theo sau à? Trước đó tôi bảo kẻ ấy có thể là quý nhân, có thể chỉ tình cờ đi ngang qua, chẳng qua là lời nói khéo để đánh lạc hướng hắn, phòng hờ hắn đang nấp đâu đó nghe lén mà thôi."
+    },
+    {
+      "para_id": "c0038p0019",
+      "index": 19,
+      "raw_zh": "他是好人壞人不重要，把我們當工具人使喚那不行，這一路我都在尋找能甩掉他的方法，這裡無疑是最佳的選擇。",
+      "translated_vi": "Hắn là người tốt hay kẻ xấu chẳng quan trọng, nhưng muốn coi ba đứa mình như công cụ dọn đường để sai khiến thì đừng có mơ! Suốt chặng đường vừa qua tôi luôn tìm cách cắt đuôi hắn, và chỗ này chắc chắn là cơ hội tuyệt vời nhất."
+    },
+    {
+      "para_id": "c0038p0020",
+      "index": 20,
+      "raw_zh": "無論他想幹什麽，自己去做，別招惹咱們。”",
+      "translated_vi": "Bất kể hắn mưu đồ toan tính điều gì, thì tự đi mà làm lấy, đừng hòng bám đít bọn mình.”"
+    },
+    {
+      "para_id": "c0038p0021",
+      "index": 21,
+      "raw_zh": "兩女眼睛一亮，薑柔甲喜道：",
+      "translated_vi": "Mắt hai cô gái sáng bừng lên, Khương Nhu Giáp mừng rỡ:"
+    },
+    {
+      "para_id": "c0038p0022",
+      "index": 22,
+      "raw_zh": "“要是沒了木舟，他就只能游泳過來了，盲猜那渾黃的河水誰也不敢下去游泳。”",
+      "translated_vi": "“Nếu mất thuyền gỗ thì hắn chỉ còn nước bơi qua đây! Đoán chừng cái khúc sông vàng quánh rợn người này chẳng ai có gan mà nhảy xuống bơi đâu.”"
+    },
+    {
+      "para_id": "c0038p0023",
+      "index": 23,
+      "raw_zh": "說著，倆人也去幫忙準備把木舟拽上來。",
+      "translated_vi": "Nói đoạn, cả hai cùng xúm lại phụ sức toan nhấc bổng chiếc thuyền gỗ lên."
+    },
+    {
+      "para_id": "c0038p0024",
+      "index": 24,
+      "raw_zh": "然而他們失算了，木舟下面似乎連著什麽東西，根本無法搬動。",
+      "translated_vi": "Song bọn họ đã tính nhầm một nước. Bên dưới đáy thuyền dường như gắn chặt với vật gì đó, căn bản không tài nào nhấc lên nổi."
+    },
+    {
+      "para_id": "c0038p0025",
+      "index": 25,
+      "raw_zh": "秦疏影搖晃了一下木舟，耳朵貼著木舟聽了聽動靜，無奈苦笑道：",
+      "translated_vi": "Tần Sơ Ảnh lay lay mạn thuyền, ghé tai áp sát lắng nghe động tĩnh một lát rồi bất đắc dĩ cười khổ:"
+    },
+    {
+      "para_id": "c0038p0026",
+      "index": 26,
+      "raw_zh": "“別想了，下面連著鎖鏈呢，我聽到聲音了。”",
+      "translated_vi": "“Đừng phí sức nữa, đáy thuyền nối liền với xích sắt bên dưới rồi, tôi vừa nghe thấy tiếng kim loại va chạm.”"
+    },
+    {
+      "para_id": "c0038p0027",
+      "index": 27,
+      "raw_zh": "薑柔甲疑惑都：",
+      "translated_vi": "Khương Nhu Giáp thắc mắc:"
+    },
+    {
+      "para_id": "c0038p0028",
+      "index": 28,
+      "raw_zh": "“不應該啊，如果木舟下連著鎖鏈，鎖鏈再連著重物致使我們搬不動，那我們也劃不動木舟啊？”",
+      "translated_vi": "“Vô lý thật, nếu đáy thuyền nối với xích sắt, mà xích sắt lại giữ vật nặng khiến chúng mình không nhấc lên nổi, thì sao vừa rồi bọn mình vẫn chèo thuyền đi ngon ơ được?”"
+    },
+    {
+      "para_id": "c0038p0029",
+      "index": 29,
+      "raw_zh": "秦疏影指著水下道：",
+      "translated_vi": "Tần Sơ Ảnh chỉ tay xuống mặt nước:"
+    },
+    {
+      "para_id": "c0038p0030",
+      "index": 30,
+      "raw_zh": "“那鎖鏈下應該是連著一個固定的軌道式滑輪，向上搬不動木舟，但是前後劃行卻不受影響，人家早就預防這招了。”",
+      "translated_vi": "“Dưới sợi xích sắt kia ắt hẳn kết nối với một ròng rọc trượt theo đường ray cố định. Kéo ngược lên trên thì không suy suyển, nhưng thuyền lướt tới lui dọc theo dòng nước thì lại chẳng bị cản trở gì. Kẻ thiết kế cơ quan nơi này đã sớm tính trước nước cờ đó rồi.”"
+    },
+    {
+      "para_id": "c0038p0031",
+      "index": 31,
+      "raw_zh": "雲千峰發狠道：",
+      "translated_vi": "Vân Thiên Phong nghiến răng phát bực:"
+    },
+    {
+      "para_id": "c0038p0032",
+      "index": 32,
+      "raw_zh": "“你們倆拽住木舟，我就不信對付不了它！”",
+      "translated_vi": "“Hai người giữ chặt con thuyền cho tôi, tôi không tin là không trị nổi nó!”"
+    },
+    {
+      "para_id": "c0038p0033",
+      "index": 33,
+      "raw_zh": "說著，抽出狗腿刀，對著木舟“鐺鐺”砍了幾下，再看木舟上，連個痕跡都沒砍出來。",
+      "translated_vi": "Nói đoạn, hắn rút phắt con dao quắm ra, chém chan chát mấy nhát cật lực vào mạn thuyền. Nhìn lại thân gỗ, ngay cả một vết xước mờ cũng chẳng hề lưu lại."
+    },
+    {
+      "para_id": "c0038p0034",
+      "index": 34,
+      "raw_zh": "“天呐，這是什麽材質？這麽結實！我這可是鎢鋼刀。”",
+      "translated_vi": "“Trời đất ơi, rốt cuộc đây là chất liệu gì mà cứng cỏi thế này! Dao của tôi đúc bằng thép vonfram hẳn hoi đấy!”"
+    },
+    {
+      "para_id": "c0038p0035",
+      "index": 35,
+      "raw_zh": "眼看這木舟軟硬不吃，雲千峰隻好轉移對象，朝著繩索想辦法。",
+      "translated_vi": "Thấy chiếc thuyền trơ như đá chẳng mảy may suy xuyển, Vân Thiên Phong đành đổi mục tiêu, chuyển hướng sang nghĩ cách đối phó với sợi dây thừng kéo thuyền."
+    },
+    {
+      "para_id": "c0038p0036",
+      "index": 36,
+      "raw_zh": "先是用刀砍，結果和木舟一樣，根本造不成傷害。",
+      "translated_vi": "Thoạt đầu hắn cũng dùng dao quắm chém cật lực, song kết cục y hệt như thân thuyền, sợi dây chẳng mảy may sứt mẻ lấy một sợi tơ."
+    },
+    {
+      "para_id": "c0038p0037",
+      "index": 37,
+      "raw_zh": "於是他站在那裡苦思自語：",
+      "translated_vi": "Hắn đứng chôn chân tại chỗ, trầm ngâm lẩm bẩm tự vấn:"
+    },
+    {
+      "para_id": "c0038p0038",
+      "index": 38,
+      "raw_zh": "“刀砍不破，刀屬陰金，克木泄土，那這鎖鏈不屬於木性和土性，能在水面之上而不腐朽，水主克火泄金，那麽定然也不屬於火性和金性，屬水性？這到底是個什麽材質？總之跑不出五行之外，總有破解之法！”",
+      "translated_vi": "“Dao chém không đứt... Dao thuộc âm kim, kim khắc mộc và tiết thổ, như vậy sợi dây này không mang tính mộc và tính thổ. Có thể nổi ngâm trên mặt nước bao năm mà chẳng mục ruỗng, thủy chủ khắc hỏa và tiết kim, thế nên nó ắt hẳn cũng chẳng thuộc tính hỏa hay tính kim. Chẳng lẽ là thuộc tính thủy? Rốt cuộc đây là vật liệu quái quỷ gì? Bất luận thế nào cũng không thể thoát khỏi quy luật ngũ hành tương sinh tương khắc, nhất định sẽ có cách hóa giải!”"
+    },
+    {
+      "para_id": "c0038p0039",
+      "index": 39,
+      "raw_zh": "兩女趴在石橋上，拽著木舟的姿勢很累，薑柔甲催促道：",
+      "translated_vi": "Hai cô gái nằm sấp trên cầu đá giữ thuyền mỏi rã cả người, Khương Nhu Giáp sốt ruột giục:"
+    },
+    {
+      "para_id": "c0038p0040",
+      "index": 40,
+      "raw_zh": "“想到辦法沒有啊！石頭上好涼，好在還挺乾淨的。”",
+      "translated_vi": "“Anh nghĩ ra cách gì chưa đấy! Mặt đá lạnh ngắt à, may mà cũng sạch sẽ tinh tươm.”"
+    },
+    {
+      "para_id": "c0038p0041",
+      "index": 41,
+      "raw_zh": "雲千峰聽到薑柔甲的話一愣神，腦筋似乎被什麽撞了一下，靈光一閃，想到了什麽。",
+      "translated_vi": "Nghe Khương Nhu Giáp buột miệng thốt ra câu đó, Vân Thiên Phong thoáng ngẩn người. Trí não hắn tựa như bị một tia chớp xẹt qua, một tia linh cảm vụt lóe lên trong đầu."
+    },
+    {
+      "para_id": "c0038p0042",
+      "index": 42,
+      "raw_zh": "當下急忙跪爬在地上，用手在石橋上摸來摸去，讓後看自己的手掌，喜道：",
+      "translated_vi": "Ngay lập tức hắn quỳ sụp xuống sàn, dùng tay miết tới miết lui trên mặt cầu đá, rồi giơ lòng bàn tay lên săm soi, mừng rỡ thốt lên:"
+    },
+    {
+      "para_id": "c0038p0043",
+      "index": 43,
+      "raw_zh": "“對，這裡太乾淨了，一點灰塵也沒有，這很不對勁！”",
+      "translated_vi": "“Đúng rồi! Nơi này quá đỗi sạch sẽ, một hạt bụi son cũng không có, điều này cực kỳ bất thường!”"
+    },
+    {
+      "para_id": "c0038p0044",
+      "index": 44,
+      "raw_zh": "說著，他坐起身來，把手伸進後背肚皮開始使勁揉搓起來。",
+      "translated_vi": "Nói rồi, hắn ngồi phắt dậy, thò tay vào trong vạt áo cọ xát cật lực lên vùng lưng và bụng."
+    },
+    {
+      "para_id": "c0038p0045",
+      "index": 45,
+      "raw_zh": "兩女回頭看他動作都看傻了，完全不知道他在發什麽瘋。",
+      "translated_vi": "Hai cô gái ngoái đầu lại nhìn thấy điệu bộ của hắn thì ngơ ngác trố mắt, hoàn toàn chẳng hiểu hắn đang lên cơn điên gì."
+    },
+    {
+      "para_id": "c0038p0046",
+      "index": 46,
+      "raw_zh": "很快，雲千峰把手在衣服裡拿出來，笑道：",
+      "translated_vi": "Rất nhanh, Vân Thiên Phong rút tay ra khỏi vạt áo, toe toét cười:"
+    },
+    {
+      "para_id": "c0038p0047",
+      "index": 47,
+      "raw_zh": "“幸好這段時間沒洗過澡，剛才拽木舟的時候身上還出了點汗。”",
+      "translated_vi": "“May mà mấy bữa nay không được tắm táp gì, vừa rồi kéo thuyền lại đổ chút mồ hôi.”"
+    },
+    {
+      "para_id": "c0038p0048",
+      "index": 48,
+      "raw_zh": "兩女看到雲千峰兩隻手上，都有倆比車珠子還大的黑灰色泥球，都有點傻眼，完全不知道他要幹嘛，心話這世界上還有顯擺自己身上泥多的？",
+      "translated_vi": "Hai cô gái nhìn thấy trên hai lòng bàn tay Vân Thiên Phong mỗi bên đều vê sẵn hai viên ghét đất màu xám đen to hơn cả hạt chuỗi tràng hạt, nhất thời đều chết sững, hoàn toàn không hiểu hắn định làm trò gì, trong bụng thầm nghĩ trên đời này lại có kẻ đi khoe khoang lượng ghét trên người mình nhiều cơ chứ?"
+    },
+    {
+      "para_id": "c0038p0049",
+      "index": 49,
+      "raw_zh": "這還不算完，他把兩個泥球放在比較薄的匕首上，開始用打火機燒烤泥球，不一會泥球燒乾，他用狗腿刀一碾，就成了兩層塵土。",
+      "translated_vi": "Sự thể chưa dừng lại ở đó, hắn đặt hai viên ghét đất lên lưỡi dao găm mỏng, bật lửa hơ nướng một hồi. Chẳng mấy chốc hai viên ghét khô quắt lại, hắn dùng sống dao quắm nghiền nát ra thành một nhúm bột bụi khô mịn."
+    },
+    {
+      "para_id": "c0038p0050",
+      "index": 50,
+      "raw_zh": "雲千峰小心翼翼的拿著塵土來到橋頭處，嘟囔著：",
+      "translated_vi": "Vân Thiên Phong cẩn thận nâng nhúm tro bụi ấy tiến lại sát đầu cầu, lầm bầm:"
+    },
+    {
+      "para_id": "c0038p0051",
+      "index": 51,
+      "raw_zh": "“女媧娘娘以土造人，人身上的土，那都是土中精華，能入藥的，這要是還搞不定，我就徹底沒轍了。”",
+      "translated_vi": "“Nữ Oa nương nương dùng đất sét nặn ra con người, thứ đất bụi trên thân thể người chính là tinh hoa của đất, dùng làm thuốc được. Nếu thứ này mà vẫn không trị nổi thì tôi cũng đành giơ tay chịu trói.”"
+    },
+    {
+      "para_id": "c0038p0052",
+      "index": 52,
+      "raw_zh": "說著，用手指捏了一把土之精華灑在了那纖繩上。",
+      "translated_vi": "Vừa nói, hắn vừa dùng ngón tay nhón một nhúm ‘tinh hoa của đất’ rắc thẳng lên sợi dây kéo thuyền."
+    },
+    {
+      "para_id": "c0038p0053",
+      "index": 53,
+      "raw_zh": "幾乎在塵土沾染纖繩的一瞬間，那纖繩就好像冰塊遇到了薑汁，出現了鏤空。",
+      "translated_vi": "Gần như ngay khoảnh khắc bụi đất vừa chạm vào sợi dây, tao dây liền tựa như tảng băng gặp phải nước cốt gừng nóng, lập tức thủng lỗ chỗ mục rỗng ra!"
+    },
+    {
+      "para_id": "c0038p0054",
+      "index": 54,
+      "raw_zh": "雲千峰沒有繼續動手，而是把積攢的那點土放在旁邊，然後趴下拽住木舟道：",
+      "translated_vi": "Vân Thiên Phong không vội vàng phá hủy ngay, mà cẩn thận gom chỗ bột đất còn lại để sang một bên, sau đó nằm rạp xuống giữ chặt mạn thuyền rồi bảo:"
+    },
+    {
+      "para_id": "c0038p0055",
+      "index": 55,
+      "raw_zh": "“伱們倆搓泥，快點！”",
+      "translated_vi": "“Hai người mau kỳ cọ ghét đất trên người ra đi, nhanh lên!”"
+    },
+    {
+      "para_id": "c0038p0056",
+      "index": 56,
+      "raw_zh": "兩女面面相覷，長這麽大，一直都以乾淨美貌著稱，從沒想過也沒做過搓泥這種事，但又很清楚雲千峰這麽做必然有他的道理，正事不能耽誤，不搓也得搓，一時之間都有點不好意思，於是背對背開始神傷搓泥。",
+      "translated_vi": "Hai cô gái nhìn nhau bối rối. Sống ngần ấy năm trên đời, xưa nay hai nàng luôn nổi danh sạch sẽ kiều diễm, nào đã từng làm cái trò kỳ ghét kỳ đất nhếch nhác nhường này. Song cả hai đều hiểu rõ Vân Thiên Phong làm vậy ắt có lý do xác đáng, đại sự không thể trễ nải, không muốn kỳ cũng bắt buộc phải kỳ. Giữa lúc thẹn thùng ngượng ngùng, hai nàng đành quay lưng vào nhau, vừa ngượng chín mặt vừa cặm cụi miết da kỳ ghét."
+    },
+    {
+      "para_id": "c0038p0057",
+      "index": 57,
+      "raw_zh": "不久後，兩女看著自己掌心上比雲千峰還大的泥球陷入沉思，不禁開始懷疑人生。",
+      "translated_vi": "Lát sau, nhìn những viên ghét tròn vo trên lòng bàn tay mình thậm chí còn to hơn cả của Vân Thiên Phong, hai cô gái rơi vào khoảng lặng trầm tư, bất giác bắt đầu hoài nghi nhân sinh."
+    },
+    {
+      "para_id": "c0038p0058",
+      "index": 58,
+      "raw_zh": "有心扔掉一點挽尊，但還怕耽誤了正事，於是只能一狠心，把面子扔在腳下碾壓，把泥球遞給了雲千峰。",
+      "translated_vi": "Bụng bảo dạ muốn lén vứt bớt một chút để giữ gìn chút thể diện, song lại sợ thiếu hụt hỏng việc lớn, hai nàng đành cắn răng dằn lòng, dẫm đạp lòng tự trọng xuống dưới chân mà đưa hai viên ghét to đùng cho Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0038p0059",
+      "index": 59,
+      "raw_zh": "“謔！可以啊你們倆！”",
+      "translated_vi": "“Chà! Hai cô cũng cừ thật đấy chứ!”"
+    },
+    {
+      "para_id": "c0038p0060",
+      "index": 60,
+      "raw_zh": "一句話，兩女都有咬死他的衝動。",
+      "translated_vi": "Chỉ một câu trêu chọc ấy, cả hai người đẹp đều sôi sục ý muốn nhào tới cắn chết hắn cho hả giận."
+    },
+    {
+      "para_id": "c0038p0061",
+      "index": 61,
+      "raw_zh": "這下燒出來的泥塵比較多，雲千峰撚起來一點看著木舟底部，遲疑了片刻，嘟囔了道：“漏了的話，他就不會上船了，不解氣啊！”",
+      "translated_vi": "Lần này lượng bột đất nướng ra khá nhiều. Vân Thiên Phong nhón một chút đưa mắt nhìn xuống đáy thuyền gỗ, ngập ngừng một lát rồi lẩm bẩm: “Nếu làm thủng đáy thuyền thì hắn sẽ chẳng chịu bước lên nữa, thế thì chưa hả dạ!”"
+    },
+    {
+      "para_id": "c0038p0062",
+      "index": 62,
+      "raw_zh": "於是轉了轉眼珠，道：",
+      "translated_vi": "Hắn đảo tròn tròng mắt đầy ranh mãnh, cất tiếng:"
+    },
+    {
+      "para_id": "c0038p0063",
+      "index": 63,
+      "raw_zh": "“松手吧，讓木舟回去吧。”",
+      "translated_vi": "“Buông tay ra đi, để thuyền gỗ trôi ngược về bến cũ.”"
+    },
+    {
+      "para_id": "c0038p0064",
+      "index": 64,
+      "raw_zh": "兩女一愣，不知道雲千峰什麽套路，但還是聽話松手，木舟飄搖而歸，雲千峰看到木舟走的沒影了也沒著急動手，又等了一會，才再次把泥塵灑在纖繩上。",
+      "translated_vi": "Hai cô gái ngẩn người, chẳng rõ Vân Thiên Phong đang bày trò gì, song vẫn ngoan ngoãn buông tay. Con thuyền gỗ dập dềnh trôi ngược theo dòng nước. Vân Thiên Phong thấy bóng thuyền khuất hẳn vào màn đêm đen kịt cũng không vội ra tay ngay, đợi thêm một lát, hắn mới rắc bột đất nướng lên đoạn dây thừng kéo thuyền."
+    },
+    {
+      "para_id": "c0038p0065",
+      "index": 65,
+      "raw_zh": "秦疏影看著泥塵和纖繩之間的反應驚詫道：",
+      "translated_vi": "Tần Sơ Ảnh trố mắt nhìn phản ứng kỳ lạ giữa bột đất và sợi dây thừng kéo thuyền, kinh ngạc thốt lên:"
+    },
+    {
+      "para_id": "c0038p0066",
+      "index": 66,
+      "raw_zh": "“這是什麽化學反應？太神奇了！”",
+      "translated_vi": "“Đây là phản ứng hóa học gì thế này? Kỳ diệu quá!”"
+    },
+    {
+      "para_id": "c0038p0067",
+      "index": 67,
+      "raw_zh": "雲千峰笑道：",
+      "translated_vi": "Vân Thiên Phong mỉm cười:"
+    },
+    {
+      "para_id": "c0038p0068",
+      "index": 68,
+      "raw_zh": "“管它什麽化學反應，那是科學家的事，咱們就是找規律，用規律解決問題。",
+      "translated_vi": "“Mặc kệ nó là phản ứng hóa học gì đi nữa, đó là việc của các nhà khoa học, việc của bọn mình là nắm bắt quy luật rồi vận dụng quy luật để tháo gỡ vấn đề."
+    },
+    {
+      "para_id": "c0038p0069",
+      "index": 69,
+      "raw_zh": "不過這倒是符合五行理論，我剛才排除了金、木、火、土四個屬性，那麽這纖繩只能屬水，而土能克水，這個世界就是這樣，鹵水點豆腐，一物降一物。",
+      "translated_vi": "Dẫu vậy chuyện này hoàn toàn trùng khớp với thuyết ngũ hành. Vừa rồi tôi loại trừ bốn thuộc tính Kim, Mộc, Hỏa, Thổ, thế thì sợi dây này chỉ có thể thuộc Thủy. Mà Thổ khắc Thủy, thế gian vạn vật vốn là như vậy, vỏ quýt dày có móng tay nhọn, một vật khắc một vật."
+    },
+    {
+      "para_id": "c0038p0070",
+      "index": 70,
+      "raw_zh": "所以薑柔甲那句這裡乾淨提醒了我，這裡沒有塵土，是因為怕塵土，咱們這些泥塵得省著點用，沒準後面還用得上。”",
+      "translated_vi": "Thế nên câu nói vu vơ của Khương Nhu Giáp rằng nơi đây quá sạch sẽ đã điểm trúng tử huyệt. Nơi này không có bụi bặm, chính là vì cơ quan sợ bụi bẩn! Chỗ bột đất của bọn mình phải tiết kiệm đôi chút, biết đâu chặng đường phía sau còn dùng tới.”"
+    },
+    {
+      "para_id": "c0038p0071",
+      "index": 71,
+      "raw_zh": "薑柔甲和秦疏影親眼見證身上的泥有此等神效，立馬表示自己還能再搓搓，其它位置肯定還有存貨。",
+      "translated_vi": "Khương Nhu Giáp và Tần Sơ Ảnh tận mắt chứng kiến ghét đất trên thân thể mình lại mang thần hiệu ghê gớm dường ấy, lập tức hăng hái bảo bản thân vẫn có thể kỳ cọ thêm chút nữa, những chỗ khác trên người chắc chắn vẫn còn ‘hàng tồn’."
+    },
+    {
+      "para_id": "c0038p0072",
+      "index": 72,
+      "raw_zh": "鬼門關石門後的石台碼頭旁，木舟飄搖而歸。",
+      "translated_vi": "Bên bờ bến đá sau cánh cửa Quỷ Môn Quan, con thuyền gỗ dập dềnh trôi xuôi dòng trở lại."
+    },
+    {
+      "para_id": "c0038p0073",
+      "index": 73,
+      "raw_zh": "一雙小腳穿著廉價的塑料拖鞋登上了木舟，單手拽著纖繩快速前進。",
+      "translated_vi": "Một đôi bàn chân nhỏ thó xỏ trong đôi dép nhựa rẻ tiền bước lên mạn thuyền, một tay túm lấy sợi dây kéo thoăn thoắt lướt nhanh về phía trước."
+    },
+    {
+      "para_id": "c0038p0074",
+      "index": 74,
+      "raw_zh": "三分鍾後身在河道中央不進反退的他，看著手上垂落入水的纖繩呆立木舟之上.",
+      "translated_vi": "Ba phút sau, kẻ nọ trơ trọi giữa lòng sông, thuyền chẳng những không tiến mà còn trôi lùi lại phía sau. Gã trân trối nhìn sợi dây thừng đứt đoạn rũ rượi chìm nghỉm xuống nước, chết sững trên thuyền gỗ..."
+    },
+    {
+      "para_id": "c0038p0075",
+      "index": 75,
+      "raw_zh": "感謝書友憶、傾城的打賞，感謝書友憶、傾城和鈡噫的月票，謝謝你們，感激！！！",
+      "translated_vi": "Cảm ơn phần thưởng từ bạn đọc Ức, Khuynh Thành, cảm ơn phiếu tháng của Ức, Khuynh Thành và Chung Ý, xin chân thành cảm ơn các bạn, vô cùng cảm kích!!!"
+    }
+  ]
+}

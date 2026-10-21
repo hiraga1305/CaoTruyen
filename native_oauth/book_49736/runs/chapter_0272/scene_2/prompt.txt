@@ -1,0 +1,81 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0272|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|“Cái này thì tôi hoàn toàn tán thành.”
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §42):
+§1 “嗷嗚！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§2 [Ø_SHIFT=姜柔甲]雲千峰一聲慘叫，捂著左屁股蛋，咬牙道：
+§3 [Ø=姜柔甲]“卓瑪，我不許你說，除非白狐讓我掐一下！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§4 卓瑪點頭道：
+§5 “這我是同意的！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§6 “啊！！！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§7 [Ø=姜柔甲]三個人捂著屁股，卓瑪才繼續道：
+§8 [Ø=姜柔甲]“在我們那裡，千百年來，一直流傳著一個傳說，就是能夠利用聲音移動甚至懸浮巨石。
+§9 [Ø=姜柔甲]我沒見過，但是格比格法師說他親眼見過。
+§10 [Ø=姜柔甲]那種懸浮巨石的儀式，需要十三個巨大的鐵皮鼓，六個長度超過三米的號角。
+§11 [Ø=姜柔甲]將這些法器帶到要移動的巨石旁邊，呈弧形排列，對著巨石。
+§12 還需要數百僧侶站在這些法器之後吟唱祝禱。
+§13 [Ø=姜柔甲]大小不一的鐵皮鼓依次敲動，會有人在巨石旁用手貼著巨石感悟， [||] 當感覺到石頭震動的時候，就定下了核心鼓，所有的樂器都要來應和這核心鼓的頻率。
+§14 同時僧侶也要吟唱屬於這個鼓的祝禱詞。
+§15 [Ø=姜柔甲]很快，那巨大的石頭就會自己懸浮起來，僧侶們會利用旋律和其它的鼓聲移動懸浮的巨石，到達他們希望巨石到達的位置。
+§16 [Ø=姜柔甲]所以，我猜測這周圍的山林， [||] 可能有持續的風聲，而這個風聲，恰好可以懸浮那巨石。”
+§17 [Ø=姜柔甲]用聲波控制巨石懸浮移動，這不僅僅是雪區的傳說，更是在全世界的古老文明裡都有的傳說。
+§18 [Ø=姜柔甲]甚至有傳說，古埃及金字塔那些數噸重的巨石，就是利用這種聲波技術羅列上去。
+§19 [Ø=姜柔甲]為了驗證這個說法，Y國布裡斯托大學的研究人員，開發了一種由多個聲波不同的揚聲器組成的設備，成功的使小物體隨著它們產生的聲音懸浮起來。
+§20 [Ø=姜柔甲]M國的阿貢G家實驗室也成功地利用聲波設備，使水滴穩定的懸浮起來。
+§21 [Ø=姜柔甲]這一切都證明，聲波這種人類最早發現的宇宙的規律， [||] 的確有著神奇的力量，絕不僅僅是移動物體，甚至還能治病。
+§22 [Ø=姜柔甲]比如華夏的祝由術，最早就是聲波的技術，甚至五音五律，都是在祝由術治病的基礎上產生的。
+§23 [Ø=姜柔甲]不過，雲千峰幾乎馬上就否定了卓瑪的猜測，道：
+§24 [Ø=姜柔甲]“聲波或許可以讓巨石懸浮，但是隨著聲波的改變，巨石應該應該表現出細微的移動或者震顫。
+§25 [Ø=姜柔甲]我們三個的到來對石像產生的撞擊，包括我們的談話聲音，都會影響這個穩定巨石的聲波， [||] 但是那石像紋絲不動，這說明那個石像，絕不是因為聲波而懸浮，而是其它原因。”
+§26 卓瑪反駁道：
+§27 [Ø=姜柔甲]“會不會是因為那懸浮巨石的次聲波太過渾厚，以至於我們的聲音相對而言忽略不計？
+§28 [Ø=姜柔甲]亦或是因為頻率的原因，我們聲音的波段，不會對這種懸浮產生影響？”
+§29 白狐也點頭道：
+§30 [Ø=姜柔甲]“卓瑪說的有道理，聲波之間是不會互相干擾的，這是聲波的【獨立性原理】。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 雲千峰搖頭道：
+§32 [Ø=姜柔甲]“的確，聲波獨立性原理是存在的，但聲波之間會互相干涉， [||] 造成彼此的減弱，音頻沒變，但是音量變了。
+§33 [Ø=姜柔甲]力量不同，被托起的物體應該有相應的震動才對。”
+§34 白狐搖頭道：
+§35 [Ø=姜柔甲]“不對，如果這個次聲波的力量足夠大，我們聲波的干涉抵消可以忽略不計，那麽石像就應該是保持穩定的。
+§36 [Ø=姜柔甲]一個三歲大的孩子抱著一個洋娃娃，和一個成年人抱著一個洋娃娃，並沒有什麽區別。”
+§37 [Ø=姜柔甲]雲千峰必須承認，白狐說的有道理。
+§38 [Ø=姜柔甲]因為石像的重量是固定的，只要那個神奇的聲音形成的力，保持在能夠托起石像的程度，那麽不造成改變是可能的。
+§39 於是他思索道：
+§40 [Ø=姜柔甲]“有一個辦法，可以證明是不是聲波懸浮了那石像。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 [Ø=姜柔甲]說著，他一揮手，拿起LED冷光燈就朝著石像的位置走過去。
+§42 卓瑪和白狐急忙跟上去。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 42 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§42. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

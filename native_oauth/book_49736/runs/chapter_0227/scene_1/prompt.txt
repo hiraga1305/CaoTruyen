@@ -1,0 +1,108 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0227|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一座|một tòa
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §67):
+§1 227.第227章 小學幾何
+§2 第227章 小學幾何
+§3 [Ø=云千峰]蘇菲鍾的跳舞天分實在是不怎麽樣，哪怕很明顯是學過跳舞的。
+§4 [Ø=云千峰]雖然舞跳的不怎麽好看，但個人風格很明顯。
+§5 [Ø=云千峰]要雲千峰總結的話，就是一個字。
+§6 [Ø=云千峰]其他人也在蘇菲鍾跳舞的時候，趕緊蔫悄的把衣服脫了，放在火旁熏烤。
+§7 [Ø=云千峰]這一刻，這裡的人才明白一個道理，雲千峰用實際行動告訴他們的道理。
+§8 [Ø=云千峰]那就是在這人類禁區內，人類文明的產物“羞澀”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]毫無價值且毫無意義。
+§9 [Ø=云千峰]在這裡，在此時在此刻，他們只是要努力活下去的動物，僅此而已。
+§10 [Ø=云千峰]雲千峰又拔了幾根固定桌椅的那種鐵橛子，全都貼身放好，等待著他們將衣物烤乾。
+§11 [Ø=云千峰]在整個過程之中，雲千峰做到了非禮勿視。
+§12 [Ø=云千峰]沒別的原因，無論是秦疏影還是羅琳娜，甚至是薑柔甲放到這幾個女人跟前，雲千峰都能賢者的說出“除卻巫山不是雲”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]。
+§13 [Ø=云千峰]最主要的，她們最多也就是海邊打扮，還都坐著，看不到想看的。
+§14 這是實話。
+§15 [Ø=云千峰]幾個人烤好衣服，把機艙內能找到的食物收集在一起後，雲千峰大手一揮，喊了聲：
+§16 “出發！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 [Ø=云千峰]食物不少，酒水也不少。
+§18 [Ø=云千峰]雲千峰讓幾個人分擔這些物資，大家負擔都不算大。
+§19 [Ø=云千峰]半截機艙外，霍曼跪在雪地上， [||] 面朝大海，好像一座[M1:một tòa]穿著N褲的大衛雕像，好看。
+§20 [Ø=云千峰]看得出來，他死之前應該是在祈禱。
+§21 [Ø=云千峰]雲千峰扒衣服，但是沒破壞他的信仰姿勢，跪著挺好。
+§22 [Ø=云千峰]來到藏門外，雲千峰瞄了一下那看一眼少一眼的太陽， [||] 又看了一眼指南針，也沒解釋，直接選擇背對著太陽大步而去。
+§23 [Ø=云千峰]指南針在南極和北極就是個擺設，無法引導方向，這是個常識。
+§24 [Ø=云千峰]所以他們看到雲千峰真的靠指南針帶路，心中都非常忐忑。
+§25 [Ø=云千峰]但是也都知道，不走不行，留在這裡死的只會更慘。
+§26 [Ø=云千峰]琳達快走了幾步，很想知道雲千峰葫蘆裡到底賣的什麽藥。
+§27 [Ø=云千峰]在南極用指南針找方向，理論上是肯定不行的，但是雲千峰之前鐵棍引火的事跡太過驚豔，以至於琳達感覺雲千峰看指南針就是故意逗他們玩。
+§28 [Ø=云千峰]“嘿，我叫琳達，嗯，你叫什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 “雲千峰。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§30 “嗯我們距離迪蒙迪維爾站遠嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=云千峰]雲千峰搖頭，道：
+§32 [Ø=云千峰]“不遠，我們的體力應該能夠走到， [||] 不過會很艱辛，因為中途我們不能休息，一旦休息就是死亡。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 [Ø=云千峰]琳達明白這個道理，在沒有極地帳篷和戶外取暖爐的情況下，在南極原地休息，等於原地自殺。
+§34 [Ø=云千峰]“嘿，雲，你真的是用指南針確定迪蒙迪維爾站的方向嗎？我不是懷疑你， [||] 我相信你知道，但我很想學習一下，你是怎麽做到的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 就很禮貌客氣。
+§36 [Ø=云千峰]伸手不打笑臉人，加上雲千峰也想到了迪蒙迪維爾站後，好好和琳達詢問一下時空漩渦的一些事情，所以便耐心解釋道：
+§37 [Ø=云千峰]“就是用指南針確定迪蒙迪維爾站的位置，聽到這個回答，會不會覺得我傻了？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 [Ø=云千峰]琳達忙搖頭，道：
+§39 [Ø=云千峰]“不，只是讓我覺得自己更傻了，因為我到現在也搞不懂，在南極該如何使用指南針判斷一個位置的方向。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 雲千峰笑道：
+§41 [Ø=云千峰]“的確，指南針在南極一般情況下，不能作為定位方向使用， [||] 但今年尋找迪蒙迪維爾站，可以使用，原因很簡單。
+§42 [Ø=云千峰]今年的磁極點恰好在迪蒙迪維爾南極站正北的海洋三百多公裡深處，而即將在極夜消失， [||] 幾乎已經靜止的太陽一定是在正北方，而指南針在這裡正好指向太陽的位置，現在懂了嗎？”
+§43 [Ø=云千峰]琳達略加思索，眼睛越來越亮，突然驚喜道：
+§44 [Ø=云千峰]“我懂了，兩點成一線！地磁南極在迪蒙迪維爾站正北，也就是此刻指南針的正南方向，太陽這個時間也在正北，指南針一定是指向南極地磁點的， [||] 但現在也指向了太陽，也就是說迪蒙迪維爾站就在太陽和地磁的連線上，只要我們背對著太陽，向著指南針的正北指向走，就一定能走到迪蒙迪維爾站。
+§45 [Ø=云千峰]天哪，這是小學的地理和幾何知識，我都學過， [||] 但是我怎麽就想不到？都不是高深的理論，但是結合起來，真的太讓我吃驚了。”
+§46 雲千峰笑道：
+§47 [Ø=云千峰]“因為你被知識禁錮了，而不是你掌握了知識。當你明白知識並不等同於智慧，而僅僅是通往智慧的千條大道之一時，你就知道使用知識了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§48 [Ø=云千峰]琳達徹底變成了迷妹，追著雲千峰，問道：
+§49 [Ø=云千峰]“學會很多知識不是智慧，那什麽是智慧？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§50 [Ø=云千峰]雲千峰思索片刻，道：
+§51 [Ø=云千峰]“不可說，說不得，無法言表， [||] 你只能獲得了祂之後，才能心領神會，那不是語言能夠表達的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§52 [Ø=云千峰]琳達品了品雲千峰的話，問道：
+§53 “那怎麽才能獲得智慧呢？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§54 [Ø=云千峰]這次雲千峰的回答簡單明了，就一個字：
+§55 “悟。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§56 琳達忙問道：
+§57 “什麽是悟？學習？思考？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§58 [Ø=云千峰]雲千峰擺了擺手，思索片刻，找不到語言能夠解釋， [||] 於是靈機一動，用手拎起琳達背著食物的背包，問道：
+§59 “現在身體是不是很輕松？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§60 琳達忙連連點頭。
+§61 雲千峰笑道：
+§62 [Ø=云千峰]“輕松了，但是你沒有了食物。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§63 [Ø=云千峰]說著，把背包又放到了琳達肩上，道：
+§64 “沉重嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§65 琳達又再次點頭。
+§66 雲千峰道：
+§67 [Ø=云千峰]“但你現在擁有了食物，這就很像悟的過程， [||] 你只能自己慢慢品味，感受，誰也無法教給你。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 67 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§67. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

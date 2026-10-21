@@ -1,0 +1,91 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0268|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Cho nên việc Bạch Hồ nói vầng "mặt trời" này là một cỗ máy nhiệt hạch heli-3 là hoàn toàn có khả năng, hơn nữa khả năng còn vô cùng lớn.
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一道|một luồng
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §50):
+§1 [Ø=云千峰]至於雷電都被吸引到了那“太陽”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]的位置，想來也是造物主在建在這個實驗室的時候特意設計的，祂將每一個概率傷害到人類的可能，都規避了。
+§2 [Ø=云千峰]倆人確定那些閃電之威不會下來，這才一起長舒了口氣，回來搭好了木架，先把卓瑪的袍子掛在上面。
+§3 [Ø=云千峰]反正卓瑪也不能動，讓她跑一下光就很合理。
+§4 [Ø=云千峰]然後雲千峰和白狐分處長袍兩端，卸下衣服，搭在架子上。
+§5 “幸福啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§6 “幸福啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§7 [Ø=云千峰]躺在還算平整的樹洞內，衣服架子兩側的雲千峰和白狐幾乎同時慨歎道。
+§8 然後就是倆人的傻笑。
+§9 [Ø=云千峰]在避雨的地方聽雨，總會讓人從內心深處感覺到一種幸福。
+§10 沒來由。
+§11 架子上的衣服並沒有遮擋住倆人的腦袋。
+§12 [Ø=云千峰]篝火映襯下，白狐微笑的神態美極了。
+§13 [Ø=云千峰]天色徹底黑下來，雨勢也變小， [||] 簌簌的敲打著樹葉，這低頻的白噪音，猶如最美妙的催眠曲。
+§14 [Ø=云千峰]雲千峰輕微的鼾聲傳來，卻是睡沉了過去。
+§15 [Ø=云千峰]白狐還沒睡，看著篝火下， [||] 雲千峰的側顏，長長蓬松的尾巴不知不覺的就鑽到了雲千峰的腦袋下面，成為了雲千峰的枕頭。
+§16 [Ø=云千峰]完成了這個步驟，白狐在打了個哈欠，蜷著身子，沉沉睡去。
+§17 [Ø=云千峰]再醒來時，白狐發現雲千峰正在用浸濕的打底衫擦拭卓瑪的身體。
+§18 [Ø=云千峰]卓瑪在這個返古的過程裡，身上不斷的向著皮膚外滲出棕黑色的粘液，帶著腥臊的氣味，異常難聞。
+§19 [Ø=云千峰]白狐爬起來，穿好衣服，臉都沒洗， [||] 直接過來，奪下雲千峰手裡的打底衫，由她來擦拭卓瑪身上的汙濁。
+§20 [Ø=云千峰]雲千峰坐在旁邊，觀察卓瑪身上的變化。
+§21 [Ø=云千峰]此時的卓瑪，兩條腿已經完全黏在了一起，但是還能看到雙腿的輪廓。
+§22 [Ø=云千峰]腳趾之間，也都被一層半透明的薄膜連接在一起，而且腳趾在變長。
+§23 [Ø=云千峰]那些鱗片更像是一個紋身，摸起來與皮膚無異，顏色淡金，帶著異樣的魅惑美感。
+§24 [Ø=云千峰]但變化最大的，還是眉心的那道傷疤。
+§25 [Ø=云千峰]那傷疤已經不再流血，隻張開很細的一道[M1:một luồng]縫隙，露出裡面之前蠕動的東西。
+§26 那是白色的眼仁和黑色的眼珠。
+§27 [Ø=云千峰]雲千峰看著卓瑪眉心長出來的豎眼，想起自己得到二十一眼天珠那塊黑石上的雕紋，緩緩短藏刀刻在樹洞上，沉思著。
+§28 [Ø=云千峰]白狐擦拭好了卓瑪的為生，看到雲千峰盯著自己刻出來的圖符發呆，就問道：
+§29 “在看什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§30 [Ø=云千峰]雲千峰指著那三和豎眼的圖符，說道：
+§31 [Ø=云千峰]“之前，卓瑪說這個圖符代表大自在天，也就是古濕婆，因為古濕婆有六臂三眼。
+§32 [Ø=云千峰]現在看來，卓瑪的解釋是錯誤的，乾三連代表的就是古時抽象的天的含義， [||] 而眼就是眼，卓瑪眉心長出來的，是傳說之中的天眼。”
+§33 白狐沉吟道：
+§34 [Ø=云千峰]“是不是天眼不知道，不過瑪肆科說過，第一代人類和第二代人類， [||] 眉心都有這個第三眼，到了如今這一代人類，第三眼已經退化為松果體，至於作用不得而知。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 [Ø=云千峰]人曾經擁有第三隻眼，並不是什麽玄學，而是真實。
+§36 否則無法解釋松果體上為何擁有視網膜組織和完整的感光信號傳遞系統。
+§37 [Ø=云千峰]而這個世界上，第一個系統提出如何鍛煉松果體， [||] 以達到開發人體潛能的人，是唐朝的呂嵓，也就是民間傳說的純陽子呂洞賓。
+§38 [Ø=云千峰]只不過，呂洞賓並不是用松果體來命名這個蛻化的第三眼，而是用“金丹”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]稱呼之。
+§39 [Ø=云千峰]金丹，金丹，活的就是這鈣化的第三眼。
+§40 [Ø=云千峰]所以現在社會上，教人腹內凝丹的，不用想都知道是幹嘛的。
+§41 [Ø=云千峰]呂嵓的太乙金華宗旨，也成為了唯一一部風靡世界的丹功法門。
+§42 [Ø=云千峰]西方人稱呂嵓在太乙金華宗旨闡述的金丹回光內視所見為上帝圖騰，也叫曼陀羅， [||] 但凡按照宗旨回光內視，一旦見到上帝圖騰，便即打開了新世界的大門。
+§43 那腦洞大開的電影【大腦越獄】就是以太乙金華宗旨為理論背景。
+§44 [Ø=云千峰]聽到白狐的話，雲千峰看著卓瑪的第三眼，說道：
+§45 [Ø=云千峰]“上帝圖騰如指紋，回光所見人人皆不同，想來功能也定然是不同的， [||] 不過我相信，卓瑪的第三眼，一定可以幫我找到西王母。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§46 [Ø=云千峰]說著，雲千峰看著樹洞外已經明媚的天空，沉聲道：
+§47 [Ø=云千峰]“帝嚳，超過了四十九天期限，你的所有算計， [||] 都將成空，因為那樣，我將一定會背離你的算計！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§48 [Ø=云千峰]這話一出口，晴朗的天空裡響起了一聲悶雷。
+§49 [Ø=云千峰]悶雷聲中，樹洞深處，沉睡的卓瑪，睜開了眼睛。
+§50 三隻眼睛同時睜開！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 50 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§50. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

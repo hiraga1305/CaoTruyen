@@ -1,0 +1,90 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0239|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §51):
+§1 [Ø=云千峰]239.第239章 張良計，過牆梯
+§2 [Ø=云千峰]第239章 張良計，過牆梯
+§3 [Ø=云千峰]南極，極夜的晴空是如此的美妙。
+§4 [Ø=云千峰]璀璨的星，絢爛半邊天的極光讓人仿若置身於夢境。
+§5 [Ø=云千峰]你無法想象，這就是你在其它緯度看到的同一片天空。
+§6 它們是如此的不同。
+§7 [Ø=云千峰]用琳達的話來說，那就是除了冷， [||] 這地方浪漫到要是有人求婚，她看在極光的面子上，基本都能答應。
+§8 [Ø=云千峰]這種暗示，很顯然雲千峰沒有聽懂，因為他問了句：
+§9 “巴黎聖母院的敲鍾人也行？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§10 [Ø=云千峰]琳達沉默了，話有點滿，自己雖然不是顏狗，但也最多也就是顏狗-1.
+§11 [Ø=云千峰]她覺得，雲千峰正好是這個減一，不怕被偷， [||] 還挺耐看，放心舒心，恰到好處，就是有點不開竅。
+§12 [Ø=云千峰]履帶車後，那滾浪般的白雪浮動消失了，因為那浪頭鑽進了車底。
+§13 [Ø=云千峰]緊接著，車身開始抖動，好像漂浮在風浪的海面，搖晃著。
+§14 [Ø=云千峰]雲千峰和琳達都是滿臉詫異，完全不知道發生了什麽。
+§15 “車下面有東西！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§16 [Ø=云千峰]當雲千峰說出這句話的同時，一片白色包裹了車身，遮蔽了窗外的美景，隻留下恐懼。
+§17 [Ø=云千峰]那片白色包裹了車身，瞬間讓車內一團漆黑。
+§18 [Ø=云千峰]人就是這樣，一旦看不到東西，恐懼感就會成倍增長。
+§19 雲千峰也不能免俗。
+§20 [Ø=云千峰]“開燈，琳達！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 [Ø=云千峰]琳達慌亂之中，竟然還能穩住心神打開車內那不怎麽光亮的頂燈。
+§22 “唰！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 [Ø=云千峰]發白暗淡的燈光彌漫開來，把一切都照射的發青陳舊。
+§24 而倆人也就此看到了蒙在車窗上的東西。
+§25 [Ø=云千峰]那些東西，就好像是大雪覆蓋了車窗，但不同的是，它們長著好多的眼睛。
+§26 [Ø=云千峰]兩個手掌大的側窗，怕不是就有三四十隻黑圓的眸子在盯著倆人看。
+§27 “啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 “啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 [Ø=云千峰]雲千峰和琳達一前一後被嚇得驚叫，最後聲音合二為一。
+§30 [Ø=云千峰]那些長著無數眼睛，雪團一樣的東西在車窗上蠕動著，把履帶車推動的胡亂搖晃，就像一個頑皮的孩子在玩玩具。
+§31 “蹭！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§32 空調的縫隙裡鑽進來一抹白色。
+§33 [Ø=云千峰]它是那麽柔韌，竟然能夠把身體拉長擠扁，自那麽細小的縫隙鑽進來。
+§34 [Ø=云千峰]雲千峰借著燈光，第一時間發現了這入侵的東西，[Ø_SHIFT=姜柔甲]急忙用手一捉， [||] 將那東西捏在指尖，用力使勁一碾，那東西竟然發出了“吱吱”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]，如老鼠一樣的叫聲。
+§35 “這是什麽東西？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 琳達驚聲叫道。
+§37 [Ø=姜柔甲]雲千峰想到之前南極站那倆人的死相，再看這東西柔韌能變形的體質，立馬醒悟道：
+§38 [Ø=姜柔甲]“是雪人，這些小東西集合在一團，就形成了雪人， [||] 琳達座緊了椅子，千萬別抬屁股，把嘴閉嚴實，賭注耳朵！這東西見孔就鑽。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 [Ø=姜柔甲]“叔叔，手不夠用啊！我和你不一樣，我坐緊了椅子，也還需要一隻手捂著！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 [Ø=姜柔甲]雲千峰聞言，[Ø_SHIFT=云千峰]急忙用力甩掉自己的鞋子， [||] 然後把腳一抬，放到了琳達身上，大聲道：
+§41 [Ø=云千峰]“好了，管住臉面就行，下面交給我！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§42 [Ø=云千峰]“叔叔，你的腳好臭，多久沒洗了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 [Ø=云千峰]“別廢話，活命要緊，等會洗腳！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 [Ø=云千峰]越來越多的白色雪球扭動著鑽進車內，循著熱量，爬到了倆人身上。
+§45 [Ø=云千峰]它們在人身上攀爬的速度不快，而且正如雲千峰所猜測，專門尋找熱量集中散發的地方，也就是孔。
+§46 [Ø=云千峰]奈何倆人早作準備，堵了個嚴實，那些東西在倆人頭上身上爬來爬去，不得其門而入。
+§47 [Ø=云千峰]很快，倆人徹底被這些雪人裹滿了身，裡三層外三層，一點氣不透。
+§48 [Ø=云千峰]無法呼吸的倆人，完全不敢松開捏著鼻子的手，咬緊牙關不讓那些東西順著嘴巴鑽進來。
+§49 [Ø=云千峰]但這樣僵持幾分鍾，便都因為窒息而面色漲紅，胸口開始劇烈的起伏。
+§50 他們不得不面臨兩個選擇。
+§51 [Ø=云千峰]松開手呼吸，然後被雪人吃空。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 51 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§51. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

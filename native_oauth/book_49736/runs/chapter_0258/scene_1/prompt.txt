@@ -1,0 +1,84 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0258|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §45):
+§1 258.第258章 跳起來打！
+§2 第258章 跳起來打！
+§3 [Ø=云千峰]這個季節的雪區天氣變幻莫測，尤其是靠近雪峰的地方，那更是變化的讓人猝不及防。
+§4 [Ø=云千峰]也幸好卓瑪了解這裡天氣的變化，才能及時發現暴風雨將至，否則倆人免不了淋成落湯雞。
+§5 [Ø=云千峰]相對於低海拔地區已經是盛夏，但世界屋脊還是春季， [||] 晚上大概十幾度，尤其這裡靠近雪峰，溫度更低一點。
+§6 [Ø=云千峰]所以那大雨下了不多時，就變成了冰雹，只聽砸在皮帳篷上的聲響，就知道那雹子的個頭絕對不小。
+§7 [Ø=云千峰]雲千峰有些擔心外面的馬匹和獒犬，倒是卓瑪絲毫不擔心，道：
+§8 [Ø=云千峰]“不用擔心噠，獒犬在這片土地上生長，這點冰雹沒事噠， [||] 它們會自己找地方躲避，馬匹也不用擔心，我給它們蒙了氈子，驚不到噠。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§9 [Ø=云千峰]天色還早，倆人也睡不著，就緊挨著躺在狹小的皮帳篷離有一句沒一句的聊著天。
+§10 卓瑪好奇的問雲千峰：
+§11 “你一定是個大人物吧？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§12 [Ø=云千峰]這問題反倒讓雲千峰好奇起來，笑問道：
+§13 “為什麽這麽說？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§14 卓瑪理所應當的說道：
+§15 [Ø=云千峰]“因為格比格法師對待你的態度嘛！往常的人，格比格法師都不會睜開眼睛看的嘛，只有佛爺來的時候， [||] 他才會張開眼睛說話，不過也沒對著你的時候睜開的那麽大，我第一次知道他眼睛那麽大噠。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§16 [Ø=云千峰]雲千峰這才明白，自己這還是貴賓待遇的，當下笑道：
+§17 [Ø=云千峰]“格比格法師可能認識曾經的我，一朵和現在一模一樣的花。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§18 [Ø=云千峰]所以卓瑪絲毫不疑，看著皮帳篷的棚頂歎道：
+§19 [Ø=云千峰]“那你曾經一定是個極了不起的人物嘛，甚至是唱詩裡的大人物，不是國王就是神靈。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§20 [Ø=云千峰]說著，還抿嘴笑著，好像自己也沾光了似的。
+§21 [Ø=云千峰]雲千峰看到了卓瑪的表情，那有些淡淡高原紅的臉，一笑的時候自帶羞怯的味道， [||] 然而事實絕不是如此，卓瑪豪爽的很，問道：
+§22 “幹嘛？笑得那麽開心！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 [Ø=云千峰]卓瑪轉頭看向雲千峰，道：
+§24 [Ø=云千峰]“格比格法師對我說的嘛，他說我生在這裡， [||] 就是為了有朝一日給你做向導噠，那曾經與我一樣的那朵花，一定是也大人物的嘛。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 雲千峰笑道：
+§26 [Ø=云千峰]“格比格法師不會是前幾天和你說的吧？我估計他就是那個時候要給我找個向導，而你恰好在那。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 [Ø=云千峰]卓瑪蹭的一下坐起來，一臉嚴肅道：
+§28 [Ø=云千峰]“嗯！可不能這樣說格比格法師的嘛，他很德高望重，而且他是很多年前就說以後會有個人需要我做向導的嘛，好多年啦！
+§29 [Ø=云千峰]應該是我十三歲的時候吧，那一次我傷得很重，格比格法師給我後背塗藥的時候，看到我的胎記之後告訴我噠。”
+§30 [Ø=云千峰]雲千峰想都沒想，或者說完全沒過腦子，直接說道：
+§31 “什麽樣的胎記？給我看看！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§32 [Ø=云千峰]他也不想想，人家都說給後背塗藥了，他還舔臉說看看。
+§33 [Ø=云千峰]果然，雲千峰一說完， [||] 卓瑪眼睛一眯，斜著臉看著雲千峰，“哼哼”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]兩聲道：
+§34 [Ø=云千峰]“格比格法師果然沒看錯，他對我說你這人色滴很嘛，要我小心不要吃了你的虧噠。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 [Ø=云千峰]雲千峰腹誹格比格就是這樣對待貴賓的，還背後說人壞話！
+§36 [Ø=云千峰]“卓瑪你誤會了，我就是想通過你的胎記反推一下格比格為何這樣說，同時可能猜到遙遠的曾經，那朵和你一模一樣的花是誰。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 [Ø=云千峰]卓瑪側臉變正臉，有些意動道：
+§38 “能猜到曾經的我嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 [Ø=云千峰]雲千峰話不敢說滿，只能實話實說道：
+§40 [Ø=云千峰]“有這個可能，但我不敢保證。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 [Ø=云千峰]很顯然，好奇心讓卓瑪很意動，但是少女的羞澀和矜持讓她又很猶豫。
+§42 雲千峰趁熱打鐵說道：
+§43 [Ø=云千峰]“要不這樣，把燈光關掉，我背對著你， [||] 你用手機的相機打開閃光燈，把後背的胎記拍下來，怎麽樣？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 [Ø=云千峰]格比格說的沒錯，這男人循循善誘之能，的確很容易吃他的虧。
+§45 卓瑪被說動了。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 45 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§45. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

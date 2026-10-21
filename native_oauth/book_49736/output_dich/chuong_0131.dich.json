@@ -1,0 +1,493 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 131,
+  "title": "Chương 131: Đây Mới Là Quy Muội!",
+  "total_paragraphs": 80,
+  "translated_paragraphs": 80,
+  "source_hash": "1031d1b9189c18ddb373f59feb32ad1f49091d44ca60c85b3d8544bd0c8c51dc",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0131p0001",
+      "index": 1,
+      "raw_zh": "第131章 這才是歸妹！",
+      "translated_vi": "Chương 131: Đây Mới Là Quy Muội!"
+    },
+    {
+      "para_id": "c0131p0002",
+      "index": 2,
+      "raw_zh": "千千口中的阿努比斯是古埃及的死神，也是靈魂的擺渡者和守護者，在古埃及的神話體系裡，地位非常崇高。",
+      "translated_vi": "Vị thần Anubis trong lời Thiên Thiên chính là Tử thần của Ai Cập cổ đại, đồng thời cũng là người đưa đò và bảo hộ linh hồn, giữ vị thế vô cùng tôn quý trong hệ thống thần thoại Ai Cập."
+    },
+    {
+      "para_id": "c0131p0003",
+      "index": 3,
+      "raw_zh": "雲千峰搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu, bảo:"
+    },
+    {
+      "para_id": "c0131p0004",
+      "index": 4,
+      "raw_zh": "“在古埃及他叫阿努比斯，在華夏他叫盤瓠，狗頭人身，是山海經內犬封國的祖先，禹稱之為神人。",
+      "translated_vi": "“Ở Ai Cập cổ đại ông ta được gọi là Anubis, còn tại Hoa Hạ thì gọi là Bàn Hộ, mình người đầu chó, là thủy tổ của Khuyển Phong Quốc trong Sơn Hải Kinh, từng được Đại Vũ tôn xưng là thần nhân."
+    },
+    {
+      "para_id": "c0131p0005",
+      "index": 5,
+      "raw_zh": "盤瓠與阿努比斯一樣，也是一個極為強大的存在，當年上古帝嚳時代，有諸侯戎吳作亂，帝嚳對兵強馬壯的戎吳也有些無可奈何，於是許下重賞，要戎吳首領的頭顱。",
+      "translated_vi": "Bàn Hộ cũng như Anubis, đều là những thực thể cực kỳ hùng mạnh. Năm xưa vào thời thượng cổ Đế Cốc, có chư hầu Nhung Ngô dấy loạn, Đế Cốc đứng trước thế lực binh hùng tướng mạnh của Nhung Ngô cũng có phần bất lực, bèn hạ lệnh ban thưởng hậu hĩnh cho ai lấy được thủ cấp của thủ lĩnh Nhung Ngô."
+    },
+    {
+      "para_id": "c0131p0006",
+      "index": 6,
+      "raw_zh": "結果就是這位盤瓠單槍匹馬，帶回了戎吳首領的人頭，可見這位不是死神也是殺神。”",
+      "translated_vi": "Kết quả chính là vị Bàn Hộ này đã đơn thương độc mã mang đầu thủ lĩnh Nhung Ngô trở về, đủ thấy nhân vật này dẫu không phải Tử thần thì cũng là một tôn sát thần.”"
+    },
+    {
+      "para_id": "c0131p0007",
+      "index": 7,
+      "raw_zh": "秦疏影特別喜歡看那新娘，似乎極為欣賞她的身材。",
+      "translated_vi": "Tần Sơ Ảnh lại đặc biệt thích ngắm nhìn cô dâu kia, dường như cô vô cùng tán thưởng vóc dáng của người phụ nữ ấy."
+    },
+    {
+      "para_id": "c0131p0008",
+      "index": 8,
+      "raw_zh": "她皺著鼻子，道：",
+      "translated_vi": "Cô khẽ nhăn mũi, nói:"
+    },
+    {
+      "para_id": "c0131p0009",
+      "index": 9,
+      "raw_zh": "“為什麽新娘要帶著面具？看不到她的臉，很好奇。”",
+      "translated_vi": "“Sao cô dâu lại phải đeo mặt nạ thế kia? Chẳng nhìn thấy mặt mũi đâu cả, tò mò quá đi mất.”"
+    },
+    {
+      "para_id": "c0131p0010",
+      "index": 10,
+      "raw_zh": "雲千峰笑道：",
+      "translated_vi": "Vân Thiên Phong mỉm cười giải thích:"
+    },
+    {
+      "para_id": "c0131p0011",
+      "index": 11,
+      "raw_zh": "“在上古，戴著面具就相當於我們文化裡，新娘的蓋頭，這風俗源自女媧，她當時嫁給伏羲，因為含羞，就帶了銅虎面具。”",
+      "translated_vi": "“Thời thượng cổ, việc đeo mặt nạ cũng tương đương với khăn trùm đầu cô dâu trong văn hóa của chúng ta. Phong tục này bắt nguồn từ Nữ Oa, thuở ấy khi gả cho Phục Hy, bởi vì e thẹn ngượng ngùng nên nàng đã đeo mặt nạ hổ bằng đồng.”"
+    },
+    {
+      "para_id": "c0131p0012",
+      "index": 12,
+      "raw_zh": "千千看著那高大的盤瓠，低聲道：",
+      "translated_vi": "Thiên Thiên nhìn Bàn Hộ cao lớn sừng sững, hạ giọng nói:"
+    },
+    {
+      "para_id": "c0131p0013",
+      "index": 13,
+      "raw_zh": "“盤瓠帶著的也是面具吧？狗頭面具！”",
+      "translated_vi": "“Bàn Hộ đeo chắc cũng là mặt nạ nhỉ? Mặt nạ đầu chó ấy!”"
+    },
+    {
+      "para_id": "c0131p0014",
+      "index": 14,
+      "raw_zh": "雲千峰搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu, bảo:"
+    },
+    {
+      "para_id": "c0131p0015",
+      "index": 15,
+      "raw_zh": "“看不真切，如果是，那也是頭套了，可不是面具那麽簡單。”",
+      "translated_vi": "“Nhìn không rõ lắm, nếu quả thực như vậy thì đó phải là một cái mũ trùm đầu chứ chẳng đơn thuần là mặt nạ đâu.”"
+    },
+    {
+      "para_id": "c0131p0016",
+      "index": 16,
+      "raw_zh": "張敏悄聲，道：",
+      "translated_vi": "Trương Mẫn khẽ thì thào:"
+    },
+    {
+      "para_id": "c0131p0017",
+      "index": 17,
+      "raw_zh": "“肯定是頭套，哪有狗頭人身的生物啊！”",
+      "translated_vi": "“Chắc chắn là mũ trùm rồi, làm sao có sinh vật nào đầu chó mình người cho được!”"
+    },
+    {
+      "para_id": "c0131p0018",
+      "index": 18,
+      "raw_zh": "雲千峰又是搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lại lắc đầu, nói:"
+    },
+    {
+      "para_id": "c0131p0019",
+      "index": 19,
+      "raw_zh": "“什麽事都別那麽早肯定，阿努比斯也好，盤瓠也罷，都被用“神”字來稱呼，就證明傳說源頭的這兩位，必定是不凡的存在，其長相異於常人，沒什麽不可能的，要知道全世界所有文明的神話裡，很多神都帶著獸形，那不是簡單一句圖騰信仰就能完美解釋的，必有其因。”",
+      "translated_vi": "“Chuyện gì cũng đừng vội khẳng định sớm quá. Dù là Anubis hay Bàn Hộ thì họ đều được xưng tụng bằng chữ ‘thần’, điều đó chứng tỏ nguồn cơn truyền thuyết về hai vị này ắt hẳn là những thực thể phi phàm, diện mạo khác thường cũng chẳng có gì là bất khả thi. Nên nhớ trong thần thoại của mọi nền văn minh trên thế giới, rất nhiều vị thần mang hình dáng dã thú, điều đó không thể chỉ dùng một câu ‘tín ngưỡng vật tổ’ là giải thích trọn vẹn được đâu, ắt phải có nguyên do sâu xa.”"
+    },
+    {
+      "para_id": "c0131p0020",
+      "index": 20,
+      "raw_zh": "雲千峰深知，這磁錄景象不結束，他們什麽也做不了，否則看到的都不是真實，很危險，只能等磁錄結束。",
+      "translated_vi": "Vân Thiên Phong thừa hiểu rằng chừng nào cảnh tượng từ tính ghi hình này chưa kết thúc thì bọn họ chẳng thể làm được gì, bằng không những gì nhìn thấy đều là hư ảo, cực kỳ nguy hiểm, chỉ có thể kiên nhẫn chờ đoạn từ ghi này khép lại."
+    },
+    {
+      "para_id": "c0131p0021",
+      "index": 21,
+      "raw_zh": "於是起了興致，悄悄問三女道：",
+      "translated_vi": "Thế là anh bỗng nổi hứng, ghé sát khẽ hỏi ba người phụ nữ:"
+    },
+    {
+      "para_id": "c0131p0022",
+      "index": 22,
+      "raw_zh": "“你們知道那新娘是誰嗎？我保準你們猜不到。”",
+      "translated_vi": "“Mọi người có biết cô dâu kia là ai không? Tôi dám cược là mấy cô đoán không ra đâu.”"
+    },
+    {
+      "para_id": "c0131p0023",
+      "index": 23,
+      "raw_zh": "三女幾乎齊聲好奇輕問道：",
+      "translated_vi": "Cả ba người gần như đồng thanh tò mò hỏi nhỏ:"
+    },
+    {
+      "para_id": "c0131p0024",
+      "index": 24,
+      "raw_zh": "“誰啊？”",
+      "translated_vi": "“Ai thế?”"
+    },
+    {
+      "para_id": "c0131p0025",
+      "index": 25,
+      "raw_zh": "雲千峰神秘兮兮的笑道：",
+      "translated_vi": "Vân Thiên Phong nở nụ cười đầy vẻ thần bí:"
+    },
+    {
+      "para_id": "c0131p0026",
+      "index": 26,
+      "raw_zh": "“姮娥。”",
+      "translated_vi": "“Hằng Nga.”"
+    },
+    {
+      "para_id": "c0131p0027",
+      "index": 27,
+      "raw_zh": "三女一臉疑惑，這個名字很陌生。",
+      "translated_vi": "Ba người phụ nữ vẻ mặt đầy ngơ ngác, cái tên này nghe quá đỗi xa lạ."
+    },
+    {
+      "para_id": "c0131p0028",
+      "index": 28,
+      "raw_zh": "雲千峰立馬補充道：",
+      "translated_vi": "Vân Thiên Phong lập tức bổ sung:"
+    },
+    {
+      "para_id": "c0131p0029",
+      "index": 29,
+      "raw_zh": "“漢朝時，為了避諱劉恆的名諱，姮娥的姮字改成了嫦。”",
+      "translated_vi": "“Thời nhà Hán, để kiêng húy tên của Hán Văn Đế Lưu Hằng, chữ Hằng trong Hằng Nga đã bị đổi thành chữ Thường.”"
+    },
+    {
+      "para_id": "c0131p0030",
+      "index": 30,
+      "raw_zh": "三女眼睛都瞪圓了，看著雲千峰一臉難以置信。",
+      "translated_vi": "Mắt ba người phụ nữ trợn tròn xoe, trố mắt nhìn Vân Thiên Phong với vẻ mặt khó tin."
+    },
+    {
+      "para_id": "c0131p0031",
+      "index": 31,
+      "raw_zh": "“嫦娥！”",
+      "translated_vi": "“Thường Nga!”"
+    },
+    {
+      "para_id": "c0131p0032",
+      "index": 32,
+      "raw_zh": "千千急道：",
+      "translated_vi": "Thiên Thiên cuống quýt bảo:"
+    },
+    {
+      "para_id": "c0131p0033",
+      "index": 33,
+      "raw_zh": "“你胡說，嫦娥嫁給大英雄后羿了！”",
+      "translated_vi": "“Anh nói bừa, Thường Nga gả cho đại anh hùng Hậu Nghệ mà!”"
+    },
+    {
+      "para_id": "c0131p0034",
+      "index": 34,
+      "raw_zh": "她真的急了，雲千峰這番話，簡直是破壞她的美好童年。",
+      "translated_vi": "Cô thực sự cuống cả lên, lời nói này của Vân Thiên Phong quả thực đã đập nát tuổi thơ tươi đẹp của cô nàng."
+    },
+    {
+      "para_id": "c0131p0035",
+      "index": 35,
+      "raw_zh": "張敏和秦疏影也連連點頭，給千千助力，一起反抗雲千峰這個童話破碎者。",
+      "translated_vi": "Trương Mẫn và Tần Sơ Ảnh cũng gật đầu lia lịa tiếp sức cho Thiên Thiên, cùng nhau phản kháng kẻ phá hoại cổ tích Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0131p0036",
+      "index": 36,
+      "raw_zh": "雲千峰忍不住，輕聲笑道：",
+      "translated_vi": "Vân Thiên Phong không nhịn được, bật cười khẽ nói:"
+    },
+    {
+      "para_id": "c0131p0037",
+      "index": 37,
+      "raw_zh": "“嫁雞隨雞嫁狗隨狗的老話，就是在姮娥身上來的，也正是說的姮娥與盤瓠的婚姻。",
+      "translated_vi": "“Câu ngạn ngữ ‘lấy gà theo gà, lấy chó theo chó’ chính là bắt nguồn từ Hằng Nga đấy, và nó đang nói về cuộc hôn nhân giữa Hằng Nga và Bàn Hộ."
+    },
+    {
+      "para_id": "c0131p0038",
+      "index": 38,
+      "raw_zh": "我剛才說了，盤瓠獨自取了戎吳首領的頭顱，帝嚳對他的獎賞除了南山封地，最貴重的就是帝嚳的獨女姮娥。",
+      "translated_vi": "Vừa nãy tôi đã nói rồi, Bàn Hộ một thân một mình đoạt lấy thủ cấp của thủ lĩnh Nhung Ngô, phần thưởng mà Đế Cốc ban cho ông ta ngoài đất phong Nam Sơn ra, thì thứ quý giá nhất chính là cô con gái duy nhất của Đế Cốc — Hằng Nga."
+    },
+    {
+      "para_id": "c0131p0039",
+      "index": 39,
+      "raw_zh": "我猜磁錄影像裡，姮娥手裡捧著的黑匣子，裡面裝的很可能就是南山封地的信物，也就是姮娥的嫁妝。",
+      "translated_vi": "Tôi đoán chiếc hộp đen nhỏ mà Hằng Nga đang nâng trong tay ở hình ảnh từ tính này, bên trong rất có khả năng chính là tín vật phong địa Nam Sơn, cũng chính là của hồi môn của Hằng Nga."
+    },
+    {
+      "para_id": "c0131p0040",
+      "index": 40,
+      "raw_zh": "至於嫦娥嫁給后羿，那是唐堯年代的傳說，而姮娥在記載裡，是死在帝嚳之前的，不可能出現在唐堯年代，因為唐堯是帝嚳之子，接替帝嚳為帝。”",
+      "translated_vi": "Còn việc Thường Nga gả cho Hậu Nghệ lại là truyền thuyết thời Đường Nghiêu, mà Hằng Nga theo ghi chép vốn đã qua đời trước thời Đế Cốc, không thể nào xuất hiện vào thời Đường Nghiêu được, bởi Đường Nghiêu là con trai của Đế Cốc, người kế vị Đế Cốc lên làm thiên tử.”"
+    },
+    {
+      "para_id": "c0131p0041",
+      "index": 41,
+      "raw_zh": "張敏聽到這話，遺憾道：",
+      "translated_vi": "Trương Mẫn nghe vậy liền tiếc nuối nói:"
+    },
+    {
+      "para_id": "c0131p0042",
+      "index": 42,
+      "raw_zh": "“那豈不是說，根本沒有嫦娥奔月？”",
+      "translated_vi": "“Thế chẳng phải là căn bản không hề có chuyện Thường Nga bay lên cung trăng sao?”"
+    },
+    {
+      "para_id": "c0131p0043",
+      "index": 43,
+      "raw_zh": "雲千峰笑道：",
+      "translated_vi": "Vân Thiên Phong cười bảo:"
+    },
+    {
+      "para_id": "c0131p0044",
+      "index": 44,
+      "raw_zh": "“誰說的，咱們華夏的嫦娥五號都地月之間溜達一圈了，古人留下傳說給我們，我們也在創造傳說給後人，很可能未來無數年月後，人類祭祀供奉的豐收之神就是袁老。”",
+      "translated_vi": "“Ai bảo thế, tàu Thường Nga số năm của Hoa Hạ chúng ta đã bay lượn một vòng giữa Trái Đất và Mặt Trăng rồi đấy thôi. Người xưa để lại truyền thuyết cho chúng ta, chúng ta cũng đang sáng tạo truyền thuyết cho hậu thế. Rất có thể sau vô số năm tháng tương lai, vị thần mùa màng bội thu mà nhân loại cúng bái tế tự lại chính là cụ Viên Long Bình đấy.”"
+    },
+    {
+      "para_id": "c0131p0045",
+      "index": 45,
+      "raw_zh": "“在咱們華夏，神一直都有兩種，一種是生而為神，出現就是神的形態，一種是將一件事做到極致的人。”",
+      "translated_vi": "“Ở Hoa Hạ chúng ta, thần linh vốn luôn có hai loại: một loại sinh ra đã là thần, xuất hiện mang hình thái của thần; loại còn lại là những con người đã làm một việc đến mức tột cùng chí cảnh.”"
+    },
+    {
+      "para_id": "c0131p0046",
+      "index": 46,
+      "raw_zh": "“不過伱們也別太過失望，因為這個姮娥在傳說裡也是月亮之神，而且帝嚳的孩子個頂個了不得。”",
+      "translated_vi": "“Nhưng mấy cô cũng đừng quá thất vọng, bởi vị Hằng Nga này trong truyền thuyết cũng chính là nữ thần Mặt Trăng, vả lại con cái của Đế Cốc ai nấy đều vô cùng xuất chúng.”"
+    },
+    {
+      "para_id": "c0131p0047",
+      "index": 47,
+      "raw_zh": "“大兒子和這個姮娥是親兄妹，都是常儀所生，大兒子就是少昊，是正常受孕，姮娥就厲害了，常儀做夢受孕生的。”",
+      "translated_vi": "“Người con cả và Hằng Nga là anh em ruột, đều do Thường Nghi sinh ra. Con cả chính là Thiếu Hạo, được thụ thai bình thường, còn Hằng Nga thì lợi hại hơn, Thường Nghi nằm mộng thấy thụ thai mà sinh ra.”"
+    },
+    {
+      "para_id": "c0131p0048",
+      "index": 48,
+      "raw_zh": "“二兒子也厲害，是帝嚳的正妻薑媛氏在樹林裡踩到一個腳印生出來的，叫後稷，也就是周文王的祖先。”",
+      "translated_vi": "“Người con thứ hai cũng phi thường, do chính thất của Đế Cốc là Khương Viện thị giẫm phải dấu chân khổng lồ trong rừng mà sinh ra, tên gọi Hậu Tắc, chính là thủy tổ của Chu Văn Vương.”"
+    },
+    {
+      "para_id": "c0131p0049",
+      "index": 49,
+      "raw_zh": "“三兒子也了不得，是帝嚳第二位妻子簡狄所生，據說是簡狄在河邊撿了一個燕子蛋，吞下去就有了，這孩子叫契，用玄鳥做圖騰，是商朝人的祖先。”",
+      "translated_vi": "“Người con thứ ba cũng lẫy lừng không kém, do người vợ thứ hai của Đế Cốc là Giản Địch sinh ra. Tương truyền Giản Địch nhặt được một quả trứng chim én bên bờ sông, nuốt vào bụng rồi mang thai, đứa trẻ này tên là Khiết, lấy chim huyền điểu làm vật tổ, là thủy tổ của người nhà Thương.”"
+    },
+    {
+      "para_id": "c0131p0050",
+      "index": 50,
+      "raw_zh": "“四兒子叫放勳，也就是後世尊稱的唐堯，他的母親是帝嚳第三位妻子慶都在湖上泛舟，看到一條赤龍，聞了一下赤龍的氣息生的。”",
+      "translated_vi": "“Người con thứ tư tên là Phóng Huân, cũng chính là nhân vật được hậu thế tôn xưng là Đường Nghiêu. Mẹ của ông là người vợ thứ ba của Đế Cốc tên Khánh Đô, khi chèo thuyền dạo chơi trên hồ nhìn thấy một con xích long, chỉ hít một hơi khí tức của xích long mà hoài thai sinh ra.”"
+    },
+    {
+      "para_id": "c0131p0051",
+      "index": 51,
+      "raw_zh": "秦疏影舔了舔嘴唇，沒出聲。",
+      "translated_vi": "Tần Sơ Ảnh khẽ liếm môi, không lên tiếng."
+    },
+    {
+      "para_id": "c0131p0052",
+      "index": 52,
+      "raw_zh": "張敏讚道：",
+      "translated_vi": "Trương Mẫn trầm trồ khen ngợi:"
+    },
+    {
+      "para_id": "c0131p0053",
+      "index": 53,
+      "raw_zh": "“好厲害，讓我想到了瑪利亞！”",
+      "translated_vi": "“Lợi hại thật đấy, làm tôi nhớ tới Đức Mẹ Maria!”"
+    },
+    {
+      "para_id": "c0131p0054",
+      "index": 54,
+      "raw_zh": "千千則弱聲道：",
+      "translated_vi": "Thiên Thiên thì yếu ớt buông một câu:"
+    },
+    {
+      "para_id": "c0131p0055",
+      "index": 55,
+      "raw_zh": "“唉！女人呐”",
+      "translated_vi": "“Haizz! Phụ nữ đúng là...”"
+    },
+    {
+      "para_id": "c0131p0056",
+      "index": 56,
+      "raw_zh": "幾個人正說著，情緒稍許放松之時，突然那磁錄的景象發生了巨變。",
+      "translated_vi": "Mấy người đang nói chuyện, tâm trạng vừa mới thả lỏng đôi chút thì bất ngờ cảnh tượng ghi hình từ tính kia xảy ra biến cố dữ dội."
+    },
+    {
+      "para_id": "c0131p0057",
+      "index": 57,
+      "raw_zh": "就見大殿上，那坐在寬大石椅上，看不清面龐的人站起身來，高舉雙臂，下面的人，包括那地位崇高的巫婆都急忙跪伏在地，臉貼著巨石的地面。",
+      "translated_vi": "Chỉ thấy trên đại điện, người ngồi trên chiếc ghế đá to lớn không rõ mặt mũi bỗng đứng dậy, giơ cao hai cánh tay. Những người phía dưới, bao gồm cả mụ phù thủy có địa vị tôn sùng kia, đều vội vàng quỳ rạp xuống đất, mặt dán sát vào mặt sàn đá tảng."
+    },
+    {
+      "para_id": "c0131p0058",
+      "index": 58,
+      "raw_zh": "那狗頭人身和姮娥也不例外，面龐緊緊挨著地面。",
+      "translated_vi": "Cả người đầu chó lẫn Hằng Nga cũng không ngoại lệ, khuôn mặt áp chặt xuống mặt đất."
+    },
+    {
+      "para_id": "c0131p0059",
+      "index": 59,
+      "raw_zh": "也就在這一刻，狗頭人身上方突然墜下一個巨大的銅鍾，砸在地面上掀起一蓬碎石，而狗頭人恰好被罩在其中。",
+      "translated_vi": "Đúng vào khoảnh khắc này, từ phía trên đỉnh đầu của người đầu chó bỗng nhiên rơi xuống một quả chuông đồng khổng lồ, nện mạnh xuống mặt đất làm bắn tung tóe đá vụn, vừa vặn chụp gọn người đầu chó vào bên trong."
+    },
+    {
+      "para_id": "c0131p0060",
+      "index": 60,
+      "raw_zh": "就在狗頭人盤瓠被大鍾罩住那一刻，在大殿兩側整齊站列的人同時動了手。",
+      "translated_vi": "Ngay khoảnh khắc người đầu chó Bàn Hộ bị đại chung chụp kín, những kẻ đứng xếp hàng ngay ngắn ở hai bên đại điện đồng loạt ra tay."
+    },
+    {
+      "para_id": "c0131p0061",
+      "index": 61,
+      "raw_zh": "那些人著裝整齊，手持木槌，速度奇快，趁著所有人匍匐在地，衝過來，照著那些人的後腦就是一下，也僅僅就需要一下，便都躺在地上不動了。",
+      "translated_vi": "Những kẻ đó trang phục chỉnh tề, tay cầm vồ gỗ, tốc độ nhanh như chớp. Thừa dịp tất cả mọi người đang nằm rạp dưới đất, chúng lao tới, nhắm thẳng sau gáy mỗi người giáng mạnh một đòn. Mà cũng chỉ cần đúng một đòn duy nhất ấy, tất cả đã gục xuống đất bất động."
+    },
+    {
+      "para_id": "c0131p0062",
+      "index": 62,
+      "raw_zh": "被槌死的那些人，無論男女還是那巫婆，都在死前轉了一下身，眼睛全都盯著一個方向。",
+      "translated_vi": "Những người bị đập chết đó, bất kể nam nữ hay mụ phù thủy, trước khi chết đều xoay người một chút, đôi mắt đều trừng trừng nhìn về một phương hướng."
+    },
+    {
+      "para_id": "c0131p0063",
+      "index": 63,
+      "raw_zh": "那帶著青銅虎面具的姮娥也在這一刻轉頭回望，目光與死去的所有人一致。",
+      "translated_vi": "Hằng Nga đang đeo chiếc mặt nạ hổ bằng đồng thanh cũng ngoảnh đầu nhìn lại vào đúng khoảnh khắc này, ánh mắt hoàn toàn trùng khớp với hướng nhìn của tất cả những người đã chết."
+    },
+    {
+      "para_id": "c0131p0064",
+      "index": 64,
+      "raw_zh": "畫面在這一刻靜止，但卻沒有消失，就好像誰按了一下暫停鍵。",
+      "translated_vi": "Khung cảnh dừng sững lại tại giây phút này nhưng không hề biến mất, tựa như có ai đó vừa ấn nút tạm dừng."
+    },
+    {
+      "para_id": "c0131p0065",
+      "index": 65,
+      "raw_zh": "然而，這不算恐怖，最讓他們四個人驚恐的是，所有人，包括那姮娥的目光，都在看著他們。",
+      "translated_vi": "Thế nhưng, điều đó vẫn chưa phải là đáng sợ nhất. Điều khiến bốn người bọn họ kinh hãi tột cùng chính là: tất cả mọi người, bao gồm cả ánh mắt của Hằng Nga kia, đều đang nhìn chăm chú vào bọn họ."
+    },
+    {
+      "para_id": "c0131p0066",
+      "index": 66,
+      "raw_zh": "確切來說，是看著雲千峰！",
+      "translated_vi": "Nói một cách chính xác hơn, là đang nhìn chằm chằm vào Vân Thiên Phong!"
+    },
+    {
+      "para_id": "c0131p0067",
+      "index": 67,
+      "raw_zh": "被那麽多眼睛注視著，尤其是其中大部分都是臨死之前的一眼，讓雲千峰感到莫名的驚懼。",
+      "translated_vi": "Bị nhiều ánh mắt dõi theo như thế, đặc biệt phần lớn trong số đó đều là cái liếc mắt trăn trối cuối cùng trước khi lâm chung, khiến Vân Thiên Phong cảm thấy một nỗi kinh hãi không tên dâng lên tột độ."
+    },
+    {
+      "para_id": "c0131p0068",
+      "index": 68,
+      "raw_zh": "他幾乎是不由自主的向後退了三步。",
+      "translated_vi": "Anh gần như theo phản xạ lùi lại ba bước về phía sau."
+    },
+    {
+      "para_id": "c0131p0069",
+      "index": 69,
+      "raw_zh": "然而，他們發現，那些人的目光，依舊在盯著雲千峰看著，目不轉睛。",
+      "translated_vi": "Thế nhưng, bọn họ nhận ra rằng ánh mắt của những kẻ đó vẫn đang dán chặt lên người Vân Thiên Phong, không hề chớp mắt lấy một lần."
+    },
+    {
+      "para_id": "c0131p0070",
+      "index": 70,
+      "raw_zh": "“怎麽會這樣？他們應該只是磁錄的幻影才對，怎麽會盯著我看？”",
+      "translated_vi": "“Sao lại thế này? Bọn họ đáng lẽ chỉ là ảo ảnh từ tính ghi lại thôi chứ, sao lại nhìn chằm chằm vào tôi thế này?”"
+    },
+    {
+      "para_id": "c0131p0071",
+      "index": 71,
+      "raw_zh": "說著，雲千峰不信邪的向著照壁後面的大門走去。",
+      "translated_vi": "Vừa nói, Vân Thiên Phong vừa bán tín bán nghi sải bước đi về phía cánh cửa lớn đằng sau bức bình phong chắn gió."
+    },
+    {
+      "para_id": "c0131p0072",
+      "index": 72,
+      "raw_zh": "然而繞過照壁，他卻發現，大門已經禁閉，那厚重的大門，絕不是外力能夠強行打開。",
+      "translated_vi": "Thế nhưng khi vòng qua bình phong, anh lại phát hiện cánh cửa lớn đã đóng chặt tự bao giờ. Cánh cửa dày cộm nặng nề kia tuyệt đối không phải là thứ mà ngoại lực thông thường có thể cưỡng ép mở ra được."
+    },
+    {
+      "para_id": "c0131p0073",
+      "index": 73,
+      "raw_zh": "三女跟在他後面看到這一幕，也都嚇得不清。",
+      "translated_vi": "Ba người phụ nữ đi theo sau lưng anh chứng kiến cảnh tượng này cũng sợ tới mức hồn bay phách lạc."
+    },
+    {
+      "para_id": "c0131p0074",
+      "index": 74,
+      "raw_zh": "“怎麽會這樣？怎麽門就關上了！”",
+      "translated_vi": "“Làm sao thế này? Sao cửa lại tự nhiên đóng chặt lại rồi!”"
+    },
+    {
+      "para_id": "c0131p0075",
+      "index": 75,
+      "raw_zh": "雲千峰手有些抖，點了根煙，使勁吸了一口，沉聲道：",
+      "translated_vi": "Bàn tay Vân Thiên Phong khẽ run lên, anh rút một điếu thuốc châm lửa, rít mạnh một hơi sâu, trầm giọng bảo:"
+    },
+    {
+      "para_id": "c0131p0076",
+      "index": 76,
+      "raw_zh": "“因為婚禮還沒結束，走不出去的，這才是歸妹的真正含義，我懂了！”",
+      "translated_vi": "“Bởi vì hôn lễ vẫn chưa kết thúc, không thể bước ra ngoài được đâu. Đây mới chính là ý nghĩa thực sự của quẻ Quy Muội, tôi hiểu rồi!”"
+    },
+    {
+      "para_id": "c0131p0077",
+      "index": 77,
+      "raw_zh": "說完，他叼著煙，繞過照壁回到大殿，直奔那新娘姮娥的位置走過去。",
+      "translated_vi": "Dứt lời, anh ngậm điếu thuốc trên môi, vòng qua bức bình phong quay trở lại đại điện, sải bước thẳng tới vị trí của cô dâu Hằng Nga."
+    },
+    {
+      "para_id": "c0131p0078",
+      "index": 78,
+      "raw_zh": "一路上，那無數雙眼睛，都跟著雲千峰的移動而轉動著。",
+      "translated_vi": "Dọc theo đường đi, vô số đôi mắt kia đều chuyển động theo từng bước chân của Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0131p0079",
+      "index": 79,
+      "raw_zh": "他們，或者說它們，都在等著歸妹那一刻！",
+      "translated_vi": "Bọn họ, hay nói đúng hơn là bọn chúng, đều đang chờ đợi khoảnh khắc Quy Muội viên mãn!"
+    },
+    {
+      "para_id": "c0131p0080",
+      "index": 80,
+      "raw_zh": "感謝卿未語、塔克斯、星塵龍禁卡咧、土豆蝦、尾數06864、尾數07048的月票鼓勵，謝謝你們出現在這裡！！！感激！！！！！！！！！",
+      "translated_vi": "Chân thành cảm ơn sự khích lệ bằng phiếu tháng từ Khanh Vị Ngữ, Tháp Khắc Tư, Tinh Trần Long Cấm Tạp Liệt, Thổ Đậu Hà, số đuôi 06864, số đuôi 07048, cảm ơn sự hiện diện của các bạn tại nơi đây!!! Vô cùng cảm kích!!!!!!!!!"
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 155,
+  "title": "Chương 155: Tái Ngộ Thời Tiền Sử!",
+  "total_paragraphs": 82,
+  "translated_paragraphs": 82,
+  "source_hash": "543138e20ff356d999c19cd76023d5580daab7b9a0893e6c5586157e6aa36f79",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0155p0001",
+      "index": 1,
+      "raw_zh": "第155章 與史前的另類重逢！",
+      "translated_vi": "Chương 155: Tái Ngộ Thời Tiền Sử!"
+    },
+    {
+      "para_id": "c0155p0002",
+      "index": 2,
+      "raw_zh": "中蠱的特征之一，就是苦澀的白礬在嘴裡會感覺到清甜。",
+      "translated_vi": "Một trong những đặc trưng của việc trúng Cổ độc, chính là phèn chua đắng chát ngậm vào trong miệng lại cảm thấy ngọt thanh thanh mát."
+    },
+    {
+      "para_id": "c0155p0003",
+      "index": 3,
+      "raw_zh": "很多壯醫就是用這種方式測試病人是不是中蠱。",
+      "translated_vi": "Rất nhiều thầy thuốc Tráng y thường dùng phương pháp này để kiểm tra xem người bệnh có phải đã bị trúng Cổ hay không."
+    },
+    {
+      "para_id": "c0155p0004",
+      "index": 4,
+      "raw_zh": "雲千峰剛才去砍軟藤時，就懷疑自己二人是中了毒蠱，所以順手撿一粒嘗了一口，果然中招。",
+      "translated_vi": "Vân Thiên Phong lúc nãy khi đi chặt dây leo mềm đã hoài nghi hai người họ bị trúng độc Cổ, thế nên tiện tay nhặt một hạt nếm thử, quả nhiên đã dính chiêu."
+    },
+    {
+      "para_id": "c0155p0005",
+      "index": 5,
+      "raw_zh": "瀝：液體一滴一滴滲出落下。",
+      "translated_vi": "“Lịch”: nghĩa là chất lỏng từng giọt từng giọt rỉ ra rơi xuống."
+    },
+    {
+      "para_id": "c0155p0006",
+      "index": 6,
+      "raw_zh": "顧名思義，瀝蠱就是讓中者快速瀝乾身體，成為乾屍。",
+      "translated_vi": "Đúng như tên gọi, Lịch Cổ chính là thứ khiến kẻ trúng độc bị rút cạn sạch sành sanh chất lỏng trong cơ thể với tốc độ cực nhanh, biến thành một xác ướp khô đét."
+    },
+    {
+      "para_id": "c0155p0007",
+      "index": 7,
+      "raw_zh": "水壺已經幹了，倆人卻不敢動彈，就那麽舉著腿躺在地上，生怕好不容易補的水糟蹋了一絲一毫。",
+      "translated_vi": "Bình nước đã cạn khô, nhưng hai người lại chẳng dám động đậy, cứ thế giơ cao hai chân nằm im dưới đất, chỉ sợ chút nước vừa chật vật bổ sung vào bị lãng phí mất nửa giọt."
+    },
+    {
+      "para_id": "c0155p0008",
+      "index": 8,
+      "raw_zh": "雲千峰沉思道：",
+      "translated_vi": "Vân Thiên Phong trầm ngâm nói:"
+    },
+    {
+      "para_id": "c0155p0009",
+      "index": 9,
+      "raw_zh": "“咱們倆來到這裡沒吃沒喝就中了招，證明這些瀝蠱可能是通過觸摸和呼吸感染，那些女閻羅人生活在這裡，一定有規避的方法和治療的辦法，而且應該是隨處可以找到的東西，否則怎麽安心生活。”",
+      "translated_vi": "“Hai đứa mình tới nơi này chưa ăn chưa uống gì mà đã dính chiêu, chứng tỏ loại Lịch Cổ này rất có thể lây nhiễm thông qua tiếp xúc da thịt và đường hô hấp. Những người Nữ Diêm La từng sinh sống ở đây nhất định phải có biện pháp phòng ngừa cùng cách chữa trị, hơn nữa hẳn phải là thứ có thể tìm thấy ở khắp mọi nơi, bằng không làm sao họ có thể yên tâm sinh hoạt được.”"
+    },
+    {
+      "para_id": "c0155p0010",
+      "index": 10,
+      "raw_zh": "羅琳娜無力道：",
+      "translated_vi": "Lorina hữu khí vô lực bảo:"
+    },
+    {
+      "para_id": "c0155p0011",
+      "index": 11,
+      "raw_zh": "“或許女閻羅人的體質不怕這些蠱蟲說不定。”",
+      "translated_vi": "“Biết đâu thể chất của người Nữ Diêm La không sợ loài Cổ trùng này thì sao.”"
+    },
+    {
+      "para_id": "c0155p0012",
+      "index": 12,
+      "raw_zh": "雲千峰否定，道：",
+      "translated_vi": "Vân Thiên Phong bác bỏ:"
+    },
+    {
+      "para_id": "c0155p0013",
+      "index": 13,
+      "raw_zh": "“那不可能，要知道咱們倆其實已經是真正意義上的女閻羅人，我們是他們的機器產生的。”",
+      "translated_vi": "“Chuyện đó là không thể nào. Cần biết rằng hai chúng mình trên thực tế đã là người Nữ Diêm La theo đúng nghĩa đen rồi, chúng mình là do cỗ máy của họ tạo ra cơ mà.”"
+    },
+    {
+      "para_id": "c0155p0014",
+      "index": 14,
+      "raw_zh": "羅琳娜覺得雲千峰說得對，他們倆本質上其實已經是女閻羅人的體質。",
+      "translated_vi": "Lorina thấy Vân Thiên Phong nói rất có lý, về mặt bản chất hai người họ quả thực đã mang thể chất của người Nữ Diêm La."
+    },
+    {
+      "para_id": "c0155p0015",
+      "index": 15,
+      "raw_zh": "於是便也開始閉目回憶路上遇到的所有東西，辨析哪個最有可能是解藥。",
+      "translated_vi": "Thế là cô cũng bắt đầu nhắm mắt hồi tưởng lại tất cả mọi thứ bắt gặp dọc đường, phân tích xem thứ nào có khả năng cao nhất là thuốc giải."
+    },
+    {
+      "para_id": "c0155p0016",
+      "index": 16,
+      "raw_zh": "“這一路到處植物，還有未曾一遇的動物，要如何分辨哪個是解藥啊？總不能都咬一口試試。”",
+      "translated_vi": "“Dọc đường này bạt ngàn thực vật, lại thêm bao nhiêu loài động vật chưa từng thấy bao giờ, làm sao phân biệt được thứ nào là thuốc giải chứ? Đâu thể cái gì cũng cắn một miếng nếm thử được.”"
+    },
+    {
+      "para_id": "c0155p0017",
+      "index": 17,
+      "raw_zh": "羅琳有心無力的說了句。",
+      "translated_vi": "Lorina bất lực thốt lên một câu."
+    },
+    {
+      "para_id": "c0155p0018",
+      "index": 18,
+      "raw_zh": "雲千峰顰眉思索道：",
+      "translated_vi": "Vân Thiên Phong chau mày trầm ngâm:"
+    },
+    {
+      "para_id": "c0155p0019",
+      "index": 19,
+      "raw_zh": "“首先這種蠱蟲一定是女閻羅人禦敵用的，叫人防不勝防，但他們活動的范圍，肯定不會有這種瀝蠱，否則睡個覺可能就醒不來了。所以這樹洞內，必有可解瀝蠱的東西，因為這是他們的臥室。”",
+      "translated_vi": "“Trước tiên, loại Cổ trùng này nhất định là thứ người Nữ Diêm La dùng để ngăn chặn kẻ địch, khiến người ta không sao phòng bị nổi; nhưng trong phạm vi sinh hoạt thường nhật của họ chắc chắn sẽ không để Lịch Cổ hoành hành, bằng không ngủ một giấc khéo chẳng bao giờ tỉnh lại nữa. Thế nên bên trong hốc cây này ắt phải có thứ hóa giải được Lịch Cổ, bởi vì đây chính là phòng ngủ của họ.”"
+    },
+    {
+      "para_id": "c0155p0020",
+      "index": 20,
+      "raw_zh": "羅琳娜掃視一圈，說道：",
+      "translated_vi": "Lorina đảo mắt nhìn quanh một vòng, nói:"
+    },
+    {
+      "para_id": "c0155p0021",
+      "index": 21,
+      "raw_zh": "“這裡除了木頭就是陶碗陶罐。”",
+      "translated_vi": "“Nơi này ngoài gỗ ra thì chỉ toàn bát gốm với bình gốm.”"
+    },
+    {
+      "para_id": "c0155p0022",
+      "index": 22,
+      "raw_zh": "雲千峰看著樹洞口旁邊，一個燒陶的粗鼎，說道：",
+      "translated_vi": "Vân Thiên Phong nhìn về phía chiếc đỉnh gốm thô dùng để đun nấu đặt bên cạnh cửa hốc cây, cất tiếng:"
+    },
+    {
+      "para_id": "c0155p0023",
+      "index": 23,
+      "raw_zh": "“還有別的東西，只是現在沒有，他們也需要吃飯，總不會都是生吃。”",
+      "translated_vi": "“Vẫn còn thứ khác nữa, chỉ là hiện tại chưa có ở đây thôi. Họ cũng cần phải ăn cơm, đời nào lúc nào cũng ăn tươi nuốt sống.”"
+    },
+    {
+      "para_id": "c0155p0024",
+      "index": 24,
+      "raw_zh": "說著，他咬牙爬起身來，到了樹洞外，撿來一些枯草乾枝，架在陶鼎下面點燃。",
+      "translated_vi": "Dứt lời, anh nghiến răng gượng bò dậy, bước ra ngoài hốc cây nhặt một ít cỏ khô cành mục mang vào, chất dưới đáy đỉnh gốm rồi châm lửa đốt."
+    },
+    {
+      "para_id": "c0155p0025",
+      "index": 25,
+      "raw_zh": "那火焰一起，倆人腹中就覺得有東西在向著上方蠕動，羅琳娜幾乎是情不自禁的爬向燃燒著火焰的鼎。",
+      "translated_vi": "Ngọn lửa vừa bùng lên, trong bụng hai người liền cảm thấy có vật gì đó đang nhung nhúc bò ngược lên trên, Lorina gần như theo bản năng bò rạp về phía chiếc đỉnh gốm đang rực cháy ánh lửa."
+    },
+    {
+      "para_id": "c0155p0026",
+      "index": 26,
+      "raw_zh": "雲千峰感覺到體內的變化，不由得咧嘴笑道：",
+      "translated_vi": "Vân Thiên Phong cảm nhận được sự biến chuyển trong cơ thể, không khỏi nhếch mép cười:"
+    },
+    {
+      "para_id": "c0155p0027",
+      "index": 27,
+      "raw_zh": "“成了，火焰就是瀝蠱的解藥，瀝蠱喜燥乾環境，所以才會在進入我們體內後，讓我們快速脫水，這樣的生物習性，如何能禁得住火焰的誘惑。”",
+      "translated_vi": "“Thành công rồi! Ngọn lửa chính là thuốc giải của Lịch Cổ! Lịch Cổ ưa thích môi trường khô ráo, thế nên sau khi chui vào cơ thể chúng mình, nó mới khiến chúng mình mất nước nhanh đến vậy. Tập tính sinh học như thế làm sao có thể cưỡng lại nổi sự cám dỗ của ngọn lửa chứ!”"
+    },
+    {
+      "para_id": "c0155p0028",
+      "index": 28,
+      "raw_zh": "這樣不出一分鍾，那異物感來到了倆人喉嚨處，奇癢難忍。",
+      "translated_vi": "Cứ như thế chưa đầy một phút sau, cảm giác có dị vật ngọ nguậy đã xông thẳng lên tới cổ họng hai người, ngứa ngáy khó chịu vô cùng."
+    },
+    {
+      "para_id": "c0155p0029",
+      "index": 29,
+      "raw_zh": "尤其是那東西蠕動到小舌頭的位置時，倆人禁不住“哇”的一聲嘔吐起來，頓時拳頭大的一團，猶如蚯蚓般殷紅的蟲子伴著胃液滾落在地。",
+      "translated_vi": "Nhất là khi thứ đó bò lúc nhúc tới vị trí lưỡi gà, cả hai không kìm được đồng loạt “oẹ” một tiếng nôn thốc nôn tháo; tức thì một búi trùng to bằng nắm tay, đỏ au như bầy giun đất quằn quại lẫn trong dịch vị dạ dày rơi tõm xuống đất."
+    },
+    {
+      "para_id": "c0155p0030",
+      "index": 30,
+      "raw_zh": "更惡心的是，那些蚯蚓般的蠱蟲，前後兩個腦袋，都仿佛人臉，帶著眼耳口鼻的圖案，讓人看著後背發麻。",
+      "translated_vi": "Càng kinh tởm hơn nữa là, những con Cổ trùng tựa như giun đất kia ở cả hai đầu trước sau đều mang hình thù hệt như mặt người, có đầy đủ hoa văn mắt tai mũi miệng, khiến người ta nhìn vào mà sởn gai ốc buốt lạnh cả sống lưng."
+    },
+    {
+      "para_id": "c0155p0031",
+      "index": 31,
+      "raw_zh": "看到這一幕，倆人一個沒忍住，惡心的又吐了一陣酸水，卻再沒蟲子吐出。",
+      "translated_vi": "Chứng kiến cảnh tượng ghê rợn này, hai người không kìm nổi cảm giác buồn nôn, lại nôn thốc nôn tháo ra một tràng nước chua, nhưng không còn con trùng nào trào ra nữa."
+    },
+    {
+      "para_id": "c0155p0032",
+      "index": 32,
+      "raw_zh": "倆人劫後余生，互相攙扶著回到樹洞的木床上，倒在上面喘著粗氣。",
+      "translated_vi": "Cả hai như vừa từ cõi chết trở về, dìu nhau quay lại chiếc giường gỗ trong hốc cây, ngã vật ra đó thở dốc từng cơn."
+    },
+    {
+      "para_id": "c0155p0033",
+      "index": 33,
+      "raw_zh": "羅琳娜感歎道：",
+      "translated_vi": "Lorina cảm thán:"
+    },
+    {
+      "para_id": "c0155p0034",
+      "index": 34,
+      "raw_zh": "“這瀝蠱太陰險了，讓人口渴，但卻無法飲水，哪怕身邊有水都不行，太狠毒了。”",
+      "translated_vi": "“Loại Lịch Cổ này quá đỗi hiểm độc, khiến người ta khát khô họng nhưng lại không thể uống nước, dẫu bên cạnh có sẵn nguồn nước cũng vô dụng, thật là tàn nhẫn khôn cùng.”"
+    },
+    {
+      "para_id": "c0155p0035",
+      "index": 35,
+      "raw_zh": "雲千峰笑道：",
+      "translated_vi": "Vân Thiên Phong cười nói:"
+    },
+    {
+      "para_id": "c0155p0036",
+      "index": 36,
+      "raw_zh": "“寄生蟲和寄生菌都是這樣的，會按照自己的喜好來改變宿主的喜好。瀝蠱厭水，所以感染了以後，宿主就會覺得清水苦澀惡心。",
+      "translated_vi": "“Ký sinh trùng và vi khuẩn ký sinh xưa nay đều như vậy, chúng sẽ dựa theo sở thích của bản thân để thay đổi sở thích của vật chủ. Lịch Cổ vốn ghét nước, cho nên sau khi bị lây nhiễm, vật chủ sẽ cảm thấy nước lọc ngọt lành bỗng trở nên đắng chát buồn nôn."
+    },
+    {
+      "para_id": "c0155p0037",
+      "index": 37,
+      "raw_zh": "這和我們腸胃內的細菌成分，決定我們喜好和欲望是一個道理。”",
+      "translated_vi": "Điều này cũng cùng một đạo lý với việc các chủng vi khuẩn trong đường ruột con người quyết định sở thích cùng dục vọng ăn uống vậy.”"
+    },
+    {
+      "para_id": "c0155p0038",
+      "index": 38,
+      "raw_zh": "倆人這樣休息了十幾分鍾，才算是再有了力氣，爬起身來，繼續向著深處趕路。",
+      "translated_vi": "Hai người nghỉ ngơi như thế chừng mười mấy phút mới xem như hồi phục được chút sức lực, lồm cồm bò dậy, tiếp tục lên đường tiến sâu vào bên trong."
+    },
+    {
+      "para_id": "c0155p0039",
+      "index": 39,
+      "raw_zh": "這一次倆人更加小心翼翼，身上衣服穿個嚴實，路過的東西能不碰就不碰，鬼知道這裡還有沒有其它生物高科技。",
+      "translated_vi": "Lần này cả hai càng thêm cẩn trọng dè dặt, quần áo trên người đều cài cắm kín mít, những thứ đi ngang qua hễ tránh được là tuyệt đối không chạm vào, quỷ mới biết nơi này còn cất giấu thứ công nghệ sinh học cao cấp nào khác nữa hay không."
+    },
+    {
+      "para_id": "c0155p0040",
+      "index": 40,
+      "raw_zh": "那些蠱蟲，就是能解，想著那蚯蚓似的一團在嘴裡吐出去，也惡心的無法忍受。",
+      "translated_vi": "Mấy thứ Cổ trùng kia dẫu có thể giải được, nhưng cứ nghĩ tới cảnh tượng một búi nhung nhúc như giun đất trào ra khỏi miệng là đã thấy ghê tởm không sao chịu nổi rồi."
+    },
+    {
+      "para_id": "c0155p0041",
+      "index": 41,
+      "raw_zh": "還別說，走了不到半個小時，就被雲千峰又發現了一種蠱，這種蠱是少見的植物蠱，由一種叫胡蔓草的植物變種而成，這種植物蠱，全身劇毒，尤其是那長相特別的花朵，忍不住讓人想貼過去聞聞花香。",
+      "translated_vi": "Khoan hẵng nói, đi chưa đầy nửa tiếng đồng hồ, Vân Thiên Phong lại phát hiện thêm một loại Cổ nữa. Loại Cổ này là loại thực vật Cổ hiếm thấy, do một loài cây gọi là cỏ Hồ Mạn biến chủng mà thành. Loài thực vật Cổ này toàn thân kịch độc, nhất là những đóa hoa với hình dáng đặc dị kia, luôn khiến người ta không kìm lòng được mà muốn ghé sát lại hít hà hương hoa."
+    },
+    {
+      "para_id": "c0155p0042",
+      "index": 42,
+      "raw_zh": "當然，只要聞一下，花粉入鼻，人就會七竅流血而死，發毒極快，幾乎沒有時間救治。",
+      "translated_vi": "Đương nhiên, chỉ cần ngửi một hơi, phấn hoa lọt vào khoang mũi thì nạn nhân sẽ lập tức chảy máu bảy lỗ mà chết, độc tính phát tác cực nhanh, hầu như chẳng có thời gian cứu chữa."
+    },
+    {
+      "para_id": "c0155p0043",
+      "index": 43,
+      "raw_zh": "然後雲千峰發現了一個規律，只要是周圍乾乾淨淨，連蟲子都看不見的地方，繞著走準沒錯。",
+      "translated_vi": "Sau đó Vân Thiên Phong đúc kết ra một quy luật: phàm là những nơi xung quanh sạch sẽ tinh tươm, đến một con sâu con bọ cũng không thấy tăm hơi, thì cứ đi đường vòng né ra là chuẩn nhất."
+    },
+    {
+      "para_id": "c0155p0044",
+      "index": 44,
+      "raw_zh": "髒亂差在這裡才意味著安全。",
+      "translated_vi": "Dơ bẩn, hỗn loạn, nhếch nhác ở chốn này mới đồng nghĩa với sự an toàn."
+    },
+    {
+      "para_id": "c0155p0045",
+      "index": 45,
+      "raw_zh": "羅琳娜也發現了一個規律，那就是別多想，跟著雲千峰後面走，基本安全。",
+      "translated_vi": "Lorina cũng đúc kết ra một quy luật, đó là đừng có nghĩ ngợi nhiều làm gì, cứ ngoan ngoãn bám sát sau lưng Vân Thiên Phong mà đi là cơ bản an toàn."
+    },
+    {
+      "para_id": "c0155p0046",
+      "index": 46,
+      "raw_zh": "此時倆人正走著，卻突然止住了腳步。",
+      "translated_vi": "Lúc này hai người đang cất bước bỗng nhiên đồng loạt khựng chân lại."
+    },
+    {
+      "para_id": "c0155p0047",
+      "index": 47,
+      "raw_zh": "就在倆人身前不遠處，這乾淨的砂石路上，倒著一具枯骨。",
+      "translated_vi": "Ngay phía trước mặt hai người không xa, trên con đường cát sỏi sạch sẽ này, có một bộ xương khô nằm sõng soài."
+    },
+    {
+      "para_id": "c0155p0048",
+      "index": 48,
+      "raw_zh": "那枯骨腳掌的位置對著倆人的方向，看起來應該是人骨。",
+      "translated_vi": "Vị trí bàn chân của bộ xương khô hướng thẳng về phía hai người, nhìn qua hẳn là xương người."
+    },
+    {
+      "para_id": "c0155p0049",
+      "index": 49,
+      "raw_zh": "羅琳娜眯眼看了一下，說道：",
+      "translated_vi": "Lorina híp mắt quan sát một lượt rồi nói:"
+    },
+    {
+      "para_id": "c0155p0050",
+      "index": 50,
+      "raw_zh": "“好像是幾個人的骨頭堆在一起了。”",
+      "translated_vi": "“Hình như là xương cốt của mấy người chất đống lại với nhau.”"
+    },
+    {
+      "para_id": "c0155p0051",
+      "index": 51,
+      "raw_zh": "雲千峰點了點頭，道：",
+      "translated_vi": "Vân Thiên Phong gật đầu bảo:"
+    },
+    {
+      "para_id": "c0155p0052",
+      "index": 52,
+      "raw_zh": "“應該是，沒準裡面有之前記錄影像裡的人，咱們過去看看。”",
+      "translated_vi": "“Hẳn là vậy, biết đâu chừng trong đó có người thuộc nhóm xuất hiện trong video ghi hình ban nãy, chúng mình qua đó xem thử.”"
+    },
+    {
+      "para_id": "c0155p0053",
+      "index": 53,
+      "raw_zh": "倆人小心翼翼的來到枯骨前，利用頭頂礦燈仔細看過去。",
+      "translated_vi": "Hai người cẩn thận từng li từng tí bước tới trước bộ xương khô, dùng đèn thợ mỏ trên trán rọi xuống quan sát kỹ lưỡng."
+    },
+    {
+      "para_id": "c0155p0054",
+      "index": 54,
+      "raw_zh": "這一看不要緊，倆人直接驚得倒吸了一口涼氣。",
+      "translated_vi": "Vừa nhìn xuống, cả hai lập tức sững sờ kinh hãi, một luồng khí lạnh chạy dọc sống lưng buốt nhói."
+    },
+    {
+      "para_id": "c0155p0055",
+      "index": 55,
+      "raw_zh": "羅琳娜下意識叫道：",
+      "translated_vi": "Lorina theo bản năng thốt lên kinh ngạc:"
+    },
+    {
+      "para_id": "c0155p0056",
+      "index": 56,
+      "raw_zh": "“是一個人！”",
+      "translated_vi": "“Là một người!”"
+    },
+    {
+      "para_id": "c0155p0057",
+      "index": 57,
+      "raw_zh": "沒錯，那看起來好幾條手臂的枯骨，很明顯是完整的一個人。",
+      "translated_vi": "Không sai, bộ xương khô thoạt nhìn có đến mấy cánh tay kia, rõ ràng mười mươi là của một người hoàn chỉnh."
+    },
+    {
+      "para_id": "c0155p0058",
+      "index": 58,
+      "raw_zh": "這樣說也不對，因為這枯骨六隻手裡面，有兩隻手裡各拽著一條斷臂枯骨，所以這裡一共有八隻手。",
+      "translated_vi": "Nói như thế cũng không hẳn đúng, bởi vì trong sáu cánh tay của bộ xương khô này, có hai bàn tay đang nắm chặt hai cẳng tay đứt lìa trơ xương, thế nên tính tổng cộng nơi đây có tới tám cánh tay."
+    },
+    {
+      "para_id": "c0155p0059",
+      "index": 59,
+      "raw_zh": "雲千峰用手指點著枯骨數了一下，搖頭難以置信，道：",
+      "translated_vi": "Vân Thiên Phong đưa ngón tay trỏ điểm từng khúc xương đếm một lượt, lắc đầu đầy vẻ khó tin, lẩm bẩm:"
+    },
+    {
+      "para_id": "c0155p0060",
+      "index": 60,
+      "raw_zh": "“三頭六臂，這是巨型哪吒嗎？”",
+      "translated_vi": "“Ba đầu sáu tay, đây là Na Tra khổng lồ biến hình đấy à?”"
+    },
+    {
+      "para_id": "c0155p0061",
+      "index": 61,
+      "raw_zh": "眼前這枯骨，身高絕對不下三米。",
+      "translated_vi": "Bộ xương khô sừng sững trước mắt, chiều cao tuyệt đối không dưới ba mét."
+    },
+    {
+      "para_id": "c0155p0062",
+      "index": 62,
+      "raw_zh": "羅琳娜指著枯骨手裡攥著的兩個斷臂枯骨，說道：",
+      "translated_vi": "Lorina chỉ vào hai khúc xương cánh tay đứt lìa bị bộ hài cốt nắm chặt, cất tiếng:"
+    },
+    {
+      "para_id": "c0155p0063",
+      "index": 63,
+      "raw_zh": "“逃出甬道那兩個人的斷臂，或許就是這兩條。”",
+      "translated_vi": "“Cánh tay đứt lìa của hai kẻ tháo chạy khỏi đường hầm khi nãy, có lẽ chính là hai cánh tay này.”"
+    },
+    {
+      "para_id": "c0155p0064",
+      "index": 64,
+      "raw_zh": "雲千峰看了看那斷臂的截面，歎道：",
+      "translated_vi": "Vân Thiên Phong quan sát kỹ mặt cắt của đoạn xương gãy, thở dài:"
+    },
+    {
+      "para_id": "c0155p0065",
+      "index": 65,
+      "raw_zh": "“枯骨斷面參差不齊，是硬生生掰斷的，不過他掰斷那倆人胳膊的同時，自己也被一劍割喉。",
+      "translated_vi": "“Mặt cắt xương khô lởm chởm không bằng phẳng, là bị bẻ gãy sống, nhưng trong lúc sinh vật này bẻ gãy cánh tay của hai người kia thì bản thân nó cũng bị một nhát kiếm cứa đứt cổ họng."
+    },
+    {
+      "para_id": "c0155p0066",
+      "index": 66,
+      "raw_zh": "看來女閻羅人在利用基因技術，研製生物型的戰鬥武器，他們躲在這裡應該就是為了完成這件事。”",
+      "translated_vi": "Xem ra người Nữ Diêm La đang lợi dụng công nghệ gen để nghiên cứu chế tạo thứ vũ khí chiến đấu dạng sinh học, họ ẩn náu ở nơi này chắc hẳn chính là để hoàn thành đại sự này.”"
+    },
+    {
+      "para_id": "c0155p0067",
+      "index": 67,
+      "raw_zh": "羅琳娜不可思議，道：",
+      "translated_vi": "Lorina kinh ngạc thốt lên:"
+    },
+    {
+      "para_id": "c0155p0068",
+      "index": 68,
+      "raw_zh": "“這樣強大的生物，怎麽可能會受人的指揮和限制，這是在創造災難。”",
+      "translated_vi": "“Sinh vật hùng mạnh khủng khiếp nhường này làm sao có thể chịu sự chỉ huy và kìm kẹp của con người được, làm vậy chẳng khác nào đang tự tay tạo ra thảm họa.”"
+    },
+    {
+      "para_id": "c0155p0069",
+      "index": 69,
+      "raw_zh": "莫名的，羅琳娜說這句話的時候，雲千峰想起岩畫上，狗頭人身的新神與另外八個人走正步的畫面，下意識說道：",
+      "translated_vi": "Chẳng hiểu sao, khi Lorina thốt ra câu nói này, Vân Thiên Phong lại bất giác nhớ tới hình ảnh trên bức bích họa, nơi vị tân thần đầu chó mình người sải bước duyệt binh cùng tám nhân vật bí ẩn kia, bèn vô thức buông lời:"
+    },
+    {
+      "para_id": "c0155p0070",
+      "index": 70,
+      "raw_zh": "“他們或許能夠完美控制這些生物。”",
+      "translated_vi": "“Biết đâu họ có khả năng kiểm soát hoàn mỹ những sinh vật này thì sao.”"
+    },
+    {
+      "para_id": "c0155p0071",
+      "index": 71,
+      "raw_zh": "倆人繼續前行，這枯骨給予他們震撼，但同時也讓他們放松不少，因為他們以為的危險，已經死去不知多少歲月。",
+      "translated_vi": "Hai người tiếp tục tiến bước, bộ xương khô tuy đem lại cho họ nỗi chấn động tột cùng, nhưng đồng thời cũng khiến cả hai trút bớt phần nào căng thẳng, bởi lẽ mối nguy hiểm mà họ hằng nơm nớp lo sợ dường như đã chết từ chẳng biết bao nhiêu năm tháng trước."
+    },
+    {
+      "para_id": "c0155p0072",
+      "index": 72,
+      "raw_zh": "但很快，他們有見到了一條九個巨大腦袋的大蛇骨，長度大約十二三米，這條大蛇的肋骨裡，還蜷縮著兩具枯骨，很顯然是被大蛇生前吞進肚子裡去的。",
+      "translated_vi": "Thế nhưng rất nhanh sau đó, họ lại bắt gặp một bộ xương cự xà khổng lồ có tới chín chiếc đầu, chiều dài chừng mười hai đến mười ba mét; bên trong lồng xương sườn của con đại xà này còn cuộn tròn hai bộ hài cốt khô khốc, hiển nhiên là lúc sinh thời đã bị cự xà nuốt trọn vào bụng."
+    },
+    {
+      "para_id": "c0155p0073",
+      "index": 73,
+      "raw_zh": "這條大蛇的死亡，也是因為這一次貪食。",
+      "translated_vi": "Cái chết của con cự xà này cũng chính là bắt nguồn từ sự tham ăn vô độ ấy."
+    },
+    {
+      "para_id": "c0155p0074",
+      "index": 74,
+      "raw_zh": "因為被吞進去的兩個人很顯然是故意這樣做的，他們的手上拿著鋒利的青銅匕首，忍著胃酸融化自己的肌膚，在大蛇肚子裡豁開了它的身體。",
+      "translated_vi": "Bởi lẽ hai người bị nuốt vào bụng rõ ràng là cố tình làm vậy, trong tay họ cầm những con dao găm bằng đồng thanh sắc bén, cắn răng chịu đựng dịch vị dạ dày ăn mòn da thịt để rạch toang bụng con cự xà từ bên trong."
+    },
+    {
+      "para_id": "c0155p0075",
+      "index": 75,
+      "raw_zh": "看到這具碩大的枯骨，雲千峰顯得異常驚訝，他仿似自語道：",
+      "translated_vi": "Chứng kiến bộ xương khổng lồ dị dạng này, Vân Thiên Phong lộ vẻ kinh ngạc tột bậc, anh dường như lẩm bẩm một mình:"
+    },
+    {
+      "para_id": "c0155p0076",
+      "index": 76,
+      "raw_zh": "“山海經都是真的？這是相柳一族？女閻羅文明，到底在史前的地球上，做了什麽？扮演了什麽角色？”",
+      "translated_vi": "“Chẳng lẽ Sơn Hải Kinh đều là sự thật sao? Đây là tộc Tương Liễu ư? Nền văn minh Nữ Diêm La rốt cuộc đã làm những gì trên Trái Đất thời tiền sử này? Họ đã đóng vai trò gì trong lịch sử chứ?”"
+    },
+    {
+      "para_id": "c0155p0077",
+      "index": 77,
+      "raw_zh": "他腦海裡閃過曾經的一幕幕。",
+      "translated_vi": "Trong tâm trí anh chợt xẹt qua từng cảnh tượng quá khứ."
+    },
+    {
+      "para_id": "c0155p0078",
+      "index": 78,
+      "raw_zh": "野人山，南北朝時期的雲守身。",
+      "translated_vi": "Dã Nhân Sơn, Vân Thủ Thân thời Nam Bắc triều."
+    },
+    {
+      "para_id": "c0155p0079",
+      "index": 79,
+      "raw_zh": "老爺廟，始皇時期的九屠妘起。",
+      "translated_vi": "Lão Gia Miếu, Cửu Đồ Vân Khởi thời Thủy Hoàng."
+    },
+    {
+      "para_id": "c0155p0080",
+      "index": 80,
+      "raw_zh": "扭曲島，帝嚳時期的殺神盤瓠。",
+      "translated_vi": "Đảo Nữu Khúc, Sát Thần Bàn Hộ thời Đế Cốc."
+    },
+    {
+      "para_id": "c0155p0081",
+      "index": 81,
+      "raw_zh": "籠罩上下十方的團團迷霧，終有一方似被清風襲過，漸漸清晰起來",
+      "translated_vi": "Những tầng sương mù dày đặc bao trùm khắp mười phương trên dưới, cuối cùng cũng như có một ngọn gió lành thổi qua, dần dà trở nên sáng tỏ rõ ràng..."
+    },
+    {
+      "para_id": "c0155p0082",
+      "index": 82,
+      "raw_zh": "周末快樂，可惜明天不放假~~~大家好夢！！！！！！！！！好想去廣西！！！",
+      "translated_vi": "Chúc mọi người cuối tuần vui vẻ, tiếc là mai không được nghỉ~~~ Chúc cả nhà ngủ ngon mộng đẹp!!!!!!!!! Thèm đi Quảng Tây quá đi mất!!!"
+    }
+  ]
+}

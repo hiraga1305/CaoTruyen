@@ -1,0 +1,541 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 179,
+  "title": "Chương 179: Thật Giả Khó Phân",
+  "total_paragraphs": 88,
+  "translated_paragraphs": 88,
+  "source_hash": "4d40b7e0f660023d4039fc7655bf66729c75479a06b853747d63cd1d6e4bed23",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0179p0001",
+      "index": 1,
+      "raw_zh": "第179章 真假難辨",
+      "translated_vi": "Chương 179: Thật Giả Khó Phân"
+    },
+    {
+      "para_id": "c0179p0002",
+      "index": 2,
+      "raw_zh": "恐懼，其實源自於對事物的無知。",
+      "translated_vi": "Nỗi sợ hãi thực chất bắt nguồn từ sự thiếu hiểu biết đối với vạn vật."
+    },
+    {
+      "para_id": "c0179p0003",
+      "index": 3,
+      "raw_zh": "對於狐狸這種生物本身，雲千峰了解的實在是並不多，只是知道狐狸是除了狗之外，最適合成為家養寵物的動物。",
+      "translated_vi": "Bản thân Vân Thiên Phong cũng chẳng hiểu biết quá nhiều về loài cáo, anh chỉ biết rằng ngoài loài chó ra thì cáo là loài động vật thích hợp nhất để thuần hóa thành thú cưng trong nhà."
+    },
+    {
+      "para_id": "c0179p0004",
+      "index": 4,
+      "raw_zh": "國外有人為這個結論做過培育狐狸的實驗。",
+      "translated_vi": "Ở nước ngoài từng có người làm thí nghiệm lai tạo nuôi dưỡng cáo để chứng minh kết luận này."
+    },
+    {
+      "para_id": "c0179p0005",
+      "index": 5,
+      "raw_zh": "最有意思的是，狐狸在成為家養寵物後，原本尖尖的耳朵會軟得耷拉下來，長而蓬松的尾巴不再是直的，而是向後向上倒卷起來，成一個圈。",
+      "translated_vi": "Thú vị nhất là ở chỗ, cáo sau khi được thuần hóa thành thú cưng nuôi trong nhà thì đôi tai vốn dựng đứng nhọn hoắt sẽ mềm oặt rủ xuống, chiếc đuôi dài bồng bềnh không còn duỗi thẳng nữa mà cuộn ngược lên phía sau tạo thành một vòng tròn."
+    },
+    {
+      "para_id": "c0179p0006",
+      "index": 6,
+      "raw_zh": "這些特征，和狗非常相似。",
+      "translated_vi": "Những đặc điểm này vô cùng tương đồng với loài chó."
+    },
+    {
+      "para_id": "c0179p0007",
+      "index": 7,
+      "raw_zh": "似乎這是成為人類寵物的代價。",
+      "translated_vi": "Dường như đây chính là cái giá phải trả để trở thành thú cưng của loài người."
+    },
+    {
+      "para_id": "c0179p0008",
+      "index": 8,
+      "raw_zh": "至於狐狸精，雲千峰是真的沒見過，所知道的都是老人家的傳說。",
+      "translated_vi": "Còn về hồ ly tinh, Vân Thiên Phong thực sự chưa từng gặp bao giờ, tất cả những gì anh biết chỉ là những câu chuyện truyền thuyết do các bậc cao niên kể lại mà thôi."
+    },
+    {
+      "para_id": "c0179p0009",
+      "index": 9,
+      "raw_zh": "這讓他有些不知所措。",
+      "translated_vi": "Điều này khiến anh có phần luống cuống không biết phải xoay xở ra sao."
+    },
+    {
+      "para_id": "c0179p0010",
+      "index": 10,
+      "raw_zh": "怪物他見過不少，但那些東西都是只有欲望沒有智商的生物或者共生體，找到規則後不難對付。",
+      "translated_vi": "Quái vật dị chủng anh từng đụng độ không ít, thế nhưng những thứ đó đều chỉ là những sinh vật hoặc thể cộng sinh chỉ có dục vọng bản năng chứ không hề có trí khôn, một khi đã nắm được quy luật thì không quá khó để đối phó."
+    },
+    {
+      "para_id": "c0179p0011",
+      "index": 11,
+      "raw_zh": "而現在他面對的這東西，就從它弄死另外那支隊伍十幾個人的方式，就知道這東西有多殘忍狡詐。",
+      "translated_vi": "Thế nhưng thứ mà anh đang phải đối mặt lúc này, chỉ nhìn vào cái cách nó tiêu diệt gọn hơn mười người của đội ngũ kia là đủ hiểu mức độ tàn nhẫn và xảo quyệt khôn lường của nó."
+    },
+    {
+      "para_id": "c0179p0012",
+      "index": 12,
+      "raw_zh": "雲千峰很清楚，對方已經交了五條狐狸的命，那麽無論自己這些人逃到哪，它都會出現索命，讓規則實現公平。",
+      "translated_vi": "Vân Thiên Phong biết rất rõ, đối phương đã ném ra mạng của năm con hồ ly, vậy thì cho dù đám người mình có trốn chạy tới chân trời góc bể nào, nó cũng sẽ xuất hiện để đòi mạng cho bằng được nhằm duy trì sự công bằng tuyệt đối của quy tắc."
+    },
+    {
+      "para_id": "c0179p0013",
+      "index": 13,
+      "raw_zh": "折騰了這一出，時間已經到了接近下午三點鍾。",
+      "translated_vi": "Sau một hồi quần thảo náo loạn, thời gian đã trôi dần về gần ba giờ chiều."
+    },
+    {
+      "para_id": "c0179p0014",
+      "index": 14,
+      "raw_zh": "幾個人吃了一些之前他們準備在駱駝上的肉干，忍著惡心喝著之前泡了十幾具屍體的池水，補充了一下能量，便直接出發。",
+      "translated_vi": "Mấy người ăn tạm một ít thịt khô đã chuẩn bị sẵn trên lưng lạc đà từ trước, cắn răng nén cơn buồn nôn uống thứ nước hồ vừa ngâm hơn mười cái xác chết trôi kia để bổ sung thể lực rồi lập tức lên đường xuất phát."
+    },
+    {
+      "para_id": "c0179p0015",
+      "index": 15,
+      "raw_zh": "他們已經對這綠洲產生了心理陰影，一分鍾也不想在裡面多待。",
+      "translated_vi": "Bọn họ đã bị bóng ma tâm lý bao trùm đối với ốc đảo này, không muốn nán lại thêm dù chỉ một phút một giây nào nữa."
+    },
+    {
+      "para_id": "c0179p0016",
+      "index": 16,
+      "raw_zh": "羊皮水囊全都灌滿，掛在駱駝身上。",
+      "translated_vi": "Các túi nước bằng da cừu đều được múc đầy tràn, treo lủng lẳng trên lưng lạc đà."
+    },
+    {
+      "para_id": "c0179p0017",
+      "index": 17,
+      "raw_zh": "那軟木的沙爬犁也用繩索綁在駱駝身上，其他幾個人騎著駱駝，雲千峰就躺在沙爬犁上，呼呼大睡。",
+      "translated_vi": "Chiếc xe trượt cát bằng gỗ mềm cũng được dùng dây thừng buộc chặt sau lưng lạc đà. Mấy người kia đều cưỡi lạc đà, chỉ riêng Vân Thiên Phong là nằm ườn trên xe trượt cát, ngáy khò khò ngon lành."
+    },
+    {
+      "para_id": "c0179p0018",
+      "index": 18,
+      "raw_zh": "把阿菲法羨慕的幾次來找雲千峰換位置，都被雲千峰糊弄回去。",
+      "translated_vi": "Cảnh tượng này khiến Afifa thèm thuồng ghen tị đến mức mấy lần chạy tới đòi đổi chỗ với Vân Thiên Phong, nhưng lần nào cũng bị anh khéo léo lừa gạt đuổi về."
+    },
+    {
+      "para_id": "c0179p0019",
+      "index": 19,
+      "raw_zh": "阿菲法氣的騎在駱駝上嘟著嘴，嚷嚷著阿甘就愛撒謊，華夏男人一點都不大方！",
+      "translated_vi": "Afifa tức tối cưỡi trên lưng lạc đà dẩu môi hờn dỗi, miệng không ngừng làu bàu rằng anh Cam toàn thích nói dối, đàn ông Trung Hoa chẳng hào phóng chút nào!"
+    },
+    {
+      "para_id": "c0179p0020",
+      "index": 20,
+      "raw_zh": "法緹娜卻是知道雲千峰在想些什麽，於是在阿菲法準備再去騷擾雲千峰的時候，叫住了她，道：",
+      "translated_vi": "Fatina lại hiểu rất rõ Vân Thiên Phong đang suy tính điều gì, thế nên khi thấy Afifa định lăng xăng chạy lại quấy rầy anh lần nữa, cô liền lên tiếng gọi giật lại:"
+    },
+    {
+      "para_id": "c0179p0021",
+      "index": 21,
+      "raw_zh": "“別去打攪雲千峰，他睡在沙爬犁上，是為了咱們所有人。”",
+      "translated_vi": "“Đừng làm phiền Vân Thiên Phong, anh ấy nằm ngủ trên xe trượt cát là vì tất cả chúng ta đấy.”"
+    },
+    {
+      "para_id": "c0179p0022",
+      "index": 22,
+      "raw_zh": "阿菲法歪著頭，道：",
+      "translated_vi": "Afifa nghiêng đầu khó hiểu:"
+    },
+    {
+      "para_id": "c0179p0023",
+      "index": 23,
+      "raw_zh": "“為了我們所有人？明明是他自己舒服，我要睡十分鍾他都不肯。”",
+      "translated_vi": "“Vì tất cả chúng ta ư? Rõ ràng là bản thân anh ấy muốn hưởng thụ thoải mái, em xin nằm nhờ có mười phút mà anh ấy cũng chẳng chịu cho.”"
+    },
+    {
+      "para_id": "c0179p0024",
+      "index": 24,
+      "raw_zh": "法緹娜淡淡道：",
+      "translated_vi": "Fatina thản nhiên đáp:"
+    },
+    {
+      "para_id": "c0179p0025",
+      "index": 25,
+      "raw_zh": "“從今天開始，他不準備在夜裡睡覺了，你還不明白嗎？”",
+      "translated_vi": "“Kể từ hôm nay trở đi, anh ấy không định chợp mắt vào ban đêm nữa đâu, em vẫn còn chưa hiểu ra sao?”"
+    },
+    {
+      "para_id": "c0179p0026",
+      "index": 26,
+      "raw_zh": "阿菲法恍然大悟，非常愧疚的把自己珍藏的巧克力送到了沙爬犁上，就放在雲千峰枕頭旁邊。",
+      "translated_vi": "Afifa bừng tỉnh đại ngộ, trong lòng tràn ngập cảm giác áy náy bèn đem thanh sô cô la quý giá mà mình cất giữ bấy lâu nay mang tới đặt lên xe trượt cát, ngay sát bên cạnh gối của Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0179p0027",
+      "index": 27,
+      "raw_zh": "雲千峰為了對付這個超出自己認知的敵人，準備拿出十二分的精神。",
+      "translated_vi": "Để đối phó với kẻ địch vượt ra ngoài nhận thức thông thường này, Vân Thiên Phong buộc phải dồn trọn vẹn mười hai phần tinh lực."
+    },
+    {
+      "para_id": "c0179p0028",
+      "index": 28,
+      "raw_zh": "對於一個付了錢的買家，你不想給貨，最簡單的辦法就是黑吃黑，乾掉買家。",
+      "translated_vi": "Đối với một kẻ mua hàng đã thanh toán sòng phẳng mà mình lại không muốn giao hàng, biện pháp đơn giản nhất chính là hắc ăn hắc, thẳng tay khử luôn kẻ mua hàng."
+    },
+    {
+      "para_id": "c0179p0029",
+      "index": 29,
+      "raw_zh": "退款是不可能的，因為雲千峰沒有起死回生的本事。",
+      "translated_vi": "Còn chuyện hoàn tiền thì tuyệt đối bất khả thi, bởi lẽ Vân Thiên Phong đâu có bản lĩnh cải tử hoàn sinh."
+    },
+    {
+      "para_id": "c0179p0030",
+      "index": 30,
+      "raw_zh": "沙爬犁與沙漠之間摩擦的“莎莎”聲，是很助眠的白噪音。",
+      "translated_vi": "Tiếng ma sát sột soạt êm đềm giữa chiếc xe trượt và bãi cát là thứ tiếng ồn trắng vô cùng dễ ru ngủ."
+    },
+    {
+      "para_id": "c0179p0031",
+      "index": 31,
+      "raw_zh": "這讓雲千峰不得不時刻提醒自己不要睡太沉，避免有意外突發情況，自己無法及時做出反應。",
+      "translated_vi": "Điều này khiến Vân Thiên Phong phải không ngừng nhắc nhở bản thân tuyệt đối không được ngủ quá say, đề phòng tình huống bất trắc ập đến bất ngờ khiến bản thân không kịp trở tay ứng phó."
+    },
+    {
+      "para_id": "c0179p0032",
+      "index": 32,
+      "raw_zh": "就在這渾渾噩噩的狀態裡，也不知道過了多久，雲千峰突然醒來。",
+      "translated_vi": "Giữa trạng thái nửa tỉnh nửa mê mơ màng ấy, chẳng rõ đã trôi qua bao lâu, Vân Thiên Phong bỗng nhiên choàng tỉnh giấc."
+    },
+    {
+      "para_id": "c0179p0033",
+      "index": 33,
+      "raw_zh": "因為他感覺身下的沙爬犁似乎不動了。",
+      "translated_vi": "Bởi vì anh cảm nhận được chiếc xe trượt cát dưới thân mình dường như đã dừng lại hẳn."
+    },
+    {
+      "para_id": "c0179p0034",
+      "index": 34,
+      "raw_zh": "睜開眼睛，入目清冷漆黑，竟是已經入了夜。",
+      "translated_vi": "Mở mắt ra, đập vào mi mắt là một màn đêm thanh lãnh tối đen như mực, trời thế mà đã vào đêm tự lúc nào."
+    },
+    {
+      "para_id": "c0179p0035",
+      "index": 35,
+      "raw_zh": "月亮地不錯，能夠讓雲千峰看清楚周圍事物的輪廓。",
+      "translated_vi": "Ánh trăng vằng vặc rọi sáng khá tỏ, đủ để Vân Thiên Phong nhìn rõ đường nét của cảnh vật xung quanh."
+    },
+    {
+      "para_id": "c0179p0036",
+      "index": 36,
+      "raw_zh": "然後他揪心發現，隊伍裡其他人都消失不見。",
+      "translated_vi": "Và rồi anh bàng hoàng thắt ruột nhận ra, tất cả những người khác trong đoàn đều đã biến mất không còn một bóng dáng."
+    },
+    {
+      "para_id": "c0179p0037",
+      "index": 37,
+      "raw_zh": "沙漠的夜寂靜無聲，整個世界似乎只剩下孤寥寥的自己。",
+      "translated_vi": "Đêm sa mạc tĩnh mịch không một tiếng động, dường như cả thế giới này chỉ còn sót lại duy nhất một mình anh cô độc trơ trọi."
+    },
+    {
+      "para_id": "c0179p0038",
+      "index": 38,
+      "raw_zh": "而更讓他驚恐的是，在他眼前是一個綠洲，狹長的綠洲。",
+      "translated_vi": "Thế nhưng điều khiến anh kinh hãi tột độ hơn cả là ngay trước mắt anh lại chính là một ốc đảo, một ốc đảo mang dáng hình uốn lượn thon dài."
+    },
+    {
+      "para_id": "c0179p0039",
+      "index": 39,
+      "raw_zh": "“怎麽走回來了？”",
+      "translated_vi": "“Sao lại đi vòng về chỗ cũ thế này?”"
+    },
+    {
+      "para_id": "c0179p0040",
+      "index": 40,
+      "raw_zh": "雲千峰心裡思索著，卻沒有高聲呼喊。",
+      "translated_vi": "Vân Thiên Phong thầm suy tính trong lòng nhưng không hề cất tiếng gọi lớn."
+    },
+    {
+      "para_id": "c0179p0041",
+      "index": 41,
+      "raw_zh": "因為他確定，隊伍一定是遇到了情況，否則法緹娜他們不會無聲無息的離開。",
+      "translated_vi": "Bởi vì anh dám chắc đoàn người nhất định đã gặp phải biến cố bất ngờ, bằng không nhóm Fatina tuyệt đối sẽ không rời đi mà không để lại một tiếng động nào như vậy."
+    },
+    {
+      "para_id": "c0179p0042",
+      "index": 42,
+      "raw_zh": "對於隊伍走回到綠洲這裡，雲千峰驚訝之余卻也能理解，因為在沙漠裡沒有參照物，人類極可能在遭遇鬼打牆的現象，在半徑五公裡的范圍內走圈。",
+      "translated_vi": "Đối với việc cả đoàn lại đi lòng vòng quay trở về ốc đảo này, Vân Thiên Phong ngoài sự kinh ngạc ra thì cũng hoàn toàn có thể hiểu được. Bởi lẽ giữa sa mạc mênh mông không có vật chuẩn tham chiếu, con người rất dễ rơi vào hiện tượng ma đưa lối quỷ dẫn đường, cứ thế đi lòng vòng thành một vòng tròn bán kính chừng năm cây số."
+    },
+    {
+      "para_id": "c0179p0043",
+      "index": 43,
+      "raw_zh": "沙爬犁前方，有幾條腳印，在月影下好像一片片黑色的小樹葉，一路延伸入綠洲之內。",
+      "translated_vi": "Phía trước xe trượt cát in hằn mấy vệt dấu chân, dưới bóng trăng trông tựa như những chiếc lá con màu đen, kéo dài hun hút dẫn thẳng vào bên trong ốc đảo."
+    },
+    {
+      "para_id": "c0179p0044",
+      "index": 44,
+      "raw_zh": "“法緹娜他們去綠洲裡了！難道是被狐狸迷了嗎？”",
+      "translated_vi": "“Nhóm Fatina đã đi vào trong ốc đảo rồi! Lẽ nào bọn họ đã bị hồ ly mê hoặc tâm trí?”"
+    },
+    {
+      "para_id": "c0179p0045",
+      "index": 45,
+      "raw_zh": "他心下擔憂，下意識的在腰袢尋找武器，卻想起武器都掛在駱駝身上，然而駱駝身上的包裹應該被安德帶進了綠洲，上面並沒有留下武器。",
+      "translated_vi": "Trong lòng đầy vẻ lo âu, theo thói quen anh thò tay xuống bên hông tìm kiếm vũ khí, nhưng sực nhớ ra vũ khí đều được móc trên lưng lạc đà. Mà các bọc đồ trên lưng lạc đà hẳn là đã bị Ander mang vào trong ốc đảo, bên ngoài không hề sót lại món vũ khí nào."
+    },
+    {
+      "para_id": "c0179p0046",
+      "index": 46,
+      "raw_zh": "雲千峰攥了攥右手的拳頭，想起自己最強大的武器一直都在，這才略寬心，小心靜聲的朝著綠洲走去。",
+      "translated_vi": "Vân Thiên Phong siết chặt nắm đấm bàn tay phải, chợt nhớ ra món vũ khí mạnh nhất của mình vẫn luôn hiện hữu, lúc này trong lòng mới hơi an tâm đôi chút, anh cẩn trọng nhẹ bước tiến vào bên trong ốc đảo."
+    },
+    {
+      "para_id": "c0179p0047",
+      "index": 47,
+      "raw_zh": "月色下，一切都顯得那麽朦朧。",
+      "translated_vi": "Dưới ánh trăng mờ ảo, vạn vật trông thật mông lung huyền bí."
+    },
+    {
+      "para_id": "c0179p0048",
+      "index": 48,
+      "raw_zh": "而朦朧在有些時候浪漫，而有些時候則是恐懼。",
+      "translated_vi": "Mà sự mông lung ấy trong nhiều lúc là vẻ lãng mạn nên thơ, nhưng lắm khi lại chính là nỗi kinh hoàng tột độ."
+    },
+    {
+      "para_id": "c0179p0049",
+      "index": 49,
+      "raw_zh": "雲千峰現在屬於後者。",
+      "translated_vi": "Vân Thiên Phong lúc này đang thuộc về vế sau."
+    },
+    {
+      "para_id": "c0179p0050",
+      "index": 50,
+      "raw_zh": "“噌！”",
+      "translated_vi": "“Xoẹt!”"
+    },
+    {
+      "para_id": "c0179p0051",
+      "index": 51,
+      "raw_zh": "一聲輕響在旁邊的植被裡響起，雲千峰快速轉頭，卻只看到一個黑色的影子快速消失在自己的視線之外。",
+      "translated_vi": "Một tiếng động khẽ khàng bất chợt vang lên từ bụi cây bên cạnh. Vân Thiên Phong nhanh như cắt ngoảnh đầu nhìn lại, nhưng chỉ kịp bắt gặp một chiếc bóng đen thoăn thoắt biến mất khỏi tầm mắt của mình."
+    },
+    {
+      "para_id": "c0179p0052",
+      "index": 52,
+      "raw_zh": "雲千峰確定，那東西在月光下有著油亮發綠光的眼睛。",
+      "translated_vi": "Vân Thiên Phong dám khẳng định, thứ đó dưới ánh trăng sở hữu một đôi mắt xanh lè sáng quắc như dầu loang."
+    },
+    {
+      "para_id": "c0179p0053",
+      "index": 53,
+      "raw_zh": "“是那隻狐狸嗎？怎麽會這麽大個兒？趕上一匹沙漠狼了！”",
+      "translated_vi": "“Là con hồ ly kia sao? Sao thể hình của nó lại to lớn đến thế được? Ngang ngửa cả một con sói sa mạc rồi!”"
+    },
+    {
+      "para_id": "c0179p0054",
+      "index": 54,
+      "raw_zh": "心下愈加擔憂法緹娜那些人的安全，尤其是約翰，因為只有約翰才知道神跡在何處。",
+      "translated_vi": "Trong lòng anh càng thêm lo lắng cho sự an nguy của nhóm Fatina, đặc biệt là John, bởi vì chỉ có một mình John mới biết rõ vị trí thần tích rốt cuộc nằm ở nơi nào."
+    },
+    {
+      "para_id": "c0179p0055",
+      "index": 55,
+      "raw_zh": "“應該早點讓約翰畫一張草圖出來的，希望他沒事！”",
+      "translated_vi": "“Đáng lý ra mình phải bảo John vẽ một bản thảo sơ đồ từ sớm mới phải, hy vọng anh ta không xảy ra chuyện gì!”"
+    },
+    {
+      "para_id": "c0179p0056",
+      "index": 56,
+      "raw_zh": "雲千峰想著，心下懊悔之余，加快了腳步的速度。",
+      "translated_vi": "Vân Thiên Phong vừa nghĩ vừa không khỏi tự trách mình, đôi chân rảo bước nhanh hơn."
+    },
+    {
+      "para_id": "c0179p0057",
+      "index": 57,
+      "raw_zh": "既然已經被那疑似狐狸的家夥發現了，那麽還小心翼翼的意義不大。",
+      "translated_vi": "Dù sao cũng đã bị cái thứ nghi là hồ ly kia phát hiện ra rồi, thế nên việc rón rén cẩn trọng lúc này cũng chẳng còn mấy ý nghĩa nữa."
+    },
+    {
+      "para_id": "c0179p0058",
+      "index": 58,
+      "raw_zh": "沿著植被間的獸徑，走不多遠就來到了那狹長的池水旁邊。",
+      "translated_vi": "Lần theo lối mòn của dã thú xuyên qua các lùm cây, đi không bao xa anh đã tới bên bờ hồ nước hẹp dài kia."
+    },
+    {
+      "para_id": "c0179p0059",
+      "index": 59,
+      "raw_zh": "當他看到灑滿月光的池水之時，整個人如被電擊，後背一陣發麻。",
+      "translated_vi": "Khoảnh khắc nhìn thấy mặt hồ đẫm ánh trăng vằng vặc, toàn thân anh như bị điện giật, sống lưng lạnh toát từng cơn tê dại."
+    },
+    {
+      "para_id": "c0179p0060",
+      "index": 60,
+      "raw_zh": "水面上趴浮著四個人，隨著風吹水面，輕微的搖晃著。",
+      "translated_vi": "Trên mặt nước đang nổi lềnh bềnh bốn cái xác người nằm sấp, dập dềnh lay nhẹ theo từng cơn gió thổi qua mặt hồ."
+    },
+    {
+      "para_id": "c0179p0061",
+      "index": 61,
+      "raw_zh": "每個人的後背上都躺著一隻胳膊長短的狐狸屍體。",
+      "translated_vi": "Trên lưng của mỗi một người đều có một cái xác hồ ly dài chừng một cánh tay đang nằm đè lên."
+    },
+    {
+      "para_id": "c0179p0062",
+      "index": 62,
+      "raw_zh": "看他們的衣服，和濕透衣服呈現出來的曲線，雲千峰確定，他們正是法緹娜等四人。",
+      "translated_vi": "Nhìn trang phục và những đường cong cơ thể lộ ra qua lớp vải sũng nước, Vân Thiên Phong dám chắc đó chính là bốn người nhóm Fatina."
+    },
+    {
+      "para_id": "c0179p0063",
+      "index": 63,
+      "raw_zh": "而就在他眼前，一塊石頭上，躺著一隻全身濕淋淋的狐狸屍體。",
+      "translated_vi": "Mà ngay trước mắt anh, trên một tảng đá ven bờ, cũng đang đặt một cái xác hồ ly ướt sũng nước."
+    },
+    {
+      "para_id": "c0179p0064",
+      "index": 64,
+      "raw_zh": "那原本紅灰色的皮毛，因為沾水而顏色發深，看起來就像是摻了豆腐渣的血葫蘆。",
+      "translated_vi": "Bộ lông màu xám đỏ vốn có của nó do ngấm nước nên sẫm màu hẳn lại, trông hệt như một quả hồ lô máu nhớp nháp lẫn bã đậu."
+    },
+    {
+      "para_id": "c0179p0065",
+      "index": 65,
+      "raw_zh": "雲千峰知道，這是狐狸精來討債了。",
+      "translated_vi": "Vân Thiên Phong biết rõ, đây chính là hồ ly tinh tới để đòi món nợ sinh mạng."
+    },
+    {
+      "para_id": "c0179p0066",
+      "index": 66,
+      "raw_zh": "當下心中發狠，一腳把眼前的狐狸屍體踢到了水池裡。",
+      "translated_vi": "Cơn giận dữ bốc lên ngùn ngụt trong lồng ngực, anh vung chân đá văng cái xác hồ ly trước mặt rơi tõm xuống đáy hồ."
+    },
+    {
+      "para_id": "c0179p0067",
+      "index": 67,
+      "raw_zh": "就在起腳半邊空的時候，他聽到身後傳來風聲，當下隻來得及回頭，就看到一隻身軀大得堪比土狼的尖嘴狐狸，正以難以想象的速度撲向自己。",
+      "translated_vi": "Ngay khoảnh khắc một chân vung lên giữa không trung chưa kịp hạ xuống, anh bỗng nghe thấy tiếng gió rít xé toạc màn đêm từ phía sau lưng. Lúc này chỉ kịp quay đầu lại thì đã nhìn thấy một con cáo mõm nhọn hoắt với thân hình khổng lồ ngang ngửa một con linh cẩu, đang lao vút về phía mình với tốc độ không tưởng."
+    },
+    {
+      "para_id": "c0179p0068",
+      "index": 68,
+      "raw_zh": "那全身雪白的皮毛在月光下似乎散發著光暈，真似乎有些仙氣。",
+      "translated_vi": "Toàn thân phủ một lớp lông trắng muốt như tuyết, dưới ánh trăng dường như còn tỏa ra những vầng sáng mờ ảo, thoạt nhìn thực sự mang đôi phần tiên khí."
+    },
+    {
+      "para_id": "c0179p0069",
+      "index": 69,
+      "raw_zh": "它的速度太快了，雲千峰的右臂隻來得及抬起了一半，就被那狐狸撲到了後背上。",
+      "translated_vi": "Tốc độ của nó quá đỗi kinh hoàng, cánh tay phải của Vân Thiên Phong mới kịp vung lên được một nửa thì con hồ ly đã chồm thẳng lên lưng anh."
+    },
+    {
+      "para_id": "c0179p0070",
+      "index": 70,
+      "raw_zh": "正在踢腿，來不及回腿的他，身形不穩，直接被這股大力撞得“噗通”栽入池水之中。",
+      "translated_vi": "Đang lúc tung chân đá chưa kịp thu về, trọng tâm không vững, anh lập tức bị luồng sức mạnh khủng khiếp này húc văng, ngã nhào “tùm” một tiếng cắm đầu xuống dải hồ nước."
+    },
+    {
+      "para_id": "c0179p0071",
+      "index": 71,
+      "raw_zh": "夜裡冰冷得池水瞬間濕透了他的長袍。",
+      "translated_vi": "Làn nước lạnh ngắt buốt giá trong đêm lập tức thấm ướt sũng chiếc áo choàng dài của anh."
+    },
+    {
+      "para_id": "c0179p0072",
+      "index": 72,
+      "raw_zh": "浸水的長袍裹貼著雙腿，讓他想要擺動雙腿遊上岸都無法做到。",
+      "translated_vi": "Tấm áo ngấm đẫm nước nặng trịch bám chặt lấy hai chân, khiến anh dẫu muốn quẫy đạp chân để bơi lên bờ cũng lực bất tòng tâm."
+    },
+    {
+      "para_id": "c0179p0073",
+      "index": 73,
+      "raw_zh": "而身上那隻體型巨大的狐狸，膏藥似的纏在雲千峰身上，把他往水裡扯，大有同歸於盡的意思。",
+      "translated_vi": "Mà con hồ ly khổng lồ kia thì bám chặt như keo dán trên người Vân Thiên Phong, điên cuồng lôi kéo anh chìm sâu xuống đáy nước, lộ rõ dã tâm muốn kéo anh đồng quy vu tận."
+    },
+    {
+      "para_id": "c0179p0074",
+      "index": 74,
+      "raw_zh": "雲千峰急忙在心裡暗示自己冷靜，若是被這妖物帶動了節奏，那麽自己必死無疑。",
+      "translated_vi": "Vân Thiên Phong vội vàng tự thôi miên bản thân trong lòng phải giữ thật bình tĩnh, nếu như bị con yêu vật này dẫn dắt nhịp độ thì bản thân ắt phải bỏ mạng không nghi ngờ gì nữa."
+    },
+    {
+      "para_id": "c0179p0075",
+      "index": 75,
+      "raw_zh": "於是抽空把半邊腦袋伸出水外，使勁的吸了一口氣，然後順著那狐狸的勁，徑直潛入水底。",
+      "translated_vi": "Thế là anh tranh thủ nhô nửa cái đầu lên khỏi mặt nước, hớp một hơi không khí thật sâu, sau đó thuận theo đà lôi kéo của con hồ ly, lao thẳng một mạch xuống tận đáy hồ."
+    },
+    {
+      "para_id": "c0179p0076",
+      "index": 76,
+      "raw_zh": "到了水底之後，雲千峰仗著右臂的巨大力量，一把扯過纏在自己脖子上的狐狸，往水底一按，用腳踩住，揮起拳頭，照著它的腦袋狠狠砸了下去。",
+      "translated_vi": "Vừa chạm đáy, Vân Thiên Phong cậy vào sức mạnh vô địch nơi cánh tay phải, một tay túm phắt lấy con hồ ly đang quấn chặt quanh cổ mình dằn mạnh xuống đáy nước, lấy chân giẫm chặt rồi vung nắm đấm sắt giáng thẳng xuống đầu nó một đòn sấm sét."
+    },
+    {
+      "para_id": "c0179p0077",
+      "index": 77,
+      "raw_zh": "一拳、兩拳、三拳.",
+      "translated_vi": "Một đấm, hai đấm, ba đấm..."
+    },
+    {
+      "para_id": "c0179p0078",
+      "index": 78,
+      "raw_zh": "眼看著那狐狸腦袋被雲千峰的拳頭砸稀爛，血液與腦漿成團的擴散在水中，越來越大，就像是風吹過大號的蒲公英絨球。",
+      "translated_vi": "Tận mắt nhìn thấy đầu con hồ ly bị nắm đấm thép của Vân Thiên Phong nện nát bấy, máu tươi hòa cùng óc trắng bắn tung tóe cuộn thành từng luồng lan tỏa trong nước, càng lúc càng lớn, tựa như những túm hoa bồ công anh khổng lồ bị gió cuốn tung bay."
+    },
+    {
+      "para_id": "c0179p0079",
+      "index": 79,
+      "raw_zh": "那擴散的紅色在雲千峰眼前蔓延，越來越薄，越來越淡，最後竟變成了晃眼的沙土。",
+      "translated_vi": "Sắc đỏ lan tỏa loang lổ trước mắt Vân Thiên Phong, càng lúc càng mỏng, càng lúc càng nhạt dần, cuối cùng lại biến thành những hạt cát vàng chói chang lóa mắt."
+    },
+    {
+      "para_id": "c0179p0080",
+      "index": 80,
+      "raw_zh": "而他身旁，傳來了關心和擔憂的聲音。",
+      "translated_vi": "Và ngay bên cạnh anh, bất chợt vang lên những tiếng hỏi han đầy vẻ ân cần lo lắng."
+    },
+    {
+      "para_id": "c0179p0081",
+      "index": 81,
+      "raw_zh": "“雲千峰，你怎麽了？”",
+      "translated_vi": "“Vân Thiên Phong, anh bị làm sao thế?”"
+    },
+    {
+      "para_id": "c0179p0082",
+      "index": 82,
+      "raw_zh": "雲千峰睜著因為拚命而眼內通紅的眸子，順著聲音看過去。",
+      "translated_vi": "Vân Thiên Phong mở to đôi mắt đỏ ngầu vằn tia máu vì vừa trải qua trận chiến liều mạng, đưa mắt nhìn theo hướng tiếng nói phát ra."
+    },
+    {
+      "para_id": "c0179p0083",
+      "index": 83,
+      "raw_zh": "就見阿菲法俏生生的站在自己身邊，用水靈的碧色大眼睛擔憂的看著自己。",
+      "translated_vi": "Chỉ thấy Afifa đang đứng sừng sững bên cạnh anh, đôi mắt to tròn màu xanh ngọc bích long lanh nước đang nhìn anh bằng ánh mắt đầy vẻ quan tâm âu lo."
+    },
+    {
+      "para_id": "c0179p0084",
+      "index": 84,
+      "raw_zh": "而自己，拳頭上滿是血漿，身下沙土上，躺著一隻頭顱碎扁，大概手臂長的狐狸屍體。",
+      "translated_vi": "Còn bản thân anh, trên nắm đấm bê bết máu tươi nhầy nhụa, dưới nền cát nơi thân mình anh đang ngồi, có một cái xác hồ ly dài chừng một cánh tay với chiếc đầu dập nát be bét đang nằm sõng soài."
+    },
+    {
+      "para_id": "c0179p0085",
+      "index": 85,
+      "raw_zh": "那狐狸的毛濕漉漉的，就好像剛在水中撈出來",
+      "translated_vi": "Bộ lông của con hồ ly ấy ướt sũng, trông hệt như vừa mới được vớt lên từ dưới nước..."
+    },
+    {
+      "para_id": "c0179p0086",
+      "index": 86,
+      "raw_zh": "外面風雨雷交加，如此天然的白噪音，最適合睡覺，所以今天早睡！！！",
+      "translated_vi": "Bên ngoài gió mưa sấm chớp đan xen, tiếng ồn trắng tự nhiên thế này thích hợp nhất để ngủ, cho nên hôm nay tôi đi ngủ sớm nhé!!!"
+    },
+    {
+      "para_id": "c0179p0087",
+      "index": 87,
+      "raw_zh": "祝大家晚安，好夢連連！！！",
+      "translated_vi": "Chúc mọi người ngủ ngon, mơ nhiều giấc mơ đẹp!!!"
+    },
+    {
+      "para_id": "c0179p0088",
+      "index": 88,
+      "raw_zh": "還有，我最近一直在反思短這個事情，我有一個預感，我好像快變長了！！！",
+      "translated_vi": "Còn nữa, dạo gần đây tôi cứ suy ngẫm mãi về chuyện chương ngắn, tôi có một linh cảm là mình sắp viết dài ra rồi đấy!!!"
+    }
+  ]
+}

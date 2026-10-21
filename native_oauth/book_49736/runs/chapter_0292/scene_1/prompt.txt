@@ -1,0 +1,91 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0292|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §52):
+§1 292.第292章 逼著九屠犯錯
+§2 第292章 逼著九屠犯錯
+§3 事情是這樣的。
+§4 [Ø=云千峰]雲千峰正在觀察山形水勢，發現天色有些晚了， [||] 便決定打道回府，趁天亮前回避身所，明日再繼續。
+§5 [Ø=云千峰]回到未庫駐地後，他習慣性的直接去泉水裡拿出一罐冷泉鎮涼的可樂。
+§6 [Ø=云千峰]拽掉拉環，猛灌一口後，全吐了。
+§7 [Ø=云千峰]罐子裡根本不是可樂，而就是泉水。
+§8 [Ø=云千峰]這讓雲千峰非常詫異，因為罐子完好，自己才剛剛拽下拉環，裡面的飲料怎麽變成了泉水？
+§9 “難道全知之眼複製物品時出現了bug？
+§10 [Ø=云千峰]不對！若是那樣，昨天的飲料味道為何沒有問題？定然有鬼！”
+§11 [Ø=云千峰]想到這，他第一時間看向旁邊烤牛編的楊玉奴。
+§12 [Ø=云千峰]這女人一臉認真，極小心的掌控著火候，似乎生怕將牛編烤焦。
+§13 [Ø=云千峰]“不對，不能是她，罐子是完好的， [||] 也沒漏，應該就是bug了。而且人一般都會做賊心虛，楊玉奴臉上絕無這種神情。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§14 [Ø=云千峰]想著，雲千峰把易拉罐扔掉，決定明天再去海裡逛逛，再找一些羅琳娜送來的物資。
+§15 [Ø=云千峰]這一起身，恰好看到水邊岩石上有一些牛骨的碎渣，貌似還是煮過的。
+§16 “煮牛骨幹什麽？而且還是敲碎了煮。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 於是轉身問楊玉奴道：
+§18 [Ø=云千峰]“大丫鬟，你弄牛骨頭幹嘛？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 [Ø=云千峰]楊玉環翻動了一下牛編，回道：
+§20 [Ø=云千峰]“把裡面的骨髓敲出來，骨髓美容養顏的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 [Ø=云千峰]雲千峰點了點頭，心討女人愛美，把骨髓弄出來吃掉就很合理。
+§22 [Ø=云千峰]然而，當他坐下準備吃烤好的牛鞭時，腦子裡靈光一閃，心中暗討：
+§23 [Ø=云千峰]“這不對啊！敲骨髓哪裡需要敲那麽碎，最多裂開就夠了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 [Ø=云千峰]想著，他轉身到了岸邊的大青石上，用手抹了一把，就見手指肚上沾了很多粉末。
+§25 [Ø=云千峰]他用手攆了攆，那粉末非常細膩，色澤白色略黃。
+§26 [Ø=云千峰]然後跑到不遠處，把扔掉的易拉罐撿起來，在撕掉的拉環邊緣摸了一下， [||] 再看手指肚上，也有類似的粉末，只不過顏色更深一些。
+§27 [Ø=云千峰]看到這，雲千峰心中已經有了這件事的輪廓。
+§28 [Ø=云千峰]當下去泉水裡再次拿出一個沒開罐的可樂，溜達到楊玉奴身前，臉上帶著陰刺刺的笑。
+§29 [Ø=云千峰]楊玉奴的表情略有一些不自然，咽了口唾沫問道：
+§30 “郎君為何這樣看妾身？看得太真心裡慌。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=云千峰]雲千峰“哼哼”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]笑了兩聲，問道：
+§32 [Ø=云千峰]“大丫鬟，是不是你把我罐子裡的水換了？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 [Ø=云千峰]楊玉奴面露驚訝，還有委屈：
+§34 [Ø=云千峰]“郎君何出此言？郎君當妾身是什麽？賊嗎？若是如此，妾身活不得了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 [Ø=云千峰]說著，已經是眼淚汪汪。
+§36 [Ø=云千峰]雲千峰點了根煙，使勁吸了一口，淡淡道：
+§37 [Ø=云千峰]“說吧，你是怎麽做到的？從實招來，輕罰！若是嘴硬，明日裡把伱送回礁石上自生自滅。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 [Ø=云千峰]楊玉奴一抹眼淚，吧唧往地上一跪，語速很快很清晰，表情認真嚴肅：
+§39 [Ø=云千峰]“太真嗜甜成癮，禁不住甜食誘惑，一時鬼迷心竅，膽大包天，把郎君的鐵罐開小口， [||] 把裡面的水喝了，然後怕郎君責罰，就灌上了泉水，又熬了骨膠小心黏好，以石塊壓平實，郎君輕罰要說話算話！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 雲千峰罵道：
+§41 [Ø=云千峰]“為了吃，你能毀天滅地啊！竟然為了口喝的，費勁的熬了骨膠， [||] 我真服了你！誰說的X大無腦啊？在你這就不成立，說吧，給我留了幾罐沒喝的？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§42 楊玉奴低著頭不出聲。
+§43 [Ø=云千峰]雲千峰一拍大腿，知道這是一點沒留，給包圓了，當下罵道：
+§44 [Ø=云千峰]“一罐220毫升，你特麽喝了十罐，你不怕糖尿病啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§45 [Ø=云千峰]楊玉奴低著頭，嘟囔道：
+§46 [Ø=云千峰]“太真就是禁不住甜食誘惑嘛，郎君說好輕罰，說話算話就好，太真領罰就是。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§47 [Ø=云千峰]雲千峰勾了勾手指，道：
+§48 [Ø=云千峰]“來，你過來。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§49 [Ø=云千峰]楊玉奴靠著兩腿，往前蹭了蹭，低眉順眼，還挺委屈。
+§50 [Ø=云千峰]雲千峰把她拽過來，橫在膝蓋上，掄起巴掌“啪啪啪”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]抽了幾下。
+§51 Q彈。
+§52 [Ø=云千峰]“嗚嗚嗚，郎君說好輕罰，怎得打上了板子？說話不算話.郎君好生小氣， [||] 當年太真喜歡甜食，大家都叫人幾百裡加急，在嶺南送荔枝過來.郎君對妾身好殘忍”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 52 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§52. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

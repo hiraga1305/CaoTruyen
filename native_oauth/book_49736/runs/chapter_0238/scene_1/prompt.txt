@@ -1,0 +1,82 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0238|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §43):
+§1 238.第238章 合一
+§2 第238章 合一
+§3 [Ø=云千峰]說到這，白狐突然愣住了。
+§4 [Ø=云千峰]她用不解的目光看著濕瑪瑪肆科，低沉著聲音問道：
+§5 [Ø=云千峰]“你不應該不知道為什麽守望者對人身蛇尾的人類尊重，更不會不知道守望者不是造物主， [||] 哪怕一個環節他們都沒有參與過，你對我隱瞞了什麽？濕瑪，說！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§6 [Ø=云千峰]白狐的脾氣看起來很暴躁，而且似乎在遙遠的曾經，她的級別應該就比濕瑪要高。
+§7 [Ø=云千峰]濕瑪瑪肆科看著白狐，沉默片刻，才說道：
+§8 [Ø=云千峰]“普羅，你不要生氣，我是為了大家好，你聽我說完就會明白。
+§9 [Ø=云千峰]你說的沒錯，我知道守望者並不是人類某個階段的造物主，也知道守望者尊重人身蛇尾人類的原因， [||] 是因為那是造物主的形象，無數人類誕生的傳說都證明過這一點，神按照自己的模樣創造了第一代人類。
+§10 [Ø=云千峰]我引導你，希望你認為守望者是人類造物主的一環， [||] 是希望你能有所恐懼，對守望者有所敬畏，你會明白我的用心良苦。”
+§11 [Ø=云千峰]白狐冷笑一聲，道：
+§12 [Ø=云千峰]“濕瑪，你覺得我的智慧會不及你？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 [Ø=云千峰]濕瑪搖頭，道：
+§14 [Ø=云千峰]“不，我從不敢如此想象，但我知道你太過重視感情和契約。
+§15 [Ø=云千峰]聽我把話說完吧，好嗎？”
+§16 [Ø=云千峰]白狐沒有言語，盯著濕瑪，那是審視對方內心的目光。
+§17 [Ø=云千峰]濕瑪深吸了一口氣，道：
+§18 [Ø=云千峰]“自最後一個返祖人首蛇身的人類被守望者帶走，人類完全進入了只有現代人類主導的世界。
+§19 [Ø=云千峰]守望者並沒有離開，祂們居住在距離地球很近的，懸浮的巨型飛船上， [||] 沒錯就是月亮，那是守望者的座駕，祂們稱之為南山。
+§20 [Ø=云千峰]祂們在月亮上居住，偶爾會下凡， [||] 德高望重的人類，也偶爾會被邀請登上月球，那是人類和守望者的蜜月期。
+§21 [Ø=云千峰]但是很快，守望者被人類的女人吸引了，守望者全部都是男性， [||] 而且外貌極美，人類的女人哪能抵得住那樣的追求，那幾乎是最完美的夫婿。
+§22 [Ø=云千峰]於是，守望者和人類女子的孩子很快便出現了。
+§23 [Ø=云千峰]美麗的女人和美麗的守望者，生出的孩子，卻是那般的醜陋。
+§24 [Ø=云千峰]祂們全身布滿了暗綠色的鱗甲，形如蜥蜴， [||] 身體高大強壯，而且嗜血成性，喜歡生食血肉。
+§25 [Ø=云千峰]守望者的基因和人類原本存在於海洋的基因之間發生了融合和變異，那些東西，那些守望者的孩子，都是兩棲動物的器官。
+§26 而且祂們百分百繼承了父親害怕陽光的特性。
+§27 [Ø=云千峰]那些守望者的孩子只能生活在地下的洞穴裡，晚上才敢走出地面，守望者很愛那些孩子， [||] 祂們覺得這樣的世界，對祂們的孩子來說，太過不公平。
+§28 [Ø=云千峰]於是，祂們將飛行器更加靠近地球，降下了天梯，讓月球能夠穩定的與地球保持靜止， [||] 同時與地球之間形成一個很奇妙的引力場，在這個引力場中間的一個位置，水可以懸浮在那裡，形成一片漂浮在空中的汪洋。
+§29 [Ø=云千峰]彌漫在月球和地球間的水，過濾了陽光對那些蜥蜴般怪物的傷害，讓祂們可以時時刻刻的出現在這個陰影的地面上。
+§30 [Ø=云千峰]當時，月球就懸浮在S川盆地的上方，那片懸浮的海散射著夢幻般的光芒， [||] 而那麽一大片的土地上，當時隻生活了兩個守望者的孩子，一個男孩一個女孩。
+§31 [Ø=云千峰]那裡極美，有著豐富的礦藏， [||] 紅色的土，四條河流盤繞，河流裡閃動著七色的寶石光芒。
+§32 [Ø=云千峰]守望者稱那裡為伊甸，而人類則因為看到大海漂浮在頭頂，浮現了基因裡的記憶，他們稱呼那裡為香格裡拉。
+§33 [Ø=云千峰]一開始一切還好，漫山的動物，讓那兩個孩子可以無憂無慮的生活，但是隨著守望者的孩子越來越多， [||] 食物不夠了，就連周圍的人類都開始跟著沒有了肉吃，而那些守望者的孩子隻吃血食，不吃植物。
+§34 [Ø=云千峰]於是守望者的孩子開始襲擊人類，作為祂們的食物， [||] 人類不得已開始向北遷徙，定居在金河沿岸，躲開了那片頭頂有海的地域。
+§35 [Ø=云千峰]然而那些守望者的孩子並不罷休，祂們在夜間憑借自己的速度繼續襲擊著人類，直到帝嚳降生。
+§36 [Ø=云千峰]帝嚳十幾歲，已經展現出驚人的智慧， [||] 他不忍同族受到這般恥辱，守望者又以不乾預地面事為由，放任自己的孩子襲擊人類。
+§37 於是帝嚳向其叔父顓頊帝獻出了暗度陳倉的計策。
+§38 [Ø=云千峰]他讓顓頊帝以放逐的形式把他攆出部落，然後遊走天地間，找到了蚩尤的後裔水神共工。
+§39 [Ø=云千峰]以完整蚩尤和姮娥聯姻為條件，並獻上蚩尤之頭，取得共工信任，答應與之合作。
+§40 [Ø=云千峰]於是一場大戲開眼了，人族與巫族再次開戰，戰場就在伊甸旁邊， [||] 守望者的孩子開心壞了，每天就在戰場旁徘徊，那裡每天都有無數的血食，別人殺好的血食。
+§41 [Ø=云千峰]顓頊在共工的“亂指揮”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]下連連大勝，而且對守望者異常尊敬的顓頊，更是在伊甸邊緣修建了地下隧道， [||] 聯通了一個一片原本就存在的地下世界，說是為了方便守望者的子孫能有更多的棲身范圍，畢竟孩子越來越多。
+§42 [Ø=云千峰]守望者非常高興顓頊的溜須，並在地下世界竣工的那一天， [||] 集體下來剪彩，守望者完全不知道，什麽叫笑裡藏刀。
+§43 [Ø=云千峰]也就在那一天，共工與顓頊手下最強的大將祝融展開了決戰，在伊甸之旁，一直打到了伊甸之中。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 43 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§43. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

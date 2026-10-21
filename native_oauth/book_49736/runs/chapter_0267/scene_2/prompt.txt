@@ -1,0 +1,90 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0267|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Trác Mã chắc chắn vẫn còn sống, bởi vẫn còn có thể nhìn thấy lồng ngực nàng phập phồng thở.
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §51):
+§1 [Ø=云千峰]雲千峰走了兩步，發現左腿的無力感依舊存在，很顯然古城內那力場對他的傷害是不可逆的。
+§2 這讓他非常擔心卓瑪的安危。
+§3 [Ø=云千峰]自己還有蚩尤甲保護大部分身體，而卓瑪是完全不設防的，那力場對她的傷害有多嚴重，可想而知。
+§4 [Ø=云千峰]雲千峰起身的動靜喚醒了白狐，或許是因為離開古城夠果斷，白狐並沒有被古城內力場傷害的症狀。
+§5 “幸好你沒事！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§6 [Ø=云千峰]聽到雲千風的話，白狐苦笑道：
+§7 [Ø=云千峰]“只是以後再也變不成狐狸了，那部分的基因被抹殺了，我以後只能是這狐妖的模樣了吧！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 雲千峰安慰她道：
+§9 [Ø=云千峰]“沒事，以後穿中世界歐洲的宮廷裙子，遮得住！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§10 [Ø=云千峰]安慰效果不錯，白狐並不是太過在意外表。
+§11 [Ø=云千峰]雲千峰來到旁邊的石頭上，拿起自己的衣褲摸了摸，已經幹了，[Ø_SHIFT=姜柔甲]就急忙穿好。
+§12 “謝謝你。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 [Ø=姜柔甲]白狐微微一笑，沒說話，似乎很享受這一聲感謝。
+§14 [Ø=姜柔甲]雲千峰是知道自己的衣褲有多髒，不僅僅是巨蛇的毒液，還有自己的排泄。
+§15 “怎麽把卓瑪的衣服也脫了？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§16 [Ø=姜柔甲]卓瑪此時身上就蓋著那個長的藏袍，其它什麽都沒有。
+§17 白狐解釋道：
+§18 [Ø=姜柔甲]“卓瑪的身體在異化，那磁場給她的身體帶來了不可逆的變化，她的褲子是被雙腿生長出來的肉芽破壞掉的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 [Ø=姜柔甲]雲千峰一愣，猜測道：
+§20 “卓瑪的雙腿在向著一處生長？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 [Ø=姜柔甲]白狐點了點頭，道：
+§22 [Ø=姜柔甲]“嗯，已經粘連在一起，相信不需要多久，她的雙腿就會變成順滑的魚尾。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 [Ø=姜柔甲]雲千峰點了點頭，問道：
+§24 “卓瑪的生機如何？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 白狐回道：
+§26 [Ø=姜柔甲]“不會死，機體功能都正常， [||] 不過她現在一定非常痛苦，但卻無法動彈，甚至無法表達。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 [Ø=姜柔甲]雲千峰之前剛身臨其境，深知這種痛苦，於是來到卓瑪身邊，柔聲道：
+§28 [Ø=姜柔甲]“忍住，一切都會好起來的，我和白狐會護住你，你靜下心來。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 [Ø=姜柔甲]白狐選了一個好的休息之處，這旁邊有一眼泉水，清澈甘甜。
+§30 [Ø=姜柔甲]她把雲千峰的打底衫用泉水浸濕，緩緩擦拭卓瑪身上排出的肮髒，一邊輕聲道：
+§31 “看來瑪肆科對人類三次改變的猜測並不完全準確。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§32 [Ø=姜柔甲]雲千峰點頭，道：
+§33 [Ø=姜柔甲]“可以說是錯了最主要的部分，第一代人類的滅絕， [||] 應該是古城力場造成的，也就是說，人類無法走到完美那一步。
+§34 [Ø=姜柔甲]於是造物主才把人類攆出古城，也就是伊甸園，讓人類生活在伊甸園的周圍， [||] 借助這種相較於古城內較弱的力場慢慢完善基因，雖然不至於完美，但總會越來越好。
+§35 [Ø=姜柔甲]至於造物主為什麽後來又把人類趕到了地面上，這就無從猜測了。
+§36 [Ø=姜柔甲]不過，從這裡的推測來看，造物主對人類只有最單純的善意， [||] 哪怕這是個實驗，但依舊是善意的，不存在造物主滅絕人類的可能。”
+§37 [Ø=姜柔甲]雲千峰所謂的瑪肆科猜錯的最主要的部分就在這裡，那就是造物主對人類的善與惡。
+§38 [Ø=姜柔甲]瑪肆科認為是“惡”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]，但是根據古城對人類基因的影響來看，前兩次造物主的選擇都是最大的善意。
+§39 [Ø=姜柔甲]白狐竟然會鑽木取火，有打火機都不用的那種嘚瑟。
+§40 [Ø=姜柔甲]她燃起了篝火，用雲千峰背包裡的戶外鍋煮起了食物。
+§41 同時還問道：
+§42 [Ø=姜柔甲]“接下來該怎麽辦？這個空間極大，我們要怎麽才能找到西王母？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 [Ø=姜柔甲]雲千峰看起來一點也不彷徨，而是自信的看著卓瑪，指著卓瑪眉心那蠕動的傷口說道：
+§44 [Ø=姜柔甲]“卓瑪是西王母給我的信使，卓瑪此次的改變，本就在算計之中，應該是帝嚳的算計。
+§45 [Ø=姜柔甲]我相信，等卓瑪完成蛻變，再次醒來後，我們就知道該去哪裡尋找西王母了。
+§46 [Ø=姜柔甲]帝嚳，比我急！”
+§47 [Ø=姜柔甲]感謝書友尾數19146的打賞，謝謝你的支持！！！
+§48 [Ø=姜柔甲]感謝書友尾數33696、莊叔是我男神、俗人千面、帝丶king、曾經年少愛追風、森林傘、尾數40928的月票獎勵，謝謝你們的支持！！！
+§49 [Ø=姜柔甲]小目標達到，恢復正常兩章更新！！！
+§50 謝謝你們的體諒！！！
+§51 [Ø=姜柔甲]祝大家好夢，晚安！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 51 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§51. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

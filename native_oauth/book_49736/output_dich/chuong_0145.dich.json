@@ -1,0 +1,469 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 145,
+  "title": "Chương 145: Suy Diễn Chiều Cao Hơn",
+  "total_paragraphs": 76,
+  "translated_paragraphs": 76,
+  "source_hash": "441d9b462abb95cc0c367e42e1d9338d7505f9cd0f8a5a900d40f5d7cf26eb79",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0145p0001",
+      "index": 1,
+      "raw_zh": "第145章 推演高緯",
+      "translated_vi": "Chương 145: Suy Diễn Chiều Cao Hơn"
+    },
+    {
+      "para_id": "c0145p0002",
+      "index": 2,
+      "raw_zh": "那是一塊巨大的石頭，在那群原始人面前，就像是一座小山。",
+      "translated_vi": "Đó là một khối đá khổng lồ, sừng sững trước mặt đám người nguyên thủy như một ngọn núi nhỏ."
+    },
+    {
+      "para_id": "c0145p0003",
+      "index": 3,
+      "raw_zh": "整塊石頭形狀好似巨大的狗趴伏在大地上，但卻長著一個發如獅鬃的人腦袋。",
+      "translated_vi": "Toàn bộ khối đá mang hình dáng tựa như một con chó khổng lồ đang nằm phục xuống mặt đất, nhưng bên trên lại mọc ra một cái đầu người với mái tóc bờm xờm như bờm sư tử."
+    },
+    {
+      "para_id": "c0145p0004",
+      "index": 4,
+      "raw_zh": "更奇特的是，這個人腦袋上面沒有五官，有眼窩而無眼縫，有鼻梁為無鼻孔，有人中而無口唇，有雙耳而無耳孔。",
+      "translated_vi": "Điều kỳ lạ hơn cả là trên đầu người này tuyệt nhiên không có ngũ quan: có hốc mắt nhưng không có khe mắt, có sống mũi nhưng chẳng có lỗ mũi, có nhân trung nhưng không có bờ môi, có đôi tai nhưng không hề có lỗ tai."
+    },
+    {
+      "para_id": "c0145p0005",
+      "index": 5,
+      "raw_zh": "雲千峰驚訝，道：",
+      "translated_vi": "Vân Thiên Phong kinh ngạc thốt lên:"
+    },
+    {
+      "para_id": "c0145p0006",
+      "index": 6,
+      "raw_zh": "“這好像是混沌。”",
+      "translated_vi": "“Thứ này trông giống hệt Hỗn Độn!”"
+    },
+    {
+      "para_id": "c0145p0007",
+      "index": 7,
+      "raw_zh": "羅琳娜聽到這個奇怪的名字，忙問道：",
+      "translated_vi": "Nghe thấy cái tên kỳ quặc này, Lorina vội vàng gặng hỏi:"
+    },
+    {
+      "para_id": "c0145p0008",
+      "index": 8,
+      "raw_zh": "“混沌是什麽？”",
+      "translated_vi": "“Hỗn Độn là cái gì?”"
+    },
+    {
+      "para_id": "c0145p0009",
+      "index": 9,
+      "raw_zh": "雲千峰回道：",
+      "translated_vi": "Vân Thiên Phong đáp:"
+    },
+    {
+      "para_id": "c0145p0010",
+      "index": 10,
+      "raw_zh": "“是華夏傳說裡，上古四凶之一，也是盤古開天之前就存在的神異生物，身形似狗，但沒有五官七竅。",
+      "translated_vi": "“Đó là một trong tứ đại hung thú thời thượng cổ trong truyền thuyết Hoa Hạ, cũng là loài dị thú thần bí tồn tại từ trước khi Bàn Cổ khai thiên lập địa; thân hình tựa như loài chó, nhưng mặt mũi không hề có ngũ quan thất khiếu."
+    },
+    {
+      "para_id": "c0145p0011",
+      "index": 11,
+      "raw_zh": "祂有兩個好朋友，分別是“忽”和“倏”，混沌大方經常招待這倆者，忽和倏決定報答混沌，就拿著工具給混沌鑿開了七竅，然後混沌就掛了。",
+      "translated_vi": "Ngài có hai người bạn thân, một tên là Hốt, một tên là Thốt. Hỗn Độn tính tình hào sảng rộng rãi thường xuyên mở tiệc chiêu đãi hai kẻ này; Hốt và Thốt bèn bàn nhau đền đáp ơn nghĩa của Hỗn Độn, liền cầm đục và búa tới giúp Hỗn Độn đục mở bảy khiếu, kết quả là bảy khiếu vừa đục xong thì Hỗn Độn cũng lăn đùng ra chết queo."
+    },
+    {
+      "para_id": "c0145p0012",
+      "index": 12,
+      "raw_zh": "楚辭有“雄虺九首，倏忽焉在”，後世民間倏悠不分，就有了忽悠這個詞語。”",
+      "translated_vi": "Trong Sở Từ có câu 'Hùng hủy cửu thủ, thốt hốt yên tại', dân gian đời sau không phân biệt rạch ròi giữa chữ 'thốt' và chữ 'du', thế là mới sinh ra từ 'hốt du' mang nghĩa lừa phỉnh bịp bợm.”"
+    },
+    {
+      "para_id": "c0145p0013",
+      "index": 13,
+      "raw_zh": "羅琳娜竟然知道忽悠這個詞，斜眼看了雲千峰一下，問道：",
+      "translated_vi": "Lorina thế mà lại biết cả từ “hốt du”, cô liếc xéo Vân Thiên Phong một cái, nghi ngờ hỏi:"
+    },
+    {
+      "para_id": "c0145p0014",
+      "index": 14,
+      "raw_zh": "“你不會是胡說忽悠我的吧？我看這些女閻羅人跪拜的怪石很像獅身人面像。”",
+      "translated_vi": "“Không phải anh đang bịa chuyện để lừa phỉnh tôi đấy chứ? Tôi thấy khối đá kỳ quái mà đám người Nữ Diêm La này quỳ lạy trông rất giống tượng Nhân Sư cơ mà.”"
+    },
+    {
+      "para_id": "c0145p0015",
+      "index": 15,
+      "raw_zh": "雲千峰沒和她辯解這不可能有結果的話題，而是指著那很像宇航員的岩畫形象，說道：",
+      "translated_vi": "Vân Thiên Phong không buồn đôi co với cô về một đề tài chẳng bao giờ có hồi kết này, mà đưa tay chỉ vào hình tượng bích họa trông rất giống phi hành gia kia, nói:"
+    },
+    {
+      "para_id": "c0145p0016",
+      "index": 16,
+      "raw_zh": "“原來真的不是宇航員，那頭頂的圓形代表的不是頭盔，而是智慧的光環，這個人是部落裡的智者巫覡。”",
+      "translated_vi": "“Hóa ra quả thực không phải phi hành gia! Vòng tròn trên đỉnh đầu kia không phải mũ bảo hiểm vũ trụ, mà tượng trưng cho vầng hào quang trí tuệ; người này chính là bậc trí giả vu hịch trong bộ lạc.”"
+    },
+    {
+      "para_id": "c0145p0017",
+      "index": 17,
+      "raw_zh": "在世界各地的岩畫之中，都有這種代表智慧的光環，甚至影響了後世神仙的形象。",
+      "translated_vi": "Trên các bức bích họa cổ ở khắp nơi trên thế giới đều xuất hiện loại hào quang trí tuệ này, thậm chí nó còn ảnh hưởng sâu sắc đến hình tượng các bậc thần tiên của hậu thế sau này."
+    },
+    {
+      "para_id": "c0145p0018",
+      "index": 18,
+      "raw_zh": "比如佛祖，三清等的畫像，頭上都有這種代表智慧的光環籠罩。",
+      "translated_vi": "Chẳng hạn như tranh vẽ Phật Tổ, Tam Thanh... trên đầu đều được bao bọc bởi vầng hào quang trí tuệ linh thiêng này."
+    },
+    {
+      "para_id": "c0145p0019",
+      "index": 19,
+      "raw_zh": "羅琳娜對這個說法很接受，點頭道：",
+      "translated_vi": "Lorina rất đồng tình với cách lý giải này, gật đầu bảo:"
+    },
+    {
+      "para_id": "c0145p0020",
+      "index": 20,
+      "raw_zh": "“應該就是這樣，你看在他們祭祀的怪石前面，只有他沒有下跪，一定就是主持祭祀的巫覡。”",
+      "translated_vi": "“Chắc chắn là như vậy rồi. Anh nhìn xem, trước khối đá kỳ quái mà họ hiến tế, duy chỉ có người này là không quỳ gối, ắt hẳn chính là vị vu hịch chủ trì nghi lễ tế tự.”"
+    },
+    {
+      "para_id": "c0145p0021",
+      "index": 21,
+      "raw_zh": "雲千峰指著那群原始人宰殺祭品的岩畫，說道：",
+      "translated_vi": "Vân Thiên Phong chỉ vào mảng bích họa miêu tả cảnh đám người nguyên thủy làm thịt tế phẩm, tiếp lời:"
+    },
+    {
+      "para_id": "c0145p0022",
+      "index": 22,
+      "raw_zh": "“這些女閻羅人在地球上恐怕不是無名之輩，你們看他們祭祀用的犧牲，一頭似野牛，一隻似長鬃灰狼，一隻似野豬，正是六畜之中牛、犬、豕的模樣。",
+      "translated_vi": "“Những người Nữ Diêm La này ở trên Trái Đất e rằng không phải hạng vô danh tiểu tốt đâu. Cô nhìn vật tế dùng trong nghi lễ của họ xem: một con tựa như bò rừng, một con tựa như chó sói bờm xám, một con tựa như lợn rừng, đó chính là hình ảnh của ba loài ngưu, khuyển, trĩ trong lục súc."
+    },
+    {
+      "para_id": "c0145p0023",
+      "index": 23,
+      "raw_zh": "這樣的配合，屬於大三牲祭品，在世界各地的文明之中，這都是祭祀神靈的牌面，搞不好這種共性就是受地外文明的影響。”",
+      "translated_vi": "Sự phối hợp ba loài này thuộc về lễ vật 'Đại tam sinh', trong các nền văn minh khắp thế giới thì đây đều là đẳng cấp tối thượng dùng để tế tự thần linh; biết đâu cái điểm tương đồng mang tính phổ quát này lại bắt nguồn từ sự khai sáng của nền văn minh ngoài hành tinh cũng nên.”"
+    },
+    {
+      "para_id": "c0145p0024",
+      "index": 24,
+      "raw_zh": "倆人說著，繼續沿著岩畫向前，在這裡，祭祀品已經擺好。",
+      "translated_vi": "Vừa trò chuyện, hai người vừa tiếp tục lần theo bích họa tiến lên phía trước. Tới đoạn này, các vật phẩm tế tự đã được bày biện tươm tất."
+    },
+    {
+      "para_id": "c0145p0025",
+      "index": 25,
+      "raw_zh": "野牛頭居左，豕頭居右，正中間，也就是這怪石沒有五官的臉面前，放著那狼頭。",
+      "translated_vi": "Đầu bò rừng đặt bên trái, đầu heo rừng đặt bên phải; còn ở chính giữa, tức là ngay trước gương mặt không có ngũ quan của khối đá quái dị kia, được đặt chiếc đầu sói."
+    },
+    {
+      "para_id": "c0145p0026",
+      "index": 26,
+      "raw_zh": "那帶著智慧光環的巫覡單腳落地，應該是在起舞，旁邊跪伏著一群原始人，這種場景非常符合人們腦海之中的想象。",
+      "translated_vi": "Vị vu hịch đội vòng hào quang trí tuệ đứng co một chân, điệu bộ như đang nhảy múa nghi lễ; bên cạnh là cả bầy người nguyên thủy quỳ mọp rạp mình xuống đất; khung cảnh này cực kỳ khớp với những gì nhân loại hằng hình dung về các nghi thức tế thần thời cổ đại."
+    },
+    {
+      "para_id": "c0145p0027",
+      "index": 27,
+      "raw_zh": "雲千峰和羅琳娜繼續向前走，來到新的情景之前，在看到這幅岩畫後，都是一愣神。",
+      "translated_vi": "Vân Thiên Phong và Lorina tiếp tục cất bước tới trước khung cảnh mới; vừa nhìn thấy bức bích họa tiếp theo, cả hai đều sững sờ chết lặng."
+    },
+    {
+      "para_id": "c0145p0028",
+      "index": 28,
+      "raw_zh": "岩畫裡，那原本沒有五官，身形好似混沌的怪石竟然有了五官，而那頭顱看起來，分明就是一個長鬃灰狼的模樣。",
+      "translated_vi": "Trong tranh, khối đá kỳ quái ban đầu vốn không có ngũ quan, mang vóc dáng tựa như Hỗn Độn kia, giờ đây thế mà lại mọc ra ngũ quan rành rành; mà cái đầu ấy trông qua rõ ràng mang dáng dấp của một con chó sói bờm xám!"
+    },
+    {
+      "para_id": "c0145p0029",
+      "index": 29,
+      "raw_zh": "雲千峰愣住的原因是，他對這個狼頭的形象太過熟悉，正是自己在無名海島上見過的盤瓠的形象。",
+      "translated_vi": "Vân Thiên Phong sững sờ là vì anh đã quá đỗi quen thuộc với hình tượng đầu sói này: đó chính là diện mạo của Bàn Hộ mà anh từng tận mắt nhìn thấy trên hòn đảo hoang vô danh năm nào."
+    },
+    {
+      "para_id": "c0145p0030",
+      "index": 30,
+      "raw_zh": "羅琳娜愣住的原因不是因為她認出這是古埃及神話裡的阿努比斯，而是因為這個猙獰狼頭的形象，幾乎與昨晚雲千峰變戲法後的腦袋一模一樣。",
+      "translated_vi": "Còn Lorina chết lặng không phải vì nhận ra đây là thần Anubis trong thần thoại Ai Cập cổ đại, mà bởi hình tượng đầu sói dữ tợn nhe nanh này gần như giống hệt cái đầu của Vân Thiên Phong sau màn ảo thuật đêm hôm qua!"
+    },
+    {
+      "para_id": "c0145p0031",
+      "index": 31,
+      "raw_zh": "雲千峰：“我身上那被稱為惡魔的頭顱和手臂，與女閻羅星文明有關！”",
+      "translated_vi": "Vân Thiên Phong thầm nghĩ: “Cái đầu lâu và cánh tay ác ma trên người mình có can hệ mật thiết tới nền văn minh tinh cầu Nữ Diêm La!”"
+    },
+    {
+      "para_id": "c0145p0032",
+      "index": 32,
+      "raw_zh": "羅琳娜：“他昨晚不是變戲法，他有秘密。”",
+      "translated_vi": "Lorina thầm nghĩ: “Tối qua anh ta không phải làm ảo thuật, con người anh ta cất giấu bí mật động trời.”"
+    },
+    {
+      "para_id": "c0145p0033",
+      "index": 33,
+      "raw_zh": "倆人都沒有說出心中的話，只是在五髒裡自己和自己交流。",
+      "translated_vi": "Cả hai đều không thốt ra lời suy nghĩ trong lòng, chỉ âm thầm đối thoại với chính nội tâm mình."
+    },
+    {
+      "para_id": "c0145p0034",
+      "index": 34,
+      "raw_zh": "雲千峰走近仔細看那祭祀狼頭的位置，正好是與那怪石下巴相連的石台之上，當下驚異道：",
+      "translated_vi": "Vân Thiên Phong tiến lại gần nhìn kỹ vị trí đặt chiếc đầu sói tế phẩm, nơi ấy vừa vặn nằm trên bệ đá gắn liền với cằm của khối đá quái dị, anh lập tức kinh ngạc thốt lên:"
+    },
+    {
+      "para_id": "c0145p0035",
+      "index": 35,
+      "raw_zh": "“這怪石是神軀！”",
+      "translated_vi": "“Khối đá kỳ quái này chính là Thần Khu!”"
+    },
+    {
+      "para_id": "c0145p0036",
+      "index": 36,
+      "raw_zh": "羅琳娜顯然不知道神軀是什麽，於是問道：",
+      "translated_vi": "Lorina rõ ràng chưa từng nghe tới khái niệm Thần Khu, bèn hỏi:"
+    },
+    {
+      "para_id": "c0145p0037",
+      "index": 37,
+      "raw_zh": "“什麽是神軀？”",
+      "translated_vi": "“Thần Khu là cái gì?”"
+    },
+    {
+      "para_id": "c0145p0038",
+      "index": 38,
+      "raw_zh": "雲千峰回道：",
+      "translated_vi": "Vân Thiên Phong đáp:"
+    },
+    {
+      "para_id": "c0145p0039",
+      "index": 39,
+      "raw_zh": "“字面意思，就是神的軀體，我曾經見過兩個，祂們有個特點，就是接觸什麽，就會變成什麽的模樣，但本身並不會動，就好像時間在神軀上消失了一樣。",
+      "translated_vi": "“Hiểu theo nghĩa đen, đó chính là thể xác của thần linh. Tôi từng có cơ duyên diện kiến hai Thần Khu; ngài có một đặc điểm kỳ dị là hễ tiếp xúc với thứ gì thì sẽ biến hóa thành hình dáng của thứ đó, nhưng bản thân lại bất động tuyệt đối, tựa như thời gian đã hoàn toàn ngưng đọng trên thể xác ngài vậy."
+    },
+    {
+      "para_id": "c0145p0040",
+      "index": 40,
+      "raw_zh": "這個狼頭接觸到了神軀的頭部，於是神軀的腦袋就變成了狼頭，這是神軀的特征，絕不會錯。”",
+      "translated_vi": "Chiếc đầu sói này tiếp xúc với phần đầu của Thần Khu, thế là đầu của Thần Khu liền hóa thành hình đầu sói; đây chính là đặc trưng độc nhất vô nhị của Thần Khu, tuyệt đối không thể sai được.”"
+    },
+    {
+      "para_id": "c0145p0041",
+      "index": 41,
+      "raw_zh": "羅琳娜被雲千峰的說法所震撼，驚詫道：",
+      "translated_vi": "Lorina bị những lời giải thích của Vân Thiên Phong làm cho chấn động tâm can, kinh ngạc thốt lên:"
+    },
+    {
+      "para_id": "c0145p0042",
+      "index": 42,
+      "raw_zh": "“伱的意思是說，史前人類膜拜的神像不是石頭，而是活的，真正的神？”",
+      "translated_vi": "“Ý anh là, bức tượng thần mà loài người tiền sử quỳ lạy cúng bái không phải tảng đá vô tri, mà là một vị thần sống thực sự sao?”"
+    },
+    {
+      "para_id": "c0145p0043",
+      "index": 43,
+      "raw_zh": "雲千峰沉吟了一下，道：",
+      "translated_vi": "Vân Thiên Phong ngẫm nghĩ một thoáng rồi bảo:"
+    },
+    {
+      "para_id": "c0145p0044",
+      "index": 44,
+      "raw_zh": "“首先祂們的確是活的，但並不是真正的神，因為神軀不代表神的全部，而僅僅是神的一部分。",
+      "translated_vi": "“Trước hết, ngài quả thực là một thực thể sống, nhưng lại không phải là thần linh hoàn chỉnh, bởi vì Thần Khu không đại diện cho toàn bộ thần thể, mà chỉ là một mảnh bộ phận của thần mà thôi."
+    },
+    {
+      "para_id": "c0145p0045",
+      "index": 45,
+      "raw_zh": "我曾有個朋友猜測，我們見到的神軀，是四維生物在三維空間的投影，所以僅僅是一小部分，還有我們看不到的部分更加龐大，但我本身並不是完全信服這種觀點。”",
+      "translated_vi": "Từng có một người bạn của tôi đưa ra phỏng đoán rằng, Thần Khu mà chúng ta nhìn thấy thực chất chỉ là hình chiếu của một sinh vật bốn chiều trong không gian ba chiều; cho nên nó chỉ là một phần nhỏ bé lộ ra, còn phần cơ thể khổng lồ mà chúng ta không thể nhìn thấy thì vĩ đại hơn nhiều. Dẫu vậy, bản thân tôi không hoàn toàn bị thuyết phục bởi quan điểm này.”"
+    },
+    {
+      "para_id": "c0145p0046",
+      "index": 46,
+      "raw_zh": "羅琳娜激起了好奇心，問道：",
+      "translated_vi": "Nỗi tò mò trong lòng Lorina bị khơi dậy mãnh liệt, cô gặng hỏi:"
+    },
+    {
+      "para_id": "c0145p0047",
+      "index": 47,
+      "raw_zh": "“那你怎麽看待神軀？”",
+      "translated_vi": "“Vậy anh nhìn nhận thế nào về Thần Khu?”"
+    },
+    {
+      "para_id": "c0145p0048",
+      "index": 48,
+      "raw_zh": "雲千峰沉思片刻，道：",
+      "translated_vi": "Vân Thiên Phong trầm ngâm giây lát rồi cất giọng:"
+    },
+    {
+      "para_id": "c0145p0049",
+      "index": 49,
+      "raw_zh": "“首先，神軀很可能是四維度生物，但是把看不到的神軀部分想象成一個整體，這有點想當然。",
+      "translated_vi": "“Trước hết, Thần Khu rất có thể là một sinh vật bốn chiều, nhưng nếu hình dung phần Thần Khu vô hình kia là một khối chỉnh thể duy nhất thì có phần quá đỗi chủ quan và võ đoán."
+    },
+    {
+      "para_id": "c0145p0050",
+      "index": 50,
+      "raw_zh": "你看哈，一個小得不能更小的點是零維度，再加一個點連成線就成了一維的線，再畫一條線與之交叉，就形成了二維度的面，在二維的面上增加一個與之垂直的坐標線，就形成有了厚度的三維度空間。",
+      "translated_vi": "Cô xem này nhé, một điểm nhỏ tới mức không thể nhỏ hơn chính là không gian không chiều; thêm một điểm nữa nối lại thành đường thẳng thì thành chiều thứ nhất; vẽ thêm một đường thẳng cắt ngang nữa thì tạo thành mặt phẳng hai chiều; trên mặt phẳng hai chiều dựng thêm một trục tọa độ vuông góc nữa thì sẽ tạo nên không gian ba chiều có độ dày và thể tích."
+    },
+    {
+      "para_id": "c0145p0051",
+      "index": 51,
+      "raw_zh": "那你說，四維度空間該是什麽樣的？”",
+      "translated_vi": "Vậy cô thử nói xem, không gian bốn chiều sẽ mang hình thái ra sao?”"
+    },
+    {
+      "para_id": "c0145p0052",
+      "index": 52,
+      "raw_zh": "羅琳娜對於超弦物理顯然也有所了解，直接說道：",
+      "translated_vi": "Lorina đối với vật lý siêu dây rõ ràng cũng có hiểu biết nhất định, bèn nói ngay:"
+    },
+    {
+      "para_id": "c0145p0053",
+      "index": 53,
+      "raw_zh": "“在三維空間這三個坐標線的基礎上，再加一條線性坐標，就是四維度空間，理論上是這樣。”",
+      "translated_vi": "“Trên nền tảng ba trục tọa độ của không gian ba chiều, dựng thêm một trục tọa độ tuyến tính nữa, về mặt lý thuyết chính là không gian bốn chiều.”"
+    },
+    {
+      "para_id": "c0145p0054",
+      "index": 54,
+      "raw_zh": "雲千峰問道：",
+      "translated_vi": "Vân Thiên Phong hỏi lại:"
+    },
+    {
+      "para_id": "c0145p0055",
+      "index": 55,
+      "raw_zh": "“那你能在腦海裡模擬出四維度空間的模樣嗎？”",
+      "translated_vi": "“Vậy cô có thể mô phỏng lại hình hài của không gian bốn chiều trong tâm trí mình không?”"
+    },
+    {
+      "para_id": "c0145p0056",
+      "index": 56,
+      "raw_zh": "羅琳娜搖了搖頭，歎道：",
+      "translated_vi": "Lorina lắc đầu, thở dài:"
+    },
+    {
+      "para_id": "c0145p0057",
+      "index": 57,
+      "raw_zh": "“我們是三維度思維的生物，無法想象和感知四維的情景，這是物種的掣肘。”",
+      "translated_vi": "“Chúng ta là sinh vật mang tư duy ba chiều, không thể nào tưởng tượng và tri giác được khung cảnh bốn chiều, đó là giới hạn bất khả kháng của giống loài.”"
+    },
+    {
+      "para_id": "c0145p0058",
+      "index": 58,
+      "raw_zh": "雲千峰搖頭，否定道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu bác bỏ:"
+    },
+    {
+      "para_id": "c0145p0059",
+      "index": 59,
+      "raw_zh": "“不，我們的思維和感知雖然受到了掣肘，但是我們擁有理解規律的能力，所以能夠推導出四維空間的部分模樣。”",
+      "translated_vi": "“Không! Tư duy và giác quan của chúng ta dẫu chịu sự trói buộc, nhưng chúng ta lại sở hữu năng lực thấu hiểu quy luật tự nhiên, cho nên hoàn toàn có thể suy diễn logic ra một phần diện mạo của không gian bốn chiều.”"
+    },
+    {
+      "para_id": "c0145p0060",
+      "index": 60,
+      "raw_zh": "羅琳娜徹底被勾起了興趣，忙問道：",
+      "translated_vi": "Lorina hoàn toàn bị cuốn vào câu chuyện, vội hỏi dồn:"
+    },
+    {
+      "para_id": "c0145p0061",
+      "index": 61,
+      "raw_zh": "“如何推導？”",
+      "translated_vi": "“Suy diễn bằng cách nào?”"
+    },
+    {
+      "para_id": "c0145p0062",
+      "index": 62,
+      "raw_zh": "雲千峰淡淡道：",
+      "translated_vi": "Vân Thiên Phong thản nhiên đáp:"
+    },
+    {
+      "para_id": "c0145p0063",
+      "index": 63,
+      "raw_zh": "“很簡答，一生二，二生三，三生四的關系。",
+      "translated_vi": "“Rất đơn giản, dựa vào mối quan hệ một sinh hai, hai sinh ba, ba sinh bốn."
+    },
+    {
+      "para_id": "c0145p0064",
+      "index": 64,
+      "raw_zh": "零維度和一維度之間的區別是，一維度比零維度多了很多或者說無數的點。",
+      "translated_vi": "Sự khác biệt giữa không chiều và một chiều là gì? Một chiều nhiều hơn không chiều rất nhiều điểm, hay nói đúng hơn là vô số điểm tạo thành."
+    },
+    {
+      "para_id": "c0145p0065",
+      "index": 65,
+      "raw_zh": "二維度比一維度多了無數的線，三維度比二維度多了無數的面。",
+      "translated_vi": "Hai chiều nhiều hơn một chiều vô số đường thẳng; ba chiều nhiều hơn hai chiều vô số mặt phẳng."
+    },
+    {
+      "para_id": "c0145p0066",
+      "index": 66,
+      "raw_zh": "以此類推，四維度比三維度多了體。",
+      "translated_vi": "Cứ theo logic đó mà suy ra, bốn chiều sẽ nhiều hơn ba chiều một 'thể' — tức là vô số khối thể tích!"
+    },
+    {
+      "para_id": "c0145p0067",
+      "index": 67,
+      "raw_zh": "也就是說，雖然我們不知道四維度那條坐標線該如何加到三維空間的坐標線上，但我們能推導出四維空間比三維空間多的東西，那就是體，絕不是簡單的一個坐標。”",
+      "translated_vi": "Nói cách khác, dẫu chúng ta không biết trục tọa độ thứ tư kia được dựng vuông góc vào hệ tọa độ ba chiều như thế nào, nhưng chúng ta có thể suy diễn ra thứ mà không gian bốn chiều vượt trội hơn không gian ba chiều, đó chính là 'thể tích', tuyệt đối không đơn thuần là một trục tọa độ sơ sài.”"
+    },
+    {
+      "para_id": "c0145p0068",
+      "index": 68,
+      "raw_zh": "羅琳娜豁然明悟，明白了雲千峰的意思，於是不可思議道：",
+      "translated_vi": "Lorina bỗng nhiên bừng tỉnh ngộ ra điều Vân Thiên Phong muốn diễn đạt, bèn không khỏi thảng thốt:"
+    },
+    {
+      "para_id": "c0145p0069",
+      "index": 69,
+      "raw_zh": "“你的意思是說，四維生物根本不是我們理解生物形態那樣，是一個完整的體，而是分身狀態彼此存在？”",
+      "translated_vi": "“Ý anh muốn nói rằng, sinh vật bốn chiều căn bản không hề giống như hình thái sinh vật theo nhận thức thông thường của chúng ta — là một khối cơ thể đơn nhất hoàn chỉnh, mà lại tồn tại dưới trạng thái các phân thân độc lập cùng song hành sao?”"
+    },
+    {
+      "para_id": "c0145p0070",
+      "index": 70,
+      "raw_zh": "雲千峰沉吟道：",
+      "translated_vi": "Vân Thiên Phong trầm ngâm bảo:"
+    },
+    {
+      "para_id": "c0145p0071",
+      "index": 71,
+      "raw_zh": "“在三維度的視角來看，就是這樣，否則不符合推導的規律，當然我們無法想象四維度的視角，可能在四維度的視角，所謂分身就是個整體，但在我們眼裡絕不是。”",
+      "translated_vi": "“Dưới góc nhìn của chiều không gian thứ ba thì chính xác là như vậy, bằng không sẽ trái với quy luật suy diễn toán học. Dĩ nhiên chúng ta không thể nào hình dung nổi góc nhìn của sinh vật bốn chiều; có lẽ dưới con mắt bốn chiều, các phân thân ấy thực chất là một chỉnh thể duy nhất, song trong mắt chúng ta thì tuyệt đối không phải.”"
+    },
+    {
+      "para_id": "c0145p0072",
+      "index": 72,
+      "raw_zh": "羅琳娜眼中充滿了疑惑，自語道：",
+      "translated_vi": "Đôi mắt Lorina ngập tràn nỗi hoang mang, tự lẩm bẩm:"
+    },
+    {
+      "para_id": "c0145p0073",
+      "index": 73,
+      "raw_zh": "“若是這樣，四維神的分身在哪裡呢？另一個三維時空？還是生活在四維度空間？”",
+      "translated_vi": "“Nếu quả thực như vậy, thì các phân thân của vị thần bốn chiều kia đang ở nơi nao? Ở một chiều không gian ba chiều khác? Hay vẫn ngự trị trong không gian bốn chiều?”"
+    },
+    {
+      "para_id": "c0145p0074",
+      "index": 74,
+      "raw_zh": "雲千峰看著礦燈照射不到的黑暗之處，平靜而深沉，道：",
+      "translated_vi": "Vân Thiên Phong phóng tầm mắt nhìn vào màn đêm sâu thẳm ngoài tầm rọi sáng của ánh đèn pha, ánh mắt thâm trầm tĩnh lặng như nước hồ thu, chậm rãi buông lời:"
+    },
+    {
+      "para_id": "c0145p0075",
+      "index": 75,
+      "raw_zh": "“從利益角度講，應該就在我們的世界才合理，只是祂們隱藏在我們看不到，甚至無法想象的地方，窺視著一切.甚至，就在你我身旁。”",
+      "translated_vi": "“Xét từ góc độ lợi ích sinh tồn, các ngài ắt hẳn phải ngự trị ngay trong thế giới của chúng ta mới là hợp lý nhất. Chỉ có điều ngài ẩn mình ở những nơi chốn mà chúng ta không thể nhìn thấy, thậm chí không tài nào tưởng tượng nổi, lặng lẽ quan sát nhất cử nhất động của vạn vật... Thậm chí, ngài đang ở ngay bên cạnh hai chúng ta.”"
+    },
+    {
+      "para_id": "c0145p0076",
+      "index": 76,
+      "raw_zh": "大家晚安，明天開始爬山運動，腰腿疼~~~",
+      "translated_vi": "Chúc mọi người ngủ ngon, ngày mai bắt đầu đi leo núi tập thể dục rồi, đau lưng mỏi gối quá~~~"
+    }
+  ]
+}

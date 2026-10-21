@@ -1,0 +1,644 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 235,
+  "title": "Chương 235: Không thể tưởng tượng nổi",
+  "total_paragraphs": 105,
+  "translated_paragraphs": 105,
+  "source_hash": "8d3a0de1179d402cfbb63c251622fafab4f932491c5ff6afd05d6be06a1206c4",
+  "model_used": "gemini-3.8-flash-high",
+  "elapsed_seconds": 156.89,
+  "bilingual_alignment": [
+    {
+      "para_id": "c0235p0001",
+      "index": 1,
+      "raw_zh": "235.第235章 不可思議",
+      "translated_vi": "Chương 235: Không thể tưởng tượng nổi"
+    },
+    {
+      "para_id": "c0235p0002",
+      "index": 2,
+      "raw_zh": "第235章 不可思議",
+      "translated_vi": "Chương 235: Không thể tưởng tượng nổi"
+    },
+    {
+      "para_id": "c0235p0003",
+      "index": 3,
+      "raw_zh": "肆虐的暴風雪終於安靜了下來。",
+      "translated_vi": "Trận bão tuyết cuồng nộ cuối cùng cũng dần lắng xuống."
+    },
+    {
+      "para_id": "c0235p0004",
+      "index": 4,
+      "raw_zh": "璀璨的星光爬滿了天空。",
+      "translated_vi": "Ánh sao rực rỡ đã giăng kín bầu trời."
+    },
+    {
+      "para_id": "c0235p0005",
+      "index": 5,
+      "raw_zh": "一輪明月懶洋洋的在群星拱照下飄在天邊，不肯爬高一點。",
+      "translated_vi": "Một vầng trăng sáng lười biếng trôi nơi chân trời giữa ngàn sao vây quanh, chẳng buồn nhô cao thêm chút nào."
+    },
+    {
+      "para_id": "c0235p0006",
+      "index": 6,
+      "raw_zh": "他決定和琳達分享這份幸運。",
+      "translated_vi": "Hắn quyết định chia sẻ vận may này cùng Linda."
+    },
+    {
+      "para_id": "c0235p0007",
+      "index": 7,
+      "raw_zh": "然而琳達竟然和自己搶，這真的是太過分了。",
+      "translated_vi": "Thế nhưng Linda lại dám tranh giành với hắn, điều này thực sự quá đáng lắm rồi."
+    },
+    {
+      "para_id": "c0235p0008",
+      "index": 8,
+      "raw_zh": "然後雲千峰就氣醒了。",
+      "translated_vi": "Và thế là Vân Thiên Phong tức đến mức bừng tỉnh."
+    },
+    {
+      "para_id": "c0235p0009",
+      "index": 9,
+      "raw_zh": "琳達雙臂十字交叉護著身前，此時正背對著雲千峰，眼中全是羞赧。",
+      "translated_vi": "Hai tay Linda bắt chéo trước ngực che chắn, lúc này đang quay lưng về phía Vân Thiên Phong, trong mắt ngập tràn vẻ ngượng ngùng."
+    },
+    {
+      "para_id": "c0235p0010",
+      "index": 10,
+      "raw_zh": "雲千峰隨後又來了句：",
+      "translated_vi": "Vân Thiên Phong liền bồi thêm một câu:"
+    },
+    {
+      "para_id": "c0235p0011",
+      "index": 11,
+      "raw_zh": "“沒格局啊，唉！”",
+      "translated_vi": "\"Chẳng có chút khí độ nào cả, ai dà!\""
+    },
+    {
+      "para_id": "c0235p0012",
+      "index": 12,
+      "raw_zh": "琳達咬牙切齒。",
+      "translated_vi": "Linda nghiến răng nghiến lợi."
+    },
+    {
+      "para_id": "c0235p0013",
+      "index": 13,
+      "raw_zh": "睡醒的倆人，就那麽窩在一堆衣服裡，暖和的吃著背包內冰涼的牛肉罐頭。",
+      "translated_vi": "Hai người vừa ngủ dậy cứ thế rúc mình trong đống quần áo ấm áp, cùng nhau ăn chỗ thịt bò đóng hộp lạnh ngắt lấy từ trong ba lô."
+    },
+    {
+      "para_id": "c0235p0014",
+      "index": 14,
+      "raw_zh": "齁鹹。",
+      "translated_vi": "Mặn chát."
+    },
+    {
+      "para_id": "c0235p0015",
+      "index": 15,
+      "raw_zh": "於是倆人就用高度酒當水，潤了一下喉嚨。",
+      "translated_vi": "Thế là cả hai đành lấy rượu nặng thay nước, nhấp một ngụm làm dịu cổ họng."
+    },
+    {
+      "para_id": "c0235p0016",
+      "index": 16,
+      "raw_zh": "穿好衣服後，倆人分別去椅子後面方便了一下大小號。",
+      "translated_vi": "Mặc xong quần áo, hai người lần lượt ra sau ghế để giải quyết nỗi buồn lớn nhỏ."
+    },
+    {
+      "para_id": "c0235p0017",
+      "index": 17,
+      "raw_zh": "出去上廁所那是不敢的，現在的溫度依舊很低，車內溫度計顯示，外面此刻溫度零下58度。",
+      "translated_vi": "Ra ngoài đi vệ sinh là chuyện không ai dám làm, nhiệt độ lúc này vẫn vô cùng thấp, nhiệt kế trong xe hiển thị bên ngoài hiện tại đang là âm năm mươi tám độ."
+    },
+    {
+      "para_id": "c0235p0018",
+      "index": 18,
+      "raw_zh": "滴水成冰。",
+      "translated_vi": "Nhỏ nước thành băng."
+    },
+    {
+      "para_id": "c0235p0019",
+      "index": 19,
+      "raw_zh": "哪怕是在車內，倆人也依舊是凍得屁股生疼。",
+      "translated_vi": "Dù là ở trong xe thì hai người vẫn bị lạnh cóng đến mức buốt nhói cả mông."
+    },
+    {
+      "para_id": "c0235p0020",
+      "index": 20,
+      "raw_zh": "咧著嘴，強忍著完成新陳代謝。",
+      "translated_vi": "Cả hai nhăn nhó mặt mày, cắn răng chịu đựng để hoàn thành việc đại tiểu tiện."
+    },
+    {
+      "para_id": "c0235p0021",
+      "index": 21,
+      "raw_zh": "剛吃過的罐頭盒子當承載工具，將大號扔出窗外，至於小號，只能隨它去了，反正頃刻間就在地板上變成一片冰，只要沒有潔癖，也沒什麽影響。",
+      "translated_vi": "Lấy chiếc vỏ đồ hộp vừa ăn xong làm vật chứa để vứt nỗi buồn lớn ra ngoài cửa sổ; còn nỗi buồn nhỏ đành mặc kệ, dù sao chỉ trong chớp mắt đã đóng thành một tảng băng trên sàn xe, miễn là không mắc bệnh sạch sẽ thì cũng chẳng ảnh hưởng gì."
+    },
+    {
+      "para_id": "c0235p0022",
+      "index": 22,
+      "raw_zh": "至於開窗放放氣味，他們是不會那麽傻去凍臉的，只能這樣忍著，幾分鍾後也就嗅不到了。",
+      "translated_vi": "Còn chuyện mở cửa sổ cho bay bớt mùi, bọn họ chẳng ngu ngốc đến mức để mặt mình chịu lạnh cóng, đành phải nén nhịn như thế, qua vài phút là không còn ngửi thấy gì nữa."
+    },
+    {
+      "para_id": "c0235p0023",
+      "index": 23,
+      "raw_zh": "履帶車在接近東方站的時候，徹底失去了燃油。",
+      "translated_vi": "Chiếc xe bánh xích cạn kiệt nhiên liệu ngay khi vừa tiếp cận trạm Phương Đông."
+    },
+    {
+      "para_id": "c0235p0024",
+      "index": 24,
+      "raw_zh": "好在他們已經可以遠遠的看到那片老舊的簡單建築。",
+      "translated_vi": "May mắn là bọn họ đã có thể nhìn thấy dãy kiến trúc cũ kỹ đơn sơ kia từ đằng xa."
+    },
+    {
+      "para_id": "c0235p0025",
+      "index": 25,
+      "raw_zh": "只是那片建築上面黑煙滾滾，很顯然已經被炸毀。",
+      "translated_vi": "Chỉ có điều phía trên dãy kiến trúc đó khói đen cuồn cuộn, hiển nhiên đã bị nổ tung phá hủy."
+    },
+    {
+      "para_id": "c0235p0026",
+      "index": 26,
+      "raw_zh": "琳達看到這一幕，絕望道：",
+      "translated_vi": "Linda nhìn thấy cảnh tượng này, tuyệt vọng thốt lên:"
+    },
+    {
+      "para_id": "c0235p0027",
+      "index": 27,
+      "raw_zh": "“又是他們嗎？他們這是準備徹底斷絕我們的所有補給，活活凍死餓死我們嗎？”",
+      "translated_vi": "\"Lại là bọn họ sao? Bọn chúng định triệt hạ toàn bộ đồ tiếp tế, để chúng ta chết cóng chết đói ở đây hay sao?\""
+    },
+    {
+      "para_id": "c0235p0028",
+      "index": 28,
+      "raw_zh": "雲千峰冷冷道：",
+      "translated_vi": "Vân Thiên Phong lạnh lùng đáp:"
+    },
+    {
+      "para_id": "c0235p0029",
+      "index": 29,
+      "raw_zh": "“炸不沒所有東西，他們提前炸掉這裡，就是為了讓我看見，他們在向我宣戰，那是宣戰的狼煙。”",
+      "translated_vi": "\"Không nổ sạch được hết mọi thứ đâu. Bọn chúng phá hủy nơi này trước chỉ là để tôi nhìn thấy. Chúng đang tuyên chiến với tôi, đó là khói lửa tuyên chiến.\""
+    },
+    {
+      "para_id": "c0235p0030",
+      "index": 30,
+      "raw_zh": "說著，他脫掉身上的羽絨服，用白色的毛毯罩住頭身，然後低聲道：",
+      "translated_vi": "Dứt lời, hắn cởi chiếc áo lông vũ trên người ra, dùng một tấm chăn lông màu trắng trùm kín đầu và thân, sau đó trầm giọng dặn:"
+    },
+    {
+      "para_id": "c0235p0031",
+      "index": 31,
+      "raw_zh": "“你躺在椅子上，做好保暖，把一件衣服偶爾用手臂舉起來，在車窗前晃動一下，搖晃身體讓車身隨著晃動，最好讓人以為是兩個人在車內親密，懂嗎？”",
+      "translated_vi": "\"Cô nằm lên ghế, giữ ấm cho tốt. Thỉnh thoảng dùng tay giơ một chiếc áo lên lắc lư trước cửa sổ, đung đưa người để thân xe lay động theo, tốt nhất là khiến người ngoài tưởng rằng có hai người đang thân mật bên trong xe, hiểu chưa?\""
+    },
+    {
+      "para_id": "c0235p0032",
+      "index": 32,
+      "raw_zh": "琳達點了點頭，道：",
+      "translated_vi": "Linda gật đầu, nói:"
+    },
+    {
+      "para_id": "c0235p0033",
+      "index": 33,
+      "raw_zh": "“放心，我知道該怎麽做，只要他們不靠近，絕對看不出來裡面是一個人。”",
+      "translated_vi": "\"Yên tâm đi, tôi biết phải làm thế nào. Chỉ cần bọn chúng không áp sát thì tuyệt đối không thể nhìn ra bên trong chỉ có một người.\""
+    },
+    {
+      "para_id": "c0235p0034",
+      "index": 34,
+      "raw_zh": "雲千峰點了點頭，把車門打開一個縫隙，趴著鑽出去，然後就保持這樣趴在雪地上，快速用手肘帶動身體前行。",
+      "translated_vi": "Vân Thiên Phong gật đầu, hé mở cửa xe một khe hẹp rồi nằm sấp chui ra ngoài. Hắn cứ thế áp sát mặt tuyết, nhanh chóng dùng khuỷu tay trườn tới phía trước."
+    },
+    {
+      "para_id": "c0235p0035",
+      "index": 35,
+      "raw_zh": "他的手臂力量，讓他這樣爬行比走路還要快，身披白色毛毯，幾乎一眨眼就徹底消失在這個天地間。",
+      "translated_vi": "Lực cánh tay mạnh mẽ giúp hắn bò trườn còn nhanh hơn cả đi bộ. Khoác trên mình tấm chăn trắng, gần như chỉ trong chớp mắt, hắn đã hoàn toàn biến mất giữa đất trời mênh mông."
+    },
+    {
+      "para_id": "c0235p0036",
+      "index": 36,
+      "raw_zh": "不出幾分鍾，雲千峰已經來到了那片冒煙的建築附近。",
+      "translated_vi": "Chưa đầy vài phút, Vân Thiên Phong đã tiếp cận khu vực lân cận dãy nhà đang bốc khói."
+    },
+    {
+      "para_id": "c0235p0037",
+      "index": 37,
+      "raw_zh": "就見幾乎所有的建築都被炸得稀爛，但惟獨正中間一棟不大的木屋完好無損。",
+      "translated_vi": "Hắn thấy gần như toàn bộ kiến trúc đều bị nổ tung tan tành, thế nhưng duy chỉ có một căn nhà gỗ nhỏ nằm ngay chính giữa lại nguyên vẹn không tổn hao gì."
+    },
+    {
+      "para_id": "c0235p0038",
+      "index": 38,
+      "raw_zh": "木屋的門洞開著，可以看到黑洞洞的門內有一張厚實的長方形木桌，桌子上放著一個圓形的LED燈，燈光很微弱，只能照亮桌子那麽一圈大的范圍。",
+      "translated_vi": "Cánh cửa căn nhà gỗ mở toang, có thể trông thấy bên trong khoảng tối đen ngòm sau cửa là một tấm bàn gỗ hình chữ nhật dày dặn. Trên bàn đặt một chiếc đèn LED hình tròn, ánh sáng mờ nhạt chỉ đủ chiếu sáng một khoảng nhỏ quanh mặt bàn."
+    },
+    {
+      "para_id": "c0235p0039",
+      "index": 39,
+      "raw_zh": "桌子挨著的兩個直角邊旁，各坐著一個人。",
+      "translated_vi": "Cạnh hai góc vuông tiếp giáp của chiếc bàn có hai người đang ngồi."
+    },
+    {
+      "para_id": "c0235p0040",
+      "index": 40,
+      "raw_zh": "一個男人，一個女人。",
+      "translated_vi": "Một nam, một nữ."
+    },
+    {
+      "para_id": "c0235p0041",
+      "index": 41,
+      "raw_zh": "因為穿著厚實的冬裝，看不出身形如何，但兩個人臉上的長條疤痕，證明他們絕對是久經沙場的好手。",
+      "translated_vi": "Vì mặc đồ mùa đông dày cộp nên không nhìn rõ vóc dáng ra sao, nhưng những vệt sẹo dài ngoằng trên mặt cả hai chứng tỏ bọn họ tuyệt đối là những tay lão luyện từng trải trăm trận."
+    },
+    {
+      "para_id": "c0235p0042",
+      "index": 42,
+      "raw_zh": "倆人坐著的位置，正對著木門能夠看到，但只要稍微偏一點角度便無法再看到他們，那是極科學的安全位置。",
+      "translated_vi": "Vị trí hai người ngồi chỉ có thể nhìn thấy khi đứng đối diện trực tiếp với cửa gỗ, hễ góc nhìn lệch đi dù chỉ một chút là không thể trông thấy họ nữa. Đó là một góc an toàn được tính toán vô cùng khoa học."
+    },
+    {
+      "para_id": "c0235p0043",
+      "index": 43,
+      "raw_zh": "雲千峰若是想用自己那把小手槍打到對方，就必須正對著門口，同樣自己也一定會被對方發現。",
+      "translated_vi": "Nếu Vân Thiên Phong muốn dùng khẩu súng ngắn nhỏ của mình bắn trúng đối phương, hắn buộc phải đứng đối diện ngay trước cửa, nhưng như vậy bản thân hắn chắc chắn cũng sẽ bị phát hiện."
+    },
+    {
+      "para_id": "c0235p0044",
+      "index": 44,
+      "raw_zh": "於是他眼珠一轉，團起了一個雪團，扔到了木屋的門上。",
+      "translated_vi": "Thế là mắt hắn khẽ đảo, vo một nắm tuyết rồi ném thẳng vào cánh cửa nhà gỗ."
+    },
+    {
+      "para_id": "c0235p0045",
+      "index": 45,
+      "raw_zh": "他不敢正對著門口，所以要引兩個人動起來。",
+      "translated_vi": "Hắn không dám đứng đối diện cửa ra vào, nên đành phải dụ hai người kia cử động."
+    },
+    {
+      "para_id": "c0235p0046",
+      "index": 46,
+      "raw_zh": "然而他的打草驚蛇意外的沒有任何效果。",
+      "translated_vi": "Thế nhưng đòn bứt dây động rừng của hắn lại bất ngờ chẳng mang lại chút tác dụng nào."
+    },
+    {
+      "para_id": "c0235p0047",
+      "index": 47,
+      "raw_zh": "是的，是沒有絲毫的效果。",
+      "translated_vi": "Đúng vậy, không có lấy một chút hiệu quả."
+    },
+    {
+      "para_id": "c0235p0048",
+      "index": 48,
+      "raw_zh": "因為屋內的兩個人一動也不動。",
+      "translated_vi": "Bởi vì hai người trong phòng không hề nhúc nhích dù chỉ một li."
+    },
+    {
+      "para_id": "c0235p0049",
+      "index": 49,
+      "raw_zh": "雲千峰自覺遇到了心沉氣穩的對手，這樣的敵人最麻煩。",
+      "translated_vi": "Vân Thiên Phong tự thấy mình đã gặp phải đối thủ trầm tĩnh vững vàng, loại kẻ địch này là phiền phức nhất."
+    },
+    {
+      "para_id": "c0235p0050",
+      "index": 50,
+      "raw_zh": "然而他又觀察了一會後，發現自己可能判斷錯了。",
+      "translated_vi": "Thế nhưng sau khi quan sát thêm một lúc, hắn nhận ra có lẽ mình đã phán đoán sai."
+    },
+    {
+      "para_id": "c0235p0051",
+      "index": 51,
+      "raw_zh": "因為裡面那兩個人好似蠟像一樣，幾分鍾都沒改換動作。",
+      "translated_vi": "Bởi vì hai người bên trong trông hệt như tượng sáp, suốt mấy phút liền không hề thay đổi tư thế."
+    },
+    {
+      "para_id": "c0235p0052",
+      "index": 52,
+      "raw_zh": "“兩個可能，假人亦或是，他們已經死了！”",
+      "translated_vi": "\"Có hai khả năng: hình nộm giả, hoặc là bọn họ đã chết!\""
+    },
+    {
+      "para_id": "c0235p0053",
+      "index": 53,
+      "raw_zh": "雲千峰小心翼翼的向門口靠近，此時他的眼睛不僅需要緊緊盯著那兩個不動的身影，還要時刻關注其它方向有沒有危險。",
+      "translated_vi": "Vân Thiên Phong thận trọng từng bước áp sát về phía cửa phòng. Lúc này ánh mắt hắn không chỉ cần nhìn chằm chằm vào hai bóng người bất động kia, mà còn phải luôn cảnh giác xem các hướng khác có nguy hiểm hay không."
+    },
+    {
+      "para_id": "c0235p0054",
+      "index": 54,
+      "raw_zh": "因為如果那兩個人就是來獵殺自己的敵人，那麽就證明這附近還存在其它的殺手。",
+      "translated_vi": "Bởi lẽ nếu hai kẻ kia chính là những kẻ địch đến săn lùng mình, vậy chứng tỏ quanh đây vẫn còn những sát thủ khác."
+    },
+    {
+      "para_id": "c0235p0055",
+      "index": 55,
+      "raw_zh": "同時他也不能排除那兩個身影，是東方站被殺的工作人員。",
+      "translated_vi": "Đồng thời hắn cũng không thể loại trừ khả năng hai bóng người đó là các nhân viên của trạm Đông Phương đã bị sát hại."
+    },
+    {
+      "para_id": "c0235p0056",
+      "index": 56,
+      "raw_zh": "不過按照雲千峰的了解，這個極夜，東方站並沒有工作人員在這裡。",
+      "translated_vi": "Nhưng theo hiểu biết của Vân Thiên Phong, trong đợt đêm cực này, trạm Đông Phương hoàn toàn không có nhân viên nào ở đây."
+    },
+    {
+      "para_id": "c0235p0057",
+      "index": 57,
+      "raw_zh": "所以，那兩個一動不動的身影，九成就是獵殺自己的人。",
+      "translated_vi": "Cho nên, hai bóng người không hề nhúc nhích kia chín phần là những kẻ đến để săn lùng hắn."
+    },
+    {
+      "para_id": "c0235p0058",
+      "index": 58,
+      "raw_zh": "雲千峰已經爬到了門口。",
+      "translated_vi": "Vân Thiên Phong đã bò đến trước cửa."
+    },
+    {
+      "para_id": "c0235p0059",
+      "index": 59,
+      "raw_zh": "屋內桌旁的倆人已經可以看得非常清晰。",
+      "translated_vi": "Hai người ngồi bên chiếc bàn trong phòng lúc này đã có thể nhìn thấy vô cùng rõ ràng."
+    },
+    {
+      "para_id": "c0235p0060",
+      "index": 60,
+      "raw_zh": "他們一個坐在桌子一邊，手裡拿著一個帶著閃光屏幕的東西正在仔細觀察，好像一個平板電腦。",
+      "translated_vi": "Bọn họ một người ngồi một bên bàn, tay cầm một vật có màn hình phát sáng đang chăm chú quan sát, nom như một chiếc máy tính bảng."
+    },
+    {
+      "para_id": "c0235p0061",
+      "index": 61,
+      "raw_zh": "另外那個一臉煞氣的女人，則左手拿著打火機，右手捏著一張照片，似乎正要點燃那張照片。",
+      "translated_vi": "Người phụ nữ mặt mày đằng đằng sát khí còn lại thì tay trái cầm bật lửa, tay phải kẹp một tấm ảnh, dường như đang định châm lửa đốt bức ảnh đó."
+    },
+    {
+      "para_id": "c0235p0062",
+      "index": 62,
+      "raw_zh": "事實也是如此，因為那照片已經點燃了將近一半，但想來應該被門外的風吹滅。",
+      "translated_vi": "Sự thật đúng là như vậy, bởi tấm ảnh kia đã bị đốt cháy gần một nửa, nhưng có lẽ đã bị cơn gió lùa từ ngoài cửa thổi tắt."
+    },
+    {
+      "para_id": "c0235p0063",
+      "index": 63,
+      "raw_zh": "只看這倆人拿著平板和火機的手，雲千峰就心裡斷定：",
+      "translated_vi": "Chỉ nhìn đôi bàn tay cầm máy tính bảng và bật lửa của hai người này, trong lòng Vân Thiên Phong liền khẳng định:"
+    },
+    {
+      "para_id": "c0235p0064",
+      "index": 64,
+      "raw_zh": "“這倆人都是左利手，而且都是格鬥高手，他們的掌緣和拳峰都爬滿了厚厚的老繭。”",
+      "translated_vi": "“Hai người này đều thuận tay trái, hơn nữa còn là cao thủ cận chiến, rìa bàn tay và các khớp đốt ngón tay của họ đều phủ kín những vết chai dày cộm.”"
+    },
+    {
+      "para_id": "c0235p0065",
+      "index": 65,
+      "raw_zh": "搏擊選手之中，左利手是最刁鑽最難對付的，因為他們的前手拳才是重拳。",
+      "translated_vi": "Trong giới võ sĩ đối kháng, người thuận tay trái là hiểm hóc và khó đối phó nhất, bởi lẽ cú đấm tay trước của họ mới chính là đòn đấm nặng đô nhất."
+    },
+    {
+      "para_id": "c0235p0066",
+      "index": 66,
+      "raw_zh": "雲千峰屏住呼吸上前一步，兩個人沒有反應，直到來到那拿著平板電腦的男人身邊，他們也依舊不曾動彈分毫。",
+      "translated_vi": "Vân Thiên Phong nín thở tiến lên một bước, hai người vẫn không hề phản ứng; mãi cho đến khi hắn tới sát bên cạnh gã đàn ông đang cầm máy tính bảng, bọn họ vẫn không mảy may nhúc nhích."
+    },
+    {
+      "para_id": "c0235p0067",
+      "index": 67,
+      "raw_zh": "雲千峰伸手，把食指放在那男人的鼻孔下，觸摸到他的皮膚一片冰涼，真的如同結冰了一般。",
+      "translated_vi": "Vân Thiên Phong đưa tay ra, đặt ngón trỏ dưới mũi gã đàn ông, chạm vào làn da lạnh ngắt như băng tuyết ngưng kết."
+    },
+    {
+      "para_id": "c0235p0068",
+      "index": 68,
+      "raw_zh": "“沒有呼吸，沒有體溫，他們確實是死了！殺死他們的殺手，應該是在一瞬間便殺死了這兩個絕對也是高手的人，否則他們不可能毫無反應，至死保持著生前的最後一個姿勢，這個未知的第三者太可怕了！”",
+      "translated_vi": "“Không có hơi thở, không có thân nhiệt, bọn họ quả thực đã chết! Kẻ hạ sát họ hẳn là chỉ trong chớp mắt đã lấy mạng hai nhân vật tuyệt đối là cao thủ này, bằng không họ chẳng thể nào không kịp phản ứng, đến chết vẫn giữ nguyên tư thế cuối cùng lúc sinh tiền. Kẻ thứ ba chưa rõ lai lịch này thật quá đáng sợ!”"
+    },
+    {
+      "para_id": "c0235p0069",
+      "index": 69,
+      "raw_zh": "那對未知的恐懼，開始壓迫他的心臟，讓他不得不小心翼翼的對待自己任何一個動作。",
+      "translated_vi": "Nỗi sợ hãi đối với điều chưa biết bắt đầu đè nặng lên lồng ngực hắn, khiến hắn buộc phải cẩn trọng khôn cùng trong từng cử động nhỏ nhất."
+    },
+    {
+      "para_id": "c0235p0070",
+      "index": 70,
+      "raw_zh": "“那平板應該是一個電子地圖，那上面打著紅叉的位置應該都是各個南極站，那接近南極地理中心的亮點是哪裡？為什麽那裡沒有打紅色的叉，而是一顆代表生命的綠樹圖標？”",
+      "translated_vi": "“Chiếc máy tính bảng kia hẳn là bản đồ điện tử. Những vị trí bị đánh dấu chữ X màu đỏ trên đó chắc là các trạm khảo sát Nam Cực, còn điểm sáng nằm gần trung tâm địa lý Nam Cực là nơi nào? Tại sao ở đó không bị đánh dấu X đỏ, mà lại là một biểu tượng cây xanh tượng trưng cho sự sống?”"
+    },
+    {
+      "para_id": "c0235p0071",
+      "index": 71,
+      "raw_zh": "雲千峰用手拿過來那平板，那屍體因為雲千峰的帶動，呼啦一下癱在地上。",
+      "translated_vi": "Vân Thiên Phong vươn tay lấy chiếc máy tính bảng kia lại, cái xác do bị hắn tác động mà \"soạt\" một tiếng đổ rũ xuống đất."
+    },
+    {
+      "para_id": "c0235p0072",
+      "index": 72,
+      "raw_zh": "是真正的癱倒。",
+      "translated_vi": "Đó là một sự sụp đổ đúng nghĩa."
+    },
+    {
+      "para_id": "c0235p0073",
+      "index": 73,
+      "raw_zh": "因為此時幾乎是耷拉在凳子上的那具屍體，就像是一個漏了氣的氣球，只剩下一張皮。",
+      "translated_vi": "Bởi vì lúc này, cái xác gần như rũ rượi trên ghế kia hệt như một quả bóng bay xì hơi, chỉ còn trơ lại một tấm da."
+    },
+    {
+      "para_id": "c0235p0074",
+      "index": 74,
+      "raw_zh": "饒是雲千峰經歷過無數危險，看到這樣一幕，也是驚得向後跳躍了一步，心臟突突突的加快了跳動，把血液迅速灌輸到拳頭和小腿上。",
+      "translated_vi": "Dẫu Vân Thiên Phong từng trải qua vô số hiểm nguy, khi chứng kiến cảnh tượng như vậy cũng kinh hãi nhảy lùi lại một bước, tim đập thình thịch dồn dập, bơm máu cấp tốc đến nắm đấm và bắp chân."
+    },
+    {
+      "para_id": "c0235p0075",
+      "index": 75,
+      "raw_zh": "“那絕不是假人！”",
+      "translated_vi": "“Đó tuyệt đối không phải người nộm!”"
+    },
+    {
+      "para_id": "c0235p0076",
+      "index": 76,
+      "raw_zh": "雲千峰可以斷定那不是假人，只是這人除了皮膚和眼睛，內部的一切，包括骨頭，都消失不見。",
+      "translated_vi": "Vân Thiên Phong có thể đoan chắc đó không phải là người nộm, chỉ là kẻ này ngoại trừ lớp da và đôi mắt, mọi thứ bên trong kể cả xương cốt đều đã biến mất không còn tăm tích."
+    },
+    {
+      "para_id": "c0235p0077",
+      "index": 77,
+      "raw_zh": "他蹲下身，忍著惡心和恐懼，把那張皮在衣服堆裡拽出來，仔細檢查一遍後，他驚訝的發現，這張皮上沒有任何傷口。",
+      "translated_vi": "Hắn ngồi xổm xuống, nén cơn buồn nôn và nỗi sợ hãi, lôi tấm da kia ra khỏi đống quần áo. Sau khi cẩn thận kiểm tra một lượt, hắn kinh ngạc nhận thấy trên tấm da này không hề có bất kỳ vết thương nào."
+    },
+    {
+      "para_id": "c0235p0078",
+      "index": 78,
+      "raw_zh": "是的，毫發無傷，但內髒，血液，骨頭都已經完全消失不見。",
+      "translated_vi": "Phải, không một tì vết, nhưng nội tạng, máu huyết cùng xương cốt đều đã hoàn toàn biến mất sạch trơn."
+    },
+    {
+      "para_id": "c0235p0079",
+      "index": 79,
+      "raw_zh": "乾乾淨淨的皮，內側甚至沒有留下點滴血汙。",
+      "translated_vi": "Tấm da sạch bong, mặt trong thậm chí chẳng lưu lại lấy một giọt vết máu."
+    },
+    {
+      "para_id": "c0235p0080",
+      "index": 80,
+      "raw_zh": "雲千峰又繞到桌子另一邊，仔細看向那個臉上帶著從右眼角到耳朵下刀疤的女人。",
+      "translated_vi": "Vân Thiên Phong lại vòng sang phía bên kia bàn, chăm chú nhìn người phụ nữ mang vết sẹo đao kéo dài từ đuôi mắt phải xuống tận dưới tai."
+    },
+    {
+      "para_id": "c0235p0081",
+      "index": 81,
+      "raw_zh": "當看到她那在LED燈下反射著點點晶光的臉頰，心中才明了：",
+      "translated_vi": "Khi nhìn thấy gò má cô ta phản chiếu những đốm sáng lấp lánh dưới ánh đèn LED, trong lòng hắn mới vỡ lẽ:"
+    },
+    {
+      "para_id": "c0235p0082",
+      "index": 82,
+      "raw_zh": "“怪不得一張皮也能保持這個動作，是因為皮膚完全凍透了，但只要我靠近他們，體溫輻射到他們，再動彈一下，他們就會垮掉。”",
+      "translated_vi": "“Thảo nào chỉ một tấm da cũng có thể giữ nguyên tư thế này, là vì da thịt đã bị đông cứng hoàn toàn. Nhưng chỉ cần tôi tới gần, thân nhiệt tỏa sang bọn họ, lại khẽ động đậy một cái là họ liền sụp đổ.”"
+    },
+    {
+      "para_id": "c0235p0083",
+      "index": 83,
+      "raw_zh": "雲千峰用手指輕輕一彈那個女人。",
+      "translated_vi": "Vân Thiên Phong dùng ngón tay búng nhẹ vào người phụ nữ đó."
+    },
+    {
+      "para_id": "c0235p0084",
+      "index": 84,
+      "raw_zh": "“呼啦！”",
+      "translated_vi": "“Soạt!”"
+    },
+    {
+      "para_id": "c0235p0085",
+      "index": 85,
+      "raw_zh": "又是耷拉在椅子上。",
+      "translated_vi": "Lại rũ rượi đọng trên ghế."
+    },
+    {
+      "para_id": "c0235p0086",
+      "index": 86,
+      "raw_zh": "雲千峰再次把那張皮拽出來，仔細檢查，確定與之前那人一樣，也是外表毫發無傷。",
+      "translated_vi": "Vân Thiên Phong lại lôi tấm da kia ra kiểm tra kỹ lưỡng, xác định cũng giống hệt như kẻ trước, bề ngoài không chút tì vết."
+    },
+    {
+      "para_id": "c0235p0087",
+      "index": 87,
+      "raw_zh": "“這很像是傳說之中雪人的傑作，看來雪人在這裡出現過，這東西的獵殺方法，和飛頭蠻還真是一脈相承。”",
+      "translated_vi": "“Thứ này rất giống tác phẩm của người tuyết trong truyền thuyết. Xem ra người tuyết từng xuất hiện ở đây, cách thức săn mồi của nó quả thực cùng một lò với Phi Đầu Man.”"
+    },
+    {
+      "para_id": "c0235p0088",
+      "index": 88,
+      "raw_zh": "沒有傷口，不代表沒有口，結合野人山的飛頭蠻，雲千峰幾乎能夠猜到雪人的獵殺方法。",
+      "translated_vi": "Không có vết thương không có nghĩa là không có lối vào, liên hệ với Phi Đầu Man ở Dã Nhân Sơn, Vân Thiên Phong gần như có thể đoán ra phương thức săn mồi của người tuyết."
+    },
+    {
+      "para_id": "c0235p0089",
+      "index": 89,
+      "raw_zh": "雲千峰把倆人身上的背包拿好，裡面有一些食物和彈藥。",
+      "translated_vi": "Vân Thiên Phong thu lấy ba lô trên người hai kẻ đó, bên trong có một ít lương thực và đạn dược."
+    },
+    {
+      "para_id": "c0235p0090",
+      "index": 90,
+      "raw_zh": "轉身準備帶琳達過來這裡再搜尋一番。",
+      "translated_vi": "Hắn quay người, định dẫn Linda qua đây lục soát thêm một lượt."
+    },
+    {
+      "para_id": "c0235p0091",
+      "index": 91,
+      "raw_zh": "然而一轉身的光景，他余光瞥到了桌子上的那因焚燒剩下半張的照片。",
+      "translated_vi": "Thế nhưng vừa lúc xoay người, khóe mắt hắn thoáng bắt gặp nửa tấm ảnh còn sót lại sau khi bị đốt dở trên bàn."
+    },
+    {
+      "para_id": "c0235p0092",
+      "index": 92,
+      "raw_zh": "因為照片受熱彎曲，打著卷，他現在的角度只能看到照片邊緣那兩個人，正是迪蒙迪維爾站的那兩個人，緊挨著的正是此刻變成皮的倆人。",
+      "translated_vi": "Do bức ảnh bị hơ nóng uốn cong cuộn tròn lại, từ góc độ hiện tại hắn chỉ có thể nhìn thấy hai người ở rìa ảnh, chính là hai kẻ ở trạm Dumont d'Urville, sát ngay bên cạnh chính là hai kẻ lúc này đã biến thành da."
+    },
+    {
+      "para_id": "c0235p0093",
+      "index": 93,
+      "raw_zh": "“這個獵殺小隊的成員嗎？”",
+      "translated_vi": "“Thành viên của tiểu đội săn lùng sao?”"
+    },
+    {
+      "para_id": "c0235p0094",
+      "index": 94,
+      "raw_zh": "那都是敵人，雲千峰急忙把那照片拿起來，用手抻平，對著那LED燈準備仔細看看。",
+      "translated_vi": "Tất cả đều là kẻ thù. Vân Thiên Phong vội vã nhặt bức ảnh lên, dùng tay vuốt phẳng ra, hướng về phía ánh đèn LED định nhìn cho thật kỹ."
+    },
+    {
+      "para_id": "c0235p0095",
+      "index": 95,
+      "raw_zh": "然而，隻一眼，他整個人就徹底呆住了。",
+      "translated_vi": "Thế nhưng chỉ mới một cái liếc mắt, cả người hắn đã hoàn toàn ngây dại."
+    },
+    {
+      "para_id": "c0235p0096",
+      "index": 96,
+      "raw_zh": "眼中是無盡的恐懼和極致的茫然。",
+      "translated_vi": "Trong mắt tràn ngập nỗi sợ hãi vô tận cùng sự hoang mang tột cùng."
+    },
+    {
+      "para_id": "c0235p0097",
+      "index": 97,
+      "raw_zh": "因為在照片裡，他看到了小神經。",
+      "translated_vi": "Bởi vì trong bức ảnh, hắn nhìn thấy Tiểu Thần Kinh."
+    },
+    {
+      "para_id": "c0235p0098",
+      "index": 98,
+      "raw_zh": "照片裡的小神經是那麽的青春洋溢，那麽的俏麗美貌。",
+      "translated_vi": "Tiểu Thần Kinh trong ảnh tràn trề sức sống thanh xuân, kiều diễm xinh đẹp biết bao."
+    },
+    {
+      "para_id": "c0235p0099",
+      "index": 99,
+      "raw_zh": "個子不高的她，踮著腳尖，用手挽著一個男人的脖子，那絕對是世界上最美的腰臀比，在這個動作下，充滿了一種極致的健康美。",
+      "translated_vi": "Thân hình không quá cao ráo, nàng kiễng mũi chân, hai tay ôm choàng lấy cổ một người đàn ông. Đó tuyệt đối là tỷ lệ eo hông hoàn mỹ nhất thế gian, dưới động tác này toát lên một vẻ đẹp khỏe khoắn đến tột cùng."
+    },
+    {
+      "para_id": "c0235p0100",
+      "index": 100,
+      "raw_zh": "照片上，被小神經挽著脖子的那個男人，被燒沒了半張臉，但哪怕只剩下半張臉，雲千峰還是一眼認出了他是誰，因為這個人他太過熟悉。",
+      "translated_vi": "Trên ảnh chụp, người đàn ông được Tiểu Thần Kinh ôm cổ đã bị lửa thiêu rụi nửa khuôn mặt, nhưng dẫu chỉ còn lại nửa gương mặt, Vân Thiên Phong vẫn nhận ra ngay đó là ai, bởi vì người này đối với hắn quá đỗi quen thuộc."
+    },
+    {
+      "para_id": "c0235p0101",
+      "index": 101,
+      "raw_zh": "“怎麽可能？這怎麽可能！這一定是假的！假的！”",
+      "translated_vi": "“Làm sao có thể chứ? Sao có thể như vậy được! Đây nhất định là giả! Là giả tạo!”"
+    },
+    {
+      "para_id": "c0235p0102",
+      "index": 102,
+      "raw_zh": "感謝肖娜丶的打賞，謝謝你一直都在這裡！！！",
+      "translated_vi": "Cảm ơn Tiêu Na đã khen thưởng, cảm ơn bạn vẫn luôn ở nơi này đồng hành cùng tôi!!!"
+    },
+    {
+      "para_id": "c0235p0103",
+      "index": 103,
+      "raw_zh": "感謝瓷格格、肖娜丶、塔克斯、你是聽書客還是故中人、八方翰墨丶、真的該昵稱已存在、尾數26591、無語passion、巽風揚、有趣的靈魂不敵好看的皮囊、本寶貓日、該幹嘛幹嘛呢、尾數20567、尾數06248、尾數00485、3D胸神、尾數29901、大大可愛的小將軍、YC525、首勝可拿、米奇妙妙妙脆角、韓夢寒夢非攻、尾數59092、竹樽的月票獎勵，你們太給力了！！！",
+      "translated_vi": "Cảm ơn phần thưởng phiếu tháng của Từ Cách Cách, Tiêu Na, Tháp Khắc Tư, Bạn Là Khách Nghe Sách Hay Người Trong Cuộc, Bát Phương Hàn Mặc, Biệt Danh Này Thực Sự Đã Tồn Tại, Đuôi số 26591, Vô Ngữ passion, Tốn Phong Dương, Linh Hồn Thú Vị Không Bằng Lớp Vỏ Đẹp Đẽ, Bổn Bảo Miêu Nhật, Việc Ai Nấy Làm Đi, Đuôi số 20567, Đuôi số 06248, Đuôi số 00485, 3D Hung Thần, Đuôi số 29901, Tiểu Tướng Quân Đại Khả Ái, YC525, Thủ Thắng Khả Nã, Mễ Kỳ Diệu Diệu Diệu Thúy Giác, Hàn Mộng Hàn Mộng Phi Công, Đuôi số 59092, Trúc Tôn, các bạn tuyệt vời quá đi mất!!!"
+    },
+    {
+      "para_id": "c0235p0104",
+      "index": 104,
+      "raw_zh": "謝謝你們的支持，感激！！！",
+      "translated_vi": "Cảm ơn sự ủng hộ của các bạn, vô cùng cảm kích!!!"
+    },
+    {
+      "para_id": "c0235p0105",
+      "index": 105,
+      "raw_zh": "祝大家好夢，晚安！！！",
+      "translated_vi": "Chúc mọi người mộng đẹp, ngủ ngon nhé!!!"
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 39,
+  "title": "Chương 39: Xác chết vùng dậy?",
+  "total_paragraphs": 79,
+  "translated_paragraphs": 79,
+  "source_hash": "0609d3842ff37414bb98c104e3fbf07b3d8b96f132c006ae27d8ef67c4658980",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0039p0001",
+      "index": 1,
+      "raw_zh": "第39章 詐屍？",
+      "translated_vi": "Chương 39: Xác chết vùng dậy?"
+    },
+    {
+      "para_id": "c0039p0002",
+      "index": 2,
+      "raw_zh": "橋的另一頭並沒有孟婆，只在一塊巨大的石頭下有一眼清泉。",
+      "translated_vi": "Đầu bên kia của cây cầu không hề có Mạnh Bà, chỉ có một mạch suối trong vắt tuôn chảy dưới chân một khối đá khổng lồ."
+    },
+    {
+      "para_id": "c0039p0003",
+      "index": 3,
+      "raw_zh": "那石頭大得可以稱之為石山，站在跟前，左右上下看不到邊。",
+      "translated_vi": "Khối đá ấy đồ sộ đến độ có thể gọi là một ngọn núi đá, đứng ngay trước mặt nhìn sang trái sang phải, ngước lên ngó xuống đều chẳng thấy bờ cõi đâu."
+    },
+    {
+      "para_id": "c0039p0004",
+      "index": 4,
+      "raw_zh": "泉眼就在這塊大石頭的腳下，水是在大石頭上的裂縫裡滲出，清澈的如同無物。",
+      "translated_vi": "Miệng suối nằm ngay dưới chân tảng cự thạch, nước từ khe nứt trên vách đá rỉ ra, trong vắt tựa như hư không."
+    },
+    {
+      "para_id": "c0039p0005",
+      "index": 5,
+      "raw_zh": "在這裡他們不再需要夜明珠，因為到處可見火光。",
+      "translated_vi": "Ở nơi này họ không còn cần đến dạ minh châu nữa, bởi vì khắp chốn đều nhìn thấy ánh lửa bập bùng."
+    },
+    {
+      "para_id": "c0039p0006",
+      "index": 6,
+      "raw_zh": "那應該是一盞盞燈火，亂而有序的排列在遠近各處，將這個巨大的地下空間若隱若現的呈現在他們眼前。",
+      "translated_vi": "Đó hẳn là những ngọn đèn dầu, được bài trí hỗn độn nhưng lại ngầm ẩn quy luật ở khắp các cự ly gần xa, khiến cả không gian ngầm khổng lồ này hiện lên mờ ảo, chập chờn trước mắt họ."
+    },
+    {
+      "para_id": "c0039p0007",
+      "index": 7,
+      "raw_zh": "他們非常口渴，但在泉水前面躊躇一會兒後，終究沒敢飲用。",
+      "translated_vi": "Cả ba đều đang khát khô cổ họng, nhưng chần chừ trước vũng suối một hồi lâu, rốt cuộc vẫn chẳng ai dám cúi xuống uống ngụm nào."
+    },
+    {
+      "para_id": "c0039p0008",
+      "index": 8,
+      "raw_zh": "繞過巨石，他們準備沿著這條石路繼續向前，尋找上一支隊伍留下的痕跡。",
+      "translated_vi": "Vòng qua tảng cự thạch, họ chuẩn bị men theo con đường đá này tiếp tục tiến về phía trước, tìm kiếm dấu vết mà đoàn người đi trước để lại."
+    },
+    {
+      "para_id": "c0039p0009",
+      "index": 9,
+      "raw_zh": "“血腥味！”",
+      "translated_vi": "“Mùi máu tanh!”"
+    },
+    {
+      "para_id": "c0039p0010",
+      "index": 10,
+      "raw_zh": "繞過去沒走幾步，秦疏影突然一把拉住打頭的雲千峰緊張的說道。",
+      "translated_vi": "Vừa vòng qua tảng đá đi chưa được mấy bước, Tần Sơ Ảnh bỗng nắm chặt lấy cánh tay Vân Thiên Phong đang đi đầu, căng thẳng khẽ thốt lên."
+    },
+    {
+      "para_id": "c0039p0011",
+      "index": 11,
+      "raw_zh": "她的職業讓她對血腥味非常熟悉且敏感。",
+      "translated_vi": "Nghề nghiệp bác sĩ khiến cô quá đỗi quen thuộc và đặc biệt nhạy cảm với mùi tanh của máu."
+    },
+    {
+      "para_id": "c0039p0012",
+      "index": 12,
+      "raw_zh": "雲千峰急忙站定，提著狗腿刀警惕的看著身前六路。",
+      "translated_vi": "Vân Thiên Phong lập tức khựng bước, lăm lăm con dao quắm, cảnh giác liếc mắt quan sát tứ bề xung quanh."
+    },
+    {
+      "para_id": "c0039p0013",
+      "index": 13,
+      "raw_zh": "秦疏影用鼻子在空氣裡追尋了一下，指著那巨大石頭遮擋住的陰影處道：",
+      "translated_vi": "Tần Sơ Ảnh hít nhẹ cánh mũi lần theo luồng khí vị trong không gian, rồi chỉ tay về phía góc khuất râm tối bị khối đá lớn che phủ:"
+    },
+    {
+      "para_id": "c0039p0014",
+      "index": 14,
+      "raw_zh": "“氣味在那裡傳過來。”",
+      "translated_vi": "“Mùi tanh bốc ra từ góc đằng kia.”"
+    },
+    {
+      "para_id": "c0039p0015",
+      "index": 15,
+      "raw_zh": "雲千峰不敢輕易涉險查探，忙在兜裡掏出一顆夜明珠，順手滾到那陰影處。",
+      "translated_vi": "Vân Thiên Phong không dám mạo hiểm tiến lại gần ngay, liền vội móc một viên dạ minh châu trong túi ra, tiện tay lăn nó về phía góc tối đó."
+    },
+    {
+      "para_id": "c0039p0016",
+      "index": 16,
+      "raw_zh": "夜明珠的冷光雖然朦朧，但卻讓三人看到了那陰影之中的東西。",
+      "translated_vi": "Ánh sáng lạnh mờ ảo của dạ minh châu dù có phần mông lung, nhưng cũng đủ giúp ba người nhìn rõ vật thể đang ẩn mình trong bóng tối."
+    },
+    {
+      "para_id": "c0039p0017",
+      "index": 17,
+      "raw_zh": "那是一個人，穿著戶外防風服，背包還在背上挎著，整個人就那麽斜靠在巨石與旁邊石壁的角落裡。",
+      "translated_vi": "Đó là một bóng người mặc bộ đồ dã ngoại chắn gió, ba lô vẫn còn đeo trĩu trên lưng, cả thân người cứ thế ngồi tựa nghiêng nghiêng vào góc kẹt giữa khối cự thạch và vách đá bên cạnh."
+    },
+    {
+      "para_id": "c0039p0018",
+      "index": 18,
+      "raw_zh": "雲千峰壯起膽子，對著陰影處問道：",
+      "translated_vi": "Vân Thiên Phong lấy hết can đảm, cất tiếng hỏi vọng vào góc tối:"
+    },
+    {
+      "para_id": "c0039p0019",
+      "index": 19,
+      "raw_zh": "“還活著嗎兄弟？”",
+      "translated_vi": "“Còn sống không anh bạn ơi?”"
+    },
+    {
+      "para_id": "c0039p0020",
+      "index": 20,
+      "raw_zh": "沒有人回答。",
+      "translated_vi": "Không một tiếng hồi đáp."
+    },
+    {
+      "para_id": "c0039p0021",
+      "index": 21,
+      "raw_zh": "雲千峰示意兩女在原地等待，他深吸一口氣，提著狗腿刀，貓腰弓身，小心翼翼的靠過去。",
+      "translated_vi": "Vân Thiên Phong ra hiệu cho hai cô gái đứng yên tại chỗ chờ đợi. Hắn hít sâu một hơi, cầm chắc con dao quắm, khom lưng cúi người, cẩn trọng từng bước rón rén tiến lại gần."
+    },
+    {
+      "para_id": "c0039p0022",
+      "index": 22,
+      "raw_zh": "來到近前，他先用刀背碰了碰那人，見毫無反應，有用刀側在他全身輕拍了一遍，確定他身上沒有藏著有毒的生物，這才抓住他的肩膀，將他拽到光線比較明亮的地方。",
+      "translated_vi": "Đến sát bên cạnh, trước hết hắn dùng sống dao chạm nhẹ vào người nọ, thấy chẳng có phản ứng gì, lại dùng mặt phẳng thân dao vỗ nhẹ khắp một lượt từ trên xuống dưới, xác nhận trên thân thể không ẩn nấp loài sinh vật kịch độc nào, bấy giờ mới nắm lấy bả vai kéo người đó ra vùng ánh sáng tỏ hơn."
+    },
+    {
+      "para_id": "c0039p0023",
+      "index": 23,
+      "raw_zh": "薑柔甲在燈火下看清楚這人的著裝後，忙一臉擔憂的奔過來：",
+      "translated_vi": "Dưới ánh đèn le lói, nhìn rõ bộ trang phục của người này, Khương Nhu Giáp liền lo lắng hớt hải chạy ùa tới:"
+    },
+    {
+      "para_id": "c0039p0024",
+      "index": 24,
+      "raw_zh": "“和我哥他們買的衣服是一樣的！”",
+      "translated_vi": "“Quần áo y hệt như đồ anh trai em và đoàn người mua sắm!”"
+    },
+    {
+      "para_id": "c0039p0025",
+      "index": 25,
+      "raw_zh": "雲千峰認得這個品牌的戶外服，價格不菲，都是德國造。",
+      "translated_vi": "Vân Thiên Phong nhận ra nhãn hiệu đồ dã ngoại này, giá cả đắt đỏ vô cùng, toàn bộ đều sản xuất tại Đức."
+    },
+    {
+      "para_id": "c0039p0026",
+      "index": 26,
+      "raw_zh": "薑柔甲撲到跟前，看了那人面容一眼，懸著心才放下，那不是他哥。",
+      "translated_vi": "Khương Nhu Giáp nhào tới kề sát, ngó nghiêng gương mặt người nọ một lượt, tảng đá trong lòng mới chịu buông xuống: đó không phải là anh trai cô."
+    },
+    {
+      "para_id": "c0039p0027",
+      "index": 27,
+      "raw_zh": "秦疏影探了探屍體脖子上的脈搏，搖了搖頭，道：",
+      "translated_vi": "Tần Sơ Ảnh đưa ngón tay bắt mạch nơi cổ thi thể, khẽ lắc đầu bảo:"
+    },
+    {
+      "para_id": "c0039p0028",
+      "index": 28,
+      "raw_zh": "“死了。”",
+      "translated_vi": "“Chết rồi.”"
+    },
+    {
+      "para_id": "c0039p0029",
+      "index": 29,
+      "raw_zh": "說完，她解開屍體的衣服檢查傷痕，又用手在屍體各處按了按，然後說道：",
+      "translated_vi": "Dứt lời, cô mở khóa áo của thi thể để khám nghiệm thương tích, lại dùng tay ấn nhẹ vào các khớp xương trên khắp thân thể, rồi nhận xét:"
+    },
+    {
+      "para_id": "c0039p0030",
+      "index": 30,
+      "raw_zh": "“頸骨折斷，後背和肩膀的骨頭都斷了，應該是受到了巨大的鈍性撞擊，但因為背包隔著，突然的慣性導致了頸骨折斷。”",
+      "translated_vi": "“Đốt sống cổ bị gãy vụn, xương sống lưng và khớp vai đều gãy dập, hẳn là đã phải hứng chịu một cú va đập cùn cực mạnh. Nhưng nhờ có chiếc ba lô cản bớt nên quán tính đột ngột đã bẻ gãy xương cổ.”"
+    },
+    {
+      "para_id": "c0039p0031",
+      "index": 31,
+      "raw_zh": "雲千峰點了點頭，稍微思索，拿起屍體腰帶上別著的一個狼牙手電，當下打開來，重新回到屍體之前所在的角落。",
+      "translated_vi": "Vân Thiên Phong gật đầu, thoáng suy nghĩ rồi tháo chiếc đèn pin răng sói gắn trên thắt lưng của thi thể xuống, bật sáng lên rồi quay trở lại góc kẹt nơi nạn nhân từng ngồi dựa lúc nãy."
+    },
+    {
+      "para_id": "c0039p0032",
+      "index": 32,
+      "raw_zh": "他用手電照射牆壁，看到了染在巨石上的血跡，這樣一路向上照射，在接近五米的高處，才看到血痕的起始點。",
+      "translated_vi": "Hắn rọi đèn pin lên mặt vách đá, trông thấy những vệt máu tươi loang lổ trên khối cự thạch. Cứ thế rọi thẳng đứng lên cao, mãi tới độ cao gần năm mét mới nhìn thấy điểm xuất phát của vệt máu."
+    },
+    {
+      "para_id": "c0039p0033",
+      "index": 33,
+      "raw_zh": "秦疏影驚訝的搖頭歎道：",
+      "translated_vi": "Tần Sơ Ảnh kinh ngạc lắc đầu cảm thán:"
+    },
+    {
+      "para_id": "c0039p0034",
+      "index": 34,
+      "raw_zh": "“腦部撞擊的血跡在五米高處，那個人身高大約一米八，也就是說他被撞飛了三米多高，然後後背接觸這塊巨石，造成了那些致命的損傷，這是被汽車撞了嗎？”",
+      "translated_vi": "“Vết máu do phần đầu va đập nằm ở độ cao năm mét, người này cao chừng một mét tám, nghĩa là nạn nhân đã bị hất tung lên cao hơn ba mét rồi lưng đập mạnh vào tảng đá này dẫn tới những thương tổn chí mạng. Chuyện này... chẳng lẽ là bị xe ô tô tông phải ư?”"
+    },
+    {
+      "para_id": "c0039p0035",
+      "index": 35,
+      "raw_zh": "很顯然這裡沒有汽車，有也開不起來，石路彎彎繞繞。",
+      "translated_vi": "Hiển nhiên nơi sâu dưới lòng đất này làm gì có xe hơi, mà dẫu có xe thì đường đá quanh co khúc khuỷu thế này cũng chẳng tài nào chạy nổi."
+    },
+    {
+      "para_id": "c0039p0036",
+      "index": 36,
+      "raw_zh": "雲千峰則搖頭道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu bác bỏ:"
+    },
+    {
+      "para_id": "c0039p0037",
+      "index": 37,
+      "raw_zh": "“不對，如果是被撞飛，那麽他身前被撞擊的位置也會有骨折，但這具屍體沒有，說明他是被抓著拋飛，然後後背撞擊石壁。”",
+      "translated_vi": "“Không đúng. Nếu bị xe đâm văng thì vị trí va chạm phía trước ngực bụng ắt cũng phải gãy xương, nhưng thi thể này lại hoàn toàn không có vết tích ấy. Điều đó chứng tỏ nạn nhân đã bị thứ gì đó túm lấy rồi quăng quật lên không trung, sau đó lưng va đập dữ dội vào vách đá.”"
+    },
+    {
+      "para_id": "c0039p0038",
+      "index": 38,
+      "raw_zh": "薑柔甲顯然還沒在秦疏影那句“車撞”的形容下走出來，下意識道：",
+      "translated_vi": "Khương Nhu Giáp hiển nhiên vẫn chưa thoát khỏi ấn tượng về hình ảnh ‘xe tông’ của Tần Sơ Ảnh, bất giác buột miệng:"
+    },
+    {
+      "para_id": "c0039p0039",
+      "index": 39,
+      "raw_zh": "“吊車？”",
+      "translated_vi": "“Cần cẩu ư?”"
+    },
+    {
+      "para_id": "c0039p0040",
+      "index": 40,
+      "raw_zh": "另外倆人沒搭理她。",
+      "translated_vi": "Hai người kia chẳng buồn đoái hoài tới câu hỏi ngớ ngẩn đó."
+    },
+    {
+      "para_id": "c0039p0041",
+      "index": 41,
+      "raw_zh": "雲千峰想到了什麽，道：",
+      "translated_vi": "Vân Thiên Phong chợt nghĩ ra điều gì, bèn bảo:"
+    },
+    {
+      "para_id": "c0039p0042",
+      "index": 42,
+      "raw_zh": "“檢查地面有沒有血痕和腳印。”",
+      "translated_vi": "“Kiểm tra xem dưới mặt đất có vệt máu hay dấu chân nào không.”"
+    },
+    {
+      "para_id": "c0039p0043",
+      "index": 43,
+      "raw_zh": "他們用手電在地面上照射，把附近看了個遍。",
+      "translated_vi": "Cả ba soi đèn pin khắp mặt sàn đá, săm soi tỉ mỉ từng ngóc ngách xung quanh."
+    },
+    {
+      "para_id": "c0039p0044",
+      "index": 44,
+      "raw_zh": "然而他們什麽也沒找到，這裡沒有灰塵，所以也沒有腳印，更沒有血痕。",
+      "translated_vi": "Song bọn họ chẳng tìm thấy bất kỳ dấu vết nào. Nơi đây không có lấy một hạt bụi, thế nên tuyệt nhiên không lưu lại dấu chân, càng chẳng thấy một giọt máu rơi rớt."
+    },
+    {
+      "para_id": "c0039p0045",
+      "index": 45,
+      "raw_zh": "雲千峰低聲道：",
+      "translated_vi": "Vân Thiên Phong trầm giọng nói:"
+    },
+    {
+      "para_id": "c0039p0046",
+      "index": 46,
+      "raw_zh": "“沒有血痕就好，證明其他人大概率還活著，他們能逃掉，那麽就不是必死的危險。”",
+      "translated_vi": "“Không có vệt máu là tốt rồi, chứng tỏ những người khác xác suất lớn vẫn còn sống. Họ có thể trốn thoát được thì mối nguy hiểm này chưa hẳn là cửa tử không lối thoát.”"
+    },
+    {
+      "para_id": "c0039p0047",
+      "index": 47,
+      "raw_zh": "說完，他把屍體平躺在石地上，把屍體腰袢的軍刀拿下來，別在自己的腰帶上，再把背包卸下來，在一邊打開查看裡面的東西。",
+      "translated_vi": "Nói đoạn, hắn đặt thi thể nằm ngay ngắn trên mặt đá, tháo con dao găm quân dụng bên hông nạn nhân giắt vào thắt lưng mình, rồi gỡ chiếc ba lô xuống, mở ra kiểm tra đồ đạc bên trong."
+    },
+    {
+      "para_id": "c0039p0048",
+      "index": 48,
+      "raw_zh": "背包裡原本有三罐罐頭，但是在撞擊下，被壓扁，裡面的牛肉和湯汁灑了一背包。",
+      "translated_vi": "Trong ba lô vốn có ba hộp thịt hộp, nhưng do va đập khủng khiếp nên đã bẹp dúm dó, thịt bò cùng nước sốt sánh đặc vung vãi bê bết khắp lòng túi."
+    },
+    {
+      "para_id": "c0039p0049",
+      "index": 49,
+      "raw_zh": "其它的物件也基本沒法用了，倒是睡袋還保存完好，但可惜被牛肉罐頭的湯汁濕的一塌糊塗。",
+      "translated_vi": "Những món đồ lặt vặt khác hầu như đều hư hỏng cả, duy chỉ có chiếc túi ngủ là còn nguyên vẹn, tiếc rằng đã bị nước thịt bò ngấm vào ướt sũng nham nhở."
+    },
+    {
+      "para_id": "c0039p0050",
+      "index": 50,
+      "raw_zh": "雲千峰招呼兩女，三個人把背包裡的牛肉撿起來吃掉，他們太需要能量了。",
+      "translated_vi": "Vân Thiên Phong ngoắc tay gọi hai cô gái, ba người bèn nhặt nhạnh chỗ thịt bò còn sạch sẽ trong ba lô chia nhau ăn lót dạ. Lúc này họ thực sự quá cần bổ sung năng lượng."
+    },
+    {
+      "para_id": "c0039p0051",
+      "index": 51,
+      "raw_zh": "吃乾淨後，雲千峰把裡面損壞的零碎全都倒掉，隻留下背包和睡袋。",
+      "translated_vi": "Ăn xong xuôi, Vân Thiên Phong đổ bỏ toàn bộ những mảnh vụn vỡ hỏng hóc bên trong đi, chỉ giữ lại chiếc ba lô cùng túi ngủ."
+    },
+    {
+      "para_id": "c0039p0052",
+      "index": 52,
+      "raw_zh": "他把睡袋鋪在石頭上，說道：",
+      "translated_vi": "Hắn trải chiếc túi ngủ lên mặt phiến đá rồi bảo:"
+    },
+    {
+      "para_id": "c0039p0053",
+      "index": 53,
+      "raw_zh": "“輪班小睡一會兒，然後咱們一鼓作氣找到薑玉林他們。”",
+      "translated_vi": "“Chia nhau thay phiên chợp mắt một lát, sau đó bọn mình dốc toàn lực một mạch tìm cho bằng được nhóm của Khương Ngọc Lâm.”"
+    },
+    {
+      "para_id": "c0039p0054",
+      "index": 54,
+      "raw_zh": "幾個人都太累了，即便是最急著尋找哥哥的薑柔甲也有點支撐不住，當下點頭讚成。",
+      "translated_vi": "Mấy người bọn họ quả thực đã kiệt sức. Ngay cả Khương Nhu Giáp — người sốt ruột tìm anh trai nhất — lúc này cũng không thể gắng gượng thêm nổi nữa, liền gật đầu đồng thuận ngay."
+    },
+    {
+      "para_id": "c0039p0055",
+      "index": 55,
+      "raw_zh": "為了兩女都能睡個囫圇的一小時，第一班由薑柔甲放哨，第二班雲千峰，這樣雲千峰就是睡兩個三十分鍾。",
+      "translated_vi": "Để hai cô gái đều có thể ngủ trọn vẹn một tiếng đồng hồ, ca gác đầu tiên do Khương Nhu Giáp đảm nhiệm, ca thứ hai tới phiên Vân Thiên Phong, tính ra Vân Thiên Phong sẽ được ngủ ngắt quãng hai chập ba mươi phút."
+    },
+    {
+      "para_id": "c0039p0056",
+      "index": 56,
+      "raw_zh": "雲千峰剛躺下沒有三秒鍾，輕微的鼾聲便響了起來，秦疏影躺在睡袋上，緊挨著雲千峰，看到他比之前消瘦了太多的臉頰，莫名的心疼。",
+      "translated_vi": "Vân Thiên Phong vừa ngả lưng chưa đầy ba giây, tiếng ngáy khe khẽ đã cất lên đều đặn. Tần Sơ Ảnh nằm trên túi ngủ sát cạnh Vân Thiên Phong, đưa mắt ngắm nhìn gò má hốc hác gầy rộc đi quá nhiều của hắn, lòng chợt dâng lên nỗi xót xa khó tả."
+    },
+    {
+      "para_id": "c0039p0057",
+      "index": 57,
+      "raw_zh": "然後便倚著雲千峰一條手臂，臉靠在他的肩膀上，沉沉睡去。",
+      "translated_vi": "Rồi cô khẽ gối đầu lên một cánh tay Vân Thiên Phong, nép mặt vào bờ vai hắn, an tâm chìm sâu vào giấc ngủ say nồng."
+    },
+    {
+      "para_id": "c0039p0058",
+      "index": 58,
+      "raw_zh": "也不知過了多久，雲千峰被薑柔甲搖醒，他以為半個小時到了，但是習慣性的一看手表，自己才睡了十幾分鍾，當下立馬精神起來。",
+      "translated_vi": "Chẳng rõ đã trôi qua bao lâu, Vân Thiên Phong bị Khương Nhu Giáp lay mạnh người đánh thức. Hắn ngỡ rằng nửa tiếng đã hết, nhưng theo thói quen liếc nhìn đồng hồ thì thấy mình mới chỉ chợp mắt được mười mấy phút, tinh thần hắn lập tức bừng tỉnh táo hẳn."
+    },
+    {
+      "para_id": "c0039p0059",
+      "index": 59,
+      "raw_zh": "薑柔甲雖然有時候嬌憨，但在雲千峰的事情上，絕不會犯這種低級錯誤，那麽唯一的可能就是出事了。",
+      "translated_vi": "Khương Nhu Giáp tuy đôi lúc có phần ngây thơ nhõng nhẽo, nhưng trong những việc can hệ đến Vân Thiên Phong, cô tuyệt đối không bao giờ phạm phải sai lầm ấu trĩ như vậy. Thế thì khả năng duy nhất chính là đã xảy ra chuyện biến cố rồi."
+    },
+    {
+      "para_id": "c0039p0060",
+      "index": 60,
+      "raw_zh": "雲千峰一咕嚕爬起來，這動作把倚在他肩膀沉睡的秦疏影也弄醒了，她睜開迷蒙的杏眼，嘟囔道：",
+      "translated_vi": "Vân Thiên Phong vùng dậy cái rụp, động tác bất ngờ ấy cũng làm kinh động Tần Sơ Ảnh đang say ngủ trên vai hắn. Cô he hé đôi mắt hạnh mơ màng, ngái ngủ lẩm bẩm:"
+    },
+    {
+      "para_id": "c0039p0061",
+      "index": 61,
+      "raw_zh": "“這麽快到我了？”",
+      "translated_vi": "“Nhanh thế đã đến lượt tôi rồi ư?”"
+    },
+    {
+      "para_id": "c0039p0062",
+      "index": 62,
+      "raw_zh": "然而迎來的卻是雲千峰的手掌按住了她的嘴唇。",
+      "translated_vi": "Thế nhưng đáp lại cô là bàn tay của Vân Thiên Phong vội vã đưa tới bịt chặt lấy đôi môi nàng."
+    },
+    {
+      "para_id": "c0039p0063",
+      "index": 63,
+      "raw_zh": "秦疏影意識到一定是出事了，當下睡意全無，順著雲千峰和薑柔甲的眼睛看過去。",
+      "translated_vi": "Tần Sơ Ảnh lập tức nhận thức được tình hình nguy cấp, cơn buồn ngủ tan biến sạch trơn. Cô nương theo ánh mắt chăm chú của Vân Thiên Phong và Khương Nhu Giáp nhìn sang."
+    },
+    {
+      "para_id": "c0039p0064",
+      "index": 64,
+      "raw_zh": "他們倆都在盯著那具屍體目不轉睛。",
+      "translated_vi": "Cả hai người đều đang dán chặt mắt vào xác chết đằng kia không chớp lấy một cái."
+    },
+    {
+      "para_id": "c0039p0065",
+      "index": 65,
+      "raw_zh": "突然，那屍體腰部使勁往上一弓，力氣很大，整個人彈起來十幾公分，再咚的落在地上。",
+      "translated_vi": "Đột nhiên, phần eo của cái xác bỗng cong vút ngược lên trên với một lực cực mạnh, cả thân thể nảy bổng lên không trung mười mấy phân, rồi “bịch” một tiếng rơi đập xuống mặt sàn đá!"
+    },
+    {
+      "para_id": "c0039p0066",
+      "index": 66,
+      "raw_zh": "這一幕嚇得秦疏影一哆嗦，要不是雲千峰捂著她的嘴，她一定會情不自禁的驚叫出聲。",
+      "translated_vi": "Cảnh tượng ấy dọa Tần Sơ Ảnh run rẩy cả người, nếu không nhờ bàn tay Vân Thiên Phong bịt miệng kịp thời, cô nhất định đã kinh hãi hét toáng lên rồi."
+    },
+    {
+      "para_id": "c0039p0067",
+      "index": 67,
+      "raw_zh": "薑柔甲也是如此，這丫頭咬著自己的拳頭呢。",
+      "translated_vi": "Khương Nhu Giáp cũng chẳng khá hơn, cô nàng sợ đến mức phải cắn chặt cả nắm tay mình để ngăn tiếng thét."
+    },
+    {
+      "para_id": "c0039p0068",
+      "index": 68,
+      "raw_zh": "薑柔甲之所以沒到時間就把雲千峰叫醒，就是因為她看到屍體動了一下。",
+      "translated_vi": "Sở dĩ Khương Nhu Giáp chưa hết giờ đã vội đánh thức Vân Thiên Phong dậy là bởi vừa rồi cô đã trông thấy cái xác khẽ giật mình một cái."
+    },
+    {
+      "para_id": "c0039p0069",
+      "index": 69,
+      "raw_zh": "秦疏影看到的已經是那具屍體第二次動。",
+      "translated_vi": "Mà khoảnh khắc Tần Sơ Ảnh nhìn thấy vừa rồi đã là lần động đậy thứ hai của cái xác."
+    },
+    {
+      "para_id": "c0039p0070",
+      "index": 70,
+      "raw_zh": "屍體落地後陷入短暫沉寂，緊接著再次彈起，這次彈到了將近五十公分高度，然後落地。",
+      "translated_vi": "Thi thể rơi xuống đất chìm vào tĩnh lặng trong giây lát, ngay sau đó lại nảy bật lên lần nữa, lần này bắn cao tới gần nửa mét rồi mới rớt xuống sàn."
+    },
+    {
+      "para_id": "c0039p0071",
+      "index": 71,
+      "raw_zh": "隨後那屍體的腦袋偏轉過來，灰色的眸子盯著三人看了一眼。",
+      "translated_vi": "Ngay sau đó, cái đầu của xác chết từ từ ngoẹo hẳn sang bên, đôi tròng mắt xám ngoét đục ngầu trừng trừng liếc nhìn về phía ba người bọn họ!"
+    },
+    {
+      "para_id": "c0039p0072",
+      "index": 72,
+      "raw_zh": "看到這個動作，雲千峰蹭的一下站起身，整個人虎撲一樣衝向那具屍體，將手裡的匕首扎進屍體的眼眶，然後也不看戰果，火速轉身開跑，嘴裡喊著：",
+      "translated_vi": "Thấy điệu bộ ghê rợn ấy, Vân Thiên Phong bật dậy như lò xo, cả người tựa như mãnh hổ vồ mồi lao vụt tới chỗ xác chết, cắm phập lưỡi dao găm thẳng vào hốc mắt cái xác! Xong đòn, hắn chẳng buồn ngó ngàng xem kết quả ra sao, lập tức quay ngoắt người co giò tháo chạy, miệng gào to:"
+    },
+    {
+      "para_id": "c0039p0073",
+      "index": 73,
+      "raw_zh": "“快跑！詐屍了，這家夥在適應自己的身體。”",
+      "translated_vi": "“Chạy mau! Xác chết sống lại rồi, thứ này đang làm quen để điều khiển thân xác đấy!”"
+    },
+    {
+      "para_id": "c0039p0074",
+      "index": 74,
+      "raw_zh": "喊著，人已經跑回兩女跟前，也不管睡袋了，抓住兩女一人一條手臂，撒丫子狂奔。",
+      "translated_vi": "Vừa hét, hắn đã vọt về tới chỗ hai cô gái, chẳng màng tới chiếc túi ngủ nữa, túm chặt lấy mỗi nàng một cánh tay mà cắm đầu cắm cổ tháo chạy thục mạng."
+    },
+    {
+      "para_id": "c0039p0075",
+      "index": 75,
+      "raw_zh": "兩女不像雲千峰，不管不顧捅了一刀就跑，頭都不帶回的，根本不看一刀的結果。",
+      "translated_vi": "Hai cô gái không có được bản lĩnh như Vân Thiên Phong — đâm xong một nhát là cắm đầu chạy biến chẳng thèm ngoái đầu nhìn lại thành quả."
+    },
+    {
+      "para_id": "c0039p0076",
+      "index": 76,
+      "raw_zh": "她們倆人可沒有那個好的心理素質，一邊隨著雲千峰狂奔，一邊禁不住回頭看去。",
+      "translated_vi": "Tâm lý hai nàng nào đã vững vàng được đến mức ấy, thế nên vừa bị Vân Thiên Phong lôi điên cuồng chạy trốn, hai người vừa không kìm được ngoái cổ nhìn lại sau lưng."
+    },
+    {
+      "para_id": "c0039p0077",
+      "index": 77,
+      "raw_zh": "就見那躺在地上的屍體身體波浪式的蠕動，突然整個身體好似表盤的指針一般，原地打了個旋，腦袋蛇一樣的抬起。",
+      "translated_vi": "Chỉ thấy cái xác nằm trên sàn bỗng uốn lượn thân thể theo từng đợt sóng nhấp nhô, rồi bất thần toàn bộ thân mình tựa như kim đồng hồ xoay tít một vòng tại chỗ, cái đầu ngóc dựng đứng lên hệt như loài rắn độc!"
+    },
+    {
+      "para_id": "c0039p0078",
+      "index": 78,
+      "raw_zh": "那屍體臉上，左眼插著一把匕首，那剩下的右眼，用灰色的眸子盯著三人逃跑的背影，突然發出一聲撕裂的怪叫，整個身體猶如毒蛇一般，在地上蚰蜒爬行，速度奇快的朝著三人追了過去。",
+      "translated_vi": "Trên gương mặt cái xác, mắt trái vẫn cắm ngập cán dao găm, con mắt phải xám ngoét còn lại trừng trừng dán chặt vào bóng lưng ba người đang tháo chạy. Đột nhiên nó rít lên một tiếng gào xé tai rợn gáy, toàn thân hệt như một con mãng xà kịch độc, uốn éo trườn bò loằng ngoằng trên mặt đất với tốc độ kinh hồn đuổi riết theo ba người!"
+    },
+    {
+      "para_id": "c0039p0079",
+      "index": 79,
+      "raw_zh": "感謝書友凌七爺和尾數44062的月票，謝謝你們的支持，無比感激！！！",
+      "translated_vi": "Cảm ơn phiếu tháng của độc giả Lăng Thất Gia và bạn đọc có số đuôi 44062, cảm ơn sự ủng hộ của các bạn, vô cùng cảm kích!!!"
+    }
+  ]
+}

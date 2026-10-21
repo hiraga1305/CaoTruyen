@@ -1,0 +1,554 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 258,
+  "title": "Chương 258: Nhảy dựng lên mà đánh!",
+  "total_paragraphs": 90,
+  "translated_paragraphs": 90,
+  "source_hash": "54bf8d99940462516f19822162a4cafa3fb55d34100b1ec4e5502c4587e864e7",
+  "model_used": "gemini-3.8-flash-high",
+  "elapsed_seconds": 111.23,
+  "bilingual_alignment": [
+    {
+      "para_id": "c0258p0001",
+      "index": 1,
+      "raw_zh": "258.第258章 跳起來打！",
+      "translated_vi": "Chương 258: Nhảy dựng lên mà đánh!"
+    },
+    {
+      "para_id": "c0258p0002",
+      "index": 2,
+      "raw_zh": "第258章 跳起來打！",
+      "translated_vi": "Chương 258: Nhảy dựng lên mà đánh!"
+    },
+    {
+      "para_id": "c0258p0003",
+      "index": 3,
+      "raw_zh": "這個季節的雪區天氣變幻莫測，尤其是靠近雪峰的地方，那更是變化的讓人猝不及防。",
+      "translated_vi": "Thời tiết vùng tuyết vào mùa này biến ảo khôn lường, nhất là những nơi gần đỉnh núi tuyết, biến chuyển nhanh tới mức khiến người ta không kịp trở tay."
+    },
+    {
+      "para_id": "c0258p0004",
+      "index": 4,
+      "raw_zh": "也幸好卓瑪了解這裡天氣的變化，才能及時發現暴風雨將至，否則倆人免不了淋成落湯雞。",
+      "translated_vi": "Cũng may Trác Mã hiểu rõ quy luật thời tiết nơi đây nên mới kịp thời phát hiện cơn bão tuyết sắp ập tới, bằng không hai người khó tránh khỏi cảnh ướt như chuột lột."
+    },
+    {
+      "para_id": "c0258p0005",
+      "index": 5,
+      "raw_zh": "相對於低海拔地區已經是盛夏，但世界屋脊還是春季，晚上大概十幾度，尤其這裡靠近雪峰，溫度更低一點。",
+      "translated_vi": "So với vùng bình nguyên thấp đã vào giữa hạ, nơi nóc nhà thế giới này vẫn còn vương vấn sắc xuân, ban đêm chừng mười mấy độ, nhất là càng gần đỉnh núi tuyết thì nhiệt độ lại càng thấp hơn đôi chút."
+    },
+    {
+      "para_id": "c0258p0006",
+      "index": 6,
+      "raw_zh": "所以那大雨下了不多時，就變成了冰雹，只聽砸在皮帳篷上的聲響，就知道那雹子的個頭絕對不小。",
+      "translated_vi": "Thế nên cơn mưa rào vừa trút xuống không bao lâu đã hóa thành mưa đá, chỉ nghe tiếng va đập dồn dập vào lều da cũng đủ biết kích thước từng viên mưa đá tuyệt đối chẳng hề nhỏ."
+    },
+    {
+      "para_id": "c0258p0007",
+      "index": 7,
+      "raw_zh": "雲千峰有些擔心外面的馬匹和獒犬，倒是卓瑪絲毫不擔心，道：",
+      "translated_vi": "Vân Thiên Phong có chút lo lắng cho đàn ngựa và lũ ngao Tạng bên ngoài, Trác Mã lại chẳng mảy may bận tâm, nói:"
+    },
+    {
+      "para_id": "c0258p0008",
+      "index": 8,
+      "raw_zh": "“不用擔心噠，獒犬在這片土地上生長，這點冰雹沒事噠，它們會自己找地方躲避，馬匹也不用擔心，我給它們蒙了氈子，驚不到噠。”",
+      "translated_vi": "“Không phải lo đâu mà, ngao Tạng sinh ra và lớn lên trên mảnh đất này, chút mưa đá bõ bèn gì đâu, chúng sẽ tự biết tìm chỗ trú. Ngựa cũng chẳng cần bận tâm, tôi đã phủ chăn nỉ cho chúng rồi, không kinh sợ được đâu mà.”"
+    },
+    {
+      "para_id": "c0258p0009",
+      "index": 9,
+      "raw_zh": "天色還早，倆人也睡不著，就緊挨著躺在狹小的皮帳篷離有一句沒一句的聊著天。",
+      "translated_vi": "Trời hãy còn sớm, cả hai đều chưa ngủ được, bèn nằm sát bên nhau trong căn lều da chật hẹp, câu được câu chăng chuyện trò giết thời gian."
+    },
+    {
+      "para_id": "c0258p0010",
+      "index": 10,
+      "raw_zh": "卓瑪好奇的問雲千峰：",
+      "translated_vi": "Trác Mã tò mò hỏi Vân Thiên Phong:"
+    },
+    {
+      "para_id": "c0258p0011",
+      "index": 11,
+      "raw_zh": "“你一定是個大人物吧？”",
+      "translated_vi": "“Anh nhất định là một nhân vật lớn đúng không?”"
+    },
+    {
+      "para_id": "c0258p0012",
+      "index": 12,
+      "raw_zh": "這問題反倒讓雲千峰好奇起來，笑問道：",
+      "translated_vi": "Câu hỏi này ngược lại khiến Vân Thiên Phong thấy hiếu kỳ, cười hỏi:"
+    },
+    {
+      "para_id": "c0258p0013",
+      "index": 13,
+      "raw_zh": "“為什麽這麽說？”",
+      "translated_vi": "“Sao cô lại nói vậy?”"
+    },
+    {
+      "para_id": "c0258p0014",
+      "index": 14,
+      "raw_zh": "卓瑪理所應當的說道：",
+      "translated_vi": "Trác Mã đương nhiên đáp:"
+    },
+    {
+      "para_id": "c0258p0015",
+      "index": 15,
+      "raw_zh": "“因為格比格法師對待你的態度嘛！往常的人，格比格法師都不會睜開眼睛看的嘛，只有佛爺來的時候，他才會張開眼睛說話，不過也沒對著你的時候睜開的那麽大，我第一次知道他眼睛那麽大噠。”",
+      "translated_vi": "“Thì vì thái độ của pháp sư Cách Bỉ Cách đối với anh chứ sao! Người bình thường đến, pháp sư Cách Bỉ Cách còn chẳng thèm mở mắt nhìn đâu. Chỉ khi có Phật gia đến ngài mới chịu mở mắt nói chuyện, nhưng cũng không mở to như lúc đối diện với anh. Lần đầu tiên tôi mới biết mắt ngài lại to đến thế đấy!”"
+    },
+    {
+      "para_id": "c0258p0016",
+      "index": 16,
+      "raw_zh": "雲千峰這才明白，自己這還是貴賓待遇的，當下笑道：",
+      "translated_vi": "Vân Thiên Phong bấy giờ mới vỡ lẽ, hóa ra mình nhận được hẳn đãi ngộ thượng khách, lập tức cười nói:"
+    },
+    {
+      "para_id": "c0258p0017",
+      "index": 17,
+      "raw_zh": "“格比格法師可能認識曾經的我，一朵和現在一模一樣的花。”",
+      "translated_vi": "“Có lẽ pháp sư Cách Bỉ Cách nhận ra tôi của kiếp trước, một đóa hoa giống hệt như tôi bây giờ.”"
+    },
+    {
+      "para_id": "c0258p0018",
+      "index": 18,
+      "raw_zh": "所以卓瑪絲毫不疑，看著皮帳篷的棚頂歎道：",
+      "translated_vi": "Trác Mã vì thế chẳng hề hoài nghi, ngước nhìn lên đỉnh lều da khẽ cảm thán:"
+    },
+    {
+      "para_id": "c0258p0019",
+      "index": 19,
+      "raw_zh": "“那你曾經一定是個極了不起的人物嘛，甚至是唱詩裡的大人物，不是國王就是神靈。”",
+      "translated_vi": "“Vậy thì kiếp trước anh nhất định là một nhân vật vô cùng xuất chúng rồi, thậm chí là nhân vật vĩ đại trong các bài sử thi tụng ca, không phải quốc vương thì cũng là thần linh.”"
+    },
+    {
+      "para_id": "c0258p0020",
+      "index": 20,
+      "raw_zh": "說著，還抿嘴笑著，好像自己也沾光了似的。",
+      "translated_vi": "Vừa nói, cô vừa mím môi cười, làm như chính mình cũng được thơm lây vậy."
+    },
+    {
+      "para_id": "c0258p0021",
+      "index": 21,
+      "raw_zh": "雲千峰看到了卓瑪的表情，那有些淡淡高原紅的臉，一笑的時候自帶羞怯的味道，然而事實絕不是如此，卓瑪豪爽的很，問道：",
+      "translated_vi": "Vân Thiên Phong nhìn thấy nét mặt Trác Mã, gò má ửng đỏ đặc trưng của vùng cao nguyên mỗi khi cười lại phảng phất vẻ ngượng ngùng e ấp, thế nhưng sự thật tuyệt đối không phải vậy, Trác Mã vốn rất hào sảng. Hắn liền hỏi:"
+    },
+    {
+      "para_id": "c0258p0022",
+      "index": 22,
+      "raw_zh": "“幹嘛？笑得那麽開心！”",
+      "translated_vi": "“Sao thế? Cười vui vẻ đến vậy!”"
+    },
+    {
+      "para_id": "c0258p0023",
+      "index": 23,
+      "raw_zh": "卓瑪轉頭看向雲千峰，道：",
+      "translated_vi": "Trác Mã quay đầu nhìn Vân Thiên Phong, đáp:"
+    },
+    {
+      "para_id": "c0258p0024",
+      "index": 24,
+      "raw_zh": "“格比格法師對我說的嘛，他說我生在這裡，就是為了有朝一日給你做向導噠，那曾經與我一樣的那朵花，一定是也大人物的嘛。”",
+      "translated_vi": "“Pháp sư Cách Bỉ Cách từng nói với tôi mà, ngài bảo tôi sinh ra ở mảnh đất này chính là để một ngày nào đó làm người dẫn đường cho anh, vậy thì đóa hoa từng giống hệt tôi trong tiền kiếp chắc chắn cũng là một nhân vật lớn rồi.”"
+    },
+    {
+      "para_id": "c0258p0025",
+      "index": 25,
+      "raw_zh": "雲千峰笑道：",
+      "translated_vi": "Vân Thiên Phong bật cười:"
+    },
+    {
+      "para_id": "c0258p0026",
+      "index": 26,
+      "raw_zh": "“格比格法師不會是前幾天和你說的吧？我估計他就是那個時候要給我找個向導，而你恰好在那。”",
+      "translated_vi": "“Không phải pháp sư Cách Bỉ Cách mới nói với cô mấy hôm trước đấy chứ? Tôi đoán chừng đúng lúc ngài muốn tìm cho tôi một người dẫn đường, mà cô thì vừa khéo có mặt ở đó.”"
+    },
+    {
+      "para_id": "c0258p0027",
+      "index": 27,
+      "raw_zh": "卓瑪蹭的一下坐起來，一臉嚴肅道：",
+      "translated_vi": "Trác Mã thoắt cái ngồi bật dậy, vẻ mặt nghiêm túc:"
+    },
+    {
+      "para_id": "c0258p0028",
+      "index": 28,
+      "raw_zh": "“嗯！可不能這樣說格比格法師的嘛，他很德高望重，而且他是很多年前就說以後會有個人需要我做向導的嘛，好多年啦！",
+      "translated_vi": "“Hứ! Không được nói về pháp sư Cách Bỉ Cách như thế đâu nhé, ngài đức cao vọng trọng lắm đấy. Với lại từ rất nhiều năm trước ngài đã nói sau này sẽ có một người cần tôi làm dẫn đường rồi, bao nhiêu năm rồi cơ mà!"
+    },
+    {
+      "para_id": "c0258p0029",
+      "index": 29,
+      "raw_zh": "應該是我十三歲的時候吧，那一次我傷得很重，格比格法師給我後背塗藥的時候，看到我的胎記之後告訴我噠。”",
+      "translated_vi": "Chắc là hồi tôi mười ba tuổi, dạo ấy tôi bị thương rất nặng, lúc pháp sư Cách Bỉ Cách bôi thuốc lên lưng cho tôi, nhìn thấy vết bớt mới nói cho tôi biết đấy.”"
+    },
+    {
+      "para_id": "c0258p0030",
+      "index": 30,
+      "raw_zh": "雲千峰想都沒想，或者說完全沒過腦子，直接說道：",
+      "translated_vi": "Vân Thiên Phong chẳng nghĩ ngợi gì, hay nói đúng hơn là hoàn toàn chưa kịp qua não, buột miệng nói ngay:"
+    },
+    {
+      "para_id": "c0258p0031",
+      "index": 31,
+      "raw_zh": "“什麽樣的胎記？給我看看！”",
+      "translated_vi": "“Vết bớt trông thế nào? Cho tôi xem với!”"
+    },
+    {
+      "para_id": "c0258p0032",
+      "index": 32,
+      "raw_zh": "他也不想想，人家都說給後背塗藥了，他還舔臉說看看。",
+      "translated_vi": "Hắn cũng chẳng buồn nghĩ xem, người ta đã bảo là bôi thuốc sau lưng, thế mà hắn còn mặt dày đòi xem."
+    },
+    {
+      "para_id": "c0258p0033",
+      "index": 33,
+      "raw_zh": "果然，雲千峰一說完，卓瑪眼睛一眯，斜著臉看著雲千峰，“哼哼”兩聲道：",
+      "translated_vi": "Quả nhiên, Vân Thiên Phong vừa dứt lời, mắt Trác Mã liền híp lại, nghiêng đầu liếc xéo hắn, hừ hừ hai tiếng:"
+    },
+    {
+      "para_id": "c0258p0034",
+      "index": 34,
+      "raw_zh": "“格比格法師果然沒看錯，他對我說你這人色滴很嘛，要我小心不要吃了你的虧噠。”",
+      "translated_vi": "“Pháp sư Cách Bỉ Cách quả nhiên không nhìn lầm, ngài dặn tôi cái gã này háo sắc lắm, bảo tôi phải cẩn thận kẻo chịu thiệt thòi với anh đấy!”"
+    },
+    {
+      "para_id": "c0258p0035",
+      "index": 35,
+      "raw_zh": "雲千峰腹誹格比格就是這樣對待貴賓的，還背後說人壞話！",
+      "translated_vi": "Vân Thiên Phong thầm oán thán trong bụng, Cách Bỉ Cách đối đãi với khách quý như thế này đấy à, còn dám nói xấu người ta sau lưng nữa chứ!"
+    },
+    {
+      "para_id": "c0258p0036",
+      "index": 36,
+      "raw_zh": "“卓瑪你誤會了，我就是想通過你的胎記反推一下格比格為何這樣說，同時可能猜到遙遠的曾經，那朵和你一模一樣的花是誰。”",
+      "translated_vi": "“Trác Mã, cô hiểu lầm rồi, tôi chỉ muốn thông qua vết bớt của cô để suy đoán ngược lại vì sao Cách Bỉ Cách lại nói như vậy, đồng thời có thể đoán ra trong quá khứ xa xôi kia, đóa hoa giống hệt cô rốt cuộc là ai.”"
+    },
+    {
+      "para_id": "c0258p0037",
+      "index": 37,
+      "raw_zh": "卓瑪側臉變正臉，有些意動道：",
+      "translated_vi": "Trác Mã quay mặt lại nhìn thẳng, thoáng chút dao động hỏi:"
+    },
+    {
+      "para_id": "c0258p0038",
+      "index": 38,
+      "raw_zh": "“能猜到曾經的我嗎？”",
+      "translated_vi": "“Có thể đoán ra tôi của kiếp trước thật sao?”"
+    },
+    {
+      "para_id": "c0258p0039",
+      "index": 39,
+      "raw_zh": "雲千峰話不敢說滿，只能實話實說道：",
+      "translated_vi": "Vân Thiên Phong không dám nói chắc như đinh đóng cột, chỉ đành nói thật:"
+    },
+    {
+      "para_id": "c0258p0040",
+      "index": 40,
+      "raw_zh": "“有這個可能，但我不敢保證。”",
+      "translated_vi": "“Có khả năng này, nhưng tôi không dám cam đoan.”"
+    },
+    {
+      "para_id": "c0258p0041",
+      "index": 41,
+      "raw_zh": "很顯然，好奇心讓卓瑪很意動，但是少女的羞澀和矜持讓她又很猶豫。",
+      "translated_vi": "Rõ ràng tính hiếu kỳ đã khiến Trác Mã xiêu lòng, nhưng sự e thẹn và dè dặt của thiếu nữ lại làm cô chần chừ do dự."
+    },
+    {
+      "para_id": "c0258p0042",
+      "index": 42,
+      "raw_zh": "雲千峰趁熱打鐵說道：",
+      "translated_vi": "Vân Thiên Phong thừa thắng xông lên, đón đầu nói tiếp:"
+    },
+    {
+      "para_id": "c0258p0043",
+      "index": 43,
+      "raw_zh": "“要不這樣，把燈光關掉，我背對著你，你用手機的相機打開閃光燈，把後背的胎記拍下來，怎麽樣？”",
+      "translated_vi": "“Hay là thế này, tắt đèn đi, tôi quay lưng lại với cô, cô lấy điện thoại bật đèn flash lên rồi chụp lại vết bớt sau lưng, thấy thế nào?”"
+    },
+    {
+      "para_id": "c0258p0044",
+      "index": 44,
+      "raw_zh": "格比格說的沒錯，這男人循循善誘之能，的確很容易吃他的虧。",
+      "translated_vi": "Quả thực Cách Bỉ Cách chẳng nói sai chút nào, với cái tài dỗ dành dẫn dụ từng bước của người đàn ông này, đúng là rất dễ phải chịu thiệt thòi dưới tay hắn."
+    },
+    {
+      "para_id": "c0258p0045",
+      "index": 45,
+      "raw_zh": "卓瑪被說動了。",
+      "translated_vi": "Trác Mã đã bị thuyết phục."
+    },
+    {
+      "para_id": "c0258p0046",
+      "index": 46,
+      "raw_zh": "她覺得這個方法不錯，既能滿足自己的好奇心，還完美規避了害羞的橋段。",
+      "translated_vi": "Nàng cảm thấy cách này rất ổn, vừa có thể thỏa mãn trí tò mò của bản thân, lại vừa khéo léo tránh được tình cảnh ngượng ngùng xấu hổ."
+    },
+    {
+      "para_id": "c0258p0047",
+      "index": 47,
+      "raw_zh": "“那那你發誓不會回頭偷看的嘛？”",
+      "translated_vi": "“Vậy... vậy anh thề là sẽ không quay đầu lại nhìn lén chứ?”"
+    },
+    {
+      "para_id": "c0258p0048",
+      "index": 48,
+      "raw_zh": "雲千峰並三指指天，闞快道：",
+      "translated_vi": "Vân Thiên Phong chụm ba ngón tay chỉ thẳng lên trời, dứt khoát đáp:"
+    },
+    {
+      "para_id": "c0258p0049",
+      "index": 49,
+      "raw_zh": "“我發誓！”",
+      "translated_vi": "“Tôi thề!”"
+    },
+    {
+      "para_id": "c0258p0050",
+      "index": 50,
+      "raw_zh": "卓瑪這才放心，混沒意識到雲千峰隻說了我發誓，但沒有發誓的內容。",
+      "translated_vi": "Trác Mã lúc này mới yên tâm, hoàn toàn không nhận ra Vân Thiên Phong chỉ bảo \"Tôi thề\", chứ tuyệt nhiên chẳng hề có bất kỳ nội dung thề thốt nào."
+    },
+    {
+      "para_id": "c0258p0051",
+      "index": 51,
+      "raw_zh": "雲千峰之所以這樣，是擔心自己下意識回頭，可不敢亂發誓。",
+      "translated_vi": "Sở dĩ Vân Thiên Phong làm vậy là vì lo mình sẽ theo phản xạ vô thức mà quay đầu lại, loại chuyện này đâu thể thề bừa được."
+    },
+    {
+      "para_id": "c0258p0052",
+      "index": 52,
+      "raw_zh": "畢竟他走到今天，很清楚事發突然的概率。",
+      "translated_vi": "Dù sao đã đi đến tận ngày hôm nay, hắn quá hiểu xác suất xảy ra biến cố bất ngờ lớn đến mức nào."
+    },
+    {
+      "para_id": "c0258p0053",
+      "index": 53,
+      "raw_zh": "卓瑪關了那用太陽能充電的小LED燈，隨後這漆黑無光的皮帳篷裡傳來窸窸窣.",
+      "translated_vi": "Trác Mã tắt ngọn đèn LED mini chạy bằng năng lượng mặt trời, ngay sau đó, trong căn lều da tối om như mực vang lên những tiếng sột soạt..."
+    },
+    {
+      "para_id": "c0258p0054",
+      "index": 54,
+      "raw_zh": "“哢！”",
+      "translated_vi": "“Tách!”"
+    },
+    {
+      "para_id": "c0258p0055",
+      "index": 55,
+      "raw_zh": "一聲輕響，同時一團白光籠罩狹小的皮帳篷，證明卓瑪已經拍過照片。",
+      "translated_vi": "Một tiếng vang giòn khẽ vang lên, luồng ánh sáng trắng đồng thời bao phủ cả căn lều da chật hẹp, chứng minh Trác Mã đã chụp xong ảnh."
+    },
+    {
+      "para_id": "c0258p0056",
+      "index": 56,
+      "raw_zh": "也就在這時，帳篷外突然傳來一聲低吼，只聽那共鳴腔就知道發出這個聲音的東西極為粗壯。",
+      "translated_vi": "Đúng lúc này, bên ngoài căn lều bỗng vang lên một tiếng gầm gừ trầm đục, chỉ nghe âm hưởng cộng hưởng phát ra cũng đủ biết thứ tạo nên âm thanh này to khỏe đến mức nào."
+    },
+    {
+      "para_id": "c0258p0057",
+      "index": 57,
+      "raw_zh": "緊接著就是三隻獒犬的叫聲。",
+      "translated_vi": "Ngay sau đó là tiếng sủa dữ dội của ba con chó ngao."
+    },
+    {
+      "para_id": "c0258p0058",
+      "index": 58,
+      "raw_zh": "那叫聲裡有示警，有恐懼，更有悍不畏死的決絕。",
+      "translated_vi": "Tiếng sủa vừa mang vẻ cảnh báo, vừa lộ rõ nỗi khiếp sợ, nhưng nhiều hơn cả là sự quyết liệt bất chấp sinh tử."
+    },
+    {
+      "para_id": "c0258p0059",
+      "index": 59,
+      "raw_zh": "一聲馬的嘶鳴，那是淒慘的叫聲，證明有一匹馬受到了攻擊。",
+      "translated_vi": "Một tiếng ngựa hí xé lòng vang lên vô cùng thê thảm, chứng tỏ đã có một con ngựa bị tấn công."
+    },
+    {
+      "para_id": "c0258p0060",
+      "index": 60,
+      "raw_zh": "而雲千峰幾乎在那生低吼傳來的同時，就回過頭去看向帳篷的入口處，那也是卓瑪的方向。",
+      "translated_vi": "Gần như ngay khoảnh khắc tiếng gầm gừ kia vọng tới, Vân Thiên Phong đã lập tức quay đầu nhìn về phía cửa lều, đó cũng là hướng Trác Mã đang đứng."
+    },
+    {
+      "para_id": "c0258p0061",
+      "index": 61,
+      "raw_zh": "黑暗中，卓瑪像一個黑色的剪影，只有一個俏美的輪廓。",
+      "translated_vi": "Trong bóng tối, Trác Mã tựa như một bức hình cắt giấy màu đen, chỉ để lộ đường nét vóc dáng yêu kiều thanh tú."
+    },
+    {
+      "para_id": "c0258p0062",
+      "index": 62,
+      "raw_zh": "在看到那黑影的第一時間，雲千峰腦海裡想到的竟然是“好細的腰”。",
+      "translated_vi": "Khoảnh khắc vừa nhìn thấy bóng đen ấy, điều đầu tiên xẹt qua trong đầu Vân Thiên Phong lại là: “Eo thon thật đấy.”"
+    },
+    {
+      "para_id": "c0258p0063",
+      "index": 63,
+      "raw_zh": "因為卓瑪那身袍服的原因，讓卓瑪看起來圓滾滾的。",
+      "translated_vi": "Bình thường vì bộ áo choàng Tạng rộng thùng thình mà Trác Mã trông có vẻ tròn trịa mập mạp."
+    },
+    {
+      "para_id": "c0258p0064",
+      "index": 64,
+      "raw_zh": "此時才知道，原來這個丫頭這麽纖細。",
+      "translated_vi": "Đến lúc này hắn mới vỡ lẽ, hóa ra cô gái này lại mảnh mai nhường ấy."
+    },
+    {
+      "para_id": "c0258p0065",
+      "index": 65,
+      "raw_zh": "回頭的同時，雲千峰一把將卓瑪拽到了自己身後，巨大的力量，讓卓瑪幾乎是飄著過來的。",
+      "translated_vi": "Cùng lúc quay đầu, Vân Thiên Phong vung tay giật mạnh Trác Mã ra sau lưng mình, lực đạo khủng khiếp khiến cô gần như bay bổng qua."
+    },
+    {
+      "para_id": "c0258p0066",
+      "index": 66,
+      "raw_zh": "雲千峰暗讚自己發誓之時的小手段果然明智，同時衝出了帳篷。",
+      "translated_vi": "Vân Thiên Phong thầm khen mánh khóe lúc thề thốt của mình quả thực quá đỗi sáng suốt, đồng thời lao vụt ra ngoài lều."
+    },
+    {
+      "para_id": "c0258p0067",
+      "index": 67,
+      "raw_zh": "身後的卓瑪壓低聲音叫道：",
+      "translated_vi": "Trác Mã phía sau vội hạ giọng kêu lên:"
+    },
+    {
+      "para_id": "c0258p0068",
+      "index": 68,
+      "raw_zh": "“不要出去，是馬熊！”",
+      "translated_vi": "“Đừng ra ngoài, là mã hùng!”"
+    },
+    {
+      "para_id": "c0258p0069",
+      "index": 69,
+      "raw_zh": "然而雲千峰充耳不聞，徑直的衝了出去。",
+      "translated_vi": "Thế nhưng Vân Thiên Phong coi như điếc, cứ thế lao thẳng ra ngoài."
+    },
+    {
+      "para_id": "c0258p0070",
+      "index": 70,
+      "raw_zh": "以來到帳篷外，雲千峰就聞到了血的腥味，同時看到一匹馬倒在地上，另外兩匹馬因為拴著，焦急的在原地打轉。",
+      "translated_vi": "Vừa ra khỏi lều, Vân Thiên Phong đã ngửi thấy mùi máu tanh nồng nặc, đồng thời nhìn thấy một con ngựa đã ngã gục trên mặt đất, hai con ngựa còn lại vì bị buộc chặt nên đang hoảng loạn giậm chân quay cuồng tại chỗ."
+    },
+    {
+      "para_id": "c0258p0071",
+      "index": 71,
+      "raw_zh": "三隻獒犬圍著那頭身高超過一米八，體重不下四百公斤的大馬熊吼叫，不後退卻也不敢上前。",
+      "translated_vi": "Ba con chó ngao đang vây quanh gầm gừ trước một con đại mã hùng cao hơn mét tám, nặng không dưới bốn trăm cân, chúng không lùi bước nhưng cũng chẳng dám xông lên."
+    },
+    {
+      "para_id": "c0258p0072",
+      "index": 72,
+      "raw_zh": "這麽大體型的馬熊，就是老虎遇到，那也是夾著尾巴跑。",
+      "translated_vi": "Một con mã hùng với thể hình đồ sộ cỡ này, dẫu là hổ dữ chạm trán cũng phải cụp đuôi tháo chạy."
+    },
+    {
+      "para_id": "c0258p0073",
+      "index": 73,
+      "raw_zh": "可謂是真正的叢林霸主。",
+      "translated_vi": "Đúng là bá chủ thực sự của chốn núi rừng hoang dã."
+    },
+    {
+      "para_id": "c0258p0074",
+      "index": 74,
+      "raw_zh": "不過雲千峰是誰啊？那可是連地底怪物守望者都努努過的男人，還能怕一隻野獸。",
+      "translated_vi": "Nhưng Vân Thiên Phong là ai cơ chứ? Hắn chính là người đàn ông từng vờn qua cả quái vật Thủ Vọng Giả dưới lòng đất, lẽ nào lại sợ một con thú hoang?"
+    },
+    {
+      "para_id": "c0258p0075",
+      "index": 75,
+      "raw_zh": "當下怒喝一聲，右腿用力一點地，整個人跳出去一丈多遠，再一個跳躍，便衝到了那巨大的馬熊身邊。",
+      "translated_vi": "Hắn lập tức quát lớn một tiếng, chân phải đạp mạnh xuống đất, cả người bật nhảy xa hơn một trượng, rồi lại tung thêm một cú nhảy nữa, lao thẳng tới sát bên con mã hùng khổng lồ."
+    },
+    {
+      "para_id": "c0258p0076",
+      "index": 76,
+      "raw_zh": "然後擺出拳擊的架子，照著馬熊就是一套直擺勾的組合拳。",
+      "translated_vi": "Sau đó hắn thủ thế quyền Anh, nhắm thẳng vào con mã hùng mà giã một tổ hợp đòn đấm thẳng, đấm móc ngang cùng móc ngược."
+    },
+    {
+      "para_id": "c0258p0077",
+      "index": 77,
+      "raw_zh": "可惜馬熊不會說話，否則被這三拳打得有點懵的馬熊，此時一定會喊出“臥槽”。",
+      "translated_vi": "Đáng tiếc là mã hùng không biết nói tiếng người, nếu không, sau khi bị ba quả đấm này nện cho choáng váng mặt mày, chắc chắn nó sẽ phải thốt lên hai chữ \"vãi chưởng\"."
+    },
+    {
+      "para_id": "c0258p0078",
+      "index": 78,
+      "raw_zh": "作為荒野的霸主，馬熊啥時候吃過這樣的虧啊！",
+      "translated_vi": "Là kẻ xưng bá chốn hoang dã, có bao giờ con mã hùng phải chịu thiệt thòi bẽ bàng đến mức này!"
+    },
+    {
+      "para_id": "c0258p0079",
+      "index": 79,
+      "raw_zh": "當下怒吼一聲，揮動熊掌，對著雲千峰還擊了一套王八拳。",
+      "translated_vi": "Nó liền gầm rống giận dữ, vung vẩy móng gấu khổng lồ, điên cuồng vung loạn xạ một bài quyền mù quáng phản công Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0258p0080",
+      "index": 80,
+      "raw_zh": "就這大熊掌，隨便一下都超過千斤，但是雲千峰右腿釘地，雙臂護架，生生扛住了馬熊的一波攻擊，然後趁勢找到漏洞也是一套王八拳。",
+      "translated_vi": "Cặp bàn chân gấu hộ pháp này, tùy tiện quạt một phát cũng nặng hơn một ngàn cân, thế nhưng Vân Thiên Phong đóng chặt chân phải xuống đất, hai cánh tay đan chéo thành thế đỡ kiên cố, gượng gập đón đỡ trọn vẹn đợt tấn công bão táp của con thú, sau đó chớp lấy sơ hở cũng trả lại một bài quyền vung loạn xạ ngầu."
+    },
+    {
+      "para_id": "c0258p0081",
+      "index": 81,
+      "raw_zh": "沒辦法，沒經過專業訓練，打著打著，最終變成王八拳，這是規律。",
+      "translated_vi": "Cũng chẳng còn cách nào, không qua huấn luyện chuyên nghiệp thì đánh tới đánh lui cuối cùng cũng thành đấm loạn xị ngầu, âu cũng là quy luật tất yếu."
+    },
+    {
+      "para_id": "c0258p0082",
+      "index": 82,
+      "raw_zh": "雲千峰點數再次領先。",
+      "translated_vi": "Điểm số của Vân Thiên Phong lại một lần nữa dẫn trước."
+    },
+    {
+      "para_id": "c0258p0083",
+      "index": 83,
+      "raw_zh": "帳篷內，卓瑪看到雲千峰衝出去，又聽到馬熊的怒吼，心裡擔心雲千峰安危，畢竟是格比格托付給自己的。",
+      "translated_vi": "Bên trong lều, Trác Mã thấy Vân Thiên Phong lao ra ngoài, lại nghe tiếng mã hùng gầm thét dữ dội, trong lòng thắt lại vì lo cho an nguy của hắn, dẫu sao người này cũng là do Cách Bỉ Cách phó thác cho mình."
+    },
+    {
+      "para_id": "c0258p0084",
+      "index": 84,
+      "raw_zh": "於是卓瑪一咬牙，拎起自己佩戴的拉孜藏刀，就衝向帳篷門口，混忘了自己衣服還沒套上。",
+      "translated_vi": "Trác Mã liền nghiến chặt răng, vớ lấy thanh đoản đao Tạng Lazi bên mình rồi lao thẳng về phía cửa lều, quên bẵng mất bản thân còn chưa kịp mặc lại quần áo."
+    },
+    {
+      "para_id": "c0258p0085",
+      "index": 85,
+      "raw_zh": "這刀也就半米長，對付一般野獸還行，對付馬熊可不夠看，不過卓瑪顧不得那麽多了。",
+      "translated_vi": "Con dao này dài vỏn vẹn nửa mét, đối phó thú dữ thông thường thì được, chứ mang ra chọi với mã hùng thì chẳng bõ dính răng, nhưng Trác Mã lúc này đã chẳng màng nổi nhiều như thế nữa."
+    },
+    {
+      "para_id": "c0258p0086",
+      "index": 86,
+      "raw_zh": "冷雨襲身，涼氣鋪面，衝出來的卓瑪一橫刀，就準備衝向戰團，舍命幫助雲千峰。",
+      "translated_vi": "Mưa lạnh tạt vào da thịt, hàn khí phả thẳng vào mặt, Trác Mã vừa lao ra ngoài liền vung ngang thanh đao, toan xông thẳng vào vòng chiến để liều mạng tương trợ Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0258p0087",
+      "index": 87,
+      "raw_zh": "然而當她看到一人一熊互相拋出王八拳的戰團後，整個人呆住了。",
+      "translated_vi": "Thế nhưng, khi nhìn thấy quang cảnh trong vòng chiến nơi một người một gấu đang thi nhau vung đấm loạn xạ xà ngầu vào mặt đối phương, cả người cô chết sững."
+    },
+    {
+      "para_id": "c0258p0088",
+      "index": 88,
+      "raw_zh": "“咣當！”",
+      "translated_vi": "“Choang!”"
+    },
+    {
+      "para_id": "c0258p0089",
+      "index": 89,
+      "raw_zh": "藏刀掉地上了。",
+      "translated_vi": "Thanh dao Tạng rơi thẳng xuống đất."
+    },
+    {
+      "para_id": "c0258p0090",
+      "index": 90,
+      "raw_zh": "“天哪！他太勇猛了，跳起來打！”",
+      "translated_vi": "“Trời đất ơi! Anh ấy dũng mãnh quá, lại còn nhảy cả lên mà đấm!”"
+    }
+  ]
+}

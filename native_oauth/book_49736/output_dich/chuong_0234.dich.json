@@ -1,0 +1,464 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 234,
+  "title": "Chương 234: Sinh mệnh và sinh tồn",
+  "total_paragraphs": 75,
+  "translated_paragraphs": 75,
+  "source_hash": "b856032d43a66e3191a7a2569ce4408117b671f06a62269ff7a05a315e88f90b",
+  "model_used": "gemini-3.8-flash-high",
+  "elapsed_seconds": 206.0,
+  "bilingual_alignment": [
+    {
+      "para_id": "c0234p0001",
+      "index": 1,
+      "raw_zh": "234.第234章 生命與生存",
+      "translated_vi": "Chương 234: Sinh mệnh và sinh tồn"
+    },
+    {
+      "para_id": "c0234p0002",
+      "index": 2,
+      "raw_zh": "第234章 生命與生存",
+      "translated_vi": "Chương 234: Sinh mệnh và sinh tồn"
+    },
+    {
+      "para_id": "c0234p0003",
+      "index": 3,
+      "raw_zh": "隨著極夜的降臨，溫度下降的速度非常快。",
+      "translated_vi": "Cùng với sự buông xuống của đêm cực, nhiệt độ tụt dốc với tốc độ kinh hoàng."
+    },
+    {
+      "para_id": "c0234p0004",
+      "index": 4,
+      "raw_zh": "之前雲千峰和琳達在雪地車內，包裹著層層冬裝還能堅持，但現在卻完全扛不住，懂得渾身發抖。",
+      "translated_vi": "Trước đó, Vân Thiên Phong và Linda ở trong xe chạy tuyết, bọc kín tầng tầng lớp lớp đồ đông thì vẫn còn gắng gượng được, nhưng giờ đây lại hoàn toàn không thể chống đỡ nổi nữa, lạnh đến mức toàn thân run rẩy bần bật."
+    },
+    {
+      "para_id": "c0234p0005",
+      "index": 5,
+      "raw_zh": "雲千峰還好些，就是腿抖，琳達是全身顫栗那種，牙齒都在咯咯咯的打架。",
+      "translated_vi": "Vân Thiên Phong còn đỡ hơn một chút, chỉ có hai chân run rẩy; còn Linda thì run lẩy bẩy khắp cả người, hai hàm răng va vào nhau lập cập không ngừng."
+    },
+    {
+      "para_id": "c0234p0006",
+      "index": 6,
+      "raw_zh": "正在開雪地車的琳達緩緩把雪地車停住，看著雲千峰喘息道：",
+      "translated_vi": "Linda đang cầm lái chiếc xe chạy tuyết từ từ hãm xe dừng lại, nhìn Vân Thiên Phong thở dốc:"
+    },
+    {
+      "para_id": "c0234p0007",
+      "index": 7,
+      "raw_zh": "“叔叔啊，我有些上不來氣，呼吸好困難！”",
+      "translated_vi": "“Chú à, tôi thấy thở không nổi nữa rồi, hô hấp khó khăn quá!”"
+    },
+    {
+      "para_id": "c0234p0008",
+      "index": 8,
+      "raw_zh": "不只是琳達，就是雲千峰也感覺呼吸非常瘀滯，胸口憋悶的難受。",
+      "translated_vi": "Không chỉ riêng Linda, mà ngay cả Vân Thiên Phong cũng cảm thấy hơi thở vô cùng ứ nghẹn, lồng ngực bí bách khó chịu khôn cùng."
+    },
+    {
+      "para_id": "c0234p0009",
+      "index": 9,
+      "raw_zh": "倆人的狀態很明顯是缺氧了。",
+      "translated_vi": "Tình trạng của hai người rõ ràng là do thiếu oxy."
+    },
+    {
+      "para_id": "c0234p0010",
+      "index": 10,
+      "raw_zh": "按理說隨著極夜的到來，南極的氣壓會開始慢慢升高，呼吸應該會比極晝的時候更容易一些才對。",
+      "translated_vi": "Theo lý mà nói, khi đêm cực buông xuống, khí áp ở Nam Cực sẽ bắt đầu tăng dần lên, việc hít thở lẽ ra phải dễ dàng hơn thời điểm ngày cực mới đúng."
+    },
+    {
+      "para_id": "c0234p0011",
+      "index": 11,
+      "raw_zh": "但是也有特例，那就是暴風雪即將到來之前，南極的氣壓會陡然降低，甚至達到人無法承受的程度。",
+      "translated_vi": "Thế nhưng cũng có trường hợp ngoại lệ, đó là ngay trước lúc bão tuyết tràn tới, khí áp tại Nam Cực sẽ tụt dốc đột ngột, thậm chí chạm đến ngưỡng cơ thể người không thể nào chịu đựng nổi."
+    },
+    {
+      "para_id": "c0234p0012",
+      "index": 12,
+      "raw_zh": "雲千峰借著車燈看出去，然後指著左前方道：",
+      "translated_vi": "Vân Thiên Phong nương theo ánh đèn xe nhìn ra ngoài, đoạn đưa tay chỉ về phía trước bên trái:"
+    },
+    {
+      "para_id": "c0234p0013",
+      "index": 13,
+      "raw_zh": "“琳達，我們把車開到那個冰山斷層處去，在那裡應該能夠躲避這場暴風雪。”",
+      "translated_vi": "“Linda, chúng ta lái xe tới chỗ tầng băng nứt gãy kia đi, nấp ở đó chắc có thể tránh được trận bão tuyết này.”"
+    },
+    {
+      "para_id": "c0234p0014",
+      "index": 14,
+      "raw_zh": "這些年，隨著全球變暖，在南極出現很多這種冰山坍塌後留的斷層，看起來就像是冰雪鑄就的懸崖。",
+      "translated_vi": "Những năm gần đây, cùng với sự ấm lên toàn cầu, tại Nam Cực xuất hiện rất nhiều vết đứt gãy sót lại sau khi các núi băng sụp đổ, nhìn chẳng khác nào những vách đá hiểm trở được đúc bằng băng tuyết."
+    },
+    {
+      "para_id": "c0234p0015",
+      "index": 15,
+      "raw_zh": "南極的暴風雪都是極其可怕的，風速能達到百米每秒，力量大得能夠輕而易舉的將二百多斤的冰塊拋飛到幾千米之外，如果兩個人不找個背風的地方，恐怕在暴風雪後，就不知道被狂風卷到那個爪哇國去了。",
+      "translated_vi": "Bão tuyết ở Nam Cực vô cùng kinh hoàng, tốc độ gió có thể đạt tới cả trăm mét mỗi giây, sức mạnh khủng khiếp đến mức đủ sức dễ dàng hất tung một tảng băng nặng hơn hai trăm cân bay xa tới vài ngàn mét. Nếu hai người không tìm được một nơi khuất gió, e rằng chỉ sau một trận bão tuyết, chẳng biết chừng đã bị cuồng phong thổi bạt tới tận phương trời góc bể nào rồi."
+    },
+    {
+      "para_id": "c0234p0016",
+      "index": 16,
+      "raw_zh": "倆人來到那冰崖之下時，琳達已經需要張著嘴巴喘氣，頻率之快，好似哮喘一般，讓人聽著都感覺憋悶。",
+      "translated_vi": "Khi cả hai tới được dưới vách băng, Linda đã phải há to miệng để thở dốc. Nhịp thở dồn dập chẳng khác nào người lên cơn hen suyễn, khiến người bên cạnh nghe thấy cũng phải cảm thấy nghẹt thở theo."
+    },
+    {
+      "para_id": "c0234p0017",
+      "index": 17,
+      "raw_zh": "雲千峰忙把倆人的座椅放平，這樣就成了一張小床。",
+      "translated_vi": "Vân Thiên Phong vội vàng ngả phẳng ghế ngồi của cả hai, như vậy liền biến thành một tấm giường nhỏ."
+    },
+    {
+      "para_id": "c0234p0018",
+      "index": 18,
+      "raw_zh": "可別小瞧這張小床，它能讓睡在上面的人盡可能的遠離地面，更容易保持倆人的體溫。",
+      "translated_vi": "Đừng xem thường tấm giường nhỏ này, nó giúp người nằm bên trên cách xa mặt đất tới mức tối đa, duy trì thân nhiệt của hai người dễ dàng hơn."
+    },
+    {
+      "para_id": "c0234p0019",
+      "index": 19,
+      "raw_zh": "把兩件大羽絨服鋪在厚棉墊的椅子上，雲千峰扶著已經非常虛弱的琳達躺好，然後把飛機上帶下來的三條毛毯蓋在琳達身上，說道：",
+      "translated_vi": "Trải hai chiếc áo lông vũ to sụ lên lớp đệm bông dày của ghế, Vân Thiên Phong đỡ Linda lúc này đã vô cùng suy kiệt nằm xuống cẩn thận, rồi lấy ba tấm chăn dạ mang từ trên máy bay xuống đắp lên người cô, dặn dò:"
+    },
+    {
+      "para_id": "c0234p0020",
+      "index": 20,
+      "raw_zh": "“暴風雪時，這裡的溫度會急速下降到零下六七十度，甚至更低，你自己是無法抗住這樣的低溫的，我們需要體溫共享，所以你需要脫掉你外面的衣服，明白嗎？”",
+      "translated_vi": "“Khi bão tuyết ập tới, nhiệt độ ở đây sẽ tụt dốc không phanh xuống âm sáu bảy mươi độ, thậm chí còn thấp hơn nữa. Một mình cô không thể nào chống đỡ nổi cái lạnh cỡ này đâu, chúng ta cần phải chia sẻ thân nhiệt, cho nên cô phải cởi lớp áo khoác bên ngoài ra, hiểu chưa?”"
+    },
+    {
+      "para_id": "c0234p0021",
+      "index": 21,
+      "raw_zh": "琳達勉強的點了點頭，伸著手軟的胳膊，喘息道：",
+      "translated_vi": "Linda gượng gạo gật đầu, khó khăn giơ cánh tay đã mềm nhũn ra, thở dốc thều thào:"
+    },
+    {
+      "para_id": "c0234p0022",
+      "index": 22,
+      "raw_zh": "“叔叔，我沒力氣了，伱幫我。”",
+      "translated_vi": "“Chú à, tôi không còn chút sức lực nào nữa rồi, giúp tôi với.”"
+    },
+    {
+      "para_id": "c0234p0023",
+      "index": 23,
+      "raw_zh": "沒有人會在這樣的環境下糾結其它。",
+      "translated_vi": "Chẳng ai lại đi câu nệ chuyện ngượng ngùng trong hoàn cảnh sinh tử gang tấc thế này."
+    },
+    {
+      "para_id": "c0234p0024",
+      "index": 24,
+      "raw_zh": "雲千峰沒說話，但手已經開始了它的工作。",
+      "translated_vi": "Vân Thiên Phong không nói một lời, nhưng đôi tay đã bắt đầu hành động."
+    },
+    {
+      "para_id": "c0234p0025",
+      "index": 25,
+      "raw_zh": "要脫掉一個人的全身的衣服，尤其是厚實的冬裝，真是一件耗費精力的事情，尤其是對方無力無法配合的時候。",
+      "translated_vi": "Muốn cởi bỏ toàn bộ quần áo trên người một ai đó, nhất là những lớp đồ đông dày cộm, quả thực là việc vô cùng hao tổn sức lực, nhất là khi đối phương đã kiệt sức chẳng thể phối hợp."
+    },
+    {
+      "para_id": "c0234p0026",
+      "index": 26,
+      "raw_zh": "雲千峰盡可能解除琳達身上的束縛，任何一點胸腔的解壓步驟，都能增加活命的機會。",
+      "translated_vi": "Vân Thiên Phong cố hết sức nới lỏng những thứ bó chặt trên người Linda, bất kỳ bước giải tỏa áp lực nào cho lồng ngực cũng đều có thể gia tăng thêm một phần cơ hội sống sót."
+    },
+    {
+      "para_id": "c0234p0027",
+      "index": 27,
+      "raw_zh": "這不是開玩笑，南極的缺氧，會死人的。",
+      "translated_vi": "Đây tuyệt đối không phải chuyện đùa, tình trạng thiếu oxy ở Nam Cực hoàn toàn có thể đoạt mạng người."
+    },
+    {
+      "para_id": "c0234p0028",
+      "index": 28,
+      "raw_zh": "把琳達身上的衣服都鋪在毛毯上，增加倆人的保暖層。",
+      "translated_vi": "Hắn trải toàn bộ quần áo trên người Linda lên trên chăn, nhằm tăng thêm một tầng giữ ấm cho cả hai."
+    },
+    {
+      "para_id": "c0234p0029",
+      "index": 29,
+      "raw_zh": "隨後雲千峰也鑽進毛毯之內，快速的把身上的衣服脫掉，鋪在琳達的衣服上，讓倆人看起來就像是窩在一堆厚實的衣服之中。",
+      "translated_vi": "Sau đó Vân Thiên Phong cũng chui tọt vào trong chăn, nhanh thoăn thoắt cởi bỏ quần áo trên người mình ra rồi trải đè lên đồ của Linda, khiến hai người trông như đang cuộn tròn rúc sâu vào giữa một đống quần áo dày cộp."
+    },
+    {
+      "para_id": "c0234p0030",
+      "index": 30,
+      "raw_zh": "看起來應該很暖和，但位置放在零下六七十度的南極，這些衣服和毛毯真的完全不夠。",
+      "translated_vi": "Trông thì có vẻ rất ấm, nhưng đặt giữa nơi âm sáu bảy mươi độ ở Nam Cực, chút quần áo và chăn mỏng này thực sự hoàn toàn không đủ."
+    },
+    {
+      "para_id": "c0234p0031",
+      "index": 31,
+      "raw_zh": "女生是羞澀的。",
+      "translated_vi": "Con gái dẫu sao vẫn biết ngượng ngùng."
+    },
+    {
+      "para_id": "c0234p0032",
+      "index": 32,
+      "raw_zh": "琳達把後背對著雲千峰，但極盡可能的把後背挨著雲千峰。",
+      "translated_vi": "Linda quay lưng về phía Vân Thiên Phong, nhưng lại cố hết sức áp sát tấm lưng mình vào người hắn."
+    },
+    {
+      "para_id": "c0234p0033",
+      "index": 33,
+      "raw_zh": "接觸面能夠提升倆人共享體溫的效果。",
+      "translated_vi": "Diện tích tiếp xúc có thể gia tăng hiệu quả chia sẻ thân nhiệt giữa hai người."
+    },
+    {
+      "para_id": "c0234p0034",
+      "index": 34,
+      "raw_zh": "琳達的體溫久久沒有恢復，十幾分鍾的時間，依舊還是冰涼的後背，哪怕有雲千峰的體溫共享，也依舊沒有作用。",
+      "translated_vi": "Thân nhiệt của Linda mãi vẫn không hồi lại, suốt hơn mười phút trôi qua, tấm lưng cô vẫn lạnh buốt như băng, dù có thân nhiệt của Vân Thiên Phong truyền sang sưởi ấm cũng hoàn toàn vô dụng."
+    },
+    {
+      "para_id": "c0234p0035",
+      "index": 35,
+      "raw_zh": "最可怕的是，琳達現在呼吸的聲音已經帶著空腔的氣聲，就像一個人在不斷的打著飽嗝。",
+      "translated_vi": "Điều đáng sợ nhất là, tiếng thở của Linda lúc này đã phát ra luồng khí rỗng nghẹn ứ, tựa như một người đang không ngừng nấc khan."
+    },
+    {
+      "para_id": "c0234p0036",
+      "index": 36,
+      "raw_zh": "雲千峰知道，琳達之所以無法烘暖身體，是因為缺氧，呼吸困難導致的血液循環停滯減慢。",
+      "translated_vi": "Vân Thiên Phong biết rõ, Linda sở dĩ không thể sưởi ấm được cơ thể là do thiếu oxy, hô hấp khó khăn dẫn đến tuần hoàn máu bị ngưng trệ và chậm dần."
+    },
+    {
+      "para_id": "c0234p0037",
+      "index": 37,
+      "raw_zh": "“琳達？”",
+      "translated_vi": "“Linda?”"
+    },
+    {
+      "para_id": "c0234p0038",
+      "index": 38,
+      "raw_zh": "雲千峰這一聲呼喚極為溫柔，幾乎是貼著琳達的臉頰說出來。",
+      "translated_vi": "Tiếng gọi này của Vân Thiên Phong vô cùng dịu dàng, gần như dán sát vào gò má Linda mà thốt ra."
+    },
+    {
+      "para_id": "c0234p0039",
+      "index": 39,
+      "raw_zh": "那種關心的溫柔，一瞬間讓琳達因呼吸困難而發出的那種打嗝般的氣響消失了，整個人愣住了一下。",
+      "translated_vi": "Sự dịu dàng đầy vẻ ân cần ấy trong thoáng chốc đã làm tan biến tiếng nấc nghẹn do khó thở của Linda, khiến cả người cô ngẩn ra trong giây lát."
+    },
+    {
+      "para_id": "c0234p0040",
+      "index": 40,
+      "raw_zh": "暴風雪來了，搖晃著小小的履帶車，像一葉飄搖的獨舟。",
+      "translated_vi": "Cơn bão tuyết ập tới, làm rung lắc chiếc xe bánh xích nhỏ bé tựa như một con thuyền độc mộc chao đảo giữa sóng gió."
+    },
+    {
+      "para_id": "c0234p0041",
+      "index": 41,
+      "raw_zh": "獨舟裡的人也隨著搖晃著，搖晃著",
+      "translated_vi": "Người ngồi trong chiếc thuyền con cũng lắc lư theo, lắc lư mãi không thôi..."
+    },
+    {
+      "para_id": "c0234p0042",
+      "index": 42,
+      "raw_zh": "關閉了所有電源的雪地車之中一團漆黑。",
+      "translated_vi": "Chiếc xe trượt tuyết đã ngắt toàn bộ nguồn điện, chìm vào bóng tối mịt mùng."
+    },
+    {
+      "para_id": "c0234p0043",
+      "index": 43,
+      "raw_zh": "琳達的眸子由驚愕到不解，再到變成黑夜裡蘊著霧氣的明眸，閃動著楚楚的柔光。",
+      "translated_vi": "Đôi mắt Linda biến chuyển từ kinh ngạc sang khó hiểu, rồi hóa thành ánh nhìn ngấn sương giữa đêm đen, lấp lánh tia sáng dịu dàng đầy vẻ xao xuyến."
+    },
+    {
+      "para_id": "c0234p0044",
+      "index": 44,
+      "raw_zh": "琳達的體溫在快速的攀升：",
+      "translated_vi": "Thân nhiệt của Linda đang tăng vọt lên nhanh chóng:"
+    },
+    {
+      "para_id": "c0234p0045",
+      "index": 45,
+      "raw_zh": "“現在呼吸順暢了吧？”",
+      "translated_vi": "\"Bây giờ dễ thở hơn rồi chứ?\""
+    },
+    {
+      "para_id": "c0234p0046",
+      "index": 46,
+      "raw_zh": "琳達小貓似的“嗯”了一聲。",
+      "translated_vi": "Linda khẽ \"ừm\" một tiếng như một chú mèo con."
+    },
+    {
+      "para_id": "c0234p0047",
+      "index": 47,
+      "raw_zh": "這時候她才知道自己誤會了雲千峰。",
+      "translated_vi": "Đến lúc này cô mới nhận ra mình đã hiểu lầm Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0234p0048",
+      "index": 48,
+      "raw_zh": "對方不是想對自己無禮，而是在救她。",
+      "translated_vi": "Đối phương không hề có ý mạo phạm mình, mà là đang cứu cô."
+    },
+    {
+      "para_id": "c0234p0049",
+      "index": 49,
+      "raw_zh": "腎上腺素，這種物質，都能讓人神經放松下來，尤其是腎上腺素，能夠很好的緩解呼吸困難。",
+      "translated_vi": "Adrenaline, thứ vật chất này có thể khiến thần kinh con người được thả lỏng, đặc biệt hơn, adrenaline còn có khả năng xoa dịu cơn khó thở vô cùng hiệu quả."
+    },
+    {
+      "para_id": "c0234p0050",
+      "index": 50,
+      "raw_zh": "琳達明白了雲千峰的用意，心裡不由得笑話自己剛才還想著要不要反抗。",
+      "translated_vi": "Linda đã hiểu rõ dụng ý của Vân Thiên Phong, trong lòng không khỏi tự cười nhạo chính mình vì ban nãy còn băn khoăn không biết có nên phản kháng hay không."
+    },
+    {
+      "para_id": "c0234p0051",
+      "index": 51,
+      "raw_zh": "隨即又有點失落，空嘮嘮的，缺點什麽。",
+      "translated_vi": "Nhưng rồi sau đó cô lại cảm thấy đôi chút hụt hẫng, lòng dạ trống trải như đang thiếu vắng một điều gì."
+    },
+    {
+      "para_id": "c0234p0052",
+      "index": 52,
+      "raw_zh": "相對雲千峰說點什麽，或者做點什麽，然後剛轉身就聽到了雲千峰那很輕的鼾聲。",
+      "translated_vi": "Cô muốn nói với Vân Thiên Phong đôi lời, hoặc làm chút chuyện gì đó, nhưng vừa nghiêng người quay lại thì đã nghe thấy tiếng ngáy rất khẽ của hắn."
+    },
+    {
+      "para_id": "c0234p0053",
+      "index": 53,
+      "raw_zh": "人家睡著了。",
+      "translated_vi": "Người ta đã ngủ say từ bao giờ."
+    },
+    {
+      "para_id": "c0234p0054",
+      "index": 54,
+      "raw_zh": "“豬啊！三秒入睡！還真的是心無雜念啊，你這樣我好沒面子的啊！”",
+      "translated_vi": "\"Đồ con lợn! Mới ba giây đã ngủ mất rồi! Đúng thật là lòng chẳng vướng chút tạp niệm nào, anh làm thế này khiến tôi mất mặt chết đi được!\""
+    },
+    {
+      "para_id": "c0234p0055",
+      "index": 55,
+      "raw_zh": "琳達碎碎念著，也在疲倦之中沉沉睡去。",
+      "translated_vi": "Linda lầm bầm cằn nhằn vài câu, rồi cũng chìm sâu vào giấc ngủ giữa cơn mệt mỏi rã rời."
+    },
+    {
+      "para_id": "c0234p0056",
+      "index": 56,
+      "raw_zh": "暴風雪來了，打著呼嘯，卷著鵝毛般的白色，籠罩著這片生命禁區。",
+      "translated_vi": "Cơn bão tuyết gầm thét ập tới, cuốn theo những mảng tuyết trắng xóa tựa lông ngỗng, bao trùm khắp vùng cấm địa sinh mệnh này."
+    },
+    {
+      "para_id": "c0234p0057",
+      "index": 57,
+      "raw_zh": "小小的紅色雪地車就躲在那厚實的冰崖之下，在冰山兩側卷飛的雪花之中，倒像是這裡的花蕊。",
+      "translated_vi": "Chiếc xe trượt tuyết màu đỏ bé nhỏ nép mình dưới vách băng dày đặc, giữa những bông tuyết cuộn bay tán loạn hai bên sườn núi băng, trông lại giống như một nhụy hoa điểm xuyết nơi này."
+    },
+    {
+      "para_id": "c0234p0058",
+      "index": 58,
+      "raw_zh": "M國，需要開著空調才能清涼的書房內。",
+      "translated_vi": "Nước M, bên trong gian thư phòng phải bật máy điều hòa mới có được chút mát mẻ."
+    },
+    {
+      "para_id": "c0234p0059",
+      "index": 59,
+      "raw_zh": "“守望者到底是什麽？”",
+      "translated_vi": "\"Thủ Vọng Giả rốt cuộc là thứ gì?\""
+    },
+    {
+      "para_id": "c0234p0060",
+      "index": 60,
+      "raw_zh": "聽到白狐詢問，濕瑪瑪肆科沉聲道：",
+      "translated_vi": "Nghe Bạch Hồ cất tiếng hỏi, Thấp Mã Mã Tứ Khoa trầm giọng đáp:"
+    },
+    {
+      "para_id": "c0234p0061",
+      "index": 61,
+      "raw_zh": "“你不是見過祂們嗎？”",
+      "translated_vi": "\"Chẳng phải anh từng gặp Bọn họ rồi sao?\""
+    },
+    {
+      "para_id": "c0234p0062",
+      "index": 62,
+      "raw_zh": "白狐看著濕瑪瑪肆科，道：",
+      "translated_vi": "Bạch Hồ nhìn Thấp Mã Mã Tứ Khoa, hỏi:"
+    },
+    {
+      "para_id": "c0234p0063",
+      "index": 63,
+      "raw_zh": "“那些光頭黑衣人和地底鑽出來那個帶著翅膀的人就是守望者嗎？”",
+      "translated_vi": "\"Mấy gã đầu trọc áo đen và kẻ mọc cánh chui lên từ lòng đất kia chính là Thủ Vọng Giả sao?\""
+    },
+    {
+      "para_id": "c0234p0064",
+      "index": 64,
+      "raw_zh": "濕瑪搖頭道：",
+      "translated_vi": "Thấp Mã lắc đầu đáp:"
+    },
+    {
+      "para_id": "c0234p0065",
+      "index": 65,
+      "raw_zh": "“不，只有那個帶著翅膀的家夥才是守望者的一員，祂們一共有二百人。而你說的那些光頭黑衣人，不過是披著人皮的怪物，祂們的本體，雄性外貌如同直立行走的蜥蜴，而雌性除了膚色深綠色有些奇怪外，體型外貌都很漂亮。",
+      "translated_vi": "\"Không, chỉ có gã mọc cánh kia mới là một thành viên của Thủ Vọng Giả, Bọn họ cả thảy có hai trăm người. Còn đám trọc đầu áo đen mà anh nói chẳng qua chỉ là lũ quái vật khoác da người. Bản thể của chúng, con đực có ngoại hình giống như loài thằn lằn đi đứng thẳng người, còn con cái ngoại trừ màu da xanh lục sẫm có phần kỳ dị ra thì vóc dáng diện mạo đều rất xinh đẹp."
+    },
+    {
+      "para_id": "c0234p0066",
+      "index": 66,
+      "raw_zh": "祂們不屬於守望者，而是守望者與人類結合生下的後代，一群與祂們父親一樣，見不得光的怪物。”",
+      "translated_vi": "Chúng không thuộc về hàng ngũ Thủ Vọng Giả, mà là hậu duệ do Thủ Vọng Giả kết hợp với loài người sinh ra, một lũ quái vật không dám thấy ánh mặt trời hệt như người cha của chúng.\""
+    },
+    {
+      "para_id": "c0234p0067",
+      "index": 67,
+      "raw_zh": "白狐立馬意識到這句話裡蘊藏的關鍵信息。",
+      "translated_vi": "Bạch Hồ lập tức nhận ra thông tin then chốt ẩn chứa trong câu nói này."
+    },
+    {
+      "para_id": "c0234p0068",
+      "index": 68,
+      "raw_zh": "“守望者與人類之間沒有生Z隔離？”",
+      "translated_vi": "\"Giữa Thủ Vọng Giả và nhân loại không có cách ly sinh sản sao?\""
+    },
+    {
+      "para_id": "c0234p0069",
+      "index": 69,
+      "raw_zh": "濕瑪瑪肆科點了點頭，笑著低聲道：",
+      "translated_vi": "Thấp Mã Mã Tứ Khoa gật đầu, cười khẽ nói nhỏ:"
+    },
+    {
+      "para_id": "c0234p0070",
+      "index": 70,
+      "raw_zh": "“你和我想的一樣，我也懷疑守望者與人類這種生物的產生有關系。人類即便不完全是守望者那個種族製造的，但祂們一定參與了其中一環。”",
+      "translated_vi": "\"Anh nghĩ giống hệt tôi. Tôi cũng hoài nghi sự ra đời của loài sinh vật mang tên nhân loại này có liên quan tới Thủ Vọng Giả. Cho dù con người không hoàn toàn do chủng tộc Thủ Vọng Giả kia tạo ra, nhưng chắc chắn Họ đã tham gia vào một mắt xích trong đó.\""
+    },
+    {
+      "para_id": "c0234p0071",
+      "index": 71,
+      "raw_zh": "白狐普羅沉思，道：",
+      "translated_vi": "Bạch Hồ Phổ La trầm ngâm suy nghĩ, rồi nói:"
+    },
+    {
+      "para_id": "c0234p0072",
+      "index": 72,
+      "raw_zh": "“初來太陽系的時候，我研究過普羅星人的基因，發現他們的基因最少經過了三次改造，被限制了很多能力，但是也增加了一些東西。",
+      "translated_vi": "\"Hồi mới tới hệ Mặt Trời, tôi từng nghiên cứu bộ gen của người sao Phổ La, phát hiện gen của họ ít nhất đã trải qua ba lần cải tạo, bị hạn chế rất nhiều năng lực, nhưng đồng thời cũng được bổ sung thêm một vài thứ."
+    },
+    {
+      "para_id": "c0234p0073",
+      "index": 73,
+      "raw_zh": "為此我特意引導普羅星人的科技朝著生物基因方向發展，但是很可惜，當普羅星的科技能夠更加深入解讀普羅星人基因的時候，蚩尤誕生了，唉！”",
+      "translated_vi": "Vì thế tôi mới đặc biệt dẫn dắt khoa học công nghệ của người sao Phổ La phát triển theo hướng gen sinh học. Nhưng thật đáng tiếc, đúng vào lúc nền công nghệ của sao Phổ La có thể giải mã sâu hơn bộ gen của người Phổ La thì Xi Vưu lại ra đời, than ôi!\""
+    },
+    {
+      "para_id": "c0234p0074",
+      "index": 74,
+      "raw_zh": "濕瑪瑪肆科笑道：",
+      "translated_vi": "Thấp Mã Mã Tứ Khoa cười nói:"
+    },
+    {
+      "para_id": "c0234p0075",
+      "index": 75,
+      "raw_zh": "“別歎氣，我可以告訴你我們研究出來的結果，人類基因的三次改造都非常有趣”",
+      "translated_vi": "\"Đừng thở dài, tôi có thể tiết lộ cho anh kết quả mà chúng tôi đã nghiên cứu ra được, cả ba lần cải tạo gen của loài người đều vô cùng thú vị đấy...\""
+    }
+  ]
+}

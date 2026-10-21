@@ -1,0 +1,140 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0297|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|"Năm năm thiếp thân xuất gia ở Thái Chân quan từng theo Xích Long đạo cô học được bí pháp này. Thi triển như vậy không những không tổn hại thân thể, mà còn có thể bổ tủy kéo dài tuổi thọ, tinh lực tự 
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §101):
+§1 [Ø=云千峰]雲千峰終於明白，為啥七十歲的唐明皇還如此對楊玉奴戀戀不舍了。
+§2 [Ø=云千峰]吃過早飯後，雲千峰帶著楊玉奴一起出海，三個薑柔甲就那麽捆在樹上。
+§3 [Ø=云千峰]一如既往，楊玉奴騎著雲千峰的脖頸，雲千峰騎著鯊魚。
+§4 [Ø=云千峰]不同的是，這次鯊魚身後拉著一個大大的木筏。
+§5 [Ø=云千峰]雲千峰這次，見到人影，不管好賴， [||] 直接用木筏拉走，當達到載重上限後，就會送回到沙灘上，然後再次出來拉人。
+§6 [Ø=云千峰]九屠想要拖延時間，同時吸引別人目光，在空間上形成燈下黑。
+§7 [Ø=云千峰]那麽雲千峰就先從時間上下手，讓他們無法拖延，即刻開始移山填海的風水大局。
+§8 [Ø=云千峰]運到第三趟時，雲千峰遇到個面熟的人。
+§9 [Ø=云千峰]雲千峰第一眼還真沒認出他來，只是再讓他上木筏的時候，那人先開口交談：
+§10 [Ø=云千峰]“雲生，不知可還認得在下？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=云千峰]雲千峰眯著眼睛看了一會，才想起來，道：
+§12 “你是九屠之一？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 那人急忙笑道：
+§14 [Ø=云千峰]“正是正是，在下原九屠之一右弼。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 雲千峰對他的這個介紹有點疑惑：
+§16 “原？你被開除了？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 右弼道：
+§18 [Ø=云千峰]“我都進地獄了，就意味著外面的我已經死了，按照九屠的傳承， [||] 我們每個人都會帶一個徒弟，我死的那一刻，便不再是九屠，因為我的徒弟直接接替我成為新的九屠。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 [Ø=云千峰]雲千峰點了點頭，道：
+§20 [Ø=云千峰]“那你下去吧，不瞞你說， [||] 我就是拉人去島上乾活的，咱們目的相反，我也不難為你。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 [Ø_SHIFT=姜柔甲]右弼急忙跳到木筏上，施禮道：
+§22 [Ø=姜柔甲]“雲生莫急，我是九屠時，咱們目的自然相反， [||] 但現在我不是九屠了，我想活著，不想受無間地獄之苦。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 雲千峰冷笑道：
+§24 “我憑什麽信你？而且你對我有什麽價值？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 [Ø=姜柔甲]右弼不慌張，笑道：
+§26 [Ø=姜柔甲]“風水異術，我最擅長，四庫之島我早已研究過，知道精準的使四庫相衝的移山填海路線， [||] 你在爭取時間逼迫九屠計劃不成，而我的精準路線，可以最大的節省時間，不知可有價值？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 [Ø=姜柔甲]雲千峰點了點頭，沉聲道：
+§28 [Ø=姜柔甲]“確實有些價值，但我如何相信你不是坑我？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 右弼思索道：
+§30 [Ø=姜柔甲]“此事確實最難，不如這樣，我知道哪個方向隨機到的給你送東西的人最多，我來指路幫你尋人尋物。
+§31 [Ø=姜柔甲]其次，三個薑柔甲是否把你難住了？”
+§32 [Ø=姜柔甲]雲千峰來了精神，忙道：
+§33 “你知道誰是真誰是假？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 右弼道：
+§35 [Ø=姜柔甲]“整個計劃我不知道過程，都是天璣一個人運作，不過我頗知人心。
+§36 [Ø=姜柔甲]雲生可否想過，兩個一模一樣的薑柔甲確實難分辨，但是三個取其二怕是不難。”
+§37 雲千峰顰眉道：
+§38 “右弼先生指點一二。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 右弼自信道：
+§40 [Ø=姜柔甲]“雲生只需回憶你帶著兩個薑柔甲遇到第三個薑柔甲時，三個人的表情和情緒，說與我聽。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 雲千峰回憶道：
+§42 [Ø=姜柔甲]“頭兩個薑柔甲在看到第三個薑柔甲時，很驚訝， [||] 臉上全是不可思議的表情。第三個好像驚呆了，似乎腦子都不轉了，怎麽說怎麽是。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 [Ø=姜柔甲]右弼撫須，淡然一笑，頗有諸葛之風，道：
+§44 “這頭兩個薑柔甲必為贗品！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§45 雲千峰急問道：
+§46 “為何？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§47 右弼笑道：
+§48 [Ø=姜柔甲]“很簡單，當一個人發現另一個也自稱是自己的人時，驚訝之初後， [||] 是恐懼或者憤怒，但這種情緒前兩個薑柔甲都沒有，而僅僅是驚訝，這意味著什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§49 雲千峰緩緩道：
+§50 [Ø=姜柔甲]“意味著頭兩個薑柔甲都猜到了對方是誰，但她們卻猜不到第三個薑柔甲是誰。如此才會有當時的表情和情緒。
+§51 [Ø=姜柔甲]也就是說，現在只有第三個薑柔甲可能是真的，右弼你腦子裡有些東西啊！”
+§52 右弼笑道：
+§53 [Ø=姜柔甲]“一直是兩個意識一個身體活著，所以對人心反而看得最透，算是天生的優勢吧。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§54 [Ø=姜柔甲]雲千峰點頭，道：
+§55 [Ø=姜柔甲]“上船！咱們出發，先去接人，回去了再去處理那贗品薑柔甲！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§56 [Ø=姜柔甲]又拉了兩趟人，這次是右弼指路，果然很多是帶著羅琳娜背包的人。
+§57 [Ø=姜柔甲]讓這些人把物資送到未土避身所的邊緣，雲千峰不許他們進去，只能在外面扎營，但是遠離那戌土溫泉之湖。
+§58 [Ø=姜柔甲]隨後和右弼，楊玉奴將那些背包裡的折疊鏟留給那些人，其它的飲料酒水帶回未土避身所內。
+§59 [Ø=姜柔甲]沒人敢反抗，他們親眼看到雲千峰一拳打死一頭野牛，那也是他們今晚的晚餐。
+§60 [Ø=姜柔甲]回到避身所後，楊玉奴去放置保存物資，雲千峰和右弼則直奔那三個薑柔甲而去。
+§61 [Ø=姜柔甲]來到近前，右弼自告奮勇，走前一步，對著三個薑柔甲大聲道：
+§62 “哪個是THE ONE派來的？該認識我九屠右弼吧？還不出來拜見！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§63 [Ø=姜柔甲]沒人應聲，右弼也不急，笑著溫和道：
+§64 [Ø=姜柔甲]“信帝，圖的是天堂的長生， [||] 如今已經進了這有進無出的十八層地獄，還在做夢嗎？既然是棄子，就別再堅持了。
+§65 [Ø=姜柔甲]我右弼已經跟隨雲千峰先生，因為我是九屠的第一個棄子。
+§66 [Ø=姜柔甲]為什麽我要做這個選擇？因為在這第十八層地獄內，雲千峰先生也能讓我們活的和天堂一樣， [||] 而且在這裡我們本就是永生的！你們信仰的最終所求，在這裡一樣可以達到，只要信奉雲千峰先生。”
+§67 [Ø=姜柔甲]這樣充滿誘惑力的話，從九屠之一口中說出，THE ONE的棄子又如何禁得住。
+§68 [Ø=姜柔甲]當下，一個薑柔甲在樹旁，對著右弼施禮，聲音平而暖的道：
+§69 [Ø=姜柔甲]“拜見右弼先生，我是THE ONE棄子，大天使，以後願追隨右弼先生和雲千峰先生。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§70 [Ø=姜柔甲]雲千峰這才知道，這個薑柔甲， [||] 竟然就是那個一臉悲天憫人，卻喜歡用槍炮解決問題，與自己有兩面之緣的大天使。
+§71 [Ø=姜柔甲]右弼看著大天使，沉聲道：
+§72 [Ø=姜柔甲]“這樣拜見是不行的，而且你跟隨的是雲千峰先生，我們可以稱之為蚩尤！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§73 [Ø=姜柔甲]冷冰冰的大天使這是表情冷，心裡可不傻， [||] 當下明白右弼的意思，直接跪拜在地，道：
+§74 “大天使願永遠追隨蚩尤！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§75 [Ø=姜柔甲]雲千峰得端一下架子，而右弼很會搭台階，當下忙對著雲千峰道：
+§76 [Ø=姜柔甲]“用人在即，大天使的性格嚴謹，可作為一個很好的監工。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§77 雲千峰這才點頭道：
+§78 [Ø=姜柔甲]“好，那我就收了，跟隨我，永遠不會成為棄子！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§79 大天使又是一拜。
+§80 右弼笑道：
+§81 [Ø=姜柔甲]“大天使，你知道另外兩個薑柔甲都是誰？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§82 穿著牛仔褲的大天使指著那穿著牛仔褲的薑柔甲道：
+§83 “我知道她是誰！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§84 [Ø=姜柔甲]大天使所指之人，定然是個識時務者。
+§85 [Ø=姜柔甲]因為大天使話音一落，她就跪了，忙大聲道：
+§86 [Ø=姜柔甲]“我也願意跟隨蚩尤，我也能當監工！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§87 [Ø=姜柔甲]雲千峰被她的迫不及待逗笑了，忙問道：
+§88 “你自報家門！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§89 那穿著牛仔短褲的薑柔甲笑道：
+§90 [Ø=姜柔甲]“咱們倆是熟人了，當初在海島，你把我左手砍斷了，我心裡就從來沒怨恨過你， [||] 之前我還奇怪為什麽會這樣，現在我明白了，原來此生注定，我最終要跟隨您啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§91 [Ø=姜柔甲]好家夥，這是個會說話的。
+§92 [Ø=姜柔甲]雲千峰看著那牛仔褲薑柔甲，不可思議道：
+§93 “你是石匠會的一號？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§94 [Ø=姜柔甲]“正是我，左手本是假的，全知之眼複製後，反倒看不出。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§95 右弼笑道：
+§96 [Ø=姜柔甲]“恭喜蚩尤又收一員有用之才，現在嗎，只剩下這第三個薑柔甲了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§97 [Ø=姜柔甲]今天全程在火車上，沒法記錄打賞和月票的名字，很多極值得的評論也沒有回復， [||] 等下車安頓好，會回看記錄，先謝謝你們的支持！！！
+§98 [Ø=姜柔甲]還有，這幾天想衝一個小目標， [||] 畢竟一個精品的榮譽還是挺重要的，為了均定數量，我可能會發大章兩天。
+§99 [Ø=姜柔甲]保證數量不會減少，一章五千字打底，無上限。
+§100 [Ø=姜柔甲]這最後一卷也寫到中間了，大家就別急了，這個月必然見分曉。
+§101 [Ø=姜柔甲]祝大家好夢，晚安！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 101 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§101. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

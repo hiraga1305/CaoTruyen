@@ -1,0 +1,493 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 48,
+  "title": "Chương 48: Là ai?",
+  "total_paragraphs": 80,
+  "translated_paragraphs": 80,
+  "source_hash": "1c4441df720a8541cc1c2b2aa55535b6365fba1104e84dd41eed05715a361ca8",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0048p0001",
+      "index": 1,
+      "raw_zh": "第48章 是誰？",
+      "translated_vi": "Chương 48: Là ai?"
+    },
+    {
+      "para_id": "c0048p0002",
+      "index": 2,
+      "raw_zh": "至於六個都是生路這種可能性，那是零。",
+      "translated_vi": "Còn về khả năng cả sáu lối đi đều là đường sống, con số đó là con số không tròn trĩnh."
+    },
+    {
+      "para_id": "c0048p0003",
+      "index": 3,
+      "raw_zh": "這裡面每個人都很確定，除了那條生路，其它五條進去，不但必死無疑，肯定還不是好死。",
+      "translated_vi": "Từng người có mặt ở đây đều đoan chắc rằng, ngoại trừ một con đường sống duy nhất, hễ chui vào năm đường còn lại thì không những nắm chắc cái chết, mà cái chết ấy chắc chắn sẽ vô cùng thê thảm."
+    },
+    {
+      "para_id": "c0048p0004",
+      "index": 4,
+      "raw_zh": "地下探險，最怕的就是這種迷蹤出口，因為你必須找準它的規律，是奇門遁甲還是梅花易數亦或是大六壬等等。",
+      "translated_vi": "Thám hiểm lòng đất, điều đáng sợ nhất chính là những lối thoát dạng mê cung ma trận này. Bởi vì bạn bắt buộc phải tìm ra quy luật chính xác của nó: là Kỳ Môn Độn Giáp, Mai Hoa Dịch Số, hay Đại Lục Nhâm..."
+    },
+    {
+      "para_id": "c0048p0005",
+      "index": 5,
+      "raw_zh": "然而這些技法在神跡之中全都沒用，因為那些手段術數都是周後發展起來的學說，它們的根本是後天八卦，而神跡的根基一定是先天八卦，它要的是最本初的規律。",
+      "translated_vi": "Thế nhưng toàn bộ những thuật số ấy khi đặt vào trong di tích thần thánh này đều hoàn toàn vô dụng. Bởi lẽ các môn thuật số đó đều là học thuyết được phát triển từ sau thời nhà Chu, nền tảng cốt lõi của chúng là Hậu Thiên Bát Quái. Còn căn cơ của di tích thần thánh này nhất định phải là Tiên Thiên Bát Quái — thứ nó đòi hỏi là quy luật nguyên thủy nhất của cội nguồn vũ trụ."
+    },
+    {
+      "para_id": "c0048p0006",
+      "index": 6,
+      "raw_zh": "出口近在眼前，但卻把所有人都難住了。",
+      "translated_vi": "Lối thoát hiểm cận kề ngay trước mắt, nhưng lại làm khó tất cả mọi người."
+    },
+    {
+      "para_id": "c0048p0007",
+      "index": 7,
+      "raw_zh": "石落如雨，已經沒有多少時間給他們思考。",
+      "translated_vi": "Đất đá rơi xuống rào rào như mưa trút, thời gian để họ suy tính chẳng còn lại bao nhiêu."
+    },
+    {
+      "para_id": "c0048p0008",
+      "index": 8,
+      "raw_zh": "雲千峰嘴裡嘟囔著：",
+      "translated_vi": "Miệng Vân Thiên Phong lẩm bẩm:"
+    },
+    {
+      "para_id": "c0048p0009",
+      "index": 9,
+      "raw_zh": "“不對！這不對！只有六個，這個數字不對，一定還有第七個空出口！”",
+      "translated_vi": "“Không đúng! Thế này không đúng! Chỉ có sáu cửa, con số này không chuẩn! Nhất định phải còn một cửa thoát hiểm rỗng thứ bảy nữa!”"
+    },
+    {
+      "para_id": "c0048p0010",
+      "index": 10,
+      "raw_zh": "說著，他遙看四周，突然靈光一閃，看著距離他們較遠的石門入口，喜道：",
+      "translated_vi": "Vừa nói, anh vừa phóng mắt nhìn quanh bốn phía, bỗng nhiên một tia linh quang lóe lên trong đầu. Đưa mắt nhìn về phía cửa đá nơi họ bước vào nằm cách một quãng xa, anh mừng rỡ reo lên:"
+    },
+    {
+      "para_id": "c0048p0011",
+      "index": 11,
+      "raw_zh": "“入口是第七個，我們就站在空數零中！我知道怎麽出去了，大家跟我走！”",
+      "translated_vi": "“Cửa vào chính là lối thứ bảy, còn chúng ta đang đứng ngay trong khoảng không số Không! Tôi biết cách ra ngoài rồi, mọi người đi theo tôi!”"
+    },
+    {
+      "para_id": "c0048p0012",
+      "index": 12,
+      "raw_zh": "雲千峰一手推著秦疏影，一手拉著薑柔甲，帶隊快速來到那幾個石洞之前，然後毫不猶豫的把秦疏影推進右數第三個石洞，緊接著自己也鑽了進去。",
+      "translated_vi": "Vân Thiên Phong một tay đẩy Tần Sơ Ảnh, một tay dắt Khương Nhu Giáp, dẫn cả đội tức tốc chạy tới trước mấy cửa hang đá. Sau đó, anh chẳng chút do dự đẩy phắt Tần Sơ Ảnh chui vào cửa hang thứ ba tính từ bên phải sang, rồi bản thân cũng lập tức chui tọt vào theo."
+    },
+    {
+      "para_id": "c0048p0013",
+      "index": 13,
+      "raw_zh": "薑柔甲對雲千峰是的信任級別是“絕對”，她毫不遲疑的跟著鑽了進去。",
+      "translated_vi": "Niềm tin của Khương Nhu Giáp dành cho Vân Thiên Phong đã đạt tới cấp độ “tuyệt đối”, cô không mảy may chần chừ liền bám sát chui vào ngay."
+    },
+    {
+      "para_id": "c0048p0014",
+      "index": 14,
+      "raw_zh": "而後面幾個人完全不知道雲千峰是如何判斷這個洞口是出口的，心裡更是忐忑無比，然而他們已經沒有猶豫的時間，只能硬著頭皮也鑽進去，期盼雲千峰不是胡蒙的才好。",
+      "translated_vi": "Mấy người đi phía sau hoàn toàn không hiểu nổi Vân Thiên Phong dựa vào đâu để đoán định cửa hang này chính là lối thoát hiểm, trong lòng thỏ thẻ bất an vô cùng. Thế nhưng họ đã chẳng còn thời gian để chần chừ suy tính nữa, đành cắn răng cắm đầu chui vào theo, chỉ thầm cầu mong Vân Thiên Phong không phải đoán mò ăn may."
+    },
+    {
+      "para_id": "c0048p0015",
+      "index": 15,
+      "raw_zh": "石洞不大，堪堪能讓他們爬著前行。",
+      "translated_vi": "Hang đá không lớn, chỉ vừa vặn đủ cho từng người khom lưng bò trườn về phía trước."
+    },
+    {
+      "para_id": "c0048p0016",
+      "index": 16,
+      "raw_zh": "可以看得出，這就是最古老的逃生出口，之所以建造這麽緊窄，就是擔心地震崩塌，而狹小的空間反而更結實一些，也容易用手段固定。",
+      "translated_vi": "Có thể thấy đây chính là lối thoát hiểm cổ xưa nhất. Sở dĩ nó được xây dựng chật hẹp đến vậy là vì đề phòng động đất sụp đổ; không gian càng chật hẹp thì cấu trúc lại càng kiên cố và dễ gia cố hơn."
+    },
+    {
+      "para_id": "c0048p0017",
+      "index": 17,
+      "raw_zh": "七個人一字排開，一條蜈蚣似的，沿著斜上坡的石洞向前蹣跚爬行。",
+      "translated_vi": "Bảy con người xếp thành một hàng dọc hệt như một con rết dài, bò lồm cồm men theo đường hầm đá dốc ngược lên trên."
+    },
+    {
+      "para_id": "c0048p0018",
+      "index": 18,
+      "raw_zh": "後面空心山體塌方的震顫已經開始波及到他們這裡，趴在狹窄的逃生石洞內，能夠清晰的感覺到那種震顫波動越來越大，身後已經開始有零星碎石渣滓散落，但還沒有聽到開裂的聲響。",
+      "translated_vi": "Cơn chấn động do ngọn núi rỗng ruột sụp đổ phía sau đã bắt đầu lan tới chỗ bọn họ. Nằm rạp trong đường hầm thoát hiểm chật hẹp, họ có thể cảm nhận rõ ràng từng đợt sóng rung chuyển mỗi lúc một dữ dội hơn. Phía sau lưng bắt đầu có những vụn đá lạo xạo rơi lách tách, nhưng may mắn là vẫn chưa nghe thấy tiếng nứt toác của vách đá."
+    },
+    {
+      "para_id": "c0048p0019",
+      "index": 19,
+      "raw_zh": "秦疏影體力不及雲千峰，爬行的速度比較慢，雲千峰就在後面使勁用手托住她的腳給她助力，速度頓時比之前快了許多。",
+      "translated_vi": "Thể lực của Tần Sơ Ảnh không bằng Vân Thiên Phong, tốc độ bò khá chậm chạp. Vân Thiên Phong ở phía sau liền đưa tay dùng sức đẩy vào lòng bàn chân cô để trợ lực, nhờ vậy tốc độ di chuyển lập tức nhanh hơn hẳn lúc trước."
+    },
+    {
+      "para_id": "c0048p0020",
+      "index": 20,
+      "raw_zh": "在這樣的出口裡，別想著超車，空間不夠，這也保證了隊伍的安全性，因為落後的人肯定不敢殺死前面的人先逃出去，因為那樣會堵住出路。",
+      "translated_vi": "Trong một lối thoát hiểm như thế này thì đừng hòng nghĩ tới chuyện vượt mặt, khoảng trống căn bản không đủ. Điều này vô hình trung lại bảo đảm an toàn cho cả đội, bởi kẻ bò phía sau tuyệt đối không dám sát hại người phía trước để tranh đường tẩu thoát, vì làm vậy chỉ tổ làm tắc nghẽn lối ra duy nhất."
+    },
+    {
+      "para_id": "c0048p0021",
+      "index": 21,
+      "raw_zh": "雲千峰每一次托秦疏影的腳丫，都會用另一隻手抵住側面的石壁，否則他會往下滑。",
+      "translated_vi": "Mỗi lần Vân Thiên Phong đẩy chân Tần Sơ Ảnh, anh đều phải dùng tay còn lại chống vào vách đá bên sườn, nếu không cả người sẽ bị trượt tụt xuống dốc."
+    },
+    {
+      "para_id": "c0048p0022",
+      "index": 22,
+      "raw_zh": "這一次，他搭住秦疏影的腳丫，左手往側面一抵，卻沒想到觸了個空，側面竟然沒有石壁。",
+      "translated_vi": "Lần này, tay phải anh vừa bám vào bàn chân Tần Sơ Ảnh, tay trái chống sang bên hông thì không ngờ lại hụt vào khoảng không — bên sườn thế mà lại không có vách đá!"
+    },
+    {
+      "para_id": "c0048p0023",
+      "index": 23,
+      "raw_zh": "這讓他身形不由的一歪，身體順著左手的勁滑過去，就那麽“哎喲”一聲，消失在漆黑的逃生石洞內。",
+      "translated_vi": "Sự cố bất ngờ khiến thân hình anh nghiêng hẳn sang một bên, quán tính từ tay trái kéo tuột cả người trượt đi, anh chỉ kịp thốt lên một tiếng “Ối giời ơi” rồi biến mất tăm vào màn đêm tối đen như mực bên ngoài đường hầm thoát hiểm."
+    },
+    {
+      "para_id": "c0048p0024",
+      "index": 24,
+      "raw_zh": "前後的人聽到雲千峰的叫聲，急忙把頭頂固定的狼牙手電照過去，就見逃生石洞在這個位置，側面有一個不小的裂縫，不知有多深，雲千峰就是不小心跌落進那裂縫裡。",
+      "translated_vi": "Những người đi trước và sau nghe thấy tiếng kêu của Vân Thiên Phong liền vội vàng rọi đèn pin gắn trên trán qua, thì thấy ngay tại vị trí này của đường hầm, bên sườn toác ra một kẽ nứt khá lớn chẳng rõ sâu nông ra sao, Vân Thiên Phong vừa rồi đã sơ ý sẩy chân lọt thỏm xuống kẽ nứt ấy."
+    },
+    {
+      "para_id": "c0048p0025",
+      "index": 25,
+      "raw_zh": "雲千峰滾得暈頭轉向，隨後感覺屁股震得生疼，卻是安全落地，沒有受傷。",
+      "translated_vi": "Vân Thiên Phong lăn lông lốc đến váng cả đầu hoa cả mắt, sau đó mông đập xuống đau điếng, may thay lại tiếp đất an toàn, không hề bị thương tích gì."
+    },
+    {
+      "para_id": "c0048p0026",
+      "index": 26,
+      "raw_zh": "讓雲千峰詫異的是，這裡竟然有光，火光。",
+      "translated_vi": "Điều khiến Vân Thiên Phong ngạc nhiên tột độ là ở chốn này thế mà lại có ánh sáng — ánh lửa bập bùng!"
+    },
+    {
+      "para_id": "c0048p0027",
+      "index": 27,
+      "raw_zh": "是前面塌方神殿裡那種萬年燈。",
+      "translated_vi": "Đó chính là loại đèn Vạn Niên giống hệt trong thần điện vừa sụp đổ phía trước."
+    },
+    {
+      "para_id": "c0048p0028",
+      "index": 28,
+      "raw_zh": "火光把這不大的裂縫空間照的明亮，一具乾枯的屍體就安穩的盤膝坐在萬年燈前。",
+      "translated_vi": "Ánh lửa soi rọi khoảng không gian kẽ nứt không quá rộng lớn này sáng tỏ, một cỗ thi thể khô quắt đang an tọa xếp bằng ngay ngắn phía trước ngọn đèn Vạn Niên."
+    },
+    {
+      "para_id": "c0048p0029",
+      "index": 29,
+      "raw_zh": "因為這個裂縫內乾燥，那屍體保存的很好，已經成了乾屍，甚至身上的衣服都還相對完整。",
+      "translated_vi": "Vì không khí trong kẽ nứt này rất khô ráo nên cái xác được bảo quản cực kỳ nguyên vẹn, đã hóa thành một xác khô hoàn chỉnh, thậm chí y phục trên người vẫn còn tương đối lành lặn."
+    },
+    {
+      "para_id": "c0048p0030",
+      "index": 30,
+      "raw_zh": "雲千峰聽到上面秦疏影他們呼喚自己的名字，就對著上方裂縫喊道：",
+      "translated_vi": "Nghe thấy tiếng Tần Sơ Ảnh cùng mọi người ở phía trên đang hốt hoảng gọi tên mình, Vân Thiên Phong liền ngửa cổ hướng về miệng nứt bên trên hét to:"
+    },
+    {
+      "para_id": "c0048p0031",
+      "index": 31,
+      "raw_zh": "“我沒事，你們吊一條繩索下來，我能爬上去。”",
+      "translated_vi": "“Tôi không sao! Thả một sợi dây thừng xuống đây, tôi leo lên được!”"
+    },
+    {
+      "para_id": "c0048p0032",
+      "index": 32,
+      "raw_zh": "說完，他站起身來，向著那屍體走過去，因為他看到那屍體身前橫擺著一把短劍。",
+      "translated_vi": "Nói đoạn, anh đứng dậy bước lại gần cỗ thi thể, bởi vì anh nhìn thấy trước mặt xác khô đang đặt ngang một thanh đoản kiếm."
+    },
+    {
+      "para_id": "c0048p0033",
+      "index": 33,
+      "raw_zh": "屍體都成乾屍了，那短劍的劍鞘卻依舊如新，想來定然是寶貝。",
+      "translated_vi": "Xác người ta đều đã hóa thành xác khô đét, vậy mà vỏ thanh đoản kiếm kia vẫn mới tinh tươm, ngẫm ra đích thị là bảo vật hiếm có."
+    },
+    {
+      "para_id": "c0048p0034",
+      "index": 34,
+      "raw_zh": "然而腿摔麻了，往前一走，右腿一軟，整個人跪趴在那乾屍身前，一雙手撫上了乾屍僵硬的小腿。",
+      "translated_vi": "Thế nhưng chân bị ngã tê dại, vừa bước tới trước một bước thì chân phải đã nhũn ra, cả người anh quỳ sụp úp mặt ngay trước cỗ xác khô, đôi bàn tay chới với bấu trúng vào cẳng chân cứng đờ của người chết."
+    },
+    {
+      "para_id": "c0048p0035",
+      "index": 35,
+      "raw_zh": "雲千峰急忙抽手，正要爆粗口，卻不想那乾屍在雲千峰跪趴的震動下，下顎嘎巴一下張開，直接把兩腮的乾皮撕裂開，嘴巴張得老大，看起來猙獰恐怖。",
+      "translated_vi": "Vân Thiên Phong vội rụt tay lại, đang định buột miệng chửi thề một câu thì chẳng ngờ cỗ xác khô dưới cơn chấn động từ cú ngã quỳ của anh, quai hàm bỗng ‘rắc’ một tiếng mở toang ra, xé toạc cả lớp da khô ráp hai bên má, cái mồm há hốc to tướng trông vô cùng dữ tợn ghê rợn."
+    },
+    {
+      "para_id": "c0048p0036",
+      "index": 36,
+      "raw_zh": "“臥槽！”",
+      "translated_vi": "“Đậu má!”"
+    },
+    {
+      "para_id": "c0048p0037",
+      "index": 37,
+      "raw_zh": "雲千峰嚇得往後一躲，然後看到一顆圓珠在乾屍的嘴裡滾落下來。",
+      "translated_vi": "Vân Thiên Phong giật thót mình nhảy lùi lại phía sau, rồi nhìn thấy một viên châu tròn từ trong miệng xác khô lăn long lóc rơi xuống."
+    },
+    {
+      "para_id": "c0048p0038",
+      "index": 38,
+      "raw_zh": "這珠子不大，直徑兩三厘米的樣子，非常光滑。",
+      "translated_vi": "Viên châu này không lớn, đường kính cỡ hai ba centimet, bề mặt trơn nhẵn mịn màng."
+    },
+    {
+      "para_id": "c0048p0039",
+      "index": 39,
+      "raw_zh": "雲千峰接住珠子，入手溫潤，借著火光一看，這石頭竟然長得和人眼珠一個樣，有眼白有眼仁有瞳孔，但是觸摸的質地，無論如何也不可能是有機物。",
+      "translated_vi": "Vân Thiên Phong đón lấy viên ngọc, cảm giác chạm vào ấm áp mượt mà. Nương theo ánh lửa nhìn kỹ, hòn đá này thế mà trông y hệt như một con mắt người: có tròng trắng, có tròng đen, có cả đồng tử, nhưng chất cảm khi sờ vào thì tuyệt đối không thể nào là vật chất hữu cơ."
+    },
+    {
+      "para_id": "c0048p0040",
+      "index": 40,
+      "raw_zh": "“天然奇石？”",
+      "translated_vi": "“Kỳ thạch tự nhiên ư?”"
+    },
+    {
+      "para_id": "c0048p0041",
+      "index": 41,
+      "raw_zh": "不知為何，看著這石球的大小，他不禁想起那林伽形神像前面祭台上的兩個石手。",
+      "translated_vi": "Chẳng hiểu vì sao, nhìn kích thước của khối cầu đá này, anh bất giác nhớ tới hai bàn tay đá trên tế đàn phía trước pho tượng thần hình linga."
+    },
+    {
+      "para_id": "c0048p0042",
+      "index": 42,
+      "raw_zh": "“莫不是個走地賊？偷了石手裡面的東西，結果卻困死在這裡？”",
+      "translated_vi": "“Chẳng lẽ lại là một tên trộm mộ? Trộm mất thứ trong bàn tay đá rồi rốt cuộc bị mắc kẹt chết rũ ở đây?”"
+    },
+    {
+      "para_id": "c0048p0043",
+      "index": 43,
+      "raw_zh": "雲千峰覺得極有可能。",
+      "translated_vi": "Vân Thiên Phong cảm thấy khả năng này vô cùng cao."
+    },
+    {
+      "para_id": "c0048p0044",
+      "index": 44,
+      "raw_zh": "他把石眼小心放在兜裡，拉好拉鏈避免丟失，可以確定這東西絕對值錢。",
+      "translated_vi": "Anh cẩn thận nhét con mắt đá vào túi áo, kéo khóa kín lại để tránh rơi mất, có thể đoan chắc thứ này tuyệt đối đáng giá bạc triệu."
+    },
+    {
+      "para_id": "c0048p0045",
+      "index": 45,
+      "raw_zh": "然後把短劍拿起來，掖在腰帶上，這才看到短劍下面的石台上還刻著字，都是繁體字，但好在這玩意不難認。",
+      "translated_vi": "Sau đó anh cầm thanh đoản kiếm lên dắt vào thắt lưng, lúc này mới nhìn thấy trên bệ đá phía dưới thanh kiếm có khắc chữ. Toàn là chữ phồn thể, nhưng may sao thứ này cũng không quá khó đọc."
+    },
+    {
+      "para_id": "c0048p0046",
+      "index": 46,
+      "raw_zh": "之乎者也一堆，大概意思就是這人身負使命，來到這裡做一件大事。",
+      "translated_vi": "Toàn là văn ngôn chi hồ giả dã, đại ý là người này gánh vác sứ mệnh trọng đại, tới chốn này để làm một việc kinh thiên động địa."
+    },
+    {
+      "para_id": "c0048p0047",
+      "index": 47,
+      "raw_zh": "然而這貨也不知是從這個石洞進來的還是在這個石洞出去，總是他爬到一半，卻突然忘了自己的使命是來偷這個眼球模樣的珠子，還是把珠子放回去。",
+      "translated_vi": "Thế nhưng gã này cũng chẳng rõ là chui vào từ cái hang đá này hay định tẩu thoát ra ngoài, tóm lại bò tới nửa đường thì đột nhiên quên bẵng mất sứ mệnh của mình rốt cuộc là tới trộm viên châu hình mắt người này, hay là đem nó trả về chỗ cũ."
+    },
+    {
+      "para_id": "c0048p0048",
+      "index": 48,
+      "raw_zh": "於是走也不是，回也不是，想來這個使命茲事體大，比他的命還重要，於是在不知如何是好之際，他選擇坐在這裡等死，有待後人前來，把事情辦完。",
+      "translated_vi": "Thế là đi tiếp cũng không xong, mà quay về cũng không được. Ngẫm ra sứ mệnh này hệ trọng vô cùng, còn quý hơn cả tính mạng của gã, cho nên trong lúc tiến thoái lưỡng nan, gã đành chọn ngồi yên tại đây chờ chết, trông đợi hậu nhân mai sau tới hoàn thành nốt đại sự."
+    },
+    {
+      "para_id": "c0048p0049",
+      "index": 49,
+      "raw_zh": "這段話裡，雲千峰覺得最主要的信息就是，這個裂縫才是真正的出口，那石洞前方是死胡同，至於石眼球的信息，雲千峰自動過濾了，反正是送不回去的，大殿都塌了。",
+      "translated_vi": "Trong đoạn văn này, thông tin mà Vân Thiên Phong cảm thấy mấu chốt nhất chính là: kẽ nứt này mới thực sự là lối thoát hiểm, còn phía trước đường hầm đá kia là ngõ cụt! Còn về thông tin con mắt đá thì Vân Thiên Phong tự động bỏ ngoài tai, đằng nào thì đại điện cũng đã sập nát rồi, có muốn đem trả cũng chẳng còn chỗ mà trả."
+    },
+    {
+      "para_id": "c0048p0050",
+      "index": 50,
+      "raw_zh": "於是雲千峰急忙喊上面的人下來，恰好他們也掛好了繩索，就開始依次往下爬。",
+      "translated_vi": "Thế là Vân Thiên Phong vội giục những người bên trên bò xuống, vừa khéo họ cũng đã buộc xong dây thừng nên bắt đầu lần lượt trèo xuống."
+    },
+    {
+      "para_id": "c0048p0051",
+      "index": 51,
+      "raw_zh": "雲千峰沒過去幫忙，而是看著石台上的字猜測，可能是這個人的記憶被篡改了，總之他不信這個人是突然得了失憶症。",
+      "translated_vi": "Vân Thiên Phong không sang phụ giúp mà đứng nhìn dòng chữ khắc trên bệ đá suy đoán. Rất có thể ký ức của người này đã bị can thiệp xóa sửa, tóm lại anh không tin gã bỗng dưng lại mắc chứng mất trí nhớ đột ngột."
+    },
+    {
+      "para_id": "c0048p0052",
+      "index": 52,
+      "raw_zh": "“看來篡改記憶這種事，自古有之啊，這位衣服看起來，妥妥的古代人，頗有兩晉之風。”",
+      "translated_vi": "“Xem ra chuyện can thiệp tẩy não xóa ký ức này đã có từ thuở xa xưa rồi. Nhìn cách ăn mặc của vị này đích thực là người cổ đại, mang đậm phong thái thời Lưỡng Tấn.”"
+    },
+    {
+      "para_id": "c0048p0053",
+      "index": 53,
+      "raw_zh": "想到這，他又突然苦笑道：",
+      "translated_vi": "Nghĩ tới đây, anh bỗng cười khổ lẩm bẩm:"
+    },
+    {
+      "para_id": "c0048p0054",
+      "index": 54,
+      "raw_zh": "“這位先生，你絕筆遺書給後人，可伱又不說你後人是誰，我可把這珠子交給誰啊？真不是我貪財，我這出去就有錢了，真不怪我啊！我看你腰上掛著的玉佩上有字，估摸著和你的身世有關，我拿著出去研究研究，能找到你後代就找，找不到我就給能研究的人研究。”",
+      "translated_vi": "“Vị tiên sinh này, ông để lại tuyệt bút di thư cho hậu nhân, nhưng ông lại chẳng thèm nói hậu nhân của ông là ai, vậy tôi biết giao viên châu này cho người nào đây? Thật sự không phải tôi tham lam tiền tài đâu, tôi ra khỏi đây là có cả đống tiền rồi, thật lòng chẳng thể trách tôi được đâu nhé! Tôi thấy miếng ngọc bội treo bên hông ông có khắc chữ, đoán chừng có liên quan tới thân thế của ông, tôi xin phép cầm ra ngoài nghiên cứu một chút. Tìm được con cháu của ông thì tôi gửi lại, còn không tìm được thì tôi giao cho các nhà nghiên cứu xem xét vậy.”"
+    },
+    {
+      "para_id": "c0048p0055",
+      "index": 55,
+      "raw_zh": "說著，將那玉佩也解下來。",
+      "translated_vi": "Vừa nói, anh vừa tháo luôn miếng ngọc bội kia xuống."
+    },
+    {
+      "para_id": "c0048p0056",
+      "index": 56,
+      "raw_zh": "也在這個時候，秦疏影他們幾個人也湊過來。",
+      "translated_vi": "Đúng lúc này, nhóm người Tần Sơ Ảnh cũng đã trèo xuống tụ lại bên cạnh."
+    },
+    {
+      "para_id": "c0048p0057",
+      "index": 57,
+      "raw_zh": "一到跟前，薑柔甲就撇嘴道：",
+      "translated_vi": "Vừa tới gần, Khương Nhu Giáp liền bĩu môi bảo:"
+    },
+    {
+      "para_id": "c0048p0058",
+      "index": 58,
+      "raw_zh": "“那個巴猜還不信你說的，往前面去探路，竟然不信你，真傻！”",
+      "translated_vi": "“Tên Bachai kia còn không tin lời anh nói, cứ khăng khăng đòi bò về phía trước dò đường, chẳng thèm tin anh, ngốc thật đấy!”"
+    },
+    {
+      "para_id": "c0048p0059",
+      "index": 59,
+      "raw_zh": "不信雲千峰就是傻，這是薑柔甲心裡的真理。",
+      "translated_vi": "Không tin Vân Thiên Phong chính là ngốc — đây là chân lý sắt đá trong lòng Khương Nhu Giáp."
+    },
+    {
+      "para_id": "c0048p0060",
+      "index": 60,
+      "raw_zh": "薑玉林則被雲千峰手上的玉佩吸引，當下道：",
+      "translated_vi": "Khương Ngọc Lâm thì lại bị miếng ngọc bội trên tay Vân Thiên Phong cuốn hút, bèn lên tiếng:"
+    },
+    {
+      "para_id": "c0048p0061",
+      "index": 61,
+      "raw_zh": "“能給我看看嘛？”",
+      "translated_vi": "“Có thể cho tôi xem qua một chút được không?”"
+    },
+    {
+      "para_id": "c0048p0062",
+      "index": 62,
+      "raw_zh": "雲千峰看了看乾屍，想了想之前說的話，總不好當面反悔，於是遞過去道：",
+      "translated_vi": "Vân Thiên Phong liếc nhìn cỗ xác khô, nghĩ lại những lời mình vừa thề thốt, chẳng lẽ lại nuốt lời ngay trước mặt người chết, thế là đưa qua bảo:"
+    },
+    {
+      "para_id": "c0048p0063",
+      "index": 63,
+      "raw_zh": "“你看吧，能看出子午卯酉，就送給你。”",
+      "translated_vi": "“Anh xem đi, nếu nhìn ra được đầu đuôi ngọn ngành thì tôi tặng anh luôn.”"
+    },
+    {
+      "para_id": "c0048p0064",
+      "index": 64,
+      "raw_zh": "大丈夫一言駟馬難追，對死人也是如此，這叫問心無愧。",
+      "translated_vi": "Đại trượng phu nhất ngôn cửu đỉnh, đối với người chết cũng vậy, đó gọi là vấn tâm vô quý."
+    },
+    {
+      "para_id": "c0048p0065",
+      "index": 65,
+      "raw_zh": "薑玉林也看了看乾屍，笑道：",
+      "translated_vi": "Khương Ngọc Lâm cũng nhìn cỗ xác khô, cười bảo:"
+    },
+    {
+      "para_id": "c0048p0066",
+      "index": 66,
+      "raw_zh": "“答應人家的吧？”",
+      "translated_vi": "“Vừa hứa với người ta hả?”"
+    },
+    {
+      "para_id": "c0048p0067",
+      "index": 67,
+      "raw_zh": "雲千峰無奈的點了點頭。",
+      "translated_vi": "Vân Thiên Phong bất đắc dĩ gật đầu."
+    },
+    {
+      "para_id": "c0048p0068",
+      "index": 68,
+      "raw_zh": "薑玉林借著火光看了一眼玉佩，又看了看石台上的字跡的落款時間，然後說道：",
+      "translated_vi": "Khương Ngọc Lâm nương theo ánh lửa săm soi miếng ngọc bội, lại ngó nhìn thời gian ký tên ở cuối dòng chữ trên bệ đá, sau đó cất lời:"
+    },
+    {
+      "para_id": "c0048p0069",
+      "index": 69,
+      "raw_zh": "“玉佩兩面，各有一個“道”字和一個“和”字，玉佩上一般刻著主人的表字，也就是說這個人字道和。",
+      "translated_vi": "“Hai mặt của miếng ngọc bội này một mặt khắc chữ ‘Đạo’, một mặt khắc chữ ‘Hòa’. Trên ngọc bội thời xưa thường khắc tên tự của chủ nhân, tức là người này có biểu tự là Đạo Hòa."
+    },
+    {
+      "para_id": "c0048p0070",
+      "index": 70,
+      "raw_zh": "石台上他的絕筆書落款寫著“義熙十三年”，這是他去世的時間。",
+      "translated_vi": "Trên bệ đá, phần lạc khoản bức tuyệt bút của ông ta viết ‘Nghĩa Hy thập tam niên’, đây chính là năm ông ta qua đời.”"
+    },
+    {
+      "para_id": "c0048p0071",
+      "index": 71,
+      "raw_zh": "說著，他指了指那把短劍，道：",
+      "translated_vi": "Dứt lời, anh ta chỉ tay vào thanh đoản kiếm bảo:"
+    },
+    {
+      "para_id": "c0048p0072",
+      "index": 72,
+      "raw_zh": "“把劍抽出來我看看。”",
+      "translated_vi": "“Rút thanh kiếm ra cho tôi xem thử nào.”"
+    },
+    {
+      "para_id": "c0048p0073",
+      "index": 73,
+      "raw_zh": "青鋒出鞘，映著火光散發著如水的光暈，一看就是一把好劍。",
+      "translated_vi": "Lưỡi thép tuốt khỏi bao, phản chiếu ánh lửa tỏa ra một làn sáng bàng bạc như làn nước mùa thu, nhìn một cái là biết ngay thanh bảo kiếm thượng hạng."
+    },
+    {
+      "para_id": "c0048p0074",
+      "index": 74,
+      "raw_zh": "“好劍！”",
+      "translated_vi": "“Kiếm tốt!”"
+    },
+    {
+      "para_id": "c0048p0075",
+      "index": 75,
+      "raw_zh": "薑玉林讚歎著看向劍柄底部，那上面篆刻著穆之兩個字。",
+      "translated_vi": "Khương Ngọc Lâm trầm trồ khen ngợi rồi đưa mắt nhìn xuống chuôi kiếm, phía dưới đáy chuôi có khắc triện hai chữ ‘Mục Chi’."
+    },
+    {
+      "para_id": "c0048p0076",
+      "index": 76,
+      "raw_zh": "看到這兩個字，薑玉林不由自主的輕呼一聲：",
+      "translated_vi": "Nhìn thấy hai chữ này, Khương Ngọc Lâm không kìm được khẽ thốt lên kinh ngạc:"
+    },
+    {
+      "para_id": "c0048p0077",
+      "index": 77,
+      "raw_zh": "“是他？”",
+      "translated_vi": "“Là ông ấy ư?”"
+    },
+    {
+      "para_id": "c0048p0078",
+      "index": 78,
+      "raw_zh": "然而，後過來的維多利亞卻搖頭道：",
+      "translated_vi": "Thế nhưng, Victoria vừa bước tới lại lắc đầu bảo:"
+    },
+    {
+      "para_id": "c0048p0079",
+      "index": 79,
+      "raw_zh": "“不，不是他！”",
+      "translated_vi": "“Không, không phải ông ấy đâu!”"
+    },
+    {
+      "para_id": "c0048p0080",
+      "index": 80,
+      "raw_zh": "感謝書友落花逐水影徒隨的打賞，感謝書友漆鴉、夢裡跑不快和尾數35301的月票，感謝你們的支持，讓我感到動力十足！！！",
+      "translated_vi": "Cảm ơn bạn đọc Lạc Hoa Trục Thủy Ảnh Đồ Tùy đã tặng thưởng, cảm ơn Thất Nha, Mộng Lý Bào Bất Khoái và đuôi số 35301 đã bỏ phiếu tháng, cảm ơn sự ủng hộ của các bạn đã tiếp thêm cho tôi muôn phần động lực!!!"
+    }
+  ]
+}

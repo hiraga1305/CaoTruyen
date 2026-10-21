@@ -1,0 +1,89 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0296|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Đương nhiên, việc này còn đòi hỏi tay nghề phẫu thuật thẩm mỹ cực kỳ cao siêu, có vậy mới khiến Toàn Tri Chi Nhãn sao chép đối phương thành dáng vẻ của Khương Nhu Giáp một cách hoàn mỹ mà không lộ ra 
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §50):
+§1 [Ø=云千峰]“很可能他們在催眠獲取薑柔甲的記憶後，害死了她，所以我才能看到兩個薑柔甲。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§2 將薑柔甲二號也送回礁石之上。
+§3 [Ø=云千峰]雲千峰騎著鯊魚，坐在苦海上，看著倆人思索著。
+§4 [Ø=云千峰]“最保險的辦法是將她們倆棄置不管？或者直接扔鯊魚堆裡化糞，可是萬一裡面真的有一個是薑柔甲怎麽辦？
+§5 [Ø=云千峰]若是小事也就罷了，這裡可是生死大事， [||] 若二人之中真有一個是薑柔甲，我卻殺了她，情何以堪啊！”
+§6 [Ø=云千峰]雲千峰對朋友還是非常不錯的，就比如現在他都有點舍不得讓楊玉環給他試毒了。
+§7 [Ø=云千峰]他思索半晌，心中已是有了計較。
+§8 [Ø=云千峰]“你們倆都上來，盤著腿坐我前面，千萬盤好了，要不然腿被鯊魚吃了別叫疼。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§9 [Ø=云千峰]兩女戰戰兢兢的在雲千峰身前盤膝坐好，都用的雙盤膝，安全度比較高。
+§10 [Ø=云千峰]“你們倆互相別使壞，但凡有一個落水死了，我就把另一個也扔下去，我說話算話。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=云千峰]說完，一撥白綾，準備取直線回四庫之島。
+§12 [Ø=云千峰]今天這狀態，肯定是沒辦法出去找貨了。
+§13 [Ø=云千峰]然而，讓雲千峰一萬個沒想到的是， [||] 取直回去的路線上，又遇到了一個孤獨的礁石，上面一個孤獨的姑娘。
+§14 [Ø=云千峰]姑娘身穿碎花洋裙，就差一把杏花陽傘，雲千峰都以為那是一百年前的大學生。
+§15 [Ø=云千峰]當然了，看到臉之後很確定不是。
+§16 又特麽一個薑柔甲。
+§17 [Ø_SHIFT=姜柔甲]雲千峰見到第二個薑柔甲的時候有點崩潰，現在感覺則不是很明顯，估計是破罐子破摔規律。
+§18 [Ø=姜柔甲]一個羊也是趕，倆羊也是放。
+§19 [Ø=姜柔甲]到了那礁石邊上時，都沒用雲千峰說話。
+§20 [Ø=姜柔甲]一號和二號薑柔甲看到第三號薑柔甲，比雲千峰的表情還要驚訝和不可思議。
+§21 [Ø=姜柔甲]似乎這決然是不可能發生的事情，已經完全超出了她們的認知。
+§22 [Ø=姜柔甲]於是一號和二號薑柔甲，不等雲千峰問話，齊齊的指著三號薑柔甲怒問道：
+§23 “你叫什麽名字？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 [Ø=姜柔甲]三號薑柔甲很顯然也驚呆了，看著兩個一模一樣的自己，驚得半天合不攏嘴。
+§25 [Ø=姜柔甲]聽二女問，下意識的回道：
+§26 [Ø=姜柔甲]“我叫薑柔甲，你們是？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 “我們都是薑柔甲！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 “你認識他嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 一號二號指著雲千峰問道。
+§30 三號遲疑道：
+§31 [Ø=姜柔甲]“我也不確定認識不認識，我可能病了，記憶總是很混亂。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§32 [Ø=姜柔甲]雲千峰一聽好家夥，這個邏輯也沒問題。
+§33 [Ø=姜柔甲]一號二號指著三號，再次齊聲：
+§34 “露後背！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 [Ø=姜柔甲]三號似乎被一號和二號的激動嚇傻了，下意識的拉開碎花裙子的拉鏈，露出了後背。
+§36 一個美麗的樹葉形胎記。
+§37 [Ø=姜柔甲]一號二號看了看雲千峰，又看了看三號薑柔甲，嘴唇動了動，都是一句話說不出。
+§38 雲千峰心中歎道：
+§39 [Ø=姜柔甲]“要麽三個裡面有一個是薑柔甲，要麽就是針對我的不止九屠和山神，還有一夥，石匠會嗎？他們怎麽都把目光集中到這裡了？有陰謀啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 [Ø=姜柔甲]鯊魚今天很累，雲千峰好心的沒殺了它。
+§41 [Ø=姜柔甲]當雲千峰帶著三個薑柔甲出現在未土避身所時，楊玉奴呆住了。
+§42 這女人想象力極為豐富：
+§43 [Ø=姜柔甲]“三胞胎？雲千峰見異思遷了！三個加一起也沒我漂亮啊！沒眼光！怎麽辦？我是丫鬟，她們是什麽？貴妃？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 [Ø=姜柔甲]一股地位-3的悲哀湧上心頭，楊玉奴已經腦補出自己給三個女人洗衣服，伺候她們吃飯，甚至還被她們責打的畫面。
+§45 [Ø=姜柔甲]當下沒忍住，淚眼婆娑，悲悲戚戚的對著雲千峰哭道：
+§46 [Ø=姜柔甲]“郎君言而無信，說好這是我們二人的家， [||] 你怎麽帶了別的女人，還一起帶了三個，太真活不”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§47 [Ø=姜柔甲]話沒說完，就聽雲千峰說道：
+§48 [Ø=姜柔甲]“趕緊給我弄點牛皮繩，把這三個綁樹上，大概率都不是好人！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§49 [Ø=姜柔甲]地位+3，楊玉奴腰杆立馬直了， [||] 眼淚瞬間倒流，一副活的相當好的樣子，柔聲似水道：
+§50 [Ø=姜柔甲]“郎君，牛皮繩不結實，勒得也不緊實， [||] 我那裡有剝好的牛筋，浸了水後刀斧難斷，越掙扎越緊，不聽話能勒進肉裡”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 50 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§50. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

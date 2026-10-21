@@ -425,7 +425,7 @@ class WaveOrchestrator:
                 "chapters": chapters_list,
             })
 
-        return {
+        state_dict = {
             "session_id": f"ct_wave_{int(time.time())}",
             "novel_title": novel_title,
             "wave_metadata": {
@@ -454,3 +454,13 @@ class WaveOrchestrator:
             "subagents": subagents_data,
             "drift_alerts": self.drift_alerts,
         }
+
+        try:
+            from native_oauth.session_monitor import get_session_monitor
+            mon = get_session_monitor(book_id="default", book_title=novel_title, total_chapters=total_waves * self.CHAPTERS_PER_WORKER)
+            mon.active_wave = current_wave_idx
+            mon.sync_session_artifacts()
+        except Exception:
+            pass
+
+        return state_dict

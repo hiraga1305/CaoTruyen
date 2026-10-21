@@ -1,0 +1,620 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 250,
+  "title": "Chương 250: Không thể không làm",
+  "total_paragraphs": 101,
+  "translated_paragraphs": 101,
+  "source_hash": "816fbccaa9343b3adfdccf77824994b829d98d54ff56c5c695b9f6f5cb8d0afd",
+  "model_used": "gemini-3.8-flash-high",
+  "elapsed_seconds": 112.73,
+  "bilingual_alignment": [
+    {
+      "para_id": "c0250p0001",
+      "index": 1,
+      "raw_zh": "250.第250章 不得不",
+      "translated_vi": "Chương 250: Không thể không làm"
+    },
+    {
+      "para_id": "c0250p0002",
+      "index": 2,
+      "raw_zh": "第250章 不得不",
+      "translated_vi": "Chương 250: Không thể không làm"
+    },
+    {
+      "para_id": "c0250p0003",
+      "index": 3,
+      "raw_zh": "雲千峰正要對小神經說什麽，但是哪怕是蓋著蓋頭，小神經也能從雲千峰的呼吸察覺他的舉動，於是開口打斷了雲千峰要說出的話。",
+      "translated_vi": "Vân Thiên Phong đang định nói gì đó với Tiểu Thần Kinh, nhưng dù đang trùm khăn voan đỏ, Tiểu Thần Kinh vẫn cảm nhận được cử động của hắn qua từng nhịp thở, liền cất tiếng ngắt ngang lời hắn định thốt ra."
+    },
+    {
+      "para_id": "c0250p0004",
+      "index": 4,
+      "raw_zh": "小神經低聲道：",
+      "translated_vi": "Tiểu Thần Kinh hạ giọng nói:"
+    },
+    {
+      "para_id": "c0250p0005",
+      "index": 5,
+      "raw_zh": "“聽他們的，求你！”",
+      "translated_vi": "\"Nghe theo bọn họ đi, tôi xin anh đấy!\""
+    },
+    {
+      "para_id": "c0250p0006",
+      "index": 6,
+      "raw_zh": "“求？”",
+      "translated_vi": "\"Xin ư?\""
+    },
+    {
+      "para_id": "c0250p0007",
+      "index": 7,
+      "raw_zh": "雲千峰被這個字眼堵住了嘴，心裡莫名的發酸。",
+      "translated_vi": "Vân Thiên Phong bị hai chữ ấy chặn đứng nơi cổ họng, trong lòng dâng lên một nỗi chua xót khôn tả."
+    },
+    {
+      "para_id": "c0250p0008",
+      "index": 8,
+      "raw_zh": "小神經用手引著雲千峰轉身，倆人面南背北，朝天而拜。",
+      "translated_vi": "Tiểu Thần Kinh dắt tay hướng Vân Thiên Phong xoay người lại, hai người mặt quay về nam, lưng hướng về bắc, cúi đầu bái thiên địa."
+    },
+    {
+      "para_id": "c0250p0009",
+      "index": 9,
+      "raw_zh": "“二拜高堂！”",
+      "translated_vi": "\"Nhị bái cao đường!\""
+    },
+    {
+      "para_id": "c0250p0010",
+      "index": 10,
+      "raw_zh": "“老大和大姐頭的爸媽可不在這，怎麽拜？”",
+      "translated_vi": "\"Bố mẹ của Lão đại với Đại tỷ đầu có ở đây đâu, bái thế nào được?\""
+    },
+    {
+      "para_id": "c0250p0011",
+      "index": 11,
+      "raw_zh": "“那祭台上應該是示巴女王的雕像，當得作為父母一拜。”",
+      "translated_vi": "\"Trên tế đài kia chắc hẳn là pho tượng Nữ vương Sheba, coi như thay thế cha mẹ bái một lạy cũng xứng.\""
+    },
+    {
+      "para_id": "c0250p0012",
+      "index": 12,
+      "raw_zh": "“閉嘴吧你，有文化嗎你，那是西王母，不是示巴。”",
+      "translated_vi": "\"Câm miệng đi, mày có chút kiến thức nào không hả? Đó là Tây Vương Mẫu, Sheba cái nỗi gì!\""
+    },
+    {
+      "para_id": "c0250p0013",
+      "index": 13,
+      "raw_zh": "“伱才沒文化，示巴讀音來自藏語語系，就是西方的意思。”",
+      "translated_vi": "\"Mày mới thất học ấy, tên gọi Sheba bắt nguồn từ hệ ngữ Tạng, mang nghĩa là phương tây đấy!\""
+    },
+    {
+      "para_id": "c0250p0014",
+      "index": 14,
+      "raw_zh": "“.”",
+      "translated_vi": "\"...\""
+    },
+    {
+      "para_id": "c0250p0015",
+      "index": 15,
+      "raw_zh": "這幫沒形象的家夥吵成一團，汙言穢語不斷。",
+      "translated_vi": "Đám người bạt mạng, chẳng màng hình tượng này cãi nhau ỏm tỏi, văng tục chửi thề không dứt."
+    },
+    {
+      "para_id": "c0250p0016",
+      "index": 16,
+      "raw_zh": "雲千峰這才看到祭台上那尊雕像。",
+      "translated_vi": "Lúc này Vân Thiên Phong mới nhìn rõ pho tượng trên tế đài."
+    },
+    {
+      "para_id": "c0250p0017",
+      "index": 17,
+      "raw_zh": "整體漢白玉雕琢，其像面帶獠牙虎頭面具，披散著過腰長發，一條豹尾在其身後朝天蜿蜒而伸，不知是裝飾還是觸角一類的東西，正是山海經內西王母的形象。",
+      "translated_vi": "Toàn bộ pho tượng được điêu khắc từ ngọc bạch hán, khuôn mặt mang mặt nạ đầu hổ nhe nanh nhọn, mái tóc dài buông xõa quá thắt lưng, sau lưng vươn lên một chiếc đuôi báo ngoằn ngoèo hướng thẳng lên trời, chẳng rõ là vật trang trí hay một dạng xúc tu, đích thị là hình tượng Tây Vương Mẫu được ghi chép trong Sơn Hải Kinh."
+    },
+    {
+      "para_id": "c0250p0018",
+      "index": 18,
+      "raw_zh": "這雕像上面還雕刻著一條腿的輪廓，就被雕像單手托在掌中，在雕像身前一個石台上，擺放著一條大腿，上面布滿青色鱗紋，正是蚩尤甲的一條腿。",
+      "translated_vi": "Trên pho tượng còn khắc họa đường nét của một chiếc chân giáp được nâng gọn trong lòng bàn tay; còn trên bệ đá đặt ngay phía trước pho tượng là một chiếc chân giáp thật sự, bên trên phủ kín hoa văn vảy rồng màu xanh biếc, chính là một chân của bộ giáp Xi Vưu."
+    },
+    {
+      "para_id": "c0250p0019",
+      "index": 19,
+      "raw_zh": "小神經引著雲千峰，倆人跪拜在西王母雕像之前，叩拜施禮。",
+      "translated_vi": "Tiểu Thần Kinh dắt Vân Thiên Phong quỳ xuống trước pho tượng Tây Vương Mẫu, dập đầu hành lễ."
+    },
+    {
+      "para_id": "c0250p0020",
+      "index": 20,
+      "raw_zh": "下面的人看到這一幕，頓時不吵了，安靜下來。",
+      "translated_vi": "Đám người bên dưới chứng kiến cảnh tượng này liền nín bặt, không gian lập tức chìm vào tĩnh lặng."
+    },
+    {
+      "para_id": "c0250p0021",
+      "index": 21,
+      "raw_zh": "待到倆人叩拜西王母雕像後，下面人齊聲喊道：",
+      "translated_vi": "Đợi đến khi hai người dập đầu bái lạy tượng Tây Vương Mẫu xong, những kẻ bên dưới đồng thanh hô lớn:"
+    },
+    {
+      "para_id": "c0250p0022",
+      "index": 22,
+      "raw_zh": "“夫妻對拜！”",
+      "translated_vi": "\"Phu thê đối bái!\""
+    },
+    {
+      "para_id": "c0250p0023",
+      "index": 23,
+      "raw_zh": "除了琳達沒喊。",
+      "translated_vi": "Ngoại trừ Linda là không hô."
+    },
+    {
+      "para_id": "c0250p0024",
+      "index": 24,
+      "raw_zh": "她想阻止狼人結婚，因為狼人還沒進她的集郵冊。",
+      "translated_vi": "Cô nàng muốn ngăn cản người sói kết hôn, bởi vì anh chàng người sói này vẫn chưa được đưa vào \"bộ sưu tập tem\" của cô ta."
+    },
+    {
+      "para_id": "c0250p0025",
+      "index": 25,
+      "raw_zh": "但是奈何，旁邊的人和按小雞子似的，她根本起不來。",
+      "translated_vi": "Thế nhưng bất lực thay, người bên cạnh đè chặt cô ta như ấn một con gà con, khiến cô ta căn bản chẳng thể nhổm dậy nổi."
+    },
+    {
+      "para_id": "c0250p0026",
+      "index": 26,
+      "raw_zh": "小神經和雲千峰對面而立，同時折腰向對方施禮。",
+      "translated_vi": "Tiểu Thần Kinh và Vân Thiên Phong đứng đối diện nhau, cùng cúi gập người hành lễ với đối phương."
+    },
+    {
+      "para_id": "c0250p0027",
+      "index": 27,
+      "raw_zh": "“禮成！”",
+      "translated_vi": "\"Lễ thành!\""
+    },
+    {
+      "para_id": "c0250p0028",
+      "index": 28,
+      "raw_zh": "“吃席咯！”",
+      "translated_vi": "\"Khai tiệc thôi!\""
+    },
+    {
+      "para_id": "c0250p0029",
+      "index": 29,
+      "raw_zh": "“吃尼瑪的席？會不會說話？啊？不會說話你別說！”",
+      "translated_vi": "\"Ăn cái con mẹ mày ấy! Biết ăn nói không hả? Không biết nói thì câm mồm lại!\""
+    },
+    {
+      "para_id": "c0250p0030",
+      "index": 30,
+      "raw_zh": "“峰哥我錯了，這詞的確不對，你說，你說！”",
+      "translated_vi": "\"Anh Phong, em sai rồi, dùng từ đó đúng là xúi quẩy thật, anh nói đi, anh nói đi!\""
+    },
+    {
+      "para_id": "c0250p0031",
+      "index": 31,
+      "raw_zh": "那被稱為峰哥的沉思半晌，咳嗽了兩聲，道：",
+      "translated_vi": "Gã được gọi là anh Phong trầm ngâm một lúc, hắng giọng hai tiếng rồi nói:"
+    },
+    {
+      "para_id": "c0250p0032",
+      "index": 32,
+      "raw_zh": "“吃席，吃席，百無禁忌！”",
+      "translated_vi": "\"Ăn cỗ thì ăn cỗ, bách vô cấm kỵ!\""
+    },
+    {
+      "para_id": "c0250p0033",
+      "index": 33,
+      "raw_zh": "引來一陣噓聲。",
+      "translated_vi": "Lập tức rước về một tràng la ó phản đối."
+    },
+    {
+      "para_id": "c0250p0034",
+      "index": 34,
+      "raw_zh": "沒人吃東西，除了琳達。",
+      "translated_vi": "Chẳng có ai đụng đũa, ngoại trừ Linda."
+    },
+    {
+      "para_id": "c0250p0035",
+      "index": 35,
+      "raw_zh": "琳達自斟自飲，胡吃海喝，以填補內心的悲憤。",
+      "translated_vi": "Linda tự rót tự uống, ngốn ngấu ăn uống thỏa thuê để khỏa lấp nỗi bi phẫn trong lòng."
+    },
+    {
+      "para_id": "c0250p0036",
+      "index": 36,
+      "raw_zh": "其他人都只是斟滿了三杯酒，然後對著一個空擋的席面敬酒飲盡一杯。",
+      "translated_vi": "Những người khác chỉ rót đầy ba chén rượu, sau đó hướng về phía một bàn tiệc trống không mà nâng chén, uống cạn một ly."
+    },
+    {
+      "para_id": "c0250p0037",
+      "index": 37,
+      "raw_zh": "雲千峰知道，那個席面上本該有四個人，只不過他們都死了。",
+      "translated_vi": "Vân Thiên Phong hiểu rằng, trên bàn tiệc trống ấy lẽ ra phải có bốn người, chỉ là bọn họ đều đã chết."
+    },
+    {
+      "para_id": "c0250p0038",
+      "index": 38,
+      "raw_zh": "每個人都對著空席面敬了一杯酒，其中一人道：",
+      "translated_vi": "Sau khi mỗi người đều kính cẩn nâng một chén rượu về phía bàn tiệc trống, một người trong số họ cất giọng:"
+    },
+    {
+      "para_id": "c0250p0039",
+      "index": 39,
+      "raw_zh": "“老七，老八，老十，小十六，你們在天有靈，看到老大和大姐頭成婚，也該瞑目了，唉，要是大姐頭早來一天，你們就能親眼看到這一幕了！”",
+      "translated_vi": "\"Lão Thất, Lão Bát, Lão Thập, Tiểu Thập Lục, các người dưới suối vàng có linh thiêng, thấy Lão đại cùng Đại tỷ đầu kết tóc se duyên, cũng nên nhắm mắt xuôi tay rồi. Than ôi, giá như Đại tỷ đầu đến sớm hơn một ngày thì các người đã có thể tận mắt chứng kiến cảnh này rồi!\""
+    },
+    {
+      "para_id": "c0250p0040",
+      "index": 40,
+      "raw_zh": "這句話，讓雲千峰知道，小神經是才來不久，而且是自己來的，不是被綁架。",
+      "translated_vi": "Câu nói này khiến Vân Thiên Phong nhận ra, Tiểu Thần Kinh chỉ vừa mới tới đây không lâu, hơn nữa là tự cô tìm đến chứ không phải bị bắt cóc."
+    },
+    {
+      "para_id": "c0250p0041",
+      "index": 41,
+      "raw_zh": "這讓他的心臟往下沉，因為這意味著，小神經也是來殺自己的。",
+      "translated_vi": "Điều đó khiến tim hắn thắt lại trĩu nặng, bởi vì điều này đồng nghĩa với việc, Tiểu Thần Kinh đến đây cũng là để giết hắn."
+    },
+    {
+      "para_id": "c0250p0042",
+      "index": 42,
+      "raw_zh": "給空席敬酒後，那些人雙手端著剩下的兩杯酒，望著祭台上的雲千峰。",
+      "translated_vi": "Sau khi kính rượu bàn tiệc trống, những người đó bưng hai chén rượu còn lại bằng cả hai tay, ngước nhìn Vân Thiên Phong trên tế đài."
+    },
+    {
+      "para_id": "c0250p0043",
+      "index": 43,
+      "raw_zh": "雲千峰知道，該來的終究還是要來的。",
+      "translated_vi": "Vân Thiên Phong biết rõ, chuyện gì phải đến thì rốt cuộc cũng sẽ đến."
+    },
+    {
+      "para_id": "c0250p0044",
+      "index": 44,
+      "raw_zh": "其中一人，身高差不多兩米，極為高大。",
+      "translated_vi": "Một người trong số đó cao chừng hai mét, vóc dáng vạm vỡ dị thường."
+    },
+    {
+      "para_id": "c0250p0045",
+      "index": 45,
+      "raw_zh": "一雙手掌怕不是有雲千峰兩個大。",
+      "translated_vi": "Đôi bàn tay của gã e là to gấp đôi bàn tay Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0250p0046",
+      "index": 46,
+      "raw_zh": "他托著兩杯酒來到祭台前，彎腰行禮，將其中一杯酒遞到雲千峰面前，笑道：",
+      "translated_vi": "Gã nâng hai chén rượu tiến đến trước tế đài, cúi mình hành lễ rồi đưa một chén đến trước mặt Vân Thiên Phong, cười nói:"
+    },
+    {
+      "para_id": "c0250p0047",
+      "index": 47,
+      "raw_zh": "“老大，恭喜你和小神經終於喜結連理，我們也就放心了，咱們幹了這杯酒，前塵盡斷，等下我不會手軟，也希望老大你尊重我，不要留手。”",
+      "translated_vi": "\"Lão đại, chúc mừng anh cùng Tiểu Thần Kinh cuối cùng cũng nên duyên cầm sắt, bọn em cũng yên lòng rồi. Chúng ta cạn chén rượu này, dứt đoạn tiền duyên, lát nữa em sẽ không nương tay, cũng mong Lão đại tôn trọng em, đừng giữ lại sức lực.\""
+    },
+    {
+      "para_id": "c0250p0048",
+      "index": 48,
+      "raw_zh": "說著，舉杯就要飲盡，卻被雲千峰叫停。",
+      "translated_vi": "Nói đoạn, gã nâng chén định uống cạn thì bị Vân Thiên Phong lên tiếng ngăn lại."
+    },
+    {
+      "para_id": "c0250p0049",
+      "index": 49,
+      "raw_zh": "“慢著，要殺要打都沒問題，你們可以告訴我為什麽嗎？我能感覺到你們認識我，甚至非常熟悉，但我沒有你們的記憶，或許是我的記憶被篡改了，亦或是我失憶了，我不知道原因，但我希望出手的時候，心裡是透徹的。”",
+      "translated_vi": "\"Khoan đã. Muốn đánh muốn giết gì cũng được, nhưng các người có thể nói cho tôi biết nguyên do vì sao không? Tôi cảm nhận được các người biết tôi, thậm chí còn rất quen thuộc, nhưng tôi lại chẳng có chút ký ức nào về các người cả. Có thể ký ức của tôi đã bị can thiệp sửa đổi, hoặc cũng có thể tôi đã mất trí nhớ, tôi không rõ lý do, nhưng tôi muốn một khi đã ra tay thì trong lòng phải được sáng tỏ minh bạch.\""
+    },
+    {
+      "para_id": "c0250p0050",
+      "index": 50,
+      "raw_zh": "那高大的漢子哈哈大笑道：",
+      "translated_vi": "Gã đàn ông cao lớn kia cười phá lên sảng khoái:"
+    },
+    {
+      "para_id": "c0250p0051",
+      "index": 51,
+      "raw_zh": "“老大，你一直教我們不要有好奇心，原來你的好奇心也這麽重啊！不過，別問了，沒人會告訴你。",
+      "translated_vi": "“Lão đại, anh trước giờ luôn dạy bọn em không được có tính tò mò, hoá ra lòng hiếu kỳ của anh cũng nặng đến thế! Nhưng thôi, đừng hỏi nữa, chẳng ai nói cho anh biết đâu."
+    },
+    {
+      "para_id": "c0250p0052",
+      "index": 52,
+      "raw_zh": "想知道答案簡單，殺到我們只剩下一個人，自然會告訴你答案。",
+      "translated_vi": "Muốn biết đáp án thì đơn giản thôi, giết tới khi bọn em chỉ còn lại một người, người đó tự khắc sẽ cho anh câu trả lời."
+    },
+    {
+      "para_id": "c0250p0053",
+      "index": 53,
+      "raw_zh": "當然，如果你被我們殺了，那你就不需要知道答案！”",
+      "translated_vi": "Đương nhiên, nếu anh bị bọn em giết chết, thì anh cũng chẳng cần phải biết đáp án làm gì nữa!”"
+    },
+    {
+      "para_id": "c0250p0054",
+      "index": 54,
+      "raw_zh": "只看那堅定的目光，雲千峰就知道，自己無法問出自己想知道的答案，於是長歎了一口氣，當先飲下那杯酒。",
+      "translated_vi": "Chỉ nhìn vào ánh mắt kiên định kia, Vân Thiên Phong liền hiểu rằng mình không thể nào hỏi ra được câu trả lời muốn biết. Hắn khẽ thở dài một tiếng, ngửa đầu uống cạn chén rượu trước."
+    },
+    {
+      "para_id": "c0250p0055",
+      "index": 55,
+      "raw_zh": "那大漢也暢快的飲下，然後看著依舊蓋著蓋頭的小神經，笑著大聲道：",
+      "translated_vi": "Gã đại hán cũng sảng khoái uống cạn, rồi nhìn về phía Tiểu Thần Kinh vẫn đang trùm khăn che đầu, cười lớn nói:"
+    },
+    {
+      "para_id": "c0250p0056",
+      "index": 56,
+      "raw_zh": "“大姐頭，老大還是心疼你，哪怕他什麽都不知道！”",
+      "translated_vi": "“Chị Cả, lão đại vẫn thương chị lắm, cho dù anh ấy chẳng hay biết gì hết!”"
+    },
+    {
+      "para_id": "c0250p0057",
+      "index": 57,
+      "raw_zh": "小神經的蓋頭在抖動，蓋頭下彌漫著悲傷。",
+      "translated_vi": "Tấm khăn trùm của Tiểu Thần Kinh khẽ run rẩy, bên dưới lớp khăn ngập tràn nỗi bi thương."
+    },
+    {
+      "para_id": "c0250p0058",
+      "index": 58,
+      "raw_zh": "這個大個子，人看著莽撞，但心思卻是細膩的。",
+      "translated_vi": "Gã to con này nhìn bề ngoài thô lỗ lỗ mãng, nhưng tâm tư lại vô cùng tinh tế."
+    },
+    {
+      "para_id": "c0250p0059",
+      "index": 59,
+      "raw_zh": "雲千峰沒掀開小神經的蓋頭，真的是心疼她。",
+      "translated_vi": "Vân Thiên Phong không vén khăn trùm của Tiểu Thần Kinh, thực sự là vì xót nàng."
+    },
+    {
+      "para_id": "c0250p0060",
+      "index": 60,
+      "raw_zh": "因為他不希望小神經看到即將發生的一切，自己死別人死，他都不希望小神經看到。",
+      "translated_vi": "Bởi vì hắn không muốn Tiểu Thần Kinh phải nhìn thấy tất cả những gì sắp sửa xảy ra, dù là hắn chết hay người khác bỏ mạng, hắn đều không mong nàng phải chứng kiến."
+    },
+    {
+      "para_id": "c0250p0061",
+      "index": 61,
+      "raw_zh": "最主要的，這些人包括小神經如此重視這個詭異的婚禮，那麽只要雲千峰不掀蓋頭，那麽小神經幾乎不可能自己去掀開蓋頭。",
+      "translated_vi": "Quan trọng nhất là, đám người này bao gồm cả Tiểu Thần Kinh coi trọng hôn lễ quỷ dị này đến thế, vậy thì chỉ cần Vân Thiên Phong không vén khăn lên, Tiểu Thần Kinh gần như không bao giờ tự mình vén khăn ra."
+    },
+    {
+      "para_id": "c0250p0062",
+      "index": 62,
+      "raw_zh": "這樣的話，自己最起碼暫時不用和小神經對陣。",
+      "translated_vi": "Cứ như thế, chí ít thì tạm thời hắn chưa phải đối đầu với Tiểu Thần Kinh."
+    },
+    {
+      "para_id": "c0250p0063",
+      "index": 63,
+      "raw_zh": "小神經的武力，雲千峰哪怕是現在，也沒有戰勝她的信心。",
+      "translated_vi": "Về thực lực của Tiểu Thần Kinh, dù là vào lúc này, Vân Thiên Phong cũng chẳng có lấy nửa phần tự tin có thể đánh bại nàng."
+    },
+    {
+      "para_id": "c0250p0064",
+      "index": 64,
+      "raw_zh": "可以說，她比薩弱都難纏。",
+      "translated_vi": "Có thể nói, nàng còn khó đối phó hơn cả Tát Nhược."
+    },
+    {
+      "para_id": "c0250p0065",
+      "index": 65,
+      "raw_zh": "倆人飲盡杯中酒後，雲千峰扶著無法看到外面的小神經來到祭台的最後面，緊挨著西王母的雕像。",
+      "translated_vi": "Sau khi hai người uống cạn chén rượu, Vân Thiên Phong dìu Tiểu Thần Kinh – lúc này không thể nhìn thấy bên ngoài – đi tới phía sau cùng của tế đài, đứng nép sát vào pho tượng Tây Vương Mẫu."
+    },
+    {
+      "para_id": "c0250p0066",
+      "index": 66,
+      "raw_zh": "然後回到祭台中央，大聲道：",
+      "translated_vi": "Đoạn hắn quay trở lại trung tâm tế đài, cất giọng sang sảng:"
+    },
+    {
+      "para_id": "c0250p0067",
+      "index": 67,
+      "raw_zh": "“我不知道這是為什麽，所以我不會對接下來的所作所為有任何歉意，但我想說的是，你們的行為和選擇一定是愚蠢的！愚蠢之極！”",
+      "translated_vi": "“Tôi không biết rốt cuộc vì sao lại thế này, cho nên tôi sẽ không mang bất kỳ áy náy nào với những gì mình sắp làm tiếp theo. Nhưng điều tôi muốn nói là, hành vi và sự lựa chọn của các người tuyệt đối là ngu xuẩn! Ngu xuẩn đến cùng cực!”"
+    },
+    {
+      "para_id": "c0250p0068",
+      "index": 68,
+      "raw_zh": "那大漢啐碎了酒杯，跳上祭台，看著雲千峰沉聲道：",
+      "translated_vi": "Gã đại hán ném vỡ tan chén rượu, tung người nhảy phắt lên tế đài, nhìn chằm chằm Vân Thiên Phong trầm giọng nói:"
+    },
+    {
+      "para_id": "c0250p0069",
+      "index": 69,
+      "raw_zh": "“老大，你現在的樣子，好蠢，一如當初的我們！”",
+      "translated_vi": "“Lão đại, bộ dạng bây giờ của anh trông ngốc nghếch làm sao, giống hệt như bọn em thuở ban đầu!”"
+    },
+    {
+      "para_id": "c0250p0070",
+      "index": 70,
+      "raw_zh": "說著，扯掉外衣，露出一身拉絲的肌肉，繼續道：",
+      "translated_vi": "Nói đoạn, gã giật phăng áo ngoài, để lộ những thớ cơ bắp khô đét cuồn cuộn như dây thép, gằn giọng tiếp:"
+    },
+    {
+      "para_id": "c0250p0071",
+      "index": 71,
+      "raw_zh": "“我，董大寶，練就一身硬氣功，全身除了雙眼，咽喉，和排泄路，再無弱點。”",
+      "translated_vi": "“Tôi, Đổng Đại Bảo, luyện thành một thân ngạnh khí công, toàn thân ngoại trừ đôi mắt, yết hầu và đường bài tiết, không còn bất kỳ nhược điểm nào khác.”"
+    },
+    {
+      "para_id": "c0250p0072",
+      "index": 72,
+      "raw_zh": "死鬥之前，說出自己的死穴，這讓雲千峰心裡意外的憤怒。",
+      "translated_vi": "Trước lúc tử chiến lại chủ động nói ra tử huyệt của mình, điều đó khiến cõi lòng Vân Thiên Phong dâng lên một cơn giận dữ khác thường."
+    },
+    {
+      "para_id": "c0250p0073",
+      "index": 73,
+      "raw_zh": "他不喜歡這種感覺，他寧願這些人就是一心想要殺死自己，無所不用其極都行。",
+      "translated_vi": "Hắn không thích cảm giác này, hắn thà rằng đám người kia một lòng một dạ muốn lấy mạng mình, dùng đủ mọi thủ đoạn tàn độc gì cũng được."
+    },
+    {
+      "para_id": "c0250p0074",
+      "index": 74,
+      "raw_zh": "但對方很顯然是在求死。",
+      "translated_vi": "Thế nhưng rõ ràng đối phương chỉ đang cầu xin cái chết."
+    },
+    {
+      "para_id": "c0250p0075",
+      "index": 75,
+      "raw_zh": "雲千峰也施抱拳禮，高聲道：",
+      "translated_vi": "Vân Thiên Phong cũng chắp tay thi lễ, dõng dạc nói:"
+    },
+    {
+      "para_id": "c0250p0076",
+      "index": 76,
+      "raw_zh": "“我，雲千峰，一生毫無建樹，全賴一身寶甲，雙腿是我唯一的弱點。”",
+      "translated_vi": "“Tôi, Vân Thiên Phong, một đời chẳng có thành tựu gì, chỉ dựa vào một thân bảo giáp, đôi chân là điểm yếu duy nhất của tôi.”"
+    },
+    {
+      "para_id": "c0250p0077",
+      "index": 77,
+      "raw_zh": "董大寶咧嘴一笑，大聲道：",
+      "translated_vi": "Đổng Đại Bảo toét miệng cười, quát lớn:"
+    },
+    {
+      "para_id": "c0250p0078",
+      "index": 78,
+      "raw_zh": "“看拳！”",
+      "translated_vi": "“Đỡ quyền!”"
+    },
+    {
+      "para_id": "c0250p0079",
+      "index": 79,
+      "raw_zh": "拳頭直奔雲千峰的面門。",
+      "translated_vi": "Nắm đấm lao thẳng tới chính diện mặt Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0250p0080",
+      "index": 80,
+      "raw_zh": "雲千峰不遮不攔，用腦袋迎著拳頭撞過去，同時一個直拳同樣砸向對方的面門。",
+      "translated_vi": "Vân Thiên Phong không che không đỡ, lao thẳng đầu tới nghênh tiếp cú đấm, đồng thời tung một đòn trực quyền nện thẳng vào mặt đối phương."
+    },
+    {
+      "para_id": "c0250p0081",
+      "index": 81,
+      "raw_zh": "“嘭！”",
+      "translated_vi": "“Bốp!”"
+    },
+    {
+      "para_id": "c0250p0082",
+      "index": 82,
+      "raw_zh": "倆人的拳頭在對方臉上同時撞擊出一聲悶響。",
+      "translated_vi": "Nắm đấm của cả hai đồng thời nện vào mặt nhau, phát ra một tiếng trầm đục kinh người."
+    },
+    {
+      "para_id": "c0250p0083",
+      "index": 83,
+      "raw_zh": "巨大的力道，讓倆人同時向後退去。",
+      "translated_vi": "Kình lực hung hiểm khiến cả hai đồng thời bật lùi về sau."
+    },
+    {
+      "para_id": "c0250p0084",
+      "index": 84,
+      "raw_zh": "但是緊接著倆人後腳頂住地面，身形再次前縱。",
+      "translated_vi": "Nhưng ngay sau đó, chân sau của hai người cùng đạp mạnh xuống đất, thân hình lại lao vút về phía trước."
+    },
+    {
+      "para_id": "c0250p0085",
+      "index": 85,
+      "raw_zh": "依舊都是不閃不避，硬碰硬的把拳頭砸向對方，而且都不打擊對方的要害。",
+      "translated_vi": "Vẫn không né tránh, chẳng thèm lùi bước, cứng đối cứng nện thẳng nắm đấm vào đối phương, hơn nữa chẳng ai thèm nhắm vào chỗ hiểm của người kia."
+    },
+    {
+      "para_id": "c0250p0086",
+      "index": 86,
+      "raw_zh": "這時，旁邊小神經的蓋頭下傳出來一句話：",
+      "translated_vi": "Đúng lúc này, từ dưới lớp khăn trùm của Tiểu Thần Kinh ở bên cạnh bỗng truyền ra một câu:"
+    },
+    {
+      "para_id": "c0250p0087",
+      "index": 87,
+      "raw_zh": "“都請下殺手，別讓對方痛苦。”",
+      "translated_vi": "“Xin hai người hãy ra tay dứt khoát, đừng để đối phương phải chịu đau đớn.”"
+    },
+    {
+      "para_id": "c0250p0088",
+      "index": 88,
+      "raw_zh": "一句話點醒了倆人。",
+      "translated_vi": "Một câu nói đã thức tỉnh cả hai người."
+    },
+    {
+      "para_id": "c0250p0089",
+      "index": 89,
+      "raw_zh": "此時最大的善意，就是給對方一個痛快！",
+      "translated_vi": "Lúc này, thiện ý lớn nhất chính là cho đối phương một sự giải thoát dứt khoát!"
+    },
+    {
+      "para_id": "c0250p0090",
+      "index": 90,
+      "raw_zh": "董大寶一個俯身衝上來，迅速的用雙手抓住雲千峰的兩條腿，然後發聲助力，雙臂外開，要把雲千峰的兩條腿撕開。",
+      "translated_vi": "Đổng Đại Bảo cúi rạp người lao tới, nhanh như cắt dùng hai tay tóm chặt lấy hai chân Vân Thiên Phong, đoạn thét lớn trợ lực, dang rộng hai tay toan xé toạc hai chân Vân Thiên Phong ra."
+    },
+    {
+      "para_id": "c0250p0091",
+      "index": 91,
+      "raw_zh": "而雲千峰換拳為掌，照著董大寶的頭頂百會穴好似拍球似得拍下去。",
+      "translated_vi": "Còn Vân Thiên Phong lại biến quyền thành chưởng, nhắm thẳng huyệt Bách Hội trên đỉnh đầu Đổng Đại Bảo mà vỗ xuống như đập bóng."
+    },
+    {
+      "para_id": "c0250p0092",
+      "index": 92,
+      "raw_zh": "甚至感覺不到用力，手掌與頭頂的碰撞甚至只有很輕的一聲震響，很通透，就像人敲擊熟透的西瓜。",
+      "translated_vi": "Thậm chí không hề cảm nhận được phát lực, cú va chạm giữa lòng bàn tay và đỉnh đầu chỉ phát ra một tiếng chấn động rất khẽ, trong trẻo đến thấu suốt, tựa như người ta gõ vào một quả dưa hấu đã chín nẫu."
+    },
+    {
+      "para_id": "c0250p0093",
+      "index": 93,
+      "raw_zh": "這是巧勁，拍擊其頭頂，意卻在其腳底。",
+      "translated_vi": "Đây là xảo kình, đánh vào đỉnh đầu, nhưng kình ý lại thấu tận gót chân."
+    },
+    {
+      "para_id": "c0250p0094",
+      "index": 94,
+      "raw_zh": "也是這一下，董大寶整個人突然僵直，眼睛和鼻孔滲出血來，高壯的身軀轟然倒地。",
+      "translated_vi": "Cũng chính bởi cú vỗ này, cả người Đổng Đại Bảo bỗng cứng đờ, máu tươi từ mắt và hai lỗ mũi rỉ ra, thân hình vạm vỡ cao lớn đổ sầm xuống đất."
+    },
+    {
+      "para_id": "c0250p0095",
+      "index": 95,
+      "raw_zh": "大腦震脫了。",
+      "translated_vi": "Đại não bị chấn đứt rời."
+    },
+    {
+      "para_id": "c0250p0096",
+      "index": 96,
+      "raw_zh": "瞬死。",
+      "translated_vi": "Chết ngay tức khắc."
+    },
+    {
+      "para_id": "c0250p0097",
+      "index": 97,
+      "raw_zh": "雲千峰爬起來，立在祭台上，大聲道：",
+      "translated_vi": "Vân Thiên Phong gượng dậy, đứng sừng sững trên tế đài, quát lớn:"
+    },
+    {
+      "para_id": "c0250p0098",
+      "index": 98,
+      "raw_zh": "“下一個！”",
+      "translated_vi": "“Kẻ tiếp theo!”"
+    },
+    {
+      "para_id": "c0250p0099",
+      "index": 99,
+      "raw_zh": "“老大，我是李銳，大姐頭教我朱砂掌，能隔著豆腐打碎石頭，我一直很好奇，我的掌能不能隔著蚩尤甲，把你的內髒打碎！”",
+      "translated_vi": "“Lão đại, em là Lý Nhuệ, Chị Cả từng dạy em Chu Sa Chưởng, có thể cách một miếng đậu phụ mà đập vỡ tảng đá. Em vẫn luôn tò mò, liệu chưởng lực của em có thể xuyên qua Xi Vưu Giáp để đánh nát nội tạng của anh hay không!”"
+    },
+    {
+      "para_id": "c0250p0100",
+      "index": 100,
+      "raw_zh": "雲千峰沉聲道：",
+      "translated_vi": "Vân Thiên Phong trầm giọng nói:"
+    },
+    {
+      "para_id": "c0250p0101",
+      "index": 101,
+      "raw_zh": "“現在，你有機會試試了！”",
+      "translated_vi": "“Bây giờ, cậu có cơ hội thử rồi đấy!”"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0242|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §37):
+§1 242.第242章 你 我 他
+§2 第242章 你 我 他
+§3 [Ø=云千峰]雲千峰給琳達號了一下脈，發現這丫頭嚇得不輕，是心神不寧的代脈。
+§4 [Ø=云千峰]想著，號脈的手指順著琳達細嫩的手腕下滑，手指探到了琳達的右手掌心上。
+§5 “嗯？掌心沒有脈象跳動。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§6 [Ø=云千峰]自言自語著，又把手指下滑，順著琳達的右手中指一路點探過去，直到中指指尖才停下來。
+§7 他感受到琳達中指的無名指一側指尖跳動急促。
+§8 [Ø=云千峰]按照祝由科的說法，手心到中指指尖這一段，是鬼脈。
+§9 [Ø=云千峰]中指指尖靠近無名指一側亂跳，是失魂鬼纏之相。
+§10 [Ø=云千峰]這樣的症狀，琳達一時半會很難自己醒過來。
+§11 雲千峰心裡納悶：
+§12 [Ø=云千峰]“丟魂倒是正常，畢竟高空墜落，但鬼纏是什麽情況？南極這鳥不拉屎的地方還能有野生的鬼？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 [Ø=云千峰]他坐在水邊，給自己和琳達穿好了衣服，抬頭向著上方看去。
+§14 [Ø=云千峰]那裡只有一團漆黑，就那點極夜的星光，根本無法透入這下窄上更窄的冰隙。
+§15 [Ø=云千峰]但雲千峰就那麽看著，看了好久。
+§16 [Ø=云千峰]不遠處，隱秘在黑暗裡的薩弱盯著雲千峰那張臉，表情依舊變幻莫測， [||] 總感覺她似乎就要衝上去殺了雲千峰，但零點一秒後，又變了表情。
+§17 [Ø=云千峰]“他在看什麽？想著怎麽上去嗎？愚蠢的人類，那怎麽可能爬得上去，除非有翅膀。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§18 [Ø=云千峰]“也或許，他是在等著我，他一定很納悶， [||] 為什麽我突然殺了我的那些屬下， [||] 而且更納悶為什麽我沒有追殺下來，亦或是納悶為什麽他會安然落地。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 [Ø=云千峰]“如果是在等我，那倒是不蠢， [||] 知道這樣的地形逃是逃不掉的，不如節省力氣，以逸待勞。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§20 [Ø=云千峰]薩弱猜的沒錯，雲千峰即是納悶履帶車怎麽安穩落地的，同時也在研究薩弱怎麽還沒下來。
+§21 [Ø=云千峰]雲千峰覺得，鳥人的羽毛一般都怕水，這裡有河， [||] 把薩弱拽到水裡，丫的應該就不能飛了，到時候自己還不拿捏死她。
+§22 [Ø=云千峰]結果等了半天，也沒等到薩弱出現，他不由得顰眉自語道：
+§23 “薩弱竟然沒有跟來？這怎麽可能？怪事這次可是真多。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 [Ø=云千峰]不遠處，薩弱自然聽得到雲千峰自言自語，此時聽到這話，心中不由想：
+§25 [Ø=云千峰]“他沒等到我，難道不應該慶幸嗎？怎麽臉上有失落的表情，難道他不， [||] 不可能，一秒鍾不到，能有什麽感情！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§26 [Ø=云千峰]她這面想著，雲千峰卻已經起身， [||] 把履帶車裡的坐墊和厚衣服拽出來，鋪在地上，把琳達平躺放上去。
+§27 然後吐了口氣自語道：
+§28 [Ø=云千峰]“得，你不來，那我先救人！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 [Ø=云千峰]說著，雲千峰咳嗽了兩聲， [||] 清了清嗓子，雙手合在身前，快速按照九字真言的九訣掐動手指。
+§30 [Ø=云千峰]同時使勁用腳在地面上“咚咚咚”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]踏了三下，然後扯開喉嚨高聲喊道：
+§31 [Ø=云千峰]“蕩蕩遊魂，何處留存；三魂早降，七竅未臨；吾乃雲氏千峰，祝融後裔，氣純天罡，命帶地魁， [||] 頭肩三火，掌心蘊雷，各路遊魂，速速退歸，但行慢了，叫爾化灰.琳達和叔叔回家吃飯來咯，琳達和叔叔回家吃飯來咯，琳達和叔叔回家吃飯來咯.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§32 [Ø=云千峰]前面聲音中氣十足，中段語氣殺氣騰騰，再加上詞組怪異，不遠處藏匿與黑暗的薩弱饒有興致的看著。
+§33 [Ø=云千峰]然而到了後面喊回家吃飯，這轉折差點讓薩弱卡了一踉蹌。
+§34 [Ø=云千峰]雲千峰一臉殺氣，弓著腿，走著鴨子步， [||] 繞著琳達走了三圈，把之前的台詞照本宣科重複了整三遍，然後才停下來。
+§35 而後再次給琳達號了一下鬼脈。
+§36 [Ø=云千峰]“嗯？失魂驚嚇倒是去了，怎麽這鬼纏之相還在？我身上的陽氣還嚇不走丫的？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 [Ø=云千峰]嘴裡說著好似玩笑，但是雲千峰心裡可是有點忐忑。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 37 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§37. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

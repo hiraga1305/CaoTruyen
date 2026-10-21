@@ -1,0 +1,85 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0262|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §46):
+§1 262.第262章 乾三連一隻眼
+§2 第262章 乾三連一隻眼
+§3 大胡子陪著夫人和幾個驢友結伴轉山。
+§4 [Ø=云千峰]他們也沒有叩拜，就是拄著登山杖慢悠悠的走著， [||] 和大部分轉山旅客一樣，他們都是準備兩天或者三天走完全程，完全沒有必要著急。
+§5 [Ø=云千峰]幾個人正走著，旁邊山坡上一隻白色的狐狸速度極快的一閃而過。
+§6 [Ø=云千峰]大胡子東張西望的，恰好看到那隻白狐，[Ø_SHIFT=姜柔甲]急忙拽著自己老婆喊道：
+§7 [Ø=姜柔甲]“媳婦兒你看，那狐狸好漂亮！一根雜毛沒有！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 [Ø=姜柔甲]旁邊幾個人也都看過去，對那一身雪白的狐狸讚不絕口。
+§9 [Ø=姜柔甲]沒想到的是，那狐狸此時竟然停了下來，站在半山腰看著大胡子，這一幕更讓幾個人稱奇。
+§10 “它好像不怕人啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=姜柔甲]“有吃的沒，給它點，估計和峨眉山的猴子似的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§12 [Ø=姜柔甲]大胡子的老婆，還有旁邊倆女生，[Ø_SHIFT=云千峰]都急忙翻找背包，找到肉干扔到了白色狐狸的身邊。
+§13 [Ø=云千峰]但是那白狐看都不看那些食物一眼，只是盯著看那大胡子一會兒，然後原地轉了三個圈， [||] 繼續沿著半山坡開始向前奔跑，路上還回頭看了大胡子幾次，知道再也看不見。
+§14 [Ø=云千峰]狐狸身影都消失好一會，大胡子還站在原地看著那空曠的半山腰。
+§15 [Ø=云千峰]直到他夫人拽他胳膊喊他快走，這才好像醒神似的，[Ø_SHIFT=姜柔甲]急忙跟上去。
+§16 [Ø=姜柔甲]雲千峰和卓瑪現在所處的位置，正是轉山路上最危險也最難走的一段路。
+§17 [Ø=姜柔甲]這裡接近海拔最高的埡口路段，位置正好是兩山之間，中間有一條河流，應該是積雪融化的傑作。
+§18 [Ø=姜柔甲]河流使得轉山的人必須貼著山邊行走，無論走左還是走右，都要挨著陡峭的雪峰。
+§19 [Ø=姜柔甲]好在是暖季，山上積雪並不多，這讓雲千峰不用太過擔心卓瑪那雪崩體質。
+§20 但還是禁不住問道：
+§21 [Ø=姜柔甲]“卓瑪，你遇到雪崩是在哪個位置？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 卓瑪道：
+§23 [Ø=姜柔甲]“那我可記得太清楚啦，就在前面不遠，路最窄的地方，左側是懸崖的那個路段。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 雲千峰思索道：
+§25 [Ø=姜柔甲]“帶我過去看看，你兩次在那裡遇到雪崩，這種巧合應該有些因果。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§26 [Ø=姜柔甲]卓瑪點了點頭，道：
+§27 [Ø=姜柔甲]“好的嘛，跟著我，要小心， [||] 那段路很難走，是另外一條轉山路線，不是遊客的路線。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 [Ø=姜柔甲]倆人說著，轉彎沒朝著埡口方向直走，而是偏離了原本的路線，朝著一堆散亂著巨大石頭的峽谷走去。
+§29 [Ø=姜柔甲]在這裡，兩側的山峰更陡峭。
+§30 [Ø=姜柔甲]不多時倆人順著亂石爬下了一個陡坡，而在這陡坡之上，有一條很窄的石路，這就是當地某些人的轉山路線。
+§31 據說只有一些功德很圓滿的人才能走上面那條窄路。
+§32 [Ø=姜柔甲]卓瑪站在懸崖下的一堆亂石上，說道：
+§33 [Ø=姜柔甲]“就是這裡嘛，幸好那年雪大，我被衝下來才沒摔死。喏，我當時就是甩到了這兩塊石頭中間的嘛。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 [Ø=姜柔甲]這是兩塊足有三四米高的石頭，平行結伴的立在這裡，中間縫隙最多米寬。
+§35 [Ø=姜柔甲]雲千峰來到這兩塊黑色的石頭當間，發現這石頭原本應該是某個建築上的石材， [||] 上面還帶著雕刻的花紋，只是因為風化，已經模糊不清。
+§36 [Ø=姜柔甲]但上面有兩個圖案重復出現，又因為圖案簡單，倒是還能辨認。
+§37 那是“三”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]和一隻豎眼重疊在一起的圖騰符號。
+§38 [Ø=姜柔甲]以雲千峰的認知，見到三，首先想到的就是乾卦三聯，看到豎眼就會想到神仙。
+§39 [Ø=姜柔甲]“卓瑪，這個圖騰符號你認識嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 卓瑪點頭道：
+§41 [Ø=姜柔甲]“當然認識，這裡的人都認識的嘛，這是大時天神的anle伽羅化身的符號嘛。
+§42 [Ø=姜柔甲]大時天神的這個法身有六臂三目，豎眼代表第三眼，第三眼在中間隔開“三”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]這個圖符，代表六臂。”
+§43 [Ø=姜柔甲]雲千峰對於這些天神和化身並不了解，尤其名字大部分是音譯，更是無法理解其含義，於是問道：
+§44 “大時天是什麽意思？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§45 卓瑪道：
+§46 “就是大自在天的嘛。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 46 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§46. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

@@ -1,0 +1,541 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 172,
+  "title": "Chương 172: Logic đơn giản",
+  "total_paragraphs": 88,
+  "translated_paragraphs": 88,
+  "source_hash": "fb8e90881da2f35029cfeb9b2705e205a742e7d6475710f23019c90bac6b35dc",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0172p0001",
+      "index": 1,
+      "raw_zh": "第172章 簡單邏輯",
+      "translated_vi": "Chương 172: Logic đơn giản"
+    },
+    {
+      "para_id": "c0172p0002",
+      "index": 2,
+      "raw_zh": "夜裡的撒哈拉大沙漠異樣的安靜，約翰不得不把聲音壓抑到極低的程度，以至於聲音黯啞成了顆粒狀。",
+      "translated_vi": "Đêm khuya nơi hoang mạc Sahara bao la tĩnh mịch đến lạ kỳ. John buộc phải ghìm giọng xuống mức cực nhỏ, nhỏ đến độ âm thanh trở nên khàn đặc và đứt quãng như từng hạt cát khô khốc."
+    },
+    {
+      "para_id": "c0172p0003",
+      "index": 3,
+      "raw_zh": "在這只有雲千峰能聽到的聲音裡，雲千峰感受到了約翰內心隱藏的恐懼和懊悔，還有一種舍身取義的悲壯。",
+      "translated_vi": "Trong thứ thanh âm chỉ có Vân Thiên Phong mới nghe thấy này, anh cảm nhận được nỗi kinh hoàng cùng niềm ân hận sâu sắc đang ẩn giấu tận đáy lòng John, xen lẫn chút bi tráng của kẻ muốn xả thân vì đại nghĩa."
+    },
+    {
+      "para_id": "c0172p0004",
+      "index": 4,
+      "raw_zh": "求一個人殺了自己，這是多麽難以啟齒的祈求。",
+      "translated_vi": "Cầu xin một người khác giết chết chính mình, đây quả là một lời thỉnh cầu khó lòng mở miệng xiết bao."
+    },
+    {
+      "para_id": "c0172p0005",
+      "index": 5,
+      "raw_zh": "多缺德啊！",
+      "translated_vi": "Mà cũng thất đức biết chừng nào!"
+    },
+    {
+      "para_id": "c0172p0006",
+      "index": 6,
+      "raw_zh": "因為這意味著約翰是個膽小怕死的人，他沒有勇氣自己去完成自己的終結，但又知道自己必須死去才能阻止某種恐怖的事情發生。",
+      "translated_vi": "Bởi lẽ điều này đồng nghĩa với việc John là một kẻ nhát gan sợ chết, gã không đủ dũng khí để tự tay kết liễu đời mình, nhưng lại nhận thức rõ bản thân bắt buộc phải chết thì mới có thể ngăn chặn một biến cố kinh hoàng nào đó xảy ra."
+    },
+    {
+      "para_id": "c0172p0007",
+      "index": 7,
+      "raw_zh": "只是這一點，雲千峰心裡還是挺敬佩約翰的，其實這也是一種勇敢的詮釋。",
+      "translated_vi": "Chỉ riêng điểm này thôi, trong lòng Vân Thiên Phong cũng có đôi phần bội phục John, dẫu sao đây cũng là một cách biểu hiện của sự quả cảm."
+    },
+    {
+      "para_id": "c0172p0008",
+      "index": 8,
+      "raw_zh": "“怎麽說呢？約翰，若是我殺了你，那麽我馬上會被他們用子彈打成馬蜂窩。”",
+      "translated_vi": "“Nói sao nhỉ? Này John, nếu tôi mà ra tay giết anh thì ngay tức khắc đám người kia sẽ nã đạn biến tôi thành tổ ong vò vẽ mất.”"
+    },
+    {
+      "para_id": "c0172p0009",
+      "index": 9,
+      "raw_zh": "雲千峰的聲音也低沉到了顆粒狀。",
+      "translated_vi": "Giọng Vân Thiên Phong cũng trầm xuống mức cực hạn, nghẹn lại nơi cuống họng."
+    },
+    {
+      "para_id": "c0172p0010",
+      "index": 10,
+      "raw_zh": "約翰沉默，良久才低聲道：",
+      "translated_vi": "John im lặng hồi lâu, rồi mới khẽ thở dài nói:"
+    },
+    {
+      "para_id": "c0172p0011",
+      "index": 11,
+      "raw_zh": "“我無法要求你什麽，但如果你因為這件事而死去，那麽一定是值得的。”",
+      "translated_vi": "“Tôi không thể ép buộc anh điều gì, nhưng nếu anh vì chuyện này mà phải bỏ mạng thì chắc chắn đó là một sự hy sinh vô cùng xứng đáng.”"
+    },
+    {
+      "para_id": "c0172p0012",
+      "index": 12,
+      "raw_zh": "很明顯，約翰太過想當然，因為雲千峰可不覺得這世界上有什麽事，是犧牲自己的性命還值得的。",
+      "translated_vi": "Rõ ràng là John suy nghĩ quá đỗi ngây thơ, bởi lẽ Vân Thiên Phong chẳng bao giờ cho rằng trên đời này có việc gì đáng để bản thân phải vứt bỏ tính mạng cả."
+    },
+    {
+      "para_id": "c0172p0013",
+      "index": 13,
+      "raw_zh": "對於“惡魔”這兩個字，他更是無感，因為他估計，在有些人的眼裡，自己也是惡魔，比如石匠會。",
+      "translated_vi": "Còn đối với hai chữ \"ác ma\", anh lại càng dửng dưng không chút cảm xúc, bởi theo ước tính của anh, trong mắt một số kẻ thì chính bản thân anh cũng là một con ác ma đấy thôi, chẳng hạn như bọn người thuộc Hội Thợ Đá."
+    },
+    {
+      "para_id": "c0172p0014",
+      "index": 14,
+      "raw_zh": "但還是禁不住好奇的問道：",
+      "translated_vi": "Thế nhưng anh vẫn không kìm được lòng hiếu kỳ mà cất tiếng hỏi:"
+    },
+    {
+      "para_id": "c0172p0015",
+      "index": 15,
+      "raw_zh": "“伱口中的惡魔到底是什麽？”",
+      "translated_vi": "“Con ác ma trong miệng anh rốt cuộc là thứ gì?”"
+    },
+    {
+      "para_id": "c0172p0016",
+      "index": 16,
+      "raw_zh": "雲千峰能感覺到約翰的脊背弓了一下，凡是有脊椎的動物，在感受到恐懼的時候，首先的下意識反應，都是弓起後背，因為這樣才能蓄力反抗。",
+      "translated_vi": "Vân Thiên Phong có thể cảm nhận rõ sống lưng của John vừa khẽ cong gập lại. Phàm là động vật có xương sống, khi cảm nhận thấy sự sợ hãi tột cùng thì phản xạ vô thức đầu tiên luôn là gù lưng lại, bởi chỉ có thế mới tích lũy sức mạnh để chống trả."
+    },
+    {
+      "para_id": "c0172p0017",
+      "index": 17,
+      "raw_zh": "由此可見，提到這個“惡魔”的一刻，約翰一定是想起了什麽，以至於身體呈現了極度恐懼的反應。",
+      "translated_vi": "Điều này chứng tỏ ngay khoảnh khắc nhắc đến \"ác ma\", John nhất định đã nhớ lại điều gì đó ghê gớm, đến mức cơ thể phát ra phản ứng sợ hãi tột độ."
+    },
+    {
+      "para_id": "c0172p0018",
+      "index": 18,
+      "raw_zh": "約翰努力的控制著自己的情緒，使勁的深呼吸幾次，才聲音發顫的說道：",
+      "translated_vi": "John cố gắng kìm nén cảm xúc, ra sức hít sâu mấy hơi dài rồi mới run rẩy cất lời:"
+    },
+    {
+      "para_id": "c0172p0019",
+      "index": 19,
+      "raw_zh": "“祂隱藏在一塊隕石裡，我不知道那是什麽，甚至不知道該如何形容，但觸碰那隕石的時候，我感受到了祂，暗紅色，無邊無際的血海，到處是死亡的慘叫，破裂的世界，還有無盡的絕望。",
+      "translated_vi": "“Ngài ấy ẩn mình bên trong một khối thiên thạch. Tôi không biết đó là thứ gì, thậm chí chẳng biết phải hình dung ra sao, nhưng khoảnh khắc chạm tay vào khối thiên thạch kia, tôi đã cảm nhận được Ngài. Màu đỏ thẫm, một biển máu mênh mông vô bờ bến, khắp nơi đều là tiếng kêu la thảm thiết của cái chết, một thế giới vỡ vụn tan tành cùng nỗi tuyệt vọng khôn cùng."
+    },
+    {
+      "para_id": "c0172p0020",
+      "index": 20,
+      "raw_zh": "那是只有地獄才應該有的模樣，祂就在那充滿死亡和絕望的世界裡，一個黑色的影子，看不清楚，他有角，惡魔一樣的羊角，祂向我走來，我很怕，躲開了，祂一定就是撒旦！",
+      "translated_vi": "Đó là cảnh tượng mà chỉ có nơi địa ngục mới có thể tồn tại. Ngài ấy ngự trị giữa thế giới ngập tràn chết chóc và tuyệt vọng đó, một bóng đen mờ ảo không thể nhìn rõ. Ngài có sừng, cặp sừng cừu y hệt loài ác ma. Ngài tiến về phía tôi... Tôi sợ hãi tột cùng nên đã né tránh. Ngài ấy chắc chắn chính là Satan!"
+    },
+    {
+      "para_id": "c0172p0021",
+      "index": 21,
+      "raw_zh": "我那時太貪婪了，我很後悔當時沒有選擇把那塊隕石扔進深海，而是想著要把它賣掉，畢竟那是我千辛萬苦才找到的隕石，可以賣一大筆錢。",
+      "translated_vi": "Hồi đó tôi quá đỗi tham lam, tôi vô cùng hối hận vì lúc ấy đã không chọn cách ném khối thiên thạch đó xuống biển sâu, mà lại nung nấu ý định đem bán nó đi. Dẫu sao đó cũng là khối thiên thạch tôi phải trèo đèo lội suối bao gian khổ mới tìm thấy, có thể bán được một khoản tiền kếch xù."
+    },
+    {
+      "para_id": "c0172p0022",
+      "index": 22,
+      "raw_zh": "就在我尋找買家的那幾天，奇怪的事情發生了，我的妻子變得越來越漂亮，不！不是漂亮，這樣形容不對，是變得越來越誘惑。",
+      "translated_vi": "Thế nhưng ngay trong những ngày tôi đi tìm mối mua, chuyện kỳ quái đã xảy ra. Vợ tôi ngày càng trở nên xinh đẹp... Không! Không phải là xinh đẹp, miêu tả như vậy chưa đúng, mà là càng lúc càng trở nên mê hoặc, khêu gợi khôn cùng!"
+    },
+    {
+      "para_id": "c0172p0023",
+      "index": 23,
+      "raw_zh": "她曾經是那麽文靜和靦腆的女人，但全都變了，我一米八五的身高，一百八十斤的體重，在不到一個月的時間，變成現在這樣虛弱消瘦，但我抵抗不住她的誘惑，我不知道發生了什麽。",
+      "translated_vi": "Cô ấy trước kia từng là một người phụ nữ dịu dàng thùy mị và e thẹn biết bao, thế nhưng mọi thứ đều đã thay đổi hoàn toàn. Bản thân tôi cao một mét tám mươi lăm, nặng chín mươi cân, vậy mà chưa đầy một tháng ngắn ngủi đã suy kiệt gầy rộc đến nông nỗi này. Nhưng tôi không tài nào cưỡng lại được sức quyến rũ ma mị của cô ấy, tôi không hiểu rốt cuộc chuyện gì đang xảy ra."
+    },
+    {
+      "para_id": "c0172p0024",
+      "index": 24,
+      "raw_zh": "直到有一天，我看到我的妻子在與那塊石頭交談，她似乎很快樂，從未有過的快樂，那一刻我明白了，魔鬼一定已經與我的妻子簽訂了某種契約，而她，哦應該是祂，現在正在走向完整的路上。",
+      "translated_vi": "Mãi cho tới một ngày nọ, tôi tận mắt thấy vợ mình đang trò chuyện cùng hòn đá ấy. Trông cô ấy dường như vô cùng khoái lạc, một niềm vui sướng chưa từng thấy trong đời. Giây phút ấy tôi chợt hiểu ra, ma quỷ nhất định đã ký kết một khế ước nào đó với vợ tôi, và cô ấy... à không, phải nói là Ngài ấy, giờ đây đang trên con đường tiến tới sự hoàn chỉnh trọn vẹn!"
+    },
+    {
+      "para_id": "c0172p0025",
+      "index": 25,
+      "raw_zh": "天哪！我必須阻止她，這都是我的錯，我不該貪婪，殺了我吧，只有我知道那塊隕石是在哪裡找到的，殺了我，阻止祂完整”",
+      "translated_vi": "Chúa ơi! Tôi bắt buộc phải ngăn cô ấy lại! Tất cả đều là lỗi lầm của tôi, đáng lẽ tôi không nên tham lam như thế... Hãy giết tôi đi! Chỉ có mình tôi biết khối thiên thạch kia được tìm thấy ở đâu mà thôi. Giết tôi đi để ngăn Ngài ấy trở nên hoàn chỉnh...”"
+    },
+    {
+      "para_id": "c0172p0026",
+      "index": 26,
+      "raw_zh": "雲千峰現在基本搞清楚情況了。",
+      "translated_vi": "Tới lúc này, Vân Thiên Phong cơ bản đã nắm rõ tình hình."
+    },
+    {
+      "para_id": "c0172p0027",
+      "index": 27,
+      "raw_zh": "很明顯，這約翰在發現妻子的秘密之後，挺著嚴重shen虛的身體，偷走了隕石，準備投入深海.",
+      "translated_vi": "Rõ ràng là sau khi phát hiện ra bí mật của người vợ, John đã gắng gượng cái thân xác suy kiệt vì hao tổn tinh khí quá độ này, lén trộm khối thiên thạch mang đi, định bụng ném xuống đáy biển sâu..."
+    },
+    {
+      "para_id": "c0172p0028",
+      "index": 28,
+      "raw_zh": "想到這，雲千峰突然皺眉，意識到另一種危險的存在，當下忙低聲問道：",
+      "translated_vi": "Nghĩ đến đây, Vân Thiên Phong bỗng nhíu mày, nhận ra sự tồn tại của một mối nguy hiểm khác, lập tức hạ giọng gặng hỏi:"
+    },
+    {
+      "para_id": "c0172p0029",
+      "index": 29,
+      "raw_zh": "“你是小偷嗎？”",
+      "translated_vi": "“Anh là kẻ trộm chuyên nghiệp à?”"
+    },
+    {
+      "para_id": "c0172p0030",
+      "index": 30,
+      "raw_zh": "約翰搖頭，聲音有些抽泣，道：",
+      "translated_vi": "John lắc đầu, giọng nói nghẹn ngào như muốn khóc:"
+    },
+    {
+      "para_id": "c0172p0031",
+      "index": 31,
+      "raw_zh": "“當然不是，我是個探險家，天文學和地質學雙學位，我靠著自己的專業知識，專門尋找隕石賣給一些收藏家。",
+      "translated_vi": "“Dĩ nhiên không phải rồi! Tôi là một nhà thám hiểm, có bằng kép ngành thiên văn học và địa chất học. Tôi dựa vào kiến thức chuyên môn của mình, chuyên đi săn lùng thiên thạch để bán lại cho giới sưu tầm."
+    },
+    {
+      "para_id": "c0172p0032",
+      "index": 32,
+      "raw_zh": "我完全不清楚，自己怎麽會成為一個通緝犯，完全不清楚！那隕石是我在沙漠找到的，不是偷的。",
+      "translated_vi": "Tôi hoàn toàn chẳng hiểu nổi vì cớ gì mình lại trở thành tội phạm bị truy nã, thực sự không tài nào hiểu nổi! Khối thiên thạch đó là do tôi lặn lội tìm thấy giữa sa mạc chứ đâu phải đồ trộm cắp!"
+    },
+    {
+      "para_id": "c0172p0033",
+      "index": 33,
+      "raw_zh": "一定是那個賤女人搞的鬼，她現在是惡魔的奴隸，邪惡的魔鬼。”",
+      "translated_vi": "Nhất định là do tiện nhân kia giở trò quỷ quái, hiện giờ ả đã biến thành nô lệ cho ác ma, một con quỷ độc ác tột cùng.”"
+    },
+    {
+      "para_id": "c0172p0034",
+      "index": 34,
+      "raw_zh": "雲千峰咬牙罵道：",
+      "translated_vi": "Vân Thiên Phong nghiến răng mắng thầm:"
+    },
+    {
+      "para_id": "c0172p0035",
+      "index": 35,
+      "raw_zh": "“你的妻子沒有那個能力，若是有她就不用打劫了！”",
+      "translated_vi": "“Vợ anh làm quái gì có cái năng lực ấy, nếu có thì ả đâu cần phải đi cướp bóc máy bay làm gì!”"
+    },
+    {
+      "para_id": "c0172p0036",
+      "index": 36,
+      "raw_zh": "這是一個非常簡單的邏輯。",
+      "translated_vi": "Đây là một logic đơn giản vô cùng."
+    },
+    {
+      "para_id": "c0172p0037",
+      "index": 37,
+      "raw_zh": "說的這，他沒時間和約翰解釋，而是急聲道：",
+      "translated_vi": "Nói tới đây, anh không còn thời gian để đôi co giải thích thêm với John nữa, mà gắt gao giục:"
+    },
+    {
+      "para_id": "c0172p0038",
+      "index": 38,
+      "raw_zh": "“和我一起倒下，快！”",
+      "translated_vi": "“Ngã xuống cùng tôi mau, nhanh lên!”"
+    },
+    {
+      "para_id": "c0172p0039",
+      "index": 39,
+      "raw_zh": "約翰不知道雲千峰發什麽瘋，但是拗不過雲千峰的力氣，畢竟他太虛弱了。",
+      "translated_vi": "John chẳng hiểu nổi Vân Thiên Phong bỗng dưng phát điên cái gì, nhưng gã không sao chống cự lại nổi sức mạnh của anh, bởi thể lực gã lúc này quá đỗi yếu ớt."
+    },
+    {
+      "para_id": "c0172p0040",
+      "index": 40,
+      "raw_zh": "倆人倒在地上，雲千峰急忙把耳朵貼在沙子上，屏住呼吸，仔細傾聽。",
+      "translated_vi": "Hai người cùng nằm rạp xuống đất, Vân Thiên Phong vội vàng áp sát tai vào nền cát, nín thở tập trung lắng nghe thật kỹ."
+    },
+    {
+      "para_id": "c0172p0041",
+      "index": 41,
+      "raw_zh": "“瑪德！要出事！”",
+      "translated_vi": "“Mẹ kiếp! Sắp có biến lớn rồi!”"
+    },
+    {
+      "para_id": "c0172p0042",
+      "index": 42,
+      "raw_zh": "雲千峰嘴裡罵著，聲音已經不再壓製。",
+      "translated_vi": "Vân Thiên Phong chửi thề một tiếng, giọng nói không còn kiềm chế nữa."
+    },
+    {
+      "para_id": "c0172p0043",
+      "index": 43,
+      "raw_zh": "這一嗓子，直接讓放哨守夜的倆人聽到，他們倆穿著長袍，用槍指著雲千峰的位置，罵道：",
+      "translated_vi": "Tiếng quát ấy ngay lập tức kinh động đến hai tên lính đang đứng gác đêm. Bọn chúng khoác áo choàng dài, giương họng súng chĩa thẳng về phía Vân Thiên Phong, quát mắng:"
+    },
+    {
+      "para_id": "c0172p0044",
+      "index": 44,
+      "raw_zh": "“閉嘴，不許說話，再出聲殺了你！”",
+      "translated_vi": "“Câm mồm, không được nói chuyện! Còn hó hé câu nữa là tao bắn chết!”"
+    },
+    {
+      "para_id": "c0172p0045",
+      "index": 45,
+      "raw_zh": "竟然還知道用英文說話。",
+      "translated_vi": "Bọn chúng thế mà lại biết dùng tiếng Anh để quát tháo."
+    },
+    {
+      "para_id": "c0172p0046",
+      "index": 46,
+      "raw_zh": "雲千峰咬牙回道：",
+      "translated_vi": "Vân Thiên Phong nghiến răng đáp lại:"
+    },
+    {
+      "para_id": "c0172p0047",
+      "index": 47,
+      "raw_zh": "“快去告訴法緹娜，有敵人靠近！”",
+      "translated_vi": "“Mau đi báo cho Fatina biết, có kẻ địch đang áp sát!”"
+    },
+    {
+      "para_id": "c0172p0048",
+      "index": 48,
+      "raw_zh": "那個守夜人眼神有些怒意，呵斥道：",
+      "translated_vi": "Tên gác đêm lộ vẻ giận dữ, lớn tiếng nạt nộ:"
+    },
+    {
+      "para_id": "c0172p0049",
+      "index": 49,
+      "raw_zh": "“法緹娜不是你的嘴可以說出的名字，想死嗎？”",
+      "translated_vi": "“Cái tên Fatina không phải thứ để cái miệng bẩn thỉu của mày tùy tiện gọi ra, muốn chết à?”"
+    },
+    {
+      "para_id": "c0172p0050",
+      "index": 50,
+      "raw_zh": "雲千峰覺得這人特別軸，於是恨恨道：",
+      "translated_vi": "Vân Thiên Phong thấy cái gã này đúng là đồ cứng đầu dập khuôn, bèn bực bội bảo:"
+    },
+    {
+      "para_id": "c0172p0051",
+      "index": 51,
+      "raw_zh": "“你把耳朵貼在地面上，然後不要高聲說話，這麽安靜的夜，聲音可以傳出很遠！”",
+      "translated_vi": "“Anh áp tai xuống mặt đất đi, rồi đừng có bô bô cái mồm lên nữa! Đêm hôm tĩnh lặng thế này, tiếng động truyền đi rất xa đấy!”"
+    },
+    {
+      "para_id": "c0172p0052",
+      "index": 52,
+      "raw_zh": "那個守夜人似乎看出雲千峰的焦急，當下急忙趴在地上，用耳朵傾聽。",
+      "translated_vi": "Tên gác đêm dường như nhận ra nét nôn nóng thực sự của Vân Thiên Phong, lúc này mới vội vàng nằm rạp xuống đất, dán tai lắng nghe."
+    },
+    {
+      "para_id": "c0172p0053",
+      "index": 53,
+      "raw_zh": "幾秒鍾後，他一打滾爬起來，直奔著休息的人群走過去，喚醒安德，道：",
+      "translated_vi": "Chỉ vài giây sau, gã lăn một vòng bật dậy, lao thẳng về phía đám người đang say ngủ, lay Ander dậy rồi gấp gáp nói:"
+    },
+    {
+      "para_id": "c0172p0054",
+      "index": 54,
+      "raw_zh": "“安德，快起來，有很多腳步聲在靠近，最多半個小時就會來到我們身邊。”",
+      "translated_vi": "“Ander, mau dậy đi! Có rất nhiều tiếng bước chân đang tiến lại gần, nhiều nhất là nửa tiếng nữa sẽ mò tới chỗ chúng ta thôi.”"
+    },
+    {
+      "para_id": "c0172p0055",
+      "index": 55,
+      "raw_zh": "很明顯，這個人是受過專業訓練的，能夠憑借聽到的腳步聲判斷對方的大概速度和相距的距離。",
+      "translated_vi": "Rõ ràng người này từng trải qua huấn luyện bài bản, có thể dựa vào tiếng bước chân nghe được để phán đoán tốc độ đại khái và khoảng cách của đối phương."
+    },
+    {
+      "para_id": "c0172p0056",
+      "index": 56,
+      "raw_zh": "安德急忙對旁邊的阿菲法說道：",
+      "translated_vi": "Ander vội vàng quay sang Afifa bên cạnh bảo:"
+    },
+    {
+      "para_id": "c0172p0057",
+      "index": 57,
+      "raw_zh": "“阿菲法，快去喚醒法緹娜。”",
+      "translated_vi": "“Afifa, mau đi đánh thức Fatina dậy.”"
+    },
+    {
+      "para_id": "c0172p0058",
+      "index": 58,
+      "raw_zh": "說完，對著旁邊醒來的人群說道：",
+      "translated_vi": "Dứt lời, gã quay sang đám thuộc hạ vừa tỉnh giấc ra lệnh:"
+    },
+    {
+      "para_id": "c0172p0059",
+      "index": 59,
+      "raw_zh": "“拿好武器，準備戰鬥！”",
+      "translated_vi": "“Cầm chắc vũ khí trong tay, chuẩn bị chiến đấu!”"
+    },
+    {
+      "para_id": "c0172p0060",
+      "index": 60,
+      "raw_zh": "法緹娜一邊整理衣服，一邊來到人群，安德這時候才叫人去把裝著所謂神器的箱子抬回來。",
+      "translated_vi": "Fatina vừa sửa sang lại trang phục vừa bước về phía đám đông. Lúc này Ander mới cho người đi khiêng chiếc hòm đựng món gọi là thần khí kia trở lại."
+    },
+    {
+      "para_id": "c0172p0061",
+      "index": 61,
+      "raw_zh": "雲千峰能感覺到，法緹娜身上那種讓蚩尤甲戒備的氣息更加濃鬱了。",
+      "translated_vi": "Vân Thiên Phong có thể cảm nhận thấy luồng khí tức khiến Xi Vưu Giáp phải cảnh giác trên người Fatina lại càng thêm nồng nặc."
+    },
+    {
+      "para_id": "c0172p0062",
+      "index": 62,
+      "raw_zh": "“她是在抱著隕石睡覺嗎？”",
+      "translated_vi": "“Ả ta ôm khối thiên thạch kia ngủ đấy à?”"
+    },
+    {
+      "para_id": "c0172p0063",
+      "index": 63,
+      "raw_zh": "他猜測著，法緹娜已經來到了他的眼前。",
+      "translated_vi": "Anh thầm đoán định trong bụng, thì Fatina đã tiến đến ngay trước mắt anh."
+    },
+    {
+      "para_id": "c0172p0064",
+      "index": 64,
+      "raw_zh": "那讓所有男人神魂顛倒的眼神卻對雲千峰毫無作用。",
+      "translated_vi": "Ánh mắt từng khiến biết bao gã đàn ông phải điên đảo hồn vía kia lại chẳng hề có chút tác dụng nào đối với Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0172p0065",
+      "index": 65,
+      "raw_zh": "也不能說毫無作用，因為蚩尤甲面對法緹娜的時候，表現的極為謹慎，也就意味著雲千峰是一樣的情緒。",
+      "translated_vi": "Cũng không hẳn là hoàn toàn vô dụng, bởi lẽ khi đối diện với Fatina, Xi Vưu Giáp biểu hiện cực kỳ thận trọng, đồng nghĩa với việc cảm xúc của Vân Thiên Phong cũng được duy trì ở trạng thái đề phòng cao độ như thế."
+    },
+    {
+      "para_id": "c0172p0066",
+      "index": 66,
+      "raw_zh": "“你為什麽確定那群人會帶來危險？”",
+      "translated_vi": "“Vì sao anh dám chắc đám người đó sẽ mang lại nguy hiểm?”"
+    },
+    {
+      "para_id": "c0172p0067",
+      "index": 67,
+      "raw_zh": "雲千峰低聲道：",
+      "translated_vi": "Vân Thiên Phong hạ giọng đáp:"
+    },
+    {
+      "para_id": "c0172p0068",
+      "index": 68,
+      "raw_zh": "“把耳朵靠近我，這些話只能說給你一個人聽。”",
+      "translated_vi": "“Ghẹo tai lại gần đây, những lời này tôi chỉ có thể nói cho một mình cô nghe thôi.”"
+    },
+    {
+      "para_id": "c0172p0069",
+      "index": 69,
+      "raw_zh": "法緹娜看著雲千峰的眼神，確定他不是在開玩笑，然後真的把那如玉的聽戶放到了雲千峰的唇邊。",
+      "translated_vi": "Fatina nhìn sâu vào mắt Vân Thiên Phong, xác định anh không hề đùa cợt, sau đó thực sự ghé bờ tai trắng ngần như ngọc lại sát bên bờ môi anh."
+    },
+    {
+      "para_id": "c0172p0070",
+      "index": 70,
+      "raw_zh": "雲千峰的嘴唇幾乎觸碰到那耳朵上白色的絨毛。",
+      "translated_vi": "Môi Vân Thiên Phong suýt chút nữa đã chạm vào lớp lông tơ mịn màng trên vành tai cô ta."
+    },
+    {
+      "para_id": "c0172p0071",
+      "index": 71,
+      "raw_zh": "他低聲道：",
+      "translated_vi": "Anh thì thầm:"
+    },
+    {
+      "para_id": "c0172p0072",
+      "index": 72,
+      "raw_zh": "“一個很簡單的邏輯。",
+      "translated_vi": "“Một logic đơn giản thôi."
+    },
+    {
+      "para_id": "c0172p0073",
+      "index": 73,
+      "raw_zh": "你沒有讓約翰成為逃犯的權利和能力，否則你就不需要來這一出危險操作。",
+      "translated_vi": "Cô không có quyền lực và năng lực để biến John thành một kẻ đào phạm bị truy nã gắt gao như thế, bằng không thì cô đã chẳng cần phải bày ra màn cướp bóc mạo hiểm này."
+    },
+    {
+      "para_id": "c0172p0074",
+      "index": 74,
+      "raw_zh": "那麽就證明一定有其他人也知道隕石的秘密，而且不擇手段的要得到那塊隕石，且權利和勢力遠遠超過你。",
+      "translated_vi": "Điều đó chứng minh nhất định còn có kẻ khác cũng biết được bí mật của khối thiên thạch, hơn nữa còn bất chấp mọi thủ đoạn hòng đoạt lấy nó, với quyền lực và thế lực vượt xa cô gấp bội."
+    },
+    {
+      "para_id": "c0172p0075",
+      "index": 75,
+      "raw_zh": "而隕石現在又回到了你的手裡，這就意味著，危險隨時可能降臨，恰巧再有一群人尾隨我們，結果不言而喻。”",
+      "translated_vi": "Mà khối thiên thạch hiện giờ lại rơi vào tay cô, đồng nghĩa với việc hiểm nguy có thể ập tới bất cứ lúc nào. Trùng hợp thay lại có một toán người bám đuôi theo chúng ta, kết quả thế nào hẳn là quá rõ ràng rồi.”"
+    },
+    {
+      "para_id": "c0172p0076",
+      "index": 76,
+      "raw_zh": "這些話自然只能對法緹娜說，因為決不能讓她的那些信徒聽到，雲千峰可謂是買了一個好，很顯然效果不錯，法緹娜看著雲千峰的眼神，善意多了。",
+      "translated_vi": "Những lời này dĩ nhiên chỉ có thể nói riêng cho Fatina nghe, tuyệt đối không thể để đám tín đồ của ả nghe thấy. Nước đi này của Vân Thiên Phong quả là khéo léo lấy lòng người, hiệu quả thu lại trông thấy rõ rệt: ánh mắt Fatina nhìn anh đã dịu đi và tăng thêm nhiều phần thiện cảm."
+    },
+    {
+      "para_id": "c0172p0077",
+      "index": 77,
+      "raw_zh": "這是個果斷且心狠的女人，她開始下達命令。",
+      "translated_vi": "Đây quả là một ả đàn bà vừa quyết đoán lại vừa tàn nhẫn, cô ta bắt đầu ban bố mệnh lệnh."
+    },
+    {
+      "para_id": "c0172p0078",
+      "index": 78,
+      "raw_zh": "法緹娜看著這些冒死跟隨自己的信徒，用一種讓人無法違抗的聲音，說道：",
+      "translated_vi": "Fatina nhìn đám tín đồ sẵn sàng liều chết đi theo mình, cất lên một giọng điệu khiến người ta không thể nào kháng cự:"
+    },
+    {
+      "para_id": "c0172p0079",
+      "index": 79,
+      "raw_zh": "“敵人數量眾多，不是我們能夠力敵的，他們能夠這麽快找到我們，一定是配備了專業的搜尋犬，現在唯一的辦法就是分散開來。",
+      "translated_vi": "“Quân địch đông đảo, không phải thứ chúng ta có thể dùng sức đối đầu trực diện. Bọn chúng có thể nhanh chóng tìm thấy chúng ta thế này chắc chắn là nhờ có chó săn nghiệp vụ dẫn đường. Biện pháp duy nhất bây giờ là tản ra."
+    },
+    {
+      "para_id": "c0172p0080",
+      "index": 80,
+      "raw_zh": "我要求你們每一個人為一個單位，不擇方向的奔逃。",
+      "translated_vi": "Tôi yêu cầu mỗi người các người là một nhóm riêng biệt, mạnh ai nấy chạy theo các hướng khác nhau."
+    },
+    {
+      "para_id": "c0172p0081",
+      "index": 81,
+      "raw_zh": "這是神對我們最後的考驗，不用懼怕死亡，因為我會帶領你們生存在天國。”",
+      "translated_vi": "Đây là thử thách cuối cùng mà Thần linh dành cho chúng ta. Không cần phải sợ hãi cái chết, bởi vì tôi sẽ dẫn dắt linh hồn các người được tái sinh nơi thiên quốc.”"
+    },
+    {
+      "para_id": "c0172p0082",
+      "index": 82,
+      "raw_zh": "隊伍裡，每一個人都和打了雞血似的，排著隊匍匐在法緹娜腳下，親吻她的鞋尖，然後義無反顧的拎著槍，連羊皮水囊都不帶，直奔著一個方向便狂奔而去。",
+      "translated_vi": "Trong đội, từng người một như được tiêm máu gà, nối đuôi nhau quỳ rạp dưới chân Fatina, thành kính hôn lên mũi giày của cô ta, sau đó không chút đắn đo vác súng lên, đến cả túi da đựng nước cũng chẳng thèm mang theo, cắm đầu cắm cổ lao thục mạng về một hướng."
+    },
+    {
+      "para_id": "c0172p0083",
+      "index": 83,
+      "raw_zh": "他們，就沒準備活。",
+      "translated_vi": "Bọn họ căn bản là chưa từng chuẩn bị cho việc mình sẽ sống sót trở về."
+    },
+    {
+      "para_id": "c0172p0084",
+      "index": 84,
+      "raw_zh": "安德也要離去，法緹娜卻喚住他，道：",
+      "translated_vi": "Ander cũng định cất bước rời đi, nhưng Fatina đã lên tiếng gọi giật lại:"
+    },
+    {
+      "para_id": "c0172p0085",
+      "index": 85,
+      "raw_zh": "“安德，你和阿菲法跟著我，帶好所有的羊皮水囊，外鄉人你也要跟著我，繼續替我背著神器，約翰，帶我去神的家，我們不去綠洲取補給了，直接深入死亡之海。”",
+      "translated_vi": "“Ander, anh và Afifa ở lại đi theo tôi, mang theo toàn bộ túi da đựng nước. Còn người ngoại bang kia, anh cũng phải đi theo tôi để tiếp tục cõng thần khí. John, dẫn tôi tới ngôi nhà của Thần linh, chúng ta sẽ không đến ốc đảo lấy đồ tiếp tế nữa mà tiến thẳng vào lòng Biển Chết.”"
+    },
+    {
+      "para_id": "c0172p0086",
+      "index": 86,
+      "raw_zh": "感謝尾數23262的打賞，還有兩個打賞我在後台無論如何也看不到是誰，不知道是什麽原因，但要在這裡感謝你們的支持！！！",
+      "translated_vi": "Chân thành cảm ơn phần thưởng ủng hộ từ bạn đọc có số đuôi 23262, cùng hai khoản ủng hộ khác mà tôi không tài nào nhìn thấy tên trong hệ thống, dẫu chẳng rõ nguyên nhân vì sao nhưng tôi xin gửi lời cảm ơn sâu sắc tới sự ủng hộ của các bạn tại đây!!!"
+    },
+    {
+      "para_id": "c0172p0087",
+      "index": 87,
+      "raw_zh": "感謝對此不能靠近、不吐泡泡的瑜、宵夜真的好吃、宅男獸、北窗伏龍啊、Sophie-Y、尾數55608、尾數11272、尾數41686、尾數03186、叫我猛胖虎、廟裡供著神、丶陌愛、尾數20567、小小陳的daddy的月票獎勵！！！",
+      "translated_vi": "Chân thành cảm ơn sự khích lệ bằng phiếu tháng từ Đối Thử Bất Năng Kháo Cận, Bất Thổ Phao Phao Đích Du, Tiêu Dạ Chân Đích Hảo Cật, Trạch Nam Thú, Bắc Song Phục Long A, Sophie-Y, đuôi số 55608, đuôi số 11272, đuôi số 41686, đuôi số 03186, Khiếu Ngã Mãnh Bàng Hổ, Miếu Lý Cúng Trước Thần, Mạch Ái, đuôi số 20567, Tiểu Tiểu Trần daddy!!!"
+    },
+    {
+      "para_id": "c0172p0088",
+      "index": 88,
+      "raw_zh": "謝謝你們的支持，感激你們的存在！！！",
+      "translated_vi": "Cảm ơn sự ủng hộ của các bạn, vô cùng cảm kích vì sự đồng hành của mọi người!!!"
+    }
+  ]
+}

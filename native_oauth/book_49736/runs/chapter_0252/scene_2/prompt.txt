@@ -1,0 +1,96 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0252|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|“Không cho phép anh nói bản thân mình như thế! Anh phải hiểu rõ chính mình chứ, nếu không phải đã cùng đường mạt lộ, anh tuyệt đối sẽ không hy sinh bất kỳ một ai thân cận bên mình.”
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一滴|một giọt
+M2|一息|một hơi thở
+M3|一尊|một pho
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §53):
+§1 [Ø=云千峰]未來的你之所以沒有親自來，是因為那時候的你死了！
+§2 [Ø=云千峰]你沒有去湊齊整套蚩尤甲，有一條腿依舊是凡夫血肉，為了救我，你的那條腿被綠色霧區之中的一個甲蟲咬掉了。
+§3 [Ø=云千峰]我們沒有藥物，沒有任何醫療器具， [||] 甚至連繃帶都沒有，只能看著你流血，直到最後一滴[M1:một giọt]。
+§4 [Ø=云千峰]在最後的時刻，你告訴我，你對三十年前的選擇充滿了悔恨，你要我們回來殺死你， [||] 或者被你殺死，活下來的人要遵從帝嚳的算計，犧牲自己，阻止災難的發生。
+§5 [Ø=云千峰]如果我們成功殺死了你，那麽活下來的人穿上蚩尤甲，就能明白該怎麽做。
+§6 [Ø=云千峰]如果你殺死了我們，那麽想要我們這些死心塌地跟隨你的人不會真正的死亡，你會為了我們存在下去，而去犧牲自己。
+§7 [Ø=云千峰]你總是了解任何人性，所以用了這個方法逼自己上梁山。”
+§8 雲千峰疑惑道：
+§9 “可是他們已經死了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§10 [Ø=云千峰]小神經搖頭，笑道：
+§11 [Ø=云千峰]“不，他們還沒死，他們的記憶和意識還存在於這個世界， [||] 只是我們看不到，他們就像一團迷失的磁場，在這死去的地方飄蕩。
+§12 [Ø=云千峰]未來的你告訴我，全知之眼是一個很神奇的東西，甚至不可複製， [||] 人的靈魂可以在全知之眼內繼續存在，有意識，甚至有實體的存在。
+§13 [Ø=云千峰]那本是巫族尋求長生的方法，他們成功了，只是被打斷。
+§14 [Ø=云千峰]而要全知之眼重新擁有這種引渡靈魂的功能，需要身穿蚩尤甲的人做出犧牲。”
+§15 雲千峰沉聲道：
+§16 “什麽犧牲？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 [Ø=云千峰]小神經搖頭，道：
+§18 [Ø=云千峰]“我不知道，未來的你說過，只要你穿上了西王母身前那條蚩尤甲的腿，就會知道答案了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 [Ø=云千峰]雲千峰沒有任何猶豫，走到祭台上，拿起石台上蚩尤甲的右腿，融合在自己的右腿上。
+§20 [Ø=云千峰]融合後的那一瞬間，他腹內的全知之眼比佩戴蚩尤甲頭盔時躁動的還厲害。
+§21 全知之眼在他體內跳躍著。
+§22 [Ø=云千峰]在之前，全知之眼已經在海底位置竄到了中腹。
+§23 [Ø=云千峰]而在融合這條腿後，全知之眼一下鑽進了膻中內， [||] 但依舊向上躍躍欲試，只不過似乎力度不夠，無法更加向上。
+§24 [Ø=云千峰]這一刻，雲千峰明白了未來自己所謂的選擇。
+§25 [Ø=云千峰]未來的自己，之所以沒有湊齊另外一條腿，是因為恐懼，對全知之眼這種走向變化的恐懼。
+§26 [Ø=云千峰]可以預料，若是蚩尤甲集齊，那麽全知之眼就會向上走入腦部。
+§27 [Ø=云千峰]那時候，全知之眼將成為自己身體的主腦，而雲千峰這個人將不複存在。
+§28 這就是未來的自己口中的犧牲。
+§29 未來的自己對現在的自己太狠了。
+§30 [Ø=云千峰]雲千峰心裡咒罵著，腳步沉重的走向雕像的後面。
+§31 [Ø=云千峰]他實在沒有勇氣讓自己不複存在，為了人人，他沒有那種高尚的覺悟。
+§32 [Ø=云千峰]但他很難過，很難受，尤其是看到祭台上那些死去的笑容。
+§33 [Ø=云千峰]而當他回到雕像後，看到此刻的小神經後，他知道，自己不犧牲不行了。
+§34 [Ø=云千峰]因為小神經嘴角溢血，已經奄奄一息[M2:một hơi thở]，她自己服毒了，趁著雲千峰離開的這會時間。
+§35 [Ø=云千峰]小神經笑看著雲千峰，聲音已經斷斷續續：
+§36 [Ø=云千峰]“別惱我，你說了，我不死， [||] 你不會做出新的選擇，而會走出讓未來的你懊悔的老路，為了我你才會犧牲自己，我很高興未來的你那麽說.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 [Ø=云千峰]雲千峰抱著方才還是火熱的小神經，感受著她身體慢慢變涼， [||] 心口好像被什麽東西堵著，他不得不張開嘴巴呼吸，使勁的吸氣。
+§38 [Ø=云千峰]他想要呼喊，發泄心中的一腔悲痛和憤怒，然而那積攢了半天的氣，卻隻讓他哭著喊出一句：
+§39 [Ø=云千峰]“你還沒告訴我另外一條腿在哪，我好去找到它， [||] 我答應你們，我去死，去死啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 這就是祭品的力量。
+§41 [Ø=云千峰]小神經用最後的力氣撫摸雲千風的臉，臉上全是心疼，用手指著前方的西王母雕像，然後顫聲道：
+§42 [Ø=云千峰]“四十九天，我們靈魂的磁場還能存在四十九天.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 [Ø=云千峰]說完，小神經閉上了眼睛，嘴角帶著笑，但笑得苦澀。
+§44 [Ø=云千峰]她遵從雲千峰的話來逼迫雲千峰，這裡最左右為難的是她。
+§45 [Ø=云千峰]但她信他，因為雲千峰絕不會做自絕的事情， [||] 這裡有生機，所有人的生機，她信他。
+§46 [Ø=云千峰]這裡每個死去的笑容，都是因為這種信任。
+§47 [Ø=云千峰]雲千峰給小神經穿好那身紅妝，用蓋頭蓋住了她的臉，然後跑到西王母神像前。
+§48 [Ø=云千峰]小神經在最後一刻指向這裡，那麽這個雕像一定就是自己找到另外一條蚩尤甲腿部的關鍵。
+§49 [Ø=云千峰]他不能浪費一秒時間了，因為他只有在四十九天內找到最後一部分蚩尤甲， [||] 讓之與自己融合，讓自己徹底被全知之眼佔有，才能將他們的靈魂收納進全知之眼。
+§50 [Ø=云千峰]雲千峰站在西王母雕像前，喘息著，警醒著自己：
+§51 [Ø=云千峰]“不要慌，冷靜下來，冷靜下來，找到線索！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§52 [Ø=云千峰]然而，這僅僅是一尊[M3:một pho]雕像，僅此而已，雕像是不會說話的。
+§53 [Ø=云千峰]但它一定隱藏著秘密，最後的秘密。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 53 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§53. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

@@ -1,0 +1,650 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 229,
+  "title": "Chương 229: Người lạ quen thuộc",
+  "total_paragraphs": 106,
+  "translated_paragraphs": 106,
+  "source_hash": "497fafbd7259784f89fa014a8f0ae59fff00bf7daa127e77ea1f4bbaa4e68eea",
+  "model_used": "gemini-3.8-flash-high",
+  "elapsed_seconds": 138.21,
+  "bilingual_alignment": [
+    {
+      "para_id": "c0229p0001",
+      "index": 1,
+      "raw_zh": "229.第229章 熟悉的陌生人",
+      "translated_vi": "Chương 229: Người lạ quen thuộc"
+    },
+    {
+      "para_id": "c0229p0002",
+      "index": 2,
+      "raw_zh": "第229章 熟悉的陌生人",
+      "translated_vi": "Chương 229: Người lạ quen thuộc"
+    },
+    {
+      "para_id": "c0229p0003",
+      "index": 3,
+      "raw_zh": "聽到這話，荷茜許忙顫聲道：",
+      "translated_vi": "Nghe thấy câu này, Hosea Hứa run rẩy vội nói:"
+    },
+    {
+      "para_id": "c0229p0004",
+      "index": 4,
+      "raw_zh": "“那咱們快走吧。”",
+      "translated_vi": "\"Vậy chúng ta mau đi thôi.\""
+    },
+    {
+      "para_id": "c0229p0005",
+      "index": 5,
+      "raw_zh": "眾人紛紛附和。",
+      "translated_vi": "Mọi người nhao nhao phụ họa."
+    },
+    {
+      "para_id": "c0229p0006",
+      "index": 6,
+      "raw_zh": "雲千峰卻沒急，站在那已經損壞的不能更壞的熱氣球旁，用手敲擊著承載筐的邊緣。",
+      "translated_vi": "Vân Thiên Phong lại không hề vội vã, hắn đứng bên cạnh chiếc khinh khí cầu đã rách nát đến mức không thể hỏng hơn, đưa tay gõ nhẹ vào mép giỏ treo."
+    },
+    {
+      "para_id": "c0229p0007",
+      "index": 7,
+      "raw_zh": "“鐺鐺鐺，鐺鐺鐺”",
+      "translated_vi": "\"Keng keng keng, keng keng keng...\""
+    },
+    {
+      "para_id": "c0229p0008",
+      "index": 8,
+      "raw_zh": "所有人都不知道他在想什麽，或者說是準備做什麽。",
+      "translated_vi": "Không một ai biết trong đầu hắn đang toan tính điều gì, hay chuẩn bị làm cái gì tiếp theo."
+    },
+    {
+      "para_id": "c0229p0009",
+      "index": 9,
+      "raw_zh": "就在他們詫異的當口，雲千峰手一頓，停止了敲擊，轉身看著四個人道：",
+      "translated_vi": "Ngay lúc bọn họ còn đang ngơ ngác kinh ngạc, tay Vân Thiên Phong chợt khựng lại, ngừng gõ rồi xoay người nhìn bốn người kia, trầm giọng nói:"
+    },
+    {
+      "para_id": "c0229p0010",
+      "index": 10,
+      "raw_zh": "“傑裡周，以太陽的方向為十二點鍾方向，你朝著十點鍾方向前走三千步，然後仔細觀察四周，如果沒有什麽情況，就順著腳印走回來。”",
+      "translated_vi": "\"Jerry Chu, lấy hướng mặt trời làm mười hai giờ, cậu đi về hướng mười giờ ba ngàn bước, sau đó quan sát kỹ bốn phía. Nếu không có tình huống gì bất thường thì cứ lần theo dấu chân quay về.\""
+    },
+    {
+      "para_id": "c0229p0011",
+      "index": 11,
+      "raw_zh": "“蘇菲鍾，你沿著八點鍾方向前行，也是走三千步，沒有發現也是盡快返回。”",
+      "translated_vi": "\"Sophie Chung, cô đi men theo hướng tám giờ, cũng đi ba ngàn bước, không phát hiện được gì cũng phải nhanh chóng quay lại.\""
+    },
+    {
+      "para_id": "c0229p0012",
+      "index": 12,
+      "raw_zh": "“荷茜許，你沿著六點鍾方向，也是三千步。”",
+      "translated_vi": "\"Hosea Hứa, anh đi theo hướng sáu giờ, cũng ba ngàn bước.\""
+    },
+    {
+      "para_id": "c0229p0013",
+      "index": 13,
+      "raw_zh": "“琳達，你沿著四點鍾方向前行三千步，要求同上。”",
+      "translated_vi": "\"Linda, cô đi về hướng bốn giờ ba ngàn bước, yêu cầu cũng như trên.\""
+    },
+    {
+      "para_id": "c0229p0014",
+      "index": 14,
+      "raw_zh": "“我走兩點鍾方向，大家馬上出發，快去快回。”",
+      "translated_vi": "\"Tôi đi hướng hai giờ. Mọi người lập tức xuất phát, đi nhanh về nhanh.\""
+    },
+    {
+      "para_id": "c0229p0015",
+      "index": 15,
+      "raw_zh": "雲千峰沒時間具體解釋原因，下達了命令後，當先朝著兩點鍾方向快步而去。",
+      "translated_vi": "Vân Thiên Phong không có thời gian giải thích cặn kẽ nguyên do, vừa dứt lời hiệu lệnh liền sải bước dẫn đầu tiến thẳng về hướng hai giờ."
+    },
+    {
+      "para_id": "c0229p0016",
+      "index": 16,
+      "raw_zh": "其他人不明所以，但他們完全沒有在南極生存的能力，只能放棄自己的思考，跟從雲千峰的思路行動。",
+      "translated_vi": "Những người khác dù chẳng hiểu đầu đuôi ra sao, nhưng bọn họ hoàn toàn không có khả năng sinh tồn giữa miền băng giá Nam Cực, đành phải dẹp bỏ suy nghĩ riêng mà tuyệt đối tuân theo kế hoạch của Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0229p0017",
+      "index": 17,
+      "raw_zh": "這是他們唯一的選擇，最起碼在到達迪蒙迪維爾站之前。",
+      "translated_vi": "Đây là sự lựa chọn duy nhất của bọn họ, ít nhất là trước khi đặt chân tới trạm Dumont d'Urville."
+    },
+    {
+      "para_id": "c0229p0018",
+      "index": 18,
+      "raw_zh": "哪怕他們在內心裡咒罵雲千峰是在浪費時間，但卻不敢提出任何異議。",
+      "translated_vi": "Cho dù trong thâm tâm có thầm rủa xả Vân Thiên Phong đang lãng phí thời gian quý báu, bọn họ cũng không một ai dám hé răng phản đối."
+    },
+    {
+      "para_id": "c0229p0019",
+      "index": 19,
+      "raw_zh": "太陽只剩下梭子大小掛在天邊，極夜即將來臨，可能是明天，也可能是下一個小時，沒有人知道。",
+      "translated_vi": "Vầng thái dương chỉ còn lại một vệt mỏng như con thoi vắt vẻo nơi chân trời, vùng cực đêm sắp sửa bao trùm, có thể là ngày mai, cũng có thể là ngay trong giờ tới, chẳng một ai hay biết."
+    },
+    {
+      "para_id": "c0229p0020",
+      "index": 20,
+      "raw_zh": "他們只是知道，再不找到迪蒙迪維爾站，他們的末日就來了。",
+      "translated_vi": "Bọn họ chỉ biết rõ một điều: nếu còn không tìm ra trạm Dumont d'Urville, ngày tàn của họ sẽ lập tức giáng xuống."
+    },
+    {
+      "para_id": "c0229p0021",
+      "index": 21,
+      "raw_zh": "厚雪難行，三千步沒那麽好走。",
+      "translated_vi": "Tuyết dày ngập lối, ba ngàn bước nào có dễ đi."
+    },
+    {
+      "para_id": "c0229p0022",
+      "index": 22,
+      "raw_zh": "將近一個小時以後，幾個人才陸續回到熱氣球的位置。",
+      "translated_vi": "Gần một tiếng đồng hồ sau, mấy người mới lục tục quay trở lại vị trí chiếc khinh khí cầu."
+    },
+    {
+      "para_id": "c0229p0023",
+      "index": 23,
+      "raw_zh": "琳達第二個回來，一看到雲千峰就主動報告：",
+      "translated_vi": "Linda là người thứ hai trở về, vừa nhìn thấy Vân Thiên Phong liền chủ động cất tiếng báo cáo:"
+    },
+    {
+      "para_id": "c0229p0024",
+      "index": 24,
+      "raw_zh": "“雪，全是雪，其他什麽都沒有。”",
+      "translated_vi": "\"Tuyết, toàn là tuyết trắng xóa, ngoài ra chẳng có gì cả.\""
+    },
+    {
+      "para_id": "c0229p0025",
+      "index": 25,
+      "raw_zh": "雲千峰點了點頭，沒說什麽。",
+      "translated_vi": "Vân Thiên Phong chỉ khẽ gật đầu, không nói gì thêm."
+    },
+    {
+      "para_id": "c0229p0026",
+      "index": 26,
+      "raw_zh": "很快，傑裡周走了回來，他體重輕，腳不小，反倒是比別人走的輕松。",
+      "translated_vi": "Rất nhanh sau đó, Jerry Chu cũng bước về, thể trọng cậu ta nhẹ, bàn chân lại không nhỏ, ngược lại đi đứng trên nền tuyết còn nhẹ nhõm hơn những người khác."
+    },
+    {
+      "para_id": "c0229p0027",
+      "index": 27,
+      "raw_zh": "“哥，啥也沒有啊，你讓我們找什麽啊？”",
+      "translated_vi": "\"Anh, chẳng có gì hết cả, anh rốt cuộc muốn bọn em tìm thứ gì thế?\""
+    },
+    {
+      "para_id": "c0229p0028",
+      "index": 28,
+      "raw_zh": "雲千峰笑道：",
+      "translated_vi": "Vân Thiên Phong mỉm cười:"
+    },
+    {
+      "para_id": "c0229p0029",
+      "index": 29,
+      "raw_zh": "“一會就知道了，別急。”",
+      "translated_vi": "\"Lát nữa sẽ biết, đừng sốt ruột.\""
+    },
+    {
+      "para_id": "c0229p0030",
+      "index": 30,
+      "raw_zh": "十幾分鍾後，一隻耳荷茜許也走了回來，也不知是害怕還是怎麽著，哭唧唧回來的。",
+      "translated_vi": "Hơn mười phút sau, \"gã một tai\" Hosea Hứa cũng lếch thếch quay về, chẳng biết do quá kinh hãi hay sao mà bộ dạng thút tha thút thít như sắp khóc."
+    },
+    {
+      "para_id": "c0229p0031",
+      "index": 31,
+      "raw_zh": "“一路上除了雪就是雪，那風聲嚇人，太嚇人了，我又得烤褲子了。”",
+      "translated_vi": "\"Dọc đường ngoài tuyết ra chỉ có tuyết, tiếng gió gào rợn cả người, quá sức dọa người... Tôi, tôi lại phải hong khô quần rồi.\""
+    },
+    {
+      "para_id": "c0229p0032",
+      "index": 32,
+      "raw_zh": "怪不得哭了。",
+      "translated_vi": "Thảo nào mà khóc mếu."
+    },
+    {
+      "para_id": "c0229p0033",
+      "index": 33,
+      "raw_zh": "雲千峰沒言語，就站在原處跳腳取暖，等待著。",
+      "translated_vi": "Vân Thiên Phong không đáp lời, chỉ đứng yên tại chỗ giậm chân sưởi ấm, trầm mặc chờ đợi."
+    },
+    {
+      "para_id": "c0229p0034",
+      "index": 34,
+      "raw_zh": "把身邊三個人急得直轉圈。",
+      "translated_vi": "Thái độ đó khiến ba người bên cạnh sốt ruột đến mức xoay vòng vòng như chong chóng."
+    },
+    {
+      "para_id": "c0229p0035",
+      "index": 35,
+      "raw_zh": "“這個蘇菲，怎麽還不回來？”",
+      "translated_vi": "\"Cô nàng Sophie này, sao giờ còn chưa thấy về?\""
+    },
+    {
+      "para_id": "c0229p0036",
+      "index": 36,
+      "raw_zh": "“是不是迷路了？”",
+      "translated_vi": "\"Hay là bị lạc đường rồi?\""
+    },
+    {
+      "para_id": "c0229p0037",
+      "index": 37,
+      "raw_zh": "“八成是凍死了。”",
+      "translated_vi": "\"Tám phần là chết cóng rồi.\""
+    },
+    {
+      "para_id": "c0229p0038",
+      "index": 38,
+      "raw_zh": "“不會迷路啊，咱們的腳印都在。”",
+      "translated_vi": "\"Lạc đường sao được chứ, dấu chân của chúng ta vẫn còn rành rành trên tuyết kia mà.\""
+    },
+    {
+      "para_id": "c0229p0039",
+      "index": 39,
+      "raw_zh": "又是幾分鍾後，雲千峰展顏一笑，開心道：",
+      "translated_vi": "Lại thêm vài phút trôi qua, khóe môi Vân Thiên Phong chợt nở một nụ cười rạng rỡ, vui vẻ cất lời:"
+    },
+    {
+      "para_id": "c0229p0040",
+      "index": 40,
+      "raw_zh": "“跟我走。”",
+      "translated_vi": "\"Đi theo tôi.\""
+    },
+    {
+      "para_id": "c0229p0041",
+      "index": 41,
+      "raw_zh": "幾個人急忙跟上去。",
+      "translated_vi": "Mấy người vội vàng bám gót theo sau."
+    },
+    {
+      "para_id": "c0229p0042",
+      "index": 42,
+      "raw_zh": "荷茜許忙道：",
+      "translated_vi": "Hosea Hứa cuống quýt lên tiếng:"
+    },
+    {
+      "para_id": "c0229p0043",
+      "index": 43,
+      "raw_zh": "“我們還要浪費時間去找蘇菲嗎？太陽就剩下一線了啊！咱們抓緊找迪蒙迪維爾站吧。”",
+      "translated_vi": "\"Chúng ta còn phải phí thời gian đi tìm Sophie sao? Mặt trời chỉ còn lại đúng một đường tơ mỏng thôi đấy! Mau mau tranh thủ đi tìm trạm Dumont d'Urville đi chứ!\""
+    },
+    {
+      "para_id": "c0229p0044",
+      "index": 44,
+      "raw_zh": "傑裡周也是這個意思。",
+      "translated_vi": "Jerry Chu cũng mang ý nghĩ y hệt."
+    },
+    {
+      "para_id": "c0229p0045",
+      "index": 45,
+      "raw_zh": "就連琳達都覺得去找蘇菲的決議是不理智的。",
+      "translated_vi": "Ngay cả Linda cũng cảm thấy quyết định đi tìm Sophie lúc này là hoàn toàn thiếu lý trí."
+    },
+    {
+      "para_id": "c0229p0046",
+      "index": 46,
+      "raw_zh": "“雲，你不是說，這是文明不達之地嗎？應該遵循生存的叢林法則！那我們為了蘇菲，搭上所有人值得嗎？”",
+      "translated_vi": "\"Vân, chẳng phải anh từng bảo nơi này là vùng đất văn minh chưa với tới sao? Đáng lẽ phải tuân theo quy luật rừng rú để sinh tồn chứ! Chúng ta vì một mình Sophie mà đánh cược mạng sống của tất cả mọi người, liệu có đáng không?\""
+    },
+    {
+      "para_id": "c0229p0047",
+      "index": 47,
+      "raw_zh": "雲千峰笑道：",
+      "translated_vi": "Vân Thiên Phong cười đáp:"
+    },
+    {
+      "para_id": "c0229p0048",
+      "index": 48,
+      "raw_zh": "“我就是帶你們去迪蒙迪維爾站啊！”",
+      "translated_vi": "\"Tôi chính là đang dẫn các người tới trạm Dumont d'Urville đây!\""
+    },
+    {
+      "para_id": "c0229p0049",
+      "index": 49,
+      "raw_zh": "說著話，他腳步沒停，毫不遲疑的踩著蘇菲鍾的腳印向八點鍾方向而去。",
+      "translated_vi": "Vừa dứt câu, bước chân hắn không hề ngưng trệ, dứt khoát giẫm lên từng dấu chân của Sophie Chung mà sải bước thẳng về hướng tám giờ."
+    },
+    {
+      "para_id": "c0229p0050",
+      "index": 50,
+      "raw_zh": "琳達的好奇心永遠是最重的，她小跑著追上去，急問道：",
+      "translated_vi": "Tính hiếu kỳ của Linda trước nay luôn mạnh mẽ nhất, cô chạy bước nhỏ đuổi theo sau, sốt sắng gặng hỏi:"
+    },
+    {
+      "para_id": "c0229p0051",
+      "index": 51,
+      "raw_zh": "“迪蒙迪維爾站在這個方向？”",
+      "translated_vi": "\"Trạm Dumont d'Urville nằm ở hướng này thật ư?\""
+    },
+    {
+      "para_id": "c0229p0052",
+      "index": 52,
+      "raw_zh": "雲千峰點頭，道：",
+      "translated_vi": "Vân Thiên Phong gật đầu, giải thích:"
+    },
+    {
+      "para_id": "c0229p0053",
+      "index": 53,
+      "raw_zh": "“對，兩點一線是準確的，但我們的腿有偏差，不過偏差距離不會很大。那個熱氣球無論是誰弄到這裡，都能證明一件事，那就是熱氣球的位置，距離某個南極站絕不會很遠，而這裡最近的就是迪蒙迪維爾站。”",
+      "translated_vi": "\"Đúng vậy, hai điểm tạo thành một đường thẳng là chuẩn xác tuyệt đối, nhưng bước chân con người luôn có độ lệch, có điều khoảng cách sai số sẽ không quá lớn. Chiếc khinh khí cầu kia bất kể là do ai đưa tới đây, đều chứng minh được một điều: vị trí của khinh khí cầu tuyệt đối không thể quá xa một trạm nghiên cứu Nam Cực nào đó, mà nơi gần đây nhất chính là trạm Dumont d'Urville.\""
+    },
+    {
+      "para_id": "c0229p0054",
+      "index": 54,
+      "raw_zh": "琳達“哦”了一聲，恍然大悟，道：",
+      "translated_vi": "Linda \"ồ\" lên một tiếng, bừng tỉnh hiểu ra, nói:"
+    },
+    {
+      "para_id": "c0229p0055",
+      "index": 55,
+      "raw_zh": "“所以你用樹葉脈絡的路線覆蓋這一片區域，就是為了找到迪蒙迪維爾站，可是蘇菲.”",
+      "translated_vi": "\"Cho nên anh dùng lộ trình men theo đường gân lá để bao phủ khu vực này, chính là vì muốn tìm trạm Dumont d'Urville, nhưng còn Sophie...\""
+    },
+    {
+      "para_id": "c0229p0056",
+      "index": 56,
+      "raw_zh": "說到這，琳達沒有繼續說下去。",
+      "translated_vi": "Nói tới đây, Linda không tiếp tục nói nữa."
+    },
+    {
+      "para_id": "c0229p0057",
+      "index": 57,
+      "raw_zh": "人性這種東西，談不得，尤其是和別人談論第三者的人性。",
+      "translated_vi": "Bản tính con người là thứ không thể đem ra đàm tiếu, nhất là lại đi bàn luận về nhân tính của một kẻ thứ ba trước mặt người khác."
+    },
+    {
+      "para_id": "c0229p0058",
+      "index": 58,
+      "raw_zh": "兩千步不到，蘇菲的腳印開始拐彎，朝著六點鍾方向偏移了一點角度。",
+      "translated_vi": "Chưa đầy hai ngàn bước, dấu chân của Sophie bắt đầu đổi hướng, hơi chếch một góc về phía sáu giờ."
+    },
+    {
+      "para_id": "c0229p0059",
+      "index": 59,
+      "raw_zh": "而在那個方向的不遠處，迷茫的白色籠罩之下，是一片建築。",
+      "translated_vi": "Mà ở cách hướng đó không xa, ẩn hiện dưới làn sương trắng mịt mùng bao phủ, sừng sững một cụm công trình kiến trúc."
+    },
+    {
+      "para_id": "c0229p0060",
+      "index": 60,
+      "raw_zh": "所有人發出了歡呼的吼叫。",
+      "translated_vi": "Tất cả mọi người đồng loạt cất tiếng reo hò cuồng nhiệt."
+    },
+    {
+      "para_id": "c0229p0061",
+      "index": 61,
+      "raw_zh": "他們得救了，在這生命的禁區內，靠著一雙腳走出了活路。",
+      "translated_vi": "Họ được cứu rồi, ngay tại chốn cấm khu của sự sống này, chỉ dựa vào đôi bàn chân mà bước ra một con đường sống."
+    },
+    {
+      "para_id": "c0229p0062",
+      "index": 62,
+      "raw_zh": "歡喜與驕傲，同時並生在他們心中。",
+      "translated_vi": "Niềm hân hoan cùng nỗi tự hào đồng thời dâng trào trong lòng họ."
+    },
+    {
+      "para_id": "c0229p0063",
+      "index": 63,
+      "raw_zh": "這件事，夠他們吹牛一輩子了。",
+      "translated_vi": "Chuyện này đủ để họ có thể khoác lác suốt cả cuộc đời."
+    },
+    {
+      "para_id": "c0229p0064",
+      "index": 64,
+      "raw_zh": "剛才還走得無精打采的三人，現在撒歡往前跑，活力無限。",
+      "translated_vi": "Ba người vừa rồi còn lê bước ủ rũ rã rời, giờ đây đã tung tăng chạy vụt về phía trước, tràn trề sinh lực."
+    },
+    {
+      "para_id": "c0229p0065",
+      "index": 65,
+      "raw_zh": "倒是雲千峰慢悠悠的跟在後面，不緊不慢，並沒有如何驚喜，似乎理當如此一般。",
+      "translated_vi": "Riêng Vân Thiên Phong vẫn thong thả theo sau, không nhanh không chậm, cũng chẳng hề lộ vẻ mừng rỡ kinh ngạc, tựa hồ như mọi sự vốn dĩ đương nhiên phải là như vậy."
+    },
+    {
+      "para_id": "c0229p0066",
+      "index": 66,
+      "raw_zh": "迪蒙迪維爾站內很安靜。",
+      "translated_vi": "Bên trong trạm Dumont d'Urville vô cùng tĩnh mịch."
+    },
+    {
+      "para_id": "c0229p0067",
+      "index": 67,
+      "raw_zh": "沒有機鳴沒有犬吠，但其中一個高架離地三尺的建築房頂上冒著煙霧，證明裡面有人。",
+      "translated_vi": "Không tiếng máy móc gầm rú, không tiếng chó sủa, duy chỉ có trên nóc một tòa nhà sàn cách mặt đất ba thước bốc lên làn khói mờ ảo, chứng tỏ bên trong có người."
+    },
+    {
+      "para_id": "c0229p0068",
+      "index": 68,
+      "raw_zh": "在這裡，都是靠著燃油發電取暖，所以會有那樣區別於草木的煙氣。",
+      "translated_vi": "Ở nơi này, sinh hoạt đều trông cậy vào dầu đốt để phát điện sưởi ấm, nên mới tỏa ra thứ khói nồng khác hẳn khói củi cỏ thông thường."
+    },
+    {
+      "para_id": "c0229p0069",
+      "index": 69,
+      "raw_zh": "幾個人也不敲門，不請自入。",
+      "translated_vi": "Mấy người cũng chẳng buồn gõ cửa, cứ thế bước thẳng vào trong."
+    },
+    {
+      "para_id": "c0229p0070",
+      "index": 70,
+      "raw_zh": "魚貫而入的幾個人一走進門，赫然發現蘇菲鍾就坐在不大的房間內喝著熱氣騰騰的咖啡，在她身前的桌旁，還坐著兩個人，金發碧眼，三十來歲的年輕男人。",
+      "translated_vi": "Mấy người nối đuôi nhau bước qua cửa, bỗng sững sờ nhận ra Sophie Chung đang ngồi trong gian phòng không mấy rộng rãi nhâm nhi tách cà phê bốc khói nghi ngút, bên cạnh bàn trước mặt cô ta còn có hai người đàn ông trạc ngoài ba mươi, tóc vàng mắt biếc."
+    },
+    {
+      "para_id": "c0229p0071",
+      "index": 71,
+      "raw_zh": "荷茜一見蘇菲坐在這裡，哪裡還不明白發生了什麽，當下發火道：",
+      "translated_vi": "Hà Tây vừa thấy Sophie ngồi đây, sao còn không hiểu chuyện gì đã xảy ra, lập tức nổi trận lôi đình:"
+    },
+    {
+      "para_id": "c0229p0072",
+      "index": 72,
+      "raw_zh": "“鍾舒慧，你還是人嗎？找到了南極站竟然不回去告訴我們？自私自利！”",
+      "translated_vi": "\"Chung Thư Tuệ, cô còn là người không hả? Tìm thấy trạm Nam Cực mà lại không quay về báo cho chúng tôi? Đồ ích kỷ vụ lợi!\""
+    },
+    {
+      "para_id": "c0229p0073",
+      "index": 73,
+      "raw_zh": "荷茜許一生氣，母語上身，直接喊了蘇菲鍾的華夏名字。",
+      "translated_vi": "Cơn giận bốc lên ngùn ngụt khiến Hà Tây Hứa buột miệng dùng tiếng mẹ đẻ, gọi thẳng tên tiếng Hoa của Sophie Chung."
+    },
+    {
+      "para_id": "c0229p0074",
+      "index": 74,
+      "raw_zh": "蘇菲鍾也不客氣，梗著脖子叫道：",
+      "translated_vi": "Sophie Chung cũng chẳng chịu lép vế, nghển cổ gắt lên:"
+    },
+    {
+      "para_id": "c0229p0075",
+      "index": 75,
+      "raw_zh": "“許可欣，你不自私，你不自利？當自己是什麽好東西？外面那麽冷，我暖和一下去找你們不行？我叫兩個帥哥哥去尋找你們不行？”",
+      "translated_vi": "\"Hứa Khả Hân, cô không ích kỷ, cô không vụ lợi chắc? Tự coi mình là thứ tốt đẹp gì chứ? Bên ngoài lạnh như thế, tôi sưởi ấm người một chút rồi đi tìm các người không được à? Tôi nhờ hai anh chàng đẹp trai này đi tìm các người không được chắc?\""
+    },
+    {
+      "para_id": "c0229p0076",
+      "index": 76,
+      "raw_zh": "都是年輕人，琳達眼裡也不揉沙子的，看著那兩個金發碧眼的工作人員，問道：",
+      "translated_vi": "Đều là người trẻ tuổi, Linda cũng không phải hạng ngậm bồ hòn làm ngọt, nhìn sang hai nhân viên công tác tóc vàng mắt biếc kia, cất tiếng hỏi:"
+    },
+    {
+      "para_id": "c0229p0077",
+      "index": 77,
+      "raw_zh": "“你們好，我們的同伴有說我們在外面等待她嗎？”",
+      "translated_vi": "\"Xin chào hai anh, bạn đồng hành của chúng tôi có nói rằng chúng tôi đang ở bên ngoài chờ cô ấy không?\""
+    },
+    {
+      "para_id": "c0229p0078",
+      "index": 78,
+      "raw_zh": "蘇菲鍾沒等那兩個工作人員說話，看著琳達道：",
+      "translated_vi": "Sophie Chung không đợi hai nhân viên kia lên tiếng, lập tức quay sang trừng mắt nhìn Linda:"
+    },
+    {
+      "para_id": "c0229p0079",
+      "index": 79,
+      "raw_zh": "“琳達你什麽意思？我可是把你當朋友的，我不是沒說，我是還沒來得及說，正準備說你們就來了。”",
+      "translated_vi": "\"Linda, cô có ý gì đấy? Tôi vốn xem cô là bạn bè, không phải tôi không nói, mà là chưa kịp nói thôi, đang định nói thì các người đã tới rồi.\""
+    },
+    {
+      "para_id": "c0229p0080",
+      "index": 80,
+      "raw_zh": "雲千峰看了蘇菲鍾一眼，暗暗搖了搖頭，沒想到可把蘇菲鍾招惹到了，當下對著兩個工作人員叫道：",
+      "translated_vi": "Vân Thiên Phong liếc nhìn Sophie Chung một cái, âm thầm lắc đầu, chẳng ngờ cái lắc đầu ấy lại chọc trúng tổ kiến lửa, cô ta lập tức quay sang chỉ trỏ với hai nhân viên kia:"
+    },
+    {
+      "para_id": "c0229p0081",
+      "index": 81,
+      "raw_zh": "“那個隻拿男人，他是個變態，他逼著我們在他面前脫衣服，你們快把他抓起來。”",
+      "translated_vi": "\"Tên đàn ông Chi Na kia, hắn là một tên biến thái, hắn từng ép chúng tôi cởi quần áo trước mặt hắn, các anh mau bắt hắn lại đi!\""
+    },
+    {
+      "para_id": "c0229p0082",
+      "index": 82,
+      "raw_zh": "那兩個工作人員看向雲千峰，笑得溫和，道：",
+      "translated_vi": "Hai nhân viên công tác nọ nhìn về phía Vân Thiên Phong, mỉm cười nhã nhặn, nói:"
+    },
+    {
+      "para_id": "c0229p0083",
+      "index": 83,
+      "raw_zh": "“你們的朋友似乎情緒不太正常，或許是缺氧了，亦或是受了什麽刺激。”",
+      "translated_vi": "\"Bạn của các vị dường như tâm trạng không được ổn định, có lẽ là do thiếu dưỡng khí, hoặc giả đã chịu phải kích thích gì đó.\""
+    },
+    {
+      "para_id": "c0229p0084",
+      "index": 84,
+      "raw_zh": "看起來，絲毫沒理會蘇菲鍾的話。",
+      "translated_vi": "Dáng vẻ ấy cho thấy họ hoàn toàn chẳng thèm bận tâm tới lời Sophie Chung nói."
+    },
+    {
+      "para_id": "c0229p0085",
+      "index": 85,
+      "raw_zh": "而蘇菲鍾被那金發碧眼的話噎得一聲不吭，一臉尷尬。",
+      "translated_vi": "Mà Sophie Chung bị câu nói của gã tóc vàng mắt biếc làm cho nghẹn họng không thốt nên lời, vẻ mặt ngượng ngùng vô cùng khó coi."
+    },
+    {
+      "para_id": "c0229p0086",
+      "index": 86,
+      "raw_zh": "這次她沒有咆哮，似乎她沒學會怎麽和金發碧眼吵架。",
+      "translated_vi": "Lần này cô ta không còn gào thét nữa, tựa hồ như cô ta vẫn chưa học được cách cãi cọ với người tóc vàng mắt biếc."
+    },
+    {
+      "para_id": "c0229p0087",
+      "index": 87,
+      "raw_zh": "雲千峰也對那名南極站的工作人員回以微笑。",
+      "translated_vi": "Vân Thiên Phong cũng mỉm cười đáp lễ với viên nhân viên trạm Nam Cực nọ."
+    },
+    {
+      "para_id": "c0229p0088",
+      "index": 88,
+      "raw_zh": "只是他的心裡也沒有笑，因為他在這兩個金發碧眼的男人眼中讀到了一種叫做“熟悉”的光，敏感如雲千峰，一下就感覺到了這種異樣。",
+      "translated_vi": "Chỉ có điều trong lòng hắn lại không cười nổi, bởi vì hắn đọc được từ trong mắt hai người đàn ông tóc vàng mắt biếc này một tia sáng mang tên \"quen thuộc\", một kẻ nhạy cảm như Vân Thiên Phong lập tức nhận ra ngay nét dị thường này."
+    },
+    {
+      "para_id": "c0229p0089",
+      "index": 89,
+      "raw_zh": "“他們絕對認識我！甚至對我非常熟悉，但是裝作不認識我！”",
+      "translated_vi": "\"Bọn họ tuyệt đối nhận ra mình! Thậm chí còn cực kỳ quen thuộc với mình, nhưng lại vờ như không hề quen biết!\""
+    },
+    {
+      "para_id": "c0229p0090",
+      "index": 90,
+      "raw_zh": "恰好此刻琳達向兩個人詢問：",
+      "translated_vi": "Đúng lúc này, Linda lên tiếng hỏi hai người bọn họ:"
+    },
+    {
+      "para_id": "c0229p0091",
+      "index": 91,
+      "raw_zh": "“你們好，弗朗克博士在哪兒？他是我爸爸的好朋友，是弗朗克站長同意我們來這裡進行高能粒子研究的。”",
+      "translated_vi": "\"Xin chào hai anh, tiến sĩ Franck ở đâu? Ông ấy là bạn thân của cha tôi, chính trạm trưởng Franck đã đồng ý cho chúng tôi tới đây tiến hành nghiên cứu hạt năng lượng cao.\""
+    },
+    {
+      "para_id": "c0229p0092",
+      "index": 92,
+      "raw_zh": "其中一個工作人員忙道：",
+      "translated_vi": "Một nhân viên trong số đó vội đáp:"
+    },
+    {
+      "para_id": "c0229p0093",
+      "index": 93,
+      "raw_zh": "“哦，是這樣的，不遠處的上空出現了一個灰色的漩渦，弗朗克先生帶著其他人去哪裡觀察研究，應該還要很久才回來，你們先吃點東西，休息一下。”",
+      "translated_vi": "\"Ồ, là thế này, trên bầu trời cách đây không xa vừa xuất hiện một vòng xoáy màu xám tro, ngài Franck đã dẫn những người khác tới đó quan sát nghiên cứu, hẳn là còn rất lâu nữa mới quay về, các vị hãy ăn chút gì lót dạ rồi nghỉ ngơi trước đã.\""
+    },
+    {
+      "para_id": "c0229p0094",
+      "index": 94,
+      "raw_zh": "荷茜許則急著問道：",
+      "translated_vi": "Hà Tây Hứa thì sốt ruột hỏi:"
+    },
+    {
+      "para_id": "c0229p0095",
+      "index": 95,
+      "raw_zh": "“有止痛藥和消炎藥嗎？還有，誰能幫我做一個手術.”",
+      "translated_vi": "\"Có thuốc giảm đau cùng thuốc chống viêm không? Ngoài ra, ai có thể giúp tôi làm một ca phẫu thuật...\""
+    },
+    {
+      "para_id": "c0229p0096",
+      "index": 96,
+      "raw_zh": "他們說話的時候，雲千峰臉上不動聲色，走到旁邊去給自己倒熱水，借著旁邊的鏡子，觀察那兩個人。",
+      "translated_vi": "Trong lúc bọn họ nói chuyện, Vân Thiên Phong sắc mặt không hề biến đổi, thong thả bước sang bên cạnh tự rót cho mình ly nước nóng, mượn tấm gương gần đó để bí mật quan sát hai người kia."
+    },
+    {
+      "para_id": "c0229p0097",
+      "index": 97,
+      "raw_zh": "“他們兩個很強壯。”",
+      "translated_vi": "\"Hai người bọn họ rất cường tráng.\""
+    },
+    {
+      "para_id": "c0229p0098",
+      "index": 98,
+      "raw_zh": "“站如松，坐如鍾，很像是訓練有素的軍人。”",
+      "translated_vi": "\"Đứng thẳng như tùng, ngồi vững như chuông, rất giống quân nhân được huấn luyện bài bản.\""
+    },
+    {
+      "para_id": "c0229p0099",
+      "index": 99,
+      "raw_zh": "而當他看到那倆人手腕上的手表後，眼睛情不自禁的眯了一下。",
+      "translated_vi": "Mà khi ánh mắt hắn lướt qua chiếc đồng hồ trên cổ tay hai người kia, đôi đồng tử không kìm được khẽ co rút lại."
+    },
+    {
+      "para_id": "c0229p0100",
+      "index": 100,
+      "raw_zh": "一個戴左手，表盤在脈搏處，一個右手戴手表，表盤在手背。",
+      "translated_vi": "Một người đeo tay trái, mặt đồng hồ xoay vào vị trí mạch đập; một người đeo tay phải, mặt đồng hồ lại nằm ở mu bàn tay."
+    },
+    {
+      "para_id": "c0229p0101",
+      "index": 101,
+      "raw_zh": "“瑪德，出事了！”",
+      "translated_vi": "\"Mẹ kiếp, có biến rồi!\""
+    },
+    {
+      "para_id": "c0229p0102",
+      "index": 102,
+      "raw_zh": "感謝八方翰墨丶的打賞，謝謝你的支持！！！",
+      "translated_vi": "Cảm tạ phần thưởng của Bát Phương Hàn Mặc, cảm ơn sự ủng hộ của bạn!!!"
+    },
+    {
+      "para_id": "c0229p0103",
+      "index": 103,
+      "raw_zh": "感謝藍是黑、東都古月、龍青蓮、YC525、尾數80096、尾數14351、韓夢寒夢非攻、君子夢羅刹道、尾數30620、尾數70274、3D胸神、喜馬拉雅-萊得、迷戀刹那芳華、丶陌愛、尾數26591、各有各的獨孤九劍、我的劫難Ψ、劃槳的水、尾數49420、蟲兒飄、米奇妙妙妙脆角、尾數29091、廟裡供著神、尾數10809、尾數06248、尾數42228、雜家不是咱家、不聽王八念經、星雲星宇、流衍大帝、尾數55209的月票獎勵！！！",
+      "translated_vi": "Cảm tạ phần thưởng phiếu tháng của Lam Thị Hắc, Đông Đô Cổ Nguyệt, Long Thanh Liên, YC525, số đuôi 80096, số đuôi 14351, Hàn Mộng Hàn Mộng Phi Công, Quân Tử Mộng La Sát Đạo, số đuôi 30620, số đuôi 70274, 3D Hung Thần, Hỉ Mã Lạp Nhã-Lai Đắc, Mê Luyến Sát Na Phương Hoa, Mạch Ái, số đuôi 26591, Các Hữu Các Đích Độc Cô Cửu Kiếm, Ngã Đích Kiếp Nạn Ψ, Hoạch Tưởng Đích Thủy, số đuôi 49420, Trùng Nhi Phiêu, Mễ Kỳ Diệu Diệu Diệu Thúy Giác, số đuôi 29091, Miếu Lý Cúng Trước Thần, số đuôi 10809, số đuôi 06248, số đuôi 42228, Tạp Gia Bất Thị Tảm Gia, Bất Thính Vương Bát Niệm Kinh, Tinh Vân Tinh Vũ, Lưu Diễn Đại Đế, số đuôi 55209!!!"
+    },
+    {
+      "para_id": "c0229p0104",
+      "index": 104,
+      "raw_zh": "好多這本書熟悉的名字，看到你們都在這，我這因暑熱煩躁的心一下就安定了！！！",
+      "translated_vi": "Rất nhiều cái tên thân thuộc với cuốn sách này, nhìn thấy mọi người đều ở đây, cõi lòng đang bực bội vì oi bức mùa hè của tôi bỗng chốc lắng dịu hẳn lại!!!"
+    },
+    {
+      "para_id": "c0229p0105",
+      "index": 105,
+      "raw_zh": "謝謝你們在這，謝謝你們，感激！！！",
+      "translated_vi": "Cảm ơn các bạn đã luôn ở đây, cảm ơn mọi người, vô cùng cảm kích!!!"
+    },
+    {
+      "para_id": "c0229p0106",
+      "index": 106,
+      "raw_zh": "祝大家好夢，晚安！！！",
+      "translated_vi": "Chúc mọi người mộng đẹp, chúc ngủ ngon!!!"
+    }
+  ]
+}

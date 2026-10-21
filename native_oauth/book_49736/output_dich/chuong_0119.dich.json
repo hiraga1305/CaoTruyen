@@ -1,0 +1,457 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 119,
+  "title": "Chương 119: Ba lưỡi liềm chém vào chân (Đến muộn)",
+  "total_paragraphs": 74,
+  "translated_paragraphs": 74,
+  "source_hash": "9944a42570d3c21d0dc7e012d0dd6722306ea1c6993bf1d9ef9271fdff4e307a",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0119p0001",
+      "index": 1,
+      "raw_zh": "第119章 三把鐮刀砍你腿（遲到了）",
+      "translated_vi": "Chương 119: Ba lưỡi liềm chém vào chân (Đến muộn)"
+    },
+    {
+      "para_id": "c0119p0002",
+      "index": 2,
+      "raw_zh": "五A景區雲夢山，鬼谷洞前一顆大樹下。",
+      "translated_vi": "Khu danh thắng 5A Vân Mộng Sơn, dưới gốc một cây đại thụ trước Quỷ Cốc Động."
+    },
+    {
+      "para_id": "c0119p0003",
+      "index": 3,
+      "raw_zh": "這裡遊客匆匆，但大樹下對弈的兩個老人卻在這紛擾之中氣定神閑的下著圍棋，怡然自得。",
+      "translated_vi": "Khách du lịch qua lại nơi đây nườm nượp vội vã, thế nhưng hai ông lão đang ngồi đánh cờ dưới gốc đại thụ lại thản nhiên điềm tĩnh chơi cờ vây giữa chốn ồn ào huyên náo, trông vô cùng ung dung tự tại."
+    },
+    {
+      "para_id": "c0119p0004",
+      "index": 4,
+      "raw_zh": "他們分坐東西，西側老人梳著大背頭，帶著茶色的老花鏡，手裡端著保溫杯，裡面枸杞和桑葚還沒泡透，飄在熱水上面，就很像退休老幹部。",
+      "translated_vi": "Họ ngồi đối diện ở hai hướng đông tây. Ông lão phía tây chải tóc vuốt ngược ra sau, đeo kính lão màu trà, tay cầm chiếc bình giữ nhiệt bên trong có kỷ tử và dâu tằm ngâm còn chưa ngấu, nổi lềnh bềnh trên mặt nước nóng, phong thái trông rất giống một vị cán bộ hưu trí."
+    },
+    {
+      "para_id": "c0119p0005",
+      "index": 5,
+      "raw_zh": "東側老人是個遊方道士的打扮，頭髮不多，挽個發髻，用木發簪固定，身上青色道袍泛白，也不知穿了多少年。",
+      "translated_vi": "Ông lão phía đông thì ăn vận theo lối đạo sĩ du phương, tóc không còn nhiều, búi gọn thành một búi tóc cài chiếc trâm gỗ đơn sơ, trên người khoác chiếc đạo bào màu xanh lam đã bạc màu, chẳng rõ đã mặc qua bao nhiêu năm tháng."
+    },
+    {
+      "para_id": "c0119p0006",
+      "index": 6,
+      "raw_zh": "老道拿起白子，放在一處空缺上，笑道：",
+      "translated_vi": "Lão đạo sĩ nhấc một quân cờ trắng đặt vào một ô trống, cười nói:"
+    },
+    {
+      "para_id": "c0119p0007",
+      "index": 7,
+      "raw_zh": "“看我把你這條大龍吃掉。”",
+      "translated_vi": "“Xem ta bắt gọn con rồng lớn này của ông thế nào đây.”"
+    },
+    {
+      "para_id": "c0119p0008",
+      "index": 8,
+      "raw_zh": "那老幹部模樣的老人撇嘴，道：",
+      "translated_vi": "Ông lão mang dáng dấp cán bộ hưu trí bĩu môi, bảo:"
+    },
+    {
+      "para_id": "c0119p0009",
+      "index": 9,
+      "raw_zh": "“你全世界各地燒白雞糞斷龍脈，上癮了是吧？眼睛裡都是龍，我這明明是一隻鼉。”",
+      "translated_vi": "“Ông đi khắp nơi trên thế giới đốt phân gà trắng để chặt đứt long mạch, bị nghiện rồi đấy à? Trong mắt lúc nào cũng chỉ thấy rồng với phượng, đám cờ này của tôi rõ ràng là một con giải.”"
+    },
+    {
+      "para_id": "c0119p0010",
+      "index": 10,
+      "raw_zh": "那老道得意笑道：",
+      "translated_vi": "Lão đạo sĩ đắc ý cười vang:"
+    },
+    {
+      "para_id": "c0119p0011",
+      "index": 11,
+      "raw_zh": "“鼉也是龍仔兒，沾邊就得斷咯。”",
+      "translated_vi": "“Giải cũng là con của rồng, hễ dính dáng đến là phải chặt đứt hết.”"
+    },
+    {
+      "para_id": "c0119p0012",
+      "index": 12,
+      "raw_zh": "對面老頭“哼”了一聲，落下一枚黑子，道：",
+      "translated_vi": "Lão già đối diện hừ lạnh một tiếng, hạ xuống một quân cờ đen, đáp:"
+    },
+    {
+      "para_id": "c0119p0013",
+      "index": 13,
+      "raw_zh": "“有氣，你斷不了。”",
+      "translated_vi": "“Còn khí, ông không chặt đứt nổi đâu.”"
+    },
+    {
+      "para_id": "c0119p0014",
+      "index": 14,
+      "raw_zh": "老道拿著白子，看著對面的老頭，沉吟道：",
+      "translated_vi": "Lão đạo sĩ cầm quân cờ trắng trên tay, ngước mắt nhìn lão già đối diện, trầm ngâm nói:"
+    },
+    {
+      "para_id": "c0119p0015",
+      "index": 15,
+      "raw_zh": "“兩千年前伱們失敗了，兩千年後，你還想再造個秦皇？”",
+      "translated_vi": "“Hai ngàn năm trước các ông đã thất bại ê chề rồi, hai ngàn năm sau, ông vẫn muốn tạo ra thêm một Tần Thủy Hoàng nữa sao?”"
+    },
+    {
+      "para_id": "c0119p0016",
+      "index": 16,
+      "raw_zh": "對面老人也注視著老道，針鋒相對，道：",
+      "translated_vi": "Ông lão đối diện cũng nhìn thẳng vào mắt lão đạo sĩ, chọi từng tấc đất không nhượng:"
+    },
+    {
+      "para_id": "c0119p0017",
+      "index": 17,
+      "raw_zh": "“有何不可？”",
+      "translated_vi": "“Có gì mà không thể?”"
+    },
+    {
+      "para_id": "c0119p0018",
+      "index": 18,
+      "raw_zh": "老道搖頭，道：",
+      "translated_vi": "Lão đạo sĩ lắc đầu, bảo:"
+    },
+    {
+      "para_id": "c0119p0019",
+      "index": 19,
+      "raw_zh": "“逆天而行，終不可成，生命的價值就是生死，那是道，你要把人都拽下這道，就沒路可走了，世界泯了。”",
+      "translated_vi": "“Nghịch thiên mà làm, cuối cùng ắt chẳng thể thành. Giá trị của sinh mệnh chính là sinh và tử, đó mới là Đạo. Ông muốn lôi kéo cả nhân loại rời khỏi Đạo này, thì sẽ chẳng còn đường nào để đi nữa, thế giới này sẽ tiêu vong.”"
+    },
+    {
+      "para_id": "c0119p0020",
+      "index": 20,
+      "raw_zh": "老頭不以為意，冷笑道：",
+      "translated_vi": "Lão già chẳng mảy may bận tâm, cười khẩy:"
+    },
+    {
+      "para_id": "c0119p0021",
+      "index": 21,
+      "raw_zh": "“匡論宇宙，便是這銀河系便有恆星億萬，生命數不勝數，不缺我人類的命，讓它們生死去，如若這道非要我們這區區人類的生死來運行，那泯就泯了吧，心疼什麽？”",
+      "translated_vi": "“Khoan hãy bàn tới vũ trụ bao la, ngay trong dải Ngân Hà này đã có hàng ức vạn vì sao tinh tú, sinh mệnh nhiều không đếm xuể, đâu có thiếu mạng sống của giống loài nhân loại chúng ta! Cứ để mặc cho vạn vật ngoài kia luân hồi sinh tử đi. Nếu như cái Đạo ấy nhất quyết phải dựa vào sự sinh tử của loài người nhỏ bé này mới vận hành được, thì tiêu vong cứ việc tiêu vong, việc gì mà phải xót xa?”"
+    },
+    {
+      "para_id": "c0119p0022",
+      "index": 22,
+      "raw_zh": "老道深吸一口氣，沉聲問道：",
+      "translated_vi": "Lão đạo sĩ hít sâu một hơi, trầm giọng hỏi:"
+    },
+    {
+      "para_id": "c0119p0023",
+      "index": 23,
+      "raw_zh": "“你這是心意已決了？”",
+      "translated_vi": "“Ông thực sự đã quyết ý rồi sao?”"
+    },
+    {
+      "para_id": "c0119p0024",
+      "index": 24,
+      "raw_zh": "老頭喝了口枸杞水，道：",
+      "translated_vi": "Lão già nhấp một ngụm nước kỷ tử, đáp:"
+    },
+    {
+      "para_id": "c0119p0025",
+      "index": 25,
+      "raw_zh": "“決的不能再決了。”",
+      "translated_vi": "“Quyết đến mức không thể nào quyết hơn được nữa.”"
+    },
+    {
+      "para_id": "c0119p0026",
+      "index": 26,
+      "raw_zh": "老道微微頷首，歎道：",
+      "translated_vi": "Lão đạo sĩ khẽ gật đầu, thở dài:"
+    },
+    {
+      "para_id": "c0119p0027",
+      "index": 27,
+      "raw_zh": "“那不知道，咱倆下次下棋是什麽時候了，或許沒有下次了。”",
+      "translated_vi": "“Vậy thì chẳng biết lần tới hai ta ngồi lại đánh cờ sẽ là khi nào nữa, hoặc giả sẽ vĩnh viễn không còn lần sau.”"
+    },
+    {
+      "para_id": "c0119p0028",
+      "index": 28,
+      "raw_zh": "老頭吹開了杯子裡飄著的桑葚，淡淡道：",
+      "translated_vi": "Lão già thổi nhẹ lớp dâu tằm nổi trên miệng cốc, thản nhiên nói:"
+    },
+    {
+      "para_id": "c0119p0029",
+      "index": 29,
+      "raw_zh": "“肯定有，下次咱們就約在魔鬼肚子裡對弈吧。”",
+      "translated_vi": "“Chắc chắn là có. Lần tới chúng ta sẽ hẹn nhau đánh cờ trong bụng ma quỷ.”"
+    },
+    {
+      "para_id": "c0119p0030",
+      "index": 30,
+      "raw_zh": "老道眼皮一抖，手拿白子，終是沒有再說一句話，緩緩落子，也不出聲，轉身飄然離去。",
+      "translated_vi": "Mí mắt lão đạo sĩ khẽ giật một cái. Tay cầm quân cờ trắng, rốt cuộc ông không nói thêm lời nào nữa, chậm rãi hạ cờ xuống bàn rồi không một tiếng động xoay người bay bổng rời đi."
+    },
+    {
+      "para_id": "c0119p0031",
+      "index": 31,
+      "raw_zh": "老頭看著棋盤，自己的黑子已經被老道最後這一子兒殺招趕盡殺絕。",
+      "translated_vi": "Lão già nhìn bàn cờ, những quân cờ đen của mình đã bị chiêu sát thủ cuối cùng của lão đạo sĩ bức vào đường cùng, tiêu diệt sạch trơn."
+    },
+    {
+      "para_id": "c0119p0032",
+      "index": 32,
+      "raw_zh": "他不屑一笑，伸手一抬棋盤，將棋子散落一地，然後在包裡掏出一袋香蔥雞汁味乾脆面，嘎嘣嘎嘣的嚼起來，一臉享受。",
+      "translated_vi": "Lão nở một nụ cười khinh bỉ, đưa tay hất tung bàn cờ khiến quân cờ văng tung tóe khắp mặt đất, sau đó thò tay vào túi xách móc ra một gói mì tôm sống vị gà hành thơm lừng, rồm rộp nhai lấy nhai để, vẻ mặt vô cùng hưởng thụ."
+    },
+    {
+      "para_id": "c0119p0033",
+      "index": 33,
+      "raw_zh": "再高的棋手，也贏不了一開始就準備掀桌子的對手。",
+      "translated_vi": "Kỳ thủ cao tay đến mấy cũng không thể nào thắng nổi một đối thủ ngay từ đầu đã nhăm nhe lật bàn."
+    },
+    {
+      "para_id": "c0119p0034",
+      "index": 34,
+      "raw_zh": "海面上，一號等人登島之處。",
+      "translated_vi": "Trên mặt biển, nơi nhóm người Số Một đổ bộ lên đảo."
+    },
+    {
+      "para_id": "c0119p0035",
+      "index": 35,
+      "raw_zh": "在正常人的眼裡，這裡就是無盡碧波，哪裡有什麽海島。",
+      "translated_vi": "Trong mắt người bình thường, nơi đây chỉ là muôn trùng sóng biếc mênh mông, làm gì có hòn đảo nào tồn tại."
+    },
+    {
+      "para_id": "c0119p0036",
+      "index": 36,
+      "raw_zh": "一艘同樣低調的中型渡輪緩緩停在這附近。",
+      "translated_vi": "Một chiếc phà cỡ trung với vẻ ngoài khiêm tốn tương tự cũng đang từ từ buông neo dừng lại ở khu vực lân cận."
+    },
+    {
+      "para_id": "c0119p0037",
+      "index": 37,
+      "raw_zh": "船頭甲板上，一個黑色長袍的年輕修女，雙手合在身前，攥著一枚十幾公分長的銀色十字架。",
+      "translated_vi": "Trên boong tàu phía mũi thuyền, một nữ tu trẻ tuổi mặc áo choàng dài màu đen, hai tay chắp trước ngực, nắm chặt một cây thánh giá bằng bạc dài mười mấy phân."
+    },
+    {
+      "para_id": "c0119p0038",
+      "index": 38,
+      "raw_zh": "在她身後，是一群穿著戶外迷彩裝的人，可以看到，之前在老爺廟水域追捕雲千峰的金城和小佩等人也在其中。",
+      "translated_vi": "Phía sau ả là một nhóm người mặc đồ rằn ri dã ngoại. Có thể thấy rõ, đám người Kim Thành và Tiểu Bội từng tham gia truy bắt Vân Thiên Phong tại vùng nước Lão Gia Miếu trước đó cũng nằm trong số này."
+    },
+    {
+      "para_id": "c0119p0039",
+      "index": 39,
+      "raw_zh": "金城很仰慕站在身前這皮膚好似白雪公主（非當今版本白雪公主，特麽的！），眼光永遠讓人好像泡在溫水魚缸內的女人，或者應該稱之為大天使。",
+      "translated_vi": "Kim Thành vô cùng ngưỡng mộ người phụ nữ đang đứng trước mặt mình — người sở hữu làn da trắng muốt tựa nàng Bạch Tuyết (không phải phiên bản Bạch Tuyết thời nay đâu, mẹ kiếp!), với ánh mắt ôn hòa luôn khiến người đối diện có cảm giác như đang ngâm mình trong bể nước ấm, hoặc giả nên gọi ả bằng danh xưng: Đại Thiên Sứ."
+    },
+    {
+      "para_id": "c0119p0040",
+      "index": 40,
+      "raw_zh": "THE ONE，也就是金城他們口中的聖會，天使的稱呼，就是THE ONE裡，核心成員專有。",
+      "translated_vi": "THE ONE, tức là Thánh Hội trong miệng đám người Kim Thành. Danh xưng Thiên Sứ vốn là danh hiệu độc quyền chỉ dành riêng cho các thành viên cốt cán trong THE ONE."
+    },
+    {
+      "para_id": "c0119p0041",
+      "index": 41,
+      "raw_zh": "大天使，已經有一些地位。",
+      "translated_vi": "Đại Thiên Sứ, đã là nhân vật sở hữu địa vị quyền thế không nhỏ."
+    },
+    {
+      "para_id": "c0119p0042",
+      "index": 42,
+      "raw_zh": "金城看了一眼停在遠處那艘漁船，往前湊了兩步，低聲道：",
+      "translated_vi": "Kim Thành liếc nhìn chiếc thuyền đánh cá đang neo ở đằng xa, nhích lại gần hai bước, hạ giọng nói:"
+    },
+    {
+      "para_id": "c0119p0043",
+      "index": 43,
+      "raw_zh": "“大天使，那群石匠應該是登島了，我們要追上去嗎？”",
+      "translated_vi": "“Thưa Đại Thiên Sứ, đám thợ đá kia chắc hẳn đã đổ bộ lên đảo rồi, chúng ta có đuổi theo bọn chúng không?”"
+    },
+    {
+      "para_id": "c0119p0044",
+      "index": 44,
+      "raw_zh": "大天使搖搖頭，永遠是那麽溫和，道：",
+      "translated_vi": "Đại Thiên Sứ khẽ lắc đầu, ngữ khí muôn phần dịu dàng như nước:"
+    },
+    {
+      "para_id": "c0119p0045",
+      "index": 45,
+      "raw_zh": "“那不是我們能夠打攪的神聖之地，是神的居所，也是魔鬼的牢房，人世間永遠只有被選中的那個人才能夠進出其中，那人現在在島上，但他總會走出來，我們等在這裡就夠了。”",
+      "translated_vi": "“Đó không phải là thánh địa mà chúng ta có thể tùy tiện quấy rầy. Nơi ấy là nơi ngự trị của thần linh, cũng là ngục tù giam hãm ma quỷ. Giữa trần thế này xưa nay chỉ có duy nhất người được lựa chọn mới có thể tự do ra vào nơi đó. Hiện tại kẻ đó đang ở trên đảo, nhưng sớm muộn gì y cũng sẽ bước chân ra ngoài, chúng ta chỉ cần kiên nhẫn đợi ở đây là đủ.”"
+    },
+    {
+      "para_id": "c0119p0046",
+      "index": 46,
+      "raw_zh": "金城又往前湊了湊，表情獻媚，道：",
+      "translated_vi": "Kim Thành lại nhích tới gần thêm một chút, vẻ mặt nịnh bợ ra mặt:"
+    },
+    {
+      "para_id": "c0119p0047",
+      "index": 47,
+      "raw_zh": "“那人很邪門，時間都殺不死他。”",
+      "translated_vi": "“Kẻ đó tà môn lắm, ngay cả dòng thời gian cũng không giết nổi hắn.”"
+    },
+    {
+      "para_id": "c0119p0048",
+      "index": 48,
+      "raw_zh": "大天使依舊是那麽平和，語氣依舊是那麽溫和，淡淡道：",
+      "translated_vi": "Đại Thiên Sứ vẫn giữ vẻ điềm đạm như cũ, giọng điệu trước sau vẫn ôn hòa, nhàn nhạt cất lời:"
+    },
+    {
+      "para_id": "c0119p0049",
+      "index": 49,
+      "raw_zh": "“子彈可以，這個宏觀的世界，沒有什麽比子彈更容易解決麻煩，如果有，那就是炮彈。”",
+      "translated_vi": "“Đạn có thể. Trong thế giới vĩ mô này, không có thứ gì giải quyết rắc rối nhanh gọn bằng một viên đạn. Nếu có, thì đó chính là một quả đạn pháo.”"
+    },
+    {
+      "para_id": "c0119p0050",
+      "index": 50,
+      "raw_zh": "海島叢林深處。",
+      "translated_vi": "Sâu trong cánh rừng rậm rạp trên hòn đảo."
+    },
+    {
+      "para_id": "c0119p0051",
+      "index": 51,
+      "raw_zh": "雲千峰和三女在林中盡可能快的趕著路。",
+      "translated_vi": "Vân Thiên Phong và ba cô gái đang ra sức rảo bước nhanh nhất có thể giữa rừng cây."
+    },
+    {
+      "para_id": "c0119p0052",
+      "index": 52,
+      "raw_zh": "雲千峰肩扛著一根對把粗的木棍，上面好像旗幟似的掛著那張驢皮。",
+      "translated_vi": "Trên vai Vân Thiên Phong vác một thanh gỗ to bằng cổ tay, bên trên treo tấm da lừa trông hệt như một lá cờ phất phới."
+    },
+    {
+      "para_id": "c0119p0053",
+      "index": 53,
+      "raw_zh": "這裡的環境下，他們太需要這張驢皮來應對晚上的春寒。",
+      "translated_vi": "Trong điều kiện khắc nghiệt nơi đây, họ quá cần tấm da lừa này để chống chọi lại cái lạnh cắt da cắt thịt của tiết xuân về đêm."
+    },
+    {
+      "para_id": "c0119p0054",
+      "index": 54,
+      "raw_zh": "千千走在隊伍中間，身上披著一張羊皮圍裙，正是昨天在屍體上找到的那件。",
+      "translated_vi": "Thiên Thiên đi ở giữa đội hình, trên người khoác tấm tạp dề da cừu, chính là tấm tạp dề tìm thấy trên bộ xương khô ngày hôm qua."
+    },
+    {
+      "para_id": "c0119p0055",
+      "index": 55,
+      "raw_zh": "那羊皮原本已經乾硬，但是被雲千峰用篝火烤出野驢的油脂塗抹後，重新鞣軟，正好幫這個體格最弱的姑娘保暖。",
+      "translated_vi": "Tấm da cừu ấy vốn dĩ đã khô cứng queo, nhưng sau khi được Vân Thiên Phong dùng mỡ lừa nướng trên đống lửa xoa đều lên thì đã mềm mại trở lại, vừa hay giúp cô bé có thể trạng yếu ớt nhất giữ ấm cơ thể."
+    },
+    {
+      "para_id": "c0119p0056",
+      "index": 56,
+      "raw_zh": "小丫頭個頭不大，但是走路時腰卻是扭得幅度很大，小翹臀左搖右擺的，把羊皮圍裙撐得一蕩一蕩。",
+      "translated_vi": "Nha đầu vóc dáng nhỏ nhắn, nhưng mỗi khi cất bước thì chiếc eo lại uốn éo với biên độ rất lớn, bờ mông nhỏ cong cong lắc lư qua lại, khiến tấm tạp dề da cừu đung đưa nhịp nhàng theo từng bước chân."
+    },
+    {
+      "para_id": "c0119p0057",
+      "index": 57,
+      "raw_zh": "當然，同旁邊和她並肩走著的秦疏影一比，千千的翹就一下不顯眼了，秦疏影那才是“高大上”。",
+      "translated_vi": "Dĩ nhiên, nếu so sánh với Tần Sơ Ảnh đang sóng bước bên cạnh thì độ cong của Thiên Thiên lập tức lu mờ; Tần Sơ Ảnh mới thực sự là chuẩn mực “cao ráo, đẫy đà, quý phái”."
+    },
+    {
+      "para_id": "c0119p0058",
+      "index": 58,
+      "raw_zh": "每當雲千峰一旦把注意力放在秦疏影的背影上，他就那麽的期盼自己的人生能夠普通，能夠去結婚生子。",
+      "translated_vi": "Mỗi khi Vân Thiên Phong trót dồn sự chú ý vào bóng lưng yêu kiều của Tần Sơ Ảnh, anh lại tha thiết khao khát cuộc đời mình có thể bình dị như bao người, có thể cưới vợ sinh con."
+    },
+    {
+      "para_id": "c0119p0059",
+      "index": 59,
+      "raw_zh": "但他沒想過，如果是那樣的人生，他和秦疏影恐怕永遠是處於兩個平行不會相交的人生。",
+      "translated_vi": "Nhưng anh chưa từng nghĩ tới, nếu thực sự có một cuộc đời bình thường như thế, thì anh và Tần Sơ Ảnh e rằng sẽ mãi mãi là hai đường thẳng song song chẳng bao giờ có điểm giao cắt."
+    },
+    {
+      "para_id": "c0119p0060",
+      "index": 60,
+      "raw_zh": "甘瓜苦蒂，天下物無全美。",
+      "translated_vi": "Dưa ngọt cuống đắng, vạn vật trong thiên hạ xưa nay vốn không có gì là thập toàn thập mỹ."
+    },
+    {
+      "para_id": "c0119p0061",
+      "index": 61,
+      "raw_zh": "時間才剛剛下午一點多鍾，但是四個人卻不得不停住腳步。",
+      "translated_vi": "Thời gian mới chỉ chớm hơn một giờ chiều, nhưng bốn người bọn họ đã buộc phải khựng bước dừng lại."
+    },
+    {
+      "para_id": "c0119p0062",
+      "index": 62,
+      "raw_zh": "在他們前方，是一堵幾十層樓房高的懸崖峭壁，垂直的佇立在地面上，光滑如鏡。",
+      "translated_vi": "Ngay trước mặt họ là một bức tường vách đá dựng đứng cao ngất như tòa nhà mấy chục tầng, sừng sững cắm thẳng xuống mặt đất, bề mặt nhẵn bóng như gương."
+    },
+    {
+      "para_id": "c0119p0063",
+      "index": 63,
+      "raw_zh": "這樣的峭壁，任何攀岩高手，也是無處下手。",
+      "translated_vi": "Vách đá hiểm trở cỡ này thì bất kỳ cao thủ leo núi cự phách nào cũng phải bó tay, không tìm nổi một chỗ bám víu."
+    },
+    {
+      "para_id": "c0119p0064",
+      "index": 64,
+      "raw_zh": "站在懸崖前向左右看，根本看不到懸崖兩側的邊界。",
+      "translated_vi": "Đứng trước vách đá ngước nhìn sang hai bên tả hữu, căn bản chẳng thấy được đường chân trời ranh giới của hai đầu vách núi."
+    },
+    {
+      "para_id": "c0119p0065",
+      "index": 65,
+      "raw_zh": "這樣的懸崖，除非坐飛機，否則根本無法逾越，只能想辦法繞過去。",
+      "translated_vi": "Vách đá sừng sững như thế, trừ phi ngồi máy bay, nếu không căn bản không tài nào vượt qua nổi, chỉ đành tìm cách đi đường vòng."
+    },
+    {
+      "para_id": "c0119p0066",
+      "index": 66,
+      "raw_zh": "雲千峰感覺腹內全知之眼用力的方向就是垂直這懸崖的表面，這讓他一時不知該選擇左右那個方向尋找繞崖的路。",
+      "translated_vi": "Vân Thiên Phong cảm nhận được lực kéo của Con Mắt Toàn Tri trong bụng đang hướng thẳng vuông góc với bề mặt vách đá này, điều đó khiến anh nhất thời phân vân không biết nên chọn rẽ sang hướng trái hay phải để tìm đường vòng qua vách núi."
+    },
+    {
+      "para_id": "c0119p0067",
+      "index": 67,
+      "raw_zh": "秦疏影眼睛是幾個人裡最仔細的，這得益於她為了讓自己跳舞的時候眼睛更加靈動，所以每天觀察自家大魚缸內的百條小魚，練出了這明察秋毫的眼力。",
+      "translated_vi": "Đôi mắt của Tần Sơ Ảnh là tinh tường nhất trong số bốn người. Điều này có được là nhờ trước kia để rèn luyện ánh mắt thật linh hoạt uyển chuyển mỗi khi múa, cô đã kiên trì quan sát hàng trăm con cá nhỏ bơi lội trong bể cá khổng lồ ở nhà mỗi ngày, từ đó luyện được thị lực minh sát thu hào."
+    },
+    {
+      "para_id": "c0119p0068",
+      "index": 68,
+      "raw_zh": "她指著左側遠處懸崖前，說道：",
+      "translated_vi": "Cô chỉ tay về phía trước vách đá ở mạn xa bên trái, cất tiếng:"
+    },
+    {
+      "para_id": "c0119p0069",
+      "index": 69,
+      "raw_zh": "“雲，你看那裡很奇怪，樹葉和沉土一直在卷動飄飛。”",
+      "translated_vi": "“Anh Vân, anh nhìn đằng kia kìa, lạ lắm, lá cây cùng bụi đất cứ cuộn xoáy bay mù mịt không ngừng.”"
+    },
+    {
+      "para_id": "c0119p0070",
+      "index": 70,
+      "raw_zh": "張敏用兩手成筒，放在眼前仔細看過去，急忙一縮肩膀，害怕道：",
+      "translated_vi": "Trương Mẫn khum hai bàn tay làm ống nhòm đặt trước mắt nhìn kỹ, rồi vội vàng rụt vai lại, hoảng sợ nói:"
+    },
+    {
+      "para_id": "c0119p0071",
+      "index": 71,
+      "raw_zh": "“是旋風啊，我小時候跟著大人給故去長輩上墳，在墳地裡面一燒紙錢，就刮這種風，專門在紙錢火堆旁邊繞，可嚇人了，他們說旋風就是鬼魂移動產生的。”",
+      "translated_vi": "“Là gió lốc đấy! Hồi nhỏ tôi theo người lớn đi tảo mộ cho các cụ, cứ hễ đốt tiền vàng mã trong bãi tha ma là lại nổi lên loại gió này, nó cứ lượn lờ xoay tròn quanh đống tro tiền vàng, đáng sợ lắm! Người ta bảo gió lốc chính là do oan hồn di chuyển tạo thành đấy.”"
+    },
+    {
+      "para_id": "c0119p0072",
+      "index": 72,
+      "raw_zh": "在雲千峰眼裡，旋風沒什麽神奇的，但遠處那旋風很神奇，因為它一直在，沒有一秒停歇.",
+      "translated_vi": "Dưới con mắt của Vân Thiên Phong, gió lốc vốn chẳng có gì thần bí, thế nhưng cơn gió lốc phía xa kia lại vô cùng kỳ dị, bởi vì nó cứ xoay tít liên tục ở nguyên một vị trí, không hề ngơi nghỉ lấy một giây..."
+    },
+    {
+      "para_id": "c0119p0073",
+      "index": 73,
+      "raw_zh": "感謝千裡縱橫、尾數48054的月票鼓勵，謝謝你們的支持！！！！！！！！！",
+      "translated_vi": "Chân thành cảm ơn sự khích lệ bằng phiếu tháng từ Thiên Lý Túng Hoành và bạn đọc có số đuôi 48054, cảm ơn sự ủng hộ của các bạn!!!!!!!!!"
+    },
+    {
+      "para_id": "c0119p0074",
+      "index": 74,
+      "raw_zh": "PS：本來準備更改更新時間的，那樣分開上下午更新我能多一點曝光量，不過左思右想之後，還是決定不變了，我是夜貓子，半夜更新才不會導致更新時間波動，所以，就這樣繼續吧，這書能讓我好好寫完我就滿足，不奢求太多了，真要是奢求流量，那我就繼續寫爽文了，牢記這本書開始的初衷，寧靜致遠！！！謝謝你們！！！",
+      "translated_vi": "Tái bút: Vốn dĩ tôi định thay đổi khung giờ đăng chương, chia thành buổi sáng và buổi chiều để có thêm lượng tiếp cận độc giả. Thế nhưng sau khi suy đi tính lại, tôi quyết định vẫn giữ nguyên như cũ. Bản tính tôi là cú đêm, chỉ có cập nhật vào nửa đêm mới không làm xáo trộn thời gian ra chương. Cho nên cứ tiếp tục như thế này đi, bộ truyện này có thể để tôi viết trọn vẹn đến hồi kết là tôi đã mãn nguyện lắm rồi, chẳng dám cầu mong quá nhiều. Nếu thực sự màng tới lưu lượng người xem thì tôi đã đi viết truyện sảng văn mì ăn liền rồi. Luôn khắc ghi sơ tâm ban đầu khi chắp bút viết bộ sách này, tĩnh lặng mà vươn xa!!! Cảm ơn tất cả các bạn!!!"
+    }
+  ]
+}

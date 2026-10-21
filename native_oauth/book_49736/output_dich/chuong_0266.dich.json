@@ -1,0 +1,512 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 266,
+  "title": "Chương 266: Suy đoán cực kỳ đáng sợ",
+  "total_paragraphs": 83,
+  "translated_paragraphs": 83,
+  "source_hash": "e37cd057933f5ee09139ca31285e46f3ec7a98bd5b04711eec868696c26e00dc",
+  "model_used": "gemini-3.8-flash-high",
+  "elapsed_seconds": 138.21,
+  "bilingual_alignment": [
+    {
+      "para_id": "c0266p0001",
+      "index": 1,
+      "raw_zh": "266.第266章 極可怕的推測",
+      "translated_vi": "Chương 266: Suy đoán cực kỳ đáng sợ"
+    },
+    {
+      "para_id": "c0266p0002",
+      "index": 2,
+      "raw_zh": "第266章 極可怕的推測",
+      "translated_vi": "Chương 266: Suy đoán cực kỳ đáng sợ"
+    },
+    {
+      "para_id": "c0266p0003",
+      "index": 3,
+      "raw_zh": "白狐聽到雲千峰這麽說，當下急忙好奇的急問道：",
+      "translated_vi": "Bạch Hồ nghe Vân Thiên Phong nói vậy, liền tò mò gặng hỏi:"
+    },
+    {
+      "para_id": "c0266p0004",
+      "index": 4,
+      "raw_zh": "“因為什麽？”",
+      "translated_vi": "\"Vì sao chứ?\""
+    },
+    {
+      "para_id": "c0266p0005",
+      "index": 5,
+      "raw_zh": "雲千峰指了指自己的左腿咬牙道：",
+      "translated_vi": "Vân Thiên Phong chỉ vào chân trái của mình, nghiến răng đáp:"
+    },
+    {
+      "para_id": "c0266p0006",
+      "index": 6,
+      "raw_zh": "“我的左腿很痛，而且沒力了！”",
+      "translated_vi": "\"Chân trái của tôi đau buốt, vả lại chẳng còn chút sức lực nào nữa!\""
+    },
+    {
+      "para_id": "c0266p0007",
+      "index": 7,
+      "raw_zh": "著沒頭腦的回答讓白狐一時間愣住。",
+      "translated_vi": "Câu trả lời không đầu không đuôi ấy khiến Bạch Hồ nhất thời sững sờ."
+    },
+    {
+      "para_id": "c0266p0008",
+      "index": 8,
+      "raw_zh": "而緊接著雲千峰的表現更是讓她震驚。",
+      "translated_vi": "Thế nhưng ngay sau đó, phản ứng tiếp theo của Vân Thiên Phong lại càng làm cô kinh ngạc hơn."
+    },
+    {
+      "para_id": "c0266p0009",
+      "index": 9,
+      "raw_zh": "因為雲千峰在回答自己左腿無力疼痛之後，幾乎同時轉身，一把抱起卓瑪抗在右肩上，然後不要命似的向著來路奔去。",
+      "translated_vi": "Bởi sau khi nói xong câu chân trái vừa đau vừa mất sức, gần như cùng lúc đó, hắn quay ngoắt người, ôm thốc Trác Mã vác lên vai phải, rồi như phát điên lao thục mạng về lối cũ."
+    },
+    {
+      "para_id": "c0266p0010",
+      "index": 10,
+      "raw_zh": "“白狐！快離開這裡！”",
+      "translated_vi": "\"Bạch Hồ! Rời khỏi đây mau!\""
+    },
+    {
+      "para_id": "c0266p0011",
+      "index": 11,
+      "raw_zh": "雲千峰焦急的留下這麽一句話。",
+      "translated_vi": "Vân Thiên Phong chỉ kịp bỏ lại một câu đầy sốt ruột."
+    },
+    {
+      "para_id": "c0266p0012",
+      "index": 12,
+      "raw_zh": "白狐知道這不是刨根問底的時候，急忙奔跑起來，她很詫異，因為她絲毫沒有覺察出這裡有什麽不對勁的地方。",
+      "translated_vi": "Bạch Hồ biết lúc này không phải lúc gặng hỏi cho ra nhẽ, vội vã cất bước chạy theo. Trong lòng cô vô cùng kinh ngạc, bởi bản thân hoàn toàn không cảm nhận thấy nơi này có bất cứ điểm gì bất thường."
+    },
+    {
+      "para_id": "c0266p0013",
+      "index": 13,
+      "raw_zh": "但是她卻知道，這裡一定發生了什麽。",
+      "translated_vi": "Thế nhưng cô biết rõ, nơi đây nhất định đã xảy ra biến cố."
+    },
+    {
+      "para_id": "c0266p0014",
+      "index": 14,
+      "raw_zh": "因為雲千峰奔跑的時候是一瘸一拐的，很明顯左腿已經只能簡單支撐，全靠右腿向前。",
+      "translated_vi": "Bởi Vân Thiên Phong đang chạy khập khiễng, rõ ràng chân trái chỉ còn gượng gạo chống đỡ, toàn bộ lực đẩy lao về phía trước đều dồn cả vào chân phải."
+    },
+    {
+      "para_id": "c0266p0015",
+      "index": 15,
+      "raw_zh": "這還不是最可怕的，更可怕的是，雲千峰肩上的卓瑪雖然睜著眼睛，但是那雙眼睛毫無神色，而是蒙著一層淡青色的薄膜，似乎已經完全失神。",
+      "translated_vi": "Đó vẫn chưa phải điều đáng sợ nhất, đáng sợ hơn là Trác Mã đang nằm trên vai hắn tuy vẫn mở trừng hai mắt, nhưng đôi đồng tử đã dại đi, phủ một lớp màng mỏng màu xanh nhạt, tựa như thần trí đã hoàn toàn tiêu tán."
+    },
+    {
+      "para_id": "c0266p0016",
+      "index": 16,
+      "raw_zh": "在卓瑪的一雙耳孔，一雙眼睛，一雙鼻孔內，同時滲出著血流，很明顯，卓瑪的體內正在大出血。",
+      "translated_vi": "Từ hai hốc mắt, hai lỗ tai và hai lỗ mũi của Trác Mã, máu tươi đang đồng loạt trào ra. Rõ ràng, lục phủ ngũ tạng bên trong cơ thể cô ấy đang xuất huyết ồ ạt."
+    },
+    {
+      "para_id": "c0266p0017",
+      "index": 17,
+      "raw_zh": "白狐一邊緊跟著雲千峰，一邊在心裡思討：",
+      "translated_vi": "Bạch Hồ vừa bám sát phía sau Vân Thiên Phong, vừa thầm tính toán suy đoán trong lòng:"
+    },
+    {
+      "para_id": "c0266p0018",
+      "index": 18,
+      "raw_zh": "“到底發生了什麽？雲千峰和卓瑪怎麽都受了這麽重的傷？是誰下的手？為什麽我沒事？”",
+      "translated_vi": "\"Rốt cuộc đã xảy ra chuyện gì? Sao cả Vân Thiên Phong lẫn Trác Mã đều bị thương nặng đến thế? Là ai ra tay? Tại sao mình lại bình an vô sự?\""
+    },
+    {
+      "para_id": "c0266p0019",
+      "index": 19,
+      "raw_zh": "她沒有詢問，因為此時最重要的是逃命，而雲千峰顯然知道該如何逃離這種傷害。",
+      "translated_vi": "Cô không mở miệng hỏi, bởi lúc này điều quan trọng nhất là giữ mạng, và Vân Thiên Phong rõ ràng biết cách thoát khỏi sự tàn phá vô hình này."
+    },
+    {
+      "para_id": "c0266p0020",
+      "index": 20,
+      "raw_zh": "來時的路，他們走了半個小時，此時奔跑回去，竟然連十分鍾都不到，就到了之前被巨蛇追捕的位置。",
+      "translated_vi": "Con đường lúc tới đây họ phải đi mất nửa tiếng đồng hồ, vậy mà khi chạy tháo thân ngược trở ra, chưa đầy mười phút đã tới vị trí từng bị con cự xà truy đuổi lúc trước."
+    },
+    {
+      "para_id": "c0266p0021",
+      "index": 21,
+      "raw_zh": "然而當他們到了那被爬藤植物纏繞的城牆殘骸之旁時，卻不得不急忙止住腳步，因為那條白色的，足有三四十米長的巨蛇就等待在城門外。",
+      "translated_vi": "Thế nhưng khi chạy tới bên tàn tích tường thành quấn đầy dây leo chằng chịt, bọn họ buộc phải gấp gáp phanh chân lại, bởi con cự xà màu trắng dài chừng ba, bốn mươi mét kia đang chực sẵn ngay ngoài cổng thành."
+    },
+    {
+      "para_id": "c0266p0022",
+      "index": 22,
+      "raw_zh": "似乎，它知道三個人會在這個時候逃出來，亦或是它壓根就一直等在這裡。",
+      "translated_vi": "Dường như nó biết rõ ba người bọn họ sẽ trốn ra vào lúc này, hoặc giả nó vốn dĩ vẫn luôn canh chừng ở đây từ đầu."
+    },
+    {
+      "para_id": "c0266p0023",
+      "index": 23,
+      "raw_zh": "巨蛇朝著雲千峰三人吐著信子，鬥大的圓眼睛裡帶著對弱者的蔑視和嘲笑。",
+      "translated_vi": "Con cự xà hướng về phía ba người Vân Thiên Phong thè lưỡi rắn đỏ lòm, cặp mắt tròn to như chiếc đấu ánh lên sự khinh miệt và giễu cợt dành cho kẻ yếu."
+    },
+    {
+      "para_id": "c0266p0024",
+      "index": 24,
+      "raw_zh": "雲千峰咬牙抽出卓瑪身上的長藏刀，然後對白狐道：",
+      "translated_vi": "Vân Thiên Phong nghiến răng rút thanh trường đao Tạng bên hông Trác Mã ra, rồi quay sang bảo Bạch Hồ:"
+    },
+    {
+      "para_id": "c0266p0025",
+      "index": 25,
+      "raw_zh": "“你看著卓瑪，我去宰了那爬蟲！”",
+      "translated_vi": "\"Cô trông chừng Trác Mã, để tôi đi làm thịt con bò sát đó!\""
+    },
+    {
+      "para_id": "c0266p0026",
+      "index": 26,
+      "raw_zh": "白狐抓住雲千峰的手臂，搖頭道：",
+      "translated_vi": "Bạch Hồ giữ chặt cánh tay Vân Thiên Phong, lắc đầu can ngăn:"
+    },
+    {
+      "para_id": "c0266p0027",
+      "index": 27,
+      "raw_zh": "“別去，你不是它的對手，你看它的眼睛，這裡的環境，已經讓它進化出了智慧，它懂得分析，懂得計算，你我都不會是它的對手，它的絕對力量太強大了。”",
+      "translated_vi": "\"Đừng đi, anh không phải đối thủ của nó đâu! Anh nhìn mắt nó xem, môi trường nơi này đã khiến nó tiến hóa sinh ra trí tuệ rồi. Nó biết phân tích, biết toan tính, cả tôi lẫn anh đều không đấu lại nó, sức mạnh tuyệt đối của nó quá khủng khiếp.\""
+    },
+    {
+      "para_id": "c0266p0028",
+      "index": 28,
+      "raw_zh": "雲千峰知道白狐說的是事實，但是眼前他已經沒有別的選擇。",
+      "translated_vi": "Vân Thiên Phong biết Bạch Hồ nói đúng, nhưng trước mắt hắn đã chẳng còn sự lựa chọn nào khác."
+    },
+    {
+      "para_id": "c0266p0029",
+      "index": 29,
+      "raw_zh": "“卓瑪必須離開這古城范圍，否則後果難以預料。”",
+      "translated_vi": "\"Trác Mã bắt buộc phải rời khỏi phạm vi cổ thành này, nếu không hậu quả sẽ không lường trước được.\""
+    },
+    {
+      "para_id": "c0266p0030",
+      "index": 30,
+      "raw_zh": "白狐急問道：",
+      "translated_vi": "Bạch Hồ dồn dập hỏi:"
+    },
+    {
+      "para_id": "c0266p0031",
+      "index": 31,
+      "raw_zh": "“到底發生了什麽？為什麽你和卓瑪都受了重傷。”",
+      "translated_vi": "\"Rốt cuộc đã xảy ra chuyện gì? Vì sao cả anh và Trác Mã đều bị trọng thương?\""
+    },
+    {
+      "para_id": "c0266p0032",
+      "index": 32,
+      "raw_zh": "雲千峰指著城外的范圍道：",
+      "translated_vi": "Vân Thiên Phong chỉ tay về phía ngoài thành, trầm giọng giải thích:"
+    },
+    {
+      "para_id": "c0266p0033",
+      "index": 33,
+      "raw_zh": "“城外的力場很弱，能夠讓生物的基因擇優完善，所以你身上狐狸那套基因被壓製。",
+      "translated_vi": "\"Trường lực ngoài thành rất yếu, có khả năng kích hoạt chọn lọc để hoàn thiện bộ gen của sinh vật, cho nên chuỗi gen hồ ly trên người cô mới bị áp chế."
+    },
+    {
+      "para_id": "c0266p0034",
+      "index": 34,
+      "raw_zh": "但是到了城內，這股力場恐怕不是屏蔽低級基因那麽簡單，而是更殘忍的抹殺。",
+      "translated_vi": "Nhưng khi bước vào trong thành, luồng trường lực này e rằng không đơn thuần chỉ là ngăn chặn các gen cấp thấp nữa, mà là một sự xóa sổ tàn nhẫn và triệt để hơn."
+    },
+    {
+      "para_id": "c0266p0035",
+      "index": 35,
+      "raw_zh": "我剛開始還好奇為什麽這古城范圍內只有植物沒有動物，直到剛才發覺左腿完全無力且內外劇痛，結合巨蛇不敢進入古城范圍才猜測到這一點，卓瑪的狀態印證了我的猜測。",
+      "translated_vi": "Ban đầu tôi còn thấy lạ lẫm vì sao trong phạm vi cổ thành này chỉ có thực vật mà tuyệt nhiên không bóng dáng một loài động vật nào. Mãi tới khi cảm nhận chân trái hoàn toàn mất sức, đau đớn kịch liệt từ trong ra ngoài, lại xâu chuỗi với chi tiết con cự xà không dám bén mảng vào trong thành, tôi mới đoán ra manh mối. Tình trạng của Trác Mã chính là bằng chứng xác thực nhất cho suy đoán của tôi."
+    },
+    {
+      "para_id": "c0266p0036",
+      "index": 36,
+      "raw_zh": "這裡的力場，在徹底的破壞它認為低級的動物基因並且抹殺，我身上有蚩尤甲保護的地方暫時還沒事，但是左腿卻已經徹底廢了。",
+      "translated_vi": "Trường lực nơi đây đang phá hủy hoàn toàn và thanh trừng tất cả những bộ gen động vật mà nó xem là hạ đẳng. Trên người tôi, những vị trí được giáp Xi Vưu bảo hộ tạm thời chưa sao, nhưng chân trái thì đã triệt để phế bỏ rồi."
+    },
+    {
+      "para_id": "c0266p0037",
+      "index": 37,
+      "raw_zh": "你現在沒事，是因為你的基因足夠高級，但我猜測，你也不是造物主眼中的完美基因，傷害早晚會來，時間問題而已。”",
+      "translated_vi": "Hiện giờ cô chưa hề hấn gì là nhờ bộ gen của cô đủ cao cấp, nhưng tôi đồ rằng trong mắt Đấng Sáng Tạo, gen của cô cũng chẳng phải là hoàn hảo tuyệt đối. Sự tàn phá sớm muộn gì cũng sẽ giáng xuống, chỉ là vấn đề thời gian mà thôi.\""
+    },
+    {
+      "para_id": "c0266p0038",
+      "index": 38,
+      "raw_zh": "白狐才算明白，為什麽這古城內一個動物也看不見，哪怕是一隻蒼蠅。",
+      "translated_vi": "Đến lúc này Bạch Hồ mới vỡ lẽ vì sao trong tòa cổ thành này chẳng thấy nổi lấy một sinh vật sống, dẫu là một con ruồi cũng không có."
+    },
+    {
+      "para_id": "c0266p0039",
+      "index": 39,
+      "raw_zh": "雲千峰的猜測完美的解釋了原因，那就是越是低級的基因，在這裡死的越快。",
+      "translated_vi": "Suy đoán của Vân Thiên Phong đã giải thích trọn vẹn nguyên nhân: Cấp bậc gen càng thấp kém, thì bỏ mạng ở nơi này càng nhanh."
+    },
+    {
+      "para_id": "c0266p0040",
+      "index": 40,
+      "raw_zh": "白狐咬牙道：",
+      "translated_vi": "Bạch Hồ nghiến răng nói:"
+    },
+    {
+      "para_id": "c0266p0041",
+      "index": 41,
+      "raw_zh": "“你一定要見西王母的，不要耽誤時間，我帶著卓瑪離開！”",
+      "translated_vi": "\"Anh nhất định phải gặp Tây Vương Mẫu, đừng lãng phí thời gian nữa, để tôi đưa Trác Mã rời khỏi đây!\""
+    },
+    {
+      "para_id": "c0266p0042",
+      "index": 42,
+      "raw_zh": "雲千峰搖頭，咬牙道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu, nghiến răng nói:"
+    },
+    {
+      "para_id": "c0266p0043",
+      "index": 43,
+      "raw_zh": "“不，我們都必須離開，你還不明白嗎白狐，西王母不可能在這座古城的范圍，不可能！”",
+      "translated_vi": "\"Không, tất cả chúng ta đều phải rời khỏi đây. Cô vẫn chưa hiểu sao, Bạch Hồ? Tây Vương Mẫu không thể nào ở trong phạm vi tòa cổ thành này, tuyệt đối không thể!\""
+    },
+    {
+      "para_id": "c0266p0044",
+      "index": 44,
+      "raw_zh": "白狐是極聰明的，從瑪肆科對她的尊重就能看出來，哪怕是最古早時逃難的白狐這個山神種族裡，白狐的能力都是排在前列的。",
+      "translated_vi": "Bạch Hồ cực kỳ thông minh, chỉ nhìn sự tôn trọng mà Mã Tứ Khoa dành cho cô là đủ hiểu. Ngay cả trong chủng tộc sơn thần Bạch Hồ lánh nạn từ thời xa xưa nhất, năng lực của cô cũng thuộc hàng xuất chúng."
+    },
+    {
+      "para_id": "c0266p0045",
+      "index": 45,
+      "raw_zh": "於是，雲千峰這句話就好像一道閃電劈在了她腦海裡，帶來了無盡的震撼。",
+      "translated_vi": "Thế nên, câu nói này của Vân Thiên Phong tựa như một luồng tia chớp giáng thẳng vào tâm trí cô, mang lại nỗi chấn động khôn cùng."
+    },
+    {
+      "para_id": "c0266p0046",
+      "index": 46,
+      "raw_zh": "她聽懂了雲千峰的這句話。",
+      "translated_vi": "Cô đã hiểu được câu nói này của Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0266p0047",
+      "index": 47,
+      "raw_zh": "是的，西王母絕不會在這座古城內，理由卻與西王母無關，而是與造物主有關。",
+      "translated_vi": "Đúng vậy, Tây Vương Mẫu tuyệt đối sẽ không ở trong tòa cổ thành này, nhưng lý do lại chẳng can hệ gì đến Tây Vương Mẫu, mà là liên quan đến Đấng Sáng Tạo."
+    },
+    {
+      "para_id": "c0266p0048",
+      "index": 48,
+      "raw_zh": "造物主為什麽要建造這樣一座快速讓基因進入完美狀態的實驗室？",
+      "translated_vi": "Vì sao Đấng Sáng Tạo lại phải xây dựng một tòa phòng thí nghiệm có khả năng nhanh chóng đưa gen vào trạng thái hoàn mỹ đến thế?"
+    },
+    {
+      "para_id": "c0266p0049",
+      "index": 49,
+      "raw_zh": "因為造物主想要創造最完美的生命體。",
+      "translated_vi": "Bởi vì Đấng Sáng Tạo muốn tạo ra sinh mệnh thể hoàn mỹ nhất."
+    },
+    {
+      "para_id": "c0266p0050",
+      "index": 50,
+      "raw_zh": "為什麽造物主想要創造最完美的生命體？",
+      "translated_vi": "Nhưng tại sao Đấng Sáng Tạo lại muốn tạo ra sinh mệnh thể hoàn mỹ nhất?"
+    },
+    {
+      "para_id": "c0266p0051",
+      "index": 51,
+      "raw_zh": "答案就是，造物主也不是最完美的生命體！",
+      "translated_vi": "Câu trả lời chính là: Bản thân Đấng Sáng Tạo cũng không phải là sinh mệnh thể hoàn mỹ nhất!"
+    },
+    {
+      "para_id": "c0266p0052",
+      "index": 52,
+      "raw_zh": "那麽就證明，哪怕是造物主也不敢在這座實驗室內久住。",
+      "translated_vi": "Vậy thì điều đó chứng minh rằng, ngay cả Đấng Sáng Tạo cũng chẳng dám ở lại lâu dài trong tòa phòng thí nghiệm này."
+    },
+    {
+      "para_id": "c0266p0053",
+      "index": 53,
+      "raw_zh": "所以這裡是注定的空城。",
+      "translated_vi": "Cho nên nơi đây định trước chỉ là một tòa thành trống rỗng."
+    },
+    {
+      "para_id": "c0266p0054",
+      "index": 54,
+      "raw_zh": "甚至，這才是第一代人類滅絕的原因，更是人類被逐出伊甸園的原因。",
+      "translated_vi": "Thậm chí, đây mới thực sự là nguyên nhân khiến loài người thế hệ thứ nhất bị diệt vong, và càng là lý do khiến nhân loại bị trục xuất khỏi vườn Địa Đàng."
+    },
+    {
+      "para_id": "c0266p0055",
+      "index": 55,
+      "raw_zh": "“造物主不是完美的生命體！”",
+      "translated_vi": "\"Đấng Sáng Tạo không phải là sinh mệnh thể hoàn mỹ!\""
+    },
+    {
+      "para_id": "c0266p0056",
+      "index": 56,
+      "raw_zh": "這個答案，就像雷電在白狐腦海裡爆炸。",
+      "translated_vi": "Đáp án này hệt như sấm sét nổ tung trong tâm trí Bạch Hồ."
+    },
+    {
+      "para_id": "c0266p0057",
+      "index": 57,
+      "raw_zh": "智慧越高的生物，其實愈加容易對神崇拜，因為智慧越高，眼前的未解便越多。",
+      "translated_vi": "Sinh vật có trí tuệ càng cao, trên thực tế lại càng dễ dàng sùng bái thần linh; bởi lẽ trí tuệ càng cao thì những điều chưa có lời giải bày ra trước mắt lại càng nhiều."
+    },
+    {
+      "para_id": "c0266p0058",
+      "index": 58,
+      "raw_zh": "這也是為什麽愛因斯坦、牛頓、霍金這些偉大的科學家，最後都選擇神學的原因。",
+      "translated_vi": "Đó cũng là lý do vì sao những nhà khoa học vĩ đại như Einstein, Newton hay Hawking rốt cuộc đều lựa chọn thần học."
+    },
+    {
+      "para_id": "c0266p0059",
+      "index": 59,
+      "raw_zh": "可以說，雲千峰的這個答案，把白狐內心裡，靈神深處的某個東西打碎了，細碎。",
+      "translated_vi": "Có thể nói, đáp án này của Vân Thiên Phong đã đập nát một thứ gì đó sâu thẳm trong linh thần, nơi tận đáy lòng Bạch Hồ, vỡ vụn tan tành."
+    },
+    {
+      "para_id": "c0266p0060",
+      "index": 60,
+      "raw_zh": "“別發呆了白狐！我去引開巨蛇，你帶著卓瑪離開，我會去找到你！”",
+      "translated_vi": "\"Đừng ngây người ra nữa, Bạch Hồ! Tôi đi nhử cự xà, cô hãy đưa Trác Mã rời khỏi đây, tôi nhất định sẽ tìm được cô!\""
+    },
+    {
+      "para_id": "c0266p0061",
+      "index": 61,
+      "raw_zh": "白狐因雲千峰的呼喚在震驚之中醒來。",
+      "translated_vi": "Bạch Hồ giật mình tỉnh lại khỏi cơn bàng hoàng bởi tiếng gọi của Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0266p0062",
+      "index": 62,
+      "raw_zh": "她看到，卓瑪此時的狀態愈加可怖。",
+      "translated_vi": "Cô nhìn thấy, tình trạng của Trác Mã lúc này càng thêm đáng sợ."
+    },
+    {
+      "para_id": "c0266p0063",
+      "index": 63,
+      "raw_zh": "因為卓瑪的眉心正在裂開，形成了一個猙獰的傷口，更瘮人的是，似乎有什麽東西在那傷口裡蠕動，想要爬出來一般。",
+      "translated_vi": "Bởi vì mi tâm của Trác Mã đang nứt toác ra, tạo thành một vết thương dữ tợn; rợn người hơn cả là dường như có thứ gì đó đang ngọ nguậy bên trong miệng vết thương ấy, như chực bò toài ra ngoài."
+    },
+    {
+      "para_id": "c0266p0064",
+      "index": 64,
+      "raw_zh": "不能再耽擱了！",
+      "translated_vi": "Không thể chần chừ thêm được nữa!"
+    },
+    {
+      "para_id": "c0266p0065",
+      "index": 65,
+      "raw_zh": "白狐急忙接過卓瑪背在自己身上，用長長的尾巴把卓瑪捆在自己的腰上，保證自己在最快速度奔跑的時候，也不會把卓瑪掉下來。",
+      "translated_vi": "Bạch Hồ vội vàng đỡ lấy Trác Mã cõng lên lưng, dùng chiếc đuôi dài quấn chặt Trác Mã vào thắt lưng mình, đảm bảo dù bản thân có chạy hết tốc lực thì Trác Mã cũng không thể tuột rơi xuống."
+    },
+    {
+      "para_id": "c0266p0066",
+      "index": 66,
+      "raw_zh": "而雲千峰則是赤紅著眼睛，單腿蹦跳，直衝向那白色的巨蛇。",
+      "translated_vi": "Trong khi đó, Vân Thiên Phong đôi mắt đỏ ngầu, một chân nhảy lò cò, lao thẳng về phía con cự xà màu trắng."
+    },
+    {
+      "para_id": "c0266p0067",
+      "index": 67,
+      "raw_zh": "面對這樣擁有著智商和強大力量的冷血動物，沒人能保證自己可以活著回來，雲千峰也不能。",
+      "translated_vi": "Đối mặt với loài động vật máu lạnh sở hữu cả trí khôn lẫn sức mạnh khủng khiếp thế này, không ai dám đảm bảo mình có thể sống sót trở về, và Vân Thiên Phong cũng vậy."
+    },
+    {
+      "para_id": "c0266p0068",
+      "index": 68,
+      "raw_zh": "但也正是這種決絕的義無反顧，讓雲千峰爆發出了最大的力量和速度。",
+      "translated_vi": "Nhưng cũng chính sự quyết tuyệt không màng lùi bước ấy đã giúp Vân Thiên Phong bộc phát ra sức mạnh cùng tốc độ cực hạn."
+    },
+    {
+      "para_id": "c0266p0069",
+      "index": 69,
+      "raw_zh": "他沒有向以往那樣迂回，因為那毫無意義。",
+      "translated_vi": "Hắn không vòng vo di chuyển đánh lạc hướng như trước kia, bởi điều đó hoàn toàn vô nghĩa."
+    },
+    {
+      "para_id": "c0266p0070",
+      "index": 70,
+      "raw_zh": "懂得太極拳的人都知道，迂回的戰術對蛇是沒用的。",
+      "translated_vi": "Người am hiểu Thái Cực Quyền đều biết, chiến thuật đi đường vòng chẳng có tác dụng gì trước loài rắn."
+    },
+    {
+      "para_id": "c0266p0071",
+      "index": 71,
+      "raw_zh": "只有最直接的最快速的傷害，才是唯一勝利的可能。",
+      "translated_vi": "Chỉ có đòn sát thương trực diện và thần tốc nhất mới là khả năng chiến thắng duy nhất."
+    },
+    {
+      "para_id": "c0266p0072",
+      "index": 72,
+      "raw_zh": "白狐眼看著雲千峰徑直的衝向巨蛇，哪怕前方就是巨蛇張開的血盆大口。",
+      "translated_vi": "Bạch Hồ trừng mắt nhìn Vân Thiên Phong lao thẳng về phía cự xà, dẫu phía trước chính là cái miệng đỏ lòm như chậu máu đang mở toang của nó."
+    },
+    {
+      "para_id": "c0266p0073",
+      "index": 73,
+      "raw_zh": "但是雲千峰沒有減速，他在加速，速度越來越快，他的目標竟然就是蛇的嘴巴。",
+      "translated_vi": "Thế nhưng Vân Thiên Phong không hề giảm tốc độ, hắn đang tăng tốc, mỗi lúc một nhanh hơn, mục tiêu của hắn thế mà lại nhắm thẳng vào miệng con cự xà."
+    },
+    {
+      "para_id": "c0266p0074",
+      "index": 74,
+      "raw_zh": "唰！",
+      "translated_vi": "Xoẹt!"
+    },
+    {
+      "para_id": "c0266p0075",
+      "index": 75,
+      "raw_zh": "雲千峰的身影沒入巨蛇的大嘴，同時一段一米多長的蛇信子帶著血跌落在地。",
+      "translated_vi": "Thân ảnh Vân Thiên Phong lọt thỏm vào trong miệng lớn của cự xà, cùng lúc đó, một đoạn lưỡi rắn dài hơn một mét nhuốm máu rơi bộp xuống đất."
+    },
+    {
+      "para_id": "c0266p0076",
+      "index": 76,
+      "raw_zh": "借助身體的速度和刀的鋒利，只是鋪一接觸，雲千峰就廢了巨蛇探看這世界最重要的器官。",
+      "translated_vi": "Nhờ vào tốc độ lao tới của cơ thể cùng độ sắc bén của lưỡi đao, chỉ vừa mới chạm trán, Vân Thiên Phong đã phế bỏ cơ quan quan trọng nhất để dò xét thế giới của con cự xà."
+    },
+    {
+      "para_id": "c0266p0077",
+      "index": 77,
+      "raw_zh": "沒有了蛇信子，巨蛇已經稱得上是半瞎，想要再去追趕白狐和卓瑪，幾乎是不可能的。",
+      "translated_vi": "Mất đi lưỡi rắn, cự xà coi như đã bị mù một nửa, muốn đuổi theo Bạch Hồ và Trác Mã là chuyện gần như bất khả thi."
+    },
+    {
+      "para_id": "c0266p0078",
+      "index": 78,
+      "raw_zh": "白狐聽到黑洞洞的蛇口傳來雲千峰的聲音：",
+      "translated_vi": "Bạch Hồ nghe thấy từ trong vòm họng đen ngòm của cự xà vọng ra tiếng thét của Vân Thiên Phong:"
+    },
+    {
+      "para_id": "c0266p0079",
+      "index": 79,
+      "raw_zh": "“走！”",
+      "translated_vi": "\"Đi!\""
+    },
+    {
+      "para_id": "c0266p0080",
+      "index": 80,
+      "raw_zh": "蛇口就像一個正在關閉的喇叭，將這個字音前面擴得猶如悶雷，隨著關閉，這個字最後的尾音完全消失。",
+      "translated_vi": "Miệng rắn như một chiếc loa đang dần khép lại, khuếch đại phần đầu của âm tiết này vang rền như tiếng sấm nghẹn, rồi theo đà khép chặt, âm hưởng cuối cùng của chữ ấy hoàn toàn biến mất."
+    },
+    {
+      "para_id": "c0266p0081",
+      "index": 81,
+      "raw_zh": "讓雲千峰喊出的這個字，聽起來好像是“吇嗷”。",
+      "translated_vi": "Khiến cho chữ mà Vân Thiên Phong hét ra nghe như méo thành \"Tử ngao...\"."
+    },
+    {
+      "para_id": "c0266p0082",
+      "index": 82,
+      "raw_zh": "白狐抽了一下鼻子，背著卓瑪從巨蛇側面衝出，頭也不回的遠去。",
+      "translated_vi": "Bạch Hồ sụt sùi một tiếng, cõng Trác Mã phóng vút qua một bên sườn cự xà, không ngoảnh đầu lại mà lao thẳng về phía xa."
+    },
+    {
+      "para_id": "c0266p0083",
+      "index": 83,
+      "raw_zh": "嬌俏的鼻孔太小，終究無法容納所有的眼淚，水珠終究還是滑過眼角，隨風落在空中，祭奠雲千峰的犧牲。",
+      "translated_vi": "Cánh mũi xinh xắn quá đỗi nhỏ bé, rốt cuộc chẳng thể ngăn nổi muôn vàn giọt lệ; những giọt nước mắt cuối cùng vẫn lăn dài qua khóe mi, tan tác vào trong gió, tựa như lễ tế đưa tiễn sự hy sinh của Vân Thiên Phong."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0273|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Nương theo ánh đèn trong thành, có thể thấy nơi đây lầu đài rực rỡ đèn hoa, vô cùng náo nhiệt.
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §70):
+§1 甚至還能看到布滿燈火的街上的行人。
+§2 [Ø=云千峰]但就是這樣熱鬧的場景，讓三個人後背發寒，想說話，嗓子卻緊得沙啞。
+§3 卓瑪俏聲道：
+§4 “怎麽一點聲音也沒有？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§5 白狐用極低的聲音道：
+§6 “因為是靜止的！而且有聲音！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§7 [Ø=云千峰]白狐的形容非常準確，這座城， [||] 這座無比熱鬧的城，就像是清明上河圖，是一個靜止的畫面。
+§8 [Ø=云千峰]這樣的城市，怎麽會有聲音發出呢？
+§9 白狐後面的半截話讓雲千峰和卓瑪很是詫異。
+§10 雲千峰忙問道：
+§11 “有聲音？我怎麽什麽都沒聽到？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§12 白狐指了指自己的耳朵道：
+§13 [Ø=云千峰]“形狀原因，我能聽到更細微的聲響，那靜止城市散發出的聲音很細碎，沒有一個完整的音符， [||] 就好像是聲波被絞碎了，只能聽到“嗡嗡嗡”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]的噪音。如果我們再靠近一些，下到天坑內，你們也會聽到。”
+§14 三個人開始尋找下去天空的路。
+§15 [Ø=云千峰]然而走了兩圈，三個人確定，這個天坑沒有入口。
+§16 [Ø=云千峰]四周是都壁立的懸崖，別說什麽九十度，很多地方乾脆都是凹陷的，讓人根本我發攀岩。
+§17 卓瑪驚訝道：
+§18 “這裡面的人以前是怎麽出入這裡的？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 白狐道：
+§20 [Ø=云千峰]“或許，他們不需要出入這裡。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 [Ø=云千峰]無論如何，這是不合理的。
+§22 [Ø=云千峰]好在三人都不算是普通人，對於普通人無法攀爬的懸崖，他們三個小心一點，卻還是能夠辦到的。
+§23 [Ø=云千峰]選擇了一段比較安全的懸崖，三個人各自施展手段，開始向下攀岩。
+§24 [Ø=云千峰]雲千峰左腿雖然不受用，但是只靠著雙臂的力量，和雙手的硬度，就能創造條件讓自己爬下去。
+§25 [Ø=云千峰]而白狐則是沿著雲千峰開出的路，穩當下落。
+§26 [Ø=云千峰]最牛的是卓瑪，她那蛇身好似能黏在懸崖上，昆蟲一般如履平地。
+§27 [Ø=云千峰]剛到懸崖下，向前走了不到百米，這裡已經極為接近那古怪城市的邊緣。
+§28 他們已經可以清晰的看到那寬闊的城牆。
+§29 [Ø=云千峰]只是奇怪的是，那城牆似乎缺了一角， [||] 似乎被什麽利器砍斷，露出了裡面的大街，還有大街上處處可見的紅色燈籠。
+§30 [Ø=云千峰]那些燈籠在燃燒，散發著光明，但是燈籠內的火苗卻一動也不動，猶如凝固的冰。
+§31 嗯？
+§32 [Ø=云千峰]雲千峰走著走著，突然停下腳步。
+§33 [Ø=云千峰]這樣靜止幾秒鍾後，又向前走了幾步，然後再次停住腳步。
+§34 然後臉上現出了驚訝的神情。
+§35 [Ø=云千峰]兩女跟在後面，不知道雲千峰在搞什麽，白狐問道：
+§36 “怎麽了？走走停停的？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 [Ø=云千峰]雲千峰指了指自己的耳朵，道：
+§38 “你們是不是也聽到那夢魘般的碎末聲響了？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 白狐道我早就聽到了啊。
+§40 卓瑪則點頭道：
+§41 [Ø=云千峰]“剛剛也聽到了，不過現在消失了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§42 [Ø=云千峰]雲千峰指了指自己的腿，說道：
+§43 [Ø=云千峰]“你走一下，馬上還能聽到。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 [Ø=云千峰]卓瑪一臉不信，當下扭動著蛇身，向前移動了一米，隨後滿臉驚訝的說道：
+§45 [Ø=云千峰]“真的是這樣，移動就能聽到，停下來聲音就會消失。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§46 [Ø=云千峰]白狐也做了一下實驗，心下佩服雲千峰對環境觀察的仔細，同時一臉不可思議道：
+§47 “怎麽會這樣？這根本無法解釋啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§48 雲千峰思索道：
+§49 [Ø=云千峰]“一定有原因，我們想想，在這種情況下，聲波應該是什麽樣的狀態？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§50 [Ø=云千峰]白狐一點就通，忙道：
+§51 “靜止狀態！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§52 [Ø=云千峰]雲千峰點頭，道：
+§53 [Ø=云千峰]“沒錯，聲波是靜止狀態，所以我們移動，就相當於正常情況下的聲波移動。
+§54 [Ø=云千峰]我們聽到的碎片化聲音之所以都是沒有意義的噪音，是因為我們移動的速度沒有達到三百四十米每秒，所以聽不到正常的聲波狀態。
+§55 [Ø=云千峰]而且這座城市以及其周圍，靜止的不僅僅是聲波和裡面的人，包括那些光都是靜止的。
+§56 [Ø=云千峰]而光一旦靜止，就意味著時間的靜止。”
+§57 [Ø=云千峰]白狐豁然明悟，道：
+§58 [Ø=云千峰]“所以，時間的靜止，才是那河邊石像懸浮的原因！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§59 [Ø=云千峰]雲千峰點了點頭，認可了白狐的猜想。
+§60 卓瑪疑惑道：
+§61 [Ø=云千峰]“但我們是移動的，而且我們之間說話能夠聽到啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§62 雲千峰沉聲道：
+§63 [Ø=云千峰]“因為我們不屬於這裡，不屬於這座城市，我們是外來者，沒在這個規則呈現之初來到這裡。
+§64 [Ø=云千峰]現在的我們，來到了一副這個世界上，最真實的3D立體畫之中了。
+§65 帝嚳需要我來這裡得到什麽？或者說發現什麽？”
+§66 [Ø=云千峰]說著，雲千峰深吸一口氣，大步流向的走向那似乎被什麽斬斷的整齊城牆，走進了那一切靜止的詭異古城。
+§67 [Ø=云千峰]感謝風起後相戀的打賞，謝謝你的支持！！！
+§68 [Ø=云千峰]感謝簡二狗、楊同志愛下棋、白色的罪、飛過海吧b、策馬行歌、仰望的倒吊人、書友尾數20567、醉看紅塵飛舞、安半生的月票獎勵，謝謝你們的支持！！！
+§69 祝大家端午節快樂！！！
+§70 晚安！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 70 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§70. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

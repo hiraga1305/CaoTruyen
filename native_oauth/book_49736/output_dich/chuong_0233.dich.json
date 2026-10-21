@@ -1,0 +1,668 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 233,
+  "title": "Chương 233: Chương này nhất định phải đọc!",
+  "total_paragraphs": 109,
+  "translated_paragraphs": 109,
+  "source_hash": "ea9631017bd083646f13377103c25e116d06efd20e61efe496a3840b2cfd44ea",
+  "model_used": "gemini-3.8-flash-high",
+  "elapsed_seconds": 243.08,
+  "bilingual_alignment": [
+    {
+      "para_id": "c0233p0001",
+      "index": 1,
+      "raw_zh": "233.第233章 這一章是一定要看的！",
+      "translated_vi": "Chương 233: Chương này nhất định phải đọc!"
+    },
+    {
+      "para_id": "c0233p0002",
+      "index": 2,
+      "raw_zh": "第233章 這一章是一定要看的！",
+      "translated_vi": "Chương 233: Chương này nhất định phải đọc!"
+    },
+    {
+      "para_id": "c0233p0003",
+      "index": 3,
+      "raw_zh": "當白狐在中世紀風格的書房內出現時，那正在書房內的人似乎已經等待多時。",
+      "translated_vi": "Khi bạch hồ xuất hiện trong căn thư phòng mang phong cách thời Trung Cổ, người đàn ông bên trong dường như đã đợi từ rất lâu."
+    },
+    {
+      "para_id": "c0233p0004",
+      "index": 4,
+      "raw_zh": "“普羅，我感應到了你，你怎麽才來？還有，你的癖好怎麽越來越古怪？當人不好嗎？”",
+      "translated_vi": "\"Phổ La, tôi cảm nhận được cô rồi, sao giờ này mới đến? Mà này, sở thích của cô càng ngày càng quái đản thế? Làm người không tốt sao?\""
+    },
+    {
+      "para_id": "c0233p0005",
+      "index": 5,
+      "raw_zh": "白狐普羅歎息一聲：",
+      "translated_vi": "Bạch hồ Phổ La thở dài một tiếng:"
+    },
+    {
+      "para_id": "c0233p0006",
+      "index": 6,
+      "raw_zh": "“一言難盡，非我所願，只是濕瑪，伱這麽多年了，怎麽還是偏愛又高又白又胖的形象？”",
+      "translated_vi": "\"Nói ra thì dài dòng, nào phải điều tôi mong muốn. Chỉ là Thấp Mã à, bao nhiêu năm qua rồi, sao anh vẫn cứ chuộng cái hình tượng vừa cao vừa trắng lại vừa béo thế này?\""
+    },
+    {
+      "para_id": "c0233p0007",
+      "index": 7,
+      "raw_zh": "那被稱為濕瑪的人也是歎息一聲，道：",
+      "translated_vi": "Kẻ được gọi là Thấp Mã cũng thở dài một tiếng, đáp:"
+    },
+    {
+      "para_id": "c0233p0008",
+      "index": 8,
+      "raw_zh": "“一言難盡，非我所願，我當時投胎的時候仔細觀察了，我覺得就那父母的長相，我應該長到肖恩康納利那麽帥，但誰想到變成了肥胖長殘版本。",
+      "translated_vi": "\"Nói ra thì dài dòng, cũng chẳng phải tôi muốn thế. Lúc đầu thai tôi đã quan sát kỹ lưỡng lắm rồi, cứ ngỡ với tướng mạo của đôi cha mẹ ấy thì mình phải đẹp trai cỡ Sean Connery, ai ngờ đâu lại biến thành phiên bản béo phì tàn tạ thế này."
+    },
+    {
+      "para_id": "c0233p0009",
+      "index": 9,
+      "raw_zh": "普羅，你現在的前置記憶是狐狸嗎？我該怎麽稱呼你？”",
+      "translated_vi": "Phổ La, ký ức tiền thân hiện tại của cô là một con cáo à? Tôi nên xưng hô với cô thế nào đây?\""
+    },
+    {
+      "para_id": "c0233p0010",
+      "index": 10,
+      "raw_zh": "白狐普羅說道：",
+      "translated_vi": "Bạch hồ Phổ La nói:"
+    },
+    {
+      "para_id": "c0233p0011",
+      "index": 11,
+      "raw_zh": "“我現在的前置記憶是一個叫法緹娜的女人，你呢？”",
+      "translated_vi": "\"Ký ức tiền thân hiện tại của tôi là một người phụ nữ tên Fatina, còn anh thì sao?\""
+    },
+    {
+      "para_id": "c0233p0012",
+      "index": 12,
+      "raw_zh": "濕瑪忙道：",
+      "translated_vi": "Thấp Mã vội đáp:"
+    },
+    {
+      "para_id": "c0233p0013",
+      "index": 13,
+      "raw_zh": "“我現在的名字叫瑪肆科，你竟然不知道我的名字？你們家沒通網嗎？”",
+      "translated_vi": "\"Tên hiện tại của tôi là Mã Tứ Khoa, cô lại không biết tên tôi sao? Nhà cô chưa nối mạng à?\""
+    },
+    {
+      "para_id": "c0233p0014",
+      "index": 14,
+      "raw_zh": "白狐道：",
+      "translated_vi": "Bạch hồ nói:"
+    },
+    {
+      "para_id": "c0233p0015",
+      "index": 15,
+      "raw_zh": "“才回歸文明世界不久，沒來得及了解這一切，其他同族都還好嗎？”",
+      "translated_vi": "\"Tôi mới trở lại thế giới văn minh chưa lâu, còn chưa kịp tìm hiểu mấy thứ này. Những đồng tộc khác vẫn ổn cả chứ?\""
+    },
+    {
+      "para_id": "c0233p0016",
+      "index": 16,
+      "raw_zh": "瑪肆科聳聳肩道：",
+      "translated_vi": "Mã Tứ Khoa nhún vai:"
+    },
+    {
+      "para_id": "c0233p0017",
+      "index": 17,
+      "raw_zh": "“都還是老樣子，只不過現在大家玩得越來越肆意，很多都封了自己的記憶投胎，就為了玩刺激。",
+      "translated_vi": "\"Vẫn như cũ cả thôi, có điều dạo này mọi người chơi bời ngày càng phóng túng, không ít kẻ tự phong ấn ký ức của mình rồi đi đầu thai chỉ để tìm kiếm cảm giác kích thích."
+    },
+    {
+      "para_id": "c0233p0018",
+      "index": 18,
+      "raw_zh": "當然，最過分的還是小扎格，因為我收購了一個社交軟件，導致他的公司股票腰斬，小扎格竟然打電話威脅我，以後去火星在我的神軀上撒尿。",
+      "translated_vi": "Đương nhiên, quá quắt nhất vẫn là gã nhãi Trát Cách. Vì tôi thu mua một ứng dụng mạng xã hội khiến cổ phiếu công ty hắn sụt giảm một nửa, gã nhãi Trát Cách dám gọi điện đe dọa tôi, bảo rằng sau này lên sao Hỏa sẽ tè lên thần khu của tôi."
+    },
+    {
+      "para_id": "c0233p0019",
+      "index": 19,
+      "raw_zh": "你知道的，他很小氣，一定會那麽做，所以我最近很忙，急著搞科技上火星，把我的神軀藏好。”",
+      "translated_vi": "Cô biết tính hắn rồi đấy, hẹp hòi bủn xỉn, chắc chắn sẽ làm thật. Cho nên dạo này tôi bận tối mắt tối mũi, vội vã phát triển công nghệ để bay lên sao Hỏa giấu kỹ thần khu của mình.\""
+    },
+    {
+      "para_id": "c0233p0020",
+      "index": 20,
+      "raw_zh": "白狐笑道：",
+      "translated_vi": "Bạch hồ bật cười:"
+    },
+    {
+      "para_id": "c0233p0021",
+      "index": 21,
+      "raw_zh": "“小扎格的神軀在金星上吧？那裡那麽熱，火氣大點很正常，唉，就我們普羅星的同族，只有我活了下來。”",
+      "translated_vi": "\"Thần khu của gã nhãi Trát Cách nằm ở sao Kim đúng không? Nơi đó nóng nực như thế, tính khí nóng nảy cũng là bình thường. Haizz, trong số đồng tộc từ hành tinh Phổ La chúng ta, chỉ còn mỗi tôi sống sót.\""
+    },
+    {
+      "para_id": "c0233p0022",
+      "index": 22,
+      "raw_zh": "倆人默哀。",
+      "translated_vi": "Cả hai mặc niệm trong giây lát."
+    },
+    {
+      "para_id": "c0233p0023",
+      "index": 23,
+      "raw_zh": "隨後他們又敘舊了一會，主要是白狐詢問各個同族現在的情況。",
+      "translated_vi": "Sau đó bọn họ lại ôn chuyện cũ thêm một lúc, chủ yếu là bạch hồ dò hỏi tình hình hiện tại của các đồng tộc khác."
+    },
+    {
+      "para_id": "c0233p0024",
+      "index": 24,
+      "raw_zh": "然後她發現一個問題：",
+      "translated_vi": "Rồi cô chợt phát hiện ra một vấn đề:"
+    },
+    {
+      "para_id": "c0233p0025",
+      "index": 25,
+      "raw_zh": "“瑪肆科，為什麽我們的同族沒有一個是華夏人？”",
+      "translated_vi": "\"Mã Tứ Khoa, tại sao đồng tộc của chúng ta không có lấy một ai là người Hoa Hạ?\""
+    },
+    {
+      "para_id": "c0233p0026",
+      "index": 26,
+      "raw_zh": "瑪肆科一拍桌子，憤怒道：",
+      "translated_vi": "Mã Tứ Khoa vỗ mạnh xuống bàn, phẫn nộ quát:"
+    },
+    {
+      "para_id": "c0233p0027",
+      "index": 27,
+      "raw_zh": "“還不是該死的九屠，他們逼著我們和周天子簽訂了契約，生生世世不得生在華夏，說是怕我們投錯了胎，變成你這樣成精的畜生嚇到了小孩子。”",
+      "translated_vi": "\"Chẳng phải đều do đám Cửu Đồ chết tiệt đó sao! Bọn chúng ép chúng ta phải ký khế ước với Chu Thiên Tử, đời đời kiếp kiếp không được phép sinh ra trên đất Hoa Hạ, bảo là sợ chúng ta đầu thai nhầm, biến thành súc sinh thành tinh như cô dọa sợ con nít!\""
+    },
+    {
+      "para_id": "c0233p0028",
+      "index": 28,
+      "raw_zh": "白狐急道：",
+      "translated_vi": "Bạch hồ vội nói:"
+    },
+    {
+      "para_id": "c0233p0029",
+      "index": 29,
+      "raw_zh": "“這不很明擺著是借口嗎？你們竟然還答應？”",
+      "translated_vi": "\"Đây rõ ràng là cái cớ vô lý cơ mà? Các anh vậy mà cũng chịu đồng ý sao?\""
+    },
+    {
+      "para_id": "c0233p0030",
+      "index": 30,
+      "raw_zh": "瑪肆科無奈聳了聳肩，道：",
+      "translated_vi": "Mã Tứ Khoa bất đắc dĩ nhún vai, đáp:"
+    },
+    {
+      "para_id": "c0233p0031",
+      "index": 31,
+      "raw_zh": "“當然是借口，他們就是害怕我們輪回在華夏文明之中，了解了帝嚳的思維方式，至於我們為什麽答應，當然是怕嗎！我們害怕帝嚳咯，不許山神生華夏就是帝嚳的禁律。",
+      "translated_vi": "\"Dĩ nhiên là cái cớ rồi, bọn chúng chỉ sợ chúng ta luân hồi trong nền văn minh Hoa Hạ rồi thấu suốt được phương thức tư duy của Đế Cốc. Còn chuyện vì sao chúng ta đồng ý, đương nhiên là vì sợ chứ sao! Chúng ta sợ Đế Cốc đấy. Lệnh cấm sơn thần không được sinh ra ở cõi Hoa Hạ chính là thiết luật do đích thân Đế Cốc ban xuống."
+    },
+    {
+      "para_id": "c0233p0032",
+      "index": 32,
+      "raw_zh": "帝嚳分封天下，把他認為比較垃圾的品種全都攆出了華夏神州地界，沿著北緯三十度線一路分封，一竿子全給攆出去，命令分封各部只能稱王不可稱皇，文字給音不給形，建塔必須有尖，不許平頂，永低他的嫡系華夏文明一個等級。”",
+      "translated_vi": "Năm xưa Đế Cốc phân phong thiên hạ, quét sạch toàn bộ những chủng loại mà ông ta cho là thứ phẩm ra khỏi địa giới Thần Châu Hoa Hạ, đuổi thẳng một mạch dọc theo đường vĩ tuyến ba mươi độ Bắc. Ông ta hạ lệnh cho các bộ tộc bị phân phong chỉ được xưng Vương chứ tuyệt đối không được xưng Hoàng, cấp cho văn tự có âm nhưng không có hình thể, xây tháp bắt buộc phải có chóp nhọn chứ không được làm đỉnh bằng, vĩnh viễn phải xếp dưới nền văn minh Hoa Hạ chính thống của ông ta một bậc.\""
+    },
+    {
+      "para_id": "c0233p0033",
+      "index": 33,
+      "raw_zh": "白狐法緹娜還是看了很多資料的，她詫異道：",
+      "translated_vi": "Bạch hồ Fatina vốn đã đọc rất nhiều tư liệu, cô kinh ngạc thốt lên:"
+    },
+    {
+      "para_id": "c0233p0034",
+      "index": 34,
+      "raw_zh": "“帝嚳？周時帝嚳不是早就薨了嗎？還有什麽可怕？而且帝嚳不就是個人嗎？咱們可是神！”",
+      "translated_vi": "\"Đế Cốc? Đến thời nhà Chu thì Đế Cốc chẳng phải đã băng hà từ lâu rồi sao? Còn gì đáng sợ nữa chứ? Huống hồ Đế Cốc chẳng qua cũng chỉ là một con người thôi mà? Chúng ta mới là Thần!\""
+    },
+    {
+      "para_id": "c0233p0035",
+      "index": 35,
+      "raw_zh": "瑪肆科苦笑道：",
+      "translated_vi": "Mã Tứ Khoa cười khổ:"
+    },
+    {
+      "para_id": "c0233p0036",
+      "index": 36,
+      "raw_zh": "“普羅，你知道你最幸運的是什麽嗎？就是你沒親身經歷帝嚳的年代，那是眾神尿褲子的年代，我說的神可不僅僅包括我們這些被帝嚳封為山神的，還有其它你完全不知道的更可怕的存在，我們他們都怕帝嚳，這不丟神，一點都不丟。”",
+      "translated_vi": "\"Phổ La, cô có biết điều may mắn nhất của cô là gì không? Chính là cô chưa từng đích thân trải qua thời đại của Đế Cốc. Đó là thời đại mà chư thần sợ đến mức tè cả ra quần! Thần linh mà tôi nhắc tới ở đây không chỉ gồm những kẻ bị Đế Cốc sắc phong làm sơn thần như chúng ta, mà còn có cả những tồn tại khủng khiếp hơn nhiều mà cô hoàn toàn không hề hay biết. Cả chúng ta lẫn bọn họ đều sợ Đế Cốc, chuyện đó chẳng làm mất mặt thần linh chút nào, một li một tí cũng không.\""
+    },
+    {
+      "para_id": "c0233p0037",
+      "index": 37,
+      "raw_zh": "白狐不解道：",
+      "translated_vi": "Bạch hồ không hiểu:"
+    },
+    {
+      "para_id": "c0233p0038",
+      "index": 38,
+      "raw_zh": "“我不了解帝嚳，但是帝嚳再強，周時他已經薨了，又有什麽可怕呢？我無法理解。”",
+      "translated_vi": "\"Tôi không hiểu rõ về Đế Cốc, nhưng cho dù Đế Cốc có mạnh đến đâu đi nữa thì vào thời nhà Chu ông ta cũng đã qua đời rồi, còn có gì đáng sợ chứ? Tôi thật sự không tài nào hiểu nổi.\""
+    },
+    {
+      "para_id": "c0233p0039",
+      "index": 39,
+      "raw_zh": "瑪肆科歎息著，眼中全是恐懼和敬仰，說道：",
+      "translated_vi": "Mã Tứ Khoa thở dài, trong mắt ngập tràn sợ hãi cùng kính ngưỡng, cất giọng:"
+    },
+    {
+      "para_id": "c0233p0040",
+      "index": 40,
+      "raw_zh": "“咱們一族在數千年前也是那麽認為的，我們自覺還是比較謹慎的，直等到帝嚳薨後，又忍過了唐堯和大禹兩位人皇，才開始暗暗運作。",
+      "translated_vi": "\"Hàng ngàn năm trước tộc ta cũng từng nghĩ như thế. Chúng ta tự thấy mình đã đủ cẩn trọng, nhẫn nại đợi cho đến khi Đế Cốc băng hà, lại nhịn qua cả hai đời Nhân Hoàng là Đường Nghiêu và Đại Vũ, rồi mới bắt đầu ngấm ngầm hành động."
+    },
+    {
+      "para_id": "c0233p0041",
+      "index": 41,
+      "raw_zh": "我們輪回轉生到西商部族，靠著咱們的學識漸漸壯大殷商，然後趁著夏朝衰弱之際，東進而上，一舉消滅夏國，入主神州。",
+      "translated_vi": "Chúng ta luân hồi chuyển sinh vào bộ tộc Tây Thương, dựa vào tri thức uyên bác của giống loài mình mà dần dà khuếch trương Ân Thương lớn mạnh, rồi thừa dịp triều Hạ suy yếu liền tiến quân về phía đông, một hơi tiêu diệt nước Hạ, làm chủ Thần Châu."
+    },
+    {
+      "para_id": "c0233p0042",
+      "index": 42,
+      "raw_zh": "我們當時以為自己成功了，還在沾沾自喜，自大的覺得帝嚳算計不過如此，無法福緣千年，我們真的是太愚蠢了。”",
+      "translated_vi": "Lúc bấy giờ chúng ta ngỡ rằng mình đã thành công, còn đắc chí tự mãn, kiêu ngạo cho rằng mưu tính của Đế Cốc cũng chỉ đến thế mà thôi, chẳng thể nào che chở phù hộ được đến ngàn năm sau. Thật sự là chúng ta quá đỗi ngu xuẩn.\""
+    },
+    {
+      "para_id": "c0233p0043",
+      "index": 43,
+      "raw_zh": "白狐回憶了一下自己看過的世界史，納悶道：",
+      "translated_vi": "Bạch hồ hồi tưởng lại lịch sử thế giới mà mình từng đọc, khó hiểu nói:"
+    },
+    {
+      "para_id": "c0233p0044",
+      "index": 44,
+      "raw_zh": "“你們，不對，是我們確實成功了啊！商王朝確實入主神州了。”",
+      "translated_vi": "\"Các anh... không đúng, là chúng ta rõ ràng đã thành công cơ mà! Vương triều nhà Thương thật sự đã làm chủ Thần Châu rồi còn gì.\""
+    },
+    {
+      "para_id": "c0233p0045",
+      "index": 45,
+      "raw_zh": "瑪肆科搖了搖頭：",
+      "translated_vi": "Mã Tứ Khoa lắc đầu:"
+    },
+    {
+      "para_id": "c0233p0046",
+      "index": 46,
+      "raw_zh": "“不，我們只是棋子，被已經薨了的帝嚳，玩弄於掌心的棋子。",
+      "translated_vi": "\"Không, chúng ta chỉ là những quân cờ, những quân cờ bị một Đế Cốc đã qua đời xoay vần gọn gàng trong lòng bàn tay."
+    },
+    {
+      "para_id": "c0233p0047",
+      "index": 47,
+      "raw_zh": "商始，我們覺得這個世界是我們的了，我們放松了警惕，墮落到把人類端上了祭祀的餐桌，以此滿足我們高人一等的心裡。",
+      "translated_vi": "Thuở đầu nhà Thương, chúng ta ngỡ rằng thế giới này đã hoàn toàn thuộc về mình. Chúng ta buông lỏng cảnh giác, sa đọa đến mức đưa con người lên bàn tiệc tế lễ, chỉ để thỏa mãn tâm lý bề trên cao quý của bản thân."
+    },
+    {
+      "para_id": "c0233p0048",
+      "index": 48,
+      "raw_zh": "人怨暗生，當時九屠之首薑尚遊歷天下而歸，而後直入西岐，我們誰都沒想到，薑尚帶領著九屠竟然把散落天下的巫族余孽全都匯聚在一起。",
+      "translated_vi": "Oán hận trong nhân gian ngấm ngầm tích tụ. Đúng lúc ấy, người đứng đầu Cửu Đồ là Khương Thượng du ngoạn thiên hạ trở về, lập tức tiến thẳng vào Tây Kỳ. Không một ai trong chúng ta ngờ tới rằng, Khương Thượng dẫn dắt Cửu Đồ lại có thể quy tụ toàn bộ tàn dư của Vu tộc đang lưu lạc khắp thế gian về một mối."
+    },
+    {
+      "para_id": "c0233p0049",
+      "index": 49,
+      "raw_zh": "西岐姬昌在薑尚的幫扶下，東進伐商，巫族余孽和我們展開了後世小說裡常說的封神之戰，人類觀戰，我們玩命，那一戰巫族余孽死亡殆盡，而我們苦心在神州建立的一切，也都飛灰湮滅。",
+      "translated_vi": "Dưới sự phò tá của Khương Thượng, Cơ Xương ở Tây Kỳ đã dấy binh đông chinh phạt Thương. Tàn dư Vu tộc cùng chúng ta khai mở một cuộc chiến mà các tiểu thuyết đời sau thường gọi là trận chiến Phong Thần. Con người đứng ngoài quan sát, còn chúng ta thì liều mạng chém giết. Trận chiến ấy khiến tàn dư Vu tộc chết sạch không còn một mống, mà tất cả những gì chúng ta khổ tâm gầy dựng tại Thần Châu cũng tan thành mây khói."
+    },
+    {
+      "para_id": "c0233p0050",
+      "index": 50,
+      "raw_zh": "之前我們還以為巫族余孽未盡，是帝嚳力所不逮，那時候才知道，巫族余孽，本就是給我們留著的，而且留得恰好與我們當時的實力旗鼓相當，大家都是帝嚳的棋子，這是多麽精妙的算計。",
+      "translated_vi": "Trước đó chúng ta cứ ngỡ tàn dư Vu tộc chưa bị diệt tận gốc là do sức lực của Đế Cốc không với tới, mãi đến lúc đó mới vỡ lẽ ra rằng: tàn dư Vu tộc vốn dĩ là thứ được ông ta cố tình chừa lại cho chúng ta! Hơn nữa còn chừa lại với lực lượng vừa khít, cân tài cân sức với thực lực của chúng ta khi ấy. Rốt cuộc tất cả đều chỉ là những quân cờ của Đế Cốc, một mưu tính tinh diệu đến rợn người!"
+    },
+    {
+      "para_id": "c0233p0051",
+      "index": 51,
+      "raw_zh": "知識、強大的體魄，乃至於科技，在智慧面前，什麽都不是，渺小如塵埃，就像我們面對帝嚳。”",
+      "translated_vi": "Tri thức, thể phách hùng mạnh, thậm chí cả khoa học kỹ thuật, đứng trước trí tuệ thực thụ đều chẳng là gì cả, nhỏ bé tựa như hạt bụi trần, hệt như cái cách mà chúng ta phải đối mặt với Đế Cốc vậy.\""
+    },
+    {
+      "para_id": "c0233p0052",
+      "index": 52,
+      "raw_zh": "白狐也是禁不住屏住呼吸，只是聽說，就已經感受到了帝嚳這個名字帶來的壓迫感。",
+      "translated_vi": "Bạch hồ cũng không kìm được mà nín thở, dẫu chỉ mới nghe kể lại, cô đã cảm nhận được một nỗi áp bức đến nghẹt thở tỏa ra từ cái tên Đế Cốc."
+    },
+    {
+      "para_id": "c0233p0053",
+      "index": 53,
+      "raw_zh": "“帝嚳竟然如此可怕！這要多強大的算計，才能福澤後世千年？”",
+      "translated_vi": "\"Đế Cốc vậy mà lại đáng sợ đến nhường ấy! Phải có mưu lược kinh thiên động địa đến mức nào mới có thể che chở phù hộ cho hậu thế suốt cả ngàn năm?\""
+    },
+    {
+      "para_id": "c0233p0054",
+      "index": 54,
+      "raw_zh": "瑪肆科眼中帶著敬畏道：",
+      "translated_vi": "Trong mắt Mã Tứ Khoa tràn đầy vẻ kính sợ, nói:"
+    },
+    {
+      "para_id": "c0233p0055",
+      "index": 55,
+      "raw_zh": "“豈止千年？我懷疑此時的天下，依舊在他的算計范圍之內，沒有脫離他的掌控。",
+      "translated_vi": "\"Đâu chỉ ngàn năm? Tôi nghi ngờ thiên hạ lúc này đây vẫn nằm trong tầm toan tính của ngài ấy, chưa từng thoát khỏi sự khống chế của ngài."
+    },
+    {
+      "para_id": "c0233p0056",
+      "index": 56,
+      "raw_zh": "而且你知道最可怕的是什麽嗎？”",
+      "translated_vi": "Hơn nữa, cô có biết điều đáng sợ nhất là gì không?\""
+    },
+    {
+      "para_id": "c0233p0057",
+      "index": 57,
+      "raw_zh": "白狐搖了搖頭。",
+      "translated_vi": "Bạch Hồ lắc đầu."
+    },
+    {
+      "para_id": "c0233p0058",
+      "index": 58,
+      "raw_zh": "瑪肆科繼續道：",
+      "translated_vi": "Mã Tứ Khoa tiếp tục nói:"
+    },
+    {
+      "para_id": "c0233p0059",
+      "index": 59,
+      "raw_zh": "“更可怕的是，帝嚳只是一個人類，純粹的人類，哈哈哈！三維度的生物，把我們四維度而來的高級生命玩弄於股掌，偏偏這不是個玩笑。”",
+      "translated_vi": "\"Đáng sợ hơn nữa là Đế Cốc chỉ là một con người, một nhân loại thuần túy, ha ha ha! Một sinh vật ba chiều lại có thể xoay vần những sinh mệnh cao cấp đến từ không gian bốn chiều như chúng ta trong lòng bàn tay, trớ trêu thay đó lại chẳng phải một trò đùa.\""
+    },
+    {
+      "para_id": "c0233p0060",
+      "index": 60,
+      "raw_zh": "說著，他眼神之中蘊含著無限的憧憬，說道：",
+      "translated_vi": "Vừa nói, ánh mắt hắn vừa đong đầy nỗi khao khát vô bờ bến, cất giọng:"
+    },
+    {
+      "para_id": "c0233p0061",
+      "index": 61,
+      "raw_zh": "“大家多麽希望能夠托生華夏啊！不為了高人一等，不為了入主神州，只是在那個基因和文明下感受帝嚳的思維，如果能讓我體會一秒鍾帝嚳的意識和靈魂，我願意拋棄永生。",
+      "translated_vi": "\"Mọi người khao khát được đầu thai vào Hoa Hạ biết bao! Chẳng phải vì muốn hơn người một bậc, cũng chẳng phải để làm chủ Thần Châu, mà chỉ muốn được đắm mình trong hệ gien và nền văn minh ấy để cảm thụ tư duy của Đế Cốc. Nếu có thể cho tôi trải nghiệm ý thức và linh hồn của Đế Cốc dù chỉ trong một giây, tôi sẵn sàng từ bỏ cả sự bất tử."
+    },
+    {
+      "para_id": "c0233p0062",
+      "index": 62,
+      "raw_zh": "都說人身難得，佛法難聞，要我說最難得，是華夏難生。”",
+      "translated_vi": "Người ta thường bảo thân người khó được, Phật pháp khó nghe, nhưng theo tôi thấy, điều khó nhất chính là được sinh ra nơi Hoa Hạ.\""
+    },
+    {
+      "para_id": "c0233p0063",
+      "index": 63,
+      "raw_zh": "這已經不是敬佩了，而是信仰。",
+      "translated_vi": "Đây đã không còn là sự kính nể nữa, mà là tín ngưỡng."
+    },
+    {
+      "para_id": "c0233p0064",
+      "index": 64,
+      "raw_zh": "而他的信仰，是他的敵人。",
+      "translated_vi": "Mà đối tượng tín ngưỡng của hắn, lại chính là kẻ thù của hắn."
+    },
+    {
+      "para_id": "c0233p0065",
+      "index": 65,
+      "raw_zh": "這並不可笑。",
+      "translated_vi": "Chuyện này chẳng đáng cười chút nào."
+    },
+    {
+      "para_id": "c0233p0066",
+      "index": 66,
+      "raw_zh": "白狐在帝嚳事跡的震撼下緩過神來，疑惑道：",
+      "translated_vi": "Bạch Hồ bừng tỉnh sau cơn chấn động trước những kỳ tích của Đế Cốc, cất giọng khó hiểu:"
+    },
+    {
+      "para_id": "c0233p0067",
+      "index": 67,
+      "raw_zh": "“帝嚳如此之強，為何不毀滅了我們？”",
+      "translated_vi": "\"Đế Cốc mạnh mẽ đến thế, vì sao không hủy diệt chúng ta luôn đi?\""
+    },
+    {
+      "para_id": "c0233p0068",
+      "index": 68,
+      "raw_zh": "瑪肆科“哈哈”大笑起來，眼角夾著眼淚，看著白狐聲音抖個不停，叫道：",
+      "translated_vi": "Mã Tứ Khoa ngửa mặt cười ha hả, khóe mắt rơm rớm lệ, nhìn Bạch Hồ với thanh âm run rẩy không dứt, gào lên:"
+    },
+    {
+      "para_id": "c0233p0069",
+      "index": 69,
+      "raw_zh": "“因為帝嚳需要狗啊！需要看門的狗！他把我們的神軀放在每一個秘境之內，盯著蚩尤，讓其無法重生，看著那些堵著地底的青銅巨門，沒有什麽比我們這些不死的家夥更適合做這件事，帝嚳把我們安排的明明白白。",
+      "translated_vi": "\"Bởi vì Đế Cốc cần chó! Cần những con chó giữ cửa! Ngài ấy đặt thần khu của chúng ta vào từng bí cảnh, bắt phải chằm chằm canh chừng Xi Vưu để hắn không thể trùng sinh, canh giữ những cánh cổng đồng khổng lồ chặn đứng lòng đất. Chẳng có gì thích hợp để làm việc này hơn lũ bất tử như chúng ta cả, Đế Cốc đã sắp đặt chúng ta đâu ra đấy rõ ràng!"
+    },
+    {
+      "para_id": "c0233p0070",
+      "index": 70,
+      "raw_zh": "我們不想像狗盯著骨頭一樣看著那些蚩尤殘軀，不想像狗一樣到了晚上就盯著大門，但我們不敢不盯著，帝嚳這個名字，就像南山，遮擋住了太陽，把我們淹沒在沒有邊際的陰影之中。",
+      "translated_vi": "Chúng ta chẳng hề muốn như lũ chó nhìn chằm chằm khúc xương mà canh giữ đám tàn khu của Xi Vưu, càng không muốn hễ đêm xuống là phải dán mắt vào cánh cổng lớn như chó gác cổng, nhưng chúng ta không dám không canh! Cái tên Đế Cốc kia sừng sững tựa ngọn Nam Sơn, che khuất cả vầng thái dương, nhấn chìm chúng ta trong bóng tối vô biên vô tận."
+    },
+    {
+      "para_id": "c0233p0071",
+      "index": 71,
+      "raw_zh": "你知道嗎？商被周滅那一刻，鹿台燃起大火之時，我們，咱們這些同族決定放棄生命，那種打擊太大了，我們甚至覺得活下去是一種屈辱。",
+      "translated_vi": "Cô có biết không? Khoảnh khắc nhà Thương bị nhà Chu tiêu diệt, lúc Lộc Đài bốc cháy ngút trời, chúng ta... những đồng tộc của chúng ta đã quyết định từ bỏ sinh mệnh. Cú đả kích ấy quá đỗi kinh hoàng, chúng ta thậm chí cảm thấy tiếp tục sống sót là một nỗi sỉ nhục."
+    },
+    {
+      "para_id": "c0233p0072",
+      "index": 72,
+      "raw_zh": "但你知道嗎？你知道嗎？帝嚳連這一點都算計到了，薑尚祭出了周契，降人皇為天子爵，與我等神族同階，彼此尊重，只是帝嚳禁律不可改，我們依舊不得托生神州華夏。",
+      "translated_vi": "Nhưng cô có biết không? Cô có biết không hả? Ngay cả điều này mà Đế Cốc cũng đã toan tính từ trước! Khương Thượng tế xuất Chu Khế, giáng tước Nhân Hoàng xuống thành tước Thiên Tử, ngang hàng với thần tộc chúng ta, đôi bên tôn trọng lẫn nhau, chỉ có điều cấm luật của Đế Cốc không thể đổi thay, chúng ta vẫn mãi không được đầu thai vào mảnh đất Thần Châu Hoa Hạ."
+    },
+    {
+      "para_id": "c0233p0073",
+      "index": 73,
+      "raw_zh": "帝嚳把我們裡子掏空了，給了我們一個面子，就是這個面子，我們特麽不想死了，太可怕了，怎麽就不想死了，太可怕了！”",
+      "translated_vi": "Đế Cốc đã lột sạch ruột gan của chúng ta, nhưng lại bố thí cho chúng ta một chút thể diện. Thế mà chỉ vì chút thể diện ấy, mẹ kiếp, chúng ta lại không muốn chết nữa! Quá đỗi đáng sợ, tại sao lại không muốn chết nữa chứ, thực sự quá mức đáng sợ!\""
+    },
+    {
+      "para_id": "c0233p0074",
+      "index": 74,
+      "raw_zh": "白狐苦笑道：",
+      "translated_vi": "Bạch Hồ cười khổ:"
+    },
+    {
+      "para_id": "c0233p0075",
+      "index": 75,
+      "raw_zh": "“這不是給面子，這是拿捏。”",
+      "translated_vi": "\"Đây không phải là nể mặt, mà là nắm thóp.\""
+    },
+    {
+      "para_id": "c0233p0076",
+      "index": 76,
+      "raw_zh": "白狐沒有經歷過那一段歷史，所以無法感同身受，不會像瑪肆科一樣，提到帝嚳，整個人的靈魂都在一種極度複雜的情緒裡顫栗。",
+      "translated_vi": "Bạch Hồ chưa từng trải qua giai đoạn lịch sử ấy nên không thể nào đồng cảm sâu sắc, không giống như Mã Tứ Khoa, hễ nhắc tới Đế Cốc là toàn bộ linh hồn lại run rẩy trong một mớ cảm xúc cực kỳ phức tạp."
+    },
+    {
+      "para_id": "c0233p0077",
+      "index": 77,
+      "raw_zh": "瑪肆科點了點頭，低聲道：",
+      "translated_vi": "Mã Tứ Khoa gật đầu, trầm giọng nói:"
+    },
+    {
+      "para_id": "c0233p0078",
+      "index": 78,
+      "raw_zh": "“對，拿捏。”",
+      "translated_vi": "\"Đúng vậy, là nắm thóp.\""
+    },
+    {
+      "para_id": "c0233p0079",
+      "index": 79,
+      "raw_zh": "白狐看著最人來瘋的濕瑪，她無法想象這種被打擊到靈魂佝僂的人會是濕瑪。",
+      "translated_vi": "Bạch Hồ nhìn Thấp Mã — kẻ vốn dĩ thích chơi ngông nhất, cô không thể nào tưởng tượng nổi người bị vùi dập đến mức linh hồn còng rạp xuống thế này lại là Thấp Mã."
+    },
+    {
+      "para_id": "c0233p0080",
+      "index": 80,
+      "raw_zh": "“所以，我們一族就這樣認命了嗎？當人類的看門狗？”",
+      "translated_vi": "\"Cho nên tộc chúng ta cứ thế nhận mệnh sao? Làm chó giữ cửa cho loài người?\""
+    },
+    {
+      "para_id": "c0233p0081",
+      "index": 81,
+      "raw_zh": "濕瑪緩緩搖頭：",
+      "translated_vi": "Thấp Mã chậm rãi lắc đầu:"
+    },
+    {
+      "para_id": "c0233p0082",
+      "index": 82,
+      "raw_zh": "“沒有，但我們不敢再走到人前，我們開始積累金錢和力量，隻做推波助瀾之事。",
+      "translated_vi": "\"Không hề, nhưng chúng ta không dám bước ra trước mặt nhân loại nữa. Chúng ta bắt đầu tích lũy tiền tài và sức mạnh, chỉ âm thầm đổ thêm dầu vào lửa, đẩy sóng chèo thuyền."
+    },
+    {
+      "para_id": "c0233p0083",
+      "index": 83,
+      "raw_zh": "兩千年前，秦時始皇帝不受天子爵，毀約周契，九屠分裂，那麽好的機會，我們都沒敢動手。",
+      "translated_vi": "Hai nghìn năm trước, thời nhà Tần, Thủy Hoàng Đế không chịu nhận tước Thiên Tử, xé bỏ Chu Khế, Cửu Đồ chia rẽ. Một cơ hội tuyệt hảo dường ấy, vậy mà chúng ta cũng chẳng dám manh động."
+    },
+    {
+      "para_id": "c0233p0084",
+      "index": 84,
+      "raw_zh": "當時巫族文明傳承者墨家把蚩尤的秘密告訴了始皇帝，讓始皇帝明白，一旦得到了蚩尤甲，得到了元，他的秦就能千秋萬代。",
+      "translated_vi": "Lúc bấy giờ, Mặc gia — kẻ kế thừa văn minh Vu tộc — đã tiết lộ bí mật của Xi Vưu cho Thủy Hoàng Đế, khiến Thủy Hoàng Đế hiểu rằng một khi đoạt được Xi Vưu Giáp, có được 'Nguyên', thì Đại Tần của ông ta sẽ có thể trường tồn vạn đại."
+    },
+    {
+      "para_id": "c0233p0085",
+      "index": 85,
+      "raw_zh": "而秦時一代的九屠，那時正苦勸始皇帝接受天子爵，不得違約周契，更不得覬覦蚩尤之身。",
+      "translated_vi": "Còn Cửu Đồ thời Tần khi ấy đang ra sức khuyên can Thủy Hoàng Đế tiếp nhận tước Thiên Tử, không được bội ước Chu Khế, càng không được ngấp nghé thân xác Xi Vưu."
+    },
+    {
+      "para_id": "c0233p0086",
+      "index": 86,
+      "raw_zh": "始皇帝心煩，但卻不敢太過違逆九屠，於是裝模作樣焚書坑儒，當著九屠的面，把所有有關巫族和蚩尤的記錄記載焚燒乾淨，把知道這個秘密的人一起坑殺，更是滿口答應接受天子爵。",
+      "translated_vi": "Thủy Hoàng Đế phiền lòng, nhưng lại không dám làm trái ý Cửu Đồ quá mức, bèn giả bộ bày trò đốt sách chôn nho. Ngay trước mặt Cửu Đồ, ông ta cho thiêu rụi toàn bộ thư tịch ghi chép về Vu tộc và Xi Vưu, chôn sống tất cả những ai biết bí mật này, lại còn một mực hứa hẹn sẽ nhận tước Thiên Tử."
+    },
+    {
+      "para_id": "c0233p0087",
+      "index": 87,
+      "raw_zh": "九屠心滿意足，很安慰始皇帝如此深明大義，然後開心的為始皇帝去找九屠很清楚不存在的仙丹去了。",
+      "translated_vi": "Cửu Đồ vô cùng hài lòng, lấy làm an ủi khi thấy Thủy Hoàng Đế hiểu đại nghĩa như vậy, rồi vui vẻ đi tìm thứ tiên đan mà chính Cửu Đồ thừa biết là không hề tồn tại cho Thủy Hoàng Đế."
+    },
+    {
+      "para_id": "c0233p0088",
+      "index": 88,
+      "raw_zh": "哪知道，他們騙始皇，始皇也騙九屠。",
+      "translated_vi": "Nào ngờ, bọn họ lừa Thủy Hoàng, Thủy Hoàng cũng gạt lại Cửu Đồ."
+    },
+    {
+      "para_id": "c0233p0089",
+      "index": 89,
+      "raw_zh": "結果他們一走，始皇就讓人開始尋找蚩尤，九屠得知後，內部的反應卻不一致，一代新人換舊人，此時的九屠更是老中小三代九人，思想已經彼此不同。",
+      "translated_vi": "Kết quả là họ vừa rời đi, Thủy Hoàng liền sai người lùng sục tìm kiếm Xi Vưu. Sau khi hay tin, nội bộ Cửu Đồ lại phản ứng không đồng nhất. Tre già măng mọc, Cửu Đồ khi đó gồm chín người thuộc ba thế hệ già, trung, trẻ, tư tưởng đã bắt đầu rẽ hướng."
+    },
+    {
+      "para_id": "c0233p0090",
+      "index": 90,
+      "raw_zh": "有的九屠認為應該換新天子，有的九屠則認為人生而太苦，若是善加利用蚩尤，可保人類再無生死之憂，那麽世界就能大同。",
+      "translated_vi": "Có người trong Cửu Đồ cho rằng nên đổi một Thiên Tử mới, nhưng cũng có người lại nghĩ đời người sinh ra quá đỗi thống khổ, nếu khéo léo tận dụng Xi Vưu thì có thể bảo đảm loài người không còn nỗi lo sinh tử, khi ấy thế giới sẽ đạt đến đại đồng."
+    },
+    {
+      "para_id": "c0233p0091",
+      "index": 91,
+      "raw_zh": "於是其中一派與墨家合作，想要一個人類再無死亡之患的完美世界，另一派無法抵抗二者結合，隻好選擇與我們聯合，我們也在那時候知道了補天之門的存在。",
+      "translated_vi": "Thế là một phái trong số đó bắt tay hợp tác với Mặc gia, mưu cầu một thế giới hoàn mỹ nơi con người không còn mối họa tử vong; phái còn lại không thể chống đỡ nổi sự liên minh của hai bên kia, đành phải lựa chọn liên thủ với chúng ta. Chúng ta cũng chính vào thời điểm đó mới biết được sự tồn tại của Cửa Bổ Thiên."
+    },
+    {
+      "para_id": "c0233p0092",
+      "index": 92,
+      "raw_zh": "那時候我們才知道，幸好沒有動手，否則會有帝嚳欽定的補天人一族進入補天之門回到三十年前，把我們一網打盡。",
+      "translated_vi": "Lúc ấy chúng ta mới vỡ lẽ, may mà khi xưa không ra tay, nếu không nhất tộc Bổ Thiên nhân do đích thân Đế Cốc khâm định sẽ bước vào Cửa Bổ Thiên, quay ngược về ba mươi năm trước để tóm gọn chúng ta trong một mẻ lưới."
+    },
+    {
+      "para_id": "c0233p0093",
+      "index": 93,
+      "raw_zh": "補天之門的秘密被我們知道以後，我們開始利用科技，利用微觀的力量影響每一個三十年前的節點，慢慢改變著人類的記憶。",
+      "translated_vi": "Sau khi nắm được bí mật về Cửa Bổ Thiên, chúng ta bắt đầu tận dụng công nghệ, vận dụng sức mạnh vi mô để tác động lên từng mắt xích thời gian ba mươi năm trước, chậm rãi biến đổi ký ức của loài người."
+    },
+    {
+      "para_id": "c0233p0094",
+      "index": 94,
+      "raw_zh": "讓他們徹底混亂了對歷史的記憶，忘記我們的存在，更能讓補天人忘記自己的存在，每當有人企圖發現我們，發現真實的歷史，我們就改變他的記憶，甚至讓他在這個世界消失，真正的消失，從別人的記憶裡和物質層面一起消失。",
+      "translated_vi": "Khiến ký ức lịch sử của họ hoàn toàn hỗn loạn, quên đi sự tồn tại của chúng ta, thậm chí khiến người Bổ Thiên quên mất sự tồn tại của chính mình. Mỗi khi có ai toan phát hiện ra chúng ta, vạch trần chân tướng lịch sử, chúng ta liền thay đổi ký ức của người đó, thậm chí khiến kẻ ấy biến mất khỏi thế giới này — thực sự biến mất, bốc hơi đồng thời khỏi ký ức của người khác lẫn ở tầng diện vật chất."
+    },
+    {
+      "para_id": "c0233p0095",
+      "index": 95,
+      "raw_zh": "這樣我們才能蠶食神州，直到華夏消失，我們便再沒有托生之限，就能再次入主神州，感受帝嚳的思維。",
+      "translated_vi": "Chỉ có như vậy chúng ta mới có thể gặm nhấm Thần Châu, cho đến khi Hoa Hạ hoàn toàn tiêu biến, chúng ta sẽ không còn bị giới hạn việc đầu thai, có thể lần nữa làm chủ Thần Châu, cảm thụ tư duy của Đế Cốc."
+    },
+    {
+      "para_id": "c0233p0096",
+      "index": 96,
+      "raw_zh": "但我們還是失敗了，因為補天人哪怕不知道自己是補天人，依舊會走上帝嚳安排好的宿命，帝嚳的算計根本沒有依托任何外物，那就是他的算計，無論我們怎麽做，無論我們以為自己多麽巧妙，但那都在帝嚳的算計之內。",
+      "translated_vi": "Nhưng chúng ta rốt cuộc vẫn thất bại, bởi vì người Bổ Thiên dù không biết mình là người Bổ Thiên thì vẫn sẽ bước đi trên quỹ đạo số mệnh mà Đế Cốc đã an bài. Toan tính của Đế Cốc căn bản chẳng cần dựa dẫm vào bất kỳ ngoại vật nào, đó thuần túy là tính toán của ngài ấy. Bất kể chúng ta làm gì, bất kể chúng ta ngỡ rằng mình xảo diệu khôn khéo đến đâu, tất cả đều nằm trọn trong sự trù liệu của Đế Cốc."
+    },
+    {
+      "para_id": "c0233p0097",
+      "index": 97,
+      "raw_zh": "一次次對華夏的推波助瀾，一次次的失敗，最可怕的是眼看著似乎成功了，但我們的人卻成了華夏的一部分，被同化了，我們越折騰，華夏的面積越大，這一定也是帝嚳的算計之內，他在看我們的笑話。",
+      "translated_vi": "Hết lần này đến lần khác ngấm ngầm khuấy đảo Hoa Hạ, hết lần này đến lần khác chuốc lấy thất bại, mà điều đáng sợ nhất chính là rõ ràng nhìn thấy sắp sửa thành công đến nơi, nhưng người của chúng ta lại hòa làm một phần của Hoa Hạ, bị đồng hóa mất rồi! Chúng ta càng ra sức giãy giụa quậy phá, cương thổ Hoa Hạ lại càng mở rộng thêm. Điều này nhất định cũng nằm trong tính toán của Đế Cốc, ngài ấy chỉ đang đứng xem trò hề của chúng ta mà thôi."
+    },
+    {
+      "para_id": "c0233p0098",
+      "index": 98,
+      "raw_zh": "所以，很多我們的同族都崩潰了，比如我現在對華夏什麽想法都沒有了，我隻想去火星。”",
+      "translated_vi": "Cho nên, rất nhiều đồng tộc của chúng ta đều đã suy sụp tinh thần. Ví như hiện tại tôi chẳng còn chút ý niệm gì với Hoa Hạ nữa, tôi chỉ muốn lên sao Hỏa mà thôi.\""
+    },
+    {
+      "para_id": "c0233p0099",
+      "index": 99,
+      "raw_zh": "白狐思索道：",
+      "translated_vi": "Bạch Hồ trầm ngâm suy nghĩ rồi nói:"
+    },
+    {
+      "para_id": "c0233p0100",
+      "index": 100,
+      "raw_zh": "“咱們一族大部分都沒想法了？為什麽西還在極盡可能的圍困東方？”",
+      "translated_vi": "\"Phần lớn tộc ta đều đã hết ý niệm rồi ư? Thế tại sao phương Tây vẫn đang dốc hết sức bao vây phương Đông?\""
+    },
+    {
+      "para_id": "c0233p0101",
+      "index": 101,
+      "raw_zh": "瑪肆科臉上顯出了恐懼，沉聲道：",
+      "translated_vi": "Trên mặt Mã Tứ Khoa lộ rõ vẻ kinh hãi, trầm giọng nói:"
+    },
+    {
+      "para_id": "c0233p0102",
+      "index": 102,
+      "raw_zh": "“那不是咱們一族做的，是青銅巨門後那些東西的後裔做的。”",
+      "translated_vi": "\"Đó không phải do đồng tộc chúng ta làm, mà là hậu duệ của những thứ phía sau cánh cổng đồng khổng lồ gây ra.\""
+    },
+    {
+      "para_id": "c0233p0103",
+      "index": 103,
+      "raw_zh": "白狐驚道：",
+      "translated_vi": "Bạch Hồ giật mình:"
+    },
+    {
+      "para_id": "c0233p0104",
+      "index": 104,
+      "raw_zh": "“守望者？”",
+      "translated_vi": "\"Thủ Vọng Giả?\""
+    },
+    {
+      "para_id": "c0233p0105",
+      "index": 105,
+      "raw_zh": "瑪肆科看著白狐：",
+      "translated_vi": "Mã Tứ Khoa nhìn Bạch Hồ:"
+    },
+    {
+      "para_id": "c0233p0106",
+      "index": 106,
+      "raw_zh": "“對！守望者和我們不一樣，他們對帝嚳只有仇恨！”",
+      "translated_vi": "\"Đúng! Thủ Vọng Giả không giống chúng ta, đối với Đế Cốc, bọn chúng chỉ có thù hận!\""
+    },
+    {
+      "para_id": "c0233p0107",
+      "index": 107,
+      "raw_zh": "感謝塔克斯、廟裡供著神、血之藥、各種身份、尾數03162、星雲星宇、仙慕凡、尾數86696、我不慫、尾數09742、尼祿祭、韓夢寒夢非攻、尾數21912、薯條玉米湯的秘密、不愛綠茶、星塵龍禁卡咧、一賊西來陳友諒、Xenomorph的月票獎勵。",
+      "translated_vi": "Chân thành cảm ơn phần thưởng phiếu tháng từ Tháp Khắc Tư, Miếu Lý Cung Trứ Thần, Huyết Chi Dược, Các Chủng Thân Phận, số đuôi 03162, Tinh Vân Tinh Vũ, Tiên Mộ Phàm, số đuôi 86696, Ngã Bất Tủng, số đuôi 09742, Nero Tế, Hàn Mộng Hàn Mộng Phi Công, số đuôi 21912, Bí Mật Của Khoai Tây Chiên Súp Ngô, Bất Ái Lục Trà, Tinh Trần Long Cấm Tạp Liệt, Nhất Tặc Tây Lai Trần Hữu Lượng, Xenomorph."
+    },
+    {
+      "para_id": "c0233p0108",
+      "index": 108,
+      "raw_zh": "謝謝你們的支持，感激！！！",
+      "translated_vi": "Cảm ơn sự ủng hộ của các bạn, vô cùng cảm kích!"
+    },
+    {
+      "para_id": "c0233p0109",
+      "index": 109,
+      "raw_zh": "晚安，祝大家好夢！！！",
+      "translated_vi": "Chúc mọi người ngủ ngon, có những giấc mơ đẹp!"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "authentication": "cached_account; GEMINI_API_KEY unset",
+  "requested_model": "gemini-3.8-flash-high",
+  "agent": null,
+  "exit_code": 0,
+  "workspace": "D:\\AI\\Antigravity\\CaoTruyen",
+  "duration_seconds": 88.63,
+  "status": "SUCCESS",
+  "conversation_id": "27c2fb38-ab93-487c-9980-a1d973938abc",
+  "usage": {
+    "input_tokens": 15851,
+    "output_tokens": 11265,
+    "thinking_tokens": 10315,
+    "cache_read_tokens": 0,
+    "total_tokens": 27116
+  },
+  "result": {
+    "conversation_id": "27c2fb38-ab93-487c-9980-a1d973938abc",
+    "status": "SUCCESS",
+    "response": "§1 “Có lẽ cũng cùng một đạo lý với việc các pho tượng thần ở Ai Cập cổ đại bị đập gãy mũi. Điều đó đồng nghĩa với việc vị thần mà pho tượng đại diện đã bị tín đồ ruồng bỏ, không còn được phụng thờ nữa.”\n§2 Ở Ai Cập cổ đại có rất nhiều pho tượng thần bị đập gãy mũi như thế, nổi tiếng nhất chính là tượng Nhân sư.\n§3 Lúc này, cả ba người đã vòng qua những pho tượng ngã đổ trên mặt đất, tiến vào khu vực giữa đại sảnh. Vân Thiên Phong đưa tay chỉ về phía trước, cất tiếng:\n§4 “Nhìn kìa, những pho tượng đá đằng kia đều không hề bị đập gãy mũi.”\n§5 Vượt qua những pho tượng ngả nghiêng đổ nát, trước mắt họ là hai hàng tượng đá đứng sừng sững, muôn hình vạn trạng. Tất cả đều mang đầu người, nhưng hình thái tổng thể lại chia làm ba loại: dạng rắn rết sâu bọ, dạng chim muông và dạng dã thú.\n§6 Những pho tượng này trông đã có từ thuở xa xưa, thân tượng loang lổ gồ ghề, hằn rõ dấu vết hư hại dưới sự bào mòn của năm tháng, nhưng tuyệt nhiên không phải do con người tàn phá.\n§7 Nơi sâu thẳm nhất của thạch thất sừng sững một tòa thần tượng khổng lồ cao hơn ba mươi mét. Thân tượng nom tựa loài rắn sâu, trên đỉnh ngự một cái đầu người nhưng lại đứng thẳng tắp, bất giác khiến người ta liên tưởng đến tín ngưỡng thờ cúng Linga. Và cũng chính bức tượng thần này đã khiến cả ba người phải kinh hãi.\n§8 Chẳng phải vì nó mang hình dáng giống của quý, mà bởi pho tượng đá kia không những cao nhất nơi này, mà còn mới nhất—mới đến mức ngỡ như vừa được tạc từ tuần trước, chứ tuyệt chẳng phải di tích từ hơn một vạn năm trước.\n§9 Càng khiến bọn họ kinh ngạc hơn là dưới chân pho tượng chất từng đống xương trắng hếu. Toàn bộ đều là hài cốt con người, thoạt nhìn qua căn bản không thể biết rốt cuộc đã có bao nhiêu người từng chôn thây tại nơi này, nhiều đến rợn ngợp!\n§10 Thế nhưng, điều khiến họ chấn động tột cùng lại là có năm người đang giẫm chân lên đống đầu lâu, đứng sừng sững ngay dưới chân pho tượng khổng lồ kia. Cả năm người đều bất động, chẳng khác nào những pho tượng đá trước mắt.\n§11 Cả ba người vội vã giẫm lên lớp xương người, cẩn thận từng bước tiến lại gần.\n§12 Đến gần hơn, Vân Thiên Phong đã nhìn rõ góc nghiêng gương mặt của năm người này.\n§13 Bốn nam một nữ. Người phụ nữ kia tóc vàng mắt biếc, mang diện mạo điển hình của người Bắc Âu.\n§14 Đứng bên tay trái người phụ nữ là một gã đàn ông vóc dáng cực kỳ cao to vạm vỡ, chừng như cũng là người châu Âu.\n§15 Kế bên gã đàn ông to lớn ấy là một người vừa nhìn đã nhận ra ngay một tráng đinh Mông Cổ, lưng hùm vai gấu, râu quai nón rậm rạp.\n§16 Bên cạnh gã râu quai nón là một kẻ gầy gò với nước da ngăm đen, hẳn là người vùng Đông Nam Á.\n§17 Còn ở bên tay phải người phụ nữ tóc vàng lại là một người Hoa Hạ rõ rệt.\n§18 Vừa nhìn thấy người đàn ông đứng bên phải cô gái tóc vàng mắt biếc, nước mắt Khương Nhu Giáp lập tức trào ra. Nàng nghẹn ngào cất tiếng gọi lớn rồi lao vụt về phía đó:\n§19 “Anh!”\n§20 Tiếng gọi chưa dứt, tay nàng đã nắm chặt lấy cánh tay Khương Ngọc Lâm. Thế rồi nha đầu này cũng giống hệt năm người kia, đứng sững bất động.\n§21 Cảm ơn bạn đọc có số đuôi 45740 đã tặng phiếu tháng, cảm ơn sự ủng hộ của bạn~~~\n",
+    "duration_seconds": 84.5881302,
+    "num_turns": 1,
+    "usage": {
+      "input_tokens": 15851,
+      "output_tokens": 11265,
+      "thinking_tokens": 10315,
+      "cache_read_tokens": 0,
+      "total_tokens": 27116
+    }
+  },
+  "event_count": 202
+}

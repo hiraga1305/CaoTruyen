@@ -1,0 +1,122 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0305|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|"Ngươi nói đúng, nhất định phải tìm thấy Tát Nhược trước. Ngài ấy không sáng tạo ra bất kỳ Thủ Vọng Giả giống cái nào, mà những gì Ngài ấy không làm ắt hẳn là điều cấm kỵ của Ngài. Chỉ cần không phạm 
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一道|một luồng
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §81):
+§1 [Ø=云千峰]說著，他站起身，大聲道：
+§2 [Ø=云千峰]“所有人，包括守望者，全部去尋找撒弱， [||] 找到她，讓她完整，如若不能，那麽殺了她。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§3 [Ø=云千峰]“遵命，偉大的王！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§4 [Ø=云千峰]傍晚，某地，某孕嬰店內。
+§5 [Ø=云千峰]一個穿著寬松衣服的美麗女人看著電視上的新聞，看模樣正是撒弱，只是她此刻臉上， [||] 已經不是之前的英氣，而是充滿了柔美，估計是臉圓潤了些的緣故。
+§6 [Ø=云千峰]她看到一個完全被黑色迷霧籠罩的海島，整個人愣在那裡。
+§7 [Ø=云千峰]直到櫃台前的收銀員喊了三次“您好，手機支付還是現金”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]後，撒弱才醒過神來，道：
+§8 “手機支付。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§9 [Ø=云千峰]付款後，她拎著東西走出店門， [||] 迎面看到了這家店的監控攝像，又看到了大街上隨處可見的監控攝像頭，眉頭緊鎖起來。
+§10 [Ø=云千峰]“這裡待不得了，城市待不得了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=云千峰]想著，走著，她突然停下腳步，喃喃自語：
+§12 [Ø=云千峰]“家也不能回，必須立即走，不能心存僥幸！我可憐的孩子啊， [||] 還沒出生就要過著顛沛流離的生活嗎？哎，早知道應該獻祭你爸爸，給你增運的.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 [Ø=云千峰]想到這，她果斷轉身，距離自己租住了幾個月的小屋越來越遠。
+§14 [Ø=云千峰]撒弱沒有打車，也沒有乘坐公共交通工具，就是靠著步行，一路走到沒有監控的鄉路， [||] 這才猛地一展手臂，一雙黑色如鷹的翅膀伸展開來，飛入那漆黑的夜幕之中，不知去向。
+§15 [Ø=云千峰]隆起的肚子，終究是影響了她的速度，飛翔已經不如以往迅捷自如。
+§16 [Ø=云千峰]撒弱離開的小城裡，她租住的小屋裡。
+§17 [Ø=云千峰]裡面纖塵不染，打掃的非常乾淨。
+§18 整個屋子大部分都是粉色調的裝飾。
+§19 [Ø=云千峰]童話故事裡，公主的床，公主的梳妝鏡，甚至還有公主的晚裝。
+§20 [Ø=云千峰]誰能想到，堂堂撒弱大人，竟然有著一個小公主的心。
+§21 [Ø=云千峰]兩個守望者隱藏在臥室內，被這裡充滿的鮮花香味熏得忍不住打噴嚏，為了避免被發現，隻好用手掐住自己的鼻子。
+§22 [Ø=云千峰]然而，他們等到天將亮，也沒有等到撒弱回家。
+§23 “撒弱還是那麽狡猾。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 [Ø=云千峰]“這不奇怪，當初我們都想第一個出來，但是誰第一個走了出來？是撒弱。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 “現在怎麽辦？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§26 [Ø=云千峰]“報告西姆扎斯撒弱逃了，就這麽簡單， [||] 真心話，我不想對撒弱出手，甚至我辦不到。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 [Ø=云千峰]“我也是，但我們不得不那麽做。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 [Ø=云千峰]“那就叫別人去做好了，我們回去報告.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 [Ø=云千峰]幸好，大部分的“別人”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]也是那麽想的，否則撒弱根本沒機會逃出這裡。
+§30 閻羅殿內。
+§31 [Ø=云千峰]姮娥很緊張，但語氣永遠是那麽平淡：
+§32 “帝沒有告訴你守望者歸來的時間嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 西王母搖頭道：
+§34 [Ø=云千峰]“帝嚳只會在固定的時間點記錄下我該去做的事情，但從不說因果。所以並沒有記錄守望者什麽時候出現，只是帝嚳給出十月之期， [||] 距離還有三月余，而守望者已經歸來，接下來該如何是好？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 姮娥淡淡道：
+§36 “你就不能把帝留給你的錦囊一次性打開看看嗎？沒準就知道了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 西王母搖頭道：
+§38 [Ø=云千峰]“帝嚳正是因為知道我不會那麽做，才會把最後的執行者交給我，我只會去打開到達日期的錦囊，那才是帝嚳想要的節奏。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 [Ø=云千峰]姮娥眼珠瞬了一下，隨口問道：
+§40 [Ø=云千峰]“你說，帝嚳萬年的算計，到底是為了什麽？或者說想要什麽？作為帝女，我都一無所知。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 西王母搖頭道：
+§42 [Ø=云千峰]“我也不知道，我只是按照錦囊去執行一切。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 姮娥點頭道：
+§44 “你就沒有過猜測嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§45 [Ø=云千峰]西王母搖頭，道：
+§46 [Ø=云千峰]“能被猜測，就不是帝嚳了， [||] 還有，這不是帝女你該關心的事情，你還是祈禱雲千峰能掙得過這一關吧。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§47 [Ø=云千峰]別看姮娥還能問西王母一些看似與雲千峰無關的話題，其實那些問題都大有因果。
+§48 [Ø=云千峰]若是能猜到帝嚳最終目的一二，姮娥就能判斷出帝嚳想要雲千峰做什麽，也才能知道雲千峰和自己最終的結局。
+§49 [Ø=云千峰]但是沒想到西王母一句話也不透露，甚至還刺了姮娥一句。
+§50 [Ø=云千峰]於是姮娥便也沒有繼續追問，只是隨口一句：
+§51 [Ø=云千峰]“帝的錦囊裡，沒提他什麽時候回瑤池嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§52 [Ø=云千峰]西王母的裙子在抖，一聲不吭。
+§53 [Ø=云千峰]蚩尤的內景重樓內，震蕩的越來越厲害。
+§54 [Ø=云千峰]那掛著朦朧皓月的天空就好像一個被擠壓的皮球，不斷的向內凹陷下來，又彈回去。
+§55 [Ø=云千峰]就好像有巨大的力量想要衝進這裡，但一時之間卻無法衝破禁製。
+§56 [Ø=云千峰]雲千峰奔跑在陽蹺脈的路徑上，大地的搖晃讓他東倒西歪。
+§57 [Ø=云千峰]但即便是被搖晃的摔倒在地，他也會借力向前滾動，絕不浪費一秒可以前進的時間。
+§58 [Ø=云千峰]大地搖晃的越來越厲害，雲千峰乾脆便四肢著地，爬著向前， [||] 好像一隻盯準了獵物的鬣狗，前低後高，向前跑著。
+§59 蚩尤內景重樓的天裂了。
+§60 [Ø=云千峰]一道[M1:một luồng]傷疤般的黑色裂縫徐徐展開，一雙猩紅的眼睛在裂縫裡露出了一線，同時傳來的還有那憤怒的咆哮，一如雲千峰在老爺廟水域下的神跡內聽到的聲音。
+§61 [Ø=云千峰]準確來說，那不是聽到，而是直接鑽進靈魂的感觸。
+§62 [Ø=云千峰]幾根帶著尖利指甲，青色的手指扣進了那天空的黑色裂縫，努力的向兩側分裂天幕。
+§63 [Ø=云千峰]可以看到，那手指上繃起的青筋，和那尖利指甲上的寒光。
+§64 [Ø=云千峰]雲千峰一直以來，都能做到不理會靠近的危險，只是全力奔跑逃離。
+§65 [Ø=云千峰]但是這一次，他沒能做到。
+§66 [Ø=云千峰]他無法遏製自己的恐懼，總會趁機抬頭看向前方天幕的裂縫，那越來越寬的裂縫。
+§67 [Ø=云千峰]猩紅的眼睛已經完全可以看到，甚至雲千峰已經看到了那張臉。
+§68 [Ø=云千峰]青色，形如犬，頭帶尖利如角的耳朵。
+§69 [Ø=云千峰]還有那因咆哮而張開的血盆大口，尖利的牙齒似乎可以咬穿一切。
+§70 [Ø=云千峰]雲千峰對這個形象並不陌生，但是他從不知道，蚩尤原來是如此的龐大，大到能遮天！
+§71 “吱嘎！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§72 [Ø=云千峰]天空的裂縫猛然撐開了一塊，那狗頭尖長的嘴巴擠了進來，還有被裂縫擠壓變形的半張臉。
+§73 蚩尤的意識回來了。
+§74 姮娥加之在蚩尤身上的藥效正在消失。
+§75 [Ø=云千峰]一條細長，沒有肌肉， [||] 只有青筋和青皮的胳膊在裂縫裡伸了進來，就像伸到籠子裡捉小白鼠似的，一把抓向正在爬行的雲千峰.
+§76 [Ø=云千峰]感謝亞少Subless的大額打賞，感謝書友尾數32710、你是聽書客還是故中人、隨風飄曳的毛、有無所謂的打賞，謝謝你們的支持！！！
+§77 [Ø=云千峰]感謝書友塔克斯、Subless，夜螺螄、Rolya*夢、鬼馬小於，向往藍天的魚，東津大魔王，瀟風，舊時歌，喪心病狂的嶽嗨嗨，燭顏，一條大魚，茵陳因笙，書蟲3364，撈dididididi，追風少年（尾數）08365、07336、55226、20567、34518、56930、48556、44725、56645、31691，25754，56531，19699_Da，13797，47592， [||] 38244，34286，40817，67523，34283，06844，27970，55952，50352，38821，71446，35616，37644，34802，54636，57899，59759，49884的月票獎勵，謝謝你們的支持！！！
+§78 [Ø=云千峰]作家說字數滿，明天繼續記錄落下的名字！！！
+§79 [Ø=云千峰]今天只有一個大章，我承認我卡文了……
+§80 祝大家好夢！！！
+§81 晚安！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 81 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§81. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

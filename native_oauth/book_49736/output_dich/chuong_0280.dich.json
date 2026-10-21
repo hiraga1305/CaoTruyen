@@ -1,0 +1,812 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 280,
+  "title": "Chương 280: Kẻ điên tỉnh táo",
+  "total_paragraphs": 133,
+  "translated_paragraphs": 133,
+  "source_hash": "758b1a9a8090f1736adbeb079f1acadaf668d86c153e5d741bca095ecb8cb1e4",
+  "model_used": "gemini-3.8-flash-high",
+  "elapsed_seconds": 148.23,
+  "bilingual_alignment": [
+    {
+      "para_id": "c0280p0001",
+      "index": 1,
+      "raw_zh": "280.第280章 冷靜的瘋子",
+      "translated_vi": "Chương 280: Kẻ điên tỉnh táo"
+    },
+    {
+      "para_id": "c0280p0002",
+      "index": 2,
+      "raw_zh": "第280章 冷靜的瘋子",
+      "translated_vi": "Chương 280: Kẻ điên tỉnh táo"
+    },
+    {
+      "para_id": "c0280p0003",
+      "index": 3,
+      "raw_zh": "雲千峰睡得並不安生，總覺得心裡膈應著什麽，惴惴不安。",
+      "translated_vi": "Vân Thiên Phong ngủ không hề yên giấc, đáy lòng cứ thấy lấn cấn khó chịu điều gì, thấp thỏm không yên."
+    },
+    {
+      "para_id": "c0280p0004",
+      "index": 4,
+      "raw_zh": "天亮後是一個豔陽天。",
+      "translated_vi": "Sau khi trời sáng là một ngày nắng chói chang."
+    },
+    {
+      "para_id": "c0280p0005",
+      "index": 5,
+      "raw_zh": "沒有了雨水匯聚的河流，也沒有之前留在河底的淺沙，世界變成了只有綠色。",
+      "translated_vi": "Chẳng còn con sông do nước mưa tụ lại, cũng không còn bãi cát nông đọng dưới đáy sông trước đó, thế giới chỉ còn lại độc một màu xanh biếc."
+    },
+    {
+      "para_id": "c0280p0006",
+      "index": 6,
+      "raw_zh": "雲千峰走出破觀大門，看著晴朗悶熱的天氣，陷入沉思之中。",
+      "translated_vi": "Vân Thiên Phong bước ra khỏi cổng đạo quán đổ nát, nhìn thời tiết oi bức ngột ngạt, chìm vào trầm tư."
+    },
+    {
+      "para_id": "c0280p0007",
+      "index": 7,
+      "raw_zh": "“不引路了嗎？呵”",
+      "translated_vi": "\"Không dẫn đường nữa sao? Hừ.\""
+    },
+    {
+      "para_id": "c0280p0008",
+      "index": 8,
+      "raw_zh": "突然他似乎想通了什麽，嘴角翹起一絲冷笑，轉身形回到了破道觀之中，竟然不走了。",
+      "translated_vi": "Đột nhiên dường như hắn đã nghĩ thông suốt điều gì, khóe miệng khẽ nhếch một nụ cười lạnh, xoay người trở lại trong đạo quán hoang phế, vậy mà lại chẳng đi nữa."
+    },
+    {
+      "para_id": "c0280p0009",
+      "index": 9,
+      "raw_zh": "熱好了駱駝肉，吃飽了早餐，倒在地上睡回籠覺。",
+      "translated_vi": "Hâm nóng thịt lạc đà, ăn no bữa sáng, hắn liền ngã lưng xuống đất đánh một giấc ngủ bù."
+    },
+    {
+      "para_id": "c0280p0010",
+      "index": 10,
+      "raw_zh": "此刻，某處。",
+      "translated_vi": "Cùng lúc đó, tại một nơi nào đó."
+    },
+    {
+      "para_id": "c0280p0011",
+      "index": 11,
+      "raw_zh": "一個雍容華貴的女人正在窗前看著窗外的枝繁葉茂。",
+      "translated_vi": "Một người phụ nữ ung dung hoa quý đang đứng bên cửa sổ ngắm nhìn cành lá sum suê bên ngoài."
+    },
+    {
+      "para_id": "c0280p0012",
+      "index": 12,
+      "raw_zh": "那異常柔軟，叫小蟾的女人走進屋來低聲道：",
+      "translated_vi": "Người phụ nữ có thân hình mềm mại khác thường tên gọi Tiểu Thiềm bước vào phòng, hạ giọng thưa:"
+    },
+    {
+      "para_id": "c0280p0013",
+      "index": 13,
+      "raw_zh": "“主人，他不走了。”",
+      "translated_vi": "\"Chủ nhân, hắn không đi nữa.\""
+    },
+    {
+      "para_id": "c0280p0014",
+      "index": 14,
+      "raw_zh": "窗前雍容之人很明顯背影一頓，竟是愣了一下。",
+      "translated_vi": "Bóng lưng người phụ nữ hoa quý trước cửa sổ rõ ràng khựng lại, thoáng ngẩn người ra."
+    },
+    {
+      "para_id": "c0280p0015",
+      "index": 15,
+      "raw_zh": "隨後淡淡道：",
+      "translated_vi": "Sau đó thản nhiên nói:"
+    },
+    {
+      "para_id": "c0280p0016",
+      "index": 16,
+      "raw_zh": "“果然，能走到這一步的，都不會是凡夫俗子，既然他看懂了，那就不用等到明天了，現在就去帶著他拿到東西，速速離開吧。”",
+      "translated_vi": "\"Quả nhiên, kẻ có thể đi tới bước này đều chẳng phải hạng người tầm thường. Đã nhìn thấu rồi thì không cần phải đợi tới ngày mai nữa, giờ hãy đi dẫn hắn đi lấy đồ, rồi nhanh chóng rời khỏi đây.\""
+    },
+    {
+      "para_id": "c0280p0017",
+      "index": 17,
+      "raw_zh": "小蟾低聲道：",
+      "translated_vi": "Tiểu Thiềm khẽ nói:"
+    },
+    {
+      "para_id": "c0280p0018",
+      "index": 18,
+      "raw_zh": "“主人，若是他看懂的更遠，拒絕一些事情，甚至小蟾怕不是他的對手。”",
+      "translated_vi": "\"Chủ nhân, nếu hắn nhìn xa hơn, từ chối một số việc, thậm chí Tiểu Thiềm e rằng mình không phải là đối thủ của hắn.\""
+    },
+    {
+      "para_id": "c0280p0019",
+      "index": 19,
+      "raw_zh": "更遠的是什麽？自然是那句“留不得”。",
+      "translated_vi": "Xa hơn là gì? Tự nhiên là câu nói \"không thể giữ lại\"."
+    },
+    {
+      "para_id": "c0280p0020",
+      "index": 20,
+      "raw_zh": "那雍容之人也不回頭，而是緩緩搖頭道：",
+      "translated_vi": "Người hoa quý kia cũng không ngoảnh lại, chỉ khẽ lắc đầu:"
+    },
+    {
+      "para_id": "c0280p0021",
+      "index": 21,
+      "raw_zh": "“他既然懂了，就知道你是我的人，不敢對你怎樣，你放心去吧，他會跟從你完成所有的步驟，因為他有必須去救的人，帝嚳早已算死他。”",
+      "translated_vi": "\"Hắn đã hiểu thì sẽ biết cô là người của tôi, không dám làm gì cô đâu. Cô cứ yên tâm đi đi, hắn sẽ đi theo cô hoàn thành tất cả các bước, bởi vì hắn có người bắt buộc phải cứu, Đế Cốc đã tính toán bóp nghẹt hắn rồi.\""
+    },
+    {
+      "para_id": "c0280p0022",
+      "index": 22,
+      "raw_zh": "小蟾這才轉身出去。",
+      "translated_vi": "Tiểu Thiềm bấy giờ mới xoay người đi ra ngoài."
+    },
+    {
+      "para_id": "c0280p0023",
+      "index": 23,
+      "raw_zh": "雲千峰並沒有真的睡著，遠遠的聽到了腳步聲靠近，就懶洋洋的坐起來，背靠著神龕，抽出一根煙來點燃，看著門口的佳人。",
+      "translated_vi": "Vân Thiên Phong cũng không thực sự ngủ, từ đằng xa nghe thấy tiếng bước chân lại gần liền lười biếng ngồi dậy, tựa lưng vào khám thờ, rút một điếu thuốc châm lửa, nhìn người đẹp nơi cửa."
+    },
+    {
+      "para_id": "c0280p0024",
+      "index": 24,
+      "raw_zh": "挺拔不及第一夜那人，玲瓏不及昨夜之人，但是這柔軟起伏卻遠勝之前二人。",
+      "translated_vi": "Dáng người cao ráo đẫy đà không bằng người đêm đầu tiên, lung linh uyển chuyển không bằng người đêm qua, nhưng độ mềm mại nhấp nhô này lại vượt xa hai người trước."
+    },
+    {
+      "para_id": "c0280p0025",
+      "index": 25,
+      "raw_zh": "眼看門口佳人要開口說話，雲千峰當先一句把她的話堵回去：",
+      "translated_vi": "Trông thấy giai nhân nơi cửa sắp mở miệng cất lời, Vân Thiên Phong đã đón đầu chận luôn một câu:"
+    },
+    {
+      "para_id": "c0280p0026",
+      "index": 26,
+      "raw_zh": "“當年你們也是這樣招待周穆王的？一天一女，所謂三天？”",
+      "translated_vi": "\"Năm xưa các cô cũng chiêu đãi Chu Mục Vương như vậy sao? Mỗi ngày một cô gái, cái gọi là ba ngày ấy à?\""
+    },
+    {
+      "para_id": "c0280p0027",
+      "index": 27,
+      "raw_zh": "小蟾點了點頭，恭敬道：",
+      "translated_vi": "Tiểu Thiềm gật đầu, cung kính đáp:"
+    },
+    {
+      "para_id": "c0280p0028",
+      "index": 28,
+      "raw_zh": "“是的。”",
+      "translated_vi": "\"Đúng vậy.\""
+    },
+    {
+      "para_id": "c0280p0029",
+      "index": 29,
+      "raw_zh": "雲千峰吐了個煙圈，笑道：",
+      "translated_vi": "Vân Thiên Phong nhả một ngụm khói, cười nói:"
+    },
+    {
+      "para_id": "c0280p0030",
+      "index": 30,
+      "raw_zh": "“那看來，你們是把我當成王的級別來待遇的。”",
+      "translated_vi": "\"Vậy xem ra, các cô đang đối đãi với tôi theo cấp bậc của một vị vương rồi.\""
+    },
+    {
+      "para_id": "c0280p0031",
+      "index": 31,
+      "raw_zh": "小蟾表情不卑不亢，但聲音裡帶著與生俱來的倨傲，道：",
+      "translated_vi": "Vẻ mặt Tiểu Thiềm không kiêu ngạo cũng không siểm nịnh, nhưng trong giọng nói lại mang theo nét ngạo nghễ bẩm sinh:"
+    },
+    {
+      "para_id": "c0280p0032",
+      "index": 32,
+      "raw_zh": "“蚩尤本也算王，當得這樣的款待。”",
+      "translated_vi": "\"Xi Vưu vốn cũng được tính là vương, xứng đáng được khoản đãi như thế.\""
+    },
+    {
+      "para_id": "c0280p0033",
+      "index": 33,
+      "raw_zh": "“卓瑪也是你們的姐妹嗎？”",
+      "translated_vi": "\"Trác Mã cũng là chị em của các cô à?\""
+    },
+    {
+      "para_id": "c0280p0034",
+      "index": 34,
+      "raw_zh": "“是的，但她是信使，非特殊原因不得歸瑤池。”",
+      "translated_vi": "\"Đúng vậy, nhưng cô ấy là tín sứ, trừ phi có lý do đặc biệt thì không được trở về Dao Trì.\""
+    },
+    {
+      "para_id": "c0280p0035",
+      "index": 35,
+      "raw_zh": "“我這次看來是見不到你家主人了？”",
+      "translated_vi": "\"Lần này xem ra tôi không gặp được chủ nhân của cô rồi?\""
+    },
+    {
+      "para_id": "c0280p0036",
+      "index": 36,
+      "raw_zh": "“是的，主人金口玉言說了，不會見你。”",
+      "translated_vi": "\"Đúng vậy, chủ nhân kim khẩu ngọc ngôn đã nói sẽ không gặp anh.\""
+    },
+    {
+      "para_id": "c0280p0037",
+      "index": 37,
+      "raw_zh": "雲千峰緩緩點了點頭，見小蟾又要開口說話，急忙一嘴又給堵了回去，道：",
+      "translated_vi": "Vân Thiên Phong chậm rãi gật đầu, thấy Tiểu Thiềm lại muốn mở lời liền vội vàng chêm vào chẹn họng cô nàng:"
+    },
+    {
+      "para_id": "c0280p0038",
+      "index": 38,
+      "raw_zh": "“為什麽不是人身蛇尾？”",
+      "translated_vi": "\"Tại sao không phải thân người đuôi rắn?\""
+    },
+    {
+      "para_id": "c0280p0039",
+      "index": 39,
+      "raw_zh": "小蟾又把剛要說的話咽了回去，但臉上已是極不耐煩，畢竟誰被打斷幾次要說的話，都會很不爽，尤其看得出對方是故意的，於是小蟾冷冷道：",
+      "translated_vi": "Tiểu Thiềm lại nuốt ngược lời sắp nói vào trong, trên mặt đã lộ vẻ cực kỳ mất kiên nhẫn. Dù sao ai bị ngắt lời mấy lần liên tiếp cũng sẽ vô cùng khó chịu, huống chi còn nhận ra đối phương cố tình, vì thế Tiểu Thiềm lạnh lùng đáp:"
+    },
+    {
+      "para_id": "c0280p0040",
+      "index": 40,
+      "raw_zh": "“體內有兩套基因。”",
+      "translated_vi": "\"Trong cơ thể có hai bộ gen.\""
+    },
+    {
+      "para_id": "c0280p0041",
+      "index": 41,
+      "raw_zh": "雲千峰直接以命令的口氣，道：",
+      "translated_vi": "Vân Thiên Phong lập tức dùng giọng điệu ra lệnh:"
+    },
+    {
+      "para_id": "c0280p0042",
+      "index": 42,
+      "raw_zh": "“變人身蛇尾！”",
+      "translated_vi": "\"Biến thành thân người đuôi rắn mau!\""
+    },
+    {
+      "para_id": "c0280p0043",
+      "index": 43,
+      "raw_zh": "小蟾微微仰臉，冷笑道：",
+      "translated_vi": "Tiểu Thiềm khẽ ngẩng mặt lên, cười khẩy:"
+    },
+    {
+      "para_id": "c0280p0044",
+      "index": 44,
+      "raw_zh": "“小蟾不想。”",
+      "translated_vi": "\"Tiểu Thiềm không muốn.\""
+    },
+    {
+      "para_id": "c0280p0045",
+      "index": 45,
+      "raw_zh": "雲千峰冷冷的看著小蟾，幾乎是在牙縫裡擠出聲音，道：",
+      "translated_vi": "Vân Thiên Phong lạnh lùng nhìn Tiểu Thiềm, gần như nghiến răng rít từng chữ qua kẽ môi:"
+    },
+    {
+      "para_id": "c0280p0046",
+      "index": 46,
+      "raw_zh": "“我再說一遍，變人身蛇尾！”",
+      "translated_vi": "\"Tôi nói lại lần nữa, biến thành thân người đuôi rắn!\""
+    },
+    {
+      "para_id": "c0280p0047",
+      "index": 47,
+      "raw_zh": "此時的雲千峰，如此長時間來被算計的怒火，已經有些壓抑不住。",
+      "translated_vi": "Vân Thiên Phong lúc này đã không còn đè nén nổi cơn thịnh nộ tích tụ suốt bấy lâu vì bị toan tính giật dây."
+    },
+    {
+      "para_id": "c0280p0048",
+      "index": 48,
+      "raw_zh": "你算計我可以，要算死我也行，但你不能一邊算計我，還叫人三番兩次來教育自己，還必須讓我敬仰你並且甘心情願去被算計，那辦不到。",
+      "translated_vi": "Các người toan tính tôi cũng được, muốn tính kế dồn chết tôi cũng xong, nhưng các người không thể một mặt toan tính tôi, mặt khác lại phái người ba lần bảy lượt tới dạy dỗ tôi, bắt tôi phải cung kính sùng bái các người rồi cam tâm tình nguyện chịu người ta sắp đặt. Chuyện đó là không thể nào!"
+    },
+    {
+      "para_id": "c0280p0049",
+      "index": 49,
+      "raw_zh": "而且對方連主人家見一面都省了，這依舊意味著，對方算計自己，但在對方眼裡，自己連個開席的涼菜都算不上，根本不在對方眼裡，這種倨傲，更成了雲千峰憤怒的導火索。",
+      "translated_vi": "Huống chi đối phương còn bớt luôn cả việc chủ nhân lộ diện gặp một lần, điều này vẫn có nghĩa là dù đối phương toan tính mình, nhưng trong mắt đối phương, mình đến một đĩa món nguội khai vị cũng chẳng bằng, căn bản không thèm để vào mắt. Sự ngạo mạn ấy lại càng trở thành ngòi nổ châm bùng cơn giận của Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0280p0050",
+      "index": 50,
+      "raw_zh": "對方既然面子裡子全都要給自己刮乾淨，那雲千峰就先把對方的臉面扯下來！",
+      "translated_vi": "Đối phương đã muốn cạo sạch cả thể diện lẫn thực chất của mình, vậy thì Vân Thiên Phong sẽ xé toang bộ mặt của đối phương xuống trước!"
+    },
+    {
+      "para_id": "c0280p0051",
+      "index": 51,
+      "raw_zh": "小蟾不出聲，就那麽微微仰著臉看著雲千峰，目光沒有絲毫退縮。",
+      "translated_vi": "Tiểu Thiềm không lên tiếng, cứ thế hơi ngẩng mặt nhìn Vân Thiên Phong, ánh mắt chẳng hề có lấy nửa phần lùi bước."
+    },
+    {
+      "para_id": "c0280p0052",
+      "index": 52,
+      "raw_zh": "“唰！”",
+      "translated_vi": "\"Vút!\""
+    },
+    {
+      "para_id": "c0280p0053",
+      "index": 53,
+      "raw_zh": "身著黑甲的雲千峰上一秒還懶洋洋的背靠著神龕，下一秒已經化成一道黑影，速度極快的貼著地皮來到了門口處。",
+      "translated_vi": "Vân Thiên Phong vận hắc giáp giây trước còn uể oải tựa lưng vào khám thờ, giây sau đã hóa thành một luồng bóng đen, lướt sát mặt đất với tốc độ cực nhanh lao tới trước cửa."
+    },
+    {
+      "para_id": "c0280p0054",
+      "index": 54,
+      "raw_zh": "這動作驚得小蟾一跳，還沒等反應過來，就聽“啪”的一聲脆響。",
+      "translated_vi": "Động tác này dọa Tiểu Thiềm giật nảy mình, còn chưa kịp phản ứng thì đã nghe \"Chát!\" một tiếng giòn giã vang lên."
+    },
+    {
+      "para_id": "c0280p0055",
+      "index": 55,
+      "raw_zh": "小蟾臉上結實的挨了一巴掌，摔倒進門口。",
+      "translated_vi": "Tiểu Thiềm ăn trọn một cái tát trời giáng vào mặt, ngã nhào vào trong cửa."
+    },
+    {
+      "para_id": "c0280p0056",
+      "index": 56,
+      "raw_zh": "雲千峰站在小蟾旁，居高臨下，冷笑道：",
+      "translated_vi": "Vân Thiên Phong đứng bên cạnh Tiểu Thiềm, từ trên cao nhìn xuống, cười gằn:"
+    },
+    {
+      "para_id": "c0280p0057",
+      "index": 57,
+      "raw_zh": "“我不介意弄死你，讓她換個人來和我辦事。”",
+      "translated_vi": "\"Tôi không ngại bóp chết cô đâu, để bà ta đổi người khác tới làm việc với tôi.\""
+    },
+    {
+      "para_id": "c0280p0058",
+      "index": 58,
+      "raw_zh": "小蟾聲音眼中顯出驚慌，急道：",
+      "translated_vi": "Trong mắt Tiểu Thiềm lộ rõ vẻ kinh hoàng, hốt hoảng nói:"
+    },
+    {
+      "para_id": "c0280p0059",
+      "index": 59,
+      "raw_zh": "“你敢！我可是娘娘的人。”",
+      "translated_vi": "\"Anh dám! Tôi là người của Nương Nương đấy!\""
+    },
+    {
+      "para_id": "c0280p0060",
+      "index": 60,
+      "raw_zh": "雲千峰冷笑道：",
+      "translated_vi": "Vân Thiên Phong cười lạnh:"
+    },
+    {
+      "para_id": "c0280p0061",
+      "index": 61,
+      "raw_zh": "“你以為我為什麽打你？”",
+      "translated_vi": "\"Cô tưởng vì sao tôi đánh cô?\""
+    },
+    {
+      "para_id": "c0280p0062",
+      "index": 62,
+      "raw_zh": "小蟾瞬間懂了。",
+      "translated_vi": "Tiểu Thiềm lập tức hiểu ra."
+    },
+    {
+      "para_id": "c0280p0063",
+      "index": 63,
+      "raw_zh": "眼前這貨看得的確夠遠，什麽都看懂了，所以現在是發瘋呢，如果自己不照辦，估計對方真的敢弄死自己當墊背。",
+      "translated_vi": "Tên trước mắt này quả thực nhìn đủ xa, cái gì cũng đã nhìn thấu, cho nên giờ phút này mới phát điên lên như vậy. Nếu mình không làm theo, phỏng chừng hắn dám giết mình đệm lưng thật."
+    },
+    {
+      "para_id": "c0280p0064",
+      "index": 64,
+      "raw_zh": "打狗看主人，這就是打給主人看的。",
+      "translated_vi": "Đánh chó phải ngó mặt chủ, cái tát này chính là đánh cho chủ nhân xem."
+    },
+    {
+      "para_id": "c0280p0065",
+      "index": 65,
+      "raw_zh": "對於蚩尤幾乎滿身的人，小蟾那點能耐，還真不是雲千峰對手。",
+      "translated_vi": "Đối với kẻ cơ thể gần như dung nạp trọn vẹn sức mạnh Xi Vưu, chút bản lĩnh kia của Tiểu Thiềm quả thực chẳng phải là đối thủ của Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0280p0066",
+      "index": 66,
+      "raw_zh": "而且就那速度，估計跑也是跑不掉的。",
+      "translated_vi": "Vả lại với tốc độ khủng khiếp kia, e rằng muốn chạy trốn cũng chẳng thoát nổi."
+    },
+    {
+      "para_id": "c0280p0067",
+      "index": 67,
+      "raw_zh": "關鍵是也不敢跑，娘娘給的任務還沒完成呢，眼前這人很明顯知道，娘娘現在不敢把他怎麽樣，所以有恃無恐。",
+      "translated_vi": "Mấu chốt là cô ta cũng chẳng dám bỏ chạy, nhiệm vụ Nương Nương giao phó vẫn còn chưa hoàn thành. Kẻ trước mắt này rõ ràng thừa biết Nương Nương hiện tại chẳng dám động đến một sợi tóc của hắn, thế nên mới ngang ngược không sợ trời không sợ đất như vậy."
+    },
+    {
+      "para_id": "c0280p0068",
+      "index": 68,
+      "raw_zh": "當下雖然氣的呼吸急促，但還是轉成了恭敬的語氣道：",
+      "translated_vi": "Lúc này dù giận đến mức thở dốc, nhưng cô ta vẫn phải đổi sang giọng điệu cung kính:"
+    },
+    {
+      "para_id": "c0280p0069",
+      "index": 69,
+      "raw_zh": "“小蟾變就是。”",
+      "translated_vi": "\"Tiểu Thiềm biến đổi là được chứ gì.\""
+    },
+    {
+      "para_id": "c0280p0070",
+      "index": 70,
+      "raw_zh": "說著，裙子內的雙腿開始泛出淡青色的鱗片紋理，露在裙外的雙腳踝開始漸漸相容。",
+      "translated_vi": "Dứt lời, đôi chân bên dưới làn váy bắt đầu nổi lên những đường vân vảy màu thanh lam nhạt, hai mắt cá chân lộ ra ngoài gấu váy cũng dần dần dính liền vào nhau."
+    },
+    {
+      "para_id": "c0280p0071",
+      "index": 71,
+      "raw_zh": "小蟾臉上也現出了痛苦的表情。",
+      "translated_vi": "Trên gương mặt Tiểu Thiềm cũng hiện rõ nét thống khổ."
+    },
+    {
+      "para_id": "c0280p0072",
+      "index": 72,
+      "raw_zh": "很顯然，這種基因的轉換是極為痛苦的。",
+      "translated_vi": "Rõ ràng, quá trình chuyển đổi cấu trúc gen kiểu này đem lại nỗi đau đớn tột cùng."
+    },
+    {
+      "para_id": "c0280p0073",
+      "index": 73,
+      "raw_zh": "雲千峰就靠在門旁，點了根煙，慢慢吸著，看著，饒有興致。",
+      "translated_vi": "Vân Thiên Phong chỉ tựa người bên khung cửa, châm một điếu thuốc, thong thả rít từng hơi, đứng nhìn đầy thích thú."
+    },
+    {
+      "para_id": "c0280p0074",
+      "index": 74,
+      "raw_zh": "不多時，小蟾完成了兩套基因外顯的變化。",
+      "translated_vi": "Chẳng bao lâu sau, Tiểu Thiềm đã hoàn thành sự biến đổi biểu hiện của hai bộ gen."
+    },
+    {
+      "para_id": "c0280p0075",
+      "index": 75,
+      "raw_zh": "雲千峰夾煙的手輕輕一抬，道：",
+      "translated_vi": "Bàn tay kẹp điếu thuốc của Vân Thiên Phong khẽ nhấc lên, bảo:"
+    },
+    {
+      "para_id": "c0280p0076",
+      "index": 76,
+      "raw_zh": "“站起來！”",
+      "translated_vi": "\"Đứng dậy!\""
+    },
+    {
+      "para_id": "c0280p0077",
+      "index": 77,
+      "raw_zh": "又是命令的口吻。",
+      "translated_vi": "Lại là cái giọng điệu ra lệnh ấy."
+    },
+    {
+      "para_id": "c0280p0078",
+      "index": 78,
+      "raw_zh": "小蟾忍氣，纖腰一動，便直直的立了起來。",
+      "translated_vi": "Tiểu Thiềm nén giận, eo thon khẽ vặn, liền đứng thẳng tắp dậy."
+    },
+    {
+      "para_id": "c0280p0079",
+      "index": 79,
+      "raw_zh": "雲千峰好似觀賞物件似的，繞著小蟾轉了三圈，突然罵道：",
+      "translated_vi": "Vân Thiên Phong như thể đang ngắm nghía một món đồ chơi, đi lượn quanh Tiểu Thiềm ba vòng, rồi bất chợt mắng:"
+    },
+    {
+      "para_id": "c0280p0080",
+      "index": 80,
+      "raw_zh": "“這特麽看得見什麽？褪了！”",
+      "translated_vi": "\"Thế này thì nhìn thấy cái quái gì? Cởi ra!\""
+    },
+    {
+      "para_id": "c0280p0081",
+      "index": 81,
+      "raw_zh": "小蟾氣得渾身發抖，雲千峰卻朝她臉上吐了一串煙圈。",
+      "translated_vi": "Tiểu Thiềm tức đến run bắn cả người, còn Vân Thiên Phong lại phả thẳng một chuỗi vòng khói vào mặt cô ta."
+    },
+    {
+      "para_id": "c0280p0082",
+      "index": 82,
+      "raw_zh": "“呼”",
+      "translated_vi": "\"Phù...\""
+    },
+    {
+      "para_id": "c0280p0083",
+      "index": 83,
+      "raw_zh": "外面傳來一陣悶響，似乎有什麽在由遠及近快速趕來，雲千峰猛回頭，對著聲音來處高喊道：",
+      "translated_vi": "Bên ngoài bỗng truyền đến một tràng âm thanh trầm đục, dường như có thứ gì đó đang lao nhanh từ xa lại gần. Vân Thiên Phong thoắt quay đầu, hướng về nơi phát ra tiếng động hét lớn:"
+    },
+    {
+      "para_id": "c0280p0084",
+      "index": 84,
+      "raw_zh": "“好一個金口玉言，你說不見，還敢現身嗎？”",
+      "translated_vi": "\"Khá cho một câu vàng ngọc! Bà đã bảo không gặp, giờ còn dám ló mặt ra sao?\""
+    },
+    {
+      "para_id": "c0280p0085",
+      "index": 85,
+      "raw_zh": "那悶響聲戛然而止。",
+      "translated_vi": "Tiếng động trầm đục kia im bặt ngay tức khắc."
+    },
+    {
+      "para_id": "c0280p0086",
+      "index": 86,
+      "raw_zh": "“哈哈哈！”",
+      "translated_vi": "\"Ha ha ha!\""
+    },
+    {
+      "para_id": "c0280p0087",
+      "index": 87,
+      "raw_zh": "雲千峰對著門外的叢林一陣狂笑，他把難題給了這裡的主人，你出來就是食言不要臉，不出來我就打你的臉，自己選！裡子我現在刮不動，但這面子我禍害定了。",
+      "translated_vi": "Vân Thiên Phong hướng ra cánh rừng ngoài cửa cười cuồng ngạo. Hắn đã ném củ khoai nóng cho chủ nhân nơi này: bà ra mặt thì là kẻ nuốt lời trơ tráo, không ra mặt thì tôi vả thẳng vào mặt bà, tự chọn lấy! Mối lợi bên trong giờ tôi chưa cạo nổi, nhưng cái thể diện này tôi quyết phá cho bằng sạch."
+    },
+    {
+      "para_id": "c0280p0088",
+      "index": 88,
+      "raw_zh": "笑過後，雲千峰回頭看著小蟾，陰森森道：",
+      "translated_vi": "Cười xong, Vân Thiên Phong ngoảnh lại nhìn Tiểu Thiềm, lạnh lùng buông một câu âm u:"
+    },
+    {
+      "para_id": "c0280p0089",
+      "index": 89,
+      "raw_zh": "“還等什麽？”",
+      "translated_vi": "\"Còn đợi gì nữa?\""
+    },
+    {
+      "para_id": "c0280p0090",
+      "index": 90,
+      "raw_zh": "小蟾似乎認命了，心知不會有幫手，於是把手伸向連襟的衣衫。",
+      "translated_vi": "Tiểu Thiềm dường như đã nhận mệnh, biết rõ sẽ chẳng có ai tới cứu, đành đưa tay lần tới tà áo vạt chéo."
+    },
+    {
+      "para_id": "c0280p0091",
+      "index": 91,
+      "raw_zh": "乾淨了以後，雲千峰又是繞了三圈，看得仔細，相當仔細。",
+      "translated_vi": "Khi đã trút bỏ sạch sẽ xiêm y, Vân Thiên Phong lại lượn quanh ba vòng, ngắm nghía tỉ mỉ, vô cùng cẩn thận."
+    },
+    {
+      "para_id": "c0280p0092",
+      "index": 92,
+      "raw_zh": "然後道：",
+      "translated_vi": "Đoạn hắn nói:"
+    },
+    {
+      "para_id": "c0280p0093",
+      "index": 93,
+      "raw_zh": "“去那站著，手扶著牆。”",
+      "translated_vi": "\"Qua bên kia đứng, hai tay chống vào tường.\""
+    },
+    {
+      "para_id": "c0280p0094",
+      "index": 94,
+      "raw_zh": "小蟾知道，自己上了雲千峰的當了。",
+      "translated_vi": "Tiểu Thiềm biết, mình đã trúng kế của Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0280p0095",
+      "index": 95,
+      "raw_zh": "這個混蛋問的那句“我不會見到你家娘娘”的話，就是為了現在這個場景做的陷阱，這份算計讓小蟾心裡發寒。",
+      "translated_vi": "Câu hỏi mà tên khốn kiếp này đưa ra trước đó — \"Tôi sẽ không gặp Nương Nương nhà cô chứ\" — chính là cái bẫy giăng sẵn cho tình cảnh lúc này. Mưu toan sâu xa ấy khiến lòng Tiểu Thiềm lạnh toát."
+    },
+    {
+      "para_id": "c0280p0096",
+      "index": 96,
+      "raw_zh": "他堵住了娘娘出現的可能，可以肆意妄為的靠著自己來報復自己的主人，因為他很清楚的知道，算計自己命運的執行者，就包括自己的主人。",
+      "translated_vi": "Hắn đã chặn đứng khả năng Nương Nương xuất hiện, để có thể mượn chính thân xác cô ta mà thỏa sức trả thù chủ nhân của cô ta. Bởi vì hắn biết tỏng rằng, kẻ trực tiếp chấp hành mưu đồ thao túng vận mệnh của hắn có cả chủ nhân của cô ta trong đó."
+    },
+    {
+      "para_id": "c0280p0097",
+      "index": 97,
+      "raw_zh": "小蟾顫抖著，用手扶著牆，忍著眼淚道：",
+      "translated_vi": "Tiểu Thiềm run rẩy, hai tay chống lên tường, cắn răng nén nước mắt nói:"
+    },
+    {
+      "para_id": "c0280p0098",
+      "index": 98,
+      "raw_zh": "“你不配稱王，你是魔鬼！”",
+      "translated_vi": "\"Anh không xứng xưng vương, anh là đồ ác quỷ!\""
+    },
+    {
+      "para_id": "c0280p0099",
+      "index": 99,
+      "raw_zh": "“蚩尤不一直都是你們口中的魔鬼嗎？我這叫如你等所願！”",
+      "translated_vi": "\"Xi Vưu chẳng phải xưa nay luôn là ma quỷ trong miệng các người sao? Tôi làm thế này là toại nguyện cho các người đấy!\""
+    },
+    {
+      "para_id": "c0280p0100",
+      "index": 100,
+      "raw_zh": "“啊！.你會受到懲罰的.呃！”",
+      "translated_vi": "\"A!... Anh sẽ phải chịu quả báo... Ức!\""
+    },
+    {
+      "para_id": "c0280p0101",
+      "index": 101,
+      "raw_zh": "“嗡”",
+      "translated_vi": "\"Vù...\""
+    },
+    {
+      "para_id": "c0280p0102",
+      "index": 102,
+      "raw_zh": "遙遠處，似有似無的飄來一聲怒吼。",
+      "translated_vi": "Từ nơi xa xăm, dường như có một tiếng gầm phẫn nộ mơ hồ vọng tới."
+    },
+    {
+      "para_id": "c0280p0103",
+      "index": 103,
+      "raw_zh": "只是很遠，聽不清。",
+      "translated_vi": "Chỉ là khoảng cách quá xa xôi, nghe không rõ."
+    },
+    {
+      "para_id": "c0280p0104",
+      "index": 104,
+      "raw_zh": "雲千峰獰笑著。",
+      "translated_vi": "Vân Thiên Phong cười gằn dữ tợn."
+    },
+    {
+      "para_id": "c0280p0105",
+      "index": 105,
+      "raw_zh": "小蟾在這一刻才明白，為什麽自家主人說這人不能留。",
+      "translated_vi": "Khoảnh khắc này Tiểu Thiềm mới hiểu vì sao chủ nhân nhà mình lại bảo kẻ này tuyệt đối không thể giữ lại."
+    },
+    {
+      "para_id": "c0280p0106",
+      "index": 106,
+      "raw_zh": "“他是個頭腦冷靜的瘋子！這世上最可怕的一種人！”",
+      "translated_vi": "\"Hắn là một kẻ điên có cái đầu lạnh! Thứ người đáng sợ nhất trên cõi đời này!\""
+    },
+    {
+      "para_id": "c0280p0107",
+      "index": 107,
+      "raw_zh": "小蟾在前，雲千峰在後，倆人走在無邊的綠色之中。",
+      "translated_vi": "Tiểu Thiềm đi trước, Vân Thiên Phong theo sau, hai người cất bước giữa sắc xanh ngút ngàn vô tận."
+    },
+    {
+      "para_id": "c0280p0108",
+      "index": 108,
+      "raw_zh": "小蟾一聲不吭，臉色鐵青，她又被逼著變回了雙腿。",
+      "translated_vi": "Tiểu Thiềm không thốt một lời, sắc mặt xanh mét, cô ta lại bị ép biến trở về đôi chân người."
+    },
+    {
+      "para_id": "c0280p0109",
+      "index": 109,
+      "raw_zh": "雲千峰哼著“你身上有他的香水味”，愜意自然。",
+      "translated_vi": "Vân Thiên Phong khe khẽ ngâm nga giai điệu \"Trên người em có mùi nước hoa của người ấy\", ung dung tự tại."
+    },
+    {
+      "para_id": "c0280p0110",
+      "index": 110,
+      "raw_zh": "很快倆人來到一個露天的黑色祭壇。",
+      "translated_vi": "Rất nhanh sau đó, hai người đã tới một tế đàn màu đen lộ thiên."
+    },
+    {
+      "para_id": "c0280p0111",
+      "index": 111,
+      "raw_zh": "雲千峰膻中內的全知之眼也早早感覺到了蚩尤的召喚。",
+      "translated_vi": "Con Mắt Toàn Tri nơi huyệt Đản Trung của Vân Thiên Phong cũng đã sớm cảm nhận được lời hiệu triệu của Xi Vưu."
+    },
+    {
+      "para_id": "c0280p0112",
+      "index": 112,
+      "raw_zh": "蚩尤左腿，就在黑色祭壇之上，孤單安靜的落在哪裡。",
+      "translated_vi": "Chân trái Xi Vưu đang ngự trên tế đàn đen, cô độc và tĩnh lặng nằm ở nơi đó."
+    },
+    {
+      "para_id": "c0280p0113",
+      "index": 113,
+      "raw_zh": "祭壇是精美的，配得上。",
+      "translated_vi": "Tế đàn tinh xảo tuyệt mỹ, hoàn toàn xứng tầm."
+    },
+    {
+      "para_id": "c0280p0114",
+      "index": 114,
+      "raw_zh": "雲千峰走上祭壇，捧起最後這一部分蚩尤，感受到全身蚩尤甲的顫栗。",
+      "translated_vi": "Vân Thiên Phong bước lên tế đàn, nâng phần thi thể cuối cùng này của Xi Vưu lên, cảm nhận được từng đợt run rẩy mãnh liệt truyền khắp bộ giáp Xi Vưu trên người."
+    },
+    {
+      "para_id": "c0280p0115",
+      "index": 115,
+      "raw_zh": "那是對完整的期盼。",
+      "translated_vi": "Đó là niềm khát khao hướng về sự vẹn toàn."
+    },
+    {
+      "para_id": "c0280p0116",
+      "index": 116,
+      "raw_zh": "小蟾冷聲道：",
+      "translated_vi": "Tiểu Thiềm lạnh lùng lên tiếng:"
+    },
+    {
+      "para_id": "c0280p0117",
+      "index": 117,
+      "raw_zh": "“還愣著幹什麽？穿上吧！”",
+      "translated_vi": "\"Còn ngẩn ra đó làm gì? Mặc vào đi chứ!\""
+    },
+    {
+      "para_id": "c0280p0118",
+      "index": 118,
+      "raw_zh": "雲千峰淡淡道：",
+      "translated_vi": "Vân Thiên Phong nhàn nhạt đáp:"
+    },
+    {
+      "para_id": "c0280p0119",
+      "index": 119,
+      "raw_zh": "“急什麽？這裡又不是終點站，等到了地方再穿不遲，我還有話要交代。”",
+      "translated_vi": "\"Vội gì chứ? Nơi này đâu phải trạm cuối, đợi tới nơi rồi mặc cũng chưa muộn, tôi còn có lời cần dặn dò.\""
+    },
+    {
+      "para_id": "c0280p0120",
+      "index": 120,
+      "raw_zh": "小蟾冷冷道：",
+      "translated_vi": "Tiểu Thiềm lạnh giọng:"
+    },
+    {
+      "para_id": "c0280p0121",
+      "index": 121,
+      "raw_zh": "“有什麽要交代的，說吧。”",
+      "translated_vi": "\"Có gì cần dặn, nói đi.\""
+    },
+    {
+      "para_id": "c0280p0122",
+      "index": 122,
+      "raw_zh": "雲千峰不屑道：",
+      "translated_vi": "Vân Thiên Phong khinh khỉnh:"
+    },
+    {
+      "para_id": "c0280p0123",
+      "index": 123,
+      "raw_zh": "“叫聲那麽賤的人也配聽？速速領路，別廢話。”",
+      "translated_vi": "\"Kẻ có tiếng rên hạ tiện như cô cũng xứng nghe sao? Mau dẫn đường đi, bớt nói nhảm.\""
+    },
+    {
+      "para_id": "c0280p0124",
+      "index": 124,
+      "raw_zh": "小蟾捏緊的拳頭“哢哢哢”響個不停，顯然已經氣急。",
+      "translated_vi": "Nắm đấm siết chặt của Tiểu Thiềm vang lên những tiếng \"răng rắc\" không ngừng, rõ ràng đã giận dữ đến cực điểm."
+    },
+    {
+      "para_id": "c0280p0125",
+      "index": 125,
+      "raw_zh": "但她不敢發作，因為她很清楚，雲千峰現在是按照既定的順序走，她只能相助，不能做其他事，否則就是阻撓，主人的懲罰更可怕。",
+      "translated_vi": "Nhưng cô ta không dám phát tác, bởi cô ta biết rõ Vân Thiên Phong lúc này đang đi theo đúng trình tự đã định sẵn, cô ta chỉ có thể trợ giúp chứ không được làm điều gì khác, bằng không sẽ bị coi là cản trở, mà hình phạt từ chủ nhân còn đáng sợ hơn gấp bội."
+    },
+    {
+      "para_id": "c0280p0126",
+      "index": 126,
+      "raw_zh": "於是便在祭壇旁邊，轉動幾個獸頭的雕刻，不多時機括聲轟隆隆傳出，祭台中心拱出一座黑色的石碑。",
+      "translated_vi": "Thế là cô ta bước tới bên mép tế đàn, vặn xoay mấy bức điêu khắc hình đầu thú. Chẳng mấy chốc tiếng cơ quan rầm rầm chuyển động vang lên, giữa trung tâm tế đài nhô lên một tòa bia đá màu đen."
+    },
+    {
+      "para_id": "c0280p0127",
+      "index": 127,
+      "raw_zh": "小蟾冷冷道：",
+      "translated_vi": "Tiểu Thiềm lạnh lùng bảo:"
+    },
+    {
+      "para_id": "c0280p0128",
+      "index": 128,
+      "raw_zh": "“二十一眼天珠是鑰匙，進去後就是你的終點站。”",
+      "translated_vi": "\"Thiên Châu hai mươi mốt mắt chính là chìa khóa, bước vào bên trong rồi sẽ là trạm cuối của anh.\""
+    },
+    {
+      "para_id": "c0280p0129",
+      "index": 129,
+      "raw_zh": "雲千峰也沒說話，看著小蟾，然後嗅了嗅自己除了拇指外的四根手指，這才笑著走上祭台，來到黑石之前，屏息調整大腦接收頻段。",
+      "translated_vi": "Vân Thiên Phong cũng chẳng buồn đáp lời, chỉ nhìn Tiểu Thiềm, đoạn đưa bốn ngón tay trừ ngón cái lên mũi khẽ ngửi ngửi, rồi mới cười bước lên tế đài, đi tới trước phiến đá đen, nín thở điều chỉnh tần số thu nhận của bộ não."
+    },
+    {
+      "para_id": "c0280p0130",
+      "index": 130,
+      "raw_zh": "小蟾被雲千峰嗅手指的動作氣到眼前發黑，全身顫栗，臉上現出痛苦的神色，似乎已經快要達到忍耐的極限。",
+      "translated_vi": "Động tác ngửi ngón tay của Vân Thiên Phong khiến Tiểu Thiềm tức đến tối tăm mặt mũi, toàn thân run rẩy, trên gương mặt lộ rõ vẻ đau đớn nhục nhã, dường như đã sắp chạm tới cực hạn chịu đựng."
+    },
+    {
+      "para_id": "c0280p0131",
+      "index": 131,
+      "raw_zh": "好在這時雲千峰走進黑色石碑，消失在祭台之上。",
+      "translated_vi": "May sao đúng lúc này Vân Thiên Phong đã bước vào bên trong tấm bia đá đen, biến mất khỏi tế đài."
+    },
+    {
+      "para_id": "c0280p0132",
+      "index": 132,
+      "raw_zh": "那一刻，小蟾終於忍不住，癱倒在地上，發出了撕心裂肺的怒吼。",
+      "translated_vi": "Khoảnh khắc ấy, Tiểu Thiềm rốt cuộc không thể kìm nén thêm được nữa, quỵ ngã xuống mặt đất, gào lên một tiếng thét xé ruột xé gan."
+    },
+    {
+      "para_id": "c0280p0133",
+      "index": 133,
+      "raw_zh": "“啊”",
+      "translated_vi": "\"A!...\""
+    }
+  ]
+}

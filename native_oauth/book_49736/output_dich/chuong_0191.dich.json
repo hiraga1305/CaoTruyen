@@ -1,0 +1,637 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 191,
+  "title": "Chương 191: Biện Pháp Luôn Nhiều Hơn Khó Khăn",
+  "total_paragraphs": 104,
+  "translated_paragraphs": 104,
+  "source_hash": "9b715ec90be794d86464a0cdaaed3584c382971caead1d88ab9a1d45955683bf",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0191p0001",
+      "index": 1,
+      "raw_zh": "第191章 辦法總比困難多",
+      "translated_vi": "Chương 191: Biện Pháp Luôn Nhiều Hơn Khó Khăn"
+    },
+    {
+      "para_id": "c0191p0002",
+      "index": 2,
+      "raw_zh": "雲千峰發現自己根本無法仔細分析，因為之前看到的一切，讓他腦子如同漿糊，亂七八糟想的都是：",
+      "translated_vi": "Vân Thiên Phong phát hiện bản thân căn bản không thể phân tích cặn kẽ được gì, bởi những cảnh tượng tận mắt chứng kiến trước đó đã khiến đầu óc anh rối bời như một mớ bòng bong, ngổn ngang bao mối nghi hoặc:"
+    },
+    {
+      "para_id": "c0191p0003",
+      "index": 3,
+      "raw_zh": "“絕地天通，這裡與絕地的黎有什麽關系？青銅大門後面到底隱藏著什麽？為什麽要用威脅的字眼阻止別人打開？難道真的如同大門上面的圖案所示，門後面是死亡嗎？”",
+      "translated_vi": "“Tuyệt Địa Thiên Thông, nơi này có liên hệ gì với Cửu Lê thời kỳ Tuyệt Địa? Đằng sau cánh cửa đồng to lớn kia rốt cuộc đang ẩn giấu bí mật gì? Vì sao lại dùng những lời lẽ đe dọa để ngăn cản người ngoài mở ra? Chẳng lẽ đúng như hình khắc trên cánh cửa đã thể hiện, phía sau cánh cửa thực sự là cái chết hay sao?”"
+    },
+    {
+      "para_id": "c0191p0004",
+      "index": 4,
+      "raw_zh": "“為什麽要在青銅大門前專門弄一盞那麽明亮的蓮花燈？蓮花燈為什麽能夠發出那麽強的光？那絕不是什麽輻射材料，否則蚩尤甲會產生自救的反應，那麽就是因為什麽能量在發光，甚至那感覺就是電光，因為可以感覺到光照的熱，就像晨昏的太陽光漫過皮膚。”",
+      "translated_vi": "“Vì cớ gì người ta lại cố ý đặt một ngọn đèn hoa sen sáng rực đến thế ngay trước cánh cửa đồng? Tại sao ngọn đèn hoa sen ấy lại có thể phát ra luồng sáng mãnh liệt đến vậy? Đó tuyệt đối chẳng phải vật liệu phóng xạ, bằng không Xi Vưu Giáp đã kích hoạt phản ứng tự vệ cứu chủ rồi; vậy thì rốt cuộc là loại năng lượng nào đang phát sáng? Thậm chí luồng sáng ấy mang lại cảm giác hệt như ánh sáng điện, bởi anh có thể cảm nhận được hơi ấm tỏa ra từ luồng quang mang, tựa như ánh mặt trời lúc bình minh hay hoàng hôn mơn man trên làn da.”"
+    },
+    {
+      "para_id": "c0191p0005",
+      "index": 5,
+      "raw_zh": "“史前的人類一定已經知道神軀，甚至知道神軀的特性，否則不會特意把蓮花燈緊挨著神軀，他們很聰明，在利用神軀加大亮度。”",
+      "translated_vi": "“Người tiền sử nhất định đã sớm biết về nhục thân của thần, thậm chí còn nắm rõ đặc tính của xác thần, bằng không họ đã chẳng cố tình đặt ngọn đèn hoa sen nằm sát ngay cạnh thần khu như thế. Họ quả thực vô cùng thông minh, biết mượn chính thần khu để khuếch đại độ sáng.”"
+    },
+    {
+      "para_id": "c0191p0006",
+      "index": 6,
+      "raw_zh": "“可是，既然想要光亮，為什麽又要用屏風遮擋住那些光？是因為太亮刺眼？那完全可以製造一個不那麽亮的燈，也可以不挨著神軀，為什麽要那麽麻煩，特意用一個屏風遮擋著？”",
+      "translated_vi": "“Thế nhưng, một khi đã muốn có ánh sáng, cớ sao lại phải dựng bình phong che chắn những luồng sáng ấy lại? Là vì quá chói mắt ư? Nếu vậy họ hoàn toàn có thể chế tạo một ngọn đèn bớt sáng hơn, hoặc đặt nó cách xa xác thần ra một chút, việc gì phải cất công làm điều phiền phức như dựng một tấm bình phong chắn ngang như thế?”"
+    },
+    {
+      "para_id": "c0191p0007",
+      "index": 7,
+      "raw_zh": "腦子裡一堆問題，惹得他根本沒法全心全意思考白狐狸的反常舉動。",
+      "translated_vi": "Hàng tá câu hỏi lởn vởn trong đầu khiến anh chẳng thể nào tập trung toàn tâm toàn ý suy nghĩ về những hành vi khác thường của con cáo trắng."
+    },
+    {
+      "para_id": "c0191p0008",
+      "index": 8,
+      "raw_zh": "“唉！之前在扭曲島見到帝嚳年代的時間留影已經覺得遙不可及，如今卻又見到了顓頊年代的東西，不知道以後會不會遇到黃帝年間的古跡，呵！”",
+      "translated_vi": "“Ai da! Trước kia ở Đảo Vặn Vẹo thấy được tàn ảnh thời gian từ thời Đế Cốc đã cảm thấy xa xôi khôn cùng, nay lại bắt gặp những tàn tích từ tận thời Chuyên Húc, chẳng rõ sau này liệu có đụng phải cổ tích từ thời Hoàng Đế nữa hay không, hừ!”"
+    },
+    {
+      "para_id": "c0191p0009",
+      "index": 9,
+      "raw_zh": "“白狐狸的行為很反常啊！有些看不懂，嗯，是很看不懂，不行，我得睡會.”",
+      "translated_vi": "“Hành tung của con hồ ly trắng quả thực quá đỗi bất thường! Có chút khó hiểu, ừm, đúng là cực kỳ khó hiểu... Không được, mình phải chợp mắt một lát đã...”"
+    },
+    {
+      "para_id": "c0191p0010",
+      "index": 10,
+      "raw_zh": "在雲千峰和阿菲法的前方遠處，法緹娜洗好了澡，走出水面，穿好了衣裳，那一直趴在一塊岩石後面，忠心展示非禮勿視的安德才敢走出來。",
+      "translated_vi": "Ở mãi tận phía xa đằng trước Vân Thiên Phong và Afifa, Fatina đã tắm rửa xong xuôi, bước lên khỏi mặt nước và mặc lại xiêm y chỉnh tề. Lúc này Ander, người nãy giờ vẫn úp mặt nằm phục sau một tảng đá để trung thành thể hiện tinh thần phi lễ chớ nhìn, mới dám rụt rè bước ra."
+    },
+    {
+      "para_id": "c0191p0011",
+      "index": 11,
+      "raw_zh": "倆人沒有繼續停留，而是快步朝著前方繼續趕路，依舊是安德打頭陣，法緹娜輕盈的跟在後面。",
+      "translated_vi": "Hai người không nán lại thêm nữa mà sải bước rảo chân về phía trước. Vẫn là Ander đi tiên phong mở đường, còn Fatina nhẹ nhàng thanh thoát bám sát theo sau."
+    },
+    {
+      "para_id": "c0191p0012",
+      "index": 12,
+      "raw_zh": "他們倆來到了那面玉石牆上的玉石洞前，看著玉石洞內滿布的電弧，法緹娜用手在那帶著雕刻的玉石磚上滑動了一個複雜的紋路，玉石洞內的電弧瞬間消失不見。",
+      "translated_vi": "Bọn họ đi tới trước cửa hang ngọc trên vách tường đá ngọc thạch. Nhìn những tia hồ quang điện chằng chịt giăng kín bên trong cửa hang, Fatina đưa tay lướt theo một hoa văn phức tạp trên viên gạch ngọc có khắc phù điêu, hồ quang điện giăng khắp hang động lập tức biến mất không còn dấu vết."
+    },
+    {
+      "para_id": "c0191p0013",
+      "index": 13,
+      "raw_zh": "安德為眼前所見瞠目結舌，看向法緹娜的眼神愈加崇拜起來。",
+      "translated_vi": "Ander trợn mắt há hốc mồm trước cảnh tượng vừa chứng kiến, ánh mắt nhìn về phía Fatina càng thêm phần sùng bái tột bực."
+    },
+    {
+      "para_id": "c0191p0014",
+      "index": 14,
+      "raw_zh": "法緹娜關閉了電弧之後，沒有立即離開，而是對著安德說道：",
+      "translated_vi": "Sau khi tắt luồng hồ quang điện, Fatina không lập tức rời đi ngay mà quay sang nói với Ander:"
+    },
+    {
+      "para_id": "c0191p0015",
+      "index": 15,
+      "raw_zh": "“用刀刮去磚上的浮雕。”",
+      "translated_vi": "“Dùng dao cạo sạch hoa văn phù điêu trên viên gạch này đi.”"
+    },
+    {
+      "para_id": "c0191p0016",
+      "index": 16,
+      "raw_zh": "安德不知道法緹娜要幹嘛，但他唯命是從，拿著狗腿刀，費勁了力氣，才把那堅硬玉石上的浮雕抹去，留下亂七八糟的痕跡。",
+      "translated_vi": "Ander chẳng hiểu Fatina định làm gì, nhưng gã răm rắp tuân lệnh, rút con dao quắm Kukri ra, tốn bao nhiêu sức lực mới mài phẳng lớp phù điêu trên nền ngọc thạch cứng như thép, chỉ để lại những vệt cào xước nham nhở hỗn loạn."
+    },
+    {
+      "para_id": "c0191p0017",
+      "index": 17,
+      "raw_zh": "法緹娜看著那塊磚，露出了笑容，一揮手，倆人走入玉石洞，法緹娜在走到玉石洞內側之後，回手在內部的一塊玉石磚上滑動了幾下，玉石洞內再次布滿了電弧。",
+      "translated_vi": "Fatina nhìn viên gạch nọ, khóe môi khẽ nở một nụ cười rồi vẫy tay ra hiệu. Cả hai cùng bước vào trong hang ngọc. Vừa vào tới bờ bên trong, Fatina liền ngoái tay vuốt vài đường lên một viên gạch ngọc phía trong vách, thế là bên trong lòng hang lại giăng kín những tia hồ quang điện lập lòe."
+    },
+    {
+      "para_id": "c0191p0018",
+      "index": 18,
+      "raw_zh": "遠處。",
+      "translated_vi": "Nơi xa xa."
+    },
+    {
+      "para_id": "c0191p0019",
+      "index": 19,
+      "raw_zh": "雲千峰似乎剛睡著，就感覺有人掐自己的臉，耳邊還響著阿菲法怯懦的聲音：",
+      "translated_vi": "Vân Thiên Phong dường như vừa mới chợp mắt thì cảm thấy có ai đó đang nhéo má mình, bên tai còn vang lên giọng nói rụt rè sợ sệt của Afifa:"
+    },
+    {
+      "para_id": "c0191p0020",
+      "index": 20,
+      "raw_zh": "“雲，雲，我要上廁所”",
+      "translated_vi": "“Vân, anh Vân, em muốn đi vệ sinh...”"
+    },
+    {
+      "para_id": "c0191p0021",
+      "index": 21,
+      "raw_zh": "“呼！”",
+      "translated_vi": "“Phù!”"
+    },
+    {
+      "para_id": "c0191p0022",
+      "index": 22,
+      "raw_zh": "雲千峰使勁吐了口氣，趕緊爬起來，他可不想洗衣服，並且深刻體會當媽的不易。",
+      "translated_vi": "Vân Thiên Phong thở dài một hơi thật mạnh rồi vội vàng bò dậy. Anh chẳng muốn phải giặt giũ quần áo chút nào, đồng thời trong lòng thấm thía sâu sắc nỗi vất vả của những người làm mẹ."
+    },
+    {
+      "para_id": "c0191p0023",
+      "index": 23,
+      "raw_zh": "折騰了一陣，搞定了阿菲法的需求，雲千峰已經毫無睡意。",
+      "translated_vi": "Loay hoay một hồi giải quyết xong nhu cầu của Afifa, cơn buồn ngủ của Vân Thiên Phong cũng bay biến sạch trơn."
+    },
+    {
+      "para_id": "c0191p0024",
+      "index": 24,
+      "raw_zh": "當下決定繼續出發，背著阿菲法一路沿著夢中的路線前行。",
+      "translated_vi": "Anh lập tức quyết định tiếp tục lên đường, cõng Afifa men theo lộ trình từng thấy trong giấc mơ mà tiến bước."
+    },
+    {
+      "para_id": "c0191p0025",
+      "index": 25,
+      "raw_zh": "路過昨晚看到法緹娜洗澡的位置，雲千峰刻意停留了一會。",
+      "translated_vi": "Đi ngang qua nơi đêm qua thấy Fatina tắm rửa, Vân Thiên Phong cố tình dừng chân lại một lát."
+    },
+    {
+      "para_id": "c0191p0026",
+      "index": 26,
+      "raw_zh": "因為他需要確定一下，夢中所見是否為真實。",
+      "translated_vi": "Bởi lẽ anh cần phải xác nhận xem những gì thấy trong mộng có phải là sự thật hay không."
+    },
+    {
+      "para_id": "c0191p0027",
+      "index": 27,
+      "raw_zh": "從地形上判斷，和夢中記憶很像。",
+      "translated_vi": "Đánh giá từ địa hình thực tế, nơi này giống hệt như trong ký ức giấc mơ."
+    },
+    {
+      "para_id": "c0191p0028",
+      "index": 28,
+      "raw_zh": "但讓他確認昨晚法緹娜確實在這裡，卻是另外的證據。",
+      "translated_vi": "Thế nhưng thứ khiến anh khẳng định chắc chắn đêm qua Fatina thực sự từng ở đây lại là một bằng chứng khác."
+    },
+    {
+      "para_id": "c0191p0029",
+      "index": 29,
+      "raw_zh": "“這個法緹娜真是沒有公德心，竟然隨地大便！”",
+      "translated_vi": "“Cô nàng Fatina này đúng là chẳng có chút ý thức công cộng nào cả, lại đi đại tiện bừa bãi thế này!”"
+    },
+    {
+      "para_id": "c0191p0030",
+      "index": 30,
+      "raw_zh": "在牆角處，雲千峰借著手電和氣味，看到了一泡屎。",
+      "translated_vi": "Nơi góc tường, nhờ ánh đèn pin và mùi xú uế thoang thoảng, Vân Thiên Phong nhìn thấy một bãi phân."
+    },
+    {
+      "para_id": "c0191p0031",
+      "index": 31,
+      "raw_zh": "很粗那種！",
+      "translated_vi": "Lại còn là loại to đùng cục súc nữa chứ!"
+    },
+    {
+      "para_id": "c0191p0032",
+      "index": 32,
+      "raw_zh": "在看到這東西的時候，雲千峰眼睛明顯一亮，顯然是想通了點什麽，臉上帶著陰陰的笑意。",
+      "translated_vi": "Vừa nhìn thấy thứ này, hai mắt Vân Thiên Phong chợt sáng rực lên, rõ ràng là đã ngộ ra được điều gì đó, trên khóe môi thấp thoáng nụ cười đầy ẩn ý."
+    },
+    {
+      "para_id": "c0191p0033",
+      "index": 33,
+      "raw_zh": "然後他不再停留，快步繼續趕路。",
+      "translated_vi": "Sau đó anh không nán lại nữa mà rảo bước nhanh tiếp tục lên đường."
+    },
+    {
+      "para_id": "c0191p0034",
+      "index": 34,
+      "raw_zh": "足足走了一個小時，才看到夢中的那面玉石牆。",
+      "translated_vi": "Đi ròng rã suốt một tiếng đồng hồ, anh mới nhìn thấy bức tường ngọc thạch như trong giấc mộng."
+    },
+    {
+      "para_id": "c0191p0035",
+      "index": 35,
+      "raw_zh": "“夢中所見，果然都是真實的。”",
+      "translated_vi": "“Những gì thấy trong mơ, quả nhiên đều là thật.”"
+    },
+    {
+      "para_id": "c0191p0036",
+      "index": 36,
+      "raw_zh": "雲千峰加快腳步，來到那充滿電弧的玉石洞前面。",
+      "translated_vi": "Vân Thiên Phong rảo bước nhanh hơn, tiến tới trước cửa hang ngọc đang giăng đầy tia hồ quang điện."
+    },
+    {
+      "para_id": "c0191p0037",
+      "index": 37,
+      "raw_zh": "正準備按照夢中白毛狐狸的手勢關閉石洞內的電弧時，卻突然傻了眼。",
+      "translated_vi": "Đang định làm theo thủ thế của con hồ ly lông trắng trong mơ để tắt hồ quang điện bên trong thạch động, anh chợt ngớ người chết trân."
+    },
+    {
+      "para_id": "c0191p0038",
+      "index": 38,
+      "raw_zh": "“靠！要不要這麽缺德，把所有圖案都刮了下去！”",
+      "translated_vi": "“Mẹ kiếp! Có cần phải thất đức đến mức cạo sạch sành sanh mọi đồ án thế này không chứ!”"
+    },
+    {
+      "para_id": "c0191p0039",
+      "index": 39,
+      "raw_zh": "雲千峰恨恨的罵了一句。",
+      "translated_vi": "Vân Thiên Phong hậm hực chửi thề một câu."
+    },
+    {
+      "para_id": "c0191p0040",
+      "index": 40,
+      "raw_zh": "阿菲法不知道發生了什麽，忙問道：",
+      "translated_vi": "Afifa chẳng hiểu có chuyện gì xảy ra, vội vàng hỏi:"
+    },
+    {
+      "para_id": "c0191p0041",
+      "index": 41,
+      "raw_zh": "“怎麽了，你這麽生氣？”",
+      "translated_vi": "“Sao thế anh, sao lại giận dữ đến vậy?”"
+    },
+    {
+      "para_id": "c0191p0042",
+      "index": 42,
+      "raw_zh": "雲千峰冷笑道：",
+      "translated_vi": "Vân Thiên Phong cười lạnh bảo:"
+    },
+    {
+      "para_id": "c0191p0043",
+      "index": 43,
+      "raw_zh": "“有人要阻止我跟進去，破壞了能關閉這電弧的開關，以為這樣就可以阻止我，真是太小瞧我雲千峰！”",
+      "translated_vi": "“Có kẻ muốn ngăn tôi bám theo vào trong nên đã phá hủy cơ quan có thể tắt luồng hồ quang điện này, tưởng làm vậy là cản được bước chân tôi sao, thật là quá coi thường Vân Thiên Phong này rồi!”"
+    },
+    {
+      "para_id": "c0191p0044",
+      "index": 44,
+      "raw_zh": "阿菲法忙道：",
+      "translated_vi": "Afifa vội hỏi dồn:"
+    },
+    {
+      "para_id": "c0191p0045",
+      "index": 45,
+      "raw_zh": "“誰在阻止我們？是白毛狐狸嗎？”",
+      "translated_vi": "“Ai ngăn cản chúng ta vậy? Là con hồ ly lông trắng sao?”"
+    },
+    {
+      "para_id": "c0191p0046",
+      "index": 46,
+      "raw_zh": "雲千峰咧嘴笑道：",
+      "translated_vi": "Vân Thiên Phong nhếch mép cười đáp:"
+    },
+    {
+      "para_id": "c0191p0047",
+      "index": 47,
+      "raw_zh": "“不好說。”",
+      "translated_vi": "“Khó nói lắm.”"
+    },
+    {
+      "para_id": "c0191p0048",
+      "index": 48,
+      "raw_zh": "阿菲法看著剛還很生氣，這會又笑的得意的雲千峰，疑惑道：",
+      "translated_vi": "Afifa nhìn Vân Thiên Phong vừa mới tức tối xong giờ lại cười đắc chí đầy tự tin, liền khó hiểu hỏi:"
+    },
+    {
+      "para_id": "c0191p0049",
+      "index": 49,
+      "raw_zh": "“這玉石洞內充滿了電弧，我們怎麽走進去？”",
+      "translated_vi": "“Bên trong hang ngọc này giăng kín hồ quang điện, làm sao chúng ta vào được đây?”"
+    },
+    {
+      "para_id": "c0191p0050",
+      "index": 50,
+      "raw_zh": "雲千峰笑道：",
+      "translated_vi": "Vân Thiên Phong cười bảo:"
+    },
+    {
+      "para_id": "c0191p0051",
+      "index": 51,
+      "raw_zh": "“這其實不是玉石，非洲不產狹義上玉石這種東西。”",
+      "translated_vi": "“Thực ra đây không phải là ngọc thạch, châu Phi làm gì có thứ gọi là ngọc thạch theo nghĩa hẹp.”"
+    },
+    {
+      "para_id": "c0191p0052",
+      "index": 52,
+      "raw_zh": "阿菲法看著那玉石牆，無論如何也分辨不出與玉石有什麽區別。",
+      "translated_vi": "Afifa chăm chú nhìn bức tường ngọc kia, dù nhìn thế nào cũng chẳng phân biệt nổi nó khác gì so với ngọc thạch thông thường."
+    },
+    {
+      "para_id": "c0191p0053",
+      "index": 53,
+      "raw_zh": "“那這些是什麽？”",
+      "translated_vi": "“Vậy những thứ này là gì ạ?”"
+    },
+    {
+      "para_id": "c0191p0054",
+      "index": 54,
+      "raw_zh": "雲千峰用手撫摸那些很像玉石的石磚說道：",
+      "translated_vi": "Vân Thiên Phong đưa tay vuốt ve những viên gạch đá trông rất giống ngọc thạch kia, cất tiếng giải thích:"
+    },
+    {
+      "para_id": "c0191p0055",
+      "index": 55,
+      "raw_zh": "“這是石英岩玉，雖然也用了玉這個字眼，但卻並不屬於玉石和翡翠的行列，其組成主要是石英，和建造金字塔的石頭更相似。",
+      "translated_vi": "“Đây là ngọc thạch anh, tuy mang chữ 'ngọc' trong tên gọi nhưng lại chẳng hề thuộc về hàng ngũ ngọc thạch hay phỉ thúy, thành phần chủ yếu của nó là thạch anh, tương tự như loại đá dùng để xây dựng kim tự tháp hơn."
+    },
+    {
+      "para_id": "c0191p0056",
+      "index": 56,
+      "raw_zh": "我心中最偉大的發明家特斯拉先生，一直認為金字塔不是法老陵墓，而是一個發電裝置，並且他真的利用金字塔的原理建造了一個幾乎接近永動的發電裝置，只可惜從那以後他不但失去了實驗室，更失去了所有研究資金，那是絕對不允許出現的東西。",
+      "translated_vi": "Nhà phát minh vĩ đại nhất trong lòng tôi, ngài Tesla, vốn luôn cho rằng kim tự tháp không phải là lăng mộ của các Pharaon, mà chính là một thiết bị phát điện. Hơn nữa ông ấy đã thực sự dựa trên nguyên lý của kim tự tháp để chế tạo ra một cỗ máy phát điện gần như vĩnh cửu. Đáng tiếc là kể từ đó, ông không những mất đi phòng thí nghiệm mà còn bị cắt toàn bộ nguồn kinh phí nghiên cứu, bởi đó là thứ tuyệt đối bị cấm xuất hiện trên cõi đời này."
+    },
+    {
+      "para_id": "c0191p0057",
+      "index": 57,
+      "raw_zh": "所以我猜測，這根本不是什麽石牆，而是一座發電牆，而這巨大石牆所發的電，變成了那石洞裡阻止我們進入的電弧。”",
+      "translated_vi": "Vì vậy tôi suy đoán, đây căn bản chẳng phải bức tường đá thông thường, mà là một bức tường phát điện, và nguồn điện năng do bức tường khổng lồ này sản sinh ra đã biến thành những tia hồ quang giăng khắp cửa hang để ngăn chặn chúng ta bước vào.”"
+    },
+    {
+      "para_id": "c0191p0058",
+      "index": 58,
+      "raw_zh": "阿菲法一愣，她實在無法想象，這能是發電裝置，當下難以置信道：",
+      "translated_vi": "Afifa ngẩn người ra, cô quả thực không tài nào tưởng tượng nổi thứ này lại có thể là thiết bị phát điện, bèn ngỡ ngàng thốt lên:"
+    },
+    {
+      "para_id": "c0191p0059",
+      "index": 59,
+      "raw_zh": "“這東西能發電？”",
+      "translated_vi": "“Thứ này mà phát ra điện được sao?”"
+    },
+    {
+      "para_id": "c0191p0060",
+      "index": 60,
+      "raw_zh": "雲千峰點了點頭，道：",
+      "translated_vi": "Vân Thiên Phong gật đầu bảo:"
+    },
+    {
+      "para_id": "c0191p0061",
+      "index": 61,
+      "raw_zh": "“石英岩是非常好的天然發電物質，只要受到一松一緊的擠壓就會產生電能，你看這些石英磚與磚之間的灰色物質，如果我沒猜錯，應該都是石灰岩。",
+      "translated_vi": "“Đá thạch anh là một loại vật chất phát điện tự nhiên cực kỳ tuyệt vời, chỉ cần chịu lực ép nén rồi thả lỏng liên tục là sẽ sinh ra điện năng. Em nhìn lớp vật chất màu xám nằm giữa các mạch nối của những viên gạch thạch anh này xem, nếu tôi đoán không nhầm thì toàn bộ đều là đá vôi."
+    },
+    {
+      "para_id": "c0191p0062",
+      "index": 62,
+      "raw_zh": "石灰岩是很好的吸水物質，能夠快速的把水通過內部的石髓，遍布石灰岩全身，而那泉水流入石牆的位置，正好都是石灰岩磚縫的位置。",
+      "translated_vi": "Đá vôi hút nước rất tốt, có thể nhanh chóng dẫn nước len lỏi qua các mao mạch bên trong để thấm đẫm khắp khối đá; mà vị trí dòng nước suối chảy vào bức tường đá lại vừa vặn trúng ngay các kẽ hở bằng đá vôi này."
+    },
+    {
+      "para_id": "c0191p0063",
+      "index": 63,
+      "raw_zh": "當石灰岩開始吸附泉水時體積會膨脹，就會對石英岩玉磚石產生擠壓，從兒使石英岩玉發電，隨後遠離泉水位置的石灰石會蒸發掉內部的水分，從而減輕壓力。",
+      "translated_vi": "Khi đá vôi bắt đầu hút nước suối thì thể tích sẽ nở nang ra, tạo nên áp lực chèn ép lên các khối gạch ngọc thạch anh, từ đó khiến thạch anh phát ra điện. Sau đó, phần đá vôi ở vị trí xa dòng suối hơn sẽ bốc hơi lượng nước bên trong đi, làm giảm bớt áp lực nén ép."
+    },
+    {
+      "para_id": "c0191p0064",
+      "index": 64,
+      "raw_zh": "如此就形成了反覆的擠壓，讓這些石英岩玉一刻不停的發電。”",
+      "translated_vi": "Cứ thế hình thành một chu trình ép nén rồi thả lỏng tuần hoàn không ngớt, khiến những phiến ngọc thạch anh này phát ra điện không ngừng nghỉ.”"
+    },
+    {
+      "para_id": "c0191p0065",
+      "index": 65,
+      "raw_zh": "阿菲法雖然不懂這些發電的原理，但不阻礙她想通如何停止發電的方法：",
+      "translated_vi": "Afifa tuy chẳng hiểu nguyên lý phát điện phức tạp ấy, nhưng điều đó không ngăn cản cô nghĩ ra phương pháp dập tắt dòng điện:"
+    },
+    {
+      "para_id": "c0191p0066",
+      "index": 66,
+      "raw_zh": "“啊，那我知道了，要停止那些電弧，除了開關，還可以阻斷水流。”",
+      "translated_vi": "“A, vậy em hiểu rồi! Muốn dập tắt những tia hồ quang kia, ngoài công tắc ra thì còn có thể chặn dòng nước lại!”"
+    },
+    {
+      "para_id": "c0191p0067",
+      "index": 67,
+      "raw_zh": "雲千峰打了個響指，道：",
+      "translated_vi": "Vân Thiên Phong búng tay tách một cái, tán thưởng:"
+    },
+    {
+      "para_id": "c0191p0068",
+      "index": 68,
+      "raw_zh": "“對，就是截斷水流，所以啊，想阻止咱們兩個進入內部，簡直就是做夢！”",
+      "translated_vi": "“Đúng thế, chính là chặn đứng dòng nước! Cho nên mới bảo biện pháp luôn nhiều hơn khó khăn, muốn ngăn cản hai chúng ta vào trong thì đúng là nằm mơ giữa ban ngày!”"
+    },
+    {
+      "para_id": "c0191p0069",
+      "index": 69,
+      "raw_zh": "阿菲法很喜歡看雲千峰得意的模樣，就好像自己也跟著非常得意一樣舒坦。",
+      "translated_vi": "Afifa rất thích ngắm nhìn vẻ mặt đắc chí của Vân Thiên Phong, cảm giác như chính bản thân mình cũng được thơm lây mà hãnh diện theo."
+    },
+    {
+      "para_id": "c0191p0070",
+      "index": 70,
+      "raw_zh": "“雲，你可真是個大聰明！”",
+      "translated_vi": "“Anh Vân, anh đúng là một đại thông minh!”"
+    },
+    {
+      "para_id": "c0191p0071",
+      "index": 71,
+      "raw_zh": "“伱罵誰？”",
+      "translated_vi": "“Cô mắng ai đấy hả?”"
+    },
+    {
+      "para_id": "c0191p0072",
+      "index": 72,
+      "raw_zh": "“啊？這是罵人？阿甘說這是誇我.”",
+      "translated_vi": "“Ơ? Đây là mắng người sao? Anh A Cam bảo câu này là khen ngợi em mà...”"
+    },
+    {
+      "para_id": "c0191p0073",
+      "index": 73,
+      "raw_zh": "雲千峰弄來不少碎石，搭配著倆人的水囊，壘了一條小水壩，將本就不大的泉水暫時堵住。",
+      "translated_vi": "Vân Thiên Phong gom lại một đống sỏi đá vụn, kết hợp với mấy chiếc túi da đựng nước của hai người, đắp thành một con đập nhỏ ngăn tạm dòng nước suối vốn không lấy gì làm lớn này lại."
+    },
+    {
+      "para_id": "c0191p0074",
+      "index": 74,
+      "raw_zh": "這樣的堤壩肯定無法長期阻止水流的勢頭，但總能堵住一會，足夠他們進入石洞之中。",
+      "translated_vi": "Một bờ đập như vậy chắc chắn không thể ngăn dòng nước được lâu, nhưng cầm cự trong chốc lát cũng đủ để bọn họ luồn vào bên trong thạch động."
+    },
+    {
+      "para_id": "c0191p0075",
+      "index": 75,
+      "raw_zh": "果不其然，玉石洞內的電弧開始變得稀疏，最後“刺啦”一下，徹底消失。",
+      "translated_vi": "Quả nhiên đúng như dự liệu, hồ quang điện trong hang ngọc bắt đầu thưa thớt dần, cuối cùng xẹt một tiếng xoẹt rồi hoàn toàn biến mất tăm."
+    },
+    {
+      "para_id": "c0191p0076",
+      "index": 76,
+      "raw_zh": "“咱們得快點，水一旦漫過小水壩，這裡立馬就來電！”",
+      "translated_vi": "“Chúng ta phải nhanh lên, một khi nước tràn qua con đập nhỏ là nơi này sẽ lập tức có điện trở lại ngay!”"
+    },
+    {
+      "para_id": "c0191p0077",
+      "index": 77,
+      "raw_zh": "雲千峰說著，背起阿菲法，撇開大步跑進玉石洞之中。",
+      "translated_vi": "Vân Thiên Phong vừa nói vừa cõng Afifa lên lưng, sải từng bước dài lao vùn vụt vào bên trong hang ngọc."
+    },
+    {
+      "para_id": "c0191p0078",
+      "index": 78,
+      "raw_zh": "剛跑到一半，倆人的小水壩就被泉水攻克，漫了過去，再次與石灰石相交。",
+      "translated_vi": "Vừa chạy được nửa đường, con đập ngăn nước tạm bợ của hai người đã bị dòng suối tràn qua phá vỡ, nước lại thấm ướt vào những kẽ đá vôi."
+    },
+    {
+      "para_id": "c0191p0079",
+      "index": 79,
+      "raw_zh": "“刺啦！”",
+      "translated_vi": "“Xoẹt!”"
+    },
+    {
+      "para_id": "c0191p0080",
+      "index": 80,
+      "raw_zh": "入口處的玉石洞，亮起了電弧。",
+      "translated_vi": "Ngay lối vào của hang ngọc, những tia hồ quang điện lại bùng sáng rực rỡ."
+    },
+    {
+      "para_id": "c0191p0081",
+      "index": 81,
+      "raw_zh": "雲千峰的汗毛都嚇得立了起來。",
+      "translated_vi": "Lông tơ khắp người Vân Thiên Phong sợ đến mức dựng đứng cả lên."
+    },
+    {
+      "para_id": "c0191p0082",
+      "index": 82,
+      "raw_zh": "阿菲法更離譜，長發和過電了似的，都蓬松了起來，可見心裡是有多害怕。",
+      "translated_vi": "Afifa còn thái quá hơn, mái tóc dài như bị tích điện xù bung cả ra, đủ thấy trong lòng cô bé hoảng loạn đến mức nào."
+    },
+    {
+      "para_id": "c0191p0083",
+      "index": 83,
+      "raw_zh": "也難怪她怕，畢竟她在後面。",
+      "translated_vi": "Cũng khó trách cô bé sợ hãi, dẫu sao cô cũng là người nằm ở phía sau."
+    },
+    {
+      "para_id": "c0191p0084",
+      "index": 84,
+      "raw_zh": "“雲，雲，快跑，要電到我屁股了，不要電到那裡啊，那是我最美最驕傲的地方.”",
+      "translated_vi": "“Anh Vân, anh Vân mau chạy đi, sắp giật trúng mông em rồi! Đừng có giật vào chỗ đó mà, đấy là nơi đẹp nhất và đáng tự hào nhất của em đấy...”"
+    },
+    {
+      "para_id": "c0191p0085",
+      "index": 85,
+      "raw_zh": "雲千峰也怕啊，畢竟人也是導體，阿菲法電到了，自己也沒跑。",
+      "translated_vi": "Vân Thiên Phong cũng sợ chứ sao không, dẫu sao cơ thể người cũng là vật dẫn điện, Afifa mà bị giật thì anh cũng chẳng thoát được."
+    },
+    {
+      "para_id": "c0191p0086",
+      "index": 86,
+      "raw_zh": "於是張著嘴喘氣，把吃奶的勁都使出來倒動兩條腿。",
+      "translated_vi": "Thế là anh há hốc mồm thở dốc, dồn hết sức bình sinh để guồng đôi chân chạy thục mạng."
+    },
+    {
+      "para_id": "c0191p0087",
+      "index": 87,
+      "raw_zh": "眼看著電弧自入口起，速度極快的向內蔓延，眼看就要彌漫到倆人身上。",
+      "translated_vi": "Trông thấy luồng hồ quang điện từ cửa hang lan nhanh vào phía trong với tốc độ kinh hoàng, mắt thấy sắp sửa quét tới người hai người."
+    },
+    {
+      "para_id": "c0191p0088",
+      "index": 88,
+      "raw_zh": "一旦被這樣的電弧包裹，倆人應該瞬間就糊了。",
+      "translated_vi": "Một khi bị luồng hồ quang điện khủng khiếp như vậy bao trùm, chắc chắn cả hai sẽ khét lẹt thành tro than trong nháy mắt."
+    },
+    {
+      "para_id": "c0191p0089",
+      "index": 89,
+      "raw_zh": "“刺啦！”",
+      "translated_vi": "“Xoẹt!”"
+    },
+    {
+      "para_id": "c0191p0090",
+      "index": 90,
+      "raw_zh": "阿菲法飄蕩的長發被電弧漫過，冒出了一縷青煙和燒家雀毛的味道。",
+      "translated_vi": "Mái tóc dài tung bay của Afifa bị hồ quang điện quét qua, bốc lên một làn khói xanh cùng mùi khét lẹt như lông chim sẻ bị thui."
+    },
+    {
+      "para_id": "c0191p0091",
+      "index": 91,
+      "raw_zh": "“刺啦！”",
+      "translated_vi": "“Xoẹt!”"
+    },
+    {
+      "para_id": "c0191p0092",
+      "index": 92,
+      "raw_zh": "阿菲法飄蕩的長袍出現了燒糊的窟窿。",
+      "translated_vi": "Tà áo choàng phấp phới của Afifa cháy xém thành một lỗ thủng đen sì."
+    },
+    {
+      "para_id": "c0191p0093",
+      "index": 93,
+      "raw_zh": "“刺啦！”",
+      "translated_vi": "“Xoẹt!”"
+    },
+    {
+      "para_id": "c0191p0094",
+      "index": 94,
+      "raw_zh": "雲千峰一個魚躍，跳出了石洞。",
+      "translated_vi": "Vân Thiên Phong tung một cú nhảy vượn mình, phóng vút ra khỏi cửa thạch động."
+    },
+    {
+      "para_id": "c0191p0095",
+      "index": 95,
+      "raw_zh": "阿菲法顫抖著聲音，忙說道：",
+      "translated_vi": "Afifa run rẩy cất giọng, cuống cuồng giục giã:"
+    },
+    {
+      "para_id": "c0191p0096",
+      "index": 96,
+      "raw_zh": "“快，快看看我的屁股壞沒壞！快！！！”",
+      "translated_vi": "“Mau, mau xem giúp em mông em có bị hỏng không! Nhanh lên nào!!!”"
+    },
+    {
+      "para_id": "c0191p0097",
+      "index": 97,
+      "raw_zh": "雲千峰把她放腿上，看了一眼，拍了拍，道：",
+      "translated_vi": "Vân Thiên Phong đặt cô bé nằm lên đùi mình, liếc nhìn một cái rồi vỗ vỗ mấy cái đét, bảo:"
+    },
+    {
+      "para_id": "c0191p0098",
+      "index": 98,
+      "raw_zh": "“放心吧，一如從前，光潔如玉盤！”",
+      "translated_vi": "“Yên tâm đi, vẫn như thuở ban đầu, nhẵn mịn sáng bóng tựa mâm ngọc!”"
+    },
+    {
+      "para_id": "c0191p0099",
+      "index": 99,
+      "raw_zh": "阿菲法長長的吐了一口氣。",
+      "translated_vi": "Afifa lúc này mới trút ra một hơi thở dài thườn thượt."
+    },
+    {
+      "para_id": "c0191p0100",
+      "index": 100,
+      "raw_zh": "“你們來了！阿菲法、雲千峰，你們沒事，真的是太好了！”",
+      "translated_vi": "“Hai người tới rồi! Afifa, Vân Thiên Phong, hai người bình an vô sự, thật là tốt quá!”"
+    },
+    {
+      "para_id": "c0191p0101",
+      "index": 101,
+      "raw_zh": "法緹娜就那麽走到了倆人面前，臉上帶著開心的笑容",
+      "translated_vi": "Fatina cứ thế bước tới trước mặt hai người bọn họ, trên gương mặt rạng rỡ nụ cười tươi tắn..."
+    },
+    {
+      "para_id": "c0191p0102",
+      "index": 102,
+      "raw_zh": "感謝尾數82176的月票獎勵，謝謝你的支持！！！",
+      "translated_vi": "Chân thành cảm ơn phần thưởng phiếu tháng của bạn đọc có đuôi số 82176, cảm ơn sự ủng hộ của bạn rất nhiều!!!"
+    },
+    {
+      "para_id": "c0191p0103",
+      "index": 103,
+      "raw_zh": "祝大家長夜漫漫好夢不斷！！！",
+      "translated_vi": "Chúc mọi người đêm dài an giấc, mộng đẹp triền miên!!!"
+    },
+    {
+      "para_id": "c0191p0104",
+      "index": 104,
+      "raw_zh": "晚安！！！",
+      "translated_vi": "Chúc ngủ ngon!!!"
+    }
+  ]
+}

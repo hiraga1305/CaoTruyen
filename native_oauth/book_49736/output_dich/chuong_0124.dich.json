@@ -1,0 +1,451 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 124,
+  "title": "Chương 124: Bí ẩn của cơn lốc xoáy",
+  "total_paragraphs": 73,
+  "translated_paragraphs": 73,
+  "source_hash": "3bd2daf12248d2b339fe229eafaea6f6c39d423b681aa35169528681a18d9c84",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0124p0001",
+      "index": 1,
+      "raw_zh": "第124章 旋風的奧秘",
+      "translated_vi": "Chương 124: Bí ẩn của cơn lốc xoáy"
+    },
+    {
+      "para_id": "c0124p0002",
+      "index": 2,
+      "raw_zh": "“這這怎麽可能？”",
+      "translated_vi": "“Chuyện... chuyện này làm sao có thể chứ?”"
+    },
+    {
+      "para_id": "c0124p0003",
+      "index": 3,
+      "raw_zh": "張敏當先難以置信說道。",
+      "translated_vi": "Trương Mẫn là người đầu tiên thốt lên đầy vẻ khó tin."
+    },
+    {
+      "para_id": "c0124p0004",
+      "index": 4,
+      "raw_zh": "秦疏影則顫抖著嘴唇，指著那兩具屍骨旁邊的地面，說道：",
+      "translated_vi": "Còn Tần Sơ Ảnh thì đôi môi run rẩy bần bật, chỉ tay vào nền đất ngay bên cạnh hai bộ hài cốt kia, cất lời:"
+    },
+    {
+      "para_id": "c0124p0005",
+      "index": 5,
+      "raw_zh": "“但不可能的事情發生了，那是我們的腳印。”",
+      "translated_vi": "“Nhưng chuyện không tưởng ấy đã xảy ra rồi. Đằng kia chính là dấu chân của chúng ta.”"
+    },
+    {
+      "para_id": "c0124p0006",
+      "index": 6,
+      "raw_zh": "張敏和千千忙注目過去，果然看到那兩具屍體旁邊有一堆凌亂的腳印，正是幾個人的草鞋留下的。",
+      "translated_vi": "Trương Mẫn và Thiên Thiên vội vàng nhìn theo hướng tay chỉ, quả nhiên trông thấy bên cạnh hai bộ thi thể có một bãi dấu chân lộn xộn, chính là vết tích để lại từ những đôi giày cỏ của mấy người bọn họ."
+    },
+    {
+      "para_id": "c0124p0007",
+      "index": 7,
+      "raw_zh": "千千有點崩潰，她有了面對危險，甚至是丟掉生命的準備，但想到自己會被困在這裡活活餓死，還是瞬間就把所有的思想準備打碎。",
+      "translated_vi": "Thiên Thiên gần như suy sụp hoàn toàn. Cô vốn đã chuẩn bị sẵn tâm lý để đối mặt với hiểm nguy, thậm chí là mất đi tính mạng, nhưng vừa nghĩ tới việc mình sẽ bị giam hãm ở nơi này rồi chết đói trong tuyệt vọng, thì toàn bộ sự chuẩn bị tâm lý trước đó lập tức tan tành mây khói."
+    },
+    {
+      "para_id": "c0124p0008",
+      "index": 8,
+      "raw_zh": "“雲千峰，我們往回走吧，我寧可被人一下殺了，也不想活活餓死，而且萬一沒有人追殺你到這裡，那這海島我們能活的很好，我們回到艦船上，把那裡修繕成我們的家，我們幾個互相陪伴著活下去，好不好？我們都這麽漂亮，這裡又只有你一個男人，全都只能嫁給你，還不值得伱考慮一下回去嗎？”",
+      "translated_vi": "“Vân Thiên Phong, chúng ta quay ngược lại đi! Tôi thà bị kẻ địch giết chết trong chớp mắt chứ chẳng muốn bị chết đói dần mòn đâu. Hơn nữa ngộ nhỡ chẳng có ai đuổi giết anh tới tận đây thì trên hòn đảo này chúng ta vẫn có thể sống thật tốt mà. Chúng ta quay lại tàu chiến, sửa sang nơi đó thành tổ ấm của chúng ta, mấy người chúng ta nương tựa vào nhau mà sống tiếp, có được không? Chúng tôi ai nấy đều xinh đẹp thế này, ở đây lại chỉ có duy nhất một mình anh là đàn ông, tất cả đều chỉ có thể gả cho anh thôi, chẳng lẽ không xứng đáng để anh cân nhắc chuyện quay về hay sao?”"
+    },
+    {
+      "para_id": "c0124p0009",
+      "index": 9,
+      "raw_zh": "雲千峰苦笑，道：",
+      "translated_vi": "Vân Thiên Phong cười khổ, bảo:"
+    },
+    {
+      "para_id": "c0124p0010",
+      "index": 10,
+      "raw_zh": "“回不去的，我們是無縫銜接回到這裡，你們有誰看到出口嗎？沒有，這是一個閉環。”",
+      "translated_vi": "“Không quay về được đâu. Chúng ta đã quay trở lại nơi này một cách liền mạch không tì vết, có ai trong các cô nhìn thấy lối ra không? Không hề có. Đây là một vòng lặp khép kín.”"
+    },
+    {
+      "para_id": "c0124p0011",
+      "index": 11,
+      "raw_zh": "千千忙道：",
+      "translated_vi": "Thiên Thiên vội vàng khẩn khoản:"
+    },
+    {
+      "para_id": "c0124p0012",
+      "index": 12,
+      "raw_zh": "“一定是我們忽略了，我們回頭試試好不好？我記得這兩具枯骨就在入口不遠處，不超過二十米，我們回頭試試？求你了雲千峰，我不怕死，但我很怕這樣死。”",
+      "translated_vi": "“Chắc chắn là chúng ta đã sơ suất bỏ sót rồi! Chúng ta quay đầu thử lại xem có được không? Tôi nhớ rõ hai bộ xương khô này nằm cách lối vào không xa, không quá hai mươi mét đâu. Chúng ta quay lại thử đi mà? Xin anh đấy Vân Thiên Phong, tôi không sợ chết, nhưng tôi sợ chết mòn mỏi theo cách này lắm!”"
+    },
+    {
+      "para_id": "c0124p0013",
+      "index": 13,
+      "raw_zh": "雲千峰想著回頭試試也好，要是真能回到入口處，誰想回艦船就讓她們回去，自己怎麽進入島深處，只能再想辦法。",
+      "translated_vi": "Vân Thiên Phong nghĩ bụng quay đầu thử lại một lần cũng chẳng mất gì, nếu như thực sự có thể trở lại lối vào thì ai muốn về tàu chiến cứ để họ về, còn việc bản thân làm sao tiến sâu vào lòng đảo thì đành tính kế sau."
+    },
+    {
+      "para_id": "c0124p0014",
+      "index": 14,
+      "raw_zh": "於是點頭，道：",
+      "translated_vi": "Nghĩ vậy, anh gật đầu nói:"
+    },
+    {
+      "para_id": "c0124p0015",
+      "index": 15,
+      "raw_zh": "“好，我們往回走試試，大家把眼睛都看仔細了，千萬不要漏掉任何可能是出口的地方，尤其是暗影處。”",
+      "translated_vi": "“Được rồi, chúng ta thử đi ngược lại xem sao. Mọi người căng mắt quan sát thật kỹ, tuyệt đối đừng bỏ qua bất kỳ nơi nào có thể là lối thoát, đặc biệt là những góc khuất trong bóng tối.”"
+    },
+    {
+      "para_id": "c0124p0016",
+      "index": 16,
+      "raw_zh": "張敏和千千連連點頭，秦疏影給了雲千峰一個帶刀的眼神，驚得雲千峰急忙挽著秦疏影的胳膊，與千千保持距離，四個人當即原地轉身，朝著來路走去。",
+      "translated_vi": "Trương Mẫn và Thiên Thiên liên tục gật đầu lia lịa. Tần Sơ Ảnh liếc Vân Thiên Phong bằng một ánh mắt sắc như dao cạo, khiến anh giật thót mình vội vã khoác lấy cánh tay cô để giữ khoảng cách với Thiên Thiên. Bốn người lập tức quay ngoắt người tại chỗ, bước ngược lại theo con đường vừa đi qua."
+    },
+    {
+      "para_id": "c0124p0017",
+      "index": 17,
+      "raw_zh": "然而這一走就是數百米，也沒有看到出口。",
+      "translated_vi": "Thế nhưng lần này đi liền mấy trăm mét vẫn chẳng hề thấy bóng dáng lối ra đâu."
+    },
+    {
+      "para_id": "c0124p0018",
+      "index": 18,
+      "raw_zh": "這一次，他們走得很慢，幾乎把每一寸地方都仔細觀察，然而他們很確定，這裡沒有任何錯過的岔路。",
+      "translated_vi": "Lần này, họ đi rất chậm rãi, tỉ mỉ săm soi gần như từng tấc đất tấc đá, song bọn họ hoàn toàn dám chắc nơi này không hề có bất kỳ ngã rẽ nào bị bỏ sót."
+    },
+    {
+      "para_id": "c0124p0019",
+      "index": 19,
+      "raw_zh": "他們不信邪，繼續朝前走，直到他們再次見到那堆如山的枯骨。",
+      "translated_vi": "Mọi người không tin vào chuyện tà môn, tiếp tục cất bước tiến lên, cho đến khi họ lại một lần nữa nhìn thấy đống xương khô chất cao như núi kia."
+    },
+    {
+      "para_id": "c0124p0020",
+      "index": 20,
+      "raw_zh": "這下別說千千，張敏都有些崩潰了。",
+      "translated_vi": "Lần này thì chẳng riêng gì Thiên Thiên, mà ngay cả Trương Mẫn cũng bắt đầu rơi vào bờ vực sụp đổ."
+    },
+    {
+      "para_id": "c0124p0021",
+      "index": 21,
+      "raw_zh": "她帶著哭腔，道：",
+      "translated_vi": "Cô nghẹn ngào mang theo tiếng khóc thốt lên:"
+    },
+    {
+      "para_id": "c0124p0022",
+      "index": 22,
+      "raw_zh": "“天哪，真的是閉環，沒有縫隙的閉環！我們被困死在裡面了。”",
+      "translated_vi": "“Trời đất ơi, quả thực là một vòng lặp khép kín, một vòng tròn vô hình không hề có kẽ hở! Chúng ta bị giam chết bên trong này rồi.”"
+    },
+    {
+      "para_id": "c0124p0023",
+      "index": 23,
+      "raw_zh": "前進無門後退無路，雲千峰終於感受到那石匠會九號的絕望。",
+      "translated_vi": "Tiến thoái lưỡng nan, không đường vào cũng chẳng nẻo ra, Vân Thiên Phong rốt cuộc đã thấu hiểu sâu sắc nỗi tuyệt vọng tột cùng của người phụ nữ mang số 9 thuộc Hội Thợ Đá năm xưa."
+    },
+    {
+      "para_id": "c0124p0024",
+      "index": 24,
+      "raw_zh": "秦疏影攥著雲千峰的手臂，極盡可能的控制著自己恐懼的情緒，問道：",
+      "translated_vi": "Tần Sơ Ảnh ghì chặt lấy cánh tay Vân Thiên Phong, gắng gượng hết sức kìm nén nỗi khiếp sợ trong lòng, cất giọng hỏi:"
+    },
+    {
+      "para_id": "c0124p0025",
+      "index": 25,
+      "raw_zh": "“所以，她和他們就是這樣被困死在這裡的？”",
+      "translated_vi": "“Vậy nên, bà ấy cùng những người kia cũng đã bị vây khốn cho tới chết ở nơi này như thế sao?”"
+    },
+    {
+      "para_id": "c0124p0026",
+      "index": 26,
+      "raw_zh": "雲千峰點了一下頭，但隻點了一半，馬上搖頭道：",
+      "translated_vi": "Vân Thiên Phong khẽ gật đầu, nhưng chỉ mới gật được một nửa lại lập tức lắc đầu quầy quậy:"
+    },
+    {
+      "para_id": "c0124p0027",
+      "index": 27,
+      "raw_zh": "“他們會被困死，但我們不會，我會帶著你們活著走出去。”",
+      "translated_vi": "“Bọn họ có thể bị giam chết, nhưng chúng ta thì không! Tôi nhất định sẽ dẫn mọi người sống sót bước ra khỏi đây.”"
+    },
+    {
+      "para_id": "c0124p0028",
+      "index": 28,
+      "raw_zh": "說著，他把驢皮鋪在地上，招呼幾個女人道：",
+      "translated_vi": "Vừa nói, anh vừa trải tấm da lừa xuống nền đất, vẫy tay gọi mấy người phụ nữ:"
+    },
+    {
+      "para_id": "c0124p0029",
+      "index": 29,
+      "raw_zh": "“原地休息，咱們不能浪費體力，必須先想明白這是怎麽回事。”",
+      "translated_vi": "“Nghỉ ngơi tại chỗ đã. Chúng ta không thể lãng phí thể lực vô ích, trước hết phải suy nghĩ cho thấu đáo xem rốt cuộc chuyện này là thế nào.”"
+    },
+    {
+      "para_id": "c0124p0030",
+      "index": 30,
+      "raw_zh": "三女本就無措，聽到雲千峰的話，也清楚這是最佳選擇，否則只能是活活累死。",
+      "translated_vi": "Ba cô gái vốn đang hoang mang tột độ, nghe Vân Thiên Phong nói vậy cũng hiểu rõ đây là lựa chọn sáng suốt nhất lúc này, bằng không chỉ có nước kiệt sức mà chết rũ xương."
+    },
+    {
+      "para_id": "c0124p0031",
+      "index": 31,
+      "raw_zh": "於是沉默無語的坐在雲千峰身邊，使勁的讓自己冷靜下來，開動腦筋，思考這種閉環的成因。",
+      "translated_vi": "Thế là họ lặng lẽ ngồi bệt xuống bên cạnh Vân Thiên Phong, cố ép bản thân phải thật bình tâm, vận dụng hết trí óc để suy nghĩ về nguyên nhân hình thành nên vòng lặp khép kín này."
+    },
+    {
+      "para_id": "c0124p0032",
+      "index": 32,
+      "raw_zh": "但心神已亂的她們，連讓自己冷靜下來的心力都沒有，又如何能夠清晰的思考。",
+      "translated_vi": "Thế nhưng tâm thần đã sớm rối bời hoảng loạn, đến chút định lực để trấn tĩnh họ còn chẳng giữ nổi, thì làm sao có thể suy nghĩ thông suốt cho được."
+    },
+    {
+      "para_id": "c0124p0033",
+      "index": 33,
+      "raw_zh": "好在雲千峰越是在極端的情況下，反而會變得非常沉靜，就好像在野人山神跡內，眼看著眾人就要被崩塌的石洞壓死，但他那時卻完全忽略了危險，只有尋找答案一個心思，事後該後怕再後怕。",
+      "translated_vi": "Cũng may Vân Thiên Phong lại thuộc tuýp người càng rơi vào nghịch cảnh hiểm nghèo thì tâm trí lại càng trở nên tĩnh lặng dị thường. Giống hệt như khi ở bên trong Thần Tích Dã Nhân Sơn năm nào, lúc tận mắt chứng kiến mọi người sắp bị vòm đá sụp đổ đè nát bét, anh khi ấy lại hoàn toàn gạt phăng mọi hiểm nguy ra sau đầu, trong lòng chỉ duy nhất có một tâm niệm là tìm kiếm lời giải đáp, đợi mọi chuyện xong xuôi rồi hẵng run sợ sau."
+    },
+    {
+      "para_id": "c0124p0034",
+      "index": 34,
+      "raw_zh": "那種狀態很有禪意。",
+      "translated_vi": "Trạng thái tâm cảnh ấy vô cùng đậm chất thiền định."
+    },
+    {
+      "para_id": "c0124p0035",
+      "index": 35,
+      "raw_zh": "雲千峰現在又回到了那種狀態。",
+      "translated_vi": "Giờ đây Vân Thiên Phong lại một lần nữa tìm về đúng trạng thái thiền định ấy."
+    },
+    {
+      "para_id": "c0124p0036",
+      "index": 36,
+      "raw_zh": "他隨意的點了根煙，淺淺的吸了一口，順手在旁邊拽了一根肋骨，在地面上開始畫了起來。",
+      "translated_vi": "Anh thong dong châm một điếu thuốc, khẽ rít một hơi nhẹ, rồi tiện tay rút một chiếc xương sườn bên cạnh bắt đầu hí hoáy vẽ lên mặt đất."
+    },
+    {
+      "para_id": "c0124p0037",
+      "index": 37,
+      "raw_zh": "旁邊三女也正自思考出路，但是當她們看到雲千峰畫的圖形時，卻難以自製的被那些圖案吸引。",
+      "translated_vi": "Ba người phụ nữ bên cạnh cũng đang vắt óc nghĩ đường thoát thân, nhưng khi nhìn thấy những hình vẽ dưới tay Vân Thiên Phong, họ không khỏi bị những hình thù kỳ dị ấy thu hút ánh nhìn."
+    },
+    {
+      "para_id": "c0124p0038",
+      "index": 38,
+      "raw_zh": "很快，他畫好了三幅圖案，一副看起來是一個方形的台階，只是那階梯很奇怪，可以一直向上或向下走，但卻總能回到原點。",
+      "translated_vi": "Rất nhanh sau đó, anh đã vẽ xong ba bức đồ hình. Bức thứ nhất trông như những bậc thang hình vuông, có điều những bậc thang này vô cùng quái lạ, người ta có thể cứ mải miết bước lên hoặc bước xuống mãi nhưng cuối cùng vẫn luôn quay về đúng điểm xuất phát ban đầu."
+    },
+    {
+      "para_id": "c0124p0039",
+      "index": 39,
+      "raw_zh": "第二幅圖看起來是個扭曲的圓環。",
+      "translated_vi": "Bức đồ hình thứ hai trông giống như một chiếc vòng tròn bị vặn xoắn."
+    },
+    {
+      "para_id": "c0124p0040",
+      "index": 40,
+      "raw_zh": "第三幅圖是一個底部漏洞的酒瓶狀圖案，只不過拉長了瓶頸，那瓶頸延長扭曲的鑽進瓶子內部，一直延伸直到與瓶底的洞連接。",
+      "translated_vi": "Bức đồ hình thứ ba lại có dáng vẻ như một chiếc bình rượu thủng đáy, chỉ có điều phần cổ chai được kéo dài ra, uốn lượn vặn vẹo xuyên thẳng vào bên trong thân bình, kéo dài mãi cho tới khi nối liền với chiếc lỗ thủng dưới đáy bình."
+    },
+    {
+      "para_id": "c0124p0041",
+      "index": 41,
+      "raw_zh": "三幅圖各不相同，但都有一個共同點，那就是都形成了無限循環的格局。",
+      "translated_vi": "Ba bức hình tuy hình dạng khác biệt nhưng đều mang một điểm chung then chốt: đó là tất cả đều cấu thành nên một bố cục tuần hoàn vô tận."
+    },
+    {
+      "para_id": "c0124p0042",
+      "index": 42,
+      "raw_zh": "秦疏影好奇道：",
+      "translated_vi": "Tần Sơ Ảnh tò mò cất tiếng hỏi:"
+    },
+    {
+      "para_id": "c0124p0043",
+      "index": 43,
+      "raw_zh": "“這些圖形好奇怪，都形成了幾乎不可能在現實世界的循環。”",
+      "translated_vi": "“Mấy hình vẽ này kỳ lạ quá, đều tạo nên những vòng tuần hoàn gần như bất khả thi trong thế giới hiện thực.”"
+    },
+    {
+      "para_id": "c0124p0044",
+      "index": 44,
+      "raw_zh": "雲千峰用手裡的肋骨點著三個圖案道：",
+      "translated_vi": "Vân Thiên Phong dùng chiếc xương sườn trên tay chấm nhẹ vào ba hình vẽ rồi cất giọng:"
+    },
+    {
+      "para_id": "c0124p0045",
+      "index": 45,
+      "raw_zh": "“第一幅是彭羅斯階梯，它把高度差變成了平面，形成了無限循環，是一種空間的扭曲。第二幅是莫比烏斯環，它也是通過空間扭曲，將一個平面的正反面歸一為一個面，完成無限循環。第三幅是克萊因瓶，兩個莫比烏斯環對接在一起形成體，就是克萊因瓶，完成空間的無限循環。”",
+      "translated_vi": "“Bức thứ nhất là cầu thang Penrose, nó biến độ chênh lệch về chiều cao thành một mặt phẳng, tạo nên vòng tuần hoàn vô tận, là một dạng vặn xoắn không gian. Bức thứ hai là dải Mobius, nó cũng thông qua sự vặn xoắn không gian để hợp nhất mặt trước và mặt sau của một mặt phẳng thành một mặt duy nhất, hoàn tất vòng lặp vô hạn. Còn bức thứ ba chính là chai Klein, hai dải Mobius ghép nối lại với nhau tạo thành một khối thể thì sẽ biến thành chai Klein, hoàn tất sự tuần hoàn vô hạn của không gian.”"
+    },
+    {
+      "para_id": "c0124p0046",
+      "index": 46,
+      "raw_zh": "秦疏影本就聰慧，聽到這裡，忙道：",
+      "translated_vi": "Tần Sơ Ảnh vốn là người thông tuệ hơn người, nghe tới đây liền nhanh nhảu nói:"
+    },
+    {
+      "para_id": "c0124p0047",
+      "index": 47,
+      "raw_zh": "“這三幅圖，其實就是一幅圖！”",
+      "translated_vi": "“Ba bức hình này, thực chất chỉ là một bức hình duy nhất!”"
+    },
+    {
+      "para_id": "c0124p0048",
+      "index": 48,
+      "raw_zh": "雲千峰點頭，道：",
+      "translated_vi": "Vân Thiên Phong gật đầu, khen ngợi:"
+    },
+    {
+      "para_id": "c0124p0049",
+      "index": 49,
+      "raw_zh": "“沒錯，三幅圖其實就是一幅圖。所以這條崖隙隧道一定是處於一個因為扭曲而高於三維的空間。這也是為什麽崖隙隧道會是彎彎曲曲的蛇形。”",
+      "translated_vi": "“Chính xác, ba bức đồ hình này thực chất chính là một. Thế nên thông đạo trong khe nứt vách đá này nhất định đang nằm trong một không gian cao hơn không gian ba chiều do bị biến dạng uốn cong. Đó cũng là lý do vì sao con đường trong khe nứt này lại ngoằn ngoèo uốn khúc như hình con rắn.”"
+    },
+    {
+      "para_id": "c0124p0050",
+      "index": 50,
+      "raw_zh": "千千看著三幅圖，好一會，才急道：",
+      "translated_vi": "Thiên Thiên nhìn chăm chú vào ba bức hình, một hồi lâu sau mới sốt ruột hỏi:"
+    },
+    {
+      "para_id": "c0124p0051",
+      "index": 51,
+      "raw_zh": "“可是，這三幅圖都沒有出口啊！完全是閉環。”",
+      "translated_vi": "“Thế nhưng, cả ba bức hình này đều chẳng hề có lối ra nào cả! Hoàn toàn là một vòng tròn khép kín.”"
+    },
+    {
+      "para_id": "c0124p0052",
+      "index": 52,
+      "raw_zh": "張敏抬頭，道：",
+      "translated_vi": "Trương Mẫn ngẩng đầu lên, nói:"
+    },
+    {
+      "para_id": "c0124p0053",
+      "index": 53,
+      "raw_zh": "“沒有閉環，上面應該可以出去。”",
+      "translated_vi": "“Làm gì có chuyện không có lối thoát, phía trên hẳn là có thể trèo ra ngoài chứ.”"
+    },
+    {
+      "para_id": "c0124p0054",
+      "index": 54,
+      "raw_zh": "她指著那高百米的懸崖說道。",
+      "translated_vi": "Cô vừa nói vừa chỉ tay lên vách đá dựng đứng cao tới hàng trăm mét."
+    },
+    {
+      "para_id": "c0124p0055",
+      "index": 55,
+      "raw_zh": "雲千峰搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu, gạt đi:"
+    },
+    {
+      "para_id": "c0124p0056",
+      "index": 56,
+      "raw_zh": "“別說這和鏡面似的懸崖沒法攀岩，就是能爬上去，到了最頂端後，我也會直接回到地面上，因為克萊因瓶的面，在任何方向都是循環的。”",
+      "translated_vi": "“Đừng nói tới việc vách đá nhẵn thín như mặt gương này không thể leo trèo, dẫu cho có bò lên được tới tận đỉnh chóp thì chúng ta cũng sẽ lập tức rơi ngược về mặt đất, bởi vì các bề mặt của chai Klein ở bất kỳ phương hướng nào cũng đều là tuần hoàn khép kín.”"
+    },
+    {
+      "para_id": "c0124p0057",
+      "index": 57,
+      "raw_zh": "千千一屁股坐在野驢皮上，好像泄了氣的氣球，哀聲道：",
+      "translated_vi": "Thiên Thiên ngồi phịch mông xuống tấm da lừa rừng, tựa như quả bóng bay xì hết hơi, ảo não than vãn:"
+    },
+    {
+      "para_id": "c0124p0058",
+      "index": 58,
+      "raw_zh": "“那就是說，咱們根本不可能走得出去？”",
+      "translated_vi": "“Nói như vậy tức là chúng ta căn bản không có cách nào bước ra ngoài được sao?”"
+    },
+    {
+      "para_id": "c0124p0059",
+      "index": 59,
+      "raw_zh": "雲千峰搖了搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu, quả quyết:"
+    },
+    {
+      "para_id": "c0124p0060",
+      "index": 60,
+      "raw_zh": "“只要這是人為打造的，就一定有出口，必有一線生機，我們一定是忽略了什麽東西，很容易被我們忽視的東西。”",
+      "translated_vi": "“Miễn đây là công trình do con người tạo tác ra, thì nhất định sẽ có cửa thoát, ắt có một tia sinh cơ. Chúng ta chắc chắn đã bỏ sót điều gì đó, một thứ cực kỳ dễ bị chúng ta lơ là lãng quên.”"
+    },
+    {
+      "para_id": "c0124p0061",
+      "index": 61,
+      "raw_zh": "說完，他閉上眼睛開始回憶進入這崖隙的每個片段。",
+      "translated_vi": "Dứt lời, anh nhắm nghiền hai mắt lại, bắt đầu lục tìm trong ký ức từng chi tiết, từng phân cảnh từ lúc bước chân vào khe nứt vách đá này."
+    },
+    {
+      "para_id": "c0124p0062",
+      "index": 62,
+      "raw_zh": "千千和張敏更實在，倆人湊到一起，掰著手指頭小聲回憶著進入崖隙的一幕又一幕，不敢大聲，怕打攪雲千峰思考。",
+      "translated_vi": "Thiên Thiên và Trương Mẫn thực tế hơn, hai người xúm lại gần nhau, bấm đốt ngón tay nhỏ to hồi tưởng lại từng cảnh tượng lúc tiến vào khe nứt, không dám nói lớn tiếng vì sợ quấy rầy dòng suy nghĩ của Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0124p0063",
+      "index": 63,
+      "raw_zh": "然而，倆人研究了半天，也沒發現有什麽是他們忽略的，畢竟這條道已經走了兩次，尤其是第二次他們幾乎是一寸不拉，看著走過來的，怎麽可能忽略什麽。",
+      "translated_vi": "Thế nhưng, hai cô nàng bàn luận nửa ngày trời cũng chẳng phát hiện ra có điều gì bị bỏ quên; dẫu sao con đường này họ đã đi qua tới hai lượt, nhất là lần thứ hai gần như săm soi từng tấc đất không rời mắt, làm sao có thể để lọt thứ gì được chứ."
+    },
+    {
+      "para_id": "c0124p0064",
+      "index": 64,
+      "raw_zh": "千千帶著哭腔小聲道：",
+      "translated_vi": "Thiên Thiên sụt sùi hạ giọng mang theo tiếng nấc:"
+    },
+    {
+      "para_id": "c0124p0065",
+      "index": 65,
+      "raw_zh": "“我就說入口處那旋風有鬼，你看咱們這就叫鬼打牆困住了。”",
+      "translated_vi": "“Tôi đã bảo ngay từ đầu là cơn lốc xoáy ở cửa vào có điều ma quái rồi mà, anh xem giờ chúng ta bị vây chặt như quỷ đả tường thế này đây.”"
+    },
+    {
+      "para_id": "c0124p0066",
+      "index": 66,
+      "raw_zh": "雲千峰正在思索出路，也是百思不得其解，但是聽到千千說到“旋風”的時候，他猛然睜開了眼睛，眼中露出了驚喜之色。",
+      "translated_vi": "Vân Thiên Phong đang vắt óc tìm đường thoát cũng trăm mối chưa tìm ra lời giải, song vừa nghe Thiên Thiên thốt lên hai chữ “cơn lốc xoáy”, anh liền đột ngột mở bừng mắt, trong con ngươi lóe lên tia mừng rỡ kinh hỉ."
+    },
+    {
+      "para_id": "c0124p0067",
+      "index": 67,
+      "raw_zh": "然而，還沒等他展開笑容，就見不遠處那崖隙的拐彎處走進來幾個人，一女六男。",
+      "translated_vi": "Thế nhưng, còn chưa kịp nở một nụ cười thì anh đã trông thấy ở khúc quanh khe nứt cách đó không xa có mấy bóng người đang tiến lại, gồm một nữ sáu nam."
+    },
+    {
+      "para_id": "c0124p0068",
+      "index": 68,
+      "raw_zh": "全都是黑色的緊身戰術裝，腰上別著軍刀和手槍。",
+      "translated_vi": "Toàn bộ bọn họ đều vận trang phục tác chiến bó sát màu đen, bên hông dắt dao găm quân dụng và súng ngắn."
+    },
+    {
+      "para_id": "c0124p0069",
+      "index": 69,
+      "raw_zh": "雲千峰知道，追殺自己的人終於還是來了。",
+      "translated_vi": "Vân Thiên Phong hiểu rằng, đám người đuổi giết anh rốt cuộc cũng đã tìm tới nơi."
+    },
+    {
+      "para_id": "c0124p0070",
+      "index": 70,
+      "raw_zh": "他來不及仔細解釋，而是用最快的速度貼著秦疏影的耳朵，用只有倆人能聽到的聲音，道：",
+      "translated_vi": "Anh chẳng còn thời gian để giải thích cặn kẽ, liền dùng tốc độ nhanh nhất ghé sát tai Tần Sơ Ảnh, hạ giọng nói thật khẽ với âm lượng chỉ đủ hai người nghe thấy:"
+    },
+    {
+      "para_id": "c0124p0071",
+      "index": 71,
+      "raw_zh": "“旋風是逆時針旋轉。”",
+      "translated_vi": "“Cơn lốc xoáy quay ngược chiều kim đồng hồ.”"
+    },
+    {
+      "para_id": "c0124p0072",
+      "index": 72,
+      "raw_zh": "更多的話，根本來不及說，因為那些人已經到了近前。",
+      "translated_vi": "Nhiều lời hơn nữa căn bản không kịp thốt ra, bởi vì những kẻ kia đã áp sát tới ngay trước mặt."
+    },
+    {
+      "para_id": "c0124p0073",
+      "index": 73,
+      "raw_zh": "為首那長相和打扮如勞拉一樣的女人笑吟吟的拔出腰袢的手槍，打開保險，瞄準了雲千峰的額頭",
+      "translated_vi": "Người phụ nữ đi đầu có tướng mạo cùng cách ăn mặc hệt như Lara Croft cười mỉm rút khẩu súng ngắn bên hông ra, mở chốt an toàn, nhắm thẳng họng súng vào trán Vân Thiên Phong..."
+    }
+  ]
+}

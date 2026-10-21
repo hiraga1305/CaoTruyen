@@ -1,0 +1,614 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 268,
+  "title": "Chương 268: Kim Đan ba mắt",
+  "total_paragraphs": 100,
+  "translated_paragraphs": 100,
+  "source_hash": "adc728fd4fea80cb19609d6c5829aa93806774f7c642f9158ef1d0435ef1c81d",
+  "model_used": "gemini-3.8-flash-high",
+  "elapsed_seconds": 146.73,
+  "bilingual_alignment": [
+    {
+      "para_id": "c0268p0001",
+      "index": 1,
+      "raw_zh": "268.第268章 金丹三隻眼",
+      "translated_vi": "Chương 268: Kim Đan ba mắt"
+    },
+    {
+      "para_id": "c0268p0002",
+      "index": 2,
+      "raw_zh": "第268章 金丹三隻眼",
+      "translated_vi": "Chương 268: Kim Đan ba mắt"
+    },
+    {
+      "para_id": "c0268p0003",
+      "index": 3,
+      "raw_zh": "烏雲從四面八方向著天頂匯聚，欺壓著那亙古不曾移動的“太陽”，讓這個空間的光彩暗淡下來。",
+      "translated_vi": "Mây đen từ bốn phương tám hướng cuồn cuộn tụ lại trên đỉnh trời, đè nén vầng \"mặt trời\" vạn cổ chưa từng xê dịch, khiến ánh quang trong không gian này dần tối tăm ảm đạm."
+    },
+    {
+      "para_id": "c0268p0004",
+      "index": 4,
+      "raw_zh": "沒有風，卻能讓四面八方的水汽匯聚與頂，雲千峰猜測，這可能是地球呼吸的作用。",
+      "translated_vi": "Không hề có gió nhưng lại có thể khiến hơi nước bốn phương tám hướng hội tụ trên đỉnh đầu, Vân Thiên Phong suy đoán đây có lẽ là tác động từ hơi thở của Trái Đất."
+    },
+    {
+      "para_id": "c0268p0005",
+      "index": 5,
+      "raw_zh": "“地球的鼻孔在哪？南極？北極？還是海洋？”",
+      "translated_vi": "\"Lỗ mũi của Trái Đất ở đâu? Nam Cực? Bắc Cực? Hay là đại dương?\""
+    },
+    {
+      "para_id": "c0268p0006",
+      "index": 6,
+      "raw_zh": "他沒時間去思討這個問題，因為他必須為接下來一定會出現的暴雨做準備。",
+      "translated_vi": "Hắn không có thời gian nghiền ngẫm vấn đề này, bởi vì hắn buộc phải chuẩn bị cho cơn mưa bão chắc chắn sẽ ập tới ngay sau đây."
+    },
+    {
+      "para_id": "c0268p0007",
+      "index": 7,
+      "raw_zh": "看了一下時間，距離天黑還有兩個小時，大雨可能會比天黑提前到來。",
+      "translated_vi": "Liếc nhìn thời gian, cách lúc trời tối còn hai tiếng đồng hồ nữa, cơn mưa lớn có thể sẽ ập đến sớm hơn trước khi trời tối."
+    },
+    {
+      "para_id": "c0268p0008",
+      "index": 8,
+      "raw_zh": "雲千峰急忙對白狐道：",
+      "translated_vi": "Vân Thiên Phong vội vàng nói với Bạch Hồ:"
+    },
+    {
+      "para_id": "c0268p0009",
+      "index": 9,
+      "raw_zh": "“白狐，快去看看周圍的林子裡有沒有現成的樹洞山洞之類，等會的降雨量，普通的斜坡避身所恐怕不夠看。”",
+      "translated_vi": "\"Bạch Hồ, cô mau đi xem trong cánh rừng xung quanh có hốc cây hay hang động nào sẵn không, với lượng mưa lát nữa e rằng mấy chỗ trú tạm trên sườn dốc bình thường sẽ không chịu nổi đâu.\""
+    },
+    {
+      "para_id": "c0268p0010",
+      "index": 10,
+      "raw_zh": "白狐知道，雲千峰現在腿腳不太方便，於是點了點頭，速度極快的攀上不遠處的一棵大樹。",
+      "translated_vi": "Bạch Hồ biết rõ chân cẳng Vân Thiên Phong lúc này không tiện đi lại, bèn gật đầu, thoăn thoắt trèo lên một thân cây lớn cách đó không xa."
+    },
+    {
+      "para_id": "c0268p0011",
+      "index": 11,
+      "raw_zh": "雲千峰暗讚聰明。",
+      "translated_vi": "Vân Thiên Phong thầm khen thông minh."
+    },
+    {
+      "para_id": "c0268p0012",
+      "index": 12,
+      "raw_zh": "站得高看得遠。",
+      "translated_vi": "Đứng trên cao mới nhìn được xa."
+    },
+    {
+      "para_id": "c0268p0013",
+      "index": 13,
+      "raw_zh": "白狐的身形極其靈敏，在一棵樹上沒看到適合避雨的地方，當下也沒下來，而是順著樹枝，一彈一躍，直接到了另外一棵大樹上。",
+      "translated_vi": "Thân hình Bạch Hồ vô cùng linh hoạt, ở trên thân cây này chưa thấy chỗ trú mưa thích hợp, nàng liền không tụt xuống, mà men theo cành cây nhún mình bật nhảy, lướt thẳng sang một cây đại thụ khác."
+    },
+    {
+      "para_id": "c0268p0014",
+      "index": 14,
+      "raw_zh": "如此往複。",
+      "translated_vi": "Cứ thế lặp đi lặp lại."
+    },
+    {
+      "para_id": "c0268p0015",
+      "index": 15,
+      "raw_zh": "幾分鍾後，白狐開心的回來，指著一個方向道：",
+      "translated_vi": "Vài phút sau, Bạch Hồ vui vẻ quay lại, chỉ về một hướng nói:"
+    },
+    {
+      "para_id": "c0268p0016",
+      "index": 16,
+      "raw_zh": "“遠處有很大的一個樹洞，大約十幾分鍾路程，足夠我們三個避雨休息！”",
+      "translated_vi": "\"Đằng xa có một hốc cây rất lớn, đi chừng hơn mười phút đường, đủ cho ba chúng ta trú mưa nghỉ ngơi!\""
+    },
+    {
+      "para_id": "c0268p0017",
+      "index": 17,
+      "raw_zh": "雲千峰大喜，白狐背起不能動彈的卓瑪，雲千峰轉移火種，三人快速的向著叢林裡鑽進去。",
+      "translated_vi": "Vân Thiên Phong mừng rỡ, Bạch Hồ cõng lấy Trác Mã đang không thể cử động, Vân Thiên Phong dời mồi lửa, cả ba nhanh chóng luồn sâu vào trong rừng rậm."
+    },
+    {
+      "para_id": "c0268p0018",
+      "index": 18,
+      "raw_zh": "這裡的溫度大約在三十度左右，所以此地的植被非常茂密，高的矮的，擠滿了三十米以下的空間。",
+      "translated_vi": "Nhiệt độ ở đây vào khoảng ba mươi độ C, bởi thế thảm thực vật nơi này cực kỳ rậm rạp tươi tốt, tầng cao tầng thấp chen chúc chật ních cả không gian dưới ba mươi mét."
+    },
+    {
+      "para_id": "c0268p0019",
+      "index": 19,
+      "raw_zh": "三個人擠著這些植被趕路，白狐所謂十幾分鍾路程，那是指沒有障礙物的情況下，現在這個情況，沒有半個小時別想到地方。",
+      "translated_vi": "Ba người phải rẽ đám cây cỏ rậm rạp này để lên đường, khoảng cách hơn mười phút mà Bạch Hồ nói là tính trong điều kiện không có chướng ngại vật, còn với tình hình hiện tại thì không mất nửa tiếng đừng hòng tới nơi."
+    },
+    {
+      "para_id": "c0268p0020",
+      "index": 20,
+      "raw_zh": "大雨比預想的要來的快。",
+      "translated_vi": "Cơn mưa lớn ập đến nhanh hơn dự kiến."
+    },
+    {
+      "para_id": "c0268p0021",
+      "index": 21,
+      "raw_zh": "走到半途，大雨就毫不憐惜的傾盆而落。",
+      "translated_vi": "Mới đi được nửa đường, mưa lớn đã trút xuống xối xả không chút thương tiếc."
+    },
+    {
+      "para_id": "c0268p0022",
+      "index": 22,
+      "raw_zh": "幾乎一個照面，三個人就徹底濕透了。",
+      "translated_vi": "Hầu như vừa giáp mặt, cả ba người đã ướt sũng toàn thân."
+    },
+    {
+      "para_id": "c0268p0023",
+      "index": 23,
+      "raw_zh": "急促的雨點擊打著層層疊疊的闊葉，發出連續不斷的轟鳴，“嗡嗡嗡”的叫人耳根發麻。",
+      "translated_vi": "Những hạt mưa dồn dập quất mạnh vào từng tầng lá rộng ken dày, phát ra tiếng gầm rống liên miên bất tuyệt, từng hồi \"ong ong ong\" khiến màng nhĩ người ta tê dại."
+    },
+    {
+      "para_id": "c0268p0024",
+      "index": 24,
+      "raw_zh": "溫度也隨之迅速下降，悶熱消失，取而代之的是難忍的濕冷。",
+      "translated_vi": "Nhiệt độ cũng theo đó tụt giảm nhanh chóng, cảm giác oi bức biến mất, thay vào đó là cái ẩm lạnh khó lòng chịu nổi."
+    },
+    {
+      "para_id": "c0268p0025",
+      "index": 25,
+      "raw_zh": "白狐把尾巴遮在了自己的額前，不讓大雨迷失她的視線。",
+      "translated_vi": "Bạch Hồ vắt đuôi che chắn trước trán, không để mưa to làm nhòe mờ tầm mắt."
+    },
+    {
+      "para_id": "c0268p0026",
+      "index": 26,
+      "raw_zh": "到達樹洞後，雲千峰放好火種後，用最快的速度在周圍開始拾撿柴火。",
+      "translated_vi": "Tới được hốc cây, Vân Thiên Phong cất giữ mồi lửa xong liền lấy tốc độ nhanh nhất bắt đầu gom nhặt củi khô ở khu vực xung quanh."
+    },
+    {
+      "para_id": "c0268p0027",
+      "index": 27,
+      "raw_zh": "大雨剛下，那些散落的乾木，最多濕了一層皮，不耽誤燃燒。",
+      "translated_vi": "Mưa vừa mới trút xuống, những cành củi khô vương vãi kia nhiều nhất chỉ mới ướt một lớp vỏ ngoài, không ảnh hưởng đến việc bén lửa bốc cháy."
+    },
+    {
+      "para_id": "c0268p0028",
+      "index": 28,
+      "raw_zh": "白狐放好卓瑪後，也急忙衝出來拾柴。",
+      "translated_vi": "Bạch Hồ đặt Trác Mã ngay ngắn xong cũng vội vã lao ra nhặt củi."
+    },
+    {
+      "para_id": "c0268p0029",
+      "index": 29,
+      "raw_zh": "倆人速度都不慢，很快在九平米大小的樹洞內，堆了一大堆的乾枝。",
+      "translated_vi": "Tốc độ của cả hai đều không chậm, chẳng mấy chốc bên trong hốc cây rộng chừng chín mét vuông đã chất đầy một đống cành khô lớn."
+    },
+    {
+      "para_id": "c0268p0030",
+      "index": 30,
+      "raw_zh": "“夠了，回去吧！”",
+      "translated_vi": "\"Đủ rồi, quay vào thôi!\""
+    },
+    {
+      "para_id": "c0268p0031",
+      "index": 31,
+      "raw_zh": "雲千峰估算了一下，足夠晚上使用，便呼喊白狐一起回到了山洞。",
+      "translated_vi": "Vân Thiên Phong ước lượng một chút, thấy đủ dùng cho cả đêm bèn gọi Bạch Hồ cùng quay trở lại trong động."
+    },
+    {
+      "para_id": "c0268p0032",
+      "index": 32,
+      "raw_zh": "篝火緩緩燃起，驅散了樹洞內的潮氣，濕冷的體感消失，連呼吸都變得順暢起來。",
+      "translated_vi": "Đống lửa từ từ bùng lên, xua tan hơi ẩm ướt bên trong hốc cây, cảm giác ẩm lạnh tiêu biến, đến cả nhịp thở cũng trở nên thông suốt nhẹ nhõm hơn."
+    },
+    {
+      "para_id": "c0268p0033",
+      "index": 33,
+      "raw_zh": "倆人正搭架子，準備用來熏烤衣服，順便還能當簾子，遮擋彼此的害羞。",
+      "translated_vi": "Hai người đang dựng giá đỡ, định dùng để hong khô quần áo, tiện thể còn có thể làm rèm che chắn nỗi ngượng ngùng e thẹn của đôi bên."
+    },
+    {
+      "para_id": "c0268p0034",
+      "index": 34,
+      "raw_zh": "然而，剛搭了一半，外面響起了一聲驚雷。",
+      "translated_vi": "Thế nhưng vừa dựng xong một nửa, bên ngoài bỗng vang lên một tiếng sét kinh thiên động địa."
+    },
+    {
+      "para_id": "c0268p0035",
+      "index": 35,
+      "raw_zh": "隨後就和放鞭炮似的，“哢嚓哢嚓”響個不停。",
+      "translated_vi": "Tiếp ngay sau đó chẳng khác nào đốt pháo nổ, những tiếng \"răng rắc, đùng đoàng\" vang rền không ngớt."
+    },
+    {
+      "para_id": "c0268p0036",
+      "index": 36,
+      "raw_zh": "透過樹洞，可以看到外面昏暗的天空上，爬滿了金色的閃電，就好像半個天空罩了一張金色的蜘蛛網。",
+      "translated_vi": "Nhìn qua hốc cây có thể thấy được trên bầu trời u ám bên ngoài giăng kín những lằn sét màu vàng kim, hệt như nửa khoảng trời bị chụp lên một tấm mạng nhện thếp vàng khổng lồ."
+    },
+    {
+      "para_id": "c0268p0037",
+      "index": 37,
+      "raw_zh": "第一聲雷響，雲千峰和白狐幾乎同時一哆嗦。",
+      "translated_vi": "Tiếng sấm đầu tiên nổ tung, Vân Thiên Phong cùng Bạch Hồ gần như đồng thời rùng mình run rẩy một cái."
+    },
+    {
+      "para_id": "c0268p0038",
+      "index": 38,
+      "raw_zh": "臉上現出了驚慌。",
+      "translated_vi": "Trên mặt lộ rõ vẻ hoảng hốt kinh sợ."
+    },
+    {
+      "para_id": "c0268p0039",
+      "index": 39,
+      "raw_zh": "倆人自討是架不住雷劈的，同時深知到底是大意了，隻想著遮雨，卻沒想到這地底空間下雨也打雷。",
+      "translated_vi": "Hai người tự biết mình chẳng thể nào chống đỡ nổi sét đánh, đồng thời cũng thấm thía rốt cuộc bản thân đã quá sơ suất, chỉ mải mê nghĩ cách che mưa, lại không ngờ tới không gian dưới lòng đất này mưa gió cũng có sấm sét."
+    },
+    {
+      "para_id": "c0268p0040",
+      "index": 40,
+      "raw_zh": "這天氣住在樹洞裡，怕不是等於自殺。",
+      "translated_vi": "Thời tiết thế này mà còn chui rúc trong hốc cây, sợ rằng chẳng khác nào tự sát."
+    },
+    {
+      "para_id": "c0268p0041",
+      "index": 41,
+      "raw_zh": "濕撈撈的倆人同時擠在樹洞口，向著天空望去，後腿都蓄著力，看情形不對，立馬就跑。",
+      "translated_vi": "Hai người ướt sũng cùng chen chúc nơi miệng hốc cây ngước nhìn lên bầu trời, hai chân sau đều chực sẵn lực, hễ thấy tình hình không ổn là lập tức bỏ chạy."
+    },
+    {
+      "para_id": "c0268p0042",
+      "index": 42,
+      "raw_zh": "觀察了一會後，倆人才放下心來。",
+      "translated_vi": "Quan sát một hồi lâu, cả hai mới thoáng yên lòng."
+    },
+    {
+      "para_id": "c0268p0043",
+      "index": 43,
+      "raw_zh": "閃電密布，但卻沒有一道閃電劈下來。",
+      "translated_vi": "Sấm chớp dày đặc, nhưng lại không có một luồng tia sét nào giáng xuống."
+    },
+    {
+      "para_id": "c0268p0044",
+      "index": 44,
+      "raw_zh": "似乎那些閃電都是向著天空太陽的位置匯聚。",
+      "translated_vi": "Dường như tất cả những tia sét ấy đều đang hội tụ về vị trí mặt trời trên đỉnh trời."
+    },
+    {
+      "para_id": "c0268p0045",
+      "index": 45,
+      "raw_zh": "雲千峰喃喃道：",
+      "translated_vi": "Vân Thiên Phong lẩm bẩm:"
+    },
+    {
+      "para_id": "c0268p0046",
+      "index": 46,
+      "raw_zh": "“這是在給太陽充電嗎？”",
+      "translated_vi": "\"Đây là đang sạc điện cho mặt trời sao?\""
+    },
+    {
+      "para_id": "c0268p0047",
+      "index": 47,
+      "raw_zh": "白狐搖了搖頭，道：",
+      "translated_vi": "Bạch Hồ lắc lắc đầu, nói:"
+    },
+    {
+      "para_id": "c0268p0048",
+      "index": 48,
+      "raw_zh": "“這點電量不夠用吧？那太陽應該是氦-3聚變的方式釋放能量，瑪肆科說過，這顆星球內部有著存量很多的氦-3。”",
+      "translated_vi": "\"Chút lượng điện này đâu có đủ dùng? Vầng mặt trời kia hẳn là giải phóng năng lượng theo phương thức nhiệt hạch heli-3, Mã Tứ Khoa từng nói bên trong hành tinh này có trữ lượng heli-3 rất dồi dào.\""
+    },
+    {
+      "para_id": "c0268p0049",
+      "index": 49,
+      "raw_zh": "這一點雲千峰倒是聽說過，因為這顆星球幾乎每時每刻都在地底釋放著稀少的氦-3，這種物質也被認為是最佳的聚變材料，因為不會產生汙染。",
+      "translated_vi": "Điểm này Vân Thiên Phong quả thực có nghe nói qua, bởi lẽ hành tinh này hầu như mỗi giây mỗi phút đều giải phóng một lượng heli-3 ít ỏi trong lòng đất, loại vật chất này cũng được coi là nguyên liệu nhiệt hạch tối ưu nhất vì hoàn toàn không sinh ra ô nhiễm."
+    },
+    {
+      "para_id": "c0268p0050",
+      "index": 50,
+      "raw_zh": "所以白狐說這個“太陽”是氦-3聚變器，是絕對有可能的，而且可能性很大。",
+      "translated_vi": "Cho nên việc Bạch Hồ nói vầng \"mặt trời\" này là một cỗ máy nhiệt hạch heli-3 là hoàn toàn có khả năng, hơn nữa khả năng còn vô cùng lớn."
+    },
+    {
+      "para_id": "c0268p0051",
+      "index": 51,
+      "raw_zh": "至於雷電都被吸引到了那“太陽”的位置，想來也是造物主在建在這個實驗室的時候特意設計的，祂將每一個概率傷害到人類的可能，都規避了。",
+      "translated_vi": "Còn việc sấm sét đều bị hút về phía vầng \"mặt trời\" kia, nghĩ lại hẳn cũng là do Đấng Sáng Tạo cố ý an bài khi xây dựng phòng thí nghiệm này; Ngài đã triệt tiêu mọi xác suất có khả năng gây tổn hại đến con người."
+    },
+    {
+      "para_id": "c0268p0052",
+      "index": 52,
+      "raw_zh": "倆人確定那些閃電之威不會下來，這才一起長舒了口氣，回來搭好了木架，先把卓瑪的袍子掛在上面。",
+      "translated_vi": "Hai người xác định uy lực sấm sét kia sẽ không giáng xuống, lúc này mới cùng thở phào nhẹ nhõm, quay lại dựng xong một giá gỗ, trước tiên treo chiếc áo choàng của Trác Mã lên trên."
+    },
+    {
+      "para_id": "c0268p0053",
+      "index": 53,
+      "raw_zh": "反正卓瑪也不能動，讓她跑一下光就很合理。",
+      "translated_vi": "Dù sao Trác Mã cũng không thể cử động, để cô nàng hớ hênh một chút cũng là điều hết sức hợp lý."
+    },
+    {
+      "para_id": "c0268p0054",
+      "index": 54,
+      "raw_zh": "然後雲千峰和白狐分處長袍兩端，卸下衣服，搭在架子上。",
+      "translated_vi": "Kế đó, Vân Thiên Phong và Bạch Hồ mỗi người đứng một bên vạt áo choàng, cởi quần áo ướt sũng ra vắt lên giá."
+    },
+    {
+      "para_id": "c0268p0055",
+      "index": 55,
+      "raw_zh": "“幸福啊！”",
+      "translated_vi": "\"Hạnh phúc thật đấy!\""
+    },
+    {
+      "para_id": "c0268p0056",
+      "index": 56,
+      "raw_zh": "“幸福啊！”",
+      "translated_vi": "\"Hạnh phúc thật đấy!\""
+    },
+    {
+      "para_id": "c0268p0057",
+      "index": 57,
+      "raw_zh": "躺在還算平整的樹洞內，衣服架子兩側的雲千峰和白狐幾乎同時慨歎道。",
+      "translated_vi": "Nằm trong hốc cây tương đối bằng phẳng, Vân Thiên Phong và Bạch Hồ ở hai bên giá áo gần như đồng thanh cảm thán."
+    },
+    {
+      "para_id": "c0268p0058",
+      "index": 58,
+      "raw_zh": "然後就是倆人的傻笑。",
+      "translated_vi": "Tiếp theo là tiếng cười ngây ngô của cả hai người."
+    },
+    {
+      "para_id": "c0268p0059",
+      "index": 59,
+      "raw_zh": "在避雨的地方聽雨，總會讓人從內心深處感覺到一種幸福。",
+      "translated_vi": "Trú mưa ở một nơi an toàn rồi lắng nghe tiếng mưa rơi, đáy lòng người ta bao giờ cũng dâng lên một cảm giác hạnh phúc khôn tả."
+    },
+    {
+      "para_id": "c0268p0060",
+      "index": 60,
+      "raw_zh": "沒來由。",
+      "translated_vi": "Chẳng vì bất cứ lý do nào."
+    },
+    {
+      "para_id": "c0268p0061",
+      "index": 61,
+      "raw_zh": "架子上的衣服並沒有遮擋住倆人的腦袋。",
+      "translated_vi": "Quần áo treo trên giá không hề che khuất phần đầu của hai người."
+    },
+    {
+      "para_id": "c0268p0062",
+      "index": 62,
+      "raw_zh": "篝火映襯下，白狐微笑的神態美極了。",
+      "translated_vi": "Dưới ánh lửa bập bùng, vẻ mỉm cười của Bạch Hồ đẹp đến mê hồn."
+    },
+    {
+      "para_id": "c0268p0063",
+      "index": 63,
+      "raw_zh": "天色徹底黑下來，雨勢也變小，簌簌的敲打著樹葉，這低頻的白噪音，猶如最美妙的催眠曲。",
+      "translated_vi": "Trời tối hẳn, mưa cũng dần ngớt hạt, tiếng rào rào gõ nhịp lên vòm lá tạo thành một thứ tạp âm trắng tần số thấp, tựa như khúc hát ru êm ái tuyệt vời nhất."
+    },
+    {
+      "para_id": "c0268p0064",
+      "index": 64,
+      "raw_zh": "雲千峰輕微的鼾聲傳來，卻是睡沉了過去。",
+      "translated_vi": "Tiếng ngáy nhè nhẹ của Vân Thiên Phong vang lên, hắn đã chìm sâu vào giấc ngủ."
+    },
+    {
+      "para_id": "c0268p0065",
+      "index": 65,
+      "raw_zh": "白狐還沒睡，看著篝火下，雲千峰的側顏，長長蓬松的尾巴不知不覺的就鑽到了雲千峰的腦袋下面，成為了雲千峰的枕頭。",
+      "translated_vi": "Bạch Hồ vẫn chưa ngủ, nàng ngắm nhìn góc nghiêng của Vân Thiên Phong dưới ánh lửa, chiếc đuôi dài bồng bềnh chẳng biết từ lúc nào đã luồn xuống dưới đầu hắn, trở thành chiếc gối êm ái cho Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0268p0066",
+      "index": 66,
+      "raw_zh": "完成了這個步驟，白狐在打了個哈欠，蜷著身子，沉沉睡去。",
+      "translated_vi": "Xong xuôi việc đó, Bạch Hồ ngáp một cái thật dài, cuộn tròn thân mình lại rồi say sưa ngủ thiếp đi."
+    },
+    {
+      "para_id": "c0268p0067",
+      "index": 67,
+      "raw_zh": "再醒來時，白狐發現雲千峰正在用浸濕的打底衫擦拭卓瑪的身體。",
+      "translated_vi": "Khi tỉnh lại, Bạch Hồ thấy Vân Thiên Phong đang dùng chiếc áo lót thấm ướt lau chùi thân thể cho Trác Mã."
+    },
+    {
+      "para_id": "c0268p0068",
+      "index": 68,
+      "raw_zh": "卓瑪在這個返古的過程裡，身上不斷的向著皮膚外滲出棕黑色的粘液，帶著腥臊的氣味，異常難聞。",
+      "translated_vi": "Trong quá trình phản tổ này, trên người Trác Mã liên tục tiết ra bề mặt da một lớp chất nhầy màu nâu đen, tỏa ra thứ mùi tanh nồng tởm lợm, vô cùng khó ngửi."
+    },
+    {
+      "para_id": "c0268p0069",
+      "index": 69,
+      "raw_zh": "白狐爬起來，穿好衣服，臉都沒洗，直接過來，奪下雲千峰手裡的打底衫，由她來擦拭卓瑪身上的汙濁。",
+      "translated_vi": "Bạch Hồ bò dậy, mặc lại quần áo, mặt cũng chưa kịp rửa đã đi thẳng tới giật lấy chiếc áo lót trong tay Vân Thiên Phong, để chính nàng lau sạch những thứ dơ bẩn trên người Trác Mã."
+    },
+    {
+      "para_id": "c0268p0070",
+      "index": 70,
+      "raw_zh": "雲千峰坐在旁邊，觀察卓瑪身上的變化。",
+      "translated_vi": "Vân Thiên Phong ngồi một bên, chăm chú quan sát những biến đổi trên cơ thể Trác Mã."
+    },
+    {
+      "para_id": "c0268p0071",
+      "index": 71,
+      "raw_zh": "此時的卓瑪，兩條腿已經完全黏在了一起，但是還能看到雙腿的輪廓。",
+      "translated_vi": "Lúc này, hai chân của Trác Mã đã dính chặt vào nhau, nhưng vẫn còn lờ mờ nhìn ra đường nét của đôi chân."
+    },
+    {
+      "para_id": "c0268p0072",
+      "index": 72,
+      "raw_zh": "腳趾之間，也都被一層半透明的薄膜連接在一起，而且腳趾在變長。",
+      "translated_vi": "Giữa các ngón chân đều được nối liền bằng một lớp màng bán trong suốt, hơn nữa ngón chân cũng đang dài ra."
+    },
+    {
+      "para_id": "c0268p0073",
+      "index": 73,
+      "raw_zh": "那些鱗片更像是一個紋身，摸起來與皮膚無異，顏色淡金，帶著異樣的魅惑美感。",
+      "translated_vi": "Những chiếc vảy kia trông giống một hình xăm hơn, chạm vào không khác gì da thịt, sắc vàng nhạt, toát lên một vẻ đẹp ma mị đầy khác lạ."
+    },
+    {
+      "para_id": "c0268p0074",
+      "index": 74,
+      "raw_zh": "但變化最大的，還是眉心的那道傷疤。",
+      "translated_vi": "Nhưng biến đổi lớn nhất lại là vết sẹo nơi mi tâm."
+    },
+    {
+      "para_id": "c0268p0075",
+      "index": 75,
+      "raw_zh": "那傷疤已經不再流血，隻張開很細的一道縫隙，露出裡面之前蠕動的東西。",
+      "translated_vi": "Vết sẹo kia đã không còn rỉ máu, chỉ mở ra một luồng khe hở rất mảnh, để lộ thứ trước đó từng ngọ nguậy bên trong."
+    },
+    {
+      "para_id": "c0268p0076",
+      "index": 76,
+      "raw_zh": "那是白色的眼仁和黑色的眼珠。",
+      "translated_vi": "Đó là tròng trắng và một con ngươi đen nhánh."
+    },
+    {
+      "para_id": "c0268p0077",
+      "index": 77,
+      "raw_zh": "雲千峰看著卓瑪眉心長出來的豎眼，想起自己得到二十一眼天珠那塊黑石上的雕紋，緩緩短藏刀刻在樹洞上，沉思著。",
+      "translated_vi": "Vân Thiên Phong nhìn con mắt dọc mọc ra giữa mi tâm Trác Mã, nhớ tới hoa văn điêu khắc trên khối đá đen khi mình có được viên Thiên Châu hai mươi mốt mắt, hắn chậm rãi cầm đoản đao Tạng khắc lại lên thân cây, nét mặt trầm ngâm suy tư."
+    },
+    {
+      "para_id": "c0268p0078",
+      "index": 78,
+      "raw_zh": "白狐擦拭好了卓瑪的為生，看到雲千峰盯著自己刻出來的圖符發呆，就問道：",
+      "translated_vi": "Bạch Hồ lau rửa vệ sinh cho Trác Mã xong xuôi, thấy Vân Thiên Phong đang nhìn chằm chằm vào hình vẽ mình vừa khắc mà ngẩn ngơ, bèn hỏi:"
+    },
+    {
+      "para_id": "c0268p0079",
+      "index": 79,
+      "raw_zh": "“在看什麽？”",
+      "translated_vi": "\"Anh đang nhìn gì thế?\""
+    },
+    {
+      "para_id": "c0268p0080",
+      "index": 80,
+      "raw_zh": "雲千峰指著那三和豎眼的圖符，說道：",
+      "translated_vi": "Vân Thiên Phong chỉ vào hình vẽ ba vạch liền cùng con mắt dọc, nói:"
+    },
+    {
+      "para_id": "c0268p0081",
+      "index": 81,
+      "raw_zh": "“之前，卓瑪說這個圖符代表大自在天，也就是古濕婆，因為古濕婆有六臂三眼。",
+      "translated_vi": "\"Trước đây, Trác Mã bảo ký hiệu này đại diện cho Đại Tự Tại Thiên, tức là thần Shiva thời cổ đại, bởi vì Shiva cổ có sáu tay ba mắt."
+    },
+    {
+      "para_id": "c0268p0082",
+      "index": 82,
+      "raw_zh": "現在看來，卓瑪的解釋是錯誤的，乾三連代表的就是古時抽象的天的含義，而眼就是眼，卓瑪眉心長出來的，是傳說之中的天眼。”",
+      "translated_vi": "Bây giờ xem ra, lời giải thích của Trác Mã là sai rồi. 'Càn tam liên' tượng trưng cho khái niệm trừu tượng về Trời thời viễn cổ, còn mắt chính là mắt. Thứ mọc ra nơi mi tâm của Trác Mã chính là Thiên Nhãn trong truyền thuyết.\""
+    },
+    {
+      "para_id": "c0268p0083",
+      "index": 83,
+      "raw_zh": "白狐沉吟道：",
+      "translated_vi": "Bạch Hồ trầm ngâm:"
+    },
+    {
+      "para_id": "c0268p0084",
+      "index": 84,
+      "raw_zh": "“是不是天眼不知道，不過瑪肆科說過，第一代人類和第二代人類，眉心都有這個第三眼，到了如今這一代人類，第三眼已經退化為松果體，至於作用不得而知。”",
+      "translated_vi": "\"Có phải Thiên Nhãn hay không thì tôi không rõ, nhưng Mã Tứ Khoa từng nói loài người thế hệ thứ nhất và thứ hai đều sở hữu con mắt thứ ba này ở giữa trán. Đến thế hệ nhân loại ngày nay, con mắt thứ ba đã thoái hóa thành tuyến tùng, còn công dụng ra sao thì không ai biết được.\""
+    },
+    {
+      "para_id": "c0268p0085",
+      "index": 85,
+      "raw_zh": "人曾經擁有第三隻眼，並不是什麽玄學，而是真實。",
+      "translated_vi": "Con người từng sở hữu con mắt thứ ba vốn chẳng phải thứ huyền học viển vông, mà là sự thật."
+    },
+    {
+      "para_id": "c0268p0086",
+      "index": 86,
+      "raw_zh": "否則無法解釋松果體上為何擁有視網膜組織和完整的感光信號傳遞系統。",
+      "translated_vi": "Bằng không, chẳng thể nào giải thích nổi vì sao trên tuyến tùng lại tồn tại tổ chức võng mạc cùng một hệ thống truyền dẫn tín hiệu cảm quang hoàn chỉnh."
+    },
+    {
+      "para_id": "c0268p0087",
+      "index": 87,
+      "raw_zh": "而這個世界上，第一個系統提出如何鍛煉松果體，以達到開發人體潛能的人，是唐朝的呂嵓，也就是民間傳說的純陽子呂洞賓。",
+      "translated_vi": "Mà trên thế giới này, người đầu tiên đề xuất một cách có hệ thống về phương pháp rèn luyện tuyến tùng nhằm khai mở tiềm năng cơ thể người chính là Lữ Nham thời Đường, tức Thuần Dương Tử Lữ Động Tân trong truyền thuyết dân gian."
+    },
+    {
+      "para_id": "c0268p0088",
+      "index": 88,
+      "raw_zh": "只不過，呂洞賓並不是用松果體來命名這個蛻化的第三眼，而是用“金丹”稱呼之。",
+      "translated_vi": "Có điều, Lữ Động Tân không dùng cái tên tuyến tùng để gọi con mắt thứ ba đã thoái hóa này, mà gọi nó là \"Kim Đan\"."
+    },
+    {
+      "para_id": "c0268p0089",
+      "index": 89,
+      "raw_zh": "金丹，金丹，活的就是這鈣化的第三眼。",
+      "translated_vi": "Kim Đan, Kim Đan, thứ được kích hoạt chính là con mắt thứ ba đã bị vôi hóa này."
+    },
+    {
+      "para_id": "c0268p0090",
+      "index": 90,
+      "raw_zh": "所以現在社會上，教人腹內凝丹的，不用想都知道是幹嘛的。",
+      "translated_vi": "Cho nên trong xã hội bây giờ, những kẻ dạy người ta ngưng tụ đan trong bụng thì chẳng cần nghĩ cũng biết mục đích là gì."
+    },
+    {
+      "para_id": "c0268p0091",
+      "index": 91,
+      "raw_zh": "呂嵓的太乙金華宗旨，也成為了唯一一部風靡世界的丹功法門。",
+      "translated_vi": "Bộ Thái Ất Kim Hoa Tông Chỉ của Lữ Nham cũng trở thành pháp môn đan công duy nhất vang danh khắp thế giới."
+    },
+    {
+      "para_id": "c0268p0092",
+      "index": 92,
+      "raw_zh": "西方人稱呂嵓在太乙金華宗旨闡述的金丹回光內視所見為上帝圖騰，也叫曼陀羅，但凡按照宗旨回光內視，一旦見到上帝圖騰，便即打開了新世界的大門。",
+      "translated_vi": "Người phương Tây gọi cảnh giới mà Lữ Nham diễn giải trong Thái Ất Kim Hoa Tông Chỉ khi Kim Đan hồi quang nội thị nhìn thấy là Đồ đằng Thượng Đế, hay còn gọi là Mandala. Phàm là kẻ chiểu theo tông chỉ để hồi quang nội thị, một khi nhìn thấy Đồ đằng Thượng Đế thì cánh cửa mở ra thế giới mới cũng lập tức mở toang."
+    },
+    {
+      "para_id": "c0268p0093",
+      "index": 93,
+      "raw_zh": "那腦洞大開的電影【大腦越獄】就是以太乙金華宗旨為理論背景。",
+      "translated_vi": "Bộ phim viễn tưởng đầy táo bạo mang tên \"Đại Não Vượt Ngục\" cũng lấy Thái Ất Kim Hoa Tông Chỉ làm bối cảnh lý luận nền tảng."
+    },
+    {
+      "para_id": "c0268p0094",
+      "index": 94,
+      "raw_zh": "聽到白狐的話，雲千峰看著卓瑪的第三眼，說道：",
+      "translated_vi": "Nghe Bạch Hồ nói vậy, Vân Thiên Phong nhìn vào con mắt thứ ba của Trác Mã, trầm giọng bảo:"
+    },
+    {
+      "para_id": "c0268p0095",
+      "index": 95,
+      "raw_zh": "“上帝圖騰如指紋，回光所見人人皆不同，想來功能也定然是不同的，不過我相信，卓瑪的第三眼，一定可以幫我找到西王母。”",
+      "translated_vi": "\"Đồ đằng Thượng Đế giống như dấu vân tay, cảnh tượng nhìn thấy khi hồi quang ở mỗi người đều khác nhau, nghĩ tới thì công năng chắc chắn cũng không giống. Nhưng tôi tin con mắt thứ ba của Trác Mã nhất định có thể giúp tôi tìm ra Tây Vương Mẫu.\""
+    },
+    {
+      "para_id": "c0268p0096",
+      "index": 96,
+      "raw_zh": "說著，雲千峰看著樹洞外已經明媚的天空，沉聲道：",
+      "translated_vi": "Dứt lời, Vân Thiên Phong đưa mắt nhìn bầu trời đã quang đãng ngoài hốc cây, trầm giọng nói:"
+    },
+    {
+      "para_id": "c0268p0097",
+      "index": 97,
+      "raw_zh": "“帝嚳，超過了四十九天期限，你的所有算計，都將成空，因為那樣，我將一定會背離你的算計！”",
+      "translated_vi": "\"Đế Cốc, vượt quá thời hạn bốn mươi chín ngày, mọi toan tính của ông sẽ tan thành mây khói, bởi vì đến lúc đó, tôi nhất định sẽ đi ngược lại mọi mưu tính của ông!\""
+    },
+    {
+      "para_id": "c0268p0098",
+      "index": 98,
+      "raw_zh": "這話一出口，晴朗的天空裡響起了一聲悶雷。",
+      "translated_vi": "Câu này vừa dứt, giữa bầu trời quang đãng bỗng nổ vang một tiếng sấm trầm đục."
+    },
+    {
+      "para_id": "c0268p0099",
+      "index": 99,
+      "raw_zh": "悶雷聲中，樹洞深處，沉睡的卓瑪，睜開了眼睛。",
+      "translated_vi": "Trong tiếng sấm rền vang, nơi sâu thẳm của hốc cây, Trác Mã vốn đang ngủ say bỗng mở bừng mắt."
+    },
+    {
+      "para_id": "c0268p0100",
+      "index": 100,
+      "raw_zh": "三隻眼睛同時睜開！",
+      "translated_vi": "Cả ba con mắt cùng lúc mở to trừng trừng!"
+    }
+  ]
+}

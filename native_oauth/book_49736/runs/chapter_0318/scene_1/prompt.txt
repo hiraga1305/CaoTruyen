@@ -1,0 +1,167 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0318|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|七十二道|bảy mươi hai luồng
+M2|六道|sáu luồng
+@IDIOM_HINTS
+I1|魂飛魄散|hồn phi phách tán / sợ đến vỡ mật|FORBID:hồn phi phách tán
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §123):
+§1 318.第318章 局終
+§2 第318章 局終
+§3 那是一個無法言說、無法想象、無法回去的年代。
+§4 [Ø=云千峰]帝嚳降天使，伏山神，天下共主始為人。
+§5 [Ø=云千峰]然而，這在所有人類眼中最大的“果”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]，在帝嚳眼中僅僅只是個開始。
+§6 [Ø=云千峰]於是在生命最後的一段時間裡，他宣九屠， [||] 喚王母，石室內立三腳圓鼎，開始了為數千萬年的算計。
+§7 “.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 “.“
+§9 [Ø=云千峰]“.引喜妹入與夏，使履癸築傾宮、飾瑤台、作瓊室、立玉門，盡失民心，速其新陳， [||] 封漆記：紀年一千零九十五年，癸卯月，辛巳日，分王母帝令。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§10 “.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=云千峰]“.引昆吾亂，使商替夏.封漆記：紀年一千零九十八年， [||] 甲子月，甲辰日，分九屠帝令。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§12 “.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 “.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§14 “.使周代商王母帝令。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 “.九屠以鬼谷行縱橫封漆刻.九屠帝令。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§16 [Ø=云千峰]“.秦一統，九屠泄密補天之台，安山神之野心，使其自以為是九屠帝令。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 [Ø=云千峰]“.引補天人妘起入澤跡，陷補天台，使之不出，待後人.王母帝令。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§18 “.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 [Ø=云千峰]“.番邦漸悟，思想將成， [||] 巫習之術難續文明，驅墨家西行，以“有前無後”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]之巫道亂其根.九屠帝令。”
+§20 “.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 “.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 [Ø=云千峰]“.引補天人雲守身入補天台，化名劉氏穆之，續華夏血脈，滅.王母帝令。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 “.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 [Ø=云千峰]“.引補天人劉氏穆之入十萬大山跡，陷補天台，使之不出，待後人九屠帝令。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 “.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§26 “.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 [Ø=云千峰]“.引金入東京，俘徽、欽二帝，使趙佶血脈生發與白山之下，以待後用.九屠帝令。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 “.引補天人化名劉氏驅.續華夏正統.王母帝令。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 [Ø=云千峰]“.引補天人劉基斬龍脈，僅留白山之龍，簡我算計.九屠帝令。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§30 [Ø=云千峰]“加炭，加鼎！速！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=云千峰]帝嚳聲音已經極為虛弱，顯然龐大的計算已經讓他將要油盡燈枯，然威嚴不減分毫。
+§32 [Ø=云千峰]別人熱得汗流浹背，但是帝嚳卻詭異般冷得面色蒼白。
+§33 [Ø=云千峰]他知道自己即將耗盡身體的時間，於是不得不用斬龍脈這等算計，讓劉基後的世界化繁為簡，利於其計算因果效應。
+§34 [Ø=云千峰]又是一個圓形三腳鼎放在帝嚳身側，其內滿是紅炭，帝嚳的面色終究又是好了一些，但也僅僅只是一些。
+§35 [Ø=云千峰]“.壯趙佶後裔，以滿其名，取明代之.九屠帝令。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 “.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 [Ø=云千峰]無數歲月之前，一切都在發生著，從未停止， [||] 就像一束光的起點和終點之間，一直都在那裡，未曾消失。
+§38 [Ø=云千峰]無數歲月後，常白之山的原始叢林內，薩弱已經到了最後的時刻。
+§39 [Ø=云千峰]她靠著強大的意志力，不讓自己昏厥過去，咬著黑熊腿骨，一聲不發。
+§40 [Ø=云千峰]但是她知道，當瓜熟蒂落那一刻，那一聲哭嚎，一定會引來圍繞在周圍的守望者。
+§41 [Ø=云千峰]她已經做好了用自己的命，換孩子命的準備。
+§42 [Ø=云千峰]薩弱不知道自己能不能做到，她只知道，自己必須做到。
+§43 [Ø=云千峰]劇烈的痛楚彌漫全身，薩弱依舊一聲不吭，但是豆大的汗珠在額頭面頰滾滾而落。
+§44 [Ø=云千峰]更讓她絕望的是，她感覺到危險更近了。
+§45 守望者走得很緩慢。
+§46 [Ø=云千峰]因為薩弱將自己的氣息隱藏的極好，但是這些守望者依舊捕捉到了薩弱的氣息，只是無法斷定準確的位置。
+§47 [Ø=云千峰]所以，他們這樣慢慢的行走， [||] 圍困，感受著薩弱的氣息，做到萬無一失。
+§48 [Ø=云千峰]“薩弱距離這裡不遠，我能感覺到她。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§49 [Ø=云千峰]“我也很確定，這次她逃不掉了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§50 [Ø=云千峰]“她如果不跟我們走，怎麽辦？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§51 “那我們只能殺了她。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§52 [Ø=云千峰]“只能殺了她，不能讓滅世重演。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§53 [Ø=云千峰]“對不起了薩弱，我們只能這麽做！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§54 [Ø=云千峰]五個守望者距離那熊洞越來越近，若不是薩弱將熊洞隱藏的很好，其實祂們已經可以看到那並不是很大的洞口。
+§55 [Ø=云千峰]薩弱已經可以聽到祂們的腳步聲，而她距離瓜熟蒂落還需要一些時間。
+§56 [Ø=云千峰]她知道，一切都完了， [||] 哪怕自己有拚命之心，此時此刻，卻毫無拚命之力。
+§57 [Ø=云千峰]然而，這世間的絕境，終究有著一線生機。
+§58 六個身影在不遠處緩緩出現。
+§59 [Ø=云千峰]一邊走還一邊聊天，渾不把危險的原始叢林當盤菜。
+§60 [Ø=云千峰]“大姐頭，咱們是不是迷路了？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§61 [Ø=云千峰]“別胡說，大姐頭怎麽可能會迷路？最多是走錯路了，是吧大姐頭？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§62 [Ø=云千峰]小神經看了看旁邊那倆貨，咬牙道：
+§63 [Ø=云千峰]“奇了怪，以前走叢林和玩一樣，今天怎麽就好像鬼打牆了， [||] 月朗星稀的，北極星就在那，怎麽可能走這麽久都走不出去。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§64 [Ø=云千峰]“大姐頭，要不咱們天亮再走？生堆火，弄點肉吃？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§65 [Ø=云千峰]話沒說完，六個人突然愣住，看著前面鬼鬼祟祟的五個身影。
+§66 [Ø=云千峰]“大姐頭，長翅膀的人？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§67 “那就不是人！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§68 “怎麽辦？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§69 “還能怎麽辦？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§70 [Ø=云千峰]六個人幾乎同時在兜裡掏出一個青色的令牌，上面布滿了詭異的刻符。
+§71 [Ø=云千峰]正是地煞七十二道[M1:bảy mươi hai luồng]引魂令牌，這六個令牌雖然是地煞道，但卻很特殊， [||] 因為這六個，是巡守令，是蚩尤的直系。
+§72 這六個人正是小神經和五個南極死去的兄弟。
+§73 [Ø=云千峰]他們六個在這不遠處，與六道[M2:sáu luồng]盤有糾纏的山上重生， [||] 但卻迷了路，走了半宿也沒走出去，卻叫他們遇到了追捕薩弱的守望者。
+§74 這是這一世引渡人與守望者的第一戰。
+§75 [Ø=云千峰]五個守望者看到人影，第一想法就是殺掉，因為他們的翅膀被看見了，必須滅口。
+§76 [Ø=云千峰]而當祂們看到那令牌的模樣之後，殺意更濃，但也謹慎起來。
+§77 [Ø=云千峰]大戰一觸即發，守望者展開翅膀，毫無保留力量的開啟了攻擊。
+§78 [Ø=云千峰]小神經六人，手中令牌隨心變幻，或成刀或成盾或成甲，皆有神奇。
+§79 [Ø=云千峰]六對五，混戰一團，越打越遠。
+§80 [Ø=云千峰]五個守望者沒想到這六個引渡人如此厲害，尤其是那個小個子的女生，簡直就是戰鬥機器， [||] 不但本體強大，更是有著諸多的打法招式，讓人防不勝防。
+§81 [Ø=云千峰]薩弱聽到混戰聲越走越遠，最終完全聽不見，那圍繞自己的危機感也漸漸消失。
+§82 她終於哭出了眼淚。
+§83 [Ø=云千峰]“孩子，天不絕我母子”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§84 天？呵！
+§85 [Ø=云千峰]與此同時，遙遠的曾經，帝嚳的算計依舊繼續著。
+§86 “.“
+§87 [Ø=云千峰]“.引補天人雲千峰入裂谷跡，斷其時間因果王母帝令。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§88 [Ø=云千峰]“.引薑氏玉林入十萬大山跡，使山神知，消弭其跡.九屠帝令。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§89 [Ø=云千峰]“.引薑氏柔甲尋補天人雲千峰，入終局王母帝令。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§90 “.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§91 “加鼎！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§92 [Ø=云千峰]三個鼎半圍著帝嚳，但是他的面色依舊無法遏製的慘白下去。
+§93 [Ø=云千峰]周圍的人，不得不時刻用水撲面，以減酷熱。
+§94 “.引姮娥助雲千峰入蚩尤回光重樓王母帝令。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§95 [Ø=云千峰]“.引巡守引渡人入常白之山，驅守望者.王母帝令。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§96 [Ø=云千峰]“.諸位，嚳算計已盡，會再見！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§97 [Ø=云千峰]稽首言罷，帝嚳目光望向虛空遠處， [||] 似乎穿透了世間的一切，包括時間，他在看他算計的最終。
+§98 [Ø=云千峰]突然，遙遠曾經的帝嚳笑了，他呢喃道：
+§99 “我去了”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§100 [Ø=云千峰]言罷，帝嚳薨。
+§101 [Ø=云千峰]此時，遙遠的未來，常白之山的原始叢林裡， [||] 黑熊洞內，隨著淒厲的嚎叫聲，一個新生命來到了世間。
+§102 真正的新生命。
+§103 [Ø=云千峰]隨著這個新生命的降臨，四周天際，一團團烏雲滾出天際， [||] 彌散著擠壓著晴空，直到將整個天空擠滿，將黑暗徹底抹向人間。
+§104 [Ø=云千峰]這樣的天象，絕不是只有這原始叢林一隅，而是發生在全世界。
+§105 [Ø=云千峰]無論是黑夜還是白日，每一處都被這樣的烏雲遮蔽了光明。
+§106 [Ø=云千峰]散著寒光的閃電在黑色的雲裡蠕動，似乎隨時可能劈下來，擊毀一切，包括這個世界。
+§107 正在遠處激戰的小神經和守望者都被這天象嚇呆了。
+§108 [Ø=云千峰]他們幾乎同時停手，散開兩邊，看向天幕。
+§109 [Ø=云千峰]守望者面帶恐懼，顫聲道：
+§110 “滅世！滅世來了！曾經的滅世洪水來了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§111 [Ø=云千峰]“薩弱，薩弱啊！你怎麽敢.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§112 [Ø=云千峰]小神經六個人看到這一幕，也是有點魂飛魄散[I1]。
+§113 [Ø=云千峰]因為那天空好像正在緩緩壓下來，越來越低。
+§114 [Ø=云千峰]她絲毫不懷疑，自己很快會被這天空壓扁。
+§115 [Ø=云千峰]南山上，雲千峰被這樣的天象驚醒，立即與羅琳娜、時悟等人聯系，詢問情況， [||] 然後全員取消休假，開啟最大馬力，準備以最大容量吸收可能會產生的靈魂意識，同時開始準備隨時月球流浪。
+§116 [Ø=云千峰]然而，如此可怖的天象，那剛剛來到這裡的小生命卻似乎一點都不害怕。
+§117 他甚至都沒有哭。
+§118 [Ø=云千峰]身上被一團純白的光包裹著，小生命竟然神奇的站了起來，不急不緩走向熊洞外。
+§119 [Ø=云千峰]一共走了七步，步步生青蓮。
+§120 [Ø=云千峰]七步後，與熊洞外， [||] 小生命右手指地，而後仰首，左手指天。
+§121 [Ø=云千峰]說來也驚奇，那被團團烏雲擠壓滿實的天空，竟然在那小小的手指一指之下， [||] 露出了星空，雖然很小，但終有一圓。
+§122 隨後那新生命朗聲道：
+§123 [Ø=云千峰]“天上天下，唯我獨尊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 123 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§123. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

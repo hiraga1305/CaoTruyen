@@ -1,0 +1,85 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0251|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §46):
+§1 251.第251章 答案
+§2 第251章 答案
+§3 李銳倒在了地上。
+§4 [Ø=云千峰]他的朱砂掌讓雲千峰很痛，的確是很神奇的透勁。
+§5 但雲千峰扭斷了他的脖子。
+§6 [Ø=云千峰]第三個人端著酒杯走上來，看著面帶笑容而死的李銳，歎了口氣道：
+§7 [Ø=云千峰]“老大，你這次的選擇是對的，人力無論如何開發， [||] 都太有限了，只靠人類自己，勝不了！你這次的選擇是對的！敬你！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 又是一句雲千峰聽不懂的話。
+§9 [Ø=云千峰]但雲千峰知道，自己想要知道答案，就要讓他們一個一個的躺在擂台上，直到最後一人。
+§10 [Ø=云千峰]隨著酒杯啐碎的聲響，又是一場快速的生死決鬥。
+§11 [Ø=云千峰]這第三人把一雙手掌練得比硬抓還硬，抓在祭台的石面上，都能劃出幾道痕跡，濺飛石粉。
+§12 [Ø=云千峰]他也是出手最狠辣的一個，招招奔著雲千峰下三路， [||] 但是奈何身材瘦小，在雲千峰的身高和臂展下，根本無法近身。
+§13 [Ø=云千峰]而且雲千峰的力氣太大了，也太過抗揍，只要躲開雙腿，他可以肆無忌憚的進攻。
+§14 “哢！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 [Ø=云千峰]一聲脆響，全屍。
+§16 [Ø=云千峰]這是雲千峰能想到的，最不痛苦的方法。
+§17 [Ø=云千峰]“老大，我是亨利，擅長心意把的橫式， [||] 變化雖少，但可借力打力，最是巧妙。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§18 [Ø=云千峰]太極拳，正是源自這一橫式。
+§19 [Ø=云千峰]“老大，我這人只是力大，掰手腕伱沒贏過我，這次看看我們誰更厲害”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§20 [Ø=云千峰]“老大，我擅長用刀，你也可以選擇武器”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 [Ø=云千峰]“老大，你的弱點是腿，我的強項是腿， [||] 控制距離對我沒有意義，抓住我的腿，是你唯一的機會.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 [Ø=云千峰]“老大，我的聲帶特殊，身上的共鳴腔異於常人， [||] 能夠發出極高分貝和頻率的聲音，靠近了我能讓你瞬間耳聾，除非你能堵住耳朵”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 [Ø=云千峰]“老大，我修柔術，體軟如棉，你的關節技對我沒有用.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 [Ø=云千峰]“老大，我的手掌是劇毒浸泡出來的，只要被我擦傷一點，就不可救藥.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 [Ø=云千峰]“老大，我少林七十二技的八步掌小成，可於三米外傷人”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§26 [Ø=云千峰]“老大，我的拿手好戲是飛花摘葉， [||] 天下萬物到了我手裡，都是暗器，比如這酒杯和裡面的酒水.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 “老大”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 [Ø=云千峰]一杯酒，一個人。
+§29 [Ø=云千峰]每一個人對雲千峰都是坦坦蕩蕩，每一個人倒下的時候都帶著笑意。
+§30 [Ø=云千峰]雲千峰全身已經被汗水濕透，但是他的眸子越來越冷，出手之時越來越果斷，絲毫沒有顧忌。
+§31 [Ø=云千峰]只有這樣，才能抵禦那如針扎心的笑容。
+§32 [Ø=云千峰]後面的人，招式也是愈加狠辣。
+§33 [Ø=云千峰]正如第三個人說的，他們都是把身體開發到極強的人類，但也僅僅如此。
+§34 [Ø=云千峰]人類的弱小，本就是造物主有意為之。
+§35 [Ø=云千峰]每念及此，雲千峰就在心裡莫名的想到帝嚳。
+§36 [Ø=云千峰]想知道他是如何憑借如此弱小的人類之軀，成為天上地下的千古一帝。
+§37 琳達是這裡最幸福的人。
+§38 [Ø=云千峰]她喝醉了，趴在地上睡得很沉，嘴裡還嘟囔著“一定要拿下”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]。
+§39 [Ø=云千峰]很快，這偌大的石室內，只剩下三個還能呼吸的人。
+§40 [Ø=云千峰]全身如水洗的雲千峰，遮著蓋頭的小神經，酩酊大罪的琳達。
+§41 [Ø=云千峰]雲千峰轉身，看著立在西王母雕像旁的小神經，沉聲問道：
+§42 [Ø=云千峰]“現在可以告訴我答案了嗎？是誰派你們來的，是不是帝嚳的算計？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 [Ø=云千峰]在雲千峰心裡，能布置這樣殘忍的局勢的人，只有帝嚳。
+§44 [Ø=云千峰]讓最好的夥伴來殺死同伴，彼此成為祭品，世界上恐怕沒有比這更殘忍的事情。
+§45 [Ø=云千峰]雲千峰發誓，如果這是帝嚳的算計，那麽他會不惜一切代價，破壞掉帝嚳在未來的所有算計。
+§46 [Ø=云千峰]小神經聽著雲千峰那壓抑顫抖的聲音，用很平靜的語調回答道：
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 46 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§46. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

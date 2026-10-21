@@ -1,0 +1,511 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 15,
+  "title": "Chương 15: Giáng Đầu?",
+  "total_paragraphs": 83,
+  "translated_paragraphs": 83,
+  "source_hash": "5f310ccf62c3164c8b1bb91ff01c70eed2b39c9ab641b6e87142d390fbc0f6ba",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0015p0001",
+      "index": 1,
+      "raw_zh": "第15章 降頭？",
+      "translated_vi": "Chương 15: Giáng Đầu?"
+    },
+    {
+      "para_id": "c0015p0002",
+      "index": 2,
+      "raw_zh": "兩女什麽都明白，也知道雲千峰是用了最保險的方式，但心裡有股邪火，不鬧騰一下，似乎這事就沒完。",
+      "translated_vi": "Hai cô nàng thực ra cái gì cũng hiểu, cũng biết Vân Thiên Phong đã dùng cách thức an toàn bảo đảm nhất, thế nhưng trong lòng vẫn nghẹn một cơn lửa giận, không làm ầm ĩ quậy phá một trận thì dường như chuyện này chẳng tài nào nguôi ngoai được."
+    },
+    {
+      "para_id": "c0015p0003",
+      "index": 3,
+      "raw_zh": "結果就是，三個人以後都是一人剩了一套衣服。",
+      "translated_vi": "Kết quả là, sau đó cả ba người ai nấy đều chỉ còn lại trơ trọi đúng một bộ quần áo lành lặn."
+    },
+    {
+      "para_id": "c0015p0004",
+      "index": 4,
+      "raw_zh": "雲千峰衣衫襤褸坐在山洞口，聽著山洞內水響連連，那是兩女在用毛巾汲水擦洗身體。",
+      "translated_vi": "Vân Thiên Phong áo quần rách rưới tả tơi ngồi chồm hổm nơi cửa hang, nghe tiếng nước bì bõm liên hồi vọng ra từ bên trong, đó là hai cô gái đang dùng khăn thấm nước nóng lau rửa cơ thể."
+    },
+    {
+      "para_id": "c0015p0005",
+      "index": 5,
+      "raw_zh": "他把玩著手裡的戒指和那個金煙袋鍋，心中有些不舍這東西以後要上交。",
+      "translated_vi": "Hắn xoay xoay nghịch chiếc nhẫn ngọc và cái tẩu thuốc bằng vàng ròng trong tay, trong lòng thoáng có chút tiếc rẻ vì những thứ này sau này đều phải nộp lại cho cảnh sát."
+    },
+    {
+      "para_id": "c0015p0006",
+      "index": 6,
+      "raw_zh": "“哎，也不知道那畜生害了多少人，才熔出這麽大一個純金的煙袋鍋來，這些東西都是罪孽啊，不能私藏，會有髒東西滴。”",
+      "translated_vi": "\"Haizz, cũng chẳng biết cái thằng súc sinh ấy đã hãm hại bao nhiêu mạng người thì mới đúc ra được cái nõ tẩu to tướng bằng vàng ròng thế này. Những thứ này đều là tội nghiệt cả, không thể lén giấu làm của riêng được, dễ dính phải thứ xui xẻo tà ma lắm nhen.\""
+    },
+    {
+      "para_id": "c0015p0007",
+      "index": 7,
+      "raw_zh": "如此寬慰了一下，心情好了很多。",
+      "translated_vi": "Tự an ủi bản thân một hồi như thế, tâm trạng hắn mới thấy khá khẩm hơn đôi chút."
+    },
+    {
+      "para_id": "c0015p0008",
+      "index": 8,
+      "raw_zh": "轉念又尋思，隻把戒指上交作證據就夠了吧？",
+      "translated_vi": "Nhưng chuyển mối nghĩ, hắn lại thầm tính toán: hay là chỉ nộp mỗi chiếc nhẫn làm vật chứng là đủ rồi nhỉ?"
+    },
+    {
+      "para_id": "c0015p0009",
+      "index": 9,
+      "raw_zh": "燒了幾次水，三個人總算是全都收拾利落，但是天色也已經擦黑。",
+      "translated_vi": "Đun nước sôi mấy lượt, cả ba người rốt cuộc cũng thu dọn tắm rửa sạch sẽ tươm tất, thế nhưng sắc trời bên ngoài cũng đã nhá nhem tối."
+    },
+    {
+      "para_id": "c0015p0010",
+      "index": 10,
+      "raw_zh": "一人吃了一盒牛肉罐頭和幾片維生素完成了晚餐。",
+      "translated_vi": "Mỗi người ăn một hộp thịt bò đóng hộp kèm mấy viên vitamin là xong bữa tối."
+    },
+    {
+      "para_id": "c0015p0011",
+      "index": 11,
+      "raw_zh": "薑柔甲和秦疏影一起把山洞內收拾了一下，鑽進鋪好的睡袋，不一會就沉沉睡去。",
+      "translated_vi": "Khương Nhu Giáp và Tần Sơ Ảnh cùng nhau dọn dẹp bên trong hang đá một chút, rồi chui vào trong túi ngủ đã trải sẵn, chẳng mấy chốc đã chìm vào giấc ngủ say sưa."
+    },
+    {
+      "para_id": "c0015p0012",
+      "index": 12,
+      "raw_zh": "雲千峰把篝火移到洞口處，這能起到一些保護作用，避免野獸在夜裡悄悄鑽進來。",
+      "translated_vi": "Vân Thiên Phong dời đống lửa trại ra sát ngay cửa hang, điều này có thể tạo ra một lớp bảo vệ, tránh cho dã thú trong đêm tối lén lút mò vào."
+    },
+    {
+      "para_id": "c0015p0013",
+      "index": 13,
+      "raw_zh": "然後把吃過的罐頭盒用繩子綁在一起，掛在洞口當間，這是第二層保險，有東西進入會發出聲響。",
+      "translated_vi": "Sau đó, hắn dùng dây thừng xâu những chiếc vỏ hộp đồ hộp đã ăn rỗng lại với nhau, treo lơ lửng ngay chính giữa lối vào cửa hang. Đây là tầng bảo hiểm thứ hai, hễ có bất cứ thứ gì chui vào là sẽ va chạm phát ra tiếng kêu leng keng cảnh báo."
+    },
+    {
+      "para_id": "c0015p0014",
+      "index": 14,
+      "raw_zh": "最後把弓矢，狗腿刀和長槍放在自己趁手的地方，也不鑽進睡袋，就那麽斜靠著背包，面對著洞口看著一圓天空上的星星發呆。",
+      "translated_vi": "Cuối cùng, hắn đặt cung tên, dao quắm Gurkha và ngọn trường thương vào những vị trí thuận tay nhất của mình, cũng chẳng buồn chui vào túi ngủ mà cứ thế ngồi tựa lưng vào chiếc ba lô dã ngoại, hướng mặt về phía cửa hang, ngẩn ngơ ngắm nhìn những vì sao lấp lánh trên vòm trời tròn xoe."
+    },
+    {
+      "para_id": "c0015p0015",
+      "index": 15,
+      "raw_zh": "他始終是這個脆弱隊伍的最後一道保險。",
+      "translated_vi": "Hắn trước sau vẫn là phòng tuyến bảo hiểm cuối cùng của đội ngũ mong manh yếu ớt này."
+    },
+    {
+      "para_id": "c0015p0016",
+      "index": 16,
+      "raw_zh": "篝火很近，暖融融的，讓他的眼皮越來越重，終力不從心的合攏起來。",
+      "translated_vi": "Đống lửa ở rất gần, hơi ấm phả ra sưởi ấm khiến hai mí mắt hắn mỗi lúc một nặng trĩu, cuối cùng không kìm nén nổi cơn mệt mỏi mà từ từ sụp xuống."
+    },
+    {
+      "para_id": "c0015p0017",
+      "index": 17,
+      "raw_zh": "“嘩啦！”",
+      "translated_vi": "\"Ào ào!\""
+    },
+    {
+      "para_id": "c0015p0018",
+      "index": 18,
+      "raw_zh": "也不知過了多久，洞外傳來一聲水響。",
+      "translated_vi": "Chẳng rõ đã qua bao lâu, bên ngoài hang bỗng vọng lại một tiếng nước khua động."
+    },
+    {
+      "para_id": "c0015p0019",
+      "index": 19,
+      "raw_zh": "那不是什麽東西跌落水中的聲音，而是有什麽在蹚水。",
+      "translated_vi": "Đó không phải tiếng đồ vật gì rơi tõm xuống nước, mà rõ ràng là âm thanh của một thứ gì đó đang lội bì bõm qua đầm nước."
+    },
+    {
+      "para_id": "c0015p0020",
+      "index": 20,
+      "raw_zh": "淺睡的雲千峰立馬睜開了眼睛，幾乎同時，長槍也已經握在掌心。",
+      "translated_vi": "Vân Thiên Phong vốn ngủ không sâu lập tức mở choàng mắt dậy, gần như cùng một lúc, ngọn trường thương đã nằm gọn trong lòng bàn tay hắn."
+    },
+    {
+      "para_id": "c0015p0021",
+      "index": 21,
+      "raw_zh": "那水聲越來越響，越來越近。",
+      "translated_vi": "Tiếng nước rẽ sóng mỗi lúc một lớn hơn, mỗi lúc một đến gần hơn."
+    },
+    {
+      "para_id": "c0015p0022",
+      "index": 22,
+      "raw_zh": "雲千峰急忙拎著長槍蹲起身來，側目望向聲音的來處。",
+      "translated_vi": "Vân Thiên Phong vội vàng xách trường thương ngồi thụp xuống, nghiêng đầu dán mắt nhìn về phía âm thanh phát ra."
+    },
+    {
+      "para_id": "c0015p0023",
+      "index": 23,
+      "raw_zh": "這是這片雨林內難得的晴天，雖然月色依舊被霧氣染得陰沉，但總可以依稀看到事物。",
+      "translated_vi": "Đây là một đêm trời quang hiếm hoi giữa cánh rừng nhiệt đới này, dẫu ánh trăng vẫn bị làn sương mù nhuốm màu u ám mờ mịt, nhưng nhìn chung vẫn có thể lờ mờ nhận ra vạn vật."
+    },
+    {
+      "para_id": "c0015p0024",
+      "index": 24,
+      "raw_zh": "那是一個團形的黑影，帶著一個碩大的腦袋，正慢悠悠的趟在溪水中，不時的對著空氣嗅一下，然後走幾步。",
+      "translated_vi": "Đó là một bóng đen tròn trịa bè bè to lớn, mang theo cái đầu đồ sộ bè ngang, đang chậm chạp lội qua dòng nước suối, chốc chốc lại nghếch mũi ngửi hít không khí, rồi mới lững thững bước tiếp vài bước."
+    },
+    {
+      "para_id": "c0015p0025",
+      "index": 25,
+      "raw_zh": "光線昏暗，雲千峰無法確定那是個什麽動物，感覺像是野豬亦或是棕熊。",
+      "translated_vi": "Ánh sáng mờ tối khiến Vân Thiên Phong không thể xác định chuẩn xác đó là con thú gì, cảm giác tựa như một con lợn rừng khổng lồ hoặc là một con gấu nâu."
+    },
+    {
+      "para_id": "c0015p0026",
+      "index": 26,
+      "raw_zh": "眼看著那一團龐大的身軀越來越近，雲千峰屏住呼吸，回身捂住身邊薑柔甲的嘴巴。",
+      "translated_vi": "Mắt thấy khối thân hình hộ pháp ấy mỗi lúc một áp sát lại gần, Vân Thiên Phong nín thở, xoay người bịt chặt miệng Khương Nhu Giáp đang nằm bên cạnh."
+    },
+    {
+      "para_id": "c0015p0027",
+      "index": 27,
+      "raw_zh": "那丫頭一下驚醒，下意識的要喊叫，但卻沒能發出聲來。",
+      "translated_vi": "Cô nàng giật mình tỉnh giấc, theo bản năng định hét toáng lên, nhưng chẳng thể phát ra được chút âm thanh nào."
+    },
+    {
+      "para_id": "c0015p0028",
+      "index": 28,
+      "raw_zh": "雲千峰急忙做了一個噤聲的動作，然後指了指身旁的弓矢。",
+      "translated_vi": "Vân Thiên Phong vội làm dấu tay suỵt khẽ bảo nàng im lặng, rồi chỉ ngón tay vào cây cung tên đặt bên cạnh."
+    },
+    {
+      "para_id": "c0015p0029",
+      "index": 29,
+      "raw_zh": "薑柔甲知道一定是發生了什麽危險，當下急忙拿起了碳纖維的複合弓，虛搭上了箭矢，跟著雲千峰挪到洞口，朝外面看去。",
+      "translated_vi": "Khương Nhu Giáp biết ngay là đã có mối nguy hiểm ập tới, lập tức vội vã nhặt cây cung trợ lực bằng sợi carbon lên, lắp hờ một mũi tên vào dây cung, rồi rón rén bám theo Vân Thiên Phong nhích lại gần cửa hang, hướng mắt nhìn ra ngoài."
+    },
+    {
+      "para_id": "c0015p0030",
+      "index": 30,
+      "raw_zh": "隨著那動物的靠近，現在已經可以看清楚那是一頭棕熊，看體型應該是剛成年。",
+      "translated_vi": "Cùng với sự tiến lại gần của con vật, lúc này đã có thể nhìn rõ mồn một đó là một con gấu nâu, nhìn kích thước cơ thể chắc hẳn là vừa mới trưởng thành."
+    },
+    {
+      "para_id": "c0015p0031",
+      "index": 31,
+      "raw_zh": "這體型在棕熊裡算小的，但對於人卻依舊是龐大而可怕的。",
+      "translated_vi": "Kích thước này trong loài gấu nâu tuy chỉ xếp vào hạng nhỏ, nhưng đối với con người thì nó vẫn là một khối thịt khổng lồ và cực kỳ đáng sợ."
+    },
+    {
+      "para_id": "c0015p0032",
+      "index": 32,
+      "raw_zh": "薑柔甲一看清楚棕熊的模樣，就緊張的使勁咽唾沫，手也有些發抖。",
+      "translated_vi": "Khương Nhu Giáp vừa nhìn rõ hình thù dữ tợn của con gấu nâu là đã căng thẳng đến mức nuốt nước bọt ừng ực, bàn tay cầm cung cũng run lên bần bật."
+    },
+    {
+      "para_id": "c0015p0033",
+      "index": 33,
+      "raw_zh": "雲千峰用手搭在薑柔甲的肩膀上，看著她的臉，手順勢往下輕輕滑動，不一會就到了女人腰。",
+      "translated_vi": "Vân Thiên Phong đặt bàn tay lên bờ vai của Khương Nhu Giáp, nhìn thẳng vào gương mặt nàng, rồi thuận thế trượt nhẹ bàn tay dần xuống phía dưới, chẳng mấy chốc đã dừng lại nơi vòng eo mềm mại của người đẹp."
+    },
+    {
+      "para_id": "c0015p0034",
+      "index": 34,
+      "raw_zh": "薑柔甲有點懵，心討這危機關頭，雲千峰怎麽變流氓了？",
+      "translated_vi": "Khương Nhu Giáp hơi ngẩn người ra, thầm nghĩ giữa thời khắc ngàn cân treo sợi tóc hiểm nguy thế này, sao tên Vân Thiên Phong này lại giở trò lưu manh thế cơ chứ?"
+    },
+    {
+      "para_id": "c0015p0035",
+      "index": 35,
+      "raw_zh": "正詫異，就見雲千峰開口無聲，看口型薑柔甲猜到，他說的是“現在不怕了吧？”",
+      "translated_vi": "Đang lúc ngạc nhiên khó hiểu, nàng liền thấy Vân Thiên Phong mấp máy môi không phát ra tiếng, nhìn khẩu hình miệng Khương Nhu Giáp đoán được hắn đang bảo: \"Bây giờ hết sợ rồi chứ?\""
+    },
+    {
+      "para_id": "c0015p0036",
+      "index": 36,
+      "raw_zh": "感情這貨用這種辦法轉移薑柔甲的注意力，平複她的恐懼，他不能說話，因為棕熊的耳朵非常靈敏。",
+      "translated_vi": "Hóa ra cái tên này dùng hạ sách này để đánh lạc hướng chú ý của Khương Nhu Giáp, xoa dịu nỗi sợ hãi trong lòng nàng. Hắn tuyệt đối không thể lên tiếng, bởi vì đôi tai của loài gấu nâu cực kỳ thính nhạy."
+    },
+    {
+      "para_id": "c0015p0037",
+      "index": 37,
+      "raw_zh": "隨後雲千峰又用無聲的口型告訴薑柔甲不要緊張，表示只要射到棕熊身體就可以，不求一擊必殺。",
+      "translated_vi": "Tiếp đó, Vân Thiên Phong lại dùng khẩu hình không tiếng dặn dò Khương Nhu Giáp đừng căng thẳng, ra hiệu chỉ cần bắn trúng vào thân con gấu nâu là được, không cần cưỡng cầu một phát mất mạng ngay."
+    },
+    {
+      "para_id": "c0015p0038",
+      "index": 38,
+      "raw_zh": "雲千峰有信心，只要先傷了那動物讓其流血，然後自己再用長槍借著易守難攻的石洞周旋，絕對能耗死它。",
+      "translated_vi": "Vân Thiên Phong hoàn toàn tự tin, chỉ cần bắn thương được con dã thú khiến nó chảy máu trước, sau đó bản thân hắn dùng ngọn trường thương dựa vào địa thế dễ thủ khó công của hang đá để quần nhau với nó, thì chắc chắn có thể mài chết được nó."
+    },
+    {
+      "para_id": "c0015p0039",
+      "index": 39,
+      "raw_zh": "那團黑影越來越近，薑柔甲在雲千峰的注意力轉移法下，真的暫時忘記了恐懼，手也不抖了，緩緩的拉開了弓弦。",
+      "translated_vi": "Khối bóng đen kia mỗi lúc một tiến lại gần hơn. Dưới phương pháp chuyển hướng chú ý kỳ quặc của Vân Thiên Phong, Khương Nhu Giáp thật sự đã tạm thời quên đi nỗi sợ hãi tột độ, tay cũng chẳng còn run nữa, từ từ kéo căng dây cung."
+    },
+    {
+      "para_id": "c0015p0040",
+      "index": 40,
+      "raw_zh": "然而，弓弦接近拉滿那一刻，那棕熊卻嗅了嗅鼻子，拐了個彎，身影到了倆人視線的死角。",
+      "translated_vi": "Thế nhưng, đúng khoảnh khắc cánh cung kéo gần như căng tròn, con gấu nâu kia lại khịt khịt mũi đánh hơi, rồi bất ngờ rẽ ngoặt sang một hướng khác, bóng dáng lọt thỏm vào góc khuất tầm nhìn của hai người."
+    },
+    {
+      "para_id": "c0015p0041",
+      "index": 41,
+      "raw_zh": "除非他們走出山洞，否則根本無法對棕熊進行射獵，但雲千峰絕不會這樣去冒險，那等於把後背暴露給嗜血的野獸。",
+      "translated_vi": "Trừ phi bọn họ bước chân ra khỏi hang đá, bằng không căn bản chẳng thể nào nhắm bắn được con gấu nâu. Thế nhưng Vân Thiên Phong tuyệt đối sẽ không mạo hiểm như vậy, làm thế chẳng khác nào phơi lưng cho loài dã thú khát máu cắn xé."
+    },
+    {
+      "para_id": "c0015p0042",
+      "index": 42,
+      "raw_zh": "雲千峰很清楚，棕熊是沒有這般智慧的，然後他突然想明白這頭棕熊是被什麽吸引來了。",
+      "translated_vi": "Vân Thiên Phong hiểu rất rõ gấu nâu tuyệt đối không thể có trí khôn cao đến mức đó, và rồi hắn đột nhiên vỡ lẽ ra con gấu nâu này rốt cuộc bị thứ gì thu hút tới đây."
+    },
+    {
+      "para_id": "c0015p0043",
+      "index": 43,
+      "raw_zh": "“我該把蒙繞的屍體扔的仍遠一點才是，這潮濕的雨林環境，屍體幾個小時就會開始腐爛，現在恐怕方圓二十公裡的很多食肉動物都能聞到蒙繞的臭味了吧。”",
+      "translated_vi": "\"Đáng lẽ mình phải vứt cái xác của Mông Nhiễu ra thật xa mới phải. Trong môi trường rừng nhiệt đới ẩm ướt thế này, thi thể chỉ qua vài tiếng đồng hồ là bắt đầu thối rữa, giờ đây e rằng rất nhiều loài thú ăn thịt trong phạm vi hai mươi cây số xung quanh đều đã ngửi thấy mùi tử khí tanh tưởi của gã rồi.\""
+    },
+    {
+      "para_id": "c0015p0044",
+      "index": 44,
+      "raw_zh": "心裡想著，但後悔也沒用。",
+      "translated_vi": "Trong lòng thầm nghĩ vậy, nhưng hối hận lúc này cũng đã muộn màng."
+    },
+    {
+      "para_id": "c0015p0045",
+      "index": 45,
+      "raw_zh": "棕熊拐向蒙繞的屍體之後，就再也沒有什麽動靜傳過來，雲千峰心想這還是個吃飯斯文的家夥。",
+      "translated_vi": "Sau khi con gấu nâu rẽ ngoặt về phía thi thể của Mông Nhiễu thì chẳng còn động tĩnh gì truyền lại nữa. Vân Thiên Phong thầm nhủ xem ra cái con vật này ăn uống cũng thuộc dạng lịch sự nhã nhặn phết."
+    },
+    {
+      "para_id": "c0015p0046",
+      "index": 46,
+      "raw_zh": "雲千峰不敢大意，隻好撐著眼皮在洞口盯著，避免被那大家夥夜襲。",
+      "translated_vi": "Vân Thiên Phong chẳng dám lơ là mất cảnh giác, đành phải căng mắt gượng thức ngồi canh chừng nơi cửa hang, tránh cho kẻ khổng lồ kia bất thình lình tập kích trong đêm tối."
+    },
+    {
+      "para_id": "c0015p0047",
+      "index": 47,
+      "raw_zh": "薑柔甲不能也不敢再去睡，就把睡袋墊在屁股下，和雲千峰挨著，一起盯著山洞外的動靜。",
+      "translated_vi": "Khương Nhu Giáp không thể và cũng chẳng dám quay lại ngủ tiếp, bèn lót chiếc túi ngủ dưới mông, ngồi nép sát bên cạnh Vân Thiên Phong, cùng nhau căng mắt theo dõi nhất cử nhất động bên ngoài hang."
+    },
+    {
+      "para_id": "c0015p0048",
+      "index": 48,
+      "raw_zh": "開始這丫頭還能堅持，但是過了一個多小時後，她就靠在雲千峰肩膀上睡著了，只剩下雲千峰依舊在堅持。",
+      "translated_vi": "Ban đầu cô nàng này còn ráng chống đỡ được, nhưng hơn một tiếng đồng hồ sau, nàng đã gục đầu lên bờ vai Vân Thiên Phong ngủ thiếp đi từ lúc nào, chỉ còn trơ trọi một mình Vân Thiên Phong vẫn kiên trì bám trụ."
+    },
+    {
+      "para_id": "c0015p0049",
+      "index": 49,
+      "raw_zh": "終於，天破曉。",
+      "translated_vi": "Cuối cùng, trời cũng hé rạng đông."
+    },
+    {
+      "para_id": "c0015p0050",
+      "index": 50,
+      "raw_zh": "雲千峰長舒了一口氣，拍了拍薑柔甲的臉把她喚醒，低聲道：",
+      "translated_vi": "Vân Thiên Phong thở phào nhẹ nhõm một hơi dài, vỗ nhẹ vào má Khương Nhu Giáp đánh thức nàng dậy, trầm giọng bảo:"
+    },
+    {
+      "para_id": "c0015p0051",
+      "index": 51,
+      "raw_zh": "“用弓箭掩護我，我出去看看情況。”",
+      "translated_vi": "\"Dùng cung tên yểm hộ cho tôi, tôi ra ngoài xem tình hình thế nào.\""
+    },
+    {
+      "para_id": "c0015p0052",
+      "index": 52,
+      "raw_zh": "薑柔甲正心裡自責自己怎麽就睡著了，看懂了雲千峰的口型後，急忙點頭拎起弓矢。",
+      "translated_vi": "Khương Nhu Giáp trong lòng đang tự trách bản thân sao lại ngủ quên mất, vừa hiểu khẩu hình của Vân Thiên Phong liền vội vàng gật đầu cầm chắc cung tên."
+    },
+    {
+      "para_id": "c0015p0053",
+      "index": 53,
+      "raw_zh": "雲千峰深呼吸一口氣，拎起長槍，彎腰輕腳走出石洞，賊也似的小心，一點點挪動位置，直到他看到了那頭棕熊。",
+      "translated_vi": "Vân Thiên Phong hít một hơi thật sâu, xách ngọn trường thương, khom lưng nhẹ bước rón rén đi ra ngoài hang đá, cẩn trọng như một tên trộm, nhích từng bước một thay đổi góc nhìn, mãi cho tới khi hắn nhìn thấy con gấu nâu kia."
+    },
+    {
+      "para_id": "c0015p0054",
+      "index": 54,
+      "raw_zh": "那個巨大的家夥還在蒙繞的屍體旁邊，可以看到那屍體肚子已經豁開，腸子內髒絡成一團，吊在那。",
+      "translated_vi": "Con quái vật đồ sộ kia vẫn đang nằm cạnh thi thể Mông Nhiễu. Có thể thấy rõ bụng của cái xác đã bị rạch toạc ra, ruột gan lòng phèo bện thành một đống bầy hầy, lòng thòng treo lủng lẳng ở đó."
+    },
+    {
+      "para_id": "c0015p0055",
+      "index": 55,
+      "raw_zh": "看到棕熊竟然蹲守一宿，知道躲不過去，雲千峰也是怒了，當下也不噤聲，咬牙道：",
+      "translated_vi": "Thấy con gấu nâu thế mà lại canh chừng suốt cả một đêm, biết rõ không tài nào tránh né được nữa, Vân Thiên Phong cũng bốc hỏa, lúc này chẳng buồn giữ im lặng nữa mà nghiến răng bảo:"
+    },
+    {
+      "para_id": "c0015p0056",
+      "index": 56,
+      "raw_zh": "“射它！和它拚了！”",
+      "translated_vi": "\"Bắn nó! Liều mạng với nó!\""
+    },
+    {
+      "para_id": "c0015p0057",
+      "index": 57,
+      "raw_zh": "薑柔甲這時候早忘了思考，雲千峰一下令，箭矢“嗖”的便激射出去。",
+      "translated_vi": "Khương Nhu Giáp lúc này đầu óc chẳng kịp suy nghĩ gì nữa, Vân Thiên Phong vừa phát lệnh là mũi tên đã \"vút\" một tiếng xé gió lao thẳng đi."
+    },
+    {
+      "para_id": "c0015p0058",
+      "index": 58,
+      "raw_zh": "別說，還挺準，一下就慣進了棕熊的側面腹部。",
+      "translated_vi": "Đừng nói, tài bắn của nàng cũng chuẩn xác ra phết, mũi tên cắm phập một phát xuyên sâu vào mạn sườn bụng con gấu nâu."
+    },
+    {
+      "para_id": "c0015p0059",
+      "index": 59,
+      "raw_zh": "然後倆人都愣住了。",
+      "translated_vi": "Thế nhưng ngay sau đó, cả hai người đều ngây người như phỗng."
+    },
+    {
+      "para_id": "c0015p0060",
+      "index": 60,
+      "raw_zh": "“雲千峰，那棕熊沒反應。”",
+      "translated_vi": "\"Vân Thiên Phong, con gấu nâu kia không có phản ứng gì cả.\""
+    },
+    {
+      "para_id": "c0015p0061",
+      "index": 61,
+      "raw_zh": "雲千峰點了點頭，道：",
+      "translated_vi": "Vân Thiên Phong gật gật đầu, đáp:"
+    },
+    {
+      "para_id": "c0015p0062",
+      "index": 62,
+      "raw_zh": "“我看見了。”",
+      "translated_vi": "\"Tôi thấy rồi.\""
+    },
+    {
+      "para_id": "c0015p0063",
+      "index": 63,
+      "raw_zh": "秦疏影也被雲千峰剛才的呼和吵醒，睡眼朦朧的爬到洞口，問了句：",
+      "translated_vi": "Tần Sơ Ảnh cũng bị tiếng hô hào vừa rồi của Vân Thiên Phong đánh thức, mắt nhắm mắt mở bò ra tới cửa hang, cất tiếng hỏi:"
+    },
+    {
+      "para_id": "c0015p0064",
+      "index": 64,
+      "raw_zh": "“看見什麽.熊！”",
+      "translated_vi": "\"Nhìn thấy cái gì... Gấu kìa!\""
+    },
+    {
+      "para_id": "c0015p0065",
+      "index": 65,
+      "raw_zh": "當下睡意全無，驚得差點蹦起來。",
+      "translated_vi": "Cơn buồn ngủ lập tức bay biến sạch sành sanh, cô giật bắn mình suýt chút nữa nhảy dựng cẫng lên."
+    },
+    {
+      "para_id": "c0015p0066",
+      "index": 66,
+      "raw_zh": "雲千峰示意秦疏影別怕，道：",
+      "translated_vi": "Vân Thiên Phong ra hiệu bảo Tần Sơ Ảnh đừng sợ, nói:"
+    },
+    {
+      "para_id": "c0015p0067",
+      "index": 67,
+      "raw_zh": "“應該已經死了，別怕，我先去看看。”",
+      "translated_vi": "\"Hình như đã chết ngắc rồi, đừng sợ, để tôi qua đó kiểm tra trước xem sao.\""
+    },
+    {
+      "para_id": "c0015p0068",
+      "index": 68,
+      "raw_zh": "說完，拎著長槍來到棕熊身邊，一眼就看出這大家夥早就死透了，身上都開始落了不少的蒼蠅。",
+      "translated_vi": "Dứt lời, hắn xách trường thương tiến lại gần xác con gấu nâu, liếc mắt một cái là nhận ra ngay kẻ khổng lồ này đã chết cứng đờ từ lâu, trên mình bầy ruồi nhặng đã bắt đầu bâu kín đầy rẫy."
+    },
+    {
+      "para_id": "c0015p0069",
+      "index": 69,
+      "raw_zh": "“你們過來吧，沒事了，這家夥死了。”",
+      "translated_vi": "\"Hai người qua đây đi, không sao rồi, con vật này chết queo rồi.\""
+    },
+    {
+      "para_id": "c0015p0070",
+      "index": 70,
+      "raw_zh": "薑柔甲和秦疏影急忙應聲跑過來，躲在雲千峰身側瞧著，似乎這樣比較安全一點。",
+      "translated_vi": "Khương Nhu Giáp và Tần Sơ Ảnh vội vã chạy ùa lại, nép sát vào hai bên sườn Vân Thiên Phong ngó nhìn, dường như làm thế này mới có cảm giác an toàn hơn đôi chút."
+    },
+    {
+      "para_id": "c0015p0071",
+      "index": 71,
+      "raw_zh": "“她射死的？”",
+      "translated_vi": "\"Cô ta bắn chết à?\""
+    },
+    {
+      "para_id": "c0015p0072",
+      "index": 72,
+      "raw_zh": "秦疏影疑惑的問雲千峰。",
+      "translated_vi": "Tần Sơ Ảnh thắc mắc hỏi Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0015p0073",
+      "index": 73,
+      "raw_zh": "自從她們倆冷戰後，倆人都以她稱呼對方，從不提名字。",
+      "translated_vi": "Kể từ sau khi bắt đầu chiến tranh lạnh, cả hai cô nàng đều gọi đối phương là \"cô ta\", tuyệt đối không bao giờ thèm nhắc tới tên."
+    },
+    {
+      "para_id": "c0015p0074",
+      "index": 74,
+      "raw_zh": "雲千峰搖了搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu, đáp:"
+    },
+    {
+      "para_id": "c0015p0075",
+      "index": 75,
+      "raw_zh": "“不是，在射箭之前棕熊就已經死了，你看那箭矢傷口一點血也沒有流出來。”",
+      "translated_vi": "\"Không phải, trước khi bắn tên thì con gấu nâu này đã chết ngắc rồi. Cô nhìn vết thương do mũi tên cắm vào kìa, không hề có lấy một giọt máu nào ứa ra cả.\""
+    },
+    {
+      "para_id": "c0015p0076",
+      "index": 76,
+      "raw_zh": "說著，他蹲下身，仔細檢查棕熊的全身，但卻沒有發現一絲一毫的傷口，直到他搬動黑熊的腦袋，看到了黑熊的正臉後，頓時驚得倒吸一口氣。",
+      "translated_vi": "Nói rồi, hắn ngồi xổm xuống, cẩn thận lật tìm kiểm tra khắp toàn thân con gấu, nhưng lại chẳng phát hiện ra bất kỳ vết thương chí mạng nào. Mãi cho tới khi hắn xoay đầu con gấu lại, nhìn thấy rõ khuôn mặt chính diện của nó, hắn bỗng kinh hãi đến mức lạnh toát cả sống lưng."
+    },
+    {
+      "para_id": "c0015p0077",
+      "index": 77,
+      "raw_zh": "“七竅流血！”",
+      "translated_vi": "\"Thất khiếu chảy máu!\""
+    },
+    {
+      "para_id": "c0015p0078",
+      "index": 78,
+      "raw_zh": "棕熊的死亡太過詭異，全身沒有傷痕，但卻七孔流血而死。",
+      "translated_vi": "Cái chết của con gấu nâu quá đỗi quỷ dị rợn người: khắp người không có một vết thương, thế nhưng lại chảy máu đầm đìa từ cả bảy lỗ trên mặt mà chết."
+    },
+    {
+      "para_id": "c0015p0079",
+      "index": 79,
+      "raw_zh": "三個人腦海裡幾乎同時閃現了幾個可能。",
+      "translated_vi": "Trong đầu cả ba người gần như cùng lúc lóe lên mấy khả năng:"
+    },
+    {
+      "para_id": "c0015p0080",
+      "index": 80,
+      "raw_zh": "古佔人？",
+      "translated_vi": "Người Chiêm cổ?"
+    },
+    {
+      "para_id": "c0015p0081",
+      "index": 81,
+      "raw_zh": "降頭？",
+      "translated_vi": "Thuật giáng đầu?"
+    },
+    {
+      "para_id": "c0015p0082",
+      "index": 82,
+      "raw_zh": "詛咒？",
+      "translated_vi": "Lời nguyền rủa?"
+    },
+    {
+      "para_id": "c0015p0083",
+      "index": 83,
+      "raw_zh": "蒙繞化作了厲鬼？",
+      "translated_vi": "Hay Mông Nhiễu đã hóa thành lệ quỷ trở về báo thù?"
+    }
+  ]
+}

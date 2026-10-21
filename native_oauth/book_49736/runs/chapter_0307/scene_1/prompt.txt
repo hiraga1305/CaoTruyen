@@ -1,0 +1,116 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0307|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §77):
+§1 307.第307章 蚩尤的陷阱
+§2 第307章 蚩尤的陷阱
+§3 [Ø=云千峰]雲千峰看著天，和個二百五似的，旁邊那個也一樣傻呵呵的，全沒看到心肺。
+§4 [Ø=云千峰]“你設計的這個地方有點意思，我們只是忘記了“我是誰”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]， [||] 忘記了與自己有關的事情，但不會失去邏輯思考和知識，所以你為什麽要把出去的方法與自己是誰關聯？”
+§5 [Ø=云千峰]這是簡單的推導，既然那狗頭人忘了出去的方法，那麽出去的方法一定與狗頭人是誰有關系。
+§6 狗頭人沉吟道：
+§7 “肯定是我大意了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 [Ø=云千峰]雲千峰“嘿嘿”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]一笑，幾乎同時，那狗頭人就覺得腦袋一陣轟鳴， [||] 頓時恍惚， [||] 緊接著第二下， [||] 第三下轟鳴。
+§9 [Ø=云千峰]可憐！直到第三下的時候，那狗頭人才看到雲千峰保持著笑眯眯的表情，手裡拿著一塊巴掌大的帶尖石頭，正在猛然砸向自己的腦袋。
+§10 [Ø=云千峰]狗頭人滿臉的不解和憤怒，祂想反抗，但是卻已經徹底恍惚， [||] 身體根本不聽使喚，祂只在彌留之際，詫異的問道：“為什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=云千峰]雲千峰依舊笑得燦爛，用溫和的語氣說道：
+§12 [Ø=云千峰]“嗯，因為你把出去這裡的方法關聯了你自己是誰。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 [Ø=云千峰]狗頭人的雙目一瞬間的疑惑，轉而突然閃現了明悟的光，祂喃喃道：
+§14 [Ø=云千峰]“對啊，是這樣， [||] 可惜我沒想到，我該先動手的，你很厲害”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 [Ø=云千峰]迎接狗頭人的，是猛然砸下的石頭，以及狗頭人戛然而止的聲音。
+§16 很簡單的道理。
+§17 [Ø=云千峰]狗頭人設計這裡屏蔽人的記憶，同時又把出去的方法關聯了“自己是誰”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]的問題，那麽就證明狗頭人從沒準備自己進來這裡，而是用來害別人的。
+§18 [Ø=云千峰]如此看來，狗頭人不應該出現在這裡，那麽雲千峰就是那個應該出現在這裡的人，也就是狗頭人要害的人。
+§19 所以雲千峰笑眯眯的動手了。
+§20 [Ø=云千峰]簡單邏輯，清晰明了，沒什麽值得猶豫的。
+§21 [Ø=云千峰]雲千峰踢了那狗頭人幾腳，又翻開了眼皮，看到狗頭人的瞳孔徹底擴散了， [||] 這才扔掉石頭，就挨著躺在地上的狗頭人身邊，靠著大樹坐下去，看著天發呆。
+§22 [Ø=云千峰]看不出他在想什麽，或者其實就是什麽都沒想。
+§23 [Ø=云千峰]直到他腳邊的狗頭人緩緩融化，化成黑色粘稠的液體，與同樣黑色的大地融為一體，消失不見。
+§24 [Ø=云千峰]“哦，我懂了，剛才的女人化作清氣上升，是魂，她追求完美，這是喜好性格的問題， [||] 那麽她應該是三魂之一的幽精；這狗頭人化為泥土，還說祂勸過幽精很多次，那麽祂應該是第七魄；伏屍，主意識。這裡不是真實之地，是虛幻想象之地。
+§25 [Ø=云千峰]那我是什麽？是魂還是魄？是了，我一定是第二魄屍狗，只有我這負責看家護院的魄力，才能在宿主失去意識的時候保護他。
+§26 [Ø=云千峰]我的宿主是個狡猾的家夥，隻把我放了出來，其他的怕是都藏起來了，嘿，好家夥。哦， [||] 不對，伏屍也在，和我在一起，否則我怎麽會有講道理的意識？伏屍狗，嘿，完美的組合。”
+§27 [Ø=云千峰]正想著，頭頂樹冠上響起一個聲音：
+§28 “你是誰？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 [Ø=云千峰]雲千峰抬頭看向樹冠，依舊是剛才那個頭帶彎月的女人。
+§30 [Ø=云千峰]“我不知道我是誰，你知道嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=云千峰]那女人搖了搖頭，坐在樹杈上晃蕩著腳丫。
+§32 “我也不知道我是誰。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 [Ø=云千峰]雲千峰招了招手，道：
+§34 “下來坐坐？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 [Ø=云千峰]那女人點了點頭，說了一個“好”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]字，話音未落， [||] 人已經坐在雲千峰身邊，就像不知道她怎麽來的，雲千峰也不知道她是怎麽坐在自己身邊的。
+§36 於是心裡嘀咕：
+§37 [Ø=云千峰]“這個是打不死的，要以德服人。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 [Ø=云千峰]“我雖然不太清楚我是誰，但我或許知道你是誰。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 那女人喜道：
+§40 “我是誰？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 [Ø=云千峰]雲千峰沉吟了一下，道：
+§42 [Ø=云千峰]“你應該叫爽霊，是三魂之一，能讓你所在的生命感悟天地， [||] 與天地溝通，獲得智慧，感知同理。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 [Ø=云千峰]速度這麽快的，只能是爽霊。
+§44 [Ø=云千峰]那女人沉思片刻，道：
+§45 [Ø=云千峰]“你說的或許是對的，我確實對這個世界有著很深的感悟。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§46 [Ø=云千峰]雲千峰看了看旁邊的石頭，沉思著， [||] 終究沒有拿起來，心裡沒什麽把握，於是道：
+§47 [Ø=云千峰]“說說你的感悟，讓我也感悟一下。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§48 [Ø=云千峰]對方的伏屍已經被自己砸到塵歸塵土歸土，那麽對方的三魂七魄已經是一盤散沙，雲千峰覺得自己可以穩一些。
+§49 [Ø=云千峰]那女人看著眼前美麗的草地，野花和蝴蝶，聲音悲天憫人，幽幽道：
+§50 [Ø=云千峰]“你看這種生命，它們的存在多麽可怕，它們每一分每一秒都在給這個宇宙增加無序，它們是這個宇宙的“病”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]， [||] 最終一定會導致這個宇宙死亡，每當想到宇宙因為熱寂而死亡，我都會陷入無盡的痛苦之中，我必須為這個美麗的宇宙做些什麽，必須。”
+§51 [Ø=云千峰]雲千峰點了點頭，道：
+§52 “生命不都是如此嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§53 [Ø=云千峰]那女人沉吟，道：
+§54 [Ø=云千峰]“不，我不一樣，雖然我不記得我是誰， [||] 但我記得我不會讓這個宇宙熵增，我們這種生命，才能讓宇宙建康的活著，壽終正寢。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§55 [Ø=云千峰]雲千峰再次點了點頭，道：
+§56 “所以你要消滅除了你們以外的所有生命？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§57 那女人思索道：
+§58 [Ø=云千峰]“應該是消滅所有會讓宇宙熵增的生命，這很公平，就像人生病了需要吃藥一樣，我們希望自己成為這個宇宙的藥。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§59 [Ø=云千峰]雲千峰輕松自然，隨口笑道：
+§60 [Ø=云千峰]“你說，是宇宙容納著我，還是我容納著宇宙？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§61 那女人笑道：
+§62 [Ø=云千峰]“當然是宇宙容納我們，我們是如此的渺小， [||] 但那些卑劣的生命不知感恩，還要傷害這個宇宙，它們是不是很該死？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§63 [Ø=云千峰]雲千峰點了點頭，道：
+§64 [Ø=云千峰]“如果你說的是真的，它們當然該死。但是， [||] 前提要搞清楚，是宇宙容納了我們，還是我們容納了宇宙。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§65 那女人不解道：
+§66 [Ø=云千峰]“這本就不該是個問題，而是可以看見的真理，我們被宇宙包容著。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§67 [Ø=云千峰]雲千峰搖頭，很一本正經的說道：
+§68 [Ø=云千峰]“那時你視角的問題，你把所有的問題都歸咎與外，眼睛也永遠只看著一個方向，所以會想不開。如果你向自身之內看， [||] 就會得出一個新的結論，就比如我，在我的視線裡，這張皮內才是宇宙之外，我的皮膚包容著整個宇宙。
+§69 [Ø=云千峰]所以，你為了你主觀上的那個宇宙， [||] 殺死了無數的宇宙，這種情況，我沒辦法認為你是對的。
+§70 [Ø=云千峰]你有沒有想過，當你眼中這些病態的生命消失後，你們這種生命是否能夠包容無數個宇宙？如果不能，這個你眼中主觀的宇宙還能存在嗎？”
+§71 那女人臉上充滿了掙扎和痛苦。
+§72 [Ø=云千峰]越聰明的人，越能明白這不是心論，而是視角上的客觀事實。
+§73 [Ø=云千峰]每殺死一個生命，只是別人的宇宙裡缺少了一個生命，但對於生命本身，是一個宇宙的崩塌。
+§74 [Ø=云千峰]良久，她蒙人抬頭，沉聲而悲痛道：
+§75 [Ø=云千峰]“可是，可是我不能眼睜睜看著我眼中的宇宙熱寂毀滅，哪怕這是自私的，我也要保護祂！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§76 雲千峰指著一棵野花。
+§77 [Ø=云千峰]那野花自一塊石頭下面鑽出來，拐了一個彎，反而開出了這附近最大的一朵花，一隻美麗的蝴蝶在花朵上休憩。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 77 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§77. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

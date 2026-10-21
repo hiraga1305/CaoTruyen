@@ -1,0 +1,385 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 13,
+  "title": "Chương 13: Đột Biến",
+  "total_paragraphs": 62,
+  "translated_paragraphs": 62,
+  "source_hash": "ce9b78c0bcd75269c6698e8a08ca54a949786ac3573ad9b571063a7e674984c7",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0013p0001",
+      "index": 1,
+      "raw_zh": "第13章 突變",
+      "translated_vi": "Chương 13: Đột Biến"
+    },
+    {
+      "para_id": "c0013p0002",
+      "index": 2,
+      "raw_zh": "第二天清晨，幾個人早早起床，隨意吃了些罐頭，就開拔出發。",
+      "translated_vi": "Sáng sớm hôm sau, mấy người dậy thật sớm, ăn qua loa chút đồ hộp rồi bắt đầu thu dọn hành lý lên đường."
+    },
+    {
+      "para_id": "c0013p0003",
+      "index": 3,
+      "raw_zh": "三個人，三個米長的背包，裡面裝的都是精簡後的必要物品。",
+      "translated_vi": "Ba người, ba chiếc ba lô leo núi dài một mét, bên trong đều chứa những vật dụng thiết yếu đã được tinh giản tối đa."
+    },
+    {
+      "para_id": "c0013p0004",
+      "index": 4,
+      "raw_zh": "爬過前面塌方的石堆，沿著野路順道而行，地勢忽高忽低，隨處可見不知什麽動物的糞便，但是看體積和裡面卷著的絨毛，可以確定絕對是個體型不小的食肉動物。",
+      "translated_vi": "Leo qua đống đá sạt lở phía trước, họ men theo con đường mòn hoang vu mà tiến bước. Địa thế lúc trồi lúc sụt, khắp nơi có thể bắt gặp phân của loài động vật nào đó không rõ tên, nhưng nhìn kích thước cùng những sợi lông tơ cuộn tròn bên trong, có thể khẳng định chắc chắn đó là một loài dã thú ăn thịt có thể hình không hề nhỏ."
+    },
+    {
+      "para_id": "c0013p0005",
+      "index": 5,
+      "raw_zh": "蒙繞一路走得很小心，稍有動靜就會停下腳步，仔細觀察一會再繼續出發。",
+      "translated_vi": "Mông Nhiễu dọc đường đi vô cùng cẩn trọng, hễ nghe thấy chút động tĩnh là lập tức dừng bước, cẩn thận quan sát hồi lâu rồi mới tiếp tục xuất phát."
+    },
+    {
+      "para_id": "c0013p0006",
+      "index": 6,
+      "raw_zh": "隨著深入，兩側的植被愈發茂密濃鬱，根本看不到能落腳的地方，頭頂上的天空也完全消失，被兩側斜壓的植被遮蔽。",
+      "translated_vi": "Càng đi sâu vào trong, thảm thực vật hai bên càng thêm rậm rạp um tùm, căn bản chẳng thấy nổi một chỗ để đặt chân, bầu trời trên đỉnh đầu cũng hoàn toàn biến mất, bị tầng tầng cành lá hai bên nghiêng ngả đan xen che khuất kín mít."
+    },
+    {
+      "para_id": "c0013p0007",
+      "index": 7,
+      "raw_zh": "雲千峰不由得慶幸這條野路的存在，雖然這野路也並不好走，窄小不說，有的地方陡峭，必須四肢並用才能爬上去。",
+      "translated_vi": "Vân Thiên Phong không khỏi thầm cảm thấy may mắn vì sự hiện diện của con đường mòn này, dẫu cho con đường mòn này đi lại cũng chẳng hề dễ dàng gì, không chỉ chật hẹp hiểm trở mà có những đoạn dốc đứng buộc phải dùng cả bốn chi mới bò lên được."
+    },
+    {
+      "para_id": "c0013p0008",
+      "index": 8,
+      "raw_zh": "薑柔甲嚷嚷著自己總算明白什麽叫爬山了。",
+      "translated_vi": "Khương Nhu Giáp vừa thở hồng hộc vừa than thở rằng cuối cùng mình cũng hiểu thế nào mới thực sự gọi là \"leo\" núi."
+    },
+    {
+      "para_id": "c0013p0009",
+      "index": 9,
+      "raw_zh": "這樣折騰了一個上午，就在他們以為這樣深綠的幽閉沒有盡頭時，眼前一晃豁然開朗，蒙繞終於把他們領到了被當地人稱為“石龍”的闊谷。",
+      "translated_vi": "Cứ lăn lộn trầy trật như thế suốt cả một buổi sáng, ngay vào lúc bọn họ ngỡ như chốn u minh xanh ngắt thăm thẳm này sẽ chẳng bao giờ có điểm dừng, thì trước mắt bỗng chốc sáng bừng khoáng đạt, Mông Nhiễu rốt cuộc đã dẫn họ đặt chân tới thung lũng rộng lớn mà người dân bản địa gọi là \"Thạch Long\"."
+    },
+    {
+      "para_id": "c0013p0010",
+      "index": 10,
+      "raw_zh": "這條闊谷地勢其實很高，只是被兩側高峰夾著形成了高海拔谷底輪廓。",
+      "translated_vi": "Địa thế của thung lũng rộng lớn này kỳ thực rất cao, chỉ là do hai đỉnh núi cao sừng sững hai bên kẹp chặt lấy tạo thành đường viền đáy lũng ở độ cao lớn."
+    },
+    {
+      "para_id": "c0013p0011",
+      "index": 11,
+      "raw_zh": "石龍正如其名，裡面堆滿了大大小小的石塊，最大的恐怕有一間房子那麽大，最小的就如建材的碎石，在陽光下反射著各種詭異的色彩。",
+      "translated_vi": "Thạch Long đúng như tên gọi của nó, bên trong chất đầy những khối đá tảng lớn nhỏ muôn hình vạn trạng. Khối lớn nhất e rằng to bằng cả một gian nhà, khối nhỏ nhất thì tựa như đá dăm rải đường trong xây dựng, phản chiếu đủ thứ màu sắc quỷ dị dưới ánh mặt trời rọi xuống."
+    },
+    {
+      "para_id": "c0013p0012",
+      "index": 12,
+      "raw_zh": "這些石頭上面都有著風蝕雨滴的隧孔，形狀各異，這證明這裡絕沒有山洪侵擾，否則這些石頭會變成鵝卵石。",
+      "translated_vi": "Trên bề mặt những tảng đá này đều chi chít những lỗ hổng hang hốc do gió xói mưa mòn, hình thù kỳ dị, điều này chứng minh nơi đây tuyệt đối không hề có lũ quét miền núi tràn qua, bằng không những tảng đá này đã sớm bị mài nhẵn thín thành đá cuội từ lâu."
+    },
+    {
+      "para_id": "c0013p0013",
+      "index": 13,
+      "raw_zh": "石龍很寬，入目看去，最寬的地方怕不是有超過百米，而窄的地方也就七八米寬，彎彎繞繞，邊沿與兩側茂密墨綠的植被涇渭分明，倒是像條斑斕的五彩巨蟒。",
+      "translated_vi": "Thạch Long vô cùng rộng lớn, phóng tầm mắt nhìn ra xa, chỗ rộng nhất e rằng vượt quá cả trăm mét, còn chỗ hẹp nhất cũng ngót nghét bảy tám mét, uốn lượn quanh co, ranh giới giữa lòng lũng đá và thảm thực vật xanh rì rậm rạp hai bên phân định rõ ràng như nước sông với nước giếng, trông hệt như một con cự mãng ngũ sắc rực rỡ vắt mình giữa núi rừng."
+    },
+    {
+      "para_id": "c0013p0014",
+      "index": 14,
+      "raw_zh": "雲千峰三人頭次見到這般景象，都感慨大自然的鬼斧神工。",
+      "translated_vi": "Ba người Vân Thiên Phong lần đầu tiên nhìn thấy cảnh tượng kỳ vĩ nhường này, ai nấy đều không khỏi cảm thán trước bàn tay quỷ thần của mẹ thiên nhiên."
+    },
+    {
+      "para_id": "c0013p0015",
+      "index": 15,
+      "raw_zh": "一走進石龍擴谷的范圍，秦疏影臉上就露出一絲迷醉，半閉著眼睛輕輕嗅著。",
+      "translated_vi": "Vừa bước chân vào phạm vi thung lũng Thạch Long, trên gương mặt Tần Sơ Ảnh liền lộ ra một thoáng mê mẩn say đắm, cô khép hờ mắt, khẽ hít hà từng hơi nhẹ nhàng."
+    },
+    {
+      "para_id": "c0013p0016",
+      "index": 16,
+      "raw_zh": "薑柔甲隨後也是這般動作，對著雲千峰道：",
+      "translated_vi": "Khương Nhu Giáp ngay sau đó cũng làm động tác y hệt, quay sang bảo Vân Thiên Phong:"
+    },
+    {
+      "para_id": "c0013p0017",
+      "index": 17,
+      "raw_zh": "“哪飄來的香味，好美的味道。”",
+      "translated_vi": "\"Hương thơm từ đâu thoảng lại thế này, mùi thơm thanh tao quá đỗi.\""
+    },
+    {
+      "para_id": "c0013p0018",
+      "index": 18,
+      "raw_zh": "誠如其所言，這是一股極為醇香的氣味，仿佛置身與百花叢中。",
+      "translated_vi": "Đúng như nàng nói, đó là một mùi hương vô cùng nồng nàn thanh thuần, tựa như đang lạc bước giữa cả một rừng hoa ngát hương."
+    },
+    {
+      "para_id": "c0013p0019",
+      "index": 19,
+      "raw_zh": "雲千峰也不知這味道在哪來，因為這闊谷內一絲風也沒有，無法判斷香氣飄來的方向，反正總不會是石頭髮出來的才是。",
+      "translated_vi": "Vân Thiên Phong cũng chẳng rõ mùi hương này bắt nguồn từ đâu, bởi lẽ bên trong thung lũng rộng lớn này không hề có lấy một gợn gió, căn bản chẳng thể phán đoán nổi phương hướng hương thơm bay tới, nhưng dẫu sao thì chắc chắn không thể nào là do đống đá tảng kia phát ra được rồi."
+    },
+    {
+      "para_id": "c0013p0020",
+      "index": 20,
+      "raw_zh": "蒙繞點燃了一袋煙，吸著說道：",
+      "translated_vi": "Mông Nhiễu châm một tẩu thuốc, vừa rít từng ngụm vừa nói:"
+    },
+    {
+      "para_id": "c0013p0021",
+      "index": 21,
+      "raw_zh": "“叢林裡野花到處都是，香味有啥子怪滴，咱們趁著天光多趕路，走咧。”",
+      "translated_vi": "\"Trong rừng rậm hoa dại nở khắp nơi, có mùi thơm thì có cái quái gì lạ đâu nhen. Chúng ta tranh thủ lúc trời còn sáng mà tăng tốc đi đường, mau lên nào.\""
+    },
+    {
+      "para_id": "c0013p0022",
+      "index": 22,
+      "raw_zh": "說著，大踏步超前走去，速度遠超之前。",
+      "translated_vi": "Nói rồi, gã sải bước dài tiến về phía trước, tốc độ nhanh hơn trước rất nhiều."
+    },
+    {
+      "para_id": "c0013p0023",
+      "index": 23,
+      "raw_zh": "後面三人急忙大步趕上去，這樣走了十幾分鍾，秦疏影和薑柔甲開始氣喘籲籲之際，蒙繞在前面突然停下來，回頭笑看著三人道：",
+      "translated_vi": "Ba người phía sau vội vàng rảo bước đuổi theo. Cứ thế đi được chừng mười mấy phút, giữa lúc Tần Sơ Ảnh và Khương Nhu Giáp bắt đầu thở hồng hộc đứt quãng, Mông Nhiễu đi đằng trước đột ngột dừng phắt lại, quay đầu cười nhăn nhở nhìn ba người bảo:"
+    },
+    {
+      "para_id": "c0013p0024",
+      "index": 24,
+      "raw_zh": "“你們為什麽不好奇這石龍闊谷內為啥子一個活物也不見？”",
+      "translated_vi": "\"Mấy người sao chẳng ai tò mò xem vì sao cái thung lũng Thạch Long này lại chẳng thấy bóng dáng một sinh vật sống nào hết vậy hả?\""
+    },
+    {
+      "para_id": "c0013p0025",
+      "index": 25,
+      "raw_zh": "三個人這才意識到，這擴谷兩側除了植物，甚至連鳥叫聲都沒聽到過。",
+      "translated_vi": "Cả ba người lúc này mới giật mình nhận ra, hai bên sườn thung lũng này ngoài cây cối ra, thậm chí ngay cả một tiếng chim hót cũng tuyệt nhiên không hề nghe thấy."
+    },
+    {
+      "para_id": "c0013p0026",
+      "index": 26,
+      "raw_zh": "薑柔甲好奇道：",
+      "translated_vi": "Khương Nhu Giáp tò mò hỏi:"
+    },
+    {
+      "para_id": "c0013p0027",
+      "index": 27,
+      "raw_zh": "“為什麽沒”",
+      "translated_vi": "\"Tại sao lại không...\""
+    },
+    {
+      "para_id": "c0013p0028",
+      "index": 28,
+      "raw_zh": "話沒說完，身體一軟，整個人不受控制的萎頓與地，緊接著是秦疏影和雲千峰。",
+      "translated_vi": "Lời còn chưa dứt, toàn thân nàng bỗng bủn rủn, cả người không tự chủ được mà ngã khuỵu xuống đất, ngay tiếp sau đó là Tần Sơ Ảnh và Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0013p0029",
+      "index": 29,
+      "raw_zh": "三個人軟倒在地，隻覺得全身的力氣好像被抽空了，身體熱的厲害，腦子暈暈的。",
+      "translated_vi": "Cả ba người xụi lơ ngã sóng soài trên mặt đất, chỉ cảm thấy toàn bộ sức lực trong người như bị rút cạn sạch bách, người nóng bừng lên dữ dội, đầu óc quay cuồng choáng váng."
+    },
+    {
+      "para_id": "c0013p0030",
+      "index": 30,
+      "raw_zh": "蒙繞看到這一幕，咧嘴露著煙熏的黃牙笑著自問自答：",
+      "translated_vi": "Nhìn thấy cảnh tượng này, Mông Nhiễu toét miệng để lộ hàm răng ố vàng khói thuốc, cười gằn tự hỏi tự trả lời:"
+    },
+    {
+      "para_id": "c0013p0031",
+      "index": 31,
+      "raw_zh": "“因為相傳這石龍擴谷在千百年前，被佔人的巫師下了降頭，凡是活物到了這裡，就會像你們這樣，身體無法移動，慢慢熬死。",
+      "translated_vi": "\"Bởi vì theo truyền thuyết, thung lũng Thạch Long này từ hàng ngàn năm trước đã bị các vu sư người Chăm giáng đầu ếm bùa rồi. Bất cứ sinh vật sống nào đặt chân tới đây đều sẽ giống như mấy người lúc này, thân thể chẳng thể cử động nổi, chỉ có nước từ từ chờ chết rục xương thôi."
+    },
+    {
+      "para_id": "c0013p0032",
+      "index": 32,
+      "raw_zh": "哦，對咧，那香味不是甚花香，是這帶孔孔的石頭裡面發出來的味道，是毒瘴，並不是所有毒瘴都能看得見咧，也不是所有毒瘴都是辛辣惡臭，也有很香的。”",
+      "translated_vi": "Ồ, phải rồi nhen, mùi thơm ban nãy không phải hương hoa cỏ gì đâu, mà chính là thứ khí độc thoát ra từ bên trong những tảng đá đục lỗ li ti kia đấy. Đó là chướng khí độc đấy à, đâu phải chướng khí độc nào cũng nhìn thấy bằng mắt thường được đâu nhen, cũng đâu phải thứ chướng khí nào cũng nồng nặc tanh hôi cay xè, có loại thơm lừng quyến rũ lắm chứ bộ.\""
+    },
+    {
+      "para_id": "c0013p0033",
+      "index": 33,
+      "raw_zh": "蒙繞說著，眼睛在秦疏影和薑柔甲兩個美麗的女生身上掃來掃去，舔著嘴唇道：",
+      "translated_vi": "Mông Nhiễu vừa nói, ánh mắt dâm tà vừa đảo qua đảo lại trên thân hình hai cô gái xinh đẹp Tần Sơ Ảnh và Khương Nhu Giáp, gã liếm mép bảo:"
+    },
+    {
+      "para_id": "c0013p0034",
+      "index": 34,
+      "raw_zh": "“我從十七歲給人當向導，二十多年咧，沒見過你們倆這麽漂亮滴，一個沉甸甸滴，想叫人咬上一口，一個挺拔拔滴，忍不住想使勁捏扁，美！”",
+      "translated_vi": "\"Tao đi làm người dẫn đường từ năm mười bảy tuổi, hơn hai mươi năm ròng rã rồi, chưa từng gặp qua hai đứa con gái nào đẹp ngút ngàn như hai đứa chúng mày nhen. Một đứa thì đẫy đà tròn lẳn, nhìn chỉ muốn cắn cho một miếng ngập răng; một đứa thì săn chắc nảy nở, nhịn không nổi chỉ muốn bóp cho bẹp dúm. Đẹp, đẹp mê hồn!\""
+    },
+    {
+      "para_id": "c0013p0035",
+      "index": 35,
+      "raw_zh": "“伱們兩個小阿妹別用這種眼神看我，等會兒叫你們知道阿哥的好，不過這裡可不行咧，大量運動會死人滴，我帶你們去我滴秘密寶地，至於這個小阿哥，就在這裡慢慢熬死吧，放心沒有野獸會來這裡吃你咧，可安全咧。”",
+      "translated_vi": "\"Hai đứa em gái bé bỏng đừng có dùng ánh mắt đó nhìn tao, lát nữa sẽ cho hai đứa chúng mày biết thế nào là cái sướng của người anh này nhen. Cơ mà ở chỗ này thì không được đâu à, vận động mạnh ở đây là mất mạng như chơi đấy. Tao sẽ dắt hai đứa mày về chốn bồng lai bí mật của tao, còn cái thằng nhãi ranh này ấy à, cứ việc nằm đây mà từ từ chịu trận chờ chết đi. Cứ yên tâm nhen, không có con thú dữ nào dám bén mảng tới đây ăn thịt mày đâu, an toàn tuyệt đối đấy nhé.\""
+    },
+    {
+      "para_id": "c0013p0036",
+      "index": 36,
+      "raw_zh": "說著，把煙袋鍋裡的煙使勁吸了幾口，然後別在腰帶上，雙手往下一挽，圈住了薑柔甲和秦疏影的細腰，毫不費力的把倆人抱起來，夾在兩肋下，大步朝著石龍擴谷外的叢林走去。",
+      "translated_vi": "Nói đoạn, gã rít mạnh thêm vài hơi tẩu thuốc, sau đó giắt chiếc tẩu vào thắt lưng, hai cánh tay vòng xuống ôm gọn lấy vòng eo thon thả của Khương Nhu Giáp và Tần Sơ Ảnh, dễ dàng bế bổng hai nàng lên, kẹp chặt dưới hai bên nách, rồi sải bước dài lao thẳng ra phía cánh rừng rậm bên ngoài thung lũng Thạch Long."
+    },
+    {
+      "para_id": "c0013p0037",
+      "index": 37,
+      "raw_zh": "薑柔甲和秦疏影雖然身體發不出一絲力氣，全身熱的似乎只有大口呼吸才能舒服一點，但偏偏腦子還是清醒的。",
+      "translated_vi": "Khương Nhu Giáp và Tần Sơ Ảnh tuy rằng toàn thân chẳng còn lấy một chút sức lực, khắp người nóng ran như lửa đốt dường như chỉ có há to miệng hít thở từng ngụm lớn mới dễ chịu đôi chút, nhưng khốn khổ thay đầu óc hai nàng vẫn tỉnh táo vô cùng."
+    },
+    {
+      "para_id": "c0013p0038",
+      "index": 38,
+      "raw_zh": "她們意識到自己將要面對什麽，眼神中充滿了絕望。",
+      "translated_vi": "Hai nàng hiểu rõ điều kinh hoàng tột độ mà mình sắp sửa phải đối mặt, trong ánh mắt tràn ngập vẻ tuyệt vọng khôn cùng."
+    },
+    {
+      "para_id": "c0013p0039",
+      "index": 39,
+      "raw_zh": "在這裡，沒有人能救她們倆。",
+      "translated_vi": "Ở chốn rừng thiêng nước độc hoang vu này, tuyệt đối chẳng có ai có thể cứu nổi hai người họ."
+    },
+    {
+      "para_id": "c0013p0040",
+      "index": 40,
+      "raw_zh": "蒙繞夾著兩女在林中大步前行，兩側樹枝藤蔓刮蹭著兩女的臉頰，疼癢非常，但是兩人連舉手抓癢的動作都做不到。",
+      "translated_vi": "Mông Nhiễu cắp hai người đẹp sải bước thoăn thoắt trong rừng già, cành cây và dây leo hai bên quẹt liên hồi vào gò má hai nàng, vừa đau rát vừa ngứa ngáy khôn xiết, nhưng hai nàng ngay cả động tác giơ tay lên gãi cũng chẳng tài nào làm nổi."
+    },
+    {
+      "para_id": "c0013p0041",
+      "index": 41,
+      "raw_zh": "幾分鍾後，蒙繞來到一面落著瀑布的懸崖下。",
+      "translated_vi": "Vài phút sau, Mông Nhiễu đi tới dưới một vách đá có dòng thác nước đổ ầm ầm."
+    },
+    {
+      "para_id": "c0013p0042",
+      "index": 42,
+      "raw_zh": "在瀑布下的水潭最深處邊緣，踩著幾塊大石頭，直接繞到了瀑布的後面。",
+      "translated_vi": "Men theo mép bờ sâu nhất của đầm nước dưới chân thác, gã giẫm lên mấy tảng đá lớn, vòng thẳng ra phía sau màn thác nước."
+    },
+    {
+      "para_id": "c0013p0043",
+      "index": 43,
+      "raw_zh": "在這裡，竟然有一個不小的山洞，洞口不大，也就一米五六高度，裡面黑黝黝的看不真切。",
+      "translated_vi": "Ở nơi này thế mà lại ẩn giấu một hang động không hề nhỏ. Miệng hang tuy bé, chỉ cao chừng mét rưỡi mét sáu, bên trong tối om om nhìn không rõ thực hư."
+    },
+    {
+      "para_id": "c0013p0044",
+      "index": 44,
+      "raw_zh": "蒙繞彎腰走進去，把兩女放在山洞旁邊的一堆枯草破衣上，然後點燃了一盞油燈。",
+      "translated_vi": "Mông Nhiễu khom người bước vào, đặt hai cô gái nằm lên một đống cỏ khô lẫn quần áo rách nát ở góc hang, sau đó châm sáng một ngọn đèn dầu."
+    },
+    {
+      "para_id": "c0013p0045",
+      "index": 45,
+      "raw_zh": "燈光亮起，洞內的一切漸漸清晰。",
+      "translated_vi": "Ánh đèn le lói bừng lên, mọi thứ bên trong hang dần dần hiện ra rõ mồn một."
+    },
+    {
+      "para_id": "c0013p0046",
+      "index": 46,
+      "raw_zh": "整座山洞也就五米深，別看洞口小，裡面卻是個大口袋形，還挺寬敞。",
+      "translated_vi": "Toàn bộ hang đá này chỉ sâu chừng năm mét, đừng nhìn miệng hang nhỏ hẹp mà lầm, bên trong lại có hình thù như một chiếc túi lớn, khá là rộng rãi thoáng đãng."
+    },
+    {
+      "para_id": "c0013p0047",
+      "index": 47,
+      "raw_zh": "裡面東西不少，散亂的扔了一地。",
+      "translated_vi": "Bên trong có không ít đồ đạc, vứt bừa bãi vương vãi khắp mặt đất."
+    },
+    {
+      "para_id": "c0013p0048",
+      "index": 48,
+      "raw_zh": "大部分都是女人的內外衣，背包，和化妝品。",
+      "translated_vi": "Phần lớn đều là quần áo lót lẫn y phục bên ngoài của phụ nữ, ba lô du lịch, và cả mỹ phẩm son phấn."
+    },
+    {
+      "para_id": "c0013p0049",
+      "index": 49,
+      "raw_zh": "兩女躺著的枯草上，就是用女人的各種衣服鋪在上面。",
+      "translated_vi": "Đống cỏ khô mà hai nàng đang nằm thực chất chính là được phủ lên bởi đủ loại quần áo của phụ nữ."
+    },
+    {
+      "para_id": "c0013p0050",
+      "index": 50,
+      "raw_zh": "不用想，也知道這些女人是被蒙繞借著向導之名，以同樣的方式帶到這裡，結局自然是死亡，恥辱的死亡。",
+      "translated_vi": "Chẳng cần phải suy nghĩ cũng đủ biết những người phụ nữ xấu số kia đều bị Mông Nhiễu mượn danh nghĩa người dẫn đường, dùng thủ đoạn tương tự lừa đưa tới đây, và kết cục của họ dĩ nhiên chính là cái chết, một cái chết đầy nhục nhã ê chề."
+    },
+    {
+      "para_id": "c0013p0051",
+      "index": 51,
+      "raw_zh": "點燃了油燈後，蒙繞就迫不及待的來到兩女身前，眼中的光芒看得兩女驚恐又惡心想吐。",
+      "translated_vi": "Sau khi châm đèn dầu xong, Mông Nhiễu chẳng thể chờ đợi thêm một giây nào nữa, vội vã sấn sổ bước tới trước mặt hai cô gái. Ánh mắt dâm ô man dại trong hốc mắt gã khiến hai nàng vừa kinh hoàng tột độ vừa buồn nôn ghê tởm."
+    },
+    {
+      "para_id": "c0013p0052",
+      "index": 52,
+      "raw_zh": "“兩個小阿妹啊，乖乖的不用怕，你們這麽美，我舍不得殺咧，嘿嘿。”",
+      "translated_vi": "\"Hai đứa em gái bé bỏng à, ngoan ngoãn đừng sợ nhen, hai đứa đẹp ngút ngàn thế này tao nỡ lòng nào giết chứ, hề hề.\""
+    },
+    {
+      "para_id": "c0013p0053",
+      "index": 53,
+      "raw_zh": "說著，一雙有力的大手抓住秦疏影的衣服，用力撕扯。",
+      "translated_vi": "Vừa nói, đôi bàn tay hộ pháp gân guốc của gã đã chộp lấy áo ngoài của Tần Sơ Ảnh, dùng sức giật phắt một cái thật mạnh."
+    },
+    {
+      "para_id": "c0013p0054",
+      "index": 54,
+      "raw_zh": "蒙繞也真對得起那一身強壯的肌肉，如此結實的戶外服，愣是被他雙手大力撕裂，露出了一片瑩玉潔白。",
+      "translated_vi": "Mông Nhiễu quả thật không hổ danh với thân hình cơ bắp lực lưỡng kia, bộ đồ dã ngoại leo núi dày dặn chắc chắn đến thế mà lại bị hai bàn tay gã xé toạc ra đánh xoẹt một tiếng, để lộ ra một mảng da thịt trắng nõn mịn màng tựa như ngọc quý."
+    },
+    {
+      "para_id": "c0013p0055",
+      "index": 55,
+      "raw_zh": "秦疏影發出絕望的驚叫，蒙繞則看著這燈下的潔白之中，呼吸沉重，顫著聲音讚歎：",
+      "translated_vi": "Tần Sơ Ảnh thét lên một tiếng kinh hãi tột cùng trong tuyệt vọng, còn Mông Nhiễu thì nhìn chăm chú vào mảng da thịt trắng ngần nõn nà dưới ánh đèn le lói, hơi thở dồn dập đục ngầu, giọng run lên vì hưng phấn tột đỉnh:"
+    },
+    {
+      "para_id": "c0013p0056",
+      "index": 56,
+      "raw_zh": "“昨晚見到你跑出來，我的心臟都要跳出嗓子去咧，就想看看那沉甸甸滴是啥模樣，我不知道怎形容，太美了”",
+      "translated_vi": "\"Đêm qua thấy mày chạy xồ ra ngoài, tim tao suýt chút nữa nhảy mẹ nó ra khỏi cuống họng rồi nhen, chỉ mong được tận mắt nhìn thấy cái vẻ đẫy đà trĩu nặng này nó tròn méo ra làm sao. Tao chẳng biết hình dung thế nào nữa, đẹp, quá đẹp rồi...\""
+    },
+    {
+      "para_id": "c0013p0057",
+      "index": 57,
+      "raw_zh": "說著，轉身又撕開了薑柔甲的衣服，把另一幅美不勝收展現在晃動的油燈下。",
+      "translated_vi": "Vừa nói, gã xoay người lại xé toạc luôn áo của Khương Nhu Giáp, phơi bày một cảnh tượng kiều diễm tuyệt mỹ khác dưới ánh đèn dầu chập chờn rung lắc."
+    },
+    {
+      "para_id": "c0013p0058",
+      "index": 58,
+      "raw_zh": "蒙繞沒有繼續廢話，迫不及待的站起身，把身上的皮襖甩掉，手忙腳亂的開始脫褲子。",
+      "translated_vi": "Mông Nhiễu chẳng buồn phí lời thêm nữa, gã nóng lòng đứng bật dậy, giật phắt chiếc áo khoác da quẳng sang một bên, tay chân cuống cuồng bắt đầu cởi quần."
+    },
+    {
+      "para_id": "c0013p0059",
+      "index": 59,
+      "raw_zh": "薑柔甲和秦疏影兩個人已經哭到抽搐，想死卻連咬舌頭的力氣也沒有，隻好緊緊的閉上眼睛，等待著黑暗的侵襲。",
+      "translated_vi": "Khương Nhu Giáp và Tần Sơ Ảnh cả hai đã khóc đến co giật run rẩy, muốn cắn lưỡi tự vẫn mà ngay cả chút sức lực để cắn cũng không còn, chỉ đành nhắm nghiền chặt hai mắt, cắn răng chờ đợi cơn ác mộng đen tối ập xuống đời mình."
+    },
+    {
+      "para_id": "c0013p0060",
+      "index": 60,
+      "raw_zh": "也就在這一刻，兩女突然聽到蒙繞發出一聲驚呼.",
+      "translated_vi": "Và cũng chính vào khoảnh khắc ngàn cân treo sợi tóc này, hai nàng đột nhiên nghe thấy Mông Nhiễu thốt lên một tiếng thất thanh..."
+    },
+    {
+      "para_id": "c0013p0061",
+      "index": 61,
+      "raw_zh": "“唉呀！”",
+      "translated_vi": "\"Ái chà!\""
+    },
+    {
+      "para_id": "c0013p0062",
+      "index": 62,
+      "raw_zh": "聲音裡充滿了驚訝和恐慌。",
+      "translated_vi": "Âm thanh thốt ra ngập tràn nỗi kinh hoàng tột độ xen lẫn hoảng loạn."
+    }
+  ]
+}

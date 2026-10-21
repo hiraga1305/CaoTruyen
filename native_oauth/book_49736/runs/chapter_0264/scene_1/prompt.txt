@@ -1,0 +1,126 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0264|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §87):
+§1 264.第264章 巢（我發兩天二合一大章實現個
+§2 [Ø=云千峰]第264章 巢（我發兩天二合一大章實現個小目標，就這兩天，擔待！）
+§3 漆黑。
+§4 真正的一絲光也沒有。
+§5 [Ø=云千峰]這種環境使人產生一種陷入夢魘的錯覺，讓人心中惴惴不安。
+§6 [Ø=云千峰]在這真正沒有光的地方，就是白狐法緹娜的眼睛也無法看到絲毫的東西。
+§7 畢竟夜眼也是需要微光的。
+§8 [Ø=云千峰]三個人手裡都拿著刀，生怕在這看不見的環境下，一個不小心傷到隊友，於是三個人小心翼翼的用後背靠向彼此。
+§9 [Ø=云千峰]當他們的後背彼此相連後，三個人幾乎同時舒了一口氣。
+§10 [Ø=云千峰]能感受到彼此，那不安的心立馬好受很多。
+§11 [Ø=云千峰]不過白狐的鼻子卻還是管用的，她嗅著周圍的味道，壓低聲音道：
+§12 [Ø=云千峰]“旁邊有動物在安靜的移動，有淡淡的濕腥味，應該是蛇一類的冷血動物。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 [Ø=云千峰]她不說還好，這話一出口，雲千峰和卓瑪身上都起了一層雞皮。
+§14 人的有些反應是非常奇怪的。
+§15 [Ø=云千峰]比如當人聽到蛇時的反應，大多都是恐懼的，這種恐懼扎根與內心深處， [||] 陰冷而粘稠，哪怕是躺在溫暖的被窩裡，也無法躲避這種恐懼的包裹。
+§16 [Ø=云千峰]但奇怪的是，人聽到老虎、獅子、豹子這些殺傷力更強的動物時， [||] 心中卻很少有恐懼，尤其是坐在家中的電腦前，甚至會首先想到這些動物的體態美感。
+§17 [Ø=云千峰]就是蠍子、蜈蚣、蜘蛛這幾個詞匯出現時，那種恐懼都會超過老虎那些大型食肉動物。
+§18 [Ø=云千峰]有些生物學家認為這是人類的基因記憶造成的，但是卻無法解釋為什麽人類會把這種殺傷力更小的動物，以恐懼的代稱根植與基因。
+§19 [Ø=云千峰]在這種恐懼下，雲千峰和卓瑪向著白狐又靠緊了些。
+§20 白狐低聲叱道：
+§21 “你們倆誰壓到我尾巴了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 [Ø=云千峰]倆人趕緊起身把手往底下抄，片刻後卓瑪壓低聲音，滿是歉意的說道：
+§23 [Ø=云千峰]“是我，是我，對不起的嘛！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 [Ø=云千峰]白狐把恢復自由的尾巴擺到了雲千峰的方向，似乎生怕再被卓瑪坐到。
+§25 [Ø_SHIFT=姜柔甲]三個人膽戰心驚的等了半晌，雲千峰把手表藏在衣襟內，按亮表盤。
+§26 [Ø=姜柔甲]這個看不見的環境下，絕不能傻乎乎的在外面把手表按亮，那等於把自己當成了活靶子。
+§27 [Ø=姜柔甲]片刻後，看準時間的雲千峰低聲驚訝道：
+§28 [Ø=姜柔甲]“一個小時了，日食怎麽能持續這麽久完全漆黑？早該露出一邊了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 卓瑪顫聲道：
+§30 “會不會是魔鬼遮蔽了光明？格比格講的史詩中就有這樣的惡魔！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=姜柔甲]白狐倒是淡定，低聲道：
+§32 [Ø=姜柔甲]“要真是你心中的那種魔鬼，咱們三個還能在這安然坐著？要我說只有一個可能，那就是這根本不是什麽日食。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 卓瑪低聲道：
+§34 [Ø=姜柔甲]“對啊，不是日食，是被魔鬼遮蔽了嘛！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 白狐低聲道：
+§36 “也不是魔鬼！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 卓瑪不解道：
+§38 “那那是什麽的嘛？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 雲千峰低聲給出答案：
+§40 [Ø=姜柔甲]“是這裡的夜晚！我們進來這裡以後，看到群山，看到太陽， [||] 看到湖泊，就想當然的認為天空上發光的是太陽，很顯然是我們被慣性思維迷惑了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 卓瑪不解道：
+§42 [Ø=姜柔甲]“可，天上能發出這樣亮光的，不是太陽還能是什麽呐？大地之上還會有另一個堪比太陽的發光體的嘛？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 雲千峰低聲道：
+§44 [Ø=姜柔甲]“這裡或許不是地面之上，要知道我們現在所在的山峰， [||] 可是比世界最高峰珠穆朗瑪峰還要高上許多，這是一個本就不存在於人類世界地圖上的地方，還有你難道忘了“窩拉”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]？”
+§45 [Ø=姜柔甲]卓瑪恍然，想起雲千峰之前讓自己翻譯夢話的含義。
+§46 [Ø=姜柔甲]“你是說，這裡是地下？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§47 [Ø=姜柔甲]雲千峰點頭，低聲道：
+§48 [Ø=姜柔甲]“應該是這樣，至於那個發光體是什麽，我也無從猜測，不過應該不神奇， [||] 或許是人造太陽一類的東西，畢竟以人類現在的科技，不需要多久，也能製造這種東西。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§49 卓瑪嘟囔著：
+§50 [Ø=姜柔甲]“可是唱詩裡說的香巴拉，神的國度怎麽會在地下，祂們應該在高高的天上啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§51 [Ø=姜柔甲]不過當下想起白狐說的關於人類誕生的那段推測，當下不由得歎道：
+§52 [Ø=姜柔甲]“是啊，人類如果最初是生活在海裡的生物，那麽這裡真的只能是地下啦。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§53 [Ø=姜柔甲]三個人此時心裡都想著一件事，那就是：
+§54 [Ø=姜柔甲]“這裡，曾經真的是海底嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§55 [Ø=姜柔甲]眼看著天色遲遲不放光，白狐建議她值夜，讓雲千峰和卓瑪休息，養精蓄銳。
+§56 [Ø=姜柔甲]條件是明天雲千峰得背著她趕路，她在雲千峰背上睡覺休息。
+§57 [Ø=姜柔甲]雲千峰爽快答應，這顯然是最合理的安排。
+§58 [Ø=姜柔甲]因為在這樣漆黑的環境下，只有白狐的嗅覺還能頂用。
+§59 [Ø=姜柔甲]於是雲千峰枕著白狐那毛茸茸的尾巴，卓瑪枕著雲千峰的大腿，就這麽沉沉睡去。
+§60 [Ø=姜柔甲]白狐感覺腰背麻酥酥的，想要把尾巴挪走，但不知道為啥，似乎還挺喜歡這種感覺。
+§61 她自覺找到某個點了。
+§62 [Ø=姜柔甲]就是部位有點奇怪，竟然是尾巴。
+§63 [Ø=姜柔甲]天色再次放亮，已經是七個小時後。
+§64 [Ø=姜柔甲]雲千峰和卓瑪先後醒來，白狐依舊精神抖擻，絲毫不減困意。
+§65 就是臉頰紅紅的惹人憐。
+§66 [Ø=姜柔甲]再看這裡所謂的太陽，果然還在原來的位置，紋絲未動。
+§67 [Ø=姜柔甲]正如雲千峰猜測，那極有可能是個人工的玩意。
+§68 [Ø=姜柔甲]只是當天亮後，這裡的天空看起來，就和外面的天空一樣，淡青色配著漂浮的白雲。
+§69 [Ø=姜柔甲]在幾個人身前不遠處，有植物被壓倒在地上，長長的一條痕跡引向遠方。
+§70 [Ø=姜柔甲]白狐在那被壓倒的植物旁嗅了嗅，說道：
+§71 “昨晚就是這東西身上帶著淡淡的蛇腥味。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§72 [Ø=姜柔甲]雲千峰一看那痕跡，咽了口唾沫，低聲道：
+§73 [Ø=姜柔甲]“好家夥，這比油桶都粗啊！還不得三十米以上長度！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§74 [Ø=姜柔甲]卓瑪雙手合十，祈禱道：
+§75 “我們能活下來真的是神靈保佑。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§76 雲千峰笑道：
+§77 [Ø=姜柔甲]“可能昨晚那大家夥是吃飽的，否則還真是危險的很。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§78 [Ø=姜柔甲]說著，背起白狐，前面開路，三人繼續下山。
+§79 [Ø=姜柔甲]白狐身材嬌小，身體輕盈，雲千峰背起來絲毫不覺得費力。
+§80 [Ø=姜柔甲]就是白狐把毛茸茸的尾巴搭在雲千峰脖子旁，癢癢的， [||] 雲千峰有心把那尾巴挪開，但又覺得癢癢之余，還有種莫名的心裡舒適。
+§81 [Ø=姜柔甲]於是便在糾結下，任由那尾巴調皮算了。
+§82 [Ø=姜柔甲]三個人爬下山，已經是十個小時以後，所幸的是天色沒黑，證明這裡的晝夜不是平均的。
+§83 [Ø=姜柔甲]卓瑪累得氣喘籲籲，額頭都是汗珠子。
+§84 [Ø=姜柔甲]她就很納悶，身前這個男人一路上嘚瑟的就用一個腿跳著走，竟然一點汗絲都沒有，真是氣死個人。
+§85 [Ø=姜柔甲]山腳下，一塊規整的石碑立在山腳處。
+§86 [Ø=姜柔甲]這石碑極大，好似一堵牆似的，但卻是整塊的玉石雕琢而成。
+§87 [Ø=姜柔甲]在石碑周圍，雕著蝠紋與萬字紋結合的圖案，石碑四角上， [||] 雕著一隻蟾蜍，三隻尖嘴小鳥，一個九條尾巴的小狐狸，還有一隻蹲著的兔子。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 87 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§87. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

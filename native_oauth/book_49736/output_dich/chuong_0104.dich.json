@@ -1,0 +1,439 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 104,
+  "title": "Chương 104: Thứ không nên xuất hiện",
+  "total_paragraphs": 71,
+  "translated_paragraphs": 71,
+  "source_hash": "1935e4d75719d2e9c83d29a49fedbeb2dbba35b0cad3de4e55f60bfaccea9d41",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0104p0001",
+      "index": 1,
+      "raw_zh": "第104章 不該出現的東西",
+      "translated_vi": "Chương 104: Thứ không nên xuất hiện"
+    },
+    {
+      "para_id": "c0104p0002",
+      "index": 2,
+      "raw_zh": "三女一人拖著一大捆纖長的枯草，臉上都洋溢著得意的笑容。",
+      "translated_vi": "Ba cô gái mỗi người kéo theo một bó cỏ khô dài lượt thượt, trên gương mặt ai nấy đều rạng rỡ nụ cười đắc ý."
+    },
+    {
+      "para_id": "c0104p0003",
+      "index": 3,
+      "raw_zh": "張敏手裡還拿著用石頭摔碎形成的幾把石刀，仰著臉很驕傲的模樣。",
+      "translated_vi": "Trương Mẫn trên tay còn cầm mấy mảnh dao đá được đập vỡ từ đá tảng, ngửa mặt lên với vẻ mặt đầy kiêu hãnh."
+    },
+    {
+      "para_id": "c0104p0004",
+      "index": 4,
+      "raw_zh": "三女一回來也不說跟不跟著雲千峰，而是先讓雲千峰站起來。",
+      "translated_vi": "Vừa trở về, ba cô gái chẳng hề đề cập tới chuyện có đi theo Vân Thiên Phong hay không, mà bảo anh đứng dậy trước đã."
+    },
+    {
+      "para_id": "c0104p0005",
+      "index": 5,
+      "raw_zh": "隨後三女拿著用乾草纏成的細草繩開始給雲千峰量腳掌長寬，量腰圍和肩寬，就和裁縫似的。",
+      "translated_vi": "Kế đó, ba cô gái cầm những sợi dây cỏ mảnh bện bằng cỏ khô bắt đầu đo chiều dài, bề rộng bàn chân, rồi đo vòng eo và độ rộng vai của Vân Thiên Phong, chẳng khác nào mấy cô thợ may lành nghề."
+    },
+    {
+      "para_id": "c0104p0006",
+      "index": 6,
+      "raw_zh": "哪怕在充氣閥裡坦誠相見那麽久，三女在測量的時候，也都忍不住臉紅。",
+      "translated_vi": "Dẫu rằng từng thành thật nhìn thấy hết cơ thể của nhau suốt bao ngày trên bè hơi, nhưng khi trực tiếp đo đạc thế này, ba cô gái vẫn không kìm được mà đỏ bừng cả mặt."
+    },
+    {
+      "para_id": "c0104p0007",
+      "index": 7,
+      "raw_zh": "畢竟這是主動接觸，而且雲千峰吃飽了。",
+      "translated_vi": "Dù sao đây cũng là sự tiếp xúc chủ động, vả lại Vân Thiên Phong vừa được ăn no nê."
+    },
+    {
+      "para_id": "c0104p0008",
+      "index": 8,
+      "raw_zh": "雲千峰一臉懵，問道：",
+      "translated_vi": "Vân Thiên Phong mặt ngơ ngác, cất tiếng hỏi:"
+    },
+    {
+      "para_id": "c0104p0009",
+      "index": 9,
+      "raw_zh": "“你們在搞什麽？”",
+      "translated_vi": "“Mấy cô đang giở trò gì thế này?”"
+    },
+    {
+      "para_id": "c0104p0010",
+      "index": 10,
+      "raw_zh": "秦疏影笑指著張敏，說道：",
+      "translated_vi": "Tần Sơ Ảnh cười tươi chỉ tay về phía Trương Mẫn, đáp:"
+    },
+    {
+      "para_id": "c0104p0011",
+      "index": 11,
+      "raw_zh": "“她可是出生在草編之鄉，這些枯草會變成我們的鞋子，衣服，裙子，有了這些，我們才能更好的陪著你一起經歷這場偉大的冒險之旅。”",
+      "translated_vi": "“Cô ấy sinh ra ở làng nghề đan lát đấy. Những cọng cỏ khô này sẽ biến thành giày, áo, váy cho chúng ta. Có những thứ này rồi, chúng tôi mới có thể đồng hành cùng anh trải qua chuyến phiêu lưu vĩ đại này một cách tốt nhất chứ.”"
+    },
+    {
+      "para_id": "c0104p0012",
+      "index": 12,
+      "raw_zh": "古靈精怪的千千隨即調皮道：",
+      "translated_vi": "Cô nàng Thiên Thiên tinh quái lập tức nhí nhảnh nói chêm vào:"
+    },
+    {
+      "para_id": "c0104p0013",
+      "index": 13,
+      "raw_zh": "“你不要太感動，我們想好了，留下來那百分之五十的危險就是死亡甚至更慘，伱那個百分百危險，卻不代表百分百死亡，還是跟著你靠譜劃算些。”",
+      "translated_vi": "“Anh đừng có vội cảm động quá nhé. Bọn em nghĩ kỹ rồi, ở lại đây thì năm mươi phần trăm nguy hiểm đồng nghĩa với cái chết, thậm chí còn thảm hơn; còn cái nguy hiểm một trăm phần trăm của anh lại chẳng đồng nghĩa với việc chắc chắn phải chết một trăm phần trăm, tính ra cứ đi theo anh vẫn đáng tin cậy và hời hơn nhiều.”"
+    },
+    {
+      "para_id": "c0104p0014",
+      "index": 14,
+      "raw_zh": "聽到這話，雲千峰笑了。",
+      "translated_vi": "Nghe vậy, Vân Thiên Phong bật cười."
+    },
+    {
+      "para_id": "c0104p0015",
+      "index": 15,
+      "raw_zh": "這些女生或許力量很小，甚至一隻狼就能要了她們的命，但在雲千峰眼裡，這種陪伴絕不是負擔，而是力量和勇氣。",
+      "translated_vi": "Những cô gái này có lẽ sức vóc yếu ớt, thậm chí chỉ một con sói cũng đủ lấy mạng họ, song trong mắt Vân Thiên Phong, sự kề vai sát cánh này tuyệt nhiên không phải là gánh nặng, mà chính là nguồn sức mạnh và lòng quả cảm."
+    },
+    {
+      "para_id": "c0104p0016",
+      "index": 16,
+      "raw_zh": "荒野裡最可怕的，從來不是猛虎，而是孤獨。",
+      "translated_vi": "Giữa chốn hoang dã, thứ đáng sợ nhất chưa bao giờ là loài cọp dữ, mà là nỗi cô độc khôn cùng."
+    },
+    {
+      "para_id": "c0104p0017",
+      "index": 17,
+      "raw_zh": "張敏不愧是草編之鄉走出來的黑姑娘，那一根根纖長的乾草在她那靈巧的手裡，快速的變成一個個物件。",
+      "translated_vi": "Trương Mẫn quả không hổ danh là cô gái da ngăm bước ra từ làng nghề đan lát cỏ, từng cọng cỏ khô thon dài qua đôi bàn tay khéo léo của cô thoăn thoắt biến thành từng món đồ dùng hữu ích."
+    },
+    {
+      "para_id": "c0104p0018",
+      "index": 18,
+      "raw_zh": "草鞋，草裙，草帽，馬甲，哪怕是為了求速度忽略了精細，但依舊是那麽的美觀。",
+      "translated_vi": "Giày cỏ, váy cỏ, mũ cỏ, áo gi-lê cỏ, dẫu rằng để kịp thời gian phải bỏ qua độ tỉ mỉ chau chuốt, nhưng trông vẫn vô cùng đẹp mắt và khéo léo."
+    },
+    {
+      "para_id": "c0104p0019",
+      "index": 19,
+      "raw_zh": "這種在華夏有著超過六千年的技術，堪稱化腐朽為神奇，是那麽的迷人。",
+      "translated_vi": "Kỹ nghệ đan lát có lịch sử hơn sáu nghìn năm của đất nước này quả thực có thể xem là biến thứ mục nát thành điều kỳ diệu, cuốn hút khôn tả."
+    },
+    {
+      "para_id": "c0104p0020",
+      "index": 20,
+      "raw_zh": "秦疏影也是心靈手巧的姑娘，很快學會了一些技巧，讓編織的速度快速提升，千千就笨了點，但是好在需要一個用乾草擰草繩的人，正好適合她。",
+      "translated_vi": "Tần Sơ Ảnh cũng là một cô gái thông minh khéo tay, rất nhanh đã học được vài ngón đan, giúp tốc độ bện đồ tăng lên đáng kể; Thiên Thiên thì vụng về hơn đôi chút, nhưng may sao lại cần một người se cỏ khô thành dây thừng, công việc ấy vừa vặn thích hợp với cô."
+    },
+    {
+      "para_id": "c0104p0021",
+      "index": 21,
+      "raw_zh": "最後她們甚至還在雲千峰弄回來的乾柴裡找了兩根腕子粗細的木棍，利用乾草做了一個只有五十厘米寬的擔架。",
+      "translated_vi": "Sau cùng, họ thậm chí còn tìm trong đống củi khô Vân Thiên Phong tha về hai khúc gỗ to bằng cổ tay, tận dụng cỏ khô kết thành một chiếc cáng cứu thương chỉ rộng chừng năm mươi phân."
+    },
+    {
+      "para_id": "c0104p0022",
+      "index": 22,
+      "raw_zh": "有了它，就能把暫時無法移動的孫倩一起帶走，可謂是面面俱到。",
+      "translated_vi": "Có được chiếc cáng này, họ có thể mang theo Tôn Thiến đang tạm thời bất động đi cùng, quả thực là chu toàn về mọi mặt."
+    },
+    {
+      "para_id": "c0104p0023",
+      "index": 23,
+      "raw_zh": "擔架設計的很科學，兩端都纏著草繩，可以跨在肩膀上，抬著的時候非常節省體力，讓負擔一個人對速度的影響降到最低。",
+      "translated_vi": "Chiếc cáng được thiết kế rất khoa học, hai đầu đều bện dây cỏ để quàng qua vai, khi khiêng cáng sẽ tiết kiệm sức lực tối đa, giảm thiểu đến mức thấp nhất ảnh hưởng của việc mang theo một người đối với tốc độ hành quân."
+    },
+    {
+      "para_id": "c0104p0024",
+      "index": 24,
+      "raw_zh": "很快，四個人都是標準五件套。",
+      "translated_vi": "Chẳng mấy chốc, cả bốn người đều được trang bị trọn bộ năm món tiêu chuẩn:"
+    },
+    {
+      "para_id": "c0104p0025",
+      "index": 25,
+      "raw_zh": "草編馬甲、草鞋、草裙、草帽和一個草背簍。",
+      "translated_vi": "Áo gi-lê cỏ, giày cỏ, váy cỏ, mũ cỏ và một chiếc gùi cỏ đeo lưng."
+    },
+    {
+      "para_id": "c0104p0026",
+      "index": 26,
+      "raw_zh": "那草鞋輕便舒適，非常趁腳，而且為了避免劃傷小腿，草鞋的款式堪稱靴子，鞋幫直接到膝蓋上方，與草裙重疊。",
+      "translated_vi": "Đôi giày cỏ nhẹ nhàng êm ái, rất vừa chân, hơn nữa nhằm tránh để gai góc cứa xước bắp chân, kiểu dáng giày cỏ chẳng khác nào đôi ủng cao cổ, thân giày kéo dài tới tận trên đầu gối, xếp lớp gối lên váy cỏ."
+    },
+    {
+      "para_id": "c0104p0027",
+      "index": 27,
+      "raw_zh": "草裙到膝蓋，終於把大家的羞澀遮擋住，雖然蹲身和坐著的時候還是跑光，但總好過隨時能看見。",
+      "translated_vi": "Chiếc váy cỏ dài đến đầu gối rốt cuộc cũng che chắn được nỗi ngượng ngùng của mọi người; dẫu khi ngồi xuống hay ngồi xổm vẫn có thể hớ hênh, nhưng dẫu sao cũng tốt hơn nhiều so với việc lúc nào cũng phơi bày lõa lồ."
+    },
+    {
+      "para_id": "c0104p0028",
+      "index": 28,
+      "raw_zh": "剛才她們給雲千峰測量尺碼的時候之所以臉紅，就是雲千峰因為吃飽了，禁不住有了很爆炸的反應。",
+      "translated_vi": "Lúc nãy sở dĩ mấy cô gái đỏ mặt tía tai khi đo kích thước cho Vân Thiên Phong là bởi vì anh ăn no nê hồi phục sinh lực, cơ thể không kìm được mà trỗi dậy phản ứng vô cùng mãnh liệt."
+    },
+    {
+      "para_id": "c0104p0029",
+      "index": 29,
+      "raw_zh": "現在好了，草裙很寬松舒適，有變化也看不出來，超好！",
+      "translated_vi": "Giờ thì ổn cả rồi, váy cỏ rộng rãi thoải mái, bên dưới có biến động gì cũng chẳng ai nhìn ra được, quá tuyệt vời!"
+    },
+    {
+      "para_id": "c0104p0030",
+      "index": 30,
+      "raw_zh": "弄好了這些裝備，三女沒有休息，而是跑到海邊，嬉鬧著把每一個可以成為食物的海貨放進背簍，為他們未來的路上準備食物。",
+      "translated_vi": "Hoàn thành xong đống trang bị này, ba cô gái không hề nghỉ ngơi mà ùa nhau chạy ra bãi biển, vừa đùa vui vừa nhặt nhạnh từng con hải sản có thể ăn được nhét đầy vào gùi cỏ, chuẩn bị lương thực cho chặng đường dài sắp tới."
+    },
+    {
+      "para_id": "c0104p0031",
+      "index": 31,
+      "raw_zh": "雲千峰要去幫忙，三女卻把他攆回去休息。",
+      "translated_vi": "Vân Thiên Phong định xắn tay ra giúp, nhưng ba cô gái lại xua tay đuổi anh về nghỉ ngơi."
+    },
+    {
+      "para_id": "c0104p0032",
+      "index": 32,
+      "raw_zh": "理由很簡單：",
+      "translated_vi": "Lý do đưa ra vô cùng đơn giản:"
+    },
+    {
+      "para_id": "c0104p0033",
+      "index": 33,
+      "raw_zh": "“我們把命交給你了，你得守護好了，所以休息好，用最好的狀態保護我們。”",
+      "translated_vi": "“Bọn em đã giao tính mạng cho anh rồi, anh phải bảo vệ cho thật tốt đấy. Mau nghỉ ngơi cho lại sức, để giữ trạng thái sung mãn nhất mà che chở cho tụi em.”"
+    },
+    {
+      "para_id": "c0104p0034",
+      "index": 34,
+      "raw_zh": "一個團隊最好的狀態就是，所有人都在貢獻自己最大的力量，且把這力量朝著一個方向用。",
+      "translated_vi": "Trạng thái tuyệt vời nhất của một tập thể chính là tất cả mọi người đều dốc hết sức mình cống hiến, và cùng dồn nguồn sức mạnh ấy về một hướng chung."
+    },
+    {
+      "para_id": "c0104p0035",
+      "index": 35,
+      "raw_zh": "一如現在的她們。",
+      "translated_vi": "Hệt như hình ảnh của họ vào lúc này."
+    },
+    {
+      "para_id": "c0104p0036",
+      "index": 36,
+      "raw_zh": "雲千峰順從了她們，因為自己確實需要休息，需要足夠的力量讓一切有最好的結局。",
+      "translated_vi": "Vân Thiên Phong nghe theo lời họ, bởi vì quả thực bản thân anh rất cần nghỉ ngơi, cần nạp đủ thể lực để hướng tới một kết cục tốt đẹp nhất cho tất cả."
+    },
+    {
+      "para_id": "c0104p0037",
+      "index": 37,
+      "raw_zh": "他再醒來時，已經是下午時分。",
+      "translated_vi": "Đến khi anh tỉnh giấc thì trời đã ngả về chiều."
+    },
+    {
+      "para_id": "c0104p0038",
+      "index": 38,
+      "raw_zh": "三女也在篝火邊睡沉。",
+      "translated_vi": "Ba cô gái cũng đã ngủ say bên đống lửa."
+    },
+    {
+      "para_id": "c0104p0039",
+      "index": 39,
+      "raw_zh": "篝火裡的碳被她們撥弄出很多，上面放著扇貝，海蟹這些東西。",
+      "translated_vi": "Than hồng trong đống lửa được các cô bới ra khá nhiều, bên trên xếp đầy sò điệp, cua biển các loại."
+    },
+    {
+      "para_id": "c0104p0040",
+      "index": 40,
+      "raw_zh": "背簍裡更是放著很多已經烤好的貝殼海螺，這樣烤乾的食物，可以保存很久。",
+      "translated_vi": "Trong gùi cỏ còn đựng vô số các loại ốc và sò đã nướng chín khô; thức ăn nướng khô kiệt nước thế này có thể bảo quản được rất lâu."
+    },
+    {
+      "para_id": "c0104p0041",
+      "index": 41,
+      "raw_zh": "或許這就是為什麽物資匱乏時，女人更適合成為主導者，因為她們天生有著細膩的內心，能夠做到面面俱到，且有那樣的耐心。",
+      "translated_vi": "Có lẽ đó chính là lý do vì sao trong hoàn cảnh vật chất thiếu thốn, phụ nữ lại càng thích hợp trở thành người chủ quản; bởi vì trời sinh họ đã sở hữu tâm hồn tinh tế, có thể chu toàn mọi mặt và đầy ắp sự nhẫn nại."
+    },
+    {
+      "para_id": "c0104p0042",
+      "index": 42,
+      "raw_zh": "篝火映襯著四張各具其美的臉，這種色調下，人更美。",
+      "translated_vi": "Ánh lửa bập bùng hắt lên bốn gương mặt mỗi người một vẻ mười phân vẹn mười; dưới gam màu ấm áp này, dung nhan họ lại càng thêm muôn phần kiều diễm."
+    },
+    {
+      "para_id": "c0104p0043",
+      "index": 43,
+      "raw_zh": "雲千峰感慨，這裡要不是神跡該有多好，那樣自己就能在這裡一直生活下去，不用提心吊膽，不用害怕被追捕。",
+      "translated_vi": "Vân Thiên Phong khẽ thở dài cảm khái, nếu nơi này chẳng phải là thần tích thì tốt biết mấy; khi đó anh có thể sống mãi ở chốn này, chẳng cần nơm nớp lo sợ, chẳng phải bận lòng vì bị đuổi bắt truy lùng."
+    },
+    {
+      "para_id": "c0104p0044",
+      "index": 44,
+      "raw_zh": "雲千峰用樹皮又煮了一些草藥，依舊用老方法喂到孫倩的口中，又喂了她一些之前剩下的山藥粥。",
+      "translated_vi": "Vân Thiên Phong dùng vỏ cây nấu thêm một ít thảo dược, vẫn áp dụng phương pháp cũ mớm vào miệng Tôn Thiến, rồi lại bón cho cô thêm chút cháo củ mài còn sót lại lúc trước."
+    },
+    {
+      "para_id": "c0104p0045",
+      "index": 45,
+      "raw_zh": "這女人命大，現在已經完全退燒，雖然依舊昏迷不醒。",
+      "translated_vi": "Người phụ nữ này số mạng lớn thật, lúc này đã hoàn toàn dứt cơn sốt, dẫu rằng vẫn còn hôn mê bất tỉnh."
+    },
+    {
+      "para_id": "c0104p0046",
+      "index": 46,
+      "raw_zh": "但雲千峰覺得，她大概率能扛過去。",
+      "translated_vi": "Nhưng Vân Thiên Phong linh cảm, xác suất cao là cô có thể vượt qua cửa tử."
+    },
+    {
+      "para_id": "c0104p0047",
+      "index": 47,
+      "raw_zh": "三個女人被雲千峰忙碌的聲音喚醒，起身後也都開始忙碌起來。",
+      "translated_vi": "Ba cô gái bị tiếng động bận rộn của Vân Thiên Phong đánh thức, sau khi ngồi dậy cũng lập tức bắt tay vào việc."
+    },
+    {
+      "para_id": "c0104p0048",
+      "index": 48,
+      "raw_zh": "收拾烤乾的食物，用枯草扎緊成捆，然後把紅炭藏進中間，因為缺氧，草捆內部會緩慢燃燒。",
+      "translated_vi": "Họ thu dọn phần thức ăn đã nướng khô, dùng cỏ khô bó chặt thành từng bó rồi giấu than đỏ vào chính giữa; nhờ thiếu oxy, bên trong bó cỏ sẽ cháy âm ỉ rất chậm rãi."
+    },
+    {
+      "para_id": "c0104p0049",
+      "index": 49,
+      "raw_zh": "這樣的一捆草，能保存火種三個小時左右，足夠他們支撐到天黑。",
+      "translated_vi": "Một bó cỏ như vậy có thể lưu giữ mồi lửa chừng ba tiếng đồng hồ, đủ để họ duy trì cho tới tận khi trời sập tối."
+    },
+    {
+      "para_id": "c0104p0050",
+      "index": 50,
+      "raw_zh": "看得出來，三女也知道現在決不能浪費時間，要抓緊趕路。",
+      "translated_vi": "Có thể thấy rõ, ba cô gái cũng hiểu lúc này tuyệt đối không thể lãng phí thời gian, phải khẩn trương lên đường."
+    },
+    {
+      "para_id": "c0104p0051",
+      "index": 51,
+      "raw_zh": "畢竟，進入地形更複雜的叢林，對他們更有利。",
+      "translated_vi": "Dù sao thì tiến sâu vào khu rừng rậm rạp với địa hình phức tạp hơn sẽ mang lại lợi thế lớn cho bọn họ."
+    },
+    {
+      "para_id": "c0104p0052",
+      "index": 52,
+      "raw_zh": "哪怕那些人追上來，要在叢林裡找一個人，也不是那麽容易的。",
+      "translated_vi": "Ngay cả khi đám người kia có đuổi kịp tới nơi, muốn lùng sục tìm kiếm một bóng người giữa rừng sâu thăm thẳm cũng chẳng phải chuyện dễ dàng gì."
+    },
+    {
+      "para_id": "c0104p0053",
+      "index": 53,
+      "raw_zh": "收拾利落，雲千峰小心的把孫倩弄到擔架上，然後把擔架前方的繩索套在自己的肩膀上。",
+      "translated_vi": "Thu dọn gọn gàng xong xuôi, Vân Thiên Phong cẩn thận đưa Tôn Thiến lên cáng, rồi luồn sợi dây thừng phía trước cáng quàng qua vai mình."
+    },
+    {
+      "para_id": "c0104p0054",
+      "index": 54,
+      "raw_zh": "後面，張敏第一個上前，扛起來擔架。",
+      "translated_vi": "Ở phía sau, Trương Mẫn là người đầu tiên bước lên gánh vác chiếc cáng."
+    },
+    {
+      "para_id": "c0104p0055",
+      "index": 55,
+      "raw_zh": "因為張敏身高和雲千峰比較接近，這樣擔負起來比較舒服。",
+      "translated_vi": "Vì chiều cao của Trương Mẫn khá tương đồng với Vân Thiên Phong nên khi cùng khiêng sẽ giữ được thăng bằng thoải mái hơn."
+    },
+    {
+      "para_id": "c0104p0056",
+      "index": 56,
+      "raw_zh": "然後他們走進那高大樹木的叢林。",
+      "translated_vi": "Sau đó, bọn họ sải bước tiến vào khu rừng rậm với những hàng cây cao vút cổ thụ."
+    },
+    {
+      "para_id": "c0104p0057",
+      "index": 57,
+      "raw_zh": "北方樹種的好處就是，下面會很乾淨，極容易趕路。",
+      "translated_vi": "Điểm lợi thế của các giống cây phương bắc chính là tầng dưới tán cây rất quang đãng, cực kỳ thuận tiện cho việc hành quân."
+    },
+    {
+      "para_id": "c0104p0058",
+      "index": 58,
+      "raw_zh": "不會像雨林那樣重重疊疊，高矮植物到處都是，北方樹種是不會給自己腳下的植物留活路的，它們寬大的枝葉會把所有陽光和雨水接引在自己身上，讓自己腳下沒有植物可以長高，最多長一些生命力頑強的草類。",
+      "translated_vi": "Nó không hề tầng tầng lớp lớp, thực vật cao thấp đan xen chằng chịt khắp nơi như rừng mưa nhiệt đới; các loài cây phương bắc tuyệt đối không chừa lại con đường sống cho cây cỏ dưới chân mình, những cành lá xum xuê của chúng sẽ chắn trọn mọi ánh nắng và nước mưa, khiến bên dưới chẳng loài thực vật nào có thể vươn cao nổi, cùng lắm chỉ mọc được vài loài cỏ dại có sức sống bền bỉ kiên cường."
+    },
+    {
+      "para_id": "c0104p0059",
+      "index": 59,
+      "raw_zh": "這樣走了一個小時，秦疏影和千千換過擔架，讓雲千峰和張敏休息一下肩膀。",
+      "translated_vi": "Cứ thế bước đi chừng một tiếng đồng hồ, Tần Sơ Ảnh và Thiên Thiên lại thay phiên nhau khiêng cáng, để đôi vai của Vân Thiên Phong và Trương Mẫn được nghỉ ngơi đôi chút."
+    },
+    {
+      "para_id": "c0104p0060",
+      "index": 60,
+      "raw_zh": "這讓他們的速度幾乎沒有因為孫倩這個病號而減慢。",
+      "translated_vi": "Điều đó giúp tốc độ di chuyển của họ gần như chẳng hề bị chậm trễ vì bệnh nhân Tôn Thiến."
+    },
+    {
+      "para_id": "c0104p0061",
+      "index": 61,
+      "raw_zh": "天色漸暗，三個人還沒有覺得很累，雲千峰就靠著右臂折斷了幾根乾枯的松樹枝椏，利用這種富含油脂的乾枝做成火把照明，繼續趕路。",
+      "translated_vi": "Trời dần tối sầm lại, ba cô gái vẫn chưa cảm thấy quá kiệt sức. Vân Thiên Phong liền dùng cánh tay phải bẻ gãy vài cành thông khô khốc, tận dụng loại cành khô giàu tinh dầu nhựa thông này làm đuốc soi đường, tiếp tục cất bước trong đêm."
+    },
+    {
+      "para_id": "c0104p0062",
+      "index": 62,
+      "raw_zh": "他們沒有辨別方向的苦惱，因為雲千峰肚子裡的石眼，讓雲千峰知道自己該往那個方向前行。",
+      "translated_vi": "Họ chẳng phải bận tâm đến nỗi phiền toái xác định phương hướng, bởi vì Thạch nhãn trong bụng Vân Thiên Phong đã chỉ dẫn rành rọt cho anh biết mình nên tiến về hướng nào."
+    },
+    {
+      "para_id": "c0104p0063",
+      "index": 63,
+      "raw_zh": "大概午夜的時候，幾個人都開始力乏，雲千峰決定找一個便與隱藏且安全的地方休息。",
+      "translated_vi": "Khoảng chừng nửa đêm, ai nấy đều bắt đầu thấm mệt, Vân Thiên Phong quyết định tìm kiếm một nơi an toàn và tiện cho việc ẩn nấp để dừng chân nghỉ ngơi."
+    },
+    {
+      "para_id": "c0104p0064",
+      "index": 64,
+      "raw_zh": "他觀察了一下地勢，決定帶著四女去不遠處一個山坳裡露宿，那裡避風，且能遮擋篝火的亮光。",
+      "translated_vi": "Anh quan sát địa thế xung quanh, quyết định dẫn bốn cô gái tới một khe núi lòng chảo cách đó không xa cắm trại qua đêm; nơi ấy vừa kín gió, lại có thể che chắn bớt ánh sáng của lửa trại."
+    },
+    {
+      "para_id": "c0104p0065",
+      "index": 65,
+      "raw_zh": "然而，當他們拐彎走進那山坳內部時，卻全都傻了眼。",
+      "translated_vi": "Thế nhưng khi họ rẽ bước tiến vào bên trong khe núi, tất cả đều chết lặng trố mắt nhìn."
+    },
+    {
+      "para_id": "c0104p0066",
+      "index": 66,
+      "raw_zh": "因為在這山坳裡竟然有一艘巨大的船隻，就那麽安靜的坐落在山坳之中。",
+      "translated_vi": "Bởi lẽ ngay giữa lòng khe núi này, bất ngờ sừng sững một con tàu khổng lồ, cứ thế lặng lẽ ngự trị giữa thung lũng đá."
+    },
+    {
+      "para_id": "c0104p0067",
+      "index": 67,
+      "raw_zh": "雲千峰發誓，他在這裡看到飛機甚至是衛星都不會這麽驚訝，畢竟那些東西都會飛。",
+      "translated_vi": "Vân Thiên Phong thề rằng, dẫu anh có trông thấy máy bay hay thậm chí là vệ tinh rơi ở nơi này cũng chẳng kinh ngạc đến mức độ ấy, dù sao những thứ kia đều biết bay."
+    },
+    {
+      "para_id": "c0104p0068",
+      "index": 68,
+      "raw_zh": "但是看到一艘巨大的船隻，這完全無法理解。",
+      "translated_vi": "Song nhìn thấy một con tàu thủy đồ sộ ngự giữa rừng núi thế này, quả thực hoàn toàn không thể nào lý giải nổi."
+    },
+    {
+      "para_id": "c0104p0069",
+      "index": 69,
+      "raw_zh": "因為這裡距離海邊最少有七八公裡遠，而且到處都是巨大的樹木。",
+      "translated_vi": "Bởi vì nơi đây cách bờ biển ít nhất cũng phải bảy, tám cây số, lại thêm khắp nơi giăng kín những thân cây cổ thụ to lớn."
+    },
+    {
+      "para_id": "c0104p0070",
+      "index": 70,
+      "raw_zh": "如何才能把一個沒有翅膀沒有輪子的巨大船隻弄到一個狹窄的山坳裡？",
+      "translated_vi": "Bằng cách nào người ta có thể đưa một con tàu khổng lồ không có cánh cũng chẳng có bánh xe vào tận sâu trong một khe núi chật hẹp thế này?"
+    },
+    {
+      "para_id": "c0104p0071",
+      "index": 71,
+      "raw_zh": "今天就這麽多，大家好好休息，晚安！！！",
+      "translated_vi": "Hôm nay đến đây thôi nhé, chúc mọi người nghỉ ngơi thật ngon giấc, ngủ ngon!!!"
+    }
+  ]
+}

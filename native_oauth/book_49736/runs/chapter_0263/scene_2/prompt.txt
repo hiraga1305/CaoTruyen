@@ -1,0 +1,104 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0263|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|"Tôi không mặc quần áo, ở đây tôi không có cách nào tồn tại dưới hình dạng hồ ly được, mau đưa quần áo cho tôi!"
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §65):
+§1 雲千峰急忙在背包裡掏出自己換穿的一套戶外裝扔到了法緹娜所在的草叢深處。
+§2 [Ø=云千峰]裡面很快傳來了窸窣穿衣的聲響，還有咬牙切齒的低罵，也不知道再罵什麽，又因為什麽而罵。
+§3 [Ø=云千峰]而當白狐走到倆人面前時，雲千峰知道白狐罵什麽了。
+§4 因為尾巴沒地方放。
+§5 [Ø=云千峰]雲千峰憋著笑，用軍刀在白狐褲子後面割了一個洞，然後伸手把白狐的尾巴掏了出來。
+§6 [Ø=云千峰]白狐扭了扭腰，這才長吐了一口氣，舒服了。
+§7 [Ø=云千峰]卓瑪好奇的圍著白狐看，似乎很想摸那白色毛茸茸的尾巴，但還有點不敢。
+§8 [Ø=云千峰]作為當地人，很容易就接受狐狸成精這種不靠譜的事情。
+§9 [Ø=云千峰]卓瑪自來熟，一臉喜悅的看著白狐問道：
+§10 [Ø=云千峰]“雲說我是三青鳥噠，你是九尾狐嘛？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=云千峰]白狐沉吟，想繃著那前輩的范兒，但是明顯沒繃住，最後來了句：
+§12 “我就一條尾巴！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 卓瑪傻兮兮的道：
+§14 [Ø=云千峰]“估計還會長，證明你還年輕的嘛。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 [Ø=云千峰]雲千峰看著白狐，笑問道：
+§16 “你怎麽來了？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 [Ø=云千峰]說心裡話，白狐一來，雲千峰心裡莫名的有安全感。
+§18 白狐回道：
+§19 [Ø=云千峰]“我們之間的契約還在，我肯定要來找你的， [||] 之前準備去南極，但是半路得知你已經回來了，於是就追到了這裡。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§20 隨後白狐把自己在瑪肆科那裡知道的事情和雲千峰說了一遍。
+§21 [Ø=云千峰]雲千峰感慨帝嚳的算計，同時感歎原來人類與守望者之間的仇恨，原來是因為帝嚳把他們逼進了地底。
+§22 [Ø=云千峰]不過雲千峰認為帝嚳做得非常正確，既然守望者的子孫敢於把人類當成食物，那麽人類就應該把祂們送到絕路。
+§23 這是雲千峰第一次對帝嚳有了點好感。
+§24 [Ø=云千峰]同時也佩服起來自己，因為自己愣是猜到了有兩個香巴拉。
+§25 於是他對著白狐興奮道：
+§26 [Ø=云千峰]“白狐，這裡一定就是最古早的香巴拉！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 白狐沉吟道：
+§28 [Ø=云千峰]“不要那麽早確定，最古早的香巴拉是在水底，否則無法解釋後來的人類把天海下的川蜀認成伊甸園。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 [Ø=云千峰]雲千峰點了點頭，道：
+§30 [Ø=云千峰]“你說得對，那咱們趕緊下山，到了那座古城的廢墟，或許就會有答案。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=云千峰]路上，雲千峰向白狐打聽守望者的跟腳。
+§32 [Ø=云千峰]而白狐很顯然是做了功課的，祂真的很仔細調查了守望者的來龍去脈。
+§33 [Ø=云千峰]“雲，你知道死海古卷嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 [Ø=云千峰]雲千峰思索了一下，道：
+§35 [Ø=云千峰]“聽說過，但是沒讀過，死海古卷和守望者有關系嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 [Ø=云千峰]白狐點了點頭，道：
+§37 [Ø=云千峰]“死海古卷裡包含著以諾書，以諾書在古早前被定義為邪書，已經銷毀了，死海古卷則完整的保存了以諾書的內容。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 [Ø=云千峰]“相傳以諾曾被守望者的主人邀請過，遊覽了我們完全無法理解的世界，以諾就是在被邀請的三百年裡，記載寫下了以諾書。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 [Ø=云千峰]“他在以諾書裡很詳細的記述了二百守望者的故事，當年被帝嚳以計謀逼下地底的二百守望者， [||] 祂們原本的責任是守護地球，觀察人類，而決不允許干擾人類的生息。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 [Ø=云千峰]“但是這二百守望者被人間的愛情吸引，最後集體違背了祂們主人的命令，讓自己與人類相融合，生出了那些蜥蜴般的怪人。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 “這才有了顓頊與帝嚳的絕地天通.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§42 [Ø=云千峰]聽完白狐的講述，雲千峰基本上已經把大洪水前到現在的地球歷史脈絡搞清楚，然後問道：
+§43 “山神怎麽選擇？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 [Ø=云千峰]白狐知道雲千峰問的是什麽，直接道：
+§45 [Ø=云千峰]“選擇殺你，然後隔岸觀火。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§46 [Ø=云千峰]雲千峰點了點頭，道：
+§47 [Ø=云千峰]“是啊，殺我是你們和守望者共同的利益，若是我成為了新一代的蚩尤，山神將無處遁形， [||] 想要寄生，恐怕只能選擇畜生了，你幫我，代價很大吧？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§48 [Ø=云千峰]白狐無所謂，道：
+§49 [Ø=云千峰]“山神將對我殺無赦，不過沒關系， [||] 你知道我們是不死的，殺我也就是這一世，我幫你也只是這一世。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§50 雲千峰很誠懇道：
+§51 “謝謝你白狐。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§52 [Ø=云千峰]白狐搖了搖尾巴代替擺手，意思是不用那麽客氣，然後說道：
+§53 [Ø=云千峰]“你該知道，你現在走的是必死之路吧？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§54 雲千峰點了點頭。
+§55 [Ø=云千峰]白狐也點了點頭，祂尊重雲千峰的選擇，就像祂從來都尊重自己一樣。
+§56 [Ø=云千峰]三個人沿著陡峭的山坡而下，需要時刻借著旁邊植物穩定身體，才不至於滑倒。
+§57 [Ø=云千峰]正走著，天色卻漸漸黯淡下來，但是那太陽明明還在中天之上。
+§58 [Ø=云千峰]雲千峰摘了一片樹葉，用舌頭把口水舔在那樹葉上，然後靠著這層液體倒映中天的太陽。
+§59 [Ø=云千峰]“咱們馬上開出一塊空地原地戒備，應該是日食了，你們看太陽的倒影，已經缺了半邊.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§60 [Ø=云千峰]卓瑪把自己那把比較小的藏刀遞給了手無寸鐵的白狐，雲千峰也軍刀出鞘，在三個人用刀臨時弄出來的一小塊空地上，屏息傾聽四周。
+§61 [Ø=云千峰]在這詭異的世界裡，鬼知道日食之後會出現什麽。
+§62 [Ø=云千峰]感謝絕世凶獸成和葉的打賞，謝謝你的支持！！！
+§63 [Ø=云千峰]感謝該幹嘛幹嘛呢、書友尾數16248、尾數23831的月票獎勵，謝謝你們的支持！！！
+§64 [Ø=云千峰]今天睡多了，準備熬夜碼字！！！
+§65 [Ø=云千峰]祝大家好夢，晚安！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 65 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§65. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

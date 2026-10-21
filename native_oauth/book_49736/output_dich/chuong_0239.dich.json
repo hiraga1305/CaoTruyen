@@ -1,0 +1,536 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 239,
+  "title": "Chương 239: Mưu Trương Lương, thang vượt tường",
+  "total_paragraphs": 102,
+  "translated_paragraphs": 102,
+  "source_hash": "9dfee7b3d7412c12fda8570e1748cdd932d61af1d2cd077bc84227714e235ee5",
+  "model_used": "gemini-3.8-flash-high",
+  "elapsed_seconds": 287.55,
+  "bilingual_alignment": [
+    {
+      "para_id": "c0239p0001",
+      "index": 1,
+      "raw_zh": "239.第239章 張良計，過牆梯",
+      "translated_vi": "Chương 239: Mưu Trương Lương, thang vượt tường"
+    },
+    {
+      "para_id": "c0239p0002",
+      "index": 2,
+      "raw_zh": "第239章 張良計，過牆梯",
+      "translated_vi": "Chương 239: Mưu Trương Lương, thang vượt tường"
+    },
+    {
+      "para_id": "c0239p0003",
+      "index": 3,
+      "raw_zh": "南極，極夜的晴空是如此的美妙。",
+      "translated_vi": "Ở Nam Cực, bầu trời quang đãng giữa đêm cực huyền diệu khôn cùng."
+    },
+    {
+      "para_id": "c0239p0004",
+      "index": 4,
+      "raw_zh": "璀璨的星，絢爛半邊天的極光讓人仿若置身於夢境。",
+      "translated_vi": "Muôn ngàn vì sao rực rỡ, dải cực quang lộng lẫy nhuộm sáng nửa vòm trời khiến người ta ngỡ như đang lạc bước giữa cõi mộng."
+    },
+    {
+      "para_id": "c0239p0005",
+      "index": 5,
+      "raw_zh": "你無法想象，這就是你在其它緯度看到的同一片天空。",
+      "translated_vi": "Bạn khó lòng tưởng tượng nổi, đây lại chính là vòm trời mà mình từng ngắm nhìn ở những vĩ độ khác."
+    },
+    {
+      "para_id": "c0239p0006",
+      "index": 6,
+      "raw_zh": "它們是如此的不同。",
+      "translated_vi": "Chúng khác biệt đến nhường ấy."
+    },
+    {
+      "para_id": "c0239p0007",
+      "index": 7,
+      "raw_zh": "用琳達的話來說，那就是除了冷，這地方浪漫到要是有人求婚，她看在極光的面子上，基本都能答應。",
+      "translated_vi": "Nói theo cách của Linda, thì ngoài việc lạnh thấu xương ra, mảnh đất này lãng mạn đến mức nếu có ai cầu hôn, nể mặt dải cực quang kia cô cũng sẽ gật đầu cái rụp."
+    },
+    {
+      "para_id": "c0239p0008",
+      "index": 8,
+      "raw_zh": "這種暗示，很顯然雲千峰沒有聽懂，因為他問了句：",
+      "translated_vi": "Lời ám chỉ rõ rành rành như thế, hiển nhiên Vân Thiên Phong chẳng hề hiểu ra, bởi hắn đã buột miệng hỏi một câu:"
+    },
+    {
+      "para_id": "c0239p0009",
+      "index": 9,
+      "raw_zh": "“巴黎聖母院的敲鍾人也行？”",
+      "translated_vi": "\"Thằng gù nhà thờ Đức Bà cũng được à?\""
+    },
+    {
+      "para_id": "c0239p0010",
+      "index": 10,
+      "raw_zh": "琳達沉默了，話有點滿，自己雖然不是顏狗，但也最多也就是顏狗-1.",
+      "translated_vi": "Linda nín thinh. Nói lời hơi quá trớn rồi, dù bản thân cô không phải đứa nông cạn chỉ biết mê cái đẹp, nhưng cùng lắm cũng chỉ hạ tiêu chuẩn xuống mức \"mê nhan sắc trừ một\" mà thôi."
+    },
+    {
+      "para_id": "c0239p0011",
+      "index": 11,
+      "raw_zh": "她覺得，雲千峰正好是這個減一，不怕被偷，還挺耐看，放心舒心，恰到好處，就是有點不開竅。",
+      "translated_vi": "Cô cảm thấy Vân Thiên Phong vừa vặn rơi vào cái mức \"trừ một\" kia: để đó chẳng sợ bị kẻ khác cướp mất, nhìn lại khá thuận mắt, mang lại cảm giác an tâm dễ chịu, mọi thứ đều vừa vặn khéo léo, duy chỉ có việc đầu óc hơi chậm tiêu chuyện tình cảm."
+    },
+    {
+      "para_id": "c0239p0012",
+      "index": 12,
+      "raw_zh": "履帶車後，那滾浪般的白雪浮動消失了，因為那浪頭鑽進了車底。",
+      "translated_vi": "Phía sau chiếc xe bánh xích, những đợt tuyết trắng cuộn trào như sóng cồn đã biến mất không còn tăm tích, bởi vì ngọn sóng kia đã chui tọt vào gầm xe."
+    },
+    {
+      "para_id": "c0239p0013",
+      "index": 13,
+      "raw_zh": "緊接著，車身開始抖動，好像漂浮在風浪的海面，搖晃著。",
+      "translated_vi": "Ngay sau đó, thân xe bắt đầu rung chuyển, chòng chành lắc lư như thể đang dập dềnh giữa biển khơi đầy sóng gió."
+    },
+    {
+      "para_id": "c0239p0014",
+      "index": 14,
+      "raw_zh": "雲千峰和琳達都是滿臉詫異，完全不知道發生了什麽。",
+      "translated_vi": "Cả Vân Thiên Phong lẫn Linda đều kinh ngạc tột độ, hoàn toàn không biết rốt cuộc chuyện gì vừa xảy ra."
+    },
+    {
+      "para_id": "c0239p0015",
+      "index": 15,
+      "raw_zh": "“車下面有東西！”",
+      "translated_vi": "\"Dưới gầm xe có thứ gì đó!\""
+    },
+    {
+      "para_id": "c0239p0016",
+      "index": 16,
+      "raw_zh": "當雲千峰說出這句話的同時，一片白色包裹了車身，遮蔽了窗外的美景，隻留下恐懼。",
+      "translated_vi": "Đúng khoảnh khắc Vân Thiên Phong thốt ra câu nói ấy, một mảng trắng xóa đã bọc kín lấy thân xe, che khuất toàn bộ cảnh đẹp ngoài cửa kính, chỉ để lại nỗi kinh hoàng tột độ."
+    },
+    {
+      "para_id": "c0239p0017",
+      "index": 17,
+      "raw_zh": "那片白色包裹了車身，瞬間讓車內一團漆黑。",
+      "translated_vi": "Mảng trắng xóa bao bọc lấy thân xe, trong chớp mắt khiến cả khoang xe chìm vào bóng tối đặc quánh."
+    },
+    {
+      "para_id": "c0239p0018",
+      "index": 18,
+      "raw_zh": "人就是這樣，一旦看不到東西，恐懼感就會成倍增長。",
+      "translated_vi": "Con người vốn là như thế, một khi mất đi thị giác, nỗi sợ hãi sẽ tăng lên theo cấp số nhân."
+    },
+    {
+      "para_id": "c0239p0019",
+      "index": 19,
+      "raw_zh": "雲千峰也不能免俗。",
+      "translated_vi": "Vân Thiên Phong cũng không ngoại lệ."
+    },
+    {
+      "para_id": "c0239p0020",
+      "index": 20,
+      "raw_zh": "“開燈，琳達！”",
+      "translated_vi": "\"Bật đèn lên, Linda!\""
+    },
+    {
+      "para_id": "c0239p0021",
+      "index": 21,
+      "raw_zh": "琳達慌亂之中，竟然還能穩住心神打開車內那不怎麽光亮的頂燈。",
+      "translated_vi": "Trong cơn hoảng loạn, Linda thế mà vẫn giữ được bình tĩnh để bật chiếc đèn trần mờ mờ bên trong xe."
+    },
+    {
+      "para_id": "c0239p0022",
+      "index": 22,
+      "raw_zh": "“唰！”",
+      "translated_vi": "\"Tách!\""
+    },
+    {
+      "para_id": "c0239p0023",
+      "index": 23,
+      "raw_zh": "發白暗淡的燈光彌漫開來，把一切都照射的發青陳舊。",
+      "translated_vi": "Ánh đèn nhờ nhờ tái nhợt lan tỏa khắp xung quanh, phủ lên mọi vật một sắc xanh xao ảm đạm."
+    },
+    {
+      "para_id": "c0239p0024",
+      "index": 24,
+      "raw_zh": "而倆人也就此看到了蒙在車窗上的東西。",
+      "translated_vi": "Và cũng nhờ thế, cả hai người mới trông thấy rõ thứ đang dán chặt bên ngoài cửa sổ xe."
+    },
+    {
+      "para_id": "c0239p0025",
+      "index": 25,
+      "raw_zh": "那些東西，就好像是大雪覆蓋了車窗，但不同的是，它們長著好多的眼睛。",
+      "translated_vi": "Những thứ kia trông hệt như một lớp tuyết dày phủ kín cửa kính, nhưng điểm dị biệt là, chúng lại mọc đầy những con mắt."
+    },
+    {
+      "para_id": "c0239p0026",
+      "index": 26,
+      "raw_zh": "兩個手掌大的側窗，怕不是就有三四十隻黑圓的眸子在盯著倆人看。",
+      "translated_vi": "Chỉ riêng ô cửa sổ hông rộng chừng hai bàn tay, e là đã có tới ba bốn mươi con ngươi tròn xoe đen láy đang chòng chọc nhìn hai người."
+    },
+    {
+      "para_id": "c0239p0027",
+      "index": 27,
+      "raw_zh": "“啊！”",
+      "translated_vi": "\"Á!\""
+    },
+    {
+      "para_id": "c0239p0028",
+      "index": 28,
+      "raw_zh": "“啊！”",
+      "translated_vi": "\"Á!\""
+    },
+    {
+      "para_id": "c0239p0029",
+      "index": 29,
+      "raw_zh": "雲千峰和琳達一前一後被嚇得驚叫，最後聲音合二為一。",
+      "translated_vi": "Vân Thiên Phong và Linda trước sau sợ hãi hét lên, cuối cùng hai tiếng thét hòa làm một."
+    },
+    {
+      "para_id": "c0239p0030",
+      "index": 30,
+      "raw_zh": "那些長著無數眼睛，雪團一樣的東西在車窗上蠕動著，把履帶車推動的胡亂搖晃，就像一個頑皮的孩子在玩玩具。",
+      "translated_vi": "Những thứ như khối cầu tuyết mọc vô số con mắt kia đang ngọ nguậy bò trên mặt kính, xô đẩy khiến chiếc xe bánh xích chao đảo loạn xạ, hệt như một đứa trẻ nghịch ngợm đang vần vò món đồ chơi."
+    },
+    {
+      "para_id": "c0239p0031",
+      "index": 31,
+      "raw_zh": "“蹭！”",
+      "translated_vi": "\"Soạt!\""
+    },
+    {
+      "para_id": "c0239p0032",
+      "index": 32,
+      "raw_zh": "空調的縫隙裡鑽進來一抹白色。",
+      "translated_vi": "Từ khe hở của cửa gió điều hòa, một vệt trắng luồn lách chui vào."
+    },
+    {
+      "para_id": "c0239p0033",
+      "index": 33,
+      "raw_zh": "它是那麽柔韌，竟然能夠把身體拉長擠扁，自那麽細小的縫隙鑽進來。",
+      "translated_vi": "Nó dẻo dai đến kinh ngạc, lại có thể kéo dài và ép dẹp cơ thể để chui qua khe hở nhỏ hẹp chừng ấy."
+    },
+    {
+      "para_id": "c0239p0034",
+      "index": 34,
+      "raw_zh": "雲千峰借著燈光，第一時間發現了這入侵的東西，急忙用手一捉，將那東西捏在指尖，用力使勁一碾，那東西竟然發出了“吱吱”，如老鼠一樣的叫聲。",
+      "translated_vi": "Dưới ánh đèn, Vân Thiên Phong lập tức phát hiện ra sinh vật xâm nhập này, hắn vội vàng vung tay chộp lấy, kẹp chặt nó giữa hai đầu ngón tay rồi dồn lực nghiền nát, thứ đó vậy mà lại phát ra tiếng kêu \"chít chít\" the thé như chuột."
+    },
+    {
+      "para_id": "c0239p0035",
+      "index": 35,
+      "raw_zh": "“這是什麽東西？”",
+      "translated_vi": "\"Đây là cái thứ gì thế này?!\""
+    },
+    {
+      "para_id": "c0239p0036",
+      "index": 36,
+      "raw_zh": "琳達驚聲叫道。",
+      "translated_vi": "Linda thất thanh kêu lên."
+    },
+    {
+      "para_id": "c0239p0037",
+      "index": 37,
+      "raw_zh": "雲千峰想到之前南極站那倆人的死相，再看這東西柔韌能變形的體質，立馬醒悟道：",
+      "translated_vi": "Vân Thiên Phong nhớ tới thảm trạng chết chóc của hai người ở trạm Nam Cực trước đó, lại nhìn thể chất dẻo quánh có thể biến dạng của thứ này, lập tức hiểu ra:"
+    },
+    {
+      "para_id": "c0239p0038",
+      "index": 38,
+      "raw_zh": "“是雪人，這些小東西集合在一團，就形成了雪人，琳達座緊了椅子，千萬別抬屁股，把嘴閉嚴實，賭注耳朵！這東西見孔就鑽。”",
+      "translated_vi": "\"Là người tuyết! Mấy thứ nhỏ này tụ lại thành bầy thì sẽ biến thành người tuyết! Linda, ngồi ghì chặt lấy ghế, tuyệt đối không được nhấc mông lên, ngậm chặt miệng lại, bịt chặt hai lỗ tai! Thứ này cứ thấy lỗ hổng là chui vào đấy!\""
+    },
+    {
+      "para_id": "c0239p0039",
+      "index": 39,
+      "raw_zh": "“叔叔，手不夠用啊！我和你不一樣，我坐緊了椅子，也還需要一隻手捂著！”",
+      "translated_vi": "\"Chú ơi, tay không đủ dùng đâu! Tôi đâu có giống anh, tôi ngồi ép chặt xuống ghế rồi mà vẫn cần thêm một tay để che nữa đấy!\""
+    },
+    {
+      "para_id": "c0239p0040",
+      "index": 40,
+      "raw_zh": "雲千峰聞言，急忙用力甩掉自己的鞋子，然後把腳一抬，放到了琳達身上，大聲道：",
+      "translated_vi": "Vân Thiên Phong nghe vậy, vội vàng ra sức đạp văng đôi giày của mình, rồi giơ chân gác thẳng lên người Linda, lớn tiếng quát:"
+    },
+    {
+      "para_id": "c0239p0041",
+      "index": 41,
+      "raw_zh": "“好了，管住臉面就行，下面交給我！”",
+      "translated_vi": "\"Được rồi, lo che mặt là được, bên dưới cứ giao cho tôi!\""
+    },
+    {
+      "para_id": "c0239p0042",
+      "index": 42,
+      "raw_zh": "“叔叔，你的腳好臭，多久沒洗了！”",
+      "translated_vi": "\"Chú ơi, chân anh hôi thế, bao lâu rồi chưa rửa hả?!\""
+    },
+    {
+      "para_id": "c0239p0043",
+      "index": 43,
+      "raw_zh": "“別廢話，活命要緊，等會洗腳！”",
+      "translated_vi": "\"Bớt nói nhảm đi, giữ mạng là trên hết, tí nữa rửa chân sau!\""
+    },
+    {
+      "para_id": "c0239p0044",
+      "index": 44,
+      "raw_zh": "越來越多的白色雪球扭動著鑽進車內，循著熱量，爬到了倆人身上。",
+      "translated_vi": "Càng lúc càng có thêm nhiều khối cầu tuyết màu trắng ngọ nguậy luồn vào trong xe, men theo hơi ấm tỏa ra mà bò lên người hai người bọn họ."
+    },
+    {
+      "para_id": "c0239p0045",
+      "index": 45,
+      "raw_zh": "它們在人身上攀爬的速度不快，而且正如雲千峰所猜測，專門尋找熱量集中散發的地方，也就是孔。",
+      "translated_vi": "Tốc độ bò trườn trên cơ thể người của chúng không nhanh, vả lại đúng như Vân Thiên Phong suy đoán, chúng chuyên nhắm vào những nơi tỏa nhiệt tập trung nhất, tức là các khiếu huyệt lỗ hổng trên người."
+    },
+    {
+      "para_id": "c0239p0046",
+      "index": 46,
+      "raw_zh": "奈何倆人早作準備，堵了個嚴實，那些東西在倆人頭上身上爬來爬去，不得其門而入。",
+      "translated_vi": "Ngặt nỗi cả hai đã sớm chuẩn bị, bịt kín mít mọi chỗ, lũ sinh vật kia bò tới bò lui trên đầu trên người bọn họ mà đành chịu, chẳng tìm được lối chui vào."
+    },
+    {
+      "para_id": "c0239p0047",
+      "index": 47,
+      "raw_zh": "很快，倆人徹底被這些雪人裹滿了身，裡三層外三層，一點氣不透。",
+      "translated_vi": "Chẳng mấy chốc, cả hai người đã bị những người tuyết này bao bọc kín mít khắp toàn thân, tầng tầng lớp lớp, không hở ra lấy một kẽ gió."
+    },
+    {
+      "para_id": "c0239p0048",
+      "index": 48,
+      "raw_zh": "無法呼吸的倆人，完全不敢松開捏著鼻子的手，咬緊牙關不讓那些東西順著嘴巴鑽進來。",
+      "translated_vi": "Hai người không thể hít thở, hoàn toàn chẳng dám nới lỏng bàn tay đang bóp chặt mũi, hai hàm răng cắn chặt để không cho lũ quái dị kia men theo khóe miệng chui vào."
+    },
+    {
+      "para_id": "c0239p0049",
+      "index": 49,
+      "raw_zh": "但這樣僵持幾分鍾，便都因為窒息而面色漲紅，胸口開始劇烈的起伏。",
+      "translated_vi": "Nhưng cứ giằng co như vậy chừng vài phút, cả hai đều vì ngạt thở mà mặt mày đỏ bừng, lồng ngực bắt đầu phập phồng kịch liệt."
+    },
+    {
+      "para_id": "c0239p0050",
+      "index": 50,
+      "raw_zh": "他們不得不面臨兩個選擇。",
+      "translated_vi": "Bọn họ buộc phải đối mặt với hai sự lựa chọn."
+    },
+    {
+      "para_id": "c0239p0051",
+      "index": 51,
+      "raw_zh": "松開手呼吸，然後被雪人吃空。",
+      "translated_vi": "Buông tay ra để thở, rồi bị lũ người tuyết này gặm rỗng ruột gan."
+    },
+    {
+      "para_id": "c0239p0052",
+      "index": 52,
+      "raw_zh": "繼續憋著，窒息而死，然後被雪人吃空。",
+      "translated_vi": "Tiếp tục nín thở thì chết ngạt, rồi cũng bị đám người tuyết này gặm sạch ruột gan."
+    },
+    {
+      "para_id": "c0239p0053",
+      "index": 53,
+      "raw_zh": "就在倆人在兩個必死的選項裡恐懼糾結的空擋，那些雪人卻突然作鳥獸散。",
+      "translated_vi": "Ngay trong lúc hai người còn đang run rẩy giằng xé giữa hai lựa chọn nắm chắc cái chết, đám người tuyết kia lại đột ngột tản ra như ong vỡ tổ."
+    },
+    {
+      "para_id": "c0239p0054",
+      "index": 54,
+      "raw_zh": "可真是來也匆匆去也匆匆。",
+      "translated_vi": "Đúng thật là đến vội vã mà đi cũng vội vàng."
+    },
+    {
+      "para_id": "c0239p0055",
+      "index": 55,
+      "raw_zh": "一個個爭先恐後的鑽進來，再一個個爭先恐後的順著空調的縫隙鑽出去。",
+      "translated_vi": "Chúng từng con tranh nhau chen vào, rồi lại từng con tranh nhau men theo khe hở của máy điều hòa mà chui tọt ra ngoài."
+    },
+    {
+      "para_id": "c0239p0056",
+      "index": 56,
+      "raw_zh": "眨眼間就跑了個乾淨。",
+      "translated_vi": "Chỉ trong chớp mắt đã chạy sạch không còn một bóng."
+    },
+    {
+      "para_id": "c0239p0057",
+      "index": 57,
+      "raw_zh": "雲千峰詫異的看著窗外，匯聚在一處，呈雪人狀的那群怪物，一時之間全是迷茫。",
+      "translated_vi": "Vân Thiên Phong kinh ngạc nhìn ra ngoài cửa sổ, nơi đám quái vật kia tụ lại một chỗ thành hình người tuyết, trong thoáng chốc đáy mắt hắn chỉ toàn là vẻ mờ mịt."
+    },
+    {
+      "para_id": "c0239p0058",
+      "index": 58,
+      "raw_zh": "雪人沒有腳，匯成一堆後，就那麽貼著雪面，速度奇快的向著遠方跑去，就像是雪面上翻滾的浪花。",
+      "translated_vi": "Người tuyết không có chân, sau khi tụ thành một khối, chúng cứ thế dán sát vào mặt tuyết, lao nhanh về phía xa với tốc độ kinh người, tựa như những đợt bọt sóng cuộn trào trên nền tuyết trắng."
+    },
+    {
+      "para_id": "c0239p0059",
+      "index": 59,
+      "raw_zh": "“叔叔，它們怎麽跑了？”",
+      "translated_vi": "\"Chú ơi, sao chúng nó lại chạy mất rồi?\""
+    },
+    {
+      "para_id": "c0239p0060",
+      "index": 60,
+      "raw_zh": "雲千峰搖了搖頭，正要說不知道，然後愣住，來了句：",
+      "translated_vi": "Vân Thiên Phong lắc đầu, đang định bảo không biết thì bỗng khựng lại, thốt lên một câu:"
+    },
+    {
+      "para_id": "c0239p0061",
+      "index": 61,
+      "raw_zh": "“因為更倒霉的事情來了！”",
+      "translated_vi": "\"Bởi vì chuyện xui xẻo hơn đã đến rồi!\""
+    },
+    {
+      "para_id": "c0239p0062",
+      "index": 62,
+      "raw_zh": "薩弱煽動者翅膀，漂浮在車窗前，一群蜥蜴人把紅色的履帶車圍在中間。",
+      "translated_vi": "Tát Nhược đập cánh, lơ lửng trước cửa kính xe, một đàn người thằn lằn đã vây kín chiếc xe bánh xích màu đỏ vào giữa."
+    },
+    {
+      "para_id": "c0239p0063",
+      "index": 63,
+      "raw_zh": "“琳達，無論發生什麽，不要走出履帶車，我無法保護你，他們的目標是我，我會引開他們！”",
+      "translated_vi": "\"Linda, dù có xảy ra chuyện gì, cô cũng tuyệt đối không được bước ra khỏi xe bánh xích. Tôi không bảo vệ được cho cô đâu, mục tiêu của chúng là tôi, tôi sẽ dụ chúng đi!\""
+    },
+    {
+      "para_id": "c0239p0064",
+      "index": 64,
+      "raw_zh": "說完，推開車門，臉上帶著譏笑，走出來，對著半空的薩弱，道：",
+      "translated_vi": "Dứt lời, hắn đẩy cửa xe, khóe môi mang theo nụ cười châm chọc bước ra ngoài, ngước nhìn Tát Nhược đang lơ lửng giữa không trung mà cất giọng:"
+    },
+    {
+      "para_id": "c0239p0065",
+      "index": 65,
+      "raw_zh": "“十年修得同船度，百年修得共枕眠，一日夫妻百日恩，你我終究有一日之緣，這是又想我了？”",
+      "translated_vi": "\"Mười năm tu mới ngồi chung thuyền, trăm năm tu mới chung gối nằm, một ngày vợ chồng trăm ngày ân nghĩa. Dù sao thì cô và tôi cũng từng có duyên phận một ngày, đây là lại nhớ đến tôi rồi à?\""
+    },
+    {
+      "para_id": "c0239p0066",
+      "index": 66,
+      "raw_zh": "說完，哈哈大笑兩聲，於此同時，他左手一伸一抖，一枚只有十公分的弩箭直射向最近的蜥蜴人。",
+      "translated_vi": "Nói xong, hắn cười lớn hai tiếng ha ha, cùng lúc đó, tay trái vung lên rung nhẹ, một viên nỏ tiễn dài vẻn vẹn mười phân bắn thẳng về phía tên người thằn lằn gần nhất."
+    },
+    {
+      "para_id": "c0239p0067",
+      "index": 67,
+      "raw_zh": "“蓬！”",
+      "translated_vi": "\"Bùm!\""
+    },
+    {
+      "para_id": "c0239p0068",
+      "index": 68,
+      "raw_zh": "紅色和銀色的粉末爆散開來，彌漫了那個蜥蜴人胸口一片。",
+      "translated_vi": "Bột phấn màu đỏ và màu bạc nổ tung ra, phủ kín một mảng lớn trước ngực tên người thằn lằn kia."
+    },
+    {
+      "para_id": "c0239p0069",
+      "index": 69,
+      "raw_zh": "然而，那以為的腐蝕效果並沒有出現，反而引得薩弱和那群蜥蜴人一陣怪笑。",
+      "translated_vi": "Thế nhưng, hiệu quả ăn mòn như dự tính lại chẳng hề xuất hiện, trái lại còn dẫn tới một tràng cười quái đản của Tát Nhược cùng đám người thằn lằn."
+    },
+    {
+      "para_id": "c0239p0070",
+      "index": 70,
+      "raw_zh": "“傻瓜，你的朱砂和銀粉都是假貨，給你製造這些東西的人，已經是我們的仆人，哈哈哈，等待著我們偉大的薩弱對你的折磨吧！”",
+      "translated_vi": "\"Đồ ngốc, chu sa và bột bạc của mày đều là đồ giả! Kẻ chế tạo những thứ này cho mày đã là đầy tớ của bọn tao rồi, ha ha ha, cứ ngoan ngoãn chờ Tát Nhược vĩ đại của bọn tao tra tấn mày đi!\""
+    },
+    {
+      "para_id": "c0239p0071",
+      "index": 71,
+      "raw_zh": "薩弱一點也不急，在這裡可沒有太陽搗亂，所以她連陣法都懶得布置。",
+      "translated_vi": "Tát Nhược chẳng hề vội vã, ở nơi này không có ánh mặt trời quấy rầy, nên ả đến cả trận pháp cũng lười chẳng buồn bố trí."
+    },
+    {
+      "para_id": "c0239p0072",
+      "index": 72,
+      "raw_zh": "於是恨恨的看著雲千峰，腦子裡想著等會折磨他的方法。",
+      "translated_vi": "Ả hằn học nhìn chằm chằm vào Vân Thiên Phong, trong đầu mải tính toán những cách thức để giày vò hắn lát nữa."
+    },
+    {
+      "para_id": "c0239p0073",
+      "index": 73,
+      "raw_zh": "那群蜥蜴人不需要薩弱吩咐，就速度奇快的開始動手，向著雲千峰圍困而去。",
+      "translated_vi": "Đám người thằn lằn kia chẳng cần Tát Nhược phân phó, lập tức ra tay với tốc độ cực nhanh, lao tới vây khốn Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0239p0074",
+      "index": 74,
+      "raw_zh": "雲千峰臉上全是震驚和恐懼，他愣了一下，如困獸般怒吼一聲，朝著一個方向衝撞而去。",
+      "translated_vi": "Gương mặt Vân Thiên Phong ngập tràn vẻ bàng hoàng cùng hoảng sợ, hắn ngẩn ra một thoáng, rồi như thú dữ sa cơ gầm lên một tiếng giận dữ, liều mạng đâm sầm về một hướng."
+    },
+    {
+      "para_id": "c0239p0075",
+      "index": 75,
+      "raw_zh": "看起來，他準備殺開一條血路逃命。",
+      "translated_vi": "Xem chừng, hắn đang định mở một đường máu để tháo chạy thoát thân."
+    },
+    {
+      "para_id": "c0239p0076",
+      "index": 76,
+      "raw_zh": "一隻蜥蜴人是決計攔不住雲千風的，但是五隻六隻七隻，就不是雲千峰能夠突破的了，因為他要保護自己的雙腿不被攻擊，那是他的死穴。",
+      "translated_vi": "Một tên người thằn lằn thì tuyệt đối không cản nổi Vân Thiên Phong, nhưng khi là năm tên, sáu tên, rồi bảy tên, thì đó không còn là thứ hắn có thể đột phá được nữa; bởi lẽ hắn còn phải bảo vệ đôi chân của mình khỏi bị tấn công, đó chính là tử huyệt của hắn."
+    },
+    {
+      "para_id": "c0239p0077",
+      "index": 77,
+      "raw_zh": "他躲閃著，衝撞著，但始終無法衝出包圍圈，范圍被那些蜥蜴人越圍活動范圍越小。",
+      "translated_vi": "Hắn vừa né tránh vừa xông xáo đâm húc, nhưng trước sau vẫn không sao thoát khỏi vòng vây, phạm vi hoạt động bị đám người thằn lằn siết chặt ngày một thu hẹp."
+    },
+    {
+      "para_id": "c0239p0078",
+      "index": 78,
+      "raw_zh": "眼看著他能夠移動的范圍只剩下不足直徑五米的圓圈，那些蜥蜴人陰森森的笑著，步伐沉穩的向著雲千峰靠攏。",
+      "translated_vi": "Trông thấy khoảng không gian hắn có thể di chuyển chỉ còn lại một vòng tròn đường kính chưa đầy năm mét, đám người thằn lằn nở nụ cười âm hiểm, từng bước vững chãi áp sát về phía Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0239p0079",
+      "index": 79,
+      "raw_zh": "薩弱至此一動未動，就那麽抱著膀，飄在半空，看著雲千峰好似老鼠似的亂竄，此時她的心情很不錯。",
+      "translated_vi": "Tát Nhược nãy giờ vẫn không hề nhúc nhích, ả cứ khoanh tay lơ lửng giữa không trung, nhìn Vân Thiên Phong cuống cuồng chạy loạn như chuột sa hũ nút, tâm trạng lúc này vô cùng khoan khoái."
+    },
+    {
+      "para_id": "c0239p0080",
+      "index": 80,
+      "raw_zh": "“等會，可以讓蜥蜴人爆了他，解我心頭之恨！”",
+      "translated_vi": "\"Lát nữa có thể để đám người thằn lằn làm thịt hắn ra bã, mới xả được mối hận trong lòng!\""
+    },
+    {
+      "para_id": "c0239p0081",
+      "index": 81,
+      "raw_zh": "正想著，卻見包圍圈內，雲千峰在兜裡掏出一把圓形的小球，咬牙道：",
+      "translated_vi": "Đang mải suy tính, ả bỗng thấy bên trong vòng vây, Vân Thiên Phong thò tay vào túi móc ra một nắm bi tròn nhỏ, nghiến răng quát:"
+    },
+    {
+      "para_id": "c0239p0082",
+      "index": 82,
+      "raw_zh": "“別靠近，在靠近我就不客氣了！”",
+      "translated_vi": "\"Đừng có tới gần, còn bước lại gần nữa là tôi không khách sáo đâu đấy!\""
+    },
+    {
+      "para_id": "c0239p0083",
+      "index": 83,
+      "raw_zh": "那些蜥蜴人大笑，道：",
+      "translated_vi": "Đám người thằn lằn cười lớn, bảo:"
+    },
+    {
+      "para_id": "c0239p0084",
+      "index": 84,
+      "raw_zh": "“你拿什麽對我們不客氣呢？”",
+      "translated_vi": "\"Mày lấy cái gì mà đòi không khách sáo với bọn tao chứ?\""
+    },
+    {
+      "para_id": "c0239p0085",
+      "index": 85,
+      "raw_zh": "“那些小球嗎？裡面可不是朱砂，是氧化鐵和鋁粉。”",
+      "translated_vi": "\"Mấy viên bi nhỏ kia sao? Bên trong chẳng phải là chu sa đâu, mà là oxit sắt với bột nhôm đấy!\""
+    },
+    {
+      "para_id": "c0239p0086",
+      "index": 86,
+      "raw_zh": "雲千峰手有些顫抖，那膽戰心驚的模樣，讓敵人蔑視的笑著。",
+      "translated_vi": "Bàn tay Vân Thiên Phong hơi run rẩy, điệu bộ nơm nớp lo sợ kia của hắn khiến kẻ địch bật cười đầy khinh miệt."
+    },
+    {
+      "para_id": "c0239p0087",
+      "index": 87,
+      "raw_zh": "突然，雲千峰雙手甩動，那早被他抓在手裡的小球，被他散射而出。",
+      "translated_vi": "Bất c"
+    }
+  ]
+}

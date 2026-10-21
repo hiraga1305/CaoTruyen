@@ -1,0 +1,451 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 19,
+  "title": "Chương 19: Còn hoang đường hơn cả gặp ma",
+  "total_paragraphs": 73,
+  "translated_paragraphs": 73,
+  "source_hash": "e59c9150a4fc7782de59213d652d70c63bfa74aa07e4ffa85cbdf83e8ed46462",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0019p0001",
+      "index": 1,
+      "raw_zh": "第19章 比見鬼還離譜",
+      "translated_vi": "Chương 19: Còn hoang đường hơn cả gặp ma"
+    },
+    {
+      "para_id": "c0019p0002",
+      "index": 2,
+      "raw_zh": "雲千峰把烤乾的衣服一件一件順著帳篷門口遞進去。",
+      "translated_vi": "Vân Thiên Phong lần lượt luồn từng chiếc quần áo đã được nướng khô qua khe cửa lều đưa vào bên trong."
+    },
+    {
+      "para_id": "c0019p0003",
+      "index": 3,
+      "raw_zh": "為了避免兩女尷尬，他只是把手臂伸進去。",
+      "translated_vi": "Để tránh khiến hai cô gái ngượng ngùng khó xử, hắn chỉ thò độc một cánh tay vào."
+    },
+    {
+      "para_id": "c0019p0004",
+      "index": 4,
+      "raw_zh": "但即便如此，倆女看到他把自己的內衣一件一件用手遞進來，還是有些臉熱，穿的時候更熱。",
+      "translated_vi": "Dẫu vậy, khi nhìn bàn tay hắn cầm từng món nội y của mình đưa vào, hai nàng vẫn không khỏi nóng ran cả mặt mày, lúc mặc vào người lại càng thêm ngượng ngùng đỏ ửng."
+    },
+    {
+      "para_id": "c0019p0005",
+      "index": 5,
+      "raw_zh": "等倆人都穿好衣服，雲千峰把熬好的野薑根水倒進杯子裡拿進來，讓倆人都喝了滿滿一杯，祛除體內的寒氣。",
+      "translated_vi": "Đợi cả hai mặc quần áo chỉnh tề xong xuôi, Vân Thiên Phong rót nước gừng rừng nóng hổi vừa sắc xong vào cốc mang vào lều, bắt mỗi người uống cạn một ly đầy để trục xuất hàn khí tích tụ trong cơ thể ra ngoài."
+    },
+    {
+      "para_id": "c0019p0006",
+      "index": 6,
+      "raw_zh": "別看薑柔甲現在沒事，但河水濕冷的病氣畢竟已經入體，如果不盡快拔除，早晚也得病一場。",
+      "translated_vi": "Đừng thấy hiện giờ Khương Nhu Giáp vẫn khỏe re mà chủ quan, hơi lạnh ẩm ướt của nước sông rốt cuộc đã ngấm vào kinh lạc, nếu không sớm trục xuất ra thì sớm muộn gì cũng lăn đùng ra ốm một trận li bì."
+    },
+    {
+      "para_id": "c0019p0007",
+      "index": 7,
+      "raw_zh": "隨後雲千峰拿著幾根削好的木棍走進來。",
+      "translated_vi": "Tiếp đó, Vân Thiên Phong cầm mấy que củi đã được vót nhẵn bước vào lều."
+    },
+    {
+      "para_id": "c0019p0008",
+      "index": 8,
+      "raw_zh": "這些木棍都是筷子長短，小拇指粗細，上面散著一股微苦的清香。",
+      "translated_vi": "Những que gỗ này dài chừng một chiếc đũa, thon cỡ ngón tay út, tỏa ra một mùi hương thanh đắng dìu dịu."
+    },
+    {
+      "para_id": "c0019p0009",
+      "index": 9,
+      "raw_zh": "一進來他就對秦疏影說道：",
+      "translated_vi": "Vừa bước vào, hắn liền nói với Tần Sơ Ảnh:"
+    },
+    {
+      "para_id": "c0019p0010",
+      "index": 10,
+      "raw_zh": "“你還得把上面衣服脫了，我用這個鳥不站的樹枝給你木灸一下穴位，先把高燒退下去。”",
+      "translated_vi": "“Cô vẫn phải cởi áo phần thân trên ra, tôi dùng cành cây ‘Điểu Bất Trạm’ này làm mộc cứu hơ các huyệt vị cho cô, hạ cơn sốt cao xuống trước đã.”"
+    },
+    {
+      "para_id": "c0019p0011",
+      "index": 11,
+      "raw_zh": "薑柔甲看著雲千峰手裡那些樹枝，納悶道：",
+      "translated_vi": "Khương Nhu Giáp tròn mắt nhìn mấy cọng cành cây trên tay Vân Thiên Phong, lấy làm lạ hỏi:"
+    },
+    {
+      "para_id": "c0019p0012",
+      "index": 12,
+      "raw_zh": "“不是艾灸嗎？用木頭也行？”",
+      "translated_vi": "“Không phải là ngải cứu sao? Dùng cành cây cũng cứu được à?”"
+    },
+    {
+      "para_id": "c0019p0013",
+      "index": 13,
+      "raw_zh": "雲千峰掂了掂手裡的木棍，道：",
+      "translated_vi": "Vân Thiên Phong tung nhẹ que gỗ trên tay, đáp:"
+    },
+    {
+      "para_id": "c0019p0014",
+      "index": 14,
+      "raw_zh": "“嗯，壯醫多用木灸，就是用這種俗名鳥不站的樹枝，散寒除濕效果很好。”",
+      "translated_vi": "“Ừ, y học dân tộc Tráng rất chuộng mộc cứu, tức là dùng loại cành cây dân gian gọi là Điểu Bất Trạm này, hiệu quả khu phong tán hàn, trừ thấp cực kỳ công hiệu.”"
+    },
+    {
+      "para_id": "c0019p0015",
+      "index": 15,
+      "raw_zh": "作為一個醫生，秦疏影沒有那麽扭捏。",
+      "translated_vi": "Vốn là một người làm nghề y, Tần Sơ Ảnh không quá câu nệ rụt rè."
+    },
+    {
+      "para_id": "c0019p0016",
+      "index": 16,
+      "raw_zh": "後背對著雲千峰把內外衣脫掉，動作乾淨利索，但臉卻不禁泛紅。",
+      "translated_vi": "Cô quay lưng về phía Vân Thiên Phong rồi trút bỏ áo ngoài cùng nội y, động tác dứt khoát nhanh gọn, nhưng khuôn mặt vẫn không kìm được ửng hồng."
+    },
+    {
+      "para_id": "c0019p0017",
+      "index": 17,
+      "raw_zh": "她雙臂交叉身前掩著胸口，緩緩的趴在睡袋上，纖窄的細腰延伸向臀腿，彎起三個優美又誇張的弧度。",
+      "translated_vi": "Cô khoanh hai tay trước ngực che chắn đôi gò bồng đảo, từ từ nằm sấp xuống mặt túi ngủ. Vòng eo thon thả con kiến uốn lượn trải dài xuống cặp mông tròn trịa và đôi chân thon dài, tạo nên ba đường cong tuyệt mỹ đầy khêu gợi."
+    },
+    {
+      "para_id": "c0019p0018",
+      "index": 18,
+      "raw_zh": "雲千峰靜了靜神，點燃樹枝。",
+      "translated_vi": "Vân Thiên Phong hít một hơi định thần, rồi châm lửa đốt que gỗ."
+    },
+    {
+      "para_id": "c0019p0019",
+      "index": 19,
+      "raw_zh": "這種樹枝木質堅硬，點燃後暗火長明，非常便於灸治操作。",
+      "translated_vi": "Loại cành cây này thớ gỗ đanh chắc, khi đốt than hồng âm ỉ cháy bền bỉ không tắt, rất thuận tiện cho việc thao tác cứu huyệt."
+    },
+    {
+      "para_id": "c0019p0020",
+      "index": 20,
+      "raw_zh": "秦疏影體感是身痛頭重，脘腹冰涼，這是典型的風寒入侵，同時傷了陽明胃經。",
+      "translated_vi": "Tần Sơ Ảnh cảm thấy khắp mình đau nhức, đầu óc nặng trĩu, vùng thượng vị bụng dưới lạnh ngắt, đây là triệu chứng điển hình của phong hàn xâm nhập, đồng thời tổn thương kinh Dương Minh Vị."
+    },
+    {
+      "para_id": "c0019p0021",
+      "index": 21,
+      "raw_zh": "驅寒時所灸穴位還好些，秦疏影只需要趴著就行，但是涉及到胃經調理，她卻不得不翻過身來，面對著雲千峰。",
+      "translated_vi": "Lúc cứu các huyệt khu hàn ở lưng thì còn đỡ, Tần Sơ Ảnh chỉ việc nằm sấp là xong; thế nhưng khi chuyển sang điều lý kinh Vị, cô buộc lòng phải lật người nằm ngửa ra, đối diện trực tiếp với Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0019p0022",
+      "index": 22,
+      "raw_zh": "秦疏影隻好用枕頭擋住胸前，閉著眼睛，感受那灸柱上的火熱在上腹畫著小圈移動。",
+      "translated_vi": "Tần Sơ Ảnh chỉ đành ôm chiếc gối che chắn trước ngực, nhắm nghiền hai mắt, cảm nhận luồng hơi nóng rực từ đầu que gỗ đang xoay tròn thành từng vòng nhỏ di chuyển trên vùng bụng trên của mình."
+    },
+    {
+      "para_id": "c0019p0023",
+      "index": 23,
+      "raw_zh": "忙活了一個多小時，也就在下脘灸完之後，秦疏影就覺得全身毛孔好像打開了一下，全身頓時析出一層細汗，說不出的爽利，那頭重的感覺刹那間煙消雲散。",
+      "translated_vi": "Bận rộn suốt hơn một tiếng đồng hồ, ngay khi vừa hơ xong huyệt Hạ Quản, Tần Sơ Ảnh bỗng cảm thấy toàn bộ lỗ chân lông trên cơ thể như đồng loạt giãn nở bung tỏa. Toàn thân lập tức toát ra một lớp mồ hôi mỏng, cảm giác khoan khoái sảng khoái khó tả dâng tràn, nỗi nặng trĩu bức bối nơi đỉnh đầu trong nháy mắt tan biến như khói mây."
+    },
+    {
+      "para_id": "c0019p0024",
+      "index": 24,
+      "raw_zh": "雲千峰合時宜的走出帳篷，給秦疏影擦拭身上汗水的時間。",
+      "translated_vi": "Vân Thiên Phong rất biết ý bước ra ngoài lều, chừa lại không gian riêng tư cho Tần Sơ Ảnh lau khô mồ hôi trên người."
+    },
+    {
+      "para_id": "c0019p0025",
+      "index": 25,
+      "raw_zh": "秦疏影一邊收拾自己的身體，一邊心裡想著自己加入隊伍時說的話，不禁有些不好意思。",
+      "translated_vi": "Tần Sơ Ảnh vừa lau dọn thân thể vừa hồi tưởng lại những lời đao to búa lớn mình từng tuyên bố lúc mới gia nhập đội ngũ, bất giác thấy ngượng chín người:"
+    },
+    {
+      "para_id": "c0019p0026",
+      "index": 26,
+      "raw_zh": "“我還說自己是醫生，隊伍需要我，不過現在看來，他真的不太需要。”",
+      "translated_vi": "“Hồi đó mình còn tự phụ bảo mình là bác sĩ, đội ngũ nhất định cần đến mình. Giờ xem ra, anh ta thực sự chẳng cần đến mình chút nào...”"
+    },
+    {
+      "para_id": "c0019p0027",
+      "index": 27,
+      "raw_zh": "然後就尋找自己的價值，很快想起了那棕熊的屍體，不由得又恢復了些許自信：",
+      "translated_vi": "Đoạn cô lại cố tìm kiếm giá trị của bản thân, rất nhanh sau đó liền nhớ tới cái xác của con gấu nâu đực, nhờ vậy mà vớt vát lại được chút ít tự tin:"
+    },
+    {
+      "para_id": "c0019p0028",
+      "index": 28,
+      "raw_zh": "“嗯，我解剖比他厲害，厲害得多！”",
+      "translated_vi": "“Hừm, kỹ năng giải phẫu của mình giỏi hơn anh ta nhiều, giỏi hơn nhiều lắm!”"
+    },
+    {
+      "para_id": "c0019p0029",
+      "index": 29,
+      "raw_zh": "兩女最終決定，還是繼續前進，雲千峰對於這個結果並不覺得驚訝，只是平靜的點了點頭，就出去開始研究午飯。",
+      "translated_vi": "Cuối cùng hai cô gái vẫn quyết định tiếp tục tiến bước. Vân Thiên Phong đối với kết quả này chẳng hề tỏ ra ngạc nhiên, chỉ bình thản gật đầu một cái, rồi ra ngoài loay hoay nấu bữa trưa."
+    },
+    {
+      "para_id": "c0019p0030",
+      "index": 30,
+      "raw_zh": "食物此時變得稀缺，雲千峰也是小氣到了極點，采了一大堆的野菜洗乾淨，隻加了一盒牛肉罐頭一起熬煮，成了一鍋味道怪異寡淡的野菜肉湯。",
+      "translated_vi": "Lương thực lúc này đã trở nên vô cùng khan hiếm, Vân Thiên Phong cũng bủn xỉn chắt bóp tới cùng cực. Hắn hái một đống rau rừng mang đi rửa sạch, rồi chỉ khui độc một hộp thịt bò hầm thả vào nấu chung, tạo thành một nồi canh thịt rau rừng có mùi vị vừa nhạt thếch lại vừa kỳ quái."
+    },
+    {
+      "para_id": "c0019p0031",
+      "index": 31,
+      "raw_zh": "這就是三個人的午飯，沒有更多。",
+      "translated_vi": "Đó là toàn bộ bữa trưa của cả ba người, không thừa một mẩu."
+    },
+    {
+      "para_id": "c0019p0032",
+      "index": 32,
+      "raw_zh": "薑柔甲和秦疏影幾乎是捏著鼻子才能喝進去這苦澀帶著膻味的怪湯，雲千峰倒是飲茶似的津津有味。",
+      "translated_vi": "Khương Nhu Giáp và Tần Sơ Ảnh gần như phải bịt chặt mũi mới nuốt nổi thứ canh kỳ dị vừa đắng ngắt lại vừa ngai ngái mùi tanh hoi ấy, trong khi Vân Thiên Phong lại húp xì xụp ngon lành hệt như đang thưởng trà thượng hạng."
+    },
+    {
+      "para_id": "c0019p0033",
+      "index": 33,
+      "raw_zh": "“抓緊吃，第一個坐標距離我們只有二百左右米，咱們吃飽了後，立即出發去那裡看看。”",
+      "translated_vi": "“Tranh thủ ăn nhanh lên, tọa độ đầu tiên chỉ cách chúng ta tầm hai trăm mét nữa thôi. Ăn no rồi lập tức lên đường đến đó khảo sát.”"
+    },
+    {
+      "para_id": "c0019p0034",
+      "index": 34,
+      "raw_zh": "聽到這話，兩女也不捏鼻子了，快速的大口吞咽，咬牙切齒的把一大碗怪味湯喝了個乾淨，然後擦著額頭的汗大喘氣。",
+      "translated_vi": "Nghe dứt lời, hai cô gái chẳng thèm bịt mũi nữa, lập tức há mồm nuốt chửng từng hớp lớn, cắn răng cắn lợi húp sạch sành sanh cả bát canh quái vị, đoạn quệt mồ hôi trán thở dốc từng hồi."
+    },
+    {
+      "para_id": "c0019p0035",
+      "index": 35,
+      "raw_zh": "收拾好背包，雲千峰正準備背起來，就被秦疏影一把搶了過去背在身上，道：",
+      "translated_vi": "Dọn dẹp ba lô xong, Vân Thiên Phong đang định vác lên vai thì đã bị Tần Sơ Ảnh nhanh tay giật lấy đeo vào người, bảo:"
+    },
+    {
+      "para_id": "c0019p0036",
+      "index": 36,
+      "raw_zh": "“背包我和小柔輪班背著，你要保持最佳的體力和狀態，照顧和保護我們倆。”",
+      "translated_vi": "“Ba lô này để tôi và Tiểu Nhu thay phiên nhau mang. Anh phải duy trì thể lực và phong độ tốt nhất để còn chăm sóc và bảo vệ hai đứa tôi.”"
+    },
+    {
+      "para_id": "c0019p0037",
+      "index": 37,
+      "raw_zh": "雲千峰沒有謙讓，秦疏影的做法是合理的，在荒野裡是不能玩紳士那一套的。",
+      "translated_vi": "Vân Thiên Phong không hề khách sáo từ chối. Cách làm của Tần Sơ Ảnh hoàn toàn hợp lý, ở chốn hoang dã sinh tồn tuyệt đối không thể giở thói lịch thiệp phong độ nửa mùa."
+    },
+    {
+      "para_id": "c0019p0038",
+      "index": 38,
+      "raw_zh": "幾百米的距離，幾分鍾就到。",
+      "translated_vi": "Khoảng cách vài trăm mét, chỉ mất chừng dăm phút là tới nơi."
+    },
+    {
+      "para_id": "c0019p0039",
+      "index": 39,
+      "raw_zh": "但這裡在雲千峰眼中，並沒有什麽特殊之處，只不過是植被更稀疏一些，裸露著石頭的山體更多一些。",
+      "translated_vi": "Thế nhưng dưới mắt nhìn của Vân Thiên Phong, nơi này chẳng có điểm gì đặc biệt, chỉ là thảm thực vật thưa thớt hơn đôi chút, vách núi đá trơ trọi lộ thiên nhiều hơn mà thôi."
+    },
+    {
+      "para_id": "c0019p0040",
+      "index": 40,
+      "raw_zh": "雲千峰把匕首和狗腿刀分別給了薑柔甲和秦疏影，道：",
+      "translated_vi": "Vân Thiên Phong phân phát dao găm và con dao quắm cho Khương Nhu Giáp cùng Tần Sơ Ảnh phòng thân, dặn dò:"
+    },
+    {
+      "para_id": "c0019p0041",
+      "index": 41,
+      "raw_zh": "“伱們倆在這等著，我爬到那塊巨石上看看四周的情況，坐標畢竟有一定的誤差，可能我們尋找的坐標點在這周圍某一處。”",
+      "translated_vi": "“Hai cô đứng đây chờ, để tôi trèo lên tảng cự thạch đằng kia quan sát xung quanh. Tọa độ dù sao cũng có dung sai nhất định, có thể điểm mục tiêu chúng ta cần tìm nằm đâu đó quanh khu vực này.”"
+    },
+    {
+      "para_id": "c0019p0042",
+      "index": 42,
+      "raw_zh": "說完，拎著長槍當拐杖，沿著一塊海螺形的巨大石頭坡面爬了上去。",
+      "translated_vi": "Nói đoạn, hắn chống ngọn trường thương làm gậy, men theo sườn thoai thoải của một khối đá khổng lồ hình vỏ ốc biển trèo lên đỉnh."
+    },
+    {
+      "para_id": "c0019p0043",
+      "index": 43,
+      "raw_zh": "這石頭高不下七八米，比周圍稍顯稀疏的植被都高，雲千峰站在上面，能把周圍老遠的環境都看在眼底。",
+      "translated_vi": "Tảng đá này cao không dưới bảy tám mét, vượt hẳn lên trên thảm thực vật thưa thớt xung quanh. Đứng sừng sững trên đỉnh, Vân Thiên Phong có thể phóng tầm mắt thu trọn quang cảnh xa tít tắp vào đáy mắt."
+    },
+    {
+      "para_id": "c0019p0044",
+      "index": 44,
+      "raw_zh": "他用望遠鏡緩緩的轉望四周，盡可能不遺漏任何細節，突然一個光點引起了他的注意。",
+      "translated_vi": "Hắn cầm kính viễn vọng chậm rãi lia khắp bốn bề, cố gắng không bỏ sót bất kỳ chi tiết nhỏ nào. Bỗng nhiên, một điểm sáng le lói thu hút toàn bộ sự chú ý của hắn."
+    },
+    {
+      "para_id": "c0019p0045",
+      "index": 45,
+      "raw_zh": "光點的位置是一片裸露著山石的陰影處，遠遠看著烏漆墨黑的，不大的光點就顯得非常顯眼。",
+      "translated_vi": "Điểm sáng ấy tọa lạc tại một góc khuất rợp bóng của vách đá lộ thiên. Nhìn từ xa, cả mảng tối om đen kịt khiến cho đốm sáng nhỏ bé kia trở nên nổi bật lạ thường."
+    },
+    {
+      "para_id": "c0019p0046",
+      "index": 46,
+      "raw_zh": "那不是什麽東西反射的光芒，因為無論雲千峰如何移動角度和位置，只要能看到那個位置，就能看到那個光點，這說明那亮點本身是個發光體。",
+      "translated_vi": "Đó tuyệt nhiên không phải là ánh sáng phản chiếu từ vật gì khác, bởi vì bất kể Vân Thiên Phong dịch chuyển góc nhìn hay vị trí thế nào, hễ trông thấy góc khuất đó là lại thấy điểm sáng kia. Điều này chứng minh bản thân đốm sáng ấy chính là một nguồn phát sáng tự thân."
+    },
+    {
+      "para_id": "c0019p0047",
+      "index": 47,
+      "raw_zh": "他看了一眼指南針，確定了那光點的位置回到下面道：",
+      "translated_vi": "Hắn liếc nhìn la bàn định vị phương hướng chuẩn xác của điểm sáng, rồi tụt xuống dưới bảo:"
+    },
+    {
+      "para_id": "c0019p0048",
+      "index": 48,
+      "raw_zh": "“走，咱們去那面看看。”",
+      "translated_vi": "“Đi thôi, chúng ta qua bên đó xem thử.”"
+    },
+    {
+      "para_id": "c0019p0049",
+      "index": 49,
+      "raw_zh": "兩女急忙跟上，秦疏影一邊走一邊忙問道：",
+      "translated_vi": "Hai cô gái vội vã rảo bước bám theo. Tần Sơ Ảnh vừa đi vừa sốt ruột hỏi:"
+    },
+    {
+      "para_id": "c0019p0050",
+      "index": 50,
+      "raw_zh": "“那面發現了什麽？”",
+      "translated_vi": "“Bên đó có phát hiện gì thế anh?”"
+    },
+    {
+      "para_id": "c0019p0051",
+      "index": 51,
+      "raw_zh": "雲千峰沉吟了一下，道：",
+      "translated_vi": "Vân Thiên Phong trầm ngâm một lát rồi đáp:"
+    },
+    {
+      "para_id": "c0019p0052",
+      "index": 52,
+      "raw_zh": "“不管你們信不信，我覺得那面有一盞電燈。”",
+      "translated_vi": "“Bất kể hai cô có tin hay không, nhưng tôi nghĩ đằng kia có một ngọn đèn điện.”"
+    },
+    {
+      "para_id": "c0019p0053",
+      "index": 53,
+      "raw_zh": "這荒山野嶺的，說看到鬼都比說看到一盞電燈容易讓人相信。",
+      "translated_vi": "Giữa chốn rừng sâu núi thẳm hoang vu này, bảo nhìn thấy ma quỷ còn dễ khiến người ta tin hơn là bảo thấy một ngọn đèn điện!"
+    },
+    {
+      "para_id": "c0019p0054",
+      "index": 54,
+      "raw_zh": "但秦疏影和薑柔甲知道，雲千峰確實偶爾做正事的時候也不正經，但細想其實他從不開玩笑。",
+      "translated_vi": "Thế nhưng Tần Sơ Ảnh và Khương Nhu Giáp đều hiểu rõ, Vân Thiên Phong đôi khi làm việc nghiêm túc trông có vẻ cợt nhả tếu táo thật, nhưng ngẫm kỹ lại thì xưa nay hắn chưa từng ăn ốc nói mò bao giờ."
+    },
+    {
+      "para_id": "c0019p0055",
+      "index": 55,
+      "raw_zh": "光點所在的位置並不遠，雲千峰方向校正的非常準確，幾個人擠著植被，十幾分鍾就去到了那裡。",
+      "translated_vi": "Vị trí của điểm sáng cách đó không xa, Vân Thiên Phong căn chỉnh phương hướng vô cùng chuẩn xác. Mấy người len lỏi vạch cây rừng lội tới, chỉ mất hơn mười phút là đã tiếp cận được hiện trường."
+    },
+    {
+      "para_id": "c0019p0056",
+      "index": 56,
+      "raw_zh": "這片背光的區域比雲千峰想象的要小很多，遠處看著大，只是因為斜照的光線拉長了陰影。",
+      "translated_vi": "Mảng khuất nắng này nhỏ hơn nhiều so với hình dung ban đầu của Vân Thiên Phong. Sở dĩ từ xa trông có vẻ rộng lớn là do góc xiên của tia nắng đã kéo dài bóng đổ của tảng đá ra mà thôi."
+    },
+    {
+      "para_id": "c0019p0057",
+      "index": 57,
+      "raw_zh": "僅只是兩塊巨大的岩石互相依靠著立在這裡，在中間形成了一個接近三角形的石洞。",
+      "translated_vi": "Nơi đây thực chất chỉ là hai khối đá tảng khổng lồ tựa đầu vào nhau đứng sừng sững, ở giữa tạo thành một hang đá hẹp hình gần như tam giác."
+    },
+    {
+      "para_id": "c0019p0058",
+      "index": 58,
+      "raw_zh": "那光點恰好就在這石洞之中，而且真的是一盞電燈。",
+      "translated_vi": "Đốm sáng ấy vừa khéo nằm gọn bên trong hang đá tam giác này, và nó quả thực là một ngọn đèn điện!"
+    },
+    {
+      "para_id": "c0019p0059",
+      "index": 59,
+      "raw_zh": "連著電燈的，是一個折疊的太陽能發電板，就放在大石頭的側面迎光處，這也是這盞燈依舊在發光的原因。",
+      "translated_vi": "Nối liền với bóng đèn là một tấm pin năng lượng mặt trời dạng gập, được đặt ngay bên sườn tảng đá lớn hướng thẳng về phía đón ánh sáng. Đó cũng chính là lý do vì sao ngọn đèn này vẫn đang tỏa sáng không ngừng."
+    },
+    {
+      "para_id": "c0019p0060",
+      "index": 60,
+      "raw_zh": "三角石洞內有一大堆篝火燃燒留下的黑灰，看厚度似乎有人在這裡待了不止一個晚上。",
+      "translated_vi": "Bên trong hang tam giác có một đống tro than đen ngòm do lửa trại cháy để lại, nhìn độ dày của lớp tro tàn thì dường như đã từng có người đóng quân ở đây không chỉ một đêm."
+    },
+    {
+      "para_id": "c0019p0061",
+      "index": 61,
+      "raw_zh": "而地面上散落著的一些物品，則顯示那些人應該是遇到了極為恐怖的突發情況，以至於他們倉皇逃亡之際，連背包和卡在牆壁上的地圖都沒時間帶走。",
+      "translated_vi": "Còn những vật dụng rơi vãi ngổn ngang trên mặt đất lại cho thấy nhóm người ấy hẳn đã gặp phải một biến cố bất ngờ vô cùng kinh hoàng, kinh hoàng đến mức trong lúc tháo chạy thục mạng, họ thậm chí còn chẳng kịp mang theo ba lô và tấm bản đồ đang gài trên vách đá."
+    },
+    {
+      "para_id": "c0019p0062",
+      "index": 62,
+      "raw_zh": "薑柔甲一看到石壁上卡著的地圖，立馬激動的抓住雲千峰的手臂：",
+      "translated_vi": "Vừa nhìn thấy tấm bản đồ gài trên vách đá, Khương Nhu Giáp lập tức xúc động tóm chặt lấy cánh tay Vân Thiên Phong:"
+    },
+    {
+      "para_id": "c0019p0063",
+      "index": 63,
+      "raw_zh": "“雲千峰，這是我哥的地圖，你看右下角還有我哥用閑章蓋的印！他會不會就在附近？燈還留在這裡呢！”",
+      "translated_vi": "“Vân Thiên Phong, đây là bản đồ của anh trai tôi! Anh nhìn góc dưới bên phải này, có dấu triện cá nhân anh tôi đóng lên! Có khi nào anh ấy đang ở quanh đây không? Đèn vẫn còn để lại ở đây này!”"
+    },
+    {
+      "para_id": "c0019p0064",
+      "index": 64,
+      "raw_zh": "雲千峰來到地圖前，果然看到那方形的陰刻秦小篆印記，隨即在地圖上抹了一把，看著手指上的灰塵，他搖頭道：",
+      "translated_vi": "Vân Thiên Phong bước tới trước tấm bản đồ, quả nhiên trông thấy một khuôn dấu triện hình vuông khắc chìm bằng chữ Tần tiểu triện. Hắn liền đưa tay quệt một đường lên mặt bản đồ, nhìn lớp bụi bặm bám trên đầu ngón tay rồi khẽ lắc đầu:"
+    },
+    {
+      "para_id": "c0019p0065",
+      "index": 65,
+      "raw_zh": "“你哥他們離開這裡很久了，他們應該是遇到危險後緊急離開，所以留下了這盞太陽能燈。”",
+      "translated_vi": "“Anh trai cô và nhóm người đó đã rời khỏi nơi này từ lâu rồi. Họ chắc hẳn đã đụng độ hiểm nguy nên mới phải rút chạy khẩn cấp, thành thử mới bỏ lại ngọn đèn năng lượng mặt trời này.”"
+    },
+    {
+      "para_id": "c0019p0066",
+      "index": 66,
+      "raw_zh": "說到這，他拍了拍薑柔甲的肩膀，安撫道：",
+      "translated_vi": "Nói đến đây, hắn vỗ nhẹ lên vai Khương Nhu Giáp trấn an:"
+    },
+    {
+      "para_id": "c0019p0067",
+      "index": 67,
+      "raw_zh": "“別擔心，這裡沒有血跡，你哥他們應該沒事，看這些物品散亂的方向和燈盞倒落的方向，他們應該是朝著後面逃走，我過去看看有沒有什麽線索。”",
+      "translated_vi": "“Đừng lo, ở đây không hề có vết máu, anh trai cô và mọi người chắc là không sao đâu. Nhìn hướng vật dụng rơi vãi cùng hướng ngã đổ của ngọn đèn, họ hẳn đã tháo chạy ra lối phía sau. Để tôi qua bên đó xem có manh mối gì không.”"
+    },
+    {
+      "para_id": "c0019p0068",
+      "index": 68,
+      "raw_zh": "說完，對著秦疏影打了個眼色，讓她照顧此刻異常激動的薑柔甲。",
+      "translated_vi": "Dứt lời, hắn liếc mắt ra hiệu cho Tần Sơ Ảnh, ý bảo cô hãy để mắt chăm sóc Khương Nhu Giáp đang vô cùng kích động lúc này."
+    },
+    {
+      "para_id": "c0019p0069",
+      "index": 69,
+      "raw_zh": "秦疏影微微頷首，來到了薑柔甲身邊，挽起了這小丫頭的手。",
+      "translated_vi": "Tần Sơ Ảnh khẽ gật đầu, bước lại gần nắm lấy bàn tay cô bé."
+    },
+    {
+      "para_id": "c0019p0070",
+      "index": 70,
+      "raw_zh": "雲千峰順著三角洞後面相對狹窄的出口鑽出去，一眼就看到被踩踏折斷的植物一路延伸出去老遠。",
+      "translated_vi": "Vân Thiên Phong men theo lối thoát tương đối chật hẹp phía sau hang tam giác chui ra ngoài, đập vào mắt hắn ngay tức khắc là những cành cây ngọn cỏ bị giẫm đạp gãy rạp trải dài một mạch ra tít tắp phía xa."
+    },
+    {
+      "para_id": "c0019p0071",
+      "index": 71,
+      "raw_zh": "他握緊長槍，屏住呼吸，小心翼翼的探路前進，不多時就被一個極度詭異的東西驚得頭皮發麻。",
+      "translated_vi": "Hắn siết chặt ngọn trường thương, nín thở rón rén dò đường tiến tới. Chẳng bao lâu sau, hắn đã bị một thứ vô cùng quái dị làm cho lạnh toát sống lưng, da đầu tê dại."
+    },
+    {
+      "para_id": "c0019p0072",
+      "index": 72,
+      "raw_zh": "雲千峰發誓，這是迄今為止，他見過的最恐怖的東西。",
+      "translated_vi": "Vân Thiên Phong thề rằng, đây chính là thứ kinh hãi tột độ nhất mà hắn từng nhìn thấy từ thuở cha sinh mẹ đẻ tới nay."
+    },
+    {
+      "para_id": "c0019p0073",
+      "index": 73,
+      "raw_zh": "那是一具屍體，詭異的屍體。",
+      "translated_vi": "Đó là một cái xác, một thi thể quái đản dị thường."
+    }
+  ]
+}

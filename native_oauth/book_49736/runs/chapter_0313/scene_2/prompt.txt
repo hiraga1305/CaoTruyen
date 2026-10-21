@@ -1,0 +1,131 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0313|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Mà tôi lại có thể tùy ý để những ý thức này luân hồi dưới hình thái sinh vật mà mình mong muốn. Hẳn nào ai nấy đều khiếp sợ một Xi Vưu sở hữu ý thức độc lập, thứ quyền năng bực này quả thực quá đỗi đá
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|六道|sáu luồng
+M2|六道|sáu luồng
+M3|六道|sáu luồng
+M4|一張|một tấm
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §87):
+§1 [Ø=云千峰]帝嚳竟然允許這樣一個我存在，而且說了報答之語，到底是為了什麽？讓人永遠看不懂的帝嚳啊！”
+§2 [Ø=云千峰]六道[M1:sáu luồng]盤被雲千峰收走，光亮的空間立馬漆黑一團。
+§3 [Ø=云千峰]回望身後，那進入蚩尤像底部的入口就在身後不遠處，難以想象雲千峰和巫酥剛才是在什麽地方奔跑。
+§4 [Ø=云千峰]雲千峰一拍馬屁股，巫酥邁著蹄子，踢踏踢踏的走向出口。
+§5 [Ø=云千峰]外面並沒有過去太久，當雲千峰走回祭台後，所有人都無聲的看向雲千峰， [||] 尤其是巫族那些人，眼睛眨都不眨一下，緊盯著雲千峰。
+§6 雲千峰給了他們答案。
+§7 [Ø=云千峰]他只是心中一想，在腦後就升起了一個金色的圓盤光影，就好像畫上的神像。
+§8 [Ø=云千峰]世界各地的畫裡，神佛在腦後都有這樣一個光盤， [||] 顏色不同，款式不同，代表著智慧。
+§9 [Ø=云千峰]雲千峰腦後是金色的，布滿了各種詭異符文的圓盤，那是碳基生命的智慧。
+§10 [Ø=云千峰]在金色圓盤出現在雲千峰腦後那一瞬間，現場的所有人都使勁吸了一口氣，緊接著是傳遍整座荒島的歡呼聲。
+§11 蚩尤歸位。
+§12 巫族的人呼喊著：
+§13 “吾王蚩尤.吾王蚩尤”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§14 [Ø=云千峰]九屠之前絞盡腦汁編好的八股文稱頌完全聽不到，乾脆和光同塵，也和巫族一個台詞。
+§15 [Ø=云千峰]雲千峰感受了一會大家的熱情，然後才壓了壓手，高聲道：
+§16 [Ø=云千峰]“我會帶著你們去天堂，享受永恆的幸福， [||] 我會掌管六道[M2:sáu luồng]，讓罪惡的人承受輪回之痛，現在.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 [Ø=云千峰]所有人一臉雀躍的看著雲千峰，等待他最後喊出隊伍出發的命令。
+§18 然而。
+§19 雲千峰大緩氣問道：
+§20 [Ø=云千峰]“現在，誰能告訴我，怎麽去天堂？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 [Ø=云千峰]所有人面面相覷，似乎在詢問身邊的對方。
+§22 [Ø=云千峰]雲千峰指望巫族人知道，但巫族人的反應看起來是不知道。
+§23 [Ø=云千峰]九屠的反應看起來，也是不知道。
+§24 雲千峰心中怒罵一群廢物啊！
+§25 [Ø=云千峰]然後就看到，剛才還面面相覷的眾人，全都看向自己。
+§26 [Ø=云千峰]雲千峰很想說，問題是我問的，你們這樣看我是不道德的。
+§27 [Ø=云千峰]但作為一個王，豈能說出那樣的話來。
+§28 於是雲千峰沉聲道：
+§29 [Ø=云千峰]“九屠，巫族代表，開會！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§30 [Ø=云千峰]嗯，開會研究，就很科學。
+§31 [Ø=云千峰]雲千峰領著幾個人去開會後，巫酥走到偏僻的角落，閉上了眼睛。
+§32 [Ø=云千峰]可以看到，她額頭很快出現了汗珠， [||] 顯然看似安靜不動的她，正在大量的消耗著體力，卻不知在幹嘛。
+§33 遙遠的地面上。
+§34 [Ø=云千峰]一間暗室，只有淡淡的暗光。
+§35 [Ø=云千峰]這裡有一個桌子，上面擺放著小浣熊乾脆面， [||] 香煙，可樂，還有枸杞。
+§36 [Ø=云千峰]一個乾瘦的老頭，穿著一身咖色唐裝，腦袋籠在一個形狀怪異的東西之中。
+§37 [Ø=云千峰]這東西看起來很像是古老的電視天線，只不過更複雜，根本數不清上面有多少的指針天線。
+§38 [Ø=云千峰]老頭的手在一個好似車檔的圓頭上緩緩移動，就好像老人在調試木頭殼的古老收音機。
+§39 [Ø=云千峰]良久以後，那老頭突然靜止， [||] 緊接著一把將頭頂的天線甩開， [||] 跳著來到桌子前，點了一根煙，倒掉了泡著枸杞的可樂，給自己來了一杯純可樂。
+§40 [Ø=云千峰]吸著煙，喝著可樂，老頭這才仰天大笑：
+§41 [Ø=云千峰]“哈哈哈蚩尤歸位啦！再無生死之憂，再無生死之憂！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§42 [Ø=云千峰]老頭的動靜太大，外面立馬有人撞門而入，是個白淨的婦人，五官與乾瘦老頭有幾分相似。
+§43 [Ø=云千峰]那婦人看著老頭那歡欣雀躍的表情，擔憂的臉色先是凝固，緊接著哭著笑道：
+§44 [Ø=云千峰]“爸，成功了？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§45 [Ø=云千峰]乾瘦老頭點了點頭，笑道：
+§46 [Ø=云千峰]“成功了，六道[M3:sáu luồng]盤已經歸附蚩尤， [||] 我再也不用擔心我那寶貝外孫的病了，我會求蚩尤給予新的身體，不變的意識和記憶。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§47 那婦人擔憂道：
+§48 “蚩尤會幫咱們嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§49 乾瘦老頭得意笑道：
+§50 [Ø=云千峰]“之前蚩尤舉世皆敵，只有我賒刀人明裡暗裡幫著他；更是我告訴姮娥雲千峰的生路在地獄， [||] 以雲千峰的性格，不會欠人情債。不過為了以後更好說話，還是要為他多做一些事情。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§51 那婦人忙問道：
+§52 “我們還能為蚩尤做什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§53 [Ø=云千峰]乾瘦老頭吸了口煙，沉聲道：
+§54 [Ø=云千峰]“地府天堂已歸蚩尤，那這人間也該是他的， [||] 這個世界不需要九屠了，端了吧，徹底斷了帝嚳在人間的所有布局。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§55 [Ø=云千峰]那溫和的婦人聽到這話後，面上溫柔不見，泛起了殺氣，沉聲道：
+§56 “我去做。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§57 [Ø=云千峰]老頭點了點頭，道：
+§58 [Ø=云千峰]“好，你去我才放心。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§59 [Ø=云千峰]那婦人轉身就走，似乎不想耽誤半秒鍾。
+§60 [Ø=云千峰]老頭看到婦人走到門口，忙道：
+§61 [Ø=云千峰]“告訴他們，別再逼著那些壞人自裁給雲千峰送貨了，都不容易”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§62 那婦人應聲離開。
+§63 [Ø=云千峰]婦人回身關門，屋內又只剩下乾瘦老頭自己。
+§64 [Ø=云千峰]他美滋滋的喝著可樂，笑著自語：
+§65 [Ø=云千峰]“姮娥指點羅琳娜來找我幫忙，我也算做得有聲有色，這蚩尤最重要的兩個女人也會承情，我以後怕是發達了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§66 [Ø=云千峰]說著，看向那詭異的天線，得意道：
+§67 [Ø=云千峰]“好在我小時候為了電視清楚些，弄了這神奇的天線，讓我交到了身在地獄的網友，誰說網友不頂用來著嘿嘿嘿！
+§68 [Ø=云千峰]巫酥啊，我的好網友啊，要不是你，我哪敢下注蚩尤！”
+§69 [Ø=云千峰]地獄裡，巫酥告知了乾瘦老頭蚩尤歸位。
+§70 [Ø=云千峰]然後漫步在戌庫湖邊，看著遠天，撫摸著左手上一個寬寬的金屬手環。
+§71 [Ø=云千峰]那看似普通的手環，上面雕滿了刻紋，看不出材質。
+§72 那是帝嚳在遙遠的曾經送與巫酥的東西。
+§73 [Ø=云千峰]“帝，你讓我做的事情，我都會完成，以前的、現在的、未來的”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§74 [Ø=云千峰]華夏，一個隱秘的地方。
+§75 九個人匯聚在一個暗室裡。
+§76 [Ø=云千峰]他們是新一代的九屠，天璣他們，都跟蚩尤混去了。
+§77 [Ø=云千峰]而他們，新一代的九屠，依舊是帝在世間的布局，是帝令的執行者。
+§78 [Ø=云千峰]今天，新九屠匯聚在一起，是因為他們要聆聽帝令。
+§79 [Ø=云千峰]帝嚳留給九屠的命令，都有準確的時間點，以錦囊的形式保存， [||] 不可早一秒，也不可晚一秒打開，就和留給西王母的錦囊一樣。
+§80 [Ø=云千峰]九個人看著時間，當時間指向十六點四十二分五十八秒的那一刻，他們打開了錦囊。
+§81 [Ø=云千峰]那裡面是一張[M4:một tấm]特製的皮質，上面的字跡是紋刻其上。
+§82 [Ø=云千峰]緩緩展開了，就見那皮質上只有一個象形字。
+§83 “逃！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§84 [Ø=云千峰]感謝天才少女卿，淺淺丶空凌， [||] 書友尾數：57780，03681_Cd的打賞，謝謝你們的支持！！！
+§85 [Ø=云千峰]感謝liude，狐顏鑾雨，偏偏愛喝花露水，_聽風__，逐日之心，夢計，陌的第七章，該幹嘛幹嘛呢，三花喵小萌，假面騎士V3，月痕梵墜，各有各的獨孤九劍，JKDYHUKA，山海爬，峭山敦阜，尾數：19828， [||] 58838，59273，24384，20467，40286，57297，16832，37930，14784，27904，18103，01313，56181，36381，18659，的月票獎勵，謝謝你們的支持！！！
+§86 [Ø=云千峰]安利東北的夏天，真的太舒服了！！！
+§87 晚安！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 87 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§87. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

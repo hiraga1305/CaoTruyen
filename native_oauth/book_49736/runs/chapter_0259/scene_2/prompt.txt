@@ -1,0 +1,102 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0259|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Nói đến đây, đáy lòng Vân Thiên Phong chợt dâng lên một cơn ớn lạnh, thầm nghĩ:
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §63):
+§1 “我現在貌似就是蚩尤啊！西王母不會是我的敵人吧？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§2 [Ø=云千峰]卓瑪這個時候美滋滋的想著曾經的自己，豐富的幻想曾經，想著想著想到了什麽，突然冷臉轉頭冷不丁問道：
+§3 “你說退貨什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§4 [Ø=云千峰]雲千峰正在嘀咕西王母幫助黃帝戰蚩尤的事，沒防備說了實話：
+§5 “把你這向導退貨啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§6 殺氣彌漫。
+§7 [Ø=云千峰]“你，什麽意思嘛？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 [Ø=云千峰]雲千峰才猛然警醒，看著卓瑪一臉疑惑道：
+§9 “卓瑪你問什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§10 [Ø=云千峰]卓瑪橫眉冷對，道：
+§11 “我問你為什麽要把我退貨！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§12 [Ø=云千峰]語氣很硬，都沒嘛嘛嘛。
+§13 [Ø=云千峰]雲千峰橫眉，道：
+§14 “你這人怎麽憑空汙人青白？我什麽時候說過那樣的話？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 [Ø=云千峰]卓瑪愣住了，眼前這家夥比自己還憤怒的樣子。
+§16 “不是你剛說的嘛？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 [Ø=云千峰]雲千峰搖搖頭，沉聲道：
+§18 [Ø=云千峰]“我從未說過這樣的話，你拿出證據來，否則就是汙蔑，我要求你道歉。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 [Ø=云千峰]卓瑪看了看狹小的帳篷，就倆人，很明顯雲千峰當不了證人，自己也沒錄音。
+§20 [Ø=云千峰]心裡憋屈啊，越想越生氣，癟著嘴， [||] 眼睛裡蒙著霧氣，一扭頭一轉身，躺下背對著雲千峰罵了句：
+§21 “騙子！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 [Ø=云千峰]然後再也沒搭理雲千峰，絕對不搭理那種。
+§23 [Ø=云千峰]雲千峰氣倒了卓瑪，坐在敞篷門口， [||] 悠哉悠哉的吸著煙，看著雨勢漸小，這才心安。
+§24 [Ø=云千峰]三隻獒犬見雲千峰坐在帳篷口，都使勁的搖著尾巴圍過來。
+§25 動物都是睦強的。
+§26 [Ø=云千峰]雲千峰現在在三隻獒犬眼中，那就是頭犬的地位。
+§27 [Ø=云千峰]三隻獒犬拱在身邊，雲千峰摸著獒犬的腦袋，梳著毛，心裡嘀咕著：
+§28 [Ø=云千峰]“格比格說我不是盤瓠，那麽還能是誰呢？西王母派卓瑪這個信使在這裡等待，是因為我是她的故人，還是因為這是帝嚳的算計？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 [Ø=云千峰]正想著，身後傳來卓瑪冷不丁的問話：
+§30 “你剛說什麽退貨？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=云千峰]雲千峰吐著煙圈，淡淡道：
+§32 [Ø=云千峰]“我從未講過這樣的話，你道歉！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 [Ø=云千峰]卓瑪使勁一轉身，再次躺下，在被窩裡悄悄關閉了手機的錄音。
+§34 [Ø=云千峰]生氣，生氣.睡著了。
+§35 [Ø=云千峰]第二天，天剛亮， [||] 卓瑪當先起床，好似混忘了昨天雲千峰睜著眼睛說瞎話的事，嘰嘰喳喳的喊雲千峰起床。
+§36 [Ø=云千峰]“走啦走啦，我們今晚趕到岡壬山腳嘛，馬上吃馬上拉，走啦走啦.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 [Ø=云千峰]雲千峰伸了個懶腰，心裡讚道：
+§38 “忘性大的姑娘真好！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 [Ø=云千峰]然後雲千峰才明白，卓瑪說的馬上吃，不是馬上吃飯的意思，而是在馬上面一邊趕路一邊吃飯的意思。
+§40 [Ø=云千峰]於是想到了馬上拉三個字，不由得後背一寒，沒敢喝水。
+§41 卓瑪也沒喝。
+§42 [Ø=云千峰]所以，從這件事可以看出，卓瑪沒忘這騙子睜眼說瞎話， [||] 而是準備用這種小伎倆報復一下雲千峰，然後看騙子笑話，但是沒想到騙子很警覺，也不喝水。
+§43 [Ø=云千峰]這一天，雙馬輪番奔騰。
+§44 卓瑪一步沒停。
+§45 [Ø=云千峰]需要換馬的時候，直接在這匹馬上跳到另外一匹上面，然後再拽雲千峰過去。
+§46 [Ø=云千峰]下了小雨也不躲，就那麽一直趕路，這是耐力的比拚，也是旁光的比拚。
+§47 [Ø=云千峰]當天日暮，他們終於到了岡壬山的腳下。
+§48 [Ø=云千峰]這裡的山下，也就七八度的溫度，四野只有稀疏的草皮和堅硬的石頭。
+§49 [Ø=云千峰]往上看，半山腰便已經是皚皚白雪。
+§50 [Ø=云千峰]最神奇的是，這岡壬山對著太陽的一面， [||] 半山腰上全是積雪，但是背面卻是一點積雪也沒有，甚至能看到積雪溶化後匯成的水流瀉下。
+§51 [Ø=云千峰]這樣違背大自然規律的現象，隻存在於這裡。
+§52 [Ø=云千峰]下了馬的倆人，一左一右，跑得比兔子還快， [||] 分別找了一塊巨大的石頭遮擋身形，隨後傳來的熟悉的聲響，以及倆人禁不住舒暢的呼聲。
+§53 “哦”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§54 “呼”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§55 卓瑪慨歎：
+§56 “害人終害己！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§57 雲千峰慨歎：
+§58 “唯女子與小人難養也！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§59 [Ø=云千峰]感謝書友尾數79536、liude的打賞，謝謝你們的支持！！！
+§60 [Ø=云千峰]感謝肖娜丶、吉大之南、書友尾數29091、絕世凶獸成和葉、浪花一朵花、書友尾數79536、策馬行歌、書友尾數55209的月票獎勵，謝謝你們的支持！！！
+§61 [Ø=云千峰]我好像要來推薦了，嘿嘿嘿！！！
+§62 今晚熬夜碼字！！！
+§63 [Ø=云千峰]祝大家好夢，晚安！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 63 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§63. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

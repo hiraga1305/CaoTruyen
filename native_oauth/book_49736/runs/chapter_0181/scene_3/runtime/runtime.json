@@ -1,0 +1,32 @@
+{
+  "authentication": "cached_account; GEMINI_API_KEY unset",
+  "requested_model": "gemini-3.8-flash-high",
+  "agent": null,
+  "exit_code": 0,
+  "workspace": "D:\\AI\\Antigravity\\CaoTruyen",
+  "duration_seconds": 59.11,
+  "status": "SUCCESS",
+  "conversation_id": "a32b07b2-89dd-45ee-b20f-c04d526f5d79",
+  "usage": {
+    "input_tokens": 32131,
+    "output_tokens": 7489,
+    "thinking_tokens": 7322,
+    "cache_read_tokens": 0,
+    "total_tokens": 39620
+  },
+  "result": {
+    "conversation_id": "a32b07b2-89dd-45ee-b20f-c04d526f5d79",
+    "status": "SUCCESS",
+    "response": "§1 Đôi gò má A Phỉ Pháp ửng hồng. Nàng biết rõ mình nên từ chối, nhưng như ma xui quỷ khiến, nỗi rung động dâng lên nơi đáy lòng khiến nàng bất giác nắm lấy tay Vân Thiên Phong. Hai người lặng lẽ bước ra ngoài cửa, rảo bước về phía góc tối khuất nẻo của thôn làng.\n\n<delta>\nNEW_ENT|阿菲法|A Phỉ Pháp|F|nàng|Nhân vật nữ đồng hành\n</delta>\n",
+    "duration_seconds": 55.4009064,
+    "num_turns": 1,
+    "usage": {
+      "input_tokens": 32131,
+      "output_tokens": 7489,
+      "thinking_tokens": 7322,
+      "cache_read_tokens": 0,
+      "total_tokens": 39620
+    }
+  },
+  "event_count": 27
+}

@@ -1,0 +1,132 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0314|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一座|một tòa
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §91):
+§1 314.第314章 帝嚳的殘忍
+§2 第314章 帝嚳的殘忍
+§3 什麽是果斷？
+§4 此刻九屠的演繹就是標準范例。
+§5 [Ø=云千峰]九個人看到這個逃字後，完全沒有任何遲疑，轉身就走。
+§6 [Ø=云千峰]屋內一切，管你多少價值，一概不理，做到了“逃”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]的真諦。
+§7 [Ø=云千峰]既然帝嚳留下的錦囊內沒說怎麽逃，那麽就按照正常程序，準沒錯。
+§8 [Ø=云千峰]九屠的這個據點，是在一座[M1:một tòa]山上，據說評上了三A景區，但幾乎沒有遊客。
+§9 [Ø=云千峰]原因無他，這裡恐怖傳說太多。
+§10 [Ø=云千峰]這仿古建築前面就有一個山包，繞著山包修了兩條窄路，分別是進出所用。
+§11 [Ø=云千峰]九屠上了一輛商務車，逃命的時候也不在乎擠一擠。
+§12 [Ø=云千峰]從出口出去，負責開車的九屠慌亂之中，把車開到了面向左側的車道，也就是本來的入口。
+§13 [Ø=云千峰]現在倒車是不可能了，只能腳踩油門使勁往前衝。
+§14 [Ø=云千峰]乾瘦老頭的女兒帶著幾個高手，也是一輛普通的商務車，不顯山不漏水，向著九屠的據點趕來。
+§15 [Ø=云千峰]這種事必須要隱蔽，也只能帶著信得過的好手才行。
+§16 [Ø=云千峰]到了山包前，乾瘦老頭的女兒看到這般地形，懊惱道：
+§17 [Ø=云千峰]“早知道該開兩輛車來，現在從出口車道進入，線人說他們每次來這裡後，都不會待很久，就會出來，別恰好差了路， [||] 還有記住我說的，見到他們人影，一句話不要說，更不要聽他們的聲音，直接動手，一旦稍微拖延，會很麻煩。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§18 [Ø=云千峰]旁邊幾個人檢查了一下武器，沉默點頭，一看就都是一臉殺氣的老手。
+§19 [Ø=云千峰]商務車疾馳進入出口的車道，很快被山包茂密的植被遮擋。
+§20 [Ø=云千峰]幾乎同時，九屠的商務車在入口車道開了出來，甚至不知道殺他們的人已經來了。
+§21 [Ø=云千峰]幾分鍾後，乾瘦老頭的女兒看著空空如也的密室， [||] 摸著已經不燙手的茶壺，無奈的歎了口氣，拿起了電話：
+§22 [Ø=云千峰]“爸，九屠逃了，我看到了九屠遺落在地上的皮紙， [||] 上面寫了一個逃字，那應該是帝嚳留下的九屠錦囊，這個世界還在帝嚳的算計裡，我們我們會不會選錯了？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 [Ø=云千峰]感受老頭深吸一口氣，沉聲道：
+§24 [Ø=云千峰]“帝嚳無私，選擇他無法解決我們的煩惱，所以我們只有蚩尤這一個選擇，也就永遠沒有對錯。帝嚳的算計總會有盡頭， [||] 但蚩尤和地獄不會有盡頭，你稍安勿躁，不用擔心，回來吧，這盤棋咱們還下得動。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 [Ø=云千峰]語氣聲音，卻沒有了之前那份自信。
+§26 [Ø=云千峰]九屠來到了滿是攝像頭的某車站，在站前公園，這裡都是老人， [||] 有下棋的，有打麻將的，還有打太極的。
+§27 [Ø=云千峰]九個人在這裡分散開轉了幾圈，確定安全後，在公園一個角落重新匯合。
+§28 [Ø=云千峰]“真是沒想到，帝給我們留下的最後錦囊竟然是個“逃”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]字。”
+§29 [Ø=云千峰]“這是不是意味著，帝的算計盡了？九屠沒有存在的意義了？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§30 [Ø=云千峰]“帝未說九屠解散的話，那九屠就還有存在的意義。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=云千峰]“那咱們現在怎麽辦？沒有帝令，九屠該做什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§32 [Ø=云千峰]“繼續做傳承，不問西東，帝令在某一天還會出現。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 [Ø=云千峰]“該是如此，那接下來咱們怎麽行動？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 [Ø=云千峰]“安全起見，一如之前，分散開來， [||] 不入大城，孤村孤寨，少惹因果。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 [Ø=云千峰]“那咱們得分散開，我去關外。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 [Ø=云千峰]“你倒會選，劉伯溫那廝， [||] 就關外的龍沒斬，四季分明，你就把地方佔了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 [Ø=云千峰]“偶回大嶼山打魚咯，那裡四氣還好的啦。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 [Ø=云千峰]“我去海外咯，海底龍脈還在，四氣也還好，那怎麽行？我去斬海脈。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 [Ø=云千峰]“我回老家，我去把龍脈接上， [||] 我老家現在就倆季節，冷死熱死，哎！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 “.那我也去接脈”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 “都接活？那可是九十九條龍！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§42 [Ø=云千峰]“以後的世界，還怕龍多嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 “言之有理！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 卻不想這接脈的選擇掀開了一番大勢。
+§45 [Ø=云千峰]九屠九人，互相稽首，轉身形，四散而走。
+§46 [Ø=云千峰]剛走幾步，突然又都停下了腳步。
+§47 [Ø=云千峰]“道友們，還能再見嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§48 九個人幾乎同時問出了這句話。
+§49 [Ø=云千峰]然後同時深吸一口氣，都沒有回答。
+§50 [Ø=云千峰]他們知道，此生恐怕很難再見了。
+§51 [Ø=云千峰]九屠之中，有一人姓薩，名為薩青山。
+§52 他正是那個張羅著自己留在關外之人。
+§53 [Ø=云千峰]他乘車一路從中原出關，然後繼續向北。
+§54 [Ø=云千峰]坐動車，坐綠皮車，到最後坐驢車，總算是到了孤村孤寨。
+§55 [Ø=云千峰]這裡地處常白山原始叢林旁，有很多幾戶或者十幾戶的自然村。
+§56 [Ø=云千峰]別看每個小村子都不大，但是整個大隊可是不小，遍布了原始叢林邊沿和山前河流兩岸。
+§57 [Ø=云千峰]薩青山下了捎道的驢車，走在這幾乎保留了最原始樣貌的北方村落，使勁的吸了一口山間的空氣。
+§58 [Ø=云千峰]走進一個只有二十幾戶人家的小村莊，薩青山走在沙子鋪的村路上， [||] 看著兩側黃泥為牆，稻草為頂的尖頂小屋，仿佛回到了童年。
+§59 [Ø=云千峰]摘了一片柳葉，在旁邊的溪水裡洗了洗，然後用柳葉擦拭眼睛。
+§60 [Ø=云千峰]柳樹陰，其氣純卯，以之洗肝木開竅之眸，最是通氣。
+§61 [Ø=云千峰]洗過後，他微微閉上一會眼睛，然後猛然睜開，將這不大的村落一眼忘穿。
+§62 [Ø=云千峰]這是風水先生的望氣之術，只是這一眼，薩青山就把整個村子每家每戶籠著的氣看個清楚，這也是走村的陰陽先生必會的竅門。
+§63 [Ø=云千峰]必須先看清楚各家之氣，判斷其家庭財產如何，最近氣運如何，觀雜色以辨問題所在。
+§64 [Ø=云千峰]一旦看到那家庭條件比較好的，最近還有點小問題的，陰陽先生肯定就叩門了。
+§65 [Ø=云千峰]因為好解決，還有錢拿。
+§66 窮家陰陽先生是不會敲門的。
+§67 比賊還嫌貧愛富。
+§68 [Ø=云千峰]薩青山只是一眼，就找到了今天的錢東。
+§69 [Ø=云千峰]走近一看，不由得暗讚自己眼神之準。
+§70 [Ø=云千峰]這家前後兩個院子都很大，土牆也比別家高一頭。
+§71 [Ø=云千峰]最主要的，人家這雖然也是土房，但前面臉貼了一面紅磚。
+§72 [Ø=云千峰]這叫一面磚，證明家境條件還是不錯的。
+§73 薩青山回憶了一下剛才所望之氣：
+§74 [Ø=云千峰]“這家氣運小富，然氣中雜有黑氣，氣走下沉，是女妨夫之氣，這家男人怕是小病不斷，小災不絕， [||] 我破上一破，能弄幾天飯錢。而且這家氣中有桃紅色新生，這是有婚嫁之喜，這時候陰陽先生登門，為了討個喜氣，也絕對有所獲。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§75 [Ø=云千峰]心裡想好了台詞，引手以食指關節叩了扣木板大門。
+§76 [Ø=云千峰]不一會，聽到了門軸的“吱嘎”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]聲，這是主人家開門走出來了。
+§77 [Ø=云千峰]薩青山挺了挺腰杆，讓自己更筆直一些，更仙風道骨一些。
+§78 狗鏈子栓的大門在裡面打開。
+§79 “吱嘎！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§80 [Ø=云千峰]灰突突的木門敞開一條寬縫，一個豐潤的婦人在門縫裡露出臉來。
+§81 [Ø=云千峰]薩青山幾乎在看到婦人那一刻，就確定這家男人應該是腎不好，用的多造成的。
+§82 漂亮啊！
+§83 那婦人看著薩青山疑惑道：
+§84 [Ø=云千峰]“你好，你找誰？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§85 [Ø=云千峰]薩青山沉著嗓子，道：
+§86 [Ø=云千峰]“遊方之人，今日得緣，見你家有絲絲黑氣引動， [||] 當是你家男人有些小難，便隨緣而動，積德行善。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§87 [Ø=云千峰]那婦人眼睛一下起霧，泣聲道：
+§88 [Ø=云千峰]“先生看得準，但是先生您來晚了，我家男人兩個月前走了， [||] 在外務工，被砸傷，躺了幾個月，到底走了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§89 薩青山一愣。
+§90 他的內心是震撼的。
+§91 因為很明顯他看走了眼。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 91 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§91. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

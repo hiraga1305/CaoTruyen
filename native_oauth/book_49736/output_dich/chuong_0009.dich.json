@@ -1,0 +1,439 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 9,
+  "title": "Chương 9: Lên đường",
+  "total_paragraphs": 71,
+  "translated_paragraphs": 71,
+  "source_hash": "468c65857f91bdd7f44373aebb983eccec13409658f80ee513d787e2464507fc",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0009p0001",
+      "index": 1,
+      "raw_zh": "第9章 出發",
+      "translated_vi": "Chương 9: Lên đường"
+    },
+    {
+      "para_id": "c0009p0002",
+      "index": 2,
+      "raw_zh": "薑柔甲睡覺很不老實，抱住東西就和八爪魚似的，這是極沒有安全感的表現。",
+      "translated_vi": "Tướng ngủ của Khương Nhu Giáp chẳng hề ngoan ngoãn chút nào, cứ ôm chặt lấy thứ gì là quấn chặt cứng như bạch tuộc, đây là biểu hiện điển hình của người thiếu cảm giác an toàn trầm trọng."
+    },
+    {
+      "para_id": "c0009p0003",
+      "index": 3,
+      "raw_zh": "所以清晨醒來的時候，她很羞澀，不過好在雲千峰睡得扎實。",
+      "translated_vi": "Thế nên khi tỉnh giấc vào buổi sáng sớm, cô ngượng ngùng đến đỏ cả mặt, dẫu vậy may mắn là Vân Thiên Phong vẫn đang ngủ say như chết."
+    },
+    {
+      "para_id": "c0009p0004",
+      "index": 4,
+      "raw_zh": "然後她看到雲千峰身上已經沒有了繩索，又開始懷疑人生。",
+      "translated_vi": "Thế rồi khi trông thấy trên người Vân Thiên Phong chẳng còn lấy một sợi dây thừng nào, cô lại bắt đầu nghi ngờ nhân sinh."
+    },
+    {
+      "para_id": "c0009p0005",
+      "index": 5,
+      "raw_zh": "因為她莫名想起了禽獸和禽獸不如的典故。",
+      "translated_vi": "Bởi vì trong đầu cô bất giác nhớ tới điển cố về 'cầm thú' và 'cầm thú cũng không bằng'."
+    },
+    {
+      "para_id": "c0009p0006",
+      "index": 6,
+      "raw_zh": "再想起自己醒來時整個人纏著雲千峰的畫面，不由感覺胸口似乎還有那股壓力，臉又紅了。",
+      "translated_vi": "Lại nghĩ đến cảnh tượng lúc vừa tỉnh giấc cả người mình quấn chặt lấy Vân Thiên Phong, Khương Nhu Giáp bất giác cảm thấy trước ngực dường như vẫn còn vương lại sức ép đè nén ấy, hai má cô lại càng đỏ bừng."
+    },
+    {
+      "para_id": "c0009p0007",
+      "index": 7,
+      "raw_zh": "當下逃也似的衝出臥房，轉而又害怕雲千峰大白天被篡改了記憶，於是急忙換好衣服又回到床邊。",
+      "translated_vi": "Cô lập tức cắm đầu lao ra khỏi phòng ngủ như chạy trốn, nhưng rồi lại nơm nớp lo sợ Vân Thiên Phong sẽ bị sửa đổi ký ức giữa ban ngày ban mặt, bèn vội vội vàng vàng thay xong quần áo rồi quay trở lại bên mép giường."
+    },
+    {
+      "para_id": "c0009p0008",
+      "index": 8,
+      "raw_zh": "雲千峰醒來時已經是中午，正好地圖也在這個時候傳過來。",
+      "translated_vi": "Vân Thiên Phong ngủ một mạch đến tận trưa mới tỉnh giấc, vừa khéo đúng lúc tấm bản đồ 3D cũng được gửi tới."
+    },
+    {
+      "para_id": "c0009p0009",
+      "index": 9,
+      "raw_zh": "也就是說，此時此刻，他們可以準備出發了。",
+      "translated_vi": "Điều đó có nghĩa là, ngay giờ phút này, họ đã có thể thu dọn hành lý sẵn sàng lên đường."
+    },
+    {
+      "para_id": "c0009p0010",
+      "index": 10,
+      "raw_zh": "對於原始的叢林，薑柔甲是無知者無畏，並沒有什麽心理壓力。",
+      "translated_vi": "Đối với khu rừng rậm nguyên sinh bí hiểm, Khương Nhu Giáp đúng kiểu 'điếc không sợ súng', trong lòng chẳng hề có chút gánh nặng tâm lý nào."
+    },
+    {
+      "para_id": "c0009p0011",
+      "index": 11,
+      "raw_zh": "但雲千峰不同，他自小在北方原始森林旁邊的村落長大，那裡的人原本都是世代的獵戶。",
+      "translated_vi": "Thế nhưng Vân Thiên Phong thì khác. Hắn từ nhỏ đã lớn lên ở một ngôi làng hẻo lánh sát nách khu rừng nguyên sinh phương bắc, người dân nơi ấy vốn là những người thợ săn qua bao đời truyền lại."
+    },
+    {
+      "para_id": "c0009p0012",
+      "index": 12,
+      "raw_zh": "雲千峰上大學之前，經常和同村的獵人進山采藥找人參，對原始森林了解且敬畏。",
+      "translated_vi": "Trước khi lên đại học, Vân Thiên Phong thường xuyên theo chân cánh thợ săn trong làng vào rừng sâu hái thuốc tìm nhân sâm, bởi thế hắn vừa am hiểu tường tận lại vừa ôm trọn lòng kính sợ sâu sắc đối với rừng thiêng nước độc."
+    },
+    {
+      "para_id": "c0009p0013",
+      "index": 13,
+      "raw_zh": "所以對於原始叢林，雲千峰有心理壓力，但談不上恐懼。",
+      "translated_vi": "Thế nên đối với chuyến đi vào rừng mưa nhiệt đới này, Vân Thiên Phong tuy có áp lực tâm lý nhưng chưa đến mức khiếp đảm sợ hãi."
+    },
+    {
+      "para_id": "c0009p0014",
+      "index": 14,
+      "raw_zh": "如果僅僅是荒野走一遭，這個風險和二百萬對比，他是一定欣然向往的。",
+      "translated_vi": "Nếu chỉ đơn thuần là một chuyến băng rừng vượt thác nơi hoang dã, so sánh rủi ro ấy với số tiền hai triệu tệ kia, hắn nhất định sẽ hào hứng hăm hở mà dấn thân."
+    },
+    {
+      "para_id": "c0009p0015",
+      "index": 15,
+      "raw_zh": "他害怕的，更多是那自己不了解的危險。",
+      "translated_vi": "Thứ hắn thực sự kiêng dè sợ hãi, chính là những mối hiểm nguy mà bản thân hoàn toàn mù tịt không tài nào hiểu nổi."
+    },
+    {
+      "para_id": "c0009p0016",
+      "index": 16,
+      "raw_zh": "讓一群人的記憶發生改變，甚至按照記憶把每個人安排在合適的位置，包括給他們安排孩子和丈夫，這種力量不敢想象更無法形容。",
+      "translated_vi": "Làm cho ký ức của cả một nhóm người bị xoay chuyển biến đổi, thậm chí còn sắp đặt từng người vào những vị trí phù hợp dựa theo ký ức mới, bao gồm cả việc gán ghép cho họ con cái và người chồng... Sức mạnh quỷ quyệt cỡ này quả thực chẳng dám tưởng tượng, càng không có ngôn từ nào hình dung xiết."
+    },
+    {
+      "para_id": "c0009p0017",
+      "index": 17,
+      "raw_zh": "雲千峰沒有考慮不去的可能，薑柔甲決定要去他就得跟著去，直接違約這種事他是不會做的。",
+      "translated_vi": "Vân Thiên Phong không hề nghĩ tới chuyện bỏ cuộc không đi. Khương Nhu Giáp đã quyết tâm đi thì hắn phải đi theo, chuyện nuốt lời bội ước một cách trắng trợn như thế hắn tuyệt đối không làm."
+    },
+    {
+      "para_id": "c0009p0018",
+      "index": 18,
+      "raw_zh": "所以想來想去，結論只能是走一步看一步。",
+      "translated_vi": "Cho nên nghĩ tới nghĩ lui, kết luận sau cùng chỉ có thể là nước đến đâu bắc cầu tới đó, đi bước nào tính bước ấy."
+    },
+    {
+      "para_id": "c0009p0019",
+      "index": 19,
+      "raw_zh": "雲千峰列了一個長長的單子，上面寫滿了進入原始雨林需要的物品，什麽刀、斧、繩索、照明燈、水壺、皮靴、睡袋、衣服、食物，還有拍攝無人機。",
+      "translated_vi": "Vân Thiên Phong liền liệt kê một danh sách dài dằng dặc những vật dụng cần thiết để thâm nhập rừng mưa nhiệt đới: nào là dao găm, rìu, dây thừng, đèn chiếu sáng, bình nước dã ngoại, ủng da, túi ngủ, quần áo chuyên dụng, lương thực khô, và cả flycam chụp ảnh ghi hình."
+    },
+    {
+      "para_id": "c0009p0020",
+      "index": 20,
+      "raw_zh": "同時他還特意要薑柔甲去給他弄一杆鋒利能實戰使用的長槍，槍械弄不到，長杆兵器對付大型野獸恐怕是能選擇裡的最佳選擇了。",
+      "translated_vi": "Đồng thời hắn còn đặc biệt dặn Khương Nhu Giáp tìm cho bằng được một cây trường thương sắc bén có thể dùng trong thực chiến. Súng đạn thì không thể kiếm ra được trong nước, mà binh khí cán dài lại là lựa chọn tối ưu nhất trong số những thứ có thể tìm được để đối phó với dã thú cỡ lớn."
+    },
+    {
+      "para_id": "c0009p0021",
+      "index": 21,
+      "raw_zh": "組建探險隊是肯定來不及的。",
+      "translated_vi": "Việc thành lập một đoàn thám hiểm chuyên nghiệp lúc này chắc chắn là không kịp."
+    },
+    {
+      "para_id": "c0009p0022",
+      "index": 22,
+      "raw_zh": "就算薑柔甲社會關系強大，但弄一個跨國探險隊，招人到立項，要耗費的時間也絕對非常漫長，薑柔甲不想等，那雲千峰按照合同，就只能扛起槍，當他的保鏢兼職向導。",
+      "translated_vi": "Dẫu cho quan hệ xã hội của Khương Nhu Giáp có rộng lớn quyền thế đến đâu, nhưng để dựng nên một đội thám hiểm xuyên quốc gia từ khâu tuyển người đến phê duyệt dự án cũng phải mất một khoảng thời gian vô cùng dằng dặc. Khương Nhu Giáp lại chẳng muốn chờ đợi dù chỉ một ngày, vậy nên theo đúng hợp đồng, Vân Thiên Phong đành phải vác thương lên vai, vừa làm vệ sĩ vừa kiêm luôn chân dẫn đường."
+    },
+    {
+      "para_id": "c0009p0023",
+      "index": 23,
+      "raw_zh": "薑柔甲立馬安排朋友去弄這些東西，然後讓雲千峰帶著她去處理另外一件大事，那就是陪她去辦理出院手續。",
+      "translated_vi": "Khương Nhu Giáp lập tức sai bạn bè đi thu xếp chuẩn bị những món đồ này, sau đó giục Vân Thiên Phong chở cô đi giải quyết một việc hệ trọng khác: cùng cô đi làm thủ tục xuất viện."
+    },
+    {
+      "para_id": "c0009p0024",
+      "index": 24,
+      "raw_zh": "沒錯，理論上這丫頭應該在精神病院住院治療呢。",
+      "translated_vi": "Đúng vậy, trên danh nghĩa theo lý thuyết thì cô nàng này vẫn đang nằm điều trị nội trú trong bệnh viện tâm thần."
+    },
+    {
+      "para_id": "c0009p0025",
+      "index": 25,
+      "raw_zh": "鈔能力下，她才能到處亂跑。",
+      "translated_vi": "Nhờ có 'năng lực tiền tài' chống lưng, cô mới có thể tự do chạy nhảy khắp nơi bên ngoài như thế."
+    },
+    {
+      "para_id": "c0009p0026",
+      "index": 26,
+      "raw_zh": "這次她要出遠門，需要時間未定，如果不辦理出院，病院裡那些幫她忙的人會倒霉。",
+      "translated_vi": "Lần này cô phải đi một chuyến đường xa, thời gian bao lâu còn chưa xác định được. Nếu không chính thức làm thủ tục xuất viện thì những người bao che giúp đỡ cô trong bệnh viện chắc chắn sẽ gặp đại họa."
+    },
+    {
+      "para_id": "c0009p0027",
+      "index": 27,
+      "raw_zh": "雲千峰今天的角色是薑柔甲的臨時特殊監護人，要簽字保證薑柔甲不會出問題，責任很大那種。",
+      "translated_vi": "Vai trò của Vân Thiên Phong hôm nay là người giám hộ đặc biệt lâm thời của Khương Nhu Giáp, phải ký tên cam kết đảm bảo cô nàng sẽ không xảy ra bất trắc gì, thuộc loại gánh vác trách nhiệm cực kỳ nặng nề."
+    },
+    {
+      "para_id": "c0009p0028",
+      "index": 28,
+      "raw_zh": "倆人來到薑柔甲主治醫生的辦公室，雲千峰立馬就發現了華點。",
+      "translated_vi": "Cả hai cùng đến phòng làm việc của bác sĩ điều trị chính cho Khương Nhu Giáp, và Vân Thiên Phong lập tức phát hiện ra một điểm sáng chói lọi."
+    },
+    {
+      "para_id": "c0009p0029",
+      "index": 29,
+      "raw_zh": "透過辦公室的窗戶，他看到後院病人休閑區，一個身高一米六左右，看起來至多二十歲的少女正在院子裡舉著沉重的石凳做深蹲。",
+      "translated_vi": "Qua khung cửa sổ phòng làm việc, hắn trông thấy ở khu vực nghỉ ngơi thư giãn của bệnh nhân ngoài sân sau, có một thiếu nữ vóc dáng cao chừng một mét sáu, trông vẻ ngoài nhiều nhất chỉ khoảng hai mươi tuổi, đang dùng hai tay nâng bổng một chiếc ghế đá nặng trịch giữa sân để tập bài squat gập gối."
+    },
+    {
+      "para_id": "c0009p0030",
+      "index": 30,
+      "raw_zh": "她長發挽著，乾淨利落，唇色有些白，皮膚更白，眼神帶著生人勿進的淡漠。",
+      "translated_vi": "Mái tóc dài của cô được búi gọn gàng sau gáy, sắc môi hơi nhợt nhạt, nước da lại trắng muốt như ngọc, ánh mắt toát ra vẻ lạnh lùng thờ ơ kiểu 'người lạ chớ đến gần'."
+    },
+    {
+      "para_id": "c0009p0031",
+      "index": 31,
+      "raw_zh": "很難想象那麽纖細的雙臂舉著最少二三百斤的酒桶形石凳好似並不費力，就見她曲腿伸直，纖細而長的腰肢連著綻開的谷丘，形成驚人的腰臀比，非常驚豔。",
+      "translated_vi": "Thật khó lòng tưởng tượng nổi cánh tay mảnh khảnh dường ấy lại nâng bổng một chiếc đôn đá hình thùng rượu nặng ít nhất hai ba trăm cân một cách nhẹ nhàng như không. Nhìn cô nàng khuỵu gối rồi duỗi thẳng chân, vòng eo thon dài uốn lượn nối liền với cặp mông nở nang săn chắc tạo nên một tỷ lệ eo-hông tuyệt mỹ kinh người, khiến người ta không khỏi lóa mắt."
+    },
+    {
+      "para_id": "c0009p0032",
+      "index": 32,
+      "raw_zh": "薑柔甲和主治醫生說話，雲千峰也插不進嘴去，就看著窗外那女孩做運動，賞心悅目。",
+      "translated_vi": "Khương Nhu Giáp đang nói chuyện với bác sĩ điều trị, Vân Thiên Phong chẳng chen mồm vào được, bèn cứ thế đứng nhìn cô gái ngoài cửa sổ tập thể hình, quả thực là cảnh tượng cảnh đẹp ý vui."
+    },
+    {
+      "para_id": "c0009p0033",
+      "index": 33,
+      "raw_zh": "這樣注視一會後，院子裡做深蹲的女孩似乎感受到了直射自己身後最凸起位置的目光，緩緩回過頭來，準確的與雲千峰的目光交接在一處。",
+      "translated_vi": "Sau khi bị dán mắt quan sát một hồi lâu, cô gái đang tập squat ngoài sân dường như cảm nhận được ánh nhìn nóng bỏng đang chiếu thẳng vào nơi đẫy đà nhô cao nhất sau lưng mình. Cô chậm rãi ngoảnh đầu lại, ánh mắt chuẩn xác giao thoa cùng ánh nhìn của Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0009p0034",
+      "index": 34,
+      "raw_zh": "那女孩估計有點生氣，轉過頭來時面無表情。",
+      "translated_vi": "Cô gái ước chừng có chút bực mình, khi quay mặt lại gương mặt không chút biểu cảm, lạnh băng như băng tuyết."
+    },
+    {
+      "para_id": "c0009p0035",
+      "index": 35,
+      "raw_zh": "雲千峰咧嘴一笑，表達善意，也就在這時候被薑柔甲叫去簽字，就沒看到那健身女孩如何回應自己的笑容，等走出主治醫生辦公室，便把這個小插曲徹底忘了個乾淨。",
+      "translated_vi": "Vân Thiên Phong bèn toét miệng cười một cái để bày tỏ thiện chí. Vừa đúng lúc ấy, Khương Nhu Giáp gọi hắn qua ký tên, thành thử hắn không kịp nhìn xem cô nàng gymer kia phản ứng ra sao trước nụ cười của mình. Đến khi bước chân ra khỏi phòng làm việc của bác sĩ, hắn đã quẳng mẩu chuyện nhỏ nhặt này ra sau đầu sạch sành sanh."
+    },
+    {
+      "para_id": "c0009p0036",
+      "index": 36,
+      "raw_zh": "他不知道的是，他和薑柔甲前腳剛走，這家精神病院有一個嚴重精神分裂的病人逃跑了，正是那鍛煉深蹲的少女。",
+      "translated_vi": "Điều hắn không hề hay biết là, ngay sau khi hắn và Khương Nhu Giáp vừa cất bước rời đi, bệnh viện tâm thần này bỗng xảy ra vụ việc một bệnh nhân tâm thần phân liệt thể nặng đào tẩu, mà người đó chính là thiếu nữ vừa tập squat đôn đá kia."
+    },
+    {
+      "para_id": "c0009p0037",
+      "index": 37,
+      "raw_zh": "萬事俱備。",
+      "translated_vi": "Vạn sự đã chuẩn bị đâu vào đấy."
+    },
+    {
+      "para_id": "c0009p0038",
+      "index": 38,
+      "raw_zh": "在病院回到家的倆人隨便對付了一頓飯，算是把早餐、午餐和下午茶合並吃了。",
+      "translated_vi": "Rời khỏi bệnh viện trở về nhà, cả hai ăn qua quýt một bữa cơm đạm bạc, coi như gộp chung cả bữa sáng, bữa trưa và trà chiều làm một."
+    },
+    {
+      "para_id": "c0009p0039",
+      "index": 39,
+      "raw_zh": "餐後，薑柔甲的朋友已經把雲千峰要求的裝備都買好，且稱心的叫人放到了薑柔甲的奔馳全地形越野房車內。",
+      "translated_vi": "Sau bữa ăn, đám bạn của Khương Nhu Giáp đã mua sắm đầy đủ mọi trang thiết bị mà Vân Thiên Phong yêu cầu, hơn nữa còn chu đáo sai người chất gọn gàng vào trong chiếc xe mobihome việt dã mọi địa hình hiệu Mercedes của cô nàng."
+    },
+    {
+      "para_id": "c0009p0040",
+      "index": 40,
+      "raw_zh": "他們購買的工具裝備，無法乘坐公共交通工具，自己開車去是唯一的途徑。",
+      "translated_vi": "Những công cụ và trang bị dã ngoại mà họ sắm sửa không thể mang lên các phương tiện giao thông công cộng được, tự lái xe việt dã đi chính là con đường khả dĩ duy nhất."
+    },
+    {
+      "para_id": "c0009p0041",
+      "index": 41,
+      "raw_zh": "薑柔甲一刻也不想等，吃飽了飯就嚷嚷著直接出發。",
+      "translated_vi": "Khương Nhu Giáp chẳng muốn chờ đợi thêm một khắc nào nữa, vừa ăn no nê là đã sốt sắng đòi xuất phát ngay tắp lự."
+    },
+    {
+      "para_id": "c0009p0042",
+      "index": 42,
+      "raw_zh": "雲千峰想拖延也不成，這丫頭一急就拿合同說事，煩得很。",
+      "translated_vi": "Vân Thiên Phong muốn cù cưa kéo dài thời gian cũng không xong, con bé này cứ hễ sốt ruột lên là lại lôi hợp đồng ra đe dọa, phiền toái vô cùng."
+    },
+    {
+      "para_id": "c0009p0043",
+      "index": 43,
+      "raw_zh": "然而，等他們到了車庫，雲千峰頓時也急著走了。",
+      "translated_vi": "Thế nhưng, đến khi bước xuống gara đỗ xe, Vân Thiên Phong tức thì cũng nóng lòng muốn lên đường ngay."
+    },
+    {
+      "para_id": "c0009p0044",
+      "index": 44,
+      "raw_zh": "不為其它，他一眼就愛上眼前這輛外觀彪悍的房車，已經迫不及待的想要上手試試。",
+      "translated_vi": "Chẳng vì lý do gì khác, hắn vừa nhìn đã mê mẩn ngay chiếc mobihome có vẻ ngoài hầm hố dũng mãnh trước mắt, nóng lòng muốn nhảy lên ghế lái thử sức một phen."
+    },
+    {
+      "para_id": "c0009p0045",
+      "index": 45,
+      "raw_zh": "五米多長的車身，老高的底盤，改裝的300L油箱，一箱油能續航一千公裡有余，動力強勁，越野性能堪比坦克，只要沒有大樹攔著，估計在森林裡馳騁都沒問題。",
+      "translated_vi": "Thân xe dài hơn năm mét, gầm xe cao ngất ngưởng, bình xăng độ dung tích tới 300 lít giúp xe chạy một mạch hơn một nghìn cây số mà không cần tiếp nhiên liệu. Động cơ gầm rú uy lực, khả năng việt dã chẳng khác nào một cỗ xe tăng bọc thép, miễn là không bị cây cổ thụ chắn đường thì băng rừng vượt suối phăm phăm."
+    },
+    {
+      "para_id": "c0009p0046",
+      "index": 46,
+      "raw_zh": "裝備都放在高近兩米的房廂內，把原本帶著卡座的房車客廳幾乎堆滿，隻留了一條狹窄的過道。",
+      "translated_vi": "Mớ trang bị dã ngoại đều được xếp bên trong khoang xe cao gần hai mét, chất kín gần như toàn bộ phòng khách có ghế đệm sofa, chỉ chừa lại một lối đi hẹp vừa đủ một người lách qua."
+    },
+    {
+      "para_id": "c0009p0047",
+      "index": 47,
+      "raw_zh": "仔細檢查了一下，沒有缺失的物品，尤其是薑柔甲的朋友給弄來的長槍，更是深得雲千峰喜愛。",
+      "translated_vi": "Kiểm tra kỹ lưỡng một lượt, đồ đạc không thiếu một món nào, đặc biệt là cây trường thương mà bạn bè Khương Nhu Giáp kiếm về lại càng khiến Vân Thiên Phong thích mê thích mệt."
+    },
+    {
+      "para_id": "c0009p0048",
+      "index": 48,
+      "raw_zh": "這絕對是個真家夥，柳葉槍頭，輕便鋒利，僅是槍頭絕對不會重過二兩，相當講究，是典型的窄頭破甲槍。",
+      "translated_vi": "Đây tuyệt đối là hàng xịn thực chiến! Mũi thương hình lá liễu, vừa thanh thoát lại bén ngót, trọng lượng mũi thương chắc chắn không quá hai lạng, vô cùng tinh xảo công phu, là kiểu thương đầu hẹp phá giáp kinh điển."
+    },
+    {
+      "para_id": "c0009p0049",
+      "index": 49,
+      "raw_zh": "槍杆更是古代軍士用的積竹木柲。",
+      "translated_vi": "Cán thương lại càng là loại 'tích trúc mộc bí' mà quân đội cổ đại từng trang bị."
+    },
+    {
+      "para_id": "c0009p0050",
+      "index": 50,
+      "raw_zh": "所謂積竹木柲，就是以韌木為芯，外面以厚度毫米內的竹片貼裹，再以絲線革皮纏繞刷老漆製成。",
+      "translated_vi": "Cái gọi là 'tích trúc mộc bí', chính là lấy lõi gỗ dẻo dai làm xương sống, bên ngoài bọc kín các thanh cật tre mỏng dưới một milimet, sau đó quấn chặt bằng chỉ tơ và da thuộc, rồi quét thêm nhiều lớp sơn ta truyền thống."
+    },
+    {
+      "para_id": "c0009p0051",
+      "index": 51,
+      "raw_zh": "這樣的槍杆韌性大，硬度強，能硬磕刀斧。",
+      "translated_vi": "Cán thương chế tác kiểu này sở hữu độ đàn hồi cực cao, độ cứng rắn kinh người, hoàn toàn có thể va đập trực diện với đao búa sắc bén mà không hề gãy nát."
+    },
+    {
+      "para_id": "c0009p0052",
+      "index": 52,
+      "raw_zh": "再看槍杆上的包漿，雲千峰斷定，這是前朝留下來的老物件，準確來說，應該是古董，也不知道薑柔甲為這個花了多少錢，相信絕對不是少數。",
+      "translated_vi": "Lại nhìn lớp nước bóng bao tương phủ trên cán thương, Vân Thiên Phong khẳng định chắc nịch đây là cổ vật từ thời tiền triều truyền lại, nói chính xác ra thì là một món đồ cổ đắt giá. Chẳng biết Khương Nhu Giáp đã vung bao nhiêu tiền để rước nó về, nhưng tin chắc con số tuyệt đối không hề nhỏ."
+    },
+    {
+      "para_id": "c0009p0053",
+      "index": 53,
+      "raw_zh": "當然了，對於為了開車去原始叢林，隨手就買了五百萬的全地形房車的人來說，依舊還是小數目。",
+      "translated_vi": "Dĩ nhiên, đối với một tiểu thư sẵn sàng vung tay năm triệu tệ tậu chiếc mobihome chuyên dụng chỉ để lái vào rừng mưa nguyên sinh thì mớ tiền mua ngọn thương này vẫn chỉ là hạt cát trong sa mạc."
+    },
+    {
+      "para_id": "c0009p0054",
+      "index": 54,
+      "raw_zh": "薑柔甲也煞有介事的給自己配置了武器，是一款定製的碳纖維強力複合弓，雲千峰拿鐵砧板試了一下，拉滿弓弦，一箭能把箭頭慣進鐵砧板。",
+      "translated_vi": "Khương Nhu Giáp cũng trang bị cho mình vũ khí đàng hoàng nghiêm chỉnh: một cây cung trợ lực carbon cường lực được đặt làm riêng. Vân Thiên Phong lấy chiếc đe sắt ra thử nghiệm, kéo căng dây cung, một mũi tên bắn ra có thể găm phập đầu tên xuyên sâu vào thớt đe sắt."
+    },
+    {
+      "para_id": "c0009p0055",
+      "index": 55,
+      "raw_zh": "要知道鐵砧板硬度堪比鋼鐵，這也就意味著，這張造型複雜的弓箭，能輕松沒入野獸的頭蓋骨。",
+      "translated_vi": "Cần biết rằng độ cứng của đe sắt chẳng khác nào thép cứng, điều này đồng nghĩa với việc cây cung có kết cấu cơ khí tinh vi này hoàn toàn có thể bắn xuyên thủng hộp sọ dã thú một cách dễ như bỡn."
+    },
+    {
+      "para_id": "c0009p0056",
+      "index": 56,
+      "raw_zh": "雲千峰不僅怎舌，心想著要是以前有這個弓，自己都敢上山獵老虎，這比步槍都狠。",
+      "translated_vi": "Vân Thiên Phong không khỏi tặc lưỡi kinh ngạc, thầm nghĩ ngày xưa mà có cây cung trợ lực khủng khiếp này thì mình cũng dám vác lên núi săn hổ, uy lực xé gió của nó còn hung hãn hơn cả súng trường."
+    },
+    {
+      "para_id": "c0009p0057",
+      "index": 57,
+      "raw_zh": "商量好倆人輪班開車，一人四個小時，二人組便即出發，還順路去雲千峰的風水店取了點東西。",
+      "translated_vi": "Thống nhất xong việc hai người thay nhau cầm lái, mỗi người chạy bốn tiếng đồng hồ, tổ đội hai người liền lên đường xuất phát, tiện thể tạt qua tiệm phong thủy của Vân Thiên Phong để lấy thêm vài món đồ lặt vặt."
+    },
+    {
+      "para_id": "c0009p0058",
+      "index": 58,
+      "raw_zh": "也就是朱砂、銅錢、桃木劍這些。",
+      "translated_vi": "Chẳng qua cũng chỉ là chu sa, tiền đồng, kiếm gỗ đào các loại."
+    },
+    {
+      "para_id": "c0009p0059",
+      "index": 59,
+      "raw_zh": "看到雲千峰特意取這些東西，薑柔甲是非常不理解的。",
+      "translated_vi": "Trông thấy Vân Thiên Phong cẩn thận thu dọn những thứ này mang theo, Khương Nhu Giáp cảm thấy vô cùng khó hiểu."
+    },
+    {
+      "para_id": "c0009p0060",
+      "index": 60,
+      "raw_zh": "“咱們能用到這些東西嗎？”",
+      "translated_vi": "\"Chúng ta liệu có dùng tới mấy món đồ này không?\""
+    },
+    {
+      "para_id": "c0009p0061",
+      "index": 61,
+      "raw_zh": "雲千峰把東西在車裡放好，道：",
+      "translated_vi": "Vân Thiên Phong xếp gọn gàng đồ đạc vào trong xe rồi bảo:"
+    },
+    {
+      "para_id": "c0009p0062",
+      "index": 62,
+      "raw_zh": "“這叫有備無患，萬一你哥找的神跡是古墓呢？這東西不就派上用場了？”",
+      "translated_vi": "\"Cái này gọi là phòng bệnh hơn chữa bệnh. Lỡ như dấu tích thần linh mà anh trai cô tìm kiếm lại là một ngôi cổ mộ thì sao? Lúc đó mấy thứ này chẳng phải phát huy tác dụng rồi à?\""
+    },
+    {
+      "para_id": "c0009p0063",
+      "index": 63,
+      "raw_zh": "薑柔甲恍然大悟，點頭道：",
+      "translated_vi": "Khương Nhu Giáp bừng tỉnh ngộ ra, gật đầu liên hồi:"
+    },
+    {
+      "para_id": "c0009p0064",
+      "index": 64,
+      "raw_zh": "“有道理，萬一遇到僵屍野鬼，就能用這個驅魔了，我電影裡看過。”",
+      "translated_vi": "\"Có lý lắm! Ngộ nhỡ chạm trán cương thi hay ma quỷ nơi hoang dã thì có thể dùng mấy thứ này trừ tà bắt ma, tôi từng xem trên phim ảnh rồi.\""
+    },
+    {
+      "para_id": "c0009p0065",
+      "index": 65,
+      "raw_zh": "雲千峰嗤笑，道：",
+      "translated_vi": "Vân Thiên Phong cười khẩy một tiếng, châm chọc:"
+    },
+    {
+      "para_id": "c0009p0066",
+      "index": 66,
+      "raw_zh": "“你想多了，從古至今，這些東西的真正作用可能只有一個。”",
+      "translated_vi": "\"Cô nghĩ xa quá rồi đấy. Từ xưa đến nay, công dụng thực sự duy nhất của mấy món này có lẽ chỉ có một mà thôi.\""
+    },
+    {
+      "para_id": "c0009p0067",
+      "index": 67,
+      "raw_zh": "薑柔甲不懂就問：",
+      "translated_vi": "Khương Nhu Giáp không hiểu bèn hỏi dồn:"
+    },
+    {
+      "para_id": "c0009p0068",
+      "index": 68,
+      "raw_zh": "“什麽？”",
+      "translated_vi": "\"Là gì cơ?\""
+    },
+    {
+      "para_id": "c0009p0069",
+      "index": 69,
+      "raw_zh": "雲千峰給房車重新打著了火，回了句：",
+      "translated_vi": "Vân Thiên Phong vặn chìa khóa nổ máy xe mobihome, buông thõng hai từ:"
+    },
+    {
+      "para_id": "c0009p0070",
+      "index": 70,
+      "raw_zh": "“壯膽！”",
+      "translated_vi": "\"Để lấy can đảm!\""
+    },
+    {
+      "para_id": "c0009p0071",
+      "index": 71,
+      "raw_zh": "然後一腳油門疾馳而去，直奔那野蠻的未知。",
+      "translated_vi": "Dứt lời, hắn đạp lút chân ga phóng vút đi, lao thẳng về phía chân trời hoang dã chưa từng được biết tới."
+    }
+  ]
+}

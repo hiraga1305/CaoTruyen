@@ -1,0 +1,118 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0320|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一張|một tấm
+M2|三枚|ba viên
+M3|三枚|ba viên
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §75):
+§1 320.第319章 阿甘正傳：逃離蘋果島（1）
+§2 第319章 阿甘正傳：逃離蘋果島（1）
+§3 三天前。
+§4 阿甘是個信命的人。
+§5 [Ø=云千峰]原因是他知道自己有一點點喜歡吹牛、時常撒謊、偶爾囂張、虛偽、花心、自私那麽一點點，但是運氣一直都不賴。
+§6 [Ø=云千峰]這也就意味著好人有好報的邏輯關系在他這裡是不成立的，而是運氣決定一切。
+§7 [Ø=云千峰]所以，他信命。
+§8 [Ø=云千峰]因為他八字日元是辛金，以甲乙木為財，綠色永遠是真愛， [||] 所以他時常穿著一套草綠色的西裝，穿著暗綠色的皮鞋，鴨屎綠色的皮帶，杏黃色的襯衫。
+§9 [Ø=云千峰]黃色屬土，土能生金嘛。
+§10 [Ø=云千峰]人這一輩子，除了錢，你總得愛護一點自己的身體不是？
+§11 [Ø=云千峰]這身著裝，再配上他那陸小鳳版的小胡子，那真是.算了。
+§12 [Ø=云千峰]當然了，他從不帶帽子。
+§13 最近他準備去圓一個夢。
+§14 [Ø=云千峰]只需要三十萬日元，就能當一次男主， [||] 還能選擇自己喜歡類型的女主，阿甘動心了，因為選項裡有自己的老師。
+§15 哪個男人還沒個演員夢呢是吧？
+§16 [Ø=云千峰]於是阿甘決定去街頭拐角算個命，看看此行吉凶，若是凶，夢想可以再忍一忍。
+§17 [Ø=云千峰]據說那算命先生師承龍虎山天璣道人，共有師兄弟九人，各個都是神仙人物。
+§18 [Ø=云千峰]名聲在這城內也比較響亮，大小事能伸手的都準。
+§19 [Ø=云千峰]最主要，價格還不貴。
+§20 [Ø=云千峰]算命先生年紀不大，俗名史翩至， [||] 三綹黑須，方面堂，正氣凜然。
+§21 [Ø=云千峰]要知某事吉凶，最佳的算法，自然是六爻。
+§22 “所算何事？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 [Ø=云千峰]“欲東行，測測吉凶，最主要的是看看有沒有損財。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 [Ø=云千峰]該花的錢，不叫損財，不該花的才是。
+§25 阿甘畢竟是怕仙人跳的。
+§26 [Ø=云千峰]史翩至聽罷點了點頭，拿出一張[M1:một tấm]A4厚紙，在上面書寫“己未月”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]“己卯日”[Q2:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]。
+§27 [Ø=云千峰]這月日天乾地支，便是代表著乾坤二卦，如此再配六爻，方滿八卦之數。
+§28 [Ø=云千峰]阿甘常算命，對規矩門清兒。
+§29 [Ø=云千峰]當下淨手，然後面南背北，恭敬的捧起三枚[M3:ba viên][M2:ba viên]明古銅錢， [||] 在手心“嘩啦嘩啦”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]搖晃起來，心中想著男主角之行，隨後將三枚[M3:ba viên][M2:ba viên]銅錢骰與梨木桌面。
+§30 [Ø=云千峰]“咣當當”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]一陣響，卻是陽爻一個。
+§31 [Ø=云千峰]緊接著“陽爻、陰爻、陽爻、陽爻、陰爻”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]，六爻坐定，乃是兌澤之卦， [||] 是個靜卦，並無老陰老陽攪局，算是最好解的卦了。
+§32 [Ø=云千峰]阿甘看罷，覺得有些虧了。
+§33 [Ø=云千峰]史翩至觀日元，合卦象，配上六親用神， [||] 定“世”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]“應”[Q2:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]兩爻，卦象便如掛畫一般，清晰了然，一目望穿。
+§34 何為易？簡單才是易。
+§35 [Ø=云千峰]能把卦象如作畫，方解其中意。
+§36 這史翩至是個高手！
+§37 [Ø=云千峰]“兄弟旬空，財爻有根且旺，此行不但不會耗財，還能大賺。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 [Ø=云千峰]阿甘一聽喜上眉梢，忙問道：
+§39 “那其他方面？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 [Ø=云千峰]古月言面無表情，捋了一下長須，沉聲道：
+§41 “得加錢。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§42 [Ø=云千峰]阿甘忙賠笑擺手，道：
+§43 “其它那就不看了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 [Ø=云千峰]離開了算命攤子，阿甘立馬聯系了中介，幫他安排男主角事宜。
+§45 [Ø=云千峰]一打開機票訂票軟件，恰好有打折機票，還恰好折扣極低，這讓阿甘不由感慨：
+§46 [Ø=云千峰]“好準的卦象，莫不是此次蘋果島之行，真的還有什麽驚喜？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§47 [Ø=云千峰]驚，卻是有的。
+§48 三天后。
+§49 阿甘。
+§50 [Ø=云千峰]一個酒店的套房內，鏡子前。
+§51 [Ø=云千峰]遮擋著窗簾的房間昏暗無光，窗外還有一些古怪的聲響，好像是美人魚在歌唱著引誘航行的水手去送死。
+§52 [Ø=云千峰]阿甘用手機電筒的光照著自己那嚴肅的臉，臉對著鏡子，純潔的白光還挺神聖。
+§53 他對著鏡子語重心長：
+§54 [Ø=云千峰]“.小和尚一路走一路想，終於忍不住問：“師父，你犯戒了，怎麽能背著女人過河呢？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]，老和尚歎道：“徒兒， [||] 我早已放下，你怎麽還沒放下？”[Q2:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]，老天爺，您就說說，他是不是這麽個理兒？
+§55 [Ø=云千峰]是，我承認自己有一點點喜歡吹牛、時常撒謊、偶爾囂張、虛偽、花心、自私那麽一點點，但是我已經原諒我自己了，您怎麽還放不下呢老天爺？咱不說批評誰哈， [||] 但這是不對的，我現在閉上眼睛，數十個數後睜開，您老讓世界恢復正常好不好？知錯能改善莫大焉”
+§56 [Ø=云千峰]阿甘閉上了眼睛，故意數得慢了一些，又故意數了一百個數，終於睜開了眼睛。
+§57 [Ø=云千峰]他側耳傾聽，外面那種好似美人魚歌唱的聲音似乎真的消失了。
+§58 [Ø=云千峰]用手開了一下壁燈的開關，燈沒有亮。
+§59 [Ø=云千峰]“停電沒什麽奇怪的，沒什麽奇怪的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§60 [Ø=云千峰]阿甘輕聲自語著，緩緩靠近窗邊，用手極為小心翼翼的把窗簾掀開一個小小的縫隙。
+§61 [Ø=云千峰]窗外光線昏暗，天空彌漫著厚厚的黑色的煙霧， [||] 遮蔽得陽光只能透進來很小的一部分，比中秋的月亮明亮不了多少，但終究還是看得見的。
+§62 [Ø=云千峰]隻一眼，阿甘脊椎又彎了幾分， [||] 忙把窗簾拽嚴，無力的走回床邊，捂著肚子坐了下去。
+§63 [Ø=云千峰]已經兩天一夜沒有吃東西，他現在胃裡好像火燒一樣疼， [||] 阿甘甚至懷疑，自己的胃是不是已經被過多的胃酸消化著，那種痛咬著牙都忍不住。
+§64 “嗨”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§65 [Ø=云千峰]無力的歎了一口氣，阿甘舔著嘴唇， [||] 用手機的電筒在屋子裡四處照著，當看到桌子上的煙灰缸時，眼睛登時一亮。
+§66 [Ø=云千峰]他忙走過去，把桌上便簽紙撕下來一條，然後把煙灰缸裡的煙屁撿出來，把那一截截煙屁裡剩下的那點煙絲扒出來， [||] 放到便簽紙上，然後卷緊，用打火機點燃，使勁的抽了一口。
+§67 “哦”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§68 齁辣。
+§69 [Ø=云千峰]阿甘皺鼻閉眼，辣的不輕，但隨後是一臉享受。
+§70 [Ø=云千峰]“哎，當初該加錢問點別的啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§71 兩天半前。
+§72 深夜。
+§73 阿甘來到了蘋果島。
+§74 直接入住了這家酒店。
+§75 [Ø=云千峰]阿甘是有些錢的，在沙漠國家那些年，幫著一個叫約翰的歐洲人找隕石，著實賺了不少錢。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 75 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§75. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

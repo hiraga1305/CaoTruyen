@@ -1,0 +1,114 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0321|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §75):
+§1 321.第320章 阿甘正傳：逃離蘋果島（2）
+§2 第320章 阿甘正傳：逃離蘋果島（2）
+§3 [Ø=云千峰]阿甘的動作愈加熟練起來，終於找到了當年以開門為營生的手感。
+§4 [Ø=云千峰]室內，
+§5 [Ø=云千峰]熟悉的味道，熟悉的場景， [||] 唯一不同的是，這個巨人觀掛在了吊燈上，還在滴答水。
+§6 [Ø=云千峰]好吧，用濃稠液體來形容更準確。
+§7 [Ø=云千峰]阿甘用最快的速度搜遍了整個屋子，這次隻用了八分鍾。
+§8 算是找到了當年以為營生的手感。
+§9 獲得物品：
+§10 [Ø=云千峰]鑽石款百達翡麗男表一塊，目測為真。
+§11 [Ø=云千峰]純金佛牌掛墜一塊，日式短刀一把，西地那非五片
+§12 [Ø=云千峰]正在清點裝包，阿甘突然聽到“吱嘎”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]一聲響， [||] 聲音自頭頂斜上方傳來，他幾乎下意識的抽出日式短刀，刀和腦袋幾乎同時轉過去。
+§13 [Ø=云千峰]就見吊燈在搖晃，發出“吱嘎吱嘎”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]的輕響， [||] 那吊燈似乎還在旋轉，以至於剛才頭對著門口的巨人觀，現在腦袋對著自己。
+§14 這無疑是讓人毛骨悚然的。
+§15 [Ø=云千峰]阿甘屏住呼吸，用舌頭舔了一下手背，在身前轉了一圈。
+§16 [Ø=云千峰]“呼嚇死勞資，原來是門口傳來的風，晦氣晦氣，走了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 [Ø=云千峰]東西裝在挎包裡，百達翡麗戴在手腕上，阿甘頭也不回的朝著下一個門口趕去。
+§18 他的目的是食物。
+§19 [Ø=云千峰]開第三扇門的時候，阿甘還琢磨著：
+§20 [Ø=云千峰]“史翩至的卦準啊，我這真特奶奶的是賺錢了， [||] 真該問問別的，以後可不能小氣，不能和阿菲法學。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 [Ø=云千峰]念叨著，卻是已經破門而入。
+§22 [Ø=云千峰]第二扇門內，那吊在台燈上的巨人觀伴隨著“吱嘎”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]聲，腦袋重新回到了對著門口的位置。
+§23 [Ø=云千峰]第三扇門內，一如既往的熟悉，色香味俱全。
+§24 [Ø=云千峰]在這裡，阿甘激動的差點哭了。
+§25 [Ø=云千峰]因為他找到了一袋包裝完整的麵包，一包薯乾，一管胰島素注射器， [||] 一包半香煙，半包的晾晾，阿甘感覺也還能用。
+§26 後面阿甘的速度愈加快了起來。
+§27 [Ø=云千峰]他太迫切要吃包裡的麵包了，但很明顯這裡不是吃東西的地方，阿甘總有自己的理由。
+§28 [Ø=云千峰]這一層樓，一共十八個房間，十八扇門。
+§29 [Ø=云千峰]阿甘全都搜刮一遍，身上已經多了兩個雙肩包，因為東西實在不少。
+§30 [Ø=云千峰]但是食物真的很少，只有那一小袋麵包和薯乾。
+§31 [Ø=云千峰]不過收獲不小，顯然住在這裡的人，都比較有錢。
+§32 [Ø=云千峰]阿甘走出第十八扇門，淡然從走廊這一側的步行梯回到樓上。
+§33 [Ø=云千峰]他不知道的是，後面十八扇門裡，裝滿了不淡然。
+§34 [Ø=云千峰]回到樓上自己的房間，關好了門，檢查了兩遍鎖匙， [||] 這才把背包仍在一邊，小心翼翼的把麵包和薯乾方到桌子上，生怕摔壞了似的。
+§35 [Ø=云千峰]轉身走進衛生間，但是立即又轉身出來，把麵包和薯乾拿在手裡， [||] 進了廚房，用淡水潤嘴，再吐在手上，清洗雙手。
+§36 [Ø=云千峰]這才回到桌子旁，用枕巾塞進領口， [||] 用短日式刀將一袋麵包裡的一小個切成了均勻的幾塊，用撿到的一個鑲嵌藍寶石的發卡當叉子，叉了一小塊麵包放進口中。
+§37 [Ø=云千峰]然後細嚼慢咽，一遍又一遍的感受味蕾集體跳舞的感動。
+§38 阿甘哭了。
+§39 [Ø=云千峰]他從未想過，自己有一天會為了一塊麵包流出感動的淚。
+§40 [Ø=云千峰]“什麽男主角？什麽最喜歡的老師？都不如這一塊小小的麵包，阿甘啊”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 [Ø=云千峰]一小個麵包下腹，阿甘不舍得繼續吃下去，決定細水長流。
+§42 [Ø=云千峰]將麵包和薯乾謹慎藏好，這才坐在窗邊，看著外面的海景發呆。
+§43 [Ø=云千峰]這裡原本是一個極為繁華的大都市，但就如此莫名其妙的變成了海洋。
+§44 [Ø=云千峰]沒有絲毫的動靜，甚至沒有人發覺，就已經是這樣了。
+§45 [Ø=云千峰]之所以阿甘確定這不是海嘯，只能是詭異之事。
+§46 是因為沒有一棟樓倒塌。
+§47 [Ø=云千峰]若是海嘯造成這麽深的海水侵城，眼前這些樓房都不可能立在這裡，而應該在一瞬間就崩塌了。
+§48 [Ø=云千峰]“神秘力量嗎？蘋果島的東城到底發生了什麽？我來的那一夜，到底發生了什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§49 [Ø=云千峰]阿甘思索著，胃裡因為有了食物而變得異常舒服，火辣辣的痛感消失。
+§50 [Ø=云千峰]猜測不出城市被海水淹沒的原因，阿甘點了根煙，又開始胡思亂想。
+§51 [Ø=云千峰]“哎，沒有男主角的命啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§52 [Ø=云千峰]正想著，卻聽到不知何處傳來“咚咚咚”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]的撞擊聲。
+§53 阿甘側耳傾聽。
+§54 [Ø=云千峰]“不是窗外，難道是？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§55 [Ø=云千峰]想著，[Ø_SHIFT=姜柔甲]阿甘急忙輕聲來到門旁，順著門鏡貓眼看出去。
+§56 “沒有人啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§57 [Ø=姜柔甲]把耳朵貼在門上，發現震動的聲響變得清晰，甚至有些震耳朵。
+§58 [Ø=姜柔甲]“是附近房間有人在撞門！還有人活著，和我一樣困在這個樓層！可是他為什麽是撞門？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§59 “不會是有人開始搜索這層樓了吧？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§60 [Ø=姜柔甲]阿甘眯著眼睛思索著，使勁的吸了一口煙，咬牙道：
+§61 [Ø=姜柔甲]“一動不如一靜，要是真有人趁火打劫，我就躲在門旁給他一刀。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§62 [Ø=姜柔甲]想念至此，阿甘決定以逸待勞。
+§63 這一等就是五個多小時。
+§64 天色又變成徹底的漆黑。
+§65 [Ø=姜柔甲]阿甘知道，這是晚上了。
+§66 [Ø=姜柔甲]在這樣的夜裡，伸手不見五指不是誇張修辭，而是實事求是。
+§67 [Ø=姜柔甲]阿甘拿出自己的手搖充電器，給手機衝了一會電，聽著那依舊持續的“咚咚”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]撞擊聲。
+§68 [Ø=姜柔甲]以前陪約翰找隕石的時候，為了確保儀器在任何情況下都能有電， [||] 他們準備了手搖充電器，太陽能充電器等等新奇的小玩意，如今倒是派上了用場。
+§69 [Ø=姜柔甲]“衛星，無線信號，這些應該已經都完全沒有了，我手機上的時間顯示都已經不準， [||] 島上的黑色煙霧一定也遮蔽了衛星的攝影，這也就意味著，整個蘋果島徹底成了孤島，與外界失去了聯系！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§70 “會不會有其他國家的援助搜救隊前來？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§71 [Ø=姜柔甲]“應該不會了，蘋果島毀了全世界的海洋，怎麽會有人來救，我不該來這裡的！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§72 “這就是報應吧？大海的憤怒。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§73 [Ø=姜柔甲]阿甘想著，又點了一根煙。
+§74 [Ø=姜柔甲]白天的搜刮，煙收獲了不少。
+§75 [Ø=姜柔甲]飯吃不飽，精神食糧還是足的，阿甘很欣慰。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 75 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§75. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

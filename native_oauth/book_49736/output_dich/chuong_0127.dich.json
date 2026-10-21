@@ -1,0 +1,547 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 127,
+  "title": "Chương 127: Thần tích, đến nơi rồi!",
+  "total_paragraphs": 89,
+  "translated_paragraphs": 89,
+  "source_hash": "c122dc3f47f31c715d4b44751f6fd750a7ca6e05c6d83cba2b73c74b25aea8d8",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0127p0001",
+      "index": 1,
+      "raw_zh": "第127章 神跡，到了！",
+      "translated_vi": "Chương 127: Thần tích, đến nơi rồi!"
+    },
+    {
+      "para_id": "c0127p0002",
+      "index": 2,
+      "raw_zh": "漢字。",
+      "translated_vi": "Chữ Hán."
+    },
+    {
+      "para_id": "c0127p0003",
+      "index": 3,
+      "raw_zh": "一字一意，一字單音。",
+      "translated_vi": "Mỗi chữ một nghĩa, mỗi chữ một âm tiết độc lập."
+    },
+    {
+      "para_id": "c0127p0004",
+      "index": 4,
+      "raw_zh": "與英語不同，英語單詞大多都是有口型變化的，容易通過口型猜測，但是中文真不行。",
+      "translated_vi": "Khác với tiếng Anh, từ vựng tiếng Anh đa phần đều có sự biến đổi khẩu hình rõ rệt, rất dễ thông qua khẩu hình miệng để phán đoán, nhưng tiếng Trung thì thật sự chịu chết."
+    },
+    {
+      "para_id": "c0127p0005",
+      "index": 5,
+      "raw_zh": "一個口型，就說這個“鑽”的口型，保守的說，也能說出來好幾十個。",
+      "translated_vi": "Cùng một khẩu hình, chỉ riêng khẩu hình phát âm của chữ “Toản” này thôi, tính toán dè dặt cũng có thể kể ra tới vài mươi chữ khác nhau."
+    },
+    {
+      "para_id": "c0127p0006",
+      "index": 6,
+      "raw_zh": "看起來不多，但是一號要是想通過這幾十個字判斷出口，就需要用這些字組詞，通過完整的詞，判斷如何走出這裡。",
+      "translated_vi": "Nhìn qua tưởng chừng không nhiều, nhưng nếu Số 1 muốn dựa vào vài mươi chữ này để phán đoán lối ra, ả bắt buộc phải dùng các chữ đó để ghép thành từ ngữ hoàn chỉnh, rồi thông qua ý nghĩa của từ ngữ ấy mới luận ra cách bước ra khỏi nơi này."
+    },
+    {
+      "para_id": "c0127p0007",
+      "index": 7,
+      "raw_zh": "這猜測的數量就幾何倍增了，不說上千也差不多少。",
+      "translated_vi": "Số lượng phỏng đoán khi ấy sẽ tăng theo cấp số nhân, bảo là lên tới cả ngàn trường hợp cũng chẳng ngoa chút nào."
+    },
+    {
+      "para_id": "c0127p0008",
+      "index": 8,
+      "raw_zh": "於是，她在看到地上那些字的時候，心裡就知道，她不可能通過雲千峰那個口型找到答案了，一切只能自己想辦法。",
+      "translated_vi": "Thế nên, ngay khi nhìn thấy mớ chữ ngổn ngang trên mặt đất, trong lòng ả liền hiểu rõ, bản thân tuyệt đối không thể nào dựa vào khẩu hình miệng của Vân Thiên Phong để tìm ra đáp án nữa, tất thảy chỉ có thể tự mình nghĩ cách mà thôi."
+    },
+    {
+      "para_id": "c0127p0009",
+      "index": 9,
+      "raw_zh": "所以她吐了。",
+      "translated_vi": "Cho nên ả mới nôn thốc nôn tháo."
+    },
+    {
+      "para_id": "c0127p0010",
+      "index": 10,
+      "raw_zh": "一來是缺血眩暈，二來是對雲千峰的憤恨，導致怒火攻心。",
+      "translated_vi": "Phần vì mất máu quá nhiều dẫn tới hoa mắt chóng mặt, phần vì oán hận Vân Thiên Phong đến thấu xương tủy khiến cơn giận bốc lên ngút ngàn, uất ức công tâm."
+    },
+    {
+      "para_id": "c0127p0011",
+      "index": 11,
+      "raw_zh": "最主要的還是恐懼。",
+      "translated_vi": "Nhưng nguyên nhân cốt lõi nhất vẫn chính là nỗi sợ hãi tột cùng."
+    },
+    {
+      "para_id": "c0127p0012",
+      "index": 12,
+      "raw_zh": "那麽多枯骨的死相在這打樣，想淡然，是絕對做不到的。",
+      "translated_vi": "Đã có biết bao nhiêu bộ xương khô với cái chết thảm khốc rành rành ra đó làm gương, muốn giữ được sự bình thản là điều tuyệt đối không thể."
+    },
+    {
+      "para_id": "c0127p0013",
+      "index": 13,
+      "raw_zh": "“想辦法，所有人想出去的辦法！”",
+      "translated_vi": "“Nghĩ cách đi! Tất cả mau vắt óc nghĩ cách ra ngoài cho tôi!”"
+    },
+    {
+      "para_id": "c0127p0014",
+      "index": 14,
+      "raw_zh": "一號大聲吼道，然後又吐了一口酸水。",
+      "translated_vi": "Số 1 gào thét khản cả giọng, đoạn lại ộc ra một búng nước chua tanh tưởi."
+    },
+    {
+      "para_id": "c0127p0015",
+      "index": 15,
+      "raw_zh": "雲千峰帶著三女一頓狂奔，直到三女實在跑不動，千千已經摔了幾次跟頭，這次怎麽都爬不起來。",
+      "translated_vi": "Vân Thiên Phong dẫn ba cô gái cắm đầu chạy thục mạng một mạch, cho tới khi cả ba người thực sự kiệt sức chẳng thể nhấc nổi bước chân. Thiên Thiên đã vấp ngã liên tiếp mấy bận, lần này thì cô nàng nằm rạp xuống đất, thở không ra hơi, dẫu thế nào cũng không gượng dậy nổi."
+    },
+    {
+      "para_id": "c0127p0016",
+      "index": 16,
+      "raw_zh": "見到此，雲千峰隻好作罷，宣布原地休息。",
+      "translated_vi": "Trông thấy cảnh đó, Vân Thiên Phong đành phải dừng lại, tuyên bố nghỉ ngơi tại chỗ."
+    },
+    {
+      "para_id": "c0127p0017",
+      "index": 17,
+      "raw_zh": "這會過日子的男人，在被追殺之下，連野驢皮都順手帶了出來。",
+      "translated_vi": "Người đàn ông biết chăm lo vun vén cuộc sống này, ngay cả trong hoàn cảnh bị truy sát ngặt nghèo, vậy mà vẫn tiện tay tha theo cả tấm da lừa rừng chạy trốn."
+    },
+    {
+      "para_id": "c0127p0018",
+      "index": 18,
+      "raw_zh": "此時用海軍刀把那些高過人頭，青黃相間的長草貼地斬掉，清理出一塊空地，直接把斬掉的草鋪在地上，再鋪上驢皮，四個人坐在上面，吃著背簍裡僅剩下不多的驢肉。",
+      "translated_vi": "Lúc này anh rút dao hải quân phạt sát mặt đất những bụi cỏ dài màu xanh vàng đan xen cao quá đầu người, dọn sạch một khoảng đất trống, trải đống cỏ vừa cắt xuống đất rồi phủ tấm da lừa lên trên. Bốn người cùng ngồi bệt xuống, chia nhau ăn nốt chỗ thịt lừa ít ỏi còn sót lại trong gùi."
+    },
+    {
+      "para_id": "c0127p0019",
+      "index": 19,
+      "raw_zh": "吃飽是完全不夠了，好在不至於胃疼。",
+      "translated_vi": "Để ăn no thì hoàn toàn không đủ, nhưng may là cũng lót dạ được một chút, không đến mức đau thắt dạ dày."
+    },
+    {
+      "para_id": "c0127p0020",
+      "index": 20,
+      "raw_zh": "生火更是不敢，一來怕追兵發現，二來這裡枯草多於青草，一個不小心，引起草地火災，四個人就好把自己熏成臘肉了。",
+      "translated_vi": "Nhóm lửa thì lại càng không dám, một phần sợ bị đám truy binh phát hiện tung tích, phần khác vì cỏ khô ở đây nhiều hơn cỏ tươi, sơ sẩy một chút là bùng lên đám cháy thảo nguyên ngay, khi đó cả bốn người sẽ tự biến mình thành thịt hun khói mất."
+    },
+    {
+      "para_id": "c0127p0021",
+      "index": 21,
+      "raw_zh": "淡水也沒有，驢肉為了好保存，做的齁鹹，四個人吃完了嗓子緊，說話聲音都有點癟。",
+      "translated_vi": "Nước ngọt cũng chẳng còn giọt nào, thịt lừa để bảo quản được lâu nên ướp mặn chát, bốn người ăn xong cổ họng khô khát đắng ngắt, giọng nói thốt ra đều the thé khản đặc."
+    },
+    {
+      "para_id": "c0127p0022",
+      "index": 22,
+      "raw_zh": "雲千峰隻好讓她們都趕緊閉嘴，省省嗓子，明天找到淡水再說。",
+      "translated_vi": "Vân Thiên Phong đành bảo các cô mau ngậm miệng nghỉ ngơi, giữ gìn cổ họng, đợi sáng mai tìm được nguồn nước ngọt rồi hẵng tính."
+    },
+    {
+      "para_id": "c0127p0023",
+      "index": 23,
+      "raw_zh": "然後三女直接鑽進驢皮下面，用厚厚的草當被子，舒服的發出鼻音。",
+      "translated_vi": "Dứt lời, ba cô gái liền chui tọt vào bên dưới tấm da lừa, lấy lớp cỏ dày ủ lên làm chăn, thoải mái phát ra những tiếng hừ hừ nho nhỏ qua cánh mũi."
+    },
+    {
+      "para_id": "c0127p0024",
+      "index": 24,
+      "raw_zh": "雲千峰害怕一號那些人也能走出來，於是決定先守夜，一會再叫別人值班。",
+      "translated_vi": "Vân Thiên Phong lo sợ đám người Số 1 cũng có thể mò ra ngoài, thế nên quyết định thức gác đêm trước, lát nữa mới gọi người khác thay ca."
+    },
+    {
+      "para_id": "c0127p0025",
+      "index": 25,
+      "raw_zh": "月色明亮，他想到了一號那裡搶來的青白色圓球，於是在背簍裡拿出那卷羊皮圍裙，小心的散開，那圓球便滾落在眼前。",
+      "translated_vi": "Dưới ánh trăng vằng vặc, anh chợt nhớ tới quả cầu tròn màu thanh bạch đoạt được từ tay Số 1. Anh liền thò tay vào gùi lôi bọc tạp dề da cừu ra, cẩn thận gỡ từng lớp, quả cầu nọ lập tức lăn ra trước mắt."
+    },
+    {
+      "para_id": "c0127p0026",
+      "index": 26,
+      "raw_zh": "他不敢用手直接觸摸這東西，因為他猜測，無論是一百多年前死去的九號，還是現在困在崖隙的一號，就是靠著這個東西“複製”出另一個自己，亦或是召喚出另一個平行空間的自己，他無法確定，但他確定自己不需要另一個自己出現在眼前。",
+      "translated_vi": "Anh không dám dùng tay trần chạm trực tiếp vào vật này, bởi vì anh phỏng đoán rằng, bất kể là Số 9 đã chết hơn một trăm năm trước hay là Số 1 đang bị mắc kẹt trong khe vực hiện tại, đều nhờ vào thứ đồ này để “sao chép” ra một bản thể khác của chính mình, hoặc là triệu hồi một bản thân từ không gian song song khác đến. Anh không dám khẳng định chắc chắn, nhưng anh biết rõ một điều: bản thân tuyệt đối không cần một Vân Thiên Phong thứ hai xuất hiện trước mắt mình."
+    },
+    {
+      "para_id": "c0127p0027",
+      "index": 27,
+      "raw_zh": "雲千峰在羊皮圍裙上用海軍刀切割了一小塊，用這小塊羊皮隔著，拿起那個青白色的圓球。",
+      "translated_vi": "Vân Thiên Phong dùng dao hải quân cắt một mảnh nhỏ từ chiếc tạp dề da cừu, rồi bọc mảnh da ấy vào tay để cầm quả cầu màu thanh bạch lên."
+    },
+    {
+      "para_id": "c0127p0028",
+      "index": 28,
+      "raw_zh": "這球體遠看青白相間，但是拿到近處，就能看到，它是半透明的材質，能夠透過月光，直接看到球體的內部。",
+      "translated_vi": "Quả cầu này nhìn từ xa có màu xanh trắng đan xen, nhưng khi đưa lại gần mới thấy nó làm từ chất liệu bán trong suốt, ánh trăng có thể xuyên thấu qua, cho phép nhìn rõ mồn một cấu trúc bên trong."
+    },
+    {
+      "para_id": "c0127p0029",
+      "index": 29,
+      "raw_zh": "雲千峰用右手舉著那圓球，眯著眼睛仔細看進去。",
+      "translated_vi": "Vân Thiên Phong giơ quả cầu lên bằng tay phải, nheo mắt chăm chú nhìn sâu vào trong."
+    },
+    {
+      "para_id": "c0127p0030",
+      "index": 30,
+      "raw_zh": "桌球大小的圓球裡面，是一個寬高不過三四厘米的正多面體。",
+      "translated_vi": "Bên trong quả cầu tròn cỡ quả bóng bàn là một khối đa diện đều có chiều rộng và chiều cao chỉ chừng ba bốn centimet."
+    },
+    {
+      "para_id": "c0127p0031",
+      "index": 31,
+      "raw_zh": "在這個多面體還有兩道好像雲氣的東西，在繞著這個多面體轉圈遊動，看起來就像是兩條魚的幽靈。",
+      "translated_vi": "Quanh khối đa diện này còn có hai luồng khí mờ ảo tựa như mây khói, đang lượn vòng bơi lội xung quanh, trông hệt như linh hồn của hai con cá."
+    },
+    {
+      "para_id": "c0127p0032",
+      "index": 32,
+      "raw_zh": "看到這裡，讓雲千峰想起了雙魚玉佩。",
+      "translated_vi": "Nhìn tới đây, Vân Thiên Phong bất giác liên tưởng tới miếng Ngọc bội Song Ngư trong truyền thuyết."
+    },
+    {
+      "para_id": "c0127p0033",
+      "index": 33,
+      "raw_zh": "當然了，這東西肯定不是玉佩，誰會佩個球。",
+      "translated_vi": "Dĩ nhiên, thứ này chắc chắn không phải ngọc bội, ai đời lại đi đeo một quả cầu bên mình bao giờ."
+    },
+    {
+      "para_id": "c0127p0034",
+      "index": 34,
+      "raw_zh": "他拿著球體緩緩轉動，上下左右看了一圈，眉頭突然皺了起來。",
+      "translated_vi": "Anh chậm rãi xoay nhẹ quả cầu, quan sát trên dưới trái phải một lượt, chân mày bỗng nhiên nhíu chặt lại."
+    },
+    {
+      "para_id": "c0127p0035",
+      "index": 35,
+      "raw_zh": "“正十面體！這怎麽可能。”",
+      "translated_vi": "“Khối mười mặt đều! Sao có thể như vậy được?”"
+    },
+    {
+      "para_id": "c0127p0036",
+      "index": 36,
+      "raw_zh": "學易經八卦和術數的人，基本上都對幾何感興趣，雲千峰也是如此。",
+      "translated_vi": "Phàm là người học Kinh Dịch, Bát Quái và thuật số nói chung đều có niềm say mê với hình học, Vân Thiên Phong cũng không ngoại lệ."
+    },
+    {
+      "para_id": "c0127p0037",
+      "index": 37,
+      "raw_zh": "他清楚的記得三維空間中隻存在五種正多面體，分別是正四面體、正六面體、正八面體、正十二面體、正二十面體，正十面體在三維度空間是絕對無法存在的，但可以存在於四維度空間。",
+      "translated_vi": "Anh nhớ rất rõ trong không gian ba chiều chỉ tồn tại đúng năm loại khối đa diện đều, lần lượt là: tứ diện đều, lục diện đều, bát diện đều, thập nhị diện đều và nhị thập diện đều. Khối thập diện đều (mười mặt đều) tuyệt đối không thể tồn tại trong không gian ba chiều, nhưng lại có thể tồn tại trong không gian bốn chiều!"
+    },
+    {
+      "para_id": "c0127p0038",
+      "index": 38,
+      "raw_zh": "“這小球的內部扭曲著更高的維度？”",
+      "translated_vi": "“Bên trong quả cầu nhỏ bé này đang vặn xoắn một chiều không gian cao hơn ư?”"
+    },
+    {
+      "para_id": "c0127p0039",
+      "index": 39,
+      "raw_zh": "雲千峰顰眉猜測著，但是不敢肯定。",
+      "translated_vi": "Vân Thiên Phong chau mày phỏng đoán, nhưng chẳng dám khẳng định chắc nịch."
+    },
+    {
+      "para_id": "c0127p0040",
+      "index": 40,
+      "raw_zh": "畢竟人類的眼睛無法辨識更高緯度，只能憑借意識猜想和感觸。",
+      "translated_vi": "Dù sao thì đôi mắt của con người không thể nào nhận biết được chiều không gian cao hơn, chỉ có thể dựa vào ý thức để hình dung và cảm nhận."
+    },
+    {
+      "para_id": "c0127p0041",
+      "index": 41,
+      "raw_zh": "就比如他們在崖隙內，那裡因為空間扭曲，維度上肯定高於三維度，可是在他們眼裡依舊是三維度空間，要找到出口，只能通過意識分析破解。",
+      "translated_vi": "Chẳng hạn như khi bọn họ ở trong khe vực, nơi đó do không gian bị vặn xoắn nên chiều không gian chắc chắn cao hơn ba chiều, thế nhưng trong mắt bọn họ trông ra vẫn là không gian ba chiều như thường. Muốn tìm ra lối thoát, chỉ có thể thông qua ý thức phân tích để phá giải."
+    },
+    {
+      "para_id": "c0127p0042",
+      "index": 42,
+      "raw_zh": "而如果是四維度生物的話，不需要猜測，只是看一眼，就知道出口在哪，天經地義。",
+      "translated_vi": "Còn nếu như là sinh vật bốn chiều thì chẳng cần phải suy đoán làm gì, chỉ liếc mắt một cái là biết ngay lối ra ở đâu, đó là điều hiển nhiên như lẽ trời đất."
+    },
+    {
+      "para_id": "c0127p0043",
+      "index": 43,
+      "raw_zh": "“甭管裡面到底是什麽，這東西詭異得很，但必要的時候，有用！”",
+      "translated_vi": "“Mặc kệ bên trong rốt cuộc là thứ gì, món đồ này quái dị vô cùng, nhưng đến thời khắc then chốt thì chắc chắn có tác dụng lớn!”"
+    },
+    {
+      "para_id": "c0127p0044",
+      "index": 44,
+      "raw_zh": "想到這，他用那小塊羊皮包好這內含正十面體的小球，用草搓繩系起來，小心放在背簍的中間，避免丟失。",
+      "translated_vi": "Nghĩ tới đây, anh dùng mảnh da cừu nhỏ bọc kín quả cầu chứa khối mười mặt đều lại, bện cỏ khô thành sợi dây buộc chặt, cẩn thận đặt vào giữa gùi để tránh bị rơi mất."
+    },
+    {
+      "para_id": "c0127p0045",
+      "index": 45,
+      "raw_zh": "半夜的時候，雲千峰叫醒了張敏，低聲道：",
+      "translated_vi": "Nửa đêm, Vân Thiên Phong khẽ lay Trương Mẫn dậy, hạ giọng bảo:"
+    },
+    {
+      "para_id": "c0127p0046",
+      "index": 46,
+      "raw_zh": "“我睡一會兒，你值會夜，兩個小時候叫醒千千接替。”",
+      "translated_vi": "“Tôi chợp mắt một lát, cô gác đêm một lúc nhé, hai tiếng nữa thì đánh thức Thiên Thiên dậy thay ca.”"
+    },
+    {
+      "para_id": "c0127p0047",
+      "index": 47,
+      "raw_zh": "張敏點了點頭，舒展了一下筋骨，開始警惕的聽著四周的動靜。",
+      "translated_vi": "Trương Mẫn gật đầu, vươn vai vận động gân cốt một chút rồi bắt đầu căng tai cảnh giác lắng nghe mọi động tĩnh xung quanh."
+    },
+    {
+      "para_id": "c0127p0048",
+      "index": 48,
+      "raw_zh": "雲千峰鑽進驢皮被子，挨著秦疏影躺下，腦子裡想著毒龍鑽，手下意識的放到了不該放的地方，被睡夢中的秦疏影一把將手打掉。",
+      "translated_vi": "Vân Thiên Phong chui vào chăn da lừa, nằm sát cạnh Tần Sơ Ảnh. Trong đầu mông lung nghĩ về chiêu Độc Long Toản, bàn tay vô thức đặt vào nơi không nên đặt, liền bị Tần Sơ Ảnh đang mơ màng trong giấc ngủ đập bộp một cái văng tay ra."
+    },
+    {
+      "para_id": "c0127p0049",
+      "index": 49,
+      "raw_zh": "於是，改成環腰入睡。",
+      "translated_vi": "Thế là, anh đành đổi sang ôm eo cô mà ngủ."
+    },
+    {
+      "para_id": "c0127p0050",
+      "index": 50,
+      "raw_zh": "天將明。",
+      "translated_vi": "Trời hửng sáng."
+    },
+    {
+      "para_id": "c0127p0051",
+      "index": 51,
+      "raw_zh": "睡不踏實的雲千峰早早的睜開了眼睛，看到秦疏影坐在自己旁邊值夜，於是起身湊過來，坐在秦疏影跟前，輕聲的咳嗽了兩聲。",
+      "translated_vi": "Ngủ không ngon giấc nên Vân Thiên Phong thức dậy từ rất sớm. Trông thấy Tần Sơ Ảnh đang ngồi bên cạnh gác ca sáng, anh liền ngồi dậy xích lại gần, ngồi đối diện trước mặt cô rồi khẽ ho hai tiếng:"
+    },
+    {
+      "para_id": "c0127p0052",
+      "index": 52,
+      "raw_zh": "“咳咳！”",
+      "translated_vi": "“Khụ khụ!”"
+    },
+    {
+      "para_id": "c0127p0053",
+      "index": 53,
+      "raw_zh": "秦疏影用手摸了摸雲千峰的額頭，低聲道：",
+      "translated_vi": "Tần Sơ Ảnh đưa bàn tay mềm mại sờ lên trán Vân Thiên Phong, dịu giọng hỏi:"
+    },
+    {
+      "para_id": "c0127p0054",
+      "index": 54,
+      "raw_zh": "“沒感冒，是不是昨晚的驢肉太鹹了？今天真要抓緊找到淡水了。”",
+      "translated_vi": "“Không sốt. Có phải tối qua thịt lừa mặn quá không? Hôm nay chúng ta phải khẩn trương tìm nguồn nước ngọt mới được.”"
+    },
+    {
+      "para_id": "c0127p0055",
+      "index": 55,
+      "raw_zh": "這裡的夜晚比崖隙前還要冷，秦疏影披著羊皮圍裙，還是冷的縮著肩膀。",
+      "translated_vi": "Đêm ở nơi này còn lạnh buốt hơn cả phía trước khe vực, Tần Sơ Ảnh khoác chiếc tạp dề da cừu trên người mà vẫn rét tới mức rụt cả vai lại."
+    },
+    {
+      "para_id": "c0127p0056",
+      "index": 56,
+      "raw_zh": "雲千峰到底是沒忍住，低聲問道：",
+      "translated_vi": "Vân Thiên Phong rốt cuộc nhịn không được, liền hạ giọng hỏi:"
+    },
+    {
+      "para_id": "c0127p0057",
+      "index": 57,
+      "raw_zh": "“你你是怎麽知道毒龍鑽的？”",
+      "translated_vi": "“Cô... sao cô lại biết tới chiêu Độc Long Toản thế?”"
+    },
+    {
+      "para_id": "c0127p0058",
+      "index": 58,
+      "raw_zh": "聽到這話，秦疏影臉一下就紅了，斜了雲千峰一眼，叱道：",
+      "translated_vi": "Nghe câu này, mặt Tần Sơ Ảnh thoắt cái đỏ ửng, cô liếc xéo Vân Thiên Phong một cái, gắt khẽ:"
+    },
+    {
+      "para_id": "c0127p0059",
+      "index": 59,
+      "raw_zh": "“伱問這個幹嘛？”",
+      "translated_vi": "“Cậu hỏi cái đó làm gì?”"
+    },
+    {
+      "para_id": "c0127p0060",
+      "index": 60,
+      "raw_zh": "雲千峰嬉笑，道：",
+      "translated_vi": "Vân Thiên Phong cười toe toét:"
+    },
+    {
+      "para_id": "c0127p0061",
+      "index": 61,
+      "raw_zh": "“就是聊天唄，說說，你怎知道的？”",
+      "translated_vi": "“Thì nói chuyện phiếm thôi mà, kể nghe xem, sao cô biết được?”"
+    },
+    {
+      "para_id": "c0127p0062",
+      "index": 62,
+      "raw_zh": "秦疏影抿著嘴，笑道：",
+      "translated_vi": "Tần Sơ Ảnh mím môi cười:"
+    },
+    {
+      "para_id": "c0127p0063",
+      "index": 63,
+      "raw_zh": "“大學的時候，同寢室的閨蜜用電腦給我們放過電影一路向西，然後就知道了。”",
+      "translated_vi": "“Hồi học đại học, cô bạn thân cùng phòng ký túc xá dùng máy tính mở cho bọn tôi xem bộ phim 'Nhất Lộ Hướng Tây', thế là biết thôi.”"
+    },
+    {
+      "para_id": "c0127p0064",
+      "index": 64,
+      "raw_zh": "說完，這女人瞬間變臉，冷冷的看著雲千峰，沉聲道：",
+      "translated_vi": "Nói xong, người phụ nữ này lập tức trở mặt nhanh như chớp, lạnh lùng lườm Vân Thiên Phong, trầm giọng hỏi:"
+    },
+    {
+      "para_id": "c0127p0065",
+      "index": 65,
+      "raw_zh": "“說，你是怎麽知道的？”",
+      "translated_vi": "“Nói mau, làm sao cậu biết được?”"
+    },
+    {
+      "para_id": "c0127p0066",
+      "index": 66,
+      "raw_zh": "雲千峰也看過那電影，頓時心中一松，聽到秦疏影問，就低聲回道：",
+      "translated_vi": "Vân Thiên Phong cũng từng xem bộ phim đó nên trong lòng thầm thở phào, nghe Tần Sơ Ảnh truy vấn, liền nhỏ giọng đáp:"
+    },
+    {
+      "para_id": "c0127p0067",
+      "index": 67,
+      "raw_zh": "“我是看短視頻知道的。”",
+      "translated_vi": "“Tôi lướt video ngắn nên biết.”"
+    },
+    {
+      "para_id": "c0127p0068",
+      "index": 68,
+      "raw_zh": "秦疏影一愣，詫異道：",
+      "translated_vi": "Tần Sơ Ảnh ngẩn người, ngạc nhiên bảo:"
+    },
+    {
+      "para_id": "c0127p0069",
+      "index": 69,
+      "raw_zh": "“短視頻裡還有這些內容嗎？”",
+      "translated_vi": "“Trên video ngắn mà cũng có mấy nội dung này à?”"
+    },
+    {
+      "para_id": "c0127p0070",
+      "index": 70,
+      "raw_zh": "雲千峰點頭，道：",
+      "translated_vi": "Vân Thiên Phong gật đầu:"
+    },
+    {
+      "para_id": "c0127p0071",
+      "index": 71,
+      "raw_zh": "“有，什麽知識都有，經常推送。”",
+      "translated_vi": "“Có chứ, kiến thức gì cũng có hết, thuật toán thường xuyên đề xuất cho tôi mà.”"
+    },
+    {
+      "para_id": "c0127p0072",
+      "index": 72,
+      "raw_zh": "秦疏影冷笑一聲，看著雲千峰，道：",
+      "translated_vi": "Tần Sơ Ảnh cười khẩy một tiếng, nhìn Vân Thiên Phong nói:"
+    },
+    {
+      "para_id": "c0127p0073",
+      "index": 73,
+      "raw_zh": "“不錯啊，你那號算是養成了哈！”",
+      "translated_vi": "“Khá lắm, xem ra tài khoản của cậu được 'nuôi' kỹ càng quá nhỉ!”"
+    },
+    {
+      "para_id": "c0127p0074",
+      "index": 74,
+      "raw_zh": "雲千峰心裡叫不好，暴露了。",
+      "translated_vi": "Trong lòng Vân Thiên Phong thầm kêu hỏng bét, lộ tẩy mất rồi!"
+    },
+    {
+      "para_id": "c0127p0075",
+      "index": 75,
+      "raw_zh": "當下急忙轉移話題，道：",
+      "translated_vi": "Lúc này anh vội vàng đánh trống lảng chuyển đề tài:"
+    },
+    {
+      "para_id": "c0127p0076",
+      "index": 76,
+      "raw_zh": "“來，騎我肩膀上。”",
+      "translated_vi": "“Nào, cưỡi lên vai tôi đi.”"
+    },
+    {
+      "para_id": "c0127p0077",
+      "index": 77,
+      "raw_zh": "秦疏影下意識的捂著小草裙，問道：",
+      "translated_vi": "Tần Sơ Ảnh theo phản xạ vội lấy tay che chiếc váy cỏ ngắn củn của mình, cảnh giác hỏi:"
+    },
+    {
+      "para_id": "c0127p0078",
+      "index": 78,
+      "raw_zh": "“幹嘛？裙子裡面什麽都沒有，我不騎。”",
+      "translated_vi": "“Làm gì thế? Dưới váy chẳng có gì đâu, tôi không cưỡi đâu.”"
+    },
+    {
+      "para_id": "c0127p0079",
+      "index": 79,
+      "raw_zh": "雲千峰嚴肅批評，道：",
+      "translated_vi": "Vân Thiên Phong nghiêm nét mặt phê bình:"
+    },
+    {
+      "para_id": "c0127p0080",
+      "index": 80,
+      "raw_zh": "“你這女人，腦子裡想什麽亂七八糟的呢？你沒聽到鳥叫嗎？這個時間，鳥出巢尋找食物了，你騎我肩膀上，就能比草高，看看那些鳥都往哪裡去，大概率鳥匯聚的地方就有水源。”",
+      "translated_vi": "“Cô này thật là, trong đầu chứa toàn thứ linh tinh gì thế hả? Cô không nghe thấy tiếng chim hót à? Tầm này là lúc chim rời tổ đi kiếm ăn, cô ngồi lên vai tôi sẽ đứng cao hơn ngọn cỏ, nhìn xem bầy chim kia bay về hướng nào. Nhiều khả năng nơi bầy chim tụ tập sẽ có nguồn nước đấy.”"
+    },
+    {
+      "para_id": "c0127p0081",
+      "index": 81,
+      "raw_zh": "這是正事，有足夠的理由讓秦疏影覺得騎到雲千峰肩膀上，那是無比正經的一件事。",
+      "translated_vi": "Đây quả là việc chính sự đàng hoàng, có đủ lý do chính đáng để Tần Sơ Ảnh cảm thấy việc cưỡi lên vai Vân Thiên Phong là một hành động vô cùng đứng đắn."
+    },
+    {
+      "para_id": "c0127p0082",
+      "index": 82,
+      "raw_zh": "於是她欣然答應了。",
+      "translated_vi": "Thế là cô vui vẻ đồng ý."
+    },
+    {
+      "para_id": "c0127p0083",
+      "index": 83,
+      "raw_zh": "然後，上面的秦疏影把著雲千峰的下巴，讓他轉動身形，方便自己環看四周。",
+      "translated_vi": "Tiếp đó, Tần Sơ Ảnh ở bên trên liền vịn vào cằm Vân Thiên Phong để anh xoay người, giúp cô dễ dàng quan sát bốn phương tám hướng."
+    },
+    {
+      "para_id": "c0127p0084",
+      "index": 84,
+      "raw_zh": "下面心猿意馬的雲千峰，夢遊似的轉來轉去。",
+      "translated_vi": "Còn Vân Thiên Phong ở phía dưới thì tâm viên ý mã, mơ mơ màng màng xoay tới xoay lui như người mộng du."
+    },
+    {
+      "para_id": "c0127p0085",
+      "index": 85,
+      "raw_zh": "鳥，秦疏影一隻沒看到，但卻看到了別的東西。",
+      "translated_vi": "Chim thì Tần Sơ Ảnh chẳng thấy bóng dáng con nào, nhưng lại nhìn thấy một thứ khác."
+    },
+    {
+      "para_id": "c0127p0086",
+      "index": 86,
+      "raw_zh": "“雲，那面好像有一大片建築！”",
+      "translated_vi": "“Anh Vân, đằng kia hình như có một quần thể kiến trúc rất lớn!”"
+    },
+    {
+      "para_id": "c0127p0087",
+      "index": 87,
+      "raw_zh": "雲千峰這才在皮膚感觸的心跳之中醒過神來，看著秦疏影手指的方向，感受了一下腹內的石眼，兩者方向一致。",
+      "translated_vi": "Bấy giờ Vân Thiên Phong mới giật mình hoàn hồn giữa những rung động rạo rực nơi da thịt, anh nhìn theo hướng ngón tay Tần Sơ Ảnh chỉ, rồi cảm nhận con mắt đá trong bụng mình một chút, hai phương hướng hoàn toàn trùng khớp."
+    },
+    {
+      "para_id": "c0127p0088",
+      "index": 88,
+      "raw_zh": "“神跡，到了！”",
+      "translated_vi": "“Thần tích, đến nơi rồi!”"
+    },
+    {
+      "para_id": "c0127p0089",
+      "index": 89,
+      "raw_zh": "感謝決意的打賞，感謝無我無物無時、搞學問這些年、大仲馬6、蘿vc的月票鼓勵，謝謝你們出現在這裡！！！",
+      "translated_vi": "Chân thành cảm ơn phần thưởng từ Quyết Ý, cảm ơn sự khích lệ bằng phiếu tháng từ Vô Ngã Vô Vật Vô Thời, Cảo Học Vấn Giá Tà Niên, Đại Trọng Mã 6, La vc, cảm ơn vì sự hiện diện của các bạn nơi đây!!!"
+    }
+  ]
+}

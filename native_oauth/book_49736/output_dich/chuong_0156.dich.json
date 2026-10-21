@@ -1,0 +1,403 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 156,
+  "title": "Chương 156: Nỗi Sợ Hãi Của Vân Thiên Phong",
+  "total_paragraphs": 65,
+  "translated_paragraphs": 65,
+  "source_hash": "ebc7b828c7dfbdce0e5e3ff60ee792ac035d5438a52fb55de0fd397f0dc4c752",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0156p0001",
+      "index": 1,
+      "raw_zh": "第156章 雲千峰的恐懼",
+      "translated_vi": "Chương 156: Nỗi Sợ Hãi Của Vân Thiên Phong"
+    },
+    {
+      "para_id": "c0156p0002",
+      "index": 2,
+      "raw_zh": "聽到雲千峰失神似的自言自語，羅琳娜關心道：",
+      "translated_vi": "Nghe Vân Thiên Phong thẫn thờ lẩm bẩm một mình, Lorina quan tâm hỏi:"
+    },
+    {
+      "para_id": "c0156p0003",
+      "index": 3,
+      "raw_zh": "“雲千峰，你怎麽了？”",
+      "translated_vi": "“Vân Thiên Phong, anh sao thế?”"
+    },
+    {
+      "para_id": "c0156p0004",
+      "index": 4,
+      "raw_zh": "雲千峰一回神，吐了口氣，笑道：",
+      "translated_vi": "Vân Thiên Phong hoàn hồn lại, thở phào một hơi rồi cười bảo:"
+    },
+    {
+      "para_id": "c0156p0005",
+      "index": 5,
+      "raw_zh": "“沒什麽，就是看到這些枯骨，讓我覺得上古奇書山海經之中記錄的很多事情，可能是真的。”",
+      "translated_vi": "“Không có gì, chỉ là nhìn thấy đống xương khô này khiến tôi cảm thấy rất nhiều điều được ghi chép trong kỳ thư thượng cổ Sơn Hải Kinh có lẽ đều là sự thật.”"
+    },
+    {
+      "para_id": "c0156p0006",
+      "index": 6,
+      "raw_zh": "羅琳娜主動牽住雲千峰的手，雖然雲千峰看似輕松一笑，但是羅琳娜看到的，卻是他內心裡藏著的恐懼。",
+      "translated_vi": "Lorina chủ động nắm lấy tay Vân Thiên Phong. Dù anh nở một nụ cười trông có vẻ thoải mái, nhưng những gì cô nhìn thấy lại là nỗi sợ hãi đang ẩn giấu tận sâu trong lòng anh."
+    },
+    {
+      "para_id": "c0156p0007",
+      "index": 7,
+      "raw_zh": "於是柔聲道：",
+      "translated_vi": "Thế là cô cất giọng dịu dàng:"
+    },
+    {
+      "para_id": "c0156p0008",
+      "index": 8,
+      "raw_zh": "“歐洲和美洲很多學者都在研究山海經，裡面很多東西早就被證實且肯定，與你們華夏學者盡信書做研究不同，我們西方的學者在研究山海經的時候，是用腳走出來的。",
+      "translated_vi": "“Rất nhiều học giả ở châu Âu và châu Mỹ đều đang nghiên cứu Sơn Hải Kinh, không ít điều trong đó đã sớm được kiểm chứng và khẳng định. Khác với các học giả Hoa Hạ các anh chỉ biết cắm đầu vào sách vở làm nghiên cứu, các học giả phương Tây chúng tôi khi nghiên cứu Sơn Hải Kinh là dùng chính đôi chân để đi thực địa."
+    },
+    {
+      "para_id": "c0156p0009",
+      "index": 9,
+      "raw_zh": "其中最著名的美洲墨茲博士研究山海經很多年，她發現山海經之中很多山脈在華夏境內是找不到的，很多學者也是因為這個原因，證偽山海經。",
+      "translated_vi": "Trong đó nổi tiếng nhất là Tiến sĩ Mertz người Mỹ, bà đã nghiên cứu Sơn Hải Kinh suốt nhiều năm. Bà phát hiện ra rất nhiều dãy núi trong Sơn Hải Kinh không hề tìm thấy trong lãnh thổ Hoa Hạ, và cũng chính vì nguyên nhân này mà nhiều học giả đã bác bỏ tính xác thực của cuốn sách."
+    },
+    {
+      "para_id": "c0156p0010",
+      "index": 10,
+      "raw_zh": "但墨茲博士不這樣認為，她認為華夏史前“天下共主”這個詞匯，或許並不是誇張而是真誠的。",
+      "translated_vi": "Nhưng Tiến sĩ Mertz lại không nghĩ như vậy, bà cho rằng cụm từ ‘thiên hạ cộng chủ’ thời tiền sử của Hoa Hạ có lẽ không phải là lời nói quá mà là sự thật chân thành."
+    },
+    {
+      "para_id": "c0156p0011",
+      "index": 11,
+      "raw_zh": "於是她按照山海經內東山經的指引，親自徒步勘察，確定北美懷俄明州到格蘭德河上的十二座山，與東山經第一列山完全相符。",
+      "translated_vi": "Thế là bà lần theo chỉ dẫn trong thiên ‘Đông Sơn Kinh’ của Sơn Hải Kinh, đích thân đi bộ khảo sát, xác định được mười hai ngọn núi từ bang Wyoming đến sông Rio Grande ở Bắc Mỹ hoàn toàn trùng khớp với dãy núi thứ nhất trong Đông Sơn Kinh."
+    },
+    {
+      "para_id": "c0156p0012",
+      "index": 12,
+      "raw_zh": "曼尼托巴至墨西哥的馬薩特蘭中的十七座山，與東山經第二列山脈重合，懷爾沃德山到聖巴巴拉的九座山與東山經第三列山脈符合",
+      "translated_vi": "Mười bảy ngọn núi từ Manitoba đến Mazatlán của Mexico trùng khớp với dãy núi thứ hai của Đông Sơn Kinh; chín ngọn núi từ núi Wildwood đến Santa Barbara khớp với dãy núi thứ ba của Đông Sơn Kinh."
+    },
+    {
+      "para_id": "c0156p0013",
+      "index": 13,
+      "raw_zh": "由此得出結論，華夏山海經是世界地理，天下共主是誠實的詞匯，這些都記錄在她考察後所寫的著作【幾近退色的記錄】之中。",
+      "translated_vi": "Từ đó đưa ra kết luận rằng Sơn Hải Kinh của Hoa Hạ chính là địa lý toàn cầu, ‘thiên hạ cộng chủ’ là một cách gọi hoàn toàn chân thực. Tất cả những điều này đều được ghi lại trong tác phẩm ‘Bản Ghi Chép Gần Như Đã Phai Mờ’ mà bà viết sau chuyến khảo sát."
+    },
+    {
+      "para_id": "c0156p0014",
+      "index": 14,
+      "raw_zh": "所以，山海經是真的，真的沒什麽奇怪，更不需要緊張什麽。”",
+      "translated_vi": "Cho nên, Sơn Hải Kinh là thật thì chẳng có gì kỳ lạ, càng không cần phải căng thẳng làm gì.”"
+    },
+    {
+      "para_id": "c0156p0015",
+      "index": 15,
+      "raw_zh": "顯然，這女人把雲千峰想的太過簡單了，以為他是因為山海經這種神話般的書籍，記載的竟然是真實世界，世界觀跟不上而緊張。",
+      "translated_vi": "Rõ ràng người phụ nữ này đã nghĩ về Vân Thiên Phong quá đỗi đơn giản, cứ ngỡ anh vì một cuốn sách mang màu sắc thần thoại như Sơn Hải Kinh lại ghi chép thế giới chân thực mà thế giới quan không theo kịp nên mới thấy căng thẳng."
+    },
+    {
+      "para_id": "c0156p0016",
+      "index": 16,
+      "raw_zh": "雲千峰顯然看出了這一點，於是苦笑道：",
+      "translated_vi": "Vân Thiên Phong hiển nhiên nhìn thấu điểm này, bèn cười khổ:"
+    },
+    {
+      "para_id": "c0156p0017",
+      "index": 17,
+      "raw_zh": "“山海經如果是真實的，那麽死海古卷就是真實的，死海古卷如果是真實的，那麽死靈之書就是真實的。",
+      "translated_vi": "“Nếu Sơn Hải Kinh là có thật, vậy thì Cuộn Sách Biển Chết cũng là có thật. Mà nếu Cuộn Sách Biển Chết là có thật, vậy thì Sách Tử Linh cũng là có thật."
+    },
+    {
+      "para_id": "c0156p0018",
+      "index": 18,
+      "raw_zh": "三本書，三個視角，人看到的，神看到的，魔鬼看到的。",
+      "translated_vi": "Ba cuốn sách, ba góc nhìn: những gì con người thấy, những gì thần linh thấy, và những gì ma quỷ thấy."
+    },
+    {
+      "para_id": "c0156p0019",
+      "index": 19,
+      "raw_zh": "就拿絕地天通這件事來說。",
+      "translated_vi": "Cứ lấy chuyện Tuyệt Địa Thiên Thông làm ví dụ."
+    },
+    {
+      "para_id": "c0156p0020",
+      "index": 20,
+      "raw_zh": "人類說這是顓頊帝天下共主的證明，他不允許神和魔鬼打擾人類的生活，於是讓重黎將天地分開，換來人間安寧。",
+      "translated_vi": "Nhân loại nói đây là minh chứng cho vị thế thiên hạ cộng chủ của Chuyên Húc đế, ngài không cho phép thần linh và ma quỷ quấy nhiễu cuộc sống của nhân loại, thế nên mới sai Trọng Lê chia cắt trời đất, đổi lại sự yên bình cho cõi nhân gian."
+    },
+    {
+      "para_id": "c0156p0021",
+      "index": 21,
+      "raw_zh": "神說絕地天通是神對人類墮落的懲罰，斷開天地發下大洪水，隻留下信奉自己的人類。",
+      "translated_vi": "Thần linh lại bảo Tuyệt Địa Thiên Thông là sự trừng phạt của thần đối với sự sa đọa của loài người, cắt đứt trời đất và giáng xuống cơn đại hồng thủy, chỉ giữ lại những con người thành kính tín phụng mình."
+    },
+    {
+      "para_id": "c0156p0022",
+      "index": 22,
+      "raw_zh": "魔鬼說大洪水是對神和其信徒虛偽的懲罰，真誠如魔鬼和真實的人都將免受懲罰。",
+      "translated_vi": "Ma quỷ lại nói đại hồng thủy là sự trừng phạt dành cho sự đạo đức giả của thần linh cùng các tín đồ, còn những kẻ chân thành như ma quỷ và những con người sống thực tế sẽ được miễn trừ trừng phạt."
+    },
+    {
+      "para_id": "c0156p0023",
+      "index": 23,
+      "raw_zh": "你說他們三個誰在吹牛，誰說的是真實的？”",
+      "translated_vi": "Cô nói xem, trong ba bên đó ai đang bốc phét, ai mới nói sự thật?”"
+    },
+    {
+      "para_id": "c0156p0024",
+      "index": 24,
+      "raw_zh": "這一下把羅琳娜問住了。",
+      "translated_vi": "Câu hỏi này lập tức làm Lorina cứng họng."
+    },
+    {
+      "para_id": "c0156p0025",
+      "index": 25,
+      "raw_zh": "這就像是某處發生襲擊，把自己人都波及了，然後三個勢力還爭先恐後的宣布對此事負責。",
+      "translated_vi": "Chuyện này chẳng khác nào ở một nơi nào đó xảy ra vụ tập kích làm vạ lây cả người của chính mình, vậy mà cả ba thế lực lại tranh nhau lên tiếng nhận trách nhiệm."
+    },
+    {
+      "para_id": "c0156p0026",
+      "index": 26,
+      "raw_zh": "又像是三個人打了一個羅圈架，然後都宣布自己贏了。",
+      "translated_vi": "Lại giống như ba người lao vào ẩu đả một trận hỗn chiến, để rồi sau đó ai nấy đều tuyên bố mình đã thắng."
+    },
+    {
+      "para_id": "c0156p0027",
+      "index": 27,
+      "raw_zh": "“這這肯定是有兩方撒謊了，只是，我更傾向於人類和魔鬼在撒謊。”",
+      "translated_vi": "“Chuyện này... chắc chắn là có hai bên nói dối. Chỉ có điều, tôi nghiêng về khả năng loài người và ma quỷ đang nói dối hơn.”"
+    },
+    {
+      "para_id": "c0156p0028",
+      "index": 28,
+      "raw_zh": "沒辦法，這是羅琳娜刻在骨子裡的信仰，她不敢懷疑神。",
+      "translated_vi": "Chẳng còn cách nào khác, đó là đức tin đã khắc sâu vào tận xương tủy của Lorina, cô không dám nghi ngờ thần linh."
+    },
+    {
+      "para_id": "c0156p0029",
+      "index": 29,
+      "raw_zh": "雲千峰緩緩搖了搖頭，嚴肅道：",
+      "translated_vi": "Vân Thiên Phong chậm rãi lắc đầu, nghiêm nghị nói:"
+    },
+    {
+      "para_id": "c0156p0030",
+      "index": 30,
+      "raw_zh": "“不能主觀臆測，我們需要一個邏輯，我問伱，如果你被打斷了腿，對方只是輕傷，你會宣布自己打贏了嗎？”",
+      "translated_vi": "“Không thể phỏng đoán chủ quan được, chúng ta cần một logic rõ ràng. Tôi hỏi cô nhé, nếu cô bị người ta đánh gãy chân mà đối phương chỉ bị thương nhẹ, cô có tuyên bố là mình đã đánh thắng không?”"
+    },
+    {
+      "para_id": "c0156p0031",
+      "index": 31,
+      "raw_zh": "羅琳娜搖頭，道：",
+      "translated_vi": "Lorina lắc đầu đáp:"
+    },
+    {
+      "para_id": "c0156p0032",
+      "index": 32,
+      "raw_zh": "“當然不會，我又不傻！最主要別人也不傻啊，我說了不是自取其辱。”",
+      "translated_vi": "“Dĩ nhiên là không rồi, tôi đâu có ngốc! Quan trọng nhất là người khác cũng chẳng ngờ nghệch gì, tôi mà nói thế chẳng phải là tự rước lấy nhục sao.”"
+    },
+    {
+      "para_id": "c0156p0033",
+      "index": 33,
+      "raw_zh": "雲千峰點頭，繼續道：",
+      "translated_vi": "Vân Thiên Phong gật đầu, tiếp tục nói:"
+    },
+    {
+      "para_id": "c0156p0034",
+      "index": 34,
+      "raw_zh": "“如果一個災難對你統領的群體也造成了傷害，你處於什麽情況下會宣布這個災難就是你乾的？”",
+      "translated_vi": "“Nếu một tai ương cũng gây tổn hại cho chính tập thể mà cô thống lĩnh, vậy trong tình huống nào cô mới tuyên bố tai ương đó là do chính mình gây ra?”"
+    },
+    {
+      "para_id": "c0156p0035",
+      "index": 35,
+      "raw_zh": "羅琳娜哭笑道：",
+      "translated_vi": "Lorina dở khóc dở cười bảo:"
+    },
+    {
+      "para_id": "c0156p0036",
+      "index": 36,
+      "raw_zh": "“除非我瘋了，或者是敵對方的損失比我更大。”",
+      "translated_vi": "“Trừ phi tôi phát điên, hoặc là tổn thất của phe địch còn nặng nề hơn phe tôi nhiều.”"
+    },
+    {
+      "para_id": "c0156p0037",
+      "index": 37,
+      "raw_zh": "雲千峰再次點頭，道：",
+      "translated_vi": "Vân Thiên Phong lại gật đầu nói:"
+    },
+    {
+      "para_id": "c0156p0038",
+      "index": 38,
+      "raw_zh": "“那現在我們有了正確的邏輯結果，人、神、魔都沒吃大虧，最起碼都覺得贏了敵對方，而且旁觀者還不覺得這是吹牛，那麽什麽樣的邏輯前提能達到這樣一個結果？”",
+      "translated_vi": "“Vậy thì bây giờ chúng ta đã có kết quả logic chính xác: Người, Thần, Ma đều không chịu thiệt hại quá lớn, chí ít đều cảm thấy mình đã thắng phe đối địch, hơn nữa người ngoài nhìn vào cũng không cho rằng đó là lời khoác lác. Vậy thì tiền đề logic như thế nào mới có thể dẫn tới một kết quả như vậy?”"
+    },
+    {
+      "para_id": "c0156p0039",
+      "index": 39,
+      "raw_zh": "羅琳娜這個人，能在如此離奇的經歷之中遊刃有余，沒失去財富，也沒受到傷害，就證明她有著極強的分析能力和前瞻性。",
+      "translated_vi": "Một người như Lorina có thể ung dung tự tại giữa những trải nghiệm ly kỳ quái đản như thế này mà không hề mất đi tài sản lẫn chẳng phải chịu tổn thương, điều đó chứng minh cô sở hữu năng lực phân tích cùng tầm nhìn xa trông rộng cực kỳ sắc bén."
+    },
+    {
+      "para_id": "c0156p0040",
+      "index": 40,
+      "raw_zh": "此時雲千峰把邏輯結果擺在這，讓她分析出一個合理的前提，根本不是難事。",
+      "translated_vi": "Lúc này Vân Thiên Phong đã bày sẵn kết quả logic ra trước mắt, để cô phân tích ra một tiền đề hợp lý thì căn bản chẳng phải chuyện khó khăn gì."
+    },
+    {
+      "para_id": "c0156p0041",
+      "index": 41,
+      "raw_zh": "於是她稍加思索，便帶著驚訝的說道：",
+      "translated_vi": "Thế là sau một thoáng suy ngẫm, cô liền cất giọng đầy vẻ kinh ngạc:"
+    },
+    {
+      "para_id": "c0156p0042",
+      "index": 42,
+      "raw_zh": "“還有第四方！人、神、魔有著共同的敵人，絕地天通，或者說大洪水消滅的是三方共同的敵人，而且他們辦到了，所以三方都會宣布勝利，並借此堅定跟隨者的信仰。”",
+      "translated_vi": "“Vẫn còn một phe thứ tư! Người, Thần và Ma có chung một kẻ thù! Tuyệt Địa Thiên Thông, hay nói cách khác là trận đại hồng thủy, nhằm tiêu diệt kẻ thù chung của cả ba bên. Và họ đã làm được, thế nên cả ba bên mới đồng loạt tuyên bố thắng lợi, mượn cớ đó để củng cố đức tin của những kẻ đi theo mình!”"
+    },
+    {
+      "para_id": "c0156p0043",
+      "index": 43,
+      "raw_zh": "雲千峰使勁的點了一下頭，道：",
+      "translated_vi": "Vân Thiên Phong gật mạnh đầu một cái, nói:"
+    },
+    {
+      "para_id": "c0156p0044",
+      "index": 44,
+      "raw_zh": "“沒錯，只有這一個可能！當初帝嚳將唯一的女兒許配給盤瓠，而盤瓠帶著擁有雙角的獸頭，也就是我頭上藏著的那一個，那是魔的圖騰，這證明人和魔是有過合作的。",
+      "translated_vi": "“Không sai, chỉ có duy nhất một khả năng này! Năm xưa Đế Cốc gả người con gái duy nhất cho Bàn Hồ, mà Bàn Hồ lại đội chiếc đầu thú mang đôi sừng, cũng chính là thứ đang ẩn giấu trên đầu tôi, đó là đồ đằng của Ma. Điều này chứng minh Người và Ma từng có sự hợp tác."
+    },
+    {
+      "para_id": "c0156p0045",
+      "index": 45,
+      "raw_zh": "而我們看到的這些被女閻羅人製造出來的怪物枯骨，證明所謂的魔，或是華夏史前所謂的巫族。",
+      "translated_vi": "Còn những bộ xương khô quái vật do người Nữ Diêm La tạo ra mà chúng ta nhìn thấy ở đây, đã chứng minh cái gọi là Ma, hoặc là Vu tộc thời tiền sử của Hoa Hạ."
+    },
+    {
+      "para_id": "c0156p0046",
+      "index": 46,
+      "raw_zh": "女閻羅文明科技的代表，神的背叛者，家園毀滅後逃逸到地球，成為地球歷史上，遍布全世界的巫族。",
+      "translated_vi": "Đại diện cho trình độ khoa học kỹ thuật của nền văn minh Nữ Diêm La, những kẻ phản bội lại Thần linh, sau khi quê hương bị hủy diệt đã đào tẩu đến Trái Đất, trở thành Vu tộc phân bố khắp toàn thế giới trong dòng lịch sử Trái Đất."
+    },
+    {
+      "para_id": "c0156p0047",
+      "index": 47,
+      "raw_zh": "我剛還為理清了身上魔鬼皮囊的出處以及其脈絡而欣喜，自以為將會破解迷局的二分之一，只需要順藤摸瓜，找出神的來龍去脈，便可以找到解脫麻煩的辦法，但沒想到，迷霧之外的霧氣更加厚重，竟然還有第四方更可怕的存在。”",
+      "translated_vi": "Tôi vừa mới vui mừng vì đã gỡ rối được xuất xứ cùng nguồn cơn của lớp da ma quỷ trên người mình, ngỡ tưởng sắp phá giải được một nửa cục diện bí ẩn, chỉ cần lần theo manh mối tìm ra ngọn ngành gốc rễ của Thần là có thể tìm được cách thoát khỏi rắc rối. Nào ngờ màn sương mù bên ngoài lớp sương dày lại càng thêm mịt mù tăm tối, lại còn có sự tồn tại của một bên thứ tư còn đáng sợ hơn nhiều.”"
+    },
+    {
+      "para_id": "c0156p0048",
+      "index": 48,
+      "raw_zh": "羅琳娜用雙手握住雲千峰的手，柔聲道：",
+      "translated_vi": "Lorina dùng cả hai tay nắm lấy tay Vân Thiên Phong, dịu dàng hỏi:"
+    },
+    {
+      "para_id": "c0156p0049",
+      "index": 49,
+      "raw_zh": "“你在緊張什麽？是因為這完全看不到一點信息的第四方嗎？”",
+      "translated_vi": "“Anh đang lo sợ điều gì? Là vì thế lực thứ tư hoàn toàn không có lấy một mẩu thông tin nào kia sao?”"
+    },
+    {
+      "para_id": "c0156p0050",
+      "index": 50,
+      "raw_zh": "雲千峰搖了搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu, đáp:"
+    },
+    {
+      "para_id": "c0156p0051",
+      "index": 51,
+      "raw_zh": "“我擔心的是某種平衡要徹底打破了。",
+      "translated_vi": "“Tôi lo lắng là một sự cân bằng nào đó sắp sửa bị phá vỡ hoàn toàn."
+    },
+    {
+      "para_id": "c0156p0052",
+      "index": 52,
+      "raw_zh": "戰國末期，諸侯混戰，人不為人的年代，九屠妘起進入神跡，取走了魔鬼的右臂，但卻沒有帶出來。",
+      "translated_vi": "Cuối thời Chiến Quốc, chư hầu hỗn chiến, thời buổi người chẳng ra người, Cửu Đồ Vân Khởi tiến vào Thần Tích, lấy đi cánh tay phải của ma quỷ, nhưng lại không mang nó ra ngoài."
+    },
+    {
+      "para_id": "c0156p0053",
+      "index": 53,
+      "raw_zh": "南北朝時期，五hu亂華，華夏人成了糧食，疑似叫雲守身的人進入神跡，取走了魔鬼之眼，也依舊沒有帶出來。",
+      "translated_vi": "Thời kỳ Nam Bắc Triều, ngũ hồ loạn hoa, người Hoa Hạ bị biến thành lương thực, một người nghi là tên Vân Thủ Thân đã tiến vào Thần Tích, lấy đi con mắt ma quỷ, nhưng rốt cuộc cũng không mang ra ngoài."
+    },
+    {
+      "para_id": "c0156p0054",
+      "index": 54,
+      "raw_zh": "推動這種行為發生卻沒有結果，看起來更像人類對某種力量的一種威懾，而並不是真的要帶出魔鬼的皮囊，這代表著人、神、魔三者之間的某種製約和平衡。",
+      "translated_vi": "Thúc đẩy hành vi này xảy ra nhưng lại không lưu lại kết quả, nhìn qua càng giống như một sự răn đe của loài người đối với một thế lực nào đó, chứ không phải thực sự muốn mang lớp da ma quỷ ra ngoài. Điều này đại diện cho sự kiềm tỏa và cân bằng giữa ba thế lực Người, Thần, Ma."
+    },
+    {
+      "para_id": "c0156p0055",
+      "index": 55,
+      "raw_zh": "但在顓頊絕地天通的時候，魔鬼的皮囊是真正被帶出了神跡的，盤瓠頭戴的魔鬼之冠就是證明，絕地天通後，他才被帝嚳計謀鎮死在金鍾內。",
+      "translated_vi": "Nhưng vào thời điểm Chuyên Húc tiến hành Tuyệt Địa Thiên Thông, lớp da ma quỷ đã thực sự được mang ra khỏi Thần Tích, chiếc vương miện ma quỷ mà Bàn Hồ đội trên đầu chính là minh chứng. Sau khi Tuyệt Địa Thiên Thông hoàn tất, ông ta mới bị mưu kế của Đế Cốc trấn sát bên trong chuông vàng."
+    },
+    {
+      "para_id": "c0156p0056",
+      "index": 56,
+      "raw_zh": "而這一次，據我所知道的，某些力量已經選定了一個失去記憶的女孩成為魔鬼皮囊中全知之眼的主人，只是很不巧被我截胡得到了。",
+      "translated_vi": "Còn lần này, theo như những gì tôi biết, có một vài thế lực đã ngầm chọn một cô gái mất trí nhớ để trở thành chủ nhân của Con Mắt Toàn Tri trong lớp da ma quỷ, chỉ là chẳng may bị tôi hẫng tay trên đoạt mất."
+    },
+    {
+      "para_id": "c0156p0057",
+      "index": 57,
+      "raw_zh": "盤瓠也好，那個女孩也罷，這兩次很明顯都不是震懾，而是這個世界真的需要魔鬼的皮囊出世，我擔心這意味著，那可怕的第四方可能又要出現在我們的世界裡。",
+      "translated_vi": "Dù là Bàn Hồ hay cô gái kia, hai lần này rõ ràng đều không phải để răn đe, mà là thế giới này thực sự cần lớp da ma quỷ xuất thế. Tôi lo sợ điều này đồng nghĩa với việc bên thứ tư đáng sợ kia có thể sẽ lại xuất hiện trong thế giới của chúng ta."
+    },
+    {
+      "para_id": "c0156p0058",
+      "index": 58,
+      "raw_zh": "而我更擔心的事情是，我之所以能夠截胡這些魔鬼的皮囊，是那可怕的第四方在我身後做推手，讓這些原本應該出現在不同的人身上的魔鬼皮囊，集中在我一個人的身上。",
+      "translated_vi": "Mà điều tôi càng lo lắng hơn là việc tôi có thể hẫng tay trên cướp lấy những mảnh da ma quỷ này, liệu có phải do chính bên thứ tư đáng sợ kia đứng sau lưng giật dây đẩy thuyền, khiến cho những mảnh da ma quỷ vốn dĩ phải xuất hiện trên người những kẻ khác nhau lại quy tụ hết vào một mình tôi."
+    },
+    {
+      "para_id": "c0156p0059",
+      "index": 59,
+      "raw_zh": "我可以做人類的棋子，因為我是人。",
+      "translated_vi": "Tôi có thể làm quân cờ của loài người, bởi vì tôi là con người."
+    },
+    {
+      "para_id": "c0156p0060",
+      "index": 60,
+      "raw_zh": "但我絕不可以做人類敵人的棋子！”",
+      "translated_vi": "Nhưng tôi tuyệt đối không thể làm quân cờ cho kẻ thù của loài người!”"
+    },
+    {
+      "para_id": "c0156p0061",
+      "index": 61,
+      "raw_zh": "這才是雲千峰真正緊張的原因。",
+      "translated_vi": "Đây mới chính là nguyên nhân thực sự khiến Vân Thiên Phong phải lo sợ."
+    },
+    {
+      "para_id": "c0156p0062",
+      "index": 62,
+      "raw_zh": "人類滅絕雲千峰都可以接受，但不能是因為他。",
+      "translated_vi": "Nhân loại có bị diệt vong thì Vân Thiên Phong cũng có thể chấp nhận được, nhưng tuyệt đối không thể là vì anh."
+    },
+    {
+      "para_id": "c0156p0063",
+      "index": 63,
+      "raw_zh": "感謝八方翰墨、、榮耀灬殺入天堂的打賞，謝謝你們的支持！！！",
+      "translated_vi": "Chân thành cảm ơn phần thưởng từ Bát Phương Hàn Mặc, Vinh Diệu Sát Nhập Thiên Đường, cảm ơn sự ủng hộ của các bạn!!!"
+    },
+    {
+      "para_id": "c0156p0064",
+      "index": 64,
+      "raw_zh": "感謝決意、榮耀灬殺入天堂、3D胸神、廟裡供著神、一劍遊俠、冥熵、卿未語、尾數15610、小小陳的daddy-的月票獎勵，謝謝你們的支持！！！",
+      "translated_vi": "Chân thành cảm ơn sự khích lệ bằng phiếu tháng từ Quyết Ý, Vinh Diệu Sát Nhập Thiên Đường, 3D Hung Thần, Miếu Lý Cúng Thần, Nhất Kiếm Du Hiệp, Minh Thương, Khanh Vị Ngữ, bạn đọc đuôi số 15610, Dadddy của Tiểu Tiểu Trần, cảm ơn sự ủng hộ của các bạn!!!"
+    },
+    {
+      "para_id": "c0156p0065",
+      "index": 65,
+      "raw_zh": "這上面，好多越來越熟的名字，真開心！！！",
+      "translated_vi": "Nhìn danh sách này thấy nhiều cái tên ngày càng quen thuộc, vui quá đi mất!!!"
+    }
+  ]
+}

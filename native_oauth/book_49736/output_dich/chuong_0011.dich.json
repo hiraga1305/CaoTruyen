@@ -1,0 +1,595 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 11,
+  "title": "Chương 11: Mông Nhiễu",
+  "total_paragraphs": 97,
+  "translated_paragraphs": 97,
+  "source_hash": "27ad6ad50ec59c7470e255059c529bdd63747435ff2f1d4eb6bd9ea8a2047fe9",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0011p0001",
+      "index": 1,
+      "raw_zh": "第11章 蒙繞",
+      "translated_vi": "Chương 11: Mông Nhiễu"
+    },
+    {
+      "para_id": "c0011p0002",
+      "index": 2,
+      "raw_zh": "東北大哥到底沒追上雲千峰倆人，漸行漸遠，在八十碼的速度平穩行駛，沒有絲毫逾越，右臂的隱隱扭疼就是超車的代價，他絕不想再來一次。",
+      "translated_vi": "Gã râu quai nón người vùng Đông Bắc rốt cuộc chẳng tài nào đuổi kịp hai người Vân Thiên Phong. Khoảng cách ngày một xa dần, chiếc xe duy trì tốc độ tám mươi cây số một giờ chạy đều đều ổn định, không dám vượt quá dù chỉ một chút. Cơn đau nhức âm ỉ nơi cánh tay phải chính là cái giá đắt cho cú nhấn ga vượt xe lúc nãy, gã tuyệt đối chẳng muốn nếm lại lần thứ hai."
+    },
+    {
+      "para_id": "c0011p0003",
+      "index": 3,
+      "raw_zh": "車廂內“老婆老婆我愛你，阿彌陀佛保佑你”的歌聲中，大胡子那長得和自己一點都不像的六歲女兒正張著豁牙的小嘴，嚴厲批評媽媽欺負自己最愛的爸爸，大胡子所有的煩躁和好奇心，都被家庭的幸福驅散，包括婚前的夢想，他嘴角緩緩綻放起笑容，已經全忘了車頂人影的事。",
+      "translated_vi": "Bên trong khoang xe vang vang điệu nhạc rộn rã \"Vợ ơi vợ à anh yêu em, A Di Đà Phật phù hộ em\", cô con gái sáu tuổi mặt mũi chẳng có nét nào giống gã đang toe toét cái miệng sún răng, nghiêm giọng phê bình mẹ dám bắt nạt người cha mà con bé yêu thương nhất. Mọi bực dọc lẫn tính tò mò của gã râu quai nón đều bị niềm hạnh phúc gia đình xua tan sạch bách, kể cả những giấc mộng thời trai trẻ chưa vợ. Khóe miệng gã từ từ nở một nụ cười, hoàn toàn quẳng phắt chuyện bóng người trên nóc xe ra sau đầu."
+    },
+    {
+      "para_id": "c0011p0004",
+      "index": 4,
+      "raw_zh": "曾經，未來是幸福的主體；現在，當下是幸福的主體；所有幸福終成記憶。",
+      "translated_vi": "Từng có lúc, tương lai là chủ thể của hạnh phúc; hiện tại, hiện tại mới là chủ thể của hạnh phúc; nhưng mọi hạnh phúc rốt cuộc rồi cũng hóa thành ký ức."
+    },
+    {
+      "para_id": "c0011p0005",
+      "index": 5,
+      "raw_zh": "五個小時後，雲千峰和薑柔甲再次駛進服務區稍作休息。",
+      "translated_vi": "Năm tiếng đồng hồ sau, Vân Thiên Phong và Khương Nhu Giáp lại lái xe rẽ vào một trạm dừng nghỉ để chợp mắt chốc lát."
+    },
+    {
+      "para_id": "c0011p0006",
+      "index": 6,
+      "raw_zh": "倆人在超市買了一大堆零食和飲料，大包小包的拎著回到房車前，然而眼前一幕卻叫倆人一起呆住。",
+      "translated_vi": "Cả hai mua một đống đồ ăn vặt và nước giải khát ở siêu thị, tay xách nách mang túi lớn túi nhỏ quay trở lại trước chiếc xe RV. Thế nhưng cảnh tượng đập vào mắt lại khiến cả hai cùng sững sờ chết lặng."
+    },
+    {
+      "para_id": "c0011p0007",
+      "index": 7,
+      "raw_zh": "他們的房車門前站著一個人，一個女人。",
+      "translated_vi": "Trước cửa chiếc xe RV của họ có một người đang đứng. Một người phụ nữ."
+    },
+    {
+      "para_id": "c0011p0008",
+      "index": 8,
+      "raw_zh": "一看到這女人的模樣，雲千峰就是一愣。",
+      "translated_vi": "Vừa nhìn rõ diện mạo của người phụ nữ này, Vân Thiên Phong liền ngẩn người ra."
+    },
+    {
+      "para_id": "c0011p0009",
+      "index": 9,
+      "raw_zh": "“你怎麽在這？”",
+      "translated_vi": "\"Sao cô lại ở đây?\""
+    },
+    {
+      "para_id": "c0011p0010",
+      "index": 10,
+      "raw_zh": "薑柔甲楞得比雲千峰還木頭。",
+      "translated_vi": "Khương Nhu Giáp còn ngây người như phỗng hơn cả Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0011p0011",
+      "index": 11,
+      "raw_zh": "“嫂影姐？”",
+      "translated_vi": "\"Chị dâu... chị Ảnh?\""
+    },
+    {
+      "para_id": "c0011p0012",
+      "index": 12,
+      "raw_zh": "秦疏影摘下了太陽鏡，然後不用倆人問，直接攤牌道：",
+      "translated_vi": "Tần Sơ Ảnh tháo kính râm xuống, chẳng đợi hai người kịp hỏi han gì, cô đã đi thẳng vào vấn đề:"
+    },
+    {
+      "para_id": "c0011p0013",
+      "index": 13,
+      "raw_zh": "“幫伱們購買裝備的人是我表弟，我知道你們要去做什麽，帶著我一起，我也需要真相。”",
+      "translated_vi": "\"Người giúp các người mua sắm trang bị là em họ tôi. Tôi biết hai người định đi đâu làm gì rồi. Đưa tôi theo với, tôi cũng cần một lời giải thích cho sự thật.\""
+    },
+    {
+      "para_id": "c0011p0014",
+      "index": 14,
+      "raw_zh": "只是這一句話，雲千峰倆人立馬就意識到，之前語音那幾秒鍾的時間，秦疏影聽到了最關鍵的那句話。",
+      "translated_vi": "Chỉ một câu này thôi, Vân Thiên Phong và Khương Nhu Giáp lập tức hiểu ra, trong mấy giây ngắn ngủi ở cuộc gọi thoại trước đó, Tần Sơ Ảnh đã nghe thấy câu nói then chốt nhất."
+    },
+    {
+      "para_id": "c0011p0015",
+      "index": 15,
+      "raw_zh": "看她的狀態，眼睛紅腫，很顯然是自己又去做了鑒定，得到了她自己都不敢相信的答案。",
+      "translated_vi": "Nhìn bộ dạng cô, đôi mắt sưng đỏ mọng, rõ ràng là bản thân cô cũng đã tự mình đi đối chiếu giám định, và nhận về một đáp án mà chính cô cũng không dám tin nổi."
+    },
+    {
+      "para_id": "c0011p0016",
+      "index": 16,
+      "raw_zh": "這個答案無疑是痛苦的。",
+      "translated_vi": "Đáp án này hiển nhiên vô cùng đau đớn."
+    },
+    {
+      "para_id": "c0011p0017",
+      "index": 17,
+      "raw_zh": "看到秦疏影眼睛腫得和水蜜桃似的，薑柔甲非常內疚，道：",
+      "translated_vi": "Trông thấy mắt Tần Sơ Ảnh sưng húp lên như hai quả đào mật, Khương Nhu Giáp cảm thấy vô cùng áy náy, ngập ngừng:"
+    },
+    {
+      "para_id": "c0011p0018",
+      "index": 18,
+      "raw_zh": "“對不起影姐，我”",
+      "translated_vi": "\"Em xin lỗi chị Ảnh, em...\""
+    },
+    {
+      "para_id": "c0011p0019",
+      "index": 19,
+      "raw_zh": "沒等她說完，秦疏影就開口打斷道：",
+      "translated_vi": "Chưa đợi cô dứt lời, Tần Sơ Ảnh đã cất giọng ngắt ngang:"
+    },
+    {
+      "para_id": "c0011p0020",
+      "index": 20,
+      "raw_zh": "“我不接受你的道歉，也不會原諒你，你毀了我的生活。哪怕那一切都是假的，但依舊是我的幸福，而你毀了它。”",
+      "translated_vi": "\"Tôi không chấp nhận lời xin lỗi của cô, và cũng sẽ không tha thứ cho cô. Cô đã hủy hoại cả cuộc đời tôi. Dẫu cho tất cả những thứ trước đây đều là giả tạo, nhưng đó vẫn là hạnh phúc của tôi, vậy mà cô lại nhẫn tâm đạp đổ nó.\""
+    },
+    {
+      "para_id": "c0011p0021",
+      "index": 21,
+      "raw_zh": "美麗而幸福的騙局就像是陽光下七彩的泡沫，不戳破時美得如夢如幻，而一旦戳破，就只剩下一灘汙水，無法收拾，只能擦乾抹淨。",
+      "translated_vi": "Một lời dối trá tươi đẹp và hạnh phúc cũng tựa như những bọt bong bóng ngũ sắc rực rỡ dưới ánh mặt trời. Khi chưa vỡ tan, nó lộng lẫy huyễn hoặc như một giấc mơ; nhưng một khi đã vỡ tung, thứ trơ trọi sót lại chỉ là một vũng nước nhơ nhuốc, chẳng thể vãn hồi, chỉ có thể gạt sạch lau khô."
+    },
+    {
+      "para_id": "c0011p0022",
+      "index": 22,
+      "raw_zh": "一切是回不去的。",
+      "translated_vi": "Tất cả đều chẳng thể quay lại như xưa được nữa."
+    },
+    {
+      "para_id": "c0011p0023",
+      "index": 23,
+      "raw_zh": "所以真正聰明的人，從不去尋找所有真相，而是自己給自己套上枷鎖。",
+      "translated_vi": "Thế nên những kẻ thực sự thông minh xưa nay chẳng bao giờ đi tìm kiếm toàn bộ sự thật, mà sẽ tự đeo xiềng xích lên chính mình."
+    },
+    {
+      "para_id": "c0011p0024",
+      "index": 24,
+      "raw_zh": "說著，秦疏影使勁的抽了兩下鼻子，微微揚起臉，倔強的沒讓眼淚掉下來。",
+      "translated_vi": "Vừa nói dứt lời, Tần Sơ Ảnh liền khịt mạnh mũi hai cái, hơi ngẩng cằm lên, bướng bỉnh kìm chặt để nước mắt không trào ra."
+    },
+    {
+      "para_id": "c0011p0025",
+      "index": 25,
+      "raw_zh": "薑柔甲不要面子的，一聽秦疏影的話，直接就哭了，很肆意。",
+      "translated_vi": "Khương Nhu Giáp thì chẳng thèm giữ thể diện gì nữa, vừa nghe Tần Sơ Ảnh nói vậy là lập tức bật khóc nức nở, chẳng buồn kiêng dè."
+    },
+    {
+      "para_id": "c0011p0026",
+      "index": 26,
+      "raw_zh": "這倆女生都很倔，立在那都不再說話。",
+      "translated_vi": "Cả hai cô nàng đều cứng đầu cứng cổ, đứng trơ ra đó chẳng ai chịu nói thêm câu nào."
+    },
+    {
+      "para_id": "c0011p0027",
+      "index": 27,
+      "raw_zh": "一個仰著臉，微操著眼睛裡的水分不出來。",
+      "translated_vi": "Một người ngẩng cao mặt, cố gắng khống chế từng ly từng tí để giọt lệ trong khóe mắt không lăn xuống."
+    },
+    {
+      "para_id": "c0011p0028",
+      "index": 28,
+      "raw_zh": "一個哄不好對方就不哄了，愛怎怎地，哭就完了。",
+      "translated_vi": "Người kia thấy dỗ không được thì cũng dỗi luôn, kệ đời muốn ra sao thì ra, cứ khóc cho đã trước tính sau."
+    },
+    {
+      "para_id": "c0011p0029",
+      "index": 29,
+      "raw_zh": "她們倆杵著不動，雲千峰可有些受不了，旁邊已經有好信的人往這面看過來，就他們三個這陣容，這聲音，這年齡配比，保準能被圍觀者腦補出八個劇情了。",
+      "translated_vi": "Hai cô nàng cứ đứng chôn chân một chỗ như thế khiến Vân Thiên Phong bắt đầu chịu không nổi. Xung quanh đã có mấy người nhiều chuyện liếc mắt ngó sang. Nhìn vào đội hình của ba người họ, giọng điệu này, độ tuổi tương xứng này, bảo đảm đám người hóng hớt xung quanh có thể tự biên tự diễn ra ít nhất tám kịch bản lâm ly bi đát rồi."
+    },
+    {
+      "para_id": "c0011p0030",
+      "index": 30,
+      "raw_zh": "於是他急忙推著倆人道：",
+      "translated_vi": "Thấy vậy, hắn vội vàng đẩy vai cả hai cô:"
+    },
+    {
+      "para_id": "c0011p0031",
+      "index": 31,
+      "raw_zh": "“走，有什麽事到車裡說。”",
+      "translated_vi": "\"Đi thôi, có chuyện gì thì lên xe rồi nói.\""
+    },
+    {
+      "para_id": "c0011p0032",
+      "index": 32,
+      "raw_zh": "雲千峰決計想不到，外面那些好信的人，因為看到雲千峰用手推著兩女后背進房車，腦補出了第九個劇情。",
+      "translated_vi": "Vân Thiên Phong có nằm mơ cũng không ngờ được, đám người tọc mạch bên ngoài kia vừa thấy cảnh hắn lấy tay đẩy lưng hai mỹ nữ lùa vào xe RV thì trong đầu đã lập tức nhảy ra kịch bản thứ chín."
+    },
+    {
+      "para_id": "c0011p0033",
+      "index": 33,
+      "raw_zh": "人心，真的是太叵測了。",
+      "translated_vi": "Lòng người, quả thật là quá đỗi khó lường."
+    },
+    {
+      "para_id": "c0011p0034",
+      "index": 34,
+      "raw_zh": "進到房車內，雲千峰關好了車門，眼前兩女坐在客廳的沙發上，面對著面誰也不看誰，一個還在微操，一個還在抽泣。",
+      "translated_vi": "Bước vào trong xe, Vân Thiên Phong khóa chặt cửa lại. Hai cô nàng đã ngồi xuống ghế sofa phòng khách, mặt đối mặt nhưng chẳng ai thèm nhìn ai, một người vẫn đang gồng mình khống chế tuyến lệ, một người thì vẫn sụt sùi nấc nghẹn."
+    },
+    {
+      "para_id": "c0011p0035",
+      "index": 35,
+      "raw_zh": "雲千峰掃了一眼兩女，相了相面，見秦疏影嬌嫩嫵媚，除了細腰外，全身都是那種極其柔軟的豐腴，一看就好欺負，決定從她身上開始勸。",
+      "translated_vi": "Vân Thiên Phong đảo mắt qua hai người họ, ngắm nghía tướng mạo một phen. Thấy Tần Sơ Ảnh dung mạo kiều diễm mềm mại, ngoại trừ vòng eo thon thả thì khắp người đều toát lên vẻ đẫy đà tròn trịa, trông có vẻ dễ bắt nạt hơn, hắn bèn quyết định bắt đầu khuyên giải từ cô."
+    },
+    {
+      "para_id": "c0011p0036",
+      "index": 36,
+      "raw_zh": "“秦女士，我”",
+      "translated_vi": "\"Bà Tần, tôi...\""
+    },
+    {
+      "para_id": "c0011p0037",
+      "index": 37,
+      "raw_zh": "話沒說完，就被秦疏影打斷：",
+      "translated_vi": "Lời còn chưa dứt đã bị Tần Sơ Ảnh đanh giọng ngắt lời:"
+    },
+    {
+      "para_id": "c0011p0038",
+      "index": 38,
+      "raw_zh": "“叫秦小姐。”",
+      "translated_vi": "\"Gọi tôi là cô Tần.\""
+    },
+    {
+      "para_id": "c0011p0039",
+      "index": 39,
+      "raw_zh": "說話的時候還保持著微操，脖子和落枕似的。",
+      "translated_vi": "Lúc nói chuyện cổ cô vẫn cứng đờ gồng lên để kìm nước mắt, trông chẳng khác nào người vừa bị vẹo cổ lúc ngủ dậy."
+    },
+    {
+      "para_id": "c0011p0040",
+      "index": 40,
+      "raw_zh": "“秦小姐，無論怎麽說，這件事都是我們不對，但事已至此，我認為你應該冷靜下來。",
+      "translated_vi": "\"Cô Tần, dù nói thế nào thì chuyện này cũng là do chúng tôi không đúng. Nhưng chuyện đã đến nước này, tôi nghĩ cô nên bình tĩnh lại thì hơn."
+    },
+    {
+      "para_id": "c0011p0041",
+      "index": 41,
+      "raw_zh": "我和薑柔甲要去的地方很危險，我雖然有一些叢林生存的經驗，但是照顧兩個女生，真的做不到。",
+      "translated_vi": "Nơi tôi và Khương Nhu Giáp sắp tới vô cùng nguy hiểm. Tôi tuy có một chút kinh nghiệm sinh tồn trong rừng rậm, nhưng bảo tôi một mình chăm sóc che chở cho cả hai cô gái, thú thực là tôi không gánh nổi đâu."
+    },
+    {
+      "para_id": "c0011p0042",
+      "index": 42,
+      "raw_zh": "所以，我建議你在家裡等待，我們回來後會第一時間去找你，把我們得到的所有消息與你共享，如何？”",
+      "translated_vi": "Cho nên, tôi khuyên cô cứ ở nhà chờ tin. Ngay khi trở về, chúng tôi sẽ lập tức đến tìm cô, chia sẻ toàn bộ tin tức mà chúng tôi nắm được, cô thấy thế nào?\""
+    },
+    {
+      "para_id": "c0011p0043",
+      "index": 43,
+      "raw_zh": "秦疏影搖頭，道：",
+      "translated_vi": "Tần Sơ Ảnh lắc đầu, nói:"
+    },
+    {
+      "para_id": "c0011p0044",
+      "index": 44,
+      "raw_zh": "“不，待在家裡我會瘋掉，我一分一秒都無法等待，至於叢林危險，我現在連死都不在意了，還會在意危險？",
+      "translated_vi": "\"Không, ở nhà tôi sẽ phát điên mất, tôi không thể chờ đợi thêm dù chỉ một phút một giây. Còn về sự nguy hiểm nơi rừng thiêng nước độc, đến cả cái chết bây giờ tôi còn chẳng màng, thì còn sợ gì nguy hiểm nữa chứ?"
+    },
+    {
+      "para_id": "c0011p0045",
+      "index": 45,
+      "raw_zh": "還有，我是個醫生，在荒野裡你不覺得你們需要我嗎？",
+      "translated_vi": "Hơn nữa, tôi là bác sĩ. Nơi hoang dã hẻo lánh, anh không nghĩ là hai người rất cần tôi sao?"
+    },
+    {
+      "para_id": "c0011p0046",
+      "index": 46,
+      "raw_zh": "我知道小柔給了你錢來辦事，我也給同樣的一份，可以嗎？”",
+      "translated_vi": "Tôi biết Tiểu Nhu đã đưa tiền nhờ anh làm việc, tôi cũng sẽ trả anh một khoản y hệt như thế, được chứ?\""
+    },
+    {
+      "para_id": "c0011p0047",
+      "index": 47,
+      "raw_zh": "雲千峰的狼腰情不自禁的直了一下，歎了口氣道：",
+      "translated_vi": "Cái eo lưng thon chắc của Vân Thiên Phong bất giác thẳng tắp lên, hắn thở dài một hơi đầy vẻ khó xử:"
+    },
+    {
+      "para_id": "c0011p0048",
+      "index": 48,
+      "raw_zh": "“這個，醫生我們是真的需要啊！是不是薑柔甲？她默認了，那你跟著吧，我把帳號發給你，先把第一個月錢打了.”",
+      "translated_vi": "\"Cái này... bác sĩ thì chúng tôi quả thật rất cần mà! Đúng không Khương Nhu Giáp? Đấy, cô ấy ngầm thừa nhận rồi kìa, vậy cô cứ đi cùng đi. Tôi gửi số tài khoản cho cô nhé, trước hết cứ chuyển khoản tiền tháng đầu tiên đã...\""
+    },
+    {
+      "para_id": "c0011p0049",
+      "index": 49,
+      "raw_zh": "薑柔甲哭得更厲害了。",
+      "translated_vi": "Khương Nhu Giáp nghe xong lại càng khóc dữ dội hơn."
+    },
+    {
+      "para_id": "c0011p0050",
+      "index": 50,
+      "raw_zh": "收到了錢，雲千峰準備去開車，但是沒想到秦疏影看了一眼薑柔甲，攔住雲千峰道：",
+      "translated_vi": "Nhận được tiền, Vân Thiên Phong định bước ra ghế lái, nhưng chẳng ngờ Tần Sơ Ảnh liếc nhìn Khương Nhu Giáp một cái, rồi chắn trước mặt Vân Thiên Phong bảo:"
+    },
+    {
+      "para_id": "c0011p0051",
+      "index": 51,
+      "raw_zh": "“我去開車。”",
+      "translated_vi": "\"Để tôi lái xe.\""
+    },
+    {
+      "para_id": "c0011p0052",
+      "index": 52,
+      "raw_zh": "意思很明顯，不想和薑柔甲獨處，以此表達自己的絕不原諒。",
+      "translated_vi": "Ý tứ quá mức rõ ràng: không muốn ở chung một chỗ với Khương Nhu Giáp, nhằm bày tỏ thái độ tuyệt đối không đời nào tha thứ của mình."
+    },
+    {
+      "para_id": "c0011p0053",
+      "index": 53,
+      "raw_zh": "薑柔甲也在秦疏影走向駕駛室時，冷哼了一聲，表達自己絕不慣著。",
+      "translated_vi": "Khương Nhu Giáp thấy Tần Sơ Ảnh bước về phía buồng lái cũng hừ lạnh một tiếng, tỏ rõ thái độ mình chẳng thèm nịnh bợ nuông chiều."
+    },
+    {
+      "para_id": "c0011p0054",
+      "index": 54,
+      "raw_zh": "然後雲千峰覺得幸福降臨了。",
+      "translated_vi": "Và rồi Vân Thiên Phong cảm thấy hạnh phúc đã mỉm cười với mình."
+    },
+    {
+      "para_id": "c0011p0055",
+      "index": 55,
+      "raw_zh": "這倆女都不願和對方獨處，結果就是她們倆輪班開車。",
+      "translated_vi": "Hai cô nàng này đều chẳng ai chịu ở một mình với đối phương, kết quả là hai người họ thay phiên nhau lái xe suốt chặng đường."
+    },
+    {
+      "para_id": "c0011p0056",
+      "index": 56,
+      "raw_zh": "完美！",
+      "translated_vi": "Quá đỗi hoàn hảo!"
+    },
+    {
+      "para_id": "c0011p0057",
+      "index": 57,
+      "raw_zh": "兩天三夜，三人終於到達第一站目的獨龍。",
+      "translated_vi": "Rong ruổi hai ngày ba đêm, ba người rốt cuộc cũng đến được điểm dừng chân đầu tiên: Độc Long."
+    },
+    {
+      "para_id": "c0011p0058",
+      "index": 58,
+      "raw_zh": "這裡就在原始叢林的旁邊，茂密的叢林與野人山的林區其實相連，形成橫跨幾百裡的無人區，當地居民對叢林的地形極為熟悉，尤其是常上山采藥的藥農和獵人。",
+      "translated_vi": "Nơi này nằm ngay sát bìa rừng nguyên sinh, dải rừng rậm rạp trên thực tế ăn liền với khu rừng núi Dã Nhân Sơn, tạo thành một vùng đất không người trải dài hàng trăm dặm. Cư dân bản địa cực kỳ quen thuộc với địa hình hiểm trở nơi đây, đặc biệt là những người hái thuốc và thợ săn thường xuyên lên núi."
+    },
+    {
+      "para_id": "c0011p0059",
+      "index": 59,
+      "raw_zh": "雲千峰決定在這附近尋找一個熟悉山路的向導，讓他們盡可能把車開到更深處的地方。",
+      "translated_vi": "Vân Thiên Phong quyết định tìm một người dẫn đường thông thạo đường đồi núi quanh đây, để họ có thể lái xe vào sâu trong rừng hết mức có thể."
+    },
+    {
+      "para_id": "c0011p0060",
+      "index": 60,
+      "raw_zh": "原以為這是花點小錢就能搞定的事情，但是沒想到連續碰壁。",
+      "translated_vi": "Cứ ngỡ đây chỉ là chuyện bỏ ra chút tiền lẻ là giải quyết xong, chẳng ngờ hắn lại liên tục đụng phải tường đá."
+    },
+    {
+      "para_id": "c0011p0061",
+      "index": 61,
+      "raw_zh": "原因很簡單，現在正是回南天的節氣，這個時候，此地山裡瘴氣最濃，毒性也最大，給多少錢也買不到命。",
+      "translated_vi": "Nguyên nhân rất đỗi đơn giản: lúc này đang đúng vào tiết trời nồm ẩm phương nam, chướng khí trong núi rừng nơi này dày đặc nhất, độc tính cũng mạnh nhất, trả bao nhiêu tiền cũng chẳng mua nổi mạng sống."
+    },
+    {
+      "para_id": "c0011p0062",
+      "index": 62,
+      "raw_zh": "毒瘴雲千峰幾個人沒當回事，他們帶著最先進的過濾面罩，只要小心謹慎，瘴氣傷不到他們。",
+      "translated_vi": "Chuyện chướng khí độc mấy người Vân Thiên Phong lại chẳng mảy may bận tâm, họ đã mang theo những chiếc mặt nạ phòng độc lọc khí tối tân nhất, chỉ cần cẩn thận đề phòng thì chướng khí khó lòng làm tổn thương được họ."
+    },
+    {
+      "para_id": "c0011p0063",
+      "index": 63,
+      "raw_zh": "找了整整一個上午，終於有一個不要命的接了這個活計，答應當他們的向導，當然價錢也很高。",
+      "translated_vi": "Tìm kiếm ròng rã suốt một buổi sáng, cuối cùng cũng có một kẻ liều mạng chịu nhận mối làm ăn này, đồng ý làm người dẫn đường cho họ, dĩ nhiên mức giá đưa ra cũng cao ngất ngưởng."
+    },
+    {
+      "para_id": "c0011p0064",
+      "index": 64,
+      "raw_zh": "這人叫蒙繞，四十左右歲年紀，長得非常強壯，虎背熊腰，但絕不是胖，而是一身的肌肉疙瘩。",
+      "translated_vi": "Gã tên là Mông Nhiễu, chừng bốn mươi tuổi, thân hình vạm vỡ dị thường, lưng hùm vai gấu, nhưng tuyệt đối không phải béo phệ mà là cả một thân cơ bắp cuồn cuộn nổi cục."
+    },
+    {
+      "para_id": "c0011p0065",
+      "index": 65,
+      "raw_zh": "還挺愛打扮，帶著皮繩狼牙的項圈，耳朵上帶著兩個銀質大耳環，左手小拇指還帶著一個大戒指，上面嵌著一個鴿子蛋大小的白色石頭。",
+      "translated_vi": "Gã còn khá thích chải chuốt điệu đà, cổ đeo vòng dây da gắn nanh sói, hai bên tai đeo hai chiếc khuyên bạc to tướng, ngón út bàn tay trái còn đeo một chiếc nhẫn lớn cẩn viên đá màu trắng to bằng quả trứng bồ câu."
+    },
+    {
+      "para_id": "c0011p0066",
+      "index": 66,
+      "raw_zh": "據說他是這裡最膽大的獵人，敢進最深處的叢林。",
+      "translated_vi": "Nghe đồn gã là gã thợ săn to gan lớn mật nhất vùng này, dám đặt chân vào tận chốn rừng thiêng nước độc sâu nhất."
+    },
+    {
+      "para_id": "c0011p0067",
+      "index": 67,
+      "raw_zh": "簡單吃過午飯已經是下午兩點鍾，薑柔甲和秦疏影都不想耽誤哪怕一秒鍾，堅持立即趕路，幾個人就坐上車，按照蒙繞的指引進入叢林野路。",
+      "translated_vi": "Ăn qua loa bữa trưa xong thì trời đã điểm hai giờ chiều. Khương Nhu Giáp và Tần Sơ Ảnh đều chẳng muốn lãng phí dù chỉ một giây, nằng nặc đòi lập tức lên đường. Mấy người liền lên xe, men theo sự chỉ dẫn của Mông Nhiễu tiến vào con đường mòn hoang vu xuyên rừng."
+    },
+    {
+      "para_id": "c0011p0068",
+      "index": 68,
+      "raw_zh": "秦疏影是三人裡駕駛技術最好的，所以這山路便只能她來開。",
+      "translated_vi": "Tần Sơ Ảnh là người có tay lái lụa nhất trong ba người, thế nên đoạn đường đèo hiểm trở này đành phải để cô cầm lái."
+    },
+    {
+      "para_id": "c0011p0069",
+      "index": 69,
+      "raw_zh": "房車走的很慢，窗外兩側全是森森綠色，緊緊地挨著車身，好似要壓下來似的。",
+      "translated_vi": "Chiếc xe RV bò đi rất chậm chạp. Hai bên cửa sổ ngập tràn sắc xanh rậm rạp u ám, cành lá ép sát vào thân xe như muốn đè sụp xuống."
+    },
+    {
+      "para_id": "c0011p0070",
+      "index": 70,
+      "raw_zh": "這裡的環境也是極為壓抑，比如現在本是難得的晴天，但也看不到太陽，都被遮天的綠植和雲霧遮個嚴實。",
+      "translated_vi": "Không khí nơi này cũng vô cùng ngột ngạt. Chẳng hạn như lúc này vốn là một ngày nắng hiếm hoi, nhưng trên đầu lại chẳng thể nhìn thấy mặt trời, hết thảy đều bị tầng tầng lớp lớp cây cối rậm rạp và mây mù che khuất kín mít."
+    },
+    {
+      "para_id": "c0011p0071",
+      "index": 71,
+      "raw_zh": "雲千峰和薑柔甲則坐在客廳裡，看碟片，瞌睡吃零食。",
+      "translated_vi": "Vân Thiên Phong và Khương Nhu Giáp thì ngồi trong phòng khách, xem đĩa phim, gà gật ăn đồ vặt."
+    },
+    {
+      "para_id": "c0011p0072",
+      "index": 72,
+      "raw_zh": "這樣無聊兩個多小時，倆人又開始聊天。",
+      "translated_vi": "Buồn chán trôi qua hơn hai tiếng đồng hồ, hai người lại bắt đầu tán gẫu."
+    },
+    {
+      "para_id": "c0011p0073",
+      "index": 73,
+      "raw_zh": "薑柔甲現在很喜歡和雲千峰說悄悄話。",
+      "translated_vi": "Khương Nhu Giáp dạo này rất thích thì thầm to nhỏ với Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0011p0074",
+      "index": 74,
+      "raw_zh": "此時，她正把小嘴巴靠近雲千峰耳朵，悄聲道：",
+      "translated_vi": "Lúc này, nàng ghé sát bờ môi nhỏ nhắn vào tai Vân Thiên Phong, khẽ khàng bảo:"
+    },
+    {
+      "para_id": "c0011p0075",
+      "index": 75,
+      "raw_zh": "“當向導還挺賺錢啊，你看蒙繞那戒指沒？上面是上等的冰種，就這個戒指最少百萬以上。”",
+      "translated_vi": "\"Làm người dẫn đường kiếm bộn tiền thật đấy chứ, anh nhìn chiếc nhẫn của Mông Nhiễu chưa? Thứ gắn trên đó là ngọc phỉ thúy băng chủng thượng hạng đấy, riêng chiếc nhẫn đó thôi ít nhất cũng phải tiền triệu trở lên.\""
+    },
+    {
+      "para_id": "c0011p0076",
+      "index": 76,
+      "raw_zh": "這讓雲千峰一愣，他詫異的小聲道：",
+      "translated_vi": "Lời này làm Vân Thiên Phong ngẩn ra một thoáng, hắn ngạc nhiên thì thào đáp:"
+    },
+    {
+      "para_id": "c0011p0077",
+      "index": 77,
+      "raw_zh": "“那貨帶了一身的首飾就沒值錢的，假的吧？”",
+      "translated_vi": "\"Cái gã đó đeo cả một thân trang sức rẻ tiền lòe loẹt, đồ giả đấy chứ?\""
+    },
+    {
+      "para_id": "c0011p0078",
+      "index": 78,
+      "raw_zh": "薑柔甲低聲道：",
+      "translated_vi": "Khương Nhu Giáp nhỏ giọng:"
+    },
+    {
+      "para_id": "c0011p0079",
+      "index": 79,
+      "raw_zh": "“相信我的眼光，我可是在真貨堆裡長大的。”",
+      "translated_vi": "\"Tin vào mắt nhìn của tôi đi, từ bé đến lớn tôi sống trong đống đồ thật đấy.\""
+    },
+    {
+      "para_id": "c0011p0080",
+      "index": 80,
+      "raw_zh": "雲千峰撇嘴道：",
+      "translated_vi": "Vân Thiên Phong bĩu môi:"
+    },
+    {
+      "para_id": "c0011p0081",
+      "index": 81,
+      "raw_zh": "“能不賺錢嗎？進山的全是你這樣的冤大頭，開口就十萬，你對我怎麽沒那麽大方？”",
+      "translated_vi": "\"Lại chả kiếm bộn? Toàn những kẻ lắm tiền dễ dụ như cô đâm đầu vào núi, mở mồm ra là chi cả trăm ngàn, sao với tôi cô chẳng hào phóng được như thế?\""
+    },
+    {
+      "para_id": "c0011p0082",
+      "index": 82,
+      "raw_zh": "正說著話，房車突然停住，正說悄悄話的倆人腦袋撞到了一起。",
+      "translated_vi": "Đang mải nói chuyện, chiếc xe RV đột ngột phanh khựng lại, hai cái đầu đang thì thầm to nhỏ va cộp vào nhau."
+    },
+    {
+      "para_id": "c0011p0083",
+      "index": 83,
+      "raw_zh": "雲千峰揉著腮幫子喊疼，薑柔甲嘴唇撞出血了。",
+      "translated_vi": "Vân Thiên Phong vừa xoa má vừa xuýt xoa kêu đau, còn khóe môi Khương Nhu Giáp thì bị va đến rớm máu."
+    },
+    {
+      "para_id": "c0011p0084",
+      "index": 84,
+      "raw_zh": "“怎麽了？”",
+      "translated_vi": "\"Có chuyện gì thế?\""
+    },
+    {
+      "para_id": "c0011p0085",
+      "index": 85,
+      "raw_zh": "蒙繞聽雲千峰問，便說道：",
+      "translated_vi": "Mông Nhiễu nghe Vân Thiên Phong hỏi bèn cất giọng:"
+    },
+    {
+      "para_id": "c0011p0086",
+      "index": 86,
+      "raw_zh": "“運氣不好的嘛，前面野路被山體滑落堵住啦，接下來的路要走路啦，不過我看地圖啦，你們要去能遙看本帕本山的地方，離這裡不遠，就在一個寬闊的山谷裡，五六個小時就走到啦。”",
+      "translated_vi": "\"Vận may không tốt rồi mà, đường mòn phía trước bị sạt lở núi lấp kín rồi đó, đoạn đường tiếp theo phải đi bộ thôi à. Nhưng mà tôi xem bản đồ rồi nhen, chỗ các người muốn đến để nhìn từ xa ngọn núi Bản Phách Bản chẳng cách đây bao xa đâu, nằm ngay trong một thung lũng rộng rãi, đi bộ chừng năm sáu tiếng là tới nơi rồi à.\""
+    },
+    {
+      "para_id": "c0011p0087",
+      "index": 87,
+      "raw_zh": "說著話，蒙繞看了看天色，繼續道：",
+      "translated_vi": "Vừa nói, Mông Nhiễu vừa ngước nhìn sắc trời, nói tiếp:"
+    },
+    {
+      "para_id": "c0011p0088",
+      "index": 88,
+      "raw_zh": "“今天走不了啦，天黑了在這山裡趕路會死人的，明早再出發。”",
+      "translated_vi": "\"Hôm nay không đi tiếp được đâu nhen, trời tối mà lần mò đi trong ngọn núi này là mất mạng như chơi đấy, sáng mai hẵng xuất phát.\""
+    },
+    {
+      "para_id": "c0011p0089",
+      "index": 89,
+      "raw_zh": "有房車在，一切都很簡單，不需要扎營，直接睡車裡就好。",
+      "translated_vi": "Có xe RV ở đây nên mọi thứ đều rất tiện lợi, chẳng cần dựng lều trại, cứ ngủ thẳng trong xe là xong."
+    },
+    {
+      "para_id": "c0011p0090",
+      "index": 90,
+      "raw_zh": "雲千峰走出房車，看了看周圍的環境，此時房車處於一個峽谷之間，寬度堪堪夠房車直行，前面路上巨石成堆，根本無法繞路，於是只能聽蒙繞的安排暫時宿營。",
+      "translated_vi": "Vân Thiên Phong bước ra khỏi xe RV, quan sát hoàn cảnh xung quanh một lượt. Lúc này chiếc xe đang nằm kẹt giữa một khe hẻm núi, chiều rộng vừa vặn cho xe chạy thẳng, phía trước mặt đá tảng chất đống ngổn ngang, hoàn toàn không có cách nào lách qua, vì thế chỉ đành nghe theo sự sắp xếp của Mông Nhiễu tạm thời hạ trại."
+    },
+    {
+      "para_id": "c0011p0091",
+      "index": 91,
+      "raw_zh": "他們在房車外生起篝火，開始料理食物準備晚餐。",
+      "translated_vi": "Họ nhóm một đống lửa trại bên ngoài chiếc xe RV, bắt đầu chế biến thực phẩm chuẩn bị bữa tối."
+    },
+    {
+      "para_id": "c0011p0092",
+      "index": 92,
+      "raw_zh": "雲千峰看著漸漸升起的霧氣，問蒙繞道：",
+      "translated_vi": "Nhìn màn sương mù đang từ từ bốc lên, Vân Thiên Phong quay sang hỏi Mông Nhiễu:"
+    },
+    {
+      "para_id": "c0011p0093",
+      "index": 93,
+      "raw_zh": "“這是不是毒瘴？咱們需要預防一下不？”",
+      "translated_vi": "\"Đây có phải là chướng khí độc không? Chúng ta có cần đề phòng trước không đấy?\""
+    },
+    {
+      "para_id": "c0011p0094",
+      "index": 94,
+      "raw_zh": "蒙繞笑著搖頭，道：",
+      "translated_vi": "Mông Nhiễu cười cười lắc đầu, bảo:"
+    },
+    {
+      "para_id": "c0011p0095",
+      "index": 95,
+      "raw_zh": "“這不是毒瘴，毒瘴是成團團的樣子，很濃密，這就是普通的霧氣啦，沒關系，沒關系啦。”",
+      "translated_vi": "\"Cái này không phải chướng khí độc đâu, chướng khí độc nó tụ thành từng cụm từng bọc dày đặc quánh lại cơ, đây chỉ là sương mù bình thường thôi mà, không sao đâu, không hề gì đâu nhen.\""
+    },
+    {
+      "para_id": "c0011p0096",
+      "index": 96,
+      "raw_zh": "說著，蒙繞在兜裡掏出一個老大的煙袋鍋，在裡面塞上了煙葉，面帶微笑，大口的吸了起來。",
+      "translated_vi": "Vừa dứt lời, Mông Nhiễu liền móc từ trong túi ra một chiếc tẩu thuốc to tướng, nhồi thuốc lá sợi vào trong, khóe môi nở nụ cười, rít lấy rít để từng ngụm lớn."
+    },
+    {
+      "para_id": "c0011p0097",
+      "index": 97,
+      "raw_zh": "只是那一臉橫肉，笑起來有點嚇人。",
+      "translated_vi": "Chỉ là khuôn mặt đầy thịt ngang phè của gã, khi cười lên trông có phần rợn người."
+    }
+  ]
+}

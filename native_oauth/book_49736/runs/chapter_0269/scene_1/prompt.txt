@@ -1,0 +1,92 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0269|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §53):
+§1 269.第269章 神州之下
+§2 第269章 神州之下
+§3 卓瑪三目齊開。
+§4 [Ø=云千峰]那一瞬間，她的表情是極其精彩的。
+§5 [Ø=云千峰]先是震驚，似乎被自己所見驚嚇到。
+§6 [Ø=云千峰]緊接著是歡喜，似乎所見讓她消弭了所有煩惱。
+§7 最後則是滿臉的不解和思索的神情。
+§8 [Ø=云千峰]似乎有感，雲千峰和白狐在卓瑪睜眼的一瞬，同時回望。
+§9 他們看到了那讓他們難忘的瞬間。
+§10 [Ø=云千峰]原來，人有了第三隻眼會那麽的好看，帶著神秘感的美。
+§11 不是想象的可怖和詭異。
+§12 [Ø=云千峰]卓瑪雙臂十字交叉，掩在胸前，不需要手臂的幫助， [||] 那流線唯美的身體，就那麽律動的用力，輕盈的立了起來。
+§13 [Ø=云千峰]長長的似魚非魚，似蛇非蛇的下身， [||] 比原本卓瑪的腿要長許多，所以哪怕是半折著，也與卓瑪原本的身高相當。
+§14 [Ø=云千峰]此時站立的卓瑪，看起來就像是穿著人魚裙的超模，散發著異樣的魅力。
+§15 [Ø=云千峰]站起來的卓瑪低頭髮現了什麽，[Ø_SHIFT=姜柔甲]急忙用手掩下，手忙腳亂幾次後，一手上一手下。
+§16 白狐忙把洗淨烤乾的藏袍給卓瑪遞過去。
+§17 [Ø=姜柔甲]穿好了衣服的卓瑪才舒了口氣，身體扭動著，速度極快， [||] 一陣風似的竄到了樹洞外，竟然不需要訓練，便完全適應了此時的體態。
+§18 [Ø=姜柔甲]卓瑪在樹洞外的植被之間轉著圈，穿梭著，面帶笑容，發出銀鈴般的笑聲。
+§19 [Ø=姜柔甲]雲千峰放下心來，笑道：
+§20 [Ø=姜柔甲]“看到卓瑪這麽開心，我就放心了，之前還害怕她會因為體態的異變而煩惱，但很顯然是我杞人憂天了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 [Ø=姜柔甲]話是對著白狐說的，聲音也不大，但是遠處的卓瑪卻聽到了，她笑道：
+§22 [Ø=姜柔甲]“相對於此時所見一切，身體的變化不值一提，不值一提！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 [Ø=姜柔甲]雲千峰很好奇三隻眼睛一起看世界，會是什麽樣子，於是問道：
+§24 “你都看到了什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 卓瑪大聲回道：
+§26 [Ø=姜柔甲]“看到了更多的真相，但也見到了更多的不解！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 雲千峰道：
+§28 [Ø=姜柔甲]“說說，真相是什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 [Ø=姜柔甲]卓瑪搖搖頭，道：
+§30 [Ø=姜柔甲]“無法言表，超出語言的范疇！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=姜柔甲]超出語言的，就只能是智慧了。
+§32 [Ø=姜柔甲]卓瑪歡快的遊走了幾圈，回道樹洞前。
+§33 [Ø=姜柔甲]不需要雲千峰詢問，就折了一根樹枝，在雨潤的泥土上，畫出了一個地圖。
+§34 [Ø=姜柔甲]這份地圖陸地的形狀極其有趣，因為竟然和人的大腦形狀極為接近。
+§35 [Ø=姜柔甲]而在這個大腦形狀的地圖四周，卓瑪畫出了很多的虛線。
+§36 [Ø=姜柔甲]隨後，卓瑪在這大腦形狀的地圖上，標記坐標點，然後書寫一些象形圖符的文字。
+§37 [Ø=姜柔甲]雲千峰讀不出來這些字符的發音，但是能明白含義。
+§38 [Ø=姜柔甲]這些字符，完全做到了一字一意，清晰分明。
+§39 卓瑪指著大腦形狀的陸地道：
+§40 [Ø=姜柔甲]“這個大腦形陸地的頂端，是北極的方向，我們以此為北。小腦的位置是赤道的方向，我們以此為南。
+§41 [Ø=姜柔甲]咱們現在所處的位置，在腦形陸地西側， [||] 這座城市正是香巴拉，也就是所謂的伊甸園，這裡是空城。
+§42 [Ø=姜柔甲]西王母居住的地方，在日無影之地，也就是那中天“太陽”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]的正下方， [||] 那裡是一片乾枯的沙漠，但是在沙漠中心，日無影的位置，有一片巨大的湖水。
+§43 [Ø=姜柔甲]那是浴日之地，也是仙女洗浴之地，西王母就居住在那裡。”
+§44 [Ø=姜柔甲]日浴之地為鹹池，而鹹池也就是瑤池，正合傳說。
+§45 [Ø=姜柔甲]卓瑪手指所指西王母的居住地，正是這腦形地圖的松果體位置，也是這腦形地圖的中心處。
+§46 雲千峰急問道：
+§47 “相距這裡多遠？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§48 卓瑪思索道：
+§49 “三千公裡之上。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§50 [Ø=姜柔甲]雲千峰稍微計算，指著瑤池的位置驚訝道：
+§51 [Ø=姜柔甲]“這裡是岡壬山下的地底深處，那這瑤池豈不是在華山范圍之下？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§52 卓瑪笑道：
+§53 [Ø=姜柔甲]“這裡，本就完全在古神州的覆蓋之下啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 53 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§53. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

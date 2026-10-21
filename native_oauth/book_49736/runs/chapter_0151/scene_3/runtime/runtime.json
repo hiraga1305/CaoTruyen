@@ -1,0 +1,32 @@
+{
+  "authentication": "cached_account; GEMINI_API_KEY unset",
+  "requested_model": "gemini-3.8-flash-high",
+  "agent": null,
+  "exit_code": 0,
+  "workspace": "D:\\AI\\Antigravity\\CaoTruyen",
+  "duration_seconds": 40.58,
+  "status": "SUCCESS",
+  "conversation_id": "ff43a6ef-3650-4cbf-ba91-df1ef57330b8",
+  "usage": {
+    "input_tokens": 15169,
+    "output_tokens": 4874,
+    "thinking_tokens": 4725,
+    "cache_read_tokens": 0,
+    "total_tokens": 20043
+  },
+  "result": {
+    "conversation_id": "ff43a6ef-3650-4cbf-ba91-df1ef57330b8",
+    "status": "SUCCESS",
+    "response": "§1 “Rất đơn giản, xem thử trước khi La Lâm và tôi tới đây, ai đã đến nơi này!”\n§2 Vừa nói, hắn vừa bấm mở đoạn video ghi hình thứ ba tính từ dưới lên.\n§3 Cảm ơn cina, Thiền, số đuôi 28137, số đuôi 45245, Đối Thử Bất Năng Kháo Cận, Thu Đao Ngư 9527, số đuôi 38908 đã thưởng phiếu tháng, cảm ơn sự ủng hộ của các bạn!!!\n§4 Đêm dài đằng đẵng, tôi ngồi gõ chữ, chúc các bạn ngủ ngon!!!\n",
+    "duration_seconds": 37.2143412,
+    "num_turns": 1,
+    "usage": {
+      "input_tokens": 15169,
+      "output_tokens": 4874,
+      "thinking_tokens": 4725,
+      "cache_read_tokens": 0,
+      "total_tokens": 20043
+    }
+  },
+  "event_count": 28
+}

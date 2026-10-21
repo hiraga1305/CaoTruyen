@@ -1,0 +1,589 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 139,
+  "title": "Chương 139: Suy luận ngược",
+  "total_paragraphs": 96,
+  "translated_paragraphs": 96,
+  "source_hash": "2dcdc9ba4a73210a9e529409846a89031a046a11bd20a827bcefd9c2573a82a8",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0139p0001",
+      "index": 1,
+      "raw_zh": "第139章 逆向推導",
+      "translated_vi": "Chương 139: Suy luận ngược"
+    },
+    {
+      "para_id": "c0139p0002",
+      "index": 2,
+      "raw_zh": "第二天醒來，秦疏影到處找不到雲千峰，隻好找這私人島嶼的管家詢問。",
+      "translated_vi": "Sáng hôm sau tỉnh giấc, Tần Sơ Ảnh tìm khắp nơi chẳng thấy bóng dáng Vân Thiên Phong đâu, đành phải tìm tới người quản gia của hòn đảo tư nhân này để hỏi thăm."
+    },
+    {
+      "para_id": "c0139p0003",
+      "index": 3,
+      "raw_zh": "得到的答案是：",
+      "translated_vi": "Câu trả lời nhận được là:"
+    },
+    {
+      "para_id": "c0139p0004",
+      "index": 4,
+      "raw_zh": "“雲先生已經跟隨羅琳娜小姐出發去了非洲，他讓我轉告您，你們可以放心的住在這裡，直到他回來。”",
+      "translated_vi": "“Thưa cô, ngài Vân đã theo tiểu thư Lorina xuất phát tới châu Phi rồi ạ. Ngài ấy dặn tôi chuyển lời tới cô rằng các cô cứ yên tâm ở lại đây dưỡng sức cho đến khi ngài ấy trở về.”"
+    },
+    {
+      "para_id": "c0139p0005",
+      "index": 5,
+      "raw_zh": "秦疏影氣得第一次很明顯的發了脾氣，走路的時候運動鞋把地面踏的“咚咚”響，但也僅此而已。",
+      "translated_vi": "Tần Sơ Ảnh tức giận đến mức lần đầu tiên nổi nóng ra mặt, từng bước chân đi giày thể thao nện xuống nền đất vang lên những tiếng “thình thịch”, nhưng cũng chỉ dừng lại ở đó."
+    },
+    {
+      "para_id": "c0139p0006",
+      "index": 6,
+      "raw_zh": "她真的是個淑女。",
+      "translated_vi": "Cô thực sự là một người phụ nữ đoan trang thục nữ."
+    },
+    {
+      "para_id": "c0139p0007",
+      "index": 7,
+      "raw_zh": "秦疏影很清楚，雲千峰不帶著她，是為了她的安全，畢竟雲千峰要去的地方大概率極其危險，更別提那些如影隨形的追殺者。",
+      "translated_vi": "Tần Sơ Ảnh hiểu rất rõ, Vân Thiên Phong không dẫn cô theo là vì muốn bảo đảm an toàn cho cô; dẫu sao nơi anh sắp tới phần lớn là vô cùng hung hiểm, chưa kể đến những kẻ truy sát như hình với bóng kia."
+    },
+    {
+      "para_id": "c0139p0008",
+      "index": 8,
+      "raw_zh": "她能理解，於是心裡更難受。",
+      "translated_vi": "Cô có thể hiểu thấu điều đó, nhưng chính vì hiểu nên cõi lòng lại càng thêm quặn thắt xót xa."
+    },
+    {
+      "para_id": "c0139p0009",
+      "index": 9,
+      "raw_zh": "她想陪著他。",
+      "translated_vi": "Cô muốn kề vai sát cánh bên anh."
+    },
+    {
+      "para_id": "c0139p0010",
+      "index": 10,
+      "raw_zh": "但又很清楚自己如果跟著他，只能是個累贅。",
+      "translated_vi": "Nhưng cô cũng hiểu rằng nếu mình đi theo thì chỉ có thể biến thành gánh nặng vướng víu cho anh mà thôi."
+    },
+    {
+      "para_id": "c0139p0011",
+      "index": 11,
+      "raw_zh": "這種感覺，讓人難受到想哭。",
+      "translated_vi": "Cảm giác bất lực nghẹn ngào ấy khiến lòng người chực trào nước mắt."
+    },
+    {
+      "para_id": "c0139p0012",
+      "index": 12,
+      "raw_zh": "國際航班上。",
+      "translated_vi": "Trên chuyến bay quốc tế."
+    },
+    {
+      "para_id": "c0139p0013",
+      "index": 13,
+      "raw_zh": "雲千峰發誓，他從不知道坐飛機可以這麽舒服。",
+      "translated_vi": "Vân Thiên Phong xin thề, từ thuở cha sinh mẹ đẻ tới giờ anh chưa từng biết đi máy bay lại có thể êm ái xa hoa đến nhường này."
+    },
+    {
+      "para_id": "c0139p0014",
+      "index": 14,
+      "raw_zh": "這土豪航空的頭等艙竟然有私人套房和淋浴設施，衛生間還配備最好的香水、洗護用品和護膚品，以及比雲千峰所有衣服加一起還貴的睡衣。",
+      "translated_vi": "Khoang hạng nhất của hãng hàng không quý tộc này thế mà lại có cả buồng phòng riêng biệt cùng trang thiết bị phòng tắm vòi sen, trong nhà vệ sinh còn trang bị đủ loại nước hoa, sữa tắm cùng mỹ phẩm chăm sóc da cao cấp nhất, kèm theo bộ áo ngủ có giá trị còn đắt hơn toàn bộ quần áo của Vân Thiên Phong cộng lại."
+    },
+    {
+      "para_id": "c0139p0015",
+      "index": 15,
+      "raw_zh": "當然，價格也很無情。",
+      "translated_vi": "Tất nhiên, cái giá phải trả cũng tàn nhẫn khôn cùng."
+    },
+    {
+      "para_id": "c0139p0016",
+      "index": 16,
+      "raw_zh": "羅琳娜訂的這雙人套房頭等艙，只是這一出單行票價，就花費了近四萬歐。",
+      "translated_vi": "Buồng phòng đôi hạng nhất mà Lorina đặt mua, chỉ tính riêng giá vé một chiều này thôi đã ngốn đứt gần bốn vạn euro."
+    },
+    {
+      "para_id": "c0139p0017",
+      "index": 17,
+      "raw_zh": "然而就是這樣舒適的環境，羅琳娜還是一臉不悅的埋怨雲千峰不該半夜才同意，否則她就可以包機，因為她不喜歡隔壁的艙內還有人的感覺。",
+      "translated_vi": "Thế nhưng dẫu ở trong một không gian tiện nghi tột bậc như vậy, Lorina vẫn sa sầm nét mặt cằn nhằn Vân Thiên Phong không nên chần chừ đến tận nửa đêm mới chịu đồng ý, bằng không cô ta đã có thể bao trọn nguyên một chiếc chuyên cơ riêng rồi, vì cô ta vốn chẳng hề thích cảm giác trong khoang bên cạnh vẫn có người khác hiện diện."
+    },
+    {
+      "para_id": "c0139p0018",
+      "index": 18,
+      "raw_zh": "之後，雲千峰就一邊享受著這豪華的飛行服務，一邊心裡腦補毆打羅琳娜的畫面。",
+      "translated_vi": "Sau đó, Vân Thiên Phong vừa tận hưởng dịch vụ bay sang trọng bậc nhất, vừa thầm tưởng tượng trong đầu cảnh tượng bản thân túm cổ đấm cho Lorina một trận tơi bời."
+    },
+    {
+      "para_id": "c0139p0019",
+      "index": 19,
+      "raw_zh": "羅琳娜不是個話很多的人，估計有很嚴重的厭男症，倆人那可以變成床的電動座椅是挨著的，但是羅琳娜極盡可能的靠著距離雲千峰最遠的一側，似乎連倆人衣服的接觸她都無法接受。",
+      "translated_vi": "Lorina không phải mẫu người thích nói nhiều, có lẽ cô nàng mắc chứng ghét đàn ông cực kỳ trầm trọng; hai chiếc ghế chỉnh điện có thể ngả thành giường nằm của họ vốn kê sát cạnh nhau, thế nhưng Lorina lại cố hết sức nép sang mép ghế xa Vân Thiên Phong nhất, dường như ngay cả việc vạt áo chạm vào nhau cô ta cũng chẳng thể nào chịu đựng nổi."
+    },
+    {
+      "para_id": "c0139p0020",
+      "index": 20,
+      "raw_zh": "雲千峰估計可能美麗的百合花都這樣，所以哪怕羅琳娜魅惑的犯規，他也始終處於賢者模式，把她當成好兄弟。",
+      "translated_vi": "Vân Thiên Phong thầm đoán chắc hẳn những đóa bách hợp kiều diễm đều quái đản như vậy, thế nên dẫu cho Lorina có quyến rũ đến mức phạm luật đi chăng nữa, anh cũng luôn duy trì trạng thái hiền giả thanh tịnh, chỉ coi cô nàng như một người huynh đệ chí cốt mà thôi."
+    },
+    {
+      "para_id": "c0139p0021",
+      "index": 21,
+      "raw_zh": "端莊的空姐送來了鮮榨的果汁。",
+      "translated_vi": "Nữ tiếp viên hàng không đoan trang mang nước hoa quả tươi vừa ép tới phục vụ."
+    },
+    {
+      "para_id": "c0139p0022",
+      "index": 22,
+      "raw_zh": "然而這本很美的空姐在羅琳娜面前，竟然被對比的如同孔雀和麻雀。",
+      "translated_vi": "Thế nhưng cô tiếp viên vốn dĩ rất xinh đẹp này khi đứng trước mặt Lorina, lại bị đem ra so sánh chẳng khác nào chim sẻ đứng cạnh chim công kiêu kỳ."
+    },
+    {
+      "para_id": "c0139p0023",
+      "index": 23,
+      "raw_zh": "除卻巫山不是雲啊！雲千峰繼續賢者。",
+      "translated_vi": "Đúng là từng qua bể lớn khó thành nước, đã ngắm Vu Sơn chẳng phải mây! Vân Thiên Phong tiếp tục duy trì trạng thái hiền giả."
+    },
+    {
+      "para_id": "c0139p0024",
+      "index": 24,
+      "raw_zh": "羅琳娜飲了一口果汁，微微皺了一下眉毛，之後就再也沒碰那果汁一下，不像雲千峰幾乎兩口喝光，隻覺得果汁味美新鮮。",
+      "translated_vi": "Lorina nhấp một ngụm nước hoa quả, khẽ nhíu mày một cái rồi từ đó về sau không hề đụng môi thêm lần nào nữa, chẳng bù cho Vân Thiên Phong ngửa cổ tu ừng ực hai hớp là cạn sạch ly nước, chỉ cảm thấy nước ép tươi ngon mát lành hết sức."
+    },
+    {
+      "para_id": "c0139p0025",
+      "index": 25,
+      "raw_zh": "羅琳娜對雲千峰的吃相和喝相沒表現出什麽情緒，而是淡淡問道：",
+      "translated_vi": "Lorina không biểu lộ chút cảm xúc nào trước nết ăn nết uống thô kệch của Vân Thiên Phong, mà chỉ thản nhiên cất giọng hỏi:"
+    },
+    {
+      "para_id": "c0139p0026",
+      "index": 26,
+      "raw_zh": "“現在可以告訴我，我們具體要去哪裡嗎？”",
+      "translated_vi": "“Bây giờ anh có thể cho tôi biết, rốt cuộc chúng ta phải đi tới đâu chưa?”"
+    },
+    {
+      "para_id": "c0139p0027",
+      "index": 27,
+      "raw_zh": "在羅琳娜看來，雲千峰是知道具體位置的，能忍到現在才問，可見是個深沉的女人。",
+      "translated_vi": "Theo cách nghĩ của Lorina thì Vân Thiên Phong hẳn phải nắm rõ vị trí cụ thể, có thể nhẫn nại đợi tới tận lúc này mới mở miệng hỏi thăm, đủ thấy cô ta là một người phụ nữ thâm trầm biết chừng nào."
+    },
+    {
+      "para_id": "c0139p0028",
+      "index": 28,
+      "raw_zh": "雲千峰淡淡一笑，理直氣壯，道：",
+      "translated_vi": "Vân Thiên Phong cười nhạt một tiếng, đáp lại một cách đầy hùng hồn chí khí:"
+    },
+    {
+      "para_id": "c0139p0029",
+      "index": 29,
+      "raw_zh": "“我哪知道！我那段記憶都沒了！”",
+      "translated_vi": "“Tôi làm sao mà biết được! Đoạn ký ức đó của tôi bị mất sạch rồi còn đâu!”"
+    },
+    {
+      "para_id": "c0139p0030",
+      "index": 30,
+      "raw_zh": "然後雲千峰發現，羅琳娜愣住和生氣時候的表情，比她沒表情的時候好看多了。",
+      "translated_vi": "Và rồi Vân Thiên Phong chợt nhận ra, vẻ mặt của Lorina lúc sững sờ ngơ ngác cùng khi tức giận đùng đùng trông cuốn hút xinh đẹp hơn nhiều so với bộ mặt lạnh tanh không cảm xúc thường ngày."
+    },
+    {
+      "para_id": "c0139p0031",
+      "index": 31,
+      "raw_zh": "羅琳娜動怒的時候，也能很完美的保持著高雅，仰著美麗的脖頸，看著雲千峰，質問道：",
+      "translated_vi": "Ngay cả khi nổi cơn thịnh nộ, Lorina vẫn giữ được phong thái thanh cao quý phái một cách hoàn hảo; cô ngẩng chiếc cổ thon trắng ngần nhìn Vân Thiên Phong, cất tiếng chất vấn:"
+    },
+    {
+      "para_id": "c0139p0032",
+      "index": 32,
+      "raw_zh": "“你不知道我們該去哪？為什麽不早說，欺騙我是要付出代價的！”",
+      "translated_vi": "“Anh không biết chúng ta phải đi đâu sao? Tại sao không nói sớm từ đầu, lừa gạt tôi là phải trả giá đắt đấy!”"
+    },
+    {
+      "para_id": "c0139p0033",
+      "index": 33,
+      "raw_zh": "雲千峰渾不在意這女人威脅的語氣，雖然他知道這威脅不是假的，但依然很不在意。",
+      "translated_vi": "Vân Thiên Phong chẳng mảy may bận tâm tới giọng điệu đe dọa của người phụ nữ này, mặc dù anh thừa hiểu lời đe dọa đó chẳng phải trò bịp, nhưng anh vẫn cứ dửng dưng như không."
+    },
+    {
+      "para_id": "c0139p0034",
+      "index": 34,
+      "raw_zh": "羅琳娜再強，也強不過石匠會那幫人，這也是除卻巫山不是雲了。",
+      "translated_vi": "Lorina dẫu có ghê gớm đến đâu cũng chẳng thể nào ghê gớm bằng đám tay sai của Hội Thợ Đá, đây cũng là đạo lý từng trải sóng gió lớn thì sá gì gợn sóng lăn tăn."
+    },
+    {
+      "para_id": "c0139p0035",
+      "index": 35,
+      "raw_zh": "“放心吧，雖然我不記得了，但我依舊能夠找到，下了飛機，直接帶我去你找到疑似我屍體的地方，最好能找到當年埋我的人。”",
+      "translated_vi": "“Yên tâm đi, dẫu cho tôi không nhớ rõ, nhưng tôi vẫn có thể tìm ra được. Xuống máy bay, hãy dẫn tôi tới thẳng nơi cô phát hiện ra cái xác nghi là của tôi, tốt nhất là tìm được những người năm xưa đã chôn cất tôi.”"
+    },
+    {
+      "para_id": "c0139p0036",
+      "index": 36,
+      "raw_zh": "羅琳娜恨恨道：",
+      "translated_vi": "Lorina nghiến răng hậm hực:"
+    },
+    {
+      "para_id": "c0139p0037",
+      "index": 37,
+      "raw_zh": "“伱要祈禱能夠找到。”",
+      "translated_vi": "“Anh hãy cầu nguyện cho mình tìm ra đi.”"
+    },
+    {
+      "para_id": "c0139p0038",
+      "index": 38,
+      "raw_zh": "說著，又往旁邊擠了擠，因為雲千峰睡袍的右臂碰到了她睡袍的左臂。",
+      "translated_vi": "Nói đoạn, cô ta lại co người nép sâu hơn sang bên cạnh, bởi vì ống tay áo ngủ bên phải của Vân Thiên Phong vừa vô tình chạm vào tay áo bên trái của cô."
+    },
+    {
+      "para_id": "c0139p0039",
+      "index": 39,
+      "raw_zh": "這一次，雲千峰是故意的。",
+      "translated_vi": "Lần này, Vân Thiên Phong là cố tình."
+    },
+    {
+      "para_id": "c0139p0040",
+      "index": 40,
+      "raw_zh": "他發現，要欺負這女人，很容易且很有趣。",
+      "translated_vi": "Anh phát hiện ra rằng, trêu chọc bắt nạt người phụ nữ này vừa dễ dàng lại vừa thú vị vô cùng."
+    },
+    {
+      "para_id": "c0139p0041",
+      "index": 41,
+      "raw_zh": "夜裡，雲千峰故意裝作翻身，把手臂搭在了羅琳娜身上，那女人好像被電擊了一樣，火速的躲開睡覺的床，站在旁邊看著雲千峰的胳膊各種深呼吸。",
+      "translated_vi": "Đêm đến, Vân Thiên Phong vờ như trở mình rồi gác cánh tay lên người Lorina; người phụ nữ nọ giật nảy hệt như bị điện giật, tốc biến lao ra khỏi giường ngủ, đứng sững một bên trừng mắt nhìn cánh tay của Vân Thiên Phong mà liên tục hít sâu thở dốc để kìm nén cơn giận."
+    },
+    {
+      "para_id": "c0139p0042",
+      "index": 42,
+      "raw_zh": "第二天，羅琳娜的精神狀態很不好，有些疲憊。",
+      "translated_vi": "Sang ngày hôm sau, tinh thần của Lorina sa sút thấy rõ, lộ vẻ mệt mỏi bơ phờ."
+    },
+    {
+      "para_id": "c0139p0043",
+      "index": 43,
+      "raw_zh": "入夜，雲千峰繼續如法炮製，這次羅琳娜沒躲，因為睡沉了。",
+      "translated_vi": "Đến khi màn đêm lại buông xuống, Vân Thiên Phong tiếp tục áp dụng lại bài cũ; lần này Lorina không né tránh được, bởi vì cô đã ngủ quá say."
+    },
+    {
+      "para_id": "c0139p0044",
+      "index": 44,
+      "raw_zh": "於是清晨先醒來的羅琳娜看著搭在自己身上一宿的胳膊，又是一次各種深呼吸。",
+      "translated_vi": "Thế là sáng sớm hôm sau, Lorina thức giấc trước, cúi đầu nhìn cánh tay thô kệch đang đè lên người mình suốt cả một đêm dài, lại thêm một tràng hít sâu thở dốc đầy uất ức."
+    },
+    {
+      "para_id": "c0139p0045",
+      "index": 45,
+      "raw_zh": "午餐的時候，羅琳娜看著吃牛排的刀，左手就蠢蠢欲動。",
+      "translated_vi": "Đến bữa trưa, Lorina nhìn chằm chằm vào con dao cắt bít tết trên bàn, bàn tay trái bất giác nhúc nhích như muốn vung dao chém người."
+    },
+    {
+      "para_id": "c0139p0046",
+      "index": 46,
+      "raw_zh": "她是個左撇子。",
+      "translated_vi": "Cô ta là người thuận tay trái."
+    },
+    {
+      "para_id": "c0139p0047",
+      "index": 47,
+      "raw_zh": "輾轉第三天，雲千峰的衣服碰到羅琳娜衣服的時候，羅琳娜已經擺爛了。",
+      "translated_vi": "Trầy trật tới ngày thứ ba, khi vạt áo của Vân Thiên Phong lại chạm vào áo Lorina, người phụ nữ này đã buông xuôi mặc kệ đời."
+    },
+    {
+      "para_id": "c0139p0048",
+      "index": 48,
+      "raw_zh": "到達撒哈拉大沙漠最美的國度阿國的時候，是午夜時分。",
+      "translated_vi": "Khi đặt chân tới Algeria — quốc gia xinh đẹp nhất nơi đại sa mạc Sahara, thì kim đồng hồ đã điểm giữa đêm khuya."
+    },
+    {
+      "para_id": "c0139p0049",
+      "index": 49,
+      "raw_zh": "羅琳娜預定酒店的豪華接送房車已經早早的等在機場外，將他們接到酒店。",
+      "translated_vi": "Chiếc xe dã ngoại limousine sang trọng do khách sạn của Lorina đặt trước đã chực sẵn bên ngoài sân bay, đón hai người về khách sạn nghỉ ngơi."
+    },
+    {
+      "para_id": "c0139p0050",
+      "index": 50,
+      "raw_zh": "這一個晚上，羅琳娜幾乎沒有休息，始終處於打電話，見人的過程裡。",
+      "translated_vi": "Suốt một đêm đó, Lorina gần như không hề chợp mắt, liên tục bận rộn gọi điện thoại rồi tiếp kiến người này người nọ."
+    },
+    {
+      "para_id": "c0139p0051",
+      "index": 51,
+      "raw_zh": "看得出來，羅琳娜在這裡也有著深厚的人脈，對於一個被消失的人，能有這樣的人脈只能證明一點，那就是羅琳娜很早就用這個後備身份做了足夠多的準備。",
+      "translated_vi": "Có thể nhận thấy, Lorina ở mảnh đất này cũng sở hữu mạng lưới quan hệ vô cùng thâm sâu; đối với một kẻ đã ‘bị biến mất’, việc nắm giữ mạng lưới nhân mạch cỡ này chỉ chứng minh duy nhất một điều: Lorina từ rất sớm đã dùng thân phận dự phòng này để chuẩn bị chu đáo tới mức nào."
+    },
+    {
+      "para_id": "c0139p0052",
+      "index": 52,
+      "raw_zh": "凌晨四點多，羅琳娜才休息。",
+      "translated_vi": "Mãi tới hơn bốn giờ sáng, Lorina mới đặt lưng nghỉ ngơi."
+    },
+    {
+      "para_id": "c0139p0053",
+      "index": 53,
+      "raw_zh": "第二天早晨八點多便即起床，已經有人開車在酒店前等候，載著他們向著這座城市東南方向而去。",
+      "translated_vi": "Tới hơn tám giờ sáng hôm sau, cô đã lập tức rời giường; bên ngoài khách sạn đã có xe chờ sẵn, đưa hai người rẽ hướng về phía đông nam của thành phố."
+    },
+    {
+      "para_id": "c0139p0054",
+      "index": 54,
+      "raw_zh": "房車在郊外兩個規模不大的水壩附近停了下來，已經有人等在門外，小跑過來打開車門，太監哄慈禧似的，拖著羅琳娜的手將她迎到車下，就很有儀式感。",
+      "translated_vi": "Chiếc xe đỗ lại gần hai con đập ngăn nước quy mô không quá lớn ở vùng ngoại ô; bên ngoài đã có người đứng đợi sẵn, vội vã chạy lon ton tới mở cửa xe, cung kính nâng tay Lorina đỡ cô xuống xe hệt như thái giám nâng khăn sửa túi cho Từ Hi Thái hậu, điệu bộ vô cùng kiểu cách và trang trọng."
+    },
+    {
+      "para_id": "c0139p0055",
+      "index": 55,
+      "raw_zh": "“哦，羅琳娜小姐，見到您真的是太榮幸了，你要找的人就在那裡。”",
+      "translated_vi": "“Ôi, tiểu thư Lorina, được diện kiến ngài quả thực là vinh hạnh tột cùng của tôi! Những người ngài cần tìm đều đang ở đằng kia ạ.”"
+    },
+    {
+      "para_id": "c0139p0056",
+      "index": 56,
+      "raw_zh": "這是個非常帥氣的歐洲小夥子長相，強壯、帥氣、嘴角總是帶著迷人的笑。",
+      "translated_vi": "Đây là một chàng trai trẻ người châu Âu vô cùng khôi ngô tuấn tú, vóc dáng vạm vỡ cường tráng, trên khóe môi luôn thường trực nụ cười mê hoặc lòng người."
+    },
+    {
+      "para_id": "c0139p0057",
+      "index": 57,
+      "raw_zh": "只有雲千峰看到，羅琳娜被這小夥子托著手的時候，後背抖了一下，估計已經難受到無以複加。",
+      "translated_vi": "Duy chỉ có Vân Thiên Phong để ý thấy, khoảnh khắc Lorina được chàng trai này nâng tay, sống lưng cô ta khẽ run lên một cái, hẳn là trong lòng đã thấy buồn nôn khó chịu đến mức không từ nào tả xiết."
+    },
+    {
+      "para_id": "c0139p0058",
+      "index": 58,
+      "raw_zh": "下了車，羅琳娜不漏痕跡，保持優雅的抽回了手，帶著雲千峰來到等在泉水邊的幾個當地人跟前，然後對著雲千峰說道：",
+      "translated_vi": "Bước xuống xe, Lorina bất động thanh sắc, khéo léo giữ vẻ trang nhã rút tay về, dẫn Vân Thiên Phong tiến lại gần mấy người dân bản địa đang đứng chờ bên cạnh dòng suối nước, rồi quay sang nói với anh:"
+    },
+    {
+      "para_id": "c0139p0059",
+      "index": 59,
+      "raw_zh": "“就是他們幾個當初在這裡發現了那兩具屍體。”",
+      "translated_vi": "“Chính mấy người này năm xưa đã phát hiện ra hai cái xác tại nơi đây.”"
+    },
+    {
+      "para_id": "c0139p0060",
+      "index": 60,
+      "raw_zh": "正說著，那幾個人已經看到了雲千峰，當下都是驚得向後退去，嘴裡屋裡哇啦的說著話，但是雲千峰一句也聽不懂。",
+      "translated_vi": "Đang nói dở thì mấy người bản địa kia đã nhìn thấy mặt Vân Thiên Phong, tức thì ai nấy đều kinh hãi lùi giật lùi về phía sau, miệng ú ớ gào thét những câu từ líu ríu, thế nhưng Vân Thiên Phong chẳng thể hiểu nổi một câu nào."
+    },
+    {
+      "para_id": "c0139p0061",
+      "index": 61,
+      "raw_zh": "不過雲千峰能猜到他們呼喊的是什麽，估計就是“見鬼了”一類的話，於是對羅琳娜道：",
+      "translated_vi": "Tuy nhiên Vân Thiên Phong thừa sức đoán ra bọn họ đang la hét điều gì, chắc mẩm cũng đại loại như “Gặp ma rồi” hay gì đó tương tự, bèn nói với Lorina:"
+    },
+    {
+      "para_id": "c0139p0062",
+      "index": 62,
+      "raw_zh": "“跟他們說，我是那人的孿生兄弟。”",
+      "translated_vi": "“Bảo với họ tôi là người anh em sinh đôi của người chết.”"
+    },
+    {
+      "para_id": "c0139p0063",
+      "index": 63,
+      "raw_zh": "羅琳娜流利用阿拉伯語轉述了雲千峰的話，那幾個人才嘗出了口氣，恢復了平靜。",
+      "translated_vi": "Lorina dùng tiếng Ả Rập lưu loát dịch lại lời của Vân Thiên Phong, mấy người kia lúc này mới thở phào nhẹ nhõm một hơi dài, dần lấy lại vẻ bình tĩnh."
+    },
+    {
+      "para_id": "c0139p0064",
+      "index": 64,
+      "raw_zh": "羅琳娜回頭問雲千峰道：",
+      "translated_vi": "Lorina quay đầu hỏi Vân Thiên Phong:"
+    },
+    {
+      "para_id": "c0139p0065",
+      "index": 65,
+      "raw_zh": "“你要問他們什麽？”",
+      "translated_vi": "“Anh muốn hỏi họ điều gì?”"
+    },
+    {
+      "para_id": "c0139p0066",
+      "index": 66,
+      "raw_zh": "雲千峰想了一下，道：",
+      "translated_vi": "Vân Thiên Phong ngẫm nghĩ một chút rồi nói:"
+    },
+    {
+      "para_id": "c0139p0067",
+      "index": 67,
+      "raw_zh": "“問他們在哪發現的我。”",
+      "translated_vi": "“Hỏi xem họ tìm thấy xác tôi ở vị trí chính xác nào.”"
+    },
+    {
+      "para_id": "c0139p0068",
+      "index": 68,
+      "raw_zh": "羅琳娜詢問之後，對雲千峰說道：",
+      "translated_vi": "Sau khi Lorina gặng hỏi, cô quay sang truyền đạt lại cho Vân Thiên Phong:"
+    },
+    {
+      "para_id": "c0139p0069",
+      "index": 69,
+      "raw_zh": "“他們說就是在水壩那裡發現了那兩具屍體，那一年發洪水，兩個石頭水壩都被衝毀，而那兩具屍體就被掩埋在衝垮的石頭下面。",
+      "translated_vi": "“Họ bảo chính là tìm thấy hai cái xác tại con đập đá đằng kia. Năm đó xảy ra một trận lũ lớn, hai con đập bằng đá đều bị nước lũ cuốn sập hoàn toàn, mà hai thi thể thì bị vùi lấp bên dưới đống đá sụp đổ."
+    },
+    {
+      "para_id": "c0139p0070",
+      "index": 70,
+      "raw_zh": "他們是洪水後，負責清理河道的工人，在石頭堆裡找到了屍體，並且上報。幾天后就是我的人來這裡，接收了屍體。”",
+      "translated_vi": "Họ là công nhân chịu trách nhiệm nạo vét dọn dẹp lòng sông sau trận lũ, tình cờ phát hiện ra xác chết trong đống đá vụn rồi báo cáo lên cấp trên. Vài ngày sau đó, người của tôi đã tới đây tiếp nhận thi thể mang đi.”"
+    },
+    {
+      "para_id": "c0139p0071",
+      "index": 71,
+      "raw_zh": "雲千峰點了點頭，略加思索，說道：",
+      "translated_vi": "Vân Thiên Phong gật đầu, thoáng suy nghĩ rồi tiếp tục:"
+    },
+    {
+      "para_id": "c0139p0072",
+      "index": 72,
+      "raw_zh": "“問他們，這水系是在哪流過來的，源頭在哪。”",
+      "translated_vi": "“Hỏi họ xem hệ thống sông ngòi này chảy từ đâu tới, thượng nguồn con nước nằm ở phương nào.”"
+    },
+    {
+      "para_id": "c0139p0073",
+      "index": 73,
+      "raw_zh": "羅琳娜與那幾個人對話了一會兒，告訴雲千峰：",
+      "translated_vi": "Lorina trò chuyện với mấy người kia một lúc rồi quay sang báo cho Vân Thiên Phong:"
+    },
+    {
+      "para_id": "c0139p0074",
+      "index": 74,
+      "raw_zh": "“就在前面不遠處，一公裡左右。”",
+      "translated_vi": "“Ngay phía trước cách đây không xa, chừng một cây số.”"
+    },
+    {
+      "para_id": "c0139p0075",
+      "index": 75,
+      "raw_zh": "雲千峰感受了一下腹內的石眼，沒有任何動靜。",
+      "translated_vi": "Vân Thiên Phong thầm cảm ứng Thạch Nhãn trong bụng, không hề có bất kỳ động tĩnh nào."
+    },
+    {
+      "para_id": "c0139p0076",
+      "index": 76,
+      "raw_zh": "這就證明，這裡距離神跡還有很遠的距離。",
+      "translated_vi": "Điều này chứng tỏ nơi đây cách Thần Tích còn một khoảng cách rất xa."
+    },
+    {
+      "para_id": "c0139p0077",
+      "index": 77,
+      "raw_zh": "他想了想，道：",
+      "translated_vi": "Anh trầm ngâm một lát rồi bảo:"
+    },
+    {
+      "para_id": "c0139p0078",
+      "index": 78,
+      "raw_zh": "“走，去源頭看一眼。”",
+      "translated_vi": "“Đi thôi, tới đầu nguồn xem thử một phen.”"
+    },
+    {
+      "para_id": "c0139p0079",
+      "index": 79,
+      "raw_zh": "羅琳娜在雲千峰臉上看到的全是自信，這讓她很疑惑，一個丟失了這段記憶的人，為何還能如此篤定自己能夠找到當年的路。",
+      "translated_vi": "Lorina nhìn thấy trên gương mặt Vân Thiên Phong toàn là vẻ tự tin kiên định, điều đó khiến cô vô cùng khó hiểu: một kẻ đã bị mất sạch đoạn ký ức năm xưa, cớ sao lại có thể chắc nịch rằng bản thân đủ sức tìm lại con đường cũ chứ?"
+    },
+    {
+      "para_id": "c0139p0080",
+      "index": 80,
+      "raw_zh": "兩輛車，載著他們來到了這河流的源頭。",
+      "translated_vi": "Hai chiếc xe chở bọn họ đi tới cội nguồn của dòng sông này."
+    },
+    {
+      "para_id": "c0139p0081",
+      "index": 81,
+      "raw_zh": "那是一處深潭，水質清澈卻看不到水底。",
+      "translated_vi": "Đó là một đầm nước sâu thăm thẳm, làn nước trong vắt nhưng lại chẳng thể nhìn thấu đáy hồ."
+    },
+    {
+      "para_id": "c0139p0082",
+      "index": 82,
+      "raw_zh": "看著水面上經常冒出來的水泡，可以斷定，這水潭底部有著很多連著地下水道的泉眼。",
+      "translated_vi": "Nhìn những bọt khí thỉnh thoảng lại sủi tăm ùng ục trên mặt nước, có thể khẳng định chắc chắn rằng dưới đáy đầm nước này có rất nhiều mạch suối ngầm thông với hệ thống đường nước ngầm trong lòng đất."
+    },
+    {
+      "para_id": "c0139p0083",
+      "index": 83,
+      "raw_zh": "雲千峰腹內石眼依舊沒有任何動靜，讓他篤定這裡絕不是自己出事的地方。",
+      "translated_vi": "Thạch Nhãn trong bụng Vân Thiên Phong vẫn im lìm không một gợn sóng, khiến anh dám chắc đây tuyệt đối không phải là nơi anh từng gặp nạn năm xưa."
+    },
+    {
+      "para_id": "c0139p0084",
+      "index": 84,
+      "raw_zh": "他很清楚自己被救後，醫生告訴他，他是在沙漠裡被去寺廟朝聖的當地人發現，當時的症狀裡有嚴重脫水這一項，就證明他當時應該是去的沙漠深處。",
+      "translated_vi": "Anh nhớ rất rõ sau khi được cứu sống, bác sĩ từng kể lại rằng anh được những người dân bản địa đi hành hương về đền thờ phát hiện giữa sa mạc, lúc ấy triệu chứng bệnh án có ghi rõ tình trạng mất nước nghiêm trọng, điều đó chứng minh khi ấy anh hẳn là đã tiến sâu vào lòng sa mạc hoang vu."
+    },
+    {
+      "para_id": "c0139p0085",
+      "index": 85,
+      "raw_zh": "雲千峰對羅琳娜，道：",
+      "translated_vi": "Vân Thiên Phong bèn quay sang bảo với Lorina:"
+    },
+    {
+      "para_id": "c0139p0086",
+      "index": 86,
+      "raw_zh": "“問問他們，沙漠距離這裡多遠。”",
+      "translated_vi": "“Hỏi họ xem sa mạc cách chỗ này bao xa.”"
+    },
+    {
+      "para_id": "c0139p0087",
+      "index": 87,
+      "raw_zh": "他對阿國有一定的了解，知道這個國家百分之八十五以上全是沙漠，這樣景色優美的山脈，才是這裡極稀少的存在，所以沙漠距離這裡肯定不會很遠。",
+      "translated_vi": "Anh có hiểu biết nhất định về đất nước Algeria này, biết rằng hơn tám mươi lăm phần trăm diện tích quốc gia này toàn là cát vàng sa mạc, những rặng núi non trùng điệp cảnh sắc hữu tình như thế này mới là chốn vô cùng hiếm hoi, cho nên sa mạc cách nơi đây chắc chắn không thể quá xa."
+    },
+    {
+      "para_id": "c0139p0088",
+      "index": 88,
+      "raw_zh": "羅琳娜訊問後，告知：",
+      "translated_vi": "Sau khi Lorina gặng hỏi, cô quay lại báo:"
+    },
+    {
+      "para_id": "c0139p0089",
+      "index": 89,
+      "raw_zh": "“直線距離五十多公裡，這片山脈南側的盡頭便是沙漠。”",
+      "translated_vi": "“Đường chim bay cách hơn năm mươi cây số, điểm tận cùng ở mạn nam rặng núi này chính là sa mạc.”"
+    },
+    {
+      "para_id": "c0139p0090",
+      "index": 90,
+      "raw_zh": "雲千峰看了一下眼前這條河流的方向，正是東南流向西北，也就是說兩具屍體很可能是經由聯通沙漠的地下水道衝到這裡。",
+      "translated_vi": "Vân Thiên Phong quan sát hướng chảy của dòng sông trước mắt, đúng là từ đông nam đổ về tây bắc, tức là hai cái xác rất có thể đã theo đường nước ngầm thông với sa mạc mà trôi dạt tới tận nơi này."
+    },
+    {
+      "para_id": "c0139p0091",
+      "index": 91,
+      "raw_zh": "想到這，他指著遠處一座高峰問道：",
+      "translated_vi": "Nghĩ tới đây, anh chỉ tay về phía một ngọn núi cao chót vót đằng xa, cất tiếng hỏi:"
+    },
+    {
+      "para_id": "c0139p0092",
+      "index": 92,
+      "raw_zh": "“那是不是朱爾朱拉山？”",
+      "translated_vi": "“Đằng kia có phải là dãy núi Djurdjura không?”"
+    },
+    {
+      "para_id": "c0139p0093",
+      "index": 93,
+      "raw_zh": "羅琳娜得到的答案是肯定的，那一片山脈，正是朱爾朱拉山。",
+      "translated_vi": "Câu trả lời Lorina nhận được từ người bản xứ là hoàn toàn chính xác, dải núi non trập trùng phía xa kia quả thực chính là dãy núi Djurdjura."
+    },
+    {
+      "para_id": "c0139p0094",
+      "index": 94,
+      "raw_zh": "雲千峰笑道：",
+      "translated_vi": "Vân Thiên Phong khẽ mỉm cười nói:"
+    },
+    {
+      "para_id": "c0139p0095",
+      "index": 95,
+      "raw_zh": "“我知道該去哪了，叫人準備超過千米長度的吊索、手搖式發電機、礦工頭盔、充電式礦工燈，夠一個月吃的壓縮餅乾、潛水設備、保暖防水的一體帳篷.咱們明天正式出發。”",
+      "translated_vi": "“Tôi biết phải đi đâu rồi, mau bảo người chuẩn bị dây cáp tời dài hơn ngàn mét, máy phát điện quay tay, mũ bảo hộ thợ mỏ, đèn pin sạc gắn mũ, lương khô đủ ăn trong một tháng, thiết bị lặn chuyên dụng, lều bạt dã ngoại liền khối giữ ấm chống thấm nước... Ngày mai chúng ta sẽ chính thức lên đường.”"
+    },
+    {
+      "para_id": "c0139p0096",
+      "index": 96,
+      "raw_zh": "早起趕工又來一章，為我加更點讚！！！趕這一章，主要是告訴大家，訂閱了兩個138章的，進群賠付紅包1元，多了我賠不起哈，就是意思一下。正好早晚要建群，那就趁這個機會弄好，都是機緣啊！！！歡迎大家的到來！！！神奇號碼299782797",
+      "translated_vi": "Sáng sớm thức dậy gấp rút hoàn thành thêm một chương nữa, hãy bấm like cổ vũ cho tôi vì đã bạo chương nhé!!! Viết vội chương này chủ yếu là muốn thông báo với mọi người, những ai lỡ đăng ký đọc trùng hai lần chương 138 thì vào nhóm nhận lì xì bồi thường 1 tệ nha, nhiều hơn thì tôi đền không nổi đâu, chỉ là chút lòng thành thôi. Nhân tiện đằng nào sớm muộn cũng phải lập nhóm giao lưu, vậy thì nhân cơ hội này hoàn thiện luôn, âu cũng là cái duyên kỳ ngộ cả!!! Nhiệt liệt hoan nghênh mọi người cùng tham gia!!! Dãy số thần kỳ: 299782797"
+    }
+  ]
+}

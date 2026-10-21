@@ -1,0 +1,108 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0323|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@IDIOM_HINTS
+I1|不以為意|chẳng chút bận tâm / không để trong lòng / bỏ ngoài tai|FORBID:không cho là ý
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §67):
+§1 323.第322章 阿甘正傳：逃離蘋果島（4）
+§2 第322章 阿甘正傳：逃離蘋果島（4）
+§3 門外三個人。
+§4 [Ø=云千峰]一個猥瑣的矮胖子，一個瘦高男人扛著攝像機，還有一個葫蘆型的窈窕女人。
+§5 [Ø=云千峰]熟悉的三井，熟悉的問候語，語調陰陽頓挫都沒有絲毫變化。
+§6 [Ø=云千峰]“早上好，阿甘君！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§7 [Ø=云千峰]說完這句話後，這胖子一如昨天，“吸氣，呼氣， [||] 吸氣”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]，然後才站直了，挺起了大肚子，臉上堆著昨日一樣的笑，看著阿甘繼續道：
+§8 [Ø=云千峰]“真是初秋的好天氣啊，很幸運在這麽好的日子裡， [||] 成為阿甘君的短電影導演和編劇，我叫三井，請多指教！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§9 標點符號都沒差一下。
+§10 [Ø=云千峰]就好像從無昨日，今日才是初見，他們從不曾相識。
+§11 [Ø=云千峰]阿甘其實沒發現的是，他自己也和昨天一樣，要靠手扶門框，才能保持不讓自己暈厥過去。
+§12 [Ø=云千峰]他看著眼前三個人，看著熟悉的場景，開始了找不同的遊戲。
+§13 [Ø=云千峰]“髮型一樣，衣服一樣，表情一樣，語氣一樣.慢著，有一處是不一樣的，昨天是晴天， [||] 今天是雨天，他們淋了雨，而且一定是沒打傘的。也就是說，這並不是重複的場景，因為有不同之處，那這到底是怎麽回事？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§14 [Ø=云千峰]瀨亞美施禮說話的時候，阿甘根本沒理會，而是倉惶的跑回屋內，拿起自己的手機。
+§15 [Ø=云千峰]“佛祖啊，這到底是怎麽回事？時間還是我來到蘋果島東城的第二天上午，難道說我其實現在才醒過來？之前都是做夢，夢中夢？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§16 [Ø=云千峰]三井等三人站在門外，沒有因為阿甘的無禮而有任何的不悅情緒，依舊都是笑容滿面，禮貌有加。
+§17 [Ø=云千峰]阿甘看著手機上的日期，整個人已經徹底迷茫。
+§18 “會不會現在依舊在夢裡？只不過是夢境的另一層？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 阿甘決定冒險。
+§20 [Ø=云千峰]他拿出背包裡的勞力士女表，那屬於瀨亞美的腕表。
+§21 [Ø=云千峰]然後來到門口處，看著外面三人，尤其是對著瀨亞美，擺弄著手裡的女士腕表。
+§22 [Ø=云千峰]瀨亞美很明顯看到了手表，但是沒有阿甘認為該有的表情，而是依舊微笑的看著阿甘，似乎完全對那手表沒有印象。
+§23 “見鬼了？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 [Ø=云千峰]阿甘發現，自己已經完全對自己經歷的一切失去了判斷力。
+§25 [Ø=云千峰]他實在沒有心情進行有心理陰影的電影拍攝，於是直接道：
+§26 [Ø=云千峰]“你們回去吧，我今天不想拍攝電影，我也不會要回之前的定金。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 說完擺了一個請離開的手勢。
+§28 [Ø=云千峰]然而沒想到的是，三井又是彎腰行禮，道：
+§29 [Ø=云千峰]“那怎麽行？已經簽好的合約，怎麽能改變？請阿甘君務必完成我們的合約， [||] 拍攝好這部電影，瀨亞美小姐一定會很溫柔很聽話的，讓您流連忘返”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§30 [Ø=云千峰]阿甘與三井掰扯了半個小時，三井三人堅決不離開，似乎只要不完成拍攝，就絕不會離開。
+§31 [Ø=云千峰]阿甘服氣了，又吃了兩片西地那非，完成了拍攝，就為了清淨。
+§32 [Ø=云千峰]陰影不陰影的，阿甘已經無所謂了，腦子裡全是瀨亞美提頭來見的畫面，但是他再一次忍了過去。
+§33 [Ø=云千峰]送走了瀨亞美三人，阿甘終於能夠開始思考。
+§34 [Ø=云千峰]他來到窗邊，看著窗外的景色，一如昨日。
+§35 [Ø=云千峰]車水馬龍，人流如織。
+§36 大都市都是這個樣子。
+§37 但正常的大都市絕不會是現在這個樣子。
+§38 [Ø=云千峰]因為今天是雨天，而且雨勢並不算小，但是大街上卻沒有幾個人打傘。
+§39 [Ø=云千峰]他們在雨中不緊不慢，一如在晴天一般，彼此寒暄問好，禮貌有加。
+§40 哪怕褲腿都在往外淌水。
+§41 [Ø=云千峰]想到剛才的瀨亞美，手腳也是在雨中凍的冰涼，頭髮和衣服完全打濕了， [||] 但卻絲毫不以為意[I1]，若不是阿甘強烈要求瀨亞美洗一洗，恐怕就會直接那麽進行拍攝。
+§42 [Ø=云千峰]“不正常的城市，植物是新移栽過來，大部分建築都經過粉刷修飾做舊，花園旁的青石上有著海腥味和鹹味，證明這個城市確實受到了海水的浸泡，但這都不是最可怕的， [||] 最可怕的是這裡的人也不正常，沒有人會在這樣的雨天不緊不慢的散步，領著孩子歡聲笑語，更不會站在雨中聊天半個小時，還時而捧腹大笑，這不正常！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 [Ø=云千峰]“不，這絕不可能是現實的世界， [||] 我一定還在夢裡，一定是，只是我該怎麽醒過來？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 [Ø=云千峰]阿甘看過盜夢空間，而那電影裡提到的醒過來的方式，他全都不敢嘗試。
+§45 比日說跳樓。
+§46 [Ø=云千峰]畢竟阿甘不確定這是不是夢裡，萬一不是，跳下去就蟈蟈了。
+§47 [Ø=云千峰]“試試今天能不能去到機場，對，試試！今天畢竟和昨天不一樣了， [||] 昨天是晴天，而今天下大雨，證明這無論是不是現實，但畢竟在改變著。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§48 [Ø=云千峰]阿甘打起精神，收拾好背包，快速下樓，攔下一輛出租車。
+§49 [Ø=云千峰]然而，依舊是昨天一樣的結局。
+§50 [Ø=云千峰]每個路口都有人堵著，無論如何也無法走過去。
+§51 [Ø=云千峰]阿甘無奈的重新回到酒店房間，看著手機屏幕上顯示的時間，沉思著。
+§52 [Ø=云千峰]“手機有了信號，但卻無法撥打到國際電話， [||] 只能打通蘋果島內的電話，那個中介和三井等人都能正常通話，據說是網絡故障。
+§53 [Ø=云千峰]因特網也只能瀏覽蘋果島內網站，無法鏈接外部，反向翻牆都不行，據說也是故障。
+§54 [Ø=云千峰]我最開始經歷的，是蘋果島被大海淹沒， [||] 上面布滿了黑雲，所有電路和網絡全都無法使用，讓這裡變成了與世隔絕之地。
+§55 [Ø=云千峰]現在，太陽出來了， [||] 海水不見了，看起來一切正常，但這裡依舊是與世隔絕的孤島。
+§56 [Ø=云千峰]如果這是夢境，那麽一切都好解釋。
+§57 [Ø=云千峰]可萬一不是夢境，這一切意味著什麽？這裡一定發生了極為詭異的事情，才會有人想方設法的讓這裡與世隔絕，發不出任何聲音。
+§58 [Ø=云千峰]而這些雨中的人，就好像拿了片酬演戲的劣質演員， [||] 哪怕在雨中，也隻演劇本上的內容，如此才有現在這般假象。
+§59 [Ø=云千峰]而手機上的日期時間，應該是某種技術手段造成的，控制我的手機時間一直回到我來到蘋果島的第二天上午，可是這樣的意義在哪？沒有任何意義啊！”
+§60 [Ø=云千峰]任何事情，都必然有一個目的，而阿甘沒有找到改變手機時間這件事的任何意義。
+§61 [Ø=云千峰]“不對，如果現在是真實，那麽改變時間的意義是有的，那就是讓我懷疑我自己！那麽， [||] 這周圍的一切布置，這麽大的陣仗，就是給我布置的！可這有什麽意義？我身上有什麽值得別人為我做這樣的布置？這麽大的陣仗，可不是錢能辦到的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§62 [Ø=云千峰]“現在，就假設這一切不是我那混亂的夢境，而是真實的！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§63 [Ø=云千峰]“不管對方的目的是什麽，很確定我被困在以酒店為中心的一個范圍。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§64 [Ø=云千峰]“東城這麽大，而且只是困在這樣一個並不算寬廣的范圍，那麽只有一個可能！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§65 [Ø=云千峰]“在這個城市裡，還有和我一樣遭遇的人！否則，他們完全可以讓我在整個城市閑逛，離不開蘋果島就好。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§66 阿甘被自己的推測感動的要哭了。
+§67 [Ø=云千峰]不管幹啥，有個墊背的，總是不一樣的。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 67 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§67. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

@@ -1,0 +1,518 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 272,
+  "title": "Chương 272: Bức tượng đá kỳ quái",
+  "total_paragraphs": 84,
+  "translated_paragraphs": 84,
+  "source_hash": "d2a8280749a301da1c40b4a0b712478fc4476c57f378dcfa77a985b2f6c118df",
+  "model_used": "gemini-3.8-flash-high",
+  "elapsed_seconds": 147.72,
+  "bilingual_alignment": [
+    {
+      "para_id": "c0272p0001",
+      "index": 1,
+      "raw_zh": "272.第272章 古怪的石像",
+      "translated_vi": "Chương 272: Bức tượng đá kỳ quái"
+    },
+    {
+      "para_id": "c0272p0002",
+      "index": 2,
+      "raw_zh": "第272章 古怪的石像",
+      "translated_vi": "Chương 272: Bức tượng đá kỳ quái"
+    },
+    {
+      "para_id": "c0272p0003",
+      "index": 3,
+      "raw_zh": "一座十幾米長的人形石頭雕像，雙腳尖接觸岸邊的石灘，整體呈15度角左右，橫亙在湍流的河道上。",
+      "translated_vi": "Một tòa tượng đá hình người dài hơn mười mét, hai mũi chân chỉ vừa chạm vào bãi đá ven bờ, toàn thân nghiêng một góc khoảng mười lăm độ, nằm vắt ngang trên khúc sông cuộn sóng dữ dội."
+    },
+    {
+      "para_id": "c0272p0004",
+      "index": 4,
+      "raw_zh": "沒有吊繩，沒有基座，沒有支撐體。",
+      "translated_vi": "Không dây cáp, không bệ đỡ, chẳng có bất kỳ điểm tựa nào."
+    },
+    {
+      "para_id": "c0272p0005",
+      "index": 5,
+      "raw_zh": "按理說石像應該直接倒在河道內，但是它沒有，而是穩穩當當的橫在那，好似在跳一個高難度的舞蹈動作。",
+      "translated_vi": "Theo lẽ thường, bức tượng đáng lẽ phải đổ sụp ngay xuống lòng sông, thế nhưng nó không hề rơi xuống mà lại nằm ngang vững như bàn thạch ở đó, tựa như đang thực hiện một động tác vũ đạo với độ khó cực cao."
+    },
+    {
+      "para_id": "c0272p0006",
+      "index": 6,
+      "raw_zh": "這是一個完全無法平衡的姿態，也就是白狐說的，違背了物理規則。",
+      "translated_vi": "Đó là một tư thế hoàn toàn không thể giữ thăng bằng, đúng như lời Bạch Hồ đã nói — nó đã đi ngược lại các quy luật vật lý."
+    },
+    {
+      "para_id": "c0272p0007",
+      "index": 7,
+      "raw_zh": "更讓他們驚訝且慶幸的是，這石像後面，就是一個高不知幾許的瀑布。",
+      "translated_vi": "Điều càng khiến họ kinh ngạc lẫn may mắn là, ngay phía sau bức tượng đá kia lại chính là một con thác sâu chẳng biết cao bao nhiêu."
+    },
+    {
+      "para_id": "c0272p0008",
+      "index": 8,
+      "raw_zh": "也就是說，如果沒有這石像阻攔蘆葦島，他們恐怕已經墜下了萬丈深淵。",
+      "translated_vi": "Nói cách khác, nếu không có bức tượng đá này cản chiếc đảo lau sậy lại, e rằng họ đã rơi thẳng xuống vực sâu một vạn trượng."
+    },
+    {
+      "para_id": "c0272p0009",
+      "index": 9,
+      "raw_zh": "卓瑪第三眼的俯瞰視角，從未看到這個地方，所以在她眼中之前看到的，是連續不斷的河道，自然也不可能發現這個瀑布。",
+      "translated_vi": "Góc nhìn trên cao từ con mắt thứ ba của Trác Mã chưa từng bao quát tới nơi này, cho nên những gì cô nhìn thấy trước đó chỉ là dòng sông chảy liền mạch không đứt đoạn, tự nhiên cũng chẳng thể phát hiện ra con thác này."
+    },
+    {
+      "para_id": "c0272p0010",
+      "index": 10,
+      "raw_zh": "雲千峰沉默的看著那看不見底的瀑布，思討道：",
+      "translated_vi": "Vân Thiên Phong trầm mặc nhìn con thác sâu không thấy đáy, ngẫm nghĩ một lát rồi bảo:"
+    },
+    {
+      "para_id": "c0272p0011",
+      "index": 11,
+      "raw_zh": "“只能等天亮再說了。”",
+      "translated_vi": "“Chỉ đành đợi trời sáng rồi tính tiếp.”"
+    },
+    {
+      "para_id": "c0272p0012",
+      "index": 12,
+      "raw_zh": "看時間，距離天亮也就剩下四個小時左右，浪費這點時間，總比重新再建造一個筏子節省時間。",
+      "translated_vi": "Nhìn lại thời gian, từ giờ đến lúc trời sáng cũng chỉ còn khoảng bốn tiếng đồng hồ, lãng phí chút thời gian này dẫu sao vẫn tiết kiệm hơn việc phải làm lại một chiếc bè mới."
+    },
+    {
+      "para_id": "c0272p0013",
+      "index": 13,
+      "raw_zh": "只不過，三人不敢在蘆葦島上等待，鬼知道那石像會不會又突然一下符合物理規則，“噗通”一下掉進河裡，他們就飛了。",
+      "translated_vi": "Có điều, cả ba người không dám nán lại trên đảo lau sậy chờ đợi, quỷ mới biết bức tượng đá kia liệu có đột ngột tuân theo quy luật vật lý trở lại hay không, chỉ cần “tõm” một tiếng rơi xuống sông thì bọn họ toi mạng chắc."
+    },
+    {
+      "para_id": "c0272p0014",
+      "index": 14,
+      "raw_zh": "好在距離四十九天之期還有足足四十天的時間，雲千峰倒是還沉得住氣。",
+      "translated_vi": "May là tính đến kỳ hạn bốn mươi chín ngày vẫn còn tròn bốn mươi ngày nữa, Vân Thiên Phong vẫn còn giữ được bình tĩnh."
+    },
+    {
+      "para_id": "c0272p0015",
+      "index": 15,
+      "raw_zh": "所以說，計劃永遠沒有變化快，在時間上打提前量，絕對是人類最聰明的行為。",
+      "translated_vi": "Thế mới nói, kế hoạch vĩnh viễn chẳng đuổi kịp biến hóa, trừ hao thời gian từ trước tuyệt đối là hành động sáng suốt nhất của con người."
+    },
+    {
+      "para_id": "c0272p0016",
+      "index": 16,
+      "raw_zh": "在水岸邊的石灘上尋了一塊高一米余，面積七八平米的石頭，很平整。",
+      "translated_vi": "Họ tìm được trên bãi đá ven bờ một tảng đá cao hơn một mét, diện tích chừng bảy tám mét vuông, bề mặt rất phẳng phiu."
+    },
+    {
+      "para_id": "c0272p0017",
+      "index": 17,
+      "raw_zh": "雲千峰把篝火移到石頭上，三個人爬了上去，在上面等待著天亮的到來。",
+      "translated_vi": "Vân Thiên Phong dời đống lửa lên mặt đá, cả ba cùng trèo lên, ngồi trên đó chờ đợi bình minh ló dạng."
+    },
+    {
+      "para_id": "c0272p0018",
+      "index": 18,
+      "raw_zh": "三個人都沒有睡意，就圍著篝火閑聊。",
+      "translated_vi": "Cả ba người đều chẳng hề buồn ngủ, bèn quây quần quanh đống lửa tán gẫu."
+    },
+    {
+      "para_id": "c0272p0019",
+      "index": 19,
+      "raw_zh": "白狐對那個違背物理規則的石像很是好奇：",
+      "translated_vi": "Bạch Hồ vô cùng hiếu kỳ về bức tượng đá đi ngược lại quy luật vật lý kia:"
+    },
+    {
+      "para_id": "c0272p0020",
+      "index": 20,
+      "raw_zh": "“它怎麽可能就那樣斜立著？事實證明重力是存在的，否則我們就該飄起來，那石像我剛剛也看了，似乎就是栽倒的過程之中，突然停頓了下來。",
+      "translated_vi": "“Làm sao nó có thể đứng nghiêng nghiêng như thế được nhỉ? Thực tế chứng minh trọng lực vẫn tồn tại, nếu không thì chúng ta đã lơ lửng trên không rồi. Bức tượng đá đó lúc nãy tôi cũng nhìn qua, dường như đúng vào khoảnh khắc đang đổ nhào xuống thì đột ngột dừng sững lại."
+    },
+    {
+      "para_id": "c0272p0021",
+      "index": 21,
+      "raw_zh": "因為栽倒的過程裡有些歪，所以兩個腳尖裡，只有一個腳尖與地面有接觸，而我把那腳尖下接觸的石頭都挪開，確定那石像腳尖下絕對沒有連著其他東西，你們說這怎麽可能？”",
+      "translated_vi": "Vì lúc ngã xuống có phần hơi lệch, nên trong hai mũi chân chỉ có duy nhất một mũi chân chạm vào mặt đất. Mà tôi vừa dọn sạch đám đá bên dưới mũi chân ấy ra, dám chắc dưới mũi chân bức tượng tuyệt đối không nối liền với thứ gì khác. Mọi người bảo xem, chuyện này làm sao có thể xảy ra được?”"
+    },
+    {
+      "para_id": "c0272p0022",
+      "index": 22,
+      "raw_zh": "雲千峰剛才去移動火種，還真不知道白狐去做了這些，聽完這話，當下驚訝道：",
+      "translated_vi": "Vân Thiên Phong lúc nãy mải dời mồi lửa nên quả thực không hề biết Bạch Hồ đã làm những việc đó, nghe xong liền ngạc nhiên hỏi:"
+    },
+    {
+      "para_id": "c0272p0023",
+      "index": 23,
+      "raw_zh": "“你的意思是說，那石像現在懸空了？”",
+      "translated_vi": "“Ý cô là, bức tượng đá đó hiện giờ đang lơ lửng giữa không trung?”"
+    },
+    {
+      "para_id": "c0272p0024",
+      "index": 24,
+      "raw_zh": "唯一一個腳尖的接觸點下，被白狐掏空了，那麽石像肯定就是漂浮懸空的了。",
+      "translated_vi": "Điểm tiếp xúc duy nhất dưới mũi chân đã bị Bạch Hồ khoét rỗng, vậy thì bức tượng đá chắc chắn là đang trôi nổi lơ lửng rồi."
+    },
+    {
+      "para_id": "c0272p0025",
+      "index": 25,
+      "raw_zh": "白狐點頭，道：",
+      "translated_vi": "Bạch Hồ gật đầu bảo:"
+    },
+    {
+      "para_id": "c0272p0026",
+      "index": 26,
+      "raw_zh": "“對啊！而且我保證，那就是石像，很沉重，因為我沒推動。”",
+      "translated_vi": "“Đúng thế! Hơn nữa tôi cam đoan đó là tượng đá thật, rất nặng, vì tôi đẩy không suy suyển chút nào.”"
+    },
+    {
+      "para_id": "c0272p0027",
+      "index": 27,
+      "raw_zh": "一個巨大的石頭，漂浮了，這不僅僅是違背物理規則了，這特麽簡直就是做夢。",
+      "translated_vi": "Một khối đá khổng lồ lại lơ lửng giữa không trung, đây không chỉ đơn thuần là làm trái quy luật vật lý nữa, mà mẹ kiếp căn bản là đang nằm mơ."
+    },
+    {
+      "para_id": "c0272p0028",
+      "index": 28,
+      "raw_zh": "所以雲千峰驗證了這件事。",
+      "translated_vi": "Thế là Vân Thiên Phong liền ra tay kiểm chứng điều này."
+    },
+    {
+      "para_id": "c0272p0029",
+      "index": 29,
+      "raw_zh": "卓瑪捂著屁股尖叫了一聲，怒目掐自己的雲千峰。",
+      "translated_vi": "Trác Mã ôm mông thét toáng lên một tiếng, giận dữ trừng mắt nhìn Vân Thiên Phong — kẻ vừa mới véo mình."
+    },
+    {
+      "para_id": "c0272p0030",
+      "index": 30,
+      "raw_zh": "後者顰眉嘟囔道：",
+      "translated_vi": "Kẻ gây họa khẽ nhíu mày làu bàu:"
+    },
+    {
+      "para_id": "c0272p0031",
+      "index": 31,
+      "raw_zh": "“不是做夢啊，還知道疼呢！”",
+      "translated_vi": "“Không phải nằm mơ thật, vẫn biết đau này!”"
+    },
+    {
+      "para_id": "c0272p0032",
+      "index": 32,
+      "raw_zh": "白狐也對卓瑪憤怒的眼神不理不問，同樣顰眉道：",
+      "translated_vi": "Bạch Hồ cũng chẳng thèm đoái hoài tới ánh mắt tóe lửa của Trác Mã, cũng nhíu mày nói:"
+    },
+    {
+      "para_id": "c0272p0033",
+      "index": 33,
+      "raw_zh": "“看來，真的不是做夢，那會是什麽原因呢？”",
+      "translated_vi": "“Xem ra đúng là không phải mơ rồi, vậy thì rốt cuộc là vì nguyên nhân gì chứ?”"
+    },
+    {
+      "para_id": "c0272p0034",
+      "index": 34,
+      "raw_zh": "卓瑪就好像哭鬧的小孩子，發現大人都不理她，怒氣莫名的就消了，加入了聊天之中。",
+      "translated_vi": "Trác Mã y hệt đứa trẻ con làm nũng khóc nhè, phát hiện người lớn chẳng ai thèm để ý tới mình, cơn giận chẳng hiểu sao bỗng chốc tan biến, liền nhập bọn trò chuyện."
+    },
+    {
+      "para_id": "c0272p0035",
+      "index": 35,
+      "raw_zh": "卓瑪道：",
+      "translated_vi": "Trác Mã cất lời:"
+    },
+    {
+      "para_id": "c0272p0036",
+      "index": 36,
+      "raw_zh": "“格比格法師曾和我說過一個很神奇的事情，或許能解釋這個石像以這種情況存在的原因。”",
+      "translated_vi": "“Pháp sư Cách Bỉ Cách từng kể với tôi một chuyện vô cùng kỳ lạ, có lẽ có thể giải thích được lý do vì sao bức tượng đá này lại tồn tại trong tình trạng như thế.”"
+    },
+    {
+      "para_id": "c0272p0037",
+      "index": 37,
+      "raw_zh": "白狐忙道：",
+      "translated_vi": "Bạch Hồ vội giục:"
+    },
+    {
+      "para_id": "c0272p0038",
+      "index": 38,
+      "raw_zh": "“快說說。”",
+      "translated_vi": "“Mau nói thử xem nào.”"
+    },
+    {
+      "para_id": "c0272p0039",
+      "index": 39,
+      "raw_zh": "卓瑪道：",
+      "translated_vi": "Trác Mã bảo:"
+    },
+    {
+      "para_id": "c0272p0040",
+      "index": 40,
+      "raw_zh": "“那得讓我掐一下雲千峰。”",
+      "translated_vi": "“Thế thì phải để tôi véo Vân Thiên Phong một cái đã.”"
+    },
+    {
+      "para_id": "c0272p0041",
+      "index": 41,
+      "raw_zh": "白狐點頭，道：",
+      "translated_vi": "Bạch Hồ gật đầu bảo:"
+    },
+    {
+      "para_id": "c0272p0042",
+      "index": 42,
+      "raw_zh": "“這我是同意的。”",
+      "translated_vi": "“Cái này thì tôi hoàn toàn tán thành.”"
+    },
+    {
+      "para_id": "c0272p0043",
+      "index": 43,
+      "raw_zh": "“嗷嗚！”",
+      "translated_vi": "“Oái!”"
+    },
+    {
+      "para_id": "c0272p0044",
+      "index": 44,
+      "raw_zh": "雲千峰一聲慘叫，捂著左屁股蛋，咬牙道：",
+      "translated_vi": "Vân Thiên Phong hét thảm một tiếng, ôm lấy bên mông trái, nghiến răng nói:"
+    },
+    {
+      "para_id": "c0272p0045",
+      "index": 45,
+      "raw_zh": "“卓瑪，我不許你說，除非白狐讓我掐一下！”",
+      "translated_vi": "“Trác Mã, tôi cấm cô nói đấy, trừ phi Bạch Hồ chịu để tôi véo lại một cái!”"
+    },
+    {
+      "para_id": "c0272p0046",
+      "index": 46,
+      "raw_zh": "卓瑪點頭道：",
+      "translated_vi": "Trác Mã gật đầu bảo:"
+    },
+    {
+      "para_id": "c0272p0047",
+      "index": 47,
+      "raw_zh": "“這我是同意的！”",
+      "translated_vi": "“Cái này thì tôi hoàn toàn tán thành!”"
+    },
+    {
+      "para_id": "c0272p0048",
+      "index": 48,
+      "raw_zh": "“啊！！！”",
+      "translated_vi": "“Á á á!!!”"
+    },
+    {
+      "para_id": "c0272p0049",
+      "index": 49,
+      "raw_zh": "三個人捂著屁股，卓瑪才繼續道：",
+      "translated_vi": "Cả ba người cùng ôm mông, lúc này Trác Mã mới tiếp tục nói:"
+    },
+    {
+      "para_id": "c0272p0050",
+      "index": 50,
+      "raw_zh": "“在我們那裡，千百年來，一直流傳著一個傳說，就是能夠利用聲音移動甚至懸浮巨石。",
+      "translated_vi": "“Ở chỗ chúng tôi, hàng ngàn năm qua luôn lưu truyền một truyền thuyết, rằng con người có thể lợi dụng âm thanh để dịch chuyển, thậm chí nâng bổng cả tảng cự thạch lên không trung."
+    },
+    {
+      "para_id": "c0272p0051",
+      "index": 51,
+      "raw_zh": "我沒見過，但是格比格法師說他親眼見過。",
+      "translated_vi": "Tôi chưa từng được thấy, nhưng Pháp sư Cách Bỉ Cách bảo ông ấy đã tận mắt chứng kiến."
+    },
+    {
+      "para_id": "c0272p0052",
+      "index": 52,
+      "raw_zh": "那種懸浮巨石的儀式，需要十三個巨大的鐵皮鼓，六個長度超過三米的號角。",
+      "translated_vi": "Nghi thức nâng bổng cự thạch ấy cần tới mười ba chiếc trống bọc sắt khổng lồ, cùng sáu chiếc kèn dài hơn ba mét."
+    },
+    {
+      "para_id": "c0272p0053",
+      "index": 53,
+      "raw_zh": "將這些法器帶到要移動的巨石旁邊，呈弧形排列，對著巨石。",
+      "translated_vi": "Người ta mang những pháp khí này đến bên cạnh tảng cự thạch cần di dời, xếp thành hình vòng cung hướng thẳng về phía tảng đá."
+    },
+    {
+      "para_id": "c0272p0054",
+      "index": 54,
+      "raw_zh": "還需要數百僧侶站在這些法器之後吟唱祝禱。",
+      "translated_vi": "Phía sau những pháp khí ấy, còn cần hàng trăm tăng lữ đứng thành hàng tụng niệm chúc nguyện."
+    },
+    {
+      "para_id": "c0272p0055",
+      "index": 55,
+      "raw_zh": "大小不一的鐵皮鼓依次敲動，會有人在巨石旁用手貼著巨石感悟，當感覺到石頭震動的時候，就定下了核心鼓，所有的樂器都要來應和這核心鼓的頻率。",
+      "translated_vi": "Những chiếc trống bọc sắt lớn nhỏ khác nhau lần lượt được gõ vang, sẽ có người áp sát tay vào tảng đá để cảm ứng. Khi cảm nhận được tảng đá bắt đầu rung động, họ sẽ xác định chiếc trống chủ chốt, từ đó tất cả nhạc cụ đều phải hòa tấu theo đúng tần số của chiếc trống này."
+    },
+    {
+      "para_id": "c0272p0056",
+      "index": 56,
+      "raw_zh": "同時僧侶也要吟唱屬於這個鼓的祝禱詞。",
+      "translated_vi": "Đồng thời, các tăng lữ cũng phải tụng những bài nguyện chú dành riêng cho chiếc trống ấy."
+    },
+    {
+      "para_id": "c0272p0057",
+      "index": 57,
+      "raw_zh": "很快，那巨大的石頭就會自己懸浮起來，僧侶們會利用旋律和其它的鼓聲移動懸浮的巨石，到達他們希望巨石到達的位置。",
+      "translated_vi": "Rất nhanh sau đó, khối cự thạch đồ sộ sẽ tự động lơ lửng bay lên. Các tăng lữ sẽ dùng giai điệu cùng những tiếng trống khác để dẫn dắt tảng đá bay tới vị trí mà họ mong muốn."
+    },
+    {
+      "para_id": "c0272p0058",
+      "index": 58,
+      "raw_zh": "所以，我猜測這周圍的山林，可能有持續的風聲，而這個風聲，恰好可以懸浮那巨石。”",
+      "translated_vi": "Cho nên, tôi đồ rằng núi rừng quanh đây có luồng gió thổi liên hồi, mà chính thanh âm của tiếng gió này đã tình cờ nâng tảng cự thạch kia lơ lửng.”"
+    },
+    {
+      "para_id": "c0272p0059",
+      "index": 59,
+      "raw_zh": "用聲波控制巨石懸浮移動，這不僅僅是雪區的傳說，更是在全世界的古老文明裡都有的傳說。",
+      "translated_vi": "Dùng sóng âm để khống chế cự thạch lơ lửng và dịch chuyển không chỉ là huyền thoại nơi xứ Tuyết, mà còn xuất hiện trong các nền văn minh cổ xưa trên khắp thế giới."
+    },
+    {
+      "para_id": "c0272p0060",
+      "index": 60,
+      "raw_zh": "甚至有傳說，古埃及金字塔那些數噸重的巨石，就是利用這種聲波技術羅列上去。",
+      "translated_vi": "Thậm chí từng có truyền thuyết cho rằng, những khối cự thạch nặng hàng tấn tại các kim tự tháp Ai Cập cổ đại cũng được xếp đặt ngay ngắn nhờ vào kỹ thuật sóng âm này."
+    },
+    {
+      "para_id": "c0272p0061",
+      "index": 61,
+      "raw_zh": "為了驗證這個說法，Y國布裡斯托大學的研究人員，開發了一種由多個聲波不同的揚聲器組成的設備，成功的使小物體隨著它們產生的聲音懸浮起來。",
+      "translated_vi": "Để kiểm chứng giả thuyết đó, các nhà nghiên cứu thuộc Đại học Bristol của nước Anh từng chế tạo một thiết bị gồm nhiều loa phát sóng âm khác nhau, thành công làm cho các vật thể nhỏ lơ lửng theo thanh âm mà chúng tạo ra."
+    },
+    {
+      "para_id": "c0272p0062",
+      "index": 62,
+      "raw_zh": "M國的阿貢G家實驗室也成功地利用聲波設備，使水滴穩定的懸浮起來。",
+      "translated_vi": "Phòng thí nghiệm Quốc gia Argonne của Mỹ cũng từng ứng dụng thành công thiết bị sóng âm để giữ cho những giọt nước lơ lửng ổn định."
+    },
+    {
+      "para_id": "c0272p0063",
+      "index": 63,
+      "raw_zh": "這一切都證明，聲波這種人類最早發現的宇宙的規律，的確有著神奇的力量，絕不僅僅是移動物體，甚至還能治病。",
+      "translated_vi": "Tất cả những điều đó đều chứng minh rằng, sóng âm — quy luật vũ trụ mà loài người phát hiện sớm nhất — thực sự sở hữu sức mạnh thần kỳ, tuyệt đối không chỉ dừng lại ở việc dịch chuyển vật thể, mà thậm chí còn có thể trị bệnh."
+    },
+    {
+      "para_id": "c0272p0064",
+      "index": 64,
+      "raw_zh": "比如華夏的祝由術，最早就是聲波的技術，甚至五音五律，都是在祝由術治病的基礎上產生的。",
+      "translated_vi": "Chẳng hạn như Chúc Do thuật của Hoa Hạ, khởi nguyên vốn là kỹ thuật vận dụng sóng âm, ngay cả ngũ âm ngũ luật cũng đều được phôi thai từ nền tảng trị bệnh của Chúc Do thuật."
+    },
+    {
+      "para_id": "c0272p0065",
+      "index": 65,
+      "raw_zh": "不過，雲千峰幾乎馬上就否定了卓瑪的猜測，道：",
+      "translated_vi": "Thế nhưng, Vân Thiên Phong gần như lập tức bác bỏ suy đoán của Trác Mã, cất giọng:"
+    },
+    {
+      "para_id": "c0272p0066",
+      "index": 66,
+      "raw_zh": "“聲波或許可以讓巨石懸浮，但是隨著聲波的改變，巨石應該應該表現出細微的移動或者震顫。",
+      "translated_vi": "“Sóng âm có thể làm cho cự thạch lơ lửng, nhưng khi sóng âm thay đổi, tảng đá ắt phải xuất hiện những dao động hoặc rung chấn dù là nhỏ nhất."
+    },
+    {
+      "para_id": "c0272p0067",
+      "index": 67,
+      "raw_zh": "我們三個的到來對石像產生的撞擊，包括我們的談話聲音，都會影響這個穩定巨石的聲波，但是那石像紋絲不動，這說明那個石像，絕不是因為聲波而懸浮，而是其它原因。”",
+      "translated_vi": "Sự xuất hiện cùng va chạm của ba chúng ta tác động lên pho tượng, kể cả âm thanh trò chuyện lúc này, đều sẽ can thiệp vào luồng sóng âm đang giữ tảng đá ổn định. Thế nhưng pho tượng đá kia lại bất động như bàn thạch, điều đó chứng tỏ nó lơ lửng tuyệt đối không phải nhờ sóng âm, mà là vì nguyên do khác.”"
+    },
+    {
+      "para_id": "c0272p0068",
+      "index": 68,
+      "raw_zh": "卓瑪反駁道：",
+      "translated_vi": "Trác Mã lập tức phản bác:"
+    },
+    {
+      "para_id": "c0272p0069",
+      "index": 69,
+      "raw_zh": "“會不會是因為那懸浮巨石的次聲波太過渾厚，以至於我們的聲音相對而言忽略不計？",
+      "translated_vi": "“Liệu có khi nào luồng sóng hạ âm nâng tảng cự thạch kia quá đỗi hùng hậu, đến mức âm thanh của chúng ta so với nó chỉ là hạt cát trong sa mạc, hoàn toàn có thể bỏ qua?"
+    },
+    {
+      "para_id": "c0272p0070",
+      "index": 70,
+      "raw_zh": "亦或是因為頻率的原因，我們聲音的波段，不會對這種懸浮產生影響？”",
+      "translated_vi": "Hay là do tần số, dải sóng từ giọng nói của chúng ta vốn dĩ không hề gây ảnh hưởng gì tới sự nâng đỡ này?”"
+    },
+    {
+      "para_id": "c0272p0071",
+      "index": 71,
+      "raw_zh": "白狐也點頭道：",
+      "translated_vi": "Bạch Hồ cũng gật đầu tán thành:"
+    },
+    {
+      "para_id": "c0272p0072",
+      "index": 72,
+      "raw_zh": "“卓瑪說的有道理，聲波之間是不會互相干擾的，這是聲波的【獨立性原理】。”",
+      "translated_vi": "“Trác Mã nói có lý đấy, các sóng âm vốn dĩ không tự can thiệp lẫn nhau, đây chính là ‘nguyên lý độc lập’ của sóng âm.”"
+    },
+    {
+      "para_id": "c0272p0073",
+      "index": 73,
+      "raw_zh": "雲千峰搖頭道：",
+      "translated_vi": "Vân Thiên Phong khẽ lắc đầu:"
+    },
+    {
+      "para_id": "c0272p0074",
+      "index": 74,
+      "raw_zh": "“的確，聲波獨立性原理是存在的，但聲波之間會互相干涉，造成彼此的減弱，音頻沒變，但是音量變了。",
+      "translated_vi": "“Đúng là nguyên lý độc lập của sóng âm có tồn tại, nhưng giữa các sóng âm vẫn xảy ra hiện tượng giao thoa, gây nên sự suy giảm tương hỗ lẫn nhau. Tần số không đổi, nhưng cường độ âm thanh thì đã thay đổi rồi."
+    },
+    {
+      "para_id": "c0272p0075",
+      "index": 75,
+      "raw_zh": "力量不同，被托起的物體應該有相應的震動才對。”",
+      "translated_vi": "Lực tác động khác đi thì vật thể được nâng lên đáng lẽ phải xuất hiện rung chấn tương ứng mới phải.”"
+    },
+    {
+      "para_id": "c0272p0076",
+      "index": 76,
+      "raw_zh": "白狐搖頭道：",
+      "translated_vi": "Bạch Hồ lại lắc đầu bác lại:"
+    },
+    {
+      "para_id": "c0272p0077",
+      "index": 77,
+      "raw_zh": "“不對，如果這個次聲波的力量足夠大，我們聲波的干涉抵消可以忽略不計，那麽石像就應該是保持穩定的。",
+      "translated_vi": "“Không đúng, nếu như năng lượng của luồng sóng hạ âm này đủ lớn, thì sự giao thoa triệt tiêu từ sóng âm của chúng ta hoàn toàn có thể bỏ qua, khi ấy pho tượng đá dĩ nhiên vẫn sẽ giữ nguyên trạng thái cân bằng."
+    },
+    {
+      "para_id": "c0272p0078",
+      "index": 78,
+      "raw_zh": "一個三歲大的孩子抱著一個洋娃娃，和一個成年人抱著一個洋娃娃，並沒有什麽區別。”",
+      "translated_vi": "Một đứa trẻ lên ba ôm búp bê trong tay, với một người trưởng thành ôm búp bê, căn bản chẳng có gì khác biệt.”"
+    },
+    {
+      "para_id": "c0272p0079",
+      "index": 79,
+      "raw_zh": "雲千峰必須承認，白狐說的有道理。",
+      "translated_vi": "Vân Thiên Phong buộc phải thừa nhận Bạch Hồ nói rất có lý."
+    },
+    {
+      "para_id": "c0272p0080",
+      "index": 80,
+      "raw_zh": "因為石像的重量是固定的，只要那個神奇的聲音形成的力，保持在能夠托起石像的程度，那麽不造成改變是可能的。",
+      "translated_vi": "Bởi vì trọng lượng của pho tượng đá là cố định, chỉ cần lực nâng sinh ra từ thứ âm thanh kỳ bí kia duy trì ở ngưỡng đủ để gánh đỡ nó, thì việc không tạo ra bất kỳ thay đổi nào là hoàn toàn khả thi."
+    },
+    {
+      "para_id": "c0272p0081",
+      "index": 81,
+      "raw_zh": "於是他思索道：",
+      "translated_vi": "Thế là hắn trầm ngâm một lát rồi nói:"
+    },
+    {
+      "para_id": "c0272p0082",
+      "index": 82,
+      "raw_zh": "“有一個辦法，可以證明是不是聲波懸浮了那石像。”",
+      "translated_vi": "“Có một cách có thể chứng minh xem rốt cuộc pho tượng đá kia có phải lơ lửng nhờ sóng âm hay không.”"
+    },
+    {
+      "para_id": "c0272p0083",
+      "index": 83,
+      "raw_zh": "說著，他一揮手，拿起LED冷光燈就朝著石像的位置走過去。",
+      "translated_vi": "Dứt lời, hắn khoát tay, cầm chiếc đèn LED ánh sáng lạnh sải bước tiến về phía bức tượng đá."
+    },
+    {
+      "para_id": "c0272p0084",
+      "index": 84,
+      "raw_zh": "卓瑪和白狐急忙跟上去。",
+      "translated_vi": "Trác Mã và Bạch Hồ vội vã rảo bước theo sau."
+    }
+  ]
+}

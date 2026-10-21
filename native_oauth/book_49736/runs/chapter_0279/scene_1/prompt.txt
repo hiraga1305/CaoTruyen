@@ -1,0 +1,103 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0279|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §64):
+§1 279.第279章 這個人不能留！
+§2 第279章 這個人不能留！
+§3 [Ø=云千峰]雲千峰很清楚，就算自己“好生無趣”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]，對方一個女孩也不敢賭氣就這麽離開。
+§4 [Ø=云千峰]外面可是伸手不見五指，而且下著大雨。
+§5 [Ø=云千峰]但即便自己如此猜測，還是沒忍住追到門口朝外面喊了幾聲“姑娘”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]，但是除了雨聲，沒有任何回應。
+§6 [Ø=云千峰]回到篝火邊，蹲在地上，看著那坐出來的帶縫痕跡，雲千峰陷入了沉思：
+§7 “很圓很大.呸！想正事！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 [Ø=云千峰]“確定是有人來過的，不是做夢，但她離開的時候， [||] 我是處於一種半夢的狀態，這不是一般人，甚至不是人。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§9 “那麽會是什麽呢？這片綠洲裡的鬼狐精怪？真有這樣的東西嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§10 “她來找我的目的是什麽呢？就為了調戲我嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=云千峰]雲千峰吸了根煙，也沒想出個所以然來，反倒是因為這事，睡都沒睡好。
+§12 [Ø=云千峰]第二天天亮，外面依舊陰沉，雨勢不大， [||] 但也足夠粘人，衣服算是白烤幹了，只能繼續這樣濕著趕路。
+§13 [Ø=云千峰]雲千峰能明白為何這樣一直下雨，就是為了保證這條指引道途的水流不中斷。
+§14 [Ø=云千峰]這樣隨著水流彎彎曲曲的走了一天，天色再次黯淡下來。
+§15 [Ø=云千峰]這一次他特體爬高望遠，看看四周還有沒有能避雨的地方。
+§16 [Ø=云千峰]還別說，真有。
+§17 [Ø=云千峰]和昨晚一個款式的小道觀，一樣的破敗，一樣的蕭瑟。
+§18 簡直就是一個模板做出來的。
+§19 [Ø=云千峰]他快走幾步，在天黑前趕到小道觀，沿著倒下的半扇門走進後堂，生火取暖烤衣服。
+§20 [Ø=云千峰]剛脫完，就見一個美女怯生生的走進來。
+§21 [Ø=云千峰]不一樣的氣質，不一樣的美妙。
+§22 [Ø=云千峰]昨晚要是趙合德，今晚這個就是趙飛燕，小巧玲瓏掌上舞。
+§23 [Ø=云千峰]至於衣服，這個穿著牛仔短褲和普通的體恤衫，青春洋溢。
+§24 [Ø=云千峰]下意識的，雲千峰拽過衣服擋住自己，然後問道：
+§25 “你也迷路了？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§26 那嬌俏的女人忙道：
+§27 “你怎麽知道？你遇到我的同伴了？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 [Ø=云千峰]雲千峰不可置否，沉吟道：
+§29 [Ø=云千峰]“是不是穿著青色瑜伽褲，個子很高的女生？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§30 那女孩忙點頭道：
+§31 [Ø=云千峰]“對，對，那是我姐姐，她在哪？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§32 雲千峰搖頭道：
+§33 [Ø=云千峰]“我也不知道，但我確實遇到她了，但是她自己走了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 [Ø=云千峰]嬌俏的女生臉上一陣失落，看著雲千峰怯生生道：
+§35 [Ø=云千峰]“我可以進去烤火嗎？外面很黑，我怕， [||] 你放心我不是壞人，我也沒有武器，你看我這衣服也藏不到武器。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 雲千峰笑道：
+§37 “你不怕我是壞人就行。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 [Ø=云千峰]女孩輕盈的來到篝火旁，坐在對面。
+§39 雲千峰開始對之前的判斷產生了懷疑。
+§40 [Ø=云千峰]“難道是我猜錯了，不是鬼狐精怪，真的是有人遇到了超自然事件，幾個人全都莫名的穿越到了這裡？
+§41 [Ø=云千峰]哎喲，要是這樣，昨晚該追出去的，那個女生自己太危險了。”
+§42 [Ø=云千峰]那女孩烤著火，見雲千峰不說話，就試探著問道：
+§43 [Ø=云千峰]“你是做什麽的啊？看你的衣服，你是探險家吧？都說探險家最喜歡穿皮衣服。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 [Ø=云千峰]雲千峰沒想掰扯這些沒用的，點了點頭，算是承認。
+§45 [Ø=云千峰]那女孩倒是很愛說話，又道：
+§46 “那你是不是找到過很多古董啊？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§47 [Ø=云千峰]雲千峰一想，自己還真見過太多別人沒見過的古董，當下點頭道：
+§48 “見過很多。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§49 那女孩繼續問道：
+§50 [Ø=云千峰]“那你一定懂很多歷史知識，我也是學歷史的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§51 [Ø=云千峰]雲千峰覺得這女孩似乎再向著某個方向引導話題，當下好奇的隨著她道：
+§52 [Ø=云千峰]“是懂一點，但是肯定沒你專業，畢竟你是科班出身。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§53 女孩謙虛的笑道：
+§54 [Ø=云千峰]“那你覺得，從古至今，最偉大的帝王是誰？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§55 [Ø=云千峰]雲千峰心中對這個問題早有公論，差點說出那個名字， [||] 但是想了想，那偉大的人不是帝王，於是選擇了第二個人選：
+§56 [Ø=云千峰]“秦始皇，書同文車同軌，建立了郡縣製， [||] 可以說兩千年前，華夏就走出了分封製，這都是他的偉大之處。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§57 [Ø=云千峰]那女孩緩緩搖了搖頭，道：
+§58 [Ø=云千峰]“秦始皇嗎，也還行吧，但要說最偉大實在不堪。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§59 雲千峰笑道：
+§60 “那你覺得最偉大的是誰？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§61 女孩斬釘截鐵道：
+§62 [Ø=云千峰]“當然是帝嚳！在人神鬼共存的年代，以一己之力絕天地絕鬼神，讓人真正成為這大地的主人， [||] 試問還有誰比他更偉大？帝者，千萬年隻此一人，無論東西。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§63 [Ø=云千峰]雲千峰點了根煙，使勁吸了一口。
+§64 [Ø=云千峰]他看明白了，這女孩引的話頭就在這。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 64 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§64. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

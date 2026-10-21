@@ -1,0 +1,87 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0258|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Trác Mã đã bị thuyết phục.
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一丈|một trượng
+M2|千斤|một ngàn cân
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §45):
+§1 [Ø=云千峰]她覺得這個方法不錯，既能滿足自己的好奇心，還完美規避了害羞的橋段。
+§2 “那那你發誓不會回頭偷看的嘛？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§3 [Ø=云千峰]雲千峰並三指指天，闞快道：
+§4 “我發誓！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§5 [Ø=云千峰]卓瑪這才放心，混沒意識到雲千峰隻說了我發誓，但沒有發誓的內容。
+§6 [Ø=云千峰]雲千峰之所以這樣，是擔心自己下意識回頭，可不敢亂發誓。
+§7 [Ø=云千峰]畢竟他走到今天，很清楚事發突然的概率。
+§8 [Ø=云千峰]卓瑪關了那用太陽能充電的小LED燈，隨後這漆黑無光的皮帳篷裡傳來窸窸窣.
+§9 “哢！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§10 [Ø=云千峰]一聲輕響，同時一團白光籠罩狹小的皮帳篷，證明卓瑪已經拍過照片。
+§11 [Ø=云千峰]也就在這時，帳篷外突然傳來一聲低吼，只聽那共鳴腔就知道發出這個聲音的東西極為粗壯。
+§12 緊接著就是三隻獒犬的叫聲。
+§13 [Ø=云千峰]那叫聲裡有示警，有恐懼，更有悍不畏死的決絕。
+§14 [Ø=云千峰]一聲馬的嘶鳴，那是淒慘的叫聲，證明有一匹馬受到了攻擊。
+§15 [Ø=云千峰]而雲千峰幾乎在那生低吼傳來的同時，就回過頭去看向帳篷的入口處，那也是卓瑪的方向。
+§16 [Ø=云千峰]黑暗中，卓瑪像一個黑色的剪影，只有一個俏美的輪廓。
+§17 [Ø=云千峰]在看到那黑影的第一時間，雲千峰腦海裡想到的竟然是“好細的腰”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]。
+§18 [Ø=云千峰]因為卓瑪那身袍服的原因，讓卓瑪看起來圓滾滾的。
+§19 [Ø=云千峰]此時才知道，原來這個丫頭這麽纖細。
+§20 [Ø=云千峰]回頭的同時，雲千峰一把將卓瑪拽到了自己身後，巨大的力量，讓卓瑪幾乎是飄著過來的。
+§21 [Ø=云千峰]雲千峰暗讚自己發誓之時的小手段果然明智，同時衝出了帳篷。
+§22 身後的卓瑪壓低聲音叫道：
+§23 [Ø=云千峰]“不要出去，是馬熊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 [Ø=云千峰]然而雲千峰充耳不聞，徑直的衝了出去。
+§25 [Ø=云千峰]以來到帳篷外，雲千峰就聞到了血的腥味， [||] 同時看到一匹馬倒在地上，另外兩匹馬因為拴著，焦急的在原地打轉。
+§26 [Ø=云千峰]三隻獒犬圍著那頭身高超過一米八，體重不下四百公斤的大馬熊吼叫，不後退卻也不敢上前。
+§27 [Ø=云千峰]這麽大體型的馬熊，就是老虎遇到，那也是夾著尾巴跑。
+§28 可謂是真正的叢林霸主。
+§29 [Ø=云千峰]不過雲千峰是誰啊？那可是連地底怪物守望者都努努過的男人，還能怕一隻野獸。
+§30 [Ø=云千峰]當下怒喝一聲，右腿用力一點地， [||] 整個人跳出去一丈[M1:một trượng]多遠，再一個跳躍，便衝到了那巨大的馬熊身邊。
+§31 [Ø=云千峰]然後擺出拳擊的架子，照著馬熊就是一套直擺勾的組合拳。
+§32 [Ø=云千峰]可惜馬熊不會說話，否則被這三拳打得有點懵的馬熊，此時一定會喊出“臥槽”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]。
+§33 [Ø=云千峰]作為荒野的霸主，馬熊啥時候吃過這樣的虧啊！
+§34 [Ø=云千峰]當下怒吼一聲，揮動熊掌，對著雲千峰還擊了一套王八拳。
+§35 [Ø=云千峰]就這大熊掌，隨便一下都超過千斤[M2:một ngàn cân]，但是雲千峰右腿釘地， [||] 雙臂護架，生生扛住了馬熊的一波攻擊，然後趁勢找到漏洞也是一套王八拳。
+§36 [Ø=云千峰]沒辦法，沒經過專業訓練， [||] 打著打著，最終變成王八拳，這是規律。
+§37 雲千峰點數再次領先。
+§38 [Ø=云千峰]帳篷內，卓瑪看到雲千峰衝出去， [||] 又聽到馬熊的怒吼，心裡擔心雲千峰安危，畢竟是格比格托付給自己的。
+§39 [Ø=云千峰]於是卓瑪一咬牙，拎起自己佩戴的拉孜藏刀，就衝向帳篷門口，混忘了自己衣服還沒套上。
+§40 [Ø=云千峰]這刀也就半米長，對付一般野獸還行，對付馬熊可不夠看，不過卓瑪顧不得那麽多了。
+§41 [Ø=云千峰]冷雨襲身，涼氣鋪面， [||] 衝出來的卓瑪一橫刀，就準備衝向戰團，舍命幫助雲千峰。
+§42 [Ø=云千峰]然而當她看到一人一熊互相拋出王八拳的戰團後，整個人呆住了。
+§43 “咣當！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 藏刀掉地上了。
+§45 [Ø=云千峰]“天哪！他太勇猛了，跳起來打！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 45 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§45. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

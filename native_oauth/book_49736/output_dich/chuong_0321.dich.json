@@ -1,0 +1,914 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 321,
+  "title": "Chương 321: A Cam chính truyện: Thoát khỏi đảo Quả Táo (2)",
+  "total_paragraphs": 150,
+  "translated_paragraphs": 150,
+  "source_hash": "4ce7aeec59f51d21d8d557b5647aeb5fe9c6bbd92e3bbbfb915183cbaa24108b",
+  "model_used": "gemini-3.8-flash-high",
+  "elapsed_seconds": 179.88,
+  "bilingual_alignment": [
+    {
+      "para_id": "c0321p0001",
+      "index": 1,
+      "raw_zh": "321.第320章 阿甘正傳：逃離蘋果島（2）",
+      "translated_vi": "Chương 321: A Cam chính truyện: Thoát khỏi đảo Quả Táo (2)"
+    },
+    {
+      "para_id": "c0321p0002",
+      "index": 2,
+      "raw_zh": "第320章 阿甘正傳：逃離蘋果島（2）",
+      "translated_vi": "Chương 320: A Cam chính truyện: Thoát khỏi đảo Quả Táo (2)"
+    },
+    {
+      "para_id": "c0321p0003",
+      "index": 3,
+      "raw_zh": "阿甘的動作愈加熟練起來，終於找到了當年以開門為營生的手感。",
+      "translated_vi": "Động tác của A Cam càng lúc càng thuần thục, rốt cuộc cũng tìm lại được cảm giác của năm xưa khi còn lấy nghề mở khóa kiếm cơm."
+    },
+    {
+      "para_id": "c0321p0004",
+      "index": 4,
+      "raw_zh": "室內，",
+      "translated_vi": "Trong phòng,"
+    },
+    {
+      "para_id": "c0321p0005",
+      "index": 5,
+      "raw_zh": "熟悉的味道，熟悉的場景，唯一不同的是，這個巨人觀掛在了吊燈上，還在滴答水。",
+      "translated_vi": "Mùi vị quen thuộc, khung cảnh quen thuộc, điểm khác biệt duy nhất là cái xác trương phềnh kia lại bị treo trên ngọn đèn chùm, bên dưới vẫn đang tí tách nhỏ nước."
+    },
+    {
+      "para_id": "c0321p0006",
+      "index": 6,
+      "raw_zh": "好吧，用濃稠液體來形容更準確。",
+      "translated_vi": "Được rồi, dùng từ \"dịch thể đặc quánh\" để miêu tả thì chuẩn xác hơn."
+    },
+    {
+      "para_id": "c0321p0007",
+      "index": 7,
+      "raw_zh": "阿甘用最快的速度搜遍了整個屋子，這次隻用了八分鍾。",
+      "translated_vi": "A Cam dùng tốc độ nhanh nhất lục soát khắp căn phòng, lần này chỉ mất có tám phút."
+    },
+    {
+      "para_id": "c0321p0008",
+      "index": 8,
+      "raw_zh": "算是找到了當年以為營生的手感。",
+      "translated_vi": "Coi như đã tìm lại được cảm giác của cái nghề kiếm sống năm xưa."
+    },
+    {
+      "para_id": "c0321p0009",
+      "index": 9,
+      "raw_zh": "獲得物品：",
+      "translated_vi": "Thu hoạch được:"
+    },
+    {
+      "para_id": "c0321p0010",
+      "index": 10,
+      "raw_zh": "鑽石款百達翡麗男表一塊，目測為真。",
+      "translated_vi": "Một chiếc đồng hồ nam Patek Philippe nạm kim cương, mắt nhìn phán đoán là hàng thật."
+    },
+    {
+      "para_id": "c0321p0011",
+      "index": 11,
+      "raw_zh": "純金佛牌掛墜一塊，日式短刀一把，西地那非五片",
+      "translated_vi": "Một mặt dây chuyền phật bài bằng vàng ròng, một thanh đoản đao kiểu Nhật, năm viên sildenafil."
+    },
+    {
+      "para_id": "c0321p0012",
+      "index": 12,
+      "raw_zh": "正在清點裝包，阿甘突然聽到“吱嘎”一聲響，聲音自頭頂斜上方傳來，他幾乎下意識的抽出日式短刀，刀和腦袋幾乎同時轉過去。",
+      "translated_vi": "Đang kiểm đếm nhét vào túi, A Cam bỗng nghe thấy một tiếng \"kẽo kẹt\", âm thanh truyền đến từ góc chéo chếch trên đỉnh đầu. Hắn gần như theo bản năng rút thanh đoản đao kiểu Nhật ra, mũi đao cùng đầu gáy gần như đồng thời quay phắt lại."
+    },
+    {
+      "para_id": "c0321p0013",
+      "index": 13,
+      "raw_zh": "就見吊燈在搖晃，發出“吱嘎吱嘎”的輕響，那吊燈似乎還在旋轉，以至於剛才頭對著門口的巨人觀，現在腦袋對著自己。",
+      "translated_vi": "Liền thấy ngọn đèn chùm đang đung đưa, phát ra những tiếng \"kẽo kẹt kẽo kẹt\" khe khẽ. Ngọn đèn chùm dường như còn đang xoay tròn, khiến cho cái xác trương phềnh vốn đang quay đầu về phía cửa ra vào lúc nãy, giờ đây cái đầu đã xoay thẳng về phía hắn."
+    },
+    {
+      "para_id": "c0321p0014",
+      "index": 14,
+      "raw_zh": "這無疑是讓人毛骨悚然的。",
+      "translated_vi": "Điều này quả thực khiến người ta không khỏi rợn tóc gáy."
+    },
+    {
+      "para_id": "c0321p0015",
+      "index": 15,
+      "raw_zh": "阿甘屏住呼吸，用舌頭舔了一下手背，在身前轉了一圈。",
+      "translated_vi": "A Cam nín thở, dùng lưỡi liếm nhẹ mu bàn tay một cái, rồi xoay một vòng trước người."
+    },
+    {
+      "para_id": "c0321p0016",
+      "index": 16,
+      "raw_zh": "“呼嚇死勞資，原來是門口傳來的風，晦氣晦氣，走了！”",
+      "translated_vi": "\"Phù... hù chết ông đây rồi, hóa ra là gió lùa từ cửa vào. Xui xẻo thật, đi thôi!\""
+    },
+    {
+      "para_id": "c0321p0017",
+      "index": 17,
+      "raw_zh": "東西裝在挎包裡，百達翡麗戴在手腕上，阿甘頭也不回的朝著下一個門口趕去。",
+      "translated_vi": "Đồ đạc nhét hết vào túi đeo chéo, chiếc Patek Philippe đeo lên cổ tay, A Cam không ngoảnh đầu lại mà rảo bước lao tới cánh cửa tiếp theo."
+    },
+    {
+      "para_id": "c0321p0018",
+      "index": 18,
+      "raw_zh": "他的目的是食物。",
+      "translated_vi": "Mục đích của hắn là thức ăn."
+    },
+    {
+      "para_id": "c0321p0019",
+      "index": 19,
+      "raw_zh": "開第三扇門的時候，阿甘還琢磨著：",
+      "translated_vi": "Khi mở cánh cửa thứ ba, A Cam vẫn còn lẩm bẩm tính toán:"
+    },
+    {
+      "para_id": "c0321p0020",
+      "index": 20,
+      "raw_zh": "“史翩至的卦準啊，我這真特奶奶的是賺錢了，真該問問別的，以後可不能小氣，不能和阿菲法學。”",
+      "translated_vi": "\"Quẻ bói của Sử Phiên Chí chuẩn thật đấy, phen này bà nội nó chứ đúng là mình kiếm được tiền rồi. Đáng lẽ phải hỏi thêm chuyện khác, sau này không thể bủn xỉn được, không thể học theo Afifa.\""
+    },
+    {
+      "para_id": "c0321p0021",
+      "index": 21,
+      "raw_zh": "念叨著，卻是已經破門而入。",
+      "translated_vi": "Miệng lẩm bẩm, nhưng người thì đã phá cửa ùa vào."
+    },
+    {
+      "para_id": "c0321p0022",
+      "index": 22,
+      "raw_zh": "第二扇門內，那吊在台燈上的巨人觀伴隨著“吱嘎”聲，腦袋重新回到了對著門口的位置。",
+      "translated_vi": "Bên trong cánh cửa thứ hai, cái xác trương phềnh treo trên đèn kèm theo tiếng \"kẽo kẹt\", cái đầu lại một lần nữa xoay về vị trí hướng ra cửa."
+    },
+    {
+      "para_id": "c0321p0023",
+      "index": 23,
+      "raw_zh": "第三扇門內，一如既往的熟悉，色香味俱全。",
+      "translated_vi": "Bên trong cánh cửa thứ ba, vẫn là sự quen thuộc như mọi khi, sắc hương vị đều đủ cả."
+    },
+    {
+      "para_id": "c0321p0024",
+      "index": 24,
+      "raw_zh": "在這裡，阿甘激動的差點哭了。",
+      "translated_vi": "Tại nơi này, A Cam xúc động suýt phát khóc."
+    },
+    {
+      "para_id": "c0321p0025",
+      "index": 25,
+      "raw_zh": "因為他找到了一袋包裝完整的麵包，一包薯乾，一管胰島素注射器，一包半香煙，半包的晾晾，阿甘感覺也還能用。",
+      "translated_vi": "Bởi vì hắn đã tìm được một túi bánh mì còn nguyên bao bì, một gói khoai lang sấy, một ống tiêm insulin, một bao rưỡi thuốc lá. Nửa bao kia phơi khô lại một chút, A Cam cảm thấy vẫn có thể dùng được."
+    },
+    {
+      "para_id": "c0321p0026",
+      "index": 26,
+      "raw_zh": "後面阿甘的速度愈加快了起來。",
+      "translated_vi": "Về sau tốc độ của A Cam lại càng nhanh hơn."
+    },
+    {
+      "para_id": "c0321p0027",
+      "index": 27,
+      "raw_zh": "他太迫切要吃包裡的麵包了，但很明顯這裡不是吃東西的地方，阿甘總有自己的理由。",
+      "translated_vi": "Hắn quá nóng lòng muốn ăn chỗ bánh mì trong túi, nhưng rõ ràng nơi này không phải chỗ để ăn uống, A Cam trước sau luôn có lý do của riêng mình."
+    },
+    {
+      "para_id": "c0321p0028",
+      "index": 28,
+      "raw_zh": "這一層樓，一共十八個房間，十八扇門。",
+      "translated_vi": "Tầng lầu này tổng cộng có mười tám căn phòng, mười tám cánh cửa."
+    },
+    {
+      "para_id": "c0321p0029",
+      "index": 29,
+      "raw_zh": "阿甘全都搜刮一遍，身上已經多了兩個雙肩包，因為東西實在不少。",
+      "translated_vi": "A Cam vét sạch toàn bộ một lượt, trên người đã khoác thêm hai chiếc ba lô, bởi vì đồ đạc gom được quả thực không ít."
+    },
+    {
+      "para_id": "c0321p0030",
+      "index": 30,
+      "raw_zh": "但是食物真的很少，只有那一小袋麵包和薯乾。",
+      "translated_vi": "Nhưng thức ăn thì thật sự quá ít, chỉ có túi bánh mì nhỏ và gói khoai lang sấy kia."
+    },
+    {
+      "para_id": "c0321p0031",
+      "index": 31,
+      "raw_zh": "不過收獲不小，顯然住在這裡的人，都比較有錢。",
+      "translated_vi": "Có điều thu hoạch không hề nhỏ, hiển nhiên những người từng sống ở đây đều thuộc diện khá giả."
+    },
+    {
+      "para_id": "c0321p0032",
+      "index": 32,
+      "raw_zh": "阿甘走出第十八扇門，淡然從走廊這一側的步行梯回到樓上。",
+      "translated_vi": "A Cam bước ra khỏi cánh cửa thứ mười tám, thản nhiên men theo cầu thang bộ ở phía bên này hành lang trở lên tầng trên."
+    },
+    {
+      "para_id": "c0321p0033",
+      "index": 33,
+      "raw_zh": "他不知道的是，後面十八扇門裡，裝滿了不淡然。",
+      "translated_vi": "Hắn không hề hay biết rằng, phía sau mười tám cánh cửa kia, lại chứa đầy những điều chẳng hề bình yên."
+    },
+    {
+      "para_id": "c0321p0034",
+      "index": 34,
+      "raw_zh": "回到樓上自己的房間，關好了門，檢查了兩遍鎖匙，這才把背包仍在一邊，小心翼翼的把麵包和薯乾方到桌子上，生怕摔壞了似的。",
+      "translated_vi": "Trở về căn phòng của mình ở tầng trên, đóng chặt cửa, kiểm tra ổ khóa tới hai lần, bấy giờ hắn mới ném ba lô sang một bên, cẩn thận từng li từng tí đặt bánh mì và khoai sấy lên bàn, cứ như sợ làm vỡ nát chúng vậy."
+    },
+    {
+      "para_id": "c0321p0035",
+      "index": 35,
+      "raw_zh": "轉身走進衛生間，但是立即又轉身出來，把麵包和薯乾拿在手裡，進了廚房，用淡水潤嘴，再吐在手上，清洗雙手。",
+      "translated_vi": "Hắn quay người bước vào nhà vệ sinh, nhưng lập tức quay ngoắt trở ra, cầm bánh mì và khoai sấy trên tay, rồi đi vào bếp. Hắn ngậm chút nước ngọt tráng miệng rồi nhổ ra lòng bàn tay để rửa sạch hai tay."
+    },
+    {
+      "para_id": "c0321p0036",
+      "index": 36,
+      "raw_zh": "這才回到桌子旁，用枕巾塞進領口，用短日式刀將一袋麵包裡的一小個切成了均勻的幾塊，用撿到的一個鑲嵌藍寶石的發卡當叉子，叉了一小塊麵包放進口中。",
+      "translated_vi": "Xong xuôi mới quay lại bên bàn, nhét chiếc khăn trải gối vào cổ áo, dùng thanh đoản đao kiểu Nhật cắt một mẩu nhỏ trong túi bánh mì thành mấy miếng đều nhau, rồi lấy chiếc cặp tóc nạm đá sapphire nhặt được làm nĩa, xiên một miếng bánh nhỏ đưa vào miệng."
+    },
+    {
+      "para_id": "c0321p0037",
+      "index": 37,
+      "raw_zh": "然後細嚼慢咽，一遍又一遍的感受味蕾集體跳舞的感動。",
+      "translated_vi": "Sau đó nhai kĩ nuốt chậm, cảm nhận từng đợt xúc động khi toàn bộ vị giác như đang nhảy múa reo ca."
+    },
+    {
+      "para_id": "c0321p0038",
+      "index": 38,
+      "raw_zh": "阿甘哭了。",
+      "translated_vi": "A Cam bật khóc."
+    },
+    {
+      "para_id": "c0321p0039",
+      "index": 39,
+      "raw_zh": "他從未想過，自己有一天會為了一塊麵包流出感動的淚。",
+      "translated_vi": "Hắn chưa từng nghĩ rằng, sẽ có một ngày mình lại rơi những giọt nước mắt cảm động chỉ vì một mẩu bánh mì."
+    },
+    {
+      "para_id": "c0321p0040",
+      "index": 40,
+      "raw_zh": "“什麽男主角？什麽最喜歡的老師？都不如這一塊小小的麵包，阿甘啊”",
+      "translated_vi": "\"Nam chính cái nỗi gì? Diễn viên yêu thích cái khỉ gì? Tất cả đều chẳng bằng một mẩu bánh mì bé xíu này, A Cam ơi là A Cam...\""
+    },
+    {
+      "para_id": "c0321p0041",
+      "index": 41,
+      "raw_zh": "一小個麵包下腹，阿甘不舍得繼續吃下去，決定細水長流。",
+      "translated_vi": "Một mẩu bánh nhỏ trôi xuống bụng, A Cam không nỡ ăn tiếp, quyết định phải để dành ăn dần."
+    },
+    {
+      "para_id": "c0321p0042",
+      "index": 42,
+      "raw_zh": "將麵包和薯乾謹慎藏好，這才坐在窗邊，看著外面的海景發呆。",
+      "translated_vi": "Giấu cẩn thận chỗ bánh mì và khoai sấy xong, hắn mới ngồi bên bậu cửa sổ, nhìn ngắm cảnh biển bên ngoài mà ngẩn người."
+    },
+    {
+      "para_id": "c0321p0043",
+      "index": 43,
+      "raw_zh": "這裡原本是一個極為繁華的大都市，但就如此莫名其妙的變成了海洋。",
+      "translated_vi": "Nơi đây vốn là một đại đô thị vô cùng phồn hoa, nhưng lại cứ thế biến thành biển cả một cách không thể hiểu nổi."
+    },
+    {
+      "para_id": "c0321p0044",
+      "index": 44,
+      "raw_zh": "沒有絲毫的動靜，甚至沒有人發覺，就已經是這樣了。",
+      "translated_vi": "Không một chút động tĩnh, thậm chí không một ai kịp phát giác, mọi sự đã thành ra thế này rồi."
+    },
+    {
+      "para_id": "c0321p0045",
+      "index": 45,
+      "raw_zh": "之所以阿甘確定這不是海嘯，只能是詭異之事。",
+      "translated_vi": "Sở dĩ A Cam dám khẳng định đây không phải sóng thần, mà chỉ có thể là quái sự dị thường,"
+    },
+    {
+      "para_id": "c0321p0046",
+      "index": 46,
+      "raw_zh": "是因為沒有一棟樓倒塌。",
+      "translated_vi": "là bởi vì không có lấy một tòa nhà nào sụp đổ."
+    },
+    {
+      "para_id": "c0321p0047",
+      "index": 47,
+      "raw_zh": "若是海嘯造成這麽深的海水侵城，眼前這些樓房都不可能立在這裡，而應該在一瞬間就崩塌了。",
+      "translated_vi": "Nếu như là sóng thần khiến nước biển ngập sâu vào thành phố đến mức này, những tòa nhà trước mắt tuyệt đối không thể còn sừng sững ở đây, mà hẳn đã đổ sập chỉ trong nháy mắt."
+    },
+    {
+      "para_id": "c0321p0048",
+      "index": 48,
+      "raw_zh": "“神秘力量嗎？蘋果島的東城到底發生了什麽？我來的那一夜，到底發生了什麽？”",
+      "translated_vi": "\"Là sức mạnh bí ẩn sao? Khu Đông Thành của đảo Quả Táo rốt cuộc đã xảy ra chuyện gì? Đêm mà mình tới đây, rốt cuộc đã xảy ra chuyện gì?\""
+    },
+    {
+      "para_id": "c0321p0049",
+      "index": 49,
+      "raw_zh": "阿甘思索著，胃裡因為有了食物而變得異常舒服，火辣辣的痛感消失。",
+      "translated_vi": "A Cam trầm ngâm suy nghĩ, dạ dày nhờ có thức ăn mà trở nên dễ chịu lạ thường, cảm giác đau rát cồn cào đã tan biến."
+    },
+    {
+      "para_id": "c0321p0050",
+      "index": 50,
+      "raw_zh": "猜測不出城市被海水淹沒的原因，阿甘點了根煙，又開始胡思亂想。",
+      "translated_vi": "Không đoán ra được nguyên nhân thành phố bị nước biển nhấn chìm, A Cam châm một điếu thuốc, lại bắt đầu nghĩ ngợi vẩn vơ."
+    },
+    {
+      "para_id": "c0321p0051",
+      "index": 51,
+      "raw_zh": "“哎，沒有男主角的命啊！”",
+      "translated_vi": "\"Ai da, đúng là không có cái số làm nam chính mà!\""
+    },
+    {
+      "para_id": "c0321p0052",
+      "index": 52,
+      "raw_zh": "正想著，卻聽到不知何處傳來“咚咚咚”的撞擊聲。",
+      "translated_vi": "Đang nghĩ ngợi, hắn bỗng nghe thấy từ nơi nào đó truyền tới tiếng va đập \"thùng thùng thùng\"."
+    },
+    {
+      "para_id": "c0321p0053",
+      "index": 53,
+      "raw_zh": "阿甘側耳傾聽。",
+      "translated_vi": "A Cam nghiêng tai lắng nghe."
+    },
+    {
+      "para_id": "c0321p0054",
+      "index": 54,
+      "raw_zh": "“不是窗外，難道是？”",
+      "translated_vi": "\"Không phải ngoài cửa sổ, chẳng lẽ là...?\""
+    },
+    {
+      "para_id": "c0321p0055",
+      "index": 55,
+      "raw_zh": "想著，阿甘急忙輕聲來到門旁，順著門鏡貓眼看出去。",
+      "translated_vi": "Nghĩ vậy, A Cam vội vã rón rén bước tới cạnh cửa, ghé mắt nhìn qua mắt mèo quan sát ra ngoài."
+    },
+    {
+      "para_id": "c0321p0056",
+      "index": 56,
+      "raw_zh": "“沒有人啊！”",
+      "translated_vi": "\"Không có ai cả!\""
+    },
+    {
+      "para_id": "c0321p0057",
+      "index": 57,
+      "raw_zh": "把耳朵貼在門上，發現震動的聲響變得清晰，甚至有些震耳朵。",
+      "translated_vi": "Hắn áp tai vào cửa, nhận thấy âm thanh rung chấn trở nên rõ ràng hơn, thậm chí còn có phần chấn động màng nhĩ."
+    },
+    {
+      "para_id": "c0321p0058",
+      "index": 58,
+      "raw_zh": "“是附近房間有人在撞門！還有人活著，和我一樣困在這個樓層！可是他為什麽是撞門？”",
+      "translated_vi": "\"Là có người ở phòng gần đây đang tông cửa! Vẫn còn người sống sót, cũng bị kẹt lại tầng này giống như mình! Nhưng tại sao người đó lại tông cửa?\""
+    },
+    {
+      "para_id": "c0321p0059",
+      "index": 59,
+      "raw_zh": "“不會是有人開始搜索這層樓了吧？”",
+      "translated_vi": "\"Chẳng lẽ có kẻ bắt đầu lục soát tầng này rồi sao?\""
+    },
+    {
+      "para_id": "c0321p0060",
+      "index": 60,
+      "raw_zh": "阿甘眯著眼睛思索著，使勁的吸了一口煙，咬牙道：",
+      "translated_vi": "A Cam híp mắt suy tính, rít mạnh một hơi thuốc, nghiến răng nói:"
+    },
+    {
+      "para_id": "c0321p0061",
+      "index": 61,
+      "raw_zh": "“一動不如一靜，要是真有人趁火打劫，我就躲在門旁給他一刀。”",
+      "translated_vi": "\"Động không bằng tĩnh, nếu thật sự có kẻ thừa nước đục thả câu, mình sẽ nấp cạnh cửa thọc cho hắn một nhát.\""
+    },
+    {
+      "para_id": "c0321p0062",
+      "index": 62,
+      "raw_zh": "想念至此，阿甘決定以逸待勞。",
+      "translated_vi": "Nghĩ đến đây, A Cam quyết định dĩ dật đãi lao, lấy tĩnh chế động."
+    },
+    {
+      "para_id": "c0321p0063",
+      "index": 63,
+      "raw_zh": "這一等就是五個多小時。",
+      "translated_vi": "Lần đợi này kéo dài hơn năm tiếng đồng hồ."
+    },
+    {
+      "para_id": "c0321p0064",
+      "index": 64,
+      "raw_zh": "天色又變成徹底的漆黑。",
+      "translated_vi": "Bầu trời lại chuyển sang một màu đen kịt hoàn toàn."
+    },
+    {
+      "para_id": "c0321p0065",
+      "index": 65,
+      "raw_zh": "阿甘知道，這是晚上了。",
+      "translated_vi": "A Cam biết, màn đêm đã buông xuống."
+    },
+    {
+      "para_id": "c0321p0066",
+      "index": 66,
+      "raw_zh": "在這樣的夜裡，伸手不見五指不是誇張修辭，而是實事求是。",
+      "translated_vi": "Trong một đêm đen như thế này, đưa tay không thấy năm ngón chẳng phải cách nói tu từ phóng đại, mà là sự thật trần trụi."
+    },
+    {
+      "para_id": "c0321p0067",
+      "index": 67,
+      "raw_zh": "阿甘拿出自己的手搖充電器，給手機衝了一會電，聽著那依舊持續的“咚咚”撞擊聲。",
+      "translated_vi": "A Cam lấy chiếc sạc quay tay của mình ra, sạc pin cho điện thoại một lúc, tai vẫn lắng nghe tiếng va đập \"thùng thùng\" dồn dập không dứt kia."
+    },
+    {
+      "para_id": "c0321p0068",
+      "index": 68,
+      "raw_zh": "以前陪約翰找隕石的時候，為了確保儀器在任何情況下都能有電，他們準備了手搖充電器，太陽能充電器等等新奇的小玩意，如今倒是派上了用場。",
+      "translated_vi": "Trước kia khi đi cùng John tìm thiên thạch, để đảm bảo thiết bị luôn có điện trong mọi tình huống, bọn họ đã chuẩn bị sạc quay tay, sạc năng lượng mặt trời cùng mấy món đồ chơi mới lạ, lúc này ngược lại đã phát huy tác dụng."
+    },
+    {
+      "para_id": "c0321p0069",
+      "index": 69,
+      "raw_zh": "“衛星，無線信號，這些應該已經都完全沒有了，我手機上的時間顯示都已經不準，島上的黑色煙霧一定也遮蔽了衛星的攝影，這也就意味著，整個蘋果島徹底成了孤島，與外界失去了聯系！”",
+      "translated_vi": "\"Vệ tinh, tín hiệu không dây, mấy thứ này e rằng đều đã mất sạch rồi. Hiển thị giờ giấc trên điện thoại của mình cũng chẳng còn chuẩn xác nữa. Khói đen bao phủ trên đảo chắc chắn cũng đã che khuất tầm chụp của vệ tinh, điều này đồng nghĩa với việc toàn bộ đảo Quả Táo đã hoàn toàn biến thành một hòn đảo cô lập, triệt để mất liên lạc với thế giới bên ngoài!\""
+    },
+    {
+      "para_id": "c0321p0070",
+      "index": 70,
+      "raw_zh": "“會不會有其他國家的援助搜救隊前來？”",
+      "translated_vi": "\"Liệu có đội cứu hộ cứu nạn của các quốc gia khác tới không?\""
+    },
+    {
+      "para_id": "c0321p0071",
+      "index": 71,
+      "raw_zh": "“應該不會了，蘋果島毀了全世界的海洋，怎麽會有人來救，我不該來這裡的！”",
+      "translated_vi": "\"Chắc là không rồi, đảo Quả Táo đã hủy hoại đại dương của toàn thế giới, làm sao có ai tới cứu chứ? Mình không nên tới nơi này mới phải!\""
+    },
+    {
+      "para_id": "c0321p0072",
+      "index": 72,
+      "raw_zh": "“這就是報應吧？大海的憤怒。”",
+      "translated_vi": "\"Đây chính là quả báo sao? Sự phẫn nộ của đại dương.\""
+    },
+    {
+      "para_id": "c0321p0073",
+      "index": 73,
+      "raw_zh": "阿甘想著，又點了一根煙。",
+      "translated_vi": "A Cam thầm nghĩ, lại châm thêm một điếu thuốc."
+    },
+    {
+      "para_id": "c0321p0074",
+      "index": 74,
+      "raw_zh": "白天的搜刮，煙收獲了不少。",
+      "translated_vi": "Chuyến lùng sục ban ngày gom được không ít thuốc lá."
+    },
+    {
+      "para_id": "c0321p0075",
+      "index": 75,
+      "raw_zh": "飯吃不飽，精神食糧還是足的，阿甘很欣慰。",
+      "translated_vi": "Cơm ăn không đủ no, nhưng món ăn tinh thần thì vẫn dư dả, A Cam cảm thấy rất đỗi an ủi."
+    },
+    {
+      "para_id": "c0321p0076",
+      "index": 76,
+      "raw_zh": "“咚咚咚”的撞擊聲一如既往。",
+      "translated_vi": "Tiếng va đập \"thùng thùng thùng\" vẫn vang lên đều đặn như trước."
+    },
+    {
+      "para_id": "c0321p0077",
+      "index": 77,
+      "raw_zh": "不過阿甘不為所動。",
+      "translated_vi": "Nhưng A Cam chẳng hề mảy may lay chuyển."
+    },
+    {
+      "para_id": "c0321p0078",
+      "index": 78,
+      "raw_zh": "他很好奇是誰在旁邊的房間撞門，又是為什麽撞門。",
+      "translated_vi": "Hắn rất tò mò rốt cuộc là ai đang đập cửa phòng bên cạnh, và vì sao lại đập cửa."
+    },
+    {
+      "para_id": "c0321p0079",
+      "index": 79,
+      "raw_zh": "但在這樣漆黑的環境裡，他的好奇心翻不起浪來。",
+      "translated_vi": "Nhưng trong hoàn cảnh tối tăm thế này, chút lòng hiếu kỳ của hắn chẳng dấy lên nổi gợn sóng nào."
+    },
+    {
+      "para_id": "c0321p0080",
+      "index": 80,
+      "raw_zh": "阿甘就這樣坐在門旁，雙手握著日式短刀，靠著椅子背閉目淺睡。",
+      "translated_vi": "A Cam cứ thế ngồi bên cửa, hai tay nắm chặt thanh đoản đao kiểu Nhật, tựa lưng vào ghế nhắm mắt ngủ thiu thiu."
+    },
+    {
+      "para_id": "c0321p0081",
+      "index": 81,
+      "raw_zh": "別看叫短刀，但是這日式短刀只是刃口就有半米多長，若是真有不長眼的撞進門來，阿甘能讓他提著腦袋出去。",
+      "translated_vi": "Đừng thấy gọi là đoản đao mà lầm, lưỡi thanh đao này đã dài hơn nửa mét, nếu thật sự có kẻ đui mù nào xông vào cửa, A Cam thừa sức khiến nó phải xách đầu mà ra ngoài."
+    },
+    {
+      "para_id": "c0321p0082",
+      "index": 82,
+      "raw_zh": "把鋒利的刀刃切進骨肉的膽量，阿甘不缺。",
+      "translated_vi": "Còn về lá gan găm lưỡi đao sắc bén vào da thịt xương cốt, A Cam chưa bao giờ thiếu."
+    },
+    {
+      "para_id": "c0321p0083",
+      "index": 83,
+      "raw_zh": "昏暗的光再次降臨這個世界。",
+      "translated_vi": "Ánh sáng lờ mờ một lần nữa phủ xuống thế giới này."
+    },
+    {
+      "para_id": "c0321p0084",
+      "index": 84,
+      "raw_zh": "這就是這裡白天的樣子，一如他處的傍晚。",
+      "translated_vi": "Đó chính là dáng vẻ ban ngày ở nơi đây, chẳng khác nào hoàng hôn ở những nơi khác."
+    },
+    {
+      "para_id": "c0321p0085",
+      "index": 85,
+      "raw_zh": "阿甘第一件事是去窗邊看一眼，確定老天爺沒有讓一切恢復正常，只是水平面更低了一些，阿甘覺得，自己能夠搜尋更多的樓層了。",
+      "translated_vi": "Việc đầu tiên A Cam làm là tiến lại bên cửa sổ nhìn ra ngoài, xác nhận ông trời vẫn chưa cho mọi thứ trở lại bình thường, chỉ có điều mực nước đã hạ thấp hơn đôi chút; A Cam cảm thấy mình có thể lục soát thêm nhiều tầng lầu nữa rồi."
+    },
+    {
+      "para_id": "c0321p0086",
+      "index": 86,
+      "raw_zh": "因為水平面下降的速度越來越快，這讓阿甘有些高興。",
+      "translated_vi": "Tốc độ hạ của mực nước ngày càng nhanh, điều này khiến A Cam có phần mừng rỡ."
+    },
+    {
+      "para_id": "c0321p0087",
+      "index": 87,
+      "raw_zh": "當能夠走在大地上的時候，腳踏實地，永遠是人最基礎的安全感。",
+      "translated_vi": "Khi có thể sải bước trên mặt đất, cảm giác đặt chân vững chãi lên đất bằng vĩnh viễn là cảm giác an toàn cơ bản nhất của con người."
+    },
+    {
+      "para_id": "c0321p0088",
+      "index": 88,
+      "raw_zh": "阿甘覺得，無論蘋果島的東城變成什麽樣，只要水退了，他總能賺一筆，然後想辦法離開。",
+      "translated_vi": "A Cam nghĩ, bất luận Đông Thành của đảo Táo biến thành hình thù gì, chỉ cần nước rút đi, hắn kiểu gì cũng kiếm được một mớ rồi tìm cách rời khỏi đây."
+    },
+    {
+      "para_id": "c0321p0089",
+      "index": 89,
+      "raw_zh": "確定了外面的情況，阿甘才把注意力重新放回那持續了一晚上的撞擊聲上。",
+      "translated_vi": "Xác định xong tình hình bên ngoài, A Cam mới chuyển sự chú ý trở lại tiếng va đập đã dai dẳng suốt cả đêm kia."
+    },
+    {
+      "para_id": "c0321p0090",
+      "index": 90,
+      "raw_zh": "“這樣撞一宿，得是什麽樣的體力？而且若是一般人，無論在屋裡還是在屋外，撞這麽久都撞不開，肯定換一個門，或者走了，再不濟也會知道休息。",
+      "translated_vi": "“Va đập suốt một đêm thế này thì phải có thể lực kinh người đến mức nào? Huống hồ nếu là người bình thường, bất kể ở trong phòng hay ngoài phòng, đập lâu như vậy mà không mở được thì chắc chắn đã đổi sang cửa khác hoặc bỏ đi rồi, tệ lắm cũng phải biết nghỉ ngơi chứ."
+    },
+    {
+      "para_id": "c0321p0091",
+      "index": 91,
+      "raw_zh": "但是很顯然這個撞門的東西不懂得這麽多，那麽撞門一晚上的東西一定不是人，而是不怎麽聰明的動物，會不會是什麽東西跑到了旁邊的房子裡？”",
+      "translated_vi": "Nhưng rõ ràng thứ đang tông cửa kia không hiểu nhiều đến vậy, vậy thì thứ đập cửa suốt đêm nhất định không phải là người, mà là một loài động vật chẳng mấy khôn ngoan. Liệu có phải con vật nào đó đã chạy vào căn phòng bên cạnh chăng?”"
+    },
+    {
+      "para_id": "c0321p0092",
+      "index": 92,
+      "raw_zh": "阿甘眯著眼睛，腦海裡想到了烤肉。",
+      "translated_vi": "A Cam híp mắt lại, trong đầu lập tức liên tưởng đến món thịt nướng."
+    },
+    {
+      "para_id": "c0321p0093",
+      "index": 93,
+      "raw_zh": "“先觀察一下。”",
+      "translated_vi": "“Cứ quan sát trước đã.”"
+    },
+    {
+      "para_id": "c0321p0094",
+      "index": 94,
+      "raw_zh": "阿甘小心翼翼的推開門，把短刀伸出去，利用短刀的側面當鏡子，把門外走廊看了個清楚，確定走廊沒有人和危險動物，這才走出門去。",
+      "translated_vi": "A Cam cẩn thận từng li từng tí đẩy cửa ra, đưa thanh đoản đao ra ngoài, mượn mặt bên của lưỡi đao làm gương soi để quan sát rõ ràng hành lang ngoài cửa, xác định hành lang không có người hay dã thú nguy hiểm nào rồi mới bước chân ra ngoài."
+    },
+    {
+      "para_id": "c0321p0095",
+      "index": 95,
+      "raw_zh": "他順著走廊循著聲音尋找。",
+      "translated_vi": "Hắn men theo hành lang lần theo âm thanh mà tìm kiếm."
+    },
+    {
+      "para_id": "c0321p0096",
+      "index": 96,
+      "raw_zh": "然而他很快發現，自己完全不用找，因為這一層幾乎每個門都發出了這種撞擊聲，甚至隱隱約約還能聽到樓下也傳來這樣的撞擊聲。",
+      "translated_vi": "Thế nhưng hắn nhanh chóng phát hiện ra mình hoàn toàn chẳng cần phải tìm, bởi lẽ gần như mọi cánh cửa trên tầng này đều phát ra tiếng va đập như vậy, thậm chí còn mơ hồ nghe thấy dưới tầng cũng truyền tới âm thanh tương tự."
+    },
+    {
+      "para_id": "c0321p0097",
+      "index": 97,
+      "raw_zh": "阿甘掏出開鎖裝備，來到自己的隔壁，剛準備開鎖，卻突然停了下來。",
+      "translated_vi": "A Cam móc bộ đồ nghề bẻ khóa ra, đi đến trước cửa căn phòng sát vách, vừa chuẩn bị tra khóa mở cửa thì bỗng nhiên dừng phắt lại."
+    },
+    {
+      "para_id": "c0321p0098",
+      "index": 98,
+      "raw_zh": "“不行，不能如此莽撞，必須確定裡面是什麽才行！”",
+      "translated_vi": "“Không được, không thể liều lĩnh như thế, nhất định phải xác định bên trong là thứ gì đã!”"
+    },
+    {
+      "para_id": "c0321p0099",
+      "index": 99,
+      "raw_zh": "想到這，阿甘火速的回到自己的套房。",
+      "translated_vi": "Nghĩ đến đây, A Cam lập tức nhanh như chớp lùi về căn hộ của mình."
+    },
+    {
+      "para_id": "c0321p0100",
+      "index": 100,
+      "raw_zh": "把手機綁在衣帽架上，然後抱著衣帽架來到最靠近隔壁的窗戶旁，打開窗戶，騎在窗台上，把衣帽架伸到隔壁的窗戶處。",
+      "translated_vi": "Hắn lấy điện thoại buộc vào cây treo mũ áo, sau đó ôm cây treo đồ đi đến bên bệ cửa sổ gần vách phòng bên cạnh nhất, đẩy cửa sổ ra, ngồi vắt vẻo lên bệ cửa rồi vươn cây móc áo sang sát cửa sổ phòng bên kia."
+    },
+    {
+      "para_id": "c0321p0101",
+      "index": 101,
+      "raw_zh": "幾秒鍾後，他收回衣帽架，直接在衣帽架上看著自己錄製的視頻。",
+      "translated_vi": "Mấy giây sau, hắn thu cây treo đồ về, trực tiếp xem đoạn video vừa quay được ngay trên máy."
+    },
+    {
+      "para_id": "c0321p0102",
+      "index": 102,
+      "raw_zh": "打開後，就見視頻有些晃動，但是可以朦朧的看到一個窈窕的身影，赤著腳站在門旁，用頭一下一下的使勁撞擊木門，伴隨著在耳邊傳來的“咚咚”聲，就很應景。",
+      "translated_vi": "Mở ra xem, chỉ thấy đoạn video hơi rung lắc, nhưng có thể lờ mờ nhận ra một bóng hình thon thả uyển chuyển đang đi chân trần đứng cạnh cửa, dùng đầu từng cú từng cú nện mạnh vào cánh cửa gỗ, phối hợp với tiếng \"thùng thùng\" vẳng bên tai thì quả thực vô cùng ăn khớp."
+    },
+    {
+      "para_id": "c0321p0103",
+      "index": 103,
+      "raw_zh": "“餓傻了？用腦袋撞門？”",
+      "translated_vi": "“Đói đến lú lẫn rồi sao? Lại dùng đầu tông cửa?”"
+    },
+    {
+      "para_id": "c0321p0104",
+      "index": 104,
+      "raw_zh": "阿甘是個謹慎的人，決定再錄製一段瞧瞧。",
+      "translated_vi": "A Cam là người cẩn trọng, quyết định quay thêm một đoạn nữa xem sao."
+    },
+    {
+      "para_id": "c0321p0105",
+      "index": 105,
+      "raw_zh": "重複之前的方法，只是這一次不小心觸碰了旁邊窗戶，而就在阿甘觸碰隔壁窗戶的那一刻，耳邊最響的撞擊聲消失了，也就意味著隔壁的人發現了自己的手機攝像。",
+      "translated_vi": "Hắn lặp lại cách thức vừa rồi, chỉ có điều lần này vô ý chạm phải mép cửa sổ bên cạnh, mà ngay khoảnh khắc A Cam va vào cửa sổ sát vách, tiếng va đập chói tai nhất bên tai liền biến mất, cũng đồng nghĩa với việc người bên phòng cạnh đã phát hiện ra camera điện thoại của hắn."
+    },
+    {
+      "para_id": "c0321p0106",
+      "index": 106,
+      "raw_zh": "阿甘急忙收回衣帽架，迅速回到臥室，關嚴了窗戶，聽到旁邊沒什麽動靜，這才放下心來，打開錄像回放。",
+      "translated_vi": "A Cam vội vã thu cây treo đồ về, nhanh chóng thụt lùi vào phòng ngủ rồi đóng chặt cửa sổ lại, lắng nghe bên cạnh không có động tĩnh gì mới thở phào an tâm, bật video xem lại."
+    },
+    {
+      "para_id": "c0321p0107",
+      "index": 107,
+      "raw_zh": "依舊是那窈窕的身影在撞擊木門，但是隨著手機屏幕一震蕩，那撞門的女人身體突然頓住，似乎靜止了一般。",
+      "translated_vi": "Vẫn là bóng dáng yểu điệu kia đang tông cửa gỗ, nhưng theo một thoáng rung giật trên màn hình điện thoại, thân hình người phụ nữ đập cửa đột ngột khựng lại, dường như hóa đá."
+    },
+    {
+      "para_id": "c0321p0108",
+      "index": 108,
+      "raw_zh": "緊接著，那身影緩緩的回過身來。",
+      "translated_vi": "Ngay sau đó, bóng hình kia từ từ quay người lại."
+    },
+    {
+      "para_id": "c0321p0109",
+      "index": 109,
+      "raw_zh": "哪怕是如此朦朧的光線，但是在高敏度手機攝像頭下，那人的五官面孔還蠻清晰的。",
+      "translated_vi": "Dẫu ánh sáng mờ mịt đến thế, nhưng dưới ống kính camera điện thoại có độ nhạy sáng cao, ngũ quan khuôn mặt của đối phương vẫn hiện lên khá rõ nét."
+    },
+    {
+      "para_id": "c0321p0110",
+      "index": 110,
+      "raw_zh": "只是一眼，阿甘就驚訝低聲叫道：",
+      "translated_vi": "Chỉ liếc mắt một cái, A Cam đã thảng thốt thốt lên thì thào:"
+    },
+    {
+      "para_id": "c0321p0111",
+      "index": 111,
+      "raw_zh": "“納尼？我選中的表演老師瀨亞美！她原來就住在我隔壁！也對，她可能知道明天在這裡拍攝，所以提前住下來，真是敬業啊！",
+      "translated_vi": "“Nani?! Cô giáo dạy diễn xuất mà mình chấm trúng, Lại Á Mỹ! Hóa ra cô ấy ở ngay sát vách phòng mình! Mà cũng phải, chắc là cô ấy biết ngày mai sẽ quay phim ở đây nên mới dọn đến ở trước, quả là tận tụy với nghề thật đấy!"
+    },
+    {
+      "para_id": "c0321p0112",
+      "index": 112,
+      "raw_zh": "表演老師屋內桌子上，好大一堆的零食啊！”",
+      "translated_vi": "Trên bàn trong phòng cô giáo dạy diễn xuất còn có cả một đống đồ ăn vặt to tướng nữa kìa!”"
+    },
+    {
+      "para_id": "c0321p0113",
+      "index": 113,
+      "raw_zh": "阿甘突然發現，自己已經沒有理由不去打開隔壁的門。",
+      "translated_vi": "A Cam chợt nhận ra mình đã chẳng còn lý do gì để không mở cánh cửa phòng bên cạnh nữa."
+    },
+    {
+      "para_id": "c0321p0114",
+      "index": 114,
+      "raw_zh": "“瀨亞美的動作有些遲鈍，還用腦袋撞門，很顯然已經精神崩潰，我拿走食物，她應該不會反對，如果她沒有暴力傾向，我也可以照顧照顧她，深入一個粉絲的真愛。”",
+      "translated_vi": "“Động tác của Lại Á Mỹ hơi đờ đẫn, lại còn dùng đầu tông cửa, rõ ràng tinh thần đã suy sụp rồi. Mình lấy đi số thức ăn kia chắc cô ấy sẽ không phản đối đâu, nếu cô ấy không có khuynh hướng bạo lực thì mình cũng có thể chăm sóc cô ấy một chút, thể hiện tình yêu chân chính sâu sắc của một người hâm mộ.”"
+    },
+    {
+      "para_id": "c0321p0115",
+      "index": 115,
+      "raw_zh": "想到這，他連續兩口，把手裡的煙屁吸到根，直接扔到地板上一腳碾滅，然後出門來到隔壁瀨亞美的門前。",
+      "translated_vi": "Nghĩ đến đây, hắn rít liền hai hơi, hút mẩu tàn thuốc trong tay tới sát cuống rồi ném toẹt xuống sàn nhà, lấy chân giẫm tắt, sau đó mở cửa bước tới trước phòng của Lại Á Mỹ sát vách."
+    },
+    {
+      "para_id": "c0321p0116",
+      "index": 116,
+      "raw_zh": "他掏出萬能鑰匙，快速的打開那扇門，側耳傾聽了一下，確定人不在門前，這才故技重施，用腰挎一壓一擠木門，木門直接撞開。",
+      "translated_vi": "Hắn rút chìa khóa vạn năng ra, mau lẹ mở khóa cánh cửa kia, ghé tai lắng nghe một lát, xác định người bên trong không đứng sát cửa mới lặp lại mánh cũ, dùng hông tì mạnh thúc một cú, cánh cửa gỗ lập tức bật tung ra."
+    },
+    {
+      "para_id": "c0321p0117",
+      "index": 117,
+      "raw_zh": "瀨亞美果然不在門前，而是在窗前。",
+      "translated_vi": "Lại Á Mỹ quả nhiên không đứng trước cửa, mà đang ở trước cửa sổ."
+    },
+    {
+      "para_id": "c0321p0118",
+      "index": 118,
+      "raw_zh": "背影雖然美，但是動作傻乎乎的，有些木然。",
+      "translated_vi": "Tấm lưng dẫu đẹp đẽ mướt mắt, nhưng cử động lại ngây ngô đờ đẫn, có phần chết sững."
+    },
+    {
+      "para_id": "c0321p0119",
+      "index": 119,
+      "raw_zh": "在窗戶前，用美甲的手指在玻璃上撓著，吱嘎吱嘎的難聽。",
+      "translated_vi": "Đứng trước cửa sổ, cô ta dùng những ngón tay làm móng cầu kỳ cào sột soạt lên mặt kính, phát ra những thanh âm ken két chói tai rợn người."
+    },
+    {
+      "para_id": "c0321p0120",
+      "index": 120,
+      "raw_zh": "撞門的聲響吸引了瀨亞美的注意力。",
+      "translated_vi": "Tiếng tông cửa bật mở đã thu hút sự chú ý của Lại Á Mỹ."
+    },
+    {
+      "para_id": "c0321p0121",
+      "index": 121,
+      "raw_zh": "依舊如手機拍到的一樣，瀨亞美愣了一下，然後緩緩的轉過身來。",
+      "translated_vi": "Vẫn y như những gì điện thoại ghi lại được, Lại Á Mỹ sững sờ trong giây lát, rồi chậm rãi xoay người lại."
+    },
+    {
+      "para_id": "c0321p0122",
+      "index": 122,
+      "raw_zh": "那阿甘無數次夢想過的面孔，無數次夢到過的凸凹，那麽近。",
+      "translated_vi": "Khuôn mặt mà A Cam từng bao lần tơ tưởng, những đường cong lồi lõm từng vô số bận xuất hiện trong giấc mơ của hắn, giờ đây đang ở ngay trước mắt, gần đến nhường này."
+    },
+    {
+      "para_id": "c0321p0123",
+      "index": 123,
+      "raw_zh": "阿甘呼吸莫名有了一點急促。",
+      "translated_vi": "Nhịp thở của A Cam bỗng chốc dồn dập một cách khó hiểu."
+    },
+    {
+      "para_id": "c0321p0124",
+      "index": 124,
+      "raw_zh": "不是別的，瀨亞美的眼神有點不對。",
+      "translated_vi": "Không phải vì chuyện gì khác, mà là ánh mắt của Lại Á Mỹ có điểm bất thường."
+    },
+    {
+      "para_id": "c0321p0125",
+      "index": 125,
+      "raw_zh": "沒有黑眼珠不說，還布滿了蜘蛛網一樣的黑線。",
+      "translated_vi": "Chẳng những không thấy tròng đen đâu, mà trong mắt còn chằng chịt những đường tơ đen như mạng nhện."
+    },
+    {
+      "para_id": "c0321p0126",
+      "index": 126,
+      "raw_zh": "最主要的是，瀨亞美還向著阿甘張開手臂撲了過來。",
+      "translated_vi": "Đáng sợ nhất là, Lại Á Mỹ còn giang rộng hai tay, lao thẳng về phía A Cam."
+    },
+    {
+      "para_id": "c0321p0127",
+      "index": 127,
+      "raw_zh": "若是拍戲的時候，阿甘自然知道瀨亞美要幹嘛。",
+      "translated_vi": "Nếu là lúc quay phim, A Cam đương nhiên biết tỏng Lại Á Mỹ muốn làm gì."
+    },
+    {
+      "para_id": "c0321p0128",
+      "index": 128,
+      "raw_zh": "但現在不是拍戲，阿甘卻依舊知道瀨亞美為什麽撲過來。",
+      "translated_vi": "Nhưng hiện tại chẳng phải là đóng phim, vậy mà A Cam vẫn thừa biết vì sao Lại Á Mỹ lại nhào tới."
+    },
+    {
+      "para_id": "c0321p0129",
+      "index": 129,
+      "raw_zh": "因為那動作太像行屍走肉了。",
+      "translated_vi": "Bởi vì động tác ấy giống hệt như một cái xác sống biết đi."
+    },
+    {
+      "para_id": "c0321p0130",
+      "index": 130,
+      "raw_zh": "於是，阿甘悲哀的呢喃了一句“對不起，我的演員夢”，然後手起刀落。",
+      "translated_vi": "Thế là, A Cam đau xót lẩm bẩm một câu \"Xin lỗi nhé, giấc mộng làm diễn viên của tôi\", đoạn vung tay hạ đao dứt khoát."
+    },
+    {
+      "para_id": "c0321p0131",
+      "index": 131,
+      "raw_zh": "瀨亞美可以提頭來見了。",
+      "translated_vi": "Lại Á Mỹ xem như đã có thể xách đầu tới gặp rồi."
+    },
+    {
+      "para_id": "c0321p0132",
+      "index": 132,
+      "raw_zh": "阿甘面對著自己的偶像，默哀一秒，走進屋裡，把那一堆零食拿走，回到自己的房間，鎖好了門，甚至把桌子也挪過去，頂在門上。",
+      "translated_vi": "Đối diện với thần tượng của mình, A Cam mặc niệm đúng một giây, sau đó sải bước vào trong phòng vơ sạch đống đồ ăn vặt kia đem về phòng mình, khóa chặt then cửa, thậm chí còn kéo cả chiếc bàn sang chèn cứng vào sau cánh cửa."
+    },
+    {
+      "para_id": "c0321p0133",
+      "index": 133,
+      "raw_zh": "滴水觀海。",
+      "translated_vi": "Nhìn một giọt nước thấy cả đại dương."
+    },
+    {
+      "para_id": "c0321p0134",
+      "index": 134,
+      "raw_zh": "阿甘終於知道那密集的“咚咚”撞擊聲是怎麽回事了。",
+      "translated_vi": "A Cam rốt cuộc đã hiểu tiếng đập cửa \"thùng thùng\" dồn dập kia là từ đâu mà ra."
+    },
+    {
+      "para_id": "c0321p0135",
+      "index": 135,
+      "raw_zh": "“老天爺啊，這怎麽可能是真的，T病篤嗎？生化危機還是行屍走肉？”",
+      "translated_vi": "“Ông trời ơi, chuyện này sao có thể là thật được chứ, virus T phát tác à? Resident Evil hay là The Walking Dead vậy?”"
+    },
+    {
+      "para_id": "c0321p0136",
+      "index": 136,
+      "raw_zh": "“應該不是所有人都變成了瀨亞美那種喪屍般的怪物，那幾個在海裡撲騰的人，很明顯都是正常人，”",
+      "translated_vi": "“Chắc không phải ai cũng biến thành quái vật dạng xác sống như Lại Á Mỹ đâu, mấy người đang vùng vẫy dưới biển kia rõ ràng đều là người bình thường mà,”"
+    },
+    {
+      "para_id": "c0321p0137",
+      "index": 137,
+      "raw_zh": "“看來海水徹底沉下去以後，才是真正危機的開始！”",
+      "translated_vi": "“Xem ra sau khi nước biển rút cạn hoàn toàn mới là lúc nguy cơ thực sự bắt đầu!”"
+    },
+    {
+      "para_id": "c0321p0138",
+      "index": 138,
+      "raw_zh": "“佛祖啊，我已經放下了，你怎麽還放不下呢？”",
+      "translated_vi": "“Đức Phật ơi, con đã buông bỏ rồi, sao người vẫn chưa chịu buông tha cho con thế?”"
+    },
+    {
+      "para_id": "c0321p0139",
+      "index": 139,
+      "raw_zh": "阿甘看了一眼窗外的水位。",
+      "translated_vi": "A Cam liếc nhìn mực nước bên ngoài cửa sổ."
+    },
+    {
+      "para_id": "c0321p0140",
+      "index": 140,
+      "raw_zh": "此時水位下降的速度越來越快，按照這個速度，明天恐怕就能露出地面。",
+      "translated_vi": "Lúc này tốc độ hạ của mực nước ngày càng nhanh, cứ theo đà này thì e rằng đến ngày mai mặt đất sẽ lộ ra."
+    },
+    {
+      "para_id": "c0321p0141",
+      "index": 141,
+      "raw_zh": "阿甘斟酌一番，打開零食袋，開始大口的吃了起來。",
+      "translated_vi": "A Cam cân nhắc một hồi rồi xé toạc túi đồ ăn vặt, bắt đầu ngấu nghiến từng tảng lớn."
+    },
+    {
+      "para_id": "c0321p0142",
+      "index": 142,
+      "raw_zh": "體力現在成了最重要的條件，他需要離開這裡，而明天要面對的可能是一群瀨亞美那樣的怪物。",
+      "translated_vi": "Thể lực lúc này đã trở thành điều kiện tiên quyết quan trọng nhất, hắn cần phải rời khỏi nơi đây, mà ngày mai thứ hắn phải đối mặt rất có thể là cả một bầy quái vật giống như Lại Á Mỹ."
+    },
+    {
+      "para_id": "c0321p0143",
+      "index": 143,
+      "raw_zh": "然而阿甘終究失算了，事情的發展與他的猜測，完全不是一個劇本。",
+      "translated_vi": "Thế nhưng A Cam rốt cuộc đã tính sai, chiều hướng phát triển của sự việc hoàn toàn chẳng đi theo kịch bản mà hắn dự liệu."
+    },
+    {
+      "para_id": "c0321p0144",
+      "index": 144,
+      "raw_zh": "吃飽後，阿甘檢查了門窗，確定安全，這才倒在床上，抱著短刀，閉目睡去。",
+      "translated_vi": "Ăn no nê xong xuôi, A Cam kiểm tra lại cửa nẻo cùng then song, xác định an toàn rồi mới ngả lưng xuống giường, ôm chặt thanh đoản đao, nhắm mắt chìm vào giấc ngủ."
+    },
+    {
+      "para_id": "c0321p0145",
+      "index": 145,
+      "raw_zh": "第二天醒來，阿甘把剩下的食物一口氣吃乾淨，還補充了幾片維生素，看著鏡子裡胡子拉碴的自己，沉聲道：",
+      "translated_vi": "Ngày hôm sau tỉnh dậy, A Cam một hơi chén sạch số thức ăn còn lại, còn uống bổ sung thêm mấy viên vitamin, đoạn nhìn vào hình bóng râu ria lởm chởm của mình trong gương, trầm giọng tự nhủ:"
+    },
+    {
+      "para_id": "c0321p0146",
+      "index": 146,
+      "raw_zh": "“阿甘！加油！殺出去，殺出一條生路！沒有什麽困難能夠阻撓你幸福！”",
+      "translated_vi": "“A Cam! Cố lên! Giết ra ngoài, chém ra một con đường sống! Không một trắc trở nào có thể ngăn cản mày chạm tới hạnh phúc!”"
+    },
+    {
+      "para_id": "c0321p0147",
+      "index": 147,
+      "raw_zh": "說完，阿甘整個人充滿了逼人的氣勢，面帶著獰笑，抽出了短刀，把桌子一腳蹬開。",
+      "translated_vi": "Dứt lời, cả người A Cam toát ra khí thế áp bức bức người, khóe môi nở một nụ cười dữ tợn, hắn tuốt phắt đoản đao ra, vung một cước đạp văng chiếc bàn sang một bên."
+    },
+    {
+      "para_id": "c0321p0148",
+      "index": 148,
+      "raw_zh": "桌子上的煙灰缸飛射出去，砸在壁燈的開關上。",
+      "translated_vi": "Chiếc gạt tàn trên mặt bàn bắn vọt ra ngoài, đập trúng vào công tắc đèn tường."
+    },
+    {
+      "para_id": "c0321p0149",
+      "index": 149,
+      "raw_zh": "“哢！”",
+      "translated_vi": "“Tạch!”"
+    },
+    {
+      "para_id": "c0321p0150",
+      "index": 150,
+      "raw_zh": "燈，它亮了！",
+      "translated_vi": "Đèn... sáng lên rồi!"
+    }
+  ]
+}

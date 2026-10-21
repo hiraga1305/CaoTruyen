@@ -1,0 +1,32 @@
+{
+  "authentication": "cached_account; GEMINI_API_KEY unset",
+  "requested_model": "gemini-3.8-flash-high",
+  "agent": null,
+  "exit_code": 0,
+  "workspace": "D:\\AI\\Antigravity\\CaoTruyen",
+  "duration_seconds": 27.05,
+  "status": "SUCCESS",
+  "conversation_id": "949fbab8-9075-4e31-a1c0-b8132b3aef40",
+  "usage": {
+    "input_tokens": 15018,
+    "output_tokens": 2531,
+    "thinking_tokens": 2454,
+    "cache_read_tokens": 0,
+    "total_tokens": 17549
+  },
+  "result": {
+    "conversation_id": "949fbab8-9075-4e31-a1c0-b8132b3aef40",
+    "status": "SUCCESS",
+    "response": "§1 Chân thành cảm ơn minh chủ Lam Thị Hắc đã thưởng lớn, cảm ơn sự cổ vũ bằng phiếu tháng của Lam Thị Hắc. Mọi từ ngữ đều chẳng đủ để diễn tả niềm cảm kích trong lòng, chỉ có hành động thực tế mới bộc lộ được tâm trạng lúc này: Tôi phải bạo chương! Bạo chương! Bạo chương!!!\n",
+    "duration_seconds": 23.4780136,
+    "num_turns": 1,
+    "usage": {
+      "input_tokens": 15018,
+      "output_tokens": 2531,
+      "thinking_tokens": 2454,
+      "cache_read_tokens": 0,
+      "total_tokens": 17549
+    }
+  },
+  "event_count": 20
+}

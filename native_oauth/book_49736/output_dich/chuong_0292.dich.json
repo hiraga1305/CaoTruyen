@@ -1,0 +1,638 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 292,
+  "title": "Chương 292: Ép Cửu Đồ phạm sai lầm",
+  "total_paragraphs": 104,
+  "translated_paragraphs": 104,
+  "source_hash": "f9820e15aa0b5eb911c6988effe0b499eef0e997c58e108bffc043de1f4d75a8",
+  "model_used": "gemini-3.8-flash-high",
+  "elapsed_seconds": 175.87,
+  "bilingual_alignment": [
+    {
+      "para_id": "c0292p0001",
+      "index": 1,
+      "raw_zh": "292.第292章 逼著九屠犯錯",
+      "translated_vi": "Chương 292: Ép Cửu Đồ phạm sai lầm"
+    },
+    {
+      "para_id": "c0292p0002",
+      "index": 2,
+      "raw_zh": "第292章 逼著九屠犯錯",
+      "translated_vi": "Chương 292: Ép Cửu Đồ phạm sai lầm"
+    },
+    {
+      "para_id": "c0292p0003",
+      "index": 3,
+      "raw_zh": "事情是這樣的。",
+      "translated_vi": "Chuyện là thế này."
+    },
+    {
+      "para_id": "c0292p0004",
+      "index": 4,
+      "raw_zh": "雲千峰正在觀察山形水勢，發現天色有些晚了，便決定打道回府，趁天亮前回避身所，明日再繼續。",
+      "translated_vi": "Vân Thiên Phong đang quan sát hình thế núi sông, phát hiện trời đã muộn bèn quyết định quay về, tranh thủ trước lúc trời sáng trở về nơi ẩn thân, mai lại tiếp tục."
+    },
+    {
+      "para_id": "c0292p0005",
+      "index": 5,
+      "raw_zh": "回到未庫駐地後，他習慣性的直接去泉水裡拿出一罐冷泉鎮涼的可樂。",
+      "translated_vi": "Sau khi về tới cứ điểm kho Vị, theo thói quen hắn ra ngay chỗ dòng suối lấy một lon coca được ướp lạnh tự nhiên."
+    },
+    {
+      "para_id": "c0292p0006",
+      "index": 6,
+      "raw_zh": "拽掉拉環，猛灌一口後，全吐了。",
+      "translated_vi": "Giật phắt khoen nắp, ừng ực tu một ngụm lớn, rồi hắn phun sạch ra ngoài."
+    },
+    {
+      "para_id": "c0292p0007",
+      "index": 7,
+      "raw_zh": "罐子裡根本不是可樂，而就是泉水。",
+      "translated_vi": "Trong lon hoàn toàn không phải coca, mà chính là nước suối."
+    },
+    {
+      "para_id": "c0292p0008",
+      "index": 8,
+      "raw_zh": "這讓雲千峰非常詫異，因為罐子完好，自己才剛剛拽下拉環，裡面的飲料怎麽變成了泉水？",
+      "translated_vi": "Điều này khiến Vân Thiên Phong vô cùng kinh ngạc, bởi vỏ lon vẫn còn nguyên vẹn, chính tay hắn mới vừa giật nắp, cớ sao đồ uống bên trong lại biến thành nước suối?"
+    },
+    {
+      "para_id": "c0292p0009",
+      "index": 9,
+      "raw_zh": "“難道全知之眼複製物品時出現了bug？",
+      "translated_vi": "\"Chẳng lẽ Toàn Tri Chi Nhãn khi sao chép vật phẩm đã dính bug rồi?\""
+    },
+    {
+      "para_id": "c0292p0010",
+      "index": 10,
+      "raw_zh": "不對！若是那樣，昨天的飲料味道為何沒有問題？定然有鬼！”",
+      "translated_vi": "\"Không đúng! Nếu quả thực như thế thì vị nước hôm qua sao lại chẳng có vấn đề gì? Nhất định có ma quỷ gì ở đây!\""
+    },
+    {
+      "para_id": "c0292p0011",
+      "index": 11,
+      "raw_zh": "想到這，他第一時間看向旁邊烤牛編的楊玉奴。",
+      "translated_vi": "Nghĩ tới đó, việc đầu tiên hắn làm là đưa mắt nhìn sang Dương Ngọc Nô đang nướng pín bò ở bên cạnh."
+    },
+    {
+      "para_id": "c0292p0012",
+      "index": 12,
+      "raw_zh": "這女人一臉認真，極小心的掌控著火候，似乎生怕將牛編烤焦。",
+      "translated_vi": "Người phụ nữ này vẻ mặt chăm chú, cực kỳ cẩn thận khống chế ngọn lửa, dường như sợ làm cháy mất chỗ pín bò."
+    },
+    {
+      "para_id": "c0292p0013",
+      "index": 13,
+      "raw_zh": "“不對，不能是她，罐子是完好的，也沒漏，應該就是bug了。而且人一般都會做賊心虛，楊玉奴臉上絕無這種神情。”",
+      "translated_vi": "\"Không phải, không thể là cô ta được, vỏ lon còn nguyên vẹn, cũng chẳng hề rò rỉ, chắc là dính bug thật rồi. Hơn nữa người ta thường có tật giật mình, trên mặt Dương Ngọc Nô tuyệt đối không có nét biểu cảm ấy.\""
+    },
+    {
+      "para_id": "c0292p0014",
+      "index": 14,
+      "raw_zh": "想著，雲千峰把易拉罐扔掉，決定明天再去海裡逛逛，再找一些羅琳娜送來的物資。",
+      "translated_vi": "Nghĩ đoạn, Vân Thiên Phong vứt vỏ lon đi, quyết định ngày mai lại ra biển lượn một vòng, tìm thêm ít nhu yếu phẩm mà Rolina gửi tới."
+    },
+    {
+      "para_id": "c0292p0015",
+      "index": 15,
+      "raw_zh": "這一起身，恰好看到水邊岩石上有一些牛骨的碎渣，貌似還是煮過的。",
+      "translated_vi": "Vừa đứng dậy, hắn tình cờ trông thấy trên tảng đá ven mép nước có vài mẩu xương bò vụn, nom chừng còn như đã từng bị ninh qua."
+    },
+    {
+      "para_id": "c0292p0016",
+      "index": 16,
+      "raw_zh": "“煮牛骨幹什麽？而且還是敲碎了煮。”",
+      "translated_vi": "\"Ninh xương bò làm cái gì? Đã thế lại còn đập nát vụn ra rồi mới ninh.\""
+    },
+    {
+      "para_id": "c0292p0017",
+      "index": 17,
+      "raw_zh": "於是轉身問楊玉奴道：",
+      "translated_vi": "Thế là hắn quay người lại hỏi Dương Ngọc Nô:"
+    },
+    {
+      "para_id": "c0292p0018",
+      "index": 18,
+      "raw_zh": "“大丫鬟，你弄牛骨頭幹嘛？”",
+      "translated_vi": "\"Này đại nha hoàn, cô nghịch xương bò làm gì đấy?\""
+    },
+    {
+      "para_id": "c0292p0019",
+      "index": 19,
+      "raw_zh": "楊玉環翻動了一下牛編，回道：",
+      "translated_vi": "Dương Ngọc Hoàn trở miếng pín bò một cái, đáp:"
+    },
+    {
+      "para_id": "c0292p0020",
+      "index": 20,
+      "raw_zh": "“把裡面的骨髓敲出來，骨髓美容養顏的。”",
+      "translated_vi": "\"Đập lấy tủy xương bên trong ạ, tủy xương dùng để dưỡng nhan làm đẹp.\""
+    },
+    {
+      "para_id": "c0292p0021",
+      "index": 21,
+      "raw_zh": "雲千峰點了點頭，心討女人愛美，把骨髓弄出來吃掉就很合理。",
+      "translated_vi": "Vân Thiên Phong gật đầu, bụng bảo dạ đàn bà vốn thích làm đẹp, lấy tủy xương ra tẩm bổ cũng là điều hợp lý."
+    },
+    {
+      "para_id": "c0292p0022",
+      "index": 22,
+      "raw_zh": "然而，當他坐下準備吃烤好的牛鞭時，腦子裡靈光一閃，心中暗討：",
+      "translated_vi": "Thế nhưng, khi vừa ngồi xuống chuẩn bị chén miếng pín bò đã nướng chín, trong đầu hắn bỗng lóe lên một tia sáng, thầm nhủ:"
+    },
+    {
+      "para_id": "c0292p0023",
+      "index": 23,
+      "raw_zh": "“這不對啊！敲骨髓哪裡需要敲那麽碎，最多裂開就夠了。”",
+      "translated_vi": "\"Khoan đã, không đúng! Lấy tủy xương thì việc gì phải đập nát vụn đến mức ấy, cùng lắm chỉ cần gõ nứt ra là đủ rồi.\""
+    },
+    {
+      "para_id": "c0292p0024",
+      "index": 24,
+      "raw_zh": "想著，他轉身到了岸邊的大青石上，用手抹了一把，就見手指肚上沾了很多粉末。",
+      "translated_vi": "Nghĩ vậy, hắn quay người bước tới phiến đá xanh bên bờ nước, đưa tay quệt một cái, quả nhiên thấy đầu ngón tay dính đầy bột mịn."
+    },
+    {
+      "para_id": "c0292p0025",
+      "index": 25,
+      "raw_zh": "他用手攆了攆，那粉末非常細膩，色澤白色略黃。",
+      "translated_vi": "Hắn vê nhẹ đầu ngón tay, lớp bột kia cực kỳ mịn màng, màu trắng hơi ngả vàng."
+    },
+    {
+      "para_id": "c0292p0026",
+      "index": 26,
+      "raw_zh": "然後跑到不遠處，把扔掉的易拉罐撿起來，在撕掉的拉環邊緣摸了一下，再看手指肚上，也有類似的粉末，只不過顏色更深一些。",
+      "translated_vi": "Đoạn hắn chạy tới chỗ cách đó không xa, nhặt lại chiếc vỏ lon vừa vứt đi, miết nhẹ vào mép khoen giật đã bị xé mở, nhìn lại đầu ngón tay, cũng thấy dính thứ bột tương tự, chỉ có điều màu sắc sẫm hơn một chút."
+    },
+    {
+      "para_id": "c0292p0027",
+      "index": 27,
+      "raw_zh": "看到這，雲千峰心中已經有了這件事的輪廓。",
+      "translated_vi": "Thấy cảnh này, trong lòng Vân Thiên Phong đã phác họa ra toàn bộ chân tướng sự việc."
+    },
+    {
+      "para_id": "c0292p0028",
+      "index": 28,
+      "raw_zh": "當下去泉水裡再次拿出一個沒開罐的可樂，溜達到楊玉奴身前，臉上帶著陰刺刺的笑。",
+      "translated_vi": "Hắn lập tức ra chỗ dòng suối lấy thêm một lon coca chưa khui nắp, thong thả lượn tới trước mặt Dương Ngọc Nô, trên mặt nở nụ cười đầy quái gở."
+    },
+    {
+      "para_id": "c0292p0029",
+      "index": 29,
+      "raw_zh": "楊玉奴的表情略有一些不自然，咽了口唾沫問道：",
+      "translated_vi": "Nét mặt Dương Ngọc Nô thoáng chút mất tự nhiên, nàng nuốt nước bọt hỏi:"
+    },
+    {
+      "para_id": "c0292p0030",
+      "index": 30,
+      "raw_zh": "“郎君為何這樣看妾身？看得太真心裡慌。”",
+      "translated_vi": "\"Lang quân cớ sao lại nhìn thiếp như vậy? Ánh mắt chăm chú quá làm lòng Thái Chân hoảng hốt.\""
+    },
+    {
+      "para_id": "c0292p0031",
+      "index": 31,
+      "raw_zh": "雲千峰“哼哼”笑了兩聲，問道：",
+      "translated_vi": "Vân Thiên Phong cười khẩy hai tiếng, cất giọng hỏi:"
+    },
+    {
+      "para_id": "c0292p0032",
+      "index": 32,
+      "raw_zh": "“大丫鬟，是不是你把我罐子裡的水換了？”",
+      "translated_vi": "\"Đại nha hoàn, có phải cô tráo nước ngọt trong lon của tôi rồi không?\""
+    },
+    {
+      "para_id": "c0292p0033",
+      "index": 33,
+      "raw_zh": "楊玉奴面露驚訝，還有委屈：",
+      "translated_vi": "Dương Ngọc Nô lộ vẻ kinh ngạc, lại thêm phần tủi thân:"
+    },
+    {
+      "para_id": "c0292p0034",
+      "index": 34,
+      "raw_zh": "“郎君何出此言？郎君當妾身是什麽？賊嗎？若是如此，妾身活不得了。”",
+      "translated_vi": "\"Lang quân cớ sao lại nói lời ấy? Lang quân coi thiếp là hạng người gì chứ? Là phường trộm cắp sao? Nếu quả thực như vậy thì thiếp chẳng còn thiết sống nữa.\""
+    },
+    {
+      "para_id": "c0292p0035",
+      "index": 35,
+      "raw_zh": "說著，已經是眼淚汪汪。",
+      "translated_vi": "Vừa dứt lời, khóe mắt nàng đã ngân ngấn lệ."
+    },
+    {
+      "para_id": "c0292p0036",
+      "index": 36,
+      "raw_zh": "雲千峰點了根煙，使勁吸了一口，淡淡道：",
+      "translated_vi": "Vân Thiên Phong châm một điếu thuốc, rít mạnh một hơi sâu, thản nhiên nói:"
+    },
+    {
+      "para_id": "c0292p0037",
+      "index": 37,
+      "raw_zh": "“說吧，你是怎麽做到的？從實招來，輕罰！若是嘴硬，明日裡把伱送回礁石上自生自滅。”",
+      "translated_vi": "\"Nói đi, cô làm bằng cách nào? Thành thật khai báo thì phạt nhẹ! Còn nếu mạnh mồm ngoan cố, ngày mai tôi tống cô về lại bãi đá ngầm cho tự sinh tự diệt.\""
+    },
+    {
+      "para_id": "c0292p0038",
+      "index": 38,
+      "raw_zh": "楊玉奴一抹眼淚，吧唧往地上一跪，語速很快很清晰，表情認真嚴肅：",
+      "translated_vi": "Dương Ngọc Nô quệt nước mắt, cái 'bẹp' một tiếng quỳ sụp xuống đất, lời lẽ nói ra vừa nhanh vừa rõ ràng, nét mặt cực kỳ nghiêm túc:"
+    },
+    {
+      "para_id": "c0292p0039",
+      "index": 39,
+      "raw_zh": "“太真嗜甜成癮，禁不住甜食誘惑，一時鬼迷心竅，膽大包天，把郎君的鐵罐開小口，把裡面的水喝了，然後怕郎君責罰，就灌上了泉水，又熬了骨膠小心黏好，以石塊壓平實，郎君輕罰要說話算話！”",
+      "translated_vi": "\"Thái Chân nghiện đồ ngọt, không kìm lòng nổi trước cám dỗ, một thoáng ma xui quỷ khiến, to gan lớn mật cạy một lỗ nhỏ trên lon sắt của lang quân để uống cạn nước bên trong. Sau đó sợ lang quân trừng phạt nên mới rót đầy nước suối vào, rồi lại ninh keo xương cẩn thận dán kín lại, dùng đá ép cho phẳng phiu. Lang quân đã nói phạt nhẹ thì phải giữ lời đấy nhé!\""
+    },
+    {
+      "para_id": "c0292p0040",
+      "index": 40,
+      "raw_zh": "雲千峰罵道：",
+      "translated_vi": "Vân Thiên Phong mắng:"
+    },
+    {
+      "para_id": "c0292p0041",
+      "index": 41,
+      "raw_zh": "“為了吃，你能毀天滅地啊！竟然為了口喝的，費勁的熬了骨膠，我真服了你！誰說的X大無腦啊？在你這就不成立，說吧，給我留了幾罐沒喝的？”",
+      "translated_vi": "\"Vì ăn mà cô có thể hủy thiên diệt địa được đấy! Chỉ vì hớp nước uống mà nhọc công đi ninh keo xương, tôi đến chịu cô rồi! Đứa nào bảo ngực to óc quả nho hả? Rơi vào người cô thì chẳng đúng tí nào. Khai mau, để lại cho tôi mấy lon chưa uống?\""
+    },
+    {
+      "para_id": "c0292p0042",
+      "index": 42,
+      "raw_zh": "楊玉奴低著頭不出聲。",
+      "translated_vi": "Dương Ngọc Nô cúi gằm mặt không dám hó hé một câu."
+    },
+    {
+      "para_id": "c0292p0043",
+      "index": 43,
+      "raw_zh": "雲千峰一拍大腿，知道這是一點沒留，給包圓了，當下罵道：",
+      "translated_vi": "Vân Thiên Phong vỗ đùi đánh đét, biết ngay là chẳng chừa lại lon nào, bị ả ta chén sạch bách rồi, lập tức mắng:"
+    },
+    {
+      "para_id": "c0292p0044",
+      "index": 44,
+      "raw_zh": "“一罐220毫升，你特麽喝了十罐，你不怕糖尿病啊！”",
+      "translated_vi": "\"Một lon hai trăm hai mươi mililit, mẹ kiếp cô nốc một hơi mười lon, không sợ bị tiểu đường à!\""
+    },
+    {
+      "para_id": "c0292p0045",
+      "index": 45,
+      "raw_zh": "楊玉奴低著頭，嘟囔道：",
+      "translated_vi": "Dương Ngọc Nô cúi đầu, lẩm bẩm:"
+    },
+    {
+      "para_id": "c0292p0046",
+      "index": 46,
+      "raw_zh": "“太真就是禁不住甜食誘惑嘛，郎君說好輕罰，說話算話就好，太真領罰就是。”",
+      "translated_vi": "\"Thái Chân chỉ là không cưỡng lại được cám dỗ của đồ ngọt thôi mà. Lang quân đã bảo phạt nhẹ thì giữ lời là được, Thái Chân xin chịu phạt.\""
+    },
+    {
+      "para_id": "c0292p0047",
+      "index": 47,
+      "raw_zh": "雲千峰勾了勾手指，道：",
+      "translated_vi": "Vân Thiên Phong ngoắc ngoắc ngón tay, bảo:"
+    },
+    {
+      "para_id": "c0292p0048",
+      "index": 48,
+      "raw_zh": "“來，你過來。”",
+      "translated_vi": "\"Lại đây, cô bước qua đây.\""
+    },
+    {
+      "para_id": "c0292p0049",
+      "index": 49,
+      "raw_zh": "楊玉奴靠著兩腿，往前蹭了蹭，低眉順眼，還挺委屈。",
+      "translated_vi": "Dương Ngọc Nô quỳ bằng hai chân, nhích từng chút một về phía trước, dáng vẻ khép nép phục tùng, nom chừng còn tủi thân lắm."
+    },
+    {
+      "para_id": "c0292p0050",
+      "index": 50,
+      "raw_zh": "雲千峰把她拽過來，橫在膝蓋上，掄起巴掌“啪啪啪”抽了幾下。",
+      "translated_vi": "Vân Thiên Phong túm nàng lôi lại, đặt ngang trên đầu gối, vung tay giáng bôm bốp mấy phát vào mông."
+    },
+    {
+      "para_id": "c0292p0051",
+      "index": 51,
+      "raw_zh": "Q彈。",
+      "translated_vi": "Căng mọng đàn hồi."
+    },
+    {
+      "para_id": "c0292p0052",
+      "index": 52,
+      "raw_zh": "“嗚嗚嗚，郎君說好輕罰，怎得打上了板子？說話不算話.郎君好生小氣，當年太真喜歡甜食，大家都叫人幾百裡加急，在嶺南送荔枝過來.郎君對妾身好殘忍”",
+      "translated_vi": "\"Hu hu hu, lang quân đã bảo phạt nhẹ, sao lại đánh đòn người ta thế này? Thật là nói lời chẳng giữ lấy lời... Lang quân hẹp hòi quá đi thôi, năm xưa Thái Chân thích đồ ngọt, người ta đều sai người phi ngựa hỏa tốc mấy trăm dặm đưa vải Lĩnh Nam tới... Lang quân đối xử với thiếp tàn nhẫn quá...\""
+    },
+    {
+      "para_id": "c0292p0053",
+      "index": 53,
+      "raw_zh": "雲千峰本來都準備停手了，一聽這話，又是幾巴掌，罵道：",
+      "translated_vi": "Vân Thiên Phong vốn dĩ đã định dừng tay, vừa nghe thấy câu này liền giáng thêm mấy cái tét vào mông, mắng:"
+    },
+    {
+      "para_id": "c0292p0054",
+      "index": 54,
+      "raw_zh": "“你以為你怎麽下的地獄？還好意思說！”",
+      "translated_vi": "“Cô tưởng ngày xưa mình xuống địa ngục bằng cách nào hả? Còn mặt mũi nào mà nói nữa!”"
+    },
+    {
+      "para_id": "c0292p0055",
+      "index": 55,
+      "raw_zh": "罰過之後，楊玉奴一邊流眼淚，一邊給雲千峰切牛編，自己是一口都不吃，以絕食表達自己的態度。",
+      "translated_vi": "Phạt xong xuôi, Dương Ngọc Nô vừa gạt nước mắt, vừa thái pín bò cho Vân Thiên Phong, bản thân nàng thì một miếng cũng không thèm đụng, dùng cách tuyệt thực để bày tỏ thái độ phản kháng."
+    },
+    {
+      "para_id": "c0292p0056",
+      "index": 56,
+      "raw_zh": "估計也不餓，那是喝了多少焦糖啊。",
+      "translated_vi": "Có điều đoán chừng nàng cũng chẳng đói khát gì, ai bảo ban nãy đã nốc đẫm chừng ấy si-rô caramel cơ chứ."
+    },
+    {
+      "para_id": "c0292p0057",
+      "index": 57,
+      "raw_zh": "雲千峰吃了兩條牛編，看著那一臉委屈的楊玉奴，感覺到的全是喜感，他也真心佩服這女人為吃做的努力，當下實在繃不住那嚴肅，破口笑道：",
+      "translated_vi": "Vân Thiên Phong ăn hai miếng pín bò, nhìn vẻ mặt đầy ấm ức của Dương Ngọc Nô mà chỉ thấy buồn cười. Hắn cũng thật lòng khâm phục sự nỗ lực vì miếng ăn của người phụ nữ này, lúc này thật sự không thể giữ nổi vẻ nghiêm nghị được nữa, bật cười thành tiếng:"
+    },
+    {
+      "para_id": "c0292p0058",
+      "index": 58,
+      "raw_zh": "“不是，你那腦袋瓜子，是不是裝的都是甜食？”",
+      "translated_vi": "“Này, không phải chứ, cái đầu óc của cô rốt cuộc toàn chứa đồ ngọt đấy à?”"
+    },
+    {
+      "para_id": "c0292p0059",
+      "index": 59,
+      "raw_zh": "楊玉奴也不出聲，以無聲抗議自己被打。",
+      "translated_vi": "Dương Ngọc Nô chẳng thèm hé răng lấy một lời, dùng sự im lặng để phản đối việc mình bị ăn đòn."
+    },
+    {
+      "para_id": "c0292p0060",
+      "index": 60,
+      "raw_zh": "雲千峰卻是知道怎麽哄她，說道：",
+      "translated_vi": "Nhưng Vân Thiên Phong lại quá hiểu cách dỗ dành nàng, bèn cất giọng:"
+    },
+    {
+      "para_id": "c0292p0061",
+      "index": 61,
+      "raw_zh": "“明天帶你出海，弄來更多的紅色鐵罐，但咱們說好了，不能一次喝沒。”",
+      "translated_vi": "“Ngày mai tôi đưa cô ra biển, kiếm thêm thật nhiều lon sắt màu đỏ về, nhưng chúng ta phải giao hẹn trước, không được uống sạch sành sanh trong một lần đâu đấy.”"
+    },
+    {
+      "para_id": "c0292p0062",
+      "index": 62,
+      "raw_zh": "楊玉奴眼睛一下就亮了，但是表情控制的很好，保持著委屈，哀怨道：",
+      "translated_vi": "Đôi mắt Dương Ngọc Nô lập tức sáng rực lên, thế nhưng nàng kiểm soát nét mặt rất khéo, vẫn duy trì vẻ tủi thân, cất giọng ai oán:"
+    },
+    {
+      "para_id": "c0292p0063",
+      "index": 63,
+      "raw_zh": "“憑郎君施舍，太真不敢要求。”",
+      "translated_vi": "“Tất cả tùy lang quân bố thí, Thái Chân đâu dám đòi hỏi gì.”"
+    },
+    {
+      "para_id": "c0292p0064",
+      "index": 64,
+      "raw_zh": "雲千峰笑道：",
+      "translated_vi": "Vân Thiên Phong bật cười:"
+    },
+    {
+      "para_id": "c0292p0065",
+      "index": 65,
+      "raw_zh": "“你說的有道理啊！東西是我的，給你確實得有點要求，這樣吧，明天開始，你把你會的絕活都給我展示一遍，什麽霓裳羽衣舞，什麽霓裳羽衣曲，表演一個絕活，給你一罐。”",
+      "translated_vi": "“Cô nói cũng có lý đấy chứ! Đồ là của tôi, cho cô thì đúng là phải có chút điều kiện. Thế này đi, bắt đầu từ ngày mai, cô hãy biểu diễn toàn bộ những tuyệt kỹ ngón nghề của mình cho tôi xem một lượt, nào là Nghê Thường Vũ Y Vũ, nào là Khúc Nghê Thường Vũ Y, cứ diễn xong một ngón nghề là thưởng cho cô một lon.”"
+    },
+    {
+      "para_id": "c0292p0066",
+      "index": 66,
+      "raw_zh": "太真覺得，自己以往對男人的認知可能不完全對，最起碼對眼前這人，效果不甚好。",
+      "translated_vi": "Thái Chân thầm nghĩ, những hiểu biết trước đây của nàng về đàn ông e rằng chẳng còn hoàn toàn đúng đắn nữa rồi, ít nhất là đối với cái gã trước mắt này, hiệu quả chẳng ra làm sao."
+    },
+    {
+      "para_id": "c0292p0067",
+      "index": 67,
+      "raw_zh": "自己幹嘛多嘴來那麽一句啊，這下好，還得表演，才有得喝，虧了。",
+      "translated_vi": "Tự dưng mình lắm lời thêm một câu làm gì cơ chứ, giờ thì hay rồi, lại phải biểu diễn mới có cái uống, đúng là lỗ to rồi."
+    },
+    {
+      "para_id": "c0292p0068",
+      "index": 68,
+      "raw_zh": "然後睡前的時間，滿腦子都是回憶自己會什麽絕活。",
+      "translated_vi": "Thế là khoảng thời gian trước khi chìm vào giấc ngủ, trong đầu nàng chỉ toàn là vắt óc nhớ lại xem bản thân còn biết những ngón nghề tuyệt kỹ nào."
+    },
+    {
+      "para_id": "c0292p0069",
+      "index": 69,
+      "raw_zh": "雲千峰說話算話，第二天一大早，早飯都沒吃，就拎著白綾，帶著楊玉奴乘著鯊魚快艇出海了。",
+      "translated_vi": "Vân Thiên Phong nói lời giữ lời. Sáng sớm hôm sau, cơm sáng còn chưa thèm ăn, hắn đã xách theo dải lụa trắng, dẫn Dương Ngọc Nô cưỡi ca-nô cá mập ra khơi."
+    },
+    {
+      "para_id": "c0292p0070",
+      "index": 70,
+      "raw_zh": "此時的楊玉奴已經不是上次初見，和雲千峰畢竟熟絡了，心性也歡快了許多，在海上快速的疾馳，讓這女人歡喜不已，夾得雲千峰脖子癢癢。",
+      "translated_vi": "Lúc này Dương Ngọc Nô đã không còn như lần đầu gặp gỡ, dù sao cũng đã quen thân với Vân Thiên Phong hơn, tâm tính vui vẻ sảng khoái hẳn lên. Cảm giác lướt đi vun vút trên mặt biển khiến người phụ nữ này thích thú khôn xiết, hai chân kẹp chặt làm cổ Vân Thiên Phong ngứa ngáy khôn nguôi."
+    },
+    {
+      "para_id": "c0292p0071",
+      "index": 71,
+      "raw_zh": "不一會就覺得脖子上全是汗，也未必是汗。",
+      "translated_vi": "Chẳng mấy chốc, hắn đã cảm thấy trên cổ toàn là mồ hôi, mà cũng chưa chắc đã là mồ hôi."
+    },
+    {
+      "para_id": "c0292p0072",
+      "index": 72,
+      "raw_zh": "一上午的時間，雲千峰算是見識了羅琳娜的本事。",
+      "translated_vi": "Suốt một buổi sáng, Vân Thiên Phong coi như đã được tận mắt chứng kiến bản lĩnh của Lorraine."
+    },
+    {
+      "para_id": "c0292p0073",
+      "index": 73,
+      "raw_zh": "因為他已經找到了三個給自己攜帶包裹的人。",
+      "translated_vi": "Bởi vì hắn đã tìm được ba kẻ mang bưu kiện tới cho mình."
+    },
+    {
+      "para_id": "c0292p0074",
+      "index": 74,
+      "raw_zh": "再多便無法攜帶，雲千峰決定的打道回府。",
+      "translated_vi": "Nhiều hơn nữa thì không thể mang theo nổi, Vân Thiên Phong quyết định quay về."
+    },
+    {
+      "para_id": "c0292p0075",
+      "index": 75,
+      "raw_zh": "順道騎著鯊魚圍著海島又轉了兩圈，從外圍觀察地勢。",
+      "translated_vi": "Tiện đường, hắn cưỡi cá mập lượn quanh hòn đảo hai vòng, quan sát địa thế từ vành đai ngoài."
+    },
+    {
+      "para_id": "c0292p0076",
+      "index": 76,
+      "raw_zh": "“唉，這要是能俯瞰這個海島就好了，那樣就能更容易知道，如何布局風水，讓四庫相衝。”",
+      "translated_vi": "“Haizz, giá mà có thể nhìn bao quát hòn đảo này từ trên cao thì tốt biết mấy. Như thế sẽ dễ dàng tìm ra cách bố trí phong thủy, khiến Tứ Khố tương xung.”"
+    },
+    {
+      "para_id": "c0292p0077",
+      "index": 77,
+      "raw_zh": "而當午後倆人回到未庫避身所時，雲千峰在包裡翻出一柄工兵鏟後，眼睛登時亮了。",
+      "translated_vi": "Đến buổi chiều khi hai người trở về nơi trú ẩn Mùi Khố, Vân Thiên Phong lục trong gói đồ ra một thanh xẻng công binh, đôi mắt lập tức sáng rực lên."
+    },
+    {
+      "para_id": "c0292p0078",
+      "index": 78,
+      "raw_zh": "“姮娥！一定是姮娥！！九屠能看到的，她一定也可以看到，她知道我在犯愁如何破解這四庫之島的秘密，所以送來這工兵鏟。",
+      "translated_vi": "“Hằng Nga! Nhất định là Hằng Nga!! Những gì Cửu Đồ có thể nhìn thấy, nàng ấy chắc chắn cũng thấy được. Nàng biết tôi đang đau đầu tìm cách phá giải bí mật của hòn đảo Tứ Khố này, nên mới gửi thanh xẻng công binh này tới."
+    },
+    {
+      "para_id": "c0292p0079",
+      "index": 79,
+      "raw_zh": "如此看來，要布局這海島的風水局，絕不是簡單的生克制化，轉變其氣能辦到的，而是必須移山填海！海島俯瞰圖，這裡一定有！”",
+      "translated_vi": "Xem ra muốn thiết lập cục diện phong thủy cho hòn đảo này, tuyệt đối không phải chỉ dựa vào sinh khắc chế hóa đơn thuần hay chuyển hóa khí trường là làm được, mà bắt buộc phải dời non lấp biển! Bản đồ nhìn từ trên cao của hòn đảo, ở đây nhất định phải có!”"
+    },
+    {
+      "para_id": "c0292p0080",
+      "index": 80,
+      "raw_zh": "說著，雲千峰開始仔細翻找，果然一個包裹著雪茄的牛皮紙上面，有著一個簡單的俯瞰圖，正是這座海島的輪廓。",
+      "translated_vi": "Vừa nói, Vân Thiên Phong vừa bắt đầu lật tìm tỉ mỉ. Quả nhiên trên một tờ giấy da bò bọc điếu xì gà có vẽ một bản đồ bao quát đơn giản, chính là đường nét phác thảo của hòn đảo này."
+    },
+    {
+      "para_id": "c0292p0081",
+      "index": 81,
+      "raw_zh": "雖然簡單，但是每個位置標注清晰。",
+      "translated_vi": "Tuy đơn giản, nhưng từng vị trí đều được đánh dấu vô cùng rõ ràng."
+    },
+    {
+      "para_id": "c0292p0082",
+      "index": 82,
+      "raw_zh": "“果然是要移山填海，這可不是小工程啊！我自己絕對無法在幾個月時間內完成。”",
+      "translated_vi": "“Quả nhiên là phải dời non lấp biển, đây đâu phải công trình nhỏ! Một mình tôi tuyệt đối không thể nào hoàn thành nổi trong vòng mấy tháng trời.”"
+    },
+    {
+      "para_id": "c0292p0083",
+      "index": 83,
+      "raw_zh": "想到這，他不禁笑出聲來：",
+      "translated_vi": "Nghĩ đến đây, hắn không kìm được mà bật cười thành tiếng:"
+    },
+    {
+      "para_id": "c0292p0084",
+      "index": 84,
+      "raw_zh": "“送物資的人，就是送來給我乾活的啊！哈哈哈！羅琳娜、姮娥，你們兩個天才！”",
+      "translated_vi": "“Những kẻ đến chuyển hàng tiếp tế chính là được đưa tới để làm công cho tôi mà! Ha ha ha! Lorraine, Hằng Nga, hai người đúng là thiên tài!”"
+    },
+    {
+      "para_id": "c0292p0085",
+      "index": 85,
+      "raw_zh": "“九屠不可能看不到工兵鏟這些東西，九屠也一定可以看到海島的俯瞰圖，如果他們猜到這裡藏著東西，肯定會阻止這些人進來才對，但是他們沒有，很顯然，他們的權L是受到控制的，或者說是不能為所欲為的。",
+      "translated_vi": "“Cửu Đồ không thể nào không thấy những thứ như xẻng công binh, Cửu Đồ chắc chắn cũng nhìn ra bản đồ bao quát hòn đảo. Nếu bọn chúng đoán được nơi này có giấu đồ, lẽ ra nhất định sẽ ngăn cản đám người này lọt vào mới phải, thế nhưng chúng lại không làm vậy. Rõ ràng quyền lực của chúng đang bị kiềm chế, hoặc nói đúng hơn là không thể muốn làm gì thì làm."
+    },
+    {
+      "para_id": "c0292p0086",
+      "index": 86,
+      "raw_zh": "他們只能在破壞規則和眼睜睜看著我完成風水布局二選一，兩個後果都不是他們想要的吧。",
+      "translated_vi": "Bọn chúng chỉ có thể chọn một trong hai: hoặc là phá vỡ quy tắc, hoặc là trơ mắt nhìn tôi hoàn thành bố cục phong thủy. Cả hai kết cục đó đều không phải thứ chúng mong muốn."
+    },
+    {
+      "para_id": "c0292p0087",
+      "index": 87,
+      "raw_zh": "九屠要殺我，姮娥以地藏王像提示我要入地獄，這應該證明，這十八層九屠也不敢來。",
+      "translated_vi": "Cửu Đồ muốn giết tôi, Hằng Nga mượn tượng Địa Tạng Vương ám thị tôi phải vào địa ngục, điều này chứng minh rằng tầng thứ mười tám này đám Cửu Đồ cũng chẳng dám đặt chân tới."
+    },
+    {
+      "para_id": "c0292p0088",
+      "index": 88,
+      "raw_zh": "那麽面對這樣二選一的陽謀，他們還能做什麽？",
+      "translated_vi": "Vậy thì đối mặt với một dương mưu chỉ có hai lựa chọn thế này, bọn chúng còn có thể làm được gì nữa?"
+    },
+    {
+      "para_id": "c0292p0089",
+      "index": 89,
+      "raw_zh": "是了，找別人殺我！",
+      "translated_vi": "Đúng rồi, mượn đao giết người, tìm kẻ khác tới khử tôi!"
+    },
+    {
+      "para_id": "c0292p0090",
+      "index": 90,
+      "raw_zh": "這第十八層地獄，要熱鬧了啊！”",
+      "translated_vi": "Tầng địa ngục thứ mười tám này sắp sửa náo nhiệt rồi đây!”"
+    },
+    {
+      "para_id": "c0292p0091",
+      "index": 91,
+      "raw_zh": "僅憑這工兵鏟，雲千峰已經猜到姮娥和羅琳娜聯手了。",
+      "translated_vi": "Chỉ dựa vào thanh xẻng công binh này, Vân Thiên Phong đã đoán ra Hằng Nga và Lorraine đã bắt tay hợp tác."
+    },
+    {
+      "para_id": "c0292p0092",
+      "index": 92,
+      "raw_zh": "也猜到了九屠的困境。",
+      "translated_vi": "Và cũng đoán được tình thế tiến thoái lưỡng nan của Cửu Đồ."
+    },
+    {
+      "para_id": "c0292p0093",
+      "index": 93,
+      "raw_zh": "而他現在要做的，就是把工兵鏟大大方方的擺在這，讓九屠看著，逼著他們犯錯。",
+      "translated_vi": "Còn việc hắn cần làm lúc này chính là đường hoàng đặt thanh xẻng công binh ở ngay đây, để cho Cửu Đồ trừng mắt mà nhìn, ép bọn chúng phải phạm sai lầm."
+    },
+    {
+      "para_id": "c0292p0094",
+      "index": 94,
+      "raw_zh": "正想著，旁邊吃過牛肉干的楊玉奴湊了過來，柔聲道：",
+      "translated_vi": "Đang mải suy tính, Dương Ngọc Nô vừa ăn xong thịt bò khô bên cạnh liền sán lại gần, dịu giọng nói:"
+    },
+    {
+      "para_id": "c0292p0095",
+      "index": 95,
+      "raw_zh": "“郎君，要看太真跳舞嗎？那可是我的絕技！”",
+      "translated_vi": "“Lang quân, có muốn xem Thái Chân khiêu vũ không? Đó là tuyệt kỹ của thiếp đấy!”"
+    },
+    {
+      "para_id": "c0292p0096",
+      "index": 96,
+      "raw_zh": "雲千峰吐了口氣，無奈道：",
+      "translated_vi": "Vân Thiên Phong thở hắt ra một hơi, bất đắc dĩ nói:"
+    },
+    {
+      "para_id": "c0292p0097",
+      "index": 97,
+      "raw_zh": "“大丫鬟啊，麻煩你和我說話的時候看著我的臉，而不是看著我手上的可樂！”",
+      "translated_vi": "“Đại nha hoàn à, làm ơn khi nói chuyện với tôi thì nhìn vào mặt tôi này, chứ đừng có dán mắt vào lon cola trên tay tôi thế kia!”"
+    },
+    {
+      "para_id": "c0292p0098",
+      "index": 98,
+      "raw_zh": "奇跡的一幕出現了，楊玉奴可以做到一隻眼睛看可樂，一隻眼睛看雲千峰。",
+      "translated_vi": "Một màn kỳ tích lập tức xuất hiện: Dương Ngọc Nô lại có thể làm được cái trò một bên mắt nhìn lon cola, còn một bên mắt nhìn Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0292p0099",
+      "index": 99,
+      "raw_zh": "這肚子裡的饞蟲，太強大了。",
+      "translated_vi": "Con sâu háu ăn trong bụng người phụ nữ này đúng là quá đỗi kinh hồn."
+    },
+    {
+      "para_id": "c0292p0100",
+      "index": 100,
+      "raw_zh": "PS：今天停電，手機碼字實在不適應，腦子都是堵著的，希望大家擔待今天的排版格式！！！",
+      "translated_vi": "Tái bút: Hôm nay cúp điện, gõ chữ bằng điện thoại thật sự không quen chút nào, đầu óc cứ tắc nghẽn cả lại, mong mọi người lượng thứ cho định dạng dàn trang ngày hôm nay nhé!"
+    },
+    {
+      "para_id": "c0292p0101",
+      "index": 101,
+      "raw_zh": "感謝書友DZLcoco、尾數29768、尾數18521、尾數03166、尾數27150、的打賞，謝謝你們的支持！！！",
+      "translated_vi": "Cảm ơn các thư hữu DZLcoco, đuôi số 29768, đuôi số 18521, đuôi số 03166, đuôi số 27150 đã ủng hộ phần thưởng, cảm ơn sự ủng hộ của mọi người!"
+    },
+    {
+      "para_id": "c0292p0102",
+      "index": 102,
+      "raw_zh": "感謝書友安如落花、409、你是聽書客還是故中人、尾數48572、尾數48711、黎墊墊、尾數37200、我想死在可樂瓶裡、尾數55732、廖玉昊、這是木頭、竹樽、夢磷、一葉一曳一夜、對此不能靠近、十世石頭、迷糊狐、尾數00893、狐言鑾雨、小凶許114、尾數08943、懌逍遙、尾數46317、我一生的摯愛啊、的月票獎勵。",
+      "translated_vi": "Cảm ơn phần thưởng phiếu tháng của các thư hữu An Như Lạc Hoa, 409, Ngươi Là Thính Thư Khách Hay Cố Trung Nhân, đuôi số 48572, đuôi số 48711, Lê Điệm Điệm, đuôi số 37200, Tôi Muốn Chết Trong Chai Cola, đuôi số 55732, Liêu Ngọc Hạo, Đây Là Gỗ, Trúc Tôn, Mộng Lân, Nhất Diệp Nhất Duệ Nhất Dạ, Đối Thử Bất Năng Kháo Cận, Thập Thế Thạch Đầu, Mê Hù Hồ, đuôi số 00893, Hồ Ngôn Loan Vũ, Tiểu Hung Hứa 114, đuôi số 08943, Dịch Tiêu Dao, đuôi số 46317, Tình Yêu Đích Thực Cả Đời Của Tôi."
+    },
+    {
+      "para_id": "c0292p0103",
+      "index": 103,
+      "raw_zh": "謝謝你們的支持，感激！！！",
+      "translated_vi": "Cảm ơn sự ủng hộ của mọi người, vô cùng cảm kích!"
+    },
+    {
+      "para_id": "c0292p0104",
+      "index": 104,
+      "raw_zh": "我這裡停電了，手機碼字實在難受，今天早睡，祝大家晚安好夢！！！",
+      "translated_vi": "Chỗ tôi bị mất điện, gõ chữ bằng điện thoại thật sự khó chịu quá, hôm nay đi ngủ sớm, chúc mọi người ngủ ngon mộng đẹp!"
+    }
+  ]
+}

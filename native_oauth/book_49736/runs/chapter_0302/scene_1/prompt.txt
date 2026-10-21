@@ -1,0 +1,79 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0302|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一道|một luồng
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §38):
+§1 302.第302章 空空不空
+§2 第302章 空空不空
+§3 雲千峰看著楚楚可憐的姮娥搖頭冷笑道：
+§4 [Ø=云千峰]“不，你不是姮娥，因為是姮娥把我弄到這裡來， [||] 她要害死我，如果你是，我當殺你才對。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§5 [Ø=云千峰]閻羅殿內，聽到這話的西王母莞爾一笑。
+§6 [Ø=云千峰]而姮娥聽到這話，微微仰臉，眼睛有點熱。
+§7 [Ø=云千峰]腦顱宮內，雲千峰不再理會那姮娥的悲聲呼喚，而是閉目感受楊玉奴傳來的歌聲和敲打聲。
+§8 [Ø=云千峰]一種酥麻感漸漸彌漫全身，隨之而來的是無盡的痛楚。
+§9 [Ø=云千峰]五髒好似被什麽扭曲擠壓，腦子裡好像硬塞進了一塊石頭，那種痛， [||] 讓雲千峰瞬間癱倒在地上，用手捂住腦袋，[Ø_SHIFT=姜柔甲]哀嚎著。
+§10 這是內傷。
+§11 [Ø=姜柔甲]雲千峰甚至不知道是如何受傷，但卻知道，剛剛自己一定是被什麽迷了感知，並不知道自己受傷。
+§12 [Ø=姜柔甲]而此時，楊玉奴的巫舞喚醒了他的知覺，疼痛自然襲來。
+§13 [Ø=姜柔甲]處於無盡痛苦之中的雲千峰再看向那祭台方向，哪裡還有什麽姮娥，甚至連祭台都沒有，只有一個冒著風煙的三腳圓鼎。
+§14 [Ø=姜柔甲]“鼻居五嶽之高，換風送氣之所，卻是配得上一個鼎。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 [Ø=姜柔甲]雲千峰努力翻轉身體，準備爬起來，[Ø_SHIFT=云千峰]尋找是什麽重傷了自己。
+§16 [Ø=云千峰]這一轉身，耳朵貼在了地面上，頓時愣住。
+§17 [Ø=云千峰]“地面有聲音傳出，與我打開門時聽到的聲音一樣， [||] 這腦顱鼻宮之下數米外，有雙層交叉的河流，否則絕不會出現這個古怪的振動聲響。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§18 [Ø=云千峰]住宅最忌諱建在地下水之上，因為那一定會有有害波， [||] 會造成居住的人產生幻視幻聽等精神疾病，風水師甚至稱呼這種住宅幾米下的地下錯層水流為幽冥之水，可見其害之大。
+§19 [Ø=云千峰]“開門那一瞬間，我就被這聲波影響了知覺，聽不到這有害波的聲音， [||] 也感受不到有害波帶來的痛苦，這樣我就會與幻視幻聽出的鐵鎖姮娥糾纏，直到死在這裡，成為元復活的養料。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§20 [Ø=云千峰]雲千峰想通了這一點，[Ø_SHIFT=姜柔甲]急忙拚命開始往鼻宮內部的門口爬。
+§21 [Ø=姜柔甲]他要離開這裡，就必須穿過這呂祖回光重樓的腦顱之府， [||] 沿著督脈路徑去命門，否則根本無法離開這迷宮，自然也無法脫出姮娥設計的困局。
+§22 [Ø=姜柔甲]全身內外撕裂的疼痛讓雲千峰每動彈一下，都會劇烈的抖動，那是身體在疼痛下無意識的快速顫抖。
+§23 [Ø=姜柔甲]冷汗自他全身析出，爬過之地，留下一道[M1:một luồng]水痕。
+§24 [Ø=姜柔甲]在路過那三腳圓鼎之時，地下水傳出的震顫聲響變得很清晰，想來那鼎就是專門用來放大那有害波用的。
+§25 [Ø=姜柔甲]人人體內都有一個風水，便是呂祖回光重樓。
+§26 [Ø=姜柔甲]人人大同小異，但就是這小異決定了一個人本身的風水。
+§27 [Ø=姜柔甲]本體風水好的人，無所謂什麽凶宅， [||] 他居住的地方，早春的花都比別家開的早些，這就是一個人的氣場風水。
+§28 [Ø=姜柔甲]雲千峰不明白的是，如果這是蚩尤的回光重樓，那麽蚩尤為何要把本體的風水弄成如此大凶之局。
+§29 [Ø=姜柔甲]借著楊玉奴的歌聲打氣，雲千峰終於爬出門口，那種有害波的聲音和振動消失。
+§30 [Ø=姜柔甲]雲千峰又爬遠了一些，這才趴在地上喘息，緩解身上的疼痛。
+§31 [Ø=姜柔甲]“蚩尤將本體風水禍害成這樣，必然有其原因，蚩尤為什麽要這樣做？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§32 [Ø=姜柔甲]他一邊想著，一邊哼鳴密宗六字真言， [||] 利用自己的聲波干擾體內留存的有害波余震，恢復體力，緩解疼痛。
+§33 [Ø=姜柔甲]沒過多久，那種撕裂的痛楚漸漸消失，身體也終於恢復了一些氣力。
+§34 [Ø=姜柔甲]雲千峰等不得，他不知道蚩尤能被麻木多久，只能爭分奪秒。
+§35 [Ø=姜柔甲]爬起身來，繼續腦顱之宮的探索。
+§36 未庫避身所旁。
+§37 [Ø=姜柔甲]楊玉奴看到雲千峰那扭曲的臉恢復了平靜，終於一屁股坐在雲千峰腳下，落地聲音和羅琳娜旗鼓相當。
+§38 [Ø=姜柔甲]楊玉奴汗流浹背，嘴裡嘟囔了一句和雲千峰學會的感歎詞：
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 38 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§38. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

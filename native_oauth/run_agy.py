@@ -9,7 +9,21 @@ import uuid
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-DEFAULT_CLI = Path.home() / 'AppData/Local/agy/bin/agy.exe'
+def find_cli():
+    import os, shutil
+    candidates = [
+        os.environ.get('AGY_BIN'),
+        str(Path.home() / 'chatgpt-antigravity-bridge/bin/agy.exe'),
+        str(Path.home() / 'AppData/Local/agy/bin/agy.exe'),
+        shutil.which('agy.exe'),
+        shutil.which('agy'),
+    ]
+    for c in candidates:
+        if c and Path(c).is_file():
+            return Path(c)
+    return Path.home() / 'AppData/Local/agy/bin/agy.exe'
+
+DEFAULT_CLI = find_cli()
 
 
 def run(prompt_file, run_dir, model='gemini-3.8-flash-high', agent=None, timeout=600, workspace=None, approve_tools=False):

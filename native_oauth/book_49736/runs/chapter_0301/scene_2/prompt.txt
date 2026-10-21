@@ -1,0 +1,82 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0301|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Nghĩ đoạn, nàng vội vàng cuống cuồng bắt tay vào hành động.
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §43):
+§1 [Ø=云千峰]就見她先用工兵鏟挪來一些草木灰，用這些草木灰畫圈，把雲千峰圍在其中。
+§2 再用碎石在這圈內按照四相星宿的排列擺放碎石。
+§3 [Ø=云千峰]蒼龍在左，白虎在右，朱雀在前，玄武在後。
+§4 [Ø=云千峰]四相星擺好，楊玉奴咬破左手中指，以血在雲千峰眉心畫了一個十字， [||] 扯開他的衣服，在膻中位置再畫一個十字，最後褪去褲腰，與下T處畫了一個十字。
+§5 [Ø=云千峰]這才左手拿著小日子的鋼盔，右手拎著一根木棍，一邊繞著雲千峰逆向走圈起舞， [||] 一邊以木棍敲打鋼盔，口中似乎吟唱，那聲音和韻律讓人瞬間髮根直立，直擊靈魂。
+§6 [Ø=云千峰]楊玉奴的舞姿已經不能用美醜來形容，此刻的她，似乎是那天地間跳動的一份子， [||] 努力的讓自己影響著周圍的一切，姿勢怪異，也只有她那柔韌的身體和舞蹈功力，才能跳出這樣高難度的動作。
+§7 [Ø=云千峰]曾經秦疏影也跳過這樣的巫舞，也極其優秀。
+§8 [Ø=云千峰]兩者比較起來，秦疏影就像是山間的精靈，帶著草木的沁人清香，醒神引魂。
+§9 [Ø=云千峰]而楊玉奴更像是那充滿了欲的女妖，嫵媚誘惑，就像一個漩渦吸引著一切矚目， [||] 她不是醒神，而是勾引，比的就是自己和迷走雲千峰的陰魂誰更有誘惑力。
+§10 閻羅殿內。
+§11 [Ø=云千峰]三人看著雲千峰表情生異，太真起舞。
+§12 還能看到雲千峰在迷宮內所見的景象。
+§13 [Ø=云千峰]因為旁邊還有一個光幕，對準的是雲千峰的眸子，他們可以在那眸子裡見到雲千峰所見。
+§14 西王母淡淡道:
+§15 [Ø=云千峰]“共工心裡果然是對你情深，見你受難， [||] 便失去了理智。現在看來，他是活不成了，倒是對你那刻在靈魂深處的情害了他。
+§16 [Ø=云千峰]雲千峰完全感受不到自己的痛苦，再這樣持續下去，必定被元吞噬。元活了，這個世界就徹底乾淨了。”
+§17 [Ø=云千峰]姮娥拳頭攥得很緊，顯然是極為緊張，她聽到西王母的話，冷冷回道：
+§18 [Ø=云千峰]“雲千峰絕不會有事，元也絕無可能復活。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 西王母淡淡道：
+§20 “你覺得楊貴妃喚得醒雲千峰？那豈不是證明你沒有楊玉奴的魅力大？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 姮娥冷冷道：
+§22 [Ø=云千峰]“那裡的不是我，我在這裡。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 西王母笑道：
+§24 “你怕輸？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 腦顱之宮內。
+§26 [Ø=云千峰]雲千峰攀到祭台上，直奔著被捆綁的姮娥而去。
+§27 [Ø=云千峰]剛來到姮娥身邊，準備用手去扯動姮娥身上的鐵鏈時，他耳邊突然響起“鐺鐺鐺”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]的敲擊聲。
+§28 [Ø=云千峰]那聲音真的不好聽，好似破鑼。
+§29 [Ø=云千峰]但是緊接著，歌聲響起，無比曼妙。
+§30 [Ø=云千峰]“大丫鬟的聲音？是，是大丫鬟！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=云千峰]雲千峰在手觸鐵鏈之前，被這歌聲吸引了注意力。
+§32 [Ø=云千峰]他循著聲音尋找聲音的來處，口中還喊著“大丫鬟，你在哪？“
+§33 但是可惜並沒有回應。
+§34 [Ø=云千峰]歌聲圍繞著雲千峰轉著圈，雲千峰便也原地轉圈追尋著方向。
+§35 [Ø=云千峰]閻羅殿內，看到雲千峰沒有觸碰鎖鏈，把吊著的姮娥扔在一邊， [||] 而是跟著楊玉奴的歌聲轉圈後，姮娥暗暗松了口氣，但莫名的又悄悄的跺了一下腳，不知哪來的怒意。
+§36 [Ø=云千峰]“這是巫祝之音，大丫鬟在圍著我跳巫舞，為什麽圍著我跳巫舞？一定是發現我遇到危險了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 [Ø=云千峰]想到這，他登時感覺後背發寒，一個驢打滾翻到祭台邊緣，回看那鎖鏈上的姮娥。
+§38 “你是誰？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 [Ø=云千峰]鎖鏈上的姮娥，一臉痛苦，悲聲道：
+§40 “良人救我.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 [Ø=云千峰]感謝書友尾數20057、46514、46837、24701、23097、51432、33668、的打賞，謝謝你們的支持！！！
+§42 [Ø=云千峰]感謝對此不能靠近，CMC_de，尾數44175，49626，0549，13869，玉樹量天尺，01645，57154，機智的汙妖王，遊夢園，有無所謂，34411，50906，47558，睡不醒的朱，37274，52491，40810，56804，99086，09495_DE，37214，01871，41093，可能是條魚，43846， [||] 詩無邪，24503，雲卿君墓，藍色&amp;amp;amp;死神，Hick_Db，54480，孤獨敗天，34452，昵稱難起差評，27747_AC，390470404，29089，小小蛋n，54812，滿福堡，吃魚的兔球兒，我與寂寞有染，37718，好大一個頭，27792_ce，54315，33110，20333，02098的月票獎勵，謝謝你們的支持！！！
+§43 [Ø=云千峰]作家說隻500字符，下一章繼續補充！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 43 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§43. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

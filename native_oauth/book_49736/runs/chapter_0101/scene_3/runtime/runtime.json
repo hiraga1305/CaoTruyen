@@ -1,0 +1,32 @@
+{
+  "authentication": "cached_account; GEMINI_API_KEY unset",
+  "requested_model": "gemini-3.8-flash-high",
+  "agent": null,
+  "exit_code": 0,
+  "workspace": "D:\\AI\\Antigravity\\CaoTruyen",
+  "duration_seconds": 50.1,
+  "status": "SUCCESS",
+  "conversation_id": "beaccb81-646f-4d45-944b-9caa05ba8099",
+  "usage": {
+    "input_tokens": 15209,
+    "output_tokens": 5739,
+    "thinking_tokens": 5634,
+    "cache_read_tokens": 0,
+    "total_tokens": 20948
+  },
+  "result": {
+    "conversation_id": "beaccb81-646f-4d45-944b-9caa05ba8099",
+    "status": "SUCCESS",
+    "response": "§1 “Sơ Ảnh, nhìn kìa! Đằng kia có một tòa hải đảo! Chúng ta được cứu rồi!”\n§2 “Không, tôi chẳng thấy gì cả, nơi đó chỉ toàn là biển cả, là ảo giác chăng? Có lẽ chúng ta sắp phải rời khỏi thế giới này rồi.”\n§3 Vân Thiên Phong cất giọng mừng rỡ reo lên:\n§4 “Không, không phải ảo giác, đó là tòa hải đảo mà chỉ riêng tôi mới nhìn thấy!”\n",
+    "duration_seconds": 46.8293448,
+    "num_turns": 1,
+    "usage": {
+      "input_tokens": 15209,
+      "output_tokens": 5739,
+      "thinking_tokens": 5634,
+      "cache_read_tokens": 0,
+      "total_tokens": 20948
+    }
+  },
+  "event_count": 26
+}

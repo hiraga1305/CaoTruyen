@@ -1,0 +1,829 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 206,
+  "title": "Chương 206: Hiểu? Hiểu!",
+  "total_paragraphs": 136,
+  "translated_paragraphs": 136,
+  "source_hash": "17089a6d17361eb50b38178bfc707ea22c36e91d0c170ad38c7248fa1427c955",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0206p0001",
+      "index": 1,
+      "raw_zh": "第206章 懂？懂！",
+      "translated_vi": "Chương 206: Hiểu? Hiểu!"
+    },
+    {
+      "para_id": "c0206p0002",
+      "index": 2,
+      "raw_zh": "伴隨著那“窸窣窸窣”的微小輕響，周圍的環境再一次發生了改變。",
+      "translated_vi": "Cùng với những tiếng sột soạt rất khẽ truyền lại, hoàn cảnh chung quanh một lần nữa bắt đầu biến đổi."
+    },
+    {
+      "para_id": "c0206p0003",
+      "index": 3,
+      "raw_zh": "如果說之前橙色虹橋出現那一刻，是把這個空間刷上了暗色調，那麽黃色虹橋出現後，似乎有個無形的畫家在這空間有添加了更多的東西，暗綠色的東西。",
+      "translated_vi": "Nếu nói khoảnh khắc cầu vồng màu cam xuất hiện trước đó đã phủ lên không gian này một gam màu u tối, thì sau khi nhịp cầu vồng màu vàng hiện ra, tựa như có một họa sĩ vô hình vừa tô điểm thêm vào không gian những chi tiết mới: những mảng màu xanh sẫm."
+    },
+    {
+      "para_id": "c0206p0004",
+      "index": 4,
+      "raw_zh": "在雲千峰旁邊，是一個供遊客休息的涼亭，而那支撐著涼亭的四根石柱下面，自下而上，從根部開始，蔓延了綠色。",
+      "translated_vi": "Ngay bên cạnh Vân Thiên Phong là chiếc chòi nghỉ mát dành cho du khách; bốn cột đá chống đỡ chòi nghỉ lúc này, từ dưới lên trên, bắt đầu từ phần chân cột, đã lan tràn một tầng sắc xanh biếc."
+    },
+    {
+      "para_id": "c0206p0005",
+      "index": 5,
+      "raw_zh": "那似乎是濕乎乎的綠泥。",
+      "translated_vi": "Trông nó tựa như một lớp bùn xanh ẩm ướt."
+    },
+    {
+      "para_id": "c0206p0006",
+      "index": 6,
+      "raw_zh": "雲千峰忙蹲下身，仔細看向那深綠色濕漉漉的東西。",
+      "translated_vi": "Vân Thiên Phong vội vàng ngồi thụp xuống, chăm chú nhìn kỹ thứ nhớp nhúa ẩm ướt màu lục thẫm kia."
+    },
+    {
+      "para_id": "c0206p0007",
+      "index": 7,
+      "raw_zh": "“苔蘚！”",
+      "translated_vi": "“Rêu xanh!”"
+    },
+    {
+      "para_id": "c0206p0008",
+      "index": 8,
+      "raw_zh": "這發現讓雲千峰驚詫莫名。",
+      "translated_vi": "Phát hiện này khiến Vân Thiên Phong không khỏi kinh ngạc."
+    },
+    {
+      "para_id": "c0206p0009",
+      "index": 9,
+      "raw_zh": "尤其是那苔蘚幾乎肉眼可見的在擴大范圍。",
+      "translated_vi": "Nhất là khi lớp rêu ấy đang bành trướng phạm vi với tốc độ gần như mắt thường có thể nhìn thấy."
+    },
+    {
+      "para_id": "c0206p0010",
+      "index": 10,
+      "raw_zh": "“時間流速增加？不，不是時間，如果是時間，只有這個時間流速之外的空間，才能由外而內的看到青苔肉眼可見的蔓延，而這個時間流速之內的人是無法發覺的。”",
+      "translated_vi": "“Tốc độ dòng thời gian tăng lên? Không, không phải thời gian. Nếu là thời gian, chỉ có không gian nằm bên ngoài dòng chảy này mới có thể nhìn thấy rêu phong lan nhanh bằng mắt thường từ ngoài vào trong, còn những kẻ ở bên trong dòng thời gian thì không thể nào cảm nhận được.”"
+    },
+    {
+      "para_id": "c0206p0011",
+      "index": 11,
+      "raw_zh": "雲千峰平心靜氣，感受著周圍的變化。",
+      "translated_vi": "Vân Thiên Phong bình tâm tĩnh khí, tĩnh lặng cảm nhận những biến chuyển xung quanh."
+    },
+    {
+      "para_id": "c0206p0012",
+      "index": 12,
+      "raw_zh": "“空氣變得潮濕了，帶著腐爛陰暗的氣息，就好像草木高度腐爛後的氣味，是這種陰而不寒的氣息讓苔蘚快速的增長。",
+      "translated_vi": "“Không khí trở nên ẩm ướt hơn, mang theo hơi thở mục rữa u ám, tựa như mùi cỏ cây thối rữa ở mức độ cao. Chính luồng khí tức âm u nhưng không lạnh lẽo này đã kích thích rêu phong phát triển chóng mặt."
+    },
+    {
+      "para_id": "c0206p0013",
+      "index": 13,
+      "raw_zh": "那些虹橋在影響這霧凝金字塔之內的環境，那失重感又是怎麽回事？為什麽每次虹橋多出來一個顏色後，都會有莫名的失重感？虹橋又是根據什麽增加顏色？是獎品被發現的數量麽？”",
+      "translated_vi": "Những nhịp cầu vồng kia đang tác động lên môi trường bên trong kim tự tháp sương ngưng tụ này. Vậy còn cảm giác mất trọng lượng là thế nào? Tại sao mỗi khi cầu vồng xuất hiện thêm một dải màu, thì lại xuất hiện cảm giác mất trọng lực kỳ dị? Cầu vồng dựa vào đâu để tăng thêm màu sắc? Chẳng lẽ dựa vào số lượng phần thưởng được tìm thấy?”"
+    },
+    {
+      "para_id": "c0206p0014",
+      "index": 14,
+      "raw_zh": "從現在的規則來看，似乎虹橋顏色的數量，是伴隨著雲千峰發現一個又一個被藏起來的獎品而增加。",
+      "translated_vi": "Nhìn từ quy luật hiện tại, dường như số lượng màu sắc của cầu vồng tăng lên theo từng món giải thưởng cất giấu mà Vân Thiên Phong liên tục phát hiện."
+    },
+    {
+      "para_id": "c0206p0015",
+      "index": 15,
+      "raw_zh": "霧氣的夜晚，哪怕有燈光，可見度也實在是有限，雲千峰能聽到周圍時刻傳來一些人說話的聲音，但卻無法看到他們。",
+      "translated_vi": "Giữa đêm sương mù giăng kín, dẫu có ánh đèn soi rọi thì tầm nhìn cũng vô cùng hạn chế. Vân Thiên Phong có thể nghe thấy tiếng trò chuyện của vài người chung quanh không ngừng vọng lại, nhưng hoàn toàn không nhìn thấy bóng dáng họ."
+    },
+    {
+      "para_id": "c0206p0016",
+      "index": 16,
+      "raw_zh": "他急著找到白狐和婉娜拉·宋提查，於是乾脆使用最直接的辦法，那就是呼喊她們的名字。",
+      "translated_vi": "Anh nóng lòng tìm kiếm bạch hồ cùng Wannarot Sonthichai, bèn dứt khoát dùng đến biện pháp trực diện nhất: cất tiếng gọi tên họ."
+    },
+    {
+      "para_id": "c0206p0017",
+      "index": 17,
+      "raw_zh": "反正自己肯定是被盯上了，都上了四次大屏幕，悄悄滴進行絕無可能，那麽不如放開膽子。",
+      "translated_vi": "Đằng nào thì bản thân chắc chắn cũng đã rơi vào tầm ngắm, đã bốn lần xuất hiện trên màn hình lớn rồi, muốn lén lút hành động là chuyện tuyệt đối không thể, chi bằng cứ đường hoàng dạn dĩ bung sức."
+    },
+    {
+      "para_id": "c0206p0018",
+      "index": 18,
+      "raw_zh": "“法緹娜！婉娜拉·宋提查！法緹娜.”",
+      "translated_vi": "“Fatina! Wannarot Sonthichai! Fatina...”"
+    },
+    {
+      "para_id": "c0206p0019",
+      "index": 19,
+      "raw_zh": "雲千峰一路走著，呼喊著。",
+      "translated_vi": "Vân Thiên Phong vừa rảo bước đi tới, vừa không ngừng cất tiếng gọi."
+    },
+    {
+      "para_id": "c0206p0020",
+      "index": 20,
+      "raw_zh": "時間一分一秒的過去，天空上那利用濃霧的投影不時廣播那些找到寶藏的人。",
+      "translated_vi": "Thời gian từng phút từng giây trôi qua, màn chiếu lợi dụng sương mù dày đặc trên bầu trời chốc chốc lại phát thanh thông báo về những người vừa tìm được kho báu."
+    },
+    {
+      "para_id": "c0206p0021",
+      "index": 21,
+      "raw_zh": "每一次，都能引起身邊尋找寶藏之人的歎息和羨慕。",
+      "translated_vi": "Mỗi lần như thế đều dấy lên những tiếng thở dài thườn thượt lẫn ánh mắt ghen tị của những kẻ đang lùng sục xung quanh."
+    },
+    {
+      "para_id": "c0206p0022",
+      "index": 22,
+      "raw_zh": "這幾百號人這段時間的情緒可謂是大起大落。",
+      "translated_vi": "Tâm trạng của mấy trăm con người này trong suốt quãng thời gian qua quả thực lên bổng xuống trầm dữ dội."
+    },
+    {
+      "para_id": "c0206p0023",
+      "index": 23,
+      "raw_zh": "從一開始活動開啟時的興奮喜悅，到雲千峰第一次找到藏寶被廣播後的羨慕嫉妒，再到雲千峰幾次找到藏寶後的沒來由恨意。",
+      "translated_vi": "Từ nỗi hưng phấn hân hoan khi hoạt động mới mở màn, đến cảm giác ghen tị thèm muốn khi Vân Thiên Phong lần đầu tìm ra kho báu được xướng tên, rồi chuyển thành nỗi oán hận vô cớ sau vài lần Vân Thiên Phong liên tiếp vớ được giải thưởng."
+    },
+    {
+      "para_id": "c0206p0024",
+      "index": 24,
+      "raw_zh": "而現在，隨著更多人找到寶藏，這些情緒愈加混淆起來。",
+      "translated_vi": "Giờ đây, khi ngày càng có thêm nhiều người tìm thấy kho báu, những cảm xúc ấy lại càng thêm phần hỗn tạp, giằng xé."
+    },
+    {
+      "para_id": "c0206p0025",
+      "index": 25,
+      "raw_zh": "找到藏寶的人自然喜悅無比，而看到身邊有人找到寶藏，尤其是自己的同伴找到，心中那種怒意隱隱燃動。",
+      "translated_vi": "Kẻ tìm được kho báu đương nhiên mừng rỡ khôn xiết, nhưng những người nhìn thấy kẻ bên cạnh tìm ra, đặc biệt là khi chính chiến hữu đồng hành của mình vớ được, thì ngọn lửa phẫn nộ trong lòng lại âm ỉ bùng cháy."
+    },
+    {
+      "para_id": "c0206p0026",
+      "index": 26,
+      "raw_zh": "而更多的人則是憂心忡忡，他們發現，相對於這麽多人，二百份藏寶實在是少了些。",
+      "translated_vi": "Trong khi đó, phần lớn mọi người lại mang tâm trạng lo âu nơm nớp. Họ nhận ra rằng so với chừng ấy con người chen chúc, hai trăm phần kho báu quả thực là quá ít ỏi."
+    },
+    {
+      "para_id": "c0206p0027",
+      "index": 27,
+      "raw_zh": "“到底能不能輪到自己發財呢？憂愁啊！”",
+      "translated_vi": "“Rốt cuộc có đến lượt mình phát tài không đây? Sầu não thật chứ!”"
+    },
+    {
+      "para_id": "c0206p0028",
+      "index": 28,
+      "raw_zh": "與此同時，隨著寶藏被發現越來越多，天空之中那三色虹橋變得越來越清晰。",
+      "translated_vi": "Cùng lúc đó, theo số lượng kho báu bị phát hiện ngày một tăng, nhịp cầu vồng tam sắc vắt ngang trời đêm lại càng trở nên rõ nét lạ thường."
+    },
+    {
+      "para_id": "c0206p0029",
+      "index": 29,
+      "raw_zh": "嫣紅已經似乎凝成了實質，仿佛按一下都能滴出血來。",
+      "translated_vi": "Sắc đỏ rực rỡ dường như đã ngưng đọng thành thực thể, ngỡ như chỉ cần ấn nhẹ một cái là có thể ứa máu tươi."
+    },
+    {
+      "para_id": "c0206p0030",
+      "index": 30,
+      "raw_zh": "橙色仿佛燒紅的鐵棍，黃色好似塗抹了油漆。",
+      "translated_vi": "Màu cam tựa thanh sắt nung đỏ trong lò, sắc vàng hệt như lớp sơn dầu quết đậm."
+    },
+    {
+      "para_id": "c0206p0031",
+      "index": 31,
+      "raw_zh": "雖然依舊都是帶著一絲暗色調，但愈加顯眼真實。",
+      "translated_vi": "Dẫu vẫn phủ một tầng sắc điệu u tối, nhưng chúng ngày càng hiện lên rõ rệt và chân thực đến gai người."
+    },
+    {
+      "para_id": "c0206p0032",
+      "index": 32,
+      "raw_zh": "雲千峰不時的抬頭看向天空的虹橋。",
+      "translated_vi": "Vân Thiên Phong thỉnh thoảng lại ngước mắt nhìn lên dải cầu vồng trên vòm trời."
+    },
+    {
+      "para_id": "c0206p0033",
+      "index": 33,
+      "raw_zh": "“顏色沒有繼續增加，看來寶藏的數量與虹橋顏色的增加毫無關系，但似乎虹橋的顏色越來越凝實，這是寶藏被發現數量決定的嗎？這種關系很沒理由啊！不科學！”",
+      "translated_vi": "“Màu sắc không tiếp tục tăng thêm, xem ra số lượng kho báu chẳng liên quan gì đến việc dải màu cầu vồng gia tăng cả. Nhưng dường như màu sắc của cầu vồng lại ngày càng ngưng thực, lẽ nào điều này do số lượng kho báu được tìm thấy quyết định? Mối liên hệ này vô lý hết sức! Hoàn toàn phản khoa học!”"
+    },
+    {
+      "para_id": "c0206p0034",
+      "index": 34,
+      "raw_zh": "物理和化學變化，就一定是能量之間的傳遞，這是不可變的規則。",
+      "translated_vi": "Biến đổi vật lý hay hóa học nhất định phải là sự truyền dẫn giữa các dạng năng lượng, đó là quy luật bất biến."
+    },
+    {
+      "para_id": "c0206p0035",
+      "index": 35,
+      "raw_zh": "藏寶獎品的數量，只是一個數學概念，而不是能量。",
+      "translated_vi": "Số lượng giải thưởng cất giấu chỉ là một khái niệm toán học, tuyệt đối không phải là năng lượng."
+    },
+    {
+      "para_id": "c0206p0036",
+      "index": 36,
+      "raw_zh": "婉娜拉·宋提查正在和自己的四個夥伴在遊樂場內尋找寶藏。",
+      "translated_vi": "Wannarot Sonthichai đang cùng bốn người bạn đồng hành của mình lùng sục kho báu bên trong khu vui chơi giải trí."
+    },
+    {
+      "para_id": "c0206p0037",
+      "index": 37,
+      "raw_zh": "要說這丫頭也是很有主意，任憑別人在何處尋到寶藏，她都沒動搖的繼續在遊樂場尋找。",
+      "translated_vi": "Phải nói con bé này cũng rất có chủ kiến, mặc kệ người khác tìm thấy kho báu ở nơi nào, cô vẫn kiên định không hề lay chuyển, tiếp tục truy tìm quanh khu vui chơi."
+    },
+    {
+      "para_id": "c0206p0038",
+      "index": 38,
+      "raw_zh": "她的選擇無疑是正確的，但是奈何運氣不濟，到現在五個人一樣藏寶也沒尋到。",
+      "translated_vi": "Lựa chọn của cô không nghi ngờ gì là chuẩn xác, ngặt nỗi vận may lại chẳng mỉm cười, đến giờ phút này cả năm người vẫn chưa vớ được bất kỳ món bảo vật nào."
+    },
+    {
+      "para_id": "c0206p0039",
+      "index": 39,
+      "raw_zh": "而雲千峰此時已經第八次登上了投影大屏幕。",
+      "translated_vi": "Trong khi đó, Vân Thiên Phong lúc này đã lần thứ tám bước lên màn chiếu khổng lồ."
+    },
+    {
+      "para_id": "c0206p0040",
+      "index": 40,
+      "raw_zh": "可以說，現在這這裡的數百人就沒有不認識雲千峰的。",
+      "translated_vi": "Có thể nói, mấy trăm con người đang có mặt ở nơi đây lúc này chẳng ai là không biết tới mặt mũi của Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0206p0041",
+      "index": 41,
+      "raw_zh": "每一次路過可視距離內的尋寶者，雲千峰都會聽到他們的竊竊私語，當然了雲千峰聽不懂。",
+      "translated_vi": "Mỗi lần đi ngang qua những kẻ săn tìm kho báu trong tầm mắt, Vân Thiên Phong đều nghe thấy những tiếng xì xào bàn tán của họ, dĩ nhiên là anh nghe chẳng hiểu gì."
+    },
+    {
+      "para_id": "c0206p0042",
+      "index": 42,
+      "raw_zh": "有的說：",
+      "translated_vi": "Có kẻ bảo:"
+    },
+    {
+      "para_id": "c0206p0043",
+      "index": 43,
+      "raw_zh": "“看，是那個幸運者。”",
+      "translated_vi": "“Nhìn kìa, chính là gã may mắn đó đấy.”"
+    },
+    {
+      "para_id": "c0206p0044",
+      "index": 44,
+      "raw_zh": "有的則說：",
+      "translated_vi": "Kẻ khác lại nghiến răng:"
+    },
+    {
+      "para_id": "c0206p0045",
+      "index": 45,
+      "raw_zh": "“瑪德，可能是個托。”",
+      "translated_vi": "“Mẹ kiếp, khéo lại là chim mồi gài vào.”"
+    },
+    {
+      "para_id": "c0206p0046",
+      "index": 46,
+      "raw_zh": "“千萬不要是這樣啊，我可是請了假來的，為了尋寶，我這個月的全勤獎金都沒了啊！要是托，我們就都被耍了。”",
+      "translated_vi": "“Đừng có như thế chứ! Tôi phải xin nghỉ phép mới đến được đây đấy, vì chuyến săn kho báu này mà mất toi khoản tiền chuyên cần cả tháng rồi! Nếu là chim mồi thì lũ mình bị dắt mũi hết cả lũ à!”"
+    },
+    {
+      "para_id": "c0206p0047",
+      "index": 47,
+      "raw_zh": "雲千峰只要看到可視距離內沒有婉娜拉·宋提查，他基本不會停留，而是繼續遊走呼喊。",
+      "translated_vi": "Chỉ cần nhìn thấy trong tầm mắt không có Wannarot Sonthichai, Vân Thiên Phong căn bản sẽ không nán lại mà tiếp tục rảo bước lùng sục, không ngừng cất tiếng gọi."
+    },
+    {
+      "para_id": "c0206p0048",
+      "index": 48,
+      "raw_zh": "“婉娜拉，我好像聽到有人在呼喊你的名字。”",
+      "translated_vi": "“Wannarot, hình như tôi nghe thấy có ai đó đang gọi tên cô.”"
+    },
+    {
+      "para_id": "c0206p0049",
+      "index": 49,
+      "raw_zh": "“好像是，不過口音很奇怪啊！”",
+      "translated_vi": "“Hình như thế thật, nhưng mà phát âm nghe lạ lắm!”"
+    },
+    {
+      "para_id": "c0206p0050",
+      "index": 50,
+      "raw_zh": "婉娜拉·宋提查側耳傾聽片刻，說道：",
+      "translated_vi": "Wannarot Sonthichai nghiêng tai lắng nghe chốc lát rồi lên tiếng:"
+    },
+    {
+      "para_id": "c0206p0051",
+      "index": 51,
+      "raw_zh": "“是華語音譯我的名字的發音，這是個華夏人。”",
+      "translated_vi": "“Đó là cách phát âm tên tôi theo phiên âm tiếng Hoa, là một người Hoa Hạ.”"
+    },
+    {
+      "para_id": "c0206p0052",
+      "index": 52,
+      "raw_zh": "“你認識華夏人嗎？”",
+      "translated_vi": "“Cô quen người Hoa Hạ à?”"
+    },
+    {
+      "para_id": "c0206p0053",
+      "index": 53,
+      "raw_zh": "“認識，不過他們不知道我來這裡參加活動啊，奇怪！”",
+      "translated_vi": "“Có quen, nhưng họ đâu có biết tôi tới đây tham gia sự kiện này đâu, lạ thật!”"
+    },
+    {
+      "para_id": "c0206p0054",
+      "index": 54,
+      "raw_zh": "正說著，那呼喊聲越來越近，婉娜拉·宋提查忙回應了一句，用的是華語：",
+      "translated_vi": "Vừa dứt lời thì tiếng gọi kia đã ngày một tới gần, Wannarot Sonthichai vội vàng cất tiếng đáp lại, dùng chính tiếng Hoa:"
+    },
+    {
+      "para_id": "c0206p0055",
+      "index": 55,
+      "raw_zh": "“嘿，是誰你？幹什麽找我？”",
+      "translated_vi": "“Này, là ai bạn? Làm cái gì tìm tôi?”"
+    },
+    {
+      "para_id": "c0206p0056",
+      "index": 56,
+      "raw_zh": "泰語的語序，對她的華語影響比較大。",
+      "translated_vi": "Trật tự ngữ pháp tiếng Thái ảnh hưởng khá nặng nề lên câu cú tiếng Hoa bập bõm của cô nàng."
+    },
+    {
+      "para_id": "c0206p0057",
+      "index": 57,
+      "raw_zh": "雲千峰聽到回應，登時大喜，任務第二條達成，找到婉娜拉·宋提查了。",
+      "translated_vi": "Vân Thiên Phong nghe thấy tiếng đáp thì mừng rỡ khôn xiết, mục tiêu thứ hai trong nhiệm vụ đã hoàn thành: tìm ra Wannarot Sonthichai."
+    },
+    {
+      "para_id": "c0206p0058",
+      "index": 58,
+      "raw_zh": "當下急忙尋聲快步走過去，然後看到了照片上的那張臉。",
+      "translated_vi": "Anh lập tức lần theo âm thanh rảo bước thật nhanh tới, rồi trông thấy gương mặt giống hệt trong tấm ảnh."
+    },
+    {
+      "para_id": "c0206p0059",
+      "index": 59,
+      "raw_zh": "這丫頭有著健康的小麥色皮膚，身高大約只有一米四幾，但是凸凹細腰，就好像某東內一米四版本的矽膠。",
+      "translated_vi": "Con bé này sở hữu làn da bánh mật khỏe khoắn, chiều cao chỉ chừng hơn một mét bốn mươi, nhưng đường cong lồi lõm eo thon gợi cảm, chẳng khác nào phiên bản búp bê silicon thu nhỏ một mét bốn trên sàn thương mại điện tử."
+    },
+    {
+      "para_id": "c0206p0060",
+      "index": 60,
+      "raw_zh": "要說婉娜拉·宋提查讓雲千峰眼前略微一亮，那麽雲千峰則是讓婉娜拉·宋提查這五個人小隊，所有人眼睛放光。",
+      "translated_vi": "Nếu nói Wannarot Sonthichai khiến ánh mắt Vân Thiên Phong hơi sáng lên một chút, thì sự xuất hiện của Vân Thiên Phong lại khiến toàn bộ đội ngũ năm người của Wannarot Sonthichai hai mắt sáng rực."
+    },
+    {
+      "para_id": "c0206p0061",
+      "index": 61,
+      "raw_zh": "“哇，是那個幸運者。”",
+      "translated_vi": "“Oa, chính là gã may mắn đó kìa!”"
+    },
+    {
+      "para_id": "c0206p0062",
+      "index": 62,
+      "raw_zh": "“嘿，婉娜拉，快問他是不是托兒。”",
+      "translated_vi": "“Này Wannarot, mau hỏi hắn xem có phải chim mồi không!”"
+    },
+    {
+      "para_id": "c0206p0063",
+      "index": 63,
+      "raw_zh": "雲千峰看著婉娜拉·宋提查笑道：",
+      "translated_vi": "Vân Thiên Phong nhìn Wannarot Sonthichai, cười hỏi:"
+    },
+    {
+      "para_id": "c0206p0064",
+      "index": 64,
+      "raw_zh": "“伱是婉娜拉·宋提查？”",
+      "translated_vi": "“Cô là Wannarot Sonthichai?”"
+    },
+    {
+      "para_id": "c0206p0065",
+      "index": 65,
+      "raw_zh": "婉娜拉·宋提查點了點頭，道：",
+      "translated_vi": "Wannarot Sonthichai gật đầu đáp:"
+    },
+    {
+      "para_id": "c0206p0066",
+      "index": 66,
+      "raw_zh": "“對的，我是，你幹什麽找我？”",
+      "translated_vi": "“Đúng vậy, là tôi đây, anh làm cái gì tìm tôi?”"
+    },
+    {
+      "para_id": "c0206p0067",
+      "index": 67,
+      "raw_zh": "說話的時候，眼睛不時的看向雲千峰的背包，因為她知道，那裡面放著能兌換八萬美金的獎品。",
+      "translated_vi": "Lúc mở miệng nói chuyện, đôi mắt cô nàng cứ chốc chốc lại liếc nhìn chiếc ba lô của Vân Thiên Phong, bởi lẽ cô biết rõ bên trong đó đang chứa những món phần thưởng có thể đổi thành tám vạn đô la Mỹ tiền mặt."
+    },
+    {
+      "para_id": "c0206p0068",
+      "index": 68,
+      "raw_zh": "雲千峰沒浪費時間去解釋真相，因為沒有人會相信，不過只看婉娜拉·宋提查看自己背包的眼神，他就已經知道拿捏這個丫頭的方法。",
+      "translated_vi": "Vân Thiên Phong chẳng hơi đâu phí thời gian đi giải thích chân tướng, bởi có nói ra cũng chẳng ai tin. Thế nhưng chỉ cần nhìn ánh mắt con bé dán chặt vào chiếc ba lô của mình, anh đã nắm thóp được cách trị cô nàng."
+    },
+    {
+      "para_id": "c0206p0069",
+      "index": 69,
+      "raw_zh": "所以他用了最直接的方法：",
+      "translated_vi": "Bởi vậy, anh chọn ngay biện pháp trực diện nhất:"
+    },
+    {
+      "para_id": "c0206p0070",
+      "index": 70,
+      "raw_zh": "“婉娜拉·宋提查，你告訴你的同伴，現在開始你跟著我了，不要問原因。”",
+      "translated_vi": "“Wannarot Sonthichai, cô hãy bảo đám bạn của mình đi, từ giờ trở đi cô đi theo tôi, đừng hỏi lý do tại sao.”"
+    },
+    {
+      "para_id": "c0206p0071",
+      "index": 71,
+      "raw_zh": "婉娜拉·宋提查疑惑道：",
+      "translated_vi": "Wannarot Sonthichai ngơ ngác hỏi lại:"
+    },
+    {
+      "para_id": "c0206p0072",
+      "index": 72,
+      "raw_zh": "“憑什麽？為什麽？”",
+      "translated_vi": "“Dựa vào cái gì? Tại sao chứ?”"
+    },
+    {
+      "para_id": "c0206p0073",
+      "index": 73,
+      "raw_zh": "雲千峰敢說出這樣的話，就是知道做到這一點很簡單。",
+      "translated_vi": "Vân Thiên Phong dám buông lời ngông nghênh như thế là vì anh biết thừa làm được điều này dễ như trở bàn tay."
+    },
+    {
+      "para_id": "c0206p0074",
+      "index": 74,
+      "raw_zh": "因為眼前這個女孩，愛錢的很。",
+      "translated_vi": "Bởi vì cô gái trước mắt này mê tiền như mạng sống."
+    },
+    {
+      "para_id": "c0206p0075",
+      "index": 75,
+      "raw_zh": "“憑什麽？跟著我走，我會給你兩件可以兌換美金的獎品，這個理由充分嗎？”",
+      "translated_vi": "“Dựa vào cái gì ư? Đi theo tôi, tôi cho cô hai món phần thưởng đổi ra tiền mặt đô la Mỹ. Lý do này đã đủ sức nặng chưa?”"
+    },
+    {
+      "para_id": "c0206p0076",
+      "index": 76,
+      "raw_zh": "婉娜拉·宋提查眼珠在轉，雲千峰知道這丫頭在思考能不能討價還價。",
+      "translated_vi": "Tròng mắt Wannarot Sonthichai đảo liên hồi, Vân Thiên Phong thừa hiểu con bé này đang tính toán xem có thể mặc cả thêm được chút nào không."
+    },
+    {
+      "para_id": "c0206p0077",
+      "index": 77,
+      "raw_zh": "作為能為錢玩命的雲千峰，他是不接受討價還價的。",
+      "translated_vi": "Là kẻ từng liều cả mạng vì tiền, Vân Thiên Phong tuyệt đối không chấp nhận chuyện cò kè bớt một thêm hai."
+    },
+    {
+      "para_id": "c0206p0078",
+      "index": 78,
+      "raw_zh": "於是先發製人，說道：",
+      "translated_vi": "Anh lập tức đòn phủ đầu chặn họng:"
+    },
+    {
+      "para_id": "c0206p0079",
+      "index": 79,
+      "raw_zh": "“不同意算了，我去找別人試試，我就是找個伴，我是剛才聽到有人說有個婉娜拉·宋提查的很漂亮，所以才找一找看看，身段還可以，不過那人說婉娜拉·宋提查身材很高，這一點不符合啊，或許是我找錯了，應該還有同名的。”",
+      "translated_vi": "“Không đồng ý thì thôi, tôi đi tìm người khác thử xem. Tôi chỉ cần tìm một bạn đồng hành thôi, nãy nghe có người khen có cô gái tên Wannarot Sonthichai xinh đẹp lắm nên mới đi tìm thử xem sao. Dáng dấp thì cũng tạm được, cơ mà người ta bảo cô nàng đó chân dài dáng chuẩn, điểm này thì cô không khớp rồi. Có khi tôi nhận nhầm người, chắc còn ai đó trùng tên trùng họ.”"
+    },
+    {
+      "para_id": "c0206p0080",
+      "index": 80,
+      "raw_zh": "直白的，絲毫不給對方尊嚴的，P客的語氣。",
+      "translated_vi": "Giọng điệu trắng trợn, không chừa lại cho đối phương nửa phần thể diện, sặc mùi một gã khách làng chơi ngã giá."
+    },
+    {
+      "para_id": "c0206p0081",
+      "index": 81,
+      "raw_zh": "婉娜拉·宋提查聽到這話，腦子裡哪還有時間思考能不能討價還價，利令智昏，忙道：",
+      "translated_vi": "Wannarot Sonthichai nghe xong câu đó thì trong đầu đâu còn thời gian mà tính chuyện mặc cả nữa, lòng tham làm mờ lý trí, cô nàng vội cuống cuồng nói:"
+    },
+    {
+      "para_id": "c0206p0082",
+      "index": 82,
+      "raw_zh": "“沒錯的，一定就是我，我同意你的邀請。”",
+      "translated_vi": "“Không nhầm đâu! Nhất định là tôi mà! Tôi đồng ý lời mời của anh!”"
+    },
+    {
+      "para_id": "c0206p0083",
+      "index": 83,
+      "raw_zh": "說著要扭了扭腰，把自己的好身材展示一番。",
+      "translated_vi": "Vừa nói, cô nàng vừa ưỡn ngực lắc eo, phô diễn đường cong bốc lửa của mình một vòng."
+    },
+    {
+      "para_id": "c0206p0084",
+      "index": 84,
+      "raw_zh": "雲千峰好似看貨物似的，繞著婉娜拉·宋提查走了一圈，拍拍屁股捏捏腰，還掰開嘴巴看了看牙齒，然後說道：",
+      "translated_vi": "Vân Thiên Phong hệt như một tay buôn đang thẩm định món hàng, lượn quanh Wannarot Sonthichai một vòng, vỗ mông nắn eo, thậm chí còn vạch miệng cô nàng ra soi từng chiếc răng, rồi gật gù bảo:"
+    },
+    {
+      "para_id": "c0206p0085",
+      "index": 85,
+      "raw_zh": "“還挺有料的，不錯！那我話說在前頭，跟著我就必須聽我的，聽話我滿意了，會有獎金的。”",
+      "translated_vi": "“Hàng họ cũng ra trò đấy, không tồi! Nhưng tôi nói trước, đã theo tôi thì phải răm rắp nghe lời tôi, ngoan ngoãn làm tôi hài lòng thì sẽ có tiền thưởng thêm.”"
+    },
+    {
+      "para_id": "c0206p0086",
+      "index": 86,
+      "raw_zh": "說著，在背包裡掏出那枚銀質倒十字架，在飄渺的燈光下晃了晃，畫出凌亂的銀光，道：",
+      "translated_vi": "Dứt lời, anh thò tay vào ba lô lôi ra chiếc thánh giá ngược bằng bạc, vung vẩy trước ánh đèn mờ ảo vẽ nên những vệt sáng lấp lánh chói mắt, thản nhiên nói:"
+    },
+    {
+      "para_id": "c0206p0087",
+      "index": 87,
+      "raw_zh": "“定金！”",
+      "translated_vi": "“Tiền đặt cọc!”"
+    },
+    {
+      "para_id": "c0206p0088",
+      "index": 88,
+      "raw_zh": "婉娜拉·宋提查急忙一把將銀質倒十字架握在手裡，興奮道：",
+      "translated_vi": "Wannarot Sonthichai cuống quýt chộp ngay lấy cây thánh giá ngược bằng bạc nắm chặt trong tay, phấn khích reo lên:"
+    },
+    {
+      "para_id": "c0206p0089",
+      "index": 89,
+      "raw_zh": "“成交！”",
+      "translated_vi": "“Chốt kèo!”"
+    },
+    {
+      "para_id": "c0206p0090",
+      "index": 90,
+      "raw_zh": "說著，把銀質倒十字架放進了自己的背包內，然後對著自己四個同伴道：",
+      "translated_vi": "Vừa nói, cô vừa nhét phắt cây thánh giá ngược bằng bạc vào ba lô của mình, rồi quay sang bốn người bạn đồng hành bảo:"
+    },
+    {
+      "para_id": "c0206p0091",
+      "index": 91,
+      "raw_zh": "“哦，實在抱歉，我不能和你們一起了，因為這個遠方的朋友需要我做他的翻譯，拜拜！”",
+      "translated_vi": "“Ôi, thật sự xin lỗi mọi người nhé, tôi không thể tiếp tục đi cùng các cậu được nữa rồi, vì người bạn phương xa này cần tôi làm phiên dịch cho anh ấy. Tạm biệt nha!”"
+    },
+    {
+      "para_id": "c0206p0092",
+      "index": 92,
+      "raw_zh": "兩萬美金，足夠婉娜拉·宋提查做出無數次選擇，別說一次。",
+      "translated_vi": "Hai vạn đô la Mỹ, đủ để Wannarot Sonthichai đưa ra vô số lần lựa chọn, chứ đừng nói chỉ một lần."
+    },
+    {
+      "para_id": "c0206p0093",
+      "index": 93,
+      "raw_zh": "更別說與自己的夥伴分道揚鑣。",
+      "translated_vi": "Càng đừng nói đến chuyện đường ai nấy đi với đám bạn vô công rỗi nghề này."
+    },
+    {
+      "para_id": "c0206p0094",
+      "index": 94,
+      "raw_zh": "這些錢，足夠她什麽都不做，就可以瀟灑的活上三年。",
+      "translated_vi": "Số tiền này đủ để cô nàng chẳng cần nhấc tay làm bất cứ việc gì mà vẫn có thể sống ung dung sung túc suốt ba năm ròng rã."
+    },
+    {
+      "para_id": "c0206p0095",
+      "index": 95,
+      "raw_zh": "為了這些錢，暫時把自己賣了，哪怕對方有什麽特殊癖好，婉娜拉覺得，那都是值得的。",
+      "translated_vi": "Đổi lấy ngần ấy tiền, tạm thời bán mình một phen, dẫu đối phương có sở thích quái đản bệnh hoạn gì đi nữa, Wannarot vẫn cảm thấy hoàn toàn xứng đáng."
+    },
+    {
+      "para_id": "c0206p0096",
+      "index": 96,
+      "raw_zh": "所以，她已經做好了各種打算，包括可能受傷。",
+      "translated_vi": "Bởi thế, cô đã chuẩn bị sẵn mọi tâm lý, kể cả việc có thể sẽ phải chịu chút thương tích thể xác."
+    },
+    {
+      "para_id": "c0206p0097",
+      "index": 97,
+      "raw_zh": "事情發展比雲千峰想象的順利。",
+      "translated_vi": "Mọi chuyện diễn ra còn suôn sẻ hơn cả những gì Vân Thiên Phong tưởng tượng."
+    },
+    {
+      "para_id": "c0206p0098",
+      "index": 98,
+      "raw_zh": "在四個中指之下，婉娜拉跟著雲千峰走向另一個方向。",
+      "translated_vi": "Dưới bốn ngón tay giữa giơ lên đầy phẫn nộ của đám bạn, Wannarot ngoan ngoãn cất bước theo Vân Thiên Phong rẽ sang một hướng khác."
+    },
+    {
+      "para_id": "c0206p0099",
+      "index": 99,
+      "raw_zh": "雲千峰可以說是毫無目的的遊走，至於尋找白狐，他倒是不急，因為以白狐的嗅覺，要找自己很容易。",
+      "translated_vi": "Vân Thiên Phong có thể nói là đang tản bộ hoàn toàn vô định. Còn về chuyện tìm bạch hồ, anh lại chẳng hề sốt ruột, bởi với khứu giác nhạy bén của con cáo trắng kia, tìm ra anh là chuyện quá đỗi dễ dàng."
+    },
+    {
+      "para_id": "c0206p0100",
+      "index": 100,
+      "raw_zh": "而白狐現在沒有出現，一定是她發現了什麽。",
+      "translated_vi": "Mà cáo trắng tới giờ vẫn chưa thấy tăm hơi, chắc chắn là ả đã phát hiện ra điều gì đó bất thường."
+    },
+    {
+      "para_id": "c0206p0101",
+      "index": 101,
+      "raw_zh": "所以雲千峰不急，只要保住婉娜拉·宋提查不死，最後得到八姓竹書，這一把也不算虧。",
+      "translated_vi": "Thế nên Vân Thiên Phong không hề nóng vội. Chỉ cần bảo toàn cho Wannarot Sonthichai không mất mạng, cuối cùng lấy được Trúc thư Bát Tính, thì chuyến này xem như cũng không lỗ vốn."
+    },
+    {
+      "para_id": "c0206p0102",
+      "index": 102,
+      "raw_zh": "倆人走到一個巨大的石柱後面，這石柱上的花紋非常古怪，前所未見。",
+      "translated_vi": "Cả hai đi tới phía sau một cột đá khổng lồ, những hoa văn chạm khắc trên cột đá này vô cùng cổ quái, trước nay chưa từng thấy qua."
+    },
+    {
+      "para_id": "c0206p0103",
+      "index": 103,
+      "raw_zh": "雲千峰認為這應該是某種規則花紋，表達的是某種規則，而不是象形花紋。",
+      "translated_vi": "Vân Thiên Phong nhận định đây hẳn là một loại hoa văn quy tắc nào đó, biểu đạt quy luật trật tự chứ không phải hoa văn tượng hình thông thường."
+    },
+    {
+      "para_id": "c0206p0104",
+      "index": 104,
+      "raw_zh": "他站在石柱後面，抬頭觀望，這行為卻讓婉娜拉誤會了。",
+      "translated_vi": "Anh đứng sau cột đá, ngửa đầu chăm chú quan sát, thế nhưng hành động này lại khiến Wannarot hiểu lầm tai hại."
+    },
+    {
+      "para_id": "c0206p0105",
+      "index": 105,
+      "raw_zh": "“啊，他停了下來，這樣站著？我懂了！我要表現好一點，多賺一些！”",
+      "translated_vi": "“Ái chà, hắn dừng bước lại, đứng thẳng thớm thế này sao? Mình hiểu rồi! Mình phải thể hiện cho thật tốt, kiếm thêm một mớ nữa mới được!”"
+    },
+    {
+      "para_id": "c0206p0106",
+      "index": 106,
+      "raw_zh": "想著，她來到雲千峰面前，貼著雲千峰扭動著嬌小的身軀，好像一條蛇，從上而下，緩緩分膝蹲了下去。",
+      "translated_vi": "Nghĩ đoạn, cô nàng liền bước tới trước mặt Vân Thiên Phong, dán sát lấy thân hình anh mà uốn éo cơ thể nhỏ nhắn hệt như một con rắn nước, từ trên trượt dần xuống dưới, hai đầu gối chầm chậm tách ra rồi quỳ thụp xuống."
+    },
+    {
+      "para_id": "c0206p0107",
+      "index": 107,
+      "raw_zh": "雲千峰低頭，恰好能看到那因為下蹲而撐開的鼓丘。",
+      "translated_vi": "Vân Thiên Phong cúi đầu, vừa vặn nhìn thấy bờ mông căng tròn đẫy đà đang cong lên theo tư thế ngồi xổm."
+    },
+    {
+      "para_id": "c0206p0108",
+      "index": 108,
+      "raw_zh": "滾圓而結實。",
+      "translated_vi": "Tròn lẳn và săn chắc."
+    },
+    {
+      "para_id": "c0206p0109",
+      "index": 109,
+      "raw_zh": "當婉娜拉用牙齒咬住了雲千峰的腰帶時，雲千峰一伸手，抓住婉娜拉的頭髮，將她拎起來，咬牙道：",
+      "translated_vi": "Đến lúc Wannarot dùng hàm răng cắn lấy thắt lưng của Vân Thiên Phong, anh liền vung tay túm chặt lấy mớ tóc của cô nàng nhấc bổng dậy, nghiến răng ken két:"
+    },
+    {
+      "para_id": "c0206p0110",
+      "index": 110,
+      "raw_zh": "“賺我的錢還要佔我便宜！想都不要想！”",
+      "translated_vi": "“Đã kiếm tiền của tôi rồi lại còn dám chiếm tiện nghi của tôi à! Đừng có nằm mơ!”"
+    },
+    {
+      "para_id": "c0206p0111",
+      "index": 111,
+      "raw_zh": "婉娜拉聽到這話都驚呆了，一雙大眼睛無辜茫然的看著雲千峰。",
+      "translated_vi": "Wannarot nghe câu đó thì ngây phỏng cả người, đôi mắt to tròn mở to ngơ ngác đầy vẻ vô tội nhìn chằm chằm Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0206p0112",
+      "index": 112,
+      "raw_zh": "這個女孩第一次知道，原來自己不是了解所有的男人。",
+      "translated_vi": "Cô gái này lần đầu tiên nhận ra, hóa ra xưa nay mình chẳng hề hiểu hết mọi đàn ông trên đời."
+    },
+    {
+      "para_id": "c0206p0113",
+      "index": 113,
+      "raw_zh": "“或者，眼前不是個男人？”",
+      "translated_vi": "“Hay là... kẻ trước mặt này vốn không phải là đàn ông?”"
+    },
+    {
+      "para_id": "c0206p0114",
+      "index": 114,
+      "raw_zh": "雲千峰咬牙，道：",
+      "translated_vi": "Vân Thiên Phong nghiến răng quát:"
+    },
+    {
+      "para_id": "c0206p0115",
+      "index": 115,
+      "raw_zh": "“看什麽看？抬頭看看月亮，再看看手表！”",
+      "translated_vi": "“Nhìn cái gì mà nhìn? Ngẩng đầu lên nhìn vầng trăng kia đi, rồi nhìn lại đồng hồ đeo tay của cô xem!”"
+    },
+    {
+      "para_id": "c0206p0116",
+      "index": 116,
+      "raw_zh": "婉娜拉感覺自己有點怕這個男人了，但相對於這點恐懼，還是錢更重要。",
+      "translated_vi": "Wannarot cảm thấy bản thân bắt đầu có chút kiêng dè gã đàn ông này, nhưng so với chút sợ hãi cỏn con đó thì tiền vẫn là thứ quan trọng hơn cả."
+    },
+    {
+      "para_id": "c0206p0117",
+      "index": 117,
+      "raw_zh": "她聽話的抬頭看了一眼月亮，然後看了一眼自己的腕表。",
+      "translated_vi": "Cô ngoan ngoãn ngước mắt liếc nhìn vầng trăng trên trời, đoạn lại cúi xuống nhìn chiếc đồng hồ nơi cổ tay."
+    },
+    {
+      "para_id": "c0206p0118",
+      "index": 118,
+      "raw_zh": "那一刻，聰明的她發現了問題所在。",
+      "translated_vi": "Khoảnh khắc ấy, sự thông minh nhạy bén giúp cô nhận ra vấn đề nằm ở đâu."
+    },
+    {
+      "para_id": "c0206p0119",
+      "index": 119,
+      "raw_zh": "“怎麽回事？時間已經過去兩個小時了，怎麽月亮的位置幾乎沒動？”",
+      "translated_vi": "“Chuyện này là thế nào? Thời gian rõ ràng đã trôi qua hai tiếng đồng hồ rồi, sao vị trí của mặt trăng gần như chẳng hề xê dịch tí nào?”"
+    },
+    {
+      "para_id": "c0206p0120",
+      "index": 120,
+      "raw_zh": "雲千峰冷笑道：",
+      "translated_vi": "Vân Thiên Phong cười lạnh:"
+    },
+    {
+      "para_id": "c0206p0121",
+      "index": 121,
+      "raw_zh": "“怎麽回事？好，我告訴你怎麽回事，就是我給你錢來救你的命，勞資這輩子，第一次做這麽虧本的買賣，所以我現在心情非常非常非常的不好！",
+      "translated_vi": "“Thế nào là thế nào? Được, để tôi nói cho cô biết chuyện quái quỷ gì đang diễn ra: chính là tôi phải bỏ tiền túi ra để cứu cái mạng quèn của cô! Cả đời ông đây lần đầu tiên phải làm một phi vụ lỗ vốn thê thảm đến mức này, thế nên tâm trạng hiện tại của tôi đang vô cùng, vô cùng, vô cùng tồi tệ!"
+    },
+    {
+      "para_id": "c0206p0122",
+      "index": 122,
+      "raw_zh": "鑒於此，從現在開始，收起你那無聊的小動作，完全聽從我的安排，你才能活下去，這不是危言聳聽，真正的危險還未降臨。”",
+      "translated_vi": "Bởi vậy, từ giờ trở đi, thu ngay mấy cái trò mèo vô vị ấy lại, ngoan ngoãn phục tùng mọi sắp đặt của tôi thì cô mới có cơ hội sống sót. Đây không phải lời dọa dẫm rỗng tuếch đâu, mối nguy hiểm thực sự còn chưa ập xuống đâu.”"
+    },
+    {
+      "para_id": "c0206p0123",
+      "index": 123,
+      "raw_zh": "“懂？”",
+      "translated_vi": "“Hiểu chưa?”"
+    },
+    {
+      "para_id": "c0206p0124",
+      "index": 124,
+      "raw_zh": "“懂！”",
+      "translated_vi": "“Hiểu rồi!”"
+    },
+    {
+      "para_id": "c0206p0125",
+      "index": 125,
+      "raw_zh": "作為一個算命先生出身的雲千峰，他有著獨特的觀人之術，有些人是不能哄的，就適合欺負。",
+      "translated_vi": "Xuất thân từ một thầy tướng số bói toán, Vân Thiên Phong nắm giữ thuật nhìn người độc nhất vô nhị. Có những hạng người tuyệt đối không thể dỗ dành, mà chỉ thích hợp để đè đầu cưỡi cổ."
+    },
+    {
+      "para_id": "c0206p0126",
+      "index": 126,
+      "raw_zh": "你越欺負她，越容易獲取她的信任和友誼，甚至是依賴。",
+      "translated_vi": "Anh càng bắt nạt cô ấy, lại càng dễ dàng đoạt được sự tin cậy, tình hữu nghị, thậm chí là sự ỷ lại mù quáng của đối phương."
+    },
+    {
+      "para_id": "c0206p0127",
+      "index": 127,
+      "raw_zh": "婉娜拉·宋提查就是這種人。",
+      "translated_vi": "Wannarot Sonthichai chính là kiểu người như thế."
+    },
+    {
+      "para_id": "c0206p0128",
+      "index": 128,
+      "raw_zh": "泰國是個神秘的國度，經常有一些很神秘的事情發生流傳，這也讓婉娜拉·宋提查相信危險存在是真的，因為月亮兩個小時幾乎沒有動，這種反常應對著任何一種可能。",
+      "translated_vi": "Thái Lan là một quốc gia đầy rẫy sự huyền bí, thường xuyên lưu truyền những sự kiện kỳ dị khôn lường, điều đó khiến Wannarot Sonthichai tin chắc rằng nguy hiểm đang rình rập là có thật. Bởi vì vầng trăng suốt hai giờ qua gần như bất động, sự bất thường quái đản này có thể ứng nghiệm với bất kỳ hiểm họa nào."
+    },
+    {
+      "para_id": "c0206p0129",
+      "index": 129,
+      "raw_zh": "一面是危險，一面是一個看起來非常強勢的男人。",
+      "translated_vi": "Một bên là hiểm nguy chết người, một bên là gã đàn ông trông vô cùng cường thế, áp đảo."
+    },
+    {
+      "para_id": "c0206p0130",
+      "index": 130,
+      "raw_zh": "這樣的對比，讓婉娜拉·宋提查心裡產生一種麻酥酥過電般的感覺。",
+      "translated_vi": "Sự tương phản ấy khiến cõi lòng Wannarot Sonthichai dâng lên một cảm giác tê rần như có luồng điện xẹt qua da thịt."
+    },
+    {
+      "para_id": "c0206p0131",
+      "index": 131,
+      "raw_zh": "那是安全感！",
+      "translated_vi": "Đó chính là cảm giác an toàn!"
+    },
+    {
+      "para_id": "c0206p0132",
+      "index": 132,
+      "raw_zh": "她思索了半天的詞匯，也沒找到合適的稱呼雲千峰的稱謂，因為她的華語詞量非常有限，於是她憋了半天，弄出一句：",
+      "translated_vi": "Cô lục lọi vốn từ vựng trong đầu suốt nửa ngày trời mà vẫn không tìm ra được danh xưng nào thích hợp để gọi Vân Thiên Phong, bởi lượng từ tiếng Hoa của cô vô cùng eo hẹp. Thế là nín nhịn hồi lâu, cô rặn ra được một câu:"
+    },
+    {
+      "para_id": "c0206p0133",
+      "index": 133,
+      "raw_zh": "“主人，什麽危險會是？”",
+      "translated_vi": "“Chủ nhân, nguy hiểm gì sẽ là?”"
+    },
+    {
+      "para_id": "c0206p0134",
+      "index": 134,
+      "raw_zh": "這個稱謂，讓雲千峰通體舒泰，覺得自己的虧損回來了一點。",
+      "translated_vi": "Danh xưng này khiến toàn thân Vân Thiên Phong khoan khoái lạ thường, cảm thấy mối làm ăn lỗ vốn của mình dường như đã được gỡ gạc lại đôi chút."
+    },
+    {
+      "para_id": "c0206p0135",
+      "index": 135,
+      "raw_zh": "當下沉聲嚴肅的回了句：",
+      "translated_vi": "Anh lập tức trầm giọng, nghiêm túc đáp lại một câu:"
+    },
+    {
+      "para_id": "c0206p0136",
+      "index": 136,
+      "raw_zh": "“未知的，不可名狀。”",
+      "translated_vi": "“Điều chưa từng biết, không thể gọi tên.”"
+    }
+  ]
+}

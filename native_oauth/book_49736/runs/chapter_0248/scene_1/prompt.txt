@@ -1,0 +1,93 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0248|scene:01|route:LOW|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §54):
+§1 248.第248章 六芒的前生
+§2 第248章 六芒的前生
+§3 [Ø=云千峰]一個漆黑的空間內，只有遠處搖曳的火光散射來些許光芒，把這裡的人臉映襯的好似黑白的素描畫。
+§4 [Ø=云千峰]法令、眉心豎紋處的黑影，讓他們看起來神秘而嚴肅。
+§5 “他要來了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§6 [Ø=云千峰]說話的聲音極低，壓抑著難以言表的激動。
+§7 [Ø=云千峰]“嗯，回去叫大家都準備好，看這次他往哪跑！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 [Ø=云千峰]說著話，這倆人躡手躡腳的朝著遠處的火光而去，逆光而望，只能看到兩個快速移動的黑色影子。
+§9 [Ø=云千峰]但看得出來，那是兩個極為高大的男人，非常強壯，有一個後背還背著一把大砍刀。
+§10 崖隙的盡頭處。
+§11 [Ø=云千峰]雲千峰撿起地上的空瓶，放在鼻翼下嗅了嗅，心中頓時了然。
+§12 [Ø=云千峰]這東西他太過熟悉，在野人山神跡入口處，這個味道讓他記憶深刻。
+§13 “是死藤水！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§14 琳達好奇的問道：
+§15 [Ø=云千峰]“叔叔，這是什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§16 雲千峰道：
+§17 [Ø=云千峰]“是印第安文明的一種草藥，能夠改變人的大腦接收頻段，從而看到別人看不到的東西。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§18 [Ø=云千峰]琳達愈加不理解了，問道：
+§19 “這東西有什麽用？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§20 [Ø=云千峰]雲千峰指了指前面的懸崖岩壁，說道：
+§21 “穿牆用。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 琳達徹底懵。
+§23 雲千峰繼續道：
+§24 [Ø=云千峰]“等會我抱你起來的時候，你就把眼睛閉上，千萬不要睜開， [||] 否則後果難料，我會帶著你穿牆而過，走入另一個空間。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 [Ø=云千峰]琳達驚訝的看著雲千峰，用手摸了摸雲千峰的額頭，確定他沒發燒。
+§26 [Ø=云千峰]雲千峰沒理她，調整呼吸，進入屏息狀態。
+§27 [Ø=云千峰]隨著血液缺氧，他體內那種類似死藤水的物質開始瘋狂分泌，眼前的景色也開始扭曲。
+§28 [Ø=云千峰]蜿蜒的河水變成了彈簧的螺旋狀，聳立的懸崖向下倒過來， [||] 與旁邊的懸崖形成了一個深不見底的洞穴，黑黝黝的，似乎裡面有火光。
+§29 [Ø=云千峰]雲千峰知道，這就是穿牆而過的入口。
+§30 [Ø=云千峰]這裡，是個扭曲的空間。
+§31 [Ø=云千峰]於是他橫抱起琳達，沉聲道：
+§32 [Ø=云千峰]“閉眼，無論如何不要睜開！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 [Ø=云千峰]琳達看了一眼前面那嶙峋的岩石，咬了咬牙， [||] 狠了狠心，心討不過就是撞一下，應該死不了。
+§34 [Ø=云千峰]於是心一橫，眼一閉，雙臂摟緊雲千峰，一副你愛怎怎地的樣子。
+§35 [Ø=云千峰]不過剛閉上眼睛，立馬又睜開，說道：
+§36 [Ø=云千峰]“叔叔，要不你背著我吧？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 [Ø=云千峰]琳達的想法是，還是別撞到自己為好。
+§38 [Ø=云千峰]雲千峰哭笑不得，罵道：
+§39 [Ø=云千峰]“閉上眼睛，別廢話！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 [Ø=云千峰]琳達知道談判失敗，[Ø_SHIFT=姜柔甲]急忙聽話閉眼。
+§41 [Ø=姜柔甲]但扭了扭腰，把屁股對著岩壁方向，她覺得肉厚有緩衝，少受點傷。
+§42 [Ø=姜柔甲]然而那恐懼加詭異期待的撞擊並沒有出現，耳邊就響起了雲千峰的低語：
+§43 “可以睜開眼睛了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 [Ø=姜柔甲]琳達緩緩睜開眼睛，在雲千峰懷裡下來， [||] 站在黑暗當中，用手電照射周圍，臉上全是詫異。
+§45 [Ø=姜柔甲]這裡前後通達，是一個極為寬敞的石洞。
+§46 [Ø=姜柔甲]那條河不見了，阻攔他們的懸崖石壁不見了。
+§47 [Ø=姜柔甲]而雲千峰明明僅僅走了幾步路，就那麽幾步， [||] 既不能上天也不能入地，但周圍的一切都變了，讓琳達怎能不驚訝。
+§48 [Ø=姜柔甲]“叔叔，我們真的是穿牆過來的？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§49 [Ø=姜柔甲]雲千峰沉吟著點了點頭，道：
+§50 [Ø=姜柔甲]“在假象裡，我們是穿牆過來的，實際上我們是順著一個石洞走進來的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§51 琳達更懵了：
+§52 “實際？假象？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§53 [Ø=姜柔甲]雲千峰點了點頭，道：
+§54 [Ø=姜柔甲]“這個世界我們看到的不一定是真的，我們眼睛收集的光譜很有限，甚至遠不如鴿子看到的更真切。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 54 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§54. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

@@ -1,0 +1,523 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 78,
+  "title": "Chương 78: Dùng ma pháp đánh bại ma pháp",
+  "total_paragraphs": 85,
+  "translated_paragraphs": 85,
+  "source_hash": "b67978967563b4c3480d1beb669f67ccf53cb64f125a86370d2f666654a1b222",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0078p0001",
+      "index": 1,
+      "raw_zh": "第78章 用魔法打敗魔法",
+      "translated_vi": "Chương 78: Dùng ma pháp đánh bại ma pháp"
+    },
+    {
+      "para_id": "c0078p0002",
+      "index": 2,
+      "raw_zh": "胖子有心把白妹子拽起來，但是奈何一伸手用力，自己也倒下來，緊接著雲千峰也無法支撐自己的身體，頹然的坐在地上，大口的喘息著。",
+      "translated_vi": "Tên béo Chu Bách Long có lòng muốn kéo cô gái da trắng dậy, nhưng ngặt nỗi vừa vươn tay dồn lực thì chính gã cũng ngã nhào ra đất. Tiếp ngay sau đó, Vân Thiên Phong cũng chẳng thể chống đỡ nổi cơ thể mình, bất lực ngồi bệt xuống đất mà thở dốc từng cơn."
+    },
+    {
+      "para_id": "c0078p0003",
+      "index": 3,
+      "raw_zh": "小神經的呼吸也已經有些紊亂，但是她的體質極強，依舊能夠堅持住。",
+      "translated_vi": "Nhịp thở của Tiểu Thần Kinh cũng bắt đầu có phần hỗn loạn, song thể chất của cô cực kỳ cường hãn nên vẫn có thể gắng gượng chống chọi."
+    },
+    {
+      "para_id": "c0078p0004",
+      "index": 4,
+      "raw_zh": "她看著已經無法行動的四人，沒有做任何遲疑，走過去抓住雲千峰的腰帶，把他拎起來抗在肩背上就要繼續往前走。",
+      "translated_vi": "Nhìn bốn người đã hoàn toàn mất đi khả năng cử động, cô chẳng chút chần chừ, bước tới túm lấy thắt lưng Vân Thiên Phong, xốc anh lên vác trên vai rồi toan tiếp tục bước về phía trước."
+    },
+    {
+      "para_id": "c0078p0005",
+      "index": 5,
+      "raw_zh": "“小神經你幹嘛？”",
+      "translated_vi": "“Tiểu Thần Kinh, cô làm gì vậy?”"
+    },
+    {
+      "para_id": "c0078p0006",
+      "index": 6,
+      "raw_zh": "雲千峰無力的問道。",
+      "translated_vi": "Vân Thiên Phong yếu ớt hỏi."
+    },
+    {
+      "para_id": "c0078p0007",
+      "index": 7,
+      "raw_zh": "“帶你出去。”",
+      "translated_vi": "“Mang anh ra ngoài.”"
+    },
+    {
+      "para_id": "c0078p0008",
+      "index": 8,
+      "raw_zh": "小神經很平淡的回答。",
+      "translated_vi": "Tiểu Thần Kinh thản nhiên đáp."
+    },
+    {
+      "para_id": "c0078p0009",
+      "index": 9,
+      "raw_zh": "朱柏龍這些人把生還希望都放在雲千峰的身上，眼見這希望要被人帶走了，當下急道：",
+      "translated_vi": "Bọn người Chu Bách Long đều đem hy vọng sống sót ký thác cả vào Vân Thiên Phong, nay mắt thấy tia hy vọng duy nhất sắp bị người ta cắp đi mất, gã liền cuống cuồng kêu lên:"
+    },
+    {
+      "para_id": "c0078p0010",
+      "index": 10,
+      "raw_zh": "“不是，那我們怎麽辦？”",
+      "translated_vi": "“Khoan đã, thế còn bọn tôi thì tính sao?”"
+    },
+    {
+      "para_id": "c0078p0011",
+      "index": 11,
+      "raw_zh": "聽到朱柏龍的問話，小神經頭都沒回，淡淡道：",
+      "translated_vi": "Nghe Chu Bách Long hỏi, Tiểu Thần Kinh đầu cũng chẳng thèm ngoảnh lại, nhạt giọng đáp:"
+    },
+    {
+      "para_id": "c0078p0012",
+      "index": 12,
+      "raw_zh": "“我又不認識你們。”",
+      "translated_vi": "“Tôi đâu có quen các người.”"
+    },
+    {
+      "para_id": "c0078p0013",
+      "index": 13,
+      "raw_zh": "說著頭也不回往前走去。",
+      "translated_vi": "Dứt lời, cô cứ thế cất bước tiến thẳng về phía trước."
+    },
+    {
+      "para_id": "c0078p0014",
+      "index": 14,
+      "raw_zh": "雲千峰很清楚，留下這三個人，哪怕恢復體力，他們也無法走出迷霧，因為唯一在這裡能指向的東西在自己手裡。",
+      "translated_vi": "Vân Thiên Phong hiểu rất rõ, nếu bỏ mặc ba người này ở lại, dẫu họ có hồi phục thể lực thì cũng chẳng tài nào thoát khỏi màn sương mù, bởi vì thứ duy nhất có thể chỉ đường ở chốn này lại đang nằm trong tay anh."
+    },
+    {
+      "para_id": "c0078p0015",
+      "index": 15,
+      "raw_zh": "他很想救人，但現在自己都要小神經搭救，他不能對小神經要求什麽，因為他看得出來，小神經也是強弩之末。",
+      "translated_vi": "Anh rất muốn cứu người, nhưng lúc này ngay cả bản thân anh còn phải nhờ cậy Tiểu Thần Kinh cứu giúp, anh không thể đòi hỏi gì thêm ở cô, bởi vì anh nhìn ra được Tiểu Thần Kinh cũng đã sắp chạm đến giới hạn chịu đựng rồi."
+    },
+    {
+      "para_id": "c0078p0016",
+      "index": 16,
+      "raw_zh": "“我要冷靜，冷靜才能找到答案！”",
+      "translated_vi": "“Mình phải bình tĩnh, chỉ có bình tĩnh mới tìm ra lời giải!”"
+    },
+    {
+      "para_id": "c0078p0017",
+      "index": 17,
+      "raw_zh": "小神經帶著雲千峰向前走，後面六道絕望的目光漸漸消沉在濃霧之中看不見，但雲千峰依舊能夠感到那六道視線撕裂著他內心的良知。",
+      "translated_vi": "Tiểu Thần Kinh vác Vân Thiên Phong tiến về phía trước, sáu ánh mắt tuyệt vọng sau lưng dần chìm nghỉm vào màn sương dày đặc không còn thấy rõ, thế nhưng Vân Thiên Phong vẫn cảm nhận được sáu tia nhìn ấy như đang cào xé lương tri trong lòng anh."
+    },
+    {
+      "para_id": "c0078p0018",
+      "index": 18,
+      "raw_zh": "“到底是什麽讓我們身體重創？不是濃霧，這霧氣浸淫我們很久都沒事。”",
+      "translated_vi": "“Rốt cuộc là thứ gì đã gây tổn thương nặng nề cho cơ thể mình? Không phải sương mù, đám sương này vây quanh bọn mình suốt bao lâu nay mà có sao đâu.”"
+    },
+    {
+      "para_id": "c0078p0019",
+      "index": 19,
+      "raw_zh": "“那些贛巨人是到了戈壁位置才恐懼不敢追趕，那麽就是戈壁有問題。”",
+      "translated_vi": "“Lũ Cán Cự Nhân kia chỉ khi đuổi đến rìa bãi đá này mới sợ hãi không dám đuổi tiếp, vậy vấn đề chắc chắn nằm ở bãi đá này.”"
+    },
+    {
+      "para_id": "c0078p0020",
+      "index": 20,
+      "raw_zh": "“戈壁有什麽？石頭，砂礫，還有什麽？什麽都沒有！”",
+      "translated_vi": "“Bãi đá này có gì? Đá tảng, sỏi cát, còn có gì nữa? Chẳng có gì cả!”"
+    },
+    {
+      "para_id": "c0078p0021",
+      "index": 21,
+      "raw_zh": "“不對，還有小神經說的聲音，我們聽不到但是她能聽到的聲音。”",
+      "translated_vi": "“Không đúng, còn có âm thanh mà Tiểu Thần Kinh nhắc tới, thứ âm thanh bọn mình không nghe thấy nhưng cô ấy lại nghe được.”"
+    },
+    {
+      "para_id": "c0078p0022",
+      "index": 22,
+      "raw_zh": "“是低頻噪音！”",
+      "translated_vi": "“Là tiếng ồn hạ âm tần số thấp!”"
+    },
+    {
+      "para_id": "c0078p0023",
+      "index": 23,
+      "raw_zh": "“極強分貝的低頻噪音！難怪小神經形容其如雷不絕於耳。”",
+      "translated_vi": "“Tiếng ồn hạ âm với cường độ decibel cực mạnh! Thảo nào Tiểu Thần Kinh lại miêu tả nó như tiếng sấm rền liên miên không dứt bên tai!”"
+    },
+    {
+      "para_id": "c0078p0024",
+      "index": 24,
+      "raw_zh": "想到這，他急忙掙扎了幾下，對著小神經道：",
+      "translated_vi": "Nghĩ đến đây, anh vội vàng vùng vẫy vài cái, nói với Tiểu Thần Kinh:"
+    },
+    {
+      "para_id": "c0078p0025",
+      "index": 25,
+      "raw_zh": "“停下，我知道怎麽讓大家都能走出去，人必須多，少了沒有用，再這樣下去，伱也走不出去了！”",
+      "translated_vi": "“Dừng lại! Tôi biết cách để tất cả mọi người cùng thoát ra ngoài rồi! Người phải đông mới được, ít người sẽ không có tác dụng đâu, cứ tiếp tục thế này thì ngay cả cô cũng không sống sót bước ra khỏi đây được đâu!”"
+    },
+    {
+      "para_id": "c0078p0026",
+      "index": 26,
+      "raw_zh": "小神經臉色煞白，鼻孔血流如注，她看著雲千峰沙啞著聲音道：",
+      "translated_vi": "Gương mặt Tiểu Thần Kinh trắng bệch, hai lỗ mũi máu tươi chảy ròng ròng, cô nhìn Vân Thiên Phong, khàn giọng thốt lên:"
+    },
+    {
+      "para_id": "c0078p0027",
+      "index": 27,
+      "raw_zh": "“我能帶你走出去。”",
+      "translated_vi": "“Tôi có thể đưa anh ra ngoài.”"
+    },
+    {
+      "para_id": "c0078p0028",
+      "index": 28,
+      "raw_zh": "雲千峰使勁搖了一下頭，道：",
+      "translated_vi": "Vân Thiên Phong ra sức lắc đầu, nói:"
+    },
+    {
+      "para_id": "c0078p0029",
+      "index": 29,
+      "raw_zh": "“你會死的，聽我的放下我，按照我說的做。”",
+      "translated_vi": "“Cô sẽ chết đấy! Nghe tôi, mau đặt tôi xuống, làm theo lời tôi bảo!”"
+    },
+    {
+      "para_id": "c0078p0030",
+      "index": 30,
+      "raw_zh": "小神經看到雲千峰眼神裡的自信，遲疑了一下，將他放下，自己終於一屁股坐在地上，大口的喘息。",
+      "translated_vi": "Tiểu Thần Kinh nhìn thấy ánh mắt tràn ngập vẻ tự tin của Vân Thiên Phong, do dự một thoáng rồi đặt anh xuống; bản thân cô rốt cuộc cũng ngồi phịch xuống đất, thở dốc từng hồi ngắt quãng."
+    },
+    {
+      "para_id": "c0078p0031",
+      "index": 31,
+      "raw_zh": "她其實全憑著意志在行走。",
+      "translated_vi": "Thực ra nãy giờ cô hoàn toàn chỉ đang bước đi bằng ý chí sắt đá."
+    },
+    {
+      "para_id": "c0078p0032",
+      "index": 32,
+      "raw_zh": "雲千峰喘勻了呼吸，顫聲道：",
+      "translated_vi": "Vân Thiên Phong lấy lại nhịp thở đều đặn, run giọng nói:"
+    },
+    {
+      "para_id": "c0078p0033",
+      "index": 33,
+      "raw_zh": "“跟著我念唵（ong）（mā）（nī）（bēi）（mēi）（ hōng），聲音要齊，要在一個頻率上。”",
+      "translated_vi": "“Niệm theo tôi: Úm - Ma - Ni - Bát - Mê - Hồng, tiếng niệm phải đều nhau, phải ở cùng một tần số.”"
+    },
+    {
+      "para_id": "c0078p0034",
+      "index": 34,
+      "raw_zh": "說著，自己當先念詠起來。",
+      "translated_vi": "Nói đoạn, chính anh cất tiếng trì tụng trước tiên."
+    },
+    {
+      "para_id": "c0078p0035",
+      "index": 35,
+      "raw_zh": "小神經一臉不解，但還是跟隨著雲千峰的節奏和韻律開始哼唱。",
+      "translated_vi": "Tiểu Thần Kinh mặt đầy vẻ khó hiểu, nhưng vẫn nương theo tiết tấu và âm luật của Vân Thiên Phong mà bắt đầu cất giọng tụng theo."
+    },
+    {
+      "para_id": "c0078p0036",
+      "index": 36,
+      "raw_zh": "如此十數次，小神經臉上開始爬滿驚訝。",
+      "translated_vi": "Trì tụng như thế mười mấy lần, trên gương mặt Tiểu Thần Kinh bắt đầu ngập tràn vẻ kinh ngạc."
+    },
+    {
+      "para_id": "c0078p0037",
+      "index": 37,
+      "raw_zh": "因為身體，尤其是胸腔內的痛楚竟然在慢慢消失，體力也在快速的恢復著。",
+      "translated_vi": "Bởi vì cơ thể, đặc biệt là nỗi đau nhức nhối trong lồng ngực dường như đang dần tan biến, mà thể lực cũng đang hồi phục với tốc độ chóng mặt."
+    },
+    {
+      "para_id": "c0078p0038",
+      "index": 38,
+      "raw_zh": "雲千峰看到小神經一臉的納悶，淡淡笑道：",
+      "translated_vi": "Thấy Tiểu Thần Kinh mặt mũi đầy vẻ ngơ ngác, Vân Thiên Phong khẽ cười nói:"
+    },
+    {
+      "para_id": "c0078p0039",
+      "index": 39,
+      "raw_zh": "“等會告訴你為什麽，走咱們回去救人。”",
+      "translated_vi": "“Chốc nữa tôi sẽ giải thích cho cô vì sao. Đi nào, chúng ta quay lại cứu người.”"
+    },
+    {
+      "para_id": "c0078p0040",
+      "index": 40,
+      "raw_zh": "絕望三人組自然是絕望的在等死。",
+      "translated_vi": "Bộ ba tuyệt vọng dĩ nhiên đang trong cơn tuyệt vọng chờ chết."
+    },
+    {
+      "para_id": "c0078p0041",
+      "index": 41,
+      "raw_zh": "朱柏龍這個混不吝面對死亡也是想不開的，努力的想要向前爬，但是奈何體重太大，根本無法前進。",
+      "translated_vi": "Tên lưu manh Chu Bách Long trước ranh giới tử thần cũng chẳng thể nào cam lòng, cố gắng hết sức muốn bò về phía trước, ngặt nỗi thể trọng quá nặng nên căn bản chẳng nhích thêm được phân nào."
+    },
+    {
+      "para_id": "c0078p0042",
+      "index": 42,
+      "raw_zh": "努力了一陣，他苦笑道：",
+      "translated_vi": "Gắng gượng một hồi lâu, gã cười khổ:"
+    },
+    {
+      "para_id": "c0078p0043",
+      "index": 43,
+      "raw_zh": "“我現在是不是很像一個烏龜？”",
+      "translated_vi": "“Giờ trông tôi có giống một con rùa không cơ chứ?”"
+    },
+    {
+      "para_id": "c0078p0044",
+      "index": 44,
+      "raw_zh": "白妹子哭得梨花帶雨，看著朱柏龍還沒忘點了點頭。",
+      "translated_vi": "Cô gái da trắng khóc đến hoa lê đẫm hạt mưa, nhìn Chu Bách Long mà vẫn không quên gật gật đầu."
+    },
+    {
+      "para_id": "c0078p0045",
+      "index": 45,
+      "raw_zh": "“嗚嗚嗚，我們要死了嗎？”",
+      "translated_vi": "“Hu hu hu, chúng ta sắp chết rồi sao?”"
+    },
+    {
+      "para_id": "c0078p0046",
+      "index": 46,
+      "raw_zh": "朱柏龍歎了口氣，道：",
+      "translated_vi": "Chu Bách Long thở dài sườn sượt, nói:"
+    },
+    {
+      "para_id": "c0078p0047",
+      "index": 47,
+      "raw_zh": "“是的，這是我完全沒想到的，也沒想過的問題，以至於我現在不知道該想什麽，你們呢？那老外你想什麽呢？給我點借鑒。”",
+      "translated_vi": "“Phải rồi, đây là điều tôi hoàn toàn không ngờ tới, cũng chưa từng nghĩ đến, đến mức bây giờ tôi chẳng biết nên nghĩ cái gì nữa. Còn hai người thì sao? Cô bạn người ngoại quốc kia, cô đang nghĩ gì đấy? Cho tôi tham khảo chút coi.”"
+    },
+    {
+      "para_id": "c0078p0048",
+      "index": 48,
+      "raw_zh": "維多利亞瞄了一眼朱柏龍，道：",
+      "translated_vi": "Victoria liếc Chu Bách Long một cái, đáp:"
+    },
+    {
+      "para_id": "c0078p0049",
+      "index": 49,
+      "raw_zh": "“我在想，雲千峰怎麽還沒回來。”",
+      "translated_vi": "“Tôi đang nghĩ, sao Vân Thiên Phong còn chưa quay lại.”"
+    },
+    {
+      "para_id": "c0078p0050",
+      "index": 50,
+      "raw_zh": "朱柏龍笑了一下，道：",
+      "translated_vi": "Chu Bách Long bật cười cay đắng, nói:"
+    },
+    {
+      "para_id": "c0078p0051",
+      "index": 51,
+      "raw_zh": "“回來共死嗎？那我都瞧不起他，活一個是一個吧。”",
+      "translated_vi": "“Quay lại để chết chùm à? Nếu thế thì tôi lại coi thường anh ta quá, sống được người nào hay người nấy đi.”"
+    },
+    {
+      "para_id": "c0078p0052",
+      "index": 52,
+      "raw_zh": "維多利亞搖頭，笑道：",
+      "translated_vi": "Victoria lắc đầu mỉm cười:"
+    },
+    {
+      "para_id": "c0078p0053",
+      "index": 53,
+      "raw_zh": "“你們都不了解他，他是一個真正意義上的好人，堅強而悲憫，在這個世界上任何一個地方，都不會有任何成就的那種好人，無論是一個公司一個團隊，甚至是一本書內，他都不配成為一個主角，因為他傻得很，他不知道這個世界早就拋棄了良知，所以他會回來，哪怕你覺得他傻。”",
+      "translated_vi": "“Các người đều không hiểu anh ấy. Anh ấy là một người tốt theo đúng nghĩa chân thực nhất, kiên cường nhưng đầy lòng trắc ẩn. Kiểu người tốt như anh ấy ở bất cứ nơi đâu trên thế giới này cũng sẽ chẳng gặt hái được thành tựu gì, dù là trong một công ty, một đoàn thể, hay thậm chí trong một cuốn sách, anh ấy đều không xứng đáng làm nhân vật chính. Bởi vì anh ấy ngốc nghếch lắm, anh ấy không biết rằng thế giới này từ lâu đã vứt bỏ lương tri rồi; chính vì thế anh ấy nhất định sẽ quay lại, dẫu cho các người có coi anh ấy là kẻ ngu ngốc đi chăng nữa.”"
+    },
+    {
+      "para_id": "c0078p0054",
+      "index": 54,
+      "raw_zh": "白妹子和朱柏龍默不作聲，顯然他們不相信雲千峰會回來救他們，那與他們了解的人性不符。",
+      "translated_vi": "Cô gái da trắng cùng Chu Bách Long im bặt không nói lời nào; rõ ràng họ không tin Vân Thiên Phong sẽ quay lại cứu mình, điều đó hoàn toàn đi ngược lại nhân tính mà họ từng biết."
+    },
+    {
+      "para_id": "c0078p0055",
+      "index": 55,
+      "raw_zh": "他們都不知道，或者說忘記了，人類之所以成為這片大地上最強大的生物族群，不僅僅是因為智慧，更是因為那種區別於其他動物的“利他性”，才保證了物種和知識的延續。",
+      "translated_vi": "Bọn họ đều không hay biết, hoặc giả đã lãng quên mất rằng, loài người sở dĩ có thể trở thành tộc quần sinh vật hùng mạnh nhất trên mặt đất này không chỉ nhờ vào trí tuệ, mà quan trọng hơn cả chính là “tính vị tha” khác biệt hoàn toàn với muôn loài động vật khác, nhờ đó mới bảo đảm cho nòi giống và tri thức được trường tồn tiếp nối."
+    },
+    {
+      "para_id": "c0078p0056",
+      "index": 56,
+      "raw_zh": "而儒家和大乘佛學，更是將這種“利他性”研讀到了一種極致，恭敬其為浩然正氣和智慧。",
+      "translated_vi": "Còn Nho gia và Phật giáo Đại thừa lại càng nghiên cứu thấu triệt bản tính “vị tha” này đến cảnh giới tột cùng, tôn kính tôn vinh nó thành Hạo nhiên chính khí và Bồ đề trí tuệ."
+    },
+    {
+      "para_id": "c0078p0057",
+      "index": 57,
+      "raw_zh": "雖然這些東西現在變成了生意，但最初卻是因為利他性而誕生。",
+      "translated_vi": "Dẫu cho ngày nay những điều đó đã biến tướng thành công cụ kinh doanh, nhưng thuở ban đầu chúng sinh ra chính là vì lòng vị tha cao cả ấy."
+    },
+    {
+      "para_id": "c0078p0058",
+      "index": 58,
+      "raw_zh": "三個沉默的人在迷霧之中發呆，不知彼此心裡都在想著什麽。",
+      "translated_vi": "Ba con người im lìm ngơ ngác giữa màn sương mờ mịt, chẳng rõ trong thâm tâm mỗi người đang miên man suy nghĩ điều chi."
+    },
+    {
+      "para_id": "c0078p0059",
+      "index": 59,
+      "raw_zh": "有那麽一刻，維多利亞都懷疑雲千峰可能不會回來了，但她相信，如果是這樣，那麽一定是雲千峰無法回來，而不是不想。",
+      "translated_vi": "Đã có khoảnh khắc Victoria cũng thoáng ngờ vực có khi nào Vân Thiên Phong sẽ không quay lại, nhưng cô tin rằng nếu quả thật như thế thì chắc chắn là do Vân Thiên Phong không thể trở về, chứ tuyệt đối không phải vì anh không muốn."
+    },
+    {
+      "para_id": "c0078p0060",
+      "index": 60,
+      "raw_zh": "她對自己看人的目光自信到極致，以至於一開始，她就毫不吝嗇的給了雲千峰連山符。",
+      "translated_vi": "Cô tự tin vào con mắt nhìn người của mình đến tột độ, đến mức ngay từ đầu cô đã chẳng chút tiếc nuối mà trao Liên Sơn Phù cho Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0078p0061",
+      "index": 61,
+      "raw_zh": "這種人的心，用什麽換都不會虧。",
+      "translated_vi": "Trái tim của một con người như thế, dùng bất cứ thứ gì để đổi lấy cũng chẳng bao giờ chịu thiệt."
+    },
+    {
+      "para_id": "c0078p0062",
+      "index": 62,
+      "raw_zh": "沉默著，安靜著。",
+      "translated_vi": "Im lặng, tĩnh mịch đến nao lòng."
+    },
+    {
+      "para_id": "c0078p0063",
+      "index": 63,
+      "raw_zh": "突然，朱柏龍豎起耳朵，喃喃道：",
+      "translated_vi": "Đột nhiên, Chu Bách Long dựng đứng đôi tai, lẩm bẩm:"
+    },
+    {
+      "para_id": "c0078p0064",
+      "index": 64,
+      "raw_zh": "“神奇啊！勞資偷雞摸狗半輩子，這臨了要走了，怎麽是佛家來接我？我吃肉喝酒喜歡女人啊！是不是搞錯了？你們聽到了嗎？是接白妹子的吧？老外肯定信耶穌啊！”",
+      "translated_vi": "“Kỳ lạ thật đấy! Bố mày trộm gà bắt chó nửa đời người, đến lúc lâm chung sắp đi tong thì sao lại có Phật gia đến đón thế này? Tôi ăn thịt uống rượu mê gái bỏ xừ ra! Liệu có nhầm lẫn gì không? Hai người có nghe thấy không? Là đến đón em gái da trắng đúng không? Người ngoại quốc kia chắc chắn tin theo Chúa Giê-su rồi!”"
+    },
+    {
+      "para_id": "c0078p0065",
+      "index": 65,
+      "raw_zh": "白妹子也似乎聽到了，納悶道：",
+      "translated_vi": "Cô gái da trắng dường như cũng nghe thấy, ngơ ngác hỏi:"
+    },
+    {
+      "para_id": "c0078p0066",
+      "index": 66,
+      "raw_zh": "“我是信耶穌的啊！”",
+      "translated_vi": "“Em theo đạo Chúa Giê-su thật mà!”"
+    },
+    {
+      "para_id": "c0078p0067",
+      "index": 67,
+      "raw_zh": "說著看向維多利亞，看到那女人也在側耳傾聽，於是問道：",
+      "translated_vi": "Nói đoạn cô quay sang nhìn Victoria, thấy người phụ nữ kia cũng đang nghiêng tai chăm chú lắng nghe bèn hỏi:"
+    },
+    {
+      "para_id": "c0078p0068",
+      "index": 68,
+      "raw_zh": "“你信佛的？”",
+      "translated_vi": "“Chị theo đạo Phật à?”"
+    },
+    {
+      "para_id": "c0078p0069",
+      "index": 69,
+      "raw_zh": "維多利亞笑道：",
+      "translated_vi": "Victoria mỉm cười đáp:"
+    },
+    {
+      "para_id": "c0078p0070",
+      "index": 70,
+      "raw_zh": "“我信自己，別瞎想了，這來接咱們的是兩尊佛。”",
+      "translated_vi": "“Tôi tin vào chính mình. Đừng có suy nghĩ vớ vẩn nữa, hai vị đến đón chúng ta chính là hai pho tượng Phật sống đấy.”"
+    },
+    {
+      "para_id": "c0078p0071",
+      "index": 71,
+      "raw_zh": "朱柏龍勉強把自己腦袋撐起來，詫異道：",
+      "translated_vi": "Chu Bách Long gượng gạo nhấc đầu dậy, kinh ngạc hỏi:"
+    },
+    {
+      "para_id": "c0078p0072",
+      "index": 72,
+      "raw_zh": "“你是說，來接咱們三的？我懷疑人生啦！怎麽就成了佛門弟子了，慚愧啊！”",
+      "translated_vi": "“Ý cô là đến đón cả ba chúng ta ư? Tôi bắt đầu nghi ngờ nhân sinh rồi đấy! Sao tự dưng tôi lại biến thành đệ tử cửa Phật thế này, hổ thẹn quá đi mất!”"
+    },
+    {
+      "para_id": "c0078p0073",
+      "index": 73,
+      "raw_zh": "那念詠六字真言的聲音越來越清晰，維多利亞聽著那聲音覺得很舒服，突然眼睛一亮，笑道：",
+      "translated_vi": "Tiếng trì tụng Lục Tự Chân Ngôn mỗi lúc một thêm rõ rệt. Victoria nghe thấy âm thanh ấy liền cảm thấy vô cùng khoan khoái, đôi mắt bỗng sáng rực lên, bật cười:"
+    },
+    {
+      "para_id": "c0078p0074",
+      "index": 74,
+      "raw_zh": "“這可真是個天才的想法，你給我來規則，那我就攪亂規則，用魔法打敗魔法，厲害！你們倆趕緊跟著我一起念，快！”",
+      "translated_vi": "“Đây đúng là một ý tưởng thiên tài! Mày bày ra quy tắc, thì tao quấy nhiễu phá vỡ quy tắc, dùng ma pháp đánh bại ma pháp, lợi hại thật! Hai người mau tụng theo tôi đi, nhanh lên!”"
+    },
+    {
+      "para_id": "c0078p0075",
+      "index": 75,
+      "raw_zh": "說著，維多利亞也開始（ong）（mā）（nī）（bēi）（mēi）（ hōng）。",
+      "translated_vi": "Vừa dứt lời, Victoria cũng bắt đầu cất giọng: “Úm - Ma - Ni - Bát - Mê - Hồng...”"
+    },
+    {
+      "para_id": "c0078p0076",
+      "index": 76,
+      "raw_zh": "朱柏龍和白妹子認為，這可能是投誠的一種方式。",
+      "translated_vi": "Chu Bách Long cùng cô gái da trắng nghĩ rằng đây có lẽ là một phương thức quy phục quy y."
+    },
+    {
+      "para_id": "c0078p0077",
+      "index": 77,
+      "raw_zh": "朱柏龍沒什麽心理壓力，立馬跟著開始念。",
+      "translated_vi": "Chu Bách Long chẳng có gánh nặng tâm lý gì, lập tức tụng theo ngay tắp lự."
+    },
+    {
+      "para_id": "c0078p0078",
+      "index": 78,
+      "raw_zh": "白妹子內心掙扎最少半秒，然後放棄了信仰，內心裡說了聲“對不起，誰接信誰”，便也開始跟著念詠起來。",
+      "translated_vi": "Cô gái da trắng giằng xé nội tâm chừng nửa giây rồi quyết định buông bỏ đức tin, trong lòng thầm nhủ: “Xin lỗi Chúa, ai cứu con thì con tin người đó!”, đoạn cũng bắt đầu cất tiếng trì tụng theo."
+    },
+    {
+      "para_id": "c0078p0079",
+      "index": 79,
+      "raw_zh": "越念身體越舒服，最後在維多利亞的帶領下，三個人站起來，朝著另外兩個聲音的來源處匯聚過去。",
+      "translated_vi": "Càng tụng thì cơ thể lại càng thấy dễ chịu, cuối cùng dưới sự dẫn dắt của Victoria, cả ba người đã gượng đứng dậy được, cùng rảo bước về phía phát ra hai luồng âm thanh kia."
+    },
+    {
+      "para_id": "c0078p0080",
+      "index": 80,
+      "raw_zh": "當他們看到滿臉笑意的雲千峰時，朱柏龍和白妹子才知道這兩尊佛是誰，極樂世界暫時是去不了了，那就人間繼續漂染。",
+      "translated_vi": "Khi nhìn thấy Vân Thiên Phong mặt mày rạng rỡ nụ cười, Chu Bách Long cùng cô gái da trắng mới ngộ ra hai vị “Phật sống” ấy rốt cuộc là ai. Cõi Tây phương Cực Lạc tạm thời chưa đi được rồi, vậy thì cứ ở lại chốn nhân gian mà tiếp tục lăn lộn thôi."
+    },
+    {
+      "para_id": "c0078p0081",
+      "index": 81,
+      "raw_zh": "正要說話，雲千峰搖頭示意他們不要停，繼續念下去，然後轉身朝著石眼指引的方向走去，幾人跟在後面，一路念詠。",
+      "translated_vi": "Vừa định mở miệng nói chuyện, Vân Thiên Phong đã lắc đầu ra hiệu bảo họ đừng dừng lại, cứ tiếp tục niệm; sau đó anh xoay người bước theo hướng mà mắt đá chỉ dẫn, mấy người bám sát phía sau, miệng không ngừng trì tụng suốt dọc đường."
+    },
+    {
+      "para_id": "c0078p0082",
+      "index": 82,
+      "raw_zh": "人多了之後，這種念詠帶來的效果愈加明顯，似乎別人的念詠也作用在了自己身上，效果幾何倍增。",
+      "translated_vi": "Khi số người đông lên, hiệu quả do tiếng trì tụng mang lại càng thêm rõ rệt, dường như tiếng tụng của người khác cũng cộng hưởng tác động lên cơ thể mình, uy lực nhân lên gấp bội theo cấp số nhân."
+    },
+    {
+      "para_id": "c0078p0083",
+      "index": 83,
+      "raw_zh": "如此走了接近一個小時，他們不但走出了那片戈壁，更走出了迷霧。",
+      "translated_vi": "Cứ như vậy bước đi gần một giờ đồng hồ, bọn họ không những thoát khỏi bãi đá hoang vu kia mà còn bước hẳn ra khỏi màn sương mù dày đặc."
+    },
+    {
+      "para_id": "c0078p0084",
+      "index": 84,
+      "raw_zh": "眼前的震撼，來自亙古！",
+      "translated_vi": "Cảnh tượng chấn động sừng sững trước mắt, mang theo hơi thở của vạn cổ ngàn xưa!"
+    },
+    {
+      "para_id": "c0078p0085",
+      "index": 85,
+      "raw_zh": "感謝書友尾數06864和六月JUNE的月票鼓勵，謝謝你們的支持，感激！！！",
+      "translated_vi": "Cảm ơn phiếu tháng khích lệ của bạn đọc có số đuôi 06864 và bạn Lục Nguyệt JUNE, cảm ơn sự ủng hộ của các bạn, vô cùng cảm kích!!!"
+    }
+  ]
+}

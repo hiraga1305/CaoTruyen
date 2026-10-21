@@ -1,0 +1,469 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 17,
+  "title": "Chương 17: Lợi Tây Nam",
+  "total_paragraphs": 76,
+  "translated_paragraphs": 76,
+  "source_hash": "4399c20b9961e258fa1de9f32e642652d6d28308ed3489c006a26efc277845e5",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0017p0001",
+      "index": 1,
+      "raw_zh": "第17章 利西南",
+      "translated_vi": "Chương 17: Lợi Tây Nam"
+    },
+    {
+      "para_id": "c0017p0002",
+      "index": 2,
+      "raw_zh": "每個人都夢想成為英雄，更願意YY一些英雄救美後，美女投懷送抱的橋段。",
+      "translated_vi": "Ai trong đời cũng từng mơ ước trở thành anh hùng, càng thích viển vông tưởng tượng ra những màn anh hùng cứu mỹ nhân rồi được người đẹp sà vào lòng dâng trọn trái tim."
+    },
+    {
+      "para_id": "c0017p0003",
+      "index": 3,
+      "raw_zh": "然而，當他真的擁有這樣機會的時候，才會明白，英雄真的不是人當的。",
+      "translated_vi": "Thế nhưng, chỉ đến khi thực sự đối mặt với cơ hội ấy, người ta mới cay đắng hiểu ra rằng: làm anh hùng chẳng phải là việc người phàm có thể kham nổi."
+    },
+    {
+      "para_id": "c0017p0004",
+      "index": 4,
+      "raw_zh": "雲千峰失落的走在荒野裡，雖然距離安全一步一步的接近，但他的心裡沒有絲毫喜悅，反而是籠罩著莫名慘然不樂的情緒。",
+      "translated_vi": "Vân Thiên Phong thẫn thờ rảo bước giữa chốn hoang dã. Dẫu từng bước chân đang đưa hắn rời xa hiểm nguy để tiến gần về chốn an toàn, nhưng trong lòng hắn chẳng hề gợn lên chút niềm vui nào, ngược lại chỉ toàn một nỗi thê lương, buồn bực khôn xiết bủa vây."
+    },
+    {
+      "para_id": "c0017p0005",
+      "index": 5,
+      "raw_zh": "理智的正確和情感的正確，往往都是互相矛盾的。",
+      "translated_vi": "Cái đúng của lý trí và cái đúng của tình cảm xưa nay vốn luôn mâu thuẫn lẫn nhau."
+    },
+    {
+      "para_id": "c0017p0006",
+      "index": 6,
+      "raw_zh": "作為一個男人，把兩個弱女子扔到山裡不管，這樣的行為在雲千峰看來是懦夫的行為，既不道德也不負責，匡論這些天的相處，他們已經稱得上是好朋友，這便也是不義氣。",
+      "translated_vi": "Dưới góc độ một người đàn ông, việc vứt bỏ hai cô gái yếu ớt giữa rừng sâu nước thẳm mặc sống mặc chết, trong mắt Vân Thiên Phong rõ ràng là hành vi của một kẻ hèn nhát, vừa vô đạo đức lại vừa vô trách nhiệm. Huống chi qua mấy ngày gắn bó kề vai, họ ít nhiều đã có thể xem là bạn tốt, làm vậy lại càng là bất nghĩa bất trung."
+    },
+    {
+      "para_id": "c0017p0007",
+      "index": 7,
+      "raw_zh": "然而，作為一個動物，求生怕死是本能，哪怕站在上帝的視角，雲千峰所做的選擇，也無從批判。",
+      "translated_vi": "Thế nhưng, dưới góc độ một loài sinh vật, ham sống sợ chết lại là bản năng sinh tồn. Dẫu đứng ở góc nhìn của đấng tối cao, sự lựa chọn của Vân Thiên Phong cũng chẳng ai có thể mở lời chỉ trích."
+    },
+    {
+      "para_id": "c0017p0008",
+      "index": 8,
+      "raw_zh": "雲千峰喘著粗氣靠在一塊石頭上，不是累的，而是左右為難的內耗。",
+      "translated_vi": "Vân Thiên Phong tựa lưng vào một tảng đá, thở dốc từng cơn. Hắn thở không phải vì kiệt sức, mà vì sự giằng xé dữ dội đang cắn rứt trong thâm tâm."
+    },
+    {
+      "para_id": "c0017p0009",
+      "index": 9,
+      "raw_zh": "他的腦海裡，兩個聲音一直沒有停歇的在爭吵。",
+      "translated_vi": "Trong đầu hắn, hai luồng thanh âm vẫn không ngừng gào thét tranh cãi nảy lửa:"
+    },
+    {
+      "para_id": "c0017p0010",
+      "index": 10,
+      "raw_zh": "“像個男人一樣去追上她們，那是你答應過的承諾！”",
+      "translated_vi": "“Hãy như một trang nam tử mà đuổi theo họ đi! Đó là lời hứa mà mày đã cam kết!”"
+    },
+    {
+      "para_id": "c0017p0011",
+      "index": 11,
+      "raw_zh": "“回家吧，你只是個普普通通的百姓，你的肩上本就抗不動別人，照顧好自己已經很難得。”",
+      "translated_vi": "“Về nhà đi, mày chỉ là một tên thảo dân bình thường, đôi vai mày vốn chẳng gánh nổi người khác đâu. Chăm lo tốt cho bản thân mình đã là quá giỏi rồi.”"
+    },
+    {
+      "para_id": "c0017p0012",
+      "index": 12,
+      "raw_zh": "“如果沒有伱，她們不會來，此刻沒有你，她們一定會死，你會在自責中度過余生。”",
+      "translated_vi": "“Nếu không có mày thì họ đâu có mò tới đây! Giờ phút này không có mày, chắc chắn họ sẽ phải chết! Mày sẽ phải sống cả phần đời còn lại trong sự cắn rứt ân hận!”"
+    },
+    {
+      "para_id": "c0017p0013",
+      "index": 13,
+      "raw_zh": "“回家吧，這不是你的錯，是她們自己堅持要去，怪不得你，你無須承擔什麽。”",
+      "translated_vi": "“Về nhà thôi, đây đâu phải lỗi của mày! Là chính họ khăng khăng đòi đi tiếp, trách sao được mày, mày chẳng cần phải gánh vác bất cứ điều gì cả.”"
+    },
+    {
+      "para_id": "c0017p0014",
+      "index": 14,
+      "raw_zh": "“啊！別吵了！讓老天來做決定！”",
+      "translated_vi": "“A phiền quá! Câm miệng hết đi! Để ông trời tự quyết định!”"
+    },
+    {
+      "para_id": "c0017p0015",
+      "index": 15,
+      "raw_zh": "“遇事不決，量子力學。”",
+      "translated_vi": "“Gặp chuyện bất quyết, lượng tử lực học.”"
+    },
+    {
+      "para_id": "c0017p0016",
+      "index": 16,
+      "raw_zh": "雲千峰使勁的搖晃著腦袋嘟囔了一句，讓自己冷靜下來，然後在兜裡掏出一個精致的紅布口袋，把裡面三枚大中通寶倒在掌心間。",
+      "translated_vi": "Vân Thiên Phong ra sức lắc mạnh đầu lầm bầm một câu cốt để lấy lại bình tĩnh, đoạn móc từ trong túi ra một chiếc túi vải đỏ tinh xảo, trút ba đồng tiền cổ Đại Trung Thông Bảo bên trong ra lòng bàn tay."
+    },
+    {
+      "para_id": "c0017p0017",
+      "index": 17,
+      "raw_zh": "這錢幣是歷史上最實誠的銅錢，每一枚都重達14克左右，是一般同面值銅錢重量的四倍，卜卦要的就是真相，錢必須實誠。",
+      "translated_vi": "Đây là loại tiền đồng có trọng lượng đẫm và thực chất nhất trong lịch sử, mỗi một đồng nặng tới chừng 14 gram, gấp bốn lần trọng lượng của các đồng tiền cùng mệnh giá thông thường. Bói quẻ cốt ở sự chân xác, đồng tiền ắt phải đẫm thực."
+    },
+    {
+      "para_id": "c0017p0018",
+      "index": 18,
+      "raw_zh": "再加上這大中通寶是朱元璋“廣積糧，高築牆”時鑄造，正是其氣運走旺之時，卜卦能借氣運加持。",
+      "translated_vi": "Chưa kể đồng Đại Trung Thông Bảo này được đúc vào thời Chu Nguyên Chương còn đang thực thi chính sách “tích lương rộng, xây thành cao”, đương lúc vận thế đang lên như diều gặp gió, dùng để bói quẻ có thể mượn được luồng khí vận này gia trì."
+    },
+    {
+      "para_id": "c0017p0019",
+      "index": 19,
+      "raw_zh": "最主要，這錢幣是活神仙劉伯溫的算計。",
+      "translated_vi": "Quan trọng nhất, mẫu tiền này còn do chính tay “sống thần tiên” Lưu Bá Ôn tính toán định ra."
+    },
+    {
+      "para_id": "c0017p0020",
+      "index": 20,
+      "raw_zh": "遠比偽盛世的乾隆通寶好用的多。",
+      "translated_vi": "So với mấy đồng Càn Long Thông Bảo của cái thời gọi là “thịnh thế giả tạo” thì hiệu nghiệm hơn gấp bội phần."
+    },
+    {
+      "para_id": "c0017p0021",
+      "index": 21,
+      "raw_zh": "雲千峰用這個賺錢，但很少用這個給自己卜卦，除非是遇到自己完全解不開的困惑才會試一試。",
+      "translated_vi": "Vân Thiên Phong dùng thứ này kiếm cơm, nhưng rất hiếm khi tự gieo quẻ cho bản thân, trừ phi gặp phải nỗi hoang mang bế tắc hoàn toàn không thể tự tháo gỡ mới chịu đem ra thử."
+    },
+    {
+      "para_id": "c0017p0022",
+      "index": 22,
+      "raw_zh": "這樣做未必就是為了什麽指點迷津，更主要的是在尋找一個借口，無論是往左還是右，以老天作為借口，永遠最安心。",
+      "translated_vi": "Làm như thế chưa hẳn là để mong thần linh chỉ lối dẫn đường, mà chủ yếu là hắn muốn tìm cho mình một cái cớ. Bất luận là rẽ trái hay rẽ phải, lấy ông trời ra làm lý do thì bao giờ lòng dạ cũng thanh thản nhất."
+    },
+    {
+      "para_id": "c0017p0023",
+      "index": 23,
+      "raw_zh": "他“嘩啦啦”連投了六次，成了水山蹇卦。",
+      "translated_vi": "Hắn “loảng xoảng” gieo liên tiếp sáu lần, thành quẻ Thủy Sơn Kiển."
+    },
+    {
+      "para_id": "c0017p0024",
+      "index": 24,
+      "raw_zh": "從第二爻開始，連續四個動爻，變卦為雷水解卦，雲千峰比較有意思，他從不稱呼這些卦形為陰爻陽爻，而是用量子力學的名詞波和粒來稱呼它們，細想一下也真貼切，無論是形還是意，都是那麽貼切。",
+      "translated_vi": "Bắt đầu từ hào hai, liên tiếp có bốn hào động, biến thành quẻ Lôi Thủy Giải. Vân Thiên Phong có một điểm rất thú vị, hắn chẳng bao giờ gọi các vạch quẻ này là hào âm hay hào dương, mà toàn dùng thuật ngữ của vật lý lượng tử là “sóng” và “hạt” để gọi. Ngẫm kỹ lại quả thực vô cùng chuẩn xác, từ hình dáng cho tới nội hàm đều ăn khớp đến lạ kỳ."
+    },
+    {
+      "para_id": "c0017p0025",
+      "index": 25,
+      "raw_zh": "蹇卦者，寸步難行。",
+      "translated_vi": "Quẻ Kiển: bước đi khốn khó, tấc bước khó dời."
+    },
+    {
+      "para_id": "c0017p0026",
+      "index": 26,
+      "raw_zh": "解卦者，困難解除。",
+      "translated_vi": "Quẻ Giải: khó khăn được tháo gỡ, hiểm nguy tiêu trừ."
+    },
+    {
+      "para_id": "c0017p0027",
+      "index": 27,
+      "raw_zh": "還算符合，寸步難行正是現狀，不是外在的寸步難行，而是內心。",
+      "translated_vi": "Coi như cũng ứng nghiệm. “Tấc bước khó dời” chính là hiện trạng của hắn lúc này, không phải bước chân ngoài đời bị ngăn trở, mà là cõi lòng đang vướng mắc ngổn ngang."
+    },
+    {
+      "para_id": "c0017p0028",
+      "index": 28,
+      "raw_zh": "那麽解卦便是如何打消這種糾結。",
+      "translated_vi": "Vậy thì quẻ Giải chính là phương thức để hóa giải nỗi giằng xé này."
+    },
+    {
+      "para_id": "c0017p0029",
+      "index": 29,
+      "raw_zh": "仔細看後，默想卦辭，雲千峰有微微搖頭，道：",
+      "translated_vi": "Sau khi quan sát cẩn thận, thầm ngẫm lại lời thoán từ, Vân Thiên Phong khẽ lắc đầu lẩm bẩm:"
+    },
+    {
+      "para_id": "c0017p0030",
+      "index": 30,
+      "raw_zh": "“險在內，動在外，心口不一，還真是我的真實寫照！”",
+      "translated_vi": "“Hiểm bên trong, động bên ngoài, trong lòng một đằng ngoài mặt một nẻo, đúng là khắc họa chân thực con người mình lúc này!”"
+    },
+    {
+      "para_id": "c0017p0031",
+      "index": 31,
+      "raw_zh": "“解卦雲：利西南；無所往，其來複吉；有攸往，夙吉。此地正是西南，還是佔著地運的。無路可走的話，立即回頭吉利；有路可走的時候，繼續前進吉利；現在這狀態，算是有路還是沒路啊？哎.”",
+      "translated_vi": "“Quẻ Giải viết: Lợi Tây Nam; vô sở vãng, kỳ lai phục cát; hữu du vãng, túc cát. Nơi này vừa vặn là hướng Tây Nam, vẫn nắm giữ được địa vận. Nếu không còn đường để đi thì lập tức quay đầu ắt gặp điều lành; còn nếu có đường đi thì tiếp tục tiến tới sẽ gặt hái cát lợi. Nhưng tình cảnh bây giờ rốt cuộc tính là có đường hay không có đường đây? Haizz...”"
+    },
+    {
+      "para_id": "c0017p0032",
+      "index": 32,
+      "raw_zh": "石龍闊谷內，薑柔甲和秦疏影帶著防毒面罩行走其中。",
+      "translated_vi": "Bên trong thung lũng Thạch Long khoáng đạt, Khương Nhu Giáp và Tần Sơ Ảnh đang đeo mặt nạ phòng độc dò dẫm bước đi."
+    },
+    {
+      "para_id": "c0017p0033",
+      "index": 33,
+      "raw_zh": "雖然兩女依舊彼此不說話，但已不是之前的互不理睬。",
+      "translated_vi": "Dẫu hai cô gái vẫn chưa ai cất lời với ai, nhưng đã không còn vẻ lạnh nhạt ngó lơ nhau như trước nữa."
+    },
+    {
+      "para_id": "c0017p0034",
+      "index": 34,
+      "raw_zh": "倆人心裡都清楚，雲千峰離開了，以後只有她們倆相互依靠，在這莽莽叢林裡，對兩個弱女子的隊伍來說，只有兩個結局，同生和共死。",
+      "translated_vi": "Trong lòng cả hai đều hiểu rõ, Vân Thiên Phong đã bỏ đi, từ nay về sau chỉ còn hai người nương tựa vào nhau. Giữa chốn rừng già bạt ngàn hiểm trở này, đối với một đội ngũ gồm hai người phụ nữ chân yếu tay mềm thì chỉ có hai kết cục duy nhất: cùng sống hoặc cùng chết."
+    },
+    {
+      "para_id": "c0017p0035",
+      "index": 35,
+      "raw_zh": "形勢比人強，秦疏影心中對薑柔甲再大的氣，在此時此刻，也都氣不起來了。",
+      "translated_vi": "Thời thế bức người, cơn giận dù lớn đến mấy trong lòng Tần Sơ Ảnh dành cho Khương Nhu Giáp lúc này cũng đã tan biến sạch trơn."
+    },
+    {
+      "para_id": "c0017p0036",
+      "index": 36,
+      "raw_zh": "而薑柔甲是那種對她好三分，就能蹬鼻子上臉的性格，倆人和好如初，也只是一點點時間的問題。",
+      "translated_vi": "Còn Khương Nhu Giáp lại là cái ngữ người ta đối tốt với mình ba phần thì đã có thể được đằng chân lân đằng đầu, chuyện hai người làm lành trở lại âu cũng chỉ là vấn đề thời gian mà thôi."
+    },
+    {
+      "para_id": "c0017p0037",
+      "index": 37,
+      "raw_zh": "秦疏影走在前面，不時的對照地圖和腕表上的指南針，確定自己不會走錯。",
+      "translated_vi": "Tần Sơ Ảnh đi phía trước, chốc chốc lại đối chiếu tấm bản đồ và la bàn tích hợp trên đồng hồ đeo tay để chắc chắn mình không lạc hướng."
+    },
+    {
+      "para_id": "c0017p0038",
+      "index": 38,
+      "raw_zh": "薑柔甲乖乖的跟在後面，之前還會不時的回頭看看，期望能看到某人的身影，雖然她心裡清楚，那是不可能的事情。",
+      "translated_vi": "Khương Nhu Giáp ngoan ngoãn bám sát phía sau. Lúc trước thỉnh thoảng cô còn ngoái đầu nhìn lại, mong mỏi bắt gặp bóng dáng của ai đó, dẫu thâm tâm cô thừa hiểu đó là điều không thể nào."
+    },
+    {
+      "para_id": "c0017p0039",
+      "index": 39,
+      "raw_zh": "直到秦疏影見她總回頭後，說了句“你哥不是他的親哥，不用怪他，自然也就不用盼他，因為他沒有回來的理由”之後，薑柔甲就沒有再回頭過。",
+      "translated_vi": "Cho tới khi Tần Sơ Ảnh thấy cô cứ ngoái đầu liên tục liền buông một câu: “Anh trai cô đâu phải anh ruột của anh ta, chẳng cần phải trách móc anh ta, tự nhiên cũng chẳng việc gì phải ngóng trông, bởi vì anh ta chẳng có lý do gì để quay lại cả.” Kể từ đó, Khương Nhu Giáp không còn ngoái đầu thêm lần nào nữa."
+    },
+    {
+      "para_id": "c0017p0040",
+      "index": 40,
+      "raw_zh": "是的，他沒有回來的理由。",
+      "translated_vi": "Đúng vậy, hắn đâu có lý do gì để quay lại."
+    },
+    {
+      "para_id": "c0017p0041",
+      "index": 41,
+      "raw_zh": "這滿地石頭的路很難走，深一腳淺一腳不說，稍不小心就會崴到腳脖子。",
+      "translated_vi": "Con đường lởm chởm đá cuội này vô cùng khó đi, bước cao bước thấp khấp khểnh đã đành, sơ sẩy một chút là trẹo mắt cá chân như chơi."
+    },
+    {
+      "para_id": "c0017p0042",
+      "index": 42,
+      "raw_zh": "兩女現在都是一瘸一拐，顯然已經是傷了腳踝。",
+      "translated_vi": "Lúc này cả hai người đều đã đi khập khiễng, rõ ràng là khớp cổ chân đã bị tổn thương."
+    },
+    {
+      "para_id": "c0017p0043",
+      "index": 43,
+      "raw_zh": "防毒面罩與臉頰交接的地方，滿是汗漬，甚至已經有了結晶的鹽花。",
+      "translated_vi": "Nơi mép mặt nạ phòng độc tiếp xúc với gò má đầm đìa mồ hôi, thậm chí đã bắt đầu đóng thành những vệt hoa muối trắng bệch."
+    },
+    {
+      "para_id": "c0017p0044",
+      "index": 44,
+      "raw_zh": "身上更是被汗水濕透，已經能看到內衣的痕跡。",
+      "translated_vi": "Quần áo trên người lại càng ướt sũng mồ hôi, đến mức hằn rõ cả đường viền nội y bên trong."
+    },
+    {
+      "para_id": "c0017p0045",
+      "index": 45,
+      "raw_zh": "這些奇形怪狀的石頭，無時無刻不在消耗著她們的體力和耐心。",
+      "translated_vi": "Những hòn đá muôn hình vạn trạng kỳ quái kia từng giây từng phút bào mòn thể lực và lòng kiên nhẫn của họ."
+    },
+    {
+      "para_id": "c0017p0046",
+      "index": 46,
+      "raw_zh": "但是兩女沒有一個喊疼，更沒有一個抱怨，都是沉默著，一如苦行得使徒。",
+      "translated_vi": "Thế nhưng chẳng có ai kêu đau, cũng không một ai buông lời than vãn. Cả hai đều cắn răng lầm lũi tiến bước, hệt như những tín đồ khổ hạnh."
+    },
+    {
+      "para_id": "c0017p0047",
+      "index": 47,
+      "raw_zh": "四個多小時後，天過午時，她們終於來到了這闊谷的盡頭，只需要再往前幾百米，就能到達雲千峰定位的第一個坐標點，朱雀七宿中井木豻與本帕本峰連線在地面的投影位置。",
+      "translated_vi": "Hơn bốn tiếng đồng hồ trôi qua, trời đã quá trưa. Cuối cùng họ cũng đi tới điểm cuối của thung lũng khoáng đạt này, chỉ cần tiến thêm vài trăm mét nữa là sẽ tới tọa độ đầu tiên mà Vân Thiên Phong đã định vị: vị trí hình chiếu trên mặt đất của đường nối giữa chòm Tỉnh Mộc Hãn trong Chu Tước thất tú và đỉnh Bổn Phách Bổn."
+    },
+    {
+      "para_id": "c0017p0048",
+      "index": 48,
+      "raw_zh": "可就是這兩百多米的距離，卻成了倆人的天塹。",
+      "translated_vi": "Nhưng chính khoảng cách chỉ chừng hai trăm mét ấy lại trở thành vực sâu ngăn cách khôn cùng đối với hai người."
+    },
+    {
+      "para_id": "c0017p0049",
+      "index": 49,
+      "raw_zh": "因為迎接他們的，不是她們看地圖以為的潺潺小溪，而是一條寬度最少十數米的大河。",
+      "translated_vi": "Bởi lẽ đón chờ họ phía trước không phải là con suối róc rách rậm rạp như họ tưởng tượng khi nhìn vào bản đồ, mà là một con sông lớn bề ngang rộng ít nhất mười mấy mét."
+    },
+    {
+      "para_id": "c0017p0050",
+      "index": 50,
+      "raw_zh": "只看河水滾滾，水質渾濁昏黃，可以猜到一定是上遊降了大雨。",
+      "translated_vi": "Nhìn dòng nước sông cuồn cuộn chảy xiết, đục ngầu một màu vàng quánh, đủ đoán được chắc chắn vùng thượng lưu vừa trút xuống một trận mưa xối xả."
+    },
+    {
+      "para_id": "c0017p0051",
+      "index": 51,
+      "raw_zh": "秦疏影站在河邊的石頭上居高臨下看了一會，道：",
+      "translated_vi": "Tần Sơ Ảnh đứng trên tảng đá ven bờ nhìn xuống quan sát một lúc, rồi lên tiếng:"
+    },
+    {
+      "para_id": "c0017p0052",
+      "index": 52,
+      "raw_zh": "“水質太渾濁了，看不出有多深，我沒試過在這麽湍急的水流之中游泳，你能行嗎？”",
+      "translated_vi": "“Nước quá đục, không nhìn ra sâu cạn thế nào. Tôi chưa từng bơi giữa dòng nước xiết cuồn cuộn như thế này bao giờ, cô liệu có bơi nổi không?”"
+    },
+    {
+      "para_id": "c0017p0053",
+      "index": 53,
+      "raw_zh": "薑柔甲搖頭道：",
+      "translated_vi": "Khương Nhu Giáp lắc đầu nguầy nguậy:"
+    },
+    {
+      "para_id": "c0017p0054",
+      "index": 54,
+      "raw_zh": "“我沒遊過野泳啊，學校每次放暑假都會再三提醒的！”",
+      "translated_vi": "“Em đã bao giờ bơi sông bơi suối ngoài tự nhiên đâu! Mỗi lần nghỉ hè nhà trường đều dặn đi dặn lại tuyệt đối không được bơi tự do mà!”"
+    },
+    {
+      "para_id": "c0017p0055",
+      "index": 55,
+      "raw_zh": "秦疏影這才想起來，眼前這發育良好的丫頭，如果沒休學的話，現在才剛剛上大學第二個學期。",
+      "translated_vi": "Tần Sơ Ảnh bấy giờ mới sực nhớ ra, con bé vóc dáng nảy nở phổng phao trước mắt mình đây, nếu không xin bảo lưu thì hiện tại mới chỉ vừa bước vào học kỳ hai năm nhất đại học mà thôi."
+    },
+    {
+      "para_id": "c0017p0056",
+      "index": 56,
+      "raw_zh": "秦疏影歎了口氣，掏出望遠鏡左右看了看，道：",
+      "translated_vi": "Tần Sơ Ảnh thở dài một hơi, rút ống nhòm nhìn dạt sang hai bên rồi bảo:"
+    },
+    {
+      "para_id": "c0017p0057",
+      "index": 57,
+      "raw_zh": "“繞過去估計是不可能了，只能橫渡，我們得弄些漂浮物，保證我們最起碼不會沉下去。”",
+      "translated_vi": "“Xem chừng muốn đi vòng là điều không thể, chỉ đành bơi qua sông thôi. Chúng ta phải kiếm thứ gì đó nổi được trên mặt nước, để đảm bảo chí ít bản thân không bị chìm nghỉm.”"
+    },
+    {
+      "para_id": "c0017p0058",
+      "index": 58,
+      "raw_zh": "聽到這話，薑柔甲指著旁邊不遠處一截倒在地上的枯木道：",
+      "translated_vi": "Nghe vậy, Khương Nhu Giáp liền chỉ tay vào một thân gỗ mục nằm gục bên bờ cách đó không xa:"
+    },
+    {
+      "para_id": "c0017p0059",
+      "index": 59,
+      "raw_zh": "“用那個？”",
+      "translated_vi": "“Dùng cái kia được không chị?”"
+    },
+    {
+      "para_id": "c0017p0060",
+      "index": 60,
+      "raw_zh": "秦疏影看著那比倆人加一起還粗的中空粗木，點了點頭道：",
+      "translated_vi": "Tần Sơ Ảnh nhìn khúc gỗ rỗng ruột còn to hơn cả hai người họ cộng lại, gật đầu:"
+    },
+    {
+      "para_id": "c0017p0061",
+      "index": 61,
+      "raw_zh": "“應該可以，咱們試試！”",
+      "translated_vi": "“Chắc là được đấy, chúng ta thử xem sao!”"
+    },
+    {
+      "para_id": "c0017p0062",
+      "index": 62,
+      "raw_zh": "倆人卸下背包，使出協力將那木頭滾到河邊。",
+      "translated_vi": "Cả hai tháo ba lô xuống, dốc hết sức bình sinh lăn khúc gỗ mục ấy lại mép sông."
+    },
+    {
+      "para_id": "c0017p0063",
+      "index": 63,
+      "raw_zh": "秦疏影還算有些條理，雖然不動野外求生的技巧。",
+      "translated_vi": "Tần Sơ Ảnh dù không rành rẽ các kỹ năng sinh tồn nơi hoang dã, nhưng làm việc tương đối có bài bản trật tự."
+    },
+    {
+      "para_id": "c0017p0064",
+      "index": 64,
+      "raw_zh": "她用背包裡的繩索綁住那截枯木緩緩送到水裡，枯木在河畔漂浮起來，順水而下，被倆人用繩索拽住。",
+      "translated_vi": "Cô dùng sợi dây thừng trong ba lô buộc chặt khúc gỗ mục rồi từ từ thả xuống nước. Khúc gỗ bập bềnh nổi lên ven bờ, xuôi theo dòng nước trôi đi và được hai người níu chặt lại bằng sợi dây."
+    },
+    {
+      "para_id": "c0017p0065",
+      "index": 65,
+      "raw_zh": "“這個可以，小柔你把咱們倆的背包都綁在那根枯木上，我拽著它。”",
+      "translated_vi": "“Được rồi đấy! Tiểu Nhu, em buộc cả hai chiếc ba lô của chúng ta lên khúc gỗ đi, để chị giữ dây.”"
+    },
+    {
+      "para_id": "c0017p0066",
+      "index": 66,
+      "raw_zh": "薑柔甲急忙來到河邊，把倆人的背包用帶卡扣的繩帶綁在了枯木之上。",
+      "translated_vi": "Khương Nhu Giáp vội vàng chạy lại mép nước, dùng đai có khóa bấm chằng chặt ba lô của cả hai lên thân gỗ mục."
+    },
+    {
+      "para_id": "c0017p0067",
+      "index": 67,
+      "raw_zh": "一切準備妥當，秦疏影舒了口氣，道：",
+      "translated_vi": "Mọi sự đã chuẩn bị thỏa đáng, Tần Sơ Ảnh khẽ thở phào nhẹ nhõm:"
+    },
+    {
+      "para_id": "c0017p0068",
+      "index": 68,
+      "raw_zh": "“這樣過河最多水冷感冒，我包裡有藥，咱們分別熱一下身，準備橫渡！”",
+      "translated_vi": "“Qua sông thế này cùng lắm là ngấm nước lạnh bị cảm mạo thôi, trong túi tôi có sẵn thuốc men rồi. Nào, hai chúng ta khởi động làm nóng người một chút rồi chuẩn bị vượt sông!”"
+    },
+    {
+      "para_id": "c0017p0069",
+      "index": 69,
+      "raw_zh": "當下薑柔甲就在河邊壓腿伸腰，預防下冷水直接腿抽筋，然後去拽住繩索，讓秦疏影熱身。",
+      "translated_vi": "Thế là Khương Nhu Giáp liền ép chân vặn người ven bờ để phòng ngừa xuống nước lạnh bị chuột rút, sau đó lại ra giữ dây thừng cho Tần Sơ Ảnh khởi động."
+    },
+    {
+      "para_id": "c0017p0070",
+      "index": 70,
+      "raw_zh": "天色不知何時開始陰沉起來，兩女就在一側扶著粗木，緩緩走向那粼粼水中。",
+      "translated_vi": "Bầu trời chẳng biết từ lúc nào đã bắt đầu âm u sầm sì. Hai cô gái cùng đứng nép một bên vịn vào thân gỗ lớn, từ từ lội xuống làn nước cuộn sóng rập rờn."
+    },
+    {
+      "para_id": "c0017p0071",
+      "index": 71,
+      "raw_zh": "只是幾步，水已經沒過了兩女的胸口，冰冷的河水立馬讓她們呼吸急促起來。",
+      "translated_vi": "Mới đi được vài bước, nước đã dâng ngập quá ngực hai người. Làn nước sông lạnh buốt thấu xương lập tức khiến hơi thở của họ dồn dập, nghẹn lại."
+    },
+    {
+      "para_id": "c0017p0072",
+      "index": 72,
+      "raw_zh": "又往前一步，倆人的雙腳再沒碰到地面，水深已經超過她們的身高。",
+      "translated_vi": "Bước thêm một bước nữa, hai bàn chân chẳng còn chạm được vào đáy đất, độ sâu của dòng nước đã vượt quá tầm vóc của họ."
+    },
+    {
+      "para_id": "c0017p0073",
+      "index": 73,
+      "raw_zh": "沒有了雙腳的控制，湍急的河水讓粗木斜著打了個橫，圓圓的粗木像車軲轆似的自轉了起來。",
+      "translated_vi": "Mất đi điểm tựa từ đôi chân, dòng nước xiết lập tức đẩy khúc gỗ xoay ngang, thân gỗ tròn xoe liền quay tít như bánh xe lăn tròn trên mặt nước."
+    },
+    {
+      "para_id": "c0017p0074",
+      "index": 74,
+      "raw_zh": "這一轉不要緊，直接把兩女拋在了水中，然後掛著倆人的背包揚長而去。",
+      "translated_vi": "Vòng quay tai hại ấy hất văng cả hai cô gái xuống lòng sông, rồi cuốn theo hai chiếc ba lô chằng trên mình mà nghênh ngang trôi tuột đi mất!"
+    },
+    {
+      "para_id": "c0017p0075",
+      "index": 75,
+      "raw_zh": "兩女驚慌失措，撲騰了好幾下，喝了好幾口髒水，好不容易找到上下，把腦袋鑽出水面，但是緊接著，身體就好像被什麽東西牽扯，一下又被拉進水中，快速的順水而下。",
+      "translated_vi": "Hai cô gái hoảng loạn tột độ, vùng vẫy lia lịa, nuốt trọn mấy ngụm nước bẩn đục ngầu. Chật vật mãi mới định hình được phương hướng để trồi đầu lên khỏi mặt nước, thế nhưng ngay tức khắc, thân thể họ như bị một thứ gì đó lôi kéo giật mạnh, thình lình bị nhấn chìm trở lại vào lòng nước, trôi dạt vun vút theo dòng chảy xiết."
+    },
+    {
+      "para_id": "c0017p0076",
+      "index": 76,
+      "raw_zh": "水面上，時而看到倆人的腦袋偶爾露出水面，而更多地時間，是水面冒出的氣泡.",
+      "translated_vi": "Trên mặt sông, chốc chốc chỉ còn thoáng thấy mái đầu của hai người chập chờn nhô lên rồi lại hụp xuống, còn phần lớn thời gian, chỉ còn lại những bọt khí lục bục trồi lên mặt nước..."
+    }
+  ]
+}

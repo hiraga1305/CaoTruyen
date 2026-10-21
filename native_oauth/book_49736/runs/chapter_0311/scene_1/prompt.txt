@@ -1,0 +1,114 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0311|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|六道|sáu luồng
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §73):
+§1 311.第311章 觀之易瘋易傻！
+§2 第311章 觀之易瘋易傻！
+§3 [Ø=云千峰]內心聽到這話，雲千峰內心是感激的。
+§4 [Ø=云千峰]在這冰冷的世界裡，一個剛剛認識的人，不對， [||] 是剛剛認識的東西，就能甘願陪你赴湯蹈火，這是什麽樣的精神？
+§5 [Ø=云千峰]正想著，就見巫酥在裝著箭矢的箭簍裡拽出一條不知勞什子材料的布條，蒙在了眼睛上系好。
+§6 [Ø=云千峰]雲千峰見巫酥把眼睛蒙上，當下一愣，也不管巫酥是什麽精神了，心中問道：
+§7 “你蒙眼睛幹嘛？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 答曰：
+§9 [Ø=云千峰]“帝嚳有言，此地凶險，目光所見便是危險所在， [||] 一個不慎，不傻則瘋，所以陪你進去我不能看，蚩尤您自己看就好。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§10 理直氣壯。
+§11 [Ø=云千峰]雲千峰沉默，坐在馬背上，搓了搓手，心中問道：
+§12 “你上廁所手夠長嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 巫酥心電感應回話總是真誠的迅速的：
+§14 “所以我住水裡.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 [Ø=云千峰]後面又是一串酥酥的方言，雲千峰一句聽不懂。
+§16 [Ø=云千峰]惹怒了巫酥，雲千峰心情大好，能在他嘴上站到便宜的人不多。
+§17 [Ø=云千峰]看著眼前蚩尤像下黑洞洞的石門，心知事到臨頭，不入虎穴焉得虎子，於是回頭對著九屠和一地的巫族道：
+§18 [Ø=云千峰]“待我探查一番，把六道[M1:sáu luồng]盤帶回來。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 [Ø=云千峰]說著，一拍馬屁股，道：
+§20 [Ø=云千峰]“巫酥，走！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 [Ø=云千峰]雲千峰不信帝嚳是個人類心中意義上的好人，但他相信帝嚳從不會危言聳聽。
+§22 [Ø=云千峰]巫酥言帝嚳說那洞內所見危險，那麽就一定是凶險異常的，甚至超過自己的想象。
+§23 [Ø=云千峰]於是他悄悄的把自己打底衫撕下了一條，以備不時之需。
+§24 [Ø=云千峰]巫酥蒙上眼睛，並不耽誤走路，因為雲千峰心中所想左右前後，巫酥能夠同頻讀到。
+§25 門內門外似乎是兩個世界。
+§26 門外荒島祭壇。
+§27 門內光影混沌。
+§28 [Ø=云千峰]上下十方全是青藍色和黑色的光影，沒有天， [||] 沒有地，方向感幾乎在刹那間便即消失，真的如同置身於混沌。
+§29 [Ø=云千峰]但是雲千峰能感覺到巫酥四蹄的腳踏實地，這證明眼中所見光影，不過是類似磁錄的影像，就好像在女閻羅UFO內見到的一樣。
+§30 [Ø=云千峰]“四庫之島是帝嚳所造，那麽這洞內的磁錄光影， [||] 一定也是帝嚳記錄在這裡，這種沉浸式的光影，真不知上古之人是如何做到的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 巫酥心中回道：
+§32 [Ø=云千峰]“當年太陽系內所有文明匯聚地球，彼此借鑒，科技文明的高度遠超想象， [||] 尤其是帝嚳，他總有驚人之舉，沒有人知道他是如何做到那些事，但他就是做到了。
+§33 [Ø=云千峰]就好像製作一個機器，別人需要圖紙，但是帝嚳總是直接便能口述指揮， [||] 做成成品，且不會出現故障，當真非常可怕。”
+§34 [Ø=云千峰]聽到這話，雲千峰一愣，似乎巫酥這句話點亮了他腦海之中的某個地方。
+§35 [Ø=云千峰]於是他再次仔細看向那些光影，一邊拍著馬屁股催促巫酥前行，一邊研究那些光影流動的規律。
+§36 [Ø=云千峰]這些光影是在雲千峰和巫酥身後流動過來，速度很快，讓人難以捕捉那些光影。
+§37 [Ø=云千峰]雲千峰思索片刻，心中告知巫酥：
+§38 [Ø=云千峰]“跑起來，向前。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 [Ø=云千峰]巫酥一挺八塊腹肌的長腰，四蹄崩騰而起，向著前方快速奔跑。
+§40 [Ø=云千峰]速度是相對的，如此一來，那些光影的速度頓時慢了下來。
+§41 [Ø=云千峰]雲千峰看著那些慢下來的光影，心中不免驚愕。
+§42 [Ø=云千峰]因為那些字符分明是一個又一個規則文字，大部分他並不認識，但偶爾有類似象形字的規則文字，則能夠辨認一二。
+§43 “數學、物質、靈、易變.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 [Ø=云千峰]雲千峰一拍馬屁股，心中叫巫酥停下腳步，那些自後而來的光影便又無法辨認。
+§45 [Ø=云千峰]“這裡的光影，是帝嚳曾經所見，或者說是他經常所見， [||] 帝嚳以特殊的記錄方式，把自己看到的一切磁錄在這裡，目的就是讓我看到他看到的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§46 [Ø=云千峰]巫酥蒙著眼睛，看不到那些畫面，於是問道：
+§47 “那時帝嚳在什麽地方見到的？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§48 [Ø=云千峰]雲千峰難掩心中激動和驚訝，道：
+§49 [Ø=云千峰]“是“天空之下”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]，也叫阿卡西記錄。”
+§50 巫酥疑惑：
+§51 “天空之下？阿卡西記錄？那是什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§52 雲千峰內心回道：
+§53 [Ø=云千峰]“很難解釋，更無法形容，你可以將這個地方理解為這片天空下的宇宙圖書館，裡面記錄了這個空間的一切知識和規則。
+§54 [Ø=云千峰]而且這個圖書館無法讓人真正的走進去，只能是意識鏈接到祂，並且走進祂，在裡面獲得宇宙圖書館可以給予進入者的知識。
+§55 [Ø=云千峰]人類歷史上，能夠進入這個宇宙圖書館的人不多，老子的我之所見即為真理，便是因為他是在阿卡西記錄之中獲得了這個空間的真理。
+§56 [Ø=云千峰]特斯拉也是在這裡獲得了無數神奇的發明，愛因斯塔在這裡獲得了物質與能量的轉化公式，拉馬努金在這裡獲得了一百多個沒有證明過程的公式。
+§57 [Ø=云千峰]這裡的一切，便是這片空間的真理。
+§58 [Ø=云千峰]帝嚳的神奇，便是因為他可以進入這個宇宙圖書館， [||] 不像其他人巧合進入，帝嚳似乎可以時常進入，難怪他那麽強大。”
+§59 [Ø=云千峰]雲千峰說得都是後世的名次，巫酥不解其意，也不知道他說的那些名人，感受不到雲千峰的震驚。
+§60 [Ø=云千峰]但如果帝嚳是因為阿卡西記錄而強大，那麽那裡一定是極為可怕的。
+§61 “帝嚳在這裡觀看什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§62 [Ø=云千峰]聽到巫酥心中所問，雲千峰回答：
+§63 [Ø=云千峰]“他還沒有停下了，數學，物質等等規則， [||] 他根本看都不看一眼，速度很快的前行著，帝嚳的目標一定極為明確，相信很快就到了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§64 [Ø=云千峰]果不其然，沒用多久， [||] 身邊的光影開始減速，最後竟然靜止下來，這表明記錄這一切的帝嚳此時停下了腳步。
+§65 [Ø=云千峰]帝嚳注視的字符雲千峰並不認識，不過幸好他看到一隻手指很長的手點按了那圖標。
+§66 就好像點在了觸摸屏上。
+§67 [Ø=云千峰]那時帝嚳的手，執掌天下，卻看起來比女人還白皙纖長的手。
+§68 [Ø=云千峰]但，誰也不會傻到認為這隻手的主人柔弱。
+§69 [Ø=云千峰]那隻手觸碰了一個字符，四周的一切景色瞬間變化。
+§70 [Ø=云千峰]那些字符消失不見，整個世界似乎進入了無光。
+§71 [Ø=云千峰]是的，雲千峰認為這就是無光的世界，而不是黑色這樣不負責任的形容。
+§72 [Ø=云千峰]就在這黑色的世界裡，出現了黑色。
+§73 [Ø=云千峰]那是一個黑色的圓，邊沿帶著暗紅色的微光。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 73 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§73. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

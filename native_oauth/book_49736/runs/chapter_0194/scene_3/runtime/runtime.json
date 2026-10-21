@@ -1,0 +1,32 @@
+{
+  "authentication": "cached_account; GEMINI_API_KEY unset",
+  "requested_model": "gemini-3.8-flash-high",
+  "agent": null,
+  "exit_code": 0,
+  "workspace": "D:\\AI\\Antigravity\\CaoTruyen",
+  "duration_seconds": 48.58,
+  "status": "SUCCESS",
+  "conversation_id": "645e979d-3aa8-4172-95b5-7333218e28d4",
+  "usage": {
+    "input_tokens": 15100,
+    "output_tokens": 6089,
+    "thinking_tokens": 6034,
+    "cache_read_tokens": 0,
+    "total_tokens": 21189
+  },
+  "result": {
+    "conversation_id": "645e979d-3aa8-4172-95b5-7333218e28d4",
+    "status": "SUCCESS",
+    "response": "§1 Vân Thiên Phong chợt hiểu ra một sự thật khiến hắn phải rùng mình ớn lạnh.\n§2 “Người phụ nữ trên bức bích họa dưới lòng đất không phải là Xi Vưu, mà lớp da sống này mới chính là nó.”\n",
+    "duration_seconds": 45.2717795,
+    "num_turns": 1,
+    "usage": {
+      "input_tokens": 15100,
+      "output_tokens": 6089,
+      "thinking_tokens": 6034,
+      "cache_read_tokens": 0,
+      "total_tokens": 21189
+    }
+  },
+  "event_count": 15
+}

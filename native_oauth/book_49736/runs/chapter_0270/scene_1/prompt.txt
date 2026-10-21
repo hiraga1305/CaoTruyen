@@ -1,0 +1,98 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0270|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一道|một luồng
+M2|百道|một trăm luồng
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §56):
+§1 270.第270章 經驗之談
+§2 第270章 經驗之談
+§3 雲千峰詫異道：
+§4 “這麽渾濁的水你都能看到水下？天眼還能透視？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§5 卓瑪的回答讓人心拔涼：
+§6 [Ø=云千峰]“大魚剛才露出了脊背，那脊背和咱們蘆葦島一般大！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§7 [Ø=云千峰]雲千峰估算一下，確定那大魚最起碼是他們這破蘆葦島的兩個大。
+§8 [Ø=云千峰]也就是說，只要與大魚撞在一起， [||] 或者大魚調皮的頂一下，他們就得游泳旅行了，亦或是被吞進魚肚子。
+§9 “咱們要馬上靠邊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§10 [Ø=云千峰]那麽大的魚，肯定是在中間深水裡遊蕩，越靠近水岸，就會越安全。
+§11 [Ø=云千峰]雲千峰和白狐拿著之前做好的船槳，努力的在船頭位置劃水，讓蘆葦島漸漸向著岸邊靠近。
+§12 [Ø=云千峰]卓瑪沒用船槳，而是用自己的魚尾巴劃水，速度快不說，力道也大。
+§13 [Ø=云千峰]可以說，卓瑪一定是雲千峰認識的人裡腰力最好的，絕對的強力電動小馬達。
+§14 [Ø=云千峰]蘆葦島打著斜，歪向左側岸邊，遠遠的已經能看到前方水浪翻湧。
+§15 [Ø=云千峰]很顯然，這條逆流而上的大魚很歡實，只要離得近了，必定被誤傷。
+§16 三人加快劃水的速度。
+§17 [Ø=云千峰]功夫不負有心人，蘆葦島終於讓出了寬闊的河道。
+§18 [Ø=云千峰]那巨大的魚幾乎擦著蘆葦島遊過，不過它似乎發覺了這浮在水面的大家夥， [||] 竟然在到了蘆葦島側面時，尾巴打了一個旋，停了下來。
+§19 [Ø=云千峰]碩大的魚身橫過來，魚頭方向對著蘆葦島。
+§20 [Ø=云千峰]水質渾濁，但是距離這麽近，還是能看到大魚在水底的影子。
+§21 [Ø=云千峰]雲千峰確定，這大魚的腦袋比之前那白蛇的腦袋還大，一口把蘆葦島咬斷，輕而易舉。
+§22 [Ø=云千峰]大魚甩動了一下身體，頓時驚濤駭浪，蘆葦島幾乎被水浪掀飛了起來，然後波形落在水面上。
+§23 [Ø=云千峰]也好在蘆葦島本身柔韌，[Ø_SHIFT=姜柔甲]這樣的摔打不至於讓蘆葦島崩潰，但是三人搭建的小草房卻被震的散了架，直接趴窩。
+§24 [Ø=姜柔甲]雲千峰本在蘆葦島邊上，靠近大魚的一側，手持船槳盯著大魚的動向，企圖在必要的時候阻止大魚的靠近。
+§25 [Ø=姜柔甲]結果本來腿腳就不太受使，被剛才的震蕩直接蕩進了水中。
+§26 [Ø=姜柔甲]白狐和卓瑪看到這一幕，[Ø_SHIFT=云千峰]急忙一起躍入水中救援。
+§27 [Ø=云千峰]這倆人，現在都不是一般人，藝高人膽大。
+§28 [Ø=云千峰]雲千峰落入水中，大魚瞬間被這夠塞牙縫的食物吸引，追著雲千峰向水下沉去。
+§29 [Ø=云千峰]雲千峰本準備向上遊，但是看到那黑乎乎的大魚奔著自己衝過來， [||] 登時改變主意，反而用力劃動雙臂，讓自己更加快速的向著水深處而去。
+§30 這是保住蘆葦船的最佳方法。
+§31 [Ø=云千峰]大魚果然跟著雲千峰的方向追過去，完全沒有再理會那蘆葦島。
+§32 [Ø=云千峰]卓瑪在水中遊動的速度奇快無比，甚至比那大黑魚的速度還快， [||] 好似一支羽箭，在水中蘊起細細的波紋，衝向大黑魚的身後。
+§33 [Ø=云千峰]白狐略慢一些，她的尾巴也能劃水，但是遠不及卓瑪的魚尾。
+§34 [Ø=云千峰]雲千峰感受到身後衝擊而來的水流，他知道大魚已經極為靠近自己，當下拔出腰間的軍刀，做好了被大魚吞進肚子的準備。
+§35 [Ø=云千峰]然而就在這時候，大魚帶來的那種衝擊感竟然漸小， [||] 雲千峰回頭一看，卻是卓瑪正在快速的繞著大魚盤旋，不時的用身體撞向大魚。
+§36 [Ø=云千峰]每一下，都會用短藏刀在大魚的鱗片上留下一道[M1:một luồng]傷口。
+§37 [Ø=云千峰]不過很顯然，那短藏刀的長度，遠遠不夠切開魚皮，因為大魚一點血都沒流出來。
+§38 [Ø=云千峰]卓瑪做了一個讓雲千峰趕緊上岸的手勢，她想仗著自己游泳的速度引走大黑魚。
+§39 [Ø=云千峰]但是那黑魚似乎盯死了雲千峰，只在開始被卓瑪打攪了一下，便又專心致志的衝向雲千峰。
+§40 [Ø=云千峰]眼看著大黑魚的速度，雲千峰根本無法上岸，就會被吞下去。
+§41 [Ø=云千峰]就在此時，突然周圍的水中傳來無數的震蕩，那是超聲波在水中傳遞形成的波紋。
+§42 無法計數的影子快速的朝著大黑魚迫近。
+§43 雲千峰、卓瑪和白狐都被這一幕驚呆了。
+§44 [Ø=云千峰]只是一條大黑魚就已經無法對付，這又來了這麽多的不明生物。
+§45 [Ø=云千峰]雖然這些影子看起來也就三四米長，但是速度卻是奇快，比大黑魚的速度都快。
+§46 [Ø=云千峰]理論上來說，這樣速度快的掠食者，永遠比力量大但是速度慢的捕食者可怕。
+§47 “唰！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§48 [Ø=云千峰]上百道[M2:một trăm luồng]黑影好像表盤一樣，圍成一個圈向著他們的戰團匯聚。
+§49 幾乎眨眼就到。
+§50 [Ø=云千峰]雲千峰三人甚至還沒能做出反應，那些黑影的攻擊已然開始。
+§51 “咚咚咚！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§52 [Ø=云千峰]那些黑影好像子彈一樣，撞向大黑魚最柔軟的肚皮。
+§53 [Ø=云千峰]這些新來的家夥，竟然是來幫忙的。
+§54 [Ø=云千峰]而此刻，雲千峰也看清了那些黑影是什麽。
+§55 [Ø=云千峰]那是一隻隻巨大的豚，模樣介於河豚與海豚之間，它們用堅硬的頭部， [||] 仗著高速，發狠的撞向那大黑魚，大有必死不休的意思。
+§56 [Ø=云千峰]可別小瞧這種撞擊，在高速下，這些撞擊每一下都讓大黑魚的肚皮凹陷下去很深。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 56 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§56. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

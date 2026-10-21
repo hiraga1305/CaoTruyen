@@ -1,0 +1,84 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0238|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Và cũng chính vào ngày hôm ấy, Cộng Công cùng đại tướng mạnh nhất dưới trướng Chuyên Húc là Chúc Dung đã nổ ra trận quyết chiến sinh tử, đánh từ bên rìa Eden, một mạch xông thẳng vào tận trung tâm cõi
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一道|một luồng
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §43):
+§1 [Ø=云千峰]守望者的孩子紛紛躲入了地下空間，而二百守望者也在新建成的地下世界遊覽。
+§2 [Ø=云千峰]共工和祝融一直打到了天梯前，然後二人拚盡全力，撞向天梯。
+§3 [Ø=云千峰]天梯斷了，月球不再穩定，那片因為引力場而存在的汪洋傾瀉而下，大洪水來了。
+§4 [Ø=云千峰]陽光普照，無數守望者的子孫在陽光下燃燒，哪怕躲進水中都沒有用。
+§5 [Ø=云千峰]祂們只能拚命的尋找顓頊挖好的隧道，鑽入地底，而等待他們的是一扇扇早就準備好的青銅巨門。
+§6 這就是絕地天通。
+§7 [Ø=云千峰]共工身隕，巫族所剩無幾，其後人盤瓠接替其首領地位。
+§8 [Ø=云千峰]帝嚳沒有食言，為姮娥和盤瓠舉行了婚禮，但完整的蚩尤，卻是給予未來的盤瓠， [||] 而盤瓠竟然答應了，誰也不知道帝嚳到底許諾了什麽，這是我們不了解的一段歷史，可能只有未來的盤瓠才明白發生了什麽。
+§9 [Ø=云千峰]姮娥登上月球，被帝嚳封為月神，主導月球遠離地面，徹底斷掉了守望者和月球的聯系。
+§10 [Ø=云千峰]人類能勝，是因為守望者的大意，還有人類善於偽裝和謊言， [||] 但那不是真正的實力，守望者極其強大，強大到造物主隻創造了男性的守望者，因為造物主懼怕守望者之間的繁衍。
+§11 [Ø=云千峰]而如今，守望者走出大地深處已經無法阻止， [||] 人類滅絕已是必然，我不能讓你因為各人感情和你與人類的契約，就把我們一族拉進這場不屬於我們的爭鬥。
+§12 [Ø=云千峰]守望者已經和我們聯系過了，只要我們不參與這場爭鬥， [||] 我們一族在未來，可以享受黃帝時代屬神的地位，永生且永享富貴和權利。“
+§13 [Ø=云千峰]白狐點了點頭，看著濕瑪，沉聲道：
+§14 [Ø=云千峰]“所以，你把守望者往造物主身上引導， [||] 就是為了讓我認為其不可戰勝，產生恐懼，對嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 [Ø=云千峰]濕瑪點了點頭，沒有否認：
+§16 [Ø=云千峰]“是的，但我小瞧了你， [||] 我以為你才回到文明世界，還沒有了解更多，但沒想到你遠比我預估的多。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 白狐淡笑道：
+§18 [Ø=云千峰]“因為我從這次降臨，就跟著一個叫雲千峰的人，也可能就是你口中未來的盤瓠， [||] 他很倒霉，遇到的怪事多，需要了解的事情就多。
+§19 [Ø=云千峰]還有，為什麽你篤定守望者一定會走出大地？太陽可是恆在！”
+§20 濕瑪瑪肆科沉聲道：
+§21 “你知道為什麽地球上會有冰河世紀嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 [Ø=云千峰]白狐顰眉，道：
+§23 [Ø=云千峰]“不知，據說還沒有科學定論。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 濕瑪瑪肆科苦笑道：
+§25 [Ø=云千峰]“是因為太陽系的公轉，太陽系圍繞銀核公轉一周是2.5億年，而在這個軌道上，有宇宙霧區， [||] 當太陽系進入到霧區後，陽光會被無處不在的奇怪霧氣過濾阻擋，導致全球降溫，進入冰河世紀。
+§26 [Ø=云千峰]那種霧氣不會對生物造成傷害，部分人類可以活下去，但問題是， [||] 在霧區的陽光，不會對地下的守望者再造成足夠的傷害，祂們可以大膽的走出來，再沒有掣肘。
+§27 [Ø=云千峰]我想，帝嚳能夠允許蚩尤合體，可能就是為了這場無法躲避的災難做準備， [||] 我恐懼帝嚳的算計，但他畢竟薨了，守望者還都活著。
+§28 [Ø=云千峰]人類不是祂們的對手，我們也不是， [||] 帝嚳都只能靠著陰謀詭計才能算計守望者，我們又能如何？與強者合作，是唯一的選擇。”
+§29 [Ø=云千峰]白狐再次點了點頭，淡淡道：
+§30 [Ø=云千峰]“不要再對我有任何隱瞞，只是置身事外， [||] 守望者不會給你這樣的承諾，說吧，你還為祂做了什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 濕瑪瑪肆科沉聲道：
+§32 [Ø=云千峰]“答應了很多，但最重要的是幫助薩弱殺死雲千峰，而且我們也那樣做了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 [Ø=云千峰]白狐大腦急轉，突然驚聲道：
+§34 “你們是替雲千峰製造朱砂和銀粉武器的人？那些朱砂和銀粉是假的！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 [Ø=云千峰]濕瑪瑪肆科沉默片刻，最終沒有隱瞞，點了點頭。
+§36 [Ø=云千峰]白狐看了濕瑪瑪肆科一眼，嚴肅而認真的說道：
+§37 [Ø=云千峰]“濕瑪，我的朋友，告訴同族，從今天開始，獵殺我無需留手， [||] 我普羅從不違約，我會去幫助雲千峰，直到他身死，就此別過，待未來靜好再見。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 [Ø=云千峰]說完，化成一道[M1:một luồng]白影消失。
+§39 身後是濕瑪的歎息。
+§40 [Ø=云千峰]“就知道會這樣，唉！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 [Ø=云千峰]南極，絢爛的極光之下，薩弱震動著翅膀，享受著寒冷的舒適。
+§42 [Ø=云千峰]她已經看到了疾馳的紅色履帶車，而車內正是她最重要，能夠讓祂完整的獵物，雲千峰。
+§43 她多麽期盼看到雲千峰扔出沒用的朱砂銀粉時的表情啊！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 43 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§43. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

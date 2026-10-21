@@ -1,0 +1,82 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0255|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Bạch muội tử cũng vội tiếp lời:
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一張|một tấm
+M2|三尺|ba thước
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §40):
+§1 [Ø=云千峰]“是的，那裡很神奇，無論是傳說還是現實的地理情況，都符合世界之軸的定義。
+§2 [Ø=云千峰]岡壬山高6666米，距離巨石陣6666千米，距離北極點6666千米，距離南極點2x6666千米， [||] 北極點距離胡夫金字塔6666千米，巨石陣距離惡魔塔6666千米，巨石陣距離百慕大三角6666千米，復活島距離百慕大6666千米，這個世界上古文明的地理度量完全是依照岡壬山的高度排列。
+§3 [Ø=云千峰]瑪雅金字塔、胡夫金字塔的連線與復活島與巨石陣連線的交點，就在岡壬山，而這四個遺跡， [||] 是世界上除華夏外最絢爛最古老的文明遺址，以這種連線方式定位文明所在地的方式，很符合帝嚳居中，分封天下的傳說。
+§4 [Ø=云千峰]換句話說，帝嚳也認為岡壬山是這個世界的中心，並且以岡壬山的高度為尺度。”
+§5 [Ø=云千峰]雲千峰點了點頭，沉聲道：
+§6 [Ø=云千峰]“岡壬作為一個選項，看看還有什麽地方也有可能是西王母的居住地。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§7 [Ø=云千峰]白妹子找到一張[M1:một tấm]資料紙，說道：
+§8 [Ø=云千峰]“如果不考慮示巴女王是古埃及附近的女王，那麽只剩下喀刺昆侖、昆侖山，漢唐絲綢路上的回中山，這三個地方都有記載是曾經西王母的居住地點。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§9 [Ø=云千峰]雲千峰拿著一支筆，在手上轉來轉去，思索半晌，才下定決心道：
+§10 [Ø=云千峰]“我自己去岡壬山，白妹子， [||] 我要你再組織三個探險隊，分別前往另外三個地點，必須帶死藤水。
+§11 [Ø=云千峰]白妹子你親自帶隊尋找回中山，那個傳說位置很模糊， [||] 可能需要走遍古絲綢路，是剩下三個裡最難尋找的，所以我希望伱幫我。”
+§12 白妹子闞快道：
+§13 [Ø=云千峰]“好，你放心吧，那條路線我來帶隊。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§14 羅賓急忙道：
+§15 [Ø=云千峰]“那我負責昆侖山那條線，我在冰島長大，對嚴寒的環境很熟悉，能夠確保一定的安全。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§16 [Ø=云千峰]另外一個始終沉默不語的大胡子壯漢，沉聲道：
+§17 [Ø=云千峰]“那我帶隊喀刺昆侖那條線，只要我不死，必定把那山挖地三尺[M2:ba thước]！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§18 [Ø=云千峰]三個隊長確認，組織隊伍並不難，畢竟有錢， [||] 現在的羅琳娜還管理著俺必勝公司的財產，說她富可敵國，都有點委屈。
+§19 雲千峰再次交代道：
+§20 [Ø=云千峰]“切記，死藤水必須帶著，衛星電話多帶幾部， [||] 無論是誰確定了西王母所在，都要第一時間通知我，我會盡快趕過去。
+§21 [Ø=云千峰]物資多帶，別怕花錢， [||] 好用的交通工具用上，犛牛駱駝也都備著，總之我們四支隊伍必須一次性完成這次探險。
+§22 [Ø=云千峰]我不想說一些危言聳聽的話，但我必須很真實的告訴你們，這次探險，涉及整個世界的安危！
+§23 [Ø=云千峰]你我任重，但值得！不說為人人，隻談為親朋。”
+§24 [Ø=云千峰]孫倩知道雲千峰不會去誇張訴說一件事，白妹子也了解他，兩個人的眼裡都顯出了急迫的情緒。
+§25 [Ø=云千峰]可惜，孫倩有心無力，她被困在了大海上，永生永世。
+§26 [Ø=云千峰]她能做的，就是用最快的速度把船開到華夏的海岸。
+§27 [Ø=云千峰]人其實很奇怪，當他不得不背負起人人的安危之時，他們的私心會在這個過程裡消失。
+§28 [Ø=云千峰]很奇怪，似乎這種責任能夠讓人超脫生死。
+§29 [Ø=云千峰]琳達最終沒能集郵狼人，在靠岸後乘機回家，依依不舍的告訴雲千峰回來後一定要去看她。
+§30 [Ø=云千峰]雲千峰滿口答應，對她撒謊沒啥壓力。
+§31 [Ø=云千峰]白妹子親自安排的各種補給，為了減輕雲千峰的負擔，也為了路程乘機坐車方便， [||] 很多物資她都直接安排在了雪區某個人的家裡，雲千峰按照電子地圖指示，一路上都不會缺少物資。
+§32 [Ø=云千峰]雲千峰到達海岸，直接出發，一分鍾都沒等待。
+§33 [Ø=云千峰]白妹子他們三個隊伍的人要當晚才能到，所以這些人在人到齊後，也是立即出發，沒有絲毫的滯留。
+§34 [Ø=云千峰]雲千峰乘機直達貢嘎，機場外已經有人舉著寫著雲千峰牌子的人在外面等待。
+§35 [Ø=云千峰]見到雲千峰後，利索的把一把車鑰匙和一輛吉普牧馬人交給了雲千峰，一句廢話沒有，可謂是用最大的限度來節省時間。
+§36 [Ø=云千峰]雲千峰也是二話沒有，上車打開定位好的電子地圖，一腳油門疾馳而去
+§37 [Ø=云千峰]感謝liude、魚無舌的打賞，謝謝你們！！！
+§38 [Ø=云千峰]感謝O此時O、書友尾數14351的月票獎勵，謝謝你們的支持！！！
+§39 [Ø=云千峰]每天把你們的名字記錄在這裡的過程，就是積蓄力量的過程，你們讓這一切值得！！！
+§40 [Ø=云千峰]祝大家好夢，晚安！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 40 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§40. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

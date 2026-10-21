@@ -1,0 +1,72 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0303|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Cộng thêm quy tắc số dương xếp thuận, số âm xếp nghịch, càng khiến cho bố cục dãy số vốn dĩ đã rắc rối này tăng vọt theo cấp số nhân.
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §33):
+§1 [Ø=云千峰]雲千峰以前就接觸過奇門遁甲，算不上精通，但是做過一些簡單的局勢， [||] 像是這樣的動態世間演化局，卻是從未敢嘗試過，因為怕自己掛掉。
+§2 [Ø=云千峰]此刻卻是完全沒有辦法，只能硬著頭皮計算下去。
+§3 [Ø=云千峰]直到鼻孔都累出了血，整個人跪在地上，大腦還在完全不受控制的計算。
+§4 [Ø=云千峰]就好像奇門遁甲數組一旦呈規律運算，會激發人類大腦的某種運算機制，達到完全失控的狀態， [||] 甚至完全獨立出人體，成為一個獨立的意識體，完全不顧宿主的生死。
+§5 [Ø=云千峰]雲千峰的認知裡，大腦本就是給人體真正意識打工的存在， [||] 而此刻這個大腦打工仔，正在瘋狂的吸血公司的能源，用於一個可能根本不會有結果的運算。
+§6 “砰！“
+§7 [Ø=云千峰]雲千峰栽倒在地上，閉上了眼睛。
+§8 閻羅殿內。
+§9 西王母淡淡道：
+§10 [Ø=云千峰]“結束了，雲千峰輸了，這世間果然沒有人再有帝嚳的智慧， [||] 我記得當年帝嚳破解這個時空的奇門遁甲時間局，隻用了不到一個小時，而且毫不費力。
+§11 [Ø=云千峰]哪怕後期進行萬年算計，也沒累到雲千峰這個程度，二者差距太大了， [||] 所以守望者也好，巫族也罷，被帝嚳算計，一點都不冤枉。
+§12 [Ø=云千峰]雲千峰僅僅是破解一年的時間局，還沒完成就已經累到心血耗盡，他悟不透元的時間運行規則， [||] 也就永遠無法阻止元利用他復活，那麽不如現在就死了，省得姮娥你白費力氣。”
+§13 [Ø=云千峰]西王母說得沒錯，二者的差距太大了。
+§14 [Ø=云千峰]雲千峰僅僅是運算元最基本的運算局，已經累到腦力不支，這不是預測，僅僅是尋找最基本的規律。
+§15 [Ø=云千峰]而帝嚳呢？他不僅僅是預測，而是根據自己想要的結果，利用自己的選擇，產生蝴蝶效應， [||] 準確的在未來達到自己想要的結果，這樣的運算量，超過了雲千峰這運算量的倍數，恐怕是天文數字。
+§16 [Ø=云千峰]這世上，估計也只有以五星三元為計算規則的， [||] 薑子牙的【萬年歌】，能堪堪與帝嚳的算計媲美一二，三都達不到。
+§17 [Ø=云千峰]姮娥看著癱倒在立方體刻碑前的雲千峰，聽著西王母的話，沉聲道：
+§18 [Ø=云千峰]“我真的不明白，帝為什麽會選擇你作為萬年算計的最後執行者，你不愛人類，你甚至什麽都不愛。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 西王母隨意道：
+§20 [Ø=云千峰]“正因為我不愛人類，不愛一切，所以才不會背叛，因為沒有什麽能夠收買我，帝嚳的選擇，沒有錯過， [||] 他算計的不僅僅是時間，空間，還有人心，比如雲千峰，帝嚳算的就是人心，可惜雲千峰能力有限，帝嚳恐怕要走到第二選項了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 姮娥沉聲道：
+§22 [Ø=云千峰]“西王母所言過早，雲千峰還活著，一切都沒有定局。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 [Ø=云千峰]西王母莞爾，道：
+§24 [Ø=云千峰]“你覺得一個腦力耗盡的人還能醒過來，爬起”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 [Ø=云千峰]西王母話音未落，刻符立方體前，蜷縮在地面上的雲千峰抬起了頭。
+§26 [Ø=云千峰]他滿臉是血，但眼睛是明亮的，映襯和猩紅的眼白，就像是晨霞拖著的啟明星。
+§27 [Ø=云千峰]姮娥捏緊的拳頭緩緩松開，暗暗吐了口氣，卻用很無所謂的語氣道：
+§28 [Ø=云千峰]“看來，雲千峰算透了元的運行規則， [||] 他的智慧或許不及帝嚳，但意志力卻不逞多讓，帝看中的或許就是這一點。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 [Ø=云千峰]西王母沒有出聲，看著滿臉血的雲千峰嚴重那帶著瘋狂的光，眼中也不由得閃動一絲驚訝。
+§30 [Ø=云千峰]她不喜雲千峰，因為雲千峰是真真的得罪過她。
+§31 [Ø=云千峰]但她不會因為雲千峰得罪過她，就改變帝嚳的算計，這是她的優點。
+§32 [Ø=云千峰]雲千峰半跪在刻符立方體前，面帶痛苦，但笑著， [||] 咬牙自語，又像是與那刻符立方體說話，道：
+§33 [Ø=云千峰]“一個循環共四千三百二十局，不重複的局勢共一千零八十局，二十四節氣三百六十天， [||] 缺了五天，哈哈哈！我知道你為什麽需要一個人的意識才能復活了，你卡住了，哈哈哈！你的系統卡住了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 33 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§33. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

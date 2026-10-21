@@ -1,0 +1,76 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0253|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=EXPOSITION_SMOOTH|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §37):
+§1 253.第253章 誰借誰的力？
+§2 第253章 誰借誰的力？
+§3 [Ø=云千峰]穩中藏急，靜中藏爭。
+§4 [Ø=云千峰]越是急越是需要爭分奪秒的時候，越要穩越要靜。
+§5 [Ø=云千峰]雲千峰盤膝坐在西王母的雕像前，閉上了眼睛，拉長自己的呼吸，讓躁跳的心臟恢復穩靜。
+§6 [Ø=云千峰]無需睜眼，西王母雕像的樣子就在他的短時記憶裡， [||] 此時就懸浮在他漆黑的腦海之中，掛在眉心，一如西方人追求的曼陀羅。
+§7 [Ø=云千峰]那就是山海經之中西王母的形象，並沒有什麽特別之處。
+§8 [Ø=云千峰]唯一顯眼的，就是雕像手裡托著一條腿。
+§9 [Ø=云千峰]這也不奇怪，因為雲千峰剛剛就是穿上了西王母雕像身前的那條蚩尤甲的腿部，想來這雕像上雕著一條腿，就是用來表達用西王母鎮壓這條蚩尤甲腿部的意思。
+§10 [Ø=云千峰]畢竟這裡沒有神軀，那麽就用西王母的雕像來替代這個部分。
+§11 [Ø=云千峰]“可是，西王母的雕像為什麽會出現在南極？無論從任何一個角度來說， [||] 西王母的雕像出現在這裡都是極不合理的，南之極，應該是應龍的居所。
+§12 [Ø=云千峰]北極極光為燭龍，南極極光為應龍，這才符合山海經的記錄。
+§13 [Ø=云千峰]小神經指向這裡，那麽線索就一定在這個雕像身上， [||] 她沒說出答案，是因為她也不知道，或許是未來的我隻告訴小神經線索在雕像上。
+§14 [Ø=云千峰]未來的我為什麽不明說？是時間不夠，還是他需要我思考的這個過程？是為了盡可能的不去改變我的人生軌跡，更加貼合帝嚳的算計嗎？
+§15 [Ø=云千峰]還是說這個線索極其明顯，一眼就可以看到，完全不必要明說！”
+§16 [Ø=云千峰]想到這，雲千峰猛然睜開眼睛，眼睛直視那漢白玉的雕像，目光集中在雕像上雕刻出來的蚩尤甲腿部的位置。
+§17 [Ø=云千峰]那一瞬間，雲千峰找到了線索。
+§18 [Ø=云千峰]“雕像上雕刻的是左腿，而這裡擺著的是右腿，這雕像在這裡的意義就是， [||] 告訴我蚩尤甲最後的一個部分，在西王母的手裡，我得找到西王母！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 果然是心靜下來一眼可見的線索。
+§20 [Ø=云千峰]雲千峰回到雕像後，攥著小神經的手，輕聲道：
+§21 [Ø=云千峰]“在這裡等著別亂跑，我會在四十九天之內讓蚩尤完全復活，全知之眼再次開啟！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 [Ø=云千峰]說完，他頭也不回，大步走去。
+§23 [Ø=云千峰]扛起醉死的琳達，循著石洞尋找出口。
+§24 [Ø=云千峰]出口就在地理南極點的附近，上空就是逢五出現的補天之門。
+§25 [Ø=云千峰]那灰色的漩渦好像一隻眼睛，就和史前石刻上雕刻的鳳凰膽雮塵珠很像。
+§26 [Ø=云千峰]這漩渦相對於外部，大小不會變化， [||] 邊緣清晰，但是其內部卻快速的轉動著，似乎要把一切吸入其中。
+§27 [Ø=云千峰]但，人在其下，卻感覺不到一絲風，反倒是詭異的安靜。
+§28 [Ø=云千峰]繁星璀璨，極光鋪滿了半邊天，而那補天之門映襯在這樣的背景下，就好像遙看宇宙之中的星雲。
+§29 [Ø=云千峰]刺骨的寒冷讓琳達縮了縮肩膀，呢喃了一句醉話，嘟嘟囔囔的，雲千峰也沒聽清她說的什麽。
+§30 出口處有一輛履帶車。
+§31 [Ø=云千峰]比雲千峰之前開的那輛要大不少，車廂內放滿了燃油罐。
+§32 [Ø=云千峰]看得出來，這是小神經他們特意留下的，為了活下來的唯一能夠安全離開南極。
+§33 爭分奪秒。
+§34 [Ø=云千峰]雲千峰徑直來到車內，把琳達放到了後座上， [||] 啟動南極車，按照上面預留的電子地圖導航，直奔威爾科斯地方向駛去。
+§35 那也是迪蒙迪維爾站的方向。
+§36 [Ø=云千峰]本來駛向南極半島方向更容易飛機救援，但是那裡距離亞洲太遠。
+§37 [Ø=云千峰]在雲千峰心中，西王母也好，示巴女王也罷， [||] 應該都在華夏文明的輻射圈內，所以他選擇這個方向，一旦被救援，就能最快的去尋找西王母的所在。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 37 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§37. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

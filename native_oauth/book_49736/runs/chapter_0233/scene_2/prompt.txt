@@ -1,0 +1,94 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0233|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Trong mắt Mã Tứ Khoa tràn đầy vẻ kính sợ, nói:
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §55):
+§1 [Ø=云千峰]“豈止千年？我懷疑此時的天下，依舊在他的算計范圍之內，沒有脫離他的掌控。
+§2 而且你知道最可怕的是什麽嗎？”
+§3 白狐搖了搖頭。
+§4 瑪肆科繼續道：
+§5 [Ø=云千峰]“更可怕的是，帝嚳只是一個人類，純粹的人類， [||] 哈哈哈！三維度的生物，把我們四維度而來的高級生命玩弄於股掌，偏偏這不是個玩笑。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§6 [Ø=云千峰]說著，他眼神之中蘊含著無限的憧憬，說道：
+§7 [Ø=云千峰]“大家多麽希望能夠托生華夏啊！不為了高人一等，不為了入主神州， [||] 只是在那個基因和文明下感受帝嚳的思維，如果能讓我體會一秒鍾帝嚳的意識和靈魂，我願意拋棄永生。
+§8 [Ø=云千峰]都說人身難得，佛法難聞，要我說最難得，是華夏難生。”
+§9 [Ø=云千峰]這已經不是敬佩了，而是信仰。
+§10 [Ø=云千峰]而他的信仰，是他的敵人。
+§11 這並不可笑。
+§12 [Ø=云千峰]白狐在帝嚳事跡的震撼下緩過神來，疑惑道：
+§13 [Ø=云千峰]“帝嚳如此之強，為何不毀滅了我們？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§14 [Ø=云千峰]瑪肆科“哈哈”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]大笑起來，眼角夾著眼淚，看著白狐聲音抖個不停，叫道：
+§15 [Ø=云千峰]“因為帝嚳需要狗啊！需要看門的狗！他把我們的神軀放在每一個秘境之內，盯著蚩尤，讓其無法重生， [||] 看著那些堵著地底的青銅巨門，沒有什麽比我們這些不死的家夥更適合做這件事，帝嚳把我們安排的明明白白。
+§16 [Ø=云千峰]我們不想像狗盯著骨頭一樣看著那些蚩尤殘軀，不想像狗一樣到了晚上就盯著大門，但我們不敢不盯著， [||] 帝嚳這個名字，就像南山，遮擋住了太陽，把我們淹沒在沒有邊際的陰影之中。
+§17 [Ø=云千峰]你知道嗎？商被周滅那一刻，鹿台燃起大火之時，我們， [||] 咱們這些同族決定放棄生命，那種打擊太大了，我們甚至覺得活下去是一種屈辱。
+§18 [Ø=云千峰]但你知道嗎？你知道嗎？帝嚳連這一點都算計到了，薑尚祭出了周契，降人皇為天子爵， [||] 與我等神族同階，彼此尊重，只是帝嚳禁律不可改，我們依舊不得托生神州華夏。
+§19 [Ø=云千峰]帝嚳把我們裡子掏空了，給了我們一個面子，就是這個面子， [||] 我們特麽不想死了，太可怕了，怎麽就不想死了，太可怕了！”
+§20 白狐苦笑道：
+§21 [Ø=云千峰]“這不是給面子，這是拿捏。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 [Ø=云千峰]白狐沒有經歷過那一段歷史，所以無法感同身受， [||] 不會像瑪肆科一樣，提到帝嚳，整個人的靈魂都在一種極度複雜的情緒裡顫栗。
+§23 [Ø=云千峰]瑪肆科點了點頭，低聲道：
+§24 [Ø=云千峰]“對，拿捏。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 [Ø=云千峰]白狐看著最人來瘋的濕瑪，她無法想象這種被打擊到靈魂佝僂的人會是濕瑪。
+§26 [Ø=云千峰]“所以，我們一族就這樣認命了嗎？當人類的看門狗？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 濕瑪緩緩搖頭：
+§28 [Ø=云千峰]“沒有，但我們不敢再走到人前，我們開始積累金錢和力量，隻做推波助瀾之事。
+§29 [Ø=云千峰]兩千年前，秦時始皇帝不受天子爵，毀約周契， [||] 九屠分裂，那麽好的機會，我們都沒敢動手。
+§30 [Ø=云千峰]當時巫族文明傳承者墨家把蚩尤的秘密告訴了始皇帝，讓始皇帝明白， [||] 一旦得到了蚩尤甲，得到了元，他的秦就能千秋萬代。
+§31 [Ø=云千峰]而秦時一代的九屠，那時正苦勸始皇帝接受天子爵，不得違約周契，更不得覬覦蚩尤之身。
+§32 [Ø=云千峰]始皇帝心煩，但卻不敢太過違逆九屠，於是裝模作樣焚書坑儒， [||] 當著九屠的面，把所有有關巫族和蚩尤的記錄記載焚燒乾淨，把知道這個秘密的人一起坑殺，更是滿口答應接受天子爵。
+§33 [Ø=云千峰]九屠心滿意足，很安慰始皇帝如此深明大義，然後開心的為始皇帝去找九屠很清楚不存在的仙丹去了。
+§34 [Ø=云千峰]哪知道，他們騙始皇，始皇也騙九屠。
+§35 [Ø=云千峰]結果他們一走，始皇就讓人開始尋找蚩尤，九屠得知後， [||] 內部的反應卻不一致，一代新人換舊人，此時的九屠更是老中小三代九人，思想已經彼此不同。
+§36 [Ø=云千峰]有的九屠認為應該換新天子，有的九屠則認為人生而太苦， [||] 若是善加利用蚩尤，可保人類再無生死之憂，那麽世界就能大同。
+§37 [Ø=云千峰]於是其中一派與墨家合作，想要一個人類再無死亡之患的完美世界， [||] 另一派無法抵抗二者結合，隻好選擇與我們聯合，我們也在那時候知道了補天之門的存在。
+§38 [Ø=云千峰]那時候我們才知道，幸好沒有動手，否則會有帝嚳欽定的補天人一族進入補天之門回到三十年前，把我們一網打盡。
+§39 [Ø=云千峰]補天之門的秘密被我們知道以後，我們開始利用科技，利用微觀的力量影響每一個三十年前的節點，慢慢改變著人類的記憶。
+§40 [Ø=云千峰]讓他們徹底混亂了對歷史的記憶，忘記我們的存在，更能讓補天人忘記自己的存在，每當有人企圖發現我們， [||] 發現真實的歷史，我們就改變他的記憶，甚至讓他在這個世界消失，真正的消失，從別人的記憶裡和物質層面一起消失。
+§41 [Ø=云千峰]這樣我們才能蠶食神州，直到華夏消失， [||] 我們便再沒有托生之限，就能再次入主神州，感受帝嚳的思維。
+§42 [Ø=云千峰]但我們還是失敗了，因為補天人哪怕不知道自己是補天人，依舊會走上帝嚳安排好的宿命，帝嚳的算計根本沒有依托任何外物， [||] 那就是他的算計，無論我們怎麽做，無論我們以為自己多麽巧妙，但那都在帝嚳的算計之內。
+§43 [Ø=云千峰]一次次對華夏的推波助瀾，一次次的失敗，最可怕的是眼看著似乎成功了，但我們的人卻成了華夏的一部分， [||] 被同化了，我們越折騰，華夏的面積越大，這一定也是帝嚳的算計之內，他在看我們的笑話。
+§44 [Ø=云千峰]所以，[Ø_SHIFT=姜柔甲]很多我們的同族都崩潰了，比如我現在對華夏什麽想法都沒有了，我隻想去火星。”
+§45 白狐思索道：
+§46 “咱們一族大部分都沒想法了？為什麽西還在極盡可能的圍困東方？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§47 [Ø=姜柔甲]瑪肆科臉上顯出了恐懼，沉聲道：
+§48 [Ø=姜柔甲]“那不是咱們一族做的，是青銅巨門後那些東西的後裔做的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§49 白狐驚道：
+§50 “守望者？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§51 瑪肆科看著白狐：
+§52 [Ø=姜柔甲]“對！守望者和我們不一樣，他們對帝嚳只有仇恨！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§53 感謝塔克斯、廟裡供著神、血之藥、各種身份、尾數03162、星雲星宇、仙慕凡、尾數86696、我不慫、尾數09742、尼祿祭、韓夢寒夢非攻、尾數21912、薯條玉米湯的秘密、不愛綠茶、星塵龍禁卡咧、一賊西來陳友諒、Xenomorph的月票獎勵。
+§54 [Ø=姜柔甲]謝謝你們的支持，感激！！！
+§55 [Ø=姜柔甲]晚安，祝大家好夢！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 55 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§55. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

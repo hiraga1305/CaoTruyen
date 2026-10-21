@@ -1,0 +1,487 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 112,
+  "title": "Chương 112: Chọn quyền",
+  "total_paragraphs": 79,
+  "translated_paragraphs": 79,
+  "source_hash": "93bccf3313892f780cea933fbbe7f53925a1c51b52ef68f97377e99d73c5c937",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0112p0001",
+      "index": 1,
+      "raw_zh": "第112章 選擇權",
+      "translated_vi": "Chương 112: Chọn quyền"
+    },
+    {
+      "para_id": "c0112p0002",
+      "index": 2,
+      "raw_zh": "看著舉手的秦疏影，雲千峰有點詫異，笑道：",
+      "translated_vi": "Nhìn Tần Sơ Ảnh đang giơ tay, Vân Thiên Phong thoáng chút ngạc nhiên, cười hỏi:"
+    },
+    {
+      "para_id": "c0112p0003",
+      "index": 3,
+      "raw_zh": "“你竟然會這個？”",
+      "translated_vi": "“Cô mà cũng biết trò này cơ á?”"
+    },
+    {
+      "para_id": "c0112p0004",
+      "index": 4,
+      "raw_zh": "秦疏影點頭，道：",
+      "translated_vi": "Tần Sơ Ảnh gật đầu đáp:"
+    },
+    {
+      "para_id": "c0112p0005",
+      "index": 5,
+      "raw_zh": "“你幹嘛那麽奇怪的表情？巫舞也是舞蹈的一種，其中就有招魂曲，我記得楚語唱詞，也跳的很好。”",
+      "translated_vi": "“Sao anh lại lộ vẻ mặt kỳ quặc thế kia? Vu vũ cũng là một loại hình vũ đạo mà, trong đó có cả Chiêu Hồn Khúc. Tôi thuộc lời xướng bằng tiếng Sở cổ, nhảy cũng đẹp lắm đấy.”"
+    },
+    {
+      "para_id": "c0112p0006",
+      "index": 6,
+      "raw_zh": "所謂巫舞，可能有些難以想象，但說起跳大神，那大家腦海裡都有影像。",
+      "translated_vi": "Nói tới “vu vũ” thì có lẽ hơi khó hình dung, nhưng nếu nhắc đến nhảy đồng, ắt hẳn trong đầu ai nấy đều mường tượng ra được."
+    },
+    {
+      "para_id": "c0112p0007",
+      "index": 7,
+      "raw_zh": "跳大神就屬於巫舞的一種。",
+      "translated_vi": "Nhảy đồng vốn cũng là một nhánh thuộc về vu vũ."
+    },
+    {
+      "para_id": "c0112p0008",
+      "index": 8,
+      "raw_zh": "舞，秦疏影是專業的，絕不是說說而已。",
+      "translated_vi": "Còn về khiêu vũ múa may, Tần Sơ Ảnh chính là dân chuyên nghiệp thứ thiệt, tuyệt đối không phải nói suông cho vui miệng."
+    },
+    {
+      "para_id": "c0112p0009",
+      "index": 9,
+      "raw_zh": "接下了這個活計，立馬便開始準備。",
+      "translated_vi": "Nhận lấy công việc này xong, cô liền lập tức bắt tay vào chuẩn bị."
+    },
+    {
+      "para_id": "c0112p0010",
+      "index": 10,
+      "raw_zh": "她讓雲千峰和千千三人生起一堆篝火，要夠大夠圓，能與現在天空中的滿月相映襯。",
+      "translated_vi": "Cô bảo Vân Thiên Phong cùng Thiên Thiên và Trương Mẫn nhóm lên một đống lửa trại, phải đủ lớn và đủ tròn để tương xứng, giao hòa cùng vầng trăng tròn vành vạnh trên bầu trời đêm nay."
+    },
+    {
+      "para_id": "c0112p0011",
+      "index": 11,
+      "raw_zh": "而她自己則弄了些細軟的樹枝，做成了一個帶著綠葉的頭環戴在頭頂。",
+      "translated_vi": "Còn bản thân cô thì tìm nhặt mấy cành cây mềm mại, uốn thành một chiếc vòng kết đầy lá xanh đội lên đỉnh đầu."
+    },
+    {
+      "para_id": "c0112p0012",
+      "index": 12,
+      "raw_zh": "又用青草編了兩個手環和兩個腳環戴好。",
+      "translated_vi": "Lại dùng cỏ tươi tết thành hai chiếc vòng đeo tay và hai chiếc vòng đeo cổ chân."
+    },
+    {
+      "para_id": "c0112p0013",
+      "index": 13,
+      "raw_zh": "最後在草編馬甲和草裙上點綴了一些青葉，這才算完成了招魂曲前的準備。",
+      "translated_vi": "Cuối cùng, cô điểm xuyết thêm vài chiếc lá xanh lên chiếc áo gi-lê và váy cỏ bện, bấy giờ mới xem như hoàn tất khâu chuẩn bị trước khi cử hành khúc gọi hồn."
+    },
+    {
+      "para_id": "c0112p0014",
+      "index": 14,
+      "raw_zh": "雲千峰把昏迷的孫倩放在篝火之前，然後和千千、張敏圍坐在孫倩身旁，半包圍著孫倩。",
+      "translated_vi": "Vân Thiên Phong đặt Tôn Thiến đang hôn mê ra trước đống lửa trại, sau đó cùng Thiên Thiên và Trương Mẫn ngồi quây xung quanh, tạo thành nửa vòng tròn bao bọc lấy Tôn Thiến."
+    },
+    {
+      "para_id": "c0112p0015",
+      "index": 15,
+      "raw_zh": "秦疏影則站在篝火的另一端，與雲千峰他們隔火相望。",
+      "translated_vi": "Tần Sơ Ảnh đứng ở bờ bên kia của đống lửa trại, cách ngọn lửa bập bùng nhìn về phía nhóm Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0112p0016",
+      "index": 16,
+      "raw_zh": "蟲鳴鳥叫之中，秦疏影就那麽安靜的站著，似乎在沉浸自己的情緒，不多時，她突然動了一下，全身每個骨節，每個部位都在那一扭曲起來，然後定格在一個位置，擺出了一個只能在古老壁畫上見到的詭秘姿勢。",
+      "translated_vi": "Giữa tiếng côn trùng rả rích và chim đêm văng vẳng, Tần Sơ Ảnh cứ thế lặng lẽ đứng yên, dường như đang đắm chìm vào dòng cảm xúc của chính mình. Chẳng bao lâu sau, cô bỗng khẽ cử động, từng khớp xương, từng thớ thịt trên khắp cơ thể cô trong khoảnh khắc ấy như uốn lượn vặn xoắn lại, rồi dừng sững ở một tư thế quái dị, hệt như những dáng hình bí hiểm chỉ có thể bắt gặp trên các bức bích họa cổ xưa."
+    },
+    {
+      "para_id": "c0112p0017",
+      "index": 17,
+      "raw_zh": "巨大的滿月掛在中天之上，大如玉盤，皓潔如雪。",
+      "translated_vi": "Vầng trăng tròn khổng lồ treo lơ lửng giữa đỉnh trời, to tựa chiếc mâm ngọc, sáng trong vằng vặc như tuyết trắng."
+    },
+    {
+      "para_id": "c0112p0018",
+      "index": 18,
+      "raw_zh": "淡淡的輕吟聲自秦疏影的口中傳來，那語言雲千峰似懂非懂，像是某種方言，與招魂曲的韻律完美的搭配在一起，似乎形成了某種共振的頻率，讓人刹那間好似全身被酥麻的靜電漫過，汗毛在那一刹那全都豎了起來。",
+      "translated_vi": "Tiếng ngân nga nhè nhẹ khẽ cất lên từ bờ môi Tần Sơ Ảnh, thứ ngôn ngữ ấy Vân Thiên Phong nghe như hiểu như không, tựa hồ một loại phương ngôn cổ xưa, hòa quyện hoàn hảo cùng giai điệu của khúc chiêu hồn, dường như tạo nên một tần số cộng hưởng huyền bí, khiến người ta chỉ trong chớp mắt ngỡ như có một luồng tĩnh điện tê dại quét dọc toàn thân, lông tơ toàn thân rợn đứng cả lên."
+    },
+    {
+      "para_id": "c0112p0019",
+      "index": 19,
+      "raw_zh": "沒有任何過渡，一切就是那麽自然而然，舞蹈和吟唱一起開始了。",
+      "translated_vi": "Chẳng hề có bất kỳ sự chuyển tiếp gượng gạo nào, mọi thứ cứ thế tự nhiên diễn ra, điệu múa và tiếng ngâm nga đồng thời bắt đầu."
+    },
+    {
+      "para_id": "c0112p0020",
+      "index": 20,
+      "raw_zh": "聲音好似來自蠻荒，舞姿更像是遙望亙古。",
+      "translated_vi": "Tiếng xướng tựa hồ vọng về từ thời hoang sơ man dại, dáng múa lại như hướng tầm mắt nhìn về cõi thiên cổ xa xăm."
+    },
+    {
+      "para_id": "c0112p0021",
+      "index": 21,
+      "raw_zh": "秦疏影乘著白色的月光扭轉盤旋，或躍或伏，柔軟的身體好似沒有骨頭，輕易的做出別人想都不敢想的姿勢。",
+      "translated_vi": "Tần Sơ Ảnh nương theo ánh trăng bàng bạc uốn lượn xoay vần, khi thì vút nhảy, lúc lại phủ phục, cơ thể mềm mại dẻo dai tựa hồ không xương, dễ dàng làm nên những động tác mà người bình thường chẳng dám nghĩ tới."
+    },
+    {
+      "para_id": "c0112p0022",
+      "index": 22,
+      "raw_zh": "那姿勢明明每一個都那麽誇張，但卻不會給人絲毫違和之感，仿佛她已經融入這一草一木的世界，融入了月光天地之間。",
+      "translated_vi": "Mỗi tư thế dẫu có phần kỳ dị phóng đại, nhưng lại chẳng hề đem tới chút cảm giác gượng gạo nào, ngỡ như cô đã hoàn toàn hòa mình vào từng nhành cây ngọn cỏ, tan chảy vào giữa ánh trăng và đất trời nơi đây."
+    },
+    {
+      "para_id": "c0112p0023",
+      "index": 23,
+      "raw_zh": "此時的她，就像是古老傳說裡人面蛇身的神巫。",
+      "translated_vi": "Lúc này, trông cô hệt như vị thần vu mình rắn mặt người trong những truyền thuyết thời viễn cổ."
+    },
+    {
+      "para_id": "c0112p0024",
+      "index": 24,
+      "raw_zh": "不知為何，雲千峰、千千和張敏，都下意識開始隨著秦疏影的律動開始抖動自己的身體，嘴裡也跟和著曲調嗚咽，根本不受自己的控制。",
+      "translated_vi": "Chẳng rõ vì cớ gì, cả Vân Thiên Phong, Thiên Thiên lẫn Trương Mẫn đều vô thức bắt đầu lay động cơ thể theo từng nhịp điệu của Tần Sơ Ảnh, trong miệng cũng ngâm nga phụ họa theo khúc điệu nỉ non, hoàn toàn không sao tự chủ nổi bản thân."
+    },
+    {
+      "para_id": "c0112p0025",
+      "index": 25,
+      "raw_zh": "他們已經完全融入了秦疏影帶來的意境之中，而他們對面的秦疏影則帶著他們，用不是眼睛的眼睛，觀看著天地之美。",
+      "translated_vi": "Bọn họ đã hoàn toàn đắm chìm vào cảnh giới tâm linh do Tần Sơ Ảnh dẫn dắt, còn Tần Sơ Ảnh đối diện thì như đang dắt tay họ, dùng đôi mắt vô hình vượt trên thị giác phàm tục để chiêm ngưỡng vẻ đẹp huyền diệu của đất trời."
+    },
+    {
+      "para_id": "c0112p0026",
+      "index": 26,
+      "raw_zh": "世界漸漸安靜了下來，就連時間都似乎靜止，蟲不鳴了，鳥也不再叫，萬籟俱靜，只剩下一臉虔誠的幾人在唱，在跳，在舞。",
+      "translated_vi": "Thế giới xung quanh dần chìm vào tĩnh mịch, ngay cả thời gian dường như cũng ngưng đọng lại, dế ngừng gáy, chim thôi kêu, vạn vật lặng ngắt như tờ, chỉ còn lại mấy con người với gương mặt thành kính đang cùng cất tiếng hát, cùng lắc lư, cùng say sưa trong điệu vũ."
+    },
+    {
+      "para_id": "c0112p0027",
+      "index": 27,
+      "raw_zh": "不知過了多久，火焰依舊在舞動，但秦疏影卻停下了身姿，在一個美妙古老的姿勢下靜止。",
+      "translated_vi": "Chẳng rõ đã qua bao lâu, đống lửa vẫn đang bập bùng nhảy nhót, nhưng Tần Sơ Ảnh đã dừng lại vũ điệu, đứng lặng trong một tư thế cổ xưa tuyệt mỹ."
+    },
+    {
+      "para_id": "c0112p0028",
+      "index": 28,
+      "raw_zh": "白色的月光灑在她潔白的皮膚上，相映成輝。",
+      "translated_vi": "Ánh trăng vằng vặc rọi xuống làn da trắng ngần của cô, tôn lên vẻ thanh khiết rạng ngời."
+    },
+    {
+      "para_id": "c0112p0029",
+      "index": 29,
+      "raw_zh": "面對這樣的舞姿，面對這猶如亙古走來的精靈一樣的女人，雲千峰內心洶湧澎湃，感慨萬千，匯成一句話：",
+      "translated_vi": "Đối diện với vũ điệu khuynh thành ấy, đối diện với người phụ nữ tựa như tinh linh bước ra từ thời hồng hoang, đáy lòng Vân Thiên Phong dâng trào sóng cuộn, muôn vàn cảm xúc lắng đọng lại thành một câu tự đáy lòng:"
+    },
+    {
+      "para_id": "c0112p0030",
+      "index": 30,
+      "raw_zh": "“這是個解鎖了所有姿勢的女人！讚！”",
+      "translated_vi": "“Đúng là người phụ nữ mở khóa được mọi tư thế! Đỉnh thật!”"
+    },
+    {
+      "para_id": "c0112p0031",
+      "index": 31,
+      "raw_zh": "一舞終了，也就在這一刻，孫倩微微的睜開了眼睛，迷茫的看了一眼周圍，嘟囔道：",
+      "translated_vi": "Một khúc vũ kết thúc, cũng chính vào khoảnh khắc này, Tôn Thiến khẽ mở mi mắt, ngơ ngác nhìn ngắm chung quanh, lẩm bẩm:"
+    },
+    {
+      "para_id": "c0112p0032",
+      "index": 32,
+      "raw_zh": "“誰一直在喊我回家？我好困，身上好痛啊，雲千峰！”",
+      "translated_vi": "“Ai cứ gọi tôi về nhà suốt thế nhỉ? Tôi buồn ngủ quá, khắp người đau nhức hết cả, anh Vân Thiên Phong ơi!”"
+    },
+    {
+      "para_id": "c0112p0033",
+      "index": 33,
+      "raw_zh": "說著，把腦袋找到雲千峰的大腿，枕上去，不出一秒，呼呼睡沉。",
+      "translated_vi": "Vừa nói dứt câu, cô liền rúc đầu vào đùi Vân Thiên Phong gối lên, chưa đầy một giây sau đã chìm sâu vào giấc ngủ say sưa, tiếng thở đều đều cất lên."
+    },
+    {
+      "para_id": "c0112p0034",
+      "index": 34,
+      "raw_zh": "孫倩，終於又是孫倩了。",
+      "translated_vi": "Tôn Thiến, rốt cuộc đã trở lại là chính Tôn Thiến."
+    },
+    {
+      "para_id": "c0112p0035",
+      "index": 35,
+      "raw_zh": "至於是不是秦疏影一舞招魂曲將孫倩喚醒，永遠也沒人確定，因為科學無法去驗證這件事，一如驗證不了經絡的存在。",
+      "translated_vi": "Còn việc có phải nhờ khúc múa gọi hồn của Tần Sơ Ảnh đánh thức Tôn Thiến hay không, sẽ vĩnh viễn chẳng ai có thể chứng minh chắc chắn, bởi lẽ khoa học không cách nào kiểm chứng được chuyện này, cũng giống như chẳng thể nào chứng minh bằng mắt thấy tai nghe về sự tồn tại của hệ kinh lạc trong cơ thể."
+    },
+    {
+      "para_id": "c0112p0036",
+      "index": 36,
+      "raw_zh": "但雲千峰確定一件事，那就是他們剛剛完成了一次極為完整的古老祝由，那已經被遺忘了的某種心靈。",
+      "translated_vi": "Nhưng Vân Thiên Phong dám khẳng định một điều, chính là bọn họ vừa hoàn thành một nghi thức Chúc Do thuật cổ xưa vô cùng trọn vẹn, đánh thức lại một tầng tâm linh dường như đã bị nhân loại lãng quên từ thuở xa xưa."
+    },
+    {
+      "para_id": "c0112p0037",
+      "index": 37,
+      "raw_zh": "秦疏影擦著額頭細汗，笑吟吟的來到雲千峰身前，問道：",
+      "translated_vi": "Tần Sơ Ảnh khẽ gạt mồ hôi lấm tấm trên trán, mỉm cười tươi tắn bước tới trước mặt Vân Thiên Phong, cất tiếng hỏi:"
+    },
+    {
+      "para_id": "c0112p0038",
+      "index": 38,
+      "raw_zh": "“怎麽樣？”",
+      "translated_vi": "“Thế nào rồi anh?”"
+    },
+    {
+      "para_id": "c0112p0039",
+      "index": 39,
+      "raw_zh": "雲千峰想到那些千奇百怪的動作和那堪稱一絕的柔韌性，舔了下嘴唇，道：",
+      "translated_vi": "Nghĩ tới những động tác kỳ ảo lạ lùng cùng độ dẻo dai đạt đến cảnh giới tuyệt đỉnh ban nãy, Vân Thiên Phong liếm môi một cái rồi nói:"
+    },
+    {
+      "para_id": "c0112p0040",
+      "index": 40,
+      "raw_zh": "“完美！完美到你真的把孫倩的魂引回來了！”",
+      "translated_vi": "“Hoàn hảo! Tuyệt vời đến mức cô thực sự đã gọi hồn Tôn Thiến trở về rồi đấy!”"
+    },
+    {
+      "para_id": "c0112p0041",
+      "index": 41,
+      "raw_zh": "秦疏影也看到孫倩醒了那一下，於是疑惑道：",
+      "translated_vi": "Tần Sơ Ảnh cũng trông thấy Tôn Thiến tỉnh lại chốc lát, bèn thắc mắc:"
+    },
+    {
+      "para_id": "c0112p0042",
+      "index": 42,
+      "raw_zh": "“伱說，祝由術真的有這種效果嗎？只是一曲一舞，真的很難聯想到這些。”",
+      "translated_vi": "“Anh bảo xem, Chúc Do thuật thực sự có hiệu nghiệm đến mức này sao? Chỉ một khúc hát một điệu múa, quả thực rất khó liên tưởng đến những điều thần bí như vậy.”"
+    },
+    {
+      "para_id": "c0112p0043",
+      "index": 43,
+      "raw_zh": "雲千峰搖了搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu đáp:"
+    },
+    {
+      "para_id": "c0112p0044",
+      "index": 44,
+      "raw_zh": "“別看我之前靠這個討生活，但真心話，我也不知道祝由術是不是真的管用，因為哪怕你成功了，也會懷疑那只是巧合，因為一直無法去證明它。",
+      "translated_vi": "“Đừng thấy trước kia tôi dựa vào nghề này kiếm cơm mà lầm, nói thật lòng thì chính tôi cũng chẳng dám chắc Chúc Do thuật có thực sự hữu hiệu hay không, bởi dẫu cô có thành công thì trong lòng vẫn hoài nghi đó chỉ là sự trùng hợp ngẫu nhiên, vì xưa nay chưa ai chứng minh được nó cả."
+    },
+    {
+      "para_id": "c0112p0045",
+      "index": 45,
+      "raw_zh": "但有一點可以肯定，那就是人的意識真的可以對這個世界產生立竿見影的同頻影響，雖然只是量子級的微觀影響，但微觀與宏觀，本就是這個世界的陰陽兩面，互相影響著。”",
+      "translated_vi": "Nhưng có một điểm chắc chắn, đó là ý thức của con người thực sự có thể tạo ra tác động đồng tần suất tức thì đối với thế giới này, dẫu chỉ là ảnh hưởng vi mô ở cấp độ lượng tử, song vi mô và vĩ mô vốn là hai mặt âm dương của vũ trụ, luôn tác động qua lại lẫn nhau.”"
+    },
+    {
+      "para_id": "c0112p0046",
+      "index": 46,
+      "raw_zh": "正說著，清風襲過，一陣輕微的“吱嘎”聲傳來，聲音不是很大。",
+      "translated_vi": "Đang mải trò chuyện, một cơn gió thoảng lướt qua, kèm theo tiếng cọt kẹt khe khẽ truyền tới, âm thanh không quá lớn."
+    },
+    {
+      "para_id": "c0112p0047",
+      "index": 47,
+      "raw_zh": "秦疏影側耳，發現聲音是艦船上面傳來，於是疑惑道：",
+      "translated_vi": "Tần Sơ Ảnh nghiêng tai lắng nghe, nhận ra âm thanh phát ra từ phía con tàu chiến, bèn nghi hoặc:"
+    },
+    {
+      "para_id": "c0112p0048",
+      "index": 48,
+      "raw_zh": "“之前那麽大的風，也沒聽到艦船搖晃的聲響，這怎麽好像要散架了？”",
+      "translated_vi": "“Trước đó gió to như thế cũng chẳng nghe thấy tiếng tàu lắc lư, sao bây giờ trông như sắp rã khung đến nơi vậy?”"
+    },
+    {
+      "para_id": "c0112p0049",
+      "index": 49,
+      "raw_zh": "雲千峰想到自己殺了艦船內所有生命，心下一驚，忙說道：",
+      "translated_vi": "Vân Thiên Phong sực nhớ ra mình vừa tiêu diệt sạch bách toàn bộ sinh mệnh bên trong tàu, trong lòng giật thót, vội nói:"
+    },
+    {
+      "para_id": "c0112p0050",
+      "index": 50,
+      "raw_zh": "“會不會是因為我把那些怪物全殺了？艦船沒有了那些生命，就好像人沒了生命變成屍體，會快速腐朽潰爛？”",
+      "translated_vi": "“Có khi nào là do tôi đã trừ khử hết đám quái vật kia rồi không? Con tàu một khi mất đi những sinh mệnh đó thì chẳng khác nào cơ thể con người tắt thở hóa thành tử thi, sẽ nhanh chóng mục rữa tan rã?”"
+    },
+    {
+      "para_id": "c0112p0051",
+      "index": 51,
+      "raw_zh": "雖然無法確定，但幾個人覺得這種可能性極大。",
+      "translated_vi": "Tuy chưa dám khẳng định, nhưng mấy người đều cảm thấy khả năng này là cực kỳ cao."
+    },
+    {
+      "para_id": "c0112p0052",
+      "index": 52,
+      "raw_zh": "當下也來不及用擔架，雲千峰直接抱起光溜溜的孫倩，快步跑到山坡上，然後平步走到甲板上。",
+      "translated_vi": "Lúc này chẳng còn thời gian đâu mà làm cáng khiêng, Vân Thiên Phong liền bế bổng Tôn Thiến đang không một mảnh vải che thân lên, sải chân chạy vội lên sườn dốc rồi bước thẳng lên boong tàu."
+    },
+    {
+      "para_id": "c0112p0053",
+      "index": 53,
+      "raw_zh": "說來也怪，當他抱著孫倩站在甲板上那一刻後，艦船上面的吱嘎聲竟然真的就消失了。",
+      "translated_vi": "Nói ra cũng thật kỳ lạ, đúng vào khoảnh khắc anh ôm Tôn Thiến đứng trên boong tàu, âm thanh cọt kẹt trên thân tàu thế mà lại im bặt như chưa từng xuất hiện."
+    },
+    {
+      "para_id": "c0112p0054",
+      "index": 54,
+      "raw_zh": "這下他們不信都不成了。",
+      "translated_vi": "Lần này thì bọn họ không tin cũng không được."
+    },
+    {
+      "para_id": "c0112p0055",
+      "index": 55,
+      "raw_zh": "雲千峰抱著孫倩，看著趕上來的秦疏影等人苦笑道：",
+      "translated_vi": "Vân Thiên Phong ôm Tôn Thiến, nhìn Tần Sơ Ảnh cùng mọi người vừa chạy tới nơi, cười khổ bảo:"
+    },
+    {
+      "para_id": "c0112p0056",
+      "index": 56,
+      "raw_zh": "“這下恐怕糟了，孫倩可能要一輩子留在這艦船內才行了。”",
+      "translated_vi": "“Phen này e là hỏng bét rồi, Tôn Thiến có lẽ phải ở lại trong con tàu này cả đời mất thôi.”"
+    },
+    {
+      "para_id": "c0112p0057",
+      "index": 57,
+      "raw_zh": "別看張敏之前和孫倩吵得很凶，甚至都動了手，那是因為張敏懷疑孫倩夥同李銀赫要把自己賣了，傷心自己被朋友騙了。",
+      "translated_vi": "Đừng nhìn Trương Mẫn trước đó cãi nhau ầm ĩ với Tôn Thiến đến mức suýt động tay động chân, ấy là vì cô nàng ngờ vực Tôn Thiến đồng lõa với Lý Ngân Hách muốn bán đứng mình, đau lòng vì bị bạn bè phản bội."
+    },
+    {
+      "para_id": "c0112p0058",
+      "index": 58,
+      "raw_zh": "如今誤會解除，張敏自然還是最關心孫倩的人。",
+      "translated_vi": "Nay hiểu lầm đã được hóa giải, Trương Mẫn đương nhiên vẫn là người quan tâm tới Tôn Thiến hơn cả."
+    },
+    {
+      "para_id": "c0112p0059",
+      "index": 59,
+      "raw_zh": "她忙問道：",
+      "translated_vi": "Cô vội vã hỏi dồn:"
+    },
+    {
+      "para_id": "c0112p0060",
+      "index": 60,
+      "raw_zh": "“為什麽？”",
+      "translated_vi": "“Tại sao lại thế?”"
+    },
+    {
+      "para_id": "c0112p0061",
+      "index": 61,
+      "raw_zh": "雲千峰一臉無奈，道：",
+      "translated_vi": "Vân Thiên Phong lộ vẻ mặt bất đắc dĩ, đáp:"
+    },
+    {
+      "para_id": "c0112p0062",
+      "index": 62,
+      "raw_zh": "“我殺的太乾淨了，以至於代替孫倩三魂之一爽靈的那個東西，現在是與這艦船唯一共生的生命體，那個東西和艦船是相互依靠存在的，艦船毀了，那東西也就消失了，那麽孫倩就會失去爽靈這一魂。”",
+      "translated_vi": "“Tôi lỡ tay quét sạch quá mức, thành thử thứ thay thế cho Sảng Linh - một trong ba hồn của Tôn Thiến - hiện tại là sinh mệnh thể duy nhất còn cộng sinh với con tàu này. Thứ đó và con tàu nương tựa lẫn nhau mà tồn tại, con tàu hủy hoại thì thứ đó cũng tiêu tán, đồng nghĩa với việc Tôn Thiến sẽ vĩnh viễn mất đi hồn vía Sảng Linh.”"
+    },
+    {
+      "para_id": "c0112p0063",
+      "index": 63,
+      "raw_zh": "張敏不知道失去爽靈的後果，急問道：",
+      "translated_vi": "Trương Mẫn chẳng rõ hậu quả của việc mất đi Sảng Linh ghê gớm cỡ nào, lo lắng hỏi:"
+    },
+    {
+      "para_id": "c0112p0064",
+      "index": 64,
+      "raw_zh": "“那樣的話，孫倩會受到什麽影響？”",
+      "translated_vi": "“Nếu như vậy thì Tôn Thiến sẽ bị ảnh hưởng thế nào?”"
+    },
+    {
+      "para_id": "c0112p0065",
+      "index": 65,
+      "raw_zh": "雲千峰思索了一下，想著怎麽給她解釋這個後果，於是沉吟道：",
+      "translated_vi": "Vân Thiên Phong ngẫm nghĩ một lát, cân nhắc cách giải thích cặn kẽ hậu quả cho cô hiểu, bèn trầm giọng nói:"
+    },
+    {
+      "para_id": "c0112p0066",
+      "index": 66,
+      "raw_zh": "“在中醫的理論裡，人之所以能夠思維和感受，不是因為大腦心臟等等，而是不在體內的神，也就是那句舉頭三尺有神靈。",
+      "translated_vi": "“Trong lý luận Trung y, con người sở dĩ có thể tư duy và cảm nhận được không hoàn toàn dựa vào não bộ hay tim gan, mà phụ thuộc vào ‘Thần’ ngự bên ngoài thể xác, chính là câu nói dân gian ‘trên đầu ba thước có thần linh’."
+    },
+    {
+      "para_id": "c0112p0067",
+      "index": 67,
+      "raw_zh": "這句話說的不是現在人理解的什麽舉頭三尺有神監視人類一舉一動，不是這樣的，這個神指的是精氣神裡面的神，是你的思維所在，智慧所在。",
+      "translated_vi": "Câu này không phải theo nghĩa người đời nay thường hiểu là có thần thánh vô hình giám sát nhất cử nhất động của con người, hoàn toàn không phải. Chữ ‘Thần’ ở đây chỉ về Thần trong ‘Tinh - Khí - Thần’, là nơi cư ngụ của tư duy, cội nguồn của trí tuệ."
+    },
+    {
+      "para_id": "c0112p0068",
+      "index": 68,
+      "raw_zh": "這個“神”就好像網絡的服務器，而人體是接收服務器信息的智能手機，爽靈就是無線信號，信號越好，人就反應快，也聰明，信號不好就反應遲鈍，有些傻。",
+      "translated_vi": "Chữ ‘Thần’ này ví như máy chủ của mạng internet, còn cơ thể con người là chiếc điện thoại thông minh tiếp nhận tín hiệu từ máy chủ, còn Sảng Linh chính là sóng vô tuyến wifi. Sóng càng khỏe thì con người càng nhanh nhạy, thông minh; sóng chập chờn thì phản ứng chậm chạp, ngờ nghệch lú lẫn."
+    },
+    {
+      "para_id": "c0112p0069",
+      "index": 69,
+      "raw_zh": "要是沒信號了，就會徹底自閉，對外所有信息無知無覺，拉屎拉尿都無法控制。”",
+      "translated_vi": "Nếu mất hẳn sóng tín hiệu, người đó sẽ rơi vào trạng thái bế tắc tự kỷ hoàn toàn, mất hết cảm giác với thế giới bên ngoài, đến cả việc đại tiểu tiện cũng chẳng thể tự chủ.”"
+    },
+    {
+      "para_id": "c0112p0070",
+      "index": 70,
+      "raw_zh": "千千忙道：",
+      "translated_vi": "Thiên Thiên vội hỏi:"
+    },
+    {
+      "para_id": "c0112p0071",
+      "index": 71,
+      "raw_zh": "“那能不能在那個代替孫倩爽靈的東西死了後，再把孫倩原本的爽靈叫魂叫回來？”",
+      "translated_vi": "“Vậy liệu có thể đợi sau khi thứ thay thế Sảng Linh kia chết đi, chúng ta lại làm phép gọi hồn để gọi Sảng Linh ban đầu của chị Tôn Thiến quay về không?”"
+    },
+    {
+      "para_id": "c0112p0072",
+      "index": 72,
+      "raw_zh": "雲千峰苦笑，道：",
+      "translated_vi": "Vân Thiên Phong cười khổ đáp:"
+    },
+    {
+      "para_id": "c0112p0073",
+      "index": 73,
+      "raw_zh": "“後天童子背上了是送不走的，它以後就是孫倩的爽靈，不會對孫倩的記憶和行為產生影響，只是一條網線，但換不掉。”",
+      "translated_vi": "“Hậu Thiên Đồng Tử một khi đã cõng lên lưng thì không đuổi đi được nữa. Sau này nó sẽ đóng vai trò là Sảng Linh của Tôn Thiến, không can thiệp vào ký ức hay hành vi của cô ấy, chỉ đơn thuần như một sợi dây cáp mạng, nhưng không thể thay thế bằng dây khác.”"
+    },
+    {
+      "para_id": "c0112p0074",
+      "index": 74,
+      "raw_zh": "三個女人全都無語了，她們也完全想不到如何處理這件事。",
+      "translated_vi": "Ba người phụ nữ nghe xong đều chết lặng, họ hoàn toàn không nghĩ ra cách nào để giải quyết rắc rối này."
+    },
+    {
+      "para_id": "c0112p0075",
+      "index": 75,
+      "raw_zh": "誰也想不到，雲千峰給孫倩吊一下命，會弄出這麽個連鎖反應。",
+      "translated_vi": "Chẳng ai ngờ tới việc Vân Thiên Phong tìm cách giữ lại tính mạng cho Tôn Thiến lại dẫn đến chuỗi phản ứng dây chuyền oái oăm nhường này."
+    },
+    {
+      "para_id": "c0112p0076",
+      "index": 76,
+      "raw_zh": "現在，要麽孫倩甘心做一個癡呆，要麽就一輩子留在艦船上做一個心智正常的人。",
+      "translated_vi": "Giờ đây, hoặc là Tôn Thiến chấp nhận trở thành một kẻ ngớ ngẩn đần độn, hoặc là cả đời phải ở lại trên con tàu chiến này để làm một người bình thường tỉnh táo."
+    },
+    {
+      "para_id": "c0112p0077",
+      "index": 77,
+      "raw_zh": "選擇權在孫倩身上嗎？",
+      "translated_vi": "Chọn quyền có nằm ở bản thân Tôn Thiến không?"
+    },
+    {
+      "para_id": "c0112p0078",
+      "index": 78,
+      "raw_zh": "秦疏影看著雲千峰注視孫倩的眼睛，就那麽一瞬間她發覺，孫倩可能在很早之前就已經沒有選擇了，選擇權一直都在他手裡。",
+      "translated_vi": "Tần Sơ Ảnh nhìn sâu vào đôi mắt Vân Thiên Phong đang dõi theo Tôn Thiến, chỉ trong một khoảnh khắc ấy cô bỗng nhận ra, có lẽ từ rất sớm trước đó Tôn Thiến đã chẳng còn cơ hội lựa chọn nữa rồi, chọn quyền vốn luôn nằm gọn trong tay người đàn ông này."
+    },
+    {
+      "para_id": "c0112p0079",
+      "index": 79,
+      "raw_zh": "“他，到底要幹什麽？”",
+      "translated_vi": "“Anh ấy rốt cuộc muốn làm gì đây?”"
+    }
+  ]
+}

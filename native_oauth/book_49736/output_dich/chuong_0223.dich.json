@@ -1,0 +1,721 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 223,
+  "title": "Chương 223: Khúc Nhạc Đệm",
+  "total_paragraphs": 118,
+  "translated_paragraphs": 118,
+  "source_hash": "380727b1f112bcd455b7590bddb4206b57b7e27cc50850a0a73079cdc6c22dac",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0223p0001",
+      "index": 1,
+      "raw_zh": "第223章 小插曲",
+      "translated_vi": "Chương 223: Khúc Nhạc Đệm"
+    },
+    {
+      "para_id": "c0223p0002",
+      "index": 2,
+      "raw_zh": "飛機是M國西銳造，號稱“空中寶馬”的小型飛機。",
+      "translated_vi": "Chiếc máy bay này do hãng Cirrus của Mỹ sản xuất, là dòng phi cơ cỡ nhỏ được mệnh danh là “BMW trên không”."
+    },
+    {
+      "para_id": "c0223p0003",
+      "index": 3,
+      "raw_zh": "既可以在八千米高空飛行，也可以在二百米的低空飛行，性能非常卓越。",
+      "translated_vi": "Nó vừa có thể bay lượn ở độ cao tám ngàn mét trên tầng không, lại vừa có thể bay là là ở độ cao hai trăm mét tầm thấp, tính năng vô cùng vượt trội."
+    },
+    {
+      "para_id": "c0223p0004",
+      "index": 4,
+      "raw_zh": "尤其是它的滿油續航能力非常強大，達到了兩千公裡以上，最牛的是還有整機降落傘，遇到事故，不需要乘客跳傘，飛機直接傘降。",
+      "translated_vi": "Đặc biệt là tầm bay khi nạp đầy nhiên liệu của nó cực kỳ ấn tượng, đạt tới hơn hai ngàn cây số, đỉnh nhất là còn trang bị hệ thống dù cứu hộ toàn thân phi cơ, hễ gặp sự cố thì hành khách chẳng cần phải nhảy dù mà cả chiếc máy bay sẽ bung dù hạ cánh thẳng xuống."
+    },
+    {
+      "para_id": "c0223p0005",
+      "index": 5,
+      "raw_zh": "這架飛機是這五個學生之一，一個M裔華夏姑娘，獨自花錢包下的。",
+      "translated_vi": "Chiếc phi cơ này do một trong năm sinh viên, một cô gái người Mỹ gốc Hoa, tự bỏ tiền túi thuê bao trọn gói."
+    },
+    {
+      "para_id": "c0223p0006",
+      "index": 6,
+      "raw_zh": "她年紀輕輕，最多二十出頭，模樣不確定好看不好看，因為畫著很濃的歐式妝，一身名牌。",
+      "translated_vi": "Cô ta tuổi đời còn rất trẻ, cùng lắm chỉ ngoài đôi mươi, dung mạo chẳng rõ xấu đẹp ra sao vì điểm một lớp trang điểm đậm phong cách phương Tây, dát kín toàn hàng hiệu từ đầu đến chân."
+    },
+    {
+      "para_id": "c0223p0007",
+      "index": 7,
+      "raw_zh": "只是那一身衣服和包包的價格，就絕不是個小數目，也難怪她能雇傭得起一個小時燃油就要將近兩千美刀的私人飛機。",
+      "translated_vi": "Chỉ riêng giá trị của bộ cánh và chiếc túi xách đắt đỏ kia đã tuyệt đối không phải con số nhỏ, hèn chi cô ta đủ sức bao trọn chiếc chuyên cơ tư nhân ngốn gần hai ngàn đô la tiền nhiên liệu cho mỗi giờ bay."
+    },
+    {
+      "para_id": "c0223p0008",
+      "index": 8,
+      "raw_zh": "很難想象，一個還沒工作的學生就能有這麽大的手筆，畢竟據說她的父母都在華夏工作，號稱兩袖清風，只有她自己一個人在M國生活。",
+      "translated_vi": "Thật khó tưởng tượng một cô sinh viên chưa đi làm lại có thể vung tay hào phóng đến thế, bởi nghe đâu cha mẹ cô ta đều đang công tác ở Trung Quốc, lại còn nổi danh hai tay áo thanh phong liêm khiết một đời, chỉ có một mình cô ta sinh sống bên Mỹ."
+    },
+    {
+      "para_id": "c0223p0009",
+      "index": 9,
+      "raw_zh": "她的名字叫荷茜.許，想來應該是姓許的。",
+      "translated_vi": "Cô ta tên là Hotsey Hứa, nghĩ bụng hẳn là mang họ Hứa."
+    },
+    {
+      "para_id": "c0223p0010",
+      "index": 10,
+      "raw_zh": "讓雲千峰有些高興的是，這五個學生裡，有三個M裔華夏人，見到一樣發色一樣黑眸的人，總是讓他有那種離家很近的感覺。",
+      "translated_vi": "Điều khiến Vân Thiên Phong có đôi chút vui mừng là trong năm bạn sinh viên này có tới ba người Mỹ gốc Hoa, được nhìn thấy những người cùng màu tóc đen, cùng ánh mắt đen luôn mang lại cho anh cảm giác như đang ở rất gần quê nhà."
+    },
+    {
+      "para_id": "c0223p0011",
+      "index": 11,
+      "raw_zh": "另外兩個華夏人，一個叫蘇菲.鍾，一樣的歐式妝容，甚至身材也刻意填充亦或是針對鍛煉，弄成了西式身材。",
+      "translated_vi": "Hai người gốc Hoa còn lại, một cô gái tên là Sophie Chung, cũng lối trang điểm đậm nét Tây phương, thậm chí thân hình dường như cũng được can thiệp thẩm mỹ tiêm độn hoặc tập luyện chuyên biệt để tạo phom dáng nở nang theo chuẩn phương Tây."
+    },
+    {
+      "para_id": "c0223p0012",
+      "index": 12,
+      "raw_zh": "一個叫傑裡.周，乾瘦的一個男孩子，煙癮很大，話嘮的很。",
+      "translated_vi": "Một cậu trai tên Jerry Chu, dáng người gầy gò khẳng khiu, nghiện thuốc lá nặng và đặc biệt là cực kỳ lắm lời."
+    },
+    {
+      "para_id": "c0223p0013",
+      "index": 13,
+      "raw_zh": "另外兩個學生，都是M國人，一個是琳達.馬瑞安，也就是發現南極時空漩渦的馬瑞安的女兒。",
+      "translated_vi": "Hai sinh viên còn lại đều là người Mỹ bản xứ, một người là Linda Marian, tức con gái của Marian - người từng phát hiện ra vòng xoáy không thời gian ở Nam Cực năm xưa."
+    },
+    {
+      "para_id": "c0223p0014",
+      "index": 14,
+      "raw_zh": "一個叫霍曼，戴著眼鏡，但卻有著一身健美的肌肉，很受兩個華裔女孩歡迎，一直圍著他打轉。",
+      "translated_vi": "Người kia tên là Homan, đeo kính cận nhưng lại sở hữu thân hình cơ bắp cuồn cuộn vạm vỡ, rất được hai cô gái gốc Hoa mến mộ và luôn quấn quýt xoay quanh."
+    },
+    {
+      "para_id": "c0223p0015",
+      "index": 15,
+      "raw_zh": "駕駛員叫傑克，四十多歲，看起來老練成熟，話不多但是給人很踏實的感覺。",
+      "translated_vi": "Viên phi công tên là Jack, tầm hơn bốn mươi tuổi, trông rất lão luyện chững chạc, ít nói nhưng tạo cho người đối diện cảm giác vô cùng vững tâm tin cậy."
+    },
+    {
+      "para_id": "c0223p0016",
+      "index": 16,
+      "raw_zh": "再加上雲千峰，飛機的乘客一共便是這七個人。",
+      "translated_vi": "Cộng thêm cả Vân Thiên Phong nữa thì toàn bộ hành khách trên chuyến bay tổng cộng vỏn vẹn bảy người."
+    },
+    {
+      "para_id": "c0223p0017",
+      "index": 17,
+      "raw_zh": "對於滿載十人的小型飛機來說，還是非常寬敞的。",
+      "translated_vi": "Đối với chiếc máy bay cỡ nhỏ chở tối đa mười người này thì không gian bên trong vẫn còn hết sức rộng rãi."
+    },
+    {
+      "para_id": "c0223p0018",
+      "index": 18,
+      "raw_zh": "飛機內部和豪華房車差不多。",
+      "translated_vi": "Nội thất máy bay chẳng khác nào một chiếc xe nhà lưu động hạng sang."
+    },
+    {
+      "para_id": "c0223p0019",
+      "index": 19,
+      "raw_zh": "能用實木的地方，一定是巴西花梨，能用真皮的地方，清一色的鱷魚皮，能用中文的地方，一定還是英文。",
+      "translated_vi": "Những chỗ nào dùng gỗ thịt thì nhất định phải là gỗ cẩm lai Brazil, chỗ nào bọc da thật thì toàn bộ là da cá sấu thượng hạng, còn chỗ nào có thể ghi tiếng Trung thì chắc chắn vẫn phải đề toàn tiếng Anh."
+    },
+    {
+      "para_id": "c0223p0020",
+      "index": 20,
+      "raw_zh": "雲千峰不是最後一個到的，但他一上飛機，就看到了兩雙極不耐煩的目光。",
+      "translated_vi": "Vân Thiên Phong không phải là người bước lên máy bay muộn nhất, nhưng vừa đặt chân lên khoang, anh đã bắt gặp hai cặp mắt đầy vẻ khó chịu và mất kiên nhẫn."
+    },
+    {
+      "para_id": "c0223p0021",
+      "index": 21,
+      "raw_zh": "是荷茜.許和蘇菲.鍾的目光。",
+      "translated_vi": "Đó chính là ánh nhìn đến từ Hotsey Hứa và Sophie Chung."
+    },
+    {
+      "para_id": "c0223p0022",
+      "index": 22,
+      "raw_zh": "這讓雲千峰因為飛機內有同樣血脈的人而小小雀躍的心，一下消停了。",
+      "translated_vi": "Điều này khiến cho chút niềm vui nho nhỏ trong lòng Vân Thiên Phong khi thấy những người chung dòng máu đồng bào lập tức tan biến sạch trơn."
+    },
+    {
+      "para_id": "c0223p0023",
+      "index": 23,
+      "raw_zh": "那種莫名的鄙視，雲千峰可以清晰的感受到，只不過他不明白這是為什麽，因為他們之前從不曾認識，這很沒來由。",
+      "translated_vi": "Sự khinh miệt vô cớ ấy, Vân Thiên Phong có thể cảm nhận một cách rõ mồn một, chỉ là anh không tài nào hiểu nổi vì cớ gì, bởi trước đó đôi bên chưa từng quen biết, sự thù ghét này quả thực vô căn cứ."
+    },
+    {
+      "para_id": "c0223p0024",
+      "index": 24,
+      "raw_zh": "於是他很自然的選擇坐在了飛機最後面的座位，保持著和那幾個學生的距離。",
+      "translated_vi": "Thế là anh rất tự nhiên chọn ngồi vào hàng ghế cuối cùng của khoang máy bay, giữ một khoảng cách nhất định với mấy cô cậu sinh viên kia."
+    },
+    {
+      "para_id": "c0223p0025",
+      "index": 25,
+      "raw_zh": "雲千峰沒有表達自己的任何情緒，淡然的拿出一本書，安靜的看著。",
+      "translated_vi": "Vân Thiên Phong không hề biểu lộ bất kỳ cảm xúc nào ra mặt, thản nhiên rút ra một cuốn sách, lẳng lặng cúi đầu đọc."
+    },
+    {
+      "para_id": "c0223p0026",
+      "index": 26,
+      "raw_zh": "這是成熟人的選擇。",
+      "translated_vi": "Đây là sự lựa chọn của người trưởng thành."
+    },
+    {
+      "para_id": "c0223p0027",
+      "index": 27,
+      "raw_zh": "一個人成熟的標志就是，能憋得住尿，能管得住嘴。",
+      "translated_vi": "Dấu hiệu cho thấy một người đã trưởng thành chính là: nhịn được buồn tiểu, và quản được cái miệng."
+    },
+    {
+      "para_id": "c0223p0028",
+      "index": 28,
+      "raw_zh": "至於那兩個對雲千峰情緒不是很好的女生，應該屬於不成熟的行列。",
+      "translated_vi": "Còn về hai cô gái mang thái độ chẳng mấy thiện cảm với Vân Thiên Phong kia, hẳn là thuộc vào diện chưa trưởng thành."
+    },
+    {
+      "para_id": "c0223p0029",
+      "index": 29,
+      "raw_zh": "什麽是不成熟？那就是憋得住尿，但管不住嘴。",
+      "translated_vi": "Thế nào là chưa trưởng thành? Chính là nhịn được buồn tiểu, nhưng lại không quản nổi cái mồm."
+    },
+    {
+      "para_id": "c0223p0030",
+      "index": 30,
+      "raw_zh": "那倆女生剛才一定是喝了冷飲，看她們的坐姿，還有大腿肌肉的緊繃程度，雲千峰一眼就能看出來，她們想上廁所了，但不知為什麽，一直不肯去，就在那裡忍著。",
+      "translated_vi": "Hai cô nàng ban nãy chắc chắn đã nốc đồ uống lạnh, nhìn tư thế ngồi cùng độ căng cứng cơ đùi của họ là Vân Thiên Phong có thể nhìn thấu ngay bọn họ đang buồn đi vệ sinh, nhưng chẳng hiểu sao cứ nhất quyết không chịu đi, cứ thế ngồi bấm bụng nhịn."
+    },
+    {
+      "para_id": "c0223p0031",
+      "index": 31,
+      "raw_zh": "還在那用英語說悄悄話，只不過那所謂悄悄話，聲音有點大。",
+      "translated_vi": "Miệng lại còn xì xào to nhỏ bằng tiếng Anh, có điều cái gọi là lời thì thầm to nhỏ ấy âm lượng lại hơi bị lớn."
+    },
+    {
+      "para_id": "c0223p0032",
+      "index": 32,
+      "raw_zh": "“荷茜，那個人是誰？”",
+      "translated_vi": "“Hotsey, người kia là ai thế?”"
+    },
+    {
+      "para_id": "c0223p0033",
+      "index": 33,
+      "raw_zh": "荷茜許搖頭，冷冷道：",
+      "translated_vi": "Hotsey Hứa lắc đầu, lạnh giọng đáp:"
+    },
+    {
+      "para_id": "c0223p0034",
+      "index": 34,
+      "raw_zh": "“不認識，是我爹哋打電話要我必須帶上他，聽我爸的語氣，估計是哪個窮比有點人際關系，我爸那人駁不開面子唄，支N人的劣根。”",
+      "translated_vi": "“Không quen, là daddy của tao gọi điện dặn nhất định phải cho hắn đi ké. Nghe giọng điệu của bố tao thì đoán chừng là thằng nghèo kiết xác nào đó có chút quan hệ quen biết, bố tao nể nang không nỡ chối từ mặt mũi ấy mà, đúng là thói xấu cố hữu của đám người Tàu.”"
+    },
+    {
+      "para_id": "c0223p0035",
+      "index": 35,
+      "raw_zh": "蘇菲鍾低聲道：",
+      "translated_vi": "Sophie Chung hạ giọng hùa theo:"
+    },
+    {
+      "para_id": "c0223p0036",
+      "index": 36,
+      "raw_zh": "“我最瞧不起這種靠關系的人，尤其還是靠關系佔別人便宜。”",
+      "translated_vi": "“Tao khinh nhất cái loại người dựa dẫm vào quan hệ kiểu này, đặc biệt là cậy quan hệ để chiếm đoạt lợi ích của người khác.”"
+    },
+    {
+      "para_id": "c0223p0037",
+      "index": 37,
+      "raw_zh": "見雲千峰沒有任何反應，她們確定，雲千峰一定是聽不懂英文的下等人，於是愈加肆無忌憚起來。",
+      "translated_vi": "Thấy Vân Thiên Phong chẳng có bất kỳ phản ứng nào, bọn họ càng đinh ninh rằng Vân Thiên Phong chắc chắn là hạng hạ đẳng không biết nửa chữ tiếng Anh, thế là càng lúc càng ăn nói ngang ngược không chút kiêng dè."
+    },
+    {
+      "para_id": "c0223p0038",
+      "index": 38,
+      "raw_zh": "傑裡周英文不是很好，想湊合一起聊，但是語速跟不上，就在旁邊當聽客，很顯然他很想吸引三個女生的注意力，但是奈何實力不濟。",
+      "translated_vi": "Tiếng Anh của Jerry Chu không được trôi chảy cho lắm, muốn góp chuyện tán gẫu cùng nhưng tốc độ nói không theo kịp, đành ngồi một bên làm chân hóng hớt. Rõ ràng cậu ta rất muốn thu hút sự chú ý của ba cô gái, ngặt nỗi thực lực không đủ."
+    },
+    {
+      "para_id": "c0223p0039",
+      "index": 39,
+      "raw_zh": "在雲千峰看來，傑裡周連不成熟都算不上，堪稱幼稚，因為他一會功夫已經跑了三次廁所，既憋不住尿，也管不住嘴。",
+      "translated_vi": "Trong mắt Vân Thiên Phong, Jerry Chu thậm chí còn chẳng được xếp vào hàng chưa trưởng thành, mà phải gọi là ấu trĩ con nít, bởi mới chốc lát mà cậu ta đã chạy tót vào nhà vệ sinh tới ba lần, vừa không nhịn nổi tiểu tiện lại vừa chẳng quản nổi cái mồm."
+    },
+    {
+      "para_id": "c0223p0040",
+      "index": 40,
+      "raw_zh": "英俊強壯的霍曼來了。",
+      "translated_vi": "Anh chàng Homan tuấn tú vạm vỡ bước tới."
+    },
+    {
+      "para_id": "c0223p0041",
+      "index": 41,
+      "raw_zh": "雲千峰終於明白，為啥蘇菲鍾和荷茜許寧可憋著也不去上廁所，就是為了等這個帥氣的霍曼。",
+      "translated_vi": "Bấy giờ Vân Thiên Phong mới hiểu ra vì sao Sophie Chung và Hotsey Hứa thà bấm bụng nhịn tiểu chứ nhất quyết không chịu vào nhà vệ sinh, hóa ra là để túc trực chờ đợi anh chàng Homan bảnh bao này."
+    },
+    {
+      "para_id": "c0223p0042",
+      "index": 42,
+      "raw_zh": "很顯然，兩女都喜歡這個帥氣的霍曼，所以生怕自己去廁所，給了別人可趁之機。",
+      "translated_vi": "Rõ ràng cả hai ả đều mê mẩn anh chàng Homan đẹp trai, nên sợ chỉ cần mình vừa rời gót đi vệ sinh là sẽ tạo cơ hội cho đối phương thừa cơ chen chân vào."
+    },
+    {
+      "para_id": "c0223p0043",
+      "index": 43,
+      "raw_zh": "典型的塑料姐妹。",
+      "translated_vi": "Đúng chuẩn cặp chị em cây khế bằng mặt không bằng lòng."
+    },
+    {
+      "para_id": "c0223p0044",
+      "index": 44,
+      "raw_zh": "霍曼很受歡迎，三個女生見到他就滿面笑容，有聊不完的話題，雲千峰看著那倆憋尿的，都替她們肚子疼。",
+      "translated_vi": "Homan rất được săn đón, ba cô gái vừa thấy hắn là nét mặt rạng rỡ tươi cười, chuyện trò rôm rả không ngớt, Vân Thiên Phong ngồi đằng xa nhìn hai ả đang gồng mình nhịn tiểu mà cũng thấy thắt cả ruột gan giùm cho họ."
+    },
+    {
+      "para_id": "c0223p0045",
+      "index": 45,
+      "raw_zh": "霍曼有多歡樂，傑裡周就有多失落。",
+      "translated_vi": "Homan càng hân hoan rộn rã bao nhiêu thì Jerry Chu lại càng hụt hẫng tủi thân bấy nhiêu."
+    },
+    {
+      "para_id": "c0223p0046",
+      "index": 46,
+      "raw_zh": "自覺無趣的他，最後隻好灰溜溜的也來到飛機後面的座位，默默的點了根煙，同時還友好的發了一根給雲千峰：",
+      "translated_vi": "Cảm thấy tự chuốc bẽ bàng, cậu ta đành cụp đuôi lủi thủi đi về hàng ghế phía sau máy bay, lẳng lặng châm một điếu thuốc, đồng thời cũng rất thân thiện mời Vân Thiên Phong một điếu:"
+    },
+    {
+      "para_id": "c0223p0047",
+      "index": 47,
+      "raw_zh": "“哥們兒，來根，藍利群，我在家鄉帶來的。”",
+      "translated_vi": "“Ông bạn, làm một điếu nhé, Lợi Quần xanh, tôi xách từ quê nhà sang đấy.”"
+    },
+    {
+      "para_id": "c0223p0048",
+      "index": 48,
+      "raw_zh": "雲千峰接過煙，笑著道謝。",
+      "translated_vi": "Vân Thiên Phong đón lấy điếu thuốc, mỉm cười nói lời cảm ơn."
+    },
+    {
+      "para_id": "c0223p0049",
+      "index": 49,
+      "raw_zh": "傑裡周看雲千峰不說話，就笑道：",
+      "translated_vi": "Jerry Chu thấy Vân Thiên Phong ít nói, bèn cười hỏi:"
+    },
+    {
+      "para_id": "c0223p0050",
+      "index": 50,
+      "raw_zh": "“不會英文？”",
+      "translated_vi": "“Không biết tiếng Anh à?”"
+    },
+    {
+      "para_id": "c0223p0051",
+      "index": 51,
+      "raw_zh": "雲千峰點了點頭，道：",
+      "translated_vi": "Vân Thiên Phong gật đầu, bảo:"
+    },
+    {
+      "para_id": "c0223p0052",
+      "index": 52,
+      "raw_zh": "“上學學的那點，早還給老師了。”",
+      "translated_vi": "“Chút kiến thức học hồi trên ghế nhà trường, tôi trả sạch cho thầy cô từ lâu rồi.”"
+    },
+    {
+      "para_id": "c0223p0053",
+      "index": 53,
+      "raw_zh": "傑裡周苦著臉，道：",
+      "translated_vi": "Jerry Chu méo mặt than thở:"
+    },
+    {
+      "para_id": "c0223p0054",
+      "index": 54,
+      "raw_zh": "“我也說不利索，我壓根就沒想過來這破壁地方留學，還特麽高能粒子，那玩意到底是個啥？我在家多瀟灑啊？房子好幾套，好車隨便開，不掛牌子都行，約酒不斷，到了這地方，就剩下鬧心了。”",
+      "translated_vi": "“Tôi nói cũng chẳng trôi chảy gì, tôi vốn chẳng hề muốn mò sang cái xó khỉ ho cò gáy này du học tí nào, lại còn mẹ kiếp hạt năng lượng cao nữa chứ, cái của nợ ấy rốt cuộc là cái quái gì? Tôi ở nhà sống tiêu dao sung sướng biết bao nhiêu? Nhà mấy căn liền, xe sang thích cưỡi con nào thì cưỡi, thậm chí chẳng thèm gắn biển số cũng chẳng ai dám ho he, nhậu nhẹt thâu đêm suốt sáng, sang tới chỗ này chỉ rước thêm bực mình vào người.”"
+    },
+    {
+      "para_id": "c0223p0055",
+      "index": 55,
+      "raw_zh": "雲千峰笑道：",
+      "translated_vi": "Vân Thiên Phong cười hỏi:"
+    },
+    {
+      "para_id": "c0223p0056",
+      "index": 56,
+      "raw_zh": "“那你還來？”",
+      "translated_vi": "“Thế sao cậu còn sang đây?”"
+    },
+    {
+      "para_id": "c0223p0057",
+      "index": 57,
+      "raw_zh": "傑裡周歎氣，道：",
+      "translated_vi": "Jerry Chu thở dài sườn sượt:"
+    },
+    {
+      "para_id": "c0223p0058",
+      "index": 58,
+      "raw_zh": "“別提了，那不是為了泡妞嗎，我就把VX朋友圈對著新認識的漂亮妹子開放了，特麽的沒義氣，給我截圖舉報了，我家人就把我攆這裡來留學了，說是等風聲過去了再讓我回去，鬧心啊.我去個廁所。”",
+      "translated_vi": "“Đừng nhắc nữa, chẳng phải tại cái thói ham gái hay sao. Tôi mở bảng tin WeChat cho mấy em gái xinh tươi mới quen vào xem, mẹ kiếp con nhỏ cạn tình cạn nghĩa chụp màn hình đi tố cáo, thế là người nhà tống cổ tôi sang tận đây du học, bảo là đợi êm xuôi lắng gió rồi mới cho về nước, phiền chết đi được... Thôi tôi đi vệ sinh cái đã.”"
+    },
+    {
+      "para_id": "c0223p0059",
+      "index": 59,
+      "raw_zh": "駕駛員傑克用廣播通知系好安全帶，飛機馬上就要起飛出發。",
+      "translated_vi": "Viên phi công Jack bật loa phóng thanh thông báo hành khách thắt chặt dây an toàn, máy bay chuẩn bị cất cánh khởi hành."
+    },
+    {
+      "para_id": "c0223p0060",
+      "index": 60,
+      "raw_zh": "琳達馬瑞安看起來是個善良的姑娘，她見雲千峰自己坐在後面，又從剛才的情景判斷雲千峰不會英文，就急忙走過來，用很流利的華語對雲千峰道：",
+      "translated_vi": "Linda Marian trông có vẻ là một cô gái hiền hậu tốt bụng, thấy Vân Thiên Phong ngồi một mình lẻ loi ở phía sau, lại dựa vào tình cảnh ban nãy đoán anh không biết tiếng Anh, cô liền vội rảo bước tới gần, dùng tiếng Trung hết sức lưu loát nói với Vân Thiên Phong:"
+    },
+    {
+      "para_id": "c0223p0061",
+      "index": 61,
+      "raw_zh": "“系好安全帶，我們要出發了。”",
+      "translated_vi": "“Anh hãy thắt dây an toàn vào nhé, chúng ta sắp khởi hành rồi.”"
+    },
+    {
+      "para_id": "c0223p0062",
+      "index": 62,
+      "raw_zh": "雲千峰笑著道謝。",
+      "translated_vi": "Vân Thiên Phong mỉm cười cảm ơn cô."
+    },
+    {
+      "para_id": "c0223p0063",
+      "index": 63,
+      "raw_zh": "琳達又敲了敲衛生間的門，同樣用華語對立面的傑裡周喊道：",
+      "translated_vi": "Linda lại gõ cửa phòng vệ sinh, cũng dùng tiếng Trung nói vọng vào trong bảo Jerry Chu:"
+    },
+    {
+      "para_id": "c0223p0064",
+      "index": 64,
+      "raw_zh": "“傑裡，系好安全帶，要出發了。”",
+      "translated_vi": "“Jerry, thắt dây an toàn lại nhé, máy bay sắp xuất phát rồi.”"
+    },
+    {
+      "para_id": "c0223p0065",
+      "index": 65,
+      "raw_zh": "之後自己才跑回前面的座位。",
+      "translated_vi": "Dứt lời cô mới chạy ngược về chỗ ngồi phía trước."
+    },
+    {
+      "para_id": "c0223p0066",
+      "index": 66,
+      "raw_zh": "飛機稍微震顫了一下，隨後便平穩的開始移動加速。",
+      "translated_vi": "Chiếc máy bay khẽ rung rinh một nhịp, sau đó bắt đầu lăn bánh tăng tốc một cách êm ái."
+    },
+    {
+      "para_id": "c0223p0067",
+      "index": 67,
+      "raw_zh": "隨著飛機升空向南飛行，哪怕有空調，機艙內的溫度也讓人覺得有些冷。",
+      "translated_vi": "Khi phi cơ vút lên không trung trực chỉ hướng nam, dù trong khoang đã bật điều hòa nhưng nhiệt độ vẫn khiến người ta cảm thấy có đôi phần buốt lạnh."
+    },
+    {
+      "para_id": "c0223p0068",
+      "index": 68,
+      "raw_zh": "前面幾個人都去櫃子裡找了毯子蓋在腿上。",
+      "translated_vi": "Mấy người ngồi phía trước đều tới mở tủ tìm chăn lông đắp lên đùi."
+    },
+    {
+      "para_id": "c0223p0069",
+      "index": 69,
+      "raw_zh": "雲千峰一點也不覺得冷，這身皮囊對於溫度的抵抗一樣很強。",
+      "translated_vi": "Vân Thiên Phong chẳng hề cảm thấy rét mướt chút nào, lớp da thịt thể phách này có sức chống chịu nhiệt độ cực kỳ mạnh mẽ."
+    },
+    {
+      "para_id": "c0223p0070",
+      "index": 70,
+      "raw_zh": "傑裡周那瘦弱的小體格就不行了，凍得縮著肩膀，跑到前面去要毛毯。",
+      "translated_vi": "Nhưng cái thân hình còi cọc ốm yếu của Jerry Chu thì không chịu thấu, rét tới mức co ro rụt cổ, hấp tấp chạy lên khoang trước đòi lấy chăn đắp."
+    },
+    {
+      "para_id": "c0223p0071",
+      "index": 71,
+      "raw_zh": "荷茜堵著櫃子不讓傑裡拿，蘇菲也在旁邊幫忙，笑著大聲道：",
+      "translated_vi": "Hotsey đứng chắn trước tủ không cho Jerry lấy, Sophie cũng đứng bên cạnh hùa theo, cười vang cất giọng:"
+    },
+    {
+      "para_id": "c0223p0072",
+      "index": 72,
+      "raw_zh": "“哈，傑裡，你要說出毛毯的英文，才能得到毯子，說不出來就不能得到。”",
+      "translated_vi": "“Ha ha, Jerry, cậu phải đọc đúng từ cái chăn bằng tiếng Anh thì mới được lấy chăn, nói không được thì đừng hòng có phần!”"
+    },
+    {
+      "para_id": "c0223p0073",
+      "index": 73,
+      "raw_zh": "傑裡忙求饒，道：",
+      "translated_vi": "Jerry vội van nài xin xỏ:"
+    },
+    {
+      "para_id": "c0223p0074",
+      "index": 74,
+      "raw_zh": "“兩位姐姐，別鬧了，我冷。”",
+      "translated_vi": "“Hai bà chị của tôi ơi, đừng giỡn nữa, tôi lạnh thấu xương rồi đây này.”"
+    },
+    {
+      "para_id": "c0223p0075",
+      "index": 75,
+      "raw_zh": "“不行，不行，一定要說。”",
+      "translated_vi": "“Không được, nhất quyết không được, phải nói bằng tiếng Anh mới xong!”"
+    },
+    {
+      "para_id": "c0223p0076",
+      "index": 76,
+      "raw_zh": "傑裡周幼稚性格，舔狗的時候是真舔，但你讓他難受，他也會吼。",
+      "translated_vi": "Bản tính Jerry Chu vốn trẻ con, lúc làm liếm cẩu nịnh bợ thì dẻo mỏ vô cùng, nhưng hễ bị chèn ép gây ức chế là cậu ta cũng sẵn sàng gầm lên sừng cồ lại."
+    },
+    {
+      "para_id": "c0223p0077",
+      "index": 77,
+      "raw_zh": "“不行什麽不行？特麽中文毯子不是毯子？別特麽攔著我，大不了包機的錢老子給你出一半。”",
+      "translated_vi": "“Không được cái đách gì mà không được? Mẹ kiếp, tiếng Trung gọi cái chăn không phải là chăn chắc? Đừng có đứng đó mà chắn đường ông đây, cùng lắm tiền bao máy bay chuyến này bố mày chia đôi trả cho cô một nửa!”"
+    },
+    {
+      "para_id": "c0223p0078",
+      "index": 78,
+      "raw_zh": "霍曼顰眉，對著傑裡周，道：",
+      "translated_vi": "Homan nhíu mày, hướng mắt về phía Jerry Chu trầm giọng:"
+    },
+    {
+      "para_id": "c0223p0079",
+      "index": 79,
+      "raw_zh": "“嘿，男人要紳士，請你對女生說話客氣一點。”",
+      "translated_vi": "“Này, đàn ông phải có phong độ quý ông, làm ơn ăn nói lịch sự với phái nữ một chút.”"
+    },
+    {
+      "para_id": "c0223p0080",
+      "index": 80,
+      "raw_zh": "傑裡周看了一眼霍曼，那X肌比他媽還大，身高快趕上他一個半，頓時不幼稚了，深明沉默是金，低著頭回到雲千峰旁邊，繼續碎碎念，而且是抖出來的一肚子怨念。",
+      "translated_vi": "Jerry Chu liếc xéo nhìn Homan một cái, thấy bộ ngực vạm vỡ kia còn đồ sộ hơn cả bà bô nhà mình, chiều cao thì gần bằng một người rưỡi của cậu ta, lập tức hết dám trẻ trâu nữa. Cậu ta thấu hiểu đạo lý im lặng là vàng, lủi thủi cúi gằm mặt quay về bên cạnh Vân Thiên Phong, tiếp tục lẩm bà lẩm bẩm xả ra một bụng đầy oán thán."
+    },
+    {
+      "para_id": "c0223p0081",
+      "index": 81,
+      "raw_zh": "前面傳來“你們華夏男人真的是素質”.",
+      "translated_vi": "Phía trước lại vẳng lại tiếng xì xào: “Đúng là tố chất của lũ đàn ông Tàu các người...”."
+    },
+    {
+      "para_id": "c0223p0082",
+      "index": 82,
+      "raw_zh": "雲千峰很少討厭人，哪怕是敵人，比如薩弱，他也不是討厭她，而僅僅就是敵對關系。",
+      "translated_vi": "Vân Thiên Phong rất hiếm khi thù ghét ai, dẫu có là kẻ thù như Tát Nhược đi chăng nữa thì anh cũng chẳng hề ghét bỏ ả, mà chỉ đơn thuần là mối quan hệ đối địch sinh tử."
+    },
+    {
+      "para_id": "c0223p0083",
+      "index": 83,
+      "raw_zh": "但是對於前面那兩個女生，他真的是從心裡感覺到厭惡。",
+      "translated_vi": "Thế nhưng đối với hai ả đàn bà ngồi phía trước kia, anh thực sự cảm thấy ghê tởm từ tận đáy lòng."
+    },
+    {
+      "para_id": "c0223p0084",
+      "index": 84,
+      "raw_zh": "因為無論從情感角度還是血緣角度，她們都沒有理由說出那樣的話，做出那樣的事。",
+      "translated_vi": "Bởi vì xét cả về phương diện tình cảm lẫn huyết thống cội nguồn, bọn họ tuyệt đối chẳng có bất kỳ lý do gì để thốt ra những lời lẽ hợm hĩnh và hành xử bỉ ổi đến nhường ấy."
+    },
+    {
+      "para_id": "c0223p0085",
+      "index": 85,
+      "raw_zh": "無法理解，完全無法理解。",
+      "translated_vi": "Không thể nào hiểu nổi, hoàn toàn không sao hiểu nổi."
+    },
+    {
+      "para_id": "c0223p0086",
+      "index": 86,
+      "raw_zh": "可能，連被她們讚美的M國人都受不了那樣的言語。",
+      "translated_vi": "Có lẽ ngay cả người Mỹ bản xứ vốn được bọn họ tâng bốc nịnh nọt cũng không tài nào chịu nổi những lời lẽ kệch cỡm ấy."
+    },
+    {
+      "para_id": "c0223p0087",
+      "index": 87,
+      "raw_zh": "比如琳達，她拿著一本書，不著痕跡的離開前面吧台旁的沙發，來到了後面，安靜的坐在雲千峰旁邊靠窗的位置。",
+      "translated_vi": "Chẳng hạn như Linda, cô cầm lấy một cuốn sách, khéo léo rời khỏi bộ ghế sofa gần quầy bar phía trước mà bước về phía sau, lẳng lặng ngồi xuống vị trí sát cửa sổ bên cạnh Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0223p0088",
+      "index": 88,
+      "raw_zh": "傑裡周看到文靜的琳達來到後面，急忙湊到前面去，稱讚道：",
+      "translated_vi": "Jerry Chu thấy cô nàng Linda nho nhã bước xuống phía sau, liền vội vàng sán tới làm quen, khen nức nở:"
+    },
+    {
+      "para_id": "c0223p0089",
+      "index": 89,
+      "raw_zh": "“琳達，你的華語真的很好，語言天分了不起。”",
+      "translated_vi": "“Linda, tiếng Trung của bạn thực sự quá cừ, thiên phú ngôn ngữ đỉnh thật đấy.”"
+    },
+    {
+      "para_id": "c0223p0090",
+      "index": 90,
+      "raw_zh": "琳達抬頭看了傑裡周，淡淡道：",
+      "translated_vi": "Linda ngước mắt nhìn Jerry Chu, bình thản đáp:"
+    },
+    {
+      "para_id": "c0223p0091",
+      "index": 91,
+      "raw_zh": "“我媽媽是華夏人，我從小華語就很好。”",
+      "translated_vi": "“Mẹ tôi là người Trung Quốc, từ nhỏ tôi đã nói tiếng Trung rất sõi rồi.”"
+    },
+    {
+      "para_id": "c0223p0092",
+      "index": 92,
+      "raw_zh": "傑裡周一下來了精神，道：",
+      "translated_vi": "Jerry Chu lập tức phấn chấn hẳn lên:"
+    },
+    {
+      "para_id": "c0223p0093",
+      "index": 93,
+      "raw_zh": "“哎喲，半個老鄉”",
+      "translated_vi": "“Ái chà chà, vậy là nửa người đồng hương rồi...”"
+    },
+    {
+      "para_id": "c0223p0094",
+      "index": 94,
+      "raw_zh": "有他在，誰也別想好好看書。",
+      "translated_vi": "Có cậu ta ở đó thì chẳng ai có thể yên ổn đọc sách được nữa."
+    },
+    {
+      "para_id": "c0223p0095",
+      "index": 95,
+      "raw_zh": "很快，飛機到達麥誇裡島上空。",
+      "translated_vi": "Rất nhanh sau đó, chiếc máy bay đã bay tới không phận đảo Macquarie."
+    },
+    {
+      "para_id": "c0223p0096",
+      "index": 96,
+      "raw_zh": "他們需要在這裡經停，給飛機注滿燃油，然後才能到達迪蒙迪維爾南極站，畢竟這條航線的距離有兩千多公裡，超出了這架飛機的最大航程。",
+      "translated_vi": "Bọn họ cần phải quá cảnh hạ cánh tại đây để nạp đầy nhiên liệu cho máy bay rồi mới có thể bay tiếp tới trạm Nam Cực Dumont d'Urville, bởi lẽ cự ly của đường bay này dài hơn hai ngàn cây số, đã vượt quá tầm bay tối đa của chiếc phi cơ này."
+    },
+    {
+      "para_id": "c0223p0097",
+      "index": 97,
+      "raw_zh": "然而，當駕駛員傑克呼叫機場，請求降落時卻被拒絕了。",
+      "translated_vi": "Thế nhưng khi viên phi công Jack liên lạc với đài kiểm soát sân bay xin hạ cánh thì lại bị cự tuyệt thẳng thừng."
+    },
+    {
+      "para_id": "c0223p0098",
+      "index": 98,
+      "raw_zh": "理由是剛剛下了大雪，下面還在清掃跑道，讓他們在上面等著。",
+      "translated_vi": "Lý do đưa ra là dưới mặt đất vừa mới có một trận tuyết rơi dày đặc, nhân viên đang dọn dẹp đường băng nên yêu cầu bọn họ bay lượn vòng trên trời chờ đợi."
+    },
+    {
+      "para_id": "c0223p0099",
+      "index": 99,
+      "raw_zh": "傑克看了看燃油箱，思索片刻，呼叫不遠處另一個私人機場，結果答案一樣，也是不允許降落，人家不是掃雪，是儀器出了故障，還在維修。",
+      "translated_vi": "Jack liếc nhìn đồng hồ báo lượng dầu, ngẫm nghĩ chốc lát rồi chuyển hướng liên lạc với một sân bay tư nhân khác ở gần đó. Nào ngờ câu trả lời nhận được cũng y hệt, cũng không cho phép hạ cánh, bên kia không phải dọn tuyết mà là thiết bị gặp trục trặc kỹ thuật đang trong quá trình sửa chữa."
+    },
+    {
+      "para_id": "c0223p0100",
+      "index": 100,
+      "raw_zh": "傑克看了看天氣預報，又看了看外面大亮的太陽，嘴裡咒罵道：",
+      "translated_vi": "Jack xem lại dự báo thời tiết rồi ngước mắt nhìn ánh mặt trời rực rỡ bên ngoài, miệng chửi đổng:"
+    },
+    {
+      "para_id": "c0223p0101",
+      "index": 101,
+      "raw_zh": "“混蛋，什麽情況？這裡根本就沒有下雪！”",
+      "translated_vi": "“Khốn kiếp thật, tình hình quái gì thế này? Ở đây căn bản làm gì có hạt tuyết nào rơi đâu!”"
+    },
+    {
+      "para_id": "c0223p0102",
+      "index": 102,
+      "raw_zh": "飛機上的人都慌了。",
+      "translated_vi": "Cả khoang máy bay lập tức rơi vào hoảng loạn."
+    },
+    {
+      "para_id": "c0223p0103",
+      "index": 103,
+      "raw_zh": "因為半途需要加油，所以一開始他們並不是滿箱的燃油，此時此刻，他們最多還能盤旋一個小時。",
+      "translated_vi": "Bởi vì giữa chặng cần phải tiếp nhiên liệu nên ngay từ đầu bọn họ không bơm đầy bình, ngay vào giờ phút này lượng dầu còn lại cùng lắm chỉ đủ cho máy bay lượn vòng thêm khoảng một tiếng đồng hồ nữa."
+    },
+    {
+      "para_id": "c0223p0104",
+      "index": 104,
+      "raw_zh": "這每一分鍾，燒的都是錢。",
+      "translated_vi": "Từng phút từng giây trôi qua đều là đang đốt tiền như rác."
+    },
+    {
+      "para_id": "c0223p0105",
+      "index": 105,
+      "raw_zh": "而且錢還是小事，萬一燃油燒沒了還不讓他們降落，那幾個人就交代了。",
+      "translated_vi": "Mà tiền nong vẫn còn là chuyện nhỏ, ngộ nhỡ nhiên liệu cạn kiệt mà sân bay vẫn không cho hạ cánh thì tính mạng cả bọn coi như tiêu đời tại chỗ."
+    },
+    {
+      "para_id": "c0223p0106",
+      "index": 106,
+      "raw_zh": "駕駛員傑克大聲道：",
+      "translated_vi": "Viên phi công Jack cất giọng hét lớn:"
+    },
+    {
+      "para_id": "c0223p0107",
+      "index": 107,
+      "raw_zh": "“霍曼，你不是說你父親已經和這兩家私人機場說好了嗎？現在是怎麽回事？”",
+      "translated_vi": "“Homan, chẳng phải cậu nói cha cậu đã thỏa thuận xong xuôi với hai sân bay tư nhân này rồi hay sao? Bây giờ là thế nào đây?”"
+    },
+    {
+      "para_id": "c0223p0108",
+      "index": 108,
+      "raw_zh": "霍曼焦急道：",
+      "translated_vi": "Homan cuống cuồng đáp:"
+    },
+    {
+      "para_id": "c0223p0109",
+      "index": 109,
+      "raw_zh": "“我也不清楚，我打電話問問我父親。”",
+      "translated_vi": "“Tôi cũng không rõ nữa, để tôi gọi điện hỏi cha tôi xem sao.”"
+    },
+    {
+      "para_id": "c0223p0110",
+      "index": 110,
+      "raw_zh": "打了一通電話後，霍曼帶著哭腔，叫道：",
+      "translated_vi": "Sau khi gọi một cuộc điện thoại, Homan mang theo giọng mếu máo gào lên:"
+    },
+    {
+      "para_id": "c0223p0111",
+      "index": 111,
+      "raw_zh": "“天呐，我父親說他現在也沒辦法，對方現在堅持無法降落，我父親正在想辦法，讓我們再等等。”",
+      "translated_vi": "“Trời đất ơi, cha tôi bảo hiện tại ông ấy cũng hết cách rồi, bên kia vẫn khăng khăng không cho đáp xuống. Cha tôi đang ráng nghĩ cách xoay xở, bảo chúng ta hãy ráng đợi thêm chút nữa.”"
+    },
+    {
+      "para_id": "c0223p0112",
+      "index": 112,
+      "raw_zh": "驚慌籠罩著所有人。",
+      "translated_vi": "Cơn kinh hoàng bao trùm lên khắp mọi người."
+    },
+    {
+      "para_id": "c0223p0113",
+      "index": 113,
+      "raw_zh": "除了雲千峰。",
+      "translated_vi": "Ngoại trừ Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0223p0114",
+      "index": 114,
+      "raw_zh": "他心裡想著：",
+      "translated_vi": "Trong lòng anh thầm nghĩ:"
+    },
+    {
+      "para_id": "c0223p0115",
+      "index": 115,
+      "raw_zh": "“這個羅琳娜，真是裡子面子全都要的主兒啊！”",
+      "translated_vi": "“Cái cô nàng Lorina này, quả thực là mẫu người đã muốn thể diện bên ngoài lại phải vẹn toàn cả lợi ích bên trong mà!”"
+    },
+    {
+      "para_id": "c0223p0116",
+      "index": 116,
+      "raw_zh": "感謝製盒者、再見QWQ、落雪成碑、尾數15947的月票獎勵！！！",
+      "translated_vi": "Chân thành cảm ơn các bạn độc giả đã bỏ phiếu tháng ủng hộ tác phẩm."
+    },
+    {
+      "para_id": "c0223p0117",
+      "index": 117,
+      "raw_zh": "謝謝你們的支持，感激！！！",
+      "translated_vi": "Cảm ơn sự đồng hành và ủng hộ quý báu của mọi người rất nhiều!"
+    },
+    {
+      "para_id": "c0223p0118",
+      "index": 118,
+      "raw_zh": "祝大家好夢，晚安！！！",
+      "translated_vi": "Chúc mọi người có những giấc mộng đẹp, ngủ ngon!"
+    }
+  ]
+}

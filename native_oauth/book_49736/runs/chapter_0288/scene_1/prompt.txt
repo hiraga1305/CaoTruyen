@@ -1,0 +1,93 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0288|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|三丈|ba trượng
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §52):
+§1 288.第288章 藏乾活氣之物
+§2 第288章 藏乾活氣之物
+§3 [Ø=云千峰]走出倆濕土之地，楊玉奴終於能自己下地走路。
+§4 [Ø=云千峰]這女人因為舞蹈底子好，無論是柔韌性還是體能，都相當不錯，有點輕功。
+§5 竟然跟得上雲千峰步伐。
+§6 [Ø=云千峰]雲千峰計算了一下楊玉奴的年紀，她死時應該是三十七歲左右。
+§7 叫聲小阿姨都可以了。
+§8 [Ø=云千峰]但架不住人家底子好，保養的也好，看著就像不到三十歲似的。
+§9 [Ø=云千峰]走不多時，過了那片草原，就見一片清澈的湖水臨在眼前。
+§10 [Ø=云千峰]這湖水極美，上面飄蕩著霧氣， [||] 就是湖旁三丈[M1:ba trượng]之內，寸草不生，全是碎石和一些動物的枯骨。
+§11 雲千峰看著那湖水嘀咕道：
+§12 [Ø=云千峰]“戌土為乾宮之位，與亥水同居，這湖水正是亥水， [||] 那麽戌土之地當在湖底，戌土為火庫，那麽這該是溫泉。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 [Ø=云千峰]聽到雲千峰這麽說，[Ø_SHIFT=姜柔甲]楊玉奴急忙走到水邊，用手觸摸那湖水。
+§14 但是雲千峰卻急忙一把將她拽了回來。
+§15 [Ø=姜柔甲]楊玉奴一邊被他拽著向後退去，一邊驚訝道：
+§16 [Ø=姜柔甲]“郎君真神人，果真是溫泉，太真最喜溫泉沐浴！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 [Ø=姜柔甲]雲千峰當然知道她喜歡溫泉，華清池就是因她聞明於世。
+§18 [Ø=姜柔甲]對於這裡是溫泉，雲千峰一點也不奇怪，火庫與亥水同居，必為溫泉。
+§19 [Ø=姜柔甲]地支就是用來推演大地的，女閻羅人很顯然是用了地支的規則創造了這座島。
+§20 雲千峰拽著楊玉奴的胳膊道：
+§21 [Ø=姜柔甲]“下次不可以莽撞，這裡的東西不是隨便碰的。如若和之前一樣，一庫一物，那麽這溫泉內必有活物。
+§22 [Ø=姜柔甲]戌土遇水之活物為河魁，凡是活物帶了魁字，都不是好惹的，咱們離它遠點， [||] 先不惹它，待我探明這裡，再作打算，肯定讓你洗到溫泉浴。”
+§23 [Ø=姜柔甲]說著，拽著楊玉奴的胳膊繞路離開。
+§24 [Ø=姜柔甲]人的行走速度和鯊魚沒法比，走了一個多小時，才繞過那片湖水，來到了一堆巨大的亂石之前。
+§25 [Ø=姜柔甲]這些石頭極為巨大，猶如高樓大廈。
+§26 [Ø=姜柔甲]它們彼此凌亂的支撐靠在一起，形成了一些極為狹窄的縫隙，勉強能讓人鑽進去。
+§27 [Ø=姜柔甲]這些巨石上下，也是寸草不生，乾淨的不毛之地。
+§28 [Ø=姜柔甲]楊玉奴往雲千峰身後躲了躲，這些巨石看著就嚇人，再加上寸草不生的，就很陰森。
+§29 [Ø=姜柔甲]但讓楊玉奴沒想到的是，雲千峰竟然說了句：
+§30 [Ø=姜柔甲]“大丫鬟，這裡面就是咱們倆未來幾個月的家了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=姜柔甲]楊玉奴都驚呆了，她寧可住在草原上，也不想住在這樣可怕的不毛之地。
+§32 [Ø=姜柔甲]“郎君，這裡全是亂石，又臨著那可怕的溫泉湖水，當真能住人？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 雲千峰笑道：
+§34 [Ø=姜柔甲]“這裡是未土之地，未土為燥土， [||] 外形如戈壁，荒涼恐怖。但其實為木庫，所以完整的未土實為戈壁之綠洲。
+§35 [Ø=姜柔甲]故此古人形容未土，稱之為如人築牆垣以護百花之地，使花草藤蔓得以規欄收束，此即為木之收納歸藏之所也。
+§36 [Ø=姜柔甲]也就是說，這些亂石之中，必藏著一個極美的地方，適合生存的地方。”
+§37 楊玉奴將信將疑。
+§38 [Ø=姜柔甲]若是別人說，她是百分百不信這樣的亂石堆裡能出來個花園。
+§39 [Ø=姜柔甲]但雲千峰說，就有點信了。
+§40 因為他神人也！
+§41 [Ø=姜柔甲]雲千峰引著楊玉奴，挑了一個比較寬敞的巨石縫隙鑽進去。
+§42 [Ø=姜柔甲]裡面遮光蔽日，一進去便昏暗無比， [||] 這讓楊玉奴禁不住向著雲千峰後背貼了貼，沒別的想法，就是害怕。
+§43 [Ø=姜柔甲]巨石之間搭疊而成的縫隙七拐八拐，非常難行。
+§44 [Ø=姜柔甲]有的地方需要向上爬幾米高才有出口，有的地方又需要向下攀爬，才能有新路。
+§45 [Ø=姜柔甲]大方向不變，倆人走了四十幾分鍾，眼前豁然一亮。
+§46 美！
+§47 [Ø=姜柔甲]植被不高，多為齊腰。花繁葉茂，蝶飛蜂繞。窄溪如帶，流水叮當。
+§48 [Ø=姜柔甲]腳踏窄溪行走其間，便真如走在花園之中一般。
+§49 [Ø=姜柔甲]這巨石圍繞之地並不大，大約一個足球場大小。
+§50 [Ø=姜柔甲]但是植被種類之多，讓人歎為觀止。
+§51 [Ø=姜柔甲]倆人沿著溪流一直走到小溪的盡頭，一路上雲千峰始終謹慎的觀察著四周，猜測著這裡的危險到底為何物。
+§52 未者羊也。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 52 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§52. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

@@ -6,14 +6,14 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-dist/
+/dist/
 downloads/
 eggs/
 .eggs/
 lib/
 lib64/
 parts/
-sdist/
+s/dist/
 var/
 wheels/
 *.egg-info/
@@ -41,6 +41,7 @@ native_oauth/models/
 
 # Large documents & archives
 *.pdf
+!native_oauth/book_49736/dist/*.pdf
 *.zip
 *.tar.gz
 *.7z

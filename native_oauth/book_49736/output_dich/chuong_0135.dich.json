@@ -1,0 +1,529 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 135,
+  "title": "Chương 135: Lương Nhân",
+  "total_paragraphs": 86,
+  "translated_paragraphs": 86,
+  "source_hash": "8099b85da312146eb6ac2f4aaff195bbf2e2dea19c0800a3c067a9c44c30adab",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0135p0001",
+      "index": 1,
+      "raw_zh": "第135章 良人",
+      "translated_vi": "Chương 135: Lương Nhân"
+    },
+    {
+      "para_id": "c0135p0002",
+      "index": 2,
+      "raw_zh": "秦疏影聽到雲千峰這麽說，莫名的心裡有些不舒服，於是不高興道：",
+      "translated_vi": "Tần Sơ Ảnh nghe Vân Thiên Phong nói vậy, trong lòng bỗng thấy có chút khó chịu không rõ lý do, liền hậm hực bảo:"
+    },
+    {
+      "para_id": "c0135p0003",
+      "index": 3,
+      "raw_zh": "“好浪漫啊！跨越數千年的婚禮，這麽說你現在是已婚人士了？”",
+      "translated_vi": "“Lãng mạn gớm nhỉ! Hôn lễ xuyên qua hàng ngàn năm cơ đấy, nói thế thì hiện tại anh là người đã có gia đình rồi à?”"
+    },
+    {
+      "para_id": "c0135p0004",
+      "index": 4,
+      "raw_zh": "甲板上另外三女在秦疏影和雲千峰身上來回看，她們聞到了老醋泡火藥的味道。",
+      "translated_vi": "Ba người phụ nữ còn lại trên boong tàu đảo mắt nhìn qua nhìn lại giữa Tần Sơ Ảnh và Vân Thiên Phong, bọn họ ngửi thấy mùi giấm chua ngâm thuốc súng nồng nặc bốc lên."
+    },
+    {
+      "para_id": "c0135p0005",
+      "index": 5,
+      "raw_zh": "雲千峰是誰啊？轉移話題第一名。",
+      "translated_vi": "Mà Vân Thiên Phong là ai cơ chứ? Bậc thầy số một về khoản đánh trống lảng!"
+    },
+    {
+      "para_id": "c0135p0006",
+      "index": 6,
+      "raw_zh": "他沒接秦疏影的話，急忙坐起來，拽著秦疏影的胳膊，道：",
+      "translated_vi": "Anh chẳng thèm tiếp lời Tần Sơ Ảnh, vội vàng ngồi bật dậy kéo lấy cánh tay cô, nói:"
+    },
+    {
+      "para_id": "c0135p0007",
+      "index": 7,
+      "raw_zh": "“對了，咱們還沒看新娘給的黑匣子裡是什麽呢！”",
+      "translated_vi": "“Đúng rồi, chúng ta còn chưa xem bên trong chiếc hộp đen cô dâu trao cho có thứ gì đâu đấy!”"
+    },
+    {
+      "para_id": "c0135p0008",
+      "index": 8,
+      "raw_zh": "這話一出，所有人都來了興致，包括秦疏影。",
+      "translated_vi": "Lời này vừa thốt ra, tất cả mọi người đều lập tức nổi hứng tò mò, bao gồm cả Tần Sơ Ảnh."
+    },
+    {
+      "para_id": "c0135p0009",
+      "index": 9,
+      "raw_zh": "幾千年前的嫁妝，誰不好奇？",
+      "translated_vi": "Của hồi môn từ mấy ngàn năm trước, ai mà chẳng tò mò cho được?"
+    },
+    {
+      "para_id": "c0135p0010",
+      "index": 10,
+      "raw_zh": "黑匣子打開，裡面是一片掌心大小的玄色玉佩，在陽光下黑裡透著紅。",
+      "translated_vi": "Chiếc hộp đen mở ra, bên trong là một miếng ngọc bội màu huyền đen to bằng cỡ lòng bàn tay, dưới ánh mặt trời ánh lên sắc đỏ ẩn sâu trong nền đen."
+    },
+    {
+      "para_id": "c0135p0011",
+      "index": 11,
+      "raw_zh": "玉佩形如令牌，以看不出材質的金屬細鏈穿孔拴著。",
+      "translated_vi": "Miếng ngọc bội có hình dáng tựa như một tấm lệnh bài, được xỏ qua một chiếc lỗ nhỏ bằng một sợi dây xích kim loại mảnh mai không rõ chất liệu."
+    },
+    {
+      "para_id": "c0135p0012",
+      "index": 12,
+      "raw_zh": "在玉佩的兩面，都是雲紋雕飾，雲紋之中各有一個圖案。",
+      "translated_vi": "Ở hai mặt của miếng ngọc bội đều được chạm khắc những đường vân mây uốn lượn, ẩn giữa các tầng vân mây mỗi mặt lại có một họa tiết riêng biệt."
+    },
+    {
+      "para_id": "c0135p0013",
+      "index": 13,
+      "raw_zh": "一面是正面站著的人形，但是腦袋畫的比例很大；一面是橫著疊放的三個三角形，就好像古埃及金字塔的排布。”",
+      "translated_vi": "Một mặt là hình người đứng thẳng chính diện, nhưng phần đầu được vẽ với tỷ lệ rất lớn; mặt còn lại là ba hình tam giác xếp chồng lên nhau theo chiều ngang, tựa như cách bố trí của các kim tự tháp Ai Cập cổ đại."
+    },
+    {
+      "para_id": "c0135p0014",
+      "index": 14,
+      "raw_zh": "孫倩撇嘴，道：",
+      "translated_vi": "Tôn Thiến bĩu môi, nói:"
+    },
+    {
+      "para_id": "c0135p0015",
+      "index": 15,
+      "raw_zh": "“這嫁妝就一片石頭？古人這麽簡樸嗎？”",
+      "translated_vi": "“Của hồi môn này chỉ có mỗi một mảnh đá thôi á? Người xưa giản dị đến mức này sao?”"
+    },
+    {
+      "para_id": "c0135p0016",
+      "index": 16,
+      "raw_zh": "雲千峰搖了搖頭，笑道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu, cười giải thích:"
+    },
+    {
+      "para_id": "c0135p0017",
+      "index": 17,
+      "raw_zh": "“別小瞧了這片石頭，這人形圖案頭部著重畫大，是甲骨文的天字。那三個三角形橫疊，是甲骨文的山字。上古先天卦象，天南地北，所以這玉佩是南山封地的信物，在那個年代，可是代表著一大片土地的所有權。”",
+      "translated_vi": "“Đừng có coi thường mảnh đá này. Họa tiết hình người với phần đầu được cố ý vẽ phóng đại này chính là chữ Thiên trong chữ giáp cốt. Còn ba hình tam giác xếp chồng nằm ngang kia là chữ Sơn trong chữ giáp cốt. Quẻ tượng Tiên Thiên thời thượng cổ: trời ở phương Nam, đất ở phương Bắc, cho nên miếng ngọc bội này chính là tín vật phong địa Nam Sơn. Vào thời đại đó, nó đại diện cho quyền sở hữu cả một vùng đất đai cương vực bao la rộng lớn đấy.”"
+    },
+    {
+      "para_id": "c0135p0018",
+      "index": 18,
+      "raw_zh": "秦疏影輕哼了一聲，道：",
+      "translated_vi": "Tần Sơ Ảnh khẽ hừ lạnh một tiếng, bảo:"
+    },
+    {
+      "para_id": "c0135p0019",
+      "index": 19,
+      "raw_zh": "“現在一文不值！”",
+      "translated_vi": "“Bây giờ thì chẳng đáng một xu!”"
+    },
+    {
+      "para_id": "c0135p0020",
+      "index": 20,
+      "raw_zh": "雲千峰嘻嘻笑著，不和她強嘴，這女人拈酸自己和幾千年的女人影子拜堂成親這事呢。",
+      "translated_vi": "Vân Thiên Phong cười hì hì, chẳng thèm đôi co cãi lý với cô. Người phụ nữ này đang ghen tuông hờn dỗi chuyện anh bái đường thành thân với cái bóng của một người phụ nữ từ mấy ngàn năm trước đấy mà."
+    },
+    {
+      "para_id": "c0135p0021",
+      "index": 21,
+      "raw_zh": "醋壇子翻得超時空。",
+      "translated_vi": "Hũ giấm chua này đổ ra xuyên cả thời không."
+    },
+    {
+      "para_id": "c0135p0022",
+      "index": 22,
+      "raw_zh": "雲千峰把石片在黑匣子裡拿出來，往脖子上一掛，還挺珍惜的樣子。",
+      "translated_vi": "Vân Thiên Phong lấy mảnh đá ngọc ra khỏi chiếc hộp đen, đeo lên cổ mình, trông bộ dạng còn nâng niu trân trọng lắm."
+    },
+    {
+      "para_id": "c0135p0023",
+      "index": 23,
+      "raw_zh": "秦疏影看著更生氣，撇嘴道：",
+      "translated_vi": "Tần Sơ Ảnh nhìn thấy thế càng giận dỗi hơn, bĩu môi đay nghiến:"
+    },
+    {
+      "para_id": "c0135p0024",
+      "index": 24,
+      "raw_zh": "“還貼身帶著，哼哼。”",
+      "translated_vi": "“Còn đeo sát vào người nữa chứ, hừ hừ.”"
+    },
+    {
+      "para_id": "c0135p0025",
+      "index": 25,
+      "raw_zh": "雲千峰笑道：",
+      "translated_vi": "Vân Thiên Phong cười dỗ dành:"
+    },
+    {
+      "para_id": "c0135p0026",
+      "index": 26,
+      "raw_zh": "“如果我的預感沒錯，這南山必是一個神跡，這東西留著，搞不好未來能保命。”",
+      "translated_vi": "“Nếu linh cảm của anh không lầm thì Nam Sơn này ắt hẳn là một thần tích. Giữ lại thứ này, biết đâu chừng tương lai có thể bảo toàn được tính mạng.”"
+    },
+    {
+      "para_id": "c0135p0027",
+      "index": 27,
+      "raw_zh": "秦疏影聽到這話，才想起來雲千峰面對的危險絲毫沒有解除，只看今日追殺他的那群人就知道，他未來要面對多少凶險。",
+      "translated_vi": "Tần Sơ Ảnh nghe thấy vậy mới chợt nhớ ra những mối nguy hiểm rình rập quanh Vân Thiên Phong vẫn chưa hề được hóa giải mảy may. Chỉ nhìn đám người truy sát anh ngày hôm nay là đủ biết tương lai anh sẽ phải đối mặt với bao nhiêu hiểm nguy khôn lường."
+    },
+    {
+      "para_id": "c0135p0028",
+      "index": 28,
+      "raw_zh": "當下小性子一下就沒了，牽著雲千峰的手，忙道：",
+      "translated_vi": "Tức thì tính khí hờn dỗi trẻ con của cô liền tan biến sạch trơn, cô nắm lấy tay Vân Thiên Phong, cuống quýt dặn:"
+    },
+    {
+      "para_id": "c0135p0029",
+      "index": 29,
+      "raw_zh": "“那你可保存好了，千萬別丟了，等上岸我弄點結實的紅繩，給你編一個好看結實的。”",
+      "translated_vi": "“Vậy anh phải cất giữ cho thật cẩn thận, ngàn vạn lần đừng để mất đấy. Đợi khi lên bờ em sẽ tìm sợi dây đỏ chắc chắn bện lại cho anh một sợi dây vừa đẹp vừa bền.”"
+    },
+    {
+      "para_id": "c0135p0030",
+      "index": 30,
+      "raw_zh": "天色漸晚，船行速度降低。",
+      "translated_vi": "Trời dần về chiều muộn, tốc độ của con tàu giảm dần."
+    },
+    {
+      "para_id": "c0135p0031",
+      "index": 31,
+      "raw_zh": "用孫倩的話說，就是這艦船晚上沒有陽光，能量補充不上，體力不支，只能慢走或者順著海浪飄。",
+      "translated_vi": "Nói theo cách của Tôn Thiến thì chiếc chiến hạm này vào ban đêm không có ánh nắng mặt trời nên không bổ sung được năng lượng, thể lực suy kiệt, chỉ có thể chạy rề rà hoặc thả trôi thuận theo từng đợt sóng biển."
+    },
+    {
+      "para_id": "c0135p0032",
+      "index": 32,
+      "raw_zh": "艦船一如孫倩的身體，船下面掛上了一條吸盤魚，這女人馬上告知雲千峰。",
+      "translated_vi": "Chiến hạm tựa như chính cơ thể của Tôn Thiến, dưới đáy thuyền có một con cá giác bám vào là cô nàng liền lập tức báo ngay cho Vân Thiên Phong biết."
+    },
+    {
+      "para_id": "c0135p0033",
+      "index": 33,
+      "raw_zh": "雲千峰興匆匆的咬著海軍刀來到船下，成功把那世界上最懶的魚刺死，帶到了甲板上。",
+      "translated_vi": "Vân Thiên Phong hăm hở ngậm con dao hải quân lặn xuống đáy thuyền, thành công đâm chết con cá lười nhất thế giới mang lên boong tàu."
+    },
+    {
+      "para_id": "c0135p0034",
+      "index": 34,
+      "raw_zh": "沒有火，只能吃生魚片。",
+      "translated_vi": "Không có lửa nên chỉ đành ăn gỏi cá sống."
+    },
+    {
+      "para_id": "c0135p0035",
+      "index": 35,
+      "raw_zh": "好在這東西肉質還不錯，早就餓的前胸貼後背的幾人吃的不亦說乎。",
+      "translated_vi": "May sao thịt của loài cá này khá ngon, mấy người đói đến mức bụng dán vào lưng liền ăn một bữa ngấu nghiến no say."
+    },
+    {
+      "para_id": "c0135p0036",
+      "index": 36,
+      "raw_zh": "接近七八十公分長的魚身，幾個人差點吃光，竟然還沒飽。",
+      "translated_vi": "Thân cá dài ngót nghét bảy tám mươi phân bị mấy người xơi gần sạch, thế mà bụng vẫn chưa no hẳn."
+    },
+    {
+      "para_id": "c0135p0037",
+      "index": 37,
+      "raw_zh": "此時天色已經大黑，孫倩開了走廊的燈，讓幾個人睡到了她一早收拾好的士兵艙內。",
+      "translated_vi": "Lúc này trời đã tối đen như mực, Tôn Thiến bật đèn hành lang lên rồi dẫn mọi người vào ngủ trong khoang lính mà cô đã dọn dẹp ngăn nắp từ sớm."
+    },
+    {
+      "para_id": "c0135p0038",
+      "index": 38,
+      "raw_zh": "她離不開艦船，閑著無聊，就把這艦船內外收拾個乾淨，並按照自己的喜好重新擺弄了床的位置。",
+      "translated_vi": "Cô không thể rời khỏi chiếc chiến hạm, rảnh rỗi sinh buồn chán nên đã dọn dẹp sạch sẽ từ trong ra ngoài con tàu, đồng thời kê lại vị trí giường ngủ theo sở thích của mình."
+    },
+    {
+      "para_id": "c0135p0039",
+      "index": 39,
+      "raw_zh": "還嚷嚷著讓雲千峰以後弄些土壤和菜種到船上來，她要種菜。",
+      "translated_vi": "Cô còn í ới đòi Vân Thiên Phong sau này phải mang chút đất và hạt giống rau lên tàu để cô trồng rau."
+    },
+    {
+      "para_id": "c0135p0040",
+      "index": 40,
+      "raw_zh": "這些天都累壞了，又時刻生活在驚恐之中，三女此時放松下來，一個個都沉沉睡去。",
+      "translated_vi": "Những ngày qua ai nấy đều mệt lử, lại luôn phải sống trong tâm trạng hoảng sợ tột độ, ba cô gái lúc này được thả lỏng liền lần lượt chìm sâu vào giấc ngủ say."
+    },
+    {
+      "para_id": "c0135p0041",
+      "index": 41,
+      "raw_zh": "孫倩跑到倉庫去，說是要研究一個漁網。",
+      "translated_vi": "Tôn Thiến chạy tót xuống khoang chứa đồ, bảo là muốn nghiên cứu một tấm lưới đánh cá."
+    },
+    {
+      "para_id": "c0135p0042",
+      "index": 42,
+      "raw_zh": "雲千峰則靠在床頭上，心裡想著內心疑惑的事情。",
+      "translated_vi": "Còn Vân Thiên Phong thì tựa lưng vào đầu giường, trong lòng miên man nghĩ về những khúc mắc chưa có lời giải."
+    },
+    {
+      "para_id": "c0135p0043",
+      "index": 43,
+      "raw_zh": "“我和盤瓠真的是輪回嗎？應該是，否則婚禮的磁錄不會因為我而完成。可為什麽盤瓠戴上狗頭盔是狗頭的模樣，而我戴著卻會融入我的皮膚頭髮？我們倆必定是不一樣的，那就不是輪回。那為什麽是我完成那等待了數千年的婚禮？”",
+      "translated_vi": "“Mình và Bàn Hộ thực sự là luân hồi sao? Chắc phải là vậy, nếu không thì cảnh tượng từ tính của hôn lễ đã chẳng vì mình mà hoàn tất. Nhưng cớ sao Bàn Hộ đội mũ giáp đầu chó vào thì mang hình dạng đầu chó, còn mình đội vào lại hòa tan vào da thịt và mái tóc? Hai người bọn mình chắc chắn là khác biệt, vậy thì không phải luân hồi. Thế thì tại sao lại là mình đứng ra hoàn thành hôn lễ đã chờ đợi đằng đẵng suốt mấy ngàn năm ấy?”"
+    },
+    {
+      "para_id": "c0135p0044",
+      "index": 44,
+      "raw_zh": "他覺得，自己被自己的思路繞暈了，便使勁的晃了晃腦袋，把想不清楚的事情放在一邊，閉目沉沉睡去。",
+      "translated_vi": "Anh cảm thấy mình đang bị chính dòng suy nghĩ của bản thân làm cho lú lẫn, bèn lắc mạnh đầu xua tan những điều chưa nghĩ thông sang một bên, rồi nhắm mắt chìm vào giấc ngủ sâu."
+    },
+    {
+      "para_id": "c0135p0045",
+      "index": 45,
+      "raw_zh": "也不知過了多久，他聽到一陣很輕盈的腳步聲由遠及近，警覺的雲千峰急忙坐起身形，手往旁邊一撈，卻沒摸到那把海軍刀。",
+      "translated_vi": "Chẳng biết đã qua bao lâu, anh bỗng nghe thấy một chuỗi tiếng bước chân vô cùng thanh thoát nhẹ nhàng từ xa tiến lại gần. Sự cảnh giác khiến Vân Thiên Phong vội bật dậy, quờ tay sang bên cạnh tìm kiếm nhưng lại không chạm thấy thanh dao găm hải quân đâu."
+    },
+    {
+      "para_id": "c0135p0046",
+      "index": 46,
+      "raw_zh": "那腳步聲自黑暗中走來，很輕柔，似乎只是聽到那聲音，就能想到那走路的柔媚之姿。",
+      "translated_vi": "Tiếng bước chân ấy bước ra từ trong bóng tối, êm ái uyển chuyển, dường như chỉ nghe âm thanh thôi cũng đủ mường tượng ra dáng đi thướt tha mềm mại nhường nào."
+    },
+    {
+      "para_id": "c0135p0047",
+      "index": 47,
+      "raw_zh": "這麽久以來，雲千峰聽過最好聽的腳步聲就是秦疏影的，但是此人的腳步聲，似乎更勝了一層輕盈。",
+      "translated_vi": "Suốt bấy lâu nay, tiếng bước chân êm tai nhất mà Vân Thiên Phong từng nghe chính là của Tần Sơ Ảnh, thế nhưng tiếng bước chân của con người này dường như còn thanh thoát nhẹ nhàng hơn cả một bậc."
+    },
+    {
+      "para_id": "c0135p0048",
+      "index": 48,
+      "raw_zh": "那人影在黑暗中款款出現，身形修長，寬松的白色蠶絲長裙也遮掩不住那美妙的凸凹曲線。",
+      "translated_vi": "Bóng người ấy khoan thai hiện ra giữa bóng đêm mờ ảo, vóc dáng thon dài, chiếc váy dài lụa tằm màu trắng rộng thùng thình cũng chẳng thể nào che giấu nổi những đường cong lồi lõm mê hồn tuyệt mỹ."
+    },
+    {
+      "para_id": "c0135p0049",
+      "index": 49,
+      "raw_zh": "可是當雲千峰看到那張臉時，整個人卻被駭得在床上向後退去。",
+      "translated_vi": "Thế nhưng khi Vân Thiên Phong nhìn rõ khuôn mặt ấy, cả người anh lại khiếp hãi lùi giật ra sau giường."
+    },
+    {
+      "para_id": "c0135p0050",
+      "index": 50,
+      "raw_zh": "那是一張猙獰的青銅虎形面具。",
+      "translated_vi": "Đó là một chiếc mặt nạ hình mặt hổ bằng đồng thanh vô cùng dữ tợn."
+    },
+    {
+      "para_id": "c0135p0051",
+      "index": 51,
+      "raw_zh": "那身影來到床邊，伏在雲千峰腳下，仰頭用深幽漆黑的眸子看著雲千峰，柔聲道：",
+      "translated_vi": "Bóng hình ấy bước tới bên mép giường, phủ phục dưới chân Vân Thiên Phong, ngẩng đầu dùng đôi mắt đen láy thăm thẳm nhìn anh, cất giọng dịu dàng:"
+    },
+    {
+      "para_id": "c0135p0052",
+      "index": 52,
+      "raw_zh": "“良人伱醒了？”",
+      "translated_vi": "“Lương nhân, chàng tỉnh rồi ư?”"
+    },
+    {
+      "para_id": "c0135p0053",
+      "index": 53,
+      "raw_zh": "良人這個稱呼，那是周朝乃至周朝以前，女人對丈夫的稱呼。",
+      "translated_vi": "Danh xưng ‘lương nhân’ này vốn là cách mà phụ nữ thời nhà Chu, thậm chí trước cả thời nhà Chu dùng để gọi người chồng của mình."
+    },
+    {
+      "para_id": "c0135p0054",
+      "index": 54,
+      "raw_zh": "雲千峰心驚肉跳，下意識問道：",
+      "translated_vi": "Vân Thiên Phong tim đập thình thịch kinh hoàng, theo phản xạ hỏi:"
+    },
+    {
+      "para_id": "c0135p0055",
+      "index": 55,
+      "raw_zh": "“你怎麽在這？”",
+      "translated_vi": "“Sao cô lại ở đây?”"
+    },
+    {
+      "para_id": "c0135p0056",
+      "index": 56,
+      "raw_zh": "那女人微微歪了一下頭，看著雲千峰，柔聲道：",
+      "translated_vi": "Người phụ nữ khẽ nghiêng đầu nhìn Vân Thiên Phong, nhẹ nhàng bảo:"
+    },
+    {
+      "para_id": "c0135p0057",
+      "index": 57,
+      "raw_zh": "“這是我們的家啊！”",
+      "translated_vi": "“Đây là nhà của chúng ta mà!”"
+    },
+    {
+      "para_id": "c0135p0058",
+      "index": 58,
+      "raw_zh": "“家？”",
+      "translated_vi": "“Nhà ư?”"
+    },
+    {
+      "para_id": "c0135p0059",
+      "index": 59,
+      "raw_zh": "雲千峰抬頭看去，仔細一看，這才發現自己根本不是在艦船的士兵艙內，而是在一個亭台樓閣的院落內。",
+      "translated_vi": "Vân Thiên Phong ngước mắt nhìn lên, quan sát thật kỹ thì mới giật mình phát hiện ra bản thân căn bản không hề ở trong khoang lính của chiếc chiến hạm, mà đang ở giữa một khuôn viên sân vườn đình đài lầu các cổ kính."
+    },
+    {
+      "para_id": "c0135p0060",
+      "index": 60,
+      "raw_zh": "而自己就在臨窗的一張木塌上，上面錦被柔軟，外面清風習習。",
+      "translated_vi": "Còn bản thân anh đang nằm trên một chiếc giường sập bằng gỗ kê sát bên cửa sổ, phía trên đắp tấm chăn gấm mềm mại, bên ngoài gió mát hiu hiu thổi."
+    },
+    {
+      "para_id": "c0135p0061",
+      "index": 61,
+      "raw_zh": "那女人點頭的姿勢都是那麽的曼妙，可惜那面具太過恐怖。",
+      "translated_vi": "Động tác khẽ gật đầu của người phụ nữ ấy uyển chuyển duyên dáng biết bao, tiếc rằng chiếc mặt nạ kia lại quá đỗi hãi hùng."
+    },
+    {
+      "para_id": "c0135p0062",
+      "index": 62,
+      "raw_zh": "“對，這是我們的家，良人的封地，南山。”",
+      "translated_vi": "“Phải, đây là nhà của chúng ta, phong địa Nam Sơn của lương nhân.”"
+    },
+    {
+      "para_id": "c0135p0063",
+      "index": 63,
+      "raw_zh": "雲千峰看著外面的天空，沒有一顆星，不見半個月，卻有五色光閃爍，彌漫如雲霧，很像是極地的極光，但這裡分明樹繁花茂，絕不無可能是兩極之地。",
+      "translated_vi": "Vân Thiên Phong nhìn ra bầu trời bên ngoài, không một vì sao, chẳng thấy nửa vầng trăng, nhưng lại có những dải ánh sáng năm màu lấp lánh nhấp nháy, lan tỏa lượn lờ tựa sương mây mịt mùng, trông rất giống cực quang ở hai vùng cực Trái Đất. Thế nhưng nơi đây cây cối xanh tươi, hoa cỏ nở rộ tốt tươi, tuyệt đối không thể nào là vùng cực băng giá được."
+    },
+    {
+      "para_id": "c0135p0064",
+      "index": 64,
+      "raw_zh": "“南山在何處？”",
+      "translated_vi": "“Nam Sơn ở nơi nào?”"
+    },
+    {
+      "para_id": "c0135p0065",
+      "index": 65,
+      "raw_zh": "那女人回道：",
+      "translated_vi": "Người phụ nữ đáp lời:"
+    },
+    {
+      "para_id": "c0135p0066",
+      "index": 66,
+      "raw_zh": "“南山在南海之上。”",
+      "translated_vi": "“Nam Sơn nằm ở trên Nam Hải.”"
+    },
+    {
+      "para_id": "c0135p0067",
+      "index": 67,
+      "raw_zh": "“南海又在哪裡？”",
+      "translated_vi": "“Thế Nam Hải lại ở đâu?”"
+    },
+    {
+      "para_id": "c0135p0068",
+      "index": 68,
+      "raw_zh": "“南海，在腳下，在天上。”",
+      "translated_vi": "“Nam Hải, ở dưới chân, ở trên trời.”"
+    },
+    {
+      "para_id": "c0135p0069",
+      "index": 69,
+      "raw_zh": "雲千峰沒有聽懂這句話，鬼也聽不懂。",
+      "translated_vi": "Vân Thiên Phong hoàn toàn chẳng hiểu nổi câu nói này, đến ma quỷ e rằng cũng chẳng hiểu nổi."
+    },
+    {
+      "para_id": "c0135p0070",
+      "index": 70,
+      "raw_zh": "見雲千峰又要詢問，那女人柔聲道：",
+      "translated_vi": "Thấy Vân Thiên Phong định mở miệng gặng hỏi tiếp, người phụ nữ liền dịu giọng bảo:"
+    },
+    {
+      "para_id": "c0135p0071",
+      "index": 71,
+      "raw_zh": "“良人，你該摘下妻的面具了。”",
+      "translated_vi": "“Lương nhân, chàng nên tháo mặt nạ của thiếp xuống rồi.”"
+    },
+    {
+      "para_id": "c0135p0072",
+      "index": 72,
+      "raw_zh": "雲千峰猛搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu nguầy nguậy, nói:"
+    },
+    {
+      "para_id": "c0135p0073",
+      "index": 73,
+      "raw_zh": "“不，你的良人是盤瓠，我不是盤瓠！”",
+      "translated_vi": "“Không, lương nhân của cô là Bàn Hộ, tôi không phải là Bàn Hộ!”"
+    },
+    {
+      "para_id": "c0135p0074",
+      "index": 74,
+      "raw_zh": "那女人輕搖頭，柔聲道：",
+      "translated_vi": "Người phụ nữ khẽ lắc đầu, thủ thỉ dịu dàng:"
+    },
+    {
+      "para_id": "c0135p0075",
+      "index": 75,
+      "raw_zh": "“良人就是良人，叫什麽不重要，你只要知道我是你的妻，你是我的良人便夠了。”",
+      "translated_vi": "“Lương nhân chính là lương nhân, tên gọi là gì đâu có quan trọng. Chàng chỉ cần biết thiếp là thê tử của chàng, chàng là lương nhân của thiếp, thế là đủ rồi.”"
+    },
+    {
+      "para_id": "c0135p0076",
+      "index": 76,
+      "raw_zh": "說著，她托起雲千峰的手，緩緩移向她的青銅面具。",
+      "translated_vi": "Vừa nói, nàng vừa nâng bàn tay của Vân Thiên Phong lên, từ từ đưa về phía chiếc mặt nạ đồng thanh của mình."
+    },
+    {
+      "para_id": "c0135p0077",
+      "index": 77,
+      "raw_zh": "鬼使神差，雲千峰雙手扶著那青銅面具緩緩摘下，腦子裡似乎還在提醒自己不能摘，摘了就是她的良人，但手卻沒有聽從腦海的警告。",
+      "translated_vi": "Như có ma xui quỷ khiến, hai tay Vân Thiên Phong vịn lấy chiếc mặt nạ đồng thanh kia chầm chậm gỡ xuống. Trong đầu anh dường như vẫn đang tự cảnh báo không được tháo, tháo ra là sẽ trở thành lương nhân của nàng, nhưng đôi tay lại chẳng chịu nghe theo lời cảnh báo của lý trí."
+    },
+    {
+      "para_id": "c0135p0078",
+      "index": 78,
+      "raw_zh": "那青銅面具摘下，露出了美得讓人眩暈的面龐，如美酒，如花香。",
+      "translated_vi": "Chiếc mặt nạ đồng thanh được gỡ bỏ, để lộ ra một khuôn mặt đẹp đến mức khiến người ta phải choáng váng ngất ngây, say đắm như rượu ngon, ngạt ngào như hương hoa."
+    },
+    {
+      "para_id": "c0135p0079",
+      "index": 79,
+      "raw_zh": "隻一眼，人就醉了。",
+      "translated_vi": "Chỉ một ánh nhìn thôi, hồn người đã say lảo đảo."
+    },
+    {
+      "para_id": "c0135p0080",
+      "index": 80,
+      "raw_zh": "那女人微涼的手撫上了雲千峰的狼腰，身體貼著他的腿，慢慢附上來，雲千峰不由自主的倒在軟榻上，感受那讓人迷醉的身體緩緩蹭到自己身旁。",
+      "translated_vi": "Bàn tay mát lạnh của người phụ nữ vuốt ve lên vòng eo thon gọn săn chắc của Vân Thiên Phong, thân thể nàng áp sát vào đôi chân anh, chầm chậm dán sát lên người. Vân Thiên Phong bất giác ngả người xuống chiếc sập mềm, cảm nhận cơ thể khiến lòng người đê mê ấy đang chầm chậm cọ sát bên cạnh mình."
+    },
+    {
+      "para_id": "c0135p0081",
+      "index": 81,
+      "raw_zh": "她的每一個動作都美的像是舞蹈，但偏偏那麽自然，絲毫不見做作。",
+      "translated_vi": "Từng cử chỉ động tác của nàng đều đẹp tựa một vũ điệu thần tiên, nhưng lại tự nhiên vô cùng, chẳng hề có chút gượng gạo làm bộ làm tịch nào."
+    },
+    {
+      "para_id": "c0135p0082",
+      "index": 82,
+      "raw_zh": "就見她把手放到了衣帶上，只需輕輕一拉，便即坦誠。",
+      "translated_vi": "Chỉ thấy nàng đặt tay lên dải lụa thắt lưng, chỉ cần khẽ kéo một cái là sẽ hoàn toàn trút bỏ xiêm y."
+    },
+    {
+      "para_id": "c0135p0083",
+      "index": 83,
+      "raw_zh": "雲千峰甚至能在腦海裡想象出那裡面是多麽美不勝收的景色。",
+      "translated_vi": "Vân Thiên Phong thậm chí có thể tưởng tượng ra trong đầu khung cảnh bên trong đó sẽ tuyệt mỹ ngút ngàn đến dường nào."
+    },
+    {
+      "para_id": "c0135p0084",
+      "index": 84,
+      "raw_zh": "然而就在這一刻，她的手放在衣帶上的那一瞬間，那女人突然轉頭看向雲千峰腳下，絕美的臉竟帶著無盡的威嚴和殺氣，怒斥道：",
+      "translated_vi": "Thế nhưng đúng vào khoảnh khắc này, ngay giây phút bàn tay nàng đặt lên dải thắt lưng, người phụ nữ bỗng nhiên ngoảnh đầu nhìn xuống phía dưới chân Vân Thiên Phong, trên gương mặt tuyệt mỹ ấy thế mà lại tràn ngập nét uy nghiêm và sát khí ngút trời, cất tiếng nộ sỉ:"
+    },
+    {
+      "para_id": "c0135p0085",
+      "index": 85,
+      "raw_zh": "“是誰？”",
+      "translated_vi": "“Là ai?”"
+    },
+    {
+      "para_id": "c0135p0086",
+      "index": 86,
+      "raw_zh": "感謝：誰會拒絕小猶太呢、投擲傻瓜彈、八方翰墨、韓夢寒夢非攻、的月票鼓勵，謝謝你們一直以來的支持！！！感激~~~！！！~~~！！！",
+      "translated_vi": "Chân thành cảm ơn sự khích lệ bằng phiếu tháng từ Thùy Hội Cự Tuyệt Tiểu Do Thái Nê, Đầu Trịch Sỏa Qua Đạn, Bát Phương Hàn Mặc, Hàn Mộng Hàn Mộng Phi Công, cảm ơn sự ủng hộ bền bỉ bấy lâu nay của các bạn!!! Vô cùng cảm kích~~~!!!~~~!!!"
+    }
+  ]
+}

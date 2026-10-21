@@ -1,0 +1,94 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0294|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Hắn thầm nghĩ:
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一張|một tấm
+M2|一張|một tấm
+M3|六道|sáu luồng
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §51):
+§1 [Ø=云千峰]“我就是問問她還有什麽絕活，怎麽就孟浪了？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§2 [Ø=云千峰]思索良久，再見楊玉奴那羞怯的表情，突然間他悟了。
+§3 [Ø=云千峰]“楊玉奴恐怕只有三絕，一舞一歌，至於第三個絕技嘛，很難言表， [||] 但就憑這唐明皇五十六歲娶了楊玉奴，一直寵愛到唐明皇七十歲，還戀戀不舍，一日難離，就知道楊玉奴的第三樣絕活是什麽了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§4 雲千峰內心感歎：
+§5 [Ø=云千峰]“楊玉奴一定是此道真正的大家！七十歲還能讓他行已經是天難地難，還能讓其一日難離，這就是難以想象的技巧了， [||] 不，不對，我滴神啊！
+§6 那是藝術！”
+§7 [Ø=云千峰]皮膚白的人容易臉紅，楊玉奴很白，所以在罵了雲千峰孟浪後， [||] 一直到睡覺前，臉都是紅紅的，眸子裡濕漉漉的。
+§8 [Ø=云千峰]並不寬敞的斜坡避身所內，四面透風，今晚似乎比昨日冷些。
+§9 [Ø=云千峰]倆人躺在一張[M1:một tấm]熟好的牛皮上，沉沉入睡。
+§10 [Ø=云千峰]今日有些奇怪，因為雲千峰再觸碰到楊玉奴後，楊玉奴並沒有如之前幾夜那般快速的躲開，而是就憑著雲千峰那麽挨著。
+§11 或許是因為冷吧？
+§12 [Ø=云千峰]就在他們睡沉的時候，閻羅殿內九屠正在開會。
+§13 [Ø=云千峰]邋遢老道手裡攥著一把竹簽，對著身前捌人九個魂兒道：
+§14 [Ø=云千峰]“抽到短簽的，從今日起開始瀆職， [||] 直到被全知之眼關押，而後會繼續抽簽，我們只能希望早早的處理掉雲千峰以及他可能帶來的問題。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 [Ø=云千峰]捌人九魂兒無奈，知道自己不選也得選，於是紛紛抽簽。
+§16 那個雙重人格之一的右弼抽到了短簽。
+§17 他悲哀的對著自己的另一個人格左輔悲戚道：
+§18 [Ø=云千峰]“左輔，以後只有你了，你是不是很高興？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 左輔悲傷的使勁搖頭道：
+§20 [Ø=云千峰]“不，我一點也不開心，我喜歡躲在你身後右弼！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 [Ø=云千峰]其他幾人都是搖頭歎氣，頗有兔死狐悲之感。
+§22 邋遢老道對著那抽到短簽的右弼叮囑道：
+§23 [Ø=云千峰]“我要去做一些布局，可能這幾天不會來，你切記一點， [||] 除了這個人以外，其它所有給雲千峰送東西的人，都不能送到第十八層，明白嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 [Ø=云千峰]說著，邋遢老道同時遞過去一張[M2:một tấm]照片。
+§25 照片上的人正是薑柔甲。
+§26 [Ø=云千峰]那抽到短簽的人格右弼使勁的點了一下頭，道：
+§27 [Ø=云千峰]“放心吧，必定完成帝之命令，百死不惜！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 邋遢老道稽首道：
+§29 “善！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§30 其他人也都對著右弼施禮。
+§31 [Ø=云千峰]他們知道，右弼必將成為九屠裡第一個被全知之眼判罰之人，因為每天來給雲千峰送東西的魂兒太多了， [||] 他只能不斷的破壞全知之眼的規則，以此來拖延雲千峰找到六道[M3:sáu luồng]盤的時間，給他們的帝嚳爭取時間。
+§32 [Ø=云千峰]當天黎明之前，右弼見到了該見到的人，他無需與之交流，便將目標送到了第十八層地獄。
+§33 [Ø=云千峰]右弼必須承認，THE ONE的工作效率還是很強的， [||] 這麽快就準備好了，而且似乎準備的極為充分，只不過他沒太看懂THE ONE的布局。
+§34 [Ø=云千峰]“是迷局嗎？很高深啊，我竟無法堪破其妙，等那邋遢天璣回來，當要好好問問其中奧妙所在。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 [Ø=云千峰]想著，右弼深深歎了口氣，知道自己這樣下去，撐不了多久， [||] 就得被全知之眼打進地獄，心中不免悲涼，於是看著虛空遠處，沉聲道：
+§36 [Ø=云千峰]“帝，苟富貴勿相忘，記得來救右弼啊！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 次日。
+§38 地獄十八層內。
+§39 雲千峰和楊玉奴起床洗漱完畢後。
+§40 [Ø=云千峰]“大丫鬟，咱們今天不熟牛皮，你就安心製作食物就好，我要出海一趟， [||] 把那些給咱們送物資的人帶到這島上來，放心不會安置在這裡，這是我們倆的居所，決不讓外人來。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 [Ø=云千峰]已經住的熟悉了，楊玉奴現在也不是很怕自己白天在這裡，於是叮囑道：
+§42 [Ø=云千峰]“那郎君可早些回來，天黑了太真會怕。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 雲千峰笑道：
+§44 [Ø=云千峰]“放心吧，天黑前肯定回來，還有別使勁喝可樂。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§45 [Ø=云千峰]說完，拎著絞死楊玉奴的白綾出發了。
+§46 [Ø=云千峰]雲千峰沒想到的是，這一趟出去，不但讓自己對楊玉奴食言了，還給自己帶來了天大的麻煩
+§47 [Ø=云千峰]感謝ㄨ獨孤敗天ㄟ、BB小方、書友尾數05286、特_別扭、健談的普信男鋼鐵版、隱身\守候、韓成蹊、書友尾數49961、的打賞，謝謝你們的支持，感激！！！
+§48 感謝ㄨ獨孤敗天ㄟ、特_別扭、X8test、隱身\守候、盧三、尾數59853、尾數04098、觀天神君、那就明天見吧、為什麽不開窗、lovel乾飯人、葉子雅雅、站五渣、我是來看章節說的、尾數30847、尾數50188、尾數49961、尾數03936、我的懶病沒藥醫、尾數05286、金大耎的男朋友、一花一世界_Ae、木遊悠、尾數39859、尾數59735、尾數22062、尾數18659、尾數41610、某科學的超中二少年、枉然悵然、Anivn、焉城第一劍仙、尾數51577、摯愛孤獨233、尾數15224、125毫米炮炮手、柴可夫不羈、尾數25596、409、我才不是一個無知少年、尾數07736、尾數45691、尾數37200、沒想好叫什麽、星的景、妮姬大法好、我一生的摯愛啊、Xenomorph、Chuansir的月票鼓勵！！！
+§49 [Ø=云千峰]謝謝你們的支持，感激！！！
+§50 [Ø=云千峰]今天精神不錯，我繼續碼字，祝大家好夢！！！
+§51 晚安！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 51 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§51. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

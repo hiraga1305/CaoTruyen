@@ -1,0 +1,107 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0227|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|"Thế nhưng lúc này cô lại sở hữu lương thực. Quá trình của chữ 'ngộ' cũng rất giống như vậy, cô chỉ có thể tự mình chậm rãi nghiền ngẫm, cảm nhận, chẳng một ai có thể dạy được cho cô cả."
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §68):
+§1 [Ø=云千峰]琳達陷入了沉思，許久都沒有再說話。
+§2 這是個喜歡學習和思考的女生。
+§3 [Ø=云千峰]如此走了一個多小時，雲千峰發現身邊這些人的眼睛越來越紅，不斷地眨眼，似乎很疲勞。
+§4 [Ø_SHIFT=姜柔甲]就急忙停下腳步，說道：
+§5 [Ø=姜柔甲]“大家圍成一圈，面向內。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§6 [Ø=姜柔甲]所有人不知道他要做什麽，但他們現在把雲千峰當成主心骨，只能照著他的話做。
+§7 [Ø=姜柔甲]幾個人緊緊挨著圍成一圈後，雲千峰對琳達，道：
+§8 [Ø=姜柔甲]“琳達，拿著你的小刀，把你褲子裡的小褲兩側割開，然後拿出來。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§9 [Ø=姜柔甲]琳達不明所以，但她現在很迷信雲千峰。
+§10 [Ø=姜柔甲]其實很奇怪，西方人很容易迷信某個人或物，也就是容易洗腦。
+§11 [Ø=姜柔甲]琳達把雙手伸進褲子裡，在裡面鼓搗了幾下，有些害羞的抽出了自己的小褲。
+§12 [Ø=姜柔甲]雲千峰點了點頭，對那黑色鏤空很滿意。
+§13 [Ø=姜柔甲]“把刀順時針遞出去，所有人都把自己的小褲割斷兩側拿出來。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§14 [Ø=姜柔甲]接下來是荷茜許，看到那T字，雲千峰沉默了。
+§15 [Ø=姜柔甲]當看到蘇菲鍾更細的T字，雲千峰更加沉默了。
+§16 [Ø=姜柔甲]輪到傑裡周的時候，傑裡周沒動，他拿著小刀，看著雲千峰道：
+§17 [Ø=姜柔甲]“大哥，我不穿那東西， [||] 不過我有點靜脈曲張，所以穿了黑色的S襪，那個可以嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§18 [Ø=姜柔甲]雲千峰連連點頭，道：
+§19 [Ø=姜柔甲]“相當可以了，割下來一部分就夠了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§20 [Ø=姜柔甲]當傑裡周掏出一大塊黑色透明布料後，雲千峰才繼續道：
+§21 [Ø=姜柔甲]“用你們手裡的東西把自己的眼睛遮住，否則最多一兩個小時候，你們都會成為瞎子。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 [Ø=姜柔甲]拿著T字的荷茜和蘇菲立馬獻媚傑裡周，因為她們倆的根本不夠遮住眼睛。
+§23 [Ø=姜柔甲]傑裡周被兩女哄了幾嘴後，欣然同意。
+§24 [Ø=姜柔甲]黑色的絲網遮住眼睛，並不耽誤看東西， [||] 然後他們驚奇的發現，眼睛不疼了，也不流眼淚了。
+§25 [Ø=姜柔甲]隊伍繼續趕路，琳達追上前面的雲千峰，嗯嗯啊啊一會，才聲音很小的說道：
+§26 [Ø=姜柔甲]“你不需要蒙住眼睛嗎？我的這個夠大的，可以分你一半。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 [Ø=姜柔甲]雲千峰點了點頭，道：
+§28 “謝謝。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 [Ø=姜柔甲]其實他真的不需要，隨著時間的推移， [||] 元在他身上越來越多的體現著其強大的性能，帶著元的頭盔，他根本不需要擔心雪盲的問題。
+§30 [Ø=姜柔甲]但問題是，拒絕這樣的好意，會讓琳達有些難堪。
+§31 [Ø=姜柔甲]琳達遮住的臉有點紅，很快把黑色鏤空分成了兩半，還特意把稍微大的一半給了雲千峰。
+§32 [Ø=姜柔甲]雲千峰把黑色鏤空圍在了眼睛上，同時鼻子聞到了淡淡的味道，一點也不難聞，但絕不是香味。
+§33 [Ø=姜柔甲]“雲，我好像明白什麽是智慧了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 [Ø=姜柔甲]說著，用手指著自己蒙在眼睛上的黑色，說道：
+§35 [Ø=姜柔甲]“解決問題的能力，就是智慧。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 [Ø=姜柔甲]雲千峰看著琳達，笑道：
+§37 “非常接近了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 [Ø=姜柔甲]琳達不服氣，道：
+§39 “只是接近嗎？難道這不就是問題的準確答案？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 [Ø=姜柔甲]雲千峰搖頭，道：
+§41 [Ø=姜柔甲]“問題即是煩惱，而智慧是沒有煩惱，這也是為什麽地藏王是菩薩而不是佛的原因。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§42 [Ø=姜柔甲]琳達點了點頭，又搖了搖頭，嘟囔道：
+§43 [Ø=姜柔甲]“我好像懂了，又好像一點都不懂，好奇怪的感覺。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 [Ø=姜柔甲]雲千峰沒告訴她，這是最好的狀態，因為這就是悟。
+§45 [Ø=姜柔甲]在南極行路，沒有防陷雪橇的情況下，速度慢的超乎想象。
+§46 [Ø=姜柔甲]厚厚的積雪，隨便一腳都沒過半個小腿，踩下去拔出來，極是耗費體力。
+§47 [Ø=姜柔甲]雲千峰時刻感受著自己腳趾的狀態，當他有些感覺不到自己腳趾的時候，便叫停了隊伍。
+§48 [Ø=姜柔甲]“找人面對面坐下，脫掉鞋子， [||] 把腳放到對方的衣服裡，直到腳趾發燙漲疼，再繼續出發。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§49 [Ø=姜柔甲]南極的低溫，稍有不注意，腳趾內的血液便會凍結， [||] 形成帶尖角的冰凌，這些冰凌會徹底破壞腳趾的組織，那時就不得不切掉它們，一如荷茜許的耳朵。
+§50 [Ø=姜柔甲]早期的南極探險家們，很多都沒了腳趾頭。
+§51 [Ø=姜柔甲]雲千峰和琳達很自然的捉對，面對面坐好，把脫掉鞋子的腳伸進了對方的衣服，挨著對方的皮膚。
+§52 [Ø=姜柔甲]冰涼的腳，頓時讓倆人都是一哆嗦。
+§53 [Ø=姜柔甲]剩下三人，只能三人對坐，等腰三角形的劈著腿，誰也不肯吃虧多暖一隻腳。
+§54 [Ø=姜柔甲]貼著對方溫暖的皮膚，腳趾慢慢恢復知覺，開始酸麻脹痛，好不難受。
+§55 [Ø=姜柔甲]雲千峰還好些，本身就氣血旺盛，加之忍痛能力強， [||] 倒是沒所謂，幾個女生哪受過這個罪，此時都是難受的扭頭晃T直哼哼。
+§56 [Ø=姜柔甲]突然，琳達看向雲千峰身後的目光呆住，似乎看到了什麽奇怪恐怖的東西。
+§57 雲千峰急忙回頭看過去。
+§58 [Ø=姜柔甲]就見遠處一處雪地上，似乎有著一個幽靈在飄動著，恍恍惚惚，一會大一會小。
+§59 雲千峰腦海裡浮現出三個名字。
+§60 “幽靈？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§61 “雪人？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§62 “寧恩？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§63 [Ø=姜柔甲]感謝guzhenrennlf的打賞，謝謝你的支持！！！
+§64 [Ø=姜柔甲]感謝瓷格格、尾數59092、卜歌、浮雲半夢笙、尾數14351、尾數80096、YC525、姚遺風、尾數14262的月票獎勵，謝謝你們的支持！！！
+§65 [Ø=姜柔甲]周末一過完，我晚上就神奇的不困了！！！
+§66 祝大家好夢連連！！！
+§67 我碼字。
+§68 晚安！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 68 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§68. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

@@ -1,0 +1,427 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 67,
+  "title": "Chương 67: Sao lại có mặt trời?",
+  "total_paragraphs": 69,
+  "translated_paragraphs": 69,
+  "source_hash": "06b096e0f9f206751f75391a1163f197e99feab832e8e86a4d45ae60cc6ac6b7",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0067p0001",
+      "index": 1,
+      "raw_zh": "第67章 怎麽有太陽？",
+      "translated_vi": "Chương 67: Sao lại có mặt trời?"
+    },
+    {
+      "para_id": "c0067p0002",
+      "index": 2,
+      "raw_zh": "被人注視，自然會生出感覺，所以雲千峰也早對不遠處那木舶心裡犯嘀咕。",
+      "translated_vi": "Bị người khác dõi mắt nhìn chằm chằm, tự khắc sẽ sinh ra linh cảm, thế nên Vân Thiên Phong vốn cũng đã thầm nghi hoặc về chiếc thuyền gỗ cách đó không xa từ nãy đến giờ."
+    },
+    {
+      "para_id": "c0067p0003",
+      "index": 3,
+      "raw_zh": "滿都拉圖外表最粗狂，但是心思最細，他察覺了雲千峰臉上的不自然，於是低聲問道：",
+      "translated_vi": "Mandulatu bề ngoài thô kệch phong trần nhất nhưng tâm tư lại tỉ mỉ nhất. Ông nhận ra nét mất tự nhiên trên gương mặt Vân Thiên Phong, liền ghé sát hạ giọng hỏi:"
+    },
+    {
+      "para_id": "c0067p0004",
+      "index": 4,
+      "raw_zh": "“怎麽了？”",
+      "translated_vi": "“Sao thế?”"
+    },
+    {
+      "para_id": "c0067p0005",
+      "index": 5,
+      "raw_zh": "雲千峰沉吟了一下，說道：",
+      "translated_vi": "Vân Thiên Phong trầm ngâm một lát rồi đáp:"
+    },
+    {
+      "para_id": "c0067p0006",
+      "index": 6,
+      "raw_zh": "“不知道為什麽，我總感覺那木舶上有人一直在盯著我看。”",
+      "translated_vi": "“Không hiểu sao tôi cứ có cảm giác trên chiếc thuyền gỗ kia có người đang đăm đăm nhìn chằm chằm vào mình.”"
+    },
+    {
+      "para_id": "c0067p0007",
+      "index": 7,
+      "raw_zh": "維多利亞聽到這話後，低聲道：",
+      "translated_vi": "Victoria nghe thấy vậy liền nói nhỏ:"
+    },
+    {
+      "para_id": "c0067p0008",
+      "index": 8,
+      "raw_zh": "“除了咱們這些人，記得你的人已經沒有了，怎麽會有人專門盯著你看？”",
+      "translated_vi": "“Ngoài mấy người chúng ta ra, trên đời này làm gì còn ai nhớ đến anh nữa, sao lại có người cố tình nhìn chằm chằm vào anh được?”"
+    },
+    {
+      "para_id": "c0067p0009",
+      "index": 9,
+      "raw_zh": "薑玉林說道：",
+      "translated_vi": "Khương Ngọc Lâm chen vào:"
+    },
+    {
+      "para_id": "c0067p0010",
+      "index": 10,
+      "raw_zh": "“要不過去打個招呼？認識不認識的，一下就知道了。”",
+      "translated_vi": "“Hay là qua bên đó chào hỏi một tiếng xem sao? Quen hay không quen, vừa gặp mặt là biết ngay thôi mà.”"
+    },
+    {
+      "para_id": "c0067p0011",
+      "index": 11,
+      "raw_zh": "雲千峰擺手，道：",
+      "translated_vi": "Vân Thiên Phong xua tay bảo:"
+    },
+    {
+      "para_id": "c0067p0012",
+      "index": 12,
+      "raw_zh": "“我一黑戶，還是不要節外生枝，畢竟我也不確定人家有沒有一直看我，咱們把遊艇靠岸吧，大家都休息一會，精神足了就去看看下面的八卦台。”",
+      "translated_vi": "“Tôi đang là kẻ vô danh vô phận, tốt nhất đừng đâm cành trổ nhánh làm gì. Dù sao tôi cũng chẳng chắc mười mươi người ta có thực sự nhìn mình hay không. Chúng ta cứ cho du thuyền cập bờ đi, mọi người chợp mắt nghỉ ngơi một lát, dưỡng đủ tinh thần rồi hẵng xuống thăm dò đài Bát Quái bên dưới.”"
+    },
+    {
+      "para_id": "c0067p0013",
+      "index": 13,
+      "raw_zh": "之所以靠岸，是因為這裡畢竟是吞舟之地，雖然已經多年沒有聽說過這種事，但安全起見，睡覺休息的時候，還是遠離這深水區域。",
+      "translated_vi": "Sở dĩ phải cho thuyền áp sát bờ là bởi nơi đây rốt cuộc vẫn là vùng nước nuốt thuyền khét tiếng. Tuy đã nhiều năm không nghe nhắc tới tai ương kiểu này, nhưng cẩn tắc vô ưu, lúc ngủ nghê nghỉ ngơi tốt nhất vẫn nên tránh xa vùng nước sâu."
+    },
+    {
+      "para_id": "c0067p0014",
+      "index": 14,
+      "raw_zh": "然而，就在薑玉林剛啟動遊艇，不遠處老爺廟後龍首山處傳來一陣“呼啦啦”的亂響，緊接著是無數老鴰齊聲鳴叫，直衝震天。",
+      "translated_vi": "Thế nhưng, Khương Ngọc Lâm vừa mới nổ máy du thuyền thì từ phía sau Lão Gia miếu trên đỉnh Long Thủ sơn cách đó không xa bỗng truyền đến một tràng âm thanh rào rào hỗn loạn. Ngay sau đó là tiếng kêu gào vang động cả một góc trời của hàng ngàn con quạ đồng loạt cất cánh."
+    },
+    {
+      "para_id": "c0067p0015",
+      "index": 15,
+      "raw_zh": "那些飛禽怕不是有上千隻，大多是老鴰，黑壓壓一片如一團烏雲，在龍首山的叢林內群飛而起，烏壓壓在半空盤旋，朝著湖水的方向嘶叫不停。",
+      "translated_vi": "Bầy chim trời kia e rằng có đến cả ngàn con, phần lớn đều là quạ đen, ken đặc thành một đám mây đen kịt từ trong những rặng cây rậm rạp của Long Thủ sơn túa ra, lượn lờ chao đảo giữa không trung, không ngừng rít gào hướng về phía mặt hồ."
+    },
+    {
+      "para_id": "c0067p0016",
+      "index": 16,
+      "raw_zh": "雲千峰習慣性的從所見取象排卦，飛鳥成群騰空為火象，其下為山，成火山旅卦，又因飛鳥從下而上，初爻動，得出卦辭“旅瑣瑣，斯其所取災”，意思就是“旅行有麻煩，是旅行者自己所尋取的災難”。",
+      "translated_vi": "Theo thói quen nghề nghiệp, Vân Thiên Phong lập tức lấy tượng lập quẻ từ những gì mắt thấy: bầy chim đông đảo bay vút lên trời thuộc Hỏa tượng, bên dưới là núi thuộc Cấn Sơn, hợp thành quẻ Hỏa Sơn Lữ. Lại bởi chim chóc từ dưới bay ngược lên, sơ hào động, chiết ra quẻ từ: “Lữ tỏa tỏa, tư kỳ sở thủ tai”, ngụ ý rằng “Chuyến đi gặp trắc trở, là do chính lữ khách tự rước lấy tai họa vào thân”."
+    },
+    {
+      "para_id": "c0067p0017",
+      "index": 17,
+      "raw_zh": "從玄學上來說，這是遇到自取之災的卦象，從科學角度講，整座山的飛鳥騰空一定是大地有了震動。",
+      "translated_vi": "Xét theo huyền học, đây là quẻ tượng tự chuốc lấy tai họa; còn đứng dưới góc độ khoa học, chim muông cả cánh rừng đồng loạt bay toán loạn ắt hẳn là do mặt đất đang có chấn động dữ dội."
+    },
+    {
+      "para_id": "c0067p0018",
+      "index": 18,
+      "raw_zh": "兩下一合，雲千峰當下後背驚出冷汗來，大聲道：",
+      "translated_vi": "Hai điều ấy trùng khớp với nhau, Vân Thiên Phong lập tức lạnh toát sống lưng, thảng thốt hét lớn:"
+    },
+    {
+      "para_id": "c0067p0019",
+      "index": 19,
+      "raw_zh": "“薑玉林快開船，下面的八卦台要翻身了！”",
+      "translated_vi": "“Khương Ngọc Lâm, mau lái thuyền đi! Đài Bát Quái bên dưới sắp lật mình rồi!”"
+    },
+    {
+      "para_id": "c0067p0020",
+      "index": 20,
+      "raw_zh": "薑玉林滿頭大汗，喊道：",
+      "translated_vi": "Khương Ngọc Lâm mồ hôi vã ra như tắm, gào lên:"
+    },
+    {
+      "para_id": "c0067p0021",
+      "index": 21,
+      "raw_zh": "“正在開，走不動！”",
+      "translated_vi": "“Đang đạp hết ga đây, nhưng thuyền không nhúc nhích nổi!”"
+    },
+    {
+      "para_id": "c0067p0022",
+      "index": 22,
+      "raw_zh": "維多利亞驚道：",
+      "translated_vi": "Victoria hoảng hốt kêu lên:"
+    },
+    {
+      "para_id": "c0067p0023",
+      "index": 23,
+      "raw_zh": "“糟了，已經形成暗流層，走不了了，趕緊換裝備！”",
+      "translated_vi": "“Hỏng rồi! Dưới đáy đã hình thành tầng nước xoáy ngầm, không thoát được đâu, mau thay trang bị ngay!”"
+    },
+    {
+      "para_id": "c0067p0024",
+      "index": 24,
+      "raw_zh": "然而，形勢完全沒給他們任何準備的時間。",
+      "translated_vi": "Thế nhưng tình thế ngặt nghèo căn bản chẳng cho họ lấy nửa giây chuẩn bị."
+    },
+    {
+      "para_id": "c0067p0025",
+      "index": 25,
+      "raw_zh": "遊艇周圍的水面好似燒沸了的開水，冒出無數氣泡。",
+      "translated_vi": "Mặt nước quanh mạn du thuyền sùng sục sôi trào hệt như nước sôi trong nồi, hàng vạn bong bóng khí điên cuồng trồi lên."
+    },
+    {
+      "para_id": "c0067p0026",
+      "index": 26,
+      "raw_zh": "就在維多利亞話音剛落，幾個人奔向那潛水和隔熱裝備時，遊艇無聲無息速度極快的開始下沉，前後不過幾秒鍾時間，遊艇便消失在水面之上，跟隨遊艇一起下沉消失的，還有旁邊不遠處的木舶。",
+      "translated_vi": "Ngay khi tiếng Victoria vừa dứt, mấy người họ còn chưa kịp lao tới chỗ đồ lặn và trang phục cách nhiệt thì chiếc du thuyền đã lặng lẽ chìm nghỉm xuống với tốc độ kinh hoàng. Trước sau chỉ vỏn vẹn vài giây ngắn ngủi, du thuyền đã hoàn toàn biến mất khỏi mặt nước. Cùng chìm theo và tan biến vào xoáy nước sâu thẳm ấy còn có cả chiếc thuyền gỗ cách đó không xa."
+    },
+    {
+      "para_id": "c0067p0027",
+      "index": 27,
+      "raw_zh": "倒是回家吃飯的監督人員因為早早離開，躲開了這一劫難。",
+      "translated_vi": "Ngược lại, nhóm nhân viên giám sát nhờ về nhà ăn cơm sớm nên may mắn thoát khỏi kiếp nạn kinh hoàng này."
+    },
+    {
+      "para_id": "c0067p0028",
+      "index": 28,
+      "raw_zh": "水面之下，一道巨大的漩渦吐出碎如亂星的氣泡，鯨吞著湖水。",
+      "translated_vi": "Dưới mặt nước, một xoáy nước khổng lồ phun ra những bọt khí dày đặc như sao sa, điên cuồng nuốt chửng từng đợt nước hồ."
+    },
+    {
+      "para_id": "c0067p0029",
+      "index": 29,
+      "raw_zh": "雲千峰這些人和不遠處那木舶內的人都像是掉進了洗衣機的螞蟻，被甩飛在這漩渦裡，在這被密集氣泡卸掉了浮力的漩渦中，速度極快的下墜。",
+      "translated_vi": "Đám người Vân Thiên Phong cùng những người trên chiếc thuyền gỗ nọ chẳng khác nào đàn kiến rơi tọt vào lồng máy giặt, bị quăng quật tả tơi trong vòng xoáy tử thần. Trong dòng nước xoáy đã bị bọt khí dày đặc triệt tiêu sạch sẽ lực nổi, họ lao thẳng xuống đáy với tốc độ không tưởng."
+    },
+    {
+      "para_id": "c0067p0030",
+      "index": 30,
+      "raw_zh": "“嘭”的一下，雲千峰與那木舶上的一個胖子撞在一處，讓本就暈頭轉向的倆人打著橫，旋轉著向下墜落。",
+      "translated_vi": "“Bốp” một tiếng, Vân Thiên Phong va sầm vào một gã mập trên chiếc thuyền gỗ, khiến hai kẻ vốn đã choáng váng mặt mày xoay ngang người rồi lộn vòng cắm đầu rơi tiếp."
+    },
+    {
+      "para_id": "c0067p0031",
+      "index": 31,
+      "raw_zh": "再看四周，到處都是人，只是昏暗的光線已經無法分辨誰是誰。",
+      "translated_vi": "Nhìn ra xung quanh, bóng người chìm nổi khắp nơi, nhưng ánh sáng mù mịt nơi đáy nước đã không còn cho phép phân biệt ai với ai nữa."
+    },
+    {
+      "para_id": "c0067p0032",
+      "index": 32,
+      "raw_zh": "湖底，那巨大的八卦台好似老蚌張開了殼，將所有的人和船吸進了接近百米的口中。",
+      "translated_vi": "Dưới đáy hồ, chiếc đài Bát Quái khổng lồ mở toang ra như một con trai ngàn năm hé vỏ, hút trọn vẹn toàn bộ người và tàu thuyền vào cái miệng rộng gần trăm mét của nó."
+    },
+    {
+      "para_id": "c0067p0033",
+      "index": 33,
+      "raw_zh": "從沉水到進入那八卦台巨口這短暫的時間裡，雲千峰唯一感覺慶幸的是，那些氣泡雖然有點熱，但絲毫不燙人，自己最起碼不會掉進去直接被蒸熟。",
+      "translated_vi": "Từ lúc chìm nghỉm xuống nước cho đến khi rơi vào cái miệng khổng lồ của đài Bát Quái trong khoảnh khắc ngắn ngủi ấy, điều duy nhất khiến Vân Thiên Phong cảm thấy may mắn là đám bọt khí tuy ấm nóng nhưng không hề bỏng rát, ít nhất bản thân anh không bị luộc chín ngay khi rơi vào."
+    },
+    {
+      "para_id": "c0067p0034",
+      "index": 34,
+      "raw_zh": "旋轉和窒息讓雲千峰的腦子混沌到無法思考，隻感覺自己好像處在夢魘之中，墮落，墮落，沒有盡頭。",
+      "translated_vi": "Cảm giác quay cuồng và ngạt thở khiến đầu óc Vân Thiên Phong hỗn loạn không thể suy nghĩ, chỉ cảm thấy mình như đang rơi vào một cơn ác mộng vô tận, cứ rơi mãi, rơi mãi xuống đáy vực sâu thăm thẳm."
+    },
+    {
+      "para_id": "c0067p0035",
+      "index": 35,
+      "raw_zh": "他感覺自己肺子裡的氣已經到了盡頭，全靠著僅剩的那麽一丁點理智克制著自己要呼吸的衝動。",
+      "translated_vi": "Anh cảm thấy lượng oxy trong phổi đã cạn kiệt đến giới hạn cuối cùng, chỉ còn biết dựa vào chút lý trí mong manh còn sót lại để kìm nén cơn xung động muốn há miệng hít thở."
+    },
+    {
+      "para_id": "c0067p0036",
+      "index": 36,
+      "raw_zh": "“嘩啦”",
+      "translated_vi": "“Rào rào!”"
+    },
+    {
+      "para_id": "c0067p0037",
+      "index": 37,
+      "raw_zh": "“咚”",
+      "translated_vi": "“Uỳnh!”"
+    },
+    {
+      "para_id": "c0067p0038",
+      "index": 38,
+      "raw_zh": "雲千峰感覺自己乘著水流，似乎撞到了什麽東西上面，然後整個人好像坐水上滑梯一般快速向下滑去。",
+      "translated_vi": "Vân Thiên Phong cảm giác mình cưỡi trên dòng nước lũ va sầm vào một vật gì đó, rồi cả người hệt như đang trượt trên máng trượt nước khổng lồ, lao vun vút xuống phía dưới."
+    },
+    {
+      "para_id": "c0067p0039",
+      "index": 39,
+      "raw_zh": "“噶！”",
+      "translated_vi": "“Khẹc!”"
+    },
+    {
+      "para_id": "c0067p0040",
+      "index": 40,
+      "raw_zh": "感覺到臉上沒有了水的衝刷和壓力，雲千峰知道自己的腦袋一定已經離開了水面，但是使出全身的勁也沒喘上這口氣來，只在嗓子裡發出了肺炎嚴重咳嗽後的那種尖利的空腔聲響。",
+      "translated_vi": "Cảm nhận được khuôn mặt không còn bị làn nước táp vào và áp lực nước đã biến mất, Vân Thiên Phong biết đầu mình chắc chắn đã ngoi lên khỏi mặt nước. Thế nhưng dù đã dốc cạn toàn bộ sức lực, anh vẫn chẳng thể hít nổi một hơi trọn vẹn, cổ họng chỉ rít lên những âm thanh nghẹt đắng, khô khốc hệt như người bệnh viêm phổi nặng lên cơn ho dữ dội."
+    },
+    {
+      "para_id": "c0067p0041",
+      "index": 41,
+      "raw_zh": "這一下後，肺子裡才算是有了點空氣，力氣慢慢恢復，開始大口大口的吞吃著空氣填補虧空。",
+      "translated_vi": "Sau một hồi co giật lồng ngực, buồng phổi mới bắt đầu đón nhận được chút không khí. Sức lực dần hồi phục, anh điên cuồng há mồm ngốn ngấu từng ngụm khí trời để bù đắp sự thiếu hụt suýt lấy mạng mình."
+    },
+    {
+      "para_id": "c0067p0042",
+      "index": 42,
+      "raw_zh": "大腦不再缺氧，眼前也不再是黑乎乎的一片，視力開始恢復。",
+      "translated_vi": "Não bộ không còn thiếu oxy, bóng tối đen kịt trước mắt cũng dần tan biến, thị lực bắt đầu khôi phục lại."
+    },
+    {
+      "para_id": "c0067p0043",
+      "index": 43,
+      "raw_zh": "而眼前所見的一切讓雲千峰感覺自己在做夢。",
+      "translated_vi": "Thế nhưng tất cả những gì đập vào mắt lại khiến Vân Thiên Phong ngỡ như mình đang lạc vào cõi mộng."
+    },
+    {
+      "para_id": "c0067p0044",
+      "index": 44,
+      "raw_zh": "乃至於他忍不住使勁掐了自己大腿一把，感覺到生疼才確定這不是夢。",
+      "translated_vi": "Đến mức anh không kìm được phải véo mạnh vào đùi mình một cái, cảm nhận cơn đau điếng truyền đến mới dám đoan chắc đây không phải là một giấc mơ."
+    },
+    {
+      "para_id": "c0067p0045",
+      "index": 45,
+      "raw_zh": "眼前有光，似乎是日暮夕陽，天空猶在，周圍到處都是水濤震蕩的聲響，空氣裡飄蕩著水沫子，也不知是下雨還是湖水的余蕩。",
+      "translated_vi": "Trước mắt có ánh sáng chan hòa, dường như là ánh chiều tà của buổi hoàng hôn. Bầu trời vẫn hiện hữu ngay trên đỉnh đầu, xung quanh vang rền tiếng sóng nước va đập ầm ầm, trong không khí lãng đãng những hạt bụi nước li ti, chẳng rõ là cơn mưa bụi hay tàn dư của đợt nước hồ vừa tràn vào."
+    },
+    {
+      "para_id": "c0067p0046",
+      "index": 46,
+      "raw_zh": "“咣當”一聲響，雲千峰的身體撞到幾塊橫欄的木板停了下來，也好在這裡坡度不大，只是撞得胸腔生疼，倒是沒有什麽嚴重的外傷。",
+      "translated_vi": "“Rầm” một tiếng, cơ thể Vân Thiên Phong va vào mấy tấm ván chắn ngang rồi dừng lại. Cũng may độ dốc nơi đây không quá gắt, ngoài lồng ngực bị va đập đau điếng ra thì anh không gặp phải chấn thương nghiêm trọng nào."
+    },
+    {
+      "para_id": "c0067p0047",
+      "index": 47,
+      "raw_zh": "他坐在那裡喘著粗氣，發麻的屁股漸漸恢復了知覺，感覺似乎有什麽擱著自己的屁股，於是伸手在下面一撈，入手溫潤光滑，拿到眼前一看，卻是一塊鏟形的玉鉞鐓，看上面雕刻的豬龍形象，很像良渚文化的產物。",
+      "translated_vi": "Anh ngồi bệt tại chỗ thở dốc, phần mông tê dại dần dần lấy lại cảm giác. Thấy dưới mông cồm cộm như vướng phải vật gì, anh liền đưa tay xuống mò thử. Chạm vào thấy trơn nhẵn ấm áp, đưa lên trước mắt nhìn kỹ, hóa ra là một khối ngọc việt đôn hình chiếc xẻng, hoa văn điêu khắc hình trư long bên trên rất giống sản vật của nền văn hóa Lương Chử."
+    },
+    {
+      "para_id": "c0067p0048",
+      "index": 48,
+      "raw_zh": "再看自己腳下，金條玉石瓷器碎片到處都是，他不禁回頭向後上方看去。",
+      "translated_vi": "Lại nhìn xuống dưới chân mình, thỏi vàng, ngọc thạch, mảnh gốm sứ vương vãi la liệt khắp nơi. Anh bất giác ngoái đầu nhìn ngược lên phía sau."
+    },
+    {
+      "para_id": "c0067p0049",
+      "index": 49,
+      "raw_zh": "自己竟然坐在一艘接近四十度角歪倒的巨大貨輪前甲板上，而自己剛才恐怕就是順著船沿一路這樣滑下來的。",
+      "translated_vi": "Bản thân anh vậy mà đang ngồi trên boong trước của một con tàu chở hàng khổng lồ bị nghiêng dốc gần bốn mươi độ, vừa rồi có lẽ anh đã men theo mạn thuyền mà trượt tuột một mạch xuống đây."
+    },
+    {
+      "para_id": "c0067p0050",
+      "index": 50,
+      "raw_zh": "“這怕就是那艘2000多噸的運輸船“神戶五號”吧，怪不得上面全是華夏的古董珍玩。”",
+      "translated_vi": "“Đây e chừng chính là con tàu vận tải hơn hai ngàn tấn ‘Kobe Maru số 5’ rồi, hèn chi trên tàu toàn là cổ vật trân bảo của Hoa Hạ.”"
+    },
+    {
+      "para_id": "c0067p0051",
+      "index": 51,
+      "raw_zh": "想著，他在身邊找了幾件看得過眼，估計值錢的東西放進口袋，多了也拿不到，於是省了往上爬去看看的心思。",
+      "translated_vi": "Nghĩ bụng, anh tiện tay nhặt vài món cổ vật nhìn vừa mắt, đoán chừng có giá trị nhét vào túi áo. Mang nhiều quá cũng chẳng ôm xuể, thế nên anh dẹp luôn ý định trèo ngược lên trên boong ngó nghiêng."
+    },
+    {
+      "para_id": "c0067p0052",
+      "index": 52,
+      "raw_zh": "順著甲板破損處小心的來到船外，入目到處都是船隻的殘骸，有大有小，有的還比較完整，但是大部分都已經損毀的看不出原本的模樣。",
+      "translated_vi": "Men theo mảng boong tàu bị vỡ toác, anh thận trọng bước ra bên ngoài. Đập vào mắt anh la liệt những xác tàu đắm ngổn ngang, chiếc lớn chiếc nhỏ, có chiếc còn tương đối nguyên vẹn, nhưng phần lớn đã bị nghiền nát tan tành đến mức chẳng còn nhận ra hình thù ban đầu."
+    },
+    {
+      "para_id": "c0067p0053",
+      "index": 53,
+      "raw_zh": "而在自己身後腳邊，則是一潭池水，應該是之前湖水倒灌積蓄在這裡，看著挺深。",
+      "translated_vi": "Còn ngay sau lưng dưới chân anh là một đầm nước sâu hoắm, chắc hẳn là do dòng nước hồ dốc ngược vừa rồi tụ lại nơi đây."
+    },
+    {
+      "para_id": "c0067p0054",
+      "index": 54,
+      "raw_zh": "這艘神戶五號船頭正是被這些殘骸卡住前面，才會這樣斜立在此處。",
+      "translated_vi": "Mũi con tàu Kobe Maru số 5 này chính là bị đám xác tàu đắm chèn chặt phía trước nên mới nghiêng nghiêng đứng sững lại ở chốn này."
+    },
+    {
+      "para_id": "c0067p0055",
+      "index": 55,
+      "raw_zh": "身後已經聽不到湖水倒灌的聲響，證明八卦台已經完全閉合，他抬眼望去，根本找不到自己是從哪裡掉進來。",
+      "translated_vi": "Phía sau lưng đã không còn nghe thấy tiếng nước hồ cuồn cuộn đổ dồn vào nữa, chứng tỏ đài Bát Quái đã hoàn toàn khép kín. Anh ngước mắt nhìn quanh, căn bản chẳng thể tìm ra nổi dấu vết xem mình vừa rơi xuống từ ngóc ngách nào."
+    },
+    {
+      "para_id": "c0067p0056",
+      "index": 56,
+      "raw_zh": "望著前方遠處天光的殘陽，他整個人迷茫起來。",
+      "translated_vi": "Phóng tầm mắt nhìn vệt tà dương rực rỡ nơi chân trời phía xa xa, cả người anh chìm vào nỗi hoang mang tột độ."
+    },
+    {
+      "para_id": "c0067p0057",
+      "index": 57,
+      "raw_zh": "可以說，在這裡看到任何東西，也沒有看到天光更讓人費解。",
+      "translated_vi": "Có thể nói, dẫu ở nơi này có trông thấy bất kỳ quái vật dị tượng nào đi nữa, cũng không thể khiến người ta khó hiểu bằng việc nhìn thấy ánh sáng ban ngày."
+    },
+    {
+      "para_id": "c0067p0058",
+      "index": 58,
+      "raw_zh": "“怎麽會這樣？難道我們被吸進八卦台下後，被水衝出很遠，甚至衝出了某處地勢較低的地面？這也不對啊，如果是這樣，這艘神戶五號怎麽會一直沒有被發現？”",
+      "translated_vi": "“Sao lại ra nông nỗi này? Lẽ nào sau khi bị hút xuống dưới đài Bát Quái, chúng ta đã bị dòng nước cuốn trôi đi rất xa, thậm chí trôi dạt ra một vùng bình nguyên trũng thấp nào đó trên mặt đất? Nhưng cũng đâu có lý, nếu đúng như thế thì con tàu Kobe Maru số 5 này làm sao có thể biệt vô âm tín suốt bao năm qua mà không ai phát hiện?”"
+    },
+    {
+      "para_id": "c0067p0059",
+      "index": 59,
+      "raw_zh": "正想著，旁邊一條船的殘骸發出一陣響動，緊接著一個大號胖子在裡面鑽了出來，正是之前與雲千峰相撞在一起的那個胖子。",
+      "translated_vi": "Đang miên man suy nghĩ, xác một con thuyền mục nát bên cạnh bỗng phát ra một tràng lục cục, ngay sau đó một gã béo hộ pháp từ bên trong chui tọt ra, chính là gã mập đã va sầm vào người Vân Thiên Phong lúc ở dưới nước."
+    },
+    {
+      "para_id": "c0067p0060",
+      "index": 60,
+      "raw_zh": "那胖子一腦袋不規則排序的短發，因此足夠短證明不是他不梳頭，而是因為腦袋上頭旋太多。",
+      "translated_vi": "Gã béo sở hữu mái tóc ngắn ngủn lởm chởm không theo bất kỳ trật tự nào, sở dĩ phải cắt ngắn như thế không phải vì gã lười chải đầu, mà là do trên đầu có quá nhiều xoáy tóc."
+    },
+    {
+      "para_id": "c0067p0061",
+      "index": 61,
+      "raw_zh": "所謂一旋精、二旋硬、三旋打架不要命、四旋拉屎不擦腚。",
+      "translated_vi": "Dân gian có câu: một xoáy khôn, hai xoáy bướng, ba xoáy đánh nhau liều mạng, bốn xoáy đi ỉa không thèm chùi đít."
+    },
+    {
+      "para_id": "c0067p0062",
+      "index": 62,
+      "raw_zh": "雲千峰看眼前這胖子腦袋上四個旋打底，就知道這最起碼是個混不吝。",
+      "translated_vi": "Vân Thiên Phong nhìn qua thấy gã béo trước mặt có ít nhất bốn cái xoáy trên đầu, liền biết ngay gã này tối thiểu cũng thuộc hạng liều lĩnh trời không sợ đất không kiêng."
+    },
+    {
+      "para_id": "c0067p0063",
+      "index": 63,
+      "raw_zh": "這胖貨在殘骸堆裡爬出來，一手捂著腰，瘸著腿走過來，臉上沒有一點落難的緊迫感，自來熟的和雲千峰打了個招呼：",
+      "translated_vi": "Gã mập bò ra khỏi đống đổ nát, một tay ôm hông, cà nhắc từng bước bước lại gần, trên mặt chẳng hề có lấy nửa phần sợ hãi hay căng thẳng của kẻ vừa gặp nạn, thản nhiên chào hỏi Vân Thiên Phong như thể quen thân từ kiếp trước:"
+    },
+    {
+      "para_id": "c0067p0064",
+      "index": 64,
+      "raw_zh": "“嗨，第二次見了！”",
+      "translated_vi": "“Chào người anh em, lần thứ hai gặp mặt rồi nhé!”"
+    },
+    {
+      "para_id": "c0067p0065",
+      "index": 65,
+      "raw_zh": "第一次自然指的是水裡相撞那一次。",
+      "translated_vi": "Lần thứ nhất hiển nhiên là cú va chạm tóe lửa dưới đáy nước vừa rồi."
+    },
+    {
+      "para_id": "c0067p0066",
+      "index": 66,
+      "raw_zh": "雲千峰擺起手正要回應，就聽見身後水聲響起，同時胖子腦袋一偏，看著雲千峰身後喜道：",
+      "translated_vi": "Vân Thiên Phong vừa giơ tay định đáp lời thì chợt nghe sau lưng vang lên tiếng bì bõm rẽ nước. Đồng thời, gã béo liền ngoẹo đầu, nhìn ra phía sau lưng Vân Thiên Phong hớn hở reo lên:"
+    },
+    {
+      "para_id": "c0067p0067",
+      "index": 67,
+      "raw_zh": "“白妹子，你不是說自己不會游泳嗎？我看伱在水裡這鑽出來挺溜到的哇。”",
+      "translated_vi": "“Em gái họ Bạch ơi, chẳng phải ban nãy em bảo mình không biết bơi sao? Anh thấy em trồi lên từ dưới nước điệu nghệ phết đấy chứ!”"
+    },
+    {
+      "para_id": "c0067p0068",
+      "index": 68,
+      "raw_zh": "一聽這話，雲千峰猛轉回身，一拳砸在剛爬出水面的那個白妹子腮幫子上，直接把人撂倒，旁邊那胖子小眼睛瞪溜圓，很顯然被雲千峰的反應驚呆了！",
+      "translated_vi": "Nghe thấy câu đó, Vân Thiên Phong đột ngột xoay phắt người lại, tung một cú đấm trời giáng thẳng vào quai hàm cô gái trắng trẻo vừa ngoi lên khỏi mặt nước, đánh ngã gục đối phương ngay tại chỗ! Gã béo đứng cạnh trố tròn hai con mắt hí, hiển nhiên bị phản ứng điên cuồng của Vân Thiên Phong dọa cho chết trân!"
+    },
+    {
+      "para_id": "c0067p0069",
+      "index": 69,
+      "raw_zh": "感謝書友工藤新三的打賞，感謝愛久久的月票，謝謝你們的支持，非常感謝！！！",
+      "translated_vi": "Cảm ơn bạn đọc Kudo Shinzo đã tặng thưởng, cảm ơn Ái Cửu Cửu đã bỏ phiếu tháng, cảm ơn sự ủng hộ của mọi người, vô cùng cảm kích!!!"
+    }
+  ]
+}

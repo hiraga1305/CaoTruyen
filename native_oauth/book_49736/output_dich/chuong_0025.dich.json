@@ -1,0 +1,625 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 25,
+  "title": "Chương 25: Sát khí đằng đằng",
+  "total_paragraphs": 102,
+  "translated_paragraphs": 102,
+  "source_hash": "4e04e7974e4546637ae7ef5d9f3693909692e9d0068377409338312d27f172a9",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0025p0001",
+      "index": 1,
+      "raw_zh": "第25章 殺氣凜然",
+      "translated_vi": "Chương 25: Sát khí đằng đằng"
+    },
+    {
+      "para_id": "c0025p0002",
+      "index": 2,
+      "raw_zh": "叢林裡的榕樹下，小秦在吱吱的叫著春天。",
+      "translated_vi": "Dưới tán cây đa giữa rừng sâu, cô nàng họ Tần đang lí nhí rên rỉ những âm thanh xuân tình ướt át."
+    },
+    {
+      "para_id": "c0025p0003",
+      "index": 3,
+      "raw_zh": "繩子捆著的薑柔甲一直喊哥哥我在這邊。",
+      "translated_vi": "Khương Nhu Giáp bị dây thừng trói gô lại thì cứ luôn mồm gào: “Anh ơi, em ở bên này nè!”."
+    },
+    {
+      "para_id": "c0025p0004",
+      "index": 4,
+      "raw_zh": "雲千峰杵在原地好像木頭樁子似的目瞪口呆。",
+      "translated_vi": "Vân Thiên Phong đứng như trời trồng tại chỗ, há hốc mồm đờ đẫn như khúc gỗ mục."
+    },
+    {
+      "para_id": "c0025p0005",
+      "index": 5,
+      "raw_zh": "一分又一分，一秒又一秒，直到大雨飄了下來",
+      "translated_vi": "Từng phút từng phút, từng giây từng giây trôi qua, cho đến khi một cơn mưa rào trút xuống..."
+    },
+    {
+      "para_id": "c0025p0006",
+      "index": 6,
+      "raw_zh": "不是雲千峰不想做點什麽，而是他完全不知道該怎麽幫助兩女恢復清醒，他做不到，唯一能做的，就是別讓薑柔甲亂跑，至於秦疏影倒是不用擔心，在地上躺著扭呢，安全得很。",
+      "translated_vi": "Không phải Vân Thiên Phong không muốn làm gì đó, mà bởi hắn hoàn toàn chẳng biết phải làm thế nào để giúp hai cô gái lấy lại tỉnh táo. Hắn lực bất tòng tâm, điều duy nhất có thể làm là ngăn không cho Khương Nhu Giáp chạy loạn xì ngầu; còn về phần Tần Sơ Ảnh thì khỏi cần bận tâm, đang nằm uốn éo dưới đất kia kìa, an toàn chán."
+    },
+    {
+      "para_id": "c0025p0007",
+      "index": 7,
+      "raw_zh": "一切來的是那麽莫名其妙，走的又是那麽突然。",
+      "translated_vi": "Mọi chuyện ập đến một cách kỳ quặc khó hiểu, mà lúc tan đi cũng bất ngờ không kém."
+    },
+    {
+      "para_id": "c0025p0008",
+      "index": 8,
+      "raw_zh": "隨著大雨來襲，雲千峰動了，他必須把那帳篷支起來。",
+      "translated_vi": "Theo cơn mưa lớn ập tới, Vân Thiên Phong bắt đầu cử động, hắn buộc phải dựng căn lều lên gấp."
+    },
+    {
+      "para_id": "c0025p0009",
+      "index": 9,
+      "raw_zh": "隨後，剛才在地上自導自演的秦疏影和看著遠處大石頭喊哥哥的薑柔甲一下就安靜下來。",
+      "translated_vi": "Ngay sau đó, Tần Sơ Ảnh vừa nãy còn đang nằm đất tự biên tự diễn cùng Khương Nhu Giáp đăm đăm nhìn tảng đá gọi anh trai bỗng chốc im bặt."
+    },
+    {
+      "para_id": "c0025p0010",
+      "index": 10,
+      "raw_zh": "安靜的一瞬間，倆人似乎有些失神，那眼神分明寫著我在哪？我是誰？",
+      "translated_vi": "Trong khoảnh khắc yên ắng ấy, hai người dường như hơi thất thần, ánh mắt hiện rõ mồn một câu hỏi: Tôi là ai? Tôi đang ở đâu thế này?"
+    },
+    {
+      "para_id": "c0025p0011",
+      "index": 11,
+      "raw_zh": "秦疏影在地上爬起來，臉上帶著疑惑的看著雲千峰支帳篷。",
+      "translated_vi": "Tần Sơ Ảnh lồm cồm bò dậy từ mặt đất, vẻ mặt đầy ngờ vực nhìn Vân Thiên Phong đang loay hoay dựng lều."
+    },
+    {
+      "para_id": "c0025p0012",
+      "index": 12,
+      "raw_zh": "薑柔甲則是一臉疑惑的納悶自己怎麽被捆著。",
+      "translated_vi": "Còn Khương Nhu Giáp thì mặt mày mờ mịt, thắc mắc không hiểu sao bản thân lại bị trói gô thế này."
+    },
+    {
+      "para_id": "c0025p0013",
+      "index": 13,
+      "raw_zh": "她們完全不知道發生了什麽。",
+      "translated_vi": "Hai nàng hoàn toàn chẳng biết chuyện gì vừa mới xảy ra."
+    },
+    {
+      "para_id": "c0025p0014",
+      "index": 14,
+      "raw_zh": "以至於秦疏影看了一眼手表後，問正在雨中忙碌的雲千峰道：",
+      "translated_vi": "Đến mức Tần Sơ Ảnh liếc nhìn đồng hồ đeo tay một cái, liền cất tiếng hỏi Vân Thiên Phong đang dầm mưa bận rộn:"
+    },
+    {
+      "para_id": "c0025p0015",
+      "index": 15,
+      "raw_zh": "“快半個小時了，我們怎麽還在這兒？”",
+      "translated_vi": "“Gần nửa tiếng rồi, sao chúng ta vẫn còn ở chỗ này?”"
+    },
+    {
+      "para_id": "c0025p0016",
+      "index": 16,
+      "raw_zh": "薑柔甲則怒吼：",
+      "translated_vi": "Khương Nhu Giáp thì phẫn nộ quát to:"
+    },
+    {
+      "para_id": "c0025p0017",
+      "index": 17,
+      "raw_zh": "“雲千峰，你綁我幹嘛？”",
+      "translated_vi": "“Vân Thiên Phong, anh trói tôi làm cái gì hả?”"
+    },
+    {
+      "para_id": "c0025p0018",
+      "index": 18,
+      "raw_zh": "雲千峰回頭哀怨的看了一眼兩女，沉默不語，實在不知道怎麽回答。",
+      "translated_vi": "Vân Thiên Phong ngoái đầu ai oán liếc nhìn hai cô gái, im lặng không nói một lời, thật sự chẳng biết phải trả lời ra làm sao."
+    },
+    {
+      "para_id": "c0025p0019",
+      "index": 19,
+      "raw_zh": "於是想了想，道：",
+      "translated_vi": "Hắn ngẫm nghĩ một thoáng rồi bảo:"
+    },
+    {
+      "para_id": "c0025p0020",
+      "index": 20,
+      "raw_zh": "“支好帳篷之後再說，別一會都被雨澆感冒了。”",
+      "translated_vi": "“Dựng xong lều rồi nói sau, kẻo lát nữa bị nước mưa xối cho cảm lạnh hết cả lũ.”"
+    },
+    {
+      "para_id": "c0025p0021",
+      "index": 21,
+      "raw_zh": "很快，三個濕透的人鑽進了狹小的帳篷。",
+      "translated_vi": "Rất nhanh, ba con người ướt như chuột lột chui tọt vào trong căn lều chật hẹp."
+    },
+    {
+      "para_id": "c0025p0022",
+      "index": 22,
+      "raw_zh": "一進帳篷，雲千峰就面朝帳篷門口，背對著兩女道：",
+      "translated_vi": "Vừa vào lều, Vân Thiên Phong liền quay mặt về phía cửa lều, đưa lưng về phía hai người phụ nữ mà bảo:"
+    },
+    {
+      "para_id": "c0025p0023",
+      "index": 23,
+      "raw_zh": "“脫衣服，鑽進睡袋。”",
+      "translated_vi": "“Cởi quần áo ra, chui vào túi ngủ đi.”"
+    },
+    {
+      "para_id": "c0025p0024",
+      "index": 24,
+      "raw_zh": "這是沒辦法的事情，缺醫少藥的他們，可經不得濕衣黏身。",
+      "translated_vi": "Đây là chuyện bất đắc dĩ, trong cảnh thiếu thốn thuốc men chốn rừng sâu, họ tuyệt đối không thể để quần áo ướt nhẹp dính dấp vào người."
+    },
+    {
+      "para_id": "c0025p0025",
+      "index": 25,
+      "raw_zh": "兩女鑽進睡袋後，雲千峰也把外衣都脫了，但留了背心和短褲，他相信自己的體力，烘乾這兩件小衣服還是沒有問題的。",
+      "translated_vi": "Sau khi hai cô gái đã chui gọn vào túi ngủ, Vân Thiên Phong cũng lột sạch quần áo ngoài, chỉ chừa lại chiếc áo ba lỗ cùng quần đùi. Hắn tin vào thể lực của mình, dùng thân nhiệt hong khô hai món đồ mỏng này chắc chắn không thành vấn đề."
+    },
+    {
+      "para_id": "c0025p0026",
+      "index": 26,
+      "raw_zh": "篝火沒法點燃，烤乾衣服自然也就想都別想，只能把濕衣服展開，掛在小帳篷四周，能乾多少算多少。",
+      "translated_vi": "Lửa trại không thể nhóm, việc hong khô quần áo bằng lửa hiển nhiên khỏi phải mơ tưởng, chỉ đành trải rộng đống đồ ướt ra treo quanh bốn góc lều nhỏ, khô được chừng nào hay chừng nấy."
+    },
+    {
+      "para_id": "c0025p0027",
+      "index": 27,
+      "raw_zh": "外面雨勢很大，雨點凌亂密集的敲打在帳篷上，發出悶雷般持續的轟鳴。",
+      "translated_vi": "Bên ngoài mưa trút xối xả, những hạt mưa dồn dập hỗn loạn nện chan chát lên nóc lều bạt, phát ra chuỗi âm thanh rền vang như sấm dậy."
+    },
+    {
+      "para_id": "c0025p0028",
+      "index": 28,
+      "raw_zh": "雲千峰掏了掏耳朵，那種耳鳴似的感覺才消失。",
+      "translated_vi": "Vân Thiên Phong ngoáy ngoáy lỗ tai, cảm giác ù tai khó chịu kia mới dần tan biến."
+    },
+    {
+      "para_id": "c0025p0029",
+      "index": 29,
+      "raw_zh": "他對著鑽進睡袋，隻留脖子以上在外面的兩女說道：",
+      "translated_vi": "Hắn nhìn hai cô gái đã nằm gọn trong túi ngủ chỉ để lộ phần cổ trở lên, cất lời:"
+    },
+    {
+      "para_id": "c0025p0030",
+      "index": 30,
+      "raw_zh": "“秦小姐你之前猜測的是對的，那些乾屍死的時候之所以保持笑容，是因為中了一種麻醉神經的毒，這種毒會讓人產生幻覺，特別開心，無以倫比的開心，眼前浮現的，都是能讓自己幸福開心的畫面。",
+      "translated_vi": "“Cô Tần trước đây đoán đúng rồi, những cái xác khô kia lúc chết sở dĩ giữ nguyên nụ cười là vì trúng một loại độc tố gây mê liệt thần kinh. Loại độc này khiến người ta sinh ra ảo giác, cảm thấy vô cùng vui sướng, một niềm hân hoan tột đỉnh, trước mắt toàn hiện lên những cảnh tượng khiến bản thân ngập tràn hạnh phúc."
+    },
+    {
+      "para_id": "c0025p0031",
+      "index": 31,
+      "raw_zh": "而剛才在你們看來消失的半個小時，是因為伱們倆也中了那種毒，產生了幻覺。”",
+      "translated_vi": "Còn nửa tiếng đồng hồ vừa rồi mà hai người ngỡ như biến mất, chính là bởi cả hai cô cũng đã trúng phải thứ độc tố đó và rơi vào cơn ảo giác.”"
+    },
+    {
+      "para_id": "c0025p0032",
+      "index": 32,
+      "raw_zh": "薑柔甲顰眉，疑惑道：",
+      "translated_vi": "Khương Nhu Giáp nhíu mày, khó hiểu hỏi:"
+    },
+    {
+      "para_id": "c0025p0033",
+      "index": 33,
+      "raw_zh": "“我們沒有接觸那些飛頭蠻，怎麽會中毒？”",
+      "translated_vi": "“Chúng ta đâu có chạm vào đám Phi Đầu Man kia, làm sao mà trúng độc được chứ?”"
+    },
+    {
+      "para_id": "c0025p0034",
+      "index": 34,
+      "raw_zh": "秦疏影思索道：",
+      "translated_vi": "Tần Sơ Ảnh trầm ngâm suy đoán:"
+    },
+    {
+      "para_id": "c0025p0035",
+      "index": 35,
+      "raw_zh": "“那只能是粉塵殘留，飛頭蠻身上的毒素是通過粉塵傳播。”",
+      "translated_vi": "“Thế thì chỉ có thể là bụi phấn sót lại, độc tố trên mình bầy Phi Đầu Man phát tán qua bụi phấn.”"
+    },
+    {
+      "para_id": "c0025p0036",
+      "index": 36,
+      "raw_zh": "雲千峰點了點頭，道：",
+      "translated_vi": "Vân Thiên Phong gật đầu, tiếp lời:"
+    },
+    {
+      "para_id": "c0025p0037",
+      "index": 37,
+      "raw_zh": "“沒錯，一開始我也想不到你們怎麽會中毒，但是大雨一澆你們倆就清醒了，我當時就想，很可能是粉塵攜帶毒素，粘在了你們倆的身上和頭髮裡，持續發揮著藥效，被雨衝乾淨後就好了。”",
+      "translated_vi": "“Chính xác, lúc đầu tôi cũng chẳng hiểu nổi vì sao hai người lại trúng độc, nhưng cơn mưa rào vừa xối xuống là hai cô lập tức tỉnh táo lại ngay. Khi ấy tôi liền nghĩ, rất có thể là do bụi phấn mang độc tính đã bám dính vào người và tóc của hai cô, liên tục phát huy dược tính, sau khi được nước mưa gột rửa sạch sẽ thì thuốc giải trừ.”"
+    },
+    {
+      "para_id": "c0025p0038",
+      "index": 38,
+      "raw_zh": "秦疏影點了點頭，突然似乎想起了什麽，道：",
+      "translated_vi": "Tần Sơ Ảnh gật đầu, chợt như sực nhớ ra điều gì, bèn hỏi:"
+    },
+    {
+      "para_id": "c0025p0039",
+      "index": 39,
+      "raw_zh": "“你隻說我們倆中了毒，你呢？”",
+      "translated_vi": "“Anh chỉ nói hai chúng tôi trúng độc, thế còn anh thì sao?”"
+    },
+    {
+      "para_id": "c0025p0040",
+      "index": 40,
+      "raw_zh": "雲千峰搖了搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu đáp:"
+    },
+    {
+      "para_id": "c0025p0041",
+      "index": 41,
+      "raw_zh": "“我沒有。”",
+      "translated_vi": "“Tôi không bị.”"
+    },
+    {
+      "para_id": "c0025p0042",
+      "index": 42,
+      "raw_zh": "秦疏影詫異道：",
+      "translated_vi": "Tần Sơ Ảnh kinh ngạc:"
+    },
+    {
+      "para_id": "c0025p0043",
+      "index": 43,
+      "raw_zh": "“可我們一直都在一起，沒理由你身上沒有沾染有毒粉塵啊！”",
+      "translated_vi": "“Nhưng chúng ta luôn đi cùng nhau cơ mà, vô lý nào trên người anh lại không dính bụi phấn độc hại!”"
+    },
+    {
+      "para_id": "c0025p0044",
+      "index": 44,
+      "raw_zh": "雲千峰似乎對自己沒有中毒並不太奇怪，淡淡道：",
+      "translated_vi": "Vân Thiên Phong dường như chẳng hề ngạc nhiên trước việc mình không trúng độc, thản nhiên nói:"
+    },
+    {
+      "para_id": "c0025p0045",
+      "index": 45,
+      "raw_zh": "“可能和我身上的毛病有關，秦小姐你是醫生，知道DMT吧？”",
+      "translated_vi": "“Có lẽ liên quan đến chứng bệnh trên người tôi. Cô Tần là bác sĩ, hẳn biết rõ về DMT chứ?”"
+    },
+    {
+      "para_id": "c0025p0046",
+      "index": 46,
+      "raw_zh": "秦疏影點頭，道：",
+      "translated_vi": "Tần Sơ Ảnh gật đầu, đáp:"
+    },
+    {
+      "para_id": "c0025p0047",
+      "index": 47,
+      "raw_zh": "“知道，治療硬化症的藥物，類似神經遞質，每個人身上都有極微量的存在，你問這個幹嘛？於這件事有關？”",
+      "translated_vi": "“Biết chứ, đó là chất dẫn truyền thần kinh, trong cơ thể mỗi người đều tồn tại một lượng cực kỳ nhỏ. Anh hỏi cái này làm gì? Có liên quan đến chuyện này sao?”"
+    },
+    {
+      "para_id": "c0025p0048",
+      "index": 48,
+      "raw_zh": "雲千峰點頭道：",
+      "translated_vi": "Vân Thiên Phong gật đầu bảo:"
+    },
+    {
+      "para_id": "c0025p0049",
+      "index": 49,
+      "raw_zh": "“我大學畢業那年因為沒找到工作，親戚就介紹我跟一個探險隊出過任務，我們村都是獵戶，這樣的工作經常有人介紹。",
+      "translated_vi": "“Năm tốt nghiệp đại học vì chưa tìm được việc làm, họ hàng có giới thiệu tôi đi làm nhiệm vụ cùng một đoàn thám hiểm. Làng tôi toàn là dân săn bắn, công việc kiểu này thường xuyên có người mối lái."
+    },
+    {
+      "para_id": "c0025p0050",
+      "index": 50,
+      "raw_zh": "那次是非洲，我們隊伍遇到了危險，我嚴重脫水，身體受到重創，不但造成了局部失憶，還讓我體內的DMT值升高，是正常人的九倍。”",
+      "translated_vi": "Lần đó là ở châu Phi, đoàn của chúng tôi gặp phải hiểm nguy, tôi bị mất nước nghiêm trọng, cơ thể chịu tổn thương nặng nề, chẳng những dẫn tới mất trí nhớ cục bộ, mà còn làm nồng độ DMT trong cơ thể tôi tăng vọt, cao gấp chín lần người bình thường.”"
+    },
+    {
+      "para_id": "c0025p0051",
+      "index": 51,
+      "raw_zh": "秦疏影恍然大悟，道：",
+      "translated_vi": "Tần Sơ Ảnh bừng tỉnh ngộ ra:"
+    },
+    {
+      "para_id": "c0025p0052",
+      "index": 52,
+      "raw_zh": "“原來是這樣，你的身體已經可以抵抗這種程度的麻醉，怪不得你這麽聰明，原來是因為這個。”",
+      "translated_vi": "“Hóa ra là như vậy, cơ thể anh đã có khả năng đề kháng với mức độ gây mê này rồi. Thảo nào anh lại thông minh sắc sảo đến thế, thì ra nguyên nhân là ở đây.”"
+    },
+    {
+      "para_id": "c0025p0053",
+      "index": 53,
+      "raw_zh": "雲千峰一愣，問道：",
+      "translated_vi": "Vân Thiên Phong ngớ người, hỏi:"
+    },
+    {
+      "para_id": "c0025p0054",
+      "index": 54,
+      "raw_zh": "“這和智商有關系？”",
+      "translated_vi": "“Cái này có liên quan đến chỉ số IQ sao?”"
+    },
+    {
+      "para_id": "c0025p0055",
+      "index": 55,
+      "raw_zh": "秦疏影思索了一下，道：",
+      "translated_vi": "Tần Sơ Ảnh ngẫm nghĩ một thoáng rồi nói:"
+    },
+    {
+      "para_id": "c0025p0056",
+      "index": 56,
+      "raw_zh": "“準確來說，應該是和智慧有關，而不是智商。據說發明家特斯拉和數學家拉馬努金都是這種體質。",
+      "translated_vi": "“Nói một cách chuẩn xác thì có liên quan đến ‘trí tuệ’ chứ không phải chỉ số IQ. Nghe nói nhà phát minh Tesla và nhà toán học Ramanujan đều sở hữu thể chất đặc biệt này."
+    },
+    {
+      "para_id": "c0025p0057",
+      "index": 57,
+      "raw_zh": "特斯拉發明物品從沒有圖紙，言稱是自己在夢裡見到的，拉馬努金是發現高難度公式，但隻給出答案卻沒有演算過程，說是夢裡有女神給了他答案。",
+      "translated_vi": "Tesla khi chế tạo các phát minh chưa từng vẽ bản thiết kế, ông tuyên bố toàn bộ đều tận mắt nhìn thấy trong giấc mơ; Ramanujan phát hiện ra hàng loạt công thức toán học đỉnh cao nhưng chỉ đưa ra đáp án mà chẳng hề có quá trình suy diễn, nói rằng trong mộng có nữ thần ban tặng đáp án cho ông."
+    },
+    {
+      "para_id": "c0025p0058",
+      "index": 58,
+      "raw_zh": "甚至莊周夢蝶也被猜測與這種體質有關。",
+      "translated_vi": "Thậm chí cả điển tích Trang Chu mộng hồ điệp cũng bị nghi ngờ là có liên quan mật thiết tới thể chất này."
+    },
+    {
+      "para_id": "c0025p0059",
+      "index": 59,
+      "raw_zh": "你呢，雲千峰你有什麽特異的能力？”",
+      "translated_vi": "Còn anh, Vân Thiên Phong, anh có năng lực dị biệt nào không?”"
+    },
+    {
+      "para_id": "c0025p0060",
+      "index": 60,
+      "raw_zh": "雲千峰沉吟道：",
+      "translated_vi": "Vân Thiên Phong trầm ngâm bảo:"
+    },
+    {
+      "para_id": "c0025p0061",
+      "index": 61,
+      "raw_zh": "“我？我搖卦特別準！”",
+      "translated_vi": "“Tôi? Tôi gieo quẻ bói toán cực kỳ chuẩn xác!”"
+    },
+    {
+      "para_id": "c0025p0062",
+      "index": 62,
+      "raw_zh": "秦疏影眉毛一揚，笑道：",
+      "translated_vi": "Tần Sơ Ảnh nhướn mày, mỉm cười:"
+    },
+    {
+      "para_id": "c0025p0063",
+      "index": 63,
+      "raw_zh": "“正常，美洲學者在研究印第安部落文化時發現，那些部落的巫師，大部分都是你這種體質，且都是來自於一場大病之後，他們就是專門負責卜筮工作的。”",
+      "translated_vi": "“Bình thường thôi, các học giả châu Mỹ khi nghiên cứu văn hóa các bộ lạc thổ dân da đỏ đã phát hiện ra rằng, các pháp sư của những bộ lạc ấy phần lớn đều mang thể chất như của anh, và đều bộc phát sau một trận bạo bệnh thập tử nhất sinh, nhiệm vụ chuyên trách của họ chính là bói toán bói quẻ.”"
+    },
+    {
+      "para_id": "c0025p0064",
+      "index": 64,
+      "raw_zh": "薑柔甲好奇道：",
+      "translated_vi": "Khương Nhu Giáp tò mò hỏi chen vào:"
+    },
+    {
+      "para_id": "c0025p0065",
+      "index": 65,
+      "raw_zh": "“那天授唱詩人是不是也是這種體質啊？一場大病之後，不認識字卻能詠唱千萬字的史詩。”",
+      "translated_vi": "“Thế những thi nhân được trời phú khả năng hát sử thi có phải cũng thuộc thể chất này không? Sau một trận ốm nặng, dẫu mù chữ một chữ bẻ đôi không biết nhưng lại có thể ngâm nga những thiên sử thi dài hàng vạn câu.”"
+    },
+    {
+      "para_id": "c0025p0066",
+      "index": 66,
+      "raw_zh": "秦疏影道：",
+      "translated_vi": "Tần Sơ Ảnh đáp:"
+    },
+    {
+      "para_id": "c0025p0067",
+      "index": 67,
+      "raw_zh": "“不清楚這個，但很有可能。這不重要，重要的是，雲千峰不怕飛頭蠻的毒素，我們勝面又多了一層。”",
+      "translated_vi": "“Chuyện đó thì tôi không rõ, nhưng rất có khả năng. Điều đó không quan trọng, quan trọng nhất là Vân Thiên Phong không sợ độc tố của Phi Đầu Man, phần thắng của chúng ta lại tăng thêm một bậc.”"
+    },
+    {
+      "para_id": "c0025p0068",
+      "index": 68,
+      "raw_zh": "這無疑是一個讓人振奮的好消息。",
+      "translated_vi": "Đây không thể nghi ngờ là một tin vui khiến lòng người phấn chấn."
+    },
+    {
+      "para_id": "c0025p0069",
+      "index": 69,
+      "raw_zh": "振奮之余，薑柔甲似乎想起了什麽，眨麽著大眼睛看著雲千峰問道：",
+      "translated_vi": "Phấn chấn qua đi, Khương Nhu Giáp dường như sực nhớ tới điều gì, chớp chớp đôi mắt to tròn nhìn Vân Thiên Phong mà hỏi:"
+    },
+    {
+      "para_id": "c0025p0070",
+      "index": 70,
+      "raw_zh": "“我剛才有沒有出糗？”",
+      "translated_vi": "“Vừa nãy tôi có làm trò gì bẽ mặt không?”"
+    },
+    {
+      "para_id": "c0025p0071",
+      "index": 71,
+      "raw_zh": "雲千峰搖頭，笑道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu cười:"
+    },
+    {
+      "para_id": "c0025p0072",
+      "index": 72,
+      "raw_zh": "“沒有，你就是在幻象裡把遠處一塊大石頭認成你哥了，一個勁要過去，我才把你綁上的。”",
+      "translated_vi": "“Không có, cô chỉ là trong cơn ảo giác nhận nhầm một tảng đá to đằng xa thành anh trai mình, cứ một mực đòi lao tới đó nên tôi mới phải trói cô lại thôi.”"
+    },
+    {
+      "para_id": "c0025p0073",
+      "index": 73,
+      "raw_zh": "薑柔甲覺得自己這個行為不算出糗，可以接受，然後繼續問道：",
+      "translated_vi": "Khương Nhu Giáp cảm thấy hành vi này của mình cũng chưa đến mức mất mặt, hoàn toàn có thể chấp nhận được, bèn hỏi tiếp:"
+    },
+    {
+      "para_id": "c0025p0074",
+      "index": 74,
+      "raw_zh": "“那疏影姐呢？”",
+      "translated_vi": "“Thế còn chị Sơ Ảnh thì sao?”"
+    },
+    {
+      "para_id": "c0025p0075",
+      "index": 75,
+      "raw_zh": "秦疏影高冷淡淡道：",
+      "translated_vi": "Tần Sơ Ảnh giữ vẻ kiêu kỳ lạnh lùng thản nhiên nói:"
+    },
+    {
+      "para_id": "c0025p0076",
+      "index": 76,
+      "raw_zh": "“都沒綁著我，我能做什麽出格的事來？”",
+      "translated_vi": "“Tôi đâu có bị trói, tôi thì làm được chuyện gì quá trớn chứ?”"
+    },
+    {
+      "para_id": "c0025p0077",
+      "index": 77,
+      "raw_zh": "這就相當自信，雲千峰急忙使勁點頭，表示的確如此。",
+      "translated_vi": "Sự tự tin này quả là ngút trời! Vân Thiên Phong vội vàng gật đầu lia lịa, tỏ ý đúng là như vậy."
+    },
+    {
+      "para_id": "c0025p0078",
+      "index": 78,
+      "raw_zh": "秦疏影暗地裡舒了一口氣，心話果然我最穩健，產生幻象都那麽穩健，當年的醫學院高冷系花可不是徒有虛名的！",
+      "translated_vi": "Tần Sơ Ảnh ngấm ngầm thở phào một hơi nhẹ nhõm, bụng thầm nhủ quả nhiên mình là người vững vàng nhất, ngay cả lúc trúng ảo giác cũng điềm tĩnh chừng mực, danh hiệu hoa khôi kiêu kỳ băng thanh ngọc khiết của trường y năm xưa đâu phải hư danh!"
+    },
+    {
+      "para_id": "c0025p0079",
+      "index": 79,
+      "raw_zh": "五年大學校園生活，在學校正眼看過的男人，只有被自己解剖的屍體。",
+      "translated_vi": "Suốt năm năm đại học nơi giảng đường, người đàn ông duy nhất mà cô từng nhìn thẳng vào mặt trong trường chỉ có mỗi xác chết giải phẫu do chính tay mình mổ xẻ mà thôi."
+    },
+    {
+      "para_id": "c0025p0080",
+      "index": 80,
+      "raw_zh": "就這麽高冷！",
+      "translated_vi": "Kiêu sa lạnh lùng đến mức độ ấy cơ đấy!"
+    },
+    {
+      "para_id": "c0025p0081",
+      "index": 81,
+      "raw_zh": "眼看薑柔甲又問秦疏影沒出格，那到底做了啥？",
+      "translated_vi": "Thấy Khương Nhu Giáp lại gặng hỏi nếu Tần Sơ Ảnh không làm gì quá trớn, vậy rốt cuộc chị ấy đã làm những gì?"
+    },
+    {
+      "para_id": "c0025p0082",
+      "index": 82,
+      "raw_zh": "雲千峰實在沒想到怎麽扯謊，於是決定走為上計。",
+      "translated_vi": "Vân Thiên Phong thật sự chưa nghĩ ra cách nói dối thế nào cho trót lọt, bèn quyết định chuồn là thượng sách."
+    },
+    {
+      "para_id": "c0025p0083",
+      "index": 83,
+      "raw_zh": "正好外面雨停了，他忙拿起幾個人的衣服，說道：",
+      "translated_vi": "Vừa khéo mưa bên ngoài đã tạnh, hắn vội vàng ôm lấy đống quần áo của cả bọn, lên tiếng:"
+    },
+    {
+      "para_id": "c0025p0084",
+      "index": 84,
+      "raw_zh": "“你們倆在這裡休息一會，我去遠處生火烤乾衣服，然後咱們繼續趕路。”",
+      "translated_vi": "“Hai người nghỉ ngơi trong này một lát đi, tôi ra chỗ xa nhóm lửa hong khô quần áo, xong xuôi chúng ta lại tiếp tục lên đường.”"
+    },
+    {
+      "para_id": "c0025p0085",
+      "index": 85,
+      "raw_zh": "之所以去遠處，是因為雲千峰也不敢斷定那些飛頭蠻白天覓不覓食，畢竟雨天比較冷，環境與恆溫動物之間有明顯溫差。",
+      "translated_vi": "Sở dĩ phải đi ra tít đằng xa là bởi Vân Thiên Phong cũng chẳng dám khẳng định liệu lũ Phi Đầu Man có đi kiếm ăn vào ban ngày hay không, dẫu sao trời mưa nhiệt độ hạ thấp, giữa môi trường và các loài động vật hằng nhiệt sẽ có sự chênh lệch nhiệt độ rõ rệt."
+    },
+    {
+      "para_id": "c0025p0086",
+      "index": 86,
+      "raw_zh": "於是他拎起長槍，挑著衣服鑽出帳篷，腳步聲走遠。",
+      "translated_vi": "Thế là hắn xách ngọn trường thương lên, móc đống quần áo vào đầu ngọn thương rồi chui ra khỏi lều, tiếng bước chân dần dần đi xa."
+    },
+    {
+      "para_id": "c0025p0087",
+      "index": 87,
+      "raw_zh": "薑柔甲和秦疏影終於能鑽出睡袋喘口氣，雨天空氣太悶了。",
+      "translated_vi": "Khương Nhu Giáp và Tần Sơ Ảnh cuối cùng cũng có thể chui ra khỏi túi ngủ để thở dốc một hơi, không khí trời mưa ngột ngạt quá đỗi."
+    },
+    {
+      "para_id": "c0025p0088",
+      "index": 88,
+      "raw_zh": "雲千峰不在，秦疏影是不願意和薑柔甲聊天的，這丫頭腦筋跳躍，跟不上節奏。",
+      "translated_vi": "Vân Thiên Phong đi rồi, Tần Sơ Ảnh cũng chẳng mấy hứng thú trò chuyện với Khương Nhu Giáp, con bé này suy nghĩ nhảy cóc lung tung, cô chẳng bắt kịp nhịp độ."
+    },
+    {
+      "para_id": "c0025p0089",
+      "index": 89,
+      "raw_zh": "薑柔甲無聊，玩了一會手機裡的單機遊戲，他們有太陽能板充電寶，倒是不缺這點電。",
+      "translated_vi": "Khương Nhu Giáp buồn chán, mở game offline trong điện thoại ra chơi một lúc. Bọn họ có sạc dự phòng pin năng lượng mặt trời nên chẳng lo thiếu thốn chút điện năng này."
+    },
+    {
+      "para_id": "c0025p0090",
+      "index": 90,
+      "raw_zh": "但奈何自己手機裡面的遊戲早就玩夠了，於是玩了一會後，她看到雲千峰的手機放在帳篷門口處，就想看看他的手機裡有沒有什麽好玩的東西。",
+      "translated_vi": "Khổ nỗi mấy trò chơi trong máy mình cô nàng đã cày nát bét từ lâu, chơi được một chốc, chợt thấy điện thoại của Vân Thiên Phong đang đặt gần cửa lều, cô liền muốn xem thử trong máy hắn có thứ gì hay ho để giải trí hay không."
+    },
+    {
+      "para_id": "c0025p0091",
+      "index": 91,
+      "raw_zh": "拿過來一打開，發現手機處於攝像界面，心裡不由暗罵：",
+      "translated_vi": "Nhặt điện thoại lên mở khóa, phát hiện màn hình đang ở giao diện quay phim chụp ảnh, trong lòng cô bất giác thầm rủa:"
+    },
+    {
+      "para_id": "c0025p0092",
+      "index": 92,
+      "raw_zh": "“雲千峰這個大壞蛋，不會是把我出糗的樣子拍下來了吧？”",
+      "translated_vi": "“Tên Vân Thiên Phong xấu xa chết tiệt này, không phải là quay lén lại cái bộ dạng làm trò bẽ mặt của mình đấy chứ?”"
+    },
+    {
+      "para_id": "c0025p0093",
+      "index": 93,
+      "raw_zh": "想著，進入相冊，果然看到自己的臉出現在第一個視頻上，當下鼓著小嘴，打開視頻。",
+      "translated_vi": "Vừa nghĩ, cô nàng vừa bấm vào album ảnh, quả nhiên thấy khuôn mặt của chính mình đập ngay vào mắt ở đoạn video đầu tiên. Cô tức thì phồng má chu môi, mở video lên xem."
+    },
+    {
+      "para_id": "c0025p0094",
+      "index": 94,
+      "raw_zh": "畫面和聲響同時傳出。",
+      "translated_vi": "Hình ảnh và âm thanh lập tức cùng lúc phát ra:"
+    },
+    {
+      "para_id": "c0025p0095",
+      "index": 95,
+      "raw_zh": "“.你拉著我幹嘛？我哥叫我，你看我哥他都胖了.”",
+      "translated_vi": "“...Anh kéo tôi làm cái gì? Anh trai tôi đang gọi tôi kìa, anh nhìn xem anh trai tôi béo ra rồi này...”"
+    },
+    {
+      "para_id": "c0025p0096",
+      "index": 96,
+      "raw_zh": "“哈哈哈”",
+      "translated_vi": "“Ha ha ha...”"
+    },
+    {
+      "para_id": "c0025p0097",
+      "index": 97,
+      "raw_zh": "把薑柔甲自己看笑了。",
+      "translated_vi": "Khương Nhu Giáp xem mà tự bật cười nắc nẻ."
+    },
+    {
+      "para_id": "c0025p0098",
+      "index": 98,
+      "raw_zh": "緊接著畫面一轉：",
+      "translated_vi": "Ngay sau đó, ống kính lia sang hướng khác:"
+    },
+    {
+      "para_id": "c0025p0099",
+      "index": 99,
+      "raw_zh": "“不要.啊.不要碰.雲千峰你不要流氓大壞蛋.抱緊我.”",
+      "translated_vi": "“Đừng mà... a... đừng sờ... Vân Thiên Phong, anh đừng có... đồ lưu manh, kẻ xấu xa... ôm chặt lấy em đi...”"
+    },
+    {
+      "para_id": "c0025p0100",
+      "index": 100,
+      "raw_zh": "薑柔甲感受到了殺氣，緩緩轉頭看向秦疏影。",
+      "translated_vi": "Khương Nhu Giáp bỗng cảm nhận được một luồng sát khí ngùn ngụt, cô từ từ quay ngoắt đầu nhìn sang Tần Sơ Ảnh."
+    },
+    {
+      "para_id": "c0025p0101",
+      "index": 101,
+      "raw_zh": "此時的秦疏影眼睛盯著手機屏幕，整個人好似雕塑，但是那目光之中殺氣凜然！",
+      "translated_vi": "Lúc này Tần Sơ Ảnh đang trừng trừng dán chặt mắt vào màn hình điện thoại, toàn thân đông cứng như một bức tượng điêu khắc, thế nhưng trong ánh mắt kia thì sát khí ngập tràn, lạnh buốt đến thấu xương!"
+    },
+    {
+      "para_id": "c0025p0102",
+      "index": 102,
+      "raw_zh": "感謝書友58523的打賞，謝謝你的支持！！！感激！！！",
+      "translated_vi": "Cảm ơn bạn đọc 58523 đã tặng thưởng, cảm ơn sự ủng hộ của bạn! Vô cùng cảm kích!"
+    }
+  ]
+}

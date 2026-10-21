@@ -1,0 +1,122 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0310|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|六道|sáu luồng
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §81):
+§1 310.第310章 最後的險關
+§2 第310章 最後的險關
+§3 [Ø=云千峰]尷尬如風，能從任何方向來，且不知它什麽時候來。
+§4 比如此時此刻。
+§5 [Ø=云千峰]就在雲千峰思考這個問題的時候，他腦海裡浮現了一個聲音：
+§6 “人肚子。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§7 [Ø=云千峰]當你心裡所想，且相對比較不正經的時候， [||] 竟然被人明鏡一般洞穿，即便是臉皮如雲千峰，也難免尷尬。
+§8 於是雲千峰尷尬了。
+§9 [Ø=云千峰]就在他尷尬的那一刻，腦海裡又浮現了一個聲音：
+§10 “虛偽！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 尷尬x2.
+§12 [Ø=云千峰]在求生的行為裡，雲千峰是永不言敗的。
+§13 [Ø=云千峰]在面子問題上，雲千峰最擅長的就是破罐子破摔。
+§14 [Ø=云千峰]於是，女人馬座臉紅了。
+§15 “其實都行…”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§16 [Ø=云千峰]估計是雲千峰想象的問題，已經達到了解剖學的高度。
+§17 [Ø=云千峰]雲千峰腦海裡又浮現了一堆那挺好聽的聲音，一句聽不懂，很像方言。
+§18 [Ø=云千峰]不排除是巫族的髒話，雲千峰對此很有自知之明。
+§19 [Ø=云千峰]這種交流很有趣，雲千峰的腦子終於開始正經起來，想著：
+§20 [Ø=云千峰]“這種生物應該是以心電感應的形式進行交流，有著一定程度讀心的能力。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 腦海裡隨即浮現：
+§22 [Ø=云千峰]“是的，所以別想騙我。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 [Ø=云千峰]雲千峰沒準備騙她，於是一人一人馬進行了一次無聲卻又有聲的交流。
+§24 “你一直守護這些巫族的意識體嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 “是。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§26 “只有你自己一個？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 “是。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 “為什麽你的意識體會是人馬？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 [Ø=云千峰]“在現實世界被創造，死亡回歸這裡後，便是這種現實世界的形態。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§30 “你守候了多久？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=云千峰]“不知道，太久了，久到麻木，只剩下活著。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§32 “為什麽不用箭矢攻擊我？你在等待什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 [Ø=云千峰]“我為什麽要攻擊你？我能讀到你要幹嘛，你的行為不會傷害到我們巫族的記憶，甚至會釋放祂們。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 “那你為什麽把弓弦拉滿？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 [Ø=云千峰]“嗯，習慣了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 [Ø=云千峰]雲千峰發現這人馬的讀心術也是有著缺點的，那就是有問必有答，而且她也無法對別人撒謊，這無疑是很有趣的一件事。
+§37 [Ø=云千峰]有這樣的系統漏洞，雲千峰怎麽會放過，當下心中問道：
+§38 [Ø=云千峰]“這些巫族人蘇醒，會不會攻擊我和我的朋友？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 [Ø=云千峰]“會攻擊一切不屬於巫族的意識體，從這裡一路打到天堂，讓這個世界完全在巫族的控制之下。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 [Ø=云千峰]這個回答讓雲千峰發冷汗，心討“幸好沒有直接衝庫，來這裡探查一番，否則就糟糕了”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]。
+§41 [Ø=云千峰]這時候的心討，那就是交流，於是人馬回道：
+§42 [Ø=云千峰]“去找到蚩尤來，蚩尤解封這一切，蘇醒的巫族絕不會攻擊蚩尤，而是會在蚩尤的統領之下， [||] 去向你的朋友傳達這個消息吧，讓這個世界，甚至世界之外的人知道這一切，我們等待蚩尤太久了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 [Ø=云千峰]昨晚氈房內是車到山前必有路，沒想到今日水下就柳暗花明又一村。
+§44 [Ø=云千峰]當下一展手臂，完整的蚩尤浮出來。
+§45 [Ø=云千峰]當人馬看到雲千峰那獸頭尖耳，終於收起了長弓，健美的前馬腿懸浮在水中，做出曲腿之姿：
+§46 “巫酥拜見蚩尤。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§47 [Ø=云千峰]人馬的名字叫巫酥，這名字很符合她在雲千峰腦海裡的聲音。
+§48 聲音終於第二次不平靜。
+§49 [Ø=云千峰]第一次是罵人，這次則是因為期待了忘記歲月的人，終於出現了。
+§50 [Ø=云千峰]“我蘇醒巫族記憶，不會受到攻擊了吧？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§51 [Ø=云千峰]“不會，只要您發誓守護巫族，那麽您將擁有巫族的一切。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§52 “我發誓！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§53 [Ø=云千峰]發誓這種事，雲千峰要是遲疑，那他一定不是雲千峰。
+§54 [Ø=云千峰]可能是雲千峰發誓的速度太快，以至於巫酥那酥酥的聲音帶了一絲尷尬。
+§55 [Ø=云千峰]“偉大的蚩尤，需要在祭台發誓的，四庫相衝之後， [||] 祭台就會出現，你所期待的六道[M1:sáu luồng]盤，就在那裡。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§56 [Ø=云千峰]原來是有儀式感的發誓，雲千峰覺得沒啥心理壓力。
+§57 [Ø=云千峰]“好，那就如此，待我衝開四庫，釋放祭台。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§58 [Ø=云千峰]巫酥依舊保持著曲腿之姿，在雲千峰腦海裡浮現一個更酥的聲音：
+§59 “巫酥願為蚩尤坐騎。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§60 [Ø=云千峰]雲千峰怎麽會拒絕這樣的好意，尤其是一個不會說謊的夥伴和坐騎。
+§61 [Ø=云千峰]當下，他遊過去，騎在了人馬巫酥的馬背上。
+§62 [Ø=云千峰]隨即，就見巫酥一扭八塊腹肌的纖腰， [||] 在水中風馳電掣而行，讓六塊腹肌的雲千峰羨慕不已，這玩意是天賦。
+§63 [Ø=云千峰]術業有專攻，巫酥在水中的速度堪稱驚人。
+§64 [Ø=云千峰]雲千峰良久才下來的深水，巫酥不多時就衝出了水面。
+§65 “嘩啦！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§66 巫酥的急速掀起了一片水浪。
+§67 [Ø=云千峰]雲千峰坐在巫酥背上，挺直了腰杆，展現出無與倫比的英雄氣概。
+§68 [Ø=云千峰]他感覺自己配著這樣神奇的坐騎，再加上自己這氣勢，那絕對猶如天神下凡。
+§69 [Ø=云千峰]然而他失望了，因為沒人看見。
+§70 倒是雲千峰看到了一圈遠去的背影。
+§71 [Ø=云千峰]這幫玩意兒真聽勸啊，告訴有動靜就跑路，真是一個都不遲疑， [||] 而且是分頭跑路，很顯然都在心中模擬跑路幾百次，才能做到如此嫻熟。
+§72 [Ø=云千峰]可見帝嚳之名，在這些人心中的分量。
+§73 雲千峰大吼一聲：
+§74 “都滾回來！”[Q1:云千峰->姜柔甲|state:HOSTILE_SHIFT|tone:sát phạt, dứt khoát]
+§75 [Ø=云千峰]聲音夠大，正在四散逃跑的人，終於有膽量回頭看一眼。
+§76 [Ø=云千峰]呵，誤會了不是。
+§77 [Ø=云千峰]當下一個個停下腳步，重新圍了上來。
+§78 雲千峰當即下令道：
+§79 [Ø=云千峰]“戌土之庫的中心在十點鍾方向，馬上挖掘湖海兩端最後的水道，使渠成，文曲、巨門、大天使， [||] 你們三個帶人去火龍之路，在未醜之路末端等待，一個時辰後點燃火龍，使水火既濟，衝開四庫！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§80 “領命！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§81 [Ø=云千峰]一群人離開，快速的趕往未醜之路的末端，這面也開始了水渠最後的挖掘。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 81 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§81. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

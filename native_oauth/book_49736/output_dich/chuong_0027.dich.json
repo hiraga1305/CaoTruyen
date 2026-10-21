@@ -1,0 +1,577 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 27,
+  "title": "Chương 27: Liều mạng",
+  "total_paragraphs": 94,
+  "translated_paragraphs": 94,
+  "source_hash": "4820fbed6b721178b792cd3961aa38962a9c7fc1871a04dcccd2efd30df2dcc9",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0027p0001",
+      "index": 1,
+      "raw_zh": "第27章 搏命",
+      "translated_vi": "Chương 27: Liều mạng"
+    },
+    {
+      "para_id": "c0027p0002",
+      "index": 2,
+      "raw_zh": "世界性范圍流傳的都市傳說並不是很多。",
+      "translated_vi": "Những truyền thuyết đô thị có độ phủ sóng rộng rãi trên phạm vi toàn cầu thực ra không có nhiều."
+    },
+    {
+      "para_id": "c0027p0003",
+      "index": 3,
+      "raw_zh": "比如UFO就屬於世界范圍內，家喻戶曉的都市傳說，一旦有起風的，各路媒體就會爭相報道，熱鬧非凡。",
+      "translated_vi": "Chẳng hạn như UFO thuộc dạng truyền thuyết đô thị nổi tiếng khắp thế giới nhà nhà đều biết, hễ có chút tin đồn phong thanh là các kênh truyền thông sẽ tranh nhau đưa tin rầm rộ."
+    },
+    {
+      "para_id": "c0027p0004",
+      "index": 4,
+      "raw_zh": "但還有一個世界范圍內都出現過，但卻完全沒有存在感的傳說，那就是天蛾人。",
+      "translated_vi": "Thế nhưng còn có một truyền thuyết từng xuất hiện ở khắp nơi trên thế giới nhưng lại hoàn toàn chìm vào quên lãng, đó chính là Người Bướm (Mothman)."
+    },
+    {
+      "para_id": "c0027p0005",
+      "index": 5,
+      "raw_zh": "與UFO的待遇完全相反，每一次關於天蛾人的目擊事件出現後，都會最短的時間內泯滅於網絡，就像被什麽在無形的網絡裡偷偷刪除了一般。",
+      "translated_vi": "Trái ngược hoàn toàn với sự đãi ngộ dành cho UFO, mỗi lần các vụ việc trông thấy Người Bướm xuất hiện, chúng đều sẽ bị xóa sạch khỏi mạng Internet trong thời gian ngắn nhất, hệt như bị một thế lực vô hình nào đó âm thầm gỡ bỏ vậy."
+    },
+    {
+      "para_id": "c0027p0006",
+      "index": 6,
+      "raw_zh": "所謂天蛾人，世界各地的目擊者形容並不完全相同，有的說體型極大，有的說體型並不大，只是翅膀大。",
+      "translated_vi": "Thứ gọi là Người Bướm ấy, nhân chứng khắp nơi miêu tả không hoàn toàn giống nhau, có người bảo kích thước khổng lồ, có người lại nói thân hình không quá to lớn mà chỉ có đôi cánh là rộng ngoác."
+    },
+    {
+      "para_id": "c0027p0007",
+      "index": 7,
+      "raw_zh": "但相同的論述都是這東西有一張人臉，而且每次出現伴生的關鍵詞分別是“災難、精神失常、詭異死亡、機密檔案”等等。",
+      "translated_vi": "Nhưng điểm chung trong mọi lời kể là thứ quái dị này mang một khuôn mặt người, hơn nữa mỗi lần xuất hiện đều gắn liền với những từ khóa như “thảm họa, rối loạn tâm thần, cái chết kỳ dị, hồ sơ mật”, vân vân."
+    },
+    {
+      "para_id": "c0027p0008",
+      "index": 8,
+      "raw_zh": "此時此刻，手機屏幕裡的那個怪物，就是長著一雙巨大的翅膀，形狀如黑色的飛蛾。",
+      "translated_vi": "Ngay lúc này, con quái vật hiện lên trên màn hình điện thoại cũng sở hữu một đôi cánh khổng lồ, mang hình thù tựa như một con bướm đêm đen kịt."
+    },
+    {
+      "para_id": "c0027p0009",
+      "index": 9,
+      "raw_zh": "但它的身體卻與蛾子並不相同，看起來就像是飛蛾幼蟲的模樣，更像是一條柔軟長達一米半的蛆，表面濕黏滑膩。",
+      "translated_vi": "Thế nhưng thân mình của nó lại chẳng hề giống loài bướm, trông hệt như ấu trùng sâu bướm, càng giống một con dòi nhung nhúc mềm oặt dài tới mét rưỡi, bề mặt ươn ướt, nhớp nhúa và trơn tuột."
+    },
+    {
+      "para_id": "c0027p0010",
+      "index": 10,
+      "raw_zh": "而就在這個蛆的頂部，長著一個略成倒三角形的腦袋，上面是清晰的一張鬼臉，頭頂還有兩個狹長的觸須。",
+      "translated_vi": "Và ngay trên đỉnh đầu của thân dòi ấy mọc ra một cái đầu hơi có hình tam giác ngược, bên trên lộ rõ một khuôn mặt quỷ dữ tợn, đỉnh đầu còn có hai chiếc xúc tu thon dài."
+    },
+    {
+      "para_id": "c0027p0011",
+      "index": 11,
+      "raw_zh": "鬼臉那猩紅的嘴巴一張一合，好似蛇吐信一樣伸縮著一條長達一米的暗紅色口器，上面滿是粘液，在篝火的映襯下散發著渾濁的光。",
+      "translated_vi": "Cái miệng đỏ ngòm trên mặt quỷ cứ đóng vào mở ra, thè ra thụt vào một vòi hút màu đỏ thẫm dài tới cả mét tựa như rắn thè lưỡi, phủ đầy chất nhầy nhớt, phản chiếu ánh lửa trại tỏa ra luồng sáng đục ngầu ghê tởm."
+    },
+    {
+      "para_id": "c0027p0012",
+      "index": 12,
+      "raw_zh": "那口器粗如中指，上面坑坑窪窪布滿了大大小小的管口，就好像一根根被貼近根部切斷的血管。",
+      "translated_vi": "Ống hút đó to như ngón tay giữa, trên thân gồ ghề lồi lõm chi chít những lỗ ống lớn nhỏ, nom giống hệt các mạch máu bị cắt cụt sát tận gốc."
+    },
+    {
+      "para_id": "c0027p0013",
+      "index": 13,
+      "raw_zh": "可以想象，應該就是這條東西鑽入動物體內，快速將動物體內的血液吸乾。",
+      "translated_vi": "Có thể hình dung ra cảnh tượng thứ này chui tọt vào bên trong cơ thể động vật, chớp mắt hút sạch bách máu tươi của con mồi."
+    },
+    {
+      "para_id": "c0027p0014",
+      "index": 14,
+      "raw_zh": "秦疏影用手捂住嘴巴，可以看得出來，她已經忍不住要吐出來。",
+      "translated_vi": "Tần Sơ Ảnh lấy tay bịt chặt miệng, có thể thấy rõ cô đã buồn nôn đến mức không chịu nổi nữa."
+    },
+    {
+      "para_id": "c0027p0015",
+      "index": 15,
+      "raw_zh": "雲千峰示意秦疏影不要繼續看下去，這東西的惡心程度甚至超過它的恐怖程度。",
+      "translated_vi": "Vân Thiên Phong ra hiệu bảo Tần Sơ Ảnh đừng nhìn tiếp nữa, mức độ tởm lợm của thứ này thậm chí còn vượt xa cả sự đáng sợ của nó."
+    },
+    {
+      "para_id": "c0027p0016",
+      "index": 16,
+      "raw_zh": "但秦疏影搖了搖頭，很堅決道：“我們都需要了解它”。",
+      "translated_vi": "Thế nhưng Tần Sơ Ảnh lắc đầu, kiên quyết nói: “Cả hai chúng mình đều cần phải hiểu rõ về nó”."
+    },
+    {
+      "para_id": "c0027p0017",
+      "index": 17,
+      "raw_zh": "已知這東西對聲音無感，他們不避諱弄出聲響，但依舊會忍不住壓低聲音。",
+      "translated_vi": "Biết rõ thứ này không có phản ứng với âm thanh, họ không còn kiêng dè việc gây ra tiếng động, song vẫn bất giác hạ thấp giọng xuống."
+    },
+    {
+      "para_id": "c0027p0018",
+      "index": 18,
+      "raw_zh": "雲千峰隻好咬著牙抿著嘴點了點頭。",
+      "translated_vi": "Vân Thiên Phong đành nghiến răng mím môi gật đầu."
+    },
+    {
+      "para_id": "c0027p0019",
+      "index": 19,
+      "raw_zh": "這些飛頭蠻一如昨夜，繞著篝火飄飛，速度極快。",
+      "translated_vi": "Lũ Phi Đầu Man này y như đêm qua, lượn lờ bay quanh đống lửa với tốc độ cực nhanh."
+    },
+    {
+      "para_id": "c0027p0020",
+      "index": 20,
+      "raw_zh": "偶爾一隻不開眼的動物路過，哪怕只是一隻體型不大的黃鼬，也會被這些東西蜂擁而上，最後被吸成乾屍。",
+      "translated_vi": "Thỉnh thoảng có con thú nào xấu số đi ngang qua, dẫu chỉ là một con chồn nhỏ, cũng bị lũ này bu kín xung quanh rồi hút cạn khô thành một xác chết teo tóp."
+    },
+    {
+      "para_id": "c0027p0021",
+      "index": 21,
+      "raw_zh": "由此可以看出，篝火的溫度足夠吸引這些飛頭蠻，但還不能達到強光照射人眼的效果，讓它們完全喪失對其它恆溫動物的感度，一旦靠近一個范圍，這些飛頭蠻就會發覺，並發動攻擊。",
+      "translated_vi": "Từ đó có thể nhận thấy, nhiệt độ của đống lửa đủ để thu hút đám Phi Đầu Man này, nhưng chưa đến mức làm chúng mất đi hoàn toàn khả năng cảm ứng với các loài động vật hằng nhiệt khác giống như luồng sáng mạnh rọi thẳng vào mắt người. Một khi bước vào phạm vi nhất định, lũ quái vật sẽ lập tức phát hiện và lao tới tấn công."
+    },
+    {
+      "para_id": "c0027p0022",
+      "index": 22,
+      "raw_zh": "好在三人的距離遠超過那個范圍，雲千峰確定那些飛頭蠻發現不了他們，於是輕聲道：“睡吧，今晚應該是安全的。”",
+      "translated_vi": "May sao khoảng cách của ba người nằm ngoài phạm vi đó rất xa. Sau khi Vân Thiên Phong chắc chắn lũ Phi Đầu Man không thể phát hiện ra họ, hắn liền khẽ bảo: “Ngủ đi, tối nay hẳn là an toàn rồi.”"
+    },
+    {
+      "para_id": "c0027p0023",
+      "index": 23,
+      "raw_zh": "秦疏影點了點頭，把身體縮進睡袋，緊挨著雲千峰就準備休息。然而這樣擠著如同抱著雲千峰睡覺，讓她不禁想起自己進入幻覺那段視頻，當下便呼吸有些紊亂，胡思亂想起來。",
+      "translated_vi": "Tần Sơ Ảnh gật đầu, rúc người vào trong túi ngủ, nép sát cạnh Vân Thiên Phong chuẩn bị chợp mắt. Thế nhưng việc chen chúc chật chội chẳng khác nào đang ôm chặt lấy Vân Thiên Phong khiến cô không khỏi nhớ lại đoạn video mình rơi vào ảo giác ban nãy, hơi thở tức thì trở nên dồn dập, tâm trí miên man suy nghĩ vẩn vơ."
+    },
+    {
+      "para_id": "c0027p0024",
+      "index": 24,
+      "raw_zh": "就這麽在半夢半醒之間，就被雲千峰用手使勁推醒。",
+      "translated_vi": "Đang lúc chập chờn nửa tỉnh nửa mơ thì cô bị bàn tay của Vân Thiên Phong lay mạnh đánh thức."
+    },
+    {
+      "para_id": "c0027p0025",
+      "index": 25,
+      "raw_zh": "秦疏影急忙鑽出被窩，看到雲千峰把薑柔甲也搖醒了。",
+      "translated_vi": "Tần Sơ Ảnh vội chui ra khỏi túi ngủ, thấy Vân Thiên Phong cũng đang lay Khương Nhu Giáp tỉnh giấc."
+    },
+    {
+      "para_id": "c0027p0026",
+      "index": 26,
+      "raw_zh": "再看雲千峰一臉驚恐，就知道一定是發生了什麽大事。",
+      "translated_vi": "Nhìn nét mặt kinh hoàng tột độ của Vân Thiên Phong, cô biết chắc chắn đã xảy ra biến cố lớn."
+    },
+    {
+      "para_id": "c0027p0027",
+      "index": 27,
+      "raw_zh": "還沒等她詢問，雲千峰就指著手機屏幕，沉聲道：",
+      "translated_vi": "Còn chưa kịp cất tiếng hỏi, Vân Thiên Phong đã chỉ vào màn hình điện thoại, trầm giọng:"
+    },
+    {
+      "para_id": "c0027p0028",
+      "index": 28,
+      "raw_zh": "“下雨了！”",
+      "translated_vi": "“Mưa rồi!”"
+    },
+    {
+      "para_id": "c0027p0029",
+      "index": 29,
+      "raw_zh": "薑柔甲和秦疏影的腦子反應都不慢，當下都是面露恐慌。",
+      "translated_vi": "Đầu óc Khương Nhu Giáp và Tần Sơ Ảnh đều phản ứng rất nhanh, gương mặt lập tức lộ rõ vẻ hoảng loạn."
+    },
+    {
+      "para_id": "c0027p0030",
+      "index": 30,
+      "raw_zh": "他們之所以能夠躲過飛頭蠻的溫感，是因為距離篝火足夠遠，那些飛頭蠻被篝火吸引了大部分注意力，加之帳篷睡袋和樹枝的遮掩，讓那些飛頭蠻無法感覺到他們的存在。",
+      "translated_vi": "Sở dĩ họ có thể tránh khỏi cảm ứng nhiệt của Phi Đầu Man là vì ở khoảng cách đủ xa so với đống lửa. Lũ Phi Đầu Man bị sức nóng của ngọn lửa thu hút phần lớn sự chú ý, kết hợp với lều bạt, túi ngủ và cành cây che chắn khiến chúng không thể cảm nhận được sự hiện diện của họ."
+    },
+    {
+      "para_id": "c0027p0031",
+      "index": 31,
+      "raw_zh": "可是，一旦篝火被大雨澆滅，他們的所有偽裝都可能沒有了意義。",
+      "translated_vi": "Thế nhưng một khi đống lửa bị cơn mưa lớn dập tắt, mọi sự ngụy trang của họ rất có thể sẽ trở nên vô nghĩa."
+    },
+    {
+      "para_id": "c0027p0032",
+      "index": 32,
+      "raw_zh": "那些飛頭蠻能在那麽遠的地方一下感觸到篝火，那麽他們現在的距離，絕對在飛頭蠻的感知范圍之中。",
+      "translated_vi": "Lũ quái vật kia có thể cảm nhận được đống lửa từ khoảng cách xa đến vậy, thì cự ly hiện tại của ba người tuyệt đối nằm trọn trong tầm cảm tri của chúng."
+    },
+    {
+      "para_id": "c0027p0033",
+      "index": 33,
+      "raw_zh": "篝火在雨中搖曳著，雲千峰已經開始為可能發生的襲擊做上了準備。",
+      "translated_vi": "Ngọn lửa chập chờn run rẩy trong màn mưa giông, Vân Thiên Phong đã bắt đầu chuẩn bị ứng phó với đợt tập kích có thể ập đến bất cứ lúc nào."
+    },
+    {
+      "para_id": "c0027p0034",
+      "index": 34,
+      "raw_zh": "他把僅剩下的三個預防毒瘴的過濾面罩拿出來，三個人急忙戴在臉上。",
+      "translated_vi": "Hắn lấy ba chiếc mặt nạ lọc độc phòng chướng khí còn sót lại ra, cả ba vội vã đeo lên mặt."
+    },
+    {
+      "para_id": "c0027p0035",
+      "index": 35,
+      "raw_zh": "雲千峰雖然不怕飛頭蠻的毒素，但卻害怕被飛頭蠻襲擊嘴巴和鼻孔，這個面罩應該能起到很大的防護作用。",
+      "translated_vi": "Vân Thiên Phong tuy không sợ độc tố của Phi Đầu Man, nhưng lại vô cùng e ngại việc bị chúng tấn công vào khoang miệng và lỗ mũi, chiếc mặt nạ này ắt hẳn sẽ mang lại tác dụng phòng hộ đáng kể."
+    },
+    {
+      "para_id": "c0027p0036",
+      "index": 36,
+      "raw_zh": "緊接著，他用毛巾纏住自己的兩個耳朵，避免耳孔被襲擊。",
+      "translated_vi": "Tiếp đó, hắn dùng khăn bông quấn chặt hai bên tai để ngăn lỗ tai bị đột kích."
+    },
+    {
+      "para_id": "c0027p0037",
+      "index": 37,
+      "raw_zh": "隨後他嚴肅道：",
+      "translated_vi": "Đoạn, hắn nghiêm giọng dặn dò:"
+    },
+    {
+      "para_id": "c0027p0038",
+      "index": 38,
+      "raw_zh": "“如果飛頭蠻來襲，你們倆一定不要走出帳篷，用睡袋把自己包裹好，我嘗試驅趕它們，若是做不到，我也會躲回來，不用擔心我，更不要去幫我。”",
+      "translated_vi": "“Nếu lũ Phi Đầu Man tấn công tới, hai người tuyệt đối không được bước ra khỏi lều, hãy dùng túi ngủ bọc kín bản thân lại. Tôi sẽ thử xua đuổi chúng, nếu không làm được thì tôi cũng sẽ lùi vào ẩn nấp. Đừng lo cho tôi, càng không được ra ngoài giúp tôi.”"
+    },
+    {
+      "para_id": "c0027p0039",
+      "index": 39,
+      "raw_zh": "說完，目不轉睛的盯著手機屏幕，眼看著那篝火在大雨中越來越小，最後冒出一股白煙，徹底熄滅。",
+      "translated_vi": "Dứt lời, hắn dán chặt mắt vào màn hình điện thoại, trơ mắt nhìn ngọn lửa trại lụi tàn dần dưới cơn mưa xối xả, cuối cùng bốc lên một làn khói trắng rồi tắt ngúm hoàn toàn."
+    },
+    {
+      "para_id": "c0027p0040",
+      "index": 40,
+      "raw_zh": "那些飛頭蠻在那一刹似乎都飛行不穩，撲嚕嚕的彼此相撞不說，還有的跌落在地，就好像人在強光環境下突然進入普通光線，暫時失明了一般。",
+      "translated_vi": "Trong khoảnh khắc ấy, dường như lũ Phi Đầu Man đều bay chao đảo mất phương hướng, không những va bôm bốp vào nhau loạn xạ mà còn có vài con rơi phịch xuống đất, giống như người đang ở trong vùng sáng chói bỗng nhiên rơi vào bóng tối mờ ảo, bị mù tạm thời vậy."
+    },
+    {
+      "para_id": "c0027p0041",
+      "index": 41,
+      "raw_zh": "大約十幾秒鍾後，那些東西才恢復正常。",
+      "translated_vi": "Khoảng mười mấy giây sau, bầy Phi Đầu Man bắt đầu tản ra bốn phương tám hướng lượn lờ tìm kiếm."
+    },
+    {
+      "para_id": "c0027p0042",
+      "index": 42,
+      "raw_zh": "只是這一次，它們不再是抱團繞飛，而是騰空而起後，四散開來，森林裡開始傳來動物奔跑逃命的腳步聲還有死亡前怪異的慘叫。",
+      "translated_vi": "Vân Thiên Phong hiểu rất rõ, khe đá này có thể chắn được phần lớn nước mưa, nhưng không ngăn nổi hơi ẩm lạnh buốt."
+    },
+    {
+      "para_id": "c0027p0043",
+      "index": 43,
+      "raw_zh": "那聲音，似痛楚似暢快，難以言表。",
+      "translated_vi": "Nói cách khác, thân nhiệt của ba người lúc này chẳng khác nào đốm đom đóm rực sáng giữa màn đêm đen."
+    },
+    {
+      "para_id": "c0027p0044",
+      "index": 44,
+      "raw_zh": "看到手機屏幕裡，有五個飛頭蠻向著雲千峰他們所在的方向飛來，讓三人的心臟同時提到嗓子眼。",
+      "translated_vi": "Quả nhiên, qua ống kính camera, lũ Phi Đầu Man nhanh chóng tụ tập về phía khe vách đá này, tốc độ ngày càng nhanh."
+    },
+    {
+      "para_id": "c0027p0045",
+      "index": 45,
+      "raw_zh": "帳篷外，似乎已經傳來那鬼叫般的“嗚嗚”聲。",
+      "translated_vi": "Vân Thiên Phong chui ra khỏi lều, tay cầm chắc ngọn giáo dài, bên hông giắt dao quắm Gurkha và dao găm, lưng quay về phía vách núi, sẵn sàng đón địch."
+    },
+    {
+      "para_id": "c0027p0046",
+      "index": 46,
+      "raw_zh": "雲千峰深呼吸一口氣，悄悄動手做了最後的準備，然後鑽出帳篷外，回頭把帳篷的拉鏈拉嚴。",
+      "translated_vi": "Hắn sợ vòng ba của mình bị đám quái vật này tập kích, thứ chỗ hiểm đó quả thực không thể lơ là phòng bị."
+    },
+    {
+      "para_id": "c0027p0047",
+      "index": 47,
+      "raw_zh": "薑柔甲和秦疏影驚訝的發現，雲千峰褲子屁股的位置，似乎有個發光體，看光暈應該是手電。",
+      "translated_vi": "Nghĩ ngợi một lát, hắn rút chiếc đèn pin siêu sáng cắm thẳng vào cạp quần phía sau, dùng đầu đèn to che chắn chỗ hiểm hóc ấy, bấy giờ mới cảm thấy có chút an tâm trong lòng."
+    },
+    {
+      "para_id": "c0027p0048",
+      "index": 48,
+      "raw_zh": "雲千峰是把自己能防護的位置都防護上了，最後的屏障雖然是悄悄完成，但是奈何不小心碰到了手電筒的開關。",
+      "translated_vi": "Mưa trút xuống ngày một lớn hòa lẫn gió rít gầm gào, từ trên đỉnh vách đá tạo thành một bức rèm nước dội xối xả xuống bệ đá bên ngoài khe nứt."
+    },
+    {
+      "para_id": "c0027p0049",
+      "index": 49,
+      "raw_zh": "作為一個男人，就要對自己狠一點。",
+      "translated_vi": "Một tiếng “bẹp” ghê rợn vang lên, một chiếc vòi hút màu đỏ sẫm bất thình lình xuyên qua khe hở giữa các cành cây, dính chặt ngay trên mặt nạ của Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0027p0050",
+      "index": 50,
+      "raw_zh": "它一鑽出帳篷，還沒等站穩，就感覺臉上被什麽撞了一下，發出了一聲悶響。",
+      "translated_vi": "May mà có mặt nạ phòng độc ngăn lại khiến vòi hút không có chỗ cắm vào, nó liền trườn nhanh như một con rắn độc trên bề mặt mặt nạ hòng tìm kiếm kẽ hở."
+    },
+    {
+      "para_id": "c0027p0051",
+      "index": 51,
+      "raw_zh": "面罩鏡片的位置，頓時留下了一灘黏糊糊的液體，散發著腥臭，就好像腐爛的老鼠。",
+      "translated_vi": "Tay phải Vân Thiên Phong đang vướng ngọn giáo dài không tiện xoay xở, bèn rút phắt cây dao quắm bên hông trái chém đứt phựt chiếc vòi hút, lập tức làm bắn tung tóe lên mặt một bọc chất lỏng nhơn nhớt tỏa mùi tanh tưởi tựa như chuột chết thối rữa."
+    },
+    {
+      "para_id": "c0027p0052",
+      "index": 52,
+      "raw_zh": "雲千峰用袖子抹了一把，讓視線恢復清晰，剛抬頭，就感覺什麽東西順著褲腰鑽進去，“咚”撞擊了自己的屁股一下生疼。",
+      "translated_vi": "Vân Thiên Phong lấy tay áo quẹt vội một cái để nhìn rõ lại đường đi nước bước. Vừa ngẩng đầu lên, hắn chợt cảm giác có thứ gì đó luồn theo cạp quần chui tọt vào trong, thúc mạnh một cú “thình thịch” đau điếng vào mông."
+    },
+    {
+      "para_id": "c0027p0053",
+      "index": 53,
+      "raw_zh": "不過好在他早有防備，那東西沒有得逞，在褲子裡遊動，結果被雲千峰發狠，掄刀往後一下砍斷，然後用手撈出來，正是那飛頭蠻黏糊糊的怪異口器。",
+      "translated_vi": "Nhưng may mà hắn đã đề phòng từ trước nên thứ đó không đắc thủ, chỉ biết ngoe nguẩy trong quần. Vân Thiên Phong nổi cơn tam bành vung dao chém ngược ra sau đứt đôi, rồi thò tay móc ra, đúng là chiếc vòi hút nhớp nhúa quái đản của Phi Đầu Man."
+    },
+    {
+      "para_id": "c0027p0054",
+      "index": 54,
+      "raw_zh": "此時他才算是站穩了腳跟，有時間看一下周圍的情況。",
+      "translated_vi": "Đến lúc này hắn mới đứng vững gót chân, tranh thủ quan sát tình hình xung quanh."
+    },
+    {
+      "para_id": "c0027p0055",
+      "index": 55,
+      "raw_zh": "攻擊自己的這些粘稠口器，全都是在堵著山崖裂縫的樹枝縫隙裡鑽進來。",
+      "translated_vi": "Những chiếc vòi hút nhớp nháp tấn công hắn đều thò qua kẽ hở giữa đống cành cây đang chắn ngang khe nứt vách đá."
+    },
+    {
+      "para_id": "c0027p0056",
+      "index": 56,
+      "raw_zh": "讓雲千峰驚恐的是，那些看起來只有米長的口器，竟然能夠伸展到兩米余，還能拐彎從後面偷襲。",
+      "translated_vi": "Điều làm Vân Thiên Phong rợn tóc gáy là thứ vòi hút thoạt nhìn chỉ dài chừng một mét kia lại có thể kéo dài ra hơn hai mét, thậm chí còn biết uốn lượn ngoặt vòng để đánh lén từ phía sau."
+    },
+    {
+      "para_id": "c0027p0057",
+      "index": 57,
+      "raw_zh": "那個被他一猛子砍斷口器的飛頭蠻已經消失不見，估計是跌落在了裂縫下面，因為雲千峰好像聽到了什麽東西跌落地面的聲響。",
+      "translated_vi": "Con Phi Đầu Man bị hắn chém đứt vòi lúc nãy đã biến mất tăm, đoán chừng rớt xuống bên dưới khe đá, bởi Vân Thiên Phong dường như nghe thấy tiếng vật gì đó rơi bịch xuống đất."
+    },
+    {
+      "para_id": "c0027p0058",
+      "index": 58,
+      "raw_zh": "眼看著又是四條口器鑽進來，拐著彎攻擊自己的各個位置。",
+      "translated_vi": "Chớp mắt lại có thêm bốn chiếc vòi hút luồn lách chui vào, uốn éo tấn công khắp các vị trí trên cơ thể hắn."
+    },
+    {
+      "para_id": "c0027p0059",
+      "index": 59,
+      "raw_zh": "雲千峰迎著那些口器，長槍往出一遞，直接把其中一個飛頭蠻那巨大的蛆形身體鑽透，冒出黃褐色的腥臭粘液。",
+      "translated_vi": "Vân Thiên Phong nghênh đón những chiếc vòi đó, phóng mạnh ngọn giáo dài tới trước, đâm xuyên thủng thân hình dòi bọ to tướng của một con Phi Đầu Man, khiến chất dịch nhầy màu nâu vàng bốc mùi tanh nồng phọt ra tung tóe."
+    },
+    {
+      "para_id": "c0027p0060",
+      "index": 60,
+      "raw_zh": "這些東西似乎不知道恐懼，只有對食物的欲望，混不管身邊同類的死亡，愈加發狂的往裂縫裡面擠。",
+      "translated_vi": "Đám quái vật này dường như không biết sợ hãi, trong đầu chỉ có cơn thèm khát thức ăn, hoàn toàn chẳng màng đến đồng loại chết ngay bên cạnh, càng lúc càng điên cuồng chen lấn xông vào khe nứt."
+    },
+    {
+      "para_id": "c0027p0061",
+      "index": 61,
+      "raw_zh": "“嘩啦”一聲，那虛掩著山崖裂縫的樹枝被幾個飛頭蠻撞散，它們那翅展足有兩米的巨大身軀鋪面而來，壓向雲千峰。",
+      "translated_vi": "Rắc một tiếng ròn rã, đống cành cây che tạm miệng khe vách đá bị mấy con Phi Đầu Man húc vỡ vụn, đôi cánh sải rộng tới hai mét của chúng ập thẳng vào mặt, đè nghiến lấy Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0027p0062",
+      "index": 62,
+      "raw_zh": "翅膀每一次煽動，都會有一蓬淡淡的灰狀物飄飛散落。",
+      "translated_vi": "Mỗi một lần cánh vỗ là lại có một làn bụi xám nhàn nhạt rào rào bay rớt xuống."
+    },
+    {
+      "para_id": "c0027p0063",
+      "index": 63,
+      "raw_zh": "雲千峰扔掉長槍，胡亂的揮舞著雙手的狗腿刀和匕首，嘴裡呼哈怒吼，給自己壯膽打氣。",
+      "translated_vi": "Vân Thiên Phong quẳng ngọn giáo dài, vung loạn xạ cây dao quắm và dao găm trên hai tay, miệng gầm thét ầm ĩ để lấy thêm dũng khí cho bản thân."
+    },
+    {
+      "para_id": "c0027p0064",
+      "index": 64,
+      "raw_zh": "一個飛頭蠻貼在雲千峰的身上，它那厲鬼一樣的臉就貼在雲千峰的左臉側。",
+      "translated_vi": "Một con Phi Đầu Man bám dính lấy người Vân Thiên Phong, khuôn mặt quỷ dữ tợn của nó dán sát sạt vào má trái của hắn."
+    },
+    {
+      "para_id": "c0027p0065",
+      "index": 65,
+      "raw_zh": "帶著無數管狀吸盤的醜陋口器在雲千峰臉側滑膩遊動，終被它找到了裹著耳朵那毛巾的縫隙，“刺溜”一下滑進去，直奔雲千峰的耳孔就鑽。",
+      "translated_vi": "Chiếc vòi hút xấu xí gớm ghiếc mang vô số ống giác mút trơn tuột luồn lách bên má Vân Thiên Phong, cuối cùng cũng tìm ra khe hở của lớp khăn bông quấn tai, liền “xoẹt” một cái trượt vào trong, đâm thẳng tới lỗ tai của hắn."
+    },
+    {
+      "para_id": "c0027p0066",
+      "index": 66,
+      "raw_zh": "“哎呀！”",
+      "translated_vi": "“Á!”"
+    },
+    {
+      "para_id": "c0027p0067",
+      "index": 67,
+      "raw_zh": "雲千峰感覺耳朵孔一漲，頓時驚得差點魂飛天外。",
+      "translated_vi": "Vân Thiên Phong cảm thấy lỗ tai căng tức lên, giật mình suýt chút nữa bay mất hồn vía."
+    },
+    {
+      "para_id": "c0027p0068",
+      "index": 68,
+      "raw_zh": "他“啊”的一聲大叫，來了個鱷魚的死亡翻滾，腦袋使勁一扭，躲過了這一鑽。",
+      "translated_vi": "Hắn gào thét một tiếng “A”, làm một cú lăn lộn tử thần kiểu cá sấu, đầu ngoẹo mạnh sang một bên, né được cú đâm xuyên tai hiểm hóc này."
+    },
+    {
+      "para_id": "c0027p0069",
+      "index": 69,
+      "raw_zh": "身體在落地的瞬間，用大手往左耳畔一插，抓住那飛頭蠻的鬼臉使勁一拽，就感覺手裡抓住了一團黏糊糊的非牛頓流體，完全無骨的東西。",
+      "translated_vi": "Khoảnh khắc thân thể vừa chạm đất, hắn dùng bàn tay hộ pháp chộp phắt vào bên tai trái, tóm chặt lấy khuôn mặt quỷ của con Phi Đầu Man giật mạnh ra, cảm giác trong tay như đang bóp phải một khối chất lỏng phi Newton nhầy nhụa hoàn toàn không có xương cốt."
+    },
+    {
+      "para_id": "c0027p0070",
+      "index": 70,
+      "raw_zh": "那東西根本不自保，任憑雲千峰捏它那柔軟的腦袋，口器依舊順勢往雲千峰的耳孔裡鑽。",
+      "translated_vi": "Con quái vật hoàn toàn không biết tự vệ, mặc kệ Vân Thiên Phong bóp nghẹt cái đầu mềm oặt của nó, chiếc vòi hút vẫn thừa thế nhắm thẳng lỗ tai hắn mà chui vào."
+    },
+    {
+      "para_id": "c0027p0071",
+      "index": 71,
+      "raw_zh": "雲千峰無奈，隻好放棄這東西的腦袋，手順勢往回一捋，正好抓住了它的口器，然後使勁往外拉。",
+      "translated_vi": "Vân Thiên Phong cùng đường đành phải buông đầu nó ra, tay vuốt ngược về bắt đúng chiếc vòi hút rồi ra sức lôi tuột ra ngoài."
+    },
+    {
+      "para_id": "c0027p0072",
+      "index": 72,
+      "raw_zh": "就這麽會功夫，他的面罩和屁股上的手電，已經被攻擊了不下二十次，可見這些東西的速度有多快。",
+      "translated_vi": "Chỉ trong chớp mắt ấy, mặt nạ và chiếc đèn pin sau mông hắn đã bị tập kích không dưới hai mươi lần, đủ thấy tốc độ của lũ này kinh hoàng tới mức nào."
+    },
+    {
+      "para_id": "c0027p0073",
+      "index": 73,
+      "raw_zh": "要不是雲千峰保護的好，估計已經變成乾屍十回。",
+      "translated_vi": "Nếu không nhờ Vân Thiên Phong che chắn kỹ càng, e rằng hắn đã biến thành xác khô cả chục lần rồi."
+    },
+    {
+      "para_id": "c0027p0074",
+      "index": 74,
+      "raw_zh": "這東西粗細長短伸縮自由的口器滑不留手，雲千峰本想抓住後一刀砍斷，但是沒想到人家“刺溜”一下就收了回去，就感覺手上微微摩擦。",
+      "translated_vi": "Vòi hút của thứ này co giãn tùy ý, trơn nhẫy không giữ nổi. Vân Thiên Phong vốn định tóm được là chém đứt ngay, nào ngờ nó “vèo” một cái thụt ngược trở lại, lòng bàn tay chỉ cảm nhận được một vệt ma sát khẽ khàng."
+    },
+    {
+      "para_id": "c0027p0075",
+      "index": 75,
+      "raw_zh": "眼看這些東西速度快，不要命，窮極惡賴。",
+      "translated_vi": "Trông thấy đám này tốc độ thì nhanh, liều mạng chẳng sợ chết, lại còn bỉ ổi cùng cực."
+    },
+    {
+      "para_id": "c0027p0076",
+      "index": 76,
+      "raw_zh": "雲千峰急忙收回雙手用掌根壓住耳朵孔，但依舊握著雙刀在頭頂，就好像兩根犄角。",
+      "translated_vi": "Vân Thiên Phong vội thu hai tay về, lấy gốc bàn tay bịt chặt lấy lỗ tai, nhưng các ngón tay vẫn nắm chặt hai thanh đao đưa lên đỉnh đầu hệt như hai chiếc sừng nhọn hoắt."
+    },
+    {
+      "para_id": "c0027p0077",
+      "index": 77,
+      "raw_zh": "他學發狠的山羊，一頭朝著迎面的飛頭蠻撞去。",
+      "translated_vi": "Hắn bắt chước con dê rừng nổi điên, hùng hổ húc đầu lao thẳng vào con Phi Đầu Man trước mặt."
+    },
+    {
+      "para_id": "c0027p0078",
+      "index": 78,
+      "raw_zh": "匕首瞬間將那無骨的柔軟身體捅了個對穿，嘩啦啦的粘液噴了雲千峰一頭一臉，把他惡的嘔了一口酸水。",
+      "translated_vi": "Lưỡi dao găm trong nháy mắt đâm xuyên thủng thân hình mềm nhũn không xương của nó, dịch nhầy ào ạt phun ướt đẫm đầu mặt Vân Thiên Phong, tởm lợm đến mức làm hắn nôn thốc nôn tháo ra một ngụm nước chua."
+    },
+    {
+      "para_id": "c0027p0079",
+      "index": 79,
+      "raw_zh": "此時此刻，在他身邊只剩下兩隻飛頭蠻，但卻無法撞擊，因為這兩個家夥用翅膀裹抱在他身上，就像兩貼超大的膏藥，兩條口器在雲千峰上上下下鑽動，尋找著入口。",
+      "translated_vi": "Lúc này bên cạnh hắn chỉ còn lại hai con Phi Đầu Man, nhưng lại không thể húc được vì đôi cánh của chúng đã ôm chặt cứng lấy thân hắn tựa như hai miếng cao dán khổng lồ, hai chiếc vòi hút cứ luồn lách lên xuống khắp người hắn tìm chỗ đâm vào."
+    },
+    {
+      "para_id": "c0027p0080",
+      "index": 80,
+      "raw_zh": "雲千峰兩隻手不敢離開耳朵，沒法攻擊這兩個家夥。",
+      "translated_vi": "Hai tay Vân Thiên Phong không dám rời khỏi tai nên chẳng thể ra tay tấn công hai con quái vật này."
+    },
+    {
+      "para_id": "c0027p0081",
+      "index": 81,
+      "raw_zh": "沒辦法，他一發狠，使勁跳起來，後背重重著地，把貼在他身後的飛頭蠻直接砸成了一層薄餅，滿地黏糊糊的液體中間，是一張慘白的鬼臉。",
+      "translated_vi": "Hết cách, hắn phát tiết nổi khùng, nhảy dựng người lên rồi đập mạnh lưng xuống nền đá, nghiền nát bét con Phi Đầu Man bám sau lưng thành một chiếc bánh mỏng dính. Giữa vũng chất dịch nhầy nhụa lênh láng khắp mặt đất là một khuôn mặt quỷ trắng bệch tái mét."
+    },
+    {
+      "para_id": "c0027p0082",
+      "index": 82,
+      "raw_zh": "隨後雲千峰在地上打滾，將身體左側的飛頭蠻壓在身下，咬著牙用肩膀碾動，一股股惡臭的粘液順著那鬼臉的眼睛鼻子嘴巴擠出來。",
+      "translated_vi": "Sau đó Vân Thiên Phong lăn lộn trên nền đất, đè nghiến con Phi Đầu Man bên sườn trái xuống dưới thân, nghiến răng nghiến lợi dùng bả vai chà xát thật mạnh, từng luồng dịch nhầy thối khẳm phọt ra từ mắt mũi mồm của khuôn mặt quỷ kia."
+    },
+    {
+      "para_id": "c0027p0083",
+      "index": 83,
+      "raw_zh": "即便這樣，這東西還不死，雲千峰一怒，用腦袋使勁的往下一砸。",
+      "translated_vi": "Ngay cả khi bị như vậy mà con quái vật vẫn chưa chết hẳn. Vân Thiên Phong bốc hỏa, dùng đầu nện thật mạnh xuống dưới."
+    },
+    {
+      "para_id": "c0027p0084",
+      "index": 84,
+      "raw_zh": "將那無骨鬼臉直接砸的變形，整個凹陷下去。",
+      "translated_vi": "Khuôn mặt quỷ không xương lập tức bị dập đến biến dạng, lún sâu cả mảng vào trong."
+    },
+    {
+      "para_id": "c0027p0085",
+      "index": 85,
+      "raw_zh": "心臟狂跳，全身脫力的雲千峰在地上爬起來，不忘了給腳下的三個飛頭蠻補刀。",
+      "translated_vi": "Tim đập như trống bỏi, toàn thân rã rời không còn chút sức lực, Vân Thiên Phong lồm cồm bò dậy từ mặt đất, không quên bồi thêm mấy nhát dao đoạt mạng ba con Phi Đầu Man dưới chân."
+    },
+    {
+      "para_id": "c0027p0086",
+      "index": 86,
+      "raw_zh": "就在這時，帳篷的拉鏈突然拉開，兩女在裡面鑽了出來。",
+      "translated_vi": "Đúng lúc này, khóa kéo của căn lều đột ngột kéo toạc ra, hai cô gái từ bên trong chui tọt ra ngoài."
+    },
+    {
+      "para_id": "c0027p0087",
+      "index": 87,
+      "raw_zh": "雲千峰正要呵斥她們趕緊回去，但沒想到的是，兩女一出來，嘴裡就開始嚷嚷。",
+      "translated_vi": "Vân Thiên Phong vừa định quát lớn đuổi hai người mau chui vào lại, nhưng điều hắn không ngờ tới là hai cô gái vừa ló mặt ra đã bắt đầu lảm nhảm mê sảng."
+    },
+    {
+      "para_id": "c0027p0088",
+      "index": 88,
+      "raw_zh": "“哥，我終於找到你了。”",
+      "translated_vi": "“Anh ơi, cuối cùng em cũng tìm thấy anh rồi.”"
+    },
+    {
+      "para_id": "c0027p0089",
+      "index": 89,
+      "raw_zh": "“雲千峰，我想你”",
+      "translated_vi": "“Vân Thiên Phong, em nhớ anh...”"
+    },
+    {
+      "para_id": "c0027p0090",
+      "index": 90,
+      "raw_zh": "雲千峰驚呆了：",
+      "translated_vi": "Vân Thiên Phong sững sờ chết lặng:"
+    },
+    {
+      "para_id": "c0027p0091",
+      "index": 91,
+      "raw_zh": "“戴著過濾面罩還能中毒？”",
+      "translated_vi": "“Đeo mặt nạ lọc độc rồi mà vẫn trúng độc được sao?”"
+    },
+    {
+      "para_id": "c0027p0092",
+      "index": 92,
+      "raw_zh": "然而，容不得他思考，就聽無數“嗚嗚”的聲響由遠及近，無數的飛頭蠻已經被這三個豐盛的血食吸引而來。",
+      "translated_vi": "Thế nhưng chưa kịp nghĩ ngợi gì thêm thì đã nghe thấy vô số âm thanh “ù ù” rợn tóc gáy từ xa xăm ùn ùn kéo tới. Vô số Phi Đầu Man đã bị mồi máu thịnh soạn của ba sinh mệnh thu hút bu tới."
+    },
+    {
+      "para_id": "c0027p0093",
+      "index": 93,
+      "raw_zh": "“完了！”",
+      "translated_vi": "“Xong đời rồi!”"
+    },
+    {
+      "para_id": "c0027p0094",
+      "index": 94,
+      "raw_zh": "雲千峰從未如此絕望過。",
+      "translated_vi": "Vân Thiên Phong chưa bao giờ rơi vào tuyệt vọng cùng cực đến mức này."
+    }
+  ]
+}

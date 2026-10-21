@@ -1,0 +1,106 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0323|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Bất kể làm gì đi chăng nữa, có kẻ chịu trận cùng lót lưng, cảm giác bao giờ cũng khác hẳn.
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §67):
+§1 [Ø=云千峰]“我必須去我能去到的這個范圍的盡頭，尋找和我一樣遭遇的人，與他們取得聯系， [||] 不是每個人都能像我一樣聰明，能夠推測出這一步，看來我需要耐心去等待！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§2 阿甘不缺乏韌勁。
+§3 [Ø=云千峰]做好了選擇，他下樓，買了食物和水，乘坐出租車來到被堵著的路口下車， [||] 也不過去，就在那群人旁邊，也一樣淋著雨，站在那等待著。
+§4 [Ø=云千峰]如果有人和他一樣推測出這個結論，那麽一定會在各個路口尋找同類。
+§5 [Ø=云千峰]如果沒有推測出這一切，那麽也會乘車來到各個路口，想辦法出城，那麽他們總能相遇。
+§6 [Ø=云千峰]唯一需要的，只是時間。
+§7 [Ø=云千峰]人找人能找死人，但等待卻很少讓人失望。
+§8 墨菲定律。
+§9 阿甘失望了。
+§10 [Ø=云千峰]天色大黑，雨勢也停了，但是他依舊沒有等到可能存在的和自己一樣的人。
+§11 [Ø=云千峰]於是，他只能濕淋淋的回到酒店房間，換上了自己那套綠色西裝。
+§12 他已經不需要低調了。
+§13 阿甘甚至覺得。
+§14 [Ø=云千峰]如果這是夢那就是極好的，只要能夠醒來， [||] 看到真實，什麽結果他都能接受，哪怕是被審判的現場。
+§15 [Ø=云千峰]他受夠了這種亦幻亦真，真假難辨的每一秒。
+§16 [Ø=云千峰]晚上，他買了很多酒，就在酒店的屋內，喝到酩酊大醉。
+§17 [Ø=云千峰]“這是真正的醉意，絕不是虛假，夢中如何能夠如此真實？這就是真實的世界，真實的”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§18 [Ø=云千峰]阿甘在酒精下很快失去意識，沉沉睡去。
+§19 [Ø=云千峰]再醒來時，已經是日上三竿。
+§20 [Ø=云千峰]他迷蒙著眼睛，看了一眼手機上的日期。
+§21 [Ø=云千峰]“呵，又是我來到蘋果島的第二天！那麽，門外一定是熟悉又陌生的他們吧！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 [Ø=云千峰]阿甘臉不洗牙不刷，就那麽晃蕩到門口，打開門，果然看到三井和瀨亞美三人站在門口。
+§23 [Ø=云千峰]就在三井準備彎腰施禮的那一刻，阿甘一把將瀨亞美拽進了懷裡，橫抱著走進屋內。
+§24 這無疑打亂了原本的節奏。
+§25 [Ø=云千峰]阿甘就是想看看三井他們會不會依舊如亦真亦幻的昨日一樣，把台詞說完。
+§26 [Ø=云千峰]出乎他預料的是，三井的反應很正常，[Ø_SHIFT=姜柔甲]他和攝像師急忙跟進來，賠笑道：
+§27 [Ø=姜柔甲]“阿甘君溫柔一些，瀨亞美會被嚇到的，嚇到的！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 [Ø=姜柔甲]阿甘一擺手，道：
+§29 [Ø=姜柔甲]“別廢話，開始拍攝.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§30 [Ø=姜柔甲]熟門熟路，而且阿甘似乎已經習慣了提頭來見的畫面，所以今日拍攝異常的順利，就是時間短了些。
+§31 [Ø=姜柔甲]送走了瀨亞美三人後，阿甘看著窗外晴朗的大街。
+§32 [Ø=姜柔甲]“今天沒有下雨，外面依舊是昨天那些人，還是一樣的捧腹大笑， [||] 還是一樣的愜意散步，一切的一切，除了不是雨天，與亦真亦幻的昨日一模一樣。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 [Ø=姜柔甲]“另類的土撥鼠之日嗎？還帶天氣變化的？但除了天氣，真的和土撥鼠之日一模一樣， [||] 就好像被困在了同一天，但若是同一天，怎麽可能天氣不同？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 阿甘真覺得自己要崩潰了。
+§35 [Ø=姜柔甲]任何邏輯，包括想象的邏輯，都沒有能與自己遭遇符合的。
+§36 [Ø=姜柔甲]夢境、精神分裂造成的幻想，可怕的陰謀論實驗，只有這三種可能，能夠解釋這一切。
+§37 [Ø=姜柔甲]“我是阿甘，我的身份證，護照， [||] 駕照上都是阿甘，這證明阿甘就是我的人格，這個人格不是幻想的。
+§38 [Ø=姜柔甲]不對，這些身份證明很可能也是阿甘這個人格幻想出來的，我一定還有一個主要人格，如果這不是夢境的話。”
+§39 [Ø=姜柔甲]“我是阿甘，我身體裡的另一個我， [||] 請你出來，我願意舍棄我自己跟從你，求你出來告訴我真相是什麽！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 [Ø=姜柔甲]阿甘卑微到了極致，然而並沒有另外一個人格回應他。
+§41 [Ø=姜柔甲]“好，不出現是嗎？那好吧，我現在用刀砍下我的小拇指，如果你不出來，你就和我一起承受痛苦， [||] 而且如果這是夢境，這樣的行為也可以讓我醒來，好，好，好！我現在死都不怕了，又如何吝嗇一根手指？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§42 阿甘真的瘋狂了。
+§43 [Ø=姜柔甲]他抽出日式短刀，用打火機燒了一下刀刃。
+§44 [Ø=姜柔甲]他無比期待這個時候，體內能有另一個人格的聲音來阻止自己，然而並沒有。
+§45 [Ø=姜柔甲]當他左手的小拇指滾落在地板上那一刻，劇烈的疼痛讓阿甘整個身體痙攣，彎曲成大蝦一般。
+§46 [Ø=姜柔甲]不，更像是可憐的嬰兒蜷縮在地上。
+§47 [Ø=姜柔甲]“不，不是夢， [||] 若是夢，我一定醒來了，不是夢！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§48 阿甘終於狠心排除了夢境的可能。
+§49 然後他乘車去醫院。
+§50 [Ø=姜柔甲]司機和醫生的反應都很正常，他們關切阿甘的傷勢，很禮貌很熱心。
+§51 [Ø=姜柔甲]但是他們的眼中沒有情感，阿甘能夠感覺到那種靈魂上的冰冷。
+§52 [Ø=姜柔甲]只是這無法證明什麽，因為蘋果島人一直都是這樣。
+§53 [Ø=姜柔甲]禮貌的外皮，包裹著鬣狗一樣的冷酷和殘忍。
+§54 [Ø=姜柔甲]阿甘木然的任憑醫生處理他的傷口，續接了小拇指。
+§55 [Ø=姜柔甲]他甚至不知道什麽時候打的麻藥，也忘記了自己有沒有感覺到疼。
+§56 [Ø=姜柔甲]手指處理好了之後，阿甘去見了心理醫生。
+§57 [Ø=姜柔甲]然而悲催的是，這二五子心理醫生，最後被阿甘催眠了。
+§58 [Ø=姜柔甲]徹底迷失那種，滿屋子亂轉問別人“我是誰”[Q1:姜柔甲->云千峰|state:COURTEOUS|tone:thăm dò, lễ tiết]，看起來比阿甘還嚴重。
+§59 [Ø=姜柔甲]阿甘無奈，沒辦法證明自己是不是精神分裂。
+§60 [Ø=姜柔甲]好消息是，自己可以住院了，不用回到酒店的房間。
+§61 那裡已經是他的噩夢。
+§62 [Ø=姜柔甲]躺在病床上，阿甘看著頭頂潔白的棚頂。
+§63 那一定是新粉刷過的。
+§64 [Ø=姜柔甲]“睡吧，什麽都別想， [||] 畢竟我還活著！今天在醫院，那麽明天的一切，終究是會改變的！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§65 [Ø=姜柔甲]在止痛藥物的作用下，阿甘沉沉睡去。
+§66 [Ø=姜柔甲]這一晚上，他做了無數的噩夢，等再睜開眼睛的時候，已經是第二天天明。
+§67 [Ø=姜柔甲]變化是有的，但絕不是阿甘期待的變化.
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 67 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§67. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

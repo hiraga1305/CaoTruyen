@@ -1,0 +1,499 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 16,
+  "title": "Chương 16: Không lời giải",
+  "total_paragraphs": 81,
+  "translated_paragraphs": 81,
+  "source_hash": "eed3698c9217f2b0b8703bc9d662be34f68ea50915febb29224c8ebf5a3b273c",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0016p0001",
+      "index": 1,
+      "raw_zh": "第16章 無解",
+      "translated_vi": "Chương 16: Không lời giải"
+    },
+    {
+      "para_id": "c0016p0002",
+      "index": 2,
+      "raw_zh": "“不可能是蒙繞的鬼魂，他要是真那麽厲害，在石頭上腐爛發臭的就是我了。”",
+      "translated_vi": "“Không thể nào là oan hồn của Mông Nhiễu được. Nếu gã thật sự lợi hại đến mức ấy, thì kẻ đang nằm mục rữa bốc mùi trên tảng đá kia đã là tôi rồi.”"
+    },
+    {
+      "para_id": "c0016p0003",
+      "index": 3,
+      "raw_zh": "雲千峰搖頭否定了這個可能。",
+      "translated_vi": "Vân Thiên Phong lắc đầu, gạt phắt khả năng này đi."
+    },
+    {
+      "para_id": "c0016p0004",
+      "index": 4,
+      "raw_zh": "薑柔甲受驚小鳥似的左右看了看，低聲道：",
+      "translated_vi": "Khương Nhu Giáp như cánh chim sợ cành cong, đưa mắt nhìn dáo dác xung quanh, khẽ thì thào:"
+    },
+    {
+      "para_id": "c0016p0005",
+      "index": 5,
+      "raw_zh": "“難道真的有降頭？蒙繞說古佔人詛咒了這片叢林，難道是真的？”",
+      "translated_vi": "“Chẳng lẽ thật sự có tà thuật giáng đầu? Lời Mông Nhiễu nói về chuyện người Cổ Chiêm nguyền rủa khu rừng này rốt cuộc là thật sao?”"
+    },
+    {
+      "para_id": "c0016p0006",
+      "index": 6,
+      "raw_zh": "雲千峰琢磨著，搖頭道：",
+      "translated_vi": "Vân Thiên Phong trầm ngâm suy tính một hồi, rồi lắc đầu bảo:"
+    },
+    {
+      "para_id": "c0016p0007",
+      "index": 7,
+      "raw_zh": "“不到最後，不考慮那些有的沒的，嘖，七孔流血，難道是中毒？”",
+      "translated_vi": "“Chưa tới bước đường cùng thì đừng vội nghĩ đến mấy thứ viển vông đó. Chậc, thất khiếu chảy máu thế này, lẽ nào là trúng độc?”"
+    },
+    {
+      "para_id": "c0016p0008",
+      "index": 8,
+      "raw_zh": "秦疏影沉吟道：",
+      "translated_vi": "Tần Sơ Ảnh trầm ngâm tiếp lời:"
+    },
+    {
+      "para_id": "c0016p0009",
+      "index": 9,
+      "raw_zh": "“這世界上，毒性能讓被傷者七孔流血的，只有五步蛇，會不會是五步蛇？”",
+      "translated_vi": "“Trên đời này, loại độc có thể khiến nạn nhân trúng phải bị chảy máu cả bảy lỗ chỉ có rắn ngũ bộ. Liệu có khi nào là rắn ngũ bộ không?”"
+    },
+    {
+      "para_id": "c0016p0010",
+      "index": 10,
+      "raw_zh": "說到這，還沒等別人表態，秦疏影自己直接搖頭否定，道：",
+      "translated_vi": "Vừa dứt lời, chẳng đợi người khác lên tiếng, chính cô đã lắc đầu bác bỏ:"
+    },
+    {
+      "para_id": "c0016p0011",
+      "index": 11,
+      "raw_zh": "“不對，五步蛇雖然小概率會讓被咬傷的生物肌肉和血管融化造成七孔流血，但咬傷的位置才是最大的出血點，這熊身上沒有這樣的出血點，可以排除五步蛇咬傷的可能。”",
+      "translated_vi": "“Không đúng. Rắn ngũ bộ tuy có xác suất nhỏ khiến cơ bắp và mạch máu của sinh vật bị cắn tan rữa dẫn đến thất khiếu chảy máu, nhưng vị trí vết cắn mới là điểm xuất huyết lớn nhất. Trên mình con gấu này không hề có vết cắn như vậy, có thể loại trừ khả năng bị rắn ngũ bộ cắn.”"
+    },
+    {
+      "para_id": "c0016p0012",
+      "index": 12,
+      "raw_zh": "雲千峰這次真的是完全找不到原因，一直以來他很少遇到這樣難解的情況。",
+      "translated_vi": "Lần này Vân Thiên Phong thực sự không thể tìm ra nguyên do. Xưa nay hắn rất hiếm khi gặp phải tình huống nan giải đến mức này."
+    },
+    {
+      "para_id": "c0016p0013",
+      "index": 13,
+      "raw_zh": "棕熊的屍體他檢查的非常仔細，絕沒有五步蛇咬傷的出血點。",
+      "translated_vi": "Xác con gấu nâu đã được hắn săm soi vô cùng tỉ mỉ, tuyệt đối không có bất kỳ điểm xuất huyết nào do vết rắn cắn."
+    },
+    {
+      "para_id": "c0016p0014",
+      "index": 14,
+      "raw_zh": "雲千峰回憶道：",
+      "translated_vi": "Vân Thiên Phong nhớ lại:"
+    },
+    {
+      "para_id": "c0016p0015",
+      "index": 15,
+      "raw_zh": "“昨晚棕熊拐彎到了這裡後，再沒有發出一絲聲響，這就證明棕熊是在一瞬間死亡，連叫一下的機會都沒有，蒙繞散落的內髒沒有被吃掉就可以證明這一點，可是這世界上還沒有這麽強的毒蛇毒蟲。”",
+      "translated_vi": "“Tối qua sau khi con gấu nâu rẽ vào chỗ này thì không còn phát ra một chút động tĩnh nào nữa. Điều đó chứng tỏ nó đã chết chỉ trong tích tắc, thậm chí chẳng kịp rống lên một tiếng. Chỗ nội tạng rơi vãi của Mông Nhiễu chưa hề bị đụng tới là bằng chứng rõ nhất. Thế nhưng trên đời này làm gì có loài rắn độc sâu bọ nào khủng khiếp đến mức ấy.”"
+    },
+    {
+      "para_id": "c0016p0016",
+      "index": 16,
+      "raw_zh": "秦疏影搖頭道：",
+      "translated_vi": "Tần Sơ Ảnh lắc đầu:"
+    },
+    {
+      "para_id": "c0016p0017",
+      "index": 17,
+      "raw_zh": "“這世界上有太多人類不了解的東西，能頃刻間毒死一頭棕熊的毒物未必就不存在，而且除了中毒以外，根本無法解釋這頭棕熊的死因，別說什麽古佔人的降頭，即便那東西真的存在，從傳說之中的效果來看，也一定是基於毒。”",
+      "translated_vi": "“Thế giới này còn quá nhiều điều mà con người chưa thể hiểu hết. Một loài độc vật có thể giết chết một con gấu nâu trong nháy mắt chưa chắc đã không tồn tại. Huống chi ngoài trúng độc ra, căn bản chẳng còn cách nào khác để giải thích cái chết của nó. Đừng nói tới tà thuật giáng đầu gì đó của người Cổ Chiêm, dẫu thứ đó có thật đi chăng nữa, thì theo như lời đồn, bản chất của nó chắc chắn cũng dựa trên độc tính mà thôi.”"
+    },
+    {
+      "para_id": "c0016p0018",
+      "index": 18,
+      "raw_zh": "雲千峰點了點頭，他讚成秦疏影的說法，降頭也好蠱毒也罷，不過是玄之又玄的稱呼，其基礎依舊是毒，不會逃離客觀規則的約束。",
+      "translated_vi": "Vân Thiên Phong gật đầu, hắn đồng tình với cách nghĩ của Tần Sơ Ảnh. Dù là giáng đầu hay cổ độc, chẳng qua cũng chỉ là những cái tên huyền hoặc mà người đời thêu dệt, nền tảng cốt lõi của chúng vẫn là độc chất, tuyệt đối không thể thoát khỏi sự chi phối của các quy luật khách quan."
+    },
+    {
+      "para_id": "c0016p0019",
+      "index": 19,
+      "raw_zh": "“甭管什麽，咱們小心為上，衣服都穿嚴實了，別給毒物可趁之機。”",
+      "translated_vi": "“Bất kể là thứ gì, chúng ta cứ cẩn tắc vô áy náy. Quần áo phải kéo kín lại, đừng tạo cơ hội cho lũ độc trùng thừa cơ chui vào.”"
+    },
+    {
+      "para_id": "c0016p0020",
+      "index": 20,
+      "raw_zh": "三人回去石洞，收拾了行囊，就準備出發。",
+      "translated_vi": "Cả ba quay trở lại hang đá, thu dọn hành lý sẵn sàng lên đường."
+    },
+    {
+      "para_id": "c0016p0021",
+      "index": 21,
+      "raw_zh": "路過那棕熊屍體的時候，雲千峰忍不住回頭看了一眼，不知道為什麽，這具屍體讓他感覺到極大的不安。",
+      "translated_vi": "Lúc đi ngang qua xác con gấu nâu, Vân Thiên Phong không kìm được ngoái đầu nhìn lại một cái. Chẳng hiểu vì sao, cái xác này lại dấy lên trong lòng hắn một nỗi bất an cực độ."
+    },
+    {
+      "para_id": "c0016p0022",
+      "index": 22,
+      "raw_zh": "也就是這一眼，讓他一下頓住腳步，一臉不解的重新回到棕熊屍體旁邊，嘴裡還念叨著：",
+      "translated_vi": "Và chính cái liếc mắt ấy đã khiến bước chân hắn khựng lại. Hắn mang vẻ mặt đầy nghi hoặc quay trở lại bên xác gấu, miệng lẩm bẩm:"
+    },
+    {
+      "para_id": "c0016p0023",
+      "index": 23,
+      "raw_zh": "“不對，這熊鼻孔的血裡面怎麽反射白色？”",
+      "translated_vi": "“Không đúng... Sao trong vũng máu ở lỗ mũi con gấu lại có ánh trắng thế này?”"
+    },
+    {
+      "para_id": "c0016p0024",
+      "index": 24,
+      "raw_zh": "說著，他用狗腿刀刮下棕熊鼻孔處凝固的血塊，隨手撿了一根木棍在上面一劃，露出了裡面好似豆腐般的白色碎渣。",
+      "translated_vi": "Vừa nói, hắn vừa dùng con dao quắm cạo lớp máu đông nơi lỗ mũi con gấu xuống, tiện tay nhặt một que củi gạt ra xem thử, để lộ bên trong những mẩu cặn vụn trắng bệch hệt như bã đậu phụ."
+    },
+    {
+      "para_id": "c0016p0025",
+      "index": 25,
+      "raw_zh": "秦疏影看到攆開的血團一愣，她是學醫的，立馬猜到那是什麽，驚訝道：",
+      "translated_vi": "Tần Sơ Ảnh nhìn khối máu bị gạt ra mà sững sờ. Vốn là người học y, cô lập tức đoán ra đó là thứ gì, kinh ngạc thốt lên:"
+    },
+    {
+      "para_id": "c0016p0026",
+      "index": 26,
+      "raw_zh": "“是棕熊的腦髓！天哪，這不是毒死的，應該是被強大外力擊打頭部，震碎了大腦而死！”",
+      "translated_vi": "“Là tủy não của gấu! Trời đất ơi, nó không phải bị trúng độc chết, mà là bị một ngoại lực cực mạnh giáng thẳng vào đầu, đánh nát bấy cả bộ não!”"
+    },
+    {
+      "para_id": "c0016p0027",
+      "index": 27,
+      "raw_zh": "說著，她急忙帶上手套，在棕熊的頭骨上摸了幾下，然而表情卻愈加驚訝，道：",
+      "translated_vi": "Nói đoạn, cô vội vã đeo găng tay vào, lần sờ mấy lượt trên hộp sọ con gấu. Thế nhưng nét mặt cô lại càng thêm thảng thốt:"
+    },
+    {
+      "para_id": "c0016p0028",
+      "index": 28,
+      "raw_zh": "“頭骨絕對完好，不是外力重傷，那還有什麽能讓棕熊的大腦碎成渣滓？”",
+      "translated_vi": "“Xương sọ hoàn toàn nguyên vẹn, không hề có dấu vết tổn thương do ngoại lực! Vậy rốt cuộc thứ gì có thể nghiền nát não bộ của con gấu thành bã vụn thế này?”"
+    },
+    {
+      "para_id": "c0016p0029",
+      "index": 29,
+      "raw_zh": "秦疏影和雲千峰都很清楚，腦子都碎了，這樣的傷勢，絕不可能是毒藥的化學作用，而是物理的力。",
+      "translated_vi": "Cả Tần Sơ Ảnh lẫn Vân Thiên Phong đều hiểu rất rõ, não bộ vỡ vụn đến mức này tuyệt đối không thể là phản ứng hóa học của độc dược, mà nhất định phải là một lực vật lý."
+    },
+    {
+      "para_id": "c0016p0030",
+      "index": 30,
+      "raw_zh": "雲千峰沉思片刻，道：",
+      "translated_vi": "Vân Thiên Phong trầm ngâm một lát rồi cất lời:"
+    },
+    {
+      "para_id": "c0016p0031",
+      "index": 31,
+      "raw_zh": "“頭骨完好，證明不是外力作用，那麽會不會是直接在棕熊的腦內絞碎了大腦？”",
+      "translated_vi": "“Hộp sọ nguyên vẹn chứng tỏ không phải do lực từ bên ngoài tác động, vậy liệu có khi nào có thứ gì đó đã chui thẳng vào trong khoang sọ rồi nghiền nát bộ não không?”"
+    },
+    {
+      "para_id": "c0016p0032",
+      "index": 32,
+      "raw_zh": "說著，指向棕熊的鼻孔，繼續道：",
+      "translated_vi": "Hắn vừa nói vừa chỉ tay vào lỗ mũi con gấu:"
+    },
+    {
+      "para_id": "c0016p0033",
+      "index": 33,
+      "raw_zh": "“比如說，某種東西在棕熊的鼻孔鑽進去，在內部瞬間殺死棕熊，而被破壞的大腦碎渣跟著鮮血一起流出。”",
+      "translated_vi": "“Chẳng hạn như, có thứ gì đó đã chui tọt qua đường mũi, lập tức giết chết con gấu từ bên trong, khiến cho những mảnh vụn não bị phá hủy trào ra ngoài cùng với máu tươi.”"
+    },
+    {
+      "para_id": "c0016p0034",
+      "index": 34,
+      "raw_zh": "說著，就要用狗腿刀給棕熊開顱。",
+      "translated_vi": "Dứt lời, hắn toan vung dao quắm bổ sọ con gấu ra xem."
+    },
+    {
+      "para_id": "c0016p0035",
+      "index": 35,
+      "raw_zh": "秦疏影急忙製止道：",
+      "translated_vi": "Tần Sơ Ảnh vội vàng ngăn lại:"
+    },
+    {
+      "para_id": "c0016p0036",
+      "index": 36,
+      "raw_zh": "“你這樣蠻力開顱，什麽結果也看不到，我來吧！”",
+      "translated_vi": "“Anh dùng sức mạnh bổ sọ như thế thì làm sao quan sát được gì nữa, để tôi!”"
+    },
+    {
+      "para_id": "c0016p0037",
+      "index": 37,
+      "raw_zh": "說著，她在背包裡取出一個卷起來的皮卷，展開來，裡面是大大小小的刀具鋼構，卻是一套很齊全的外科手術刀具。",
+      "translated_vi": "Nói xong, cô rút từ trong ba lô ra một bọc da cuộn tròn, mở ra, bên trong là đủ loại dao mổ và móc kẹp bằng thép không gỉ, rõ ràng là một bộ dụng cụ phẫu thuật ngoại khoa vô cùng đầy đủ."
+    },
+    {
+      "para_id": "c0016p0038",
+      "index": 38,
+      "raw_zh": "可見，秦疏影對入山，也是做了不少準備的。",
+      "translated_vi": "Đủ thấy Tần Sơ Ảnh đã chuẩn bị kỹ lưỡng đến mức nào cho chuyến vào rừng này."
+    },
+    {
+      "para_id": "c0016p0039",
+      "index": 39,
+      "raw_zh": "秦疏影解剖的手法很嫻熟，輕巧快速，不一會就沿著筋膜骨縫把棕熊的腦袋沿著嘴巴掀開，然後在上顎位置下刀，直入腦顱。",
+      "translated_vi": "Thủ pháp phẫu thuật giải phẫu của Tần Sơ Ảnh vô cùng thuần thục, nhẹ nhàng mà dứt khoát. Chẳng mấy chốc cô đã lần theo khe khớp và các lớp màng cơ, rạch từ mép miệng lật mở đầu con gấu ra, rồi hạ dao ngay tại vòm họng, đi thẳng vào khoang sọ."
+    },
+    {
+      "para_id": "c0016p0040",
+      "index": 40,
+      "raw_zh": "這樣可以不破壞內部現有狀態，看到真相。",
+      "translated_vi": "Làm như vậy có thể giữ nguyên hiện trạng bên trong mà vẫn nhìn rõ được chân tướng."
+    },
+    {
+      "para_id": "c0016p0041",
+      "index": 41,
+      "raw_zh": "腦顱打開了，三個人傻眼的看著眼前一幕。",
+      "translated_vi": "Khoang sọ mở toang, cả ba người sững sờ chết lặng trước cảnh tượng đập vào mắt."
+    },
+    {
+      "para_id": "c0016p0042",
+      "index": 42,
+      "raw_zh": "整個棕熊的大腦整個碎成了渣滓，很均勻。",
+      "translated_vi": "Toàn bộ não bộ của con gấu nâu đã nát vụn thành từng mẩu li ti, phân bố vô cùng đồng đều."
+    },
+    {
+      "para_id": "c0016p0043",
+      "index": 43,
+      "raw_zh": "秦疏影小心的查看了一會，道：",
+      "translated_vi": "Tần Sơ Ảnh cẩn thận quan sát hồi lâu rồi nói:"
+    },
+    {
+      "para_id": "c0016p0044",
+      "index": 44,
+      "raw_zh": "“不會是什麽東西鑽進來造成的，否則大腦不會碎的這樣均勻，而應該有著一定的隧孔，而且就算進來的東西有把大腦均勻成碎渣的習慣，但棕熊畢竟在那東西鑽進來同時就已經死亡，那麽血漿與大腦碎渣絕不會也混合的這般均勻。這只能是外力作用，造成大腦在一瞬間破碎。”",
+      "translated_vi": "“Không thể là do sinh vật nào chui vào phá hoại được. Nếu có, não bộ sẽ không nát đều đến thế mà ắt phải để lại những đường hầm khoét rỗng. Huống hồ cho dù thứ đó có thói quen nghiền nát não bộ đồng đều đi chăng nữa, thì con gấu cũng chết ngay khoảnh khắc dị vật chui vào, máu và vụn não tuyệt đối không thể hòa quyện đều đặn như vậy. Điều này chỉ có thể là do một ngoại lực tác động, khiến cả bộ não nổ tung thành cặn vụn trong tích tắc.”"
+    },
+    {
+      "para_id": "c0016p0045",
+      "index": 45,
+      "raw_zh": "雲千峰沉聲道：",
+      "translated_vi": "Vân Thiên Phong trầm giọng:"
+    },
+    {
+      "para_id": "c0016p0046",
+      "index": 46,
+      "raw_zh": "“但棕熊頭部和骨頭沒有任何外傷，卻又否定了外力作用這個可能，不是嗎？”",
+      "translated_vi": "“Nhưng đầu và xương sọ của nó lại chẳng có lấy một vết thương ngoài da, điều đó chẳng phải đã phủ nhận hoàn toàn giả thuyết ngoại lực hay sao?”"
+    },
+    {
+      "para_id": "c0016p0047",
+      "index": 47,
+      "raw_zh": "秦疏影沉默的點了點頭，很不願相信，但卻又不得不信的說道：",
+      "translated_vi": "Tần Sơ Ảnh lặng lẽ gật đầu. Cô rất không muốn tin, nhưng sự thật rành rành buộc cô phải thốt ra:"
+    },
+    {
+      "para_id": "c0016p0048",
+      "index": 48,
+      "raw_zh": "“或許是我的眼界太過狹窄了，竟然把影視劇裡的東西當真了，可能古佔人的降頭並不是影視劇裡演的下毒那麽簡單，而是複雜神秘到超出我們的想象。”",
+      "translated_vi": "“Có lẽ tầm mắt của tôi quá hạn hẹp, cứ ngỡ mọi chuyện giống như trên phim ảnh. Có khi thuật giáng đầu của người Cổ Chiêm không chỉ đơn thuần là bỏ độc như người ta vẫn diễn, mà nó phức tạp và huyền bí vượt xa sức tưởng tượng của chúng ta.”"
+    },
+    {
+      "para_id": "c0016p0049",
+      "index": 49,
+      "raw_zh": "這件事已經超出了三個人的認知，那麽眼前所見，似乎只有神秘的古佔人降頭能夠解釋。",
+      "translated_vi": "Sự việc này đã vượt quá tầm nhận thức của cả ba người. Trước mắt, dường như chỉ có thuật giáng đầu huyền bí của người Cổ Chiêm mới có thể giải thích nổi."
+    },
+    {
+      "para_id": "c0016p0050",
+      "index": 50,
+      "raw_zh": "人類總是笑話古人的無知，遇到超出自己認知的事情，便去神話。",
+      "translated_vi": "Con người hiện đại vẫn thường chê cười người xưa mông muội, cứ hễ gặp phải chuyện gì vượt ngoài hiểu biết là lại thần thánh hóa lên."
+    },
+    {
+      "para_id": "c0016p0051",
+      "index": 51,
+      "raw_zh": "而事實上，現代的人類又何嘗不是如此？",
+      "translated_vi": "Nhưng trên thực tế, con người hiện đại há chẳng phải cũng y như vậy sao?"
+    },
+    {
+      "para_id": "c0016p0052",
+      "index": 52,
+      "raw_zh": "雲千峰點燃了一根煙，使勁的吸了幾口，然後看著薑柔甲，沉聲道：",
+      "translated_vi": "Vân Thiên Phong châm một điếu thuốc, rít mạnh mấy hơi liền, rồi nhìn Khương Nhu Giáp, trầm giọng nói:"
+    },
+    {
+      "para_id": "c0016p0053",
+      "index": 53,
+      "raw_zh": "“野獸我不怕，毒瘴我也不怕，毒蟲毒蛇我也能想辦法規避，遇到壞人我可以上去為你們拚命，但是眼前這個我怎麽抗？大腦直接莫名的碎了啊！我們甚至不知道這是怎麽形成的，避無可避！",
+      "translated_vi": "“Dã thú tôi không sợ, chướng khí độc tôi cũng chẳng màng, rắn rết độc trùng tôi đều có cách né tránh, thậm chí gặp kẻ xấu tôi cũng có thể liều mạng vì hai người. Nhưng thứ quái quỷ trước mắt này thì tôi đỡ thế nào được? Cả bộ não bỗng dưng nát bấy một cách vô lý! Đến nguyên do hình thành chúng ta còn mù tịt, né cũng chẳng biết đường nào mà né!"
+    },
+    {
+      "para_id": "c0016p0054",
+      "index": 54,
+      "raw_zh": "薑柔甲，我們不能繼續深入了，不能為了找你哥，把我們三個人的命也搭在裡面，回頭吧，難道伱想腦子碎成豆腐渣，七孔流血的死在這蠻荒之中？”",
+      "translated_vi": "Khương Nhu Giáp, chúng ta không thể tiếp tục đi sâu vào trong nữa. Không thể vì tìm anh trai cô mà vứt bỏ cả tính mạng của ba người ở chốn này. Quay về đi! Chẳng lẽ cô muốn não mình vỡ nát như bã đậu rồi thất khiếu hộc máu mà chết rũ giữa chốn hoang vu này sao?”"
+    },
+    {
+      "para_id": "c0016p0055",
+      "index": 55,
+      "raw_zh": "薑柔甲使勁的搖頭，道：",
+      "translated_vi": "Khương Nhu Giáp lắc đầu nguầy nguậy, nghẹn ngào:"
+    },
+    {
+      "para_id": "c0016p0056",
+      "index": 56,
+      "raw_zh": "“不，我不回去，我要找到我哥，他是我最親的人，雲千峰你答應我的，要帶我去找我哥，你不能反悔！我不怕，我不怕死，我要找我哥！”",
+      "translated_vi": "“Không, tôi không về! Tôi phải tìm bằng được anh trai tôi, anh ấy là người thân duy nhất của tôi trên đời! Vân Thiên Phong, anh đã hứa sẽ đưa tôi đi tìm anh ấy, anh không được nuốt lời! Tôi không sợ, tôi không sợ chết, tôi phải tìm anh trai tôi!”"
+    },
+    {
+      "para_id": "c0016p0057",
+      "index": 57,
+      "raw_zh": "雲千峰聽到這話，一股惱火衝到肝上，認識以來，第一次這般大聲的對薑柔甲說話：",
+      "translated_vi": "Nghe những lời ấy, ngọn lửa giận dữ xộc thẳng lên đỉnh đầu Vân Thiên Phong. Kể từ lúc quen biết tới nay, đây là lần đầu tiên hắn lớn tiếng quát mắng Khương Nhu Giáp:"
+    },
+    {
+      "para_id": "c0016p0058",
+      "index": 58,
+      "raw_zh": "“你不怕，我怕！”",
+      "translated_vi": "“Cô không sợ nhưng tôi sợ!”"
+    },
+    {
+      "para_id": "c0016p0059",
+      "index": 59,
+      "raw_zh": "他是真的怕了，未知永遠是最可怕的。",
+      "translated_vi": "Hắn thật sự sợ rồi. Thứ chưa biết bao giờ cũng là thứ đáng sợ nhất."
+    },
+    {
+      "para_id": "c0016p0060",
+      "index": 60,
+      "raw_zh": "話已經說到這個份上，雲千峰乾脆一狠心，道：",
+      "translated_vi": "Lời đã nói toạc ra đến nước này, Vân Thiên Phong dứt khoát cắn răng nói cạn tình:"
+    },
+    {
+      "para_id": "c0016p0061",
+      "index": 61,
+      "raw_zh": "“我是絕對不會繼續帶著你們深入了，有能耐你自己去，要告我違約，就活著出來。”",
+      "translated_vi": "“Tôi tuyệt đối sẽ không dẫn các cô đi sâu vào trong nữa. Có giỏi thì cô tự đi mà tìm! Muốn kiện tôi vi phạm hợp đồng thì ráng mà sống sót trở ra!”"
+    },
+    {
+      "para_id": "c0016p0062",
+      "index": 62,
+      "raw_zh": "說完，轉身朝著回去的方向走去。",
+      "translated_vi": "Dứt lời, hắn xoay người sải bước đi về hướng cũ."
+    },
+    {
+      "para_id": "c0016p0063",
+      "index": 63,
+      "raw_zh": "“等一下。”",
+      "translated_vi": "“Đợi đã.”"
+    },
+    {
+      "para_id": "c0016p0064",
+      "index": 64,
+      "raw_zh": "是秦疏影的聲音。",
+      "translated_vi": "Đó là tiếng của Tần Sơ Ảnh."
+    },
+    {
+      "para_id": "c0016p0065",
+      "index": 65,
+      "raw_zh": "雲千峰回頭，以為秦疏影也要跟著自己離開。",
+      "translated_vi": "Vân Thiên Phong ngoái lại, ngỡ rằng Tần Sơ Ảnh cũng định theo chân mình rút lui."
+    },
+    {
+      "para_id": "c0016p0066",
+      "index": 66,
+      "raw_zh": "但讓他意外的是，秦疏影緊接著說了句：",
+      "translated_vi": "Nhưng điều khiến hắn bất ngờ là câu nói tiếp theo của cô:"
+    },
+    {
+      "para_id": "c0016p0067",
+      "index": 67,
+      "raw_zh": "“告訴我怎麽認你這個地圖，把蒙繞和你說的路線指給我。”",
+      "translated_vi": "“Chỉ cho tôi cách đọc tấm bản đồ này của anh, và vạch lại cho tôi lộ trình mà Mông Nhiễu từng nói.”"
+    },
+    {
+      "para_id": "c0016p0068",
+      "index": 68,
+      "raw_zh": "雲千峰一愣：",
+      "translated_vi": "Vân Thiên Phong ngẩn người:"
+    },
+    {
+      "para_id": "c0016p0069",
+      "index": 69,
+      "raw_zh": "“你不回去？”",
+      "translated_vi": "“Cô không quay về à?”"
+    },
+    {
+      "para_id": "c0016p0070",
+      "index": 70,
+      "raw_zh": "秦疏影苦笑一聲，道：",
+      "translated_vi": "Tần Sơ Ảnh cười khổ một tiếng, đáp:"
+    },
+    {
+      "para_id": "c0016p0071",
+      "index": 71,
+      "raw_zh": "“回去幹嗎？在虛假的記憶裡假裝幸福還是痛哭流涕？不找到真相，不找到真正的我，那我活著還有什麽意思？不如死了的好。”",
+      "translated_vi": "“Quay về làm gì chứ? Để tiếp tục chìm đắm trong mớ ký ức giả tạo, giả vờ hạnh phúc hay là ôm mặt khóc than? Nếu không tìm ra chân tướng, không tìm lại được chính bản thân mình, thì tôi sống trên đời này còn có ý nghĩa gì nữa? Chi bằng chết quách đi cho xong.”"
+    },
+    {
+      "para_id": "c0016p0072",
+      "index": 72,
+      "raw_zh": "說著，一指那棕熊那碎渣腦漿道：",
+      "translated_vi": "Vừa nói, cô vừa chỉ vào khối óc nát vụn của con gấu nâu:"
+    },
+    {
+      "para_id": "c0016p0073",
+      "index": 73,
+      "raw_zh": "“這死法其實挺好，不遭罪。”",
+      "translated_vi": "“Chết theo kiểu này kỳ thực cũng tốt, chẳng phải chịu đau đớn giằng xé.”"
+    },
+    {
+      "para_id": "c0016p0074",
+      "index": 74,
+      "raw_zh": "那種視死的平靜，讓雲千峰知道她的堅決。",
+      "translated_vi": "Sự bình thản xem cái chết nhẹ tựa lông hồng ấy khiến Vân Thiên Phong hiểu rõ quyết tâm sắt đá của cô."
+    },
+    {
+      "para_id": "c0016p0075",
+      "index": 75,
+      "raw_zh": "他把如何看地圖，包括自己對薑玉林可能去向的兩個猜想都告訴給秦疏影，在離開前，他看著蹲在地上只是哭泣的薑柔甲走過去，張嘴想說些什麽，但薑柔甲沒有給他這個機會，而是頭也不抬的低聲說了一個字：",
+      "translated_vi": "Hắn tỉ mỉ hướng dẫn cách đọc bản đồ, đồng thời nói hết hai suy đoán của mình về hướng đi khả dĩ của Khương Ngọc Lâm cho Tần Sơ Ảnh nghe. Trước lúc rời đi, hắn bước về phía Khương Nhu Giáp đang ngồi thụp dưới đất khóc nức nở, hé môi muốn nói điều gì đó. Thế nhưng cô không cho hắn cơ hội ấy, chỉ gục đầu xuống gối buông ra một chữ lạnh lùng:"
+    },
+    {
+      "para_id": "c0016p0076",
+      "index": 76,
+      "raw_zh": "“滾！”",
+      "translated_vi": "“Cút!”"
+    },
+    {
+      "para_id": "c0016p0077",
+      "index": 77,
+      "raw_zh": "一個字，透著無盡的絕望和失望。",
+      "translated_vi": "Chỉ một chữ duy nhất, nhưng chất chứa nỗi tuyệt vọng cùng nỗi thất vọng đến tận cùng."
+    },
+    {
+      "para_id": "c0016p0078",
+      "index": 78,
+      "raw_zh": "雲千峰絲毫不質疑，此刻自己的選擇是正確的，但卻依舊無地自容，低著頭直不起腰般，邁步走遠，消失在遠處的叢林之中。",
+      "translated_vi": "Vân Thiên Phong không mảy may nghi ngờ quyết định của mình lúc này là hoàn toàn đúng đắn, thế nhưng trong lòng hắn vẫn dấy lên nỗi hổ thẹn khôn nguôi. Hắn cúi gằm mặt như không sao ngẩng đầu lên nổi, nặng nề rảo bước rời đi, dần khuất dạng sau màn rừng rậm phía xa."
+    },
+    {
+      "para_id": "c0016p0079",
+      "index": 79,
+      "raw_zh": "秦疏影確定了一下方向，也不說話，一把拽起薑柔甲的胳膊，朝著與雲千峰相反的方向走遠消失。",
+      "translated_vi": "Tần Sơ Ảnh xác định lại phương hướng, không nói nửa lời, nắm lấy cánh tay kéo Khương Nhu Giáp đứng dậy, rồi rảo bước đi về hướng ngược lại với Vân Thiên Phong, mất hút giữa rừng sâu."
+    },
+    {
+      "para_id": "c0016p0080",
+      "index": 80,
+      "raw_zh": "就在她們倆離開不久，一頭巨大的棕熊緩緩來到這裡，在小棕熊屍體的旁邊低吟著。",
+      "translated_vi": "Ngay sau khi hai cô gái rời đi chẳng bao lâu, một con gấu nâu khổng lồ lừng lững tiến lại gần, cúi đầu gầm gừ khe khẽ bên cạnh xác con gấu nhỏ."
+    },
+    {
+      "para_id": "c0016p0081",
+      "index": 81,
+      "raw_zh": "良久，它用鼻子在空中左右嗅了嗅，朝著兩女離開的方向而去",
+      "translated_vi": "Rất lâu sau, nó khịt khịt mũi đánh hơi trong không khí qua lại mấy lần, rồi lần theo hướng hai cô gái vừa đi mà rảo bước đuổi theo..."
+    }
+  ]
+}

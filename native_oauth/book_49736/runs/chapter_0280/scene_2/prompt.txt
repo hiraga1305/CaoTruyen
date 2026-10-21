@@ -1,0 +1,108 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0280|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Vả lại với tốc độ khủng khiếp kia, e rằng muốn chạy trốn cũng chẳng thoát nổi.
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一座|một tòa
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §67):
+§1 [Ø=云千峰]關鍵是也不敢跑，娘娘給的任務還沒完成呢， [||] 眼前這人很明顯知道，娘娘現在不敢把他怎麽樣，所以有恃無恐。
+§2 [Ø=云千峰]當下雖然氣的呼吸急促，但還是轉成了恭敬的語氣道：
+§3 “小蟾變就是。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§4 [Ø=云千峰]說著，裙子內的雙腿開始泛出淡青色的鱗片紋理，露在裙外的雙腳踝開始漸漸相容。
+§5 小蟾臉上也現出了痛苦的表情。
+§6 [Ø=云千峰]很顯然，這種基因的轉換是極為痛苦的。
+§7 [Ø=云千峰]雲千峰就靠在門旁，點了根煙， [||] 慢慢吸著，看著，饒有興致。
+§8 [Ø=云千峰]不多時，小蟾完成了兩套基因外顯的變化。
+§9 [Ø=云千峰]雲千峰夾煙的手輕輕一抬，道：
+§10 “站起來！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 又是命令的口吻。
+§12 [Ø=云千峰]小蟾忍氣，纖腰一動，便直直的立了起來。
+§13 [Ø=云千峰]雲千峰好似觀賞物件似的，繞著小蟾轉了三圈，突然罵道：
+§14 “這特麽看得見什麽？褪了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 [Ø=云千峰]小蟾氣得渾身發抖，雲千峰卻朝她臉上吐了一串煙圈。
+§16 “呼”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 [Ø=云千峰]外面傳來一陣悶響，似乎有什麽在由遠及近快速趕來，雲千峰猛回頭，對著聲音來處高喊道：
+§18 [Ø=云千峰]“好一個金口玉言，你說不見，還敢現身嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 那悶響聲戛然而止。
+§20 “哈哈哈！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 [Ø=云千峰]雲千峰對著門外的叢林一陣狂笑，他把難題給了這裡的主人，你出來就是食言不要臉， [||] 不出來我就打你的臉，自己選！裡子我現在刮不動，但這面子我禍害定了。
+§22 [Ø=云千峰]笑過後，雲千峰回頭看著小蟾，陰森森道：
+§23 “還等什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 [Ø=云千峰]小蟾似乎認命了，心知不會有幫手，於是把手伸向連襟的衣衫。
+§25 [Ø=云千峰]乾淨了以後，雲千峰又是繞了三圈，看得仔細，相當仔細。
+§26 然後道：
+§27 [Ø=云千峰]“去那站著，手扶著牆。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 [Ø=云千峰]小蟾知道，自己上了雲千峰的當了。
+§29 [Ø=云千峰]這個混蛋問的那句“我不會見到你家娘娘”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]的話，就是為了現在這個場景做的陷阱，這份算計讓小蟾心裡發寒。
+§30 [Ø=云千峰]他堵住了娘娘出現的可能，可以肆意妄為的靠著自己來報復自己的主人， [||] 因為他很清楚的知道，算計自己命運的執行者，就包括自己的主人。
+§31 [Ø=云千峰]小蟾顫抖著，用手扶著牆，忍著眼淚道：
+§32 [Ø=云千峰]“你不配稱王，你是魔鬼！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 “蚩尤不一直都是你們口中的魔鬼嗎？我這叫如你等所願！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 “啊！.你會受到懲罰的.呃！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 “嗡”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 [Ø=云千峰]遙遠處，似有似無的飄來一聲怒吼。
+§37 [Ø=云千峰]只是很遠，聽不清。
+§38 雲千峰獰笑著。
+§39 [Ø=云千峰]小蟾在這一刻才明白，為什麽自家主人說這人不能留。
+§40 “他是個頭腦冷靜的瘋子！這世上最可怕的一種人！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 [Ø=云千峰]小蟾在前，雲千峰在後，倆人走在無邊的綠色之中。
+§42 [Ø=云千峰]小蟾一聲不吭，臉色鐵青，她又被逼著變回了雙腿。
+§43 [Ø=云千峰]雲千峰哼著“你身上有他的香水味”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]，愜意自然。
+§44 很快倆人來到一個露天的黑色祭壇。
+§45 雲千峰膻中內的全知之眼也早早感覺到了蚩尤的召喚。
+§46 [Ø=云千峰]蚩尤左腿，就在黑色祭壇之上，孤單安靜的落在哪裡。
+§47 [Ø=云千峰]祭壇是精美的，配得上。
+§48 [Ø=云千峰]雲千峰走上祭壇，捧起最後這一部分蚩尤，感受到全身蚩尤甲的顫栗。
+§49 那是對完整的期盼。
+§50 小蟾冷聲道：
+§51 “還愣著幹什麽？穿上吧！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§52 雲千峰淡淡道：
+§53 [Ø=云千峰]“急什麽？這裡又不是終點站，等到了地方再穿不遲，我還有話要交代。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§54 小蟾冷冷道：
+§55 [Ø=云千峰]“有什麽要交代的，說吧。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§56 雲千峰不屑道：
+§57 [Ø=云千峰]“叫聲那麽賤的人也配聽？速速領路，別廢話。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§58 [Ø=云千峰]小蟾捏緊的拳頭“哢哢哢”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]響個不停，顯然已經氣急。
+§59 [Ø=云千峰]但她不敢發作，因為她很清楚，雲千峰現在是按照既定的順序走， [||] 她只能相助，不能做其他事，否則就是阻撓，主人的懲罰更可怕。
+§60 [Ø=云千峰]於是便在祭壇旁邊，轉動幾個獸頭的雕刻，不多時機括聲轟隆隆傳出，祭台中心拱出一座[M1:một tòa]黑色的石碑。
+§61 小蟾冷冷道：
+§62 [Ø=云千峰]“二十一眼天珠是鑰匙，進去後就是你的終點站。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§63 [Ø=云千峰]雲千峰也沒說話，看著小蟾，然後嗅了嗅自己除了拇指外的四根手指， [||] 這才笑著走上祭台，來到黑石之前，屏息調整大腦接收頻段。
+§64 [Ø=云千峰]小蟾被雲千峰嗅手指的動作氣到眼前發黑，全身顫栗，臉上現出痛苦的神色，似乎已經快要達到忍耐的極限。
+§65 [Ø=云千峰]好在這時雲千峰走進黑色石碑，消失在祭台之上。
+§66 [Ø=云千峰]那一刻，小蟾終於忍不住，癱倒在地上，發出了撕心裂肺的怒吼。
+§67 “啊”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 67 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§67. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

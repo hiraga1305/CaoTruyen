@@ -1,0 +1,421 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 4,
+  "title": "Chương 4: Sơ hở",
+  "total_paragraphs": 68,
+  "translated_paragraphs": 68,
+  "source_hash": "7c0f5238b1010ad022ae26a6aa97fc42fb87f6f5a27354b2675a5e2cc851f580",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0004p0001",
+      "index": 1,
+      "raw_zh": "第4章 破綻",
+      "translated_vi": "Chương 4: Sơ hở"
+    },
+    {
+      "para_id": "c0004p0002",
+      "index": 2,
+      "raw_zh": "薑柔甲的社會關系很不一般，熟人幾乎遍布各個行業，在別人看來撓頭的事情，她只需要一個電話。",
+      "translated_vi": "Mối quan hệ xã hội của Khương Nhu Giáp quả thực không hề tầm thường, người quen của cô rải rác ở khắp mọi ngành nghề. Những việc trong mắt người khác là nan giải đau đầu, với cô chỉ cần một cuộc điện thoại là xong xuôi."
+    },
+    {
+      "para_id": "c0004p0003",
+      "index": 3,
+      "raw_zh": "雖然她之前因為“精神問題”在圈子裡出了點小名，但是這些人依舊願意與其互通有無，因為薑柔甲真的很有錢。",
+      "translated_vi": "Tuy rằng trước đó cô từng dính chút tiếng tăm trong giới vì \"vấn đề tâm thần\", nhưng đám người này vẫn sẵn lòng giúp qua đổi lại, đơn giản vì Khương Nhu Giáp thực sự quá nhiều tiền."
+    },
+    {
+      "para_id": "c0004p0004",
+      "index": 4,
+      "raw_zh": "見識了薑柔甲的財力和關系，雲千峰非常確信薑柔甲之前那句“求神問卜是我最後能做的”是真話。",
+      "translated_vi": "Tận mắt chứng kiến thực lực tài chính và mạng lưới quan hệ của Khương Nhu Giáp, Vân Thiên Phong vô cùng tin chắc rằng câu nói \"cầu thần bói quẻ là việc cuối cùng tôi có thể làm\" của cô lúc trước hoàn toàn là lời nói thật."
+    },
+    {
+      "para_id": "c0004p0005",
+      "index": 5,
+      "raw_zh": "她一定是把能想到的方法都用過了，因為她有這個能力。",
+      "translated_vi": "Chắc chắn cô đã thử qua mọi biện pháp có thể nghĩ tới, bởi cô thừa đủ năng lực làm điều đó."
+    },
+    {
+      "para_id": "c0004p0006",
+      "index": 6,
+      "raw_zh": "薑柔甲的朋友過來拿走了兩根頭髮。",
+      "translated_vi": "Bạn của Khương Nhu Giáp rất nhanh đã tới lấy đi hai sợi tóc."
+    },
+    {
+      "para_id": "c0004p0007",
+      "index": 7,
+      "raw_zh": "“還需要去看我哥其它的熟人嗎？”",
+      "translated_vi": "“Còn cần đi gặp những người quen khác của anh tôi nữa không?”"
+    },
+    {
+      "para_id": "c0004p0008",
+      "index": 8,
+      "raw_zh": "雲千峰擺了擺手，道：",
+      "translated_vi": "Vân Thiên Phong xua xua tay đáp:"
+    },
+    {
+      "para_id": "c0004p0009",
+      "index": 9,
+      "raw_zh": "“等DNA檢測結果出來之後再說。”",
+      "translated_vi": "“Cứ đợi kết quả xét nghiệm ADN ra rồi tính tiếp.”"
+    },
+    {
+      "para_id": "c0004p0010",
+      "index": 10,
+      "raw_zh": "薑柔甲看著雲千峰，心急道：",
+      "translated_vi": "Khương Nhu Giáp nhìn Vân Thiên Phong, sốt ruột hỏi:"
+    },
+    {
+      "para_id": "c0004p0011",
+      "index": 11,
+      "raw_zh": "“那我們現在做什麽？”",
+      "translated_vi": "“Thế giờ chúng ta làm gì?”"
+    },
+    {
+      "para_id": "c0004p0012",
+      "index": 12,
+      "raw_zh": "雲千峰能理解薑柔甲的心情，那就是她需要自己忙碌起來，一刻也不停歇，那樣心裡會好受很多。",
+      "translated_vi": "Vân Thiên Phong hoàn toàn hiểu được tâm trạng của Khương Nhu Giáp. Cô rất cần bản thân phải bận rộn luôn tay luôn chân, một khắc cũng không dừng lại, như thế nơi đáy lòng mới dễ chịu hơn đôi chút."
+    },
+    {
+      "para_id": "c0004p0013",
+      "index": 13,
+      "raw_zh": "她需要那種自己正在為哥哥而努力的心緒寬慰自己，但雲千峰實在無法如她所願，因為他此時此刻根本不知道該如何下手處理這件事。",
+      "translated_vi": "Cô cần cảm giác mình đang cật lực nỗ lực vì anh trai để tự an ủi chính mình, thế nhưng Vân Thiên Phong thực sự không thể chiều theo ý cô, bởi lúc này trong đầu hắn căn bản chẳng biết phải bắt tay giải quyết chuyện này từ đâu."
+    },
+    {
+      "para_id": "c0004p0014",
+      "index": 14,
+      "raw_zh": "可以說他現在很迷茫，而這迷茫不是因為薑柔甲是瘋子，恰恰相反，是因為薑柔甲的行為完全不像是一個精神分裂患者，也來自於秦疏影母子的不對勁。",
+      "translated_vi": "Có thể nói hiện tại hắn vô cùng mông lung, mà sự mông lung này không phải vì Khương Nhu Giáp là kẻ điên, mà trái lại, bởi vì hành vi cử chỉ của cô hoàn toàn không giống một bệnh nhân tâm thần phân liệt, và cũng bắt nguồn từ điểm bất thường của hai mẹ con Tần Sơ Ảnh."
+    },
+    {
+      "para_id": "c0004p0015",
+      "index": 15,
+      "raw_zh": "他需要等親子鑒定結果來證實一些東西，於是只能擺手道：",
+      "translated_vi": "Hắn cần chờ kết quả giám định huyết thống để xác thực một số suy đoán, bèn chỉ đành xua tay bảo:"
+    },
+    {
+      "para_id": "c0004p0016",
+      "index": 16,
+      "raw_zh": "“等DNA檢測的結果，一切等親子鑒定結果出來再說。”",
+      "translated_vi": "“Chờ kết quả xét nghiệm ADN đi, mọi chuyện cứ đợi kết quả giám định huyết thống ra rồi hãy nói.”"
+    },
+    {
+      "para_id": "c0004p0017",
+      "index": 17,
+      "raw_zh": "見薑柔甲一臉焦急的要說什麽，雲千峰急忙繼續道：",
+      "translated_vi": "Thấy Khương Nhu Giáp mặt mày sốt vó định nói gì đó, Vân Thiên Phong vội vàng tiếp lời:"
+    },
+    {
+      "para_id": "c0004p0018",
+      "index": 18,
+      "raw_zh": "“薑柔甲，如何找你哥哥這件事，全都聽我的，不要打亂我的節奏，否則我無法履行合同責任在你，“穩”字裡面為什麽要帶著“急”字？就是提醒你越急越要穩，伱給我穩住了。”",
+      "translated_vi": "“Khương Nhu Giáp, chuyện tìm anh trai cô thế nào thì cứ nghe theo tôi hết, chớ có làm rối nhịp điệu của tôi, bằng không tôi không thực hiện được hợp đồng thì trách nhiệm thuộc về cô đấy. Chữ 'ổn' bên trong có chứa chữ 'cấp', chính là nhắc nhở người ta càng sốt ruột thì càng phải bình tĩnh vững vàng. Cô cứ giữ bình tĩnh cho tôi.”"
+    },
+    {
+      "para_id": "c0004p0019",
+      "index": 19,
+      "raw_zh": "薑柔甲自己更是沒有頭緒，畢竟都被逼到求神問卜了，於是聽到這話，只能強壓下心頭的焦急，開車與雲千峰一起來到湖邊，倆人就那麽坐在車裡，看著湖面發呆，各自心思。",
+      "translated_vi": "Bản thân Khương Nhu Giáp vốn cũng chẳng có chút manh mối nào, dù sao cũng đã bị dồn vào bước đường cùng phải đi bói toán cầu thần, thế nên nghe những lời này, cô chỉ đành kìm nén nỗi nôn nóng trong lòng, lái xe cùng Vân Thiên Phong ra bờ hồ. Cả hai cứ thế ngồi trong xe, ngơ ngác ngắm nhìn mặt hồ phẳng lặng, mỗi người theo đuổi một dòng suy nghĩ riêng."
+    },
+    {
+      "para_id": "c0004p0020",
+      "index": 20,
+      "raw_zh": "“你說，我要是直接開進湖裡，是不是所有煩惱就都沒了？”",
+      "translated_vi": "“Anh bảo, nếu tôi cứ thế lao thẳng xe xuống hồ, có phải mọi phiền não trên đời đều tan biến hết không?”"
+    },
+    {
+      "para_id": "c0004p0021",
+      "index": 21,
+      "raw_zh": "說著，轉頭看到雲千峰正手速奇快的解開自己的安全帶，不由得悶哼一聲，道：",
+      "translated_vi": "Vừa dứt lời, cô ngoảnh sang liền thấy Vân Thiên Phong đang dùng tốc độ nhanh như chớp cởi phăng dây an toàn của mình ra, bất giác hừ lạnh một tiếng bảo:"
+    },
+    {
+      "para_id": "c0004p0022",
+      "index": 22,
+      "raw_zh": "“放心，我不會那麽做的，我得找到我哥哥，你也做好準備，一會DNA結果出來，你要是不能給我一個合理的解釋，就等著賠我違約金吧，我錢多但人不算傻。”",
+      "translated_vi": "“Yên tâm đi, tôi không làm chuyện dại dột đó đâu, tôi còn phải tìm anh trai tôi nữa. Anh cũng chuẩn bị tinh thần đi, lát nữa kết quả ADN ra mà anh không đưa ra được một lời giải thích hợp lý thì cứ liệu mà đền tiền vi phạm hợp đồng cho tôi. Tôi nhiều tiền nhưng người không ngu đâu.”"
+    },
+    {
+      "para_id": "c0004p0023",
+      "index": 23,
+      "raw_zh": "說白了，薑柔甲就沒覺得秦疏影的兒子是不是親生的，和找她哥哥之間有什麽關系，鬼也找不著這之間能有關系。",
+      "translated_vi": "Nói toẹt ra, Khương Nhu Giáp căn bản chẳng thấy việc con trai Tần Sơ Ảnh có phải con ruột hay không thì dính dáng cái quái gì đến chuyện tìm kiếm anh trai mình, có quỷ mới tìm ra mối liên hệ giữa hai chuyện đó."
+    },
+    {
+      "para_id": "c0004p0024",
+      "index": 24,
+      "raw_zh": "“雲千峰，你是不是根本就不知道怎麽找到我哥哥，所以在用這種手段拖延時間？是的話你直接告訴我，我不要你違約金，也不用你還這次打的錢，就當測字的費用了。”",
+      "translated_vi": "“Vân Thiên Phong, có phải anh căn bản chẳng biết làm sao để tìm anh tôi, nên mới dùng hạ sách này để kéo dài thời gian đúng không? Nếu đúng là thế thì anh cứ nói thẳng cho tôi biết, tôi không đòi tiền vi phạm hợp đồng của anh, cũng chẳng cần anh trả lại số tiền vừa chuyển, cứ coi như phí xem bói chiết tự là xong.”"
+    },
+    {
+      "para_id": "c0004p0025",
+      "index": 25,
+      "raw_zh": "雲千峰看了一眼這美妞，淡淡道：",
+      "translated_vi": "Vân Thiên Phong liếc nhìn cô nàng xinh đẹp này một cái, thản nhiên hỏi:"
+    },
+    {
+      "para_id": "c0004p0026",
+      "index": 26,
+      "raw_zh": "“然後呢？”",
+      "translated_vi": "“Rồi sau đó thì sao?”"
+    },
+    {
+      "para_id": "c0004p0027",
+      "index": 27,
+      "raw_zh": "薑柔甲也同樣淡淡道：",
+      "translated_vi": "Khương Nhu Giáp cũng đáp lại với vẻ thản nhiên tương tự:"
+    },
+    {
+      "para_id": "c0004p0028",
+      "index": 28,
+      "raw_zh": "“然後叫人把你沉到湖底，我最恨別人騙我。”",
+      "translated_vi": "“Rồi sau đó tôi sẽ gọi người dìm anh xuống đáy hồ. Đời tôi ghét nhất là bị người ta lừa dối.”"
+    },
+    {
+      "para_id": "c0004p0029",
+      "index": 29,
+      "raw_zh": "雲千峰點了根煙，目不轉睛的看著湖面，沉默是金。",
+      "translated_vi": "Vân Thiên Phong châm một điếu thuốc, mắt nhìn chằm chằm mặt hồ, im lặng là vàng."
+    },
+    {
+      "para_id": "c0004p0030",
+      "index": 30,
+      "raw_zh": "倆人自此就這樣沉默著，直到三個小時後薑柔甲的手機響了起來。",
+      "translated_vi": "Hai người cứ thế ngồi im lìm chẳng nói câu nào, mãi cho tới ba tiếng đồng hồ sau, chuông điện thoại của Khương Nhu Giáp bỗng vang lên giòn giã."
+    },
+    {
+      "para_id": "c0004p0031",
+      "index": 31,
+      "raw_zh": "她拿起手機，看了雲千峰一眼，然後接起電話，不等對方說話，就問道：",
+      "translated_vi": "Cô cầm máy lên, liếc nhìn Vân Thiên Phong một cái rồi bấm nghe, chẳng đợi đầu dây bên kia kịp mở lời đã dồn dập hỏi:"
+    },
+    {
+      "para_id": "c0004p0032",
+      "index": 32,
+      "raw_zh": "“結果如何？”",
+      "translated_vi": "“Kết quả thế nào?”"
+    },
+    {
+      "para_id": "c0004p0033",
+      "index": 33,
+      "raw_zh": "雲千峰知道，這一定是拿走秦疏影母子頭髮那個人打來的電話。",
+      "translated_vi": "Vân Thiên Phong biết rõ, đây nhất định là cuộc gọi từ người bạn đã nhận lấy tóc của mẹ con Tần Sơ Ảnh mang đi xét nghiệm."
+    },
+    {
+      "para_id": "c0004p0034",
+      "index": 34,
+      "raw_zh": "薑柔甲耳朵緊貼著聽筒，呼吸開始有點急促，甚至微張開紅唇幫助呼吸，看來對結果有些驚訝。",
+      "translated_vi": "Khương Nhu Giáp áp chặt tai vào ống nghe, nhịp thở bắt đầu có chút dồn dập, đôi môi đỏ mọng khẽ hé mở để đón lấy không khí, xem chừng vô cùng kinh ngạc trước kết quả nhận được."
+    },
+    {
+      "para_id": "c0004p0035",
+      "index": 35,
+      "raw_zh": "不多時後，她掛斷電話，看著雲千峰道：",
+      "translated_vi": "Chẳng mấy chốc sau, cô cúp máy, ngơ ngác nhìn Vân Thiên Phong thốt lên:"
+    },
+    {
+      "para_id": "c0004p0036",
+      "index": 36,
+      "raw_zh": "“還真不是親生的，我這準嫂子有點慘.現在說說吧，這和尋找我哥哥有什麽關系？”",
+      "translated_vi": "“Quả nhiên không phải con ruột thật, chị dâu tương lai của tôi kể ra cũng tội... Giờ thì anh nói đi, chuyện này rốt cuộc có liên quan gì đến việc tìm anh trai tôi?”"
+    },
+    {
+      "para_id": "c0004p0037",
+      "index": 37,
+      "raw_zh": "聽到是這個結果，雲千峰的表情遠比薑柔甲精彩，也更激動。",
+      "translated_vi": "Nghe được kết quả này, nét mặt của Vân Thiên Phong còn đặc sắc và kích động hơn Khương Nhu Giáp gấp bội phần."
+    },
+    {
+      "para_id": "c0004p0038",
+      "index": 38,
+      "raw_zh": "他抖著手點燃了一根煙，使勁的吸了幾口，似乎才冷靜下來，然後用一種看外星人的眼神看著薑柔甲，激動道：",
+      "translated_vi": "Đôi bàn tay hắn run rẩy châm một điếu thuốc, rít mạnh liền mấy hơi dường như mới dần lấy lại bình tĩnh, rồi dùng ánh mắt như nhìn sinh vật ngoài hành tinh nhìn trân trân vào Khương Nhu Giáp, nghẹn ngào kích động:"
+    },
+    {
+      "para_id": "c0004p0039",
+      "index": 39,
+      "raw_zh": "“哈哈哈！竟然真的不是親生的，被我賭對了，果然再縝密的計算也會有疏漏，秦疏影和她的兒子就是這個破綻！找到你哥哥有希望了。”",
+      "translated_vi": "“Ha ha ha! Quả nhiên không phải con ruột thật, tôi đánh cược trúng phóc rồi! Đúng là tính toán có tinh vi cẩn mật đến đâu cũng sẽ có kẽ hở, Tần Sơ Ảnh và con trai cô ta chính là sơ hở đó! Tìm lại anh trai cô có hy vọng rồi!”"
+    },
+    {
+      "para_id": "c0004p0040",
+      "index": 40,
+      "raw_zh": "薑柔甲看到雲千峰的表情，心裡還納悶，人家孩子不是親生的，你激動個什麽勁，但是聽到後面的話，立馬端正態度傾聽。",
+      "translated_vi": "Khương Nhu Giáp thấy bộ dạng của Vân Thiên Phong thì bụng thầm khó hiểu: Con nhà người ta không phải con ruột thì anh kích động cái nỗi gì chứ? Thế nhưng vừa nghe đến câu sau, cô lập tức chấn chỉnh lại thái độ, chăm chú lắng nghe."
+    },
+    {
+      "para_id": "c0004p0041",
+      "index": 41,
+      "raw_zh": "雲千峰激動的有點手舞足蹈，語速很快，繼續道：",
+      "translated_vi": "Vân Thiên Phong phấn khích tới mức khoa chân múa tay, tốc độ nói bắn liên thanh:"
+    },
+    {
+      "para_id": "c0004p0042",
+      "index": 42,
+      "raw_zh": "“你之前不是說秦疏影一直想要個孩子嗎？但是她和你哥倆人在一起那麽多年也沒個孩子，這很有問題，要麽是你哥不育，要麽是秦疏影不孕，都是百分之五十的幾率。",
+      "translated_vi": "“Trước đó chẳng phải cô bảo Tần Sơ Ảnh luôn khao khát có một đứa con sao? Nhưng cô ta với anh trai cô bên nhau ngần ấy năm trời mà chẳng hề có mụn con nào, điều này cực kỳ có vấn đề! Hoặc là anh trai cô vô sinh, hoặc là Tần Sơ Ảnh hiếm muộn, xác suất chia đều năm mươi năm mươi."
+    },
+    {
+      "para_id": "c0004p0043",
+      "index": 43,
+      "raw_zh": "“我當時看到秦疏影娘倆就覺得哪裡不對勁，後來發現她兒子和她長得沒有一點像的地方，那我就決定賭一賭這個幾率，如果我賭對了，她就是整件事的破綻！”",
+      "translated_vi": "“Lúc gặp hai mẹ con Tần Sơ Ảnh ở quán cà phê, tôi đã cảm thấy có điểm gì đó sai sai rồi. Về sau phát hiện con trai cô ta chẳng có nét nào giống mẹ cả, tôi liền quyết định đánh cược vào cái xác suất kia. Nếu tôi cược đúng, cô ta chính là sơ hở lớn nhất của toàn bộ chuyện này!”"
+    },
+    {
+      "para_id": "c0004p0044",
+      "index": 44,
+      "raw_zh": "“現在證明我賭贏了，你看哈，秦疏影的孩子是不小心在家裡早產的，不存在抱錯的可能，那麽這就證明她的記憶是假的，反之證明你的記憶才是真的，你不是個瘋子，這很重要！”",
+      "translated_vi": "“Hiện tại chứng minh tôi đã cược thắng! Cô nhìn xem, đứa bé của Tần Sơ Ảnh là sinh non tại nhà ngoài ý muốn, hoàn toàn không có khả năng bị bế nhầm ở bệnh viện. Vậy thì điều này chứng minh ký ức của cô ta là giả tạo! Ngược lại, nó chứng minh ký ức của cô mới là sự thật! Cô không hề điên, điều này cực kỳ quan trọng!”"
+    },
+    {
+      "para_id": "c0004p0045",
+      "index": 45,
+      "raw_zh": "“你不是瘋子，就證明這件事無疑是一件超自然事件，而能形成這種情況的可能有兩種。”",
+      "translated_vi": "“Cô không điên, tức là chuyện này chắc chắn là một hiện tượng siêu nhiên! Mà để hình thành nên cục diện kỳ quái này, chỉ có hai khả năng.”"
+    },
+    {
+      "para_id": "c0004p0046",
+      "index": 46,
+      "raw_zh": "“第一，有人或者什麽力量，在一個時間范圍內，刪除了你哥哥存在的所有證據，就像一個升級版的曼德拉效應，在量子物理的框架下，這是可能發生的。”",
+      "translated_vi": "“Thứ nhất: Có người hoặc một thế lực nào đó, trong một phạm vi thời gian nhất định, đã xóa sạch mọi bằng chứng về sự tồn tại của anh trai cô, hệt như một hiệu ứng Mandela phiên bản nâng cấp vậy. Dưới hệ quy chiếu của vật lý lượng tử, điều này hoàn toàn có thể xảy ra.”"
+    },
+    {
+      "para_id": "c0004p0047",
+      "index": 47,
+      "raw_zh": "“第二，你穿越到了一個沒有你哥哥存在的平行世界，在這個空間裡，你哥哥原本就不存在，這在超弦物理的框架下，是可以發生的。”",
+      "translated_vi": "“Thứ hai: Cô đã xuyên không tới một thế giới song song không hề có sự hiện diện của anh trai cô. Trong không gian này, anh trai cô vốn dĩ chưa từng tồn tại. Điều này dưới hệ quy chiếu của vật lý siêu dây cũng hoàn toàn có thể xảy ra.”"
+    },
+    {
+      "para_id": "c0004p0048",
+      "index": 48,
+      "raw_zh": "“秦疏影的記憶是假的，你的記憶是真的，這就又排出了你穿越平行空間的可能性，所以答案只剩下一個，這是你哥哥存在的世界，且他確實存在著，那我們就一定能找到他。”",
+      "translated_vi": "“Thế nhưng ký ức của Tần Sơ Ảnh là giả, còn ký ức của cô mới là thật, điều này đã loại trừ khả năng cô bị xuyên vào không gian song song! Cho nên đáp án chỉ còn lại duy nhất một khả năng: Đây chính là thế giới mà anh trai cô từng sống, và anh ấy thực sự đang tồn tại ở đâu đó! Vậy thì chúng ta nhất định sẽ tìm ra anh ấy!”"
+    },
+    {
+      "para_id": "c0004p0049",
+      "index": 49,
+      "raw_zh": "雲千峰可謂是驚喜交加。",
+      "translated_vi": "Vân Thiên Phong lúc này quả thực là vừa kinh ngạc vừa mừng rỡ khôn xiết."
+    },
+    {
+      "para_id": "c0004p0050",
+      "index": 50,
+      "raw_zh": "喜的是自己真的是親眼見證了超自然事件。",
+      "translated_vi": "Mừng là bởi bản thân hắn rốt cuộc đã tận mắt chứng kiến một hiện tượng siêu nhiên đích thực."
+    },
+    {
+      "para_id": "c0004p0051",
+      "index": 51,
+      "raw_zh": "驚的是這世界竟然真的有超自然事件，倒了操的。",
+      "translated_vi": "Kinh hãi là bởi thế giới này mẹ kiếp thế mà lại thực sự tồn tại hiện tượng siêu nhiên ngoài sức tưởng tượng."
+    },
+    {
+      "para_id": "c0004p0052",
+      "index": 52,
+      "raw_zh": "但驚喜也就那麽一瞬，他看到薑柔甲手忙腳亂打開秦疏影的語音聊天框，嘴裡還自言自語嘟囔著：",
+      "translated_vi": "Thế nhưng niềm vui kinh ngạc ấy cũng chỉ kéo dài trong chớp mắt. Hắn chợt nhìn thấy Khương Nhu Giáp đang luống cuống tay chân mở khung chat thoại với Tần Sơ Ảnh, miệng còn lẩm bẩm tự nói một mình:"
+    },
+    {
+      "para_id": "c0004p0053",
+      "index": 53,
+      "raw_zh": "“我是對的，終於有證據證明我是對的，她是我嫂子，不是別人的老婆，DNA證明她的兒子不是她生的，她被記憶欺騙了，我必須告訴她”",
+      "translated_vi": "“Tôi đúng rồi... Cuối cùng cũng có bằng chứng chứng minh tôi không sai! Chị ấy là chị dâu của tôi, không phải vợ của người khác! ADN chứng minh con trai không phải do chị ấy sinh ra, chị ấy đã bị ký ức đánh lừa rồi, tôi nhất định phải nói cho chị ấy biết...”"
+    },
+    {
+      "para_id": "c0004p0054",
+      "index": 54,
+      "raw_zh": "雲千峰見到這一幕登時急了，大聲道：",
+      "translated_vi": "Vân Thiên Phong thấy cảnh này lập tức hốt hoảng hét toáng lên:"
+    },
+    {
+      "para_id": "c0004p0055",
+      "index": 55,
+      "raw_zh": "“你要幹嘛？你想毀了一個家庭嗎？立馬關了！這件事與他們無關，他們也幫不到你什麽，沒必要向他們證明你沒瘋！”",
+      "translated_vi": "“Cô định làm cái gì đấy?! Cô muốn phá nát gia đình nhà người ta à? Tắt ngay lập tức! Chuyện này không liên quan tới họ, họ cũng chẳng giúp gì được cho cô đâu, cô việc quái gì phải đi chứng minh với họ là mình không điên!”"
+    },
+    {
+      "para_id": "c0004p0056",
+      "index": 56,
+      "raw_zh": "說著，混忘記前面這位是自己的雇主，一把搶下薑柔甲的手機，關閉了語音。",
+      "translated_vi": "Vừa dứt lời, hắn quên bẵng mất người ngồi trước mặt là người thuê mình, thẳng tay giật phắt lấy điện thoại của Khương Nhu Giáp rồi dập tắt cuộc gọi thoại."
+    },
+    {
+      "para_id": "c0004p0057",
+      "index": 57,
+      "raw_zh": "薑柔甲也在雲千峰的呼喊下冷靜下來，手足無措的說著：",
+      "translated_vi": "Khương Nhu Giáp dưới tiếng quát của Vân Thiên Phong cũng bừng tỉnh lại, luống cuống tay chân lắp bắp:"
+    },
+    {
+      "para_id": "c0004p0058",
+      "index": 58,
+      "raw_zh": "“對不起，對不起，我太激動了，腦子一片空白，關了對，關了對，這件事與她無關，語音沒連上吧？”",
+      "translated_vi": "“Xin lỗi, tôi xin lỗi... Tôi kích động quá, đầu óc trống rỗng chẳng nghĩ được gì... Tắt đi là đúng, tắt đi là đúng rồi... Chuyện này không liên quan tới chị ấy... Cuộc gọi chưa kết nối được đúng không anh?”"
+    },
+    {
+      "para_id": "c0004p0059",
+      "index": 59,
+      "raw_zh": "雲千峰看著聊天框，低聲道：",
+      "translated_vi": "Vân Thiên Phong nhìn vào màn hình khung chat, trầm giọng đáp:"
+    },
+    {
+      "para_id": "c0004p0060",
+      "index": 60,
+      "raw_zh": "“連上了幾秒，希望沒聽到關鍵的那句吧。”",
+      "translated_vi": "“Kết nối được mấy giây rồi, hy vọng cô ấy chưa nghe thấy câu nói mấu chốt kia.”"
+    },
+    {
+      "para_id": "c0004p0061",
+      "index": 61,
+      "raw_zh": "薑柔甲聽到語音連上了幾秒，立馬哭起來。",
+      "translated_vi": "Khương Nhu Giáp vừa nghe thấy cuộc gọi đã kết nối được mấy giây liền òa khóc nức nở:"
+    },
+    {
+      "para_id": "c0004p0062",
+      "index": 62,
+      "raw_zh": "“都是我不好，她要是聽到了可怎麽辦？我不想毀了她的家庭，我只是.我只是依舊把她當成最親的人，我的記憶裡，她是我的嫂子啊！那麽多年在一起.”",
+      "translated_vi": "“Đều tại tôi không tốt... Nếu chị ấy nghe thấy thì phải làm sao bây giờ? Tôi không muốn phá vỡ gia đình chị ấy đâu, tôi chỉ là... tôi chỉ là vẫn luôn xem chị ấy như người thân thiết nhất... Trong ký ức của tôi, chị ấy là chị dâu tôi mà! Bao nhiêu năm trời gắn bó bên nhau...”"
+    },
+    {
+      "para_id": "c0004p0063",
+      "index": 63,
+      "raw_zh": "雲千峰也知道她沒有惡意，就像薑柔甲自己說的，她的語音是下意識打給心裡最親的人，記憶中的嫂子，而不是現在的秦疏影。",
+      "translated_vi": "Vân Thiên Phong cũng biết cô không hề có ác ý. Đúng như những gì Khương Nhu Giáp tự bộc bạch, cuộc gọi ấy chỉ là phản xạ vô thức hướng về người thân thương nhất trong lòng cô — người chị dâu trong ký ức, chứ không phải một Tần Sơ Ảnh của hiện tại."
+    },
+    {
+      "para_id": "c0004p0064",
+      "index": 64,
+      "raw_zh": "他很想寬慰眼前哭到抽搐的姑娘，但伸出的手到了薑柔甲肩膀上方三寸時，終還是沒有觸碰上去，而是輕歎了口氣，收回手來，就那麽默默的看著她哭，心裡警告自己：",
+      "translated_vi": "Hắn rất muốn vỗ về cô gái đang khóc đến co giật cả người trước mặt, nhưng cánh tay vừa vươn tới cách vai Khương Nhu Giáp chừng ba tấc rốt cuộc vẫn dừng lại giữa không trung. Hắn khẽ thở dài một tiếng rồi rụt tay về, cứ thế lặng lẽ nhìn cô khóc, trong lòng tự nhắc nhở bản thân:"
+    },
+    {
+      "para_id": "c0004p0065",
+      "index": 65,
+      "raw_zh": "“唉，以為自己是來混的，不想真遇到超自然事件，這女人不能接近，得狠下心來，萬一前路太過危險，要給自己回頭的余地”",
+      "translated_vi": "“Haizz, vốn tưởng chỉ nhận việc để kiếm chác chút đỉnh, chẳng ngờ lại đụng phải hiện tượng siêu nhiên thật. Người phụ nữ này tuyệt đối không thể dây dưa quá sâu, phải giữ cái đầu lạnh và dứt khoát lên, lỡ như chặng đường phía trước quá đỗi nguy hiểm thì còn đường lui cho mình...”"
+    },
+    {
+      "para_id": "c0004p0066",
+      "index": 66,
+      "raw_zh": "此時此刻，市中心，某高檔小區內。",
+      "translated_vi": "Cùng lúc đó, tại một khu đô thị cao cấp ở trung tâm thành phố."
+    },
+    {
+      "para_id": "c0004p0067",
+      "index": 67,
+      "raw_zh": "秦疏影面色煞白，目光呆滯的看著桌前的手機，好似被抽離了魂魄的雕塑。",
+      "translated_vi": "Gương mặt Tần Sơ Ảnh trắng bệch không còn một giọt máu, ánh mắt đờ đẫn dán chặt vào chiếc điện thoại đặt trên bàn, hệt như một pho tượng đá bị rút sạch linh hồn."
+    },
+    {
+      "para_id": "c0004p0068",
+      "index": 68,
+      "raw_zh": "如此呆坐良久，她才猛的起身，瘋了般衝出家門.",
+      "translated_vi": "Ngồi chết trân như thế hồi lâu, cô mới đột ngột bật dậy, lao vụt ra khỏi nhà như phát điên..."
+    }
+  ]
+}

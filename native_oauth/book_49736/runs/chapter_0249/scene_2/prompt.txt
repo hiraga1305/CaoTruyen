@@ -1,0 +1,90 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0249|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Trên tế đàn có một bức bình phong bằng ngọc thạch chắn ngang, bức bình phong ngọc ấy đẹp đến kinh ngạc, toàn thân trắng muốt, không vướng một hạt bụi trần, phía trên chạm khắc hồ nước trong vắt và nhữ
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|二三百斤|ba trăm cân
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §49):
+§1 [Ø=云千峰]借著搖曳的燈火，雲千峰能看到，一個人影就在屏風之後，搖曳如踏在浮雕的浪花上。
+§2 [Ø=云千峰]有兩個人踏著百鳥朝鳳的節奏跑到祭台上，一人一頭，推向那玉石屏風。
+§3 [Ø=云千峰]很顯然，是想讓屏風後的人出現在這祭台之上。
+§4 [Ø=云千峰]但是奈何那玉石屏風太大太重，倆人竟然沒推動。
+§5 [Ø=云千峰]這倆禍害可好，抽出腰間狗腿刀，用刀把照著屏風就砸。
+§6 “哢嚓！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§7 “嘩啦！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 [Ø=云千峰]那價值連城的玉石屏風，最少經歷過千萬年歲月的古董，啐碎了！
+§9 [Ø=云千峰]眼皮都沒眨一下，更別說心疼。
+§10 [Ø=云千峰]屏風一碎，一個身著紅色旗袍，頭戴紅色蓋頭的女人出現在祭台上。
+§11 [Ø=云千峰]她背對著雲千峰進來的石門，個子不高，似乎也就一米五左右。
+§12 [Ø=云千峰]但任何人都必須承認，這是世界上最美的背影。
+§13 [Ø=云千峰]纖細的腰，誇張的腰臀比，筆直有力的雙腿。
+§14 [Ø=云千峰]這世界上沒有人比她更適合穿旗袍，一個也沒有。
+§15 [Ø=云千峰]那也是唯一一個，雲千峰看到背影就絕對不會認錯的人。
+§16 [Ø=云千峰]看到這個背影，雲千峰腦海裡立馬浮現出在精神病院看到的那一幕。
+§17 [Ø=云千峰]一個美麗背影的女孩，穿著藍格子的衣服，手擎著二三百斤[M1:ba trăm cân]的石凳在做深蹲，恍如隔世。
+§18 “小神經！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 雲千峰無意識的開口叫出這個名字。
+§20 [Ø=云千峰]祭台上，那女孩頭頂的紅蓋頭顫動了一下。
+§21 [Ø=云千峰]雲千峰確定那是小神經後，首先想到的是小神經被這些人綁架了。
+§22 [Ø=云千峰]但是緊接著想到小神經也在那張照片裡，便又懷疑了這個猜測，換成了“小神經也是來殺我的？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]。
+§23 [Ø=云千峰]於是，他握緊了拳頭後，問出的卻是無力的一句話：
+§24 “你們.到底要幹嘛？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 裡面的人哈哈大笑。
+§26 [Ø=云千峰]開門的倆人拽著雲千峰握緊的拳頭往裡走，一邊走一邊說道：
+§27 [Ø=云千峰]“還能幹什麽？吃你和小神經的喜酒啊！拖了這麽多年了，也該把事辦了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 [Ø=云千峰]見雲千峰站穩不動，眼睛盯著拽自己的人。
+§29 [Ø=云千峰]那人歎了口氣，笑道：
+§30 [Ø=云千峰]“給兄弟們個面子，把婚禮辦了，今天不辦，兄弟們可就喝不到你們的喜酒啦！哈哈哈！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=云千峰]那笑聲，把悲愴和喜悅完美的糅合到了一起，不見絲毫矛盾，似乎本就該這樣。
+§32 雲千峰看向前方這十個人。
+§33 [Ø=云千峰]他們有的魁梧有的瘦小，但無一例外，身上臉上都帶著傷疤。
+§34 [Ø=云千峰]在他們眼中，雲千峰讀到了無盡的滄桑，還有不含一絲雜質的情誼。
+§35 [Ø=云千峰]不知為何，雲千峰發現自己竟然無法拒絕這樣的目光。
+§36 [Ø=云千峰]他跟隨著走進石洞的大廳，琳達被身後的人拽到了旁邊，席地而坐。
+§37 [Ø=云千峰]雲千峰被人引著，在百鳥朝鳳的歡快曲調裡，緩緩走上祭台。
+§38 來到了那背影的身側。
+§39 “小神經！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 [Ø=云千峰]聽到雲千峰的呼喚，穿著旗袍的她緩緩轉身，用細白的雙手握住了雲千峰的雙手。
+§41 [Ø=云千峰]雲千峰的手滾燙，小神經的手一如曾經的冰涼。
+§42 [Ø=云千峰]看到祭台上倆人牽手，台下席地的眾人，齊聲呼喊：
+§43 “一拜天地！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 [Ø=云千峰]感謝洛晴川、liude的打賞，謝謝你們的支持！！！
+§45 [Ø=云千峰]感謝肖娜丶、廟裡供著神、相冊裡的她真的很好看、不會神羅天征的天道、讀書三到、在見QWQ、20230306865_EC的月票獎勵，謝謝你們的支持！！！
+§46 感激你們一直在這裡！！！
+§47 [Ø=云千峰]看到周五這個時間，總能讓我特別放松，哪怕現在是午夜。
+§48 [Ø=云千峰]我試試能不能睡著，祝大家好夢！！！
+§49 晚安！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 49 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§49. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

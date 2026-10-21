@@ -1,0 +1,331 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 88,
+  "title": "Chương 88: Thợ săn và con mồi",
+  "total_paragraphs": 53,
+  "translated_paragraphs": 53,
+  "source_hash": "ab9be6bf9835d3ffe384a8b71158cf990b1d448edea982762c8f6a6a5c2ef75d",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0088p0001",
+      "index": 1,
+      "raw_zh": "第88章 獵人 獵物（盟主加更進行中）",
+      "translated_vi": "Chương 88: Thợ săn và con mồi"
+    },
+    {
+      "para_id": "c0088p0002",
+      "index": 2,
+      "raw_zh": "雲千峰隱藏在郊區路邊的樹叢裡。",
+      "translated_vi": "Vân Thiên Phong ẩn mình sau lùm cây rậm rạp ven con đường ngoại ô."
+    },
+    {
+      "para_id": "c0088p0003",
+      "index": 3,
+      "raw_zh": "看到一列列鳴笛的車輛朝著贛州方向奔去，他嘴角翹了起來。",
+      "translated_vi": "Trông thấy từng đoàn xe còi rú inh ỏi lao vun vút về hướng Cám Châu, khóe môi anh khẽ nhếch lên một nụ cười kín đáo."
+    },
+    {
+      "para_id": "c0088p0004",
+      "index": 4,
+      "raw_zh": "“看來起作用了，就是不能把你們全騙過去，最少也騙過去一半，看你們這群混蛋能有多少人！",
+      "translated_vi": "“Xem ra đòn nghi binh đã phát huy tác dụng rồi. Dẫu không thể lừa trọn gói tất cả bọn chúng thì ít nhất cũng xỏ mũi được một nửa, để xem lũ khốn kiếp các người có bao nhiêu nhân lực mà rải ra!"
+    },
+    {
+      "para_id": "c0088p0005",
+      "index": 5,
+      "raw_zh": "竟然把我弄成墨西哥毒梟，勞資這口音哪裡像？不過這計劃真的不錯，以後只要我露面，所有人就是他們的眼睛。對了，我的墨西哥名字叫啥來著？唉，忘了！”",
+      "translated_vi": "Dám biến ông đây thành trùm ma túy Mexico, chất giọng sệt dân bản xứ này của mình thì giống chỗ nào cơ chứ? Nhưng mà kế sách này của chúng quả thật hiểm độc, sau này hễ mình ló mặt ra ngoài thì bất kỳ ai cũng có thể trở thành tai mắt của bọn chúng. Cơ mà cái tên Mexico của mình là gì ấy nhỉ? Haizz, quên béng mất rồi!”"
+    },
+    {
+      "para_id": "c0088p0006",
+      "index": 6,
+      "raw_zh": "想著，他看了一眼手表上的指南針，也沒去馬路上，而是直接鑽進了樹林裡。",
+      "translated_vi": "Vừa nghĩ ngợi, anh vừa liếc nhìn chiếc la bàn tích hợp trên mặt đồng hồ, không thèm men theo quốc lộ nữa mà lủi thẳng một mạch vào cánh rừng rậm."
+    },
+    {
+      "para_id": "c0088p0007",
+      "index": 7,
+      "raw_zh": "他的手裡拎著一兜子食物，都是奶糖、餅乾、火腿腸這種易攜帶還扛餓的食物，還有幾包煙，一個打火機，一把看起來很鋒利的菜刀，把身上兩百三十五塊六花了兩百三十四塊一，還換了三個五毛硬幣在身上，萬一猶豫不決時還能搖一卦。",
+      "translated_vi": "Trên tay anh xách theo một túi ni lông căng phồng đựng đồ ăn, toàn là kẹo sữa, bánh quy, xúc xích hun khói — những món vừa gọn nhẹ dễ mang theo vừa chắc dạ ấm bụng; ngoài ra còn có vài bao thuốc lá, một chiếc bật lửa, cùng một con dao phay trông khá sắc bén. Số tiền hai trăm ba mươi lăm tệ sáu hào vừa mượn được thì anh tiêu hết hai trăm ba mươi tư tệ một hào, còn dư lại ba đồng xu năm hào nhét túi phòng khi do dự có thể lấy ra gieo quẻ."
+    },
+    {
+      "para_id": "c0088p0008",
+      "index": 8,
+      "raw_zh": "靠著這些食物，他有信心在山裡活半個月。",
+      "translated_vi": "Với số lương thực tích trữ này, anh hoàn toàn tự tin có thể sinh tồn trong núi sâu suốt nửa tháng trời."
+    },
+    {
+      "para_id": "c0088p0009",
+      "index": 9,
+      "raw_zh": "“我買東西的超市有攝像頭，不出意外，他們很快會猜到我可能準備走山路，又會被分散一波。",
+      "translated_vi": "“Siêu thị mini nơi mình mua đồ có gắn camera giám sát, nếu không có gì bất ngờ thì bọn chúng sẽ sớm đoán ra ý định luồn rừng đi đường núi của mình, và thế là quân lực của chúng lại bị chia năm xẻ bảy thêm một bận nữa."
+    },
+    {
+      "para_id": "c0088p0010",
+      "index": 10,
+      "raw_zh": "要想辦法繼續分散他們，直到我有能力抓住一個活口問問情況，或者是徹底甩掉他們去八裡湖找薑玉林。”",
+      "translated_vi": "Mình phải tìm mọi cách tiếp tục phân tán lực lượng của chúng, cho đến khi đủ khả năng bắt sống một tên để cạy miệng tra hỏi thực hư, hoặc là cắt đuôi hoàn toàn lũ bám đuôi để quay về hồ Bát Lý tìm Khương Ngọc Lâm.”"
+    },
+    {
+      "para_id": "c0088p0011",
+      "index": 11,
+      "raw_zh": "郊區的山不是蠻荒，有著人踩出來的山路，想來是踏青或者是踩野菜留下的。",
+      "translated_vi": "Dãy núi vùng ngoại ô không đến mức hoang vu hẻo lánh, trên sườn dốc vẫn còn những lối mòn do dấu chân người giẫm thành, xem chừng là vết tích của những chuyến du xuân ngắm cảnh hoặc người dân địa phương lên núi hái rau dại."
+    },
+    {
+      "para_id": "c0088p0012",
+      "index": 12,
+      "raw_zh": "雲千峰沿著蜿蜒的羊腸小道一路走著，方向並不是奔著極江的八裡湖，而是斜了45度角，他需要機會再次迷惑那些人，分散他們的力量。",
+      "translated_vi": "Vân Thiên Phong men theo con đường mòn quanh co khúc khuỷu rảo bước, hướng đi không hề nhắm thẳng về phía hồ Bát Lý ở thành Cửu Giang mà chếch sang một góc bốn mươi lăm độ. Anh cần cơ hội để tiếp tục tung hỏa mù đánh lừa bọn chúng, phân tán triệt để thế trận vây bắt của đối phương."
+    },
+    {
+      "para_id": "c0088p0013",
+      "index": 13,
+      "raw_zh": "對於華夏人來說，指東打西遊擊戰是刻在靈魂深處的被動技能。",
+      "translated_vi": "Đối với người Hoa Hạ mà nói, thuật giương đông kích tây và nghệ thuật chiến tranh du kích dường như đã là bản năng ăn sâu vào tận linh hồn."
+    },
+    {
+      "para_id": "c0088p0014",
+      "index": 14,
+      "raw_zh": "靠著手表上的指南針，他保持自己不會偏離大致的方向，這樣一路在山路上疾奔。",
+      "translated_vi": "Dựa vào chiếc la bàn trên đồng hồ, anh căn chỉnh để lộ trình không bị chệch khỏi hướng đi đại thể, cứ thế sải bước phi nước đại trên đường rừng."
+    },
+    {
+      "para_id": "c0088p0015",
+      "index": 15,
+      "raw_zh": "他的速度很快，嘴裡含著奶糖，時刻補充著體力。",
+      "translated_vi": "Tốc độ của anh cực nhanh, trong miệng ngậm một viên kẹo sữa để liên tục bổ sung năng lượng cho cơ thể."
+    },
+    {
+      "para_id": "c0088p0016",
+      "index": 16,
+      "raw_zh": "“這全知之眼在我肚子裡，似乎讓我的重心變穩了，上躥下跳幾乎不會失衡，右手的“麒麟臂”不怕刀砍火燒，力氣又大的出奇，會不會還有其它部位？這要是弄全了，我算不算半神之體？”",
+      "translated_vi": "“Con Mắt Toàn Tri này nằm trong bụng mình, dường như khiến trọng tâm cơ thể trở nên vững chãi kỳ lạ, dù có bay nhảy trèo đèo lội suối cũng chẳng hề lo mất thăng bằng. Còn ‘Cánh tay Kỳ Lân’ bên phải thì đao thương bất nhập, lửa thiêu không cháy, sức mạnh lại lớn đến kinh người, liệu có còn những bộ phận cơ thể nào khác nữa chăng? Nếu thu thập đủ trọn bộ, chẳng lẽ mình sẽ sở hữu được bán thần chi thể?”"
+    },
+    {
+      "para_id": "c0088p0017",
+      "index": 17,
+      "raw_zh": "想到自己之前還羨慕小神經的一身武力，這要是真的還有其他部位，自己弄全了，怕是比小神經都要牛很多。",
+      "translated_vi": "Nghĩ đến trước đây mình từng thèm thuồng ngưỡng mộ một thân võ nghệ cái thế của Tiểu Thần Kinh, nếu quả thực còn có những bộ vị thần thánh khác mà gom góp đủ, e rằng uy lực của bản thân sẽ còn vượt xa cả cô nàng ấy nhiều."
+    },
+    {
+      "para_id": "c0088p0018",
+      "index": 18,
+      "raw_zh": "“這全知之眼能力應該不是現在這個樣子，小神經當時是準備把它鑲嵌在眉心印堂穴處，那裡才是全知之眼該在的位置，但是這東西屙不出來吐不出來，想換地方也沒轍。”",
+      "translated_vi": "“Uy năng thực sự của Con Mắt Toàn Tri này chắc chắn không đơn thuần chỉ có bấy nhiêu. Khi ấy Tiểu Thần Kinh vốn định gắn nó vào ngay huyệt Ấn Đường giữa hai đầu chân mày, nơi đó mới là vị trí chân chính của Con Mắt Toàn Tri. Ngặt nỗi cái thứ quỷ quái này nuốt vào rồi thì nôn không ra mà đi ngoài cũng chẳng thoát, muốn đổi vị trí khác cũng đành bó tay chịu trói.”"
+    },
+    {
+      "para_id": "c0088p0019",
+      "index": 19,
+      "raw_zh": "一邊想著自己面對的這些問題，不知不覺已經走到了後半夜。",
+      "translated_vi": "Vừa mải miết suy tính những nan đề trước mắt, chẳng mấy chốc bước chân anh đã bước sang nửa đêm về sáng."
+    },
+    {
+      "para_id": "c0088p0020",
+      "index": 20,
+      "raw_zh": "月亮已經隱沒在山後，叢林裡再沒有可以讓他趕路的光，他決定休息一會。",
+      "translated_vi": "Vầng trăng đã khuất sau rặng núi xa, trong rừng rậm chẳng còn sót lại chút ánh sáng nào để soi đường tiến bước, anh quyết định dừng chân nghỉ ngơi một lát."
+    },
+    {
+      "para_id": "c0088p0021",
+      "index": 21,
+      "raw_zh": "倒春寒的夜晚冷得人皮骨不爽，他又不敢生火，只能另辟蹊蹺。",
+      "translated_vi": "Đêm rét muộn cuối xuân buốt giá đến mức da thịt râm ran khó chịu, anh lại không dám nhóm lửa sưởi ấm, đành phải nghĩ cách khác ứng phó."
+    },
+    {
+      "para_id": "c0088p0022",
+      "index": 22,
+      "raw_zh": "他找了個地勢比較高的山頭，尋了一個被雨水衝出來的溝壑。",
+      "translated_vi": "Anh tìm tới một đỉnh núi có địa thế tương đối cao, chọn lấy một con mương rãnh do nước mưa xói mòn tạo thành."
+    },
+    {
+      "para_id": "c0088p0023",
+      "index": 23,
+      "raw_zh": "因為地勢高，所以只要一天不下雨，這些溝壑就會很乾爽，人躺在裡面能躲避冷風吹，還不易被發現。",
+      "translated_vi": "Nhờ địa thế trên cao nên chỉ cần một ngày trời tạnh ráo, rãnh đất này sẽ trở nên khô ráo sạch sẽ. Nằm gọn trong lòng rãnh vừa có thể chắn gió buốt thốc vào người, lại vừa khó bị kẻ khác phát giác."
+    },
+    {
+      "para_id": "c0088p0024",
+      "index": 24,
+      "raw_zh": "雲千峰弄了不少乾燥的樹葉枯草塞進了溝壑裡，然後鑽進那些枯草之中，把自己整個身形埋在裡面。",
+      "translated_vi": "Vân Thiên Phong gom một đống lá khô cùng cỏ úa nhét đầy vào lòng rãnh, sau đó chui tọt vào bên trong, vùi kín toàn bộ cơ thể dưới lớp cỏ khô."
+    },
+    {
+      "para_id": "c0088p0025",
+      "index": 25,
+      "raw_zh": "此時就是有人在這裡路過，也別想看到溝壑裡藏著一個人。",
+      "translated_vi": "Lúc này dẫu có người đi ngang qua sát bên cạnh cũng đừng hòng phát hiện ra dưới rãnh đất đang ẩn nấp một bóng người."
+    },
+    {
+      "para_id": "c0088p0026",
+      "index": 26,
+      "raw_zh": "蓬松的枯葉乾草可以輕易的讓空氣流通，還能起到保暖的作用。",
+      "translated_vi": "Lớp lá rụng xốp mềm vừa giúp không khí lưu thông dễ dàng, lại vừa có tác dụng giữ nhiệt sưởi ấm cực kỳ hiệu quả."
+    },
+    {
+      "para_id": "c0088p0027",
+      "index": 27,
+      "raw_zh": "雲千峰把腳盤到了膝窩裡面，這樣可以保持雙腳的溫暖，一個人保持身體靈活的首要條件，就是一雙暖和的雙腳。",
+      "translated_vi": "Vân Thiên Phong co chân gập vào khoeo gối, cách này giúp giữ ấm cho đôi bàn chân. Điều kiện tiên quyết để một người duy trì sự nhanh nhẹn linh hoạt của cơ thể chính là phải giữ cho đôi chân luôn ấm áp."
+    },
+    {
+      "para_id": "c0088p0028",
+      "index": 28,
+      "raw_zh": "好在那借來的羽絨大衣很蓬松厚實，保暖舒適。",
+      "translated_vi": "May thay chiếc áo phao lông vũ mượn được kia rất dày dặn và êm ái, mang lại cảm giác ấm áp dễ chịu."
+    },
+    {
+      "para_id": "c0088p0029",
+      "index": 29,
+      "raw_zh": "他太累了，寶貝似得抱著那點食物，在枯葉乾草下昏昏睡去。",
+      "translated_vi": "Anh đã quá đỗi rã rời, hai tay ôm khư khư bọc thức ăn như ôm báu vật, rồi chìm vào giấc ngủ mê mệt dưới lớp lá khô cỏ úa."
+    },
+    {
+      "para_id": "c0088p0030",
+      "index": 30,
+      "raw_zh": "遠處山下，他傍晚時離開的小城某超市內。",
+      "translated_vi": "Nơi chân núi xa xa, bên trong một siêu thị tại thị trấn nhỏ mà anh vừa rời đi lúc chập tối."
+    },
+    {
+      "para_id": "c0088p0031",
+      "index": 31,
+      "raw_zh": "“他昨晚在這裡都買了什麽？”",
+      "translated_vi": "“Tối qua hắn ta đã mua những thứ gì ở đây?”"
+    },
+    {
+      "para_id": "c0088p0032",
+      "index": 32,
+      "raw_zh": "“都是吃的，餅乾火腿腸什麽的，你看這是小票，他沒拿走。”",
+      "translated_vi": "“Toàn là đồ ăn thôi, bánh quy rồi xúc xích hun khói các loại, anh xem đây là hóa đơn tính tiền, anh ta chưa cầm đi này.”"
+    },
+    {
+      "para_id": "c0088p0033",
+      "index": 33,
+      "raw_zh": "“他有沒有和伱說什麽？”",
+      "translated_vi": "“Hắn có nói năng trao đổi gì với anh không?”"
+    },
+    {
+      "para_id": "c0088p0034",
+      "index": 34,
+      "raw_zh": "“他問這周邊山上有沒有大型的食肉動物，咱們這地方哪有那些東西，也就有野豬，土狼都少見，我就這麽實話告訴他的，他看起來挺高興。”",
+      "translated_vi": "“Anh ta hỏi trên mấy ngọn núi quanh đây có loài thú ăn thịt lớn nào không. Cái xứ này của bọn tôi làm gì có mấy thứ đó, họa hoằn lắm chỉ có lợn rừng, đến chó sói đồng cỏ còn hiếm thấy. Tôi cứ thế nói thật cho anh ta biết, thấy anh ta có vẻ mừng rỡ lắm.”"
+    },
+    {
+      "para_id": "c0088p0035",
+      "index": 35,
+      "raw_zh": "“他有沒有說要去哪？”",
+      "translated_vi": "“Hắn có nhắc tới việc mình định đi đâu không?”"
+    },
+    {
+      "para_id": "c0088p0036",
+      "index": 36,
+      "raw_zh": "“打聽了一下贛州的方向，其它的沒什麽，挺禮貌的一個人，你們說他是墨西哥人，這點絕無可能，他的口音絕對就是我們華夏人，北方口音，應該是我老鄉，這玩意老外學不會，你們肯定搞錯了。”",
+      "translated_vi": "“Có dò hỏi đường đi Cám Châu, ngoài ra không nói gì thêm. Nhìn chung là người rất lịch sự nhã nhặn. Các anh bảo anh ta là người Mexico thì tuyệt đối không thể nào, giọng nói của anh ta trăm phần trăm là người Hoa Hạ chúng ta, chuẩn giọng phương Bắc, khéo khi còn là đồng hương của tôi ấy chứ. Món khẩu âm này người nước ngoài học cả đời cũng chẳng nhái nổi đâu, các anh nhất định là nhận nhầm người rồi.”"
+    },
+    {
+      "para_id": "c0088p0037",
+      "index": 37,
+      "raw_zh": "詢問的兩個人走出超市，其中一人急忙打電話匯報。",
+      "translated_vi": "Hai kẻ tra hỏi bước ra khỏi siêu thị, một tên trong số đó vội vã rút điện thoại báo cáo tình hình."
+    },
+    {
+      "para_id": "c0088p0038",
+      "index": 38,
+      "raw_zh": "公路上，一輛房車緩緩靠邊停下。",
+      "translated_vi": "Trên con đường quốc lộ, một chiếc xe dã ngoại RV chầm chậm tấp vào lề đường dừng lại."
+    },
+    {
+      "para_id": "c0088p0039",
+      "index": 39,
+      "raw_zh": "車內真是金城和小佩那幾個人。",
+      "translated_vi": "Bên trong xe quả nhiên chính là nhóm người của Kim Thành và Tiểu Bội."
+    },
+    {
+      "para_id": "c0088p0040",
+      "index": 40,
+      "raw_zh": "“雲千峰在當地一家超市買了易攜帶的食物，還詢問了周邊山林的情況以及在山裡如何去贛州。看來他去贛州的可能性的確是最大的，只不過不是走馬路，而是走山路繞過去，有攝像頭看到他在城外郊區上了山，這個家夥很有想法。”",
+      "translated_vi": "“Vân Thiên Phong đã mua đồ ăn khô dễ mang theo ở một siêu thị địa phương, đồng thời còn dò hỏi địa hình rừng núi xung quanh cùng lộ trình băng rừng sang Cám Châu. Xem ra khả năng hắn đi Cám Châu đúng là cao nhất, chỉ có điều không đi đường nhựa mà chọn đường núi để vòng qua. Camera giám sát đã ghi lại cảnh hắn leo lên núi ở vùng ngoại ô ngoài thị trấn, tên này tính toán sâu xa đấy.”"
+    },
+    {
+      "para_id": "c0088p0041",
+      "index": 41,
+      "raw_zh": "“那怎麽辦？松田他們已經去了贛州方向，宮城他們去了極江方向搜尋，這裡就剩下咱們幾個了，就這幾個人怎麽搜山？”",
+      "translated_vi": "“Vậy giờ tính sao đây? Nhóm của Tùng Điền đã đuổi theo hướng Cám Châu, bọn Cung Thành thì xuôi về ngả Cửu Giang lùng sục, chỗ này chỉ còn lại vài người chúng ta, ngần này người thì làm sao lùng soát cả quả núi rộng lớn thế này?”"
+    },
+    {
+      "para_id": "c0088p0042",
+      "index": 42,
+      "raw_zh": "“你們看這座山，無論他去極江還是贛州，都只有這兩個出口能下山，既然他去贛州的可能性最大，那麽金城你和大雄在去贛州方向這個出口埋伏他。小佩自己去極江那個出口埋伏，我學過跟蹤術，我去山上追蹤他，這樣我們就可以甕中捉鱉了。”",
+      "translated_vi": "“Các người nhìn địa thế ngọn núi này xem, bất kể hắn muốn đi Cửu Giang hay Cám Châu thì cũng chỉ có đúng hai cửa ngõ này để xuống núi. Đã xác định khả năng hắn sang Cám Châu là lớn nhất, vậy thì Kim Thành, cậu cùng Đại Hùng mai phục ở cửa ngõ hướng về Cám Châu. Một mình Tiểu Bội tới cửa ngõ ngả Cửu Giang mai phục. Tôi từng được đào tạo kỹ năng truy vết, tôi sẽ trực tiếp lên núi lần theo dấu vết của hắn, làm vậy chúng ta có thể đóng cửa bắt ba ba rồi.”"
+    },
+    {
+      "para_id": "c0088p0043",
+      "index": 43,
+      "raw_zh": "“小佩自己能行嗎？那家夥的拳頭力氣很大，近戰我們沒有優勢，又搞不到槍。”",
+      "translated_vi": "“Một mình Tiểu Bội liệu có ổn không? Cú đấm của tên kia sức mạnh kinh người lắm, đánh cận chiến chúng ta hoàn toàn không có lợi thế, lại chẳng thể kiếm ra súng đạn.”"
+    },
+    {
+      "para_id": "c0088p0044",
+      "index": 44,
+      "raw_zh": "“他走極江的可能性不大，而且小佩有你們沒有的優勢，她是女人，還是個漂亮的女人。再者，雖然弄不到槍，但我們這次有了手弩，在荒郊野嶺，我們可以放心殺戮.”",
+      "translated_vi": "“Khả năng hắn đi ngả Cửu Giang không cao, vả lại Tiểu Bội có ưu thế mà các cậu không có: cô ấy là phụ nữ, lại còn là một người phụ nữ xinh đẹp. Hơn nữa, tuy không kiếm được súng nhưng lần này chúng ta đã trang bị nỏ tay, nơi chốn đồng không mông quạnh này, chúng ta hoàn toàn có thể yên tâm ra tay tàn sát.”"
+    },
+    {
+      "para_id": "c0088p0045",
+      "index": 45,
+      "raw_zh": "雲千峰現在的心境，自然是無法睡沉的。",
+      "translated_vi": "Tâm trạng của Vân Thiên Phong lúc này dĩ nhiên chẳng thể nào ngủ say giấc được."
+    },
+    {
+      "para_id": "c0088p0046",
+      "index": 46,
+      "raw_zh": "就那麽半夢半醒的直到東方吐了魚肚白。",
+      "translated_vi": "Anh cứ thiếp đi trong trạng thái nửa mơ nửa tỉnh cho đến khi phương đông vừa hửng lên màu trắng bụng cá."
+    },
+    {
+      "para_id": "c0088p0047",
+      "index": 47,
+      "raw_zh": "他鑽出滿是枯草乾葉的溝壑，學著老貓雙手觸地做了一下拉伸，磨刀不誤砍柴工，必須讓自己的脊柱盡快的恢復最佳柔韌和活力。",
+      "translated_vi": "Anh chui ra khỏi rãnh đất phủ đầy lá rụng cỏ khô, học theo dáng dấp loài mèo già chống hai tay chạm đất làm vài động tác kéo giãn cơ thể. Mài dao không uổng công đốn củi, anh cần phải giúp cột sống nhanh chóng lấy lại độ dẻo dai và sinh lực sung mãn nhất."
+    },
+    {
+      "para_id": "c0088p0048",
+      "index": 48,
+      "raw_zh": "嚼著餅乾，舔著樹葉上的冷露，這就算是早餐，隨後他還坐在原地吸了根煙，然後才大踏步繼續趕路。",
+      "translated_vi": "Nhai vội vài miếng bánh quy, liếm láp chút sương mai buốt giá đọng trên phiến lá, coi như xong bữa điểm tâm lót dạ. Đoạn, anh ngồi yên tại chỗ châm một điếu thuốc rít vài hơi khoan khoái, rồi mới sải bước dài tiếp tục lên đường."
+    },
+    {
+      "para_id": "c0088p0049",
+      "index": 49,
+      "raw_zh": "“這座山一面臨懸崖，兩面環水，下山路只有兩條，那些人如果查到了超市的視頻，一定應該已經開始布置。",
+      "translated_vi": "“Ngọn núi này một mặt giáp vách đá dựng đứng, hai mặt bao bọc bởi sông nước, đường xuống núi chỉ vỏn vẹn có hai lối. Nếu lũ người kia tra ra đoạn camera ở siêu thị thì chắc chắn đã bắt đầu giăng bẫy bố phòng."
+    },
+    {
+      "para_id": "c0088p0050",
+      "index": 50,
+      "raw_zh": "就算他們一半人留在這裡，也要兵分三路才能把我圍堵在這山上。這座山脈這麽大，密林縱深，他們應該不會蠢到搜山，一定會選擇守株待兔。還要有人堵住我的後路，嘿，看你們還能有多少人對付我。”",
+      "translated_vi": "Dẫu một nửa quân số của chúng ở lại nơi này thì cũng phải chia làm ba ngả mới mong chặn đường vây bắt mình trên núi. Dãy núi này rộng lớn bạt ngàn, rừng sâu hun hút, chúng sẽ không ngu xuẩn đến mức huy động người đi rà soát từng gốc cây mà ắt sẽ chọn kế ôm cây đợi thỏ, đồng thời cắt cử người chặn đường lui phía sau. Hừ, để xem các người còn bao nhiêu mống mà đối phó với tôi!”"
+    },
+    {
+      "para_id": "c0088p0051",
+      "index": 51,
+      "raw_zh": "想著，他看向自己那滿是鱗片圖案的右臂，用力握拳，發出鞭炮一樣的“哢哢”碎響。",
+      "translated_vi": "Nghĩ đoạn, anh đưa mắt nhìn cánh tay phải phủ kín những hoa văn vảy cá của mình, siết chặt nắm đấm tạo nên những tiếng xương khớp ken két giòn giã như pháo nổ."
+    },
+    {
+      "para_id": "c0088p0052",
+      "index": 52,
+      "raw_zh": "“看看咱們誰是誰的獵物！”",
+      "translated_vi": "“Để rồi xem rốt cuộc ai mới là thợ săn, ai mới là con mồi!”"
+    },
+    {
+      "para_id": "c0088p0053",
+      "index": 53,
+      "raw_zh": "感謝咖啡你個棒棒糖的打賞，謝謝你的支持，感激！！！盟主加更進行中，寫出來一章發一章，不能確保加更幾章，但是保證做到坐不住，一滴沒有的程度！！！加油！！！",
+      "translated_vi": "Chân thành cảm ơn Cà Phê Kẹo Mút Của Bạn đã khen thưởng, cảm ơn sự ủng hộ của bạn, vô cùng cảm kích!!! Chương bạo của minh chủ đang được đẩy mạnh, viết xong chương nào đăng ngay chương đó, không dám hứa trước sẽ thêm được mấy chương nhưng đảm bảo viết đến mức ngồi không yên, vắt kiệt không còn một giọt mới thôi!!! Cố lên!!!"
+    }
+  ]
+}

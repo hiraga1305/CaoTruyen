@@ -1,0 +1,553 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 128,
+  "title": "Chương 128: Vận Tẩu Phi Tinh",
+  "total_paragraphs": 90,
+  "translated_paragraphs": 90,
+  "source_hash": "4e9954d562f33a4f537aa2d33c4dd15d48afc83cd6bb3a50d05202c944beaf04",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0128p0001",
+      "index": 1,
+      "raw_zh": "第128章 運走飛星",
+      "translated_vi": "Chương 128: Vận Tẩu Phi Tinh"
+    },
+    {
+      "para_id": "c0128p0002",
+      "index": 2,
+      "raw_zh": "雲千峰爭分奪秒。",
+      "translated_vi": "Vân Thiên Phong tranh thủ từng giây từng phút."
+    },
+    {
+      "para_id": "c0128p0003",
+      "index": 3,
+      "raw_zh": "忙叫醒毫無睡姿的張敏和千千，四個人拿上東西，即刻便向著石眼傾向的方向而去，也就是秦疏影看到那片建築的位置。",
+      "translated_vi": "Anh vội vã đánh thức Trương Mẫn và Thiên Thiên đang ngủ say sưa với đủ mọi tư thế kỳ cục, bốn người gom góp đồ đạc, lập tức khởi hành hướng về phía con mắt đá chỉ dẫn, cũng chính là nơi Tần Sơ Ảnh vừa nhìn thấy quần thể kiến trúc kia."
+    },
+    {
+      "para_id": "c0128p0004",
+      "index": 4,
+      "raw_zh": "這片草原的氣候猶如深秋，早晚涼氣透骨，一股肅殺之氣彌漫天地間，似乎每分每秒都在剝奪這裡的陽氣，牽引寒冬降臨。",
+      "translated_vi": "Khí hậu trên thảo nguyên này tựa như tiết trời cuối thu, sớm tối gió lạnh thấu xương, một luồng sát khí tiêu điều rét mướt ngập tràn giữa đất trời, dường như mỗi phân mỗi giây đều đang bào mòn dương khí nơi đây, kéo mùa đông buốt giá ùa về."
+    },
+    {
+      "para_id": "c0128p0005",
+      "index": 5,
+      "raw_zh": "這與崖隙另一側那好似初春的天氣相反，那一處雖然也是早晚清冷，但卻是欣欣向榮的生氣，就好像剛點燃的篝火，能預感其熱即將蔓延。",
+      "translated_vi": "Điều này hoàn toàn trái ngược với tiết trời hệt như đầu xuân ở phía bên kia khe vực; bên kia dẫu sớm tối cũng se lạnh, song lại tràn trề sinh khí phơi phới tốt tươi, tựa như đống lửa vừa nhen nhóm, có thể dự cảm được hơi ấm sắp sửa lan tỏa khắp nơi."
+    },
+    {
+      "para_id": "c0128p0006",
+      "index": 6,
+      "raw_zh": "崖隙內外，春秋共存，震兌相激，雷澤歸妹，讓那崖隙就像是陰陽魚的S線，將兩地陰陽互分。",
+      "translated_vi": "Trong ngoài khe vực, xuân thu cùng tồn tại, Chấn Đoài tương kích, tạo thành quẻ Lôi Trạch Quy Muội, khiến cho khe vực kia chẳng khác nào đường cong chữ S của đồ hình song ngư âm dương, rạch ròi phân chia hai miền âm dương đối lập."
+    },
+    {
+      "para_id": "c0128p0007",
+      "index": 7,
+      "raw_zh": "人們常說買東西，賣東西，這個東西，就是雷澤，就是震兌，謂之言之有物，觀之有相，實物也。",
+      "translated_vi": "Người đời thường nói “mua đồ”, “bán đồ” — trong tiếng Hán gọi là “mua đông tây, bán đông tây” — cái gọi là “đông tây” ở đây chính là Lôi Trạch, là Chấn và Đoài, ngụ ý lời nói có vật thực, mắt nhìn thấy hình tướng, là thực vật hiện hữu."
+    },
+    {
+      "para_id": "c0128p0008",
+      "index": 8,
+      "raw_zh": "就沒人說買南北，賣南北，因為南北為離坎，是水火無情物，有形無相，買賣不得。",
+      "translated_vi": "Chứ chẳng ai bảo “mua nam bắc, bán nam bắc” bao giờ, bởi vì Nam và Bắc là Ly và Khảm, là vật vô tình của Thủy và Hỏa, có hình mà không có tướng định hình, không thể nào đem ra mua bán đổi chác."
+    },
+    {
+      "para_id": "c0128p0009",
+      "index": 9,
+      "raw_zh": "雲千峰之前進入的神跡，野人山神跡是溫泉地熱之地，是火象；老爺廟大澤之下，是水象。",
+      "translated_vi": "Những nơi thần tích mà Vân Thiên Phong từng đặt chân tới trước kia: Thần Tích Dã Nhân Sơn là chốn địa nhiệt suối nước nóng, mang tượng Hỏa; đáy đầm nước lớn ở Lão Gia Miếu mang tượng Thủy."
+    },
+    {
+      "para_id": "c0128p0010",
+      "index": 10,
+      "raw_zh": "這兩處都是以有形無相為根本，神與外實與內，神軀雖然離奇，但本質不離客觀。",
+      "translated_vi": "Cả hai nơi ấy đều lấy “hữu hình vô tướng” làm căn bản, thần ở bên ngoài mà thực ở bên trong, thân xác thần linh tuy ly kỳ quái đản nhưng bản chất vẫn không thoát khỏi quy luật khách quan."
+    },
+    {
+      "para_id": "c0128p0011",
+      "index": 11,
+      "raw_zh": "而這裡，則很可能是恰恰相反，是神與內實與外，本質怕是要超乎想象。",
+      "translated_vi": "Còn nơi này thì nhiều khả năng lại hoàn toàn ngược lại: thần ẩn bên trong mà thực hiện ra bên ngoài, bản chất e rằng sẽ vượt xa mọi sức tưởng tượng."
+    },
+    {
+      "para_id": "c0128p0012",
+      "index": 12,
+      "raw_zh": "雲千峰早就練就了望形生卦的能耐，見此地雷薄於澤，正是雷澤歸妹卦象，恰和此地九月深秋的斂藏之象，可謂應卦。",
+      "translated_vi": "Vân Thiên Phong từ lâu đã tôi luyện được bản lĩnh “vọng hình sinh quẻ”, trông thấy nơi này thế sấm dập dềnh trên đầm, đúng chuẩn quẻ tượng Lôi Trạch Quy Muội, vừa khéo ứng hợp với tượng thu liễm tàng trữ của tiết tháng Chín cuối thu nơi đây, quả là ứng quẻ không sai một ly."
+    },
+    {
+      "para_id": "c0128p0013",
+      "index": 13,
+      "raw_zh": "這讓他不由自主的看了一眼身邊三女，心下暗沉。",
+      "translated_vi": "Điều này khiến anh bất giác đưa mắt nhìn ba cô gái bên cạnh, lòng trĩu nặng âu lo."
+    },
+    {
+      "para_id": "c0128p0014",
+      "index": 14,
+      "raw_zh": "歸妹者，女子出嫁。",
+      "translated_vi": "Quy Muội nghĩa là con gái gả đi lấy chồng."
+    },
+    {
+      "para_id": "c0128p0015",
+      "index": 15,
+      "raw_zh": "男方彩禮至，女隨嫁妝出。",
+      "translated_vi": "Nhà trai lễ hỏi tới, nhà gái theo của hồi môn xuất giá."
+    },
+    {
+      "para_id": "c0128p0016",
+      "index": 16,
+      "raw_zh": "易物易情，一如東西，說難聽點，就是交易。",
+      "translated_vi": "Đổi vật đổi tình, hệt như món đồ trao đổi, nói khó nghe một chút thì bản chất chính là giao dịch."
+    },
+    {
+      "para_id": "c0128p0017",
+      "index": 17,
+      "raw_zh": "“有得必有失，有進須有出，老天以巨浪為手，將我與幾個女人推到這孤島之上，她們是祂為我準備的貨幣嗎？歸妹，歸妹！不，她們信任我，跟隨我，是為了生，我不能這樣將她們以物易物，也或許是我多心了。不，不管怎麽樣，先破了這卦象，一命二運三風水，先帶她們走運。”",
+      "translated_vi": "“Có được ắt có mất, có vào ắt phải có ra. Ông trời mượn bàn tay sóng dữ đẩy mình cùng mấy người phụ nữ này lên hòn đảo hoang cô độc, chẳng lẽ họ chính là thứ tiền tệ mà Ngài chuẩn bị sẵn cho mình sao? Quy Muội, quẻ Quy Muội! Không, các cô ấy tin tưởng mình, đi theo mình là để tìm đường sống, mình tuyệt đối không thể để họ bị đem ra trao đổi như đồ vật được. Hoặc giả cũng có thể là do mình quá đa nghi chăng? Không, bất luận thế nào, trước tiên phải phá vỡ quẻ tượng này đã. 'Nhất mệnh, nhị vận, tam phong thủy', trước hết phải dẫn bọn họ đi đúng vận trình!”"
+    },
+    {
+      "para_id": "c0128p0018",
+      "index": 18,
+      "raw_zh": "想到這，他停住腳步，道：",
+      "translated_vi": "Nghĩ tới đây, anh dừng bước, cất lời:"
+    },
+    {
+      "para_id": "c0128p0019",
+      "index": 19,
+      "raw_zh": "“你們三個托我起來，我要看看那片建築的輪廓。”",
+      "translated_vi": "“Ba cô hợp sức nâng tôi lên, tôi cần quan sát toàn cảnh đường nét của quần thể kiến trúc đằng kia.”"
+    },
+    {
+      "para_id": "c0128p0020",
+      "index": 20,
+      "raw_zh": "三女不明所以，但她們都了解雲千峰，他不會做沒有意義的事情。",
+      "translated_vi": "Ba cô gái tuy không hiểu đầu đuôi ra sao, nhưng họ đều hiểu rõ tính cách của Vân Thiên Phong, anh tuyệt đối không bao giờ làm những chuyện vô bổ."
+    },
+    {
+      "para_id": "c0128p0021",
+      "index": 21,
+      "raw_zh": "當下三女兩個抬腿，一個托臀，把雲千峰頂起來，一個個偏著臉，離雲千峰的裙底太近，怪嚇人的。",
+      "translated_vi": "Ngay lập tức, ba cô gái chia nhau hai người nâng chân, một người đỡ mông đẩy bổng Vân Thiên Phong lên cao. Ai nấy đều nghiêng mặt sang bên, bởi ghé sát dưới chiếc váy cỏ của Vân Thiên Phong quá gần, cảnh tượng này ngượng ngùng đến phát sợ."
+    },
+    {
+      "para_id": "c0128p0022",
+      "index": 22,
+      "raw_zh": "雲千峰頭部伸出草叢之外，遠遠看去。",
+      "translated_vi": "Đầu Vân Thiên Phong nhô cao khỏi vạt cỏ, phóng tầm mắt nhìn về phía xa."
+    },
+    {
+      "para_id": "c0128p0023",
+      "index": 23,
+      "raw_zh": "此時他們距離那片建築更近了些，但依舊遙遠，雖然看不清楚太多細節，但能夠清晰的看到那片建築的整體輪廓。",
+      "translated_vi": "Bấy giờ khoảng cách giữa họ với quần thể kiến trúc đã rút ngắn lại đôi chút, nhưng vẫn còn khá xa xôi. Tuy chưa thể nhìn rõ các chi tiết tỉ mỉ, song đã có thể trông thấy rõ ràng đường nét tổng thể của toàn bộ kiến trúc."
+    },
+    {
+      "para_id": "c0128p0024",
+      "index": 24,
+      "raw_zh": "雲千峰一邊看著一邊念叨：",
+      "translated_vi": "Vân Thiên Phong vừa quan sát vừa lẩm bẩm:"
+    },
+    {
+      "para_id": "c0128p0025",
+      "index": 25,
+      "raw_zh": "“好奇怪的建築，大大小小一個個，好像圓身的糧倉，很像那種原始部落的形製。”",
+      "translated_vi": "“Kiến trúc kỳ lạ thật, lớn nhỏ từng khối, trông giống như những kho thóc hình tròn, rất giống quy chuẩn cấu trúc của các bộ lạc nguyên thủy thời cổ.”"
+    },
+    {
+      "para_id": "c0128p0026",
+      "index": 26,
+      "raw_zh": "看了一會，他示意三女放他下來，然後蹲在地上，用海軍刀的刀鞘畫了一個方形。",
+      "translated_vi": "Ngắm nhìn một lúc, anh ra hiệu cho ba cô gái hạ mình xuống, sau đó ngồi xổm trên mặt đất, dùng vỏ bao dao hải quân vẽ một hình vuông."
+    },
+    {
+      "para_id": "c0128p0027",
+      "index": 27,
+      "raw_zh": "又砍出了一小片空地，看了看天空中朦朧但是很大的太陽，在空地上插了三根草，一根最靠近太陽的方向，第二根放在第一根草的陰影上，第三根放在了第二根的旁邊十公分處。",
+      "translated_vi": "Lại phạt sạch một vạt đất trống nhỏ, ngước nhìn vầng thái dương to lớn nhưng mờ ảo trên bầu trời, anh cắm ba cọng cỏ xuống khoảng đất trống: một cọng cắm về phía gần mặt trời nhất, cọng thứ hai cắm ngay trên bóng râm của cọng cỏ thứ nhất, cọng thứ ba cắm cách cọng thứ hai chừng mười centimet."
+    },
+    {
+      "para_id": "c0128p0028",
+      "index": 28,
+      "raw_zh": "弄好了這一切，他開始在自己畫的方形格子裡橫豎各畫兩道=線，將那方格分成了九份，成了九宮格。",
+      "translated_vi": "Bố trí xong xuôi mọi thứ, anh bắt đầu vạch hai đường ngang và hai đường dọc vào trong ô vuông vừa vẽ, chia ô vuông thành chín phần bằng nhau, tạo thành một bàn cờ Cửu Cung."
+    },
+    {
+      "para_id": "c0128p0029",
+      "index": 29,
+      "raw_zh": "然後就讓三女坐地休息，原地等待。",
+      "translated_vi": "Đoạn, anh bảo ba cô gái ngồi xuống nghỉ ngơi, kiên nhẫn chờ đợi tại chỗ."
+    },
+    {
+      "para_id": "c0128p0030",
+      "index": 30,
+      "raw_zh": "三女好奇的看著他弄這一切，又不敢打攪他思考，心裡就很癢。",
+      "translated_vi": "Ba cô gái tò mò trố mắt nhìn anh bày biện những thứ kỳ quặc này, lại chẳng dám mở miệng quấy rầy dòng suy nghĩ của anh, trong lòng cứ bồn chồn ngứa ngáy khôn nguôi."
+    },
+    {
+      "para_id": "c0128p0031",
+      "index": 31,
+      "raw_zh": "過了十幾分鍾，太陽移動，第一根草的陰影也隨之移動，來到了第三根草之上，但是第一根草的陰影與第三根草之間，有著一定的偏角，差不多有三十度。",
+      "translated_vi": "Mười mấy phút sau, mặt trời dịch chuyển vị trí, bóng râm của cọng cỏ thứ nhất cũng chuyển dời theo, ngả trúng lên cọng cỏ thứ ba. Tuy nhiên, giữa bóng cọng cỏ thứ nhất và cọng cỏ thứ ba lại xuất hiện một góc lệch nhất định, chừng khoảng ba mươi độ."
+    },
+    {
+      "para_id": "c0128p0032",
+      "index": 32,
+      "raw_zh": "雲千峰用刀柄畫了一條線，把第二根草和第三根草連在一起，然後又畫了一條線與這條線交叉成三十度角，然後說道：",
+      "translated_vi": "Vân Thiên Phong dùng chuôi dao vạch một đường thẳng nối cọng cỏ thứ hai và cọng cỏ thứ ba lại với nhau, sau đó lại vạch một đường khác cắt ngang đường này tạo thành góc ba mươi độ, rồi cất lời:"
+    },
+    {
+      "para_id": "c0128p0033",
+      "index": 33,
+      "raw_zh": "“太陽自東向西而行，陰影自東向西移動，這條線就是東西線。”",
+      "translated_vi": "“Mặt trời chuyển dịch từ đông sang tây, bóng râm di chuyển từ tây sang đông, đường này chính là trục đông tây.”"
+    },
+    {
+      "para_id": "c0128p0034",
+      "index": 34,
+      "raw_zh": "有了東西線，南北線自出。",
+      "translated_vi": "Đã xác định được trục đông tây, thì trục nam bắc tự khắc hiển hiện."
+    },
+    {
+      "para_id": "c0128p0035",
+      "index": 35,
+      "raw_zh": "他開始在之前畫的九宮格裡添加文字。",
+      "translated_vi": "Anh bắt đầu điền các chữ vào đồ hình Cửu Cung đã vẽ trước đó."
+    },
+    {
+      "para_id": "c0128p0036",
+      "index": 36,
+      "raw_zh": "九宮格最上中央寫上離，與之相對最下中央為坎，左線中央為震，右線中央為兌，四角自左上角順時針分別為巽、坤、乾、艮。",
+      "translated_vi": "Ô chính giữa trên cùng của Cửu Cung điền quẻ Ly, đối diện ở ô chính giữa dưới cùng là quẻ Khảm, giữa trục bên trái là quẻ Chấn, giữa trục bên phải là quẻ Đoài. Bốn góc lần lượt theo chiều kim đồng hồ bắt đầu từ góc trên bên trái là Tốn, Khôn, Càn, Cấn."
+    },
+    {
+      "para_id": "c0128p0037",
+      "index": 37,
+      "raw_zh": "隨後在九個格子裡寫上數字。",
+      "translated_vi": "Kế đó, anh điền các con số vào chín ô."
+    },
+    {
+      "para_id": "c0128p0038",
+      "index": 38,
+      "raw_zh": "當他把5寫在右下角的格子裡，最中間的格子裡寫上4的時候，千千疑惑道：",
+      "translated_vi": "Khi anh viết số 5 vào ô góc dưới bên phải, còn ô chính giữa trung cung lại điền số 4, Thiên Thiên liền ngạc nhiên thắc mắc:"
+    },
+    {
+      "para_id": "c0128p0039",
+      "index": 39,
+      "raw_zh": "“中央不該是5嗎？”",
+      "translated_vi": "“Ở trung cung chẳng phải nên là số 5 sao anh?”"
+    },
+    {
+      "para_id": "c0128p0040",
+      "index": 40,
+      "raw_zh": "這小學數學題，她還是很精通的。",
+      "translated_vi": "Bài toán ma trận số học cấp một này, cô nàng vẫn nắm rất chắc."
+    },
+    {
+      "para_id": "c0128p0041",
+      "index": 41,
+      "raw_zh": "雲千峰隨口回道：",
+      "translated_vi": "Vân Thiên Phong thuận miệng đáp:"
+    },
+    {
+      "para_id": "c0128p0042",
+      "index": 42,
+      "raw_zh": "“這不是九宮圖，是飛星圖，專看陽宅吉凶的。”",
+      "translated_vi": "“Đây không phải đồ hình Lạc Thư Cửu Cung thông thường, mà là Đồ hình Phi Tinh, chuyên dùng để xem xét cát hung của dương trạch.”"
+    },
+    {
+      "para_id": "c0128p0043",
+      "index": 43,
+      "raw_zh": "說到這，他在九宮格的左上角畫了一扇門的形狀，繼續道：",
+      "translated_vi": "Nói đoạn, anh vẽ hình một cánh cửa ở góc trên bên trái của Cửu Cung, tiếp tục giảng giải:"
+    },
+    {
+      "para_id": "c0128p0044",
+      "index": 44,
+      "raw_zh": "“那片建築背靠東南，面朝西北開大門，是巽宅相，其東北為絕命，西向為六煞，西南為五鬼，西北為禍害，是咱們必須避開的路線。",
+      "translated_vi": "“Quần thể kiến trúc kia tọa đông nam hướng tây bắc mở cửa lớn, tức là thế trạch Tốn. Trong đó hướng đông bắc là phương Tuyệt Mệnh, hướng tây là Lục Sát, tây nam là Ngũ Quỷ, tây bắc là Họa Hại. Đây đều là những phương vị hung hiểm mà chúng ta bắt buộc phải né tránh trên lộ trình di chuyển."
+    },
+    {
+      "para_id": "c0128p0045",
+      "index": 45,
+      "raw_zh": "我看看，咱們從大門進入，直接拐向正北生氣位，然後斜插直奔東側延年位，沿著邊角走到東南最深處伏位，也就是我們的終點，那片建築的重中之重。”",
+      "translated_vi": "Để tôi xem... chúng ta sẽ bước qua cửa lớn, rẽ ngoặt ngay về hướng chính bắc tới vị trí Sinh Khí, sau đó đi chéo một đường đâm thẳng sang hướng đông tới vị trí Diên Niên, men theo góc tường tiến vào vị trí Phục Vị sâu nhất ở hướng đông nam. Đó chính là đích đến của chúng ta, vị trí trọng yếu bậc nhất của toàn bộ quần thể kiến trúc này.”"
+    },
+    {
+      "para_id": "c0128p0046",
+      "index": 46,
+      "raw_zh": "這就是陣法裡面的運走飛星。",
+      "translated_vi": "Đây chính là thuật “Vận Tẩu Phi Tinh” trong trận pháp phong thủy."
+    },
+    {
+      "para_id": "c0128p0047",
+      "index": 47,
+      "raw_zh": "避開所有不利的氣。",
+      "translated_vi": "Tránh né triệt để mọi luồng hung khí bất lợi."
+    },
+    {
+      "para_id": "c0128p0048",
+      "index": 48,
+      "raw_zh": "秦疏影敏感，道：",
+      "translated_vi": "Tần Sơ Ảnh vốn nhạy cảm, liền hỏi:"
+    },
+    {
+      "para_id": "c0128p0049",
+      "index": 49,
+      "raw_zh": "“那裡是不是很危險？”",
+      "translated_vi": "“Nơi đó nguy hiểm lắm phải không?”"
+    },
+    {
+      "para_id": "c0128p0050",
+      "index": 50,
+      "raw_zh": "雲千峰點了點頭，道：",
+      "translated_vi": "Vân Thiên Phong gật đầu đáp:"
+    },
+    {
+      "para_id": "c0128p0051",
+      "index": 51,
+      "raw_zh": "“很難講，但這裡與我之前去過的神跡決然不同，沒有神異外顯，那麽一定是藏著的，我甚至想象不到危險會是什麽樣，總之，心裡做最充分的準備，出發吧。”",
+      "translated_vi": "“Rất khó nói trước, nhưng nơi này hoàn toàn khác biệt với những thần tích mà tôi từng đặt chân tới. Ở đây không có dị tượng thần tích lộ rõ ra bên ngoài, vậy thì chắc chắn nó được ẩn giấu bên trong. Tôi thậm chí không thể tưởng tượng nổi hiểm nguy sẽ mang hình hài thế nào. Tóm lại, mọi người hãy chuẩn bị sẵn sàng tâm lý ở mức cao nhất. Xuất phát thôi!”"
+    },
+    {
+      "para_id": "c0128p0052",
+      "index": 52,
+      "raw_zh": "望山跑死馬。",
+      "translated_vi": "Trông núi gần mắt, ngựa chạy đứt hơi."
+    },
+    {
+      "para_id": "c0128p0053",
+      "index": 53,
+      "raw_zh": "看著挺近的建築群，幾個人足足走了兩個小時，才來到它面前。",
+      "translated_vi": "Cụm kiến trúc trông chừng như ở ngay trước mắt, vậy mà cả nhóm phải lặn lội suốt hai tiếng đồng hồ ròng rã mới đặt chân tới nơi."
+    },
+    {
+      "para_id": "c0128p0054",
+      "index": 54,
+      "raw_zh": "四個人走在從草裡，突然那麽一步邁出去，雲千峰看著腳下，驚得急忙倒退一步，三個立馬要走出草叢范圍的女人，被他一下又撞了回去，紛紛一屁股坐在地上。",
+      "translated_vi": "Bốn người đang rẽ lối đi giữa đám cỏ rậm rạp, bỗng nhiên Vân Thiên Phong vừa bước hụt một bước, nhìn xuống dưới chân liền giật thót mình vội vã lùi ngoắt lại. Ba người phụ nữ vừa toan bước ra khỏi vạt cỏ bị anh đụng trúng ngã nhào, thi nhau ngồi bệt xuống đất."
+    },
+    {
+      "para_id": "c0128p0055",
+      "index": 55,
+      "raw_zh": "幸好沒有草梗。",
+      "translated_vi": "May mà không bị cuống cỏ sắc nhọn đâm trúng."
+    },
+    {
+      "para_id": "c0128p0056",
+      "index": 56,
+      "raw_zh": "秦疏影一片爬起來，一邊忙問道：",
+      "translated_vi": "Tần Sơ Ảnh vừa gượng dậy vừa vội hỏi:"
+    },
+    {
+      "para_id": "c0128p0057",
+      "index": 57,
+      "raw_zh": "“怎麽了？發生了什麽事？”",
+      "translated_vi": "“Sao thế? Có chuyện gì xảy ra vậy?”"
+    },
+    {
+      "para_id": "c0128p0058",
+      "index": 58,
+      "raw_zh": "雲千峰拍了拍胸脯，道：",
+      "translated_vi": "Vân Thiên Phong vỗ vỗ ngực trấn tĩnh lại, bảo:"
+    },
+    {
+      "para_id": "c0128p0059",
+      "index": 59,
+      "raw_zh": "“嚇死我了，差點一腳踩進護城河，距離水面得有十幾米深。”",
+      "translated_vi": "“Hú hồn hú vía, suýt nữa tôi sẩy chân lọt xuống hào hộ thành rồi, từ đây xuống tới mặt nước sâu phải tới mười mấy mét.”"
+    },
+    {
+      "para_id": "c0128p0060",
+      "index": 60,
+      "raw_zh": "三女這才知道發生了什麽，小心翼翼的走到草叢邊上，果然看到一道深幽寬廣的河溝攔住了他們的去路。",
+      "translated_vi": "Ba cô gái bấy giờ mới vỡ lẽ nguyên do, thận trọng lần mò tới mép vạt cỏ nhìn xuống, quả nhiên trông thấy một con hào sâu thẳm rộng lớn đang chắn ngang lối đi của họ."
+    },
+    {
+      "para_id": "c0128p0061",
+      "index": 61,
+      "raw_zh": "“河裡有水，應該是淡水吧？”",
+      "translated_vi": "“Dưới hào có nước, chắc là nước ngọt chứ anh?”"
+    },
+    {
+      "para_id": "c0128p0062",
+      "index": 62,
+      "raw_zh": "張敏舔著嘴唇，眼中全是渴望，真.渴望！",
+      "translated_vi": "Trương Mẫn liếm bờ môi khô khốc, trong mắt tràn ngập vẻ khát khao — đúng nghĩa đen của sự thèm khát!"
+    },
+    {
+      "para_id": "c0128p0063",
+      "index": 63,
+      "raw_zh": "秦疏影忙搖頭，道：",
+      "translated_vi": "Tần Sơ Ảnh vội xua tay lắc đầu:"
+    },
+    {
+      "para_id": "c0128p0064",
+      "index": 64,
+      "raw_zh": "“不能喝，你們看那裡。”",
+      "translated_vi": "“Không uống được đâu, các em nhìn đằng kia kìa.”"
+    },
+    {
+      "para_id": "c0128p0065",
+      "index": 65,
+      "raw_zh": "幾個人順著秦疏影的手指看過去，就見有一處河心的淺灘上，散著幾具枯骨。",
+      "translated_vi": "Mọi người dõi mắt theo hướng ngón tay Tần Sơ Ảnh chỉ, liền thấy tại một bãi cạn giữa dòng có mấy bộ xương khô rải rác nằm la liệt."
+    },
+    {
+      "para_id": "c0128p0066",
+      "index": 66,
+      "raw_zh": "張敏立馬不提喝水這茬。",
+      "translated_vi": "Trương Mẫn lập tức ngậm tăm, không dám nhắc tới chuyện uống nước nữa."
+    },
+    {
+      "para_id": "c0128p0067",
+      "index": 67,
+      "raw_zh": "人都爛死裡面了，誰敢喝。",
+      "translated_vi": "Người chết rữa nát cả trong đó rồi, ai mà dám uống cho nổi."
+    },
+    {
+      "para_id": "c0128p0068",
+      "index": 68,
+      "raw_zh": "雲千峰倒沒所謂道：",
+      "translated_vi": "Vân Thiên Phong lại chẳng mấy bận tâm, nói:"
+    },
+    {
+      "para_id": "c0128p0069",
+      "index": 69,
+      "raw_zh": "“哪條河裡不死人？主要看看是不是活水，是活水大概率就能喝。走，咱們先找到進入那片建築的大門，城內必有井，何愁淡水。”",
+      "translated_vi": "“Sông ngòi nào mà chẳng có người chết đuối? Quan trọng là phải xem đó có phải nước chảy tuần hoàn hay không, nếu là nước sống lưu thông thì phần lớn vẫn uống được. Đi thôi, trước hết chúng ta tìm cửa lớn bước vào thành đã, trong thành ắt có giếng nước, lo gì thiếu nước ngọt.”"
+    },
+    {
+      "para_id": "c0128p0070",
+      "index": 70,
+      "raw_zh": "那片建築就在護城河的包圍圈內，但是在這裡只能看到高大的石牆，看不到裡面的任何建築。",
+      "translated_vi": "Quần thể kiến trúc kia nằm gọn trong vòng vây của hào hộ thành, nhưng đứng ở vị trí này chỉ trông thấy những bức tường đá sừng sững cao vút, hoàn toàn không thấy được bất kỳ công trình nào bên trong."
+    },
+    {
+      "para_id": "c0128p0071",
+      "index": 71,
+      "raw_zh": "雲千峰辨別了一下方向，沿著護城河向著西北向的大門位置走去。",
+      "translated_vi": "Vân Thiên Phong định hình lại phương hướng, men theo hào hộ thành tiến về phía cửa lớn ở hướng tây bắc."
+    },
+    {
+      "para_id": "c0128p0072",
+      "index": 72,
+      "raw_zh": "很快，他們就看到那巨大的石門立柱。",
+      "translated_vi": "Chẳng mấy chốc, họ đã nhìn thấy những cột trụ cổng đá khổng lồ."
+    },
+    {
+      "para_id": "c0128p0073",
+      "index": 73,
+      "raw_zh": "那兩個粗壯的立柱是整塊石頭雕刻而成，圓柱形，最上方是一個腦袋圓頂，突目張耳的人頭像，就好像剛在三星堆裡挖出來的。",
+      "translated_vi": "Hai cột trụ to lớn vững chãi kia được tạc từ đá nguyên khối theo hình trụ tròn, trên đỉnh khắc tượng đầu người đỉnh tròn, mắt lồi tai vểnh, trông chẳng khác nào cổ vật vừa được khai quật từ di chỉ Tam Tinh Đôi."
+    },
+    {
+      "para_id": "c0128p0074",
+      "index": 74,
+      "raw_zh": "雲千峰看了那石像幾眼，低聲道：",
+      "translated_vi": "Vân Thiên Phong quan sát bức tượng đá vài lần, hạ giọng nói:"
+    },
+    {
+      "para_id": "c0128p0075",
+      "index": 75,
+      "raw_zh": "“這是絕對的古城，圓頭突目，這是諸侯級別的石城，一定是上古大人物的居所，搞不好是我們在傳說裡聽說過的人。”",
+      "translated_vi": "“Đây tuyệt đối là một tòa cổ thành! Đầu tròn mắt lồi, đây là thạch thành cấp bậc chư hầu, chắc chắn là nơi cư ngụ của bậc đại nhân vật thời thượng cổ, khéo lại là nhân vật lừng danh từng xuất hiện trong truyền thuyết của chúng ta cũng nên.”"
+    },
+    {
+      "para_id": "c0128p0076",
+      "index": 76,
+      "raw_zh": "千千好奇問道：",
+      "translated_vi": "Thiên Thiên tò mò hỏi:"
+    },
+    {
+      "para_id": "c0128p0077",
+      "index": 77,
+      "raw_zh": "“石像，人腦袋不都是圓頂嗎？”",
+      "translated_vi": "“Tượng đá tạc đầu người thì chẳng phải đỉnh đầu đều tròn sao anh?”"
+    },
+    {
+      "para_id": "c0128p0078",
+      "index": 78,
+      "raw_zh": "雲千峰搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu giải thích:"
+    },
+    {
+      "para_id": "c0128p0079",
+      "index": 79,
+      "raw_zh": "“上古的雕像不是寫實，而是有著寓意，所以不全是圓頂，還有極少的平頂頭部石像，那代表著帝王級別的神像，還有平頂頭部帶著環裝裝飾花紋的，則是比帝級更高的神像，但是沒人知道那代表什麽，沒有定論。",
+      "translated_vi": "“Điêu khắc thời thượng cổ không nhằm mục đích tả thực mà luôn hàm chứa ngụ ý sâu xa, vì thế không phải tất cả đều là đỉnh tròn. Vẫn có số ít tượng đá đỉnh đầu bằng phẳng, đó là tượng thần đại diện cho cấp bậc Đế Vương; lại có loại đầu bằng mang hoa văn trang trí dạng vòng tròn khuyên vành, đó là tượng thần có cấp bậc cao hơn cả cấp Đế, song chưa ai biết rõ thứ đó đại diện cho điều gì, giới khảo cổ vẫn chưa có kết luận dứt khoát."
+    },
+    {
+      "para_id": "c0128p0080",
+      "index": 80,
+      "raw_zh": "史前的建築大部分也遵循這種規律，平頂的建築能讓居住者站在其上，寓意高於一切。",
+      "translated_vi": "Phần lớn kiến trúc tiền sử cũng tuân theo quy luật này. Công trình đỉnh bằng cho phép người ngự trị đứng vững trên đỉnh chóp, mang ngụ ý cao hơn hết thảy mọi thứ."
+    },
+    {
+      "para_id": "c0128p0081",
+      "index": 81,
+      "raw_zh": "至於尖頂則要次一級，所以很多學者猜測古埃及是分封出去的諸侯文明，但是其源頭主文明無從猜測，有人說可能來自海底，畢竟海底發現的古遺跡，全都是平頂金字塔。",
+      "translated_vi": "Còn kiến trúc đỉnh nhọn lại xếp thứ cấp thấp hơn một bậc, bởi thế nhiều học giả từng suy đoán rằng Ai Cập cổ đại chỉ là một nền văn minh chư hầu được phân phong tách ra, song nền văn minh chủ mẫu cội nguồn thì không sao truy vết được. Có người cho rằng rất có thể bắt nguồn từ đáy biển, bởi lẽ những di tích cổ xưa được phát hiện dưới đáy đại dương toàn bộ đều là kim tự tháp đỉnh bằng."
+    },
+    {
+      "para_id": "c0128p0082",
+      "index": 82,
+      "raw_zh": "這古城大門立柱是圓頂人頭像，那麽裡面的建築，大概率都是尖頂。”",
+      "translated_vi": "Cột trụ cổng lớn của tòa cổ thành này tạc tượng người đầu tròn, vậy thì kiến trúc bên trong phần lớn sẽ là đỉnh nhọn.”"
+    },
+    {
+      "para_id": "c0128p0083",
+      "index": 83,
+      "raw_zh": "千千疑惑，道：",
+      "translated_vi": "Thiên Thiên thắc mắc:"
+    },
+    {
+      "para_id": "c0128p0084",
+      "index": 84,
+      "raw_zh": "“那，按照你這麽說，豈不是瑪雅文明比古埃及級別要高？”",
+      "translated_vi": "“Thế thì theo lời anh nói, chẳng lẽ văn minh Maya lại có cấp bậc cao hơn Ai Cập cổ đại sao?”"
+    },
+    {
+      "para_id": "c0128p0085",
+      "index": 85,
+      "raw_zh": "雲千峰搖頭，道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu:"
+    },
+    {
+      "para_id": "c0128p0086",
+      "index": 86,
+      "raw_zh": "“瑪雅平頂金字塔雖然建成平頂，卻必須要在平頂之上建造神廟鎮之，其內在含義與尖頂金字塔一樣，依舊是神在上，人居下，不是人比天高。",
+      "translated_vi": "“Kim tự tháp Maya tuy xây đỉnh bằng, nhưng bắt buộc phải dựng thần miếu trấn giữ ngay trên mặt bằng đỉnh đó, hàm ý cốt lõi bên trong cũng hệt như kim tự tháp đỉnh nhọn, trước sau vẫn là Thần ở trên cao, Con Người ở dưới thấp, chứ không phải con người đứng cao hơn trời."
+    },
+    {
+      "para_id": "c0128p0087",
+      "index": 87,
+      "raw_zh": "上古平頂建築的寓意，其實就是“主”的意思，甲骨文裡，“主”的象形字就是一橫一豎的“T”形平頂，代表最高的，主宰一切的主。”",
+      "translated_vi": "Ngụ ý thực sự của kiến trúc đỉnh bằng thời thượng cổ chính là chữ 'Chủ'. Trong chữ Giáp Cốt, chữ tượng hình của chữ 'Chủ' là một nét ngang và một nét dọc tạo thành chữ T đỉnh bằng, đại diện cho bậc tối cao, chúa tể thống trị tất thảy.”"
+    },
+    {
+      "para_id": "c0128p0088",
+      "index": 88,
+      "raw_zh": "說到這，他看了看護城河上因為歲月腐蝕，青銅鏈條斷裂而跌落橫在護城河上的吊橋，說道：",
+      "translated_vi": "Nói tới đây, anh liếc nhìn chiếc cầu treo trên hào hộ thành vốn bị năm tháng bào mòn khiến xích đồng đứt gãy, sụp xuống nằm vắt ngang qua mặt hào, cất lời:"
+    },
+    {
+      "para_id": "c0128p0089",
+      "index": 89,
+      "raw_zh": "“走吧，我們看看裡面是上古的哪位諸侯！”",
+      "translated_vi": "“Đi thôi, để chúng ta xem thử bên trong rốt cuộc là vị chư hầu nào thời thượng cổ!”"
+    },
+    {
+      "para_id": "c0128p0090",
+      "index": 90,
+      "raw_zh": "大家晚安好夢！！！",
+      "translated_vi": "Chúc mọi người ngủ ngon, mộng đẹp!!!"
+    }
+  ]
+}

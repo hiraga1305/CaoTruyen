@@ -1,0 +1,505 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 37,
+  "title": "Chương 37: Tiểu cảnh quái dị",
+  "total_paragraphs": 82,
+  "translated_paragraphs": 82,
+  "source_hash": "d249c5fac889c37d40772432e85b437fae9d2f29372bceee75bf0a5aec4bac2d",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0037p0001",
+      "index": 1,
+      "raw_zh": "第37章 詭異造景",
+      "translated_vi": "Chương 37: Tiểu cảnh quái dị"
+    },
+    {
+      "para_id": "c0037p0002",
+      "index": 2,
+      "raw_zh": "鬼門關，人人都聽說過。",
+      "translated_vi": "Quỷ Môn Quan, ắt hẳn ai ai cũng từng nghe qua."
+    },
+    {
+      "para_id": "c0037p0003",
+      "index": 3,
+      "raw_zh": "打小大人就用這種鬼怪故事嚇唬小孩，可謂是刻在記憶深處的恐懼。",
+      "translated_vi": "Từ thuở tấm bé, người lớn đã quen dùng những mẩu chuyện ma quái rùng rợn như thế để dọa dẫm con trẻ, âu cũng là nỗi sợ hãi khắc sâu vào tận đáy ký ức."
+    },
+    {
+      "para_id": "c0037p0004",
+      "index": 4,
+      "raw_zh": "而至於有沒有人見過，這個不好說。",
+      "translated_vi": "Còn như trên đời này đã có ai thực sự tận mắt chứng kiến hay chưa, điều ấy thật khó nói."
+    },
+    {
+      "para_id": "c0037p0005",
+      "index": 5,
+      "raw_zh": "時常聽說某某某某心臟停跳良久，醒來後訴說自己去了一趟鬼門關，還繪聲繪色的描述。",
+      "translated_vi": "Thỉnh thoảng thiên hạ vẫn truyền tai nhau chuyện người nọ người kia tim ngừng đập suốt một hồi lâu, đến khi tỉnh lại liền quả quyết mình vừa dạo một vòng qua Quỷ Môn Quan, thậm chí còn miêu tả lại vô cùng rành rọt, sống động như thật."
+    },
+    {
+      "para_id": "c0037p0006",
+      "index": 6,
+      "raw_zh": "還有遍布全世界的一個特殊職業靈媒，他們也宣稱能去鬼門關，甚至能把已死之人的靈魂叫上來與人對話。",
+      "translated_vi": "Lại có một tầng lớp hành nghề đặc thù rải rác khắp thế giới — những thầy đồng linh môi, họ cũng luôn rêu rao rằng bản thân có thể tự do đi lại chốn Quỷ Môn Quan, thậm chí câu hồn kẻ đã khuất về trần thế để đối thoại cùng người sống."
+    },
+    {
+      "para_id": "c0037p0007",
+      "index": 7,
+      "raw_zh": "至於這些人說的是真是假，恐怕永遠都只有他們自己知道。",
+      "translated_vi": "Còn thực hư ra sao, e rằng vĩnh viễn chỉ có bản thân bọn họ mới tự hiểu lấy."
+    },
+    {
+      "para_id": "c0037p0008",
+      "index": 8,
+      "raw_zh": "但無論如何，他們說的鬼門關與雲千峰他們見到的，絕不會是同一個，因為這是一個物質世界的鬼門關，石頭大門。",
+      "translated_vi": "Dẫu vậy, Quỷ Môn Quan trong miệng những người ấy và thứ mà nhóm Vân Thiên Phong đang diện kiến chắc chắn không cùng một loại. Bởi lẽ trước mắt họ là một Quỷ Môn Quan thuộc về thế giới vật chất thực hữu — một cánh cổng lớn sừng sững bằng đá."
+    },
+    {
+      "para_id": "c0037p0009",
+      "index": 9,
+      "raw_zh": "雲千峰手掌貼近石門，低聲道：",
+      "translated_vi": "Vân Thiên Phong áp lòng bàn tay vào mặt cửa đá, hạ thấp giọng bảo:"
+    },
+    {
+      "para_id": "c0037p0010",
+      "index": 10,
+      "raw_zh": "“用這個名字給大門命名，裡面絕不會有什麽好事，都小心點。”",
+      "translated_vi": "“Đã dùng cái tên này để đặt cho cánh cửa, bên trong ắt chẳng thể có điều gì tốt đẹp lành lặn đâu, mọi người đều phải hết sức cẩn thận.”"
+    },
+    {
+      "para_id": "c0037p0011",
+      "index": 11,
+      "raw_zh": "說完使勁一推，伴隨著一陣輕微的摩擦聲，那虛掩的石門便開了一個足夠人走入的縫隙。",
+      "translated_vi": "Dứt lời, hắn dồn lực đẩy mạnh một cái, kèm theo tiếng ma sát kèn kẹt khe khẽ, cánh cửa đá khép hờ liền hé mở ra một khoảng trống vừa đủ cho một người lọt qua."
+    },
+    {
+      "para_id": "c0037p0012",
+      "index": 12,
+      "raw_zh": "雲千峰狗腿刀先伸進去，毫不客氣的先橫掃了一下，然後才閃身進入，持刀護住胸前。",
+      "translated_vi": "Vân Thiên Phong thò con dao quắm vào trước, chẳng chút khách khí quét ngang một đường thăm dò, sau đó mới lách mình tiến vào, tay lăm lăm thế dao che chắn trước ngực."
+    },
+    {
+      "para_id": "c0037p0013",
+      "index": 13,
+      "raw_zh": "入目的一切讓他有些意外，但卻又能理解。",
+      "translated_vi": "Khung cảnh đập vào mắt khiến hắn có đôi phần bất ngờ, nhưng ngẫm lại thì cũng hoàn toàn hữu lý."
+    },
+    {
+      "para_id": "c0037p0014",
+      "index": 14,
+      "raw_zh": "門後是一個四五米長寬的石台，更準確來說，是個石頭碼頭。",
+      "translated_vi": "Phía sau cánh cửa là một thềm đá rộng chừng bốn năm mét vuông, nói cho chính xác hơn thì đó là một bến tàu bằng đá."
+    },
+    {
+      "para_id": "c0037p0015",
+      "index": 15,
+      "raw_zh": "因為石台鄰著的是一條河，緊挨著石台還有一條輪廓狹長的木舟，鬼門關後有河，這就很好理解。",
+      "translated_vi": "Bởi vì thềm đá tiếp giáp với một dòng sông, ghé sát mép bờ là một chiếc thuyền gỗ thon dài. Sau Quỷ Môn Quan có một dòng sông, điều này quả thực rất dễ hiểu."
+    },
+    {
+      "para_id": "c0037p0016",
+      "index": 16,
+      "raw_zh": "河寬很平均，大約只有不到兩米，可以肯定是人工開鑿的。",
+      "translated_vi": "Lòng sông có độ rộng rất đồng đều, ước chừng chưa đầy hai mét, có thể khẳng định chắc chắn đây là công trình do con người khai đục mà thành."
+    },
+    {
+      "para_id": "c0037p0017",
+      "index": 17,
+      "raw_zh": "之所以能看到河寬，是因為在河的兩岸有著一排散發著熒光的東西，整整齊齊，平行排列於河兩岸的石壁上，一直延伸到極遠處，在河中留下鬼火般的倒影。",
+      "translated_vi": "Sở dĩ nhìn rõ được bề ngang dòng sông là nhờ đôi bờ có một dải vật thể phát ra lân quang xanh biếc, xếp đặt ngay ngắn chỉnh tề song song trên vách đá đôi bờ, kéo dài tít tắp về phía vô tận, in bóng xuống mặt nước như những đốm lửa ma trơi lập lòe."
+    },
+    {
+      "para_id": "c0037p0018",
+      "index": 18,
+      "raw_zh": "雲千峰拿著夜明珠靠近木舟仔細觀瞧，發現這木舟是由整段巨木燒鑿而成，但看不出是什麽木質。",
+      "translated_vi": "Vân Thiên Phong cầm dạ minh châu ghé sát chiếc thuyền gỗ để săm soi, phát hiện chiếc thuyền này được đục đẽo và hơ lửa uốn từ nguyên một thân gỗ khổng lồ, song chẳng tài nào nhìn ra được đó là loại gỗ gì."
+    },
+    {
+      "para_id": "c0037p0019",
+      "index": 19,
+      "raw_zh": "把夜明珠在木舟內滾了兩圈，才看清楚這木舟全貌，其長約七米，寬差不多半米，深度大概只有三十公分，頭尖尾方。",
+      "translated_vi": "Hắn lăn viên dạ minh châu hai vòng dọc theo lòng thuyền mới thấy rõ được toàn cảnh: thuyền dài chừng bảy mét, rộng độ nửa mét, lòng sâu vỏn vẹn khoảng ba mươi phân, mũi nhọn đuôi vuông."
+    },
+    {
+      "para_id": "c0037p0020",
+      "index": 20,
+      "raw_zh": "秦疏影看清楚木舟後，露出思索的表情，好一會才說道：",
+      "translated_vi": "Nhìn rõ con thuyền gỗ, Tần Sơ Ảnh thoáng trầm ngâm, một lúc lâu sau mới cất tiếng:"
+    },
+    {
+      "para_id": "c0037p0021",
+      "index": 21,
+      "raw_zh": "“這種木舟我見過，上大學那會，我去過江南水鄉博物館，那裡面有一條良渚文化時期的木舟，和這個幾乎一模一樣，據說那木舟有五千多年以上的歷史。”",
+      "translated_vi": "“Loại thuyền độc mộc này tôi từng thấy qua rồi. Hồi học đại học, tôi có tới viện bảo tàng thủy hương Giang Nam, ở đó trưng bày một chiếc thuyền gỗ thuộc thời kỳ văn hóa Lương Chử, gần như y đúc chiếc này, nghe nói niên đại đã hơn năm ngàn năm.”"
+    },
+    {
+      "para_id": "c0037p0022",
+      "index": 22,
+      "raw_zh": "雲千峰看著眼前的木舟，低聲道：",
+      "translated_vi": "Vân Thiên Phong nhìn chăm chú chiếc thuyền trước mắt, khẽ bảo:"
+    },
+    {
+      "para_id": "c0037p0023",
+      "index": 23,
+      "raw_zh": "“這條木舟在神跡之中，其歲月只會更長，最少是在一萬兩千年以前。”",
+      "translated_vi": "“Con thuyền này nằm trong di tích thần tích, thời gian của nó chỉ có thể dài hơn thế nhiều, ít nhất cũng phải từ mười hai ngàn năm trước.”"
+    },
+    {
+      "para_id": "c0037p0024",
+      "index": 24,
+      "raw_zh": "薑柔甲奇道：",
+      "translated_vi": "Khương Nhu Giáp tròn mắt ngạc nhiên:"
+    },
+    {
+      "para_id": "c0037p0025",
+      "index": 25,
+      "raw_zh": "“什麽樣的木頭在水裡泡一萬多年還不腐爛啊！”",
+      "translated_vi": "“Loại gỗ gì mà ngâm dưới nước hơn một vạn năm vẫn không bị mục nát thế này cơ chứ!”"
+    },
+    {
+      "para_id": "c0037p0026",
+      "index": 26,
+      "raw_zh": "雲千峰搖頭道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu:"
+    },
+    {
+      "para_id": "c0037p0027",
+      "index": 27,
+      "raw_zh": "“我也看不出這是什麽木質，而且不僅這木舟沒腐爛，連那牽引的繩索都看起來韌性十足。”",
+      "translated_vi": "“Tôi cũng chẳng nhìn ra được đây là thớ gỗ gì. Hơn nữa không chỉ thân thuyền nguyên vẹn, mà ngay cả sợi dây thừng kéo thuyền kia trông cũng dẻo dai vô cùng.”"
+    },
+    {
+      "para_id": "c0037p0028",
+      "index": 28,
+      "raw_zh": "這條河從波紋來看，是迎面流過來，所以要乘船在這裡向深處去，就要拽著那條看不到盡頭在何處的牽引繩索。",
+      "translated_vi": "Nhìn gợn sóng lăn tăn thì dòng nước đang chảy xuôi về phía họ, thế nên nếu muốn chèo thuyền đi sâu vào bên trong thì bắt buộc phải níu lấy sợi dây kéo không thấy điểm cuối kia mà dắt thuyền ngược dòng."
+    },
+    {
+      "para_id": "c0037p0029",
+      "index": 29,
+      "raw_zh": "雲千峰用夜明珠照了照石台邊的河水，苦笑道：",
+      "translated_vi": "Vân Thiên Phong rọi viên dạ minh châu xuống làn nước cạnh thềm đá, cười khổ:"
+    },
+    {
+      "para_id": "c0037p0030",
+      "index": 30,
+      "raw_zh": "“河水渾濁濃黃，還真是鬼門關後的黃泉路啊！”",
+      "translated_vi": "“Nước sông vẩn đục vàng quánh, quả đúng là đường Hoàng Tuyền sau Quỷ Môn Quan rồi!”"
+    },
+    {
+      "para_id": "c0037p0031",
+      "index": 31,
+      "raw_zh": "秦疏影面帶恐懼，無奈道：",
+      "translated_vi": "Tần Sơ Ảnh thoáng vẻ kinh sợ, thở dài bất lực:"
+    },
+    {
+      "para_id": "c0037p0032",
+      "index": 32,
+      "raw_zh": "“的確是黃泉路，這木舟到了對面，上面沒有人後就會隨著河水飄回來，這是有去無回的路！”",
+      "translated_vi": "“Đúng là đường Hoàng Tuyền thật. Chiếc thuyền gỗ này khi sang đến bờ bên kia, hễ trên thuyền không còn bóng người thì sẽ trôi dạt ngược theo dòng nước trở về đây. Đây chính là con đường một đi không trở lại!”"
+    },
+    {
+      "para_id": "c0037p0033",
+      "index": 33,
+      "raw_zh": "雲千峰當先上船，木舟隨著他的踏入一陣搖晃，雲千峰急忙坐在裡面，保持重心，道：",
+      "translated_vi": "Vân Thiên Phong đi đầu bước xuống thuyền. Mạn thuyền chao đảo một hồi theo nhịp chân của hắn, Vân Thiên Phong liền vội vã ngồi thụp xuống để giữ thăng bằng trọng tâm, bảo:"
+    },
+    {
+      "para_id": "c0037p0034",
+      "index": 34,
+      "raw_zh": "“上來吧，咱們三個早就沒有回頭路了。”",
+      "translated_vi": "“Lên cả đi, ba đứa mình vốn dĩ làm gì còn đường lui nữa.”"
+    },
+    {
+      "para_id": "c0037p0035",
+      "index": 35,
+      "raw_zh": "秦疏影和薑柔甲點頭登上木舟。",
+      "translated_vi": "Tần Sơ Ảnh và Khương Nhu Giáp gật đầu rồi cùng bước lên mạn thuyền."
+    },
+    {
+      "para_id": "c0037p0036",
+      "index": 36,
+      "raw_zh": "這倆漂亮女人生在南方，對乘船很有經驗，不像雲千峰上了船就身形不穩，她們倆身上的勁隨著木舟擺動，看似搖晃，實際站得穩穩的。",
+      "translated_vi": "Hai cô gái xinh đẹp này vốn sinh ra và lớn lên ở miền sông nước phương nam, kinh nghiệm đi thuyền vô cùng phong phú, chẳng bù cho Vân Thiên Phong vừa đặt chân lên đã chới với. Nhịp thở và thế đứng của hai cô thuận theo từng dao động của lòng thuyền, ngỡ như bập bênh nhưng thực chất lại vững như bàn thạch."
+    },
+    {
+      "para_id": "c0037p0037",
+      "index": 37,
+      "raw_zh": "看到雲千峰要站起來拉著纖繩擺渡，秦疏影忙道：",
+      "translated_vi": "Thấy Vân Thiên Phong toan đứng dậy kéo dây lôi thuyền, Tần Sơ Ảnh vội can:"
+    },
+    {
+      "para_id": "c0037p0038",
+      "index": 38,
+      "raw_zh": "“你坐著吧，不會用那股勁，你再把木舟弄翻了。”",
+      "translated_vi": "“Anh cứ ngồi yên đó đi! Chưa thạo cách nương theo thế nước mà vùng vằng khéo lại làm lật thuyền bây giờ.”"
+    },
+    {
+      "para_id": "c0037p0039",
+      "index": 39,
+      "raw_zh": "雲千峰急忙乖乖坐下，他可不想掉進你渾濁的河水裡，鬼知道裡面都有什麽玩意。",
+      "translated_vi": "Vân Thiên Phong vội ngoan ngoãn ngồi im thin thít, hắn cũng chẳng dại gì mà rơi tõm xuống cái dòng sông đục ngầu quánh đặc kia, ma mới biết bên dưới đáy nước ẩn giấu thứ quái quỷ gì."
+    },
+    {
+      "para_id": "c0037p0040",
+      "index": 40,
+      "raw_zh": "兩個女生一起用力拉船逆流前行，好在水流很平緩，倒是也不費什麽力氣。",
+      "translated_vi": "Hai cô gái hiệp lực kéo sợi dây thừng đưa thuyền lướt ngược dòng nước. May thay dòng chảy khá êm ả nên cũng không tốn quá nhiều sức lực."
+    },
+    {
+      "para_id": "c0037p0041",
+      "index": 41,
+      "raw_zh": "雲千峰坐在那觀看近在眼前的那些鬼火般的綠光。",
+      "translated_vi": "Vân Thiên Phong ngồi trong lòng thuyền, chăm chú quan sát những đốm sáng xanh lập lòe như ma trơi ngay sát tầm mắt."
+    },
+    {
+      "para_id": "c0037p0042",
+      "index": 42,
+      "raw_zh": "那些綠光都是一段一段的，每一段寬約半米長約兩米，似乎是貼在兩岸的石壁上，每段綠光之間露出的石頭上雕刻著花紋，不像是象形圖騰，更像是用來表音的祝由符號。",
+      "translated_vi": "Những vệt sáng xanh ấy phân bổ thành từng mảng riêng biệt, mỗi mảng rộng chừng nửa mét, dài khoảng hai mét, dường như được dán chặt lên vách đá đôi bờ. Khoảng vách lộ ra giữa các mảng sáng chạm khắc hoa văn chằng chịt, trông không giống đồ đằng tượng hình, mà tựa như những ký hiệu Chúc Do biểu âm hơn."
+    },
+    {
+      "para_id": "c0037p0043",
+      "index": 43,
+      "raw_zh": "“鬼門關，黃泉路，那這些散著綠光的東西就是彼岸花了！不過怎麽看著像植物牆的微觀造景啊？伱們看那一段段發熒光的東西，上面長著的植物是不是很像微觀的熱帶雨林，植物也會發光嗎？”",
+      "translated_vi": "“Quỷ Môn Quan, đường Hoàng Tuyền, vậy những thứ tỏa lân quang xanh biếc này ắt là hoa Bỉ Ngạn rồi! Nhưng sao nhìn lại giống mấy vách tường tiểu cảnh vi mô thế này nhỉ? Hai người nhìn những dải huỳnh quang kia xem, đám cây cỏ mọc bên trên trông có khác gì một khu rừng nhiệt đới thu nhỏ đâu, thực vật mà cũng biết phát sáng à?”"
+    },
+    {
+      "para_id": "c0037p0044",
+      "index": 44,
+      "raw_zh": "這問題倒是撞到了秦疏影的知識范疇內，她看著那些發光物，說道：",
+      "translated_vi": "Câu hỏi này vừa khéo lại trúng ngay vào lĩnh vực chuyên môn của Tần Sơ Ảnh. Cô đưa mắt nhìn những vật thể phát sáng rồi giảng giải:"
+    },
+    {
+      "para_id": "c0037p0045",
+      "index": 45,
+      "raw_zh": "“那不是植物，而是一種發光菌類，這種真菌很常見，苦牡蠣、蜜蜂蘑菇、流血仙女頭盔這些，在晚上都會自主發光，吸引昆蟲傳播孢子。",
+      "translated_vi": "“Đó không phải là thực vật, mà là một chủng nấm phát quang. Loài nấm này thực ra khá phổ biến trong tự nhiên, ví dụ như nấm hàu đắng, nấm mật ong, hay nấm mũ tiên rỉ máu... chúng đều tự phát sáng trong đêm tối để thu hút côn trùng tới phát tán bào tử."
+    },
+    {
+      "para_id": "c0037p0046",
+      "index": 46,
+      "raw_zh": "我讀研究生的時候，有個校友就是專門研究這種發光真菌藥理毒性的，我記得她說過，好像是這種真菌體內含有氧化熒光素分子，能與氧氣之間發生化學反應，依靠消耗自身能量發光。",
+      "translated_vi": "Hồi học cao học, tôi có một cô bạn cùng khóa chuyên nghiên cứu về dược lý và độc tính của các loài nấm phát quang. Tôi còn nhớ cô ấy từng nói, dường như bên trong loại nấm này có chứa các phân tử oxyluciferin, có thể xảy ra phản ứng hóa học với oxy, tiêu hao năng lượng nội tại để tự phát sáng."
+    },
+    {
+      "para_id": "c0037p0047",
+      "index": 47,
+      "raw_zh": "你們可別碰它們，我雖然不知道眼前這是什麽種類的發光真菌，但所有的發光真菌基本都有劇毒。”",
+      "translated_vi": "Hai người tuyệt đối chớ có chạm tay vào! Dù tôi chưa nhận diện được loài nấm phát quang trước mắt thuộc chủng loại nào, nhưng về cơ bản hầu hết nấm phát sáng đều chứa kịch độc.”"
+    },
+    {
+      "para_id": "c0037p0048",
+      "index": 48,
+      "raw_zh": "雲千峰不由得慨歎世界之大無奇不有。",
+      "translated_vi": "Vân Thiên Phong không khỏi tấm tắc cảm thán, thế giới bao la quả thực không gì là không thể có."
+    },
+    {
+      "para_id": "c0037p0049",
+      "index": 49,
+      "raw_zh": "薑柔甲本身是學藝術的，雖然最後上的是影視大學，但她自小就學畫畫，對畫面細節很敏感。",
+      "translated_vi": "Khương Nhu Giáp vốn học nghệ thuật, tuy sau này thi vào trường điện ảnh truyền hình nhưng từ bé cô đã theo học hội họa, thành thử giác quan với chi tiết đường nét hình ảnh vô cùng nhạy bén."
+    },
+    {
+      "para_id": "c0037p0050",
+      "index": 50,
+      "raw_zh": "她看著那一段段發光的東西，遲疑道：",
+      "translated_vi": "Cô ngắm nghía những mảng phát quang kia một lúc rồi ngập ngừng lên tiếng:"
+    },
+    {
+      "para_id": "c0037p0051",
+      "index": 51,
+      "raw_zh": "“你們看每一個單獨的發光真菌排列的輪廓，是不是很像一個人的形狀？”",
+      "translated_vi": "“Mọi người nhìn đường viền của từng cụm nấm phát quang riêng lẻ kia xem, trông có giống hình dạng của một con người không?”"
+    },
+    {
+      "para_id": "c0037p0052",
+      "index": 52,
+      "raw_zh": "“嗯？”",
+      "translated_vi": "“Hử?”"
+    },
+    {
+      "para_id": "c0037p0053",
+      "index": 53,
+      "raw_zh": "秦疏影一愣。",
+      "translated_vi": "Tần Sơ Ảnh thoáng giật mình ngơ ngác."
+    },
+    {
+      "para_id": "c0037p0054",
+      "index": 54,
+      "raw_zh": "雲千峰眯著眼睛把腦袋往後挪挪，遠觀輪廓，不由得驚訝道：",
+      "translated_vi": "Vân Thiên Phong nheo mắt ngả đầu lùi ra sau một chút để nhìn toàn cảnh từ xa, không khỏi kinh ngạc thốt lên:"
+    },
+    {
+      "para_id": "c0037p0055",
+      "index": 55,
+      "raw_zh": "“真的很像一個躺在牆上的人，胳膊腿腦袋都有。”",
+      "translated_vi": "“Quả thật rất giống hình một người đang nằm dán trên vách đá, đủ cả đầu mối, chân tay.”"
+    },
+    {
+      "para_id": "c0037p0056",
+      "index": 56,
+      "raw_zh": "說到這，他揮手繼續道：",
+      "translated_vi": "Nói đoạn, hắn khẽ vẫy tay ra hiệu:"
+    },
+    {
+      "para_id": "c0037p0057",
+      "index": 57,
+      "raw_zh": "“把木舟穩住一會兒，我看看那是什麽東西。”",
+      "translated_vi": "“Giữ thuyền đứng yên một lát, để tôi xem rốt cuộc đó là thứ quái quỷ gì.”"
+    },
+    {
+      "para_id": "c0037p0058",
+      "index": 58,
+      "raw_zh": "秦疏影和薑柔甲急忙拽住纖繩，讓木舟穩在這個位置，秦疏影不忘叮囑道：",
+      "translated_vi": "Tần Sơ Ảnh và Khương Nhu Giáp vội ghì chặt sợi dây thừng, giữ cho con thuyền thăng bằng tại chỗ. Tần Sơ Ảnh không quên căn dặn:"
+    },
+    {
+      "para_id": "c0037p0059",
+      "index": 59,
+      "raw_zh": "“別用手碰。”",
+      "translated_vi": "“Đừng dùng tay không chạm vào đấy!”"
+    },
+    {
+      "para_id": "c0037p0060",
+      "index": 60,
+      "raw_zh": "雲千峰點頭，抽出狗腿刀撥弄著那些發光真菌，但這些東西底部韌性極好，極難撥弄開，雲千峰隻好換了個方式，把狗腿刀插進發光真菌的最下層，緩緩翹起來。",
+      "translated_vi": "Vân Thiên Phong gật đầu, rút con dao quắm ra gạt nhẹ lớp nấm phát quang. Song phần gốc rễ của thứ này lại dẻo dai lạ kỳ, rất khó hất ra, hắn đành đổi cách thức, luồn mũi dao quắm vào tầng đáy cùng rồi từ từ bẩy ngược lên."
+    },
+    {
+      "para_id": "c0037p0061",
+      "index": 61,
+      "raw_zh": "“掀開了！”",
+      "translated_vi": "“Lật lên được rồi!”"
+    },
+    {
+      "para_id": "c0037p0062",
+      "index": 62,
+      "raw_zh": "薑柔甲好奇的一邊看一邊說道。",
+      "translated_vi": "Khương Nhu Giáp vừa tò mò dõi theo vừa khẽ reo lên."
+    },
+    {
+      "para_id": "c0037p0063",
+      "index": 63,
+      "raw_zh": "雲千峰撬動手腕，身體前傾，很快將那石台上一整塊的發光真菌連著撬起來。",
+      "translated_vi": "Vân Thiên Phong vặn cổ tay, rướn người về phía trước, rất nhanh đã bẩy nguyên cả một mảng nấm phát quang lớn trên thềm đá rời ra."
+    },
+    {
+      "para_id": "c0037p0064",
+      "index": 64,
+      "raw_zh": "“秦小姐你穩住木舟，薑柔甲你把夜明珠往前拿，我看看這些發光真菌到底長在什麽東西上面，韌性這麽大。”",
+      "translated_vi": "“Cô Tần giữ vững thuyền nhé, Khương Nhu Giáp đưa hạt dạ minh châu sát lại đây, để tôi xem thử thứ nấm phát quang này rốt cuộc mọc bám trên vật gì mà lại dai dẳng đến mức ấy.”"
+    },
+    {
+      "para_id": "c0037p0065",
+      "index": 65,
+      "raw_zh": "薑柔甲急忙用單手托著夜明珠放到那一整張如草皮的發光真菌前。",
+      "translated_vi": "Khương Nhu Giáp vội dùng một tay nâng hạt dạ minh châu kề sát trước tấm nấm phát quang trông như một thảm cỏ dày cộp."
+    },
+    {
+      "para_id": "c0037p0066",
+      "index": 66,
+      "raw_zh": "光線漸漸籠罩那層發光真菌，三個人也看到了眼前之物到底是什麽。",
+      "translated_vi": "Quầng sáng dần dần bao phủ lấy lớp nấm phát quang, và cả ba người cũng rốt cuộc nhìn rõ thực chất thứ đang hiện hữu trước mắt là gì."
+    },
+    {
+      "para_id": "c0037p0067",
+      "index": 67,
+      "raw_zh": "“啊！”",
+      "translated_vi": "“Á!”"
+    },
+    {
+      "para_id": "c0037p0068",
+      "index": 68,
+      "raw_zh": "薑柔甲手裡的夜明珠直接跌落到河裡，她整個人被嚇得往後坐去，要不是被雲千峰眼疾手快一把拉住，就肯定一跟頭翻到黃泉裡去了。",
+      "translated_vi": "Viên dạ minh châu trên tay Khương Nhu Giáp tuột rơi thẳng xuống dòng sông, cả người cô kinh hãi ngã ngửa ra sau. May nhờ Vân Thiên Phong nhanh tay lẹ mắt chộp lấy bả vai cô, nếu không chắc chắn nàng đã ngã nhào xuống dòng nước Hoàng Tuyền rồi."
+    },
+    {
+      "para_id": "c0037p0069",
+      "index": 69,
+      "raw_zh": "秦疏影也幾乎同時驚呼一聲，禁不住用手捂住嘴巴。",
+      "translated_vi": "Gần như cùng lúc, Tần Sơ Ảnh cũng thảng thốt kêu lên một tiếng, không kìm được vội lấy tay bịt chặt miệng."
+    },
+    {
+      "para_id": "c0037p0070",
+      "index": 70,
+      "raw_zh": "雲千峰好一點，只是好像觸電似的把刀抽回來，順帶將那整張如草皮的發光真菌掀到了水中，然後大口大口的喘氣。",
+      "translated_vi": "Vân Thiên Phong khá hơn đôi chút, nhưng cũng như bị điện giật mà giật phắt con dao về, thuận đà hất tung cả mảng nấm bám như thảm cỏ kia rơi tõm xuống nước, rồi há hốc mồm thở dốc từng cơn."
+    },
+    {
+      "para_id": "c0037p0071",
+      "index": 71,
+      "raw_zh": "那東西，那長著發光真菌好似草皮的東西，是一張人皮，從後背切開扒下來的完整人皮。空洞的眼眶，變形的鼻孔，扭曲的嘴巴",
+      "translated_vi": "Thứ đó... thứ mọc đầy nấm phát quang trông như thảm cỏ ấy, hóa ra lại là một tấm da người! Một tấm da người nguyên vẹn bị rạch mở từ dọc sống lưng rồi lột tuột ra! Hốc mắt trống rỗng sâu hoắm, lỗ mũi biến dạng, khóe miệng vặn vẹo méo mó..."
+    },
+    {
+      "para_id": "c0037p0072",
+      "index": 72,
+      "raw_zh": "它們不是躺著，而是趴著，發光真菌就在這些人皮的脊背處長出來，茂盛的好似微縮的雨林。",
+      "translated_vi": "Chúng không phải nằm ngửa, mà là đang nằm sấp! Đám nấm phát quang mọc tua tủa ngay trên phần da lưng ấy, rậm rạp xum xuê hệt như một cánh rừng nhiệt đới thu nhỏ."
+    },
+    {
+      "para_id": "c0037p0073",
+      "index": 73,
+      "raw_zh": "雲千峰遙望前路，河水兩岸那一片又一片的發光真菌，不知有多少。",
+      "translated_vi": "Vân Thiên Phong phóng tầm mắt nhìn về phía trước, dọc hai bờ sông vô số những mảng nấm phát quang xanh biếc trải dài chẳng biết có đến bao nhiêu."
+    },
+    {
+      "para_id": "c0037p0074",
+      "index": 74,
+      "raw_zh": "但他知道，每一個下面都隱藏著一張趴著面壁的人皮。",
+      "translated_vi": "Nhưng hắn biết rõ, bên dưới mỗi một mảng sáng kia đều ẩn giấu một tấm da người đang nằm sấp úp mặt vào vách đá."
+    },
+    {
+      "para_id": "c0037p0075",
+      "index": 75,
+      "raw_zh": "“快走，快點離開這條水路，這不是人待的地方，這是地獄！”",
+      "translated_vi": "“Mau đi thôi, phải nhanh chóng rời khỏi khúc sông này! Đây chẳng phải là chốn dành cho người sống, đây đích thực là địa ngục!”"
+    },
+    {
+      "para_id": "c0037p0076",
+      "index": 76,
+      "raw_zh": "雲千峰也站起來，三個人一起快速用力拉扯纖繩，木舟快速的朝著盡頭飄去。",
+      "translated_vi": "Vân Thiên Phong lập tức đứng phắt dậy, cả ba người cùng dốc hết sức bình sinh giật mạnh sợi dây kéo, đưa con thuyền gỗ lao vun vút về phía cuối dòng sông."
+    },
+    {
+      "para_id": "c0037p0077",
+      "index": 77,
+      "raw_zh": "在他們身後，那張被雲千峰緊張下掀到河水裡的人皮冒出無數的水泡，似乎在呼吸，又像是在飽飲河水。",
+      "translated_vi": "Phía sau lưng họ, tấm da người bị Vân Thiên Phong trong lúc kinh hoảng hất rơi xuống sông bỗng sủi lên vô số bong bóng nước, tựa như đang hô hấp, lại như đang ngấu nghiến no nê dòng nước vàng vọt."
+    },
+    {
+      "para_id": "c0037p0078",
+      "index": 78,
+      "raw_zh": "發光的真菌遇到水便瞬間暗淡，露出了本來的枯草黃色，泡在水中就好像熱鍋裡的奶酪，快速的融化，然後順著人皮的毛孔融進去。",
+      "translated_vi": "Những sợi nấm phát quang vừa chạm nước liền lập tức tắt lịm, lộ ra sắc vàng héo úa nguyên thủy, ngâm trong làn nước chẳng khác nào miếng phô mai trên chảo nóng, nhanh chóng tan chảy rồi theo các lỗ chân lông ngấm trọn vào bên trong tấm da."
+    },
+    {
+      "para_id": "c0037p0079",
+      "index": 79,
+      "raw_zh": "那稠黃的真菌非常像黏菌，就是那種地球上智商最高，甚至領先人類一百年的黏菌。",
+      "translated_vi": "Thứ nấm vàng sền sệt ấy cực kỳ giống nấm nhầy — cái loài sinh vật đơn bào có trí thông minh kỳ bí bậc nhất trên Trái Đất, thậm chí được cho là vượt trước nhân loại cả trăm năm."
+    },
+    {
+      "para_id": "c0037p0080",
+      "index": 80,
+      "raw_zh": "不多時，那張人皮看起來已經如活人一般白嫩，它在水中扭曲了幾下，便魔鬼魚似的蠕動著一張薄皮，逆著水流向上而去。",
+      "translated_vi": "Chẳng bao lâu sau, tấm da người kia nom đã trắng trẻo mịn màng hệt như da thịt người sống. Nó uốn éo vài cái trong nước, rồi tựa như một con cá đuối khổng lồ khẽ dập dềnh lớp da mỏng, bơi lướt ngược dòng nước lao vút lên thượng nguồn."
+    },
+    {
+      "para_id": "c0037p0081",
+      "index": 81,
+      "raw_zh": "它的速度極快！",
+      "translated_vi": "Tốc độ của nó nhanh đến kinh hồn!"
+    },
+    {
+      "para_id": "c0037p0082",
+      "index": 82,
+      "raw_zh": "感謝書友尾數06248和張揚何必張揚的月票，謝謝你們的支持，這個春天很溫暖~~~",
+      "translated_vi": "Cảm ơn phiếu tháng của độc giả có số đuôi 06248 và bạn Trương Dương Hà Tất Trương Dương, cảm ơn sự ủng hộ của các bạn, mùa xuân này thật ấm áp~~~"
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 51,
+  "title": "Chương 51: Nhập cuộc",
+  "total_paragraphs": 84,
+  "translated_paragraphs": 84,
+  "source_hash": "dcc592a6697c720a3dfbf664c3a5196149a56e17899ff29ff58f76059f379c6b",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0051p0001",
+      "index": 1,
+      "raw_zh": "第51章 入局",
+      "translated_vi": "Chương 51: Nhập cuộc"
+    },
+    {
+      "para_id": "c0051p0002",
+      "index": 2,
+      "raw_zh": "聽到這話，所有人都意識到，似乎只有雲千峰說的這一種情況，才能出現“神”算遺漏的可能，也才有他們這次火中取栗成功。",
+      "translated_vi": "Nghe vậy, tất cả mọi người đều nhận ra dường như chỉ có duy nhất trường hợp Vân Thiên Phong vừa nói mới có khả năng khiến toan tính của “thần” xuất hiện sơ hở, và cũng chỉ khi ấy họ mới có thể thành công vớt hạt dẻ trong lửa."
+    },
+    {
+      "para_id": "c0051p0003",
+      "index": 3,
+      "raw_zh": "雲千峰看著震驚的維多利亞，沉聲道：",
+      "translated_vi": "Vân Thiên Phong nhìn Victoria đang lộ rõ vẻ bàng hoàng, trầm giọng nói:"
+    },
+    {
+      "para_id": "c0051p0004",
+      "index": 4,
+      "raw_zh": "“如果是這樣，你真要仔細思量要不要研究那塊“神”的基因了。”",
+      "translated_vi": "“Nếu đúng là như vậy, cô thực sự phải cân nhắc thật kỹ xem có nên nghiên cứu mẫu gen của khối 'thân xác thần linh' kia hay không.”"
+    },
+    {
+      "para_id": "c0051p0005",
+      "index": 5,
+      "raw_zh": "維多利亞的智商，一下就聽懂了雲千峰的意思。",
+      "translated_vi": "Với trí tuệ của Victoria, cô lập tức hiểu ngay ngụ ý của Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0051p0006",
+      "index": 6,
+      "raw_zh": "如果是兩個“神”相互算計，在微觀之中操弄記憶，順勢而為，那麽就肯定有一方希望這塊神軀的基因被研究。",
+      "translated_vi": "Nếu quả thật là hai vị “thần” đang ngấm ngầm tính kế lẫn nhau, thao túng ký ức ở cấp độ vi mô rồi thuận nước đẩy thuyền, vậy thì chắc chắn có một bên đang mong muốn đoạn gen của thần xác này được đem ra nghiên cứu."
+    },
+    {
+      "para_id": "c0051p0007",
+      "index": 7,
+      "raw_zh": "他們不怕神跡之中的“神”阻止他們帶走神軀的基因，他們害怕的，是身後那神跡內的“神”希望他們帶走祂的基因。",
+      "translated_vi": "Bọn họ không sợ “thần” trong di tích tìm cách ngăn cản họ mang mẫu gen thần xác đi; điều đáng sợ nhất chính là vị “thần” ngự bên trong di tích phía sau kia lại đang tha thiết muốn họ mang đoạn gen của Ngài đi."
+    },
+    {
+      "para_id": "c0051p0008",
+      "index": 8,
+      "raw_zh": "那這個陰謀所圖估計就大了，完全超出他們的控制，也意味著長生的密碼不在神軀基因內，面藏著的只能是災難。",
+      "translated_vi": "Nếu vậy thì mưu đồ ẩn sau đó hẳn là kinh thiên động địa, hoàn toàn vượt ngoài tầm kiểm soát của bọn họ, và điều đó cũng đồng nghĩa với việc mật mã trường sinh chẳng hề nằm trong chuỗi gen thần xác, mà thứ ẩn giấu bên trong đó chỉ có thể là thảm họa khôn lường."
+    },
+    {
+      "para_id": "c0051p0009",
+      "index": 9,
+      "raw_zh": "維多利亞沉思片刻，看著雲千峰回道：",
+      "translated_vi": "Victoria trầm ngâm chốc lát, nhìn Vân Thiên Phong đáp:"
+    },
+    {
+      "para_id": "c0051p0010",
+      "index": 10,
+      "raw_zh": "“我會萬分小心的，謝謝你的提醒。”",
+      "translated_vi": "“Tôi sẽ hết sức cẩn thận, cảm ơn lời nhắc nhở của anh.”"
+    },
+    {
+      "para_id": "c0051p0011",
+      "index": 11,
+      "raw_zh": "聽到這話，雲千峰就知道，這女人鐵了心的要研究神軀的基因，無法阻止的那種，況且自己也沒有那個責任和義務去阻止，真研究出來災難，也是高個的頂著，與己無關。",
+      "translated_vi": "Nghe câu này, Vân Thiên Phong liền hiểu người phụ nữ này đã hạ quyết tâm sắt đá muốn nghiên cứu mẫu gen thần xác, thuộc dạng chẳng ai có thể ngăn cản nổi. Vả lại bản thân hắn cũng chẳng có trách nhiệm hay nghĩa vụ phải can ngăn; ngộ nhỡ có nghiên cứu ra đại họa thật thì trời sập đã có kẻ cao gánh đỡ, chẳng mảy may liên can gì tới hắn."
+    },
+    {
+      "para_id": "c0051p0012",
+      "index": 12,
+      "raw_zh": "幾個人正在沒牆的避身所內聊天，突然滿都拉圖手速極快的向著旁邊的叢林一甩手，幾個在火光下泛著藍光的東西飛射而出。",
+      "translated_vi": "Mấy người đang ngồi trò chuyện trong căn chòi trú ẩn không vách, bất chợt Mandultu vung tay cực nhanh về phía lùm cây rậm rạp bên cạnh, vài vệt sáng ánh lam xé gió phóng vụt ra dưới ánh lửa bập bùng."
+    },
+    {
+      "para_id": "c0051p0013",
+      "index": 13,
+      "raw_zh": "“嗖！”",
+      "translated_vi": "“Vút!”"
+    },
+    {
+      "para_id": "c0051p0014",
+      "index": 14,
+      "raw_zh": "“嗖！”",
+      "translated_vi": "“Vút!”"
+    },
+    {
+      "para_id": "c0051p0015",
+      "index": 15,
+      "raw_zh": "暗器的破空聲與叢林裡腳步快速移動的聲音幾乎同時響起。",
+      "translated_vi": "Tiếng ám khí xé toang màn đêm gần như vang lên cùng lúc với tiếng bước chân di chuyển thoăn thoắt trong bụi rậm."
+    },
+    {
+      "para_id": "c0051p0016",
+      "index": 16,
+      "raw_zh": "“大家小心！”",
+      "translated_vi": "“Mọi người cẩn thận!”"
+    },
+    {
+      "para_id": "c0051p0017",
+      "index": 17,
+      "raw_zh": "滿都拉圖嘴裡說著，身形極快的撲向旁邊的叢林，雲千峰幾個也急忙跟過去。",
+      "translated_vi": "Mandultu vừa cất tiếng cảnh báo vừa lao vút người về phía lùm cây bên cạnh, đám người Vân Thiên Phong cũng vội vã ùa theo sau."
+    },
+    {
+      "para_id": "c0051p0018",
+      "index": 18,
+      "raw_zh": "“沒打中，他的速度好快！”",
+      "translated_vi": "“Hụt rồi, tốc độ của hắn nhanh quá!”"
+    },
+    {
+      "para_id": "c0051p0019",
+      "index": 19,
+      "raw_zh": "滿都拉圖把自己投射出去的劇毒棺材釘重新撿起來，嘴裡感歎著。",
+      "translated_vi": "Mandultu nhặt lại mấy cây đinh quan tài tẩm kịch độc mà mình vừa phóng ra, miệng không khỏi thốt lên đầy cảm thán."
+    },
+    {
+      "para_id": "c0051p0020",
+      "index": 20,
+      "raw_zh": "雲千峰蹲下身，用狼牙手電照著地面仔細觀瞧，突然倒吸一口涼氣，驚道：",
+      "translated_vi": "Vân Thiên Phong ngồi thụp xuống, rọi đèn pin răng sói sát mặt đất săm soi kỹ càng, sống lưng hắn chợt lạnh toát, kinh ngạc thốt lên:"
+    },
+    {
+      "para_id": "c0051p0021",
+      "index": 21,
+      "raw_zh": "“是他，那個一路上跟著我麽的人！”",
+      "translated_vi": "“Là hắn! Kẻ bám đuôi chúng ta suốt dọc đường!”"
+    },
+    {
+      "para_id": "c0051p0022",
+      "index": 22,
+      "raw_zh": "秦疏影就伴在雲千峰身側，她也看到了地上那廉價拖鞋的鞋印，當下也驚道：",
+      "translated_vi": "Tần Sơ Ảnh đứng sát cạnh Vân Thiên Phong, cô cũng trông thấy dấu dép lào rẻ tiền in hằn trên nền đất, liền giật mình kêu lên:"
+    },
+    {
+      "para_id": "c0051p0023",
+      "index": 23,
+      "raw_zh": "“是他，就是這個鞋印，大小和花紋都一樣，我們沒有甩掉他！”",
+      "translated_vi": "“Đúng là hắn rồi, chính là dấu dép này, cả kích cỡ lẫn hoa văn đều y hệt, chúng ta vẫn chưa cắt đuôi được hắn!”"
+    },
+    {
+      "para_id": "c0051p0024",
+      "index": 24,
+      "raw_zh": "巴猜發狠道：",
+      "translated_vi": "Ba Chai nghiến răng hung hãn nói:"
+    },
+    {
+      "para_id": "c0051p0025",
+      "index": 25,
+      "raw_zh": "“隻一個人有什麽好怕？真當咱們是吃素的？”",
+      "translated_vi": "“Chỉ có một mống thì có gì phải sợ chứ? Bộ tưởng bọn này ăn chay niệm phật chắc?”"
+    },
+    {
+      "para_id": "c0051p0026",
+      "index": 26,
+      "raw_zh": "滿都拉圖沉默半晌，搖頭說道：",
+      "translated_vi": "Mandultu im lặng hồi lâu rồi lắc đầu nói:"
+    },
+    {
+      "para_id": "c0051p0027",
+      "index": 27,
+      "raw_zh": "“速度太快了這個人，若是暗殺，我們防不住！”",
+      "translated_vi": "“Tốc độ của kẻ này quá nhanh, nếu hắn giở trò ám sát, chúng ta tuyệt đối không thể phòng bị nổi!”"
+    },
+    {
+      "para_id": "c0051p0028",
+      "index": 28,
+      "raw_zh": "巴猜看到滿都拉圖都害怕了，這才相信跟著他們的這個人有多可怕，僅僅展現了速度一項，就讓滿都拉圖如此忌憚。",
+      "translated_vi": "Ba Chai thấy ngay cả Mandultu cũng phải dè chừng khiếp sợ, bấy giờ mới tin kẻ bám đuôi kia đáng sợ nhường nào; chỉ riêng việc phô diễn tốc độ thôi cũng đủ khiến Mandultu kiêng dè đến mức ấy."
+    },
+    {
+      "para_id": "c0051p0029",
+      "index": 29,
+      "raw_zh": "“那現在咱們怎麽辦？連夜走吧！”",
+      "translated_vi": "“Vậy giờ chúng ta phải tính sao? Rút lui ngay trong đêm đi!”"
+    },
+    {
+      "para_id": "c0051p0030",
+      "index": 30,
+      "raw_zh": "巴猜看著維多利亞詢問，這已經是維多利亞團隊裡人的習慣，遇到難題問維多利亞。",
+      "translated_vi": "Ba Chai quay sang nhìn Victoria hỏi ý kiến. Đây đã thành thói quen ăn sâu của các thành viên trong đội ngũ Victoria, hễ đụng phải vấn đề nan giải là lập tức thỉnh thị cô."
+    },
+    {
+      "para_id": "c0051p0031",
+      "index": 31,
+      "raw_zh": "維多利亞撚了撚手指，道：",
+      "translated_vi": "Victoria xoa xoa mấy đầu ngón tay, nói:"
+    },
+    {
+      "para_id": "c0051p0032",
+      "index": 32,
+      "raw_zh": "“趕夜路那不正中了他的下懷？該來的總會來，咱們以逸待勞，就在這等著他！今晚巴猜，滿都拉圖和我一組，薑玉林你們四個一組，咱們輪班守夜，不給他可乘之機。”",
+      "translated_vi": "“Đi đêm chẳng phải trúng ngay ý đồ của hắn sao? Chuyện gì đến ắt sẽ đến, chúng ta cứ dĩ dật đãi lao, ngồi im ở đây chờ hắn! Đêm nay Ba Chai, Mandultu và tôi chia làm một nhóm, bốn người bọn anh Khương Ngọc Lâm một nhóm, chúng ta thay phiên nhau gác đêm, quyết không cho hắn có cơ hội thừa cơ đục nước béo cò.”"
+    },
+    {
+      "para_id": "c0051p0033",
+      "index": 33,
+      "raw_zh": "幾個人如臨大敵，把狗腿刀，開山刀，軍刀都亮出刃來，兩把手弩也都箭在弦上。",
+      "translated_vi": "Cả nhóm như lâm đại địch, rút phắt đao quắm Kukri, đao phạt bụi, dao găm quân dụng tuốt trần lưỡi bén, hai cây nỏ tay cũng lắp sẵn tên trên rãnh."
+    },
+    {
+      "para_id": "c0051p0034",
+      "index": 34,
+      "raw_zh": "然而這一晚什麽都沒有發生，但黑著眼眶的滿都拉圖很確信的告訴幾個人，那種窺伺的感覺一直沒有消失過，那個人就在他們附近。",
+      "translated_vi": "Thế nhưng suốt đêm hôm đó chẳng có biến cố nào xảy ra. Dẫu vậy, Mandultu với quầng mắt thâm quầng vẫn khẳng định chắc nịch với mọi người rằng cảm giác bị rình rập chưa từng biến mất lấy nửa giây, kẻ đó vẫn đang lảng vảng ngay sát quanh họ."
+    },
+    {
+      "para_id": "c0051p0035",
+      "index": 35,
+      "raw_zh": "天一亮，七個人就急忙收拾行裝，早餐也沒吃，快速的朝著歸路而去。",
+      "translated_vi": "Trời vừa hửng sáng, bảy người vội vã thu dọn hành lý, bữa sáng cũng chẳng màng ăn, rảo bước thật nhanh men theo đường cũ quay về."
+    },
+    {
+      "para_id": "c0051p0036",
+      "index": 36,
+      "raw_zh": "這一路白天走的小心翼翼，晚上睡得膽戰心驚，總算在第三天到達了秦疏影他們遺棄房車的位置。",
+      "translated_vi": "Suốt chặng đường, ban ngày họ cẩn trọng từng li từng tí, ban đêm lại chập chờn nơm nớp lo âu, rốt cuộc đến ngày thứ ba cũng tới được vị trí chiếc xe dã ngoại dạo trước Tần Sơ Ảnh và mọi người bỏ lại."
+    },
+    {
+      "para_id": "c0051p0037",
+      "index": 37,
+      "raw_zh": "薑玉林憑借極強的開車技術硬生生把房車倒著開到能轉頭的位置，這樣一路開到手機有信號的位置。",
+      "translated_vi": "Khương Ngọc Lâm nhờ vào tay lái lão luyện đã gượng lùi chiếc xe dã ngoại tới tận chỗ có thể quay đầu, rồi cứ thế lái một mạch ra đến khu vực điện thoại bắt được sóng."
+    },
+    {
+      "para_id": "c0051p0038",
+      "index": 38,
+      "raw_zh": "他們沒有進村落，而是停在山邊。",
+      "translated_vi": "Họ không lái xe vào trong thôn bản mà dừng lại sát chân núi."
+    },
+    {
+      "para_id": "c0051p0039",
+      "index": 39,
+      "raw_zh": "薑玉林道：",
+      "translated_vi": "Khương Ngọc Lâm nói:"
+    },
+    {
+      "para_id": "c0051p0040",
+      "index": 40,
+      "raw_zh": "“接下來我得藏起來，畢竟我現在是個黑戶，一旦被查，就麻煩了。”",
+      "translated_vi": "“Tiếp theo tôi phải trốn tạm đi thôi, dù sao hiện tại tôi cũng là kẻ vô gia cư không có thân phận trên hộ tịch, một khi bị kiểm tra hành chính thì phiền toái to.”"
+    },
+    {
+      "para_id": "c0051p0041",
+      "index": 41,
+      "raw_zh": "正說著話，薑玉林包裡的手機卻叮叮響了幾聲。",
+      "translated_vi": "Đang nói dở, chiếc điện thoại nhét trong túi của Khương Ngọc Lâm bỗng vang lên mấy tiếng bíp bíp liên hồi."
+    },
+    {
+      "para_id": "c0051p0042",
+      "index": 42,
+      "raw_zh": "薑玉林一愣，打開聊天軟件，卻是很多人給自己的留言，問自己這段時間去哪了，找不到人。",
+      "translated_vi": "Khương Ngọc Lâm ngẩn người, mở ứng dụng nhắn tin ra thì thấy có hàng loạt tin nhắn của nhiều người gửi tới, hỏi han dạo này anh ta đi đâu mà không ai liên lạc được."
+    },
+    {
+      "para_id": "c0051p0043",
+      "index": 43,
+      "raw_zh": "“小柔，伱不是說他們的記憶裡我都不存在了嗎？怎麽都還給我留言？還有昨天的呢！”",
+      "translated_vi": "“Tiểu Nhu, em chẳng bảo trong ký ức của mọi người anh đều không hề tồn tại nữa sao? Cớ sao ai nấy vẫn nhắn tin cho anh thế này? Lại còn có cả tin nhắn từ hôm qua nữa!”"
+    },
+    {
+      "para_id": "c0051p0044",
+      "index": 44,
+      "raw_zh": "雲千峰、薑柔甲和秦疏影都是一驚，忙看著薑玉林的手機，發現的確如此。",
+      "translated_vi": "Cả Vân Thiên Phong, Khương Nhu Giáp và Tần Sơ Ảnh đều giật thót mình, vội vàng nhìn vào màn hình điện thoại của Khương Ngọc Lâm thì thấy quả đúng là như vậy."
+    },
+    {
+      "para_id": "c0051p0045",
+      "index": 45,
+      "raw_zh": "“怎麽會這樣？明明大家都不記得你了，疏影姐都把你忘了呀！”",
+      "translated_vi": "“Sao lại thế được? Rõ ràng mọi người đều không nhớ gì về anh nữa, ngay cả chị Sơ Ảnh cũng quên sạch anh cơ mà!”"
+    },
+    {
+      "para_id": "c0051p0046",
+      "index": 46,
+      "raw_zh": "薑玉林腦仁疼，沒搭理不會開壺的妹妹，拿起手機回撥了一個電話。",
+      "translated_vi": "Khương Ngọc Lâm thấy thái dương giật giật đau nhức buốt óc, chẳng buồn đôi co với cô em gái vụng ăn vụng nói, liền nhấc máy gọi lại cho một số."
+    },
+    {
+      "para_id": "c0051p0047",
+      "index": 47,
+      "raw_zh": "“張會長什麽事這麽急著找我？我這幾天跟他們進山探險徒步去了，手機才有信號。”",
+      "translated_vi": "“Chủ tịch Trương, có việc gì mà bác tìm cháu gấp thế ạ? Mấy hôm nay cháu theo đoàn vào núi sâu thám hiểm leo núi, vừa mới có sóng điện thoại xong.”"
+    },
+    {
+      "para_id": "c0051p0048",
+      "index": 48,
+      "raw_zh": "“哎喲，你可算回電話了，是這樣的咱們這市裡要做一個活動.就是暫時資金還有點不夠.”",
+      "translated_vi": "“Ai dà, cậu cuối cùng cũng gọi lại rồi! Chuyện là thế này, thành phố bên mình sắp tổ chức một sự kiện... ngặt nỗi nguồn kinh phí tạm thời còn đang thiếu một chút...”"
+    },
+    {
+      "para_id": "c0051p0049",
+      "index": 49,
+      "raw_zh": "“這是正事啊，缺多少你告訴我，把活動帳號發給我.”",
+      "translated_vi": "“Đó là việc chính đáng mà, thiếu bao nhiêu bác cứ bảo cháu một tiếng, gửi số tài khoản sự kiện sang đây cho cháu...”"
+    },
+    {
+      "para_id": "c0051p0050",
+      "index": 50,
+      "raw_zh": "薑玉林掛掉電話，臉上既有不解又有驚喜的說道：",
+      "translated_vi": "Khương Ngọc Lâm cúp máy, vẻ mặt vừa khó hiểu lại vừa mừng rỡ nói:"
+    },
+    {
+      "para_id": "c0051p0051",
+      "index": 51,
+      "raw_zh": "“他們記得我！”",
+      "translated_vi": "“Mọi người vẫn nhớ tôi!”"
+    },
+    {
+      "para_id": "c0051p0052",
+      "index": 52,
+      "raw_zh": "維多利亞若有所思，道：",
+      "translated_vi": "Victoria như có điều suy nghĩ, trầm ngâm bảo:"
+    },
+    {
+      "para_id": "c0051p0053",
+      "index": 53,
+      "raw_zh": "“你在地方的影響力很大，祂以為你肯定回不來，所以抹除關於你的一切，現在你回來了，祂不得不恢復這一切。”",
+      "translated_vi": "“Sức ảnh hưởng của anh ở địa phương rất lớn. 'Ngài' cứ ngỡ anh chắc chắn một đi không trở lại nên mới xóa sạch mọi dấu vết liên quan đến anh; nay anh đã bình an trở về, 'Ngài' buộc lòng phải khôi phục lại tất cả.”"
+    },
+    {
+      "para_id": "c0051p0054",
+      "index": 54,
+      "raw_zh": "說著，幾個人看向秦疏影。",
+      "translated_vi": "Nói đoạn, mấy người cùng đưa mắt nhìn sang Tần Sơ Ảnh."
+    },
+    {
+      "para_id": "c0051p0055",
+      "index": 55,
+      "raw_zh": "被幾個人這樣一關注，秦疏影臉上有著說不盡的尷尬。",
+      "translated_vi": "Bị mọi người đồng loạt dồn ánh nhìn vào mình, nét mặt Tần Sơ Ảnh ngượng ngùng không sao tả xiết."
+    },
+    {
+      "para_id": "c0051p0056",
+      "index": 56,
+      "raw_zh": "她偷瞧了一眼雲千峰，發現那貨也一臉八卦的看著自己，心裡恨不得把他掐死：",
+      "translated_vi": "Cô liếc trộm Vân Thiên Phong một cái, thấy tên chết tiệt kia cũng đang trưng ra bộ mặt hóng hớt dòm mình, trong lòng hận không thể bóp chết tươi hắn:"
+    },
+    {
+      "para_id": "c0051p0057",
+      "index": 57,
+      "raw_zh": "“可是我沒有記起來啊！”",
+      "translated_vi": "“Thế nhưng... tôi vẫn chẳng nhớ ra chút gì cả!”"
+    },
+    {
+      "para_id": "c0051p0058",
+      "index": 58,
+      "raw_zh": "周圍幾個人臉上全是不解之色。",
+      "translated_vi": "Những người xung quanh ai nấy đều lộ vẻ ngơ ngác khó hiểu."
+    },
+    {
+      "para_id": "c0051p0059",
+      "index": 59,
+      "raw_zh": "雲千峰想起自己之前的推斷，說道：",
+      "translated_vi": "Vân Thiên Phong nhớ lại phán đoán trước đó của mình, lên tiếng:"
+    },
+    {
+      "para_id": "c0051p0060",
+      "index": 60,
+      "raw_zh": "“是不是因為那個連山易的黑片片啊？那東西不是能避免被改變記憶嗎？薑玉林你把那個東西給你妹妹，不就是怕出現這種事嗎？”",
+      "translated_vi": "“Có khi nào là do miếng đá đen Liên Sơn Dịch kia không? Thứ đó chẳng phải có thể ngăn chặn việc bị can thiệp biến đổi ký ức sao? Khương Ngọc Lâm, anh đưa món đồ ấy cho em gái mình chẳng phải vì sợ xảy ra chuyện này ư?”"
+    },
+    {
+      "para_id": "c0051p0061",
+      "index": 61,
+      "raw_zh": "薑玉林苦笑道：",
+      "translated_vi": "Khương Ngọc Lâm cười khổ đáp:"
+    },
+    {
+      "para_id": "c0051p0062",
+      "index": 62,
+      "raw_zh": "“我們之前都不知道有改變記憶這回事，怎麽可能知道這東西有那種能力？維多利亞說這種黑石片上面有一種類聲波態的震蕩場，對人身體的內髒有保健作用，我當保健品給我妹的。”",
+      "translated_vi": "“Trước đây chúng tôi nào hay biết có cái chuyện ký ức bị sửa đổi, làm sao mà biết món này sở hữu năng lực thần kỳ đó chứ? Victoria bảo trên miếng đá đen này phát ra một dạng trường dao động tựa sóng âm, có tác dụng bồi bổ tạng phủ cho cơ thể con người, nên tôi chỉ xem nó như đồ bồi bổ sức khỏe tặng cho em gái thôi.”"
+    },
+    {
+      "para_id": "c0051p0063",
+      "index": 63,
+      "raw_zh": "維多利亞思索道：",
+      "translated_vi": "Victoria suy ngẫm một lát rồi nói:"
+    },
+    {
+      "para_id": "c0051p0064",
+      "index": 64,
+      "raw_zh": "“不排除這個東西有這個能力，否則無法解釋小柔的記憶沒有變化。但是我用儀器觀測到的這種東西的震蕩場，隻作用在接觸者身上形成一種共振，秦小姐沒有接觸啊！”",
+      "translated_vi": "“Không loại trừ khả năng món đồ này có năng lực đó, nếu không thì chẳng thể giải thích nổi vì sao ký ức của Tiểu Nhu không hề suy suyển. Nhưng trường dao động mà tôi đo đạc được bằng máy móc chỉ tác động lên người tiếp xúc trực tiếp để tạo thành một dạng cộng hưởng, còn cô Tần thì đâu có chạm vào nó!”"
+    },
+    {
+      "para_id": "c0051p0065",
+      "index": 65,
+      "raw_zh": "於是，幾個人的目光又都集中在秦疏影身上。",
+      "translated_vi": "Thế là, ánh mắt của mọi người lại một lần nữa đổ dồn về phía Tần Sơ Ảnh."
+    },
+    {
+      "para_id": "c0051p0066",
+      "index": 66,
+      "raw_zh": "臉上全是若有所思的表情。",
+      "translated_vi": "Trên mặt ai nấy đều là vẻ đăm chiêu nghiền ngẫm."
+    },
+    {
+      "para_id": "c0051p0067",
+      "index": 67,
+      "raw_zh": "秦疏影隻好低著頭，不看他們。",
+      "translated_vi": "Tần Sơ Ảnh đành cúi gằm mặt xuống, vờ như không thấy ánh mắt của họ."
+    },
+    {
+      "para_id": "c0051p0068",
+      "index": 68,
+      "raw_zh": "沒有人再提秦疏影記憶這一茬，似乎這個話題就這樣過去了。",
+      "translated_vi": "Không ai nhắc lại chuyện ký ức của Tần Sơ Ảnh nữa, dường như đề tài này cứ thế được gác lại."
+    },
+    {
+      "para_id": "c0051p0069",
+      "index": 69,
+      "raw_zh": "雲千峰在那擺弄手機，畢竟劫後重生，很想和老爸老媽聊幾句。",
+      "translated_vi": "Vân Thiên Phong ngồi một góc hí hoáy nghịch chiếc điện thoại, dù sao cũng vừa thoát chết trong gang tấc, trong lòng rất muốn gọi điện tâm sự đôi câu với bố mẹ."
+    },
+    {
+      "para_id": "c0051p0070",
+      "index": 70,
+      "raw_zh": "然而他的聊天軟件怎麽也登不上去，顯示帳號不存在。",
+      "translated_vi": "Thế nhưng ứng dụng nhắn tin của hắn loay hoay mãi vẫn không tài nào đăng nhập nổi, màn hình báo lỗi tài khoản không tồn tại."
+    },
+    {
+      "para_id": "c0051p0071",
+      "index": 71,
+      "raw_zh": "弄了幾次，他放棄了，直接選擇打電話，但是撥不出去，他覺得可能是自己的手機卡壞掉了，於是借來薑柔甲的手機，給他老爸打了一個電話。",
+      "translated_vi": "Thử đi thử lại mấy bận, hắn đành bỏ cuộc, chuyển sang bấm số gọi trực tiếp nhưng cuộc gọi không thể kết nối. Nghĩ bụng chắc do thẻ SIM của mình bị hỏng, hắn bèn mượn điện thoại của Khương Nhu Giáp gọi về cho bố đẻ."
+    },
+    {
+      "para_id": "c0051p0072",
+      "index": 72,
+      "raw_zh": "“喂，爸，你忙啥呢？”",
+      "translated_vi": "“Alo, bố ạ, bố đang bận gì thế?”"
+    },
+    {
+      "para_id": "c0051p0073",
+      "index": 73,
+      "raw_zh": "“嘶現在這騙子這麽不敬業嗎？你騙人也先打聽打聽啊！老子只有一個女兒，哪來的兒子？特麽的！我告訴你，我可下載防詐騙APP了，你小心點！”",
+      "translated_vi": "“Hừ... dạo này bọn lừa đảo tụi bay thiếu chuyên nghiệp thế à? Đi lừa người ta thì cũng phải dò la nghe ngóng trước chứ! Ông đây chỉ có độc một đứa con gái, lấy đâu ra thằng con trai nào hả? Mẹ kiếp! Tao nói cho mày biết, máy tao cài sẵn ứng dụng chống lừa đảo rồi đấy, liệu hồn mà cẩn thận!”"
+    },
+    {
+      "para_id": "c0051p0074",
+      "index": 74,
+      "raw_zh": "“不是，你不是雲松貞嗎？”",
+      "translated_vi": "“Khoan đã, bác... à không, bố chẳng phải là Vân Tùng Trinh sao?”"
+    },
+    {
+      "para_id": "c0051p0075",
+      "index": 75,
+      "raw_zh": "“我是啊，你這不是做功課了嗎，怎麽不換個女的給我打？”",
+      "translated_vi": "“Tao đây chứ ai! Mày điều tra kỹ đấy chứ, sao không kiếm con ả nào gọi cho tao?”"
+    },
+    {
+      "para_id": "c0051p0076",
+      "index": 76,
+      "raw_zh": "“不是，爸啊，我是雲千峰，你兒子雲千峰！”",
+      "translated_vi": "“Không phải đâu bố ơi, con là Vân Thiên Phong, con trai Vân Thiên Phong của bố đây mà!”"
+    },
+    {
+      "para_id": "c0051p0077",
+      "index": 77,
+      "raw_zh": "“滾犢子吧，你當我老年癡呆啊！”",
+      "translated_vi": "“Cút mẹ mày đi, tưởng ông đây bị lẫn chắc!”"
+    },
+    {
+      "para_id": "c0051p0078",
+      "index": 78,
+      "raw_zh": "“嘟嘟嘟”",
+      "translated_vi": "“Tút... tút... tút...”"
+    },
+    {
+      "para_id": "c0051p0079",
+      "index": 79,
+      "raw_zh": "雲松貞把電話掛了。",
+      "translated_vi": "Vân Tùng Trinh dập máy cái rụp."
+    },
+    {
+      "para_id": "c0051p0080",
+      "index": 80,
+      "raw_zh": "雲千峰愣在那，有如夢遊，似乎完全被自己老爹一番話乾懵了。",
+      "translated_vi": "Vân Thiên Phong chết sững tại chỗ, trông như kẻ mộng du, hoàn toàn bị mấy câu chửi như tát nước vào mặt của bố đẻ làm cho ngớ người đờ đẫn."
+    },
+    {
+      "para_id": "c0051p0081",
+      "index": 81,
+      "raw_zh": "倒是秦疏影反應過來什麽，急道：",
+      "translated_vi": "Ngược lại, Tần Sơ Ảnh dường như sực nhớ ra điều gì, vội vàng giục:"
+    },
+    {
+      "para_id": "c0051p0082",
+      "index": 82,
+      "raw_zh": "“玉林，趕緊讓王局查一下雲千峰的戶籍檔案還在不在！”",
+      "translated_vi": "“Ngọc Lâm, anh mau nhờ Cục trưởng Vương tra cứu gấp xem hồ sơ hộ tịch của Vân Thiên Phong có còn trên hệ thống hay không!”"
+    },
+    {
+      "para_id": "c0051p0083",
+      "index": 83,
+      "raw_zh": "這話驚醒了發懵的雲千峰，他突然意識到，自己好像攤上大事了。",
+      "translated_vi": "Câu nói ấy lập tức đánh thức Vân Thiên Phong khỏi cơn ngơ ngác; hắn bàng hoàng nhận ra, dường như bản thân đã rước phải chuyện động trời rồi."
+    },
+    {
+      "para_id": "c0051p0084",
+      "index": 84,
+      "raw_zh": "感謝書友詩經十五國風的月票，謝謝你的支持和鼓勵！！！",
+      "translated_vi": "Chân thành cảm ơn bạn đọc 'Thi Kinh Thập Ngũ Quốc Phong' đã ủng hộ phiếu tháng, cảm ơn sự đồng hành và khích lệ của bạn!!!"
+    }
+  ]
+}

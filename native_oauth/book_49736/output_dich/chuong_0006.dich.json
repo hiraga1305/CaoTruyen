@@ -1,0 +1,409 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 6,
+  "title": "Chương 6: Nhân quả khôn lường",
+  "total_paragraphs": 66,
+  "translated_paragraphs": 66,
+  "source_hash": "c4d1527a2851cb772a1eb390b146f38b0460912aa6e9f2b03e8419a2bbabaf3c",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0006p0001",
+      "index": 1,
+      "raw_zh": "第6章 因果難辨",
+      "translated_vi": "Chương 6: Nhân quả khôn lường"
+    },
+    {
+      "para_id": "c0006p0002",
+      "index": 2,
+      "raw_zh": "雲千峰眯著眼睛在電腦前忙碌著，薑柔甲則站在後面好奇的看他拚著那奇怪的地圖。",
+      "translated_vi": "Vân Thiên Phong nheo nheo đôi mắt bận rộn gõ phím trước màn hình máy tính, còn Khương Nhu Giáp thì đứng nép phía sau, tò mò dõi theo từng thao tác ghép nối tấm bản đồ kỳ lạ của hắn."
+    },
+    {
+      "para_id": "c0006p0003",
+      "index": 3,
+      "raw_zh": "就見雲千峰打開一副高清的世界地圖，把各大洲用修圖軟件截圖出來，然後以非洲板塊為核心，按照各大洲的自然邊沿線，拚圖似的開始排布起來，不一會就形成了一個整個輪廓好似臥牛的地圖。",
+      "translated_vi": "Chỉ thấy Vân Thiên Phong mở một tấm bản đồ thế giới độ phân giải cao, dùng phần mềm đồ họa cắt rời từng mảng châu lục ra, sau đó lấy mảng địa tầng châu Phi làm trung tâm, men theo đường viền tự nhiên của các châu lục mà bắt đầu sắp xếp như chơi trò ghép hình. Chẳng mấy chốc, một tấm bản đồ có hình thù tổng thể tựa như một chú trâu đang nằm phủ phục dần hiện ra."
+    },
+    {
+      "para_id": "c0006p0004",
+      "index": 4,
+      "raw_zh": "非洲居中，為牛肚腹；",
+      "translated_vi": "Châu Phi nằm ở chính giữa, chính là bụng trâu;"
+    },
+    {
+      "para_id": "c0006p0005",
+      "index": 5,
+      "raw_zh": "歐洲居南緊鄰非洲，為牛頸；",
+      "translated_vi": "Châu Âu nằm về phía nam sát cạnh châu Phi, là cổ trâu;"
+    },
+    {
+      "para_id": "c0006p0006",
+      "index": 6,
+      "raw_zh": "亞洲居最南，挨著歐洲，為牛頭；",
+      "translated_vi": "Châu Á nằm ở cực nam, tiếp giáp với châu Âu, là đầu trâu;"
+    },
+    {
+      "para_id": "c0006p0007",
+      "index": 7,
+      "raw_zh": "馬來印尼等依稀連著亞洲，為牛角；",
+      "translated_vi": "Mã Lai, Indonesia thoang thoáng nối liền với châu Á, tạo thành sừng trâu;"
+    },
+    {
+      "para_id": "c0006p0008",
+      "index": 8,
+      "raw_zh": "北美洲與格陵蘭島一體居非洲東側，為牛背；",
+      "translated_vi": "Bắc Mỹ cùng đảo Greenland liền thành một khối nằm ở bờ đông châu Phi, đóng vai trò lưng trâu;"
+    },
+    {
+      "para_id": "c0006p0009",
+      "index": 9,
+      "raw_zh": "南美洲、南極洲絡非洲北部尖角一體居北，為牛臀；",
+      "translated_vi": "Nam Mỹ, Nam Cực vòng quanh mỏm nhọn phía bắc châu Phi hợp thành một khối nằm ở hướng bắc, chính là mông trâu;"
+    },
+    {
+      "para_id": "c0006p0010",
+      "index": 10,
+      "raw_zh": "澳洲與南極洲相接，延伸入海居西，為牛尾；",
+      "translated_vi": "Châu Úc tiếp giáp với Nam Cực, vươn dài ra biển lớn nằm ở phía tây, hóa thành đuôi trâu;"
+    },
+    {
+      "para_id": "c0006p0011",
+      "index": 11,
+      "raw_zh": "印度板塊居於臀尾之間，為牛之谷道；",
+      "translated_vi": "Mảng kiến tạo Ấn Độ kẹp giữa mông và đuôi, vừa khéo là huyệt cốc đạo của trâu;"
+    },
+    {
+      "para_id": "c0006p0012",
+      "index": 12,
+      "raw_zh": "這個巨大陸地的四周皆為海洋。",
+      "translated_vi": "Bao bọc tứ bề dải đất mênh mông khổng lồ này đều là đại dương thăm thẳm."
+    },
+    {
+      "para_id": "c0006p0013",
+      "index": 13,
+      "raw_zh": "緊接著雲千峰又在西側海洋內畫了一個圈，上面標注三個字“大西洲”，大西洲被臥牛半圍，看似眾星捧月，但苦在近鄰印度板塊，恰如一坨牛糞。",
+      "translated_vi": "Ngay sau đó, Vân Thiên Phong lại vẽ thêm một vòng tròn giữa vùng biển phía tây, bên trên chú thích ba chữ \"Đại Tây Châu\". Đại Tây Châu được thân hình con trâu nằm nửa bao bọc, nhìn qua ngỡ như chúng tinh phủng nguyệt, ngặt một nỗi lại nằm ngay sát mảng Ấn Độ, trông chẳng khác nào một bãi phân trâu."
+    },
+    {
+      "para_id": "c0006p0014",
+      "index": 14,
+      "raw_zh": "最後，雲千峰把組合的圖形做了一下比例調整，讓各大洲板塊嚴絲合縫，打開了投影儀。",
+      "translated_vi": "Sau cùng, Vân Thiên Phong căn chỉnh lại tỷ lệ của hình khối vừa ghép, khiến mép các mảng lục địa khít rịt không chút kẽ hở, rồi bật máy chiếu lên."
+    },
+    {
+      "para_id": "c0006p0015",
+      "index": 15,
+      "raw_zh": "薑柔甲抬頭看向牆壁上的投影，眼睛亮了。",
+      "translated_vi": "Khương Nhu Giáp ngước mắt nhìn lên hình ảnh phản chiếu trên tường, đôi mắt cô sáng rực."
+    },
+    {
+      "para_id": "c0006p0016",
+      "index": 16,
+      "raw_zh": "“是這樣的，就是這樣的，你太了不起了，我哥哥的第二幅地圖就是這個形狀，這樣組合的地圖是做什麽用的？”",
+      "translated_vi": "\"Đúng như vậy, chuẩn xác là thế này! Anh cừ thật đấy, bức bản đồ thứ hai của anh trai tôi chính là hình dạng này. Một tấm bản đồ ghép lại kiểu này rốt cuộc dùng để làm gì?\""
+    },
+    {
+      "para_id": "c0006p0017",
+      "index": 17,
+      "raw_zh": "雲千峰看著牆壁上投影的地圖，吐了口氣，道：",
+      "translated_vi": "Vân Thiên Phong nhìn hình chiếu trên tường, thở hắt ra một hơi rồi nói:"
+    },
+    {
+      "para_id": "c0006p0018",
+      "index": 18,
+      "raw_zh": "“這張圖是德國地質學家阿爾弗雷德·魏格納通過大陸板塊形狀推測出來的地球原始地貌，叫盤古大陸；因為形如臥牛，所以也叫臥牛圖。",
+      "translated_vi": "\"Tấm bản đồ này là địa mạo nguyên thủy của Trái Đất do nhà địa chất học người Đức Alfred Wegener suy đoán dựa trên hình dáng các mảng kiến tạo lục địa, gọi là siêu lục địa Pangea; vì hình dáng giống hệt một con trâu đang nằm, nên nó cũng được gọi là bản đồ Ngọa Ngưu."
+    },
+    {
+      "para_id": "c0006p0019",
+      "index": 19,
+      "raw_zh": "某位“偉大”的外國強盜曾說過“臥牛圖不能帶你找到金銀財寶，但一定可以引領你找到神跡”，我想伱哥是想依靠這幅圖尋找神留下的痕跡。”",
+      "translated_vi": "Một tên cướp biển ngoại quốc 'vĩ đại' từng nói: 'Bản đồ Ngọa Ngưu không thể mang lại cho ngươi vàng bạc châu báu, nhưng nhất định có thể dẫn lối ngươi tìm đến vết tích thần linh'. Tôi nghĩ anh trai cô muốn dựa vào bức đồ hình này để kiếm tìm dấu tích mà thần linh để lại.\""
+    },
+    {
+      "para_id": "c0006p0020",
+      "index": 20,
+      "raw_zh": "說到這，雲千峰指著桌子上的三本書，道：",
+      "translated_vi": "Nói đoạn, Vân Thiên Phong chỉ tay vào ba cuốn sách đặt trên bàn, tiếp lời:"
+    },
+    {
+      "para_id": "c0006p0021",
+      "index": 21,
+      "raw_zh": "“之前我還不知道這三本書之間有什麽聯系，但是有了這幅地圖之後，我知道你哥哥為什麽主要查閱這三本書了。”",
+      "translated_vi": "\"Trước đó tôi vẫn chưa rõ ba cuốn sách này có mối liên hệ gì với nhau, nhưng sau khi có bức bản đồ này, tôi đã hiểu tại sao anh trai cô lại chủ yếu tra cứu ba cuốn này rồi.\""
+    },
+    {
+      "para_id": "c0006p0022",
+      "index": 22,
+      "raw_zh": "薑柔甲好奇問道：",
+      "translated_vi": "Khương Nhu Giáp tò mò gặng hỏi:"
+    },
+    {
+      "para_id": "c0006p0023",
+      "index": 23,
+      "raw_zh": "“星空和這幅圖有什麽關聯嗎？”",
+      "translated_vi": "\"Bầu trời sao với bức đồ hình này có can hệ gì với nhau sao?\""
+    },
+    {
+      "para_id": "c0006p0024",
+      "index": 24,
+      "raw_zh": "雲千峰點頭，道：",
+      "translated_vi": "Vân Thiên Phong gật đầu đáp:"
+    },
+    {
+      "para_id": "c0006p0025",
+      "index": 25,
+      "raw_zh": "“當然有關聯，但必須是一萬兩千年前的星空。在盤古大陸時代，地球是沒有赤道偏角的，黃道與赤道在一個平面上。",
+      "translated_vi": "\"Dĩ nhiên là có can hệ, nhưng phải là bầu trời sao của một vạn hai nghìn năm trước. Vào thời đại siêu lục địa Pangea, Trái Đất hoàn toàn không có góc nghiêng xích đạo, hoàng đạo và xích đạo nằm chung trên cùng một mặt phẳng."
+    },
+    {
+      "para_id": "c0006p0026",
+      "index": 26,
+      "raw_zh": "那時候織女星才是北極星，蒼龍、朱雀、白虎、玄武這四象星宿始終平穩的坐落在四方天邊，把整個星空分成了四個等份，各佔六區，也是二十四節氣的由來。",
+      "translated_vi": "Thời ấy sao Chức Nữ mới chính là sao Bắc Cực, bốn tượng tinh tú gồm Thương Long, Chu Tước, Bạch Hổ, Huyền Vũ trước sau đều an tọa vững vàng ở bốn góc chân trời, chia bầu trời thành bốn phần bằng nhau, mỗi phần chiếm sáu cung, đây cũng chính là nguồn gốc của hai mươi bốn tiết khí."
+    },
+    {
+      "para_id": "c0006p0027",
+      "index": 27,
+      "raw_zh": "彼時的文明，建造城池，埋葬墓地，當然也包括隱藏一些寶藏，都是利用四象星宿作為坐標，既有宗教意義，又能避免忘記丟失。",
+      "translated_vi": "Nền văn minh thuở ấy khi xây đắp thành trì, chôn cất lăng mộ, và tất nhiên là cả việc che giấu những kho báu bí mật, đều lấy Tứ Tượng tinh tú làm tọa độ. Vừa mang ý nghĩa tôn giáo sâu sắc, lại vừa tránh việc thất lạc hay lãng quên theo thời gian."
+    },
+    {
+      "para_id": "c0006p0028",
+      "index": 28,
+      "raw_zh": "你哥就是利用這一點，通過複盤古代的大陸格局和星空來尋找那些隱藏的神跡。這和盜墓賊通過風水反向推導墓葬位置是一個道理。風水堪輿術或許不科學，但是通過風水堪輿尋找墓葬，則一定是科學的。”",
+      "translated_vi": "Anh trai cô chính là tận dụng điểm này, phục dựng lại bố cục đại lục và bầu trời sao thời viễn cổ để tìm kiếm những vết tích thần linh đã bị chôn giấu. Đạo lý này chẳng khác nào những kẻ trộm mộ dựa vào thuật phong thủy để suy ngược ra vị trí hầm mộ. Phong thủy kham dư có thể không mang tính khoa học, nhưng việc dựa vào phong thủy kham dư để truy tìm lăng mộ thì chắc chắn tuyệt đối là khoa học.\""
+    },
+    {
+      "para_id": "c0006p0029",
+      "index": 29,
+      "raw_zh": "說到這，雲千峰站起身來到牆邊，用筆在臥牛圖西南下緣，也就是牛頭下部點了七個點，連成一條曲線，同時說道：",
+      "translated_vi": "Nói đến đây, Vân Thiên Phong đứng dậy bước lại gần vách tường, dùng bút chấm bảy điểm ở mép dưới phía tây nam bản đồ Ngọa Ngưu – tức phần dưới đầu trâu, rồi nối chúng lại thành một đường cong, đồng thời giải thích:"
+    },
+    {
+      "para_id": "c0006p0030",
+      "index": 30,
+      "raw_zh": "“上古時期，先民習慣用區域內最高山峰作為立地的指針，山尖與星宿兩點成線，延伸到地面形成坐標點。",
+      "translated_vi": "\"Thời thượng cổ, tiền nhân có thói quen chọn ngọn núi cao nhất trong khu vực làm kim chỉ nam cắm mốc trên mặt đất. Chóp núi cùng tinh tú nối thành một đường thẳng, kéo dài chiếu xuống mặt đất tạo thành điểm tọa độ."
+    },
+    {
+      "para_id": "c0006p0031",
+      "index": 31,
+      "raw_zh": "在史前盤古大陸時期，地圖這個位置便是現在的緬越之地，調轉地圖方向仔細看，它的位置與現在地圖幾乎一致，這也證明盤古大陸分崩離析之時，這裡受到的擠壓和撞擊極小，那麽本帕本山很大概率依舊是這裡的立地指針，這也是你哥標記本帕本山的原因。",
+      "translated_vi": "Vào thời kỳ siêu lục địa Pangea tiền sử, vị trí này trên bản đồ chính là dải đất Miến Việt ngày nay. Nếu xoay chuyển hướng bản đồ mà nhìn kỹ, vị trí của nó gần như trùng khớp với bản đồ hiện đại, chứng minh rằng khi siêu lục địa Pangea nứt vỡ tan rã, khu vực này chịu lực ép và va chạm địa tầng rất nhỏ. Như vậy, khả năng cao ngọn núi Bản Phách Bản vẫn giữ vai trò làm kim chỉ nam cắm mốc nơi đây, và đó cũng chính là lý do vì sao anh trai cô lại đánh dấu ngọn núi này."
+    },
+    {
+      "para_id": "c0006p0032",
+      "index": 32,
+      "raw_zh": "即便地質變遷，本帕本山已經不是這裡古往今來的立地指針，那也沒關系，你哥認為它是，那就足夠了，畢竟我們找的是你哥。",
+      "translated_vi": "Cho dù địa chất biến thiên khiến núi Bản Phách Bản không còn là kim chỉ nam từ xưa đến nay nữa, điều đó cũng chẳng sao cả. Chỉ cần anh trai cô nhận định nó chính là cột mốc, thế là đã quá đủ, bởi dẫu sao mục tiêu của chúng ta cũng là tìm anh ấy."
+    },
+    {
+      "para_id": "c0006p0033",
+      "index": 33,
+      "raw_zh": "而能以這麽高的山峰之巔做星宿連線，在當時這個位置，只有南方朱雀七宿有足夠的高度，我點的這七個點，正是朱雀七宿——井、鬼、柳、星、張、翼、軫在地面的小孔成像投影。”",
+      "translated_vi": "Còn việc lấy đỉnh núi chót vót như thế để nối với tinh tú, tại vị trí này vào thời bấy giờ, chỉ có phương Nam Chu Tước thất tú mới đủ độ cao. Bảy điểm tôi vừa chấm này, chính là ảnh chiếu qua lỗ kim xuống mặt đất của Chu Tước thất tú: Tỉnh, Quỷ, Liễu, Tinh, Trương, Dực, Chẩn.\""
+    },
+    {
+      "para_id": "c0006p0034",
+      "index": 34,
+      "raw_zh": "薑柔甲看到雲千峰點的那幾個點，激動道：",
+      "translated_vi": "Khương Nhu Giáp nhìn những điểm nối mà Vân Thiên Phong vừa chấm, kích động reo lên:"
+    },
+    {
+      "para_id": "c0006p0035",
+      "index": 35,
+      "raw_zh": "“我哥好像標記的就是這幾個位置。”",
+      "translated_vi": "\"Hình như anh trai tôi cũng đánh dấu đúng mấy vị trí này!\""
+    },
+    {
+      "para_id": "c0006p0036",
+      "index": 36,
+      "raw_zh": "看著小妮子一臉崇拜，雲千峰得意笑道：",
+      "translated_vi": "Trông cô nàng lộ rõ vẻ sùng bái ngập tràn, Vân Thiên Phong đắc ý cười nói:"
+    },
+    {
+      "para_id": "c0006p0037",
+      "index": 37,
+      "raw_zh": "“如果我猜的沒錯，這是一條路線圖，因為是小孔成像投影，所以天上尾頭地上頭尾，那麽正確路線大概率是從井宿而入，經鬼宿、柳宿、星宿、張宿、翼宿到達目的地軫宿，當然還要看地形才能最終確定。",
+      "translated_vi": "\"Nếu tôi đoán không lầm thì đây là một lộ trình di chuyển. Do nguyên lý ảnh chiếu qua lỗ kim bị đảo ngược, nên đầu đuôi trên trời sẽ biến thành đuôi đầu dưới đất. Như vậy tuyến đường chính xác nhiều khả năng sẽ bắt đầu từ Tỉnh tú, đi qua Quỷ tú, Liễu tú, Tinh tú, Trương tú, Dực tú rồi mới tới đích đến cuối cùng là Chẩn tú. Dĩ nhiên cụ thể ra sao vẫn phải đối chiếu với địa hình thực tế mới chốt lại được."
+    },
+    {
+      "para_id": "c0006p0038",
+      "index": 38,
+      "raw_zh": "現在需要找一個3D建模高手，把盤古大陸本帕本山位置和一萬兩千年前朱雀星宿位置複原，然後做精確的小孔成像投影，這樣我們就獲得了與你哥哥一樣的地圖”",
+      "translated_vi": "Hiện tại chúng ta cần tìm một cao thủ dựng mô hình 3D, phục nguyên lại vị trí núi Bản Phách Bản thời Pangea và vị trí của Chu Tước tinh tú một vạn hai nghìn năm trước, sau đó làm phép chiếu qua lỗ kim chuẩn xác. Làm như vậy, chúng ta sẽ có trong tay tấm bản đồ hệt như của anh trai cô.\""
+    },
+    {
+      "para_id": "c0006p0039",
+      "index": 39,
+      "raw_zh": "還沒等雲千峰話說完，薑柔甲立即開啟鈔能力，打電話找朋友高價雇傭了一個專門製作3D地圖APP的工作室，讓他們加班加點，務必用最快的速度，按比例盡可能精確的還原盤古大陸和史前星空。",
+      "translated_vi": "Còn chưa đợi Vân Thiên Phong dứt lời, Khương Nhu Giáp đã lập tức thi triển 'năng lực tiền tài', gọi điện thoại cho bạn bè chi đậm thuê ngay một studio chuyên dựng ứng dụng bản đồ 3D, yêu cầu bọn họ tăng ca thâu đêm suốt sáng, bằng mọi giá phải dùng tốc độ nhanh nhất phục dựng lại siêu lục địa Pangea và bầu trời sao tiền sử theo đúng tỷ lệ chuẩn xác."
+    },
+    {
+      "para_id": "c0006p0040",
+      "index": 40,
+      "raw_zh": "那可是自己哥哥用的地圖，有了地圖，就能去找他了！薑柔甲迫不及待。",
+      "translated_vi": "Đó là tấm bản đồ mà anh trai cô từng dùng, có bản đồ trong tay là có thể lên đường tìm anh ấy! Khương Nhu Giáp không thể chờ đợi thêm một giây phút nào nữa."
+    },
+    {
+      "para_id": "c0006p0041",
+      "index": 41,
+      "raw_zh": "處理好這件事，薑柔甲的眼裡終於見到了一絲絲歡快，她覺得自己真的很幸運，能夠找到雲千峰來幫自己。",
+      "translated_vi": "Thu xếp ổn thỏa chuyện này, trong mắt Khương Nhu Giáp rốt cuộc cũng le lói một tia phấn khởi. Cô thầm nghĩ bản thân thật sự vô cùng may mắn khi đã tìm được Vân Thiên Phong giúp đỡ."
+    },
+    {
+      "para_id": "c0006p0042",
+      "index": 42,
+      "raw_zh": "“雲千峰，你是個風水先生，怎麽會懂這些知識？真的讓我驚訝！”",
+      "translated_vi": "\"Vân Thiên Phong, anh rõ ràng là một thầy phong thủy, sao lại am tường những kiến thức này đến vậy? Quả thực làm tôi kinh ngạc quá chừng!\""
+    },
+    {
+      "para_id": "c0006p0043",
+      "index": 43,
+      "raw_zh": "雲千峰聳了聳肩，道：",
+      "translated_vi": "Vân Thiên Phong nhún vai đáp:"
+    },
+    {
+      "para_id": "c0006p0044",
+      "index": 44,
+      "raw_zh": "“就是要風水先生才能懂這些知識，學習先天八卦和後天八卦的關系，以及河圖和洛書的關系，必然要接觸到原始四象星空和先天大陸，這樣才能知其然且知其所以然。”",
+      "translated_vi": "\"Phải là thầy phong thủy mới hiểu sâu những thứ này đấy. Muốn thấu triệt mối quan hệ giữa Tiên Thiên Bát Quái và Hậu Thiên Bát Quái, cũng như sự tương quan giữa Hà Đồ và Lạc Thư, tất yếu phải tiếp xúc với bầu trời Tứ Tượng nguyên thủy và đại lục thuở hồng hoang. Có như vậy mới biết được ngọn ngành mà hiểu thấu căn nguyên.\""
+    },
+    {
+      "para_id": "c0006p0045",
+      "index": 45,
+      "raw_zh": "薑柔甲難得笑道：",
+      "translated_vi": "Khương Nhu Giáp hiếm hoi nở một nụ cười rạng rỡ:"
+    },
+    {
+      "para_id": "c0006p0046",
+      "index": 46,
+      "raw_zh": "“所以，我還是很幸運的，找到了你。”",
+      "translated_vi": "\"Thế nên, tôi vẫn là quá may mắn vì đã tìm thấy anh.\""
+    },
+    {
+      "para_id": "c0006p0047",
+      "index": 47,
+      "raw_zh": "雲千峰不置可否，道：",
+      "translated_vi": "Vân Thiên Phong chẳng mảy may bận tâm, thản nhiên buông một câu:"
+    },
+    {
+      "para_id": "c0006p0048",
+      "index": 48,
+      "raw_zh": "“按理說，你要是幸運，就不會遇到這種糟心事了，最多算是禍兮福所倚。”",
+      "translated_vi": "\"Nói đúng ra thì nếu cô mà thật sự may mắn, cô đã chẳng vướng vào cái mớ rắc rối phiền toái nhức đầu này, cùng lắm chỉ tính là trong họa có phúc mà thôi.\""
+    },
+    {
+      "para_id": "c0006p0049",
+      "index": 49,
+      "raw_zh": "薑柔甲翻了個白眼：",
+      "translated_vi": "Khương Nhu Giáp lườm nguýt một cái thật dài:"
+    },
+    {
+      "para_id": "c0006p0050",
+      "index": 50,
+      "raw_zh": "“你不是個合格的員工！”",
+      "translated_vi": "\"Anh đúng là một gã làm thuê chẳng đạt chuẩn chút nào!\""
+    },
+    {
+      "para_id": "c0006p0051",
+      "index": 51,
+      "raw_zh": "說到這，終於還是忍不住開心道：",
+      "translated_vi": "Nói đến đó, cô rốt cuộc vẫn không nén nổi niềm vui sướng mà reo lên:"
+    },
+    {
+      "para_id": "c0006p0052",
+      "index": 52,
+      "raw_zh": "“等到地圖做出來，就能去找我哥哥了，我現在很開心，雲千峰，我真的很開心！”",
+      "translated_vi": "\"Đợi đến khi bản đồ làm xong là có thể đi tìm anh trai tôi rồi. Bây giờ tôi vui lắm, Vân Thiên Phong à, tôi thực sự vui lắm!\""
+    },
+    {
+      "para_id": "c0006p0053",
+      "index": 53,
+      "raw_zh": "與薑柔甲的樂觀不同，雲千峰臉上寫滿了擔憂。",
+      "translated_vi": "Trái ngược hoàn toàn với vẻ lạc quan của Khương Nhu Giáp, nét mặt Vân Thiên Phong lại phủ kín nỗi ưu tư trĩu nặng."
+    },
+    {
+      "para_id": "c0006p0054",
+      "index": 54,
+      "raw_zh": "“雲千峰，你在擔心什麽？”",
+      "translated_vi": "\"Vân Thiên Phong, anh đang lo lắng điều gì thế?\""
+    },
+    {
+      "para_id": "c0006p0055",
+      "index": 55,
+      "raw_zh": "感受到雲千峰的情緒，薑柔甲禁不住詢問道。",
+      "translated_vi": "Cảm nhận được biến chuyển trong tâm trạng của Vân Thiên Phong, Khương Nhu Giáp không kìm được cất tiếng hỏi."
+    },
+    {
+      "para_id": "c0006p0056",
+      "index": 56,
+      "raw_zh": "雲千峰沉吟著，看著薑柔甲沉沉道：",
+      "translated_vi": "Vân Thiên Phong trầm ngâm giây lát, ánh mắt nhìn thẳng vào Khương Nhu Giáp, giọng nói trầm xuống:"
+    },
+    {
+      "para_id": "c0006p0057",
+      "index": 57,
+      "raw_zh": "“你有沒有想過一個問題，為什麽你的記憶完整保存了，沒有被篡改？如果某個力量要抹除你哥哥存在的證據，那麽首先第一目標就應該是改變你的記憶，但你的記憶卻完整保留了，這不是很奇怪嗎？”",
+      "translated_vi": "\"Cô đã bao giờ nghĩ đến một vấn đề này chưa: Tại sao ký ức của cô lại được bảo tồn nguyên vẹn mà không hề bị bóp méo hay sửa đổi? Nếu một thế lực nào đó muốn xóa sạch mọi dấu vết về sự tồn tại của anh trai cô, thì mục tiêu hàng đầu phải là sửa đổi ký ức của cô trước tiên. Thế nhưng ký ức của cô lại còn nguyên vẹn, chẳng phải điều này quá đỗi kỳ quặc sao?\""
+    },
+    {
+      "para_id": "c0006p0058",
+      "index": 58,
+      "raw_zh": "薑柔甲一愣，表情也開始凝重起來，疑慮開始爬滿那張俏臉。",
+      "translated_vi": "Khương Nhu Giáp ngẩn người, sắc mặt cô cũng dần ngưng đọng lại, những mối hoài nghi bắt đầu len lỏi khắp gương mặt thanh tú."
+    },
+    {
+      "para_id": "c0006p0059",
+      "index": 59,
+      "raw_zh": "“是啊，它甚至都能給秦疏影安排一個家庭一個假兒子，為什麽保留了我的記憶？秦疏影和她的兒子如果是這件事的BUG，那我就是更大的BUG啊！”",
+      "translated_vi": "\"Đúng vậy... nó thậm chí có thể an bài cho Tần Sơ Ảnh một mái ấm gia đình cùng một đứa con trai giả tạo, cớ sao lại giữ lại ký ức của tôi? Nếu Tần Sơ Ảnh và đứa con trai kia là một lỗi hổng của chuyện này, vậy thì tôi chính là một lỗi hổng còn to lớn hơn gấp bội!\""
+    },
+    {
+      "para_id": "c0006p0060",
+      "index": 60,
+      "raw_zh": "雲千峰沉思，道：",
+      "translated_vi": "Vân Thiên Phong trầm tư một lát rồi bảo:"
+    },
+    {
+      "para_id": "c0006p0061",
+      "index": 61,
+      "raw_zh": "“有沒有可能，抹除你哥哥存在的證據根本不是“它”要的果，而僅僅是“因”。”",
+      "translated_vi": "\"Liệu có khả năng nào, việc xóa sạch mọi chứng cứ về sự tồn tại của anh trai cô vốn dĩ không phải là cái 'quả' mà 'nó' nhắm tới, mà vẻn vẹn chỉ là cái 'nhân'?\""
+    },
+    {
+      "para_id": "c0006p0062",
+      "index": 62,
+      "raw_zh": "薑柔甲聽到這話，露出愈加不解的表情，她看著雲千峰，滿眼的詢問。",
+      "translated_vi": "Nghe đến đây, Khương Nhu Giáp lộ rõ vẻ mù mờ không hiểu. Cô nhìn trừng trừng vào Vân Thiên Phong, trong mắt ngập tràn câu hỏi."
+    },
+    {
+      "para_id": "c0006p0063",
+      "index": 63,
+      "raw_zh": "雲千峰思索片刻，道：",
+      "translated_vi": "Vân Thiên Phong suy ngẫm giây lát rồi phân tích:"
+    },
+    {
+      "para_id": "c0006p0064",
+      "index": 64,
+      "raw_zh": "“下棋講究走一步看三步，一步棋目的是下一步棋，會不會你才是“它”的真正目的，保留你的記憶，就是為了有你去尋找你哥哥這個果？如果是這樣，你還敢去找你哥哥嗎？”",
+      "translated_vi": "\"Đánh cờ coi trọng việc đi một nước tính ba nước, mục đích của nước cờ này là để dọn đường cho nước cờ kế tiếp. Liệu có khi nào cô mới chính là mục tiêu thực sự của 'nó', giữ lại ký ức của cô cốt là để sinh ra cái quả 'cô dấn thân đi tìm anh trai'? Nếu đúng như thế, cô còn dám đi tìm anh trai mình nữa không?\""
+    },
+    {
+      "para_id": "c0006p0065",
+      "index": 65,
+      "raw_zh": "這個猜測讓薑柔甲很震驚，甚至有著濃濃的恐懼，但她依舊毫不遲疑的點頭，道：",
+      "translated_vi": "Phán đoán này khiến Khương Nhu Giáp bàng hoàng kinh hãi, trong lòng dấy lên nỗi sợ hãi tột cùng. Thế nhưng không chút chần chừ, cô vẫn kiên định gật đầu quả quyết:"
+    },
+    {
+      "para_id": "c0006p0066",
+      "index": 66,
+      "raw_zh": "“會！再大的坑我也會跳下去！”",
+      "translated_vi": "\"Có chứ! Dù phía trước có là hố sâu vạn trượng, tôi cũng nhất quyết nhảy xuống!\""
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0280|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一道|một luồng
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §66):
+§1 280.第280章 冷靜的瘋子
+§2 第280章 冷靜的瘋子
+§3 [Ø=云千峰]雲千峰睡得並不安生，總覺得心裡膈應著什麽，惴惴不安。
+§4 天亮後是一個豔陽天。
+§5 [Ø=云千峰]沒有了雨水匯聚的河流，也沒有之前留在河底的淺沙，世界變成了只有綠色。
+§6 [Ø=云千峰]雲千峰走出破觀大門，看著晴朗悶熱的天氣，陷入沉思之中。
+§7 “不引路了嗎？呵”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 [Ø=云千峰]突然他似乎想通了什麽，嘴角翹起一絲冷笑，轉身形回到了破道觀之中，竟然不走了。
+§9 [Ø=云千峰]熱好了駱駝肉，吃飽了早餐，倒在地上睡回籠覺。
+§10 [Ø=云千峰]此刻，某處。
+§11 一個雍容華貴的女人正在窗前看著窗外的枝繁葉茂。
+§12 [Ø=云千峰]那異常柔軟，叫小蟾的女人走進屋來低聲道：
+§13 [Ø=云千峰]“主人，他不走了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§14 [Ø=云千峰]窗前雍容之人很明顯背影一頓，竟是愣了一下。
+§15 隨後淡淡道：
+§16 [Ø=云千峰]“果然，能走到這一步的，都不會是凡夫俗子， [||] 既然他看懂了，那就不用等到明天了，現在就去帶著他拿到東西，速速離開吧。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 小蟾低聲道：
+§18 [Ø=云千峰]“主人，若是他看懂的更遠，拒絕一些事情，甚至小蟾怕不是他的對手。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 更遠的是什麽？自然是那句“留不得”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]。
+§20 [Ø=云千峰]那雍容之人也不回頭，而是緩緩搖頭道：
+§21 [Ø=云千峰]“他既然懂了，就知道你是我的人，不敢對你怎樣， [||] 你放心去吧，他會跟從你完成所有的步驟，因為他有必須去救的人，帝嚳早已算死他。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 小蟾這才轉身出去。
+§23 [Ø=云千峰]雲千峰並沒有真的睡著，遠遠的聽到了腳步聲靠近，就懶洋洋的坐起來， [||] 背靠著神龕，抽出一根煙來點燃，看著門口的佳人。
+§24 [Ø=云千峰]挺拔不及第一夜那人，玲瓏不及昨夜之人，但是這柔軟起伏卻遠勝之前二人。
+§25 [Ø=云千峰]眼看門口佳人要開口說話，雲千峰當先一句把她的話堵回去：
+§26 [Ø=云千峰]“當年你們也是這樣招待周穆王的？一天一女，所謂三天？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 [Ø=云千峰]小蟾點了點頭，恭敬道：
+§28 “是的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 [Ø=云千峰]雲千峰吐了個煙圈，笑道：
+§30 [Ø=云千峰]“那看來，你們是把我當成王的級別來待遇的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=云千峰]小蟾表情不卑不亢，但聲音裡帶著與生俱來的倨傲，道：
+§32 [Ø=云千峰]“蚩尤本也算王，當得這樣的款待。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 “卓瑪也是你們的姐妹嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 [Ø=云千峰]“是的，但她是信使，非特殊原因不得歸瑤池。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 “我這次看來是見不到你家主人了？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 [Ø=云千峰]“是的，主人金口玉言說了，不會見你。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 [Ø=云千峰]雲千峰緩緩點了點頭，見小蟾又要開口說話，[Ø_SHIFT=姜柔甲]急忙一嘴又給堵了回去，道：
+§38 “為什麽不是人身蛇尾？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 [Ø=姜柔甲]小蟾又把剛要說的話咽了回去，但臉上已是極不耐煩，畢竟誰被打斷幾次要說的話， [||] 都會很不爽，尤其看得出對方是故意的，於是小蟾冷冷道：
+§40 “體內有兩套基因。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 [Ø=姜柔甲]雲千峰直接以命令的口氣，道：
+§42 “變人身蛇尾！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 [Ø=姜柔甲]小蟾微微仰臉，冷笑道：
+§44 “小蟾不想。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§45 [Ø=姜柔甲]雲千峰冷冷的看著小蟾，幾乎是在牙縫裡擠出聲音，道：
+§46 [Ø=姜柔甲]“我再說一遍，變人身蛇尾！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§47 [Ø=姜柔甲]此時的雲千峰，如此長時間來被算計的怒火，已經有些壓抑不住。
+§48 [Ø=姜柔甲]你算計我可以，要算死我也行，但你不能一邊算計我， [||] 還叫人三番兩次來教育自己，還必須讓我敬仰你並且甘心情願去被算計，那辦不到。
+§49 [Ø=姜柔甲]而且對方連主人家見一面都省了，這依舊意味著，對方算計自己，但在對方眼裡， [||] 自己連個開席的涼菜都算不上，根本不在對方眼裡，這種倨傲，更成了雲千峰憤怒的導火索。
+§50 [Ø=姜柔甲]對方既然面子裡子全都要給自己刮乾淨，那雲千峰就先把對方的臉面扯下來！
+§51 [Ø=姜柔甲]小蟾不出聲，就那麽微微仰著臉看著雲千峰，目光沒有絲毫退縮。
+§52 “唰！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§53 [Ø=姜柔甲]身著黑甲的雲千峰上一秒還懶洋洋的背靠著神龕，下一秒已經化成一道[M1:một luồng]黑影，速度極快的貼著地皮來到了門口處。
+§54 [Ø=姜柔甲]這動作驚得小蟾一跳，還沒等反應過來，就聽“啪”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]的一聲脆響。
+§55 [Ø=姜柔甲]小蟾臉上結實的挨了一巴掌，摔倒進門口。
+§56 [Ø=姜柔甲]雲千峰站在小蟾旁，居高臨下，冷笑道：
+§57 [Ø=姜柔甲]“我不介意弄死你，讓她換個人來和我辦事。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§58 [Ø=姜柔甲]小蟾聲音眼中顯出驚慌，急道：
+§59 “你敢！我可是娘娘的人。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§60 雲千峰冷笑道：
+§61 “你以為我為什麽打你？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§62 小蟾瞬間懂了。
+§63 [Ø=姜柔甲]眼前這貨看得的確夠遠，什麽都看懂了， [||] 所以現在是發瘋呢，如果自己不照辦，估計對方真的敢弄死自己當墊背。
+§64 [Ø=姜柔甲]打狗看主人，這就是打給主人看的。
+§65 [Ø=姜柔甲]對於蚩尤幾乎滿身的人，小蟾那點能耐，還真不是雲千峰對手。
+§66 [Ø=姜柔甲]而且就那速度，估計跑也是跑不掉的。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 66 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§66. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

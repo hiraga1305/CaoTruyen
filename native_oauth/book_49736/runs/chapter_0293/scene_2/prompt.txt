@@ -1,0 +1,94 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0293|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Nơi này chính là tổng bộ của Thạch Tượng Hội.
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|六道|sáu luồng
+M2|六道|sáu luồng
+M3|六道|sáu luồng
+M4|六道|sáu luồng
+M5|六道|sáu luồng
+M6|一座|một tòa
+M7|六道|sáu luồng
+M8|六道|sáu luồng
+M9|六道|sáu luồng
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §45):
+§1 [Ø=云千峰]其內密室之中，七個人正在密談，他們正是最高33號往下七人，可以說是石匠會的最核心。
+§2 28號道：
+§3 [Ø=云千峰]“我們潛伏在THE ONG的密探傳來消息，有人在給進入十八層地獄的雲千峰送去工兵鏟等物品，這很詭異， [||] 可我們的密探打聽不到更多，現在我懷疑十八層內藏有重寶，因為YHE ONE正在尋找最優秀的人選進入十八層地獄，他們可是無利不起早的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§4 [Ø=云千峰]“工兵鏟？這定然是挖掘所用，藏寶可能性極大，會不會是六道[M1:sáu luồng]盤？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§5 [Ø=云千峰]“極有可能，雖然我們的記憶一再被影響，但巨石硬盤是不會受到影響的， [||] 石刻上記載六道[M2:sáu luồng]盤自巫族敗後丟失，連帝嚳都尋不到，如今看來，藏在十八層非常可能。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§6 [Ø=云千峰]“必須阻止他們，而且我們要得到六道[M5:sáu luồng][M4:sáu luồng][M3:sáu luồng]盤，一旦有了六道[M5:sáu luồng][M4:sáu luồng][M3:sáu luồng]盤， [||] 我們就有可能反攻搶得全知之眼，六道[M5:sáu luồng][M4:sáu luồng][M3:sáu luồng]輪回，天堂地獄，那是我們的！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§7 [Ø=云千峰]“對，必須搶回全知之眼，九屠控制全知之眼，說白了就是帝嚳一人控制， [||] 這是非常可怕且不被允許的，必須按照我們的方式控制，以真正的大腦議會控制，才能實現公平。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 [Ø=云千峰]“找人去不難，可是怎麽才能萬無一失呢？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§9 [Ø=云千峰]“我有一計，或許可行。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§10 “說來一聽。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=云千峰]“有一人與雲千峰頗熟，且與雲千峰共患難過， [||] 但是倆人後來卻無交集，彼此算不上很了解，其名為薑柔甲”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§12 @@@@@@@@@
+§13 某陰暗之地。
+§14 似乎是地下深處的洞穴。
+§15 瑪肆科面前是一個嫵媚的女人。
+§16 [Ø=云千峰]這女人皮膚是綠色，帶著一條細長且帶著箭矢一樣尖頭的尾巴，非常鋒利。
+§17 [Ø=云千峰]女性的蜥蜴人，都是這種異樣的美。
+§18 [Ø=云千峰]可以說，蜥蜴人這個種群，有的時候真的很像傳說中的阿修羅。
+§19 [Ø=云千峰]“你們薩弱大人和我山神一族談好了合作，結果她卻消失了，現如今有大事發生，你們誰能做主？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§20 [Ø=云千峰]“瑪肆科先生不要焦急，我們已經在小日子的島上準備了大型的祭祀活動，以最大的一座[M6:một tòa]城， [||] 喚醒我們的祖先，所有的守望者，到時候自然有人做主。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 瑪肆科急忙問道：
+§22 “還要多久？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 那美麗的女蜥蜴人思索道：
+§24 “大約還需要九個月時間才能準備好。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 瑪肆科搖頭道：
+§26 [Ø=云千峰]“完全來不及，必須現在就動手才行。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 那女蜥蜴人疑惑道：
+§28 “到底是什麽事如此急迫？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 瑪肆科低聲道：
+§30 [Ø=云千峰]“根據我散布在各處的密探傳來消息，六道[M7:sáu luồng]盤很可能就藏在全知之眼內的第十八層地獄。
+§31 石匠和THE ONE都在準備派人進入其中奪取。
+§32 [Ø=云千峰]我希望你們能明白，掌控全知之眼，只能讓人類悍不畏死，但人類孱弱， [||] 這並不足懼，可如果人類獲得了六道[M8:sáu luồng]盤，無論是哪一方獲得，那麽人類之中將出現極為可怕的悍不畏死的強大生物。
+§33 [Ø=云千峰]回憶一下巫族的可怕吧！當時若不是二百守望者，全部山神一族和全部蜥蜴人合作， [||] 誰能打敗他們？到時候就算是剩下的一百九十九個守望者全都回來，想要贏取勝利，怕是也難上加難。”
+§34 [Ø=云千峰]那女蜥蜴人沉思半晌，道：
+§35 [Ø=云千峰]“瑪肆科先生你說得對，不能讓他們獲得六道[M9:sáu luồng]盤，無論是誰都不行，我們需要怎麽做？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 瑪肆科道：
+§37 [Ø=云千峰]“山神一族是進不了全知之眼的，我們的神軀不允許，但你們可以。我有一計可保成功。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 女蜥蜴人忙道：
+§39 “瑪肆科先生請講。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 瑪肆科低聲笑道：
+§41 [Ø=云千峰]“人不會提防的只有身邊的人，這是人性。我們需要找一個雲千峰熟悉的人，警告他小心the one和石匠會的陰謀， [||] 以此破壞兩家的謀算，再讓這個人毀掉全知之眼內雲千峰的意識，如此便能萬全。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§42 女蜥蜴人沉思道：
+§43 “瑪肆科先生認識這樣的人？他會聽我們的殺死雲千峰？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 瑪肆科低聲陰笑道：
+§45 [Ø=云千峰]“可以造假，我認識一人剛好適合，她與雲千峰頗熟， [||] 一起患難，有真情在，但彼此又不是非常了解，其名為薑柔甲”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 45 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§45. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

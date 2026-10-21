@@ -1,0 +1,88 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0249|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §49):
+§1 249.第249章 一拜天地
+§2 第249章 一拜天地
+§3 [Ø=云千峰]“《山海經·海內西經》記載“貳負之臣曰危，危與貳負殺窫窳”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]，窫窳是一位蛇身人面的天神，與天帝感情非常深厚。
+§4 [Ø=云千峰]於是天帝將貳負與危並殺，並令巫彭、巫抵，巫陽、巫履、巫凡、巫相六大巫以不死藥救治窫窳。
+§5 這浮雕上記載的應該就是這個傳說。
+§6 [Ø=云千峰]由此看來，傳說六芒星有溝通地獄的能量， [||] 並不是空穴來風，畢竟要死人復活，就要在地獄把靈魂拽出來。
+§7 [Ø=云千峰]也正是這次不死藥救治窫窳失敗，才使得天帝將不死藥交付於西王母掌管，而不再是六巫分別掌管。”
+§8 [Ø=云千峰]說到這的時候，雲千峰心裡卻在思考另外一個不解之事。
+§9 [Ø=云千峰]這個傳說裡的天帝自然不是帝嚳，而應該是黃帝，黃帝之時女閻羅星的人來到地球了嗎？如果他們那時候沒來， [||] 這黃帝時的巫代表著什麽？如果黃帝時女閻羅人已經來到了地球，那麽就證明巫族和黃帝合作過，這裡面很明顯有著矛盾之處。
+§10 [Ø=云千峰]“巫這個字眼，大有深意，絕不是簡答一個名詞，也不會是簡單的一個巫族能夠解釋的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 這是雲千峰最後的結論。
+§12 [Ø=云千峰]琳達因為基因歷史限制，只能聽雲千峰忽悠，因為自己連辯駁的依據都沒有，只能好奇的問道：
+§13 “六巫就是在這裡救治窫窳的嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§14 [Ø=云千峰]雲千峰搖頭，笑道：
+§15 [Ø=云千峰]“絕無可能！在這裡看到應龍不奇怪，看到女魃也不奇怪， [||] 但見到六芒星和六巫，這就很奇怪。因為哪怕是在盤古大陸，世界屋脊的文明也不可能輻射到南極的位置。
+§16 [Ø=云千峰]所以這幅浮雕出現在這裡，一定另有所指，或許進去這扇門，我們就能夠找到答案了。”
+§17 [Ø=云千峰]說著，深吸一口氣，把腿躲在一扇石門後，用右臂推開另一扇石門。
+§18 這樣可以保護自己的弱點雙腿不被突然襲擊。
+§19 [Ø=云千峰]然而門剛一推開，雲千峰就徹底驚呆了。
+§20 琳達更是驚得流了口水都忘了擦。
+§21 [Ø=云千峰]因為就在門打開那一瞬間，門內響起了嗩呐的高亢聲響。
+§22 吹奏的還是婚禮進行曲。
+§23 [Ø=云千峰]這荒山野嶺的，這誰能不驚。
+§24 [Ø=云千峰]不止於此，當婚禮進行曲響起來幾秒鍾後，裡面傳來了呵罵聲：
+§25 “吹什麽呢你？這是中式婚禮！換曲子！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§26 [Ø=云千峰]裡面嗩呐聲“滴啦啦”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]一轉，變成了妹妹你大膽的往前走。
+§27 [Ø=云千峰]裡面又罵：“迎的新郎，你特麽吹什麽妹妹往前走！換！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 [Ø=云千峰]嗩呐再次嘟嚕嚕一轉，換成了百鳥朝鳳。
+§29 這一下就對味兒了。
+§30 [Ø=云千峰]“吱嘎”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]一聲，石門被從內敞開。
+§31 [Ø=云千峰]就見石門內火把簇簇，把整個寬敞的石頭大廳照得火紅通亮。
+§32 [Ø=云千峰]石廳內，席地擺著很多包裝的吃喝。
+§33 [Ø=云千峰]有罐頭，有雞爪，有水果，還有白酒。
+§34 [Ø=云千峰]十幾個人有吹嗩呐的，有用巴掌拍石頭打節奏的，還有圍在中間跳舞的，非常喜慶。
+§35 [Ø=云千峰]開門倆人見到雲千峰後，展顏一笑，大聲朝裡喊道：
+§36 “新郎到！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 [Ø=云千峰]然後看到了雲千峰身後的琳達，眉毛一皺，高聲道：
+§38 “伴娘也特麽有了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 [Ø=云千峰]雲千峰都懵了，心討：
+§40 “這什麽情況？這是陷阱嗎？那這陷阱可比鴻門宴高端多了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 [Ø=云千峰]他眼睛掃過那些人，其中四個他在那張燒毀了一半的照片裡見過。
+§42 “他們就是那群來殺我的人！但是現在這是幹嘛？他們要做什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 “為什麽他們的眼神透露的都是真實的開心和歡喜？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 [Ø=云千峰]“為什麽他們看到我，都是那種熟悉到不能更熟悉的目光？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§45 “新郎？誰是新郎？我？新娘是誰？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§46 [Ø=云千峰]雲千峰發現，自己回答不了任何一個心中疑問。
+§47 他從未如此懵逼過！
+§48 [Ø=云千峰]石廳最深處，應該是一處祭台，但是很顯然被這些人當成了舞台。
+§49 [Ø=云千峰]祭台上有一個玉石屏風擋著，那玉石屏風極漂亮， [||] 通體潔白，沒有一絲雜質，上面雕著清池與蓮花。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 49 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§49. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

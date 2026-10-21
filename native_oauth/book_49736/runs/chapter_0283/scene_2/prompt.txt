@@ -1,0 +1,86 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0283|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Cửu Đồ đã hiệu chỉnh xong các thiết bị của hội đồng đại não.
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|六道|sáu luồng
+M2|六道|sáu luồng
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §44):
+§1 [Ø=云千峰]這東西挺麻煩，需要九個人先帶上設備，利用儀器調整彼此的腦接收頻段， [||] 九人大腦接收頻段與全知之眼一致後，才敢打開開關，進入全知之眼。
+§2 [Ø=云千峰]九人坐在各自的位置上，戴好了頭盔，下一秒齊齊出現在雲千峰不久前所處的巨石大殿。
+§3 [Ø=云千峰]他們出現的位置，剛好就是那十個石頭座位。
+§4 [Ø=云千峰]正如其中那個九屠所說，他有兩個人格，此刻十個座位恰好坐滿。
+§5 [Ø=云千峰]十個人互相望向彼此，隨後都長長吐了口氣，會心一笑。
+§6 邋遢老道仰天歎道：
+§7 [Ø=云千峰]“帝，真前無古人後無來者！一切都在帝的預料之中，今日六道[M1:sáu luồng]重啟， [||] 便是守望者盡出，太陽系進入銀河霧區，也別想斷我人族火種！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 旁邊一人道：
+§9 [Ø=云千峰]“是啊，從此以後，只需守住月球南山，便再也沒有擔憂。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§10 “咱們現在開啟六道[M2:sáu luồng]大門嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=云千峰]“先不急，先把雲千峰的意識記憶誅滅再說。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§12 “卻是該如此。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 [Ø=云千峰]邋遢老道在座位上擺弄了一下，那些雕刻竟然還是一些東西的開關。
+§14 一團立體的光霧出現在他們面前。
+§15 邋遢老道聲控道：
+§16 “在天堂搜索雲千峰的位置。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 [Ø=云千峰]那光團內景象快速變換，有亭台樓閣，有流水潺潺。
+§18 [Ø=云千峰]其內場景轉換越來越快，直到視線完全無法捕捉，只剩下七色的線如亂麻。
+§19 [Ø=云千峰]不多時，光團內的景象靜止，隨後一個聲音響起：
+§20 “無此人。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 邋遢老道一愣：
+§22 “不在天堂？那混小子能去哪？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 [Ø=云千峰]“估計是不識字，進錯了地方，咱們搜搜其它地方吧。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 [Ø=云千峰]幾個人都開始手動起來，十個石椅前，十個光團，裡面都是場景急速變換。
+§25 “無此人。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§26 “無此人。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 “無此人。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 “.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 “目標已確認定位！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§30 [Ø=云千峰]九個人，十個魂全都驚呆了！
+§31 面面相覷久久難言。
+§32 “他他他去了地獄十八層！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 [Ø=云千峰]“怎麽可能？誰會那麽傻，有天堂不去！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 [Ø=云千峰]“可他已經去了，難道他也知道全知之眼的一些秘辛？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 [Ø=云千峰]“他若是知道全知之眼的秘辛，那麽他去地獄十八層，就是猜到了我們要殺他。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 [Ø=云千峰]“混帳！自巫族創此物，地獄十八層便是有去無回的無間地獄，誰敢進去殺他？去了就回不來！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 [Ø=云千峰]“我覺得大家也別著急，換個角度講，有去無回之地，他生與死又能如何呢？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 [Ø=云千峰]“凡事都有萬一，別人去了十八層有去無回，但他雲千峰未必，蚩尤和全知之眼可全在他的身上， [||] 他的意識才是真正的這裡的主人，我們最多算是CEO，他可是董事長，不，他一個人就是整個董事會！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 [Ø=云千峰]“那現在怎麽辦？我們若是進去殺他，便永遠困在無間之內，誰來執行帝的大局？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 [Ø=云千峰]“我們不能去，要找死士！”[Q1:云千峰->姜柔甲|state:HOSTILE_SHIFT|tone:sát phạt, dứt khoát]
+§41 “找誰？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§42 [Ø=云千峰]“想要雲千峰死的人太多了，總會找到的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 [Ø=云千峰]說著，九人十魂齊齊惱火卻又無可奈何的看向地獄十八層的光幕，雲千峰此時很忙。
+§44 忙的不亦說乎。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 44 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§44. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

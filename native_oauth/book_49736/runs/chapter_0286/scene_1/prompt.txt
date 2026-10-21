@@ -1,0 +1,84 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0286|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §45):
+§1 286.第286章 三角形與光
+§2 第286章 三角形與光
+§3 [Ø=云千峰]“你是不是楊玉環？不是就不是，是就是，你臉紅脖子紅什麽意思？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§4 [Ø=云千峰]楊玉奴咬著下嘴唇，不想回答， [||] 還不敢不回答，聲音如蚊，道：
+§5 “環環是是聖人形容妾身體態豐滿之意.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§6 [Ø=云千峰]雲千峰這才明白，原來這個楊玉環的這個稱呼是這麽來的。
+§7 後人算是完全搞錯了。
+§8 環者豐也。
+§9 [Ø=云千峰]751年，唐朝與大食打仗，結果戰敗了， [||] 有個姓杜的倒霉孩子成了俘虜，他在大食停留十多年後，返回大唐，將那十多年大食經歷著作成書《經行記》。
+§10 他在書描寫大食女性時是這樣形容的:
+§11 [Ø=云千峰]“其士女環偉長大，衣裳鮮潔， [||] 容止閑麗，女子出門，必擁蔽其面。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§12 [Ø=云千峰]這裡，環字就是形容那裡女人的身材前有峰巒後有高山。
+§13 [Ø=云千峰]所以，楊玉環這個稱呼的含義，不言而喻。
+§14 人家真不是胖。
+§15 [Ø=云千峰]雲千峰現在心思可沒在這個上面，而是思討正事。
+§16 [Ø=云千峰]“楊貴妃死於公元756年，史書記載，她死後日有食！難道全知之眼在日食的時候，會自發啟動收納死去的人的意識和記憶嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 [Ø=云千峰]“不，不可能，如果是這樣， [||] 日食每隔一年半就會在不同地點出現一次，那這地獄早就人滿為患了，怎麽會如此蕭條。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§18 [Ø=云千峰]想到這，他在礁石上用指揮刀開始刻畫。
+§19 [Ø=云千峰]先畫出了馬嵬驛的位置，又畫出了野人山的位置，隨後看著右側空白處沉思：
+§20 [Ø=云千峰]“獸頭是引魂的裝置，全知之眼是容納意識數據的裝置， [||] 全知之眼在野人山，獸頭在扭曲島上，大概位置是在這裡。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 [Ø=云千峰]隨後他做了定位，發現馬嵬驛、野人山和扭曲島，三者差不多是等邊三角形。
+§22 [Ø=云千峰]“也就是說，只有古馬嵬驛日食的時候，才會有那裡死去人的意識記憶被引進全知之眼， [||] 一個位置發生日全食，大約三百年才能遇到一次，這就比較合乎此地的蕭條景象。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 [Ø=云千峰]雲千峰不敢確定，但覺得這個可能性比較大。
+§24 [Ø=云千峰]“等邊三角形，日食，引魂， [||] 等邊三角形和無光，這才是裡面必須的條件，無光和等邊三角形與全知之眼和蚩尤之間，有著什麽關聯？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 [Ø=云千峰]雖然他暫時想不通，但卻已經把這兩個信息記在心底，等到再有發現時，或許就能找到其含義。
+§26 雲千峰很清楚一件事。
+§27 [Ø=云千峰]這裡是女閻羅文明創造的儲存空間，也可以稱之為虛擬的數據世界，那麽便一定有固定的規律，也就是這裡的天道。
+§28 [Ø=云千峰]無論是為了以後出去，還是在這裡活的更好， [||] 還是未來掌控這裡，他必須找到這裡的道，那樣才能徹底掌控這個世界。
+§29 [Ø=云千峰]掌控了這裡，等於掌控了一切。
+§30 [Ø=云千峰]生死大事，一人之言，沒人會不覬覦這種Q力，雲千峰也不能免俗。
+§31 [Ø=云千峰]眼看在楊貴妃這裡榨不到更多有用的信息，於是雲千峰伸個懶腰，準備繼續出發尋找綠島。
+§32 [Ø=云千峰]“行了，我得走了，這裡風大陰冷，不舒服。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 [Ø=云千峰]說著，站起身，就要往滿是鯊魚背的海裡去。
+§34 楊玉奴急道：
+§35 “郎君欲往何處？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 雲千峰指著礁石旁一根還帶著綠葉的樹枝道：
+§37 [Ø=云千峰]“去找這個綠島，總不能在這不毛的礁石上生活吧？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 [Ø=云千峰]說著，腳已經踩進了海水之中。
+§39 [Ø=云千峰]沒有九屠窺伺，雲千峰可不在意被個魂兒看到自己的強大。
+§40 [Ø=云千峰]當下一腳把竄過來的鯊魚踢飛出水面，直接腦袋開瓢，血殷了海水一片，頓時被其它鯊魚搶食。
+§41 [Ø=云千峰]楊玉奴看到這一幕，眼睛登時一亮。
+§42 [Ø=云千峰]就這樣的能耐，在地獄那也是鬼雄，一樣過好日子啊！
+§43 自己留在這裡能乾嗎？等待靜止繼續遭罪？還是跳海裡再死一次？
+§44 [Ø=云千峰]好死不如賴活著！而且憑著自己對男人的手段，還有自己這傾城容貌，怎麽也不可能賴活不是？
+§45 當下急忙跪伏高喊：
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 45 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§45. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

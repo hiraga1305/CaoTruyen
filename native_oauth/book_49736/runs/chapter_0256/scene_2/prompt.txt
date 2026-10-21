@@ -1,0 +1,86 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0256|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Dứt lời, cô nàng khẽ kẹp hai chân vào bụng ngựa, con tuấn mã lập tức tung vó phi nước đại.
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一座|một tòa
+M2|一座|một tòa
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §44):
+§1 [Ø=云千峰]青色的草原，旁邊是月下銀色鱗紋的湖泊，清風帶著草香，讓第一次來到雪區腹地的雲千峰感慨這裡的美是如此大氣。
+§2 [Ø=云千峰]在路上，還能看到在月色下三步一拜，九步一叩首的人， [||] 這些就是去岡壬山朝聖的信徒，他們有的甚至自千裡之外而來，但一路上就是這樣三拜九叩而來。
+§3 [Ø=云千峰]雲千峰坐在馬背上，用手臂環著那大姑娘得腰穩著身形， [||] 因為高原反應，剛才跳腳那一用力，讓他現在還有些喘。
+§4 [Ø=云千峰]“喂，你別吹的耳根子，很癢地嘛！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§5 [Ø_SHIFT=姜柔甲]雲千峰急忙偏過臉去，朝著側面喘。
+§6 [Ø=姜柔甲]十幾分鍾後，才算把氣喘勻乎。
+§7 [Ø=姜柔甲]之前他一路開車疾馳，精神專注，所以沒有感受到稀薄氧氣的痛苦。
+§8 [Ø=姜柔甲]此時馬上就要到岡壬山，精神一松，這種無力的痛楚才彌漫全身。
+§9 [Ø=姜柔甲]而當那痛苦很明顯的時候，雲千峰身上青麟的紋理出現， [||] 面部在人獸之間快速的轉換，似乎蚩尤甲急著保護他，好在這騎馬的姑娘一直沒有回頭看。
+§10 [Ø=姜柔甲]還別說，這樣隱現了幾次，雲千峰那種呼吸困難的感覺完全消除，鼻孔之中全是清香的舒坦。
+§11 [Ø=姜柔甲]別人需要吃藥，甚至躺上幾天才能緩過來的高原反應，雲千峰幾分鍾便徹底適應了。
+§12 馬匹來到了一座[M1:một tòa]掛滿了經幡的寺廟前。
+§13 [Ø=姜柔甲]廟不大，但是看起來非常古老。
+§14 [Ø=姜柔甲]這不是破舊，而就是那種帶著歲月的滄桑感。
+§15 [Ø=姜柔甲]在廟後，是一座[M2:một tòa]光禿禿的山包，看上面嶙峋的黑影，應該是個石頭山。
+§16 [Ø=姜柔甲]那大姑娘翻身利落下馬，站在馬下說道：
+§17 [Ø=姜柔甲]“跳下來，我接著你噠！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§18 [Ø=姜柔甲]雲千峰忙搖頭，道：
+§19 [Ø=姜柔甲]“不用，我自己來！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§20 那大姑娘笑道：
+§21 [Ø=姜柔甲]“別硬撐啦，你都缺氧了，我聽到你一路都在喘噠！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 [Ø=姜柔甲]這大姑娘很熱情也很固執，她不相信雲千峰能夠這麽快緩解了缺氧的症狀，所以好心要抱著他下馬。
+§23 [Ø=姜柔甲]雲千峰拗不過，隻好小心翼翼的翻腿在馬背上往下滑，他主要是怕砸到這好心的大姑娘。
+§24 [Ø=姜柔甲]但這慢悠悠的舉動，讓大姑娘認為雲千峰的確是沒有力氣了。
+§25 [Ø=姜柔甲]於是雙手一托，把雲千峰橫抱在懷，笑道：
+§26 “你比我們這裡的很多女人都輕！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 [Ø=姜柔甲]說著，也不把雲千峰放下，就那麽橫抱著， [||] 絲毫不費力的邁步走到廟前，用肩膀一撞門，走了進去。
+§28 [Ø=姜柔甲]廟內，彌漫著焚香的氣味，一個身穿殷紅色長袍的和尚坐在佛像前，背對著門口方向。
+§29 [Ø=姜柔甲]這大姑娘把雲千峰往那和尚身後的氈毯上一放，俏聲道：
+§30 [Ø=姜柔甲]“格比格法師，我把人接來了，就是缺氧啦。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=姜柔甲]格比格法師轉過身來，先看了一眼雲千峰，那滿是皺紋溝壑的臉上， [||] 帶著威嚴，但是那雙眼睛滿是慈祥，讓人好似被一股渾厚溫暖的力量包圍著。
+§32 [Ø=姜柔甲]這看起來就是個普通的老人，但雲千峰看到格比格身後，神龕下擺放的好似雙頭錘的金色多吉，就知道這小廟裡藏著的是高人。
+§33 [Ø=姜柔甲]多吉就是民間所謂的金剛杵，這種雙頭鏤空圓錘的金剛杵，可不是一般人能夠使用的，那象征著地位和心境的雙重能力。
+§34 [Ø=姜柔甲]格比格看向雲千峰的那一眼，讓雲千峰有一種瞬間被看透的危機感，幸好格比格立即就轉頭看向那大姑娘，然後說道：
+§35 [Ø=姜柔甲]“小卓瑪辛苦了，去把酥油茶端來，給客人洗塵。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 原來這大姑娘叫卓瑪。
+§37 [Ø=姜柔甲]卓瑪顯然對格比格的稱呼有意見，一邊往側面房間走，一邊倔強道：
+§38 [Ø=姜柔甲]“不小的嘛，我都十八了，大啦！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 [Ø=姜柔甲]格比格展顏一笑，別人都是越笑皺紋越多， [||] 格比格一笑，似乎臉上那些褶皺展開了，年輕了不少。
+§40 或許是因為那深邃乾淨的眼神吧。
+§41 [Ø=姜柔甲]卓瑪走到了另外的房間，格比格才對著雲千峰帶著笑容，道：
+§42 “終於又見到你了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 這話轟得雲千峰腦子直接懵掉。
+§44 [Ø=姜柔甲]因為他可以發誓，自己絕對是第一次見到這位老人。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 44 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§44. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

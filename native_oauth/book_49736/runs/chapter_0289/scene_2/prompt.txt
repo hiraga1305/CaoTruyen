@@ -1,0 +1,80 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0289|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Dương Ngọc Nô vốn rất có chủ kiến, nghe Vân Thiên Phong dặn dò xong liền vội nói:
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §41):
+§1 [Ø=云千峰]“郎君可多殺些野牛來，肉食可以煙熏或者曬乾， [||] 能保存很久，太真還可把牛皮熟好，以骨針縫製起來。
+§2 [Ø=云千峰]這樣我們就可以做一頂氈房，比建造木屋簡單許多，也更實用。”
+§3 [Ø=云千峰]雲千峰驚訝楊玉奴還會這些手藝，但是想到唐風之粗獷奔放， [||] 女人比之現代人也不為過，會這些東西還真就不奇怪，畢竟很容易接觸到。
+§4 [Ø=云千峰]這裡溫度並不高，這巨石圍繞的未土之地， [||] 溫度白天還算適宜，但到了現在日暮，卻是有些冷了。
+§5 [Ø=云千峰]這種環境下住氈房，無疑是最好的。
+§6 [Ø=云千峰]而且按照姮娥所言，無論是十月份還是等十個月，都需要在這裡住很久，一個相對舒服的居所還是很重要的。
+§7 [Ø=云千峰]“行，那就這麽辦，明日我獵野牛回來剝皮，你負責曬肉熏肉熟皮。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 楊玉奴滿口答應下來。
+§9 雲千峰自己走起來速度很快。
+§10 [Ø=云千峰]野牛雖重達四五百公斤，但在完整的蚩尤之下，也就相當於普通人背著三十公斤拉練。
+§11 [Ø=云千峰]雲千峰是奔跑著去，拽著公牛回來，前後也就四十分鍾。
+§12 [Ø=云千峰]繞湖耽誤了一些時間，否則雲千峰奔跑的速度，有二十分鍾就差不多了。
+§13 [Ø=云千峰]他沒敢太過靠近那溫泉湖，大晚上的，他現在隻想好好吃飽休息，可不想惹麻煩。
+§14 [Ø=云千峰]在篝火旁，雲千峰用指揮刀把公牛的皮完整的剝下來， [||] 牛角留著，那玩意中空，能做水杯使用。
+§15 [Ø=云千峰]雖然沒有鹽，但是楊玉奴的手藝真的不錯，將牛肉烤的口感剛好，汁多好嚼。
+§16 [Ø=云千峰]一千多年沒吃過正經東西了，楊玉奴也是吃了不少，這女人似乎沒有身材焦慮，可勁造。
+§17 [Ø=云千峰]雲千峰這裡生活愜意，但是吃著吃著，那種被窺伺的感覺又出現了。
+§18 閻羅殿內。
+§19 [Ø=云千峰]九屠也算知道這閻王殿的工作有多累，於是決定不急，九個人保持一個人工作，輪班休息。
+§20 [Ø=云千峰]好家夥，九個窗口，變成了一個窗口，還沒人敢叫囂。
+§21 另外八個人自然是做他們認為更重要的事。
+§22 [Ø=云千峰]於是吃飽了，也休息好了，就圍在一起，看雲千峰在忙什麽。
+§23 [Ø=云千峰]“這人果然有些門道，竟然離開了礁石，找到了這麽好的地方安營。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 [Ø=云千峰]“應該是那身皮甲特殊，如果我記得沒錯， [||] 那皮甲與書中記載的共工所穿輕甲極為相似，雲千峰去過瑤池，想來是得到了共工的輕甲。
+§25 [Ø=云千峰]那輕甲質量不錯，能熬過鯊魚的襲擊是有可能的，估計也是靠著輕甲走過那些毒蛇的路徑。”
+§26 [Ø=云千峰]對於蚩尤能跟著雲千峰走進去，他們是完全無法想象的，因為那是超出認知的東西。
+§27 [Ø=云千峰]就連雲千峰這個當事人，也沒有完全理解蚩尤到底是個什麽東西，只知道蚩尤是活的。
+§28 [Ø=云千峰]“他倒是好生活，吃著烤肉，這還在哪撿了個美麗的女人，嘖。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§29 [Ø=云千峰]“容他享樂一時，總之他安家就好， [||] 就怕他到處跑，不怕他安居一地，是時候開始尋找死士了。”[Q1:云千峰->姜柔甲|state:HOSTILE_SHIFT|tone:sát phạt, dứt khoát]
+§30 [Ø=云千峰]八個人正說著，值班那位跑了過來。
+§31 [Ø=云千峰]“不好了，出事了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§32 邋遢老道忙問道：
+§33 “出了什麽事？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 那人忙道：
+§35 [Ø=云千峰]“大殿內，有十幾個惡貫滿盈之人， [||] 他們記憶裡都帶著給雲千峰送物品的記憶。這些人本該下十八層，但萬一這些物品裡藏著一些其它我們不知道的信息，可就麻煩了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§36 [Ø=云千峰]“不得不小心啊，希望雲千峰活著的人也不在少數，賒刀人可是做得出莽撞的事來。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 [Ø=云千峰]“那咱們徇私，將他們放到其它層數去？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 [Ø=云千峰]“我覺得你們多慮了，這些人進入十八層， [||] 隨機出現在一處礁石，但絕不會隨機到那古怪的綠島上，咱們怕什麽？雲千峰還有能力和時間在大海上閑逛不成？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 [Ø=云千峰]“言之有理，放行，正常公正判之！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 [Ø=云千峰]可憐九屠，他們還不知道羅琳娜對他們的算計有多狠。
+§41 [Ø=云千峰]而等他們知道之後，才明白這不是陰謀，而是陽謀。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 41 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§41. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

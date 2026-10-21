@@ -1,0 +1,119 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0322|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一座|một tòa
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §78):
+§1 322.第321章 阿甘正傳：逃離蘋果島（3）
+§2 第321章 阿甘正傳：逃離蘋果島（3）
+§3 [Ø=云千峰]三天來，阿甘無數次開關的燈光，亮了。
+§4 [Ø=云千峰]那一瞬間，他整個人愣在原處，一臉的難以置信。
+§5 [Ø=云千峰]一座[M1:một tòa]被海水淹沒了幾十米深的城市，怎麽可能還有電網可用？
+§6 [Ø=云千峰]“海水沉下去，救援來了？可是救援也沒辦法這麽快的恢復電力系統，到底發生了什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§7 [Ø=云千峰]阿甘在震驚之中反應過來，[Ø_SHIFT=姜柔甲]急忙跑到窗戶旁，一把掀開窗簾，望將出去。
+§8 [Ø=姜柔甲]窗外，豔陽高照。
+§9 [Ø=姜柔甲]街道上，車水馬龍。
+§10 [Ø=姜柔甲]對面餐廳，人流如織。
+§11 [Ø=姜柔甲]這才是繁華都市該有的模樣，最正常的模樣。
+§12 “啪啪啪！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 [Ø=姜柔甲]阿甘使勁的抽了自己幾個巴掌，感覺到臉頰的辣痛，確定自己不是在做夢，然後再三確認自己看到的是真實的。
+§14 [Ø=姜柔甲]打開窗，鬧市的喧囂鑽進了耳朵，那一刻，阿甘激動的哭了。
+§15 [Ø=姜柔甲]“老天爺，你這是想明白了嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§16 [Ø=姜柔甲]“還是，我僅僅是做了一個夢？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 [Ø_SHIFT=云千峰]阿甘急忙拿起手機，看了一下日期。
+§18 [Ø=云千峰]“佛祖啊，真的是做夢，哪裡有什麽三天，萬幸只是個噩夢！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 [Ø=云千峰]手機上顯是的時間，正是他到達蘋果島東城的次日上午。
+§20 [Ø=云千峰]“哈哈哈，真的是做夢！太好了，真的是做夢可是？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 [Ø=云千峰]阿甘驚喜得手舞足蹈，然而卻看到了手上的日式短刀。
+§22 [Ø=云千峰]“可是，這刀哪來的？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 [Ø=云千峰]再看左手腕的百達翡麗，臉上的驚慌愈加明顯。
+§24 [Ø=云千峰]“腕表也在，這不是我的東西，是夢裡的，怎麽會真實存在我的手上？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§25 [Ø_SHIFT=姜柔甲]阿甘急忙把身上的雙肩包甩下來打開，就見裡面全是價值昂貴的奢侈品，也都是昨晚他在噩夢中搜刮來的物品。
+§26 [Ø=姜柔甲]“作為一個堅定的唯物主義者，這一切隻可能有一個解釋，我昨晚夢遊了， [||] 然後偷盜了這些東西，這下糟了，酒店裡一定有監控，官司怕是不好打了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§27 [Ø=姜柔甲]阿甘在大學的時候，曾經犯過一次夢遊症，明明在男宿舍睡著的，卻是在女宿舍醒來。
+§28 [Ø=姜柔甲]真心話，阿甘到昨天為止，也不是很確定自己是不是有夢遊症，只是當年他是這樣解釋的， [||] 他也隻記得自己是那麽對別人解釋的，至於真相是不是夢遊，他自己已經無法確定，因為這些年來，撒謊已經成了他的習慣。
+§29 [Ø=姜柔甲]所以如今的他，無法確定當初的自己，那樣的解釋，是不是僅僅是撒謊的自保。
+§30 [Ø=姜柔甲]而今天看來，他當年應該是誠實的。
+§31 “我真的有夢遊症！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§32 [Ø=姜柔甲]撒謊的最高境界，就是連自己也分辨不出自己曾經說過的話是真是假，阿甘無疑做到了這一點。
+§33 [Ø=姜柔甲]阿甘看著手裡的日式短刀，自己的臉映在刀面上，隨著手的顫抖，扭曲著。
+§34 [Ø=姜柔甲]“我昨天夢遊時殺了隔壁的人，我必須馬上逃走！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 [Ø=姜柔甲]想到這，[Ø_SHIFT=云千峰]他急忙翻出自己唯一黑色的衣服，那是一套運動裝。
+§36 [Ø=云千峰]他不傻，知道黑色的衣服是最低調的，走在人群中也最不容易被人矚目。
+§37 [Ø=云千峰]再刮掉自己的兩撇小胡子，整個人便與之前判若兩人。
+§38 [Ø=云千峰]若是他早點把胡子刮了，恐怕阿菲法就不至於對他那麽吝嗇了。
+§39 [Ø=云千峰]左右是逃命，阿甘值錢的奢侈品一件沒丟，全都放在雙肩包裡，日式短刀卻是扔到了床底下。
+§40 [Ø=云千峰]“去海邊，租一個遊艇，然後搶劫遊艇離開，就這樣！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§41 阿甘已經想好了如何離開蘋果島。
+§42 [Ø=云千峰]遊艇肯定不夠他到達任何一個目的地，但卻能離開蘋果島領海，最終順著洋流到達他處。
+§43 [Ø=云千峰]總之，任何選擇，都比在這裡等著被抓捕要好。
+§44 [Ø=云千峰]一切快速準備妥當，阿甘伸手去拿自己的手機離開。
+§45 [Ø=云千峰]然而剛一打開酒店房間的門，阿甘就感覺眼前一黑，有些眩暈，差點直接嚇厥過去。
+§46 就見門外站著三個人。
+§47 [Ø=云千峰]一個矮胖猥瑣的禿頂男，一個扛著攝像機的瘦高男，一個身材窈窕，猶若葫蘆的漂亮女人。
+§48 [Ø=云千峰]為首的猥瑣矮胖子一見阿甘，立馬雙腿站定，鞠躬四十五度：
+§49 [Ø=云千峰]“早上好，阿甘君！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§50 [Ø=云千峰]說完這句話後，這胖子“吸氣，呼氣， [||] 吸氣”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]，然後挺起了大肚子，臉上堆笑的看著阿甘繼續道：
+§51 [Ø=云千峰]“真是初秋的好天氣啊，很幸運在這麽好的日子裡， [||] 成為阿甘君的短電影導演和編劇，我叫三井，請多指教！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§52 [Ø=云千峰]阿甘手扶門框，保持不讓自己暈厥過去。
+§53 [Ø=云千峰]對於阿甘沒有回禮說話，三井並沒有表示出不悅，依舊滿臉堆笑。
+§54 三井身後扛著攝像機的高瘦男也三十度行禮問候。
+§55 [Ø=云千峰]之後才是那窈窕的女人上前半步，雙手疊在身前，彎腰行禮，問候道：
+§56 [Ø=云千峰]“早上好，阿甘君， [||] 我是瀨亞美，您電影的女主角，請多指教！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§57 [Ø=云千峰]阿甘此時心裡驚濤駭浪，腦子裡電閃雷鳴。
+§58 [Ø=云千峰]“昨天我確實是夢遊了，否則不會拿到那麽多東西， [||] 且夢中我殺了瀨亞美，可是她現在活生生的在我面前，這又是怎麽回事？我到底有沒有夢遊？我是不是瘋了？產生了幻覺？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§59 [Ø=云千峰]“是不是我的精神意識為了逃避責任，像電影穆赫蘭道的主人公一樣，自欺欺人的幻想出讓自己逃避責任的幻覺？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§60 [Ø=云千峰]想到這，他掐了自己大腿一下。
+§61 “疼！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§62 [Ø=云千峰]“那就不是幻覺，而是真實的，瀨亞美沒死，只是偷盜！不是大事！哈哈哈！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§63 [Ø=云千峰]阿甘突然狂笑，一邊彎腰施禮，道：
+§64 [Ø=云千峰]“能與瀨亞美你一起演戲，是我的榮幸，裡面請！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§65 [Ø=云千峰]三個人彎腰回禮，走進套房的門。
+§66 阿甘仔細看了一眼瀨亞美的手腕。
+§67 [Ø=云千峰]“她的手腕上有長時間帶手表的痕跡，看表帶和表盤的寬度大小，正是那女款勞力士， [||] 但是瀨亞美似乎是第一次見到我，這也就意味著，無論我是如何拿到她的手表，她並不知道是我拿走的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§68 [Ø=云千峰]“昨晚到底發生了什麽？即便是夢遊，整個過程也絕不是我夢中所見的模樣，一定有著另外一種可能，否則我這裡應該早就被圍住了才對。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§69 [Ø=云千峰]阿甘想著，面帶笑容，客氣道：
+§70 [Ø=云千峰]“請三井君和瀨亞美小姐稍等片刻，我要下樓去一趟，馬上回來。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§71 [Ø=云千峰]“啊，阿甘君請便。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§72 [Ø=云千峰]阿甘信步出門，快步來到下一層樓， [||] 發現這一層樓的房間大部分都打開了，工作人員正在收拾衛生，也就意味著住客已經退房離開。
+§73 [Ø=云千峰]阿甘不放心，快速的順著步行梯來到酒店大廳。
+§74 [Ø=云千峰]沒有看到投訴者，也沒有看到捕快。
+§75 “怎麽回事？丟東西都不報警的嗎？怎麽好像什麽都沒有發生一樣？搞什麽鬼？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§76 [Ø=云千峰]“無論如何，那些奢侈品在我手裡，而且我又做了那樣的夢，總不會是好事， [||] 現在無疑是最佳離開的時機，失不再來，不能猶豫，演員夢不重要！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§77 [Ø=云千峰]阿甘腦子裡快速分析後，便頭也不回的走出酒店大門，叫了一輛出租車上去：
+§78 “去機場。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 78 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§78. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

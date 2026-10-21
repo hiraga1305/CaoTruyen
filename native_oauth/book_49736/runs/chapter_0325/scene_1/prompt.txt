@@ -1,0 +1,126 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0325|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一座|một tòa
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §85):
+§1 325.第324章 阿甘正傳：逃離蘋果島（完）
+§2 第324章 阿甘正傳：逃離蘋果島（完）
+§3 [Ø=云千峰]阿甘把手機用鞋帶捆在井蓋上，手機攝像頭透過井蓋的窟窿，可以拍到自己居住的房間窗戶。
+§4 [Ø=云千峰]當午夜即將來臨之前，他打開了攝像功能，然後快速的躲到了光線能夠透過的死角，在半腰深的冷水裡等待著。
+§5 [Ø=云千峰]他看著運動腕表，上面的時間是與手機校對過的，一秒不差。
+§6 “10.93210！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§7 [Ø=云千峰]阿甘知道，自己的猜測是對的，只要不被那藍光照射到，那麽自己就不會暈厥。
+§8 [Ø=云千峰]為了保險起見，他沒有立刻去取手機，而是等著時間過去了半分鍾，才去取回了手機。
+§9 [Ø=云千峰]阿甘的手有些抖，掌心裡都是汗。
+§10 [Ø=云千峰]他很緊張，但又不知道為什麽緊張。
+§11 [Ø=云千峰]點了三下回放按鍵，才算點對了地方，這樣的準確度和穩定度，實在不符合一個可以三秒鍾擼下美女金手鐲的空空之手。
+§12 [Ø=云千峰]視頻之中，夜色裡的東城，展現著都市的繁華。
+§13 [Ø=云千峰]哪怕接近午夜，依舊人來人往，到處霓虹。
+§14 午夜來臨了。
+§15 藍光出現在手機屏幕內。
+§16 但是阿甘沒有看到光線的源頭。
+§17 [Ø=云千峰]或者說，這個光線給人的感覺就是沒有源頭。
+§18 [Ø=云千峰]同時這個光線也不是針對阿甘的窗口釋放，而更像是整個城市在那一瞬間發出了光。
+§19 [Ø=云千峰]最神奇的是，這個光不會外溢。
+§20 [Ø=云千峰]在屏幕裡可以看到，這個藍光是有界限的，就在每一座[M1:một tòa]高樓的上方。
+§21 看起來就像是這個城市坐落在一個藍色的方扁形燈罩裡。
+§22 [Ø=云千峰]而最可怕的一幕，在藍光乍現後出現了。
+§23 如織的人流在那一刻靜止。
+§24 所有人都保持著藍光出現那一刻的表情。
+§25 [Ø=云千峰]或微笑，或半張著嘴露出黃牙。
+§26 一對小情侶的唇間還有拉絲。
+§27 整個城市靜止了。
+§28 [Ø=云千峰]攝像只有這麽長的片段，阿甘隻好鼓起勇氣，爬到井蓋下方，透過井蓋上的窟窿看出去。
+§29 [Ø=云千峰]外面是如此的安靜，甚至沒有風聲。
+§30 [Ø=云千峰]而這樣的安靜，讓人的心跳聲變得明顯。
+§31 [Ø=云千峰]不僅僅是阿甘的心跳，還有井蓋上那些人的心跳。
+§32 “咚咚咚咚.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 [Ø=云千峰]“這不是靜止，人的心跳還在， [||] 這是假象的靜止，是針對人或者生物的，而不是物理上的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 [Ø=云千峰]阿甘在井蓋下等待了幾分鍾，保持警惕， [||] 直到確定外面一直到現在也沒有聲音傳出，這才推開井蓋，爬到街面上。
+§35 [Ø=云千峰]他下意識的看了一眼井蓋前上方的那個百褶裙少婦，之所以額外看了一眼，是因為阿甘想知道，不穿內褲上街的女人美不美。
+§36 [Ø=云千峰]阿甘打開手機攝像，把這一幕拍了下來，保存好視頻，開始小心翼翼的朝著前方走去。
+§37 [Ø=云千峰]“不該如此安靜的，以往會有人改變我手機的時間，拿走我不該擁有的東西，那麽那些人一定還在酒店裡。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 [Ø=云千峰]阿甘眼珠轉了轉，順著酒店後門鑽了進去，躲在攝像頭的死角，賊一樣鳥悄的順著步行梯朝著樓上走去。
+§39 “腳步聲！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 阿甘聽到這一層酒店的走廊上有著走路的聲響。
+§41 [Ø=云千峰]這腳步聲肆無忌憚，走得很響，通過聲音可以判斷出，這個人的體重一定很大。
+§42 [Ø=云千峰]緊接著，傳來了說話的聲音。
+§43 [Ø=云千峰]他們的嗓門依舊肆無忌憚，似乎根本不擔心吵到別人。
+§44 [Ø=云千峰]不過事實也是如此，在這個所有人都靜止的城市裡，他們的確打攪不到任何人。
+§45 “這個才是那個家夥的老婆吧？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§46 “我覺得不是。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§47 “可我的記錄裡他是。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§48 [Ø=云千峰]“那也不可能，因為這個也是男的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§49 [Ø=云千峰]“所以，我又記錯了？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§50 “我覺得你不適合這份工作”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§51 [Ø=云千峰]這話，聽得阿甘雲裡霧裡。
+§52 [Ø=云千峰]於是他只能悄悄的把手機打開攝像，把攝像頭在門下面遞進去，拍攝酒店走廊那一頭的情況。
+§53 那兩個人還在掰扯誰是誰老婆的問題。
+§54 [Ø=云千峰]阿甘拍了一小會，收回手機，然後脫下鞋子， [||] 光腳在台階上走上去，躲在兩個樓層中間的位置，把手機調整到靜音，看剛才拍到的視頻。
+§55 [Ø=云千峰]視頻裡，兩個穿著黑色風衣的光頭男人，帶著黑色的魔鏡。
+§56 兩個人都是非常高大。
+§57 [Ø=云千峰]在兩個男人身邊，立著幾個人，就像是時裝店的塑料模特。
+§58 [Ø=云千峰]區別只在於，他們身邊的是靜止的真人。
+§59 阿甘覺得這兩個家夥的智商多少是有點問題的。
+§60 [Ø=云千峰]因為之前聽他們聊天，都是誰是誰老婆的問題， [||] 但問題是，他們倆身邊有八個男人，只有一個女人。
+§61 [Ø=云千峰]阿甘從他們倆的話語中已經得出一個驚人的結論，那就是他們似乎可以看到每個人的記憶，通過某種阿甘無法理解的儀器。
+§62 [Ø=云千峰]但這個儀器有個缺點，那就是無法百分百獲取每個人的記憶，會有遺漏。
+§63 就比如此時他們遇到的。
+§64 [Ø=云千峰]那個女人腦海裡有和這八個人同床共枕的瘋狂畫面，但他們卻沒有這個女人到底是誰老婆的記憶。
+§65 [Ø=云千峰]所以他們倆只能猜，而且似乎已經猜了很多次，但是最終證明都是錯的，所以今天需要再換一次。
+§66 “我當時也是被他們這樣肆意擺弄的嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§67 阿甘感覺後背發寒。
+§68 [Ø=云千峰]“他們，一定是一群極為可怕的瘋子。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§69 阿甘回到自己原本居住的樓層。
+§70 這裡意外的很安靜。
+§71 [Ø=云千峰]他小心翼翼的回到自己居住房間的門口，耳朵貼在門上，沒有聽到任何動靜，這才刷了門卡走進去。
+§72 [Ø=云千峰]一打開門，就看到屋內開著壁燈，浴室的門口敞開著， [||] 一個美麗的女人正走出浴室，浴巾剛剛圍了一半，便靜止在那裡。
+§73 [Ø=云千峰]在床上，一個肥豬一樣的男人躺在床上，光溜溜的一臉猥瑣的笑意。
+§74 [Ø=云千峰]看到這一幕，阿甘心底一沉：
+§75 [Ø=云千峰]“他們知道我離開了，但似乎並不在意！這是不是意味著，他們根本就知道我的一舉一動？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§76 [Ø=云千峰]“這些可怕的瘋子似乎在尋找每個人真實生活的一切，並讓他們回到正常的生活裡，但很顯然這不是什麽善意。是某種實驗？還是其他更可怕的可能？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§77 [Ø=云千峰]很快，阿甘就證明了其中一個猜測。
+§78 [Ø=云千峰]因為哪怕他再小心，終究與兩個其他樓層的高大怪人相遇了。
+§79 直面那一種。
+§80 [Ø=云千峰]但是那兩個高大可怕的黑色風衣男，只是看了一眼阿甘，甚至嘴角還帶著耐人尋味的笑容。
+§81 [Ø=云千峰]然後與阿甘擦肩而過，讓阿甘白白的爆了一身冷汗，手裡的波士頓皮拍子都被掌心的汗水打濕。
+§82 [Ø=云千峰]“他們的確知道我躲開了藍光，他們這些光頭黑風衣全都知道， [||] 但是他們並不理會我，換句話說，他們放縱我去做任何事！他們要做什麽？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§83 [Ø=云千峰]“不行，我必須馬上把拍到的東西發到網上！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§84 [Ø=云千峰]阿甘不傻，最合理的邏輯，一個完全不需要擔心的人，只有死人。
+§85 [Ø=云千峰]這也就意味著，在那些人眼裡，阿甘已經是個馬上就要死去的人。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 85 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§85. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

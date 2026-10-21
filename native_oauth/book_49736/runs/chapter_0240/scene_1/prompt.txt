@@ -1,0 +1,81 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0240|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §42):
+§1 240.第240章 極其反常
+§2 第240章 極其反常
+§3 [Ø=云千峰]其實，就算不是雲千峰那個鼻子， [||] 以羅琳娜那狡兔三窟的性格，濕瑪他們的那點小算計，也很難成功。
+§4 [Ø=云千峰]雲千峰得意不過三秒鍾，就見半空裡的薩弱緩緩的在身後拿出一個頭盔，很像摩托車頭盔，全封閉那種。
+§5 [Ø=云千峰]配上她那一身密不透風的皮裝，和黑色的皮手套，雲千峰的朱砂和銀粉，算是拿她沒轍了。
+§6 [Ø=云千峰]在雲千峰看來，這就是逼著他再扒一次。
+§7 [Ø_SHIFT=姜柔甲]就在雲千峰準備對身邊七個受了重傷的蜥蜴人下殺手時，薩弱如鷹一般俯衝而來，打斷了雲千峰的辣手。
+§8 [Ø=姜柔甲]這一撲，凝聚了薩弱所有的恨意和屈辱。
+§9 [Ø=姜柔甲]守望者從來都只有男性，因為造物主從未創造過雌性的守望者。
+§10 [Ø=姜柔甲]一如白狐他們的猜測，守望者極其強大，強大到造物主也害怕守望者能夠繁衍，而那會危機造物主的生存。
+§11 [Ø=姜柔甲]但萬事萬物都有巧合，尤其是生命的複雜性，哪怕萬般計算，也總歸會有疏漏。
+§12 [Ø=姜柔甲]蒲卡山上，雲千峰的巧合出現， [||] 打亂了薩弱回歸的步驟，因緣際會的出現了一個類變異的守望者，以女人的形象存在著。
+§13 [Ø=姜柔甲]這本身已經足夠讓薩弱憤怒，偏偏倆人還有了一次真實，這就不僅僅是憤怒了，而是出離憤怒。
+§14 強大的衝擊力撞到了雲千峰的身上。
+§15 [Ø=姜柔甲]只是一下，就把雲千峰身上，手臂上的青麟撞了出來，腦袋上的雙角獸頭也浮現出來。
+§16 可見這一撞的傷害力之大。
+§17 [Ø=姜柔甲]履帶車內，琳達看到這一幕，青色的歐式眼一亮，心中驚訝：
+§18 [Ø=姜柔甲]“叔叔竟然是個狼人，月圓之夜當可拿下！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 [Ø=姜柔甲]雲千峰和薩弱可謂是戰鬥上的老熟人，倆人都知道對方的弱點，於是纏抱在一處後，陰招損招招招殺手。
+§20 [Ø=姜柔甲]雲千峰撕扯薩弱的皮衣，薩弱專挑雲千峰的膝腿攻擊。
+§21 然後倆人心中都響起了一聲驚歎：
+§22 “這人好生狡猾！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 [Ø=姜柔甲]因為薩弱發現，雲千峰極為賴皮，膏藥似的纏著自己， [||] 兩條腿就好像兩根繩子，牢牢的捆住了自己的腰，雙臂纏著自己的雙手，想打都打不到。
+§24 [Ø=姜柔甲]而雲千峰發現，薩弱的皮衣不是真皮的， [||] 是一種韌性和彈性極強的材質，自己一把拽撐了一米多長，愣是沒破。
+§25 [Ø=姜柔甲]拽不破薩弱的衣服，朱砂和銀粉就毫無意義。
+§26 [Ø=姜柔甲]打不到雲千峰的腿，就很難打死這茅坑石頭般的臭硬。
+§27 [Ø=姜柔甲]倆人從天上滾到雪地上，再騰飛到天上。
+§28 [Ø=姜柔甲]而這個過程裡，倆人就像是連體人，絲毫不曾分開。
+§29 只能聽到倆人拳來肘往的打擊聲響。
+§30 [Ø=姜柔甲]“咚咚咚”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]，每一下都猶如悶雷，顯然用力極大。
+§31 [Ø=姜柔甲]受傷的蜥蜴人爬起來，想要圍攻雲千峰， [||] 但是因為薩弱和雲千峰幾乎是捆在一起，讓他們投鼠忌器，不知該從何下手。
+§32 [Ø=姜柔甲]人有失手馬有失蹄，薩弱的一條手臂脫開了雲千峰的控制，一下抓住雲千峰的膝蓋。
+§33 [Ø=姜柔甲]薩弱心花怒放，因為只要她一用力， [||] 雲千峰的膝蓋就會碎掉，對方也將無法再繼續把自己纏在自己身上，勝負即將見分曉。
+§34 [Ø=姜柔甲]然而，就在她準備用力捏碎雲千峰膝蓋的時候， [||] 很突然的， [||] 她覺得腹內一陣痙攣，疼得她額頭冷汗直冒。
+§35 身上的力量仿佛一下被抽空。
+§36 [Ø=姜柔甲]雲千峰看到薩弱的手抓住了自己的膝蓋，當下心中震驚，悲憤想著：
+§37 “完了！徹底完了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§38 [Ø=姜柔甲]然而，預想到的悲劇沒有發生，膝蓋僅僅是感覺到了一絲刺痛後，薩弱便莫名其妙的松了手。
+§39 [Ø=姜柔甲]最讓雲千峰驚喜的是，薩弱全身似乎軟了，[Ø_SHIFT=云千峰]竟然在半空裡跌落了下來。
+§40 [Ø=云千峰]雲千峰哪能錯過這樣的機會，落在雪地上後，[Ø_SHIFT=姜柔甲]急忙一個翻身騎在薩弱身上，大拳頭雨點似的砸在薩弱的頭盔上。
+§41 [Ø=姜柔甲]柔能克剛，韌性的衣服雲千峰是真的毫無辦法，但是這頭盔是硬的，自然砸得爛。
+§42 [Ø=姜柔甲]“鐺鐺鐺”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]震響不斷，好似一掛鞭，眼看著那黑色的碳纖頭盔開始凹陷，並且出現了裂痕。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 42 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§42. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

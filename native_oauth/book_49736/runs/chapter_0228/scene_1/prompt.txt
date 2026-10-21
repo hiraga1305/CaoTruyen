@@ -1,0 +1,82 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0228|scene:01|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §43):
+§1 228.第228章 無意義之中隱藏的意義
+§2 第228章 無意義之中隱藏的意義
+§3 [Ø=云千峰]其他三人也看到了那時大時小，猶如一團煙霧般的東西。
+§4 [Ø=云千峰]琳達眼中有些驚恐，低聲道：
+§5 [Ø=云千峰]“雲，那是幽靈嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§6 [Ø=云千峰]雲千峰搖了搖頭，同樣低聲道：
+§7 [Ø=云千峰]“我無法確定那是什麽，不過我聽說過南極有一種詭異的生物叫寧恩，會不會是那種怪物？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§8 [Ø=云千峰]琳達的父親在南極工作過很多年，自然聽說過各種傳聞，很多甚至是親眼所見。
+§9 於是她忙道：
+§10 [Ø=云千峰]“我知道寧恩那種東西，據說是島國人在南極進行的某種基因實驗，也有說是吸忒嘞製造的怪物，我父親說他當年曾遙遙的見過那個東西， [||] 很巨大，像公交車一樣長，但體型是狹長的，前面那東西不太像。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 蘇菲鍾顫聲道：
+§12 [Ø=云千峰]“那一定是鬼魂，只有鬼魂才能那樣變幻莫測。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 [Ø=云千峰]荷茜許捂著肚子，低聲道：
+§14 [Ø=云千峰]“你們別說了，嚇得我想上廁所。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 傑裡周來了句：
+§16 [Ø=云千峰]“別，可沒火給你烤褲子。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 這是大實話。
+§18 [Ø=云千峰]幾個人不敢再繼續暖和腳丫子，鬼知道那東西發沒發現他們，於是紛紛穿好鞋，無措的看著雲千峰。
+§19 琳達問道：
+§20 “我們要繞過去嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§21 [Ø=云千峰]雲千峰搖了搖頭，指著太陽的方向，道：
+§22 [Ø=云千峰]“太陽只剩下不到一半在天邊了，咱們沒有時間耽擱，一旦進入極夜， [||] 沒有了太陽與地磁南極連線當坐標，咱們就徹底迷失方向了，那才是必死無疑。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 [Ø=云千峰]說完，朝著遠處那看不清楚，但持續蠕動著的東西走去。
+§24 [Ø=云千峰]其他幾個人無疑是恐懼的，但是他們沒有選擇。
+§25 [Ø=云千峰]不跟著雲千峰，必死。
+§26 [Ø=云千峰]跟著，最起碼還有一線生機。
+§27 雲千峰的心緒則和他們完全不同。
+§28 [Ø=云千峰]在他看來，如果是帝嚳在極遙遠的上古，經過無數次選擇造就了如今的他， [||] 那麽雲千峰願意相信，自己遇到的每一次堪稱大事的際遇，都必然意有所指。
+§29 就比如飛機遇到球形閃電炸死駕駛員這件事。
+§30 這看起來無疑是一件倒霉得不能更倒霉的事情。
+§31 [Ø=云千峰]但是在亙古之前的帝嚳，一定在這個災難裡看到了它的反面，那就是幸運。
+§32 否則他不會選擇它。
+§33 [Ø=云千峰]如果說雲千峰在行為上已經非常接近智慧，那不是因為他自己，而是因為帝嚳把智慧放在了距離他很近的地方。
+§34 [Ø=云千峰]他們距離那飄忽不定，幽靈一樣的東西越來越近。
+§35 幾個人便也愈加緊張。
+§36 包括雲千峰。
+§37 [Ø=云千峰]傑裡周已經緊張的開始捂著肚子，估計要不是太冷掏出來怕凍掉了，他早跑去上廁所了。
+§38 [Ø=云千峰]緊張和恐懼的籠罩下，雲千峰最先看清楚了那所謂怪物的模樣，當下自嘲一笑，道：
+§39 [Ø=云千峰]“行了，你們別在我後背擠著了，那不是怪物。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§40 [Ø=云千峰]好家夥，四個人都藏在了雲千峰身後，聽到這話才敢仰頭。
+§41 [Ø=云千峰]琳達看到那東西，詫異道：
+§42 [Ø=云千峰]“咦，氣象氣球？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§43 [Ø=云千峰]那東西看起來像是比較軟的布料材質，輪廓呈圓形， [||] 底部有圓孔，隨著風灌入，呈現大小鼓蕩的形狀變化。
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 43 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§43. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

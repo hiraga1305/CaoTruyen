@@ -1,0 +1,79 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0302|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=DIALOGUE_TENSE|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Dương Ngọc Nô mồ hôi ướt đẫm lưng áo, trong miệng lẩm bẩm một câu cảm thán học mót được từ Vân Thiên Phong:
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|六張|sáu tấm
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §38):
+§1 “臥槽乎！累哉.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§2 [Ø=云千峰]閻羅殿內，姮娥暗暗的松了一口氣。
+§3 [Ø=云千峰]西王母眸子裡看不出喜怒，似乎她真的就是個看戲的，而且還是沒入戲那種。
+§4 [Ø=云千峰]“那雲千峰聽到了楊貴妃的歌聲，便理都不理被捆綁的你，姮娥啊，你真失敗。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§5 姮娥咬牙道：
+§6 [Ø=云千峰]“別人的妻子總是好的，重要的是他按時回家，西王母怎麽會不懂得這個道理？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§7 西王母面具下的臉瞬間鐵青。
+§8 [Ø=云千峰]與此同時，這兩女眼睛都對著十八層內正在擦汗的楊玉奴多看了幾眼。
+§9 [Ø=云千峰]擦汗的楊玉奴突然就感覺消汗了，但是身邊還沒風，就很驚訝。
+§10 [Ø=云千峰]雲千峰觀察四周，這裡是一片廣場。
+§11 [Ø=云千峰]廣場中間窄，兩側寬大，形如蝴蝶。
+§12 [Ø=云千峰]回想之前所怎為鼻宮，雲千峰一下就明白這裡為什麽是蝴蝶形的廣場。
+§13 [Ø=云千峰]“莊周夢蝶，想來這裡應該是蝶竇腔，那麽蝴蝶廣場後面那扇門，應該是進入大腦的門戶了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§14 [Ø=云千峰]雲千峰猜到蝶竇腔，情不自禁的說出莊周夢蝶，卻不是開玩笑的。
+§15 [Ø=云千峰]莊周之所以能夠在靜坐時在眼前看到蝴蝶與鼻翼兩側飛繞，正是因為氣通蝶竇所致。
+§16 [Ø=云千峰]氣通蝶竇，人則無頭腦昏沉之疾，神清氣爽。
+§17 莊子可以說是把丹功最形象展現出來的人。
+§18 [Ø=云千峰]呼吸以踵，靜坐見蝶。
+§19 [Ø=云千峰]這兩者，呼吸以踵正是卯酉大周天。
+§20 [Ø=云千峰]靜坐夢蝶，正是子午小周天。
+§21 [Ø=云千峰]與呂洞賓回光重樓的太乙金華宗旨，異曲同工。
+§22 [Ø=云千峰]站在蝴蝶廣場深處的大門前，雲千峰停住了腳步。
+§23 [Ø=云千峰]“蚩尤是女閻羅人偶然得自高維，而蚩尤不可能天生便無腦，那麽祂為什麽一定要一個人的意識才能真正的復活？秘密，恐怕就藏在這裡了吧！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§24 [Ø=云千峰]已經沒有退路，雲千峰乾脆也懶得賊似的，直接一腳踹開大門， [||] 反正客氣不客氣，對方也不客氣，不如自己也不客氣。
+§25 [Ø=云千峰]這是一個空房間，但又一點都不空。
+§26 [Ø=云千峰]說起來很矛盾，但事實就是如此。
+§27 [Ø=云千峰]空蕩的房間內，牆壁，棚頂，地面， [||] 全都刻滿了形狀詭異的銘文，不是象形字，而是規則文字，曲曲彎彎如蛇如蚓，帶著神奇的律動和時間的沉澱。
+§28 [Ø=云千峰]更容易理解的形容，就是這裡上下六方牆壁，看起來就像是六張[M1:sáu tấm]合成立方體的電路板。
+§29 [Ø=云千峰]而兩個明亮的圓球鑲嵌在棚頂，將這房子內的空間照亮，那應該代表著雙眼。
+§30 “這是演繹什麽規則？蚩尤這種生命體的規則嗎？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§31 [Ø=云千峰]想著，雲千峰走這大殿內唯一的擺設，一個立在地面正中間的刻碑。
+§32 [Ø=云千峰]“這刻碑的位置，應該是松果體的所在吧”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 [Ø=云千峰]感謝書友月華如練且星光似你，黃姑山路，八灬寶，30829_Ce，48428，11122，庫庫庫庫庫庫庫林白夜，17663，屠夫古凡，22062， [||] 慶東，10a獵人，A大帝，37214，35050，21455，伊洛_神聖颶風，隱仙草，54502，13763的月票獎勵！！！
+§34 [Ø=云千峰]謝謝你們的支持，感激！！！
+§35 [Ø=云千峰]作家說只能五百個字符，不分開不夠記錄！！！
+§36 [Ø=云千峰]由於電腦竟然還沒到，很多特殊字符我打不出，請擔待！！！
+§37 明天繼續記錄落下的記錄。
+§38 [Ø=云千峰]祝大家好夢，晚安！！！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 38 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§38. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

@@ -1,0 +1,565 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 68,
+  "title": "Chương 68: Trái với lẽ thường",
+  "total_paragraphs": 92,
+  "translated_paragraphs": 92,
+  "source_hash": "96c5a61a21a25e13bb9482d13e2073060fd307106ce4e453bbb68c3d6deb7a66",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0068p0001",
+      "index": 1,
+      "raw_zh": "第68章 不合常理",
+      "translated_vi": "Chương 68: Trái với lẽ thường"
+    },
+    {
+      "para_id": "c0068p0002",
+      "index": 2,
+      "raw_zh": "胖子名叫朱柏龍，外號豬婆龍，是老爺廟當地有名的屯大爺。",
+      "translated_vi": "Gã béo tên là Chu Bách Long, ngoại hiệu là Trư Bà Long, là một trùm quậy phá có tiếng ở vùng miếu Lão Gia."
+    },
+    {
+      "para_id": "c0068p0003",
+      "index": 3,
+      "raw_zh": "所謂屯大爺就是村長惹不起看著腦袋疼的渾貨。",
+      "translated_vi": "Cái gọi là “đầu gấu làng” chính là loại lưu manh càn quấy mà trưởng thôn cũng chẳng dám đắc tội, hễ nhìn thấy là đau đầu nhức óc."
+    },
+    {
+      "para_id": "c0068p0004",
+      "index": 4,
+      "raw_zh": "那艘木舶就是朱柏龍的，因為買了保險，此時船毀了他挺高興。",
+      "translated_vi": "Chiếc thuyền gỗ chạm trổ kia chính là của Chu Bách Long. Do đã mua bảo hiểm từ trước nên lúc này thuyền bị đắm gã lại thấy mừng thầm trong bụng."
+    },
+    {
+      "para_id": "c0068p0005",
+      "index": 5,
+      "raw_zh": "他平時就靠用仿古木舶拉人遊長江賺點錢，偶爾也兼職偷點魚。",
+      "translated_vi": "Ngày thường gã chỉ dựa vào chiếc thuyền gỗ phỏng cổ ấy chở khách dạo chơi sông Trường Giang kiếm chút tiền lẻ, thi thoảng kiêm thêm nghề trộm cá."
+    },
+    {
+      "para_id": "c0068p0006",
+      "index": 6,
+      "raw_zh": "只不過兼職的時候更多一些。",
+      "translated_vi": "Có điều thời gian gã làm “nghề tay trái” dường như còn nhiều hơn nghề chính."
+    },
+    {
+      "para_id": "c0068p0007",
+      "index": 7,
+      "raw_zh": "今天他接到一個大活，有人組團雇他的木舶遊老爺廟水域，但上了水才發現，這幫人不是看景的，是來看人的。",
+      "translated_vi": "Hôm nay gã nhận được một vố làm ăn béo bở: có người bao trọn chiếc thuyền gỗ của gã để dạo chơi quanh vùng nước miếu Lão Gia. Nhưng khi đã hạ thủy gã mới vỡ lẽ, đám người này căn bản đâu phải đến ngắm cảnh, mà là đến để dòm ngó người khác."
+    },
+    {
+      "para_id": "c0068p0008",
+      "index": 8,
+      "raw_zh": "這個白妹子就是那個團隊之中的一員，是個電腦黑客，長得白白嫩嫩的特水靈。",
+      "translated_vi": "Cô nàng họ Bạch này chính là một thành viên trong nhóm đó, là một hacker máy tính, dung mạo trắng trẻo mịn màng, nom vô cùng xinh xắn nõn nà."
+    },
+    {
+      "para_id": "c0068p0009",
+      "index": 9,
+      "raw_zh": "所以，當朱柏龍看到雲千峰二話不說，直接把脆生生的白妹子一拳撂倒，登時嚇了一跳。",
+      "translated_vi": "Bởi thế, khi Chu Bách Long thấy Vân Thiên Phong chẳng nói chẳng rằng, thẳng tay tung một cú đấm quật ngã một cô gái mềm mỏng nõn nà như thế, gã lập tức giật bắn cả mình."
+    },
+    {
+      "para_id": "c0068p0010",
+      "index": 10,
+      "raw_zh": "渾人最見不得渾人，尤其啥時候見過這麽渾的人啊！",
+      "translated_vi": "Kẻ càn quấy vốn kỵ nhất kẻ càn quấy hơn mình, huống hồ gã đời nào đã từng thấy ai ngang ngược và hung hãn đến mức này!"
+    },
+    {
+      "para_id": "c0068p0011",
+      "index": 11,
+      "raw_zh": "等到雲千峰撲到白妹子身上，把人家大姑娘騎在身下時，朱柏龍才緩過神來，還不忘按照京劇牌面來了個丁字步，一手掐腰一手前指，大喝一聲：",
+      "translated_vi": "Đợi đến khi Vân Thiên Phong chồm lên người cô gái họ Bạch, đè nghiến con gái nhà người ta xuống dưới thân, Chu Bách Long mới hoàn hồn. Gã còn không quên đứng tấn chân chữ Đinh theo kiểu diễn xuất trong Kinh kịch, một tay chống nạnh một tay chỉ thẳng về phía trước, rống to một tiếng:"
+    },
+    {
+      "para_id": "c0068p0012",
+      "index": 12,
+      "raw_zh": "“臥槽，你住手，地下不是法外之地！”",
+      "translated_vi": "“Đệt mợ, mày dừng tay lại ngay! Dưới lòng đất không phải là nơi ngoài vòng pháp luật đâu nhé!”"
+    },
+    {
+      "para_id": "c0068p0013",
+      "index": 13,
+      "raw_zh": "雲千峰看到胖子要衝過來，果斷的在褲腳一撈，把短劍抽了出來，架在白妹子脖頸上，厲聲道：",
+      "translated_vi": "Vân Thiên Phong thấy gã béo định nhào tới, dứt khoát thò tay xuống ống quần rút phắt thanh đoản kiếm ra, gác thẳng lên cổ cô gái họ Bạch, nghiêm giọng quát:"
+    },
+    {
+      "para_id": "c0068p0014",
+      "index": 14,
+      "raw_zh": "“再上前一步我就弄死她！”",
+      "translated_vi": "“Bước thêm một bước nữa tôi giết chết cô ta ngay!”"
+    },
+    {
+      "para_id": "c0068p0015",
+      "index": 15,
+      "raw_zh": "朱柏龍渾是渾，但上手就要命的還真是第一次見，他很想解釋自己就是弱小又無助的流氓，能不能別真用刀？當下有點懵，支吾半天不知如何是好。",
+      "translated_vi": "Chu Bách Long càn quấy thì có càn quấy thật, nhưng loại vừa ra tay đã đòi lấy mạng người ta thế này thì quả thực gã mới thấy lần đầu. Gã rất muốn phân bua rằng mình chỉ là một tên lưu manh yếu đuối bất lực thôi mà, làm ơn đừng có động đao động kiếm thật được không? Lúc này gã đờ cả người ra, ấp úng nửa ngày trời chẳng biết phải làm sao."
+    },
+    {
+      "para_id": "c0068p0016",
+      "index": 16,
+      "raw_zh": "雲千峰見把這胖子嚇唬住了，才轉頭對著白妹子咬牙道：",
+      "translated_vi": "Thấy đã dọa cho gã béo sợ khiếp vía, Vân Thiên Phong mới quay đầu trừng mắt nhìn cô gái họ Bạch, nghiến răng bảo:"
+    },
+    {
+      "para_id": "c0068p0017",
+      "index": 17,
+      "raw_zh": "“把嘴張開，要不我弄死你！”",
+      "translated_vi": "“Há miệng ra, bằng không tôi lấy mạng cô!”"
+    },
+    {
+      "para_id": "c0068p0018",
+      "index": 18,
+      "raw_zh": "那白妹子似乎嚇壞了，嘴唇顫抖著張開嘴巴。",
+      "translated_vi": "Cô gái họ Bạch dường như bị dọa sợ chết khiếp, đôi môi run rẩy hé mở miệng."
+    },
+    {
+      "para_id": "c0068p0019",
+      "index": 19,
+      "raw_zh": "“舌頭伸出來！”",
+      "translated_vi": "“Thè lưỡi ra!”"
+    },
+    {
+      "para_id": "c0068p0020",
+      "index": 20,
+      "raw_zh": "朱柏龍就覺得眼前這男人絕對是個變態中的變態，這都什麽奇葩要求。",
+      "translated_vi": "Chu Bách Long thầm nghĩ cái gã đàn ông trước mặt này tuyệt đối là một tên biến thái trong số những kẻ biến thái, toàn đưa ra những yêu cầu quái đản quái gở gì đâu không."
+    },
+    {
+      "para_id": "c0068p0021",
+      "index": 21,
+      "raw_zh": "白妹子驚得心臟狂跳，但還是聽話的把舌頭伸了出去，然後雲千峰和朱柏龍都不得不驚歎這舌頭真長。",
+      "translated_vi": "Trái tim cô gái họ Bạch đập loạn xạ vì kinh hãi, nhưng vẫn ngoan ngoãn thè lưỡi ra ngoài. Cả Vân Thiên Phong lẫn Chu Bách Long nhìn thấy đều không khỏi thầm kinh ngạc vì chiếc lưỡi này quả thực dài khác thường."
+    },
+    {
+      "para_id": "c0068p0022",
+      "index": 22,
+      "raw_zh": "雲千峰掃了那舌頭一眼，手速極快的用中食二指夾住那舌頭中段，頓感手指被電擊一般刺麻，他急忙筷子卷面條似的一纏，緊接著使勁往下一拽。",
+      "translated_vi": "Vân Thiên Phong đảo mắt lướt qua chiếc lưỡi, đôi ngón trỏ và ngón giữa lập tức kẹp chặt lấy đoạn giữa của nó với tốc độ cực nhanh. Đầu ngón tay anh lập tức cảm thấy tê dại như bị điện giật, anh vội vã quấn tròn lấy như dùng đũa gắp cuộn mì sợi, rồi nghiến răng giật mạnh xuống một cái."
+    },
+    {
+      "para_id": "c0068p0023",
+      "index": 23,
+      "raw_zh": "伴隨著白妹子的一聲慘叫，就見雲千峰手指上盤著一條舌頭，背面帶著一張惟妙惟肖的人臉，正蛇一樣的蠕動著，似乎在掙命。",
+      "translated_vi": "Cùng với tiếng thét xé lòng đầy thảm thiết của cô gái họ Bạch, trên ngón tay Vân Thiên Phong đã quấn chặt lấy một chiếc “lưỡi”, mặt sau mang một khuôn mặt người sống động như thật, đang uốn éo ngoe nguẩy như một con rắn độc hòng giãy giụa tìm đường sống."
+    },
+    {
+      "para_id": "c0068p0024",
+      "index": 24,
+      "raw_zh": "雲千峰把那東西往地上一扔，學小神經那樣一腳踩上去，頓時冒出一股股帶著一絲電弧的膿液。",
+      "translated_vi": "Vân Thiên Phong vứt phắt thứ đó xuống đất, bắt chước Tiểu Thần Kinh dẫm mạnh một cước lên, lập tức làm phọt ra từng vệt mủ nhờn tanh tưởi kèm theo những tia hồ quang điện lẹt đẹt."
+    },
+    {
+      "para_id": "c0068p0025",
+      "index": 25,
+      "raw_zh": "弄死了那人面篆，雲千峰捏開白妹子那溢血的嘴巴看了一眼，松了口氣，說道：",
+      "translated_vi": "Giẫm chết con Nhân Diện Triện, Vân Thiên Phong bóp miệng cô gái họ Bạch đang trào máu ra nhìn lướt qua một lượt, khẽ thở phào nhẹ nhõm nói:"
+    },
+    {
+      "para_id": "c0068p0026",
+      "index": 26,
+      "raw_zh": "“幸好發現的快，就舌頭尖沒了，以後舌尖音肯定是說不準了。”",
+      "translated_vi": "“May mà phát hiện kịp thời, chỉ bị cắn mất phần chóp lưỡi thôi. Có điều sau này phát âm mấy âm đầu lưỡi chắc chắn sẽ ngọng nghịu rồi.”"
+    },
+    {
+      "para_id": "c0068p0027",
+      "index": 27,
+      "raw_zh": "朱柏龍和白妹子這才知道，眼前這人是在救人。",
+      "translated_vi": "Chu Bách Long và cô gái họ Bạch lúc này mới vỡ lẽ, hóa ra người đàn ông này vừa ra tay cứu mạng cô."
+    },
+    {
+      "para_id": "c0068p0028",
+      "index": 28,
+      "raw_zh": "白妹子緩過神來，但是舌頭依舊發麻，無法說話，只能比劃著用手語感謝雲千峰。",
+      "translated_vi": "Cô gái họ Bạch dần hoàn hồn trở lại, nhưng lưỡi vẫn tê cóng không thể thốt nên lời, chỉ biết múa may tay chân làm dấu cảm ơn Vân Thiên Phong rối rít."
+    },
+    {
+      "para_id": "c0068p0029",
+      "index": 29,
+      "raw_zh": "雲千峰看她舌頭尖都沒了，這要是感染了，整個舌頭都保不住，但身上也沒什麽藥物，就一瓶雲南白藥，當下取了裡面的保險子給白妹子吃了，管不管用也只能這麽地了。",
+      "translated_vi": "Vân Thiên Phong thấy cô bị mất cả chóp lưỡi, nếu để nhiễm trùng thì e rằng chẳng giữ nổi cả chiếc lưỡi. Ngặt nỗi trên người anh chẳng có thuốc men gì ngoài một lọ Vân Nam Bạch Dược, đành lấy viên Bảo Hiểm Tử bên trong đưa cho cô nuốt tạm, có tác dụng hay không cũng đành phó mặc cho số trời."
+    },
+    {
+      "para_id": "c0068p0030",
+      "index": 30,
+      "raw_zh": "朱柏龍好信的問道：",
+      "translated_vi": "Chu Bách Long tò mò hỏi dồn:"
+    },
+    {
+      "para_id": "c0068p0031",
+      "index": 31,
+      "raw_zh": "“那是什麽東西？”",
+      "translated_vi": "“Thứ đó rốt cuộc là con quái gì thế?”"
+    },
+    {
+      "para_id": "c0068p0032",
+      "index": 32,
+      "raw_zh": "雲千峰說道：",
+      "translated_vi": "Vân Thiên Phong đáp:"
+    },
+    {
+      "para_id": "c0068p0033",
+      "index": 33,
+      "raw_zh": "“那是人面篆，一種蠱物，非常危險，咱們盡可能護住嘴巴，別給那東西可乘之機，等會咱們遇到其他人，第一件事就是檢查舌頭，不配合的就撂倒。”",
+      "translated_vi": "“Đó là Nhân Diện Triện, một loài cổ vật cực kỳ hung hiểm. Chúng ta phải cố hết sức che chắn miệng lại, tuyệt đối đừng tạo cơ hội cho nó chui vào. Lát nữa gặp những người khác, việc đầu tiên là phải kiểm tra lưỡi, ai không chịu hợp tác thì cứ quật ngã ngay tại chỗ.”"
+    },
+    {
+      "para_id": "c0068p0034",
+      "index": 34,
+      "raw_zh": "朱柏龍拍了拍胸脯，道：",
+      "translated_vi": "Chu Bách Long vỗ ngực bồm bộp, bảo:"
+    },
+    {
+      "para_id": "c0068p0035",
+      "index": 35,
+      "raw_zh": "“再遇著你讓我來，對了伱怎麽知道她嘴裡有那玩意兒？”",
+      "translated_vi": "“Lần sau gặp ai cứ để tôi ra tay! À mà này, sao anh biết trong miệng cô ấy có cái thứ quỷ quái đó?”"
+    },
+    {
+      "para_id": "c0068p0036",
+      "index": 36,
+      "raw_zh": "雲千峰回道：",
+      "translated_vi": "Vân Thiên Phong trả lời:"
+    },
+    {
+      "para_id": "c0068p0037",
+      "index": 37,
+      "raw_zh": "“你說她不會游泳，卻能那麽利索的在深水裡遊出來，這很反常，而在這種鬼地方，一絲反常也不能大意，事前更沒有時間去解釋。”",
+      "translated_vi": "“Anh vừa bảo cô ấy không biết bơi, vậy mà cô ấy lại có thể ngoi lên khỏi vùng nước sâu một cách nhanh thoăn thoắt như thế, điều này quá bất thường. Ở cái nơi quỷ quái này, chỉ cần một chi tiết trái với lẽ thường cũng không được phép lơ là, huống chi tình thế cấp bách căn bản chẳng có thời gian để giải thích dông dài.”"
+    },
+    {
+      "para_id": "c0068p0038",
+      "index": 38,
+      "raw_zh": "說著話，雲千峰在原地觀察了一會，指著太陽的方向，道：",
+      "translated_vi": "Đang nói chuyện, Vân Thiên Phong quan sát xung quanh một lát rồi chỉ tay về hướng vầng thái dương nơi chân trời, bảo:"
+    },
+    {
+      "para_id": "c0068p0039",
+      "index": 39,
+      "raw_zh": "“咱們往那面樹林旁走，用木枝燃起篝火，煙氣能把其他人指引過來。”",
+      "translated_vi": "“Chúng ta đi về phía bìa rừng đằng kia, dùng cành cây đốt một đống lửa trại, khói bốc lên sẽ dẫn đường cho những người khác tìm tới.”"
+    },
+    {
+      "para_id": "c0068p0040",
+      "index": 40,
+      "raw_zh": "三個人一起繞著滿地的船隻殘骸往深處走去。",
+      "translated_vi": "Ba người cùng nhau men theo đống xác thuyền vương vãi khắp mặt đất, rảo bước tiến sâu vào bên trong."
+    },
+    {
+      "para_id": "c0068p0041",
+      "index": 41,
+      "raw_zh": "小雨依舊，細小的水滴介於雨和霧之間，分外粘人。",
+      "translated_vi": "Cơn mưa bụi vẫn rả rích không dứt, những hạt nước nhỏ li ti nửa như mưa nửa như sương mù, bám dính vào người vô cùng nhớp nháp khó chịu."
+    },
+    {
+      "para_id": "c0068p0042",
+      "index": 42,
+      "raw_zh": "這裡溫度很高，怕不是有四十度，汗蒸一樣，但奇怪的是，一點也不會有高溫天氣的那種呼吸壓抑感。",
+      "translated_vi": "Nhiệt độ ở nơi này rất cao, e rằng phải lên tới bốn mươi độ C, hệt như trong phòng xông hơi, nhưng kỳ lạ ở chỗ người ta lại chẳng hề cảm thấy tức ngực hay ngột ngạt khó thở như trong những ngày nắng nóng đỉnh điểm."
+    },
+    {
+      "para_id": "c0068p0043",
+      "index": 43,
+      "raw_zh": "朱柏龍嘴裡嚷嚷著罵道：",
+      "translated_vi": "Chu Bách Long vừa đi vừa lầm bầm chửi đổng:"
+    },
+    {
+      "para_id": "c0068p0044",
+      "index": 44,
+      "raw_zh": "“這什麽鬼天氣，西邊晴空亮眼，咱們這雨飄個不停，晴天下雨澆王八，這不是罵人嘛！”",
+      "translated_vi": "“Cái thời tiết quái thai gì thế này không biết! Đằng tây thì trời quang mây tạnh sáng rực, còn chỗ này của chúng mình thì mưa cứ rơi rả rích không ngừng. Đúng là trời nắng đổ mưa rùa đội nón, chẳng khác nào trêu tức người ta!”"
+    },
+    {
+      "para_id": "c0068p0045",
+      "index": 45,
+      "raw_zh": "雲千峰抬頭看了看天，就見雲層壓得很低，低到似乎觸手可及一般。",
+      "translated_vi": "Vân Thiên Phong ngẩng đầu nhìn lên bầu trời, chỉ thấy những tầng mây sà xuống rất thấp, thấp đến mức ngỡ như giơ tay ra là có thể chạm tới."
+    },
+    {
+      "para_id": "c0068p0046",
+      "index": 46,
+      "raw_zh": "但如此壓低的雲層卻不是黑色，而是濃稠白霧一般，內裡隱約有電光閃爍，似乎隨時可能醞釀出一聲炸雷來。",
+      "translated_vi": "Nhưng tầng mây sà sát mặt đất đến thế lại chẳng mang màu đen kịt, mà trông như một khối sương mù trắng xóa đặc quánh, bên trong lờ mờ lóe lên những tia chớp điện, tựa hồ bất cứ lúc nào cũng có thể ùng oàng nổ ra một tiếng sấm sét xé toang không gian."
+    },
+    {
+      "para_id": "c0068p0047",
+      "index": 47,
+      "raw_zh": "雲千峰算計著，就是水流速度再快，那麽短的時間，他們最多被衝出去幾百米，於是問朱柏龍道：",
+      "translated_vi": "Vân Thiên Phong nhẩm tính, cho dù tốc độ dòng nước có nhanh đến đâu chăng nữa thì trong khoảng thời gian ngắn ngủi ấy, cùng lắm họ cũng chỉ bị cuốn trôi đi vài trăm mét là cùng. Thế là anh quay sang hỏi Chu Bách Long:"
+    },
+    {
+      "para_id": "c0068p0048",
+      "index": 48,
+      "raw_zh": "“你對老爺廟附近的環境熟嗎？”",
+      "translated_vi": "“Anh có rành rẽ môi trường xung quanh miếu Lão Gia không?”"
+    },
+    {
+      "para_id": "c0068p0049",
+      "index": 49,
+      "raw_zh": "朱柏龍點頭，道：",
+      "translated_vi": "Chu Bách Long gật đầu cái rụp:"
+    },
+    {
+      "para_id": "c0068p0050",
+      "index": 50,
+      "raw_zh": "“我坐地戶，熟得很。”",
+      "translated_vi": "“Tôi là dân bản địa cắm rễ ở đây từ đời tám hoánh nào rồi, quen thuộc từng chân tơ kẽ tóc.”"
+    },
+    {
+      "para_id": "c0068p0051",
+      "index": 51,
+      "raw_zh": "雲千峰點了點此處，道：",
+      "translated_vi": "Vân Thiên Phong chỉ tay xuống mặt đất dưới chân, hỏi:"
+    },
+    {
+      "para_id": "c0068p0052",
+      "index": 52,
+      "raw_zh": "“那你能看出來這是什麽地方嗎？咱們應該衝不出太遠。”",
+      "translated_vi": "“Vậy anh có nhận ra đây là chốn nào không? Chúng ta chắc chắn không bị dạt đi quá xa đâu.”"
+    },
+    {
+      "para_id": "c0068p0053",
+      "index": 53,
+      "raw_zh": "朱柏龍隻掃了一眼，就搖頭道：",
+      "translated_vi": "Chu Bách Long chỉ đảo mắt nhìn quanh một vòng rồi lắc đầu quầy quậy:"
+    },
+    {
+      "para_id": "c0068p0054",
+      "index": 54,
+      "raw_zh": "“我可以保證，在老爺廟方圓二十裡之內，絕沒有這樣的地方，一保準。”",
+      "translated_vi": "“Tôi dám lấy đầu ra đảm bảo, trong vòng hai mươi dặm quanh miếu Lão Gia tuyệt đối không có nơi nào như thế này, chắc chắn một trăm phần trăm.”"
+    },
+    {
+      "para_id": "c0068p0055",
+      "index": 55,
+      "raw_zh": "雲千峰搖頭道：",
+      "translated_vi": "Vân Thiên Phong lắc đầu:"
+    },
+    {
+      "para_id": "c0068p0056",
+      "index": 56,
+      "raw_zh": "“無論如何，這麽點時間，絕對不夠把咱們衝出去二十裡，所以這裡絕對就在老爺廟周邊。”",
+      "translated_vi": "“Dù thế nào đi nữa, ngần ấy thời gian tuyệt đối không đủ để cuốn chúng ta đi xa tới hai mươi dặm. Thế nên nơi này chắc chắn vẫn nằm quanh quẩn phụ cận miếu Lão Gia.”"
+    },
+    {
+      "para_id": "c0068p0057",
+      "index": 57,
+      "raw_zh": "朱柏龍發誓道：",
+      "translated_vi": "Chu Bách Long giơ tay thề thốt:"
+    },
+    {
+      "para_id": "c0068p0058",
+      "index": 58,
+      "raw_zh": "“別的你可以不信我，但是對這一片地方真沒有比我更熟的，說句真心話，這片地方，那片水裡長什麽魚，那片山上長什麽草，我都一清二楚，這裡絕對不是老爺廟周圍，別說方圓二十裡，三十裡都沒有這地兒。”",
+      "translated_vi": "“Chuyện khác anh có thể không tin tôi, nhưng riêng cái mảnh đất này thì thật sự chẳng ai rành hơn tôi đâu. Nói câu thật lòng, ở dải đất này, khúc nước nào có cá gì, ngọn đồi nào mọc cỏ chi, tôi đều nắm rõ như lòng bàn tay. Chỗ này tuyệt đối không phải xung quanh miếu Lão Gia, đừng nói hai mươi dặm, ba mươi dặm cũng chẳng đào đâu ra nơi thế này!”"
+    },
+    {
+      "para_id": "c0068p0059",
+      "index": 59,
+      "raw_zh": "白妹子舌頭沒那麽麻了，就是一張嘴有點淌酣水，她口齒不清的說道：",
+      "translated_vi": "Chiếc lưỡi của cô gái họ Bạch đã bớt tê dại, chỉ là hễ há miệng ra là nước bọt lại tứa ra. Cô nàng ú ớ nói không rõ tiếng:"
+    },
+    {
+      "para_id": "c0068p0060",
+      "index": 60,
+      "raw_zh": "“吾們是不是穿越惹？”",
+      "translated_vi": "“C-Chúng ta có phải xuyên không gồi hem?”"
+    },
+    {
+      "para_id": "c0068p0061",
+      "index": 61,
+      "raw_zh": "朱柏龍吧嗒吧嗒嘴，偏著大腦袋，道：",
+      "translated_vi": "Chu Bách Long tặc lưỡi mấy tiếng, nghiêng cái đầu bự chảng nói:"
+    },
+    {
+      "para_id": "c0068p0062",
+      "index": 62,
+      "raw_zh": "“你還別說，還真像那麽回事！”",
+      "translated_vi": "“Mày đừng nói mò nhé... cơ mà trông cũng giống thật đấy!”"
+    },
+    {
+      "para_id": "c0068p0063",
+      "index": 63,
+      "raw_zh": "雲千峰本來對穿越這種事是不信的，但是現在看來，如果朱柏龍真的對這一片熟悉到極點，那麽似乎又只有這一種答案能符合現在的情況。",
+      "translated_vi": "Vân Thiên Phong xưa nay vốn chẳng tin vào ba cái chuyện xuyên không hoang đường, thế nhưng nhìn vào tình cảnh lúc này, nếu Chu Bách Long thực sự rành rẽ vùng này đến mức chân tơ kẽ tóc, thì dường như chỉ có duy nhất câu trả lời ấy mới giải thích nổi tình huống trước mắt."
+    },
+    {
+      "para_id": "c0068p0064",
+      "index": 64,
+      "raw_zh": "白妹子指著太陽道：",
+      "translated_vi": "Cô gái họ Bạch chỉ tay về phía vầng thái dương bảo:"
+    },
+    {
+      "para_id": "c0068p0065",
+      "index": 65,
+      "raw_zh": "“而且是空間穿越，時間沒變，和剛柴沒沉水之前看到的夕陽一樣一樣咯。”",
+      "translated_vi": "“Hơn nữa còn nà xuyên không gian cơ, thời gian hông đổi, giống hệt mặt tòi lặn trước khi chìm xuống nước ban nãy nuôn.”"
+    },
+    {
+      "para_id": "c0068p0066",
+      "index": 66,
+      "raw_zh": "小姑娘說話聲音挺好聽，長得也文靜，但是說幾個字一禿嚕口水，就很破壞畫面。",
+      "translated_vi": "Giọng nói của cô gái vốn khá êm tai, dáng dấp cũng rất mực nho nhã, hiền thục, ngặt nỗi cứ nói được vài ba chữ lại nuốt nước bọt đánh ực một cái, trông cực kỳ phá tướng."
+    },
+    {
+      "para_id": "c0068p0067",
+      "index": 67,
+      "raw_zh": "三人來到樹林邊，頓時被眼前所見嚇了一跳。",
+      "translated_vi": "Ba người đi tới bìa rừng, lập tức bị cảnh tượng đập vào mắt làm cho sửng sốt."
+    },
+    {
+      "para_id": "c0068p0068",
+      "index": 68,
+      "raw_zh": "倒不是這裡的植被多茂密多高大，而是他們覺得自己變小了。",
+      "translated_vi": "Không phải vì thảm thực vật ở đây quá đỗi rậm rạp hay cao lớn, mà là họ bỗng cảm thấy bản thân dường như đã bị teo nhỏ lại."
+    },
+    {
+      "para_id": "c0068p0069",
+      "index": 69,
+      "raw_zh": "眼前樹根下一個蘑菇，差不多有接近兩米高，而在這巨大蘑菇的旁邊，幾乎都是筆筒樹那種樹狀蕨類植物，但是一般的筆筒樹也就長到幾米高，這裡的卻最少都是十幾二十米。",
+      "translated_vi": "Dưới gốc cây trước mặt có một cây nấm cao gần hai mét, còn bên cạnh cây nấm khổng lồ ấy hầu như toàn là loài dương xỉ thân gỗ dạng như cây bút đồng, nhưng bút đồng bình thường cùng lắm chỉ cao vài mét, còn ở đây cây nào cây nấy ít nhất cũng phải mười mấy đến hai mươi mét."
+    },
+    {
+      "para_id": "c0068p0070",
+      "index": 70,
+      "raw_zh": "白妹子“禿嚕”了一下口水，驚訝道：",
+      "translated_vi": "Cô gái họ Bạch nuốt nước bọt đánh “ực” một cái, kinh ngạc thốt lên:"
+    },
+    {
+      "para_id": "c0068p0071",
+      "index": 71,
+      "raw_zh": "“我們是不是穿越到侏羅紀公園咯？”",
+      "translated_vi": "“Chúng ta có phải xuyên không tới Công viên Kỷ Jura gồi hông?”"
+    },
+    {
+      "para_id": "c0068p0072",
+      "index": 72,
+      "raw_zh": "雲千峰也完全不知道怎麽解釋眼前見到的一切。",
+      "translated_vi": "Vân Thiên Phong cũng hoàn toàn không biết phải giải thích thế nào về tất cả những gì đang hiển hiện trước mắt."
+    },
+    {
+      "para_id": "c0068p0073",
+      "index": 73,
+      "raw_zh": "明明最多被大水衝了不到兩三分鍾，本該在水底深處，卻莫名的被衝到了地面上。",
+      "translated_vi": "Rõ ràng họ chỉ bị dòng nước lũ cuốn trôi chưa đầy hai ba phút, đáng lẽ phải kẹt sâu dưới đáy nước, vậy mà lại khó hiểu trôi dạt lên trên mặt đất."
+    },
+    {
+      "para_id": "c0068p0074",
+      "index": 74,
+      "raw_zh": "然而坐地戶還很確定老爺廟周邊三十裡沒這樣的地方。",
+      "translated_vi": "Trong khi đó, tay dân bản địa lại đoan chắc trong vòng ba mươi dặm quanh miếu Lão Gia không hề có một nơi nào như thế này."
+    },
+    {
+      "para_id": "c0068p0075",
+      "index": 75,
+      "raw_zh": "現在眼前看到的植物雖然都是常見植物，但個頭又絕不是現代環境能長出來的高度。",
+      "translated_vi": "Giờ đây những thảm thực vật trước mắt tuy đều là các chủng loại quen thuộc, song kích thước khổng lồ của chúng tuyệt đối không phải là chiều cao mà môi trường hiện đại có thể nuôi dưỡng ra được."
+    },
+    {
+      "para_id": "c0068p0076",
+      "index": 76,
+      "raw_zh": "“咱們先找些沒濕透的柴火，盡可能在這避雨的蘑菇下面生起篝火，這黏雨沾身太難受了。”",
+      "translated_vi": "“Chúng ta hãy tìm ít củi chưa bị ướt sũng, cố gắng nhóm một đống lửa trại bên dưới cây nấm che mưa này xem sao. Cơn mưa nhớp nháp bám dính vào người khó chịu quá chừng.”"
+    },
+    {
+      "para_id": "c0068p0077",
+      "index": 77,
+      "raw_zh": "雲千峰說完，另外倆人都很配合的散開，在這蘑菇周圍尋找乾枯能燃燒的植物。",
+      "translated_vi": "Vân Thiên Phong vừa dứt lời, hai người kia đều rất phối hợp tản ra xung quanh gốc nấm để tìm kiếm những cành củi khô ráo có thể cháy được."
+    },
+    {
+      "para_id": "c0068p0078",
+      "index": 78,
+      "raw_zh": "好在這裡巨大的蘑菇不少，倒是保住了不少下面植物殘軀的乾燥，雖然不多但足夠做底火。",
+      "translated_vi": "Cũng may quanh đây có không ít cây nấm khổng lồ che chở, giữ cho những xác cành mục bên dưới giữ được độ khô ráo, tuy không nhiều nhưng đủ làm bùi nhùi mồi lửa."
+    },
+    {
+      "para_id": "c0068p0079",
+      "index": 79,
+      "raw_zh": "有了底火，就是柴火潮濕一些，也沒關系了。",
+      "translated_vi": "Có được lửa mồi rồi thì dù cành củi có hơi ẩm ướt một chút cũng chẳng thành vấn đề."
+    },
+    {
+      "para_id": "c0068p0080",
+      "index": 80,
+      "raw_zh": "但問題是，三個人都沒有能用的打火機。",
+      "translated_vi": "Nhưng vấn đề nan giải là cả ba người đều chẳng có chiếc bật lửa nào dùng được."
+    },
+    {
+      "para_id": "c0068p0081",
+      "index": 81,
+      "raw_zh": "雲千峰的在水裡被甩丟了，朱柏龍的是引線火機，進水就廢，白妹子根本沒這玩意。",
+      "translated_vi": "Bật lửa của Vân Thiên Phong đã bị nước quăng quật đánh rơi mất, của Chu Bách Long là loại bật lửa xăng đá có bấc ngấm nước là hỏng bét, còn cô gái họ Bạch thì căn bản không bao giờ mang theo thứ đồ này."
+    },
+    {
+      "para_id": "c0068p0082",
+      "index": 82,
+      "raw_zh": "“這怎整？”",
+      "translated_vi": "“Giờ tính sao đây?”"
+    },
+    {
+      "para_id": "c0068p0083",
+      "index": 83,
+      "raw_zh": "朱柏龍一籌莫展。",
+      "translated_vi": "Chu Bách Long bó tay bất lực."
+    },
+    {
+      "para_id": "c0068p0084",
+      "index": 84,
+      "raw_zh": "雲千峰倒是沒犯愁，快速的用短劍銷了一根短木棍，然後用劍刃刮了一些乾木碎末下來做成疏松的團狀。",
+      "translated_vi": "Vân Thiên Phong lại chẳng hề nao núng, nhanh nhẹn dùng đoản kiếm vót nhọn một thanh gỗ ngắn, rồi lấy lưỡi kiếm cạo ra một đống mùn gỗ khô xốp, gom lại thành một nhúm bùi nhùi tơi xốp."
+    },
+    {
+      "para_id": "c0068p0085",
+      "index": 85,
+      "raw_zh": "看到這一幕，白妹子搖頭苦臉，道：",
+      "translated_vi": "Trông thấy cảnh tượng ấy, cô gái họ Bạch lắc đầu nhăn nhó bảo:"
+    },
+    {
+      "para_id": "c0068p0086",
+      "index": 86,
+      "raw_zh": "“篆木取火，這樣的環境很難萬到。”",
+      "translated_vi": "“Kwoan gỗ lấy hỏa, ở chỗ ẩm ướt lày khó mần được nắm.”"
+    },
+    {
+      "para_id": "c0068p0087",
+      "index": 87,
+      "raw_zh": "雲千峰也知道很難，但烽火狼煙是這環境下最佳的遠程通訊手段，至於高聲呼喊，面對這樣詭異的叢林，他暫時沒那個膽量，小神經在的話也不敢，萬一真有恐龍怎辦。",
+      "translated_vi": "Vân Thiên Phong thừa hiểu chuyện đó khó khăn thế nào, nhưng khói lửa báo hiệu là phương thức liên lạc tầm xa hữu hiệu nhất trong hoàn cảnh này. Còn như gào to gọi người, đối mặt với khu rừng rậm quỷ dị ngút ngàn thế này, anh tạm thời không đủ gan dạ để làm liều, dẫu Tiểu Thần Kinh có ở đây anh cũng chẳng dám hó hé, ngộ nhỡ trong rừng thực sự có khủng long thì biết tính sao?"
+    },
+    {
+      "para_id": "c0068p0088",
+      "index": 88,
+      "raw_zh": "他拿起鑽棒，用那些碎末圍在鑽棒頭部，然後開始在一塊木頭上使勁轉動起來。",
+      "translated_vi": "Anh cầm thanh khoan gỗ lên, rải đám mùn khô quấn quanh đầu mũi khoan, rồi bắt đầu tì mạnh lên một khúc gỗ khô mà ra sức xoay tròn liên hồi."
+    },
+    {
+      "para_id": "c0068p0089",
+      "index": 89,
+      "raw_zh": "雲千峰自己也沒期待短時間能把火燃起來，所以倒是不急不躁。",
+      "translated_vi": "Bản thân Vân Thiên Phong cũng chẳng dám kỳ vọng có thể tạo ra lửa trong thời gian ngắn ngủi, thế nên anh cứ túc tắc làm với thái độ vô cùng điềm tĩnh, không hề nóng vội."
+    },
+    {
+      "para_id": "c0068p0090",
+      "index": 90,
+      "raw_zh": "然而意外發生了，僅僅鑽了十幾秒，在三個人驚訝的目光裡，鑽棒頭部冒出了清晰可見的青煙，那團枯木屑幾乎沒用吹氣助燃，就“嘭”的一聲變成了一團火苗。",
+      "translated_vi": "Thế nhưng điều bất ngờ đã xảy ra. Mới chỉ cọ xát được vỏn vẹn mười mấy giây, dưới ánh mắt kinh ngạc của cả ba người, đầu mũi khoan gỗ đã bốc lên những làn khói xanh mờ mờ thấy rõ. Đống mùn cưa khô khốc kia hầu như chẳng cần ai thổi hơi trợ lực đã “bùng” một tiếng, hóa thành một đốm lửa bập bùng sáng rực."
+    },
+    {
+      "para_id": "c0068p0091",
+      "index": 91,
+      "raw_zh": "雲千峰咽了口唾沫，了然和不可思議同時爬在臉上，道：",
+      "translated_vi": "Vân Thiên Phong nuốt khan một ngụm nước bọt, vẻ bừng tỉnh xen lẫn nỗi kinh ngạc không tưởng đồng thời hiện rõ trên khuôn mặt, anh cất giọng:"
+    },
+    {
+      "para_id": "c0068p0092",
+      "index": 92,
+      "raw_zh": "“我好像知道這裡的植物為什麽這麽奇怪了”",
+      "translated_vi": "“Hình như tôi đã hiểu vì sao cây cối ở nơi này lại kỳ dị đến thế rồi...”"
+    }
+  ]
+}

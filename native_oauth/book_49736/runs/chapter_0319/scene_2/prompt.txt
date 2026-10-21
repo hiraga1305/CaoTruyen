@@ -1,0 +1,63 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0319|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=EXPOSITION_SMOOTH|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Liệu có khi nào... cuốn sách này thực chất căn bản không phải do tôi viết ra?
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §24):
+§1 [Ø=云千峰]我喜歡這種命中注定的感覺，那會讓我在遇到一切的好和壞時，都能夠心安理得。
+§2 這是懶人必備的心理素質。
+§3 [Ø=云千峰]好吧，我還是忍不住！
+§4 謝謝伱們！謝謝你們！謝謝你們！
+§5 現在說正事。
+§6 [Ø=云千峰]我知道有讀者會很難理解這個結尾，也知道有讀者會感覺心中一空，也有人心中會有遺憾。
+§7 [Ø=云千峰]但我想說的是，這裡是這個故事最佳的節點。
+§8 [Ø=云千峰]因為這一切的因果，就是帝嚳的算計，從開始到最後。
+§9 [Ø=云千峰]完整的起點到終點，再開啟了一個新的起點。
+§10 世界就是這樣輪回著。
+§11 [Ø=云千峰]未來有一天，我一定還會繼續寫這個故事，但是主角可能已經不是雲千峰，但是祂一定在這個世界裡。
+§12 [Ø=云千峰]我太愛這個世界了，在這個名為終點的起點之後，有著無限的故事供我挖掘。
+§13 [Ø=云千峰]在這個名為起點的終點之前，有著無數的歷史任我解讀。
+§14 [Ø=云千峰]這是我的寶藏，我會挖掘它，但一定會謹慎的守住這個世界的尊嚴，敬請各位放心。
+§15 [Ø=云千峰]恭喜你們參與創造了這個世界，恭喜！！！
+§16 PS：
+§17 [Ø=云千峰]一：後面我會寫一個相對詳細的編年史，但是估計需要的時間會久一點，但一定會有。
+§18 [Ø=云千峰]二：會寫幾個必須交代的番外，比如蘋果島事件始末和接龍脈的一些小事，都不會很長，但會做一個延展。
+§19 [Ø=云千峰]三：有什麽不解的世界觀和邏輯問題，都在這裡提問，我全都會給予回答，慢慢回答； [||] 有對哪個人物的關切也可以說出來，能簡單回答的我會立即回答，不能簡單回答的，我會盡可能寫一個小番外進行交代，也都在這裡留言。
+§20 [Ø=云千峰]之所以寧可用番外來補充一些故事，只是為了不破壞這個世界時間線的完整性，我有點強迫症。
+§21 [Ø=云千峰]當然，如果你們要看“那種”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]番外，那你們就去把酥糖請回群裡，她擅長“那種”[Q2:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]。
+§22 此致：
+§23 [Ø=云千峰]一個平凡作者的一個平凡人的故事，送給不平凡和終將不平凡的你們，這是我的榮幸，再次謝謝你們！！！
+§24 敬禮！
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 24 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§24. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

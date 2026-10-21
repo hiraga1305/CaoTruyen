@@ -1,0 +1,739 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 211,
+  "title": "Chương 211: TRỐN CHẠY LÀ MỘT LOẠI THIÊN PHÚ!",
+  "total_paragraphs": 121,
+  "translated_paragraphs": 121,
+  "source_hash": "2c779e8857d74800be65d9fb173bc53465317ba9c58e9112fe8582099945538b",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0211p0001",
+      "index": 1,
+      "raw_zh": "第211章 逃，是一種天分！",
+      "translated_vi": "Chương 211: TRỐN CHẠY LÀ MỘT LOẠI THIÊN PHÚ!"
+    },
+    {
+      "para_id": "c0211p0002",
+      "index": 2,
+      "raw_zh": "看得出來，姮娥很歡喜雲千峰的到來。",
+      "translated_vi": "Có thể nhận thấy rõ, Hằng Nga vô cùng vui sướng trước sự xuất hiện của Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0211p0003",
+      "index": 3,
+      "raw_zh": "就那麽赤著腳，輕盈而來。",
+      "translated_vi": "Nàng cứ thế đi chân trần, nhẹ nhàng lướt tới."
+    },
+    {
+      "para_id": "c0211p0004",
+      "index": 4,
+      "raw_zh": "雲千峰深吸幾口氣，確定自己現在很清醒。",
+      "translated_vi": "Vân Thiên Phong hít sâu mấy hơi, đoan chắc bản thân lúc này đang vô cùng tỉnh táo."
+    },
+    {
+      "para_id": "c0211p0005",
+      "index": 5,
+      "raw_zh": "然後掐了一下自己的大腿，沒感覺到疼，知道自己是在做清明之夢。",
+      "translated_vi": "Rồi anh nhéo mạnh vào đùi mình một cái, không hề cảm thấy đau, liền biết mình đang ở trong một giấc mơ tỉnh thức."
+    },
+    {
+      "para_id": "c0211p0006",
+      "index": 6,
+      "raw_zh": "於是他問出了那句憋在心裡很有的問題：",
+      "translated_vi": "Thế là anh cất lời hỏi câu hỏi đã nghẹn ứ trong lòng bấy lâu nay:"
+    },
+    {
+      "para_id": "c0211p0007",
+      "index": 7,
+      "raw_zh": "“姮娥，你到底是隻存在於我夢裡，還是真實存在？”",
+      "translated_vi": "“Hằng Nga, rốt cuộc nàng chỉ tồn tại trong giấc mơ của tôi, hay là thực sự tồn tại?”"
+    },
+    {
+      "para_id": "c0211p0008",
+      "index": 8,
+      "raw_zh": "姮娥就那麽站在雲千峰身前，聲音帶著笑意，回道：",
+      "translated_vi": "Hằng Nga cứ thế đứng trước mặt Vân Thiên Phong, giọng nói mang theo ý cười, khẽ đáp:"
+    },
+    {
+      "para_id": "c0211p0009",
+      "index": 9,
+      "raw_zh": "“你道那雷是誰劈出來？”",
+      "translated_vi": "“Chàng nghĩ luồng sét kia do ai giáng xuống?”"
+    },
+    {
+      "para_id": "c0211p0010",
+      "index": 10,
+      "raw_zh": "這個回答無法讓雲千峰確定姮娥是否真實，因為這回答很可能是自己意識的產物。",
+      "translated_vi": "Câu trả lời này chẳng thể giúp Vân Thiên Phong xác định liệu Hằng Nga có thật hay không, bởi lẽ nó rất có thể chỉ là sản phẩm do tiềm thức của chính anh tạo ra."
+    },
+    {
+      "para_id": "c0211p0011",
+      "index": 11,
+      "raw_zh": "畢竟雲千峰曾想過，劈向自己和羅琳娜的雷是姮娥的傑作。",
+      "translated_vi": "Dẫu sao Vân Thiên Phong từng nghĩ rằng, tia sét đánh thẳng về phía mình và Lorina chính là kiệt tác của Hằng Nga."
+    },
+    {
+      "para_id": "c0211p0012",
+      "index": 12,
+      "raw_zh": "“姮娥，我很疑惑，我無法確定你是否是真實存在的，這麽說吧，伱能否用一個回答確定真假？”",
+      "translated_vi": "“Hằng Nga, tôi rất hoang mang, tôi không tài nào xác định được nàng có tồn tại thực sự hay không. Nói thế này đi, nàng có thể dùng một câu trả lời để xác định thật giả được chăng?”"
+    },
+    {
+      "para_id": "c0211p0013",
+      "index": 13,
+      "raw_zh": "姮娥捧著雲千峰的臉，就像一個心疼男人的妻子，幽幽道：",
+      "translated_vi": "Hằng Nga nâng lấy gương mặt Vân Thiên Phong, dịu dàng như một người vợ xót thương chồng mình, khẽ than:"
+    },
+    {
+      "para_id": "c0211p0014",
+      "index": 14,
+      "raw_zh": "“良人，我無法向你證明，但我相信，有一天你會真實的來到我身邊，因為你是帝的選擇，而帝從來不會錯。",
+      "translated_vi": "“Chàng ơi, thiếp không thể chứng minh cho chàng thấy, nhưng thiếp tin rằng, một ngày nào đó chàng sẽ thực sự bước tới bên thiếp bằng xương bằng thịt, bởi vì chàng là sự lựa chọn của Đế, mà Đế thì chưa từng sai lầm bao giờ."
+    },
+    {
+      "para_id": "c0211p0015",
+      "index": 15,
+      "raw_zh": "我也看到了你剛才在獨活與拯救之間的選擇，證明帝的選擇永遠是正確的，你值得他在古遠的年代，為你做出選擇。”",
+      "translated_vi": "Thiếp cũng đã chứng kiến lựa chọn vừa rồi của chàng giữa việc sống sót một mình và cứu rỗi người khác. Điều đó chứng minh sự lựa chọn của Đế mãi mãi đúng đắn, chàng xứng đáng để Người đưa ra quyết định vì chàng từ tận thời viễn cổ xa xôi.”"
+    },
+    {
+      "para_id": "c0211p0016",
+      "index": 16,
+      "raw_zh": "這些也都是雲千峰曾經猜測過的，依舊無法讓雲千峰確定姮娥的真假。",
+      "translated_vi": "Những điều này cũng đều là những điều Vân Thiên Phong từng suy đoán, vẫn chưa đủ để anh xác định hư thực về sự tồn tại của Hằng Nga."
+    },
+    {
+      "para_id": "c0211p0017",
+      "index": 17,
+      "raw_zh": "姮娥說的應該是雲千峰剛才殺身成仁的選擇，而這很可能是雲千峰內心的自我褒獎。",
+      "translated_vi": "Lời Hằng Nga nói hẳn là nhắc tới việc anh vừa sẵn sàng xả thân thành nhân khi nãy, mà điều này rất có thể chỉ là sự tán thưởng tự thân phát ra từ sâu thẳm nội tâm anh."
+    },
+    {
+      "para_id": "c0211p0018",
+      "index": 18,
+      "raw_zh": "雲千峰眼珠一轉，想到了一個問題可以證實姮娥的真假，因為那是他完全不理解的問題。",
+      "translated_vi": "Tròng mắt Vân Thiên Phong đảo quanh, nghĩ ra một câu hỏi có thể kiểm chứng được thật giả của Hằng Nga, bởi đó là vấn đề mà chính anh hoàn toàn không hiểu nổi."
+    },
+    {
+      "para_id": "c0211p0019",
+      "index": 19,
+      "raw_zh": "“姮娥，你和那些怪物是什麽關系？為什麽他們在月球低軌運行的時候，能夠靠著那邪惡的儀式在地下走出來？”",
+      "translated_vi": "“Hằng Nga, nàng và những con quái vật kia có mối quan hệ gì? Tại sao khi Mặt Trăng bay ở quỹ đạo tầm thấp, chúng lại có thể dựa vào nghi thức tà ác kia để bò lên từ lòng đất?”"
+    },
+    {
+      "para_id": "c0211p0020",
+      "index": 20,
+      "raw_zh": "姮娥雖然帶著青銅哭面具，但是透過那深邃的眸子，雲千峰能夠感覺到她的嚴肅和認真。",
+      "translated_vi": "Tuy Hằng Nga đang mang chiếc mặt nạ khóc bằng đồng thanh, nhưng qua đôi mắt sâu thẳm kia, Vân Thiên Phong có thể cảm nhận rõ sự nghiêm nghị và nghiêm túc của nàng."
+    },
+    {
+      "para_id": "c0211p0021",
+      "index": 21,
+      "raw_zh": "“那些怪物與我，與全人類是敵對的關系，這你無需懷疑，至於為什麽祂們需要月亮的光明，是因為月亮本就是祂們的。”",
+      "translated_vi": "“Những con quái vật đó cùng với thiếp, cùng với toàn thể nhân loại là mối quan hệ đối địch sinh tử, điều này chàng không cần hoài nghi. Còn việc vì sao bọn chúng cần tới ánh sáng của Mặt Trăng, là bởi vì Mặt Trăng vốn dĩ thuộc về chúng.”"
+    },
+    {
+      "para_id": "c0211p0022",
+      "index": 22,
+      "raw_zh": "“啊？”",
+      "translated_vi": "“Hả?”"
+    },
+    {
+      "para_id": "c0211p0023",
+      "index": 23,
+      "raw_zh": "這是雲千峰從來不知道的答案，也從未想過。",
+      "translated_vi": "Đây là câu trả lời Vân Thiên Phong chưa từng hay biết, cũng chưa từng nghĩ tới bao giờ."
+    },
+    {
+      "para_id": "c0211p0024",
+      "index": 24,
+      "raw_zh": "那麽，姮娥是真實存在的？",
+      "translated_vi": "Vậy thì, Hằng Nga thực sự tồn tại?"
+    },
+    {
+      "para_id": "c0211p0025",
+      "index": 25,
+      "raw_zh": "不過這一刻，姮娥是否真實，反而沒有姮娥的回答更加吸引雲千峰的注意。",
+      "translated_vi": "Nhưng vào khoảnh khắc này, việc Hằng Nga có thật hay không lại chẳng thu hút sự chú ý của Vân Thiên Phong bằng chính câu trả lời của nàng."
+    },
+    {
+      "para_id": "c0211p0026",
+      "index": 26,
+      "raw_zh": "“月球是祂們的？那些怪物！可你才是千萬年來傳說的月神啊！月亮一直不都是你的？”",
+      "translated_vi": "“Mặt Trăng là của chúng? Lũ quái vật kia ư! Nhưng nàng mới là Nguyệt Thần trong truyền thuyết suốt hàng ngàn vạn năm qua cơ mà! Chẳng lẽ Mặt Trăng từ trước tới nay không phải của nàng?”"
+    },
+    {
+      "para_id": "c0211p0027",
+      "index": 27,
+      "raw_zh": "這也是雲千峰之前認為姮娥與那些怪物是一夥的原因，即便是現在，雲千峰也是這樣懷疑。",
+      "translated_vi": "Đây cũng chính là lý do trước đây Vân Thiên Phong từng ngỡ Hằng Nga cùng một giuộc với đám quái vật kia, ngay cả lúc này, anh vẫn ôm nỗi hoài nghi như vậy."
+    },
+    {
+      "para_id": "c0211p0028",
+      "index": 28,
+      "raw_zh": "姮娥微微點了點頭，柔聲道：",
+      "translated_vi": "Hằng Nga khẽ gật đầu, dịu giọng cất tiếng:"
+    },
+    {
+      "para_id": "c0211p0029",
+      "index": 29,
+      "raw_zh": "“我是千萬年來的月神，但月亮存在的時間，豈止千萬年？在我成為月神之前，月亮是祂們的，換句話說，是我鳩佔鵲巢。”",
+      "translated_vi": "“Thiếp đúng là Nguyệt Thần suốt hàng ngàn vạn năm qua, nhưng khoảng thời gian Mặt Trăng tồn tại đâu chỉ có ngần ấy năm tháng? Trước khi thiếp trở thành Nguyệt Thần, Mặt Trăng thuộc về chúng, hay nói cách khác, chính là thiếp đã tu hú chiếm tổ chim bồ câu.”"
+    },
+    {
+      "para_id": "c0211p0030",
+      "index": 30,
+      "raw_zh": "只聽這話，就知道姮娥成為月神的過程有多複雜。",
+      "translated_vi": "Chỉ cần nghe lời này thôi cũng đủ biết quá trình Hằng Nga trở thành Nguyệt Thần phức tạp và gian nan đến nhường nào."
+    },
+    {
+      "para_id": "c0211p0031",
+      "index": 31,
+      "raw_zh": "“你成為月神，也是帝的算計？”",
+      "translated_vi": "“Việc nàng trở thành Nguyệt Thần, cũng là toan tính của Đế sao?”"
+    },
+    {
+      "para_id": "c0211p0032",
+      "index": 32,
+      "raw_zh": "姮娥點了點頭，柔聲若水：",
+      "translated_vi": "Hằng Nga gật đầu, giọng mềm mại như nước:"
+    },
+    {
+      "para_id": "c0211p0033",
+      "index": 33,
+      "raw_zh": "“自帝存，這世間的一切事，都是帝的算計。”",
+      "translated_vi": "“Kể từ khi Đế hiện hữu, mọi sự trên thế gian này đều nằm trong toan tính của Người.”"
+    },
+    {
+      "para_id": "c0211p0034",
+      "index": 34,
+      "raw_zh": "雲千峰看著姮娥：",
+      "translated_vi": "Vân Thiên Phong nhìn Hằng Nga:"
+    },
+    {
+      "para_id": "c0211p0035",
+      "index": 35,
+      "raw_zh": "“帝，是帝嚳？”",
+      "translated_vi": "“Đế, chính là Đế Cốc?”"
+    },
+    {
+      "para_id": "c0211p0036",
+      "index": 36,
+      "raw_zh": "姮娥點頭，道：",
+      "translated_vi": "Hằng Nga gật đầu, đáp:"
+    },
+    {
+      "para_id": "c0211p0037",
+      "index": 37,
+      "raw_zh": "“當然，古往今來，屬於人類的天下只有一帝，帝嚳！”",
+      "translated_vi": "“Đương nhiên, từ xưa đến nay, thiên hạ thuộc về loài người duy chỉ có một vị Đế: Đế Cốc!”"
+    },
+    {
+      "para_id": "c0211p0038",
+      "index": 38,
+      "raw_zh": "雲千峰對這話不敢苟同，詫異道：",
+      "translated_vi": "Vân Thiên Phong không dám đồng tình với lời này, kinh ngạc bảo:"
+    },
+    {
+      "para_id": "c0211p0039",
+      "index": 39,
+      "raw_zh": "“古往今來？那當今東方西方的.”",
+      "translated_vi": "“Từ xưa đến nay ư? Thế còn Đông Tây kim cổ thời nay...”"
+    },
+    {
+      "para_id": "c0211p0040",
+      "index": 40,
+      "raw_zh": "姮娥柔聲道：",
+      "translated_vi": "Hằng Nga dịu dàng nói:"
+    },
+    {
+      "para_id": "c0211p0041",
+      "index": 41,
+      "raw_zh": "“就是你想的那樣，隻此一帝。”",
+      "translated_vi": "“Đúng như những gì chàng nghĩ đấy, duy chỉ có một vị Đế ấy mà thôi.”"
+    },
+    {
+      "para_id": "c0211p0042",
+      "index": 42,
+      "raw_zh": "雲千峰內心歎了聲“god”，這回答也是自己未曾想到過的。",
+      "translated_vi": "Trong lòng Vân Thiên Phong thầm thốt lên một tiếng lạy trời, câu trả lời này quả thực nằm ngoài mọi dự liệu của anh."
+    },
+    {
+      "para_id": "c0211p0043",
+      "index": 43,
+      "raw_zh": "“那三皇五帝？”",
+      "translated_vi": "“Vậy còn Tam Hoàng Ngũ Đế?”"
+    },
+    {
+      "para_id": "c0211p0044",
+      "index": 44,
+      "raw_zh": "姮娥柔聲道：",
+      "translated_vi": "Hằng Nga khẽ bảo:"
+    },
+    {
+      "para_id": "c0211p0045",
+      "index": 45,
+      "raw_zh": "“那不是人類的天下，是神的天下。”",
+      "translated_vi": "“Đó không phải là thiên hạ của nhân loại, mà là thiên hạ của thần linh.”"
+    },
+    {
+      "para_id": "c0211p0046",
+      "index": 46,
+      "raw_zh": "雲千峰莫名想到了白狐，忙道：",
+      "translated_vi": "Vân Thiên Phong bất giác liên tưởng tới con hồ ly trắng, vội hỏi:"
+    },
+    {
+      "para_id": "c0211p0047",
+      "index": 47,
+      "raw_zh": "“是我見過的那些神軀？”",
+      "translated_vi": "“Là những bộ thần khu mà tôi từng gặp sao?”"
+    },
+    {
+      "para_id": "c0211p0048",
+      "index": 48,
+      "raw_zh": "姮娥緩緩搖頭：",
+      "translated_vi": "Hằng Nga chậm rãi lắc đầu:"
+    },
+    {
+      "para_id": "c0211p0049",
+      "index": 49,
+      "raw_zh": "“祂們，只是土地山神，並不是曾經主宰這裡的神。”",
+      "translated_vi": "“Họ chỉ là sơn thần thổ địa, chẳng phải những vị thần từng thống trị chốn này.”"
+    },
+    {
+      "para_id": "c0211p0050",
+      "index": 50,
+      "raw_zh": "雲千峰想要問，曾經主宰這裡的神是誰，祂們去了哪。",
+      "translated_vi": "Vân Thiên Phong muốn hỏi tiếp, rốt cuộc những vị thần từng chúa tể nơi đây là ai, và họ đã đi đâu."
+    },
+    {
+      "para_id": "c0211p0051",
+      "index": 51,
+      "raw_zh": "然而，還沒等他開口，那種即將夢醒的感覺襲來。",
+      "translated_vi": "Thế nhưng, anh còn chưa kịp mở miệng thì cảm giác mộng tàn sắp tỉnh đã ập tới."
+    },
+    {
+      "para_id": "c0211p0052",
+      "index": 52,
+      "raw_zh": "耳邊傳來婉娜拉呼喚他名字的聲音。",
+      "translated_vi": "Bên tai văng vẳng tiếng Vannala đang gấp gáp gọi tên anh."
+    },
+    {
+      "para_id": "c0211p0053",
+      "index": 53,
+      "raw_zh": "他知道可怕的事情又開始了，當下也顧不得問問題，急道：",
+      "translated_vi": "Anh hiểu chuyện kinh hoàng lại bắt đầu giáng xuống, lúc này chẳng kịp hỏi han thêm, bèn vội vã thốt lên:"
+    },
+    {
+      "para_id": "c0211p0054",
+      "index": 54,
+      "raw_zh": "“你能幫我劈死那幫東西嗎？”",
+      "translated_vi": "“Nàng có thể giúp tôi giáng sét đánh chết lũ quái vật đó được không?”"
+    },
+    {
+      "para_id": "c0211p0055",
+      "index": 55,
+      "raw_zh": "姮娥搖頭，哀聲道：",
+      "translated_vi": "Hằng Nga lắc đầu, giọng đượm buồn bi thương:"
+    },
+    {
+      "para_id": "c0211p0056",
+      "index": 56,
+      "raw_zh": "“我不能幫你，知道那些秘密的人都不能幫你，因為那會更改帝的算計，我們需要你完全按照帝的選擇走下去。”",
+      "translated_vi": "“Thiếp không thể ra tay giúp chàng, những người thấu tỏ những bí mật ấy đều không thể giúp chàng, bởi vì điều đó sẽ làm thay đổi những toan tính của Đế. Chúng thiếp cần chàng bước tiếp hoàn toàn theo con đường mà Đế đã lựa chọn.”"
+    },
+    {
+      "para_id": "c0211p0057",
+      "index": 57,
+      "raw_zh": "雲千峰已經處於半夢半醒之間，姮娥的模樣越來越模糊，朦朧間，他聽到姮娥最後的話：",
+      "translated_vi": "Vân Thiên Phong đã rơi vào trạng thái nửa tỉnh nửa mê, bóng hình Hằng Nga ngày một mờ nhạt dần, trong cõi mịt mùng mộng ảo, anh nghe thấy những lời sau cùng của nàng:"
+    },
+    {
+      "para_id": "c0211p0058",
+      "index": 58,
+      "raw_zh": "“良人，照顧好自己，渡過接下來那段最艱險的旅程，來見我，在這月宮之中”",
+      "translated_vi": "“Chàng ơi, hãy tự chăm sóc bản thân cho thật tốt, vượt qua chặng đường gian nan hiểm ác nhất phía trước, rồi đến tìm thiếp... ngay tại chốn Nguyệt Cung này...”"
+    },
+    {
+      "para_id": "c0211p0059",
+      "index": 59,
+      "raw_zh": "雲千峰醒轉之前，腦子急速運轉，把這句話分析了一遍。",
+      "translated_vi": "Vân Thiên Phong đột ngột mở bừng mắt."
+    },
+    {
+      "para_id": "c0211p0060",
+      "index": 60,
+      "raw_zh": "“月宮？夢境裡真的是月球上？怎麽可能！月球上面哪有那麽美！哪有桂花樹！",
+      "translated_vi": "Gương mặt đầm đìa nước mắt của Vannala đang kề sát ngay trước mắt anh."
+    },
+    {
+      "para_id": "c0211p0061",
+      "index": 61,
+      "raw_zh": "姮娥用了“那段”而不是“這次”，這說明她口中的最艱險不僅僅是指代此刻我遇到的危機，而是未來很長一段時間，我都將面對“最艱險”的危機！搞什麽？難道我又惹什麽禍事了？”",
+      "translated_vi": "“Chủ nhân, mặt đất lại rung chuyển rồi, dữ dội hơn ban nãy nhiều!”"
+    },
+    {
+      "para_id": "c0211p0062",
+      "index": 62,
+      "raw_zh": "悲催的惱火之中，雲千峰醒來。",
+      "translated_vi": "Vân Thiên Phong vội vã đứng bật dậy, kéo Vannala ra sau lưng che chở, cảnh giác đảo mắt nhìn quanh quất, đồng thời khẽ giật tai lắng nghe tiếng động để định vị phương hướng, phán đoán xem mối nguy hiểm bắt nguồn từ đâu và sẽ hiện diện dưới hình thức nào."
+    },
+    {
+      "para_id": "c0211p0063",
+      "index": 63,
+      "raw_zh": "大地在震動，那些原本巨大的石柱在崩塌倒地，廢墟之中，一座純黑色的巨大宮殿在地面上緩緩升起。",
+      "translated_vi": "Mặt đất đang rung chuyển dữ dội, những cột đá khổng lồ ban đầu đổ ụp ầm ầm xuống đất, giữa đống hoang tàn đổ nát, một tòa cung điện khổng lồ màu đen tuyền đang từ từ trồi lên khỏi mặt đất."
+    },
+    {
+      "para_id": "c0211p0064",
+      "index": 64,
+      "raw_zh": "那黑色的宮殿如此巨大，左右看不到邊際，上方直插霧氣之中，一樣看不到全貌。",
+      "translated_vi": "Cung điện màu đen ấy đồ sộ tới mức hai bên chẳng thấy nổi đường biên, đỉnh chóp đâm thẳng vào màn sương mù mịt mùng, cũng không tài nào nhìn thấy toàn cảnh."
+    },
+    {
+      "para_id": "c0211p0065",
+      "index": 65,
+      "raw_zh": "宮殿的大門關閉著，但僅僅是門縫，在人類的眼中，就好像人類宮殿的走廊一樣寬闊。",
+      "translated_vi": "Đại môn cung điện đóng chặt, nhưng chỉ riêng khe cửa hở ra, trong mắt con người, đã rộng thênh thang chẳng khác nào hành lang của một cung điện nhân gian."
+    },
+    {
+      "para_id": "c0211p0066",
+      "index": 66,
+      "raw_zh": "在黑色宮殿的周圍，盛開著黑紅色的花，散發著陳腐的氣味。",
+      "translated_vi": "Xung quanh tòa hắc cung, những đóa hoa đỏ thẫm pha đen nở rộ rực rỡ, tỏa ra mùi hương mục ruỗng hôi hám."
+    },
+    {
+      "para_id": "c0211p0067",
+      "index": 67,
+      "raw_zh": "雲千峰下意識的抬頭望去，就見青色的虹橋已經填滿彩虹間的縫隙。",
+      "translated_vi": "Vân Thiên Phong bất giác ngước mắt nhìn lên, chỉ thấy chiếc cầu vồng màu thanh sắc đã lấp kín mọi kẽ hở giữa các dải cầu vồng."
+    },
+    {
+      "para_id": "c0211p0068",
+      "index": 68,
+      "raw_zh": "彩虹，圓滿了。",
+      "translated_vi": "Cầu vồng đã đạt tới độ viên mãn."
+    },
+    {
+      "para_id": "c0211p0069",
+      "index": 69,
+      "raw_zh": "他們已經墮落到了可怕深淵的最深處。",
+      "translated_vi": "Bọn họ đã đọa lạc xuống tận đáy sâu thẳm nhất của vực thẳm kinh hoàng."
+    },
+    {
+      "para_id": "c0211p0070",
+      "index": 70,
+      "raw_zh": "地獄！",
+      "translated_vi": "Địa ngục!"
+    },
+    {
+      "para_id": "c0211p0071",
+      "index": 71,
+      "raw_zh": "大地的震顫結束了。",
+      "translated_vi": "Cơn chấn động của mặt đất rốt cuộc đã lắng xuống."
+    },
+    {
+      "para_id": "c0211p0072",
+      "index": 72,
+      "raw_zh": "滾落的碎石在那一刻安靜下來，同時安靜的還有每一個人。",
+      "translated_vi": "Những hòn đá dăm lăn lóc rơi rụng vào khoảnh khắc ấy đều im bặt, và cùng lúc đó, từng con người ở đây cũng nín lặng như tờ."
+    },
+    {
+      "para_id": "c0211p0073",
+      "index": 73,
+      "raw_zh": "這些人不傻，知道即將有可怕的事情發生。",
+      "translated_vi": "Những người này không hề ngốc, họ biết rõ sắp sửa có chuyện vô cùng khủng khiếp xảy ra."
+    },
+    {
+      "para_id": "c0211p0074",
+      "index": 74,
+      "raw_zh": "“轟吱嘎！”",
+      "translated_vi": "“Ầm... két két két!”"
+    },
+    {
+      "para_id": "c0211p0075",
+      "index": 75,
+      "raw_zh": "那巨大的黑色石門緩緩敞開，仿似怪獸張開了巨口。",
+      "translated_vi": "Cánh cổng đá đen khổng lồ kia từ từ hé mở, hệt như một con cự thú đang ngoác to chiếc miệng khổng lồ."
+    },
+    {
+      "para_id": "c0211p0076",
+      "index": 76,
+      "raw_zh": "門口漆黑，除了黑色再無他物。",
+      "translated_vi": "Cửa vào đen đặc như mực, ngoài màu đen ra chẳng còn bất cứ thứ gì khác."
+    },
+    {
+      "para_id": "c0211p0077",
+      "index": 77,
+      "raw_zh": "似乎月光到了門旁，也會被裡面的黑暗吞噬。",
+      "translated_vi": "Dường như ngay cả ánh trăng khi lướt qua mép cửa cũng bị bóng tối mịt mùng bên trong nuốt chửng."
+    },
+    {
+      "para_id": "c0211p0078",
+      "index": 78,
+      "raw_zh": "一股讓人心底發寒的風從黑色的門口飄蕩出來，那樣的優雅，恰似閑庭信步。",
+      "translated_vi": "Một luồng gió khiến người ta lạnh buốt tận đáy lòng từ cửa hắc thạch lững lờ trôi ra, thanh tao khoan thai, tựa như đang dạo bước nhàn tản giữa sân vắng."
+    },
+    {
+      "para_id": "c0211p0079",
+      "index": 79,
+      "raw_zh": "那風彌漫過所有人，然後再群人中央匯聚，化作一股旋風，而旋風內，似乎有一具殘破的身軀。",
+      "translated_vi": "Luồng gió ấy thổi qua thân thể từng người, rồi hội tụ lại ngay giữa đám đông, hóa thành một cơn lốc xoáy; mà bên trong lốc xoáy dường như ẩn hiện một thân xác tàn tạ."
+    },
+    {
+      "para_id": "c0211p0080",
+      "index": 80,
+      "raw_zh": "祂是那樣的破爛，全身遍布著好似灼燒的洞，坑坑窪窪，有的洞甚至能夠從前看到後。",
+      "translated_vi": "Thể xác ấy rách nát đến cùng cực, khắp toàn thân chằng chịt những lỗ thủng như bị thiêu đốt, lồi lõm sứt sẹo, có những lỗ thủng thậm chí có thể nhìn xuyên từ trước ra sau."
+    },
+    {
+      "para_id": "c0211p0081",
+      "index": 81,
+      "raw_zh": "那身軀絕不是人類，因為祂後背上有著兩條人類不具備的翼骨。",
+      "translated_vi": "Thân xác đó tuyệt đối không phải là con người, bởi lẽ sau lưng ả mọc ra hai khung xương cánh mà nhân loại không bao giờ có."
+    },
+    {
+      "para_id": "c0211p0082",
+      "index": 82,
+      "raw_zh": "旋風越轉越快，越來越大。",
+      "translated_vi": "Cơn lốc xoáy xoay tròn càng lúc càng nhanh, càng lúc càng bành trướng."
+    },
+    {
+      "para_id": "c0211p0083",
+      "index": 83,
+      "raw_zh": "而後開始遊弋。",
+      "translated_vi": "Rồi bắt đầu trôi nổi lướt đi săn lùng."
+    },
+    {
+      "para_id": "c0211p0084",
+      "index": 84,
+      "raw_zh": "那旋風席卷著地面上的骨R，而在旋風內部，那破抹布般的身軀開始飽滿，那些似乎灼燒出的孔洞開始快速，肉眼可見的彌平。",
+      "translated_vi": "Cơn lốc cuồn cuộn quét qua xương thịt rơi vãi trên mặt đất, mà ở bên trong lốc xoáy, thân xác rách rưới như giẻ lau kia bắt đầu căng đầy trở lại, những lỗ thủng tựa như bị thiêu đốt nhanh chóng khép miệng và phẳng phiu với tốc độ mắt thường có thể nhìn thấy rõ."
+    },
+    {
+      "para_id": "c0211p0085",
+      "index": 85,
+      "raw_zh": "灰黑色的翼骨上開始生長出筋皮，黑色的羽毛快速的在那些筋皮上冒出來。",
+      "translated_vi": "Trên khung xương cánh màu đen xám bắt đầu mọc ra gân màng da thịt, những chiếc lông vũ màu đen tuyền tua tủa đâm chồi trên lớp màng ấy với tốc độ kinh người."
+    },
+    {
+      "para_id": "c0211p0086",
+      "index": 86,
+      "raw_zh": "很快，黑色的猶如蒼鷹的巨大翅膀在那身軀後面伸展出來。",
+      "translated_vi": "Chẳng mấy chốc, đôi cánh đen khổng lồ tựa chim ưng dang rộng ra phía sau thân xác ấy."
+    },
+    {
+      "para_id": "c0211p0087",
+      "index": 87,
+      "raw_zh": "被旋風卷過的人，甚至來不及發出聲響，就快速乾癟，成了木乃伊。",
+      "translated_vi": "Những người bị cơn lốc cuốn qua thậm chí còn không kịp thốt lên lấy một tiếng kêu, đã nhanh chóng khô quắt đi, biến thành những xác ướp khẳng khiu."
+    },
+    {
+      "para_id": "c0211p0088",
+      "index": 88,
+      "raw_zh": "一如雲千峰的預測。",
+      "translated_vi": "Đúng hệt như dự đoán của Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0211p0089",
+      "index": 89,
+      "raw_zh": "沒人能活著離開。",
+      "translated_vi": "Chẳng một ai có thể sống sót rời khỏi nơi đây."
+    },
+    {
+      "para_id": "c0211p0090",
+      "index": 90,
+      "raw_zh": "雲千峰拽著婉娜拉快速的後退，遠離驚慌的人群。",
+      "translated_vi": "Vân Thiên Phong lôi tuột Vannala lùi gấp về phía sau, tránh xa đám đông đang hoảng loạn tột độ."
+    },
+    {
+      "para_id": "c0211p0091",
+      "index": 91,
+      "raw_zh": "眼睛則始終盯著旋風之中那黑色的身影。",
+      "translated_vi": "Cặp mắt anh vẫn găm chặt vào bóng hình đen kịt giữa cơn lốc xoáy."
+    },
+    {
+      "para_id": "c0211p0092",
+      "index": 92,
+      "raw_zh": "那身影已經基本完全。",
+      "translated_vi": "Bóng hình ấy cơ bản đã khôi phục vẹn toàn."
+    },
+    {
+      "para_id": "c0211p0093",
+      "index": 93,
+      "raw_zh": "祂長相優雅而美麗，但區別於奇跡號上見過的那些油畫。",
+      "translated_vi": "Tướng mạo của ả tao nhã và kiều diễm tuyệt trần, nhưng lại khác biệt với những bức tranh sơn dầu từng thấy trên con tàu Kỳ Tích."
+    },
+    {
+      "para_id": "c0211p0094",
+      "index": 94,
+      "raw_zh": "在那些油畫中的形象都是分不出性別的。",
+      "translated_vi": "Nhân vật trong những bức tranh sơn dầu ấy đều không phân định rõ giới tính."
+    },
+    {
+      "para_id": "c0211p0095",
+      "index": 95,
+      "raw_zh": "但是眼前這黑翼的身影，明顯是個女人的模樣。",
+      "translated_vi": "Nhưng bóng hình mang đôi cánh đen trước mắt này rõ ràng lại mang dáng dấp của một người phụ nữ."
+    },
+    {
+      "para_id": "c0211p0096",
+      "index": 96,
+      "raw_zh": "那身影一直閉著眼睛享受著身體的慢慢複原，直到身邊沒有了可以席卷之物，才睜開眼睛，疑惑的低頭看著自己碩大的凶雞。",
+      "translated_vi": "Bóng hình ấy nãy giờ vẫn nhắm nghiền mắt tận hưởng cảm giác cơ thể từ từ hồi phục, mãi cho tới khi xung quanh chẳng còn thứ gì để cuốn lấy nuốt chửng, ả mới mở mắt ra, đầy vẻ khó hiểu cúi đầu nhìn xuống đôi gò bồng đảo đẫy đà khủng bố của chính mình."
+    },
+    {
+      "para_id": "c0211p0097",
+      "index": 97,
+      "raw_zh": "她本該是個俊美男人的形象，但此刻似乎陰盛陽衰了。",
+      "translated_vi": "Lẽ ra ả phải mang hình tượng của một trang nam tử tuấn mỹ, nhưng vào lúc này dường như đã bị âm thịnh dương suy mất rồi."
+    },
+    {
+      "para_id": "c0211p0098",
+      "index": 98,
+      "raw_zh": "於是她抬頭環視四方，在看到雲千峰那一刻，她笑了。",
+      "translated_vi": "Thế là ả ngẩng đầu nhìn quanh bốn phía, vào khoảnh khắc trông thấy Vân Thiên Phong, khóe môi ả nở một nụ cười."
+    },
+    {
+      "para_id": "c0211p0099",
+      "index": 99,
+      "raw_zh": "“原來還差一個男人，難怪！”",
+      "translated_vi": "“Hóa ra vẫn còn thiếu một gã đàn ông, thảo nào!”"
+    },
+    {
+      "para_id": "c0211p0100",
+      "index": 100,
+      "raw_zh": "想著，她震動著黑色的巨翅，直奔雲千峰而來。",
+      "translated_vi": "Nghĩ đoạn, ả vỗ mạnh đôi cánh đen khổng lồ, lao thẳng tắp về phía Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0211p0101",
+      "index": 101,
+      "raw_zh": "雲千峰不知道那長著黑色翅膀的果人要幹嘛，但是看那眼神，是奔著自己來的。",
+      "translated_vi": "Vân Thiên Phong chẳng rõ kẻ trần như nhộng mang đôi cánh đen kia muốn làm trò gì, nhưng nhìn ánh mắt đó là biết tỏng ả nhắm thẳng vào mình."
+    },
+    {
+      "para_id": "c0211p0102",
+      "index": 102,
+      "raw_zh": "當下果斷將婉娜拉推出老遠，而自己則朝著相反的方向狂奔而去。",
+      "translated_vi": "Ngay tức khắc anh dứt khoát đẩy Vannala văng ra thật xa, còn bản thân thì cắm đầu chạy như điên về hướng ngược lại."
+    },
+    {
+      "para_id": "c0211p0103",
+      "index": 103,
+      "raw_zh": "黑色的大地上，到處是黑色的巨石柱，黑紅色的花朵在雲千峰的腳下糜爛。",
+      "translated_vi": "Trên mặt đất đen kịt, khắp nơi la liệt những cột đá đen khổng lồ, những đóa hoa đỏ thẫm dập nát tan tành dưới gót chân Vân Thiên Phong."
+    },
+    {
+      "para_id": "c0211p0104",
+      "index": 104,
+      "raw_zh": "身後那巨大翅膀卷動的風聲越來越近，雲千峰已經感覺到後背的涼意。",
+      "translated_vi": "Tiếng gió rít do đôi cánh khổng lồ sau lưng quạt tới ngày một áp sát, Vân Thiên Phong đã cảm nhận rõ luồng hơi lạnh thấu xương phả vào lưng mình."
+    },
+    {
+      "para_id": "c0211p0105",
+      "index": 105,
+      "raw_zh": "一雙腿無論如何也跑不過翅膀的飛翔。",
+      "translated_vi": "Đôi chân người dù có nhanh đến mấy cũng chẳng đời nào đọ nổi đôi cánh đang bay lượn."
+    },
+    {
+      "para_id": "c0211p0106",
+      "index": 106,
+      "raw_zh": "某處房車內，所有光頭黑衣人都屏住了呼吸。",
+      "translated_vi": "Bên trong một chiếc xe dã ngoại ở nơi kín đáo, toàn bộ đám người trọc đầu áo đen đều nín thở dõi theo."
+    },
+    {
+      "para_id": "c0211p0107",
+      "index": 107,
+      "raw_zh": "他們知道，他們就要成功了。",
+      "translated_vi": "Bọn chúng biết, đại sự sắp sửa thành công rồi."
+    },
+    {
+      "para_id": "c0211p0108",
+      "index": 108,
+      "raw_zh": "當走出地獄的這位大人吸收了雲千峰，達到完滿，一切就都結束了。",
+      "translated_vi": "Khi vị đại nhân vừa bước ra khỏi địa ngục kia hấp thu nốt Vân Thiên Phong để đạt tới cảnh giới viên mãn, tất thảy mọi sự sẽ chính thức hạ màn."
+    },
+    {
+      "para_id": "c0211p0109",
+      "index": 109,
+      "raw_zh": "他們內心無比的激動。",
+      "translated_vi": "Sâu thẳm trong lòng chúng trào dâng niềm kích động khôn xiết."
+    },
+    {
+      "para_id": "c0211p0110",
+      "index": 110,
+      "raw_zh": "“就要追上了！”",
+      "translated_vi": "“Sắp đuổi kịp rồi!”"
+    },
+    {
+      "para_id": "c0211p0111",
+      "index": 111,
+      "raw_zh": "“馬上就要結束了，新的鍾聲即將敲響。”",
+      "translated_vi": "“Ngay tức khắc sẽ kết thúc thôi, tiếng chuông của thời đại mới sắp sửa ngân vang!”"
+    },
+    {
+      "para_id": "c0211p0112",
+      "index": 112,
+      "raw_zh": "“啊，追上了，大人已經來到了那卑微人類的頭頂！”",
+      "translated_vi": "“A, đuổi kịp rồi, đại nhân đã bay tới ngay trên đỉnh đầu của tên nhân loại hèn mọn kia rồi!”"
+    },
+    {
+      "para_id": "c0211p0113",
+      "index": 113,
+      "raw_zh": "“我們的時代即將什麽情況？”",
+      "translated_vi": "“Kỷ nguyên của chúng ta sắp sửa... Cái quái gì thế này?”"
+    },
+    {
+      "para_id": "c0211p0114",
+      "index": 114,
+      "raw_zh": "房車內，所有的光頭黑衣人全都瞪圓了眼睛，無法相信眼前的一幕。",
+      "translated_vi": "Bên trong xe dã ngoại, toàn bộ đám người đầu trọc áo đen đều trố tròn mắt, không dám tin vào cảnh tượng đang diễn ra trước mắt."
+    },
+    {
+      "para_id": "c0211p0115",
+      "index": 115,
+      "raw_zh": "因為雲千峰跑著跑著，眼看著要被那翅膀卷起的黑風席卷。",
+      "translated_vi": "Bởi vì Vân Thiên Phong đang cắm cổ chạy, mắt thấy sắp sửa bị luồng hắc phong do đôi cánh quạt ra cuốn lấy."
+    },
+    {
+      "para_id": "c0211p0116",
+      "index": 116,
+      "raw_zh": "也就在那一刻，他猛然向前一個滾翻，然後倒立了。",
+      "translated_vi": "Đúng vào khoảnh khắc ngàn cân treo sợi tóc ấy, anh bỗng nhiên lộn nhào về phía trước một vòng, rồi... trồng cây chuối!"
+    },
+    {
+      "para_id": "c0211p0117",
+      "index": 117,
+      "raw_zh": "是的，倒立了。",
+      "translated_vi": "Phải, đúng là trồng cây chuối chống tay xuống đất."
+    },
+    {
+      "para_id": "c0211p0118",
+      "index": 118,
+      "raw_zh": "並且以倒立的姿勢，用雙臂快速倒弄，死命的向前奔逃，速度奇快無比，比翅膀還快。",
+      "translated_vi": "Hơn nữa với tư thế chổng ngược hai chân lên trời, anh dùng hai cánh tay thoăn thoắt chuyền bước, liều mạng cắm đầu lao về phía trước, tốc độ nhanh đến khó tin, thậm chí còn nhanh hơn cả đôi cánh đang bay lượn!"
+    },
+    {
+      "para_id": "c0211p0119",
+      "index": 119,
+      "raw_zh": "感謝尾數59092、hdfsklgdf、潛淵之魚、尾數52532、這是一棵草、你是聽書客還是故中人、喂那妞是哥先打劫的月票獎勵，謝謝你們的支持，感激！！！",
+      "translated_vi": "Chân thành cảm ơn phần thưởng phiếu tháng từ các bạn đọc có đuôi số 59092, hdfsklgdf, Tiềm Uyên Chi Ngư, đuôi số 52532, Giá Thị Nhất Khỏa Thảo, Nể Thị Thính Thư Khách Hoàn Thị Cố Trung Nhân, Này Cô Em Là Anh Cướp Trước Đấy; cảm ơn sự ủng hộ của các bạn rất nhiều, vô cùng cảm kích!!!"
+    },
+    {
+      "para_id": "c0211p0120",
+      "index": 120,
+      "raw_zh": "又是雨夜，沒有蚊子，開窗早睡。",
+      "translated_vi": "Lại là một đêm mưa, không có muỗi, mở cửa sổ đi ngủ sớm thôi."
+    },
+    {
+      "para_id": "c0211p0121",
+      "index": 121,
+      "raw_zh": "晚安！！！祝好夢。",
+      "translated_vi": "Chúc mọi người ngủ ngon!!! Chúc mộng đẹp."
+    }
+  ]
+}

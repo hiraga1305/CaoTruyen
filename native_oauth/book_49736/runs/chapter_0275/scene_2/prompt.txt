@@ -1,0 +1,90 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0275|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Đó là một cảnh tượng nơi Đảo Vặn Vẹo.
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+@HARD_METRICS
+M1|一座|một tòa
+M2|一座|một tòa
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §48):
+§1 就在那舉行婚禮的巨大石頭建築旁邊。
+§2 遠遠的能看到那巨大建築前的枯骨和禮盒。
+§3 身邊還有被城內各種機關殺死的不同年代的人。
+§4 [Ø=云千峰]而在最靠近石頭建築的位置，那裡有一條石街， [||] 地上也都是不規則的石頭鋪地，而在那石街上，[Ø_SHIFT=姜柔甲]倒地著一堆枯骨。
+§5 [Ø=姜柔甲]在當時，那裡的屍體太多了，各種死法，足夠吸引眼球。
+§6 [Ø=姜柔甲]所以一小堆枯骨，雲千峰完全沒注意。
+§7 [Ø=姜柔甲]但是如今回憶起來，他卻禁不住心中震驚。
+§8 [Ø=姜柔甲]因為那小堆枯骨並不完整，而是半個人的枯骨，連腦袋都是整齊的半個。
+§9 [Ø=姜柔甲]雲千峰猛然睜開眼睛，坐直了身體，跳下欘龍冰晶，冷得牙齒打顫。
+§10 “我知道城市對面結婚的是誰了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=姜柔甲]白狐和卓瑪一愣，齊聲問道：
+§12 “是誰？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§13 [Ø=姜柔甲]雲千峰點了根煙，回道：
+§14 “姮娥和盤瓠。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§15 [Ø=姜柔甲]白狐一愣，轉而明白了這句話的意思，當下驚道：
+§16 [Ø=姜柔甲]“這城市被切掉的部分，在你去過的扭曲島。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§17 [Ø=姜柔甲]雲千峰點了點頭，說道：
+§18 [Ø=姜柔甲]“沒錯，舉辦婚禮的石頭大殿，就是扭曲島那座。我當時利用運走飛星去到那石殿時還納悶， [||] 那麽大的石殿，是怎麽在滿是機關的城市內建起來，因為只是運輸就很難辦到。
+§19 [Ø=姜柔甲]現在我明白了，是先有的那石頭大殿，然後才是圍繞著那大殿建造了那座城。”
+§20 卓瑪驚訝道：
+§21 [Ø=姜柔甲]“可，這怎麽可能？一個在大海上，一部分在這遙遠的地下，這怎麽可能辦到？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§22 [Ø=姜柔甲]斬下城市的一部分，這看起來已經天方夜譚，更別說把斬掉的部分運到萬裡之外。
+§23 [Ø=姜柔甲]雲千峰和卓瑪簡單說了一遍費城實驗的過程，然後猜測道：
+§24 [Ø=姜柔甲]“如果我猜的沒錯，斬掉這部分城市，應用的就是強磁扭曲時空的辦法，就像當時科學家對“愛爾德裡奇”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]號使用的方法一樣。
+§25 [Ø=姜柔甲]只不過，曾經的人對這座城所做的更多，也跟更複雜。
+§26 [Ø=姜柔甲]他們應該是把整座城都用強磁力場包圍，只不過被切走的部分和我們現在所在的部分，所處的力場方向是相反的。
+§27 [Ø=姜柔甲]他們用這種方法切斷了城市，並把整座城分成兩個部分，送到了兩個遙遠的地方。”
+§28 [Ø=姜柔甲]白狐恍然大悟，道：
+§29 [Ø=姜柔甲]“怪不得卓瑪的第三眼看不到這裡，因為這裡和扭曲島一樣，其實根本不完全屬於這個時空。
+§30 [Ø=姜柔甲]那也就是說，這座城根本原本就不在地下，而應該是在別的地方， [||] 按照磁場扭曲相反，那麽取兩地中間值，這座城原本應該在”
+§31 [Ø=姜柔甲]白狐還在計算，雲千峰已經給出答案：
+§32 [Ø=姜柔甲]“在現在的渤海之下，我們所在的這座城， [||] 是城中之城，或許這就是為什麽渤海下發現萬年前巨大古城，但卻沒有尋到主建築的原因。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§33 白狐不解道：
+§34 “為什麽要分開一座[M1:một tòa]城？誰會這樣做？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§35 [Ø=姜柔甲]雲千峰吐了個煙柱，無力道：
+§36 “還能是誰？當然是帝嚳。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§37 [Ø=姜柔甲]白狐愈加不解，道：
+§38 [Ø=姜柔甲]“帝嚳的智慧無人能及，他為什麽要做這看起來毫無意義的事情？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§39 雲千峰回道：
+§40 [Ø=姜柔甲]“曾經的曾經，帝嚳做過無數的選擇，他永遠是計算著去做選擇，而這無數的選擇造就了現在的我。
+§41 [Ø=姜柔甲]在別人看起來，把一座[M2:một tòa]城扭曲傳送到不同的位置毫無意義，但只有我明白，這意義非凡。”
+§42 白狐和卓瑪幾乎齊聲問道：
+§43 “意義在哪？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§44 雲千峰苦笑道：
+§45 [Ø=姜柔甲]“意義在於，帝嚳把答應我的，全都給我了。這半座城放在這裡，我的必經之路上， [||] 就是帝嚳準備在這裡告訴我，我是誰，並且告訴我，他兌現了所有對我的承諾。
+§46 [Ø=姜柔甲]離開這裡以後，帝嚳我和兩不相欠， [||] 再有苦果，不再是帝嚳的因果，而是我自己的。
+§47 [Ø=姜柔甲]同時也意味著，他在我離開這裡以後， [||] 若是算計殺我，也不是違背諾言，更不是言而無信。
+§48 [Ø=姜柔甲]帝王啊！金口玉言，真正的金口玉言！”
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 48 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§48. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

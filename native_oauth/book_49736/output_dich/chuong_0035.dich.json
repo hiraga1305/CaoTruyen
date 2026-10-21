@@ -1,0 +1,487 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 35,
+  "title": "Chương 35: Thấy lửa liền ẩn",
+  "total_paragraphs": 79,
+  "translated_paragraphs": 79,
+  "source_hash": "26d7bfc11d9aac5c64ef7d3be3600fc7fc0f679f6b1d6dec35720015ffb69e2e",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0035p0001",
+      "index": 1,
+      "raw_zh": "第35章 見火則隱",
+      "translated_vi": "Chương 35: Thấy lửa liền ẩn"
+    },
+    {
+      "para_id": "c0035p0002",
+      "index": 2,
+      "raw_zh": "“嗯？”",
+      "translated_vi": "“Hả?”"
+    },
+    {
+      "para_id": "c0035p0003",
+      "index": 3,
+      "raw_zh": "聽到這話，雲千峰很是意外，在他看來，伏羲要是能和梵天打上關系，那麽三英就能戰秦瓊。",
+      "translated_vi": "Nghe thấy lời này, Vân Thiên Phong vô cùng bất ngờ, theo cách nghĩ của hắn thì nếu Phục Hy mà có thể dính dáng tới Phạm Thiên, chẳng khác nào bảo ba anh em Lưu Quan Trương đại chiến Tần Quỳnh."
+    },
+    {
+      "para_id": "c0035p0004",
+      "index": 4,
+      "raw_zh": "薑柔甲清了清嗓子，忙道：",
+      "translated_vi": "Khương Nhu Giáp khẽ hắng giọng, vội nói tiếp:"
+    },
+    {
+      "para_id": "c0035p0005",
+      "index": 5,
+      "raw_zh": "“你剛才說的主信濕婆的古佔人為什麽給梵天建造這樣一座神廟我不知道怎麽回事，但伏羲和梵天應該是有聯系的，或者說是相像。”",
+      "translated_vi": "“Chuyện ban nãy anh nói về việc người Cổ Chiêm vốn tôn sùng thần Shiva cớ sao lại xây thần miếu cho Phạm Thiên thì em chịu không biết, nhưng Phục Hy và Phạm Thiên chắc chắn có mối liên hệ với nhau, hay nói đúng hơn là có những điểm tương đồng kỳ lạ.”"
+    },
+    {
+      "para_id": "c0035p0006",
+      "index": 6,
+      "raw_zh": "“我哥對神跡著迷，很早就和志同道合的幾個人組成了一個小團隊，雖然之前一直沒有任何行動，但卻做了很多考證工作。”",
+      "translated_vi": "“Anh trai em mê mẩn các thần tích thời cổ, từ sớm đã cùng vài người bạn chí đồng đạo hợp lập nên một nhóm nhỏ, dẫu trước đó chưa từng có hành động thực tế nào, nhưng họ đã làm rất nhiều công tác khảo cứu chứng thực.”"
+    },
+    {
+      "para_id": "c0035p0007",
+      "index": 7,
+      "raw_zh": "“我記得他們用了很長時間研究伏羲與梵天，他還講給我聽，挺有意思的。我哥他們發現伏羲和梵天有很大的相似性，伏羲造書契，梵天也是造書；伏羲坐四方台聽八面風，梵天是四面佛觀八方；伏羲手上拿著一把矩尺，而梵天頭頂畫著矩尺；伏羲娶了弱水女神，梵天娶的也是一個女河神，那河叫什麽我忘了，反正倆人挺像的。”",
+      "translated_vi": "“Em nhớ họ từng dành rất nhiều thời gian nghiên cứu về Phục Hy và Phạm Thiên, anh ấy còn kể cho em nghe, thú vị lắm. Nhóm của anh ấy phát hiện Phục Hy và Phạm Thiên có vô số điểm tương đồng lớn: Phục Hy sáng tạo ra chữ viết văn tự, Phạm Thiên cũng là đấng tạo ra kinh thư; Phục Hy ngồi trên đài bốn phương lắng nghe gió tám hướng, Phạm Thiên là vị Phật bốn mặt ngắm nhìn tám phương trời; trên tay Phục Hy cầm một chiếc thước vuông, còn trên đỉnh đầu Phạm Thiên cũng vẽ một chiếc thước vuông; Phục Hy kết duyên cùng Nữ thần Nhược Thủy, Phạm Thiên cưới một nữ thần sông, tên con sông đó là gì thì em quên mất rồi, tóm lại là hai vị thần này giống nhau đến kỳ lạ.”"
+    },
+    {
+      "para_id": "c0035p0008",
+      "index": 8,
+      "raw_zh": "雲千峰越聽越迷糊，但是秦疏影的眼睛卻越聽越亮。",
+      "translated_vi": "Vân Thiên Phong càng nghe càng lùng bùng lỗ tai, thế nhưng đôi mắt Tần Sơ Ảnh thì càng nghe lại càng sáng rực lên."
+    },
+    {
+      "para_id": "c0035p0009",
+      "index": 9,
+      "raw_zh": "薑柔甲搜腸刮肚把自己記得的全都說完，雲千峰一腦門漿糊道：",
+      "translated_vi": "Khương Nhu Giáp vắt óc nhớ lại tất cả những gì mình biết nói ra hết một lượt, Vân Thiên Phong gãi đầu gãi tai, lẩm bẩm:"
+    },
+    {
+      "para_id": "c0035p0010",
+      "index": 10,
+      "raw_zh": "“難道古佔人把這倆大神當成一個神了？不能夠吧？”",
+      "translated_vi": "“Chẳng lẽ người Cổ Chiêm lại coi hai vị đại thần này là cùng một người sao? Đâu đến mức ấy chứ?”"
+    },
+    {
+      "para_id": "c0035p0011",
+      "index": 11,
+      "raw_zh": "雲千峰都懷疑一千多年前的古佔人認不認識伏羲。",
+      "translated_vi": "Vân Thiên Phong thậm chí còn hoài nghi liệu người Cổ Chiêm hơn một ngàn năm trước có biết Phục Hy là ai hay không nữa là."
+    },
+    {
+      "para_id": "c0035p0012",
+      "index": 12,
+      "raw_zh": "但要是說那發光的水池組成先天八卦是巧合，雲千峰覺得絕不可能。",
+      "translated_vi": "Nhưng nếu bảo những bể nước phát sáng kia ngẫu nhiên xếp thành hình Tiên Thiên Bát Quái là sự trùng hợp ngẫu nhiên, thì hắn tuyệt đối không tin."
+    },
+    {
+      "para_id": "c0035p0013",
+      "index": 13,
+      "raw_zh": "秦疏影卻亮著眼睛，興奮道：",
+      "translated_vi": "Tần Sơ Ảnh lúc này mắt sáng long lanh, phấn khích cất lời:"
+    },
+    {
+      "para_id": "c0035p0014",
+      "index": 14,
+      "raw_zh": "“我有個猜想。”",
+      "translated_vi": "“Tôi có một phỏng đoán này.”"
+    },
+    {
+      "para_id": "c0035p0015",
+      "index": 15,
+      "raw_zh": "雲千峰和薑柔甲急忙齊聲道：",
+      "translated_vi": "Vân Thiên Phong và Khương Nhu Giáp lập tức đồng thanh giục:"
+    },
+    {
+      "para_id": "c0035p0016",
+      "index": 16,
+      "raw_zh": "“說來聽聽！”",
+      "translated_vi": "“Nói nghe thử xem nào!”"
+    },
+    {
+      "para_id": "c0035p0017",
+      "index": 17,
+      "raw_zh": "秦疏影拉著倆人來到大殿門外，指著那些發光的池塘說道：",
+      "translated_vi": "Tần Sơ Ảnh kéo hai người bước ra ngoài cửa đại điện, chỉ tay vào những bể nước đang phát ra ánh sáng lung linh, nói:"
+    },
+    {
+      "para_id": "c0035p0018",
+      "index": 18,
+      "raw_zh": "“你們覺得，一千多年前的古佔人能有這樣的科技技術嗎？”",
+      "translated_vi": "“Hai người nghĩ xem, người Cổ Chiêm hơn một ngàn năm trước liệu có thể sở hữu trình độ khoa học kỹ thuật tinh vi đến mức này không?”"
+    },
+    {
+      "para_id": "c0035p0019",
+      "index": 19,
+      "raw_zh": "一語點醒夢中人。",
+      "translated_vi": "Một câu nói như tiếng sét đánh thức kẻ trong mộng."
+    },
+    {
+      "para_id": "c0035p0020",
+      "index": 20,
+      "raw_zh": "雲千峰豁然開朗，情不自禁的一把摟住秦疏影的肩膀，來了個大大的擁抱。",
+      "translated_vi": "Vân Thiên Phong bỗng chốc thông suốt mọi bề, không kìm được lòng ôm chầm lấy vai Tần Sơ Ảnh, trao cho cô một cái ôm thật chặt."
+    },
+    {
+      "para_id": "c0035p0021",
+      "index": 21,
+      "raw_zh": "然後立馬意識到自己得意忘形了，正要道歉，發現秦疏影竟然摟著自己的腰呢。",
+      "translated_vi": "Ngay sau đó hắn chợt nhận ra mình quá đỗi đắc ý mà quên mất chừng mực, đang định cất lời xin lỗi thì lại phát hiện hai tay Tần Sơ Ảnh cũng đang ôm ghì lấy eo mình từ lúc nào."
+    },
+    {
+      "para_id": "c0035p0022",
+      "index": 22,
+      "raw_zh": "當下把道歉的話咽了進去，這誰給誰道歉啊？你抱這麽緊！",
+      "translated_vi": "Thế là hắn nuốt ngược lời xin lỗi vào trong bụng, ai phải xin lỗi ai đây chứ? Cô ôm tôi chặt thế này cơ mà!"
+    },
+    {
+      "para_id": "c0035p0023",
+      "index": 23,
+      "raw_zh": "薑柔甲一把把倆人拉開，她就見不得秦疏影和雲千峰眉來眼去，然後大聲問道：",
+      "translated_vi": "Khương Nhu Giáp một tay kéo phắt hai người ra, cô vốn chẳng ưa cái cảnh Tần Sơ Ảnh và Vân Thiên Phong cứ liếc mắt đưa tình với nhau, đoạn lớn tiếng gặng hỏi:"
+    },
+    {
+      "para_id": "c0035p0024",
+      "index": 24,
+      "raw_zh": "“哎呀！伱們這麽高興幹嘛？找到我哥去哪了？”",
+      "translated_vi": "“Trời đất ơi! Hai người vui mừng cái nỗi gì thế? Đã tìm ra manh mối anh trai em đi đâu rồi sao?”"
+    },
+    {
+      "para_id": "c0035p0025",
+      "index": 25,
+      "raw_zh": "雲千峰笑道：",
+      "translated_vi": "Vân Thiên Phong cười rạng rỡ:"
+    },
+    {
+      "para_id": "c0035p0026",
+      "index": 26,
+      "raw_zh": "“差不多！這要多虧秦小姐提醒，要不然我真的沒想到這一茬。”",
+      "translated_vi": "“Gần như vậy rồi! Chuyện này phải nhờ cô Tần nhắc nhở, nếu không tôi thực sự chẳng nghĩ ra được điểm mấu chốt này.”"
+    },
+    {
+      "para_id": "c0035p0027",
+      "index": 27,
+      "raw_zh": "薑柔甲納悶道：",
+      "translated_vi": "Khương Nhu Giáp tròn xoe mắt thắc mắc:"
+    },
+    {
+      "para_id": "c0035p0028",
+      "index": 28,
+      "raw_zh": "“古佔人沒有這樣的科技怎麽了？”",
+      "translated_vi": "“Người Cổ Chiêm không có công nghệ tinh vi như vậy thì làm sao cơ chứ?”"
+    },
+    {
+      "para_id": "c0035p0029",
+      "index": 29,
+      "raw_zh": "雲千峰笑道：",
+      "translated_vi": "Vân Thiên Phong mỉm cười giải thích:"
+    },
+    {
+      "para_id": "c0035p0030",
+      "index": 30,
+      "raw_zh": "“那就證明這座黃金城只有一部分是古佔人建造的，而這空山裡八卦形的輪廓是根本就存在的，包括這些能發光的池水。",
+      "translated_vi": "“Điều đó chứng tỏ tòa Thành Phố Vàng này chỉ có một phần là do người Cổ Chiêm xây dựng nên, còn cấu trúc Bát Quái trong lòng ngọn núi rỗng này vốn dĩ đã tồn tại từ trước, bao gồm cả những bể nước phát sáng kỳ diệu này nữa.”"
+    },
+    {
+      "para_id": "c0035p0031",
+      "index": 31,
+      "raw_zh": "古佔人的巫覡很可能是機緣巧合發現了這裡，把這空山華光當成了神跡，於是建造神廟祭拜。",
+      "translated_vi": "“Rất có thể các vu hích của người Cổ Chiêm năm xưa vô tình phát hiện ra nơi đây, coi luồng hào quang rực rỡ trong lòng núi rỗng này là thần tích hiển linh, bèn dựng thần miếu để thờ phụng bái lạy.”"
+    },
+    {
+      "para_id": "c0035p0032",
+      "index": 32,
+      "raw_zh": "又因為這裡的地形環境，最符合四面佛梵天的傳說，於是主信奉濕婆的古佔人才會在這裡耗費巨大的建造了梵天黃金城。",
+      "translated_vi": "“Lại bởi vì địa hình và môi trường nơi này hoàn toàn trùng khớp với truyền thuyết về vị Phật bốn mặt Phạm Thiên, cho nên người Cổ Chiêm vốn tôn sùng thần Shiva mới không tiếc công sức tiền của dựng nên tòa Thành Phố Vàng thờ Phạm Thiên tráng lệ đến nhường này.”"
+    },
+    {
+      "para_id": "c0035p0033",
+      "index": 33,
+      "raw_zh": "你哥之所以對比伏羲與梵天兩位大神，就是因為他依靠古星圖和盤古大陸確認這裡應該有神跡，但又與古佔人傳說的神廟位置相近，這讓他們團隊對自己確認神跡的位置產生懷疑，所以才會專門作對比。",
+      "translated_vi": "“Sở dĩ anh trai em tiến hành so sánh hai vị đại thần Phục Hy và Phạm Thiên là vì anh ấy dựa vào cổ tinh đồ và đại lục Pangea cổ xưa để xác định nơi đây ắt có thần tích, nhưng vị trí lại trùng khớp với đền miếu trong truyền thuyết của người Cổ Chiêm, điều đó khiến nhóm nghiên cứu nảy sinh nghi ngờ về tính chuẩn xác của tọa độ thần tích, thành thử mới phải cất công làm phép đối chiếu tỉ mỉ.”"
+    },
+    {
+      "para_id": "c0035p0034",
+      "index": 34,
+      "raw_zh": "我不知道他們對比的結果是兩位大神是一個神還是怎樣，但我很確定，他們在找到了兩者相似度很大後，就沒有再動搖過，這答案只有你哥才能知道。”",
+      "translated_vi": "“Tôi không rõ kết quả so sánh của họ là kết luận hai vị đại thần vốn là một hay ra sao, nhưng tôi dám chắc chắn rằng, sau khi tìm thấy những điểm tương đồng quá lớn giữa hai người, họ đã không còn chút dao động nào nữa. Câu trả lời chính xác chỉ có anh trai em mới nắm rõ.”"
+    },
+    {
+      "para_id": "c0035p0035",
+      "index": 35,
+      "raw_zh": "薑柔甲急道：",
+      "translated_vi": "Khương Nhu Giáp sốt ruột hỏi dồn:"
+    },
+    {
+      "para_id": "c0035p0036",
+      "index": 36,
+      "raw_zh": "“那我哥在？”",
+      "translated_vi": "“Vậy anh trai em đang ở đâu?”"
+    },
+    {
+      "para_id": "c0035p0037",
+      "index": 37,
+      "raw_zh": "雲千峰指了指腳下，說道：",
+      "translated_vi": "Vân Thiên Phong chỉ tay xuống dưới chân mình, nói:"
+    },
+    {
+      "para_id": "c0035p0038",
+      "index": 38,
+      "raw_zh": "“如果沒有這座神廟，那麽這裡原本的名稱應該是“台”，是真正的史前神跡，那麽你哥他們應該是去了我們腳下。”",
+      "translated_vi": "“Nếu không có ngôi thần miếu này, thì tên gọi nguyên bản của nơi đây hẳn phải là một 'Đài', một di tích thần thánh thực sự từ thời tiền sử. Vậy thì nhóm anh trai em chắc chắn đã đi xuống không gian bên dưới chân chúng mình.”"
+    },
+    {
+      "para_id": "c0035p0039",
+      "index": 39,
+      "raw_zh": "“腳下？那我們快去找我哥好不好？你知道怎麽下去吧？”",
+      "translated_vi": "“Dưới chân á? Vậy chúng mình mau đi tìm anh trai em đi được không? Anh biết đường xuống dưới đó chứ?”"
+    },
+    {
+      "para_id": "c0035p0040",
+      "index": 40,
+      "raw_zh": "薑柔甲急不可耐。",
+      "translated_vi": "Khương Nhu Giáp nôn nóng không chờ nổi một giây."
+    },
+    {
+      "para_id": "c0035p0041",
+      "index": 41,
+      "raw_zh": "雲千峰搖了搖頭，道：",
+      "translated_vi": "Vân Thiên Phong khẽ lắc đầu, điềm đạm bảo:"
+    },
+    {
+      "para_id": "c0035p0042",
+      "index": 42,
+      "raw_zh": "“別急，我大概知道入口在哪兒，但我們必須做一下準備，吃點東西，恢復一下體力，下面可能會很危險。”",
+      "translated_vi": "“Đừng vội, tôi đại khái đã đoán ra lối vào nằm ở đâu rồi, nhưng chúng mình bắt buộc phải chuẩn bị thật kỹ, ăn chút gì đó để hồi phục thể lực đã, bên dưới đó rất có thể sẽ vô cùng nguy hiểm.”"
+    },
+    {
+      "para_id": "c0035p0043",
+      "index": 43,
+      "raw_zh": "“危險？”",
+      "translated_vi": "“Nguy hiểm sao?”"
+    },
+    {
+      "para_id": "c0035p0044",
+      "index": 44,
+      "raw_zh": "雲千峰點了點頭，道：",
+      "translated_vi": "Vân Thiên Phong gật đầu, giải thích:"
+    },
+    {
+      "para_id": "c0035p0045",
+      "index": 45,
+      "raw_zh": "“史前的台作用只有一個，那就是鎮壓之用，比如傳說裡最出名的五帝台，就是大禹殺死水神之臣相柳後，用來鎮壓相柳屍身血液建造。",
+      "translated_vi": "“Thời tiền sử, các 'Đài' chỉ có duy nhất một công năng, đó chính là dùng để trấn áp, chẳng hạn như Ngũ Đế Đài nổi tiếng nhất trong truyền thuyết, chính là do Đại Vũ sau khi chém chết bầy tôi của Thủy thần là Tương Liễu đã dựng lên để trấn áp thi thể và máu độc của nó.”"
+    },
+    {
+      "para_id": "c0035p0046",
+      "index": 46,
+      "raw_zh": "相傳相柳的血液腥氣衝天，甚至能腐爛石頭泥土，凡人碰了頃刻腐爛成泥。",
+      "translated_vi": "“Tương truyền máu của Tương Liễu tanh tưởi ngút trời, thậm chí có thể làm mục rữa cả đất đá, người phàm chỉ cần chạm phải là trong chớp mắt tan rữa thành bùn máu.”"
+    },
+    {
+      "para_id": "c0035p0047",
+      "index": 47,
+      "raw_zh": "我們腳下的這個台，若真是史前神跡，那麽這下面一定也鎮壓著一個極為可怕的東西，我們完全未知的東西。",
+      "translated_vi": "“Chiếc 'Đài' dưới chân chúng mình nếu thực sự là thần tích tiền sử, thì bên dưới này nhất định cũng đang trấn áp một thứ vô cùng đáng sợ, một thứ hoàn toàn nằm ngoài tầm hiểu biết của chúng mình.”"
+    },
+    {
+      "para_id": "c0035p0048",
+      "index": 48,
+      "raw_zh": "這也是一進入這裡我們就感覺到一種壓迫感的原因，這種壓迫就是在我們腳下傳來。”",
+      "translated_vi": "“Đó cũng là lý do vì sao ngay khi vừa đặt chân vào nơi này chúng mình đã cảm nhận được một luồng áp bức nặng nề, thứ áp lực ấy thực chất đang tỏa ra từ ngay dưới chân chúng mình.”"
+    },
+    {
+      "para_id": "c0035p0049",
+      "index": 49,
+      "raw_zh": "薑柔甲很急，尤其是知道自己哥哥可能就在腳下的某一處，更是迫不及待的想要去找他。",
+      "translated_vi": "Khương Nhu Giáp trong lòng vô cùng sốt ruột, nhất là khi biết anh trai mình có thể đang ở ngay một nơi nào đó dưới chân, cô càng nôn nao muốn lao đi tìm ngay lập tức."
+    },
+    {
+      "para_id": "c0035p0050",
+      "index": 50,
+      "raw_zh": "但她很清楚這一切要靠雲千峰，她必須也只能聽從他的安排。",
+      "translated_vi": "Thế nhưng cô hiểu rất rõ tất cả mọi chuyện đều phải trông cậy vào Vân Thiên Phong, cô chỉ có thể ngoan ngoãn nghe theo mọi sự sắp xếp của hắn."
+    },
+    {
+      "para_id": "c0035p0051",
+      "index": 51,
+      "raw_zh": "她不願，但有不敢說什麽，隻好委屈巴巴的說道：",
+      "translated_vi": "Dù không cam lòng nhưng cô chẳng dám cãi lời, đành ấm ức tủi thân cất giọng:"
+    },
+    {
+      "para_id": "c0035p0052",
+      "index": 52,
+      "raw_zh": "“吃什麽？這裡除了金子什麽都沒有，難道去舔他們剩下的罐頭盒子？”",
+      "translated_vi": "“Ăn cái gì bây giờ? Ở đây ngoài vàng ra thì chẳng có thứ gì khác, chẳng lẽ lại đi liếm mấy cái vỏ đồ hộp bọn họ vứt lại?”"
+    },
+    {
+      "para_id": "c0035p0053",
+      "index": 53,
+      "raw_zh": "三分鍾後。",
+      "translated_vi": "Ba phút sau."
+    },
+    {
+      "para_id": "c0035p0054",
+      "index": 54,
+      "raw_zh": "“他們真的是太浪費了，剩下這麽多牛肉就扔掉了。”",
+      "translated_vi": "“Bọn họ đúng là lãng phí quá thể, còn thừa nhiều thịt bò thế này mà đã vứt đi rồi.”"
+    },
+    {
+      "para_id": "c0035p0055",
+      "index": 55,
+      "raw_zh": "“吃了幾天棕櫚芯，現在感覺牛肉罐頭就是天下最好吃的東西。”",
+      "translated_vi": "“Ăn đọt cọ mấy ngày liền, bây giờ thấy đồ hộp thịt bò quả đúng là mỹ vị đệ nhất trần đời.”"
+    },
+    {
+      "para_id": "c0035p0056",
+      "index": 56,
+      "raw_zh": "“哇，這個裡面好大一塊肉，你們看雲千峰張嘴，給你吃.”",
+      "translated_vi": "“Oa, trong hộp này còn một miếng thịt to đùng này, hai người nhìn xem... Vân Thiên Phong há mồm ra, cho anh ăn này...”"
+    },
+    {
+      "para_id": "c0035p0057",
+      "index": 57,
+      "raw_zh": "“啊嗚！”",
+      "translated_vi": "“Ngoạm!”"
+    },
+    {
+      "para_id": "c0035p0058",
+      "index": 58,
+      "raw_zh": "尊嚴是什麽？那得吃飽了才能談！",
+      "translated_vi": "Thể diện là cái thá gì chứ? Cứ phải no cái bụng rồi hẵng bàn tiếp!"
+    },
+    {
+      "para_id": "c0035p0059",
+      "index": 59,
+      "raw_zh": "吃飽談不上，但終究是肉和油脂，恢復體力效果極佳。",
+      "translated_vi": "Bảo là ăn no nê thì chưa tới, nhưng rốt cuộc cũng có thịt và mỡ béo nạp vào người, hiệu quả hồi phục thể lực cực kỳ rõ rệt."
+    },
+    {
+      "para_id": "c0035p0060",
+      "index": 60,
+      "raw_zh": "三個人一宿沒睡，就那麽靠在神像的腳下，互相依靠著沉沉睡去。",
+      "translated_vi": "Ba người thức trắng cả một đêm dài, cứ thế dựa lưng vào chân tượng thần, nép vào nhau ngủ một giấc say sưa ngon lành."
+    },
+    {
+      "para_id": "c0035p0061",
+      "index": 61,
+      "raw_zh": "再醒來後，一個個精神充沛。",
+      "translated_vi": "Đến khi tỉnh giấc, ai nấy đều tràn trề sinh lực."
+    },
+    {
+      "para_id": "c0035p0062",
+      "index": 62,
+      "raw_zh": "雲千峰醒來後第一件事，就是在地上用扣下來的寶石擺了一個先天八卦。",
+      "translated_vi": "Việc đầu tiên Vân Thiên Phong làm sau khi thức dậy là dùng những viên đá quý cạy được dưới đất xếp thành một trận đồ Tiên Thiên Bát Quái."
+    },
+    {
+      "para_id": "c0035p0063",
+      "index": 63,
+      "raw_zh": "後天八卦生門好尋，因為有奇門的固定章法，但是先天八卦不講形更講力場，需要分析。",
+      "translated_vi": "Sinh Môn trong Hậu Thiên Bát Quái rất dễ tìm bởi có quy tắc cố định của Kỳ Môn Độn Giáp, nhưng Tiên Thiên Bát Quái không chú trọng hình thế mà coi trọng trường lực hơn, bắt buộc phải phân tích kỹ lưỡng."
+    },
+    {
+      "para_id": "c0035p0064",
+      "index": 64,
+      "raw_zh": "“這裡本是山體內部，當以艮山為根；天地定位，雷風相薄，水火不射，山澤氣通。艮為陽土，當生陰金兌澤，生門定在兌卦之處。”",
+      "translated_vi": "“Nơi này vốn nằm trong lòng núi, phải lấy quẻ Cấn là núi làm gốc; Trời đất định vị, sấm gió giao nhau, nước lửa không hại, núi đầm thông khí. Cấn là Dương Thổ, ắt sinh Âm Kim Đoài Trạch, Sinh Môn nhất định nằm ở vị trí quẻ Đoài.”"
+    },
+    {
+      "para_id": "c0035p0065",
+      "index": 65,
+      "raw_zh": "確定好了方位後，三人回頭看了一眼舔得叫狗都哭的罐頭盒子，舔著嘴唇離去。",
+      "translated_vi": "Sau khi đã xác định rõ phương vị, ba người ngoái đầu nhìn lại đống vỏ đồ hộp bị liếm sạch bóng đến mức chó nhìn thấy cũng phải khóc ròng, rồi quẹt mép quay bước rời đi."
+    },
+    {
+      "para_id": "c0035p0066",
+      "index": 66,
+      "raw_zh": "三人沿著八卦形的巨大廣場直奔兌位，一路不知經過了多少造型各異的神像，終於到達兌位之處。",
+      "translated_vi": "Ba người men theo quảng trường khổng lồ hình Bát Quái sải bước thẳng tới phương Đoài, trên đường đi chẳng biết đã lướt qua bao nhiêu bức tượng thần với đủ loại hình thù kỳ dị, cuối cùng cũng tới được vị trí quẻ Đoài."
+    },
+    {
+      "para_id": "c0035p0067",
+      "index": 67,
+      "raw_zh": "三個人在兌位這兩長兩段的卦象池水周圍轉了半天，也沒找到入口的痕跡。",
+      "translated_vi": "Ba người lượn quanh các bể nước mang hào quẻ hai dài hai ngắn ở phương Đoài suốt nửa ngày trời, thế nhưng chẳng tài nào tìm thấy bất kỳ dấu vết nào của lối vào cơ quan."
+    },
+    {
+      "para_id": "c0035p0068",
+      "index": 68,
+      "raw_zh": "雲千峰皺眉道：",
+      "translated_vi": "Vân Thiên Phong khẽ nhíu mày:"
+    },
+    {
+      "para_id": "c0035p0069",
+      "index": 69,
+      "raw_zh": "“一定是有機關，可是在哪呢？”",
+      "translated_vi": "“Nhất định là có cơ quan, nhưng rốt cuộc nó nằm ở đâu cơ chứ?”"
+    },
+    {
+      "para_id": "c0035p0070",
+      "index": 70,
+      "raw_zh": "他一著急就摸兜，但身上的煙早就沒了。",
+      "translated_vi": "Cứ hễ sốt ruột lo lắng là hắn lại theo thói quen thò tay sờ túi áo, nhưng thuốc lá trên người đã hết nhẵn từ lâu."
+    },
+    {
+      "para_id": "c0035p0071",
+      "index": 71,
+      "raw_zh": "沒想到秦疏影抿著嘴，帶著得意的表情在兜裡掏出一包煙來遞給他，道：",
+      "translated_vi": "Nào ngờ Tần Sơ Ảnh lại mím môi cười, mang vẻ mặt đắc ý thò tay vào túi móc ra một bao thuốc lá đưa cho hắn, nói:"
+    },
+    {
+      "para_id": "c0035p0072",
+      "index": 72,
+      "raw_zh": "“我那幾天心煩，買了一包，結果就抽了一根，給你。”",
+      "translated_vi": "“Mấy hôm trước trong lòng phiền muộn nên tôi có mua một bao, rốt cuộc mới hút có đúng một điếu, cho anh đấy.”"
+    },
+    {
+      "para_id": "c0035p0073",
+      "index": 73,
+      "raw_zh": "那表情，分明就寫著“快誇我，快誇我”。",
+      "translated_vi": "Nét mặt ấy rành rành đang viết mấy chữ: “Mau khen tôi đi, mau khen tôi đi!”"
+    },
+    {
+      "para_id": "c0035p0074",
+      "index": 74,
+      "raw_zh": "雲千峰搜腸刮肚，讚美了一句：",
+      "translated_vi": "Vân Thiên Phong vắt óc suy nghĩ, bèn buông một câu tán dương hết lời:"
+    },
+    {
+      "para_id": "c0035p0075",
+      "index": 75,
+      "raw_zh": "“秦小姐，現在的你真的是比我媽都親啊！”",
+      "translated_vi": "“Chị Tần ơi, chị của bây giờ thực sự còn thân thiết hơn cả mẹ ruột của tôi nữa đấy!”"
+    },
+    {
+      "para_id": "c0035p0076",
+      "index": 76,
+      "raw_zh": "秦疏影直接把煙盒砸在雲千峰腦袋上，一撇頭不搭理他。",
+      "translated_vi": "Tần Sơ Ảnh thẳng tay ném luôn bao thuốc vào đầu Vân Thiên Phong, ngoảnh mặt sang một bên chẳng buồn thèm để ý đến hắn."
+    },
+    {
+      "para_id": "c0035p0077",
+      "index": 77,
+      "raw_zh": "雲千峰可顧不得這麽多，抽出一根，用火機點燃。",
+      "translated_vi": "Vân Thiên Phong nào còn tâm trí để ý chuyện đó, hắn vội vàng rút ra một điếu, dùng bật lửa châm cháy."
+    },
+    {
+      "para_id": "c0035p0078",
+      "index": 78,
+      "raw_zh": "也就在打火機點燃那一刻，他眼睛一亮，叫道：",
+      "translated_vi": "Cũng đúng ngay khoảnh khắc ngọn lửa bật sáng bùng lên, hai mắt hắn bỗng sáng rực, thốt lên kinh ngạc:"
+    },
+    {
+      "para_id": "c0035p0079",
+      "index": 79,
+      "raw_zh": "“我知道機關在哪了！”",
+      "translated_vi": "“Tôi biết cơ quan nằm ở đâu rồi!”"
+    }
+  ]
+}

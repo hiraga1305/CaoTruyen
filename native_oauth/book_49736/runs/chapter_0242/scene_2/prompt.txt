@@ -1,0 +1,76 @@
+# BNS LITERARY ENGINE v3.8 — CHUYÊN BAN ĐÔ THỊ HUYỀN NGHI & LINH DỊ
+
+Bạn là Đại Dịch Giả Văn Học Bạch Ngọc Sách, chuyên trách biên dịch các tác phẩm thể loại Huyền nghi, Linh dị, Trinh thám đoạt bảo, Kỳ môn độn giáp và Đô thị dị năng.
+Đặc tính cốt lõi của tác phẩm 《寻找无间地狱》 (Tìm Kiếm Vô Gian Địa Ngục):
+1. **Khẩu khí nhân vật hiện đại & sắc sảo:** Lời thoại nhân vật diễn ra trong bối cảnh đô thị hiện đại, tuyệt đối dùng đại từ tự nhiên ("tôi" - "anh" / "cô" / "chị" / "bạn"), TUYỆT ĐỐI KHÔNG dùng xưng hô kiếm hiệp cổ trang ("ngươi", "ta", "tại hạ", "các hạ", "tiểu tử") trong giao tiếp đời thường.
+2. **Văn phong trần thuật hồi hộp, gợi cảm, bí ẩn:** Miêu tả không khí rợn ngợp, những hiện tượng phi lý toán học/lượng tử đan xen cổ thuật, giữ nhịp câu văn sắc lạnh, khúc chiết, lôi cuốn.
+3. **Thuật ngữ chuyên ngành:** 
+   - “三钱济世” dịch chuẩn là "Tam Tiền Tế Thế".
+   - “祝由术” dịch là "Chúc Do thuật" (thuật trị bệnh, trừ tà bí truyền của Đạo gia).
+   - “正骨” dịch là "nắn xương".
+   - “推拿” dịch là "xoa bóp" / "bấm huyệt".
+   - “测字” dịch là "chiết tự" (trắc tự, chẻ chữ đoán vận mệnh).
+   - “无间地狱” dịch là "Vô Gian Địa Ngục".
+   - “八里湖” dịch là "hồ Bát Lý" (Bát Lý Hồ).
+   - “九江城” dịch là "thành Cửu Giang".
+4. **Kỷ luật đầu ra (Zero-Echo):** Chỉ xuất bản dịch gắn mã §1..§N. Tuyệt đối KHÔNG chào hỏi, KHÔNG giải thích, KHÔNG để sót bất kỳ đoạn nào. Tuyệt đối KHÔNG để lọt chữ Hán hay thẻ vi ngữ nghĩa vào kết quả.
+
+
+GIAO THỨC SCENE HIỆN TẠI:
+=== SCENE_CONTRACT_V1 ===
+@META|chap:0242|scene:02|route:MED|genre:XIANXIA
+@PLOT_STATE|pacing=COMBAT_FAST|loc=Thành Cửu Giang, bên bờ hồ Bát Lý / Tiệm 'Tam Tiền Tế Thế'|mood=huyền bí, hồi hộp, trinh thám đô thị|active=chiết tự bói toán, lượng tử quan trắc
+@MICRO_SEAM
+PREV_VI|Miệng nói ra nghe như đùa cợt, thế nhưng trong lòng Vân Thiên Phong lại có đôi phần bất an.
+SEAM_VEC|last_actor=Vân Thiên Phong|spatial=đối diện cách mười trượng
+@ENTITIES
+云千峰|Vân Thiên Phong|M|hắn|Chủ tiệm 'Tam Tiền Tế Thế' / Bậc thầy chiết tự, đoán mệnh, am tường vật lý lượng tử|Điềm tĩnh, sắc bén, cơ trí, khẩu khí hài hước nhưng thấu triệt nhân tâm
+姜柔甲|Khương Nhu Giáp|F|nàng|Cô gái trẻ có anh trai là tiến sĩ khảo cổ bị xóa sổ khỏi ký ức toàn thế giới|Tái nhợt, tuyệt vọng, bất an, trí thức, kiên định
+@PRONOUN_MATRIX
+云千峰->姜柔甲|COURTEOUS_MODERN|tôi|cô|ôn hòa, tỉnh táo, chuyên nghiệp
+姜柔甲->云千峰|COURTEOUS_MODERN|tôi|anh|run rẩy, khẩn thiết, tuyệt vọng cầu cứu
+=== END_CONTRACT ===
+
+NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §37):
+§1 [Ø=云千峰]鬼脈這東西很難作假，人的六識以上，人自己感應不到， [||] 但它一直都在，所以人發覺不了的東西，識自己卻是知道的。
+§2 [Ø=云千峰]所以有的時候怕後，真的不是怕後那麽簡單。
+§3 [Ø=云千峰]就見雲千峰一邊碎碎念，一邊好似整理琳達的衣服，但是右手卻突然一晃，手裡的手電也同時照像身後的黑暗之處。
+§4 [Ø=云千峰]薩弱這次沒有躲開，因為雲千峰的動作太過隱蔽突然。
+§5 [Ø=云千峰]雲千峰看到黑暗裡薩弱的身影，嘴裡罵道：
+§6 [Ø=云千峰]“我說怎麽鬼纏之相這麽明顯，原來是你在這纏著呢！怎麽著？繼續打？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§7 [Ø=云千峰]說著，雲千峰晃了晃肩膀，扭了扭脖子，發出“哢哢哢”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]的脆響。
+§8 就和流氓打架之前嚇唬人一個路數。
+§9 [Ø=云千峰]不過別看雲千峰表現出無腦的莽，但心裡可是有著小九九。
+§10 [Ø=云千峰]“薩弱早就來了，她之前若是偷襲，我可能已經沒命了，但是她沒有， [||] 這是為什麽？不管為什麽，似乎可以躲避這不佔優勢的一戰，此時此地，能不打是最好的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§11 [Ø=云千峰]至於履帶車安全落地這件事，雲千峰是沒敢往薩弱身上想的，因為對方要殺自己， [||] 那是板上釘釘的事，讓薩弱救自己，比登天還難。
+§12 [Ø=云千峰]這次他還真就猜錯了，履帶車安穩落地，還真就是薩弱靠著自己的翅膀和一身巨力做到的。
+§13 [Ø=云千峰]再冰崖的縫隙裡，也只有翅膀才能借力。
+§14 [Ø=云千峰]被雲千峰發現，薩弱倒是表現的很淡定，只是心裡卻是翻江倒海。
+§15 [Ø=云千峰]“這人的表情，一對著我怎麽就如此討厭？還是殺了省心， [||] 至於讓我完整，還是算了，我怎麽舍得！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§16 [Ø=云千峰]想到這的時候，她下意識的摸了摸自己的腹部， [||] 然後一抬頭，殺氣畢露的看向雲千峰，身後翅膀緩緩張開。
+§17 [Ø=云千峰]雲千峰身上汗毛都豎了起來，雙腿微曲，擺出了虎撲之前的姿勢。
+§18 [Ø=云千峰]“看來，還是難逃拚命！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§19 [Ø=云千峰]雲千峰咬著牙，蓄著力，等待著薩弱衝過來。
+§20 [Ø=云千峰]對面，薩弱翅膀剛撐開一半， [||] 就覺得腹部一陣翻騰，絞痛讓薩弱膝蓋一軟，身體向前半步踉蹌。
+§21 [Ø=云千峰]她急促的呼吸幾次，企圖緩解腹內絞痛，但是這次卻不管用，當下在心裡問道：
+§22 [Ø=云千峰]“你不讓我殺他嗎？是不是？是的話，你就不要折騰我。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§23 [Ø=云千峰]內心裡剛問完，腹內絞痛立即消失。
+§24 [Ø=云千峰]薩弱的臉上浮現了一絲溫柔，同時用手輕輕護住腹部。
+§25 [Ø=云千峰]然後她抬頭看向雲千峰，溫柔頓消， [||] 化成一臉憤憤，變臉之快，匪夷所思。
+§26 [Ø=云千峰]雲千峰的手電是放在地上照向薩弱，光線本就不亮， [||] 薩弱又有點遠，雲千峰只能看到薩弱的表情，卻看不到她那些細微的肢體語言。
+§27 [Ø=云千峰]“什麽情況？薩弱這表情管理失控了？還是瘋了？一定是瘋了，她把跟著自己的手下都給殺沒了，還不是瘋了？最好是傻了！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§28 [Ø=云千峰]雲千峰見薩弱一動不動的站在那，沒有攻擊的跡象，於是沒有繼續挑釁，而是把多余的衣服包成一包， [||] 綁在後背上，然後把琳達橫抱起來，用嘴叼著手電，緩緩向後退去，漸漸遠離薩弱。
+§29 [Ø=云千峰]“哎嘿，真的是傻了，她竟然沒跟上來！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§30 [Ø=云千峰]想著，轉身撇開大步就開始跑。
+§31 [Ø=云千峰]這一口氣，直跑到自己上氣不接下氣，雲千峰才停下腳步， [||] 把琳達往地上一放，自己也一屁股坐在地上，大口的喘氣。
+§32 [Ø=云千峰]這樣還不解乏，雲千峰乾脆仰面一倒，躺在地上， [||] 捂著胸腔子，張著大嘴使勁吸氣，這口氣剛進嘴：
+§33 “嘎！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]
+§34 雲千峰差點沒讓空氣噎死。
+§35 [Ø=云千峰]這一躺下，他才看到，薩弱就漂浮在自己上方，面無表情的看著自己。
+§36 [Ø=云千峰]只是那雙眼睛一點也不平靜，滿是掙扎。
+§37 [Ø=云千峰]片刻後，那掙扎的眼神再次化為殺意，薩弱長長的吐了一口氣，做出了俯衝而下的姿勢.
+
+YÊU CẦU BẮT BUỘC:
+1. Dịch toàn bộ 37 đoạn văn trên theo văn phong Bạch Ngọc Sách chuẩn mực, sắc lạnh, hấp dẫn.
+2. Bắt đầu mỗi đoạn bằng đúng mã §1..§37. Tuyệt đối không gộp đoạn, không bỏ sót đoạn nào.
+3. Xưng hô đối thoại giữa Vân Thiên Phong và cô gái trẻ Khương Nhu Giáp là 'tôi - cô' / 'tôi - anh', tự nhiên, lịch sự.

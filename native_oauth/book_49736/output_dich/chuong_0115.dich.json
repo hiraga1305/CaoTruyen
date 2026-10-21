@@ -1,0 +1,481 @@
+{
+  "book_slug": "s6p7bb",
+  "book_title": "寻找无间地狱",
+  "book_title_vi": "Tìm Kiếm Vô Gian Địa Ngục",
+  "chapter_num": 115,
+  "title": "Chương 115: Đánh chén no say",
+  "total_paragraphs": 78,
+  "translated_paragraphs": 78,
+  "source_hash": "c84e4cd3a8e8ae663419bf69670afedeff4d27794da9a124a406f0afc01e953d",
+  "model_used": "gemini-3.8-flash-high (subagent)",
+  "bilingual_alignment": [
+    {
+      "para_id": "c0115p0001",
+      "index": 1,
+      "raw_zh": "第115章 大吃一頓",
+      "translated_vi": "Chương 115: Đánh chén no say"
+    },
+    {
+      "para_id": "c0115p0002",
+      "index": 2,
+      "raw_zh": "天有不測風雲。",
+      "translated_vi": "Trời có giông bão khôn lường."
+    },
+    {
+      "para_id": "c0115p0003",
+      "index": 3,
+      "raw_zh": "雲千峰與三女走在叢林之中。",
+      "translated_vi": "Vân Thiên Phong cùng ba cô gái rảo bước giữa cánh rừng rậm rạp."
+    },
+    {
+      "para_id": "c0115p0004",
+      "index": 4,
+      "raw_zh": "日頭剛剛偏到山頭不久，濃密的烏雲隨著風遮住了明媚的天空，讓傍晚的昏暗提前降臨。",
+      "translated_vi": "Mặt trời vừa mới ngả bóng qua đỉnh núi chưa bao lâu, những tầng mây đen kịt đã nương theo cơn gió che khuất bầu trời quang đãng, khiến bóng tối nhập nhoạng của buổi hoàng hôn buông xuống sớm hơn thường lệ."
+    },
+    {
+      "para_id": "c0115p0005",
+      "index": 5,
+      "raw_zh": "一道橫過天空的電光在烏雲之中閃過，讓這濃暗的世界刹那亮了一下，轉而又愈加昏暗起來。",
+      "translated_vi": "Một tia chớp xé toạc chân trời lóe lên giữa tầng mây mịt mù, làm bừng sáng thế giới tăm tối trong tích tắc, rồi ngay sau đó không gian lại càng thêm phần âm u, mù mịt."
+    },
+    {
+      "para_id": "c0115p0006",
+      "index": 6,
+      "raw_zh": "幾個穿著草裙馬甲的人縮了縮肩膀，此時吹來的風是那麽的陰冷，讓幾個人身上都起了雞皮。",
+      "translated_vi": "Mấy con người khoác trên mình chiếc áo gi-lê và váy bện bằng cỏ khẽ rụt vai lại. Cơn gió thổi tới lúc này mang theo hơi lạnh buốt thấu xương, khiến da gà nổi rần rần trên khắp cơ thể họ."
+    },
+    {
+      "para_id": "c0115p0007",
+      "index": 7,
+      "raw_zh": "雲千峰抬頭看了看天空，惱火道：",
+      "translated_vi": "Vân Thiên Phong ngẩng đầu nhìn bầu trời, bực bội bảo:"
+    },
+    {
+      "para_id": "c0115p0008",
+      "index": 8,
+      "raw_zh": "“這什麽天氣，說變就變！建造避身所是來不及了，咱們要抓緊找到避風擋雨的地方，否則一旦被澆濕，晚上怕是會被活活凍死。”",
+      "translated_vi": "“Cái thời tiết quái quỷ gì thế này, bảo đổi là đổi ngay được! Giờ mà dựng lán trú ẩn thì không kịp nữa rồi, chúng ta phải mau chóng tìm nơi tránh mưa cản gió, bằng không một khi bị ướt sũng thì đêm nay sợ rằng sẽ bị chết cóng mất thôi.”"
+    },
+    {
+      "para_id": "c0115p0009",
+      "index": 9,
+      "raw_zh": "幾個人急忙加快了腳步，四雙眼睛到處仔細觀瞧，尋找能夠躲避這場暴風雨的去處。",
+      "translated_vi": "Cả mấy người vội vã rảo bước thật nhanh, bốn đôi mắt đảo quanh quan sát kỹ lưỡng khắp bốn bề để tìm kiếm một nơi có thể che chắn trước cơn giông bão sắp ập tới."
+    },
+    {
+      "para_id": "c0115p0010",
+      "index": 10,
+      "raw_zh": "他們運氣不錯，秦疏影那雙深邃透亮的眼睛不光好看，眼神也好，她最先發現了寶地，指著不遠處喊道：",
+      "translated_vi": "Vận may của họ không tệ, đôi mắt sâu thẳm trong veo của Tần Sơ Ảnh không chỉ xinh đẹp mà thị lực cũng vô cùng tinh tường. Cô là người đầu tiên phát hiện ra mảnh đất lành, liền giơ tay chỉ về phía cách đó không xa hô lên:"
+    },
+    {
+      "para_id": "c0115p0011",
+      "index": 11,
+      "raw_zh": "“雲，看哪裡。”",
+      "translated_vi": "“Anh Vân, nhìn đằng kia kìa!”"
+    },
+    {
+      "para_id": "c0115p0012",
+      "index": 12,
+      "raw_zh": "雲千峰順著秦疏影手指的方向看過去，就看到植被掩映之中，有一堆嶙峋巨大的怪石，就好像古代園林裡面的假山一樣。",
+      "translated_vi": "Vân Thiên Phong dõi mắt nhìn theo hướng tay Tần Sơ Ảnh chỉ, liền thấy lấp ló sau những rặng cây rậm rạp là một quần thể đá tảng kỳ dị lởm chởm, trông hệt như hòn non bộ trong hoa viên thời cổ đại."
+    },
+    {
+      "para_id": "c0115p0013",
+      "index": 13,
+      "raw_zh": "雖然隔著有些距離，但是仔細看會發現那些石頭堆疊在一起，互相依靠支撐，形成了一個個大小不一的洞穴。",
+      "translated_vi": "Dù còn cách một quãng, nhưng nhìn kỹ sẽ nhận ra những khối đá kia xếp chồng lên nhau, nương tựa nâng đỡ lẫn nhau tạo thành từng hốc động lớn nhỏ khác nhau."
+    },
+    {
+      "para_id": "c0115p0014",
+      "index": 14,
+      "raw_zh": "不得不說，那真心是個遮風擋雨的好去處。",
+      "translated_vi": "Phải thừa nhận rằng, nơi đó thực sự là một chỗ trú mưa chắn gió tuyệt vời."
+    },
+    {
+      "para_id": "c0115p0015",
+      "index": 15,
+      "raw_zh": "四個人急忙加快腳步，繞過植被來到了那堆石頭之前。",
+      "translated_vi": "Bốn người vội rảo bước nhanh hơn, luồn lách qua những bụi cây rậm rạp tiến đến trước quần thể đá tảng."
+    },
+    {
+      "para_id": "c0115p0016",
+      "index": 16,
+      "raw_zh": "看著那蜂窩狀的石洞，他們選擇靠邊處那最大的一個鑽進去。",
+      "translated_vi": "Nhìn những hốc đá chằng chịt như tổ ong, bọn họ chọn ngay chiếc hang lớn nhất nằm sát mé ngoài rồi chui tọt vào bên trong."
+    },
+    {
+      "para_id": "c0115p0017",
+      "index": 17,
+      "raw_zh": "趁著雷暴雨還沒來，他們急忙放好東西，出門尋找柴火和乾草。",
+      "translated_vi": "Thừa lúc cơn mưa dông sấm sét còn chưa trút xuống, mọi người vội vàng cất gọn đồ đạc rồi chia nhau ra ngoài thu lượm củi khô và cỏ úa."
+    },
+    {
+      "para_id": "c0115p0018",
+      "index": 18,
+      "raw_zh": "這麽冷的天，直接睡在冰冷的石頭上，那可無法忍受，最少要鋪上一層乾草才能隔涼。",
+      "translated_vi": "Giữa tiết trời lạnh buốt nhường này, nằm ngủ trực tiếp trên nền đá lạnh ngắt là điều không thể chịu nổi, ít nhất cũng phải rải một lớp cỏ khô lót ổ để ngăn hơi lạnh thấu xương."
+    },
+    {
+      "para_id": "c0115p0019",
+      "index": 19,
+      "raw_zh": "大約半個小時後，天地間猛然一暗，狂風攜著暴雨從天而降，那連綿的悶雷就好像是在給這些狂暴的雨滴擂鼓助威。",
+      "translated_vi": "Chừng nửa tiếng đồng hồ sau, đất trời bỗng nhiên tối sầm lại, cuồng phong cuốn theo mưa rào trút nước ào ạt đổ xuống từ trên cao, những tràng sấm rền liên hồi tựa như đang gióng trống trợ uy cho những hạt mưa hung hãn."
+    },
+    {
+      "para_id": "c0115p0020",
+      "index": 20,
+      "raw_zh": "山裡乾柴不缺，但是乾草卻沒有很多，也就勉強鋪了薄薄的一層在石頭上。",
+      "translated_vi": "Trong núi củi khô không thiếu, nhưng cỏ khô lại chẳng có bao nhiêu, gom góp mãi cũng chỉ đủ rải một lớp mỏng dính lên phiến đá."
+    },
+    {
+      "para_id": "c0115p0021",
+      "index": 21,
+      "raw_zh": "好在能燃燒的木頭他們找了足夠多，靠著篝火熬過一夜，想來也不是什麽大問題。",
+      "translated_vi": "May sao cành cây bắt lửa được họ tha về khá nhiều, nương nhờ hơi ấm của đống lửa trại để vượt qua đêm nay ắt hẳn không phải vấn đề quá lớn."
+    },
+    {
+      "para_id": "c0115p0022",
+      "index": 22,
+      "raw_zh": "篝火生起，照亮了這不大的石穴。",
+      "translated_vi": "Đống lửa trại được nhen nhóm bốc cao, soi rọi sáng bừng cả hang đá nhỏ hẹp."
+    },
+    {
+      "para_id": "c0115p0023",
+      "index": 23,
+      "raw_zh": "瓢潑大雨、避雨遮風的石洞、溫暖的篝火，這個組合最簡單的形容就是“幸福”。",
+      "translated_vi": "Mưa như trút nước ngoài trời, hang đá che chở chắn gió, đống lửa ấm áp bập bùng — sự kết hợp này chỉ có thể gói gọn bằng hai chữ: “hạnh phúc”."
+    },
+    {
+      "para_id": "c0115p0024",
+      "index": 24,
+      "raw_zh": "幾個人忙湊到篝火旁取暖，只有嬌小的千千，早早的蜷縮在石頭上，半閉著眼睛，臉色有些蒼白。",
+      "translated_vi": "Mấy người vội xúm lại quanh đống lửa để sưởi ấm, duy chỉ có cô bé Thiên Thiên nhỏ nhắn là đã sớm cuộn tròn người trên tảng đá, mắt nhắm hờ, gương mặt thoáng chút tái nhợt."
+    },
+    {
+      "para_id": "c0115p0025",
+      "index": 25,
+      "raw_zh": "嘴裡嘟囔著“好冷”。",
+      "translated_vi": "Trong miệng lẩm bẩm than: “Lạnh quá...”"
+    },
+    {
+      "para_id": "c0115p0026",
+      "index": 26,
+      "raw_zh": "雲千峰看到她的模樣，忙用手摸了一下她的額頭，確定她不是感冒，並沒有發燒的跡象，便道：",
+      "translated_vi": "Trông thấy bộ dạng của cô bé, Vân Thiên Phong liền đưa tay sờ thử lên trán, xác định cô bé không phải bị cảm mạo và cũng không có dấu hiệu phát sốt, bèn bảo:"
+    },
+    {
+      "para_id": "c0115p0027",
+      "index": 27,
+      "raw_zh": "“可能是這段時間又驚又怕的，身體吃不消了，好好休息一下好了。”",
+      "translated_vi": "“Có lẽ là chuỗi ngày qua vừa hoảng hốt vừa sợ hãi nên cơ thể chịu không nổi đấy thôi, cứ nghỉ ngơi một giấc cho lại sức là ổn.”"
+    },
+    {
+      "para_id": "c0115p0028",
+      "index": 28,
+      "raw_zh": "說著，拿出幾根山藥，準備碳烤。",
+      "translated_vi": "Nói đoạn, anh rút ra mấy củ khoai mài, chuẩn bị vùi vào than nướng."
+    },
+    {
+      "para_id": "c0115p0029",
+      "index": 29,
+      "raw_zh": "這東西偶爾吃一次好吃，天天吃燒心胃疼，可以說幾個人現在一看到山藥就反胃。",
+      "translated_vi": "Thứ này thi thoảng ăn một bữa thì ngon miệng, chứ ngày nào cũng tọng vào bụng thì cồn cào xót ruột vô cùng, có thể nói mấy người họ bây giờ cứ hễ nhìn thấy khoai mài là buồn nôn phát ngấy."
+    },
+    {
+      "para_id": "c0115p0030",
+      "index": 30,
+      "raw_zh": "但是不吃還不行，就這東西管飽好找。",
+      "translated_vi": "Nhưng không ăn thì lại không xong, bởi chỉ có thứ này là dễ kiếm và no bụng lâu nhất."
+    },
+    {
+      "para_id": "c0115p0031",
+      "index": 31,
+      "raw_zh": "就在雲千峰烤山藥的時候，遠處大雨之中一個影子快速的奔跑，很快嗖的一下鑽進了他們旁邊的洞穴之中。",
+      "translated_vi": "Ngay lúc Vân Thiên Phong đang nướng khoai mài, trong màn mưa xối xả đằng xa bỗng có một bóng đen phi nước đại lao tới, rồi nhanh thoăn thoắt vèo một cái chui tọt vào hang đá sát vách cạnh chỗ họ."
+    },
+    {
+      "para_id": "c0115p0032",
+      "index": 32,
+      "raw_zh": "秦疏影她們嚇了一跳，忙低聲道：",
+      "translated_vi": "Tần Sơ Ảnh cùng mọi người giật nảy mình, vội hạ giọng hỏi:"
+    },
+    {
+      "para_id": "c0115p0033",
+      "index": 33,
+      "raw_zh": "“什麽東西？”",
+      "translated_vi": "“Thứ gì thế nhỉ?”"
+    },
+    {
+      "para_id": "c0115p0034",
+      "index": 34,
+      "raw_zh": "雲千峰回憶了一下那東西的個頭不小，怕不是有兩米多的身長，但是長相與常見的野獸沒有符合的，倒是很像一頭驢。",
+      "translated_vi": "Vân Thiên Phong nhớ lại kích thước của thứ kia không hề nhỏ, dễ chừng dài hơn hai mét, nhưng ngoại hình lại chẳng giống với loài thú hoang dã thông thường nào, ngược lại trông hao hao một con lừa."
+    },
+    {
+      "para_id": "c0115p0035",
+      "index": 35,
+      "raw_zh": "於是納悶道：",
+      "translated_vi": "Bèn lấy làm khó hiểu:"
+    },
+    {
+      "para_id": "c0115p0036",
+      "index": 36,
+      "raw_zh": "“好像是野驢，海島上會有野驢嗎？”",
+      "translated_vi": "“Hình như là lừa hoang, trên đảo hoang giữa biển mà cũng có lừa hoang sao?”"
+    },
+    {
+      "para_id": "c0115p0037",
+      "index": 37,
+      "raw_zh": "雖然這海島很大，但是野驢一般只出現在寒溫帶的叢林和草原混雜處。",
+      "translated_vi": "Dẫu cho hòn đảo này diện tích rất lớn, nhưng lừa hoang thông thường chỉ xuất hiện ở khu vực giao thoa giữa rừng rậm và thảo nguyên vùng ôn hàn đới."
+    },
+    {
+      "para_id": "c0115p0038",
+      "index": 38,
+      "raw_zh": "那都是廣闊的陸地。",
+      "translated_vi": "Đó đều phải là những vùng đại lục bao la rộng lớn."
+    },
+    {
+      "para_id": "c0115p0039",
+      "index": 39,
+      "raw_zh": "秦疏影道：",
+      "translated_vi": "Tần Sơ Ảnh nói:"
+    },
+    {
+      "para_id": "c0115p0040",
+      "index": 40,
+      "raw_zh": "“估計是落單的野驢，和咱們一樣來這裡躲雨的，畢竟雷電天威是野生動物最害怕的事物。”",
+      "translated_vi": "“Chắc là một con lừa hoang bị lạc đàn, cũng giống như chúng ta mò tới đây để tránh mưa thôi. Dẫu sao thì sấm sét thịnh nộ của trời đất chính là thứ mà dã thú hoang dã sợ hãi nhất.”"
+    },
+    {
+      "para_id": "c0115p0041",
+      "index": 41,
+      "raw_zh": "雲千峰舔了舔嘴唇，道：",
+      "translated_vi": "Vân Thiên Phong khẽ liếm môi, nói:"
+    },
+    {
+      "para_id": "c0115p0042",
+      "index": 42,
+      "raw_zh": "“你們想不想吃肉？”",
+      "translated_vi": "“Các cô có muốn ăn thịt không?”"
+    },
+    {
+      "para_id": "c0115p0043",
+      "index": 43,
+      "raw_zh": "“咕嚕！”",
+      "translated_vi": "“Ực!”"
+    },
+    {
+      "para_id": "c0115p0044",
+      "index": 44,
+      "raw_zh": "三女幾乎同時咽了一口口水，全都饞了。",
+      "translated_vi": "Cả ba cô gái gần như đồng thời nuốt nước miếng đánh ực một cái, ai nấy đều thèm thuồng nhỏ dãi."
+    },
+    {
+      "para_id": "c0115p0045",
+      "index": 45,
+      "raw_zh": "吃了這麽久山藥，早就賴了。",
+      "translated_vi": "Ăn khoai mài ròng rã bấy lâu nay, miệng lưỡi đã sớm nhạt thếch nhạt hoét."
+    },
+    {
+      "para_id": "c0115p0046",
+      "index": 46,
+      "raw_zh": "現在一聽說肉，嘴裡的口水就開始瘋狂分泌。",
+      "translated_vi": "Nay vừa nghe nhắc tới hai chữ “thịt”, tuyến nước bọt trong khoang miệng lập tức tiết ra không ngừng."
+    },
+    {
+      "para_id": "c0115p0047",
+      "index": 47,
+      "raw_zh": "“想！”",
+      "translated_vi": "“Muốn chứ!”"
+    },
+    {
+      "para_id": "c0115p0048",
+      "index": 48,
+      "raw_zh": "雲千峰點了點頭，道：",
+      "translated_vi": "Vân Thiên Phong gật đầu bảo:"
+    },
+    {
+      "para_id": "c0115p0049",
+      "index": 49,
+      "raw_zh": "“你們幾個一人撿幾塊石頭到石洞後面，如果野驢是進了兩端通透的石洞，你們就扔石頭把它攆出去，我在前面洞口等著偷襲它，千千別去了，狀態不好，在這守著篝火，順便做我們兩隊的通訊員。”",
+      "translated_vi": "“Các cô mỗi người nhặt mấy hòn đá vòng ra phía sau hang. Nếu con lừa hoang kia chui vào cái hang thông hai đầu, các cô cứ ném đá xua đuổi nó chạy ra, tôi sẽ đón lõng ở cửa trước tập kích bất ngờ. Thiên Thiên đừng đi, thể trạng em không tốt cứ ở lại trông đống lửa, tiện làm liên lạc viên truyền tín hiệu giữa hai bên.”"
+    },
+    {
+      "para_id": "c0115p0050",
+      "index": 50,
+      "raw_zh": "三女齊齊點頭，開始在地上找碎石。",
+      "translated_vi": "Mấy cô gái đồng loạt gật đầu, bắt đầu cúi xuống tìm nhặt đá vụn trên mặt đất."
+    },
+    {
+      "para_id": "c0115p0051",
+      "index": 51,
+      "raw_zh": "找好後，雲千峰當先把草編馬甲和草裙脫掉，光著走進冰冷的大雨之中，避免草裙被澆濕，明天沒得穿，那玩意可不好烤。",
+      "translated_vi": "Nhặt xong đá, Vân Thiên Phong cởi phăng áo gi-lê và váy cỏ bện ra trước, trần như nhộng sải bước lao ra màn mưa lạnh buốt, tránh cho váy cỏ bị ướt sũng ngày mai không có cái mặc, thứ đó phơi nướng chẳng dễ khô chút nào."
+    },
+    {
+      "para_id": "c0115p0052",
+      "index": 52,
+      "raw_zh": "秦疏影和張敏也知道要這樣做才合理，好在雲千峰早一步轉過頭去，避免她們害羞。",
+      "translated_vi": "Tần Sơ Ảnh và Trương Mẫn cũng hiểu làm vậy mới là hợp lý nhất, may mà Vân Thiên Phong đã sớm quay mặt đi hướng khác để hai người đỡ ngượng ngùng."
+    },
+    {
+      "para_id": "c0115p0053",
+      "index": 53,
+      "raw_zh": "很快，三個人各就各位，一如雲千峰猜測，那是個前後通透的石洞，想來野驢也是看中這裡前後都能跑路。",
+      "translated_vi": "Rất nhanh sau đó, ba người đều đã vào vị trí. Đúng như Vân Thiên Phong dự đoán, đó là một hang đá thông suốt cả trước lẫn sau, ắt hẳn con lừa hoang cũng nhắm trúng điểm này để dễ bề tháo chạy khi gặp nguy."
+    },
+    {
+      "para_id": "c0115p0054",
+      "index": 54,
+      "raw_zh": "雷聲陣陣，是洞內的野驢在雷聲下顫抖著，緊靠著石壁，縮著身體。",
+      "translated_vi": "Sấm rền từng chặp, con lừa hoang bên trong run rẩy bần bật trước tiếng sấm sét đùng đoàng, nép sát vào vách đá mà co ro sợ hãi."
+    },
+    {
+      "para_id": "c0115p0055",
+      "index": 55,
+      "raw_zh": "千千看到雲千峰已經就位，就跑到洞穴後面出口對著雨中兩女打了一個手勢。",
+      "translated_vi": "Thiên Thiên trông thấy Vân Thiên Phong đã vào vị trí mai phục, liền chạy ra cửa sau hang đá ra hiệu bằng tay cho hai cô gái đang đứng trong mưa."
+    },
+    {
+      "para_id": "c0115p0056",
+      "index": 56,
+      "raw_zh": "兩女確定雲千峰已經就位，就輪班開始向著石洞內扔石頭。",
+      "translated_vi": "Hai cô gái xác nhận Vân Thiên Phong đã sẵn sàng, liền thay phiên nhau ném đá tới tấp vào trong hang."
+    },
+    {
+      "para_id": "c0115p0057",
+      "index": 57,
+      "raw_zh": "那野驢被驚，忙蹦了起來，在是洞內轉了一個圈，似乎是在逃跑和雷聲恐懼兩者之間做選擇。",
+      "translated_vi": "Bị tập kích bất ngờ, con lừa hoang giật bắn mình chồm dậy, cuống cuồng xoay một vòng trong hang, dường như đang đắn đo lựa chọn giữa việc tháo chạy ra ngoài hay trốn tiếng sấm kinh hoàng."
+    },
+    {
+      "para_id": "c0115p0058",
+      "index": 58,
+      "raw_zh": "最後，那野驢禁不住石頭砸過來的恐懼，一頭衝向洞外的暴雨之中。",
+      "translated_vi": "Rốt cuộc, nỗi khiếp sợ trước những hòn đá ném tới tấp đã lấn át tất cả, con lừa hoang lao vụt ra ngoài màn mưa bão."
+    },
+    {
+      "para_id": "c0115p0059",
+      "index": 59,
+      "raw_zh": "然而，它半邊身子剛跑出石洞口，叫都沒叫一聲，碩大的腦袋便伴隨著一瓢血線離開了身體。",
+      "translated_vi": "Thế nhưng, nửa thân mình của nó vừa mới thò ra khỏi cửa hang, còn chưa kịp kêu lên một tiếng nào thì cái đầu to tướng đã lìa khỏi cổ kèm theo một vòi máu tươi phun trào."
+    },
+    {
+      "para_id": "c0115p0060",
+      "index": 60,
+      "raw_zh": "那四蹄兀自向前奔跑了幾步，終於滾倒在地上，在雨水之中一動不動。",
+      "translated_vi": "Bốn chiếc vó vẫn theo quán tính lao về phía trước vài bước, rồi ngã lăn quay ra đất, bất động giữa làn nước mưa xối xả."
+    },
+    {
+      "para_id": "c0115p0061",
+      "index": 61,
+      "raw_zh": "雲千峰拎著海軍刀來到野驢的屍體前，開始剝皮剔肉，還不忘把驢舌和驢耳朵割下來，雲千峰最愛吃耳朵。",
+      "translated_vi": "Vân Thiên Phong xách thanh kiếm hải quân tiến tới trước xác con lừa hoang, bắt đầu thuần thục lột da lóc thịt, lại không quên xẻo luôn lưỡi lừa và đôi tai lừa mang về, anh vốn khoái khẩu nhất món tai lừa."
+    },
+    {
+      "para_id": "c0115p0062",
+      "index": 62,
+      "raw_zh": "秦疏影和張敏也興匆匆的頂雨跑過來，心裡裝著美食，混忘了自己的馬甲和草裙沒在身上。",
+      "translated_vi": "Tần Sơ Ảnh và Trương Mẫn cũng hớn hở đội mưa chạy lại gần, trong lòng chỉ mải nghĩ đến miếng ăn ngon lành mà quên bẵng mất trên người mình chẳng còn mảnh gi-lê hay váy cỏ nào che thân."
+    },
+    {
+      "para_id": "c0115p0063",
+      "index": 63,
+      "raw_zh": "兩女興奮的嘰嘰喳喳笑著，不斷拿著雲千峰剔下來的驢肉送回他們居住的石洞。",
+      "translated_vi": "Hai cô gái phấn khích ríu rít cười đùa, thoăn thoắt chuyền tay nhau mang từng tảng thịt lừa do Vân Thiên Phong lóc ra đem về hang đá trú ẩn."
+    },
+    {
+      "para_id": "c0115p0064",
+      "index": 64,
+      "raw_zh": "足足半個多小時，才把方便拿的驢肉全都帶了回去。",
+      "translated_vi": "Phải mất hơn nửa tiếng đồng hồ mới khuân hết những phần thịt lừa ngon lành tiện mang vác về hang."
+    },
+    {
+      "para_id": "c0115p0065",
+      "index": 65,
+      "raw_zh": "雲千峰最後抱著驢的四條腿回到石洞時，秦疏影和張敏已經穿好草裙馬甲，開始用木棍插著驢肉開始燒烤。",
+      "translated_vi": "Khi Vân Thiên Phong ôm nốt bốn chiếc chân lừa quay về hang đá thì Tần Sơ Ảnh và Trương Mẫn đã mặc lại váy cỏ và áo gi-lê chỉnh tề, đang lấy cành cây xiên thịt lừa bắc lên nướng."
+    },
+    {
+      "para_id": "c0115p0066",
+      "index": 66,
+      "raw_zh": "秦疏影把艦船上帶來的鹽碾碎，小心的灑在烤得冒黃油的驢肉上，發出滋滋的響聲，肉香彌漫，引得幾個人不住的吞咽唾液。",
+      "translated_vi": "Tần Sơ Ảnh nghiền nhỏ chút muối mang theo từ con tàu chiến, cẩn thận rắc đều lên những xiên thịt lừa đang nướng xèo xèo tứa mỡ vàng ươm, tỏa ra mùi thơm ngào ngạt khiến ai nấy nuốt nước bọt ừng ực."
+    },
+    {
+      "para_id": "c0115p0067",
+      "index": 67,
+      "raw_zh": "雲千峰則把驢耳朵和驢腿上面的毛用火燎乾淨，灑上鹽包上樹葉，然後用門外的泥土混著雨水和泥，厚厚包裹著驢腿和驢耳朵，然後直接扔進篝火堆裡燒。",
+      "translated_vi": "Vân Thiên Phong thì đem tai lừa và chân lừa thui trụi sạch lông trên ngọn lửa, rắc muối rồi bọc kín trong lá cây, sau đó dùng bùn đất trộn nước mưa ngoài cửa hang đắp một lớp dày cộm bên ngoài rồi ném thẳng vào đống than hồng nướng chín."
+    },
+    {
+      "para_id": "c0115p0068",
+      "index": 68,
+      "raw_zh": "叫花雞吃過，叫花驢腿這絕對是獨一份。",
+      "translated_vi": "Gà nướng đất thì ai cũng từng ăn qua, chứ món chân lừa nướng bọc bùn này đích thị là độc nhất vô nhị."
+    },
+    {
+      "para_id": "c0115p0069",
+      "index": 69,
+      "raw_zh": "天上龍肉地上驢肉。",
+      "translated_vi": "Người xưa có câu “Trên trời thịt rồng, dưới đất thịt lừa”."
+    },
+    {
+      "para_id": "c0115p0070",
+      "index": 70,
+      "raw_zh": "驢肉的口感筋道，不柴不膩，讓幾個人的味蕾從未如此活躍過。",
+      "translated_vi": "Vị thịt lừa dai ngọt đậm đà, không hề khô bã cũng chẳng ngấy ngán, khiến vị giác của mấy người họ hoạt động sôi nổi chưa từng thấy."
+    },
+    {
+      "para_id": "c0115p0071",
+      "index": 71,
+      "raw_zh": "一個個吃得滿嘴流油。",
+      "translated_vi": "Ai nấy ăn đến mức miệng bóng nhẫy mỡ màng."
+    },
+    {
+      "para_id": "c0115p0072",
+      "index": 72,
+      "raw_zh": "只有千千吃了幾口，就住了口，繼續蜷縮在篝火旁，一副很冷的模樣。",
+      "translated_vi": "Duy chỉ có Thiên Thiên ăn được vài miếng nhỏ rồi thôi, lại tiếp tục co ro bên đống lửa, dáng vẻ run rẩy vì lạnh buốt."
+    },
+    {
+      "para_id": "c0115p0073",
+      "index": 73,
+      "raw_zh": "她看著雲千峰，道：",
+      "translated_vi": "Cô bé ngước mắt nhìn Vân Thiên Phong, thều thào nói:"
+    },
+    {
+      "para_id": "c0115p0074",
+      "index": 74,
+      "raw_zh": "“雲千峰，我好像病了，我現在看伱們都是黑白色的，火焰都沒有了顏色。”",
+      "translated_vi": "“Anh Vân Thiên Phong ơi, hình như em bị ốm rồi. Bây giờ em nhìn mọi người chỉ toàn là hai màu đen trắng, ngay cả ngọn lửa cũng chẳng còn màu sắc nữa.”"
+    },
+    {
+      "para_id": "c0115p0075",
+      "index": 75,
+      "raw_zh": "雲千峰一愣，看著千千的面色，似乎愈加蒼白，原本圓潤的娃娃臉現在有些凹陷。",
+      "translated_vi": "Vân Thiên Phong sững sờ, chăm chú nhìn sắc mặt Thiên Thiên, thấy làn da cô bé ngày càng tái mét, gương mặt búp bê vốn tròn trịa nay đã hơi hốc hác hẳn đi."
+    },
+    {
+      "para_id": "c0115p0076",
+      "index": 76,
+      "raw_zh": "他忙捉起千千的手腕，搭上了她的脈搏，仔細感受了一會，發現千千的脈象很沉，而且細數無力，加之千千現在的症狀，心中立馬有了計較。",
+      "translated_vi": "Anh vội nắm lấy cổ tay Thiên Thiên, đặt ngón tay bắt mạch cẩn thận một hồi, phát hiện mạch tượng của Thiên Thiên rất trầm, lại tế sác vô lực, kết hợp với các triệu chứng hiện tại, trong lòng anh lập tức có tính toán."
+    },
+    {
+      "para_id": "c0115p0077",
+      "index": 77,
+      "raw_zh": "他看向秦疏影和張敏倆人，似乎在斟酌選擇著什麽.",
+      "translated_vi": "Anh đưa mắt nhìn sang Tần Sơ Ảnh và Trương Mẫn, dường như đang đắn đo cân nhắc một sự lựa chọn nào đó..."
+    },
+    {
+      "para_id": "c0115p0078",
+      "index": 78,
+      "raw_zh": "感謝宵夜真的好吃、千裡縱橫、最愛小皇叔的月票鼓勵，謝謝你們的支持，謝謝你們給我加油！！！",
+      "translated_vi": "Cảm ơn Tiêu Dạ Chân Đích Hảo Cật, Thiên Lý Túng Hoành, Tối Ái Tiểu Hoàng Thúc đã ủng hộ phiếu tháng, cảm ơn sự ủng hộ của các bạn, cảm ơn các bạn đã tiếp thêm động lực cho tôi!"
+    }
+  ]
+}
