@@ -1,10 +1,10 @@
 # CaoTruyen Sovereign Quality v3.5 — Master Translation Engine
 
 > **Kiến trúc dịch thuật văn học mạng đa tác tử tiệm cận hoàn hảo (Co-engineered with Gemini 4 Argon)**  
-> *Đạt chuẩn kiểm thử tự động 137/137 Unit Tests Green (100% Pass in 0.709s)*
+> *Đạt chuẩn kiểm thử tự động 138/138 Unit Tests Green (100% Pass in 0.782s)*
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![Tests](https://img.shields.io/badge/Unit%20Tests-137%2F137%20Passing-brightgreen.svg)]()
+[![Tests](https://img.shields.io/badge/Unit%20Tests-138%2F138%20Passing-brightgreen.svg)]()
 [![Scale](https://img.shields.io/badge/Scale-2.000%2B%20Chapters%20Ready-purple.svg)]()
 [![Architecture](https://img.shields.io/badge/Architecture-Sovereign%20Quality%20v3.5-orange.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
@@ -71,6 +71,17 @@ flowchart TD
   - **Cổ Long (`GU_LONG_PROFILE`):** Câu cực ngắn sắc lạnh 3–9 từ, xuống dòng liên tục (đoạn đơn câu $\ge 60\%$), điệp từ tạo nhịp.
   - **Mực Thích Lặn Nước (`CUTTLEFISH_PROFILE`):** Cú pháp tầng bậc Victoria, điềm tĩnh quý phái kết hợp hài hước ngầm (*dry lampooning*).
 
+### 🤖 6. Hệ Điều Hành Tự Can Thiệp, Tự Sửa Lỗi & Tự Hoàn Thiện Toàn Quyền (`native_oauth/autonomous/self_healing_engine.py`)
+- **Triết lý Cốt lõi:** Người dùng/người đọc Việt Nam **hoàn toàn mù chữ Hán (0% Chinese Knowledge)**, không thể và không bao giờ phải can thiệp sửa từ điển, tra raw hay chỉnh sửa thủ công. Hệ thống tự đóng vai Trưởng ban Giám định & Bác sĩ Phẫu thuật tự động:
+  - **Hội đồng Thẩm định 2 Mắt (Dual-Inspection Committee):**
+    - *Mắt 1 (Bilingual White-Box Auditor):* Đối chiếu song ngữ Hán-Việt bắt triệt để lỗi đảo cực phủ định (`绝不` vs `khẳng định`), thất thoát/ảo giác thông tin (tỷ lệ âm tiết/ký tự), sai lệch phương vị (Đông Nam vs Tây Bắc) và tuân thủ bảng thuật ngữ.
+    - *Mắt 2 (Monolingual Black-Box Critic - "Mù Chữ Hán"):* Đóng vai độc giả Việt Nam khắt khe, chỉ đọc bản dịch tiếng Việt để bắt các cấu trúc dịch gượng Hán hóa thô (`trong mắt hiện lên một tia`, `cười lạnh một tiếng nói`) và nhập nhằng đại từ nhân xưng (`hắn đâm hắn` $\rightarrow$ `hắn đâm đối phương`).
+  - **Tháp Tự Chữa Lành 3 Cấp Độ (3-Tier Self-Healing Hierarchy):**
+    - *Tier 1 (Symbolic 0-Token Patch):* Khử calque và gỡ rối đại từ bằng phép thế tất định và thẻ Standoff Annotation (0 token, 0ms, 0 rủi ro ảo giác).
+    - *Tier 2 (Constrained Delta Micro-Surgery):* Đóng băng ngữ cảnh trước-sau, cô lập đúng câu lỗi với ràng buộc ngữ nghĩa phủ định tuyệt đối.
+    - *Tier 3 (Best-of-N Ensemble Tournament):* Đấu loại chéo đa ứng viên nếu Tier 2 không đạt ngưỡng.
+  - **Cổng Xuất Bản Tự Trị (Autonomous Publication Gate):** Chỉ phê duyệt xuất bản khi độ tin cậy $\ge 0.98$ và sạch 100% dị thường.
+
 ---
 
 ## 3. Cấu Trúc Thư Mục Dự Án
@@ -79,6 +90,8 @@ flowchart TD
 CaoTruyen/
 ├── .agents/agents/               # Chuyên gia Subagents
 ├── native_oauth/                 # Lõi xử lý ngôn ngữ & điều phối cấp cao
+│   ├── autonomous/               # Hệ điều hành tự trị ASTOS & Tự chữa lành (TS-06)
+│   │   └── self_healing_engine.py # Dual-Inspection Committee & 3-Tier Self-Healing
 │   ├── core/
 │   │   ├── ast/
 │   │   │   └── semantic_parser.py   # Lõi cú pháp ngữ nghĩa bất bại (TS-01)
@@ -102,7 +115,8 @@ CaoTruyen/
 │   ├── bns_prepass.py            # Tiền xử lý cấu trúc nguồn & thực thể
 │   ├── story_store.py            # Lưu trữ trạng thái và chỉ mục ngữ cảnh
 │   └── quality_gate.py           # Cổng chất lượng văn học đa tiêu chí
-├── tests/                        # 137 Unit tests bao phủ toàn diện
+├── tests/                        # 138 Unit tests bao phủ toàn diện
+│   ├── test_autonomous_self_healing.py # TS-06: Dual-Inspection & Self-Healing test
 │   ├── test_semantic_parser.py   # TS-01: Zero-Punctuation Chaos test
 │   ├── test_retroactive_tekg.py  # TS-02: Delayed Identity Reveal test
 │   ├── test_genre_and_dna.py     # TS-03 & TS-05: Phonetic Lore & Gu Long Staccato
@@ -110,7 +124,7 @@ CaoTruyen/
 │   ├── test_prosody_engine.py    # Kiểm thử âm vận Bằng-Trắc
 │   ├── test_wave_orchestrator.py # Kiểm thử Wave 5 chương & Seam Stitcher
 │   ├── test_idiom_engine.py      # Kiểm thử Idiom 3 Tiers
-│   └── ...                       # 137/137 tests PASS 100%
+│   └── ...                       # 138/138 tests PASS 100%
 ├── api_config.example.json       # Cấu hình đa nhà cung cấp LLM
 ├── requirements.txt              # Thư viện phụ thuộc Python
 └── README.md                     # Tài liệu hướng dẫn hệ thống
@@ -121,8 +135,11 @@ CaoTruyen/
 ## 4. Chạy Toàn Bộ Kiểm Thử Tự Động (Test Suite)
 
 ```bash
-# Chạy toàn bộ 137 Unit Tests
+# Chạy toàn bộ 138 Unit Tests
 python -X utf8 -m unittest discover -s tests -v
+
+# Chạy riêng kiểm thử Hệ Điều Hành Tự Chữa Lành ASTOS (TS-06)
+python -X utf8 -m unittest tests.test_autonomous_self_healing -v
 
 # Chạy riêng kiểm thử Lõi Cú Pháp Chống Văn Bản Bẩn (TS-01)
 python -X utf8 -m unittest tests.test_semantic_parser -v
