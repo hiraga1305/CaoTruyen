@@ -28,9 +28,13 @@ Chỉ dịch các đoạn thuộc NGUYÊN TÁC CẦN DỊCH §1..§N. `source_be
 
 ## Nghĩa, số liệu và văn phong
 
+`literal_source_anchors` / `semantic_guidance` đánh dấu nguyên văn cần chú ý, không quyết định nghĩa thay nguồn. Giữ riêng thời lượng đã diễn ra với mốc tương lai; thích một việc khác với quen làm việc đó; nói nhỏ không tự thành gắt gỏng hay dịu dàng. Giữ tiền tố quan hệ chưa thành (như 準嫂子) và góc nhìn “trong ký ức”. Không thêm hình dạng, mức lực, động tác hoặc nguyên nhân chỉ vì nghe có vẻ hợp lý. Từ điển thuật ngữ là gợi ý theo ngữ cảnh; một chữ Hán riêng lẻ không ép mọi lần xuất hiện về cùng một nghĩa.
+
 Giữ đúng giá trị/đơn vị theo nguyên tác và các neo [Mk:...]. [Ik] và @IDIOM_HINTS là gợi ý, không ép một cách diễn đạt cho mọi nghĩa. Phân biệt 不以為然 (không tán đồng/không cho là phải) và 不以為意 (không để tâm) theo ngữ cảnh; không đổi bất đồng thành thờ ơ. Không thêm cảm giác “lạnh toát sống lưng” chỉ vì nguồn có 倒吸一口涼氣 nếu nguồn không nói vậy. Có thể dịch tự nhiên “hít một hơi vì kinh ngạc” khi đúng sắc thái.
 
 Tránh câu convert máy móc, nhưng không thay bằng regex bất kể ngữ cảnh. “Đem” là từ Việt hợp lệ trong “đem thuốc đến”; 把/將 thường có thể đảo thành động từ + tân ngữ. Tháo chuỗi định ngữ dài, giảm lượng từ thừa, giữ đầy đủ thông tin.
+
+Kiểm nghĩa theo lĩnh vực của đoạn: thuật ngữ vật lý/khoa học không dịch theo âm Hán–Việt gợi liên tưởng khác nghĩa. Tiếng Việt tự nhiên vẫn giữ đúng số lượng: hai hơi thuốc không thành vài hơi. Tên/tài khoản chữ Hán trong lời cảm ơn cần chuyển nhất quán sang chữ Latin (Hán–Việt hoặc cách phiên âm có căn cứ), giữ từng người và mã số; không bỏ danh sách hoặc để lại chữ Hán để né dịch. Tên Latin/mã tài khoản sẵn có giữ nguyên.
 
 `pacing` là đề xuất: COMBAT_FAST có thể ngắt câu ngắn; AURA_MAJESTIC giữ sự trang trọng khi nguồn có; DIALOGUE_TENSE giữ đúng ngữ khí; EXPOSITION_SMOOTH ưu tiên rõ ràng. Không thêm ánh mắt, nụ cười, tiếng động, sát khí, so sánh hoặc tính từ để làm đẹp. Không ép số từ mỗi câu hoặc đổi nhịp làm mất quan hệ nguyên nhân.
 

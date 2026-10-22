@@ -15,6 +15,7 @@ from typing import Any, Dict, List, Optional, Set, Tuple
 
 from native_oauth.numeric_lock import DeterministicNumericExtractor
 from native_oauth.semantic_context import dialogue_cues, scoped_rules, entity_aliases
+from native_oauth.meaning_anchors import source_anchors
 from native_oauth.scene_contract import (
     EntityRecord,
     PronounRule,
@@ -489,6 +490,8 @@ class UnifiedSemanticPreprocessor:
             glossary=glossary or {},
             idiom_hints=all_idiom_hints,
             semantic_context={"policy": "SOURCE_FIRST_ADVISORY_V2",
+                              "literal_source_anchors": source_anchors([
+                                  {'id':f'§{i}','source':raw} for i,raw in enumerate(raw_paragraphs,1)]),
                               "source_before_read_only": source_before,
                               "source_after_read_only": source_after,
                               "dialogues": cues_all,

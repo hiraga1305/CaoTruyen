@@ -7,6 +7,8 @@ See [ANTIGRAVITY_WORKFLOW.md](ANTIGRAVITY_WORKFLOW.md) for commands and limits.
 - `pipeline_native.py`: source/parser package -> native draft -> isolated native semantic/literary reviews -> bounded regeneration -> publication evidence. `--draft-only` stops before review; `--resume-draft` validates original runtime provenance.
 - Book runners / `chapter_runner.py`: verified scene drafts with ownership and source overlap.
 - `review_book_chapter.py`: adapt book drafts to source-bound review envelopes, review natively, then promote to `book_*/approved/` in dependency order.
+- `revise_book.py`: frozen legacy-book post-edit campaign; preserves originals, resumes safely and repairs the latest candidate before two fresh native reviews.
+- `recover_missing.py` / `revision_status.py`: source-owned missing-span proposals and read-only verification; recovered drafts are counted separately from approvals.
 - `batch_run.py`: source-frozen experimental drafts; no automatic publication claim.
 - `run_agy.py` / `native_evidence.py`: completed runtime/model/session provenance.
 

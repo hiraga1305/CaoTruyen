@@ -4,7 +4,7 @@ import shutil
 import json
 import uuid
 from pathlib import Path
-from semantic_gate import review_prompt, write_json, LITERARY_CHECKS
+from semantic_gate import review_prompt, write_json, validate_review, LITERARY_CHECKS
 from native_oauth.session_monitor import get_session_monitor
 
 
@@ -39,28 +39,61 @@ def visible_stage(package, role):
 
 def run_independent_reviews(package, candidate, data, workspace, reviewer_model, auditor_model, timeout=420):
     # Import at call time to keep the stage transport mockable and avoid cycles.
-    from native_oauth.pipeline_native import run_stage
+    from native_oauth.pipeline_native import run_stage, NativeJSONSchemaError
     data, workspace = Path(data), Path(workspace)
-    protocol = review_prompt(package, candidate)
-    protocol += ('\nĐọc đủ mọi đoạn và biên cảnh/chương. Không đọc báo cáo của reviewer khác. '
+    suffix = ('\nĐọc đủ mọi đoạn và biên cảnh/chương. Không đọc báo cáo của reviewer khác. '
                  'Kiểm xưng hô theo đúng người nói/nghe, lời nhại, độc thoại, người thứ ba và quan hệ tại cảnh. '
                  'Vai auditor kiểm thêm tiếng Việt tự nhiên, nhất quán tên/giọng và continuity. '
+                 'Đánh giá tương đương nghĩa trong ngữ cảnh, chấp nhận hoán dụ/thành ngữ Việt hợp nghĩa; '
+                 'không coi mọi khác biệt từ vựng hoặc việc dịch một từ viết tắt là lỗi. '
                  'Không sửa draft, không thêm dữ kiện. Include literary_checks: ' +
                  json.dumps(dict.fromkeys(LITERARY_CHECKS, True)) +
                  '. Return valid JSON; true means inspected, real defects still FAIL.')
-    if len(protocol) > 120000:
+    suffix += ('\nsource_quote/target_quote must be exact contiguous substrings of their supplied paragraph, '
+                 'including original case and punctuation. Prefer a short meaningful quote from the middle '
+                 'of a paragraph rather than copying all text. A quote may span paragraph boundaries in the story: '
+                 'never invent an opening or closing quotation mark absent from this paragraph. '
+                 'Do not normalize quotation marks or whitespace in evidence. '
+                 'Use short meaningful exact quotes and one concise source-grounded reason per row; '
+                 'do not duplicate full paragraphs in the report. Inspect every paragraph regardless of report brevity.')
+    if max(len(review_prompt(package,candidate,literary_first=first)+suffix) for first in (False,True)) > 120000:
         raise ValueError('Complete review protocol exceeds context budget')
-    reviews = []
-    for role, model in (('reviewer', reviewer_model), ('auditor', auditor_model)):
-        isolated = workspace / 'review_sessions' / (role + '_' + uuid.uuid4().hex)
-        target = isolated / 'native_oauth/runs/chapter1'
-        target.mkdir(parents=True)
-        install_agents(isolated)
-        write_json(target / 'source.json', package)
-        for name in ('analysis.full.json', 'analysis.compact.json'):
-            if (data / name).exists():
-                shutil.copy2(data / name, target / name)
-        lookup = Path(__file__).with_name('analysis_lookup.py')
-        shutil.copy2(lookup, isolated / 'native_oauth/analysis_lookup.py')
-        reviews.append(run_stage(target, isolated, role, model, protocol, role + '.json', timeout))
-    return reviews
+    def review(role, model):
+        role_protocol = review_prompt(package,candidate,literary_first=(role=='auditor'))+suffix
+        schema_error = None
+        for evidence_attempt in range(2):
+            isolated = workspace / 'review_sessions' / (role + '_' + uuid.uuid4().hex)
+            target = isolated / 'native_oauth/runs/chapter1'
+            target.mkdir(parents=True)
+            install_agents(isolated)
+            write_json(target / 'source.json', package)
+            for name in ('analysis.full.json', 'analysis.compact.json'):
+                if (data / name).exists():
+                    shutil.copy2(data / name, target / name)
+            lookup = Path(__file__).with_name('analysis_lookup.py')
+            shutil.copy2(lookup, isolated / 'native_oauth/analysis_lookup.py')
+            current = role_protocol + ('\nYour prior response failed evidence schema validation: '+schema_error+
+                '. Independently check the same frozen candidate again; provide exact quotes and do not infer a required verdict.'
+                if schema_error else '')
+            try:
+                result = run_stage(target, isolated, role, model, current, role+'.json', timeout)
+            except NativeJSONSchemaError as error:
+                schema_error = str(error)
+            else:
+                try:
+                    validate_review(package, candidate, result)
+                    if role=='auditor':
+                        checks=result.get('literary_checks',{})
+                        if (not isinstance(checks,dict) or set(checks)!=set(LITERARY_CHECKS)
+                                or any(value is not True for value in checks.values())):
+                            raise ValueError('Missing explicit literary review dimensions')
+                except (ValueError,KeyError,TypeError,AttributeError) as error:
+                    schema_error = str(error)
+                else:
+                    return result
+            write_json(isolated/'evidence_error.json', {'status':'BLOCKED','reason':schema_error})
+            if evidence_attempt == 1:
+                raise ValueError('Native review evidence failed twice: '+schema_error)
+    # Isolated sessions, in stable role order. CLI shutdown proved unreliable
+    # during concurrent full-chapter reviews, so completion takes priority.
+    return [review('reviewer',reviewer_model),review('auditor',auditor_model)]

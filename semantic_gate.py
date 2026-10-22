@@ -205,7 +205,8 @@ def validate_review(package, candidate, review):
         for key, body in (('source_quote', raw['source']), ('target_quote', draft['text'])):
             quote = row.get(key)
             if not isinstance(quote, str) or not quote.strip() or quote not in body:
-                raise ValueError('Review evidence does not match ' + raw['id'])
+                raise ValueError('Review evidence does not match ' + raw['id']+' '+key+
+                                 '; quote='+repr(quote)[:240]+'; copy an exact substring from this paragraph')
         if not isinstance(row.get('reason'), str) or not row['reason'].strip():
             raise ValueError('Missing paragraph review reason')
     for issue in review['issues']:
@@ -305,8 +306,8 @@ def translation_prompt(package):
             json.dumps(package, ensure_ascii=False))
 
 
-def review_prompt(package, candidate):
-    return ('Bạn là kiểm dịch độc lập, không sửa draft và không tin lời tự đánh giá của dịch giả. '
+def review_prompt(package, candidate, literary_first=False):
+    protocol = ('Bạn là kiểm dịch độc lập, không sửa draft và không tin lời tự đánh giá của dịch giả. '
             'Đối chiếu TỪNG đoạn với nguồn, xét ngữ cảnh toàn chương và context có nguồn. '
             'Kiểm tra mất/thêm nghĩa, người nói, đại từ, tên, con số/đơn vị, phủ định, modality, '
             'trình tự/nhân quả và mâu thuẫn xuyên chương. Thiếu ngữ cảnh thì FAIL với issue kind=needs_context; không đoán. '
@@ -319,8 +320,14 @@ def review_prompt(package, candidate):
             '"source_quote":"trích nguyên văn","target_quote":"trích draft",'
             '"reason":"lý do đối chiếu"}],"issues":[{"id":"...","reason":"..."}]}. '
             'true nghĩa là đã kiểm tra, không phải nghĩa là không lỗi. FAIL phải nêu issues. '
-            'Bao phủ mọi id đúng thứ tự, kể cả đoạn không lỗi.\nSOURCE:\n' +
-            json.dumps(package, ensure_ascii=False) + '\nDRAFT:\n' + json.dumps(candidate, ensure_ascii=False))
+            'Bao phủ mọi id đúng thứ tự, kể cả đoạn không lỗi. ID phải là đúng source ID, không tạo mã finding thay cho ID đoạn.\n')
+    if literary_first:
+        protocol += ('Đọc bản Việt trước như độc giả Việt: kiểm chủ ngữ/vị ngữ, liên kết, kết hợp từ và ngữ vực. '
+                     'Sau đó kiểm lại từng nhận xét với nguồn Trung. Không cho PASS chỉ vì khớp từng từ. '
+                     'Phân biệt lỗi thật với lựa chọn văn phong hợp nghĩa; không ép lời thoại thành khẩu ngữ nếu nguồn trang trọng. '
+                     'Đề xuất sửa vẫn phải giữ số lượng, mức độ và sắc thái nguồn; không đổi hai thành vài/mấy để câu mượt.\n')
+        return protocol+'DRAFT:\n'+json.dumps(candidate,ensure_ascii=False)+'\nSOURCE:\n'+json.dumps(package,ensure_ascii=False)
+    return protocol+'SOURCE:\n'+json.dumps(package,ensure_ascii=False)+'\nDRAFT:\n'+json.dumps(candidate,ensure_ascii=False)
 
 
 def parse_model_json(text):

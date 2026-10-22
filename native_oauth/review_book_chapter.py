@@ -19,6 +19,7 @@ from native_oauth.native_review import run_independent_reviews, visible_stage
 from native_oauth.semantic_context import normalize_profile
 from native_oauth.approved_context import retrieve_context
 from native_oauth.workflow_io import file_lock
+from native_oauth.meaning_anchors import semantic_guidance
 
 
 def bound_files(paths):
@@ -49,11 +50,13 @@ def prepare_review(book_dir, chapter):
         context = retrieve_context(book_dir, chapter, previous_evidence, entities,
                                    '\n'.join(s['source'] for s in source['segments']))
     # Slash alternatives are editorial suggestions, not a literal hard lock.
-    glossary = {k: v for k, (v, _) in terms.items() if ' / ' not in v}
+    glossary = {k: v for k, (v, category) in terms.items() if category == 'character_name' and ' / ' not in v}
     package = build_package(chapter, source['title'], [s['source'] for s in source['segments']],
                             glossary, source.get('source_ref', ''), context)
     package.update(book_id=source['book_id'], book_title=lore.get('book_title_vi', book_dir.name),
                    genre=lore.get('genre', 'Theo nguồn'), origin_source_hash=source['package_hash'],
+                   total_chapters=len(json.loads((book_dir/'toc.json').read_text(encoding='utf-8'))) if (book_dir/'toc.json').exists() else chapter,
+                   semantic_guidance=semantic_guidance(source['segments'], terms),
                    native_bound_files=bound_files([source_file, lore_file,
                                       Path(__file__).with_name('semantic_profiles.json')]))
     package['package_hash'] = digest({k: v for k, v in package.items() if k != 'package_hash'})

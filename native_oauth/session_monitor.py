@@ -113,6 +113,8 @@ class SessionMonitor:
         self.book_title = book_title
         self.total_chapters = total_chapters
         self.artifact_dir = get_active_artifact_dir()
+        self.native_artifact_dirs = set()
+        self.native_session_order = []
         self.history: List[ChapterExecutionRecord] = []
         self.active_chapter: int = 0
         self.active_wave: int = 0
@@ -191,7 +193,7 @@ class SessionMonitor:
                 "message": message,
                 "updated_at": time.time()
             }
-            self.active_chapter = max(self.active_chapter, chapter_num)
+            self.active_chapter = chapter_num
             self.active_wave = wave_num
             self.save_state()
             self.sync_session_artifacts()
@@ -239,11 +241,17 @@ class SessionMonitor:
             f"- **Tiến độ**: `[{bar}]` **{pct:.1f}%** ({self.completed_count}/{self.total_chapters} chương đã qua kiểm tra cấu trúc)",
             f"- **Wave hiện tại**: Wave **{self.active_wave}** / {self.total_waves} | **Tổng từ**: {self.total_words_accumulated:,} từ",
             f"- **Thể loại**: {self.genre} | **Khoảng chương**: {self.chapter_range} | **Chương hiện tại**: {self.active_chapter}",
-            f"- **Tổng đoạn**: {self.total_paras_accumulated:,} | **Workers**: " + ", ".join(f"{wid}: {w['status']}" for wid, w in sorted(self.active_workers.items())),
+            f"- **Tổng đoạn**: {self.total_paras_accumulated:,} | **Workers**: " + ", ".join(f"{wid}: {w['status']}" for wid, w in self.visible_workers()),
             "- **Duyệt nghĩa/văn học**: xem evidence riêng; tiến độ này chỉ kiểm cấu trúc."
         ]
         lines.append('- **Các giai đoạn**: ' + (', '.join(f'{k}: {v}' for k, v in list(self.stage_states.items())[-8:]) or 'Chưa chạy review'))
         return "\n".join(lines)
+
+    def visible_workers(self):
+        active=[item for item in self.active_workers.items() if item[1].get('status')=='BUSY']
+        recent=sorted((item for item in self.active_workers.items() if item[1].get('status')!='BUSY'),
+                      key=lambda item:item[1].get('updated_at',0),reverse=True)[:max(0,8-len(active))]
+        return sorted(active+recent)
 
     def render_html_widget(self) -> str:
         """Self-contained Generative UI HTML card conforming to Antigravity theme variables."""
@@ -402,15 +410,11 @@ class SessionMonitor:
     def sync_session_artifacts(self):
         """Writes both Markdown and HTML dashboards into Antigravity conversation artifact directory."""
         try:
-            self.artifact_dir.mkdir(parents=True, exist_ok=True)
-
-            # 1. Write HTML widget
-            html_file = self.artifact_dir / "translation_live_dashboard.html"
-            html_file.write_text(self.render_html_widget(), encoding="utf-8")
-
-            # 2. Write Markdown dashboard
-            md_file = self.artifact_dir / "translation_session_dashboard.md"
-            md_file.write_text(self.render_markdown_dashboard_artifact(), encoding="utf-8")
+            from native_oauth.workflow_io import atomic_text
+            for directory in self.native_artifact_dirs | {self.artifact_dir}:
+                directory.mkdir(parents=True, exist_ok=True)
+                atomic_text(directory/"translation_live_dashboard.html", self.render_html_widget())
+                atomic_text(directory/"translation_session_dashboard.md", self.render_markdown_dashboard_artifact())
         except Exception as e:
             # Non-blocking error logging
             warnings.warn(f"Session dashboard sync failed: {e}", RuntimeWarning)

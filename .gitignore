@@ -87,3 +87,6 @@ native_oauth/book_*/native_review_jobs/
 # Workflow OS locks and private generated native evidence
 *.lock
 native_oauth/book_*/runs/generation_*/
+native_oauth/book_*/repair_jobs/
+native_oauth/book_*/approved/
+audit/session_dashboards/

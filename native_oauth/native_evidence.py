@@ -6,7 +6,7 @@ from semantic_gate import digest
 from native_oauth.run_agy import require_complete_runtime, classify_completion
 
 TRANSPORT_KEYS = {'model', 'identity_basis', 'conversation_id', 'runtime_hash',
-                  'native_runtimes', 'native_artifact', 'format_repair'}
+                  'native_runtimes', 'native_artifact', 'format_repair', 'native_response_binding'}
 
 
 def artifact_record(path, payload):
@@ -35,8 +35,23 @@ def runtime_record(path, model):
             or runtime['result'].get('conversation_id') != runtime['conversation_id']):
         raise ValueError('Native init/result/session evidence mismatch')
     diagnostics = path.with_name('diagnostics.txt')
-    classified = classify_completion(events, diagnostics.read_text(encoding='utf-8') if diagnostics.exists() else '', runtime['exit_code'])
-    require_complete_runtime(dict(classified, exit_code=runtime['exit_code']), model)
+    classified = classify_completion(events, diagnostics.read_text(encoding='utf-8') if diagnostics.exists() else '', runtime['exit_code'],
+                                     completed_cleanup=runtime.get('completed_cleanup'))
+    if runtime.get('status')!=classified['status'] or bool(runtime.get('partial_output'))!=classified['partial_output']:
+        raise ValueError('Native completion classification changed')
+    if runtime.get('completed_cleanup') is not None:
+        from native_oauth.run_agy import verified_cleanup
+        if not verified_cleanup(events,diagnostics.read_text(encoding='utf-8') if diagnostics.exists() else '',runtime['completed_cleanup']):
+            raise ValueError('Invalid native cleanup proof')
+        cleanup=runtime['completed_cleanup'];request=path.with_name('input.jsonl')
+        if (not request.is_file() or hashlib.sha256(request.read_bytes()).hexdigest()!=cleanup['input_sha256']
+                or not isinstance(runtime.get('duration_seconds'),(int,float))
+                or runtime['duration_seconds']<cleanup['grace_seconds']):
+            raise ValueError('Completed CLI cleanup input/timing evidence changed')
+        message=json.loads(request.read_text(encoding='utf-8'))
+        if message.get('event')!='user' or not isinstance(message.get('message',{}).get('content'),str):
+            raise ValueError('Invalid native stdin request evidence')
+    require_complete_runtime(dict(classified, exit_code=runtime['exit_code'],completed_cleanup=runtime.get('completed_cleanup')), model)
     return {'file': str(path), 'hash': digest(runtime),
             'model': model, 'conversation_id': runtime['conversation_id']}
 
@@ -60,6 +75,14 @@ def validate_provenance(payload):
         proof = payload['native_artifact']
         if not isinstance(proof, dict) or artifact_record(proof['file'], payload) != proof:
             raise ValueError('Native artifact changed after execution')
+        if payload.get('native_response_binding') == 'json':
+            if len(records) != 1:
+                raise ValueError('One native response per JSON artifact required')
+            runtime = json.loads(Path(records[0]['file']).read_text(encoding='utf-8'))
+            original = json.loads(runtime['result']['response'])
+            core = lambda value: {k:v for k,v in value.items() if k not in TRANSPORT_KEYS}
+            if not isinstance(original, dict) or core(original) != core(payload):
+                raise ValueError('Artifact differs from actual native JSON response')
     elif 'native_scene_ownership' in payload:
         from native_oauth.chapter_integrity import native_scene_texts
         owned = payload['native_scene_ownership']

@@ -1,0 +1,68 @@
+{
+  "as_of_utc": "2026-10-22T17:21:56.718816+00:00",
+  "scope": "Verified local native revisions; recovery proposals do not grant publication approval",
+  "campaign_state": {
+    "book_id": "49736",
+    "range": [
+      1,
+      325
+    ],
+    "status": "RUNNING",
+    "approved_chapters": [
+      1
+    ],
+    "job": "D:\\AI\\Antigravity\\CaoTruyen\\native_oauth\\book_49736\\repair_jobs\\20261022T153633Z",
+    "current_chapter": 2
+  },
+  "baseline_files": 979,
+  "baseline_changes": [],
+  "manifest_hash": "cd00154b524f7a97ce0cb0044454efd3d5905e14dbdab1f2bba88d29d4023538",
+  "manifest_stable": true,
+  "approved_count": 1,
+  "approved": [
+    {
+      "chapter": 1,
+      "paragraphs": 65,
+      "review_models": [
+        "native/gemini-3.8-flash-high",
+        "native/gemini-3.8-flash-high"
+      ],
+      "revision": "29601e0d2cb055098d129f6662a4993ef99be72d7cac7d8ed4e84321949c76df"
+    }
+  ],
+  "invalid_approvals": [],
+  "unreviewed_recoveries": [
+    {
+      "chapter": 239,
+      "paragraphs": 15,
+      "status": "RECOVERY_PROPOSAL_UNREVIEWED"
+    },
+    {
+      "chapter": 248,
+      "paragraphs": 13,
+      "status": "RECOVERY_PROPOSAL_UNREVIEWED"
+    },
+    {
+      "chapter": 299,
+      "paragraphs": 72,
+      "status": "RECOVERY_PROPOSAL_UNREVIEWED"
+    },
+    {
+      "chapter": 306,
+      "paragraphs": 49,
+      "status": "RECOVERY_PROPOSAL_UNREVIEWED"
+    },
+    {
+      "chapter": 310,
+      "paragraphs": 43,
+      "status": "RECOVERY_PROPOSAL_UNREVIEWED"
+    },
+    {
+      "chapter": 318,
+      "paragraphs": 75,
+      "status": "RECOVERY_PROPOSAL_UNREVIEWED"
+    }
+  ],
+  "recovered_draft_paragraphs": 267,
+  "full_range_approved": false
+}
