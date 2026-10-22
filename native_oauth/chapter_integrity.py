@@ -144,6 +144,8 @@ def require_approved(source, candidate, text, directory):
         evidence_path = Path(directory) / evidence_path
     evidence = json.loads(evidence_path.read_text(encoding='utf-8'))
     package, draft = evidence['package'], evidence['candidate']
+    from native_oauth.title_selection import require_reviewed_selection
+    require_reviewed_selection(source,candidate,package)
     if (evidence.get('review_policy', {}).get('mode') == 'antigravity_sessions'
             and package.get('origin_source_hash') != source['package_hash']):
         raise ValueError('Review envelope does not bind the original book source package')

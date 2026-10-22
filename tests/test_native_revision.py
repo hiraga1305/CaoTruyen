@@ -131,6 +131,24 @@ class NativeResponseTransportTests(unittest.TestCase):
         result['segments'][0]['text']='Tự sửa sau khi gọi model.'
         with self.assertRaises(ValueError):validate_provenance(result)
 
+    def test_explicit_native_blocked_reason_is_retained_and_never_becomes_a_candidate(self):
+        data=self.root/'blocked';data.mkdir()
+        write_json(data/'source.json',{'chapter':1,'segments':[{'id':'p1','source':'他走了。'}]})
+        def transport(prompt,folder,*args,**kwargs):
+            folder=Path(folder);response=json.dumps({'status':'BLOCKED','reason':'Missing authorized source context'})
+            runtime={'status':'SUCCESS','exit_code':0,'actual_model':'fixture','conversation_id':'blocked-fixture',
+                'result':{'status':'SUCCESS','conversation_id':'blocked-fixture','response':response}}
+            write_json(folder/'runtime.json',runtime)
+            events=[{'event':'init','conversation_id':'blocked-fixture','init':{'model':'fixture'}},
+                    {'event':'result','result':runtime['result']}]
+            (folder/'events.jsonl').write_text('\n'.join(json.dumps(e) for e in events),encoding='utf-8')
+            return runtime
+        with patch('native_oauth.pipeline_native.run',side_effect=transport):
+            with self.assertRaisesRegex(ValueError,'Missing authorized source context'):
+                run_json_stage(data,self.root,'reviewer','fixture','Fixture protocol','review.json',30)
+        self.assertFalse((data/'review.json').exists())
+        self.assertTrue((data/'review.native-original.json').exists())
+
     def test_only_invalid_evidence_is_retried_without_regenerating_candidate(self):
         package,candidate,reports=native_fixture(self.root)
         counts={'reviewer':0,'auditor':0}; lock=threading.Lock()
@@ -295,10 +313,15 @@ class NativeBookRevisionTests(unittest.TestCase):
     def test_repair_receives_latest_candidate_so_good_corrections_are_not_discarded(self):
         package=prepare_revision(self.book,self.job,1)[2]
         draft={'segments':[{'id':package['segments'][0]['id'],'text':'Latest corrected candidate'}]}
-        text=revision_protocol(package,{},[{'reason':'Confirm against source'}],draft)
+        legacy={'bilingual_alignment':[{'para_id':row['id'],'raw_zh':row['source'],
+            'translated_vi':'DISCARDED_OLD_REFERENCE'} for row in package['segments']],
+            'recovery_proposal':[{'id':package['segments'][0]['id'],'text':'OLD_RECOVERY_REFERENCE'}]}
+        text=revision_protocol(package,legacy,[{'reason':'Confirm against source'}],draft)
         self.assertIn('CURRENT_CANDIDATE_TO_POSTEDIT',text)
         self.assertIn('Latest corrected candidate',text)
         self.assertIn('do not revert good previous corrections',text)
+        self.assertNotIn('DISCARDED_OLD_REFERENCE',text)
+        self.assertNotIn('OLD_RECOVERY_REFERENCE',text)
 
     def test_campaign_report_does_not_count_legacy_as_approved_and_checks_originals(self):
         write_json(self.job/'campaign.json',{'range':[1,1],'status':'RUNNING'})

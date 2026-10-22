@@ -130,6 +130,8 @@ def run_json_stage(data, workspace, role, model, protocol, output_file, timeout)
             '; escape quotation marks inside strings, use short exact quotes; original retained at '+str(original)) from error
     if not isinstance(payload, dict):
         raise NativeJSONSchemaError('Native response must be a JSON object; original retained at '+str(original))
+    if payload.get('status')=='BLOCKED':
+        raise ValueError('Native stage reported BLOCKED: '+str(payload.get('reason','No reason supplied')))
     from native_oauth.native_evidence import artifact_record
     payload['native_artifact'] = artifact_record(original, payload)
     payload.update(model='native/'+result['actual_model'], identity_basis='native_cli_init',

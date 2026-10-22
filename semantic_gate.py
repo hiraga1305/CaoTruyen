@@ -192,6 +192,8 @@ def validate_review(package, candidate, review):
         raise ValueError('Missing review issues')
     if review.get('verdict') not in ('PASS', 'FAIL'):
         raise ValueError('Review must say PASS or FAIL')
+    if package.get('render_title_ownership') and review.get('title_ownership_checked') is not True:
+        raise ValueError('Source-backed rendered title ownership must be explicitly checked')
     checks = review.get('checks', {})
     if set(checks) != set(CHECKS) or any(v is not True for v in checks.values()):
         raise ValueError('All semantic dimensions must be explicitly checked')
@@ -321,6 +323,10 @@ def review_prompt(package, candidate, literary_first=False):
             '"reason":"lý do đối chiếu"}],"issues":[{"id":"...","reason":"..."}]}. '
             'true nghĩa là đã kiểm tra, không phải nghĩa là không lỗi. FAIL phải nêu issues. '
             'Bao phủ mọi id đúng thứ tự, kể cả đoạn không lỗi. ID phải là đúng source ID, không tạo mã finding thay cho ID đoạn.\n')
+    if package.get('render_title_ownership'):
+        protocol+=('Kiểm render_title_ownership: tiêu đề lấy từ đầu .content có snapshot nguồn, không lấy metadata .name bị cắt/mất ký hiệu. '
+                   'Mọi ID tiêu đề vẫn phải dịch và review đầy đủ; chỉ khi render mới loại metadata/trùng heading khỏi thân bài. '
+                   'Giữ đủ lời tác giả trong heading thật và ký hiệu số. Trả thêm title_ownership_checked:true sau khi đã kiểm.\n')
     if literary_first:
         protocol += ('Đọc bản Việt trước như độc giả Việt: kiểm chủ ngữ/vị ngữ, liên kết, kết hợp từ và ngữ vực. '
                      'Sau đó kiểm lại từng nhận xét với nguồn Trung. Không cho PASS chỉ vì khớp từng từ. '

@@ -2,6 +2,8 @@
 
 Dịch đầy đủ, rõ nghĩa và tự nhiên. Nguyên tác là căn cứ cao nhất. Không thêm hành động, cảm xúc, quan hệ, động cơ hoặc thông tin chỉ có trong metadata. Giữ phủ định, mức độ chắc chắn, điều kiện, người thực hiện/chịu tác động và trình tự sự kiện.
 
+Không tự sửa luận điểm/kiến thức của tác giả hoặc nhân vật bằng kiến thức thế giới thật. Dịch đúng điều được nói, giữ người phát biểu và mức độ tin/đoán; không biến một phát biểu trong truyện thành xác nhận khách quan của bản dịch.
+
 ## Định danh và tên gọi
 
 Các mục @ENTITIES là hồ sơ biên tập gợi ý, không phải toàn bộ nhân vật có mặt trong cảnh. `entity_id` và `aliases` trong @SEMANTIC_CONTEXT nối các cách viết của cùng người; không tạo thêm một người từ tên giản thể/phồn thể hoặc chức danh. Giữ tên chuẩn trong glossary; `surface_vi` bảo toàn cách gọi chức danh/biệt hiệu. Không tự suy đoán tên Latin khác. Một tên Việt giống nhau chưa đủ chứng minh hai tên Trung là cùng người.

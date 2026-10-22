@@ -10,6 +10,7 @@ from pathlib import Path
 from semantic_gate import candidate_hash, digest, read_json
 from native_oauth.workflow_io import atomic_json, atomic_text, file_lock
 from native_oauth.chapter_integrity import require_approved, validate_source, validate_source_archive
+from native_oauth.title_selection import chapter_number, validate_selection
 
 SCHEMA = 'antigravity-book-publication-1'
 TITLE_RE = re.compile(r'^(?:\d+\s*[.．]\s*)?第\s*[零一二三四五六七八九十百千\d]+\s*[章回節节]')
@@ -42,6 +43,10 @@ def contained_file(book_dir, name):
 def title_ids(source):
     from native_oauth.source_adapters import clean_title as canonical
     expected = canonical(source['title'])
+    # V2 reconstructs paragraphs from the actual .content HTML. TOC metadata
+    # can be truncated or lose a caret; it must not overrule that article title.
+    if source.get('version')=='bns-source-v2' and chapter_number(source['segments'][0]['source'])==source['chapter']:
+        expected=canonical(source['segments'][0]['source'])
     result = []
     for row in source['segments'][:2]:
         title = canonical(row['source'])
@@ -53,9 +58,14 @@ def title_ids(source):
 
 
 def rendered_chapter(source, aligned):
-    excluded = title_ids(source)
+    selection=aligned.get('render_title_ownership')
+    if selection is not None:
+        validate_selection(source,selection)
+        excluded=selection['title_segment_ids'];primary=selection['primary_title_id']
+    else:
+        excluded=title_ids(source);primary=excluded[0] if excluded else None
     targets = {row['para_id']: row['translated_vi'] for row in aligned['bilingual_alignment']}
-    title = targets[excluded[0]] if excluded else aligned.get('title_vi')
+    title = targets[primary] if primary else aligned.get('title_vi')
     if not isinstance(title, str) or not title.strip():
         raise ValueError('No source title segment: an independently reviewed title_vi is required')
     title = re.sub(r'^Chương\s+\d+\s*:?\s*', '', title.strip(), flags=re.I)

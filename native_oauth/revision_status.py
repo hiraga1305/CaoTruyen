@@ -7,6 +7,7 @@ from semantic_gate import read_json, write_json, digest
 from native_oauth.book_publication import read_manifest, read_approval
 from native_oauth.native_evidence import validate_provenance
 from native_oauth.recover_missing import missing_segments
+from native_oauth.title_selection import load_selection
 
 
 def campaign_status(book, job):
@@ -21,10 +22,11 @@ def campaign_status(book, job):
             if not path.is_file() or hashlib.sha256(path.read_bytes()).hexdigest()!=expected['sha256']:
                 changed.append({'scope':scope,'path':relative})
     manifest=read_manifest(book)
-    approved=[];invalid=[]
+    approved=[];invalid=[];approval_packages={}
     for chapter in sorted(map(int,manifest['chapters'])):
         try:
             value=read_approval(book,chapter)
+            approval_packages[chapter]=value['evidence']['package']
             approved.append({'chapter':chapter,'paragraphs':len(value['aligned']['bilingual_alignment']),
                 'review_models':[r['model'] for r in value['evidence']['reviews']],
                 'revision':value['receipt']['evidence_hash']})
@@ -48,6 +50,15 @@ def campaign_status(book, job):
         if generated!=result['segments']:
             raise ValueError('Recovered text differs from actual native responses')
         recoveries.append({'chapter':chapter,'paragraphs':len(expected),'status':result['status']})
+    title_selections=[]
+    for path in sorted((job/'source_heading_checks').glob('chapter_*.dom.json')):
+        chapter=read_json(path)['chapter']
+        source=read_json(job/'baseline/sources'/f'source_chapter_{chapter:04d}.json')
+        selection=load_selection(source,path)
+        reviewed=approval_packages.get(chapter,{}).get('render_title_ownership')==selection
+        title_selections.append({'chapter':chapter,'primary_title_id':selection['primary_title_id'],
+            'snapshot_sha256':selection['snapshot_sha256'],
+            'status':'REVIEWED_IN_CURRENT_CHAPTER' if reviewed else 'PENDING_NATIVE_CHAPTER_REVIEW'})
     state=read_json(job/'campaign.json')
     manifest_stable=read_manifest(book)==manifest
     return {'as_of_utc':datetime.now(timezone.utc).isoformat(),
@@ -56,7 +67,9 @@ def campaign_status(book, job):
         'manifest_hash':digest(manifest),'manifest_stable':manifest_stable,
         'approved_count':len(approved),'approved':approved,'invalid_approvals':invalid,
         'unreviewed_recoveries':recoveries,'recovered_draft_paragraphs':sum(r['paragraphs'] for r in recoveries),
+        'source_title_selections':title_selections,
         'full_range_approved':not invalid and not changed and manifest_stable
+            and all(row['status']=='REVIEWED_IN_CURRENT_CHAPTER' for row in title_selections)
             and [r['chapter'] for r in approved]==list(range(1,state['range'][1]+1))}
 
 

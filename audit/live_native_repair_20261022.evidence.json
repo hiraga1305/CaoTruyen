@@ -1,5 +1,5 @@
 {
-  "as_of_utc": "2026-10-22T17:21:56.718816+00:00",
+  "as_of_utc": "2026-10-22T18:13:06.974084+00:00",
   "scope": "Verified local native revisions; recovery proposals do not grant publication approval",
   "campaign_state": {
     "book_id": "49736",
@@ -9,16 +9,20 @@
     ],
     "status": "RUNNING",
     "approved_chapters": [
-      1
+      1,
+      2,
+      3,
+      4,
+      5
     ],
     "job": "D:\\AI\\Antigravity\\CaoTruyen\\native_oauth\\book_49736\\repair_jobs\\20261022T153633Z",
-    "current_chapter": 2
+    "current_chapter": 6
   },
   "baseline_files": 979,
   "baseline_changes": [],
-  "manifest_hash": "cd00154b524f7a97ce0cb0044454efd3d5905e14dbdab1f2bba88d29d4023538",
+  "manifest_hash": "06722a9cb80b591c47cf82400e29dde109cc73ab45f0c52127d5cc1a7eeeb380",
   "manifest_stable": true,
-  "approved_count": 1,
+  "approved_count": 7,
   "approved": [
     {
       "chapter": 1,
@@ -28,6 +32,60 @@
         "native/gemini-3.8-flash-high"
       ],
       "revision": "29601e0d2cb055098d129f6662a4993ef99be72d7cac7d8ed4e84321949c76df"
+    },
+    {
+      "chapter": 2,
+      "paragraphs": 54,
+      "review_models": [
+        "native/gemini-3.8-flash-high",
+        "native/gemini-3.8-flash-high"
+      ],
+      "revision": "fe9c25e675ed4029403b9735a900c4c7559809db5fcb3a3351cee68daf9c79b9"
+    },
+    {
+      "chapter": 3,
+      "paragraphs": 99,
+      "review_models": [
+        "native/gemini-3.8-flash-high",
+        "native/gemini-3.8-flash-high"
+      ],
+      "revision": "86ed862bf7fd86b8ad51321e7ced212dd7ae12d7e30489bcafed4f112a24c8fb"
+    },
+    {
+      "chapter": 4,
+      "paragraphs": 68,
+      "review_models": [
+        "native/gemini-3.8-flash-high",
+        "native/gemini-3.8-flash-high"
+      ],
+      "revision": "8da9e8dcd700bfd08ffca1a59f34026ef78f1bf5c31dc556fa34f16ca7619985"
+    },
+    {
+      "chapter": 5,
+      "paragraphs": 80,
+      "review_models": [
+        "native/gemini-3.8-flash-high",
+        "native/gemini-3.8-flash-high"
+      ],
+      "revision": "adc2c711c89d36e6d5d6fcd3faa922f303cd107792de8c09906d280ecf497d18"
+    },
+    {
+      "chapter": 6,
+      "paragraphs": 66,
+      "review_models": [
+        "native/gemini-3.8-flash-high",
+        "native/gemini-3.8-flash-high"
+      ],
+      "revision": "f54b4fedd1031b5fa04cb40600f78fbca2098f10c9362bd635852a9aa35c4bce"
+    },
+    {
+      "chapter": 7,
+      "paragraphs": 62,
+      "review_models": [
+        "native/gemini-3.8-flash-high",
+        "native/gemini-3.8-flash-high"
+      ],
+      "revision": "69b4fddcacffb1de776fc580583c70d992d76926b7b071c876f55af8c0cf0bf2"
     }
   ],
   "invalid_approvals": [],
@@ -64,5 +122,61 @@
     }
   ],
   "recovered_draft_paragraphs": 267,
+  "source_title_selections": [
+    {
+      "chapter": 83,
+      "primary_title_id": "c0083p0002",
+      "snapshot_sha256": "b4a59412af88b98716ca6db1d514c01b3e8bcf9fc31222f62be3a9d7cadecf92",
+      "status": "PENDING_NATIVE_CHAPTER_REVIEW"
+    },
+    {
+      "chapter": 87,
+      "primary_title_id": "c0087p0002",
+      "snapshot_sha256": "fc403955ebe25444b22a6ae630d4c50dca794bec2257c60230545d3a9a995d05",
+      "status": "PENDING_NATIVE_CHAPTER_REVIEW"
+    },
+    {
+      "chapter": 90,
+      "primary_title_id": "c0090p0002",
+      "snapshot_sha256": "a3a9342e702a54c921873e99a9c416592dc57a9dfe3b16b4470fa56e8e546cf6",
+      "status": "PENDING_NATIVE_CHAPTER_REVIEW"
+    },
+    {
+      "chapter": 95,
+      "primary_title_id": "c0095p0002",
+      "snapshot_sha256": "1479fb319849e9425301a5eb6086e92233c9f0aba62e462bc9538c6ba2bc0e8f",
+      "status": "PENDING_NATIVE_CHAPTER_REVIEW"
+    },
+    {
+      "chapter": 96,
+      "primary_title_id": "c0096p0002",
+      "snapshot_sha256": "6fdb06954a26f97fa3ecabfeeacde5b6562e047523f70dfef907e187b4a6e879",
+      "status": "PENDING_NATIVE_CHAPTER_REVIEW"
+    },
+    {
+      "chapter": 101,
+      "primary_title_id": "c0101p0002",
+      "snapshot_sha256": "8c770503f7da9cda4e5fa398bf4b89342ebd22493e3d14c49698ce8349f94a83",
+      "status": "PENDING_NATIVE_CHAPTER_REVIEW"
+    },
+    {
+      "chapter": 106,
+      "primary_title_id": "c0106p0002",
+      "snapshot_sha256": "5cc50dd63aa6db0d13077023f1c77eeb9bb589b79f70b0b80c52ecd74cbee85d",
+      "status": "PENDING_NATIVE_CHAPTER_REVIEW"
+    },
+    {
+      "chapter": 264,
+      "primary_title_id": "c0264p0002",
+      "snapshot_sha256": "8e80ef6a96b70835fde03c68ae55f7713a66c929aa56aa4bd6143f5ac6f86957",
+      "status": "PENDING_NATIVE_CHAPTER_REVIEW"
+    },
+    {
+      "chapter": 312,
+      "primary_title_id": "c0312p0002",
+      "snapshot_sha256": "9ea9d71a7f30ba2248cfb37a5554a1f71d44c63f380e9f2275ade15cc42b8151",
+      "status": "PENDING_NATIVE_CHAPTER_REVIEW"
+    }
+  ],
   "full_range_approved": false
 }

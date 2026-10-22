@@ -21,6 +21,10 @@ Job local: `native_oauth/book_49736/repair_jobs/20261022T153633Z`. Snapshot ban 
 
 Từng phần có nguồn/ID/hash/runtime; `revision_status.py` so khớp văn bản tổng hợp với response native thật. Trạng thái vẫn là `RECOVERY_PROPOSAL_UNREVIEWED`. Phải sửa toàn chương và qua hai review trước khi có quyền xuất bản. Riêng đoạn cảm ơn chương 310 đã bị chặn vì giữ nguyên tài khoản chữ Hán; lượt native sau xử lý thành chữ Latin, không bỏ danh sách.
 
+Đối chiếu lại cả 31.034 đoạn cho thấy 23 chương có dòng tiêu đề thêm/chuẩn hóa khiến các ID sau đó lệch một vị trí. So trực tiếp theo ID báo 2.257 row thân bài khác `raw_zh` và 290 ID không có bản dịch; so chuỗi nguyên văn theo thứ tự xác nhận thân bài thực sự thiếu vẫn chỉ **267 đoạn ở sáu chương**, còn 23 row là tiêu đề metadata thêm. Có 225 sidecar hash lệch nguồn; không đồng nhất số này với số chương dịch sai nghĩa. Runner mới loại row legacy có ID–nguyên văn không khớp khỏi gợi ý và không tự sửa lại ID/hash bản cũ.
+
+Nguồn v1 còn chín cặp tiêu đề metadata/đầu bài không tương đương: 83, 87, 90, 95, 96, 101, 106, 264, 312. HTTP trực tiếp bị 403, nhưng đọc công khai bằng trình duyệt thành công, không đăng nhập hoặc vượt CAPTCHA. Snapshot DOM xác nhận `.name` bị cắt, trong khi dòng đầu `.content` giữ tiêu đề đầy đủ; chương 312 có metadata `71018` nhưng heading bài là `710^18`. Snapshot nhỏ được lưu riêng, không thay nguồn/hash cũ và không giả làm raw HTML toàn trang. `title_selection.py` bind snapshot vào package; cả hai native reviewer phải xác nhận quyền chọn heading trước khi renderer dùng tiêu đề bài thật. Chín lựa chọn này còn chờ các chương tương ứng được review trong chiến dịch, không tự tính là approval. Nguồn v2 lấy heading từ `.content` đã có raw archive thay vì áp metadata TOC lên chữ nguồn.
+
 Các lượt đầu đã tạo revision được duyệt cho chương 1–4. Việc nâng cấu hình/phản hồi biên tập khiến chương trước được kiểm lại; manifest chỉ giữ chuỗi phụ thuộc hiện hành, archive cũ được giữ. Không cộng các approval lịch sử vào tiến độ hiện tại. Sự kiện native `SUCCESS` đơn lẻ không được dùng để công bố hoàn thành sách.
 
 ## Những lỗi nghĩa đã có bằng chứng cụ thể
@@ -53,7 +57,7 @@ Lượt Claude có 25 findings, nhưng chỉ 23 cặp quote neo được duy nh�
 
 ## Kiểm chứng và phần còn lại
 
-Suite offline hiện có **251 tests đạt**. Tests mock model; kiểm native completion, provenance, EOF/command-line Windows, schema-only retry, FAIL không bị thử lại để lấy PASS, quote/hash/canon, snapshot và việc không nhầm nháp thành approval. Trường hợp client cần đóng sau DONE phải giữ actual exit, hash và stdin; ACTIVE, JSON hỏng, tool, finish reason bị cắt, sai session, proof thay đổi và timeout cũ không được nâng thành completion. Số test không đo chất lượng dịch.
+Suite offline hiện có **259 tests đạt**. Tests mock model; kiểm native completion, provenance, EOF/command-line Windows, schema-only retry, FAIL không bị thử lại để lấy PASS, quote/hash/canon, snapshot và việc không nhầm nháp thành approval. Trường hợp client cần đóng sau DONE phải giữ actual exit, hash và stdin; ACTIVE, JSON hỏng, tool, finish reason bị cắt, sai session, proof thay đổi và timeout cũ không được nâng thành completion. Regression tiêu đề kiểm ký hiệu số/lời tác giả, không bỏ row thân bài, không đổi selection sau native review và không lấy dòng legacy lệch ID làm đối chiếu. Repair bỏ bản cũ trùng ngữ cảnh khi đã có candidate gần nhất; native BLOCKED giữ nguyên lý do và không trở thành candidate. Số test không đo chất lượng dịch.
 
 Chiến dịch vẫn cần hoàn tất các chương theo thứ tự và kiểm lại revision cuối. Chưa tạo ebook mới hoặc cập nhật bản xuất cũ để giả lập hoàn thành. Cần đủ chuỗi 1–325 approved rồi mới chạy gate/render/export; bản cũ vẫn chỉ là bản thử.
 
