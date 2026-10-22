@@ -67,6 +67,8 @@ source_archive/
 toc_cache.json
 token_analytics_*.json
 *.tmp
+*.claim
+session_monitor_state.json.lock
 *.log
 
 # IDE & OS files
@@ -75,3 +77,13 @@ token_analytics_*.json
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# New native review workspaces and local progress (not production source code)
+native_oauth/native_jobs/
+native_oauth/book_*/native_review_jobs/
+**/session_monitor_state.json
+**/live_status.json
+
+# Workflow OS locks and private generated native evidence
+*.lock
+native_oauth/book_*/runs/generation_*/

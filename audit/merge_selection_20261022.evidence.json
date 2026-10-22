@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-22",
+  "scope": "Selected G code read-only hashes and combined D code hashes; not novel data.",
+  "G_root": "G:\\Other computers\\My Computer\\Antigravity\\CaoTruyen",
+  "files": {
+    "native_oauth/workflow_io.py": {
+      "G": "644f6330b0121ff07ec3ac5ef48adc8a2a955178d5bf4137ed6eb05660c8c215",
+      "combined_D": "d949f3627215a2e848b81b06b0bab1bad51df68425dd947b075ee5133ae2d0e0"
+    },
+    "native_oauth/source_adapters.py": {
+      "G": "cbbf0ffe6d26651a49b3d08adaa86369a38a2e009209ef3d784bcfc58359f6e2",
+      "combined_D": "2a5989c5be695de75a4b8f62ef71476003f15f4829adfb2f8305f3cd018c1658"
+    },
+    "native_oauth/export_integrity.py": {
+      "G": "74d748c71fb18520f2ea688c4da524945b0b49f71e7fbd14af48067eb556b445",
+      "combined_D": "b24e3ec394852a3d0298f9d983a30c06850cfd989d3bef2c338b1b919b87d7fb"
+    },
+    "native_oauth/book_49736/build_ebooks.py": {
+      "G": "2a552e5162e90831f0b842f2968794be0e3ce642c0994025937a5b4ea851e5f7",
+      "combined_D": "975ccc721ef5dc58b91325a51822419e9bbe2908d5be26edb15dd7b0f7891a83"
+    },
+    "native_oauth/book_49736/crawl_chapters.py": {
+      "G": "e6196cef17494c542d4edf089d1a7c73a08950a6074c5f84bba8040ba0736368",
+      "combined_D": "03713c959a31a4db724aaf69de538e32cfc3f74786edbb6dc49ca4fd22c43a42"
+    },
+    "native_oauth/book_runner.py": {
+      "G": "91fc88ddd64985e1ca23acc7b9b30ac56f9ce6f61f040ba18de300d6235677dc",
+      "combined_D": null
+    },
+    "native_oauth/book_workflow.py": {
+      "G": "f0599c40f03736b21afe1bf826997b6f70d602b4b6ccdbe0992ede996e465e61",
+      "combined_D": null
+    },
+    "native_oauth/book_progress.py": {
+      "G": "43a5f106ca8896b01b207c618ecad8bdb6a38691e68c69b66a27f5e5e34e5db6",
+      "combined_D": "088591ab008ec7b84c8d6260b46a33a88613be3cd187dca30d564e2ef6cab318"
+    },
+    "native_oauth/run_agy.py": {
+      "G": "9efaeccbf2fc97541c01837286789cf6ab4d2fcadc6a6b33093db9c5b51277e5",
+      "combined_D": "e61f99fa9d693e21ea5197dbf7bf4c0316f6b5d7f3ec0917eeb8f775cac1ad66"
+    },
+    "native_oauth/bns_prepass.py": {
+      "G": "40909154e37f7ec611d06ecf322c0a66814219de3ea50b4cea0b2fae1b58d1ae",
+      "combined_D": "e1c834f5c58198a8b8b32780091ca5479c8ecfc196195259fbb1293e2decf4e8"
+    },
+    "native_oauth/session_monitor.py": {
+      "G": "e6698cc2ec6d79a385c8e5facd7f5aeb4c0aaff52ec650c90d5d6c36016199a7",
+      "combined_D": "7590a2a415dabf485ebe5a5b9940d6faff883a69b514acfd94d9317853342eca"
+    },
+    "semantic_gate.py": {
+      "G": "9844dcbabe70e8a4e12a41f7f1a8e63a29c7e9ed0e044734efd0e0f3130489d6",
+      "combined_D": "7cf9a400390d53de8ad05c65e695e8c8326c321fc789d176793ad8520f85d600"
+    },
+    "WORKFLOW_STANDARDIZED.md": {
+      "G": "49373176bee6b43d579fbe0207b291cbcd4159d9aca2c57c585fde2957454f46",
+      "combined_D": null
+    },
+    ".github/workflows/quality.yml": {
+      "G": "596dbe27e203f9fd0811eb3d1ffbbcffec7e3742183e002ffb36ccc753e1ef11",
+      "combined_D": "ac25aa760eea4f71f0a0d722f6b05ffb0cdc702f75d6b2862488f52576acf426"
+    },
+    "requirements-publishing.txt": {
+      "G": "8e4e89a4bcb5cb15420e8803f61a01f7331521cd97c370171d2f159e1cb83e8c",
+      "combined_D": "8e4e89a4bcb5cb15420e8803f61a01f7331521cd97c370171d2f159e1cb83e8c"
+    }
+  }
+}

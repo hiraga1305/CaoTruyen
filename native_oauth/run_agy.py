@@ -26,6 +26,57 @@ def find_cli():
 DEFAULT_CLI = find_cli()
 
 
+class IncompleteNativeOutput(ValueError):
+    """A bounded native call ended while generation was still in progress."""
+
+
+def classify_completion(events, diagnostics, exit_code, timed_out=False):
+    """CLI SUCCESS may describe partial --print-timeout output, not completion."""
+    result = next((e.get('result', e) for e in reversed(events) if e.get('event') == 'result'), {})
+    init = next((e.get('init', {}) for e in events if e.get('event') == 'init'), {})
+    partial = 'returning partial output' in diagnostics.lower() or 'print timeout' in diagnostics.lower()
+    responses = [e['step_update'] for e in events if e.get('event') == 'step_update'
+                 and e.get('step_update', {}).get('step_type') == 'agent_response']
+    unfinished = bool(responses and responses[-1].get('state') == 'ACTIVE')
+    status = result.get('status', 'NO_RESULT')
+    if timed_out:
+        status = 'TIMEOUT'
+    elif partial:
+        status = 'PARTIAL_TIMEOUT'
+    elif result.get('denied_actions'):
+        status = 'BLOCKED_PERMISSION'
+    elif exit_code != 0:
+        status = 'ERROR'
+    elif status == 'SUCCESS' and unfinished:
+        status = 'INCOMPLETE_STEP'
+    elif status == 'SUCCESS' and not result.get('response', '').strip():
+        status = 'EMPTY_RESPONSE'
+    return {'status': status, 'partial_output': partial or timed_out or unfinished,
+            'actual_model': init.get('model'), 'result': result}
+
+
+def require_complete_runtime(runtime, expected_model):
+    if not isinstance(runtime, dict) or not isinstance(runtime.get('result'), dict):
+        raise ValueError('Invalid native runtime')
+    status = runtime.get('status')
+    if status not in ('SUCCESS', 'TIMEOUT', 'PARTIAL_TIMEOUT', 'INCOMPLETE_STEP'):
+        raise ValueError(f'Native execution failed: {status}')
+    if status in ('TIMEOUT', 'PARTIAL_TIMEOUT', 'INCOMPLETE_STEP') or runtime.get('partial_output'):
+        raise IncompleteNativeOutput(f'Native output incomplete: {status}; partial text retained as evidence only')
+    if runtime.get('exit_code') != 0:
+        raise ValueError(f'Native execution failed: {status}')
+    if runtime.get('actual_model') != expected_model:
+        raise ValueError('Native runtime model missing or different from requested model')
+    result = runtime['result']
+    if (result.get('status', 'SUCCESS') != 'SUCCESS' or result.get('denied_actions')
+            or str(result.get('finish_reason','')).lower() in ('length','max_tokens','safety','content_filter')):
+        raise ValueError('Native response blocked or truncated')
+    response = runtime.get('result', {}).get('response', '')
+    if not isinstance(response, str) or not response.strip():
+        raise ValueError('Native response is empty')
+    return response
+
+
 def run(prompt_file, run_dir, model='gemini-3.8-flash-high', agent=None, timeout=600, workspace=None, approve_tools=False):
     run_dir = Path(run_dir).resolve()
     if (run_dir/'events.jsonl').exists():
@@ -48,36 +99,39 @@ def run(prompt_file, run_dir, model='gemini-3.8-flash-high', agent=None, timeout
             raise ValueError('Tool approval only supported for isolated native_oauth workspaces')
         argv += ['--dangerously-skip-permissions']
     start = time.time()
+    timed_out = False
     with (run_dir / 'events.jsonl').open('w', encoding='utf-8') as output, (run_dir / 'diagnostics.txt').open('w', encoding='utf-8') as errors:
         process = subprocess.Popen(argv, cwd=Path(workspace).resolve() if workspace else ROOT, env=env,
                                    stdin=subprocess.DEVNULL, stdout=output, stderr=errors,
-                                   creationflags=subprocess.CREATE_NO_WINDOW)
+                                   creationflags=getattr(subprocess, 'CREATE_NO_WINDOW', 0))
         try:
             deadline = time.time() + timeout + 30
             code = None
+            timed_out = False
             while time.time() < deadline:
                 poll = process.poll()
                 if poll is not None:
                     code = poll
                     break
                 time.sleep(0.5)
-                # Check if result event was written
-                try:
-                    ev_txt = (run_dir / 'events.jsonl').read_text(encoding='utf-8')
-                    if '"event":"result"' in ev_txt:
-                        time.sleep(0.5)
-                        process.terminate()
-                        code = 0
-                        break
-                except Exception:
-                    pass
+                # Wait for process exit. A substring in a partially flushed JSON
+                # event is not a completion signal and must not force exit code 0.
             if code is None:
+                timed_out = True
                 process.terminate()
-                process.wait(timeout=10)
+                try:
+                    process.wait(timeout=10)
+                except subprocess.TimeoutExpired:
+                    process.kill()
+                    process.wait(timeout=10)
                 code = -1
         except Exception:
             process.terminate()
-            process.wait(timeout=10)
+            try:
+                process.wait(timeout=10)
+            except subprocess.TimeoutExpired:
+                process.kill()
+                process.wait(timeout=10)
             code = -1
     events = []
     for line in (run_dir / 'events.jsonl').read_text(encoding='utf-8').splitlines():
@@ -85,17 +139,14 @@ def run(prompt_file, run_dir, model='gemini-3.8-flash-high', agent=None, timeout
             events.append(json.loads(line))
         except json.JSONDecodeError:
             continue
-    result = next((e.get('result', e) for e in reversed(events) if e.get('event') == 'result'), {})
-    status = result.get('status', 'NO_RESULT')
-    if result.get('denied_actions'):
-        status = 'BLOCKED_PERMISSION'
-    if code != 0 and status == 'SUCCESS':
-        status = 'ERROR'
+    completion = classify_completion(events, (run_dir / 'diagnostics.txt').read_text(encoding='utf-8'), code, timed_out)
+    result = completion['result']
     manifest = {'authentication': 'cached_account; GEMINI_API_KEY unset',
                 'requested_model': model, 'agent': agent, 'exit_code': code,
                 'workspace': str(Path(workspace).resolve() if workspace else ROOT),
                 'duration_seconds': round(time.time() - start, 2),
-                'status': status,
+                'status': completion['status'], 'partial_output': completion['partial_output'],
+                'actual_model': completion['actual_model'],
                 'conversation_id': result.get('conversation_id'), 'usage': result.get('usage'),
                 'result': result, 'event_count': len(events)}
     (run_dir / 'runtime.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding='utf-8')

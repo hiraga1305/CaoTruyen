@@ -3,6 +3,8 @@ import json
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
+import native_oauth.session_monitor as monitor_module
 
 from native_oauth.session_monitor import SessionMonitor, ChapterExecutionRecord
 
@@ -10,6 +12,10 @@ from native_oauth.session_monitor import SessionMonitor, ChapterExecutionRecord
 class TestSessionMonitor(unittest.TestCase):
     def setUp(self):
         self.tmp_dir = tempfile.TemporaryDirectory()
+        for setting in (patch.object(monitor_module, 'ROOT', Path(self.tmp_dir.name)),
+                        patch.object(monitor_module, 'get_active_artifact_dir', return_value=Path(self.tmp_dir.name))):
+            setting.start()
+            self.addCleanup(setting.stop)
         self.mon = SessionMonitor(book_id="test_book", book_title="Test Novel Title", total_chapters=50)
         self.mon.artifact_dir = Path(self.tmp_dir.name)
         self.mon.state_file = Path(self.tmp_dir.name) / "test_state.json"
@@ -49,8 +55,9 @@ class TestSessionMonitor(unittest.TestCase):
         )
         badge = self.mon.render_markdown_badge()
         self.assertIn("TIẾN ĐỘ SESSION ANTIGRAVITY", badge)
-        self.assertIn("50.0%", badge)
-        self.assertIn("25/50 chương", badge)
+        # Completing chapter 25 proves ONE chapter, not chapters 1 through 25.
+        self.assertIn("2.0%", badge)
+        self.assertIn("1/50 chương", badge)
 
         doc = self.mon.render_markdown_dashboard_artifact()
         self.assertIn("# Bảng Điều Khiển Tiến Độ Biên Dịch Antigravity", doc)
@@ -73,7 +80,7 @@ class TestSessionMonitor(unittest.TestCase):
         self.assertIn("tailwindcss.min.js", html)
         self.assertIn("var(--card)", html)
         self.assertIn("Test Novel Title", html)
-        self.assertIn("20.0%", html)
+        self.assertIn("2.0%", html)
 
     def test_sync_artifacts(self):
         self.mon.record_chapter_done(

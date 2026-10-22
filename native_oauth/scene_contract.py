@@ -4,6 +4,7 @@ Implements Module 1 BNS Literary Engine specifications from Gemini 4 Argon.
 
 from __future__ import annotations
 import re
+import json
 from typing import List, Dict, Optional, Tuple, Any
 from dataclasses import dataclass, field
 
@@ -15,6 +16,10 @@ class EntityRecord:
     narr_lock: str       # hắn, y, gã, lão, nàng, ả, nó
     realm_title: str
     archetype: str
+    entity_id: str = ""
+    aliases: Tuple[str, ...] = ()
+    surface_vi: Dict[str, str] = field(default_factory=dict)
+    legacy_vi_variants: Tuple[str, ...] = ()
 
 @dataclass
 class PronounRule:
@@ -24,6 +29,13 @@ class PronounRule:
     self_vi: str
     target_vi: str
     tone: str
+    scope: str = "editorial_default"
+    valid_from_chapter: int = 1
+    valid_to_chapter: Optional[int] = None
+    scene_id: Optional[int] = None
+    paragraph_id: Optional[int] = None
+    known_by: str = ""
+    evidence: str = ""
 
 @dataclass
 class HardMetric:
@@ -59,6 +71,7 @@ class SceneContract:
     idiom_hints: List[IdiomHint] = field(default_factory=list)
     arc_capsule: Optional[str] = None
     pending_omens: List[dict] = field(default_factory=list)
+    semantic_context: Dict[str, Any] = field(default_factory=dict)
 
     def to_pipe_dsl(self) -> str:
         """Biên dịch SceneContract thành chuỗi Pipe-DSL siêu nén gửi vào Gemini 3.8 Flash."""
@@ -82,6 +95,18 @@ class SceneContract:
         lines.append("@PRONOUN_MATRIX")
         for p in self.pronouns:
             lines.append(f"{p.src_zh}->{p.dst_zh}|{p.state}|{p.self_vi}|{p.target_vi}|{p.tone}")
+
+        # JSON preserves evidence/aliases without corrupting legacy pipe columns.
+        lines.append("@SEMANTIC_CONTEXT")
+        lines.append(json.dumps({
+            "context": self.semantic_context,
+            "identities": [{"entity_id": e.entity_id, "aliases": e.aliases,
+                            "surface_vi": e.surface_vi,
+                            "legacy_vi_variants": e.legacy_vi_variants} for e in self.entities],
+            "rule_scopes": [{k: getattr(p, k) for k in (
+                "scope", "valid_from_chapter", "valid_to_chapter", "scene_id",
+                "paragraph_id", "known_by", "evidence")} for p in self.pronouns],
+        }, ensure_ascii=False))
 
         if self.anchor_quotes:
             lines.append("@ANCHOR_QUOTES")
@@ -139,6 +164,7 @@ class SceneContract:
         glossary: Dict[str, Tuple[str, str]] = {}
         idiom_hints: List[IdiomHint] = []
         pending_omens: List[dict] = []
+        semantic_context = {}
 
         current_block = ""
         for raw_line in dsl_text.splitlines():
@@ -214,6 +240,19 @@ class SceneContract:
                         src_zh=src_zh, dst_zh=dst_zh, state=parts[1],
                         self_vi=parts[2], target_vi=parts[3], tone=parts[4]
                     ))
+            elif current_block == "@SEMANTIC_CONTEXT":
+                metadata = json.loads(line)
+                semantic_context = metadata.get("context", {})
+                for entity, extra in zip(entities, metadata.get("identities", [])):
+                    entity.entity_id = extra.get("entity_id", "")
+                    entity.aliases = tuple(extra.get("aliases", ()))
+                    entity.surface_vi = extra.get("surface_vi", {})
+                    entity.legacy_vi_variants = tuple(extra.get("legacy_vi_variants", ()))
+                for rule, extra in zip(pronouns, metadata.get("rule_scopes", [])):
+                    for key, value in extra.items():
+                        if key in {"scope", "valid_from_chapter", "valid_to_chapter", "scene_id",
+                                   "paragraph_id", "known_by", "evidence"}:
+                            setattr(rule, key, value)
             elif current_block == "@ANCHOR_QUOTES":
                 parts = line.split("|")
                 if len(parts) >= 3:
@@ -284,6 +323,7 @@ class SceneContract:
             idiom_hints=idiom_hints,
             arc_capsule=arc_capsule,
             pending_omens=pending_omens,
+            semantic_context=semantic_context,
         )
 
 

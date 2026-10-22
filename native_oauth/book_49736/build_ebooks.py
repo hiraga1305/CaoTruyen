@@ -13,6 +13,9 @@ import re
 import subprocess
 import sys
 import time
+import argparse
+import shutil
+import uuid
 from datetime import datetime
 from pathlib import Path
 
@@ -39,13 +42,17 @@ from reportlab.platypus import (
 )
 
 ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(ROOT))
+from native_oauth.book_publication import load_approved_chapters, read_manifest, digest
+from native_oauth.workflow_io import atomic_json, file_lock
+
 BOOK_DIR = ROOT / "native_oauth" / "book_49736"
 OUTPUT_DICH_DIR = BOOK_DIR / "output_dich"
 DIST_DIR = BOOK_DIR / "dist"
 DIST_DIR.mkdir(parents=True, exist_ok=True)
 
 BOOK_TITLE = "Đi Tìm Vô Gian Địa Ngục"
-BOOK_SUBTITLE = "ĐẠI KẾT CỤC • TOÀN TẬP HOÀN CHỈNH"
+BOOK_SUBTITLE = "ẤN BẢN ĐIỆN TỬ"
 AUTHOR = "Lâm Bát Bát Bát"
 GENRE = "Đô Thị • Huyền Nghi • Linh Dị • Trinh Thám Lượng Tử"
 TOTAL_CHAPTERS = 325
@@ -103,7 +110,7 @@ def generate_cover_image(out_path: Path):
     # Author & Genre
     draw.text((w // 2, 1420), f"TÁC GIẢ: {AUTHOR.upper()}", fill="#FFFFFF", font=f_author, anchor="mm")
     draw.text((w // 2, 1540), f"Thể loại: {GENRE}", fill="#B0BEC5", font=f_genre, anchor="mm")
-    draw.text((w // 2, 1640), "Trọn Bộ 325 Chương • 100% Nguyên Văn Hoàn Hảo", fill="#C5A059", font=f_sub, anchor="mm")
+    draw.text((w // 2, 1640), "Trọn Bộ 325 Chương • Đã qua quy trình kiểm duyệt", fill="#C5A059", font=f_sub, anchor="mm")
 
     # Footer Info
     draw.line([(400, 2180), (w - 400, 2180)], fill="#1C2D5A", width=2)
@@ -119,25 +126,14 @@ def generate_cover_image(out_path: Path):
 # 2. TẢI DỮ LIỆU TẤT CẢ 325 CHƯƠNG ĐÃ ĐÁNH BÓNG
 # ==============================================================================
 def load_all_chapters():
-    chapters = []
-    for c in range(1, TOTAL_CHAPTERS + 1):
-        txt_file = OUTPUT_DICH_DIR / f"chuong_{c:04d}.txt"
-        if not txt_file.exists():
-            continue
-        text = txt_file.read_text(encoding="utf-8").strip()
-        lines = [l.strip() for l in text.splitlines() if l.strip()]
-        if not lines:
-            continue
-        title = lines[1] if len(lines) > 1 and "Chương" in lines[1] else lines[0]
-        # Clean title
-        title = re.sub(r"^\d+\.\s*", "", title)
-        body = lines[2:] if len(lines) > 2 else lines[1:]
-        chapters.append({
-            "num": c,
-            "title": title,
-            "paragraphs": body
-        })
-    return chapters
+    """Only an exact, independently approved full-book manifest may be rendered."""
+    return load_approved_chapters(BOOK_DIR, range(1, TOTAL_CHAPTERS + 1))
+
+
+def assert_approved_export(chapters):
+    if chapters != load_all_chapters():
+        raise ValueError("Export input differs from the current approved manifest")
+
 
 
 # ==============================================================================
@@ -348,17 +344,17 @@ def generate_pdf_story(chapters, page_map):
 
     # 1. Trang Bìa
     story.append(Spacer(1, 3.5 * cm))
-    story.append(Paragraph("ĐI TÌM VÔ GIAN ĐỊA NGỤC", cover_title_style))
+    story.append(Paragraph(html.escape(BOOK_TITLE.upper()), cover_title_style))
     story.append(Paragraph(BOOK_SUBTITLE, cover_subtitle_style))
     story.append(HRFlowable(width="65%", thickness=1.5, color=colors.HexColor("#C5A059"), spaceAfter=20, spaceBefore=5))
     story.append(Paragraph(f"TÁC GIẢ: {AUTHOR.upper()}", cover_author_style))
     story.append(Paragraph(f"Thể loại: {GENRE}", cover_genre_style))
-    story.append(Paragraph(f"Toàn Bộ {len(chapters)} Chương (Chương 1 – {len(chapters)}) • Nguyên Văn Đầy Đủ", cover_author_style))
+    story.append(Paragraph(f"{len(chapters)} chương theo mục lục đã duyệt", cover_author_style))
     story.append(Spacer(1, 4.5 * cm))
     current_year = datetime.now().year
     story.append(Paragraph(f"ẤN BẢN ĐẶC BIỆT KỸ THUẬT SỐ • {current_year}", cover_info_style))
     story.append(Paragraph("Biên tập & Xuất bản theo chuẩn Văn học Mạng CaoTruyen Sovereign Quality", cover_info_style))
-    story.append(Paragraph("Nguyên văn 100% dung lượng • Bảo lưu toàn diện thoại & bối cảnh", cover_info_style))
+    story.append(Paragraph("Có hồ sơ đối chiếu nguồn và biên tập bản dịch", cover_info_style))
     story.append(PageBreak())
 
     # 2. Mục Lục Toàn Tập
@@ -378,7 +374,7 @@ def generate_pdf_story(chapters, page_map):
 
         for p in ch["paragraphs"]:
             # Sanitize xml entities for reportlab
-            p_clean = html.escape(p).replace("&amp;", "&")
+            p_clean = html.escape(p)
             story.append(Paragraph(p_clean, chap_body_style))
 
         if idx < len(chapters) - 1:
@@ -422,6 +418,7 @@ def inject_pdf_bookmarks(pdf_path: Path, chapters, page_map):
 
 
 def export_pdf(chapters):
+    assert_approved_export(chapters)
     print("\n" + "=" * 68)
     print(" BẮT ĐẦU XUẤT BẢN TOÀN TẬP PDF CHUẨN IN ẤN (2-PASS COMPILATION)")
     print("=" * 68)
@@ -431,7 +428,7 @@ def export_pdf(chapters):
 
     # Pass 1
     print("[*] [Pass 1/2] Đang đo lường và ánh xạ số trang thực tế...")
-    temp_pass1 = DIST_DIR / "temp_pass1.pdf"
+    temp_pass1 = FINAL_PDF_PATH.parent / ("temp_pass1_" + uuid.uuid4().hex + ".pdf")
     story_pass1 = generate_pdf_story(chapters, page_map)
     doc_p1 = SimpleDocTemplate(
         str(temp_pass1),
@@ -514,7 +511,8 @@ p {
 """
 
 
-def export_epub_and_azw3(chapters, cover_path: Path):
+def export_epub_and_azw3(chapters, cover_path: Path, include_azw3=True):
+    assert_approved_export(chapters)
     print("\n" + "=" * 68)
     print(" BẮT ĐẦU ĐÓNG GÓI EPUB & BIÊN DỊCH KINDLE AZW3 (KF8)")
     print("=" * 68)
@@ -617,6 +615,9 @@ def export_epub_and_azw3(chapters, cover_path: Path):
     mb_epub = FINAL_EPUB_PATH.stat().st_size / (1024 * 1024)
     print(f"[+] Đã hoàn thành đóng gói EPUB trong {time.time() - t0:.1f}s: {FINAL_EPUB_PATH.name} ({mb_epub:.2f} MB)")
 
+    if not include_azw3:
+        return
+
     # Convert to AZW3 using Calibre ebook-convert
     print("[*] Đang chuyển đổi sang định dạng Kindle AZW3 (KF8) bằng Calibre...")
     t_conv = time.time()
@@ -644,7 +645,11 @@ def export_epub_and_azw3(chapters, cover_path: Path):
     print(f"[✓] Đã xuất bản thành công Kindle AZW3: {FINAL_AZW3_PATH.name} ({mb_azw3:.2f} MB trong {time.time() - t_conv:.1f}s)")
 
 
-def main():
+def _export_main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--formats", nargs="+", choices=("pdf", "epub", "azw3"), default=["pdf", "epub", "azw3"])
+    args = parser.parse_args()
+    formats = set(args.formats)
     t_total = time.time()
     print("=" * 70)
     print(" XUẤT BẢN TRỌN BỘ SÁCH ĐIỆN TỬ: PDF & KINDLE AZW3")
@@ -652,28 +657,68 @@ def main():
     print(f" Tác giả: {AUTHOR} | Thể loại: {GENRE}")
     print("=" * 70)
 
-    # 1. Tạo ảnh bìa
+    # Verify completeness/reviews before creating any publication files.
+    chapters = load_all_chapters()
+    if "azw3" in formats and shutil.which("ebook-convert") is None:
+        raise SystemExit("Calibre ebook-convert is required for AZW3. Use --formats pdf epub for installed exporters.")
+    revision = digest(read_manifest(BOOK_DIR))
+    global FINAL_PDF_PATH, FINAL_EPUB_PATH, FINAL_AZW3_PATH, COVER_PATH
+    revision_dir = DIST_DIR / revision / uuid.uuid4().hex
+    revision_dir.mkdir(parents=True, exist_ok=True)
+    FINAL_PDF_PATH = revision_dir / FINAL_PDF_PATH.name
+    FINAL_EPUB_PATH = revision_dir / FINAL_EPUB_PATH.name
+    FINAL_AZW3_PATH = revision_dir / FINAL_AZW3_PATH.name
+    COVER_PATH = revision_dir / COVER_PATH.name
     cover_file = generate_cover_image(COVER_PATH)
 
-    # 2. Nạp dữ liệu 325 chương
-    chapters = load_all_chapters()
+    # Canonical candidate data was loaded and verified before output creation.
     print(f"[*] Đã tải thành công {len(chapters)} chương vào bộ nhớ.")
 
     # 3. Xuất bản PDF chuẩn in ấn
-    export_pdf(chapters)
+    if "pdf" in formats:
+        export_pdf(chapters)
 
     # 4. Xuất bản EPUB & Kindle AZW3
-    export_epub_and_azw3(chapters, cover_file)
+    if formats & {"epub", "azw3"}:
+        export_epub_and_azw3(chapters, cover_file, include_azw3="azw3" in formats)
 
+    from native_oauth.export_integrity import verify_epub, verify_pdf, verify_azw3
+    artifacts = []
+    if formats & {"epub", "azw3"}:
+        verify_epub(FINAL_EPUB_PATH, chapters)
+        artifacts.append(FINAL_EPUB_PATH)
+    if "pdf" in formats:
+        verify_pdf(FINAL_PDF_PATH, chapters)
+        artifacts.append(FINAL_PDF_PATH)
+    if "azw3" in formats:
+        verify_azw3(FINAL_AZW3_PATH, chapters)
+        artifacts.append(FINAL_AZW3_PATH)
+    assert_approved_export(chapters)
+    if revision != digest(read_manifest(BOOK_DIR)):
+        raise ValueError("Approval manifest changed during export")
+    from native_oauth.book_publication import sha_file
+    atomic_json(revision_dir / "publication.json", {
+        "status":"EXPORTED", "approval_manifest_hash":revision,
+        "chapter_count":len(chapters),
+        "artifacts":{p.name:sha_file(p) for p in artifacts},
+        "verification":"Selected outputs passed text/structure checks; AZW3 uses Calibre round-trip validation"})
     print("\n" + "=" * 70)
     print("🎉 HOÀN TẤT ĐÓNG GÓI TOÀN BỘ ẤN PHẨM:")
-    print(f"1. PDF In Ấn:   {FINAL_PDF_PATH}")
-    print(f"2. Kindle AZW3: {FINAL_AZW3_PATH}")
-    print(f"3. Sách EPUB:   {FINAL_EPUB_PATH}")
-    print(f"4. Ảnh Bìa:     {COVER_PATH}")
+    for artifact in artifacts:
+        print(artifact)
+    print("Ảnh bìa:", COVER_PATH)
     print(f"⏱️ Tổng thời gian: {time.time() - t_total:.1f}s")
     print("=" * 70)
 
 
+def main():
+    with file_lock(DIST_DIR / "export.lock"):
+        return _export_main()
+
+
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except (ValueError, OSError, KeyError) as error:
+        print("BLOCKED:", str(error))
+        raise SystemExit(2)

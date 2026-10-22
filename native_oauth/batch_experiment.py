@@ -9,7 +9,8 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT))
 from semantic_gate import digest,read_json,write_json
-from native_oauth.run_agy import run
+from native_oauth.run_agy import run, require_complete_runtime
+from native_oauth.native_review import visible_stage
 from native_oauth.json_format_repair import repair_text_fields
 
 AGENT='''---
@@ -92,6 +93,14 @@ def prepare_job(contract,base,model,timeout=240):
 
 
 def execute_job(job):
+    contract = job['contract']
+    chapter = int(contract['owned_segments'][0]['id'][1:5])
+    with visible_stage({'chapter': chapter, 'book_id': contract.get('book_id', 'batch'),
+                        'title': contract['job_id']}, 'batch:' + contract['job_id']):
+        return _execute_job(job)
+
+
+def _execute_job(job):
     work,contract=job['work'],job['contract']
     runtime=run(work/'prompt.txt',work/'runtime',job['model'],'novel-batch-worker',
                 job['timeout'],work,True)
@@ -104,6 +113,7 @@ def execute_job(job):
         result['reason']='Incomplete native run or model mismatch'
     else:
         try:
+            require_complete_runtime(runtime, job['model'])
             raw=(work/'candidate.json').read_text(encoding='utf-8')
             candidate,repaired=repair_text_fields(raw)
             if repaired:

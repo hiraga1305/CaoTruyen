@@ -271,7 +271,8 @@ class MonolingualBlackBoxCritic:
 class AutonomousSelfHealingEngine:
     """
     Động cơ Tự Can Thiệp, Tự Vi Phẫu & Tự Hội Tụ Hồi Tố Khép Kín (ASTOS Core Engine).
-    Cam kết Confidence Score >= 0.98 trước khi xuất bản cho độc giả không biết tiếng Trung.
+    Heuristic triage/repair only. Scores are not calibrated semantic probabilities
+    and never authorize publication; use the independent source-bound gate.
     """
 
     PUBLICATION_CONFIDENCE_THRESHOLD: float = 0.98
@@ -343,7 +344,7 @@ class AutonomousSelfHealingEngine:
             chapter_id=chapter_id,
             initial_confidence=round(avg_init, 4),
             final_confidence=round(avg_final, 4),
-            publication_approved=(avg_final >= self.PUBLICATION_CONFIDENCE_THRESHOLD and not unresolved),
+            publication_approved=False,
             receipts=receipts,
             unresolved_anomalies=unresolved,
         )

@@ -7,6 +7,9 @@ Co-engineered with Gemini 4 Argon.
 import os
 import tempfile
 import unittest
+from pathlib import Path
+from unittest.mock import patch
+import native_oauth.session_monitor as monitor_module
 
 from native_oauth.global_vault import GlobalEntityVault
 from native_oauth.zipper_coordinator import TwoPhaseZipperCoordinator
@@ -24,6 +27,11 @@ class TestWaveOrchestrator(unittest.TestCase):
 
     def setUp(self):
         self.temp_dir = tempfile.TemporaryDirectory()
+        for setting in (patch.object(monitor_module, 'ROOT', Path(self.temp_dir.name)),
+                        patch.object(monitor_module, 'get_active_artifact_dir', return_value=Path(self.temp_dir.name)),
+                        patch.object(monitor_module.SessionMonitor, '_instance', None)):
+            setting.start()
+            self.addCleanup(setting.stop)
         self.db_path = os.path.join(self.temp_dir.name, "test_vault.sqlite")
         self.vault = GlobalEntityVault(self.db_path)
         self.coordinator = TwoPhaseZipperCoordinator(

@@ -1,17 +1,13 @@
 # Antigravity OAuth novel workflow
 
-Workspace-owned artifacts and custom native agents. Authentication uses agy's
-cached account profile; subprocesses clear GEMINI_API_KEY and never read or copy
-OAuth token storage. Original chapters remain untouched. No publishing to BNS.
+Antigravity owns crawling, translation, independent native review, repair, approval and publication. No external approval application is required.
 
-Source -> real Chinese parser -> Antigravity genre-aware draft -> two independent
-GPT/Codex reviews -> editing -> GPT re-review -> source-bound publication.
+See [ANTIGRAVITY_WORKFLOW.md](ANTIGRAVITY_WORKFLOW.md) for commands and limits.
 
-Current batch route: [BATCH_WORKFLOW.md](BATCH_WORKFLOW.md) and [batch pilot](BATCH_RESULT_20261013.md).
-The single-chapter approved pilot remains documented in [WORKFLOW.md](WORKFLOW.md).
-Verified pilot and limitations: [AUDIT_RESULT_20261013.md](AUDIT_RESULT_20261013.md).
-Default native execution stops at DRAFT_READY_FOR_CODEX; native reviewers are an
-explicit historical experiment and are not the user's chosen final review path.
+- `pipeline_native.py`: source/parser package -> native draft -> isolated native semantic/literary reviews -> bounded regeneration -> publication evidence. `--draft-only` stops before review; `--resume-draft` validates original runtime provenance.
+- Book runners / `chapter_runner.py`: verified scene drafts with ownership and source overlap.
+- `review_book_chapter.py`: adapt book drafts to source-bound review envelopes, review natively, then promote to `book_*/approved/` in dependency order.
+- `batch_run.py`: source-frozen experimental drafts; no automatic publication claim.
+- `run_agy.py` / `native_evidence.py`: completed runtime/model/session provenance.
 
-Native definitions are in ../.agents/agents. Runtime evidence is in runs/.
-Research/source references are retained in research/.
+Native profiles are in `../.agents/agents`; each review receives an isolated workspace. SessionMonitor reports stages directly in Antigravity. Historical evidence is retained for investigation, not used as current approval policy.

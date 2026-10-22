@@ -1,19 +1,9 @@
 # -*- coding: utf-8 -*-
-"""CAOTRUYEN - MODULE 2: TIER 1 NLP PRE-PROCESSOR (0 TOKEN API)
-File: native_oauth/bns_prepass.py
+"""Source-first, advisory preprocessing for bounded translation scenes.
 
-Functions:
-1. Neural linguistic preprocessing via HIT-SCIR LTP offline (cws, pos, ner, srl, dep, sdp).
-2. Quantified Scene Complexity Scoring:
-   S_scene = 0.25*E_syn + 0.35*A_coref + 0.25*L_classical + 0.15*V_state
-   Automated routing to LOW (<0.35), MED (0.35-0.70), HIGH (>0.70).
-3. Automatic PACING_MODE detection: COMBAT_FAST, AURA_MAJESTIC, DIALOGUE_TENSE, EXPOSITION_SMOOTH.
-4. Centering Theory + SRL Role Inversion for Pro-drop ([Ø=...], [Ø_SHIFT=...])
-   and Comma-splice Rhythmic Breaking ([||]) for long 6-8+ clause chains.
-5. Dialogue Attribution ([Qk:Speaker->Listener|state:COURTEOUS|tone:...])
-   and Attitude Rupture Detector (state:HOSTILE_SHIFT).
-6. Deterministic Numeric Lock ([Mk:...]) and Xianxia Idiom Hints ([Ik:...]).
-7. Direct packaging into SceneContract Pipe-DSL for Gemini 3.8 Flash Workers.
+Complexity, rhythm, numeric and idiom hints are heuristic. Dialogue routing
+recognizes only explicit local constructions and abstains otherwise. No semantic
+roles or permanent relationships are inferred from entity order or sentiment.
 """
 
 from __future__ import annotations
@@ -24,6 +14,7 @@ from dataclasses import dataclass, field
 from typing import Any, Dict, List, Optional, Set, Tuple
 
 from native_oauth.numeric_lock import DeterministicNumericExtractor
+from native_oauth.semantic_context import dialogue_cues, scoped_rules, entity_aliases
 from native_oauth.scene_contract import (
     EntityRecord,
     PronounRule,
@@ -38,8 +29,8 @@ from native_oauth.scene_contract import (
 
 IDIOM_HINTS_DEFAULT: Dict[str, Tuple[str, str]] = {
     # raw_zh: (BNS suggestions, forbidden convert phrase)
-    "不以為然": ("chẳng mảy may để tâm / cười khẩy không coi ra gì / không lấy làm lạ", "không cho là đúng"),
-    "不以为然": ("chẳng mảy may để tâm / cười khẩy không coi ra gì / không lấy làm lạ", "không cho là đúng"),
+    "不以為然": ("không tán đồng / không cho là phải; đối chiếu thái độ trong nguồn", ""),
+    "不以为然": ("không tán đồng / không cho là phải; đối chiếu thái độ trong nguồn", ""),
     "不以為意": ("chẳng chút bận tâm / không để trong lòng / bỏ ngoài tai", "không cho là ý"),
     "不以为意": ("chẳng chút bận tâm / không để trong lòng / bỏ ngoài tai", "không cho là ý"),
     "色厲內荏": ("ngoài mạnh trong yếu / miệng hùm gan sứa", "sắc lệ nội nhẫn"),
@@ -59,8 +50,8 @@ IDIOM_HINTS_DEFAULT: Dict[str, Tuple[str, str]] = {
     "杀人夺宝": ("giết người đoạt bảo", "sát nhân đoạt bảo"),
     "斬草除根": ("nhổ cỏ tận gốc", "trảm thảo trừ căn"),
     "斩草除根": ("nhổ cỏ tận gốc", "trảm thảo trừ căn"),
-    "魂飛魄散": ("hồn phi phách tán / sợ đến vỡ mật", "hồn phi phách tán"),
-    "魂飞魄散": ("hồn phi phách tán / sợ đến vỡ mật", "hồn phi phách tán"),
+    "魂飛魄散": ("hồn phi phách tán / sợ đến vỡ mật; phân biệt hồn phách tan thật với nghĩa bóng", ""),
+    "魂飞魄散": ("hồn phi phách tán / sợ đến vỡ mật; phân biệt hồn phách tan thật với nghĩa bóng", ""),
     "灰飛煙滅": ("tan thành mây khói / hóa thành tro bụi", "hôi phi yên diệt"),
     "灰飞烟灭": ("tan thành mây khói / hóa thành tro bụi", "hôi phi yên diệt"),
     "不是個東西": ("thứ không ra gì / đồ khốn nạn", "không phải là cái đông tây"),
@@ -334,139 +325,36 @@ def evaluate_scene_complexity(
 # ===========================================================================
 
 class UnifiedSemanticPreprocessor:
-    """Tầng 1 Pre-processor: Gắn vi thẻ ngữ nghĩa tất định và đóng gói SceneContract."""
+    """Gợi ý ngữ nghĩa bảo thủ; không ép phân vai khi chưa có căn cứ nguồn."""
 
     def __init__(self, numeric_extractor: Optional[DeterministicNumericExtractor] = None):
         self.numeric_extractor = numeric_extractor or DeterministicNumericExtractor()
         self.idiom_hints = dict(IDIOM_HINTS_DEFAULT)
 
     def process_comma_splice(
-        self,
-        raw_sentence: str,
-        active_entities: List[EntityRecord],
+        self, raw_sentence: str, active_entities: List[EntityRecord],
         current_center: Optional[str] = None,
     ) -> Tuple[str, Optional[str]]:
-        """Phân rã câu lưu thủy, chèn [Ø=...], [Ø_SHIFT=...] và điểm ngắt nhịp [||]."""
-        clauses = [c for c in re.split(r"([，,；;])", raw_sentence) if c]
-        if len(clauses) <= 1:
-            return raw_sentence, current_center
-
-        annotated_clauses: List[str] = []
-        center = current_center or (active_entities[0].zh if active_entities else None)
-        other_entities = [e.zh for e in active_entities if e.zh != center]
-        is_shifted_patient = False
-
-        clause_count = len([c for c in clauses if c not in "，,；;"])
-        clause_idx = 0
-
-        i = 0
-        while i < len(clauses):
-            seg = clauses[i]
-            punct = clauses[i + 1] if (i + 1 < len(clauses) and clauses[i + 1] in "，,；;") else ""
-            if seg in "，,；;":
-                i += 1
-                continue
-
-            clause_idx += 1
-            clause_text = seg
-
-            # Check if this clause explicitly introduces an entity
-            explicit_ent = None
-            for e in active_entities:
-                if e.zh in clause_text:
-                    explicit_ent = e.zh
-                    break
-
-            if explicit_ent:
-                center = explicit_ent
-                other_entities = [e.zh for e in active_entities if e.zh != center]
-                is_shifted_patient = False
-            else:
-                # Check for Subject Inversion (Shift to Patient/Victim)
-                has_reaction = any(m in clause_text for m in REACTIVE_PATIENT_MARKERS)
-                if has_reaction and not is_shifted_patient and other_entities:
-                    shift_target = other_entities[0]
-                    clause_text = f"[Ø_SHIFT={shift_target}]" + clause_text
-                    center = shift_target
-                    other_entities = [e.zh for e in active_entities if e.zh != center]
-                    is_shifted_patient = True
-                elif clause_idx == 1 and center:
-                    clause_text = f"[Ø={center}]" + clause_text
-
-            # Check for Comma-Splice Rhythm Break [||]
-            has_pivot = any(m in clause_text for m in PIVOT_DISCOURSE_MARKERS)
-            should_break = False
-            if clause_count >= 5:
-                if "[Ø_SHIFT=" in clause_text:
-                    should_break = True
-                elif has_pivot and clause_idx >= 2:
-                    should_break = True
-                elif clause_idx == clause_count // 2 and clause_idx >= 2:
-                    should_break = True
-
-            if should_break and punct:
-                punct = punct + " [||] "
-
-            annotated_clauses.append(clause_text + punct)
-            i += 2 if punct else 1
-
-        return "".join(annotated_clauses).strip(), center
+        """Rhythm suggestion only. A reaction never proves an implicit subject."""
+        parts = re.split(r"([，,；;])", raw_sentence)
+        if len(parts) >= 9:
+            middle = (len(parts) // 2) | 1
+            if middle < len(parts) and parts[middle] in "，,；;":
+                parts[middle] += " [||] "
+        return "".join(parts), None
 
     def route_dialogues(
-        self,
-        paragraph_text: str,
-        entities: List[EntityRecord],
-        default_state: str = "COURTEOUS",
+        self, paragraph_text: str, entities: List[EntityRecord],
+        default_state: str = "SOURCE_CONTEXT", source_before: str = "",
     ) -> Tuple[str, bool, List[PronounRule]]:
-        """Bắt các khối thoại “...”, xác định Người Nói -> Người Nghe, phát hiện HOSTILE_SHIFT."""
-        quote_pattern = re.compile(r'([“"「])([^”"」]+)([”"」])')
-        has_rupture = False
-        updated_pronouns: List[PronounRule] = []
-        q_idx = 1
-
-        def replace_quote(m: re.Match) -> str:
-            nonlocal q_idx, has_rupture
-            open_q, speech, close_q = m.group(1), m.group(2), m.group(3)
-
-            # Determine speaker and listener
-            speaker = entities[0].zh if entities else "Unknown"
-            listener = entities[1].zh if len(entities) > 1 else (entities[0].zh if entities else "Unknown")
-
-            # Context around the quote
-            prefix = paragraph_text[:m.start()]
-            suffix = paragraph_text[m.end():]
-
-            for e in entities:
-                if any(v in prefix[-15:] or v in suffix[:15] for v in SPEECH_VERBS):
-                    if e.zh in prefix[-25:] or e.zh in suffix[:25]:
-                        speaker = e.zh
-                        other = [x.zh for x in entities if x.zh != speaker]
-                        if other:
-                            listener = other[0]
-                        break
-
-            # Check for attitude rupture
-            is_hostile_manner = any(m in prefix[-20:] or m in suffix[:20] for m in HOSTILE_MANNER_MARKERS)
-            is_hostile_speech = any(w in speech for w in HOSTILE_QUOTE_LEXICON)
-
-            if is_hostile_manner or is_hostile_speech:
-                state = "HOSTILE_SHIFT"
-                tone = "sát phạt, dứt khoát"
-                has_rupture = True
-                updated_pronouns.append(PronounRule(
-                    src_zh=speaker, dst_zh=listener, state="HOSTILE",
-                    self_vi="ta", target_vi="ngươi", tone="lạnh băng, dứt khoát"
-                ))
-            else:
-                state = default_state
-                tone = "thăm dò, lễ tiết"
-
-            tag = f"[Q{q_idx}:{speaker}->{listener}|state:{state}|tone:{tone}]"
-            q_idx += 1
-            return f"{open_q}{speech}{close_q}{tag}"
-
-        annotated_text = quote_pattern.sub(replace_quote, paragraph_text)
-        return annotated_text, has_rupture, updated_pronouns
+        """Local attribution or UNKNOWN; keywords never create address rules."""
+        cues = dialogue_cues(paragraph_text, entities, source_before)
+        annotated = paragraph_text
+        for cue in reversed(cues):
+            tag = (f"[Q{cue['quote_index']}:{cue['speaker']}->{cue['listener']}"
+                   f"|state:SOURCE_CONTEXT|evidence:{cue['status']}]")
+            annotated = annotated[:cue['end']] + tag + annotated[cue['end']:]
+        return annotated, False, []
 
     def annotate_numerics_and_idioms(
         self,
@@ -507,14 +395,17 @@ class UnifiedSemanticPreprocessor:
         raw_paragraphs: List[str],
         entities: List[EntityRecord],
         pronouns: List[PronounRule],
-        location_vi: str = "Tu Tiên Giới",
-        mood: str = "căng thẳng",
-        active_effect: str = "vận chuyển linh lực",
+        location_vi: str = "UNKNOWN",
+        mood: str = "UNKNOWN",
+        active_effect: str = "UNKNOWN",
         prev_vi: str = "",
         last_actor_vi: str = "",
-        spatial_vec: str = "đối diện cách mười trượng",
+        spatial_vec: str = "UNKNOWN",
         glossary: Optional[Dict[str, Tuple[str, str]]] = None,
         anchor_quotes: Optional[List[Tuple[str, str, str]]] = None,
+        genre: str = "XIANXIA",
+        source_before: str = "",
+        source_after: str = "",
     ) -> Tuple[SceneContract, List[str]]:
         """Xử lý toàn diện một Scene và xuất ra SceneContract cùng danh sách đoạn văn đã gắn mã §1..§N."""
         tagged_paragraphs: List[str] = []
@@ -522,7 +413,10 @@ class UnifiedSemanticPreprocessor:
         all_idiom_hints: List[IdiomHint] = []
         has_any_rupture = False
         total_quotes = 0
-        current_center = entities[0].zh if entities else None
+        current_center = None
+        source_context = source_before
+        cues_all = []
+        pronouns = scoped_rules(pronouns, chap_id, scene_id, source_before + "\n" + "\n".join(raw_paragraphs))
 
         m_idx = 1
         i_idx = 1
@@ -532,16 +426,29 @@ class UnifiedSemanticPreprocessor:
             if not p_text:
                 continue
 
-            # 1. Comma-splice & Zero-pronoun
+            cues = dialogue_cues(p_raw, entities, source_context)
+            for cue in cues:
+                cue["paragraph_id"] = idx
+                cue["address_candidates"] = [
+                    {"self": r.self_vi, "target": r.target_vi, "state": r.state,
+                     "scope": r.scope, "evidence": r.evidence}
+                    for r in pronouns if r.src_zh == cue["speaker"] and r.dst_zh == cue["listener"]
+                    and (r.paragraph_id is None or r.paragraph_id == idx)
+                    and (not r.known_by or r.known_by in (cue["speaker"], cue["speaker_id"]))]
+            cues_all.extend(cues)
+
+            # 1. Rhythm only; unresolved subjects remain unresolved.
             p_text, current_center = self.process_comma_splice(
                 p_text, entities, current_center=current_center
             )
 
             # 2. Dialogue Routing & Hostile Shift
-            p_text, is_rup, new_p_rules = self.route_dialogues(p_text, entities)
+            p_text, is_rup, new_p_rules = self.route_dialogues(p_text, entities, source_before=source_context)
             if is_rup:
                 has_any_rupture = True
             total_quotes += p_text.count("[Q")
+
+            source_context = p_raw
 
             # 3. Numeric & Idiom Annotation
             p_text, p_metrics, p_idioms = self.annotate_numerics_and_idioms(
@@ -567,13 +474,13 @@ class UnifiedSemanticPreprocessor:
             chap_id=chap_id,
             scene_id=scene_id,
             route_tier=metrics.route_tier,
-            genre="XIANXIA",
+            genre=genre,
             pacing=metrics.pacing_mode,
             location_vi=location_vi,
             mood=mood,
             active_effect=active_effect,
             prev_vi=prev_vi,
-            last_actor_vi=last_actor_vi or (entities[0].vi if entities else ""),
+            last_actor_vi=last_actor_vi or "UNKNOWN",
             spatial_vec=spatial_vec,
             entities=entities,
             pronouns=pronouns,
@@ -581,6 +488,16 @@ class UnifiedSemanticPreprocessor:
             hard_metrics=all_hard_metrics,
             glossary=glossary or {},
             idiom_hints=all_idiom_hints,
+            semantic_context={"policy": "SOURCE_FIRST_ADVISORY_V2",
+                              "source_before_read_only": source_before,
+                              "source_after_read_only": source_after,
+                              "dialogues": cues_all,
+                              "name_mentions": [
+                                  {"paragraph_id": idx, "entity_id": e.entity_id}
+                                  for idx, raw in enumerate(raw_paragraphs, 1)
+                                  for e in entities if any(alias in raw for alias in entity_aliases(e))],
+                              "review_required": True,
+                              "scope": "Hints are not semantic approval. Names are editorial; roles, emotions and address defaults must yield to source and viewpoint."},
         )
 
         return contract, tagged_paragraphs

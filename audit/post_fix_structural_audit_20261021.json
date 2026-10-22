@@ -1,0 +1,2218 @@
+{
+  "total_chapters": 325,
+  "verified_chapters": 0,
+  "scanned_chapters": 325,
+  "scope": "structural audit and heuristic triage; not semantic/literary approval",
+  "integrity_findings": [
+    {
+      "chapter": 1,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 2,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 3,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 4,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 5,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 6,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 7,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 8,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 9,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 10,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 11,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 12,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 13,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 14,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 15,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 16,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 17,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 18,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 19,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 20,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 21,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 22,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 23,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 24,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 25,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 26,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 27,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 28,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 29,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 30,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 31,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 32,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 33,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 34,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 35,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 36,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 37,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 38,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 39,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 40,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 41,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 42,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 43,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 44,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 45,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 46,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 47,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 48,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 49,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 50,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 51,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 52,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 53,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 54,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 55,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 56,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 57,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 58,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "SOURCE_HASH",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 59,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 60,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 61,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 62,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 63,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 64,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 65,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 66,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 67,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 68,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 69,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 70,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 71,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 72,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 73,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 74,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 75,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 76,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 77,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 78,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 79,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 80,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 81,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 82,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 83,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "SOURCE_HASH",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 84,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 85,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 86,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 87,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "SOURCE_HASH",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 88,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 89,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 90,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "SOURCE_HASH",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 91,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 92,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 93,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 94,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 95,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "SOURCE_HASH",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 96,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "SOURCE_HASH",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 97,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 98,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 99,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 100,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 101,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "SOURCE_HASH",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 102,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 103,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 104,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 105,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "SOURCE_HASH",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 106,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "SOURCE_HASH",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 107,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 108,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 109,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 110,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 111,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 112,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 113,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 114,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 115,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 116,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 117,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 118,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 119,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 120,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 121,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 122,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 123,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 124,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 125,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "SOURCE_HASH",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 126,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 127,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 128,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 129,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 130,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 131,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 132,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 133,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 134,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 135,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 136,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 137,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 138,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 139,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 140,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 141,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 142,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 143,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 144,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 145,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 146,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 147,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 148,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 149,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 150,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 151,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 152,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 153,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 154,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 155,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 156,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 157,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 158,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 159,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 160,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 161,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 162,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 163,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 164,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 165,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 166,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 167,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 168,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 169,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 170,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 171,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 172,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 173,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 174,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 175,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 176,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 177,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 178,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 179,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 180,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 181,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 182,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 183,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "SOURCE_HASH",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 184,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 185,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 186,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 187,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "SOURCE_HASH",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 188,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 189,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 190,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 191,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 192,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 193,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 194,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 195,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 196,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 197,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 198,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 199,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 200,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "SOURCE_HASH",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 201,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 202,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 203,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "SOURCE_HASH",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 204,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 205,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 206,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "SOURCE_HASH",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 207,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 208,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 209,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 210,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 211,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 212,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 213,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 214,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 215,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 216,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 217,
+      "errors": [
+        "SOURCE_HASH"
+      ]
+    },
+    {
+      "chapter": 218,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "SOURCE_HASH",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 219,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "SOURCE_HASH",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 220,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "SOURCE_HASH",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 221,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "SOURCE_HASH",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 222,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "SOURCE_HASH",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 223,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "SOURCE_HASH",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 224,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "SOURCE_HASH",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 225,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "SOURCE_HASH",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 226,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 227,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 228,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 229,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 230,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 231,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 232,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 233,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 234,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 235,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 236,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 237,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 238,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 239,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 240,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 241,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 242,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 243,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 244,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 245,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 246,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 247,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 248,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 249,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 250,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 251,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 252,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 253,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 254,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 255,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 256,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 257,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 258,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 259,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 260,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 261,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 262,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 263,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 264,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 265,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 266,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 267,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 268,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 269,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 270,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 271,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 272,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 273,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 274,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 275,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 276,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 277,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 278,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 279,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 280,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 281,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 282,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 283,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 284,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 285,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 286,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 287,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 288,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 289,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 290,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 291,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 292,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 293,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 294,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 295,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 296,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 297,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 298,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 299,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 300,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 301,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 302,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 303,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 304,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 305,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 306,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 307,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 308,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 309,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 310,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 311,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 312,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 313,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 314,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 315,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 316,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 317,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 318,
+      "errors": [
+        "COVERAGE_IDS",
+        "SOURCE_ALIGNMENT",
+        "DECLARED_COUNTS"
+      ]
+    },
+    {
+      "chapter": 319,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 320,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 321,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 322,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 323,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 324,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    },
+    {
+      "chapter": 325,
+      "errors": [
+        "TEXT_ALIGNMENT"
+      ]
+    }
+  ],
+  "total_words": 856201,
+  "total_paras": 30744,
+  "raw_segments_total": 31034,
+  "missing_files": [],
+  "small_files": [],
+  "para_mismatches": [
+    [
+      58,
+      57,
+      56
+    ],
+    [
+      83,
+      81,
+      80
+    ],
+    [
+      87,
+      101,
+      100
+    ],
+    [
+      90,
+      76,
+      75
+    ],
+    [
+      95,
+      77,
+      76
+    ],
+    [
+      96,
+      84,
+      83
+    ],
+    [
+      101,
+      104,
+      103
+    ],
+    [
+      105,
+      84,
+      83
+    ],
+    [
+      106,
+      75,
+      74
+    ],
+    [
+      125,
+      117,
+      116
+    ],
+    [
+      183,
+      93,
+      92
+    ],
+    [
+      187,
+      85,
+      84
+    ],
+    [
+      200,
+      113,
+      112
+    ],
+    [
+      203,
+      99,
+      98
+    ],
+    [
+      206,
+      137,
+      136
+    ],
+    [
+      218,
+      119,
+      118
+    ],
+    [
+      219,
+      83,
+      82
+    ],
+    [
+      220,
+      124,
+      123
+    ],
+    [
+      221,
+      132,
+      131
+    ],
+    [
+      222,
+      112,
+      111
+    ],
+    [
+      223,
+      119,
+      118
+    ],
+    [
+      224,
+      108,
+      107
+    ],
+    [
+      225,
+      139,
+      138
+    ],
+    [
+      239,
+      102,
+      87
+    ],
+    [
+      248,
+      109,
+      96
+    ],
+    [
+      299,
+      170,
+      98
+    ],
+    [
+      306,
+      197,
+      148
+    ],
+    [
+      310,
+      163,
+      120
+    ],
+    [
+      318,
+      247,
+      172
+    ]
+  ],
+  "cjk_leaks": [
+    [
+      228,
+      1,
+      "米"
+    ]
+  ],
+  "dsl_leaks": [],
+  "calque_hits": {},
+  "archaic_wuxia_hits": {
+    "đạo hữu": 2,
+    "tiểu nhị": 1
+  },
+  "standalone_nguoi_count": 72,
+  "standalone_ta_count": 92,
+  "prosody_run_ons": 20,
+  "prosody_clunky": 4,
+  "key_entities": {
+    "Vân Thiên Phong": 8283,
+    "Khương Nhu Giáp": 649,
+    "Tần Sơ Ảnh": 806,
+    "La Lâm Na": 43,
+    "Fatina": 456,
+    "Pháp Đề Na": 0,
+    "Tam Tiền Tế Thế": 2,
+    "Chúc Do thuật": 14
+  }
+}

@@ -18,7 +18,11 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT))
 
-from semantic_gate import digest, write_json
+from semantic_gate import digest, write_json, read_json
+from native_oauth.chapter_integrity import validate_source, source_content_hash
+from native_oauth.source_adapters import (fetch_czbooks, normalize_paragraphs, extract_paragraphs as strict_extract,
+    clean_title as normalized_title, PARSER_VERSION)
+from native_oauth.workflow_io import atomic_json, atomic_text, file_lock
 
 BOOK_ID = "49736"
 BOOK_DIR = ROOT / "native_oauth" / f"book_{BOOK_ID}"
@@ -41,93 +45,86 @@ def safe_print(*args, **kwargs):
         print(*args, **kwargs, flush=True)
 
 
-def extract_paragraphs(html: str) -> list[str]:
+def extract_paragraphs(html):
+    return strict_extract(html)
+
+
+def validate_page_identity(html, expected_title):
     soup = BeautifulSoup(html, 'html.parser')
-    content_div = soup.select_one('.content')
-    if not content_div:
-        raise ValueError("Could not find .content container in chapter page")
-    
-    # Strip script and style
-    for tag in content_div.select('script, style'):
-        tag.decompose()
-    for br in content_div.find_all('br'):
-        br.replace_with('\n')
-    for tag in content_div.find_all(['p', 'div']):
-        tag.insert_before('\n')
-        tag.insert_after('\n')
-        
-    paragraphs = [p.strip() for p in content_div.get_text().replace('\xa0', ' ').splitlines() if p.strip()]
-    if not paragraphs or not any(re.search(r'[\u3400-\u9fff]', p) for p in paragraphs):
-        raise ValueError("Empty or non-Chinese source extracted")
-        
-    # Remove trailing boilerplate like (本章完)
-    if paragraphs and paragraphs[-1] in ["(本章完)", "（本章完）", "【本章完】"]:
-        paragraphs = paragraphs[:-1]
-        
-    return paragraphs
+    headings = [n.get_text(strip=True) for n in soup.select('h1,.chapter-title,.name')]
+    declared = [name for heading in headings for name in re.findall(r'《([^》]+)》',heading)]
+    if any(name not in ('尋找無間地獄','寻找无间地狱') for name in declared):
+        raise ValueError('Book title mismatch')
+    if not any(normalized_title(text) == normalized_title(expected_title) for text in headings):
+        raise ValueError('Chapter title mismatch')
 
 
-def fetch_chapter_from_czbooks(href: str, max_retries: int = 5) -> tuple[list[str], bytes]:
-    last_err = None
+def fetch_chapter_from_czbooks(href, max_retries=5, expected_title=None):
+    last_err=None
     for attempt in range(max_retries):
         try:
-            req = urllib.request.Request(href, headers=HEADERS)
-            with urllib.request.urlopen(req, timeout=20) as resp:
-                data = resp.read()
-                html = data.decode('utf-8', errors='ignore')
-            paras = extract_paragraphs(html)
-            return paras, data
-        except Exception as e:
-            last_err = e
-            time.sleep(1.0 * (attempt + 1))
-    raise RuntimeError(f"Fetch failed after {max_retries} retries: {last_err}")
+            return fetch_czbooks(href, book_slug="s6p7bb", expected_title=expected_title, headers=HEADERS,
+                                 expected_book_titles=('尋找無間地獄','寻找无间地狱'))
+        except (ValueError, UnicodeError):
+            raise
+        except (OSError, TimeoutError) as error:
+            last_err=error
+            if attempt+1<max_retries:
+                time.sleep(min(10,attempt+1))
+    raise RuntimeError("Source fetch failed") from last_err
 
 
-def crawl_one_chapter(chap_num: int, item: dict) -> tuple[int, bool, str]:
-    href = item["href"]
-    title = item["title"]
-    out_path = SOURCES_DIR / f"source_chapter_{chap_num:04d}.json"
-    
-    if out_path.exists():
-        return chap_num, True, "cached"
-
+def crawl_one_chapter(chap_num, item):
+    href,title=item["href"],item["title"]
+    out_path=SOURCES_DIR/f"source_chapter_{chap_num:04d}.json"
     try:
-        paras, raw_bytes = fetch_chapter_from_czbooks(href)
-        
-        # Ensure title is paragraph 0
-        if re.sub(r'\s+', '', paras[0]) != re.sub(r'\s+', '', title):
-            paras = [title] + paras
-
-        # Archive raw HTML
-        stamp = hashlib.sha256(raw_bytes).hexdigest()
-        raw_archive_name = f"chap_{chap_num:04d}_{stamp[:12]}.html"
-        (ARCHIVE_DIR / raw_archive_name).write_bytes(raw_bytes)
-
-        pkg = {
-            "version": "bns-source-v1",
-            "book_id": BOOK_ID,
-            "chapter": chap_num,
-            "title": title,
-            "source_ref": href,
-            "segments": [{"id": f"c{chap_num:04d}p{i:04d}", "source": p} for i, p in enumerate(paras, 1)],
-            "paragraph_count": len(paras),
-            "raw_sha256": stamp,
-            "fetched_at_utc": datetime.now(timezone.utc).isoformat()
-        }
-        pkg["package_hash"] = digest(pkg)
-        write_json(out_path, pkg)
-        return chap_num, True, f"{title} ({len(paras)} paras)"
-    except Exception as e:
-        return chap_num, False, str(e)
+        with file_lock(out_path.with_suffix(".lock")):
+            if out_path.exists():
+                previous=validate_source(read_json(out_path))
+                archive=ARCHIVE_DIR/previous.get("raw_archive","")
+                if (previous["version"]=="bns-source-v2" and previous["source_ref"]==href
+                        and previous['normalization']['parser_version']==PARSER_VERSION
+                        and Path(previous['raw_archive']).name==previous['raw_archive']
+                        and previous["title"]==title and archive.is_file()
+                        and hashlib.sha256(archive.read_bytes()).hexdigest()==previous["raw_sha256"]):
+                    return chap_num,True,"cached"
+            paras,raw=fetch_chapter_from_czbooks(href,expected_title=title)
+            stamp=hashlib.sha256(raw).hexdigest()
+            archive_name=f"chap_{chap_num:04d}_{stamp}.html"
+            ARCHIVE_DIR.mkdir(parents=True,exist_ok=True)
+            archive=ARCHIVE_DIR/archive_name
+            if archive.exists() and archive.read_bytes()!=raw:
+                raise ValueError("Raw archive collision")
+            atomic_text(archive, raw.decode('utf-8', errors='strict'))
+            segments,mapping=normalize_paragraphs(paras,chap_num)
+            pkg={"version":"bns-source-v2","book_id":BOOK_ID,"chapter":chap_num,
+                 "toc_index":chap_num,"chapter_key":href.split("?")[0].rstrip("/").split("/")[-1],
+                 "title":title,"source_ref":href,"segments":segments,"paragraph_count":len(segments),
+                 "raw_sha256":stamp,"raw_archive":archive_name,"normalization":mapping,
+                 "fetched_at_utc":datetime.now(timezone.utc).isoformat()}
+            pkg["content_hash"]=source_content_hash(pkg)
+            pkg["package_hash"]=digest(pkg)
+            validate_source(pkg)
+            if out_path.exists():
+                previous=read_json(out_path)
+                atomic_json(SOURCES_DIR/"history"/(previous["package_hash"]+".json"),previous)
+            atomic_json(out_path,pkg)
+            return chap_num,True,f"{title} ({len(segments)} paragraphs; original raw preserved)"
+    except Exception as error:
+        return chap_num,False,str(error)
 
 
 def crawl_range(from_chap: int = 1, to_chap: int = 325, concurrency: int = 5):
+    if not 1 <= from_chap <= to_chap or not 1 <= concurrency <= 20:
+        raise ValueError("Invalid chapter range or concurrency")
     toc_file = BOOK_DIR / "toc.json"
     if not toc_file.exists():
         raise FileNotFoundError(f"Missing {toc_file}. Run fetch_full_toc first.")
     
     with open(toc_file, "r", encoding="utf-8") as f:
         chapters = json.load(f)
+    if to_chap > len(chapters):
+        raise ValueError("Requested range exceeds the frozen TOC")
 
     actual_to_chap = min(to_chap, len(chapters))
     total_to_crawl = actual_to_chap - from_chap + 1
@@ -189,6 +186,8 @@ def crawl_range(from_chap: int = 1, to_chap: int = 325, concurrency: int = 5):
     else:
         safe_print(f"[✓] 100% of requested chapters successfully crawled and archived.")
     safe_print(f"=======================================================")
+    return {"status":"COMPLETE" if not failed else "BLOCKED", "success":success,
+            "requested":total_to_crawl, "failed":failed}
 
 
 if __name__ == "__main__":
@@ -197,4 +196,5 @@ if __name__ == "__main__":
     parser.add_argument("--to-chapter", type=int, default=325)
     parser.add_argument("--concurrency", type=int, default=5)
     args = parser.parse_args()
-    crawl_range(args.from_chapter, args.to_chapter, args.concurrency)
+    result = crawl_range(args.from_chapter, args.to_chapter, args.concurrency)
+    raise SystemExit(0 if result["status"] == "COMPLETE" else 2)

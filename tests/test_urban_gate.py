@@ -38,7 +38,8 @@ class TestUrbanGate(unittest.TestCase):
         bad_output = """§1 Các thủy hữu trong phòng livestream nhao nhao gửi lời chúc đến đại tỷ Bảng Nhất với số tiền hai triệu hai trăm ngàn.
 """
         res = self.gate.verify_paragraphs(bad_output, expected_paragraph_count=1, contract=self.contract)
-        self.assertFalse(res.is_pass)
+        self.assertTrue(res.is_pass)
+        self.assertTrue(all(v.severity == "WARNING" for v in res.violations))
         codes = [v.error_code for v in res.violations]
         self.assertIn("URBAN_THUY_HUU", codes)
         self.assertIn("URBAN_DAI_TY_BANG_NHAT", codes)
@@ -48,23 +49,17 @@ class TestUrbanGate(unittest.TestCase):
         bad_barrage = """§1 【Bình luận】 Tại hạ xin bái phục đại sư, nạp hẳn hai triệu hai trăm ngàn!
 """
         res = self.gate.verify_paragraphs(bad_barrage, expected_paragraph_count=1, contract=self.contract)
-        self.assertFalse(res.is_pass)
+        self.assertTrue(res.is_pass)
+        self.assertTrue(all(v.severity == "WARNING" for v in res.violations))
         codes = [v.error_code for v in res.violations]
         self.assertIn("BARRAGE_ARCHAIC_LEAK", codes)
 
     def test_03_heal_urban_anomalies(self):
-        """Deterministic healing should fix false friends and archaic barrage."""
+        """Semantic suggestions must not mutate literal jokes or quoted speech."""
         raw_text = "Các thủy hữu đều khen ngợi đại tỷ Bảng Nhất đã tặng Siêu Cấp Hỏa Tiễn. 【Bình luận】 Hahaha, tại hạ quỳ rồi!"
         healed, patches = heal_urban_anomalies(raw_text)
-        self.assertNotIn("thủy hữu", healed)
-        self.assertNotIn("Bảng Nhất", healed)
-        self.assertNotIn("Siêu Cấp Hỏa Tiễn", healed)
-        self.assertNotIn("tại hạ", healed)
-        self.assertIn("khán giả", healed)
-        self.assertIn("chị đại Top 1", healed)
-        self.assertIn("Tên Lửa Siêu Cấp", healed)
-        self.assertIn("tôi", healed)
-        self.assertGreater(len(patches), 0)
+        self.assertEqual(healed, raw_text)
+        self.assertEqual(patches, [])
 
     def test_04_clean_urban_passes_gate(self):
         """Clean urban text should pass QualityGate4A cleanly."""

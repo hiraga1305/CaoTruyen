@@ -1,0 +1,2972 @@
+{
+  "D": "D:\\AI\\Antigravity\\CaoTruyen",
+  "G": "G:\\Other computers\\My Computer\\Antigravity\\CaoTruyen",
+  "base": "a81dd75e1693d772ed76e0ecb51704de817239d1",
+  "counts": {
+    "D_files": 153,
+    "G_files": 443,
+    "differences": 370
+  },
+  "differences": [
+    {
+      "file": ".gitignore",
+      "D": "ebbf9bba91e3ff178d552c4be6307d540815e12368b4603519ba6f125847ff38",
+      "G": "166e10056635002abeed29520bbf27bdab349d84f5fe4fec1d167f3c4a396a01",
+      "base": "295f1ea4d5cabd7f8f6cb034bb94621b577f2e771477507434ca72fa33b80c54",
+      "D_changed": true,
+      "G_changed": true
+    },
+    {
+      "file": "AGENTS.md",
+      "D": "c9a704d806d39e7f34210e04b54dafa9c391fdd64f26731cb7990f4df29cf910",
+      "G": "f1a37a49051e133a1ff13e93c204d6e20052419f1271e3c65e7dd29a4236e5a3",
+      "base": "f1a37a49051e133a1ff13e93c204d6e20052419f1271e3c65e7dd29a4236e5a3",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "PIPELINE_GUIDE.md",
+      "D": "f410fe6536dbe29e46f8c1309b814fbda9639b75d0c40be815d195cea2fd5202",
+      "G": "b78b8ab0cebc00a7867eda45c5d3725ec3c2039eeee34c50ffe1dd231afc7920",
+      "base": "b78b8ab0cebc00a7867eda45c5d3725ec3c2039eeee34c50ffe1dd231afc7920",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "QUALITY_WORKFLOW.md",
+      "D": "ad24d8080dbad1f80acc6d96f30e29cc88d94e47ee951fd33d649e2b759d8246",
+      "G": "9af9c195966e8865ecf1ae4318083521188211b92d651ec512fe2834b80bd8ca",
+      "base": "9af9c195966e8865ecf1ae4318083521188211b92d651ec512fe2834b80bd8ca",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "README.md",
+      "D": "ff80be20688efd74fb7fe7cd1cd0c9d2399dd7df571ec226d4c904f04f95b461",
+      "G": "0c4c5e51bd4c09d1c89dc2d4ee309d8917f5a55fd6ecd2505cf5f161712f03b6",
+      "base": "0533e45c4f88e8487187e9b9f900aa5448628b4440b482d76fe74229f0397ae8",
+      "D_changed": true,
+      "G_changed": true
+    },
+    {
+      "file": "WORKFLOW_STANDARDIZED.md",
+      "D": null,
+      "G": "49373176bee6b43d579fbe0207b291cbcd4159d9aca2c57c585fde2957454f46",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "audit_ch206_210.py",
+      "D": null,
+      "G": "d24995621a4dd4fdbd300095de7bbecdbb55b6cc7916286d3cd5726178bd5280",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "comprehensive_novel_audit.py",
+      "D": "b25c9dc88d1bb9676ae2972e116099769dac44226388e34def9301d04d83a9cd",
+      "G": "2c0a3384170b83251f7796a1daaa134ded3f19de0143664c1f2b54c8b4f255a0",
+      "base": "fd3ad4b71d02c412f7048cc4e63fa9f8a89101b3928d708cd3e07e6c0459f916",
+      "D_changed": true,
+      "G_changed": true
+    },
+    {
+      "file": "docs/architecture_v35_notes.md",
+      "D": null,
+      "G": "2abb0c9206dd8918444779ea3ee1285147456054c8dee89cda9b6ddbe637fca2",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/ANTIGRAVITY_WORKFLOW.md",
+      "D": "6d3fef5b8ef486e6c34b4ca8ea512e7608ed28154a00c3ebfd3e8f26e4289571",
+      "G": null,
+      "base": null,
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/BATCH_WORKFLOW.md",
+      "D": "143156ab105d51c48c0dec1ed7ed8bd8fc2883a9268dedef6a96710766357441",
+      "G": "6ea9b21607d2cc5ba220fe9322b722bcc4a2e77d425240e8bb52d09dcc5e6c2a",
+      "base": "6ea9b21607d2cc5ba220fe9322b722bcc4a2e77d425240e8bb52d09dcc5e6c2a",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/README.md",
+      "D": "f2bc44cf50d5dc0dc2c6f758b5217a321746d05cfaba80d36f4789e5071c620a",
+      "G": "dcd6cb1bbe3578f618f84104a1584f5c302c5e52fb669b5f3032df003fb5cb86",
+      "base": "dcd6cb1bbe3578f618f84104a1584f5c302c5e52fb669b5f3032df003fb5cb86",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/WORKFLOW.md",
+      "D": "b68e375e14674f549251d3819eda661a55298580d0e6966f230059afb108f011",
+      "G": "1b659174fefb039b1d82e7e976565d6be86896246e5f000e56cc19b6f72e7a86",
+      "base": "1b659174fefb039b1d82e7e976565d6be86896246e5f000e56cc19b6f72e7a86",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/apply_codex_edits.py",
+      "D": null,
+      "G": "53d4f1b3de814e071f416e145e982d85a4317d68e0f391c1fc2b190e02b58d0a",
+      "base": "53d4f1b3de814e071f416e145e982d85a4317d68e0f391c1fc2b190e02b58d0a",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/approved_context.py",
+      "D": "ad877b2eb413914bcb7fafc5632ce6ce1117d706b95ecb11f0f92c13b43a127c",
+      "G": null,
+      "base": null,
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/autonomous/self_healing_engine.py",
+      "D": "09e40bdd9d34c5d1d11021a202eda995ed679de8e3d78bdf35610c9c809e3fe7",
+      "G": "67daa5599b3c73b6f7e1faffb86d887514d056f66a92a3b54c6e90ad82a9b0d7",
+      "base": "7945c8d33597a0256e0441fa7b65fd4ffd14e8b7ffdc39cbbf5e166bb23f0077",
+      "D_changed": true,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/batch_experiment.py",
+      "D": "a3bce0c731efd55660a332002bd9355b07cc8eed88b96b75653c28680348e1cd",
+      "G": "6b46092d450a687d28905f828e42a696bed6e3ce247947ab75e8992ba3e3a05c",
+      "base": "6b46092d450a687d28905f828e42a696bed6e3ce247947ab75e8992ba3e3a05c",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/batch_route_design.md",
+      "D": "6a2c9b02d5492ddbba8d8587b2ae6145fb9880e73fa8ad6ac4cd7510ab374e41",
+      "G": "b1b7e0f4d832401978c10480149d338d60be01b8fb9cc303af048e1e49b13ca6",
+      "base": "b1b7e0f4d832401978c10480149d338d60be01b8fb9cc303af048e1e49b13ca6",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/batch_run.py",
+      "D": "eca5d5312a80bb17ca1b8f8ef37df2f16daa8325f1d1f484a15d4d5ba8b50bf6",
+      "G": "8d99e6b3e0d1f571302d2ba1d17253e5ba4fc82c2ee0809c12bfa5f81e7b3a2c",
+      "base": "8d99e6b3e0d1f571302d2ba1d17253e5ba4fc82c2ee0809c12bfa5f81e7b3a2c",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/bns_prepass.py",
+      "D": "7263cd75f18d29fe998c2728371af6c5ea4cad7f8fe904b453606de6f462c379",
+      "G": "40909154e37f7ec611d06ecf322c0a66814219de3ea50b4cea0b2fae1b58d1ae",
+      "base": "40909154e37f7ec611d06ecf322c0a66814219de3ea50b4cea0b2fae1b58d1ae",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/book_14713/batch_pipeline_runner.py",
+      "D": "d0cc13ad1fcca19d8b1dbf38f21735923fabc05fbcdc32bff9266d80efc293a1",
+      "G": "641b5e052ef400c908249dbfc80dbd0b47d6183649a52bfaeb006e6369fbbf38",
+      "base": "f47793bbbc09f6999a1423966fb37750cfbab275d2039acacb4062f18d76e1d4",
+      "D_changed": true,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_14713/report_progress.py",
+      "D": "3dc95fedda8364825140ef6155f81cdc512d02a16cdb18124627f40c6bde2c72",
+      "G": "d0a1e2e6d4d40b68562394a7fa2f3f6b1269420b2ba3d4cc60cc400e2afe4f3c",
+      "base": "3dc95fedda8364825140ef6155f81cdc512d02a16cdb18124627f40c6bde2c72",
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_16014/batch_pipeline_runner.py",
+      "D": "ab64a06ff5cddc32986801d5884b6d06887809551ff9add8fea9b5737900e299",
+      "G": "69d99dae3fc79c12f692223ed23c0ce70a0311bc6954e2e96b0eef9687d64ef6",
+      "base": "e7aa369bfed1ee434060ab7dca013d5a384937c25ac3187d4a89db09de096a61",
+      "D_changed": true,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_16014/report_progress.py",
+      "D": "c348e0dd6f38f3e3b4e32d2d76fdc5ec94d0303bbe80f8cdde42acdbe79bd755",
+      "G": "64e5fda12b69dfbfb17ac4bd828819bb59bb6f6df34b1d302894c2a11d529007",
+      "base": "c348e0dd6f38f3e3b4e32d2d76fdc5ec94d0303bbe80f8cdde42acdbe79bd755",
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_49736/batch_pipeline_runner.py",
+      "D": "1e319c85b5e4ed22e4c90fb5dfb74637cd6207463ea73d761fe8c8e14905dfb2",
+      "G": "4f491dae178ffa652494208b4e6353d505805f05e18201d40b9d4e75c5aa1ca2",
+      "base": "34e17bcb1912cabcac4c265c685afadfe208833b51d2d07ccb51e5d09113a52e",
+      "D_changed": true,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_49736/build_ebooks.py",
+      "D": "ed9e4ed27b01259ddae9f559f213975a272e1981e19e3170b6e67de8d83ef93a",
+      "G": "2a552e5162e90831f0b842f2968794be0e3ce642c0994025937a5b4ea851e5f7",
+      "base": "127ba7a2076a2a4bb0dc392a254f1cf928fffead5143682b5c8c049f01b724b8",
+      "D_changed": true,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_49736/crawl_chapters.py",
+      "D": "a87350311a4fffe447814e7a1b23b2aa538c31aa8416b2b6ac9cb19d950f98f3",
+      "G": "e6196cef17494c542d4edf089d1a7c73a08950a6074c5f84bba8040ba0736368",
+      "base": "a2567ef95794a5e47e36e7c264a6606cb096f75962205ce88364703698d8ac76",
+      "D_changed": true,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_49736/report_progress.py",
+      "D": "ad83437506a242abf52bafe93aaefcfe937f5cbeaad609c4e982a6c8bedbb1bc",
+      "G": "b948cb852422a13a6ea242d1c9607d2cda1b02a2d7f629468b6216267a633c2c",
+      "base": "ad83437506a242abf52bafe93aaefcfe937f5cbeaad609c4e982a6c8bedbb1bc",
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_49736/save_translated_chapter.py",
+      "D": "86403e61bb37e7618998ad003730b44ed1e1303c6ccdb7e4b24f9a4f6a6931c6",
+      "G": "5c1b2b5645b8cbc45e87aca502559d1c446f49de2391e381f2608754f6c3372d",
+      "base": "8f1391b5e2ed653ce44e39d9921b04690d3988e1c3227463687dba45f16493e8",
+      "D_changed": true,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_49736/sliding_pool_runner.py",
+      "D": "1b042aef2c8ecbe33579a918cf1bae0de0c15a44f398b9a53b729a9588a06f28",
+      "G": "a4a1bc26ef23687afd6530de4d715b8f99e8b8f32f1b4d94ab523d94d9ff2670",
+      "base": "dae9278789dffd8097c9e7742001e12e66c2084d68b0ba6c20f1148ee9bcc643",
+      "D_changed": true,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_49736/status_tracker.py",
+      "D": "792c4467f08da5eb8011aa1e90854f18650bfa0aedeaf7a0c0f50ab906323526",
+      "G": "5d987759de77d7700e58aa80f4c57f8e8ea149e258de8a4115b27c8af65fc459",
+      "base": "779acaa9b91e182c82016f639f762515817f3ed298641e222fd7a00f87c0bda6",
+      "D_changed": true,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_49736/style_and_entity_guard.py",
+      "D": "c309051211c129250a0e33d87856b8c6da0257817df1716d0356c0d62d02a84a",
+      "G": "8ebd27402b7772959c67c37a62f4dee2b5193099380ccb289c2663d88e7cf02e",
+      "base": "e8e991d1c8e2b99bf11a21f24fbe6120f4326b600c23def3ffe75fd083bc6a59",
+      "D_changed": true,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_49736/surgical_polish_325.py",
+      "D": "bdc2a57ae17fe687361e6b6d2205c3fc4a11997e79987e52045ea7eace6de1da",
+      "G": "b852590616789ec8564e0dcfb0ef819ae814eea7ba89c78b610847831808ca46",
+      "base": "037034fe8c27408023674a48160251bd578883a9f5801b1e85a62137e94e1b9c",
+      "D_changed": true,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_49736/wave_orchestrator.py",
+      "D": "3c290b2d0088e0514e77e6d74f0d38446abd7e49b8ce5de2e0512652a6562f66",
+      "G": "901c348ed98a78df7f3987cab90dde964687a221c46d75cb5edddcf3a2aa73b3",
+      "base": "ebd27df509ad58af5a62478ddb30ee47c3463ee30eb646ab1acd1b715489a395",
+      "D_changed": true,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_49736/wave_runner.py",
+      "D": "ee0af50cefdeb7fcc7544a277b6b94a151e555c01fc911e0f2d9a87aab668651",
+      "G": "796b51d3b575df3381f196de6b13ef09708d6f78b24f3705379f82b03323eb1d",
+      "base": "e9c8ddb6dc95086794431d8c8096c9e76af34d3252a241d0775c9527ee814af5",
+      "D_changed": true,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_49736/wujian_pipeline_runner.py",
+      "D": "846ef567b9a05b21784153cbe17c7a1729945820a40661ef5ef96623cb6f1b4f",
+      "G": "50435c30d396d745ce3d82cd1cbefbea7c6f86c6e51cc41466ac14582081f0f2",
+      "base": "0011b1a6b1e76146632249c7d6f08fd2c66230f52579a9e0be49abf5b7c13151",
+      "D_changed": true,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_progress.py",
+      "D": null,
+      "G": "43a5f106ca8896b01b207c618ecad8bdb6a38691e68c69b66a27f5e5e34e5db6",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_publication.py",
+      "D": "12a568ac145271919ee73548ba0777843f3b63c4a0272a58c497030694a32ab0",
+      "G": null,
+      "base": null,
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/book_runner.py",
+      "D": null,
+      "G": "91fc88ddd64985e1ca23acc7b9b30ac56f9ce6f61f040ba18de300d6235677dc",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_workflow.py",
+      "D": null,
+      "G": "f0599c40f03736b21afe1bf826997b6f70d602b4b6ccdbe0992ede996e465e61",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_ch116_120.py",
+      "D": null,
+      "G": "8e0f855d07fdb774d0c818c2bb8cc8df0751907ab6a33bbef95f32e89ac53b67",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_ch131_135.py",
+      "D": null,
+      "G": "12b309e6e6ad5b1d81b86dca4e8bbaea5a9f807c222bd723f1bb1379f524810a",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_ch176_180.py",
+      "D": null,
+      "G": "dc0a7c693ea3a31d3b5831110babd99a2246d16924e51eaee078a079b667a0e7",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_ch196.py",
+      "D": null,
+      "G": "c5f46144263ceb94f80b72e0b76940b9f84092a5773cff5ec46db4d8d4de8e92",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_ch216_220.py",
+      "D": null,
+      "G": "f2bee5157314a6b8175b1b0f27d63a64e530ae41beb9711a879a18654c63f52f",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_ch221_225.py",
+      "D": null,
+      "G": "2a6f0330949ebf196713c32da1811353b92eb756070bcb3c41d8b496dbb691f1",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_ch81_85.py",
+      "D": null,
+      "G": "ee59e02885ab5215fff72b7411c153d69154a236dec109fd8db86cfde5279805",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_single_chapter.py",
+      "D": null,
+      "G": "afa7f4f42f46bfc911f5c3aba90187d8d9e3df25b53693dabd2ddf8c533f9b54",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_subagent1_wave7.py",
+      "D": null,
+      "G": "343b1355bfdb35912eaa0056c16b5e286eb691f8cc7c701f5ac68b62b033e1fe",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_subagent2_ch106_110.py",
+      "D": null,
+      "G": "8c570d5bb25c554caa78c126d3abc7f64d3d080f4d7a26e4725bc8aeed72c346",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_subagent3.py",
+      "D": null,
+      "G": "b8c3732318312f73a591edea52ca3ae8ca39ad29fb44bc23d9de83f946b0a982",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_subagent3_ch161_165.py",
+      "D": null,
+      "G": "8912e697cc315dadfded888384f2025a3fae4e89954f1f1314a0eb443e9379e7",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_subagent3_ch61_65.py",
+      "D": null,
+      "G": "8afac777866d564fc8014f2a4c6f23d0518a992a8b426fc9dd8e479d467496aa",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_subagent4_wave8.py",
+      "D": null,
+      "G": "7e5ac296a95d9794a6a15e6cebd3dba89d4a213eb34e08a4161f19c9f4bec6a6",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_subagent5.py",
+      "D": null,
+      "G": "e3402554de107a62d20ddcf4d90155f8f9fab15cb67df30a2faaef26ba6bcafa",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_subagent5_wave3.py",
+      "D": null,
+      "G": "1565fd7541ad96c2f4526710a35b69f75490e58e5575ab64d582997dfc6932da",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_subagent5_wave4.py",
+      "D": null,
+      "G": "9febda339857fbe1b3465819020318793cbeac06952e7a11e3ccfd5f809b7936",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_subagent5_wave5.py",
+      "D": null,
+      "G": "6f2106a26a311e22313092fdf2b8a650abb9270b74f9da8ec621df940193a064",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_translations.py",
+      "D": null,
+      "G": "ce6da5e0345e0493043b33e0dcf587848c9932673ee6f6e7ee03333b5c3fbdc4",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_wave2_subagent2.py",
+      "D": null,
+      "G": "0f9fea75e9564bd3a76bf49afef4f4028bd2d78d9bc22e7f003c0d9393f657c9",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_wave3_subagent1.py",
+      "D": null,
+      "G": "5952d71f6da87cf42d332a2566cb50ad374efe30c8667872beb978bf6cdd94a4",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_wave3_subagent2.py",
+      "D": null,
+      "G": "5f13e7ea47a4b7da0419b098c65474602b43c5930000cfa1b2d4a644b22f98c3",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_wave3_subagent4.py",
+      "D": null,
+      "G": "4bb64ff9e0c08cfcdc2154985d4b8b21eb8615db46a7cce52cf0fb33c26b058a",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_wave4_subagent1.py",
+      "D": null,
+      "G": "20ba20c0f4e41d563f3bf43f4d13d84d271dd37f1208b7cb12d8fa60b4f03851",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_wave4_subagent3.py",
+      "D": null,
+      "G": "6b247e57fb88ef77ed193a2783a7ee40264d18e86e78dce0dfe090d050093957",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_wave4_subagent4.py",
+      "D": null,
+      "G": "930ae2b1ed3d34403d77b328b7eb1a721be9aac7e31c0a29357f562feca5800f",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_wave5_subagent1.py",
+      "D": null,
+      "G": "33a622d88ba1d0fa1732fc3374be9a6d39d03186aef61d99284238ddca838d9e",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_wave5_subagent3.py",
+      "D": null,
+      "G": "bbdf0d84f7c70f587660c0d87332231c61658a3a515bffdf8db373aa31fd765b",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_wave6_subagent1.py",
+      "D": null,
+      "G": "ae638d3c5d4264e3e11f90fbdb5158e2714ebedc6390ea4936c12f18c01f0d3d",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_wave6_subagent3.py",
+      "D": null,
+      "G": "18f07b70c5f6bd83fef406ab8c161b4ea79d3f4c5d8ee9df4dabed488a43e90f",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_wave6_subagent4.py",
+      "D": null,
+      "G": "ca60f010a6e6ec58f0d101fa9198593bb1e2db642a5afe810071617aba5dbda8",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_wave7_subagent4.py",
+      "D": null,
+      "G": "55f3cf699fa3ed0c35d7f6772126c17bcee66da05eaef4a5d2e58747efc9964d",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_wave7_subagent5.py",
+      "D": null,
+      "G": "38d2be292d76e8b822dc8a7edfe6f39258e80a34d10d50b2fa62e07821c7524f",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/audit_wave8_subagent2.py",
+      "D": null,
+      "G": "34e09d613ca47c827dfd79dc2b30fcf5a312e764cd73559c2d8f10d76da1f19c",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/check_101_105.py",
+      "D": null,
+      "G": "7577a0f72cef3b7fd86b6f4ea8e2bc18438bfc72f33b0e59efc4965218835e16",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/check_131_135.py",
+      "D": null,
+      "G": "261b37d075e1e2535036a80acfe7fa9de3210e5c5178cf43c604739b8803dacb",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/check_author_notes.py",
+      "D": null,
+      "G": "2f961924a40118842d954145ddb979e8e2fc206d5a89ebd907500e322ffad0f0",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/check_ch86_structure.py",
+      "D": null,
+      "G": "27fd52a99bd39820c26ecfc8b5f5e361f90890d945480b3329db92f6b0923db5",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/check_last_segments.py",
+      "D": null,
+      "G": "43598c43a260f3b35f238274e663ee69178961f28d60a2f0beb4f75cd70f511d",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/check_past_notes.py",
+      "D": null,
+      "G": "046cd453a483b704c5fc68c7d63f3968e7b9057c714cf0fd7772324ad8ec333e",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/check_previous.py",
+      "D": null,
+      "G": "4684fed65360f49d852a0018e5441629ef14f9bf999c21cb3b7b588207e82f29",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/check_sources.py",
+      "D": null,
+      "G": "bf47520efd4da75148b5b5b1d705045fcd4f963d9f08946afaa50e1008aa6f0b",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/check_ta.py",
+      "D": null,
+      "G": "9b6fce4387f38465dabd382a0dc43b70ee22e69bc4b20a85cec6a0fecbc3a1d1",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/check_ta_wave5.py",
+      "D": null,
+      "G": "982768486a5f3d0acb67f403e7b399c0d484690e6e85e079d4de20f85890ddee",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/clean_cjk_leaks.py",
+      "D": null,
+      "G": "c8a0844dfb30f1e91591a3fedd4d829239328bdb2be65bef2f757975968e53af",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/crawl_czbooks.py",
+      "D": null,
+      "G": "64d3b9630c20db1b1e9e3094bf4bb0c93d874ae29851af1c41baccb3d9543ca6",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/dump_121_125.py",
+      "D": null,
+      "G": "1e969fd50ad21d432c8ced28796337d84a9025d3914e581adf90c9dcd6018fe8",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/dump_76_80.py",
+      "D": null,
+      "G": "88b9db71d2480203842215a12910b20767f30fd00b9f5e529296eeae2fdfb556",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/dump_96_100.py",
+      "D": null,
+      "G": "faf43abc31dd0d1cee5959faaf55b26be37b0c74c8ba78481319347a35cec3ba",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/dump_all_121_125.py",
+      "D": null,
+      "G": "6dcf8cc40f97c98a3739d55fe4901f049047d011df55ccb3385fe8f8e1848f3a",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/dump_all_51_55.py",
+      "D": null,
+      "G": "cef3df14027c7ff280d85183679046a87e3bd7c377501c1abf8ad724f08afeaf",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/dump_all_81_85.py",
+      "D": null,
+      "G": "a8fef090eec58489260c64ba498a8062f78d274dde4feca6665752006bbeaeca",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/dump_all_raw.py",
+      "D": null,
+      "G": "9e664a44eb622ca093fab5e778366a2fc0c39beaed81eac8bfe7fc1adbfca344",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/dump_ch.py",
+      "D": null,
+      "G": "40a0371eb3b102bc5572995feae4f143829619e763beb1b0ce5e6d9b88ea2238",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/dump_ch141_145.py",
+      "D": null,
+      "G": "ad0bb835ccc5767f3113a81ff1301259e52aaddfeda5a3e70d9e1558e3b020f1",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/dump_chapter.py",
+      "D": null,
+      "G": "eec25b628b7545195836dc4373f7998c9099bfab15660a17be9bac4c8090a450",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/dump_chapter_segments.py",
+      "D": null,
+      "G": "ed67c3b495bb8339aef26c4fb91ed4401f456e65fd45ef7040dc832459a83dbb",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/dump_chapters.py",
+      "D": null,
+      "G": "e294c6edcce7b0c04e0bfb38e8685c211d13f9d5deb332b23abf087694a57896",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/dump_range.py",
+      "D": null,
+      "G": "ee6bcf8c1925f1fdb84392acd156314965fbb36344ab504e72d7f59a990d3f8b",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/dump_raw.py",
+      "D": null,
+      "G": "15d7fde5622cf6de453eaf60be31384260db285e3505c0707c17e9acd836252e",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/dump_raw_86_90.py",
+      "D": null,
+      "G": "c20e83b91252e5b5266da6fda3add0d90a71e4bd23a5c6ff19bba454c4cfe7b5",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/dump_raw_ch.py",
+      "D": null,
+      "G": "4b160166e467b1767437e3d4669c089f10b4456ce8c7fcc1bb25177d6cc8ab45",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/dump_sources.py",
+      "D": null,
+      "G": "34615fea5dbe0f6ed802251acc71a596458fc4ccea13423743059624fa8eef5b",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/dump_subagent5.py",
+      "D": null,
+      "G": "0f32773511ba6010d18a69e1dd44cfe623ea771674c7311a849653ed05d85dad",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/dump_w4_ch.py",
+      "D": null,
+      "G": "7d9b200ed973401ece64933a8ea3e64cd1deac04620defbae407d52ee0e68f03",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/find_shenjing_voices.py",
+      "D": null,
+      "G": "331fa48f58b72bca4dcc7cb59d66ea99b1faaa37c8c324ed2bdf18a8992e44bd",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/find_ta.py",
+      "D": null,
+      "G": "1b83cc4cc99e61064368d5fee570b885ebfeaa47b6a0f69241f87c512f160847",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/find_term.py",
+      "D": null,
+      "G": "4c0b3c43a894da26b03c781779cc692537660756158c2d07da10021162a1c840",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/inspect_111_115.py",
+      "D": null,
+      "G": "834a300ff90324daeb4360a8494f9716a727c8e7d1981f7825ca2472ce3a666a",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/inspect_126_130.py",
+      "D": null,
+      "G": "32be08f9c393f79a66747b28fc91e0e4c77d31fc56ac27937aca2a68b21cbf88",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/inspect_191_195.py",
+      "D": null,
+      "G": "e9141bf18c4dc157490fef781a65b82ab1e4dacebffc58d196e33218ad2cf5a9",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/inspect_216_220.py",
+      "D": null,
+      "G": "7a0b8af8591c89c5eef6081e2b63791c44760437d5759c9370623d2cdb0a100f",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/inspect_51_55.py",
+      "D": null,
+      "G": "bcc5eb82d18dc96f87afcaf49efcb2c6f8ac66f5648193b8c1af4a155da377dc",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/inspect_71_75.py",
+      "D": null,
+      "G": "25a175e2ffc402fe9fbbc00b309b29bf6c69ac3bb9bb175bf29ab0062d0ce454",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/inspect_76_80.py",
+      "D": null,
+      "G": "4308c685e9ca2548fc8e24fcb7ea7c29564fba33478f45eac7918d784dc2d0d0",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/inspect_81_85.py",
+      "D": null,
+      "G": "90ae272e345b394dc7878b5d256b2c01d73b69df7e636deae75017b676dff829",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/inspect_86_90.py",
+      "D": null,
+      "G": "219f2017dd53c639358cd92be067cf2bd9da11fce660af3b188db5e7ce780744",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/inspect_96_100.py",
+      "D": null,
+      "G": "13a6b53463bdede83d9df937583c8fec312ccd0f3d72615115fd00e36c44cc51",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/inspect_ch.py",
+      "D": null,
+      "G": "02f2a7a3a0e1cb5ef80d6c3302e6ff296c0e2d942aa47291045feb4e145f20bc",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/inspect_ch106_110.py",
+      "D": null,
+      "G": "d2929781553567dc44228d0c6d0d3bbbd2136dce477ec996573c5b9e5272e6b2",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/inspect_ch171_175.py",
+      "D": null,
+      "G": "7b00ff8c48de630df1062f525be31016d56d3843e0e1596b789d2a3b1c27afa0",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/inspect_ch181_185.py",
+      "D": null,
+      "G": "68390612206d5551e25362e6cb9ad0f3f1b1c9293d973a201dfa928c95edc03b",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/inspect_ch61_65.py",
+      "D": null,
+      "G": "fdd5aa494ff64576e9a276b9626499aa27009adbeeb76b2f9aa6051a2da924ab",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/inspect_chapters.py",
+      "D": null,
+      "G": "4299052243fdd3b848e20c6f3e92c8a4ed44952958a5602bbe9aa8266a134204",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/inspect_details.py",
+      "D": null,
+      "G": "8ad22fb79d3f2cee7911b07638bca98485246ce89bbc1d5424c0245ec047f990",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/inspect_sources.py",
+      "D": null,
+      "G": "e59008f0c2d2d3e45d2ec6650c265dccd01e479f8cbb5162c4a6b4585e5edcb4",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/inspect_subagent5.py",
+      "D": null,
+      "G": "4b693a666c4cc4df56589f983600b783efd12e6113a1741564debbdcb4abfb4e",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/peek_chapters.py",
+      "D": null,
+      "G": "e646915282357758c575e4a25e9f4ff151aa11251e57f5d03034330cdc6306b3",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/print_ch.py",
+      "D": null,
+      "G": "11fd4edc80d53925501982850710e67d49cccce824b47ffe2886a01659f321e6",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch106.py",
+      "D": null,
+      "G": "57cc991fe4098f760e2992168bf13b880d348371b04e76b24a6e33b2ec1ba637",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch107.py",
+      "D": null,
+      "G": "4e08e47769c6460bebc684574e010f90f8be354af1bc67930928799324f0d2ba",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch108.py",
+      "D": null,
+      "G": "4098d9b681ccff59c160f4474f2388078e765ece79544ed8c3fef1a0a86d8da5",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch109.py",
+      "D": null,
+      "G": "723375bfdf383ef06e7101c7093c2d1eb269dbbcf0c3749174406024c24a4a24",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch110.py",
+      "D": null,
+      "G": "acf4b0a7a614b26115f5e130919487513791634551e82b184ec95442ce34d017",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch126.py",
+      "D": null,
+      "G": "92cb0ff0245b7e69a55fd8b036503803ae791307c2fb534af9502c295ea7da64",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch127.py",
+      "D": null,
+      "G": "420692ec15560351b51ab602714d1a04a351d5b6967902ad417b8728410d68ef",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch128.py",
+      "D": null,
+      "G": "c42d3d96432a761e78cae21e7fffd4a50948dad52786439a2970f71b2840bec7",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch129.py",
+      "D": null,
+      "G": "eaee6d1659e6c22f8aed9b52f9b67557f0dc090df34020de1661810c2b5dd380",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch130.py",
+      "D": null,
+      "G": "0d2cc548c0d73a8451f1f3a09830259d38f9798ff2e6004eef05078bc7eec6e1",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch171.py",
+      "D": null,
+      "G": "aa4d30a78fb048a4131e0254ef07b3e6f95419225baefe3dd2b2786023e89a37",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch172.py",
+      "D": null,
+      "G": "e1a31820dc72f933d340ad0b9dea90e9622ede5a0f80f043d58dd3f125d673d3",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch173.py",
+      "D": null,
+      "G": "c8d3afe64f0ffd338ebd49448e2ee14dc8a6a1a5b44f0ab41332e0cd8f4ddcbe",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch174.py",
+      "D": null,
+      "G": "3a16c76aa0f589caea876b171b20157fed1ff31c1b3707e900571568348c3195",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch175.py",
+      "D": null,
+      "G": "0007e0cdc394529975161d99b54fd599d400735bac7e386631af37316e390619",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch181.py",
+      "D": null,
+      "G": "ede493ec6081f0b5e0c56e45fa2a196fd55b460cecb56d51a389bc4e2e0dd31e",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch182.py",
+      "D": null,
+      "G": "eec38b0f555e00f62e9853e156559e349f311a42c33c5aab8edace1b51014bf9",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch183.py",
+      "D": null,
+      "G": "8df4f9319827d64465bd621e6206cc069235e31ca2f0d1c28cdda7c3993149fd",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch184.py",
+      "D": null,
+      "G": "f528b18b7eb6f9fab392bccb65e6fa1d6a054abef5d21874f91d7d50c4b7f748",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch185.py",
+      "D": null,
+      "G": "4662b88a50a3234ee4e66a11cfad0e70ceef16ab05c4a7c4f66e20c50cac8238",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch186.py",
+      "D": null,
+      "G": "6e4ae66f8ec9a3149ef9c6adde05af8648c2794043d8437aced925e71be5820f",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch187.py",
+      "D": null,
+      "G": "126282b4817703b45b003e42cfa0f09fb413575b3d6a793535c47673bff90f6c",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch188.py",
+      "D": null,
+      "G": "96e6ebee1565df4714fe808391b64c7660e7f4bcaa0c054179da84e5dde06a9c",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch189.py",
+      "D": null,
+      "G": "0fa8ead3dffe2d64430150eb09df5f219d03a298014d331e69bdcb08809a76c7",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_ch190.py",
+      "D": null,
+      "G": "8b0a33655773ae2249efb5a79226e134e239e8f69f6251dcc2ece63c263127d7",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_100.py",
+      "D": null,
+      "G": "6c4107d096bbbfb25dcfedbf2aed548997eec8c05948349545ce4e2ef02dbd8d",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_101.py",
+      "D": null,
+      "G": "6eec90bed8b7640cd87d8b6fa1713c855ab8307122b741f8b9f9fc88500c0c84",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_102.py",
+      "D": null,
+      "G": "8193aca359430d82ca90a663bac6d196eededbc1c4bb3e80415f5702fbef6687",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_103.py",
+      "D": null,
+      "G": "4d6b322e87d628abb699b0a3bdffc9d778896bd701645713cfdbc32088f59237",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_104.py",
+      "D": null,
+      "G": "de4517745261763e07cc81b0d71e11dc4c27183b624fc693111a00775fae2bdb",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_105.py",
+      "D": null,
+      "G": "c56f3e82651c36425b7a1d63236640ce2b4dddc6d653ff6f69f793b56e69f0c7",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_111.py",
+      "D": null,
+      "G": "7db69983790e1de103a9f01342d725a82c55d09fd63de222f991280d7a2984dd",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_112.py",
+      "D": null,
+      "G": "9b1ec8aea1f2679296624558d9907bc796eb3a8238f24bd3de3e71e806db625c",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_113.py",
+      "D": null,
+      "G": "28cbf860d43dcb2de975b82024bbc31681dc591499e5e93699c7950768c8587b",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_114.py",
+      "D": null,
+      "G": "d206c858b6c0ab6485929d58002f0e40e7b8c0128d697f3eb46c47389586f4a1",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_115.py",
+      "D": null,
+      "G": "4056b336bb83bc7dfe178d9e7a378186a7c9509db9e11ab70fb76d6d62e64770",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_116.py",
+      "D": null,
+      "G": "7b7c4db6d18862ac95e4269041a8158cc0647a6490a58dbe1bd9aa8bafe3be3c",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_117.py",
+      "D": null,
+      "G": "f77a607b346cd24cff5ea972c987fc3658ae91dfe9d5a5b7e741bdfac06f0164",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_118.py",
+      "D": null,
+      "G": "14457b99b98c3b650b4aa37f9053868bcd017640e55283b894c45ac8f0b7303e",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_119.py",
+      "D": null,
+      "G": "c31c828161200449e96ff42dc7a62c2897421d269175c2c7c898406806c00907",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_120.py",
+      "D": null,
+      "G": "934e41b16c4717f48d40c2fa758b6fce75351b6d62030751661ede8827588366",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_16.py",
+      "D": null,
+      "G": "f48a685d16f4c82370acd70781b42c6dd4302f606f02862ce2379fbb9d938fab",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_17.py",
+      "D": null,
+      "G": "bc0c9b25bce4df03b2b0818a5f1f0ff572ed4b28f8fc018543782d228506d2a9",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_18.py",
+      "D": null,
+      "G": "ebda5c0ade994c66f2a45c05dacba6780c7f61c4dd41e7b0ba6e4537d81559d2",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_19.py",
+      "D": null,
+      "G": "6c22421d0fbfcc0975fc0ab4eba86c560af80a29a352d5572fd8655a2ff7571e",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_20.py",
+      "D": null,
+      "G": "42ff0647c7f6b1af3d61a2920312d1a35e47856514bbed7894326b84f00930db",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_26.py",
+      "D": null,
+      "G": "3b55ed783116529b9c8260bdc261df3b8ce75103d99ea52718db5c7866713482",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_27.py",
+      "D": null,
+      "G": "c307bc574a0ea797a922dff4a2677f94cd17d2a5161c9f43e4a21e9464fd6ba1",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_28.py",
+      "D": null,
+      "G": "d4bf1d49474830fe46503c244453b5b0a51a57a8b97c33a0bdaad44c4b2af8a6",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_29.py",
+      "D": null,
+      "G": "40c907c4adf16216cd6f09240efa4330b92e1fbcb5d9c27d3f677b8b6dc89412",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_30.py",
+      "D": null,
+      "G": "6d7e023b956c8d304bf523a406981a8a119e15e97dfc260b030759810b6ab8bf",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_31.py",
+      "D": null,
+      "G": "f3447841ffb589c8723baaee8c35bdc69a39e29f910d9018b6e394f91f6e62b2",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_32.py",
+      "D": null,
+      "G": "6e0eb3219b3710c8ca36079fc9138b2933c63367a2df1ad150448d7e7edfe140",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_33.py",
+      "D": null,
+      "G": "bc7d1b64f1ecee2a396922c666534ab3a84be61276226d9d3b95ce5533df2e8d",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_34.py",
+      "D": null,
+      "G": "09fb0c90586ecab283cdf601fd86f2adb60e98ef6c42e38481d6e02cc278134d",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_35.py",
+      "D": null,
+      "G": "36080d154dd311ac63fe512701ee61638515b63ac887db8994ea751b69c0cc72",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_36.py",
+      "D": null,
+      "G": "5e806c760a547264cad20ac34432e1f402f6ee329049af6d1457b335c8ddc22b",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_37.py",
+      "D": null,
+      "G": "cbceee0515a1bf633a8d0d7f830abb305cb050225f2dacacb72760faa05c8ce4",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_38.py",
+      "D": null,
+      "G": "5fa5c1630370b2b705268a57121d9b1361bd3a7f0304ebc24bf621753871aa61",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_39.py",
+      "D": null,
+      "G": "de8527b99dc2877c1a0229e729726c5a816e011873f28cff78f4e105ec5eb186",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_40.py",
+      "D": null,
+      "G": "db525bb813fec7b039e2fc95b2c063de59d86bdafacdd1383b5f4c846228992a",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_41.py",
+      "D": null,
+      "G": "160e5449d3b5ebd3cf764313dd739ad0f538df479b6261708f485669d378733f",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_42.py",
+      "D": null,
+      "G": "bfccdd39a37001e7e282f7351a9f0ab01561a7ce3b20fed4f52a598fa95a00f9",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_43.py",
+      "D": null,
+      "G": "200f1d3b5970df32fec62e37779840a701d90fc5e5c37e42c2d746f74cfcb778",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_44.py",
+      "D": null,
+      "G": "1d5df568ea04863a0f8f9190a926c5f231696c8c1af7dd66e824eb1888a8cd13",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_45.py",
+      "D": null,
+      "G": "ec19bbc331f17e3dc38e67410933292b6b70f6f632b1c74aa908af451b350bf4",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_51.py",
+      "D": null,
+      "G": "241918a068f8be793a1a3d788efa36cd61b7e90aead6f198d9781713916c63b8",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_52.py",
+      "D": null,
+      "G": "b693bc15200bf3ef9372026649a89838b7109ac3cbd3a9673fb50c7aa730a6c0",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_53.py",
+      "D": null,
+      "G": "44a83ff3c4cdb9e7163001329121df0ba2f7a4104200bd494beb28de0da9c0ed",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_54.py",
+      "D": null,
+      "G": "0ac8381d46dbba4556a2255f7430a99f0aff826154ae8828bce50843a9f765f7",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_55.py",
+      "D": null,
+      "G": "1ecade51687c77b5e70ef967742f5fd80ad1ddae25fdbe73fd163ce322a0ac2c",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_56.py",
+      "D": null,
+      "G": "8226804df05de0c1b239f4b508672e41316517d95ef594dd25ea633baad3fa5c",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_57.py",
+      "D": null,
+      "G": "d71e9f7b168e90f24919af2021b11e4f24fe9f2eed665aacbfc41bd059de0bd0",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_58.py",
+      "D": null,
+      "G": "7d538289ba2920c42448d1d6b15c121917a9d5418399991f20c41f300fba1198",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_59.py",
+      "D": null,
+      "G": "56968ed247df070235306332634b4108ff99a24a982ccc9336ff54dab4ceef74",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_60.py",
+      "D": null,
+      "G": "9e67e7cf98691b76a355f121096881ee0fcb7771cbee02e7e9df0cca9defc84e",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_66.py",
+      "D": null,
+      "G": "79a20a7c6c332306b5201bf4d7849bda2c7cc2177e0ceb483caad26eadea80af",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_67.py",
+      "D": null,
+      "G": "522c7a77c757e58742a9bd5e59da9e2189bda2d4bb29857d6e44274b7d5c74a2",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_68.py",
+      "D": null,
+      "G": "41961bc14fd9deab5ccb0ca64b3c573c2fbdf51e62d38b961d61a76d8484ee33",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_69.py",
+      "D": null,
+      "G": "6ba4aa4769f54710296a7e540fc097f50058bc99a4b91740f1ceb547ff6f0f01",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_70.py",
+      "D": null,
+      "G": "ac88bfe667251cc4f3ed177c9b978e67ed9b7d178c26670f4b3601e676462886",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_71.py",
+      "D": null,
+      "G": "6e27027551c4c750f544e5853d0cfe422d60b1e25adb983f57813c60138f7c18",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_72.py",
+      "D": null,
+      "G": "e1159cb6f53d6f01fef9c7bda620340672396109a7e84dcf8fe7f7644ff4910c",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_73.py",
+      "D": null,
+      "G": "291bd22eb7b4f82c7fd9bc3c4f4a450ebf9bcef3f1e4a582ef6337690c2c5b21",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_74.py",
+      "D": null,
+      "G": "417f45196ae1f777edc6a2c7ade6e2d55bbb1b932d97b53130d08704f5c525ec",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_75.py",
+      "D": null,
+      "G": "fc1c37b7ae05345da1ce29806b7347f7ed66d4690a606716d0c4e9f47a8c2245",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_76.py",
+      "D": null,
+      "G": "24cbe3d54caa6120c02782fb7f4c4756e72fa8f7df8cb40db6e85ef637daa925",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_77.py",
+      "D": null,
+      "G": "2358125359fd305935a4244bb24f5a09c47d0e9a83d96cdfc83ca64f5576c628",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_78.py",
+      "D": null,
+      "G": "c7f8331a92857d9df91bfab035c69558caac16806862486838f642b6d24aa4f2",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_79.py",
+      "D": null,
+      "G": "7097da0a00d3fcb5b85ee9a60109cb78ca0c075862487648ffb96c3c666b0029",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_80.py",
+      "D": null,
+      "G": "2e9a0d63f1baf7d612d1bfebf35d5ee014fa7a8982d4fdbdf270682e07c138a3",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_81.py",
+      "D": null,
+      "G": "993bdb363d4bc54fdaaa38473d2234a2de7db82b1208ddd46e7ca648e3851525",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_82.py",
+      "D": null,
+      "G": "f21302c73faf59117114d469b182d2061d234e80b4532d94d95eeddf9b8a5040",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_83.py",
+      "D": null,
+      "G": "a94367aa811ccdcb6135f8d62cdf3f1169bbd5e55cd88586704b3c9c913a2de0",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_84.py",
+      "D": null,
+      "G": "0accdeaab8a1c270085684f44e69ac69ac7d366bb81342ad446a51dc1321a212",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_85.py",
+      "D": null,
+      "G": "b5b4cf40a1f36907c1fc85745f69c428c22afef9c6ead74fccc7a7bcb08c2ab1",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_86.py",
+      "D": null,
+      "G": "959221cb5435b128cdb91a2785b838a9c081265e531abf4d698b08ff3a9ca791",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_87.py",
+      "D": null,
+      "G": "6aaf901e3afbfa11f31ea2d80986f85fc83423ef587c2f46b650a826a85ad674",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_88.py",
+      "D": null,
+      "G": "8bf1a681606f616feadd9d071d186d720bbc1688d0a2efcdefa4906d2a6e81c1",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_89.py",
+      "D": null,
+      "G": "8e176aaf4a12dce7373fd27ba158faeb8ec72d870ccb09f93f9c2677db4b43d9",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_90.py",
+      "D": null,
+      "G": "06b11a82471a425a893cdaa473e304bdf50cc3bffb35f8615ad03cde6cae8132",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_91.py",
+      "D": null,
+      "G": "2366c136fca6aaad8036ffd03c638e8dc5401604c77a23b590e61e85834d8e29",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_92.py",
+      "D": null,
+      "G": "3f7ebcc111f9fc59c487ade3f7c23b892836da8986bf8a965df9e42c7540d5ca",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_93.py",
+      "D": null,
+      "G": "571cb4b1b7214d32f0ced6a1ab0947a5ea602ae546c711cd5a99849d6333dd33",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_94.py",
+      "D": null,
+      "G": "34c43865e8cee44cff3b86dc2782b29eeb4ea79324cd4eb1f034ae4400a5064b",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_95.py",
+      "D": null,
+      "G": "e310d38e90e2b260af212363826e156a3cf745b98fed3add27c252d52f4621fa",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_96.py",
+      "D": null,
+      "G": "f980d7c33a300a210d8f0359d0bfb8e414293e9fb84e5df00a0f442094694ea0",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_97.py",
+      "D": null,
+      "G": "c2f9f88f2f8b8c81a87d133bb49ab33c5bbbd31ce21cfce5d05b98445aa53d83",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_98.py",
+      "D": null,
+      "G": "ecb68fc2101b559f76781dedefa209d2b471a7748186c7fae2f8a36ddf6e6966",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_chapter_99.py",
+      "D": null,
+      "G": "b14a01a12dae706c741dfad487a220341f26800a1667989bd5ea0246c1ecd917",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent1_ch151.py",
+      "D": null,
+      "G": "0eddf545946bdca6bfc34c0245d436b86afcf75c4ccd1faf2f26b34558eea94f",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent1_ch152.py",
+      "D": null,
+      "G": "ac4a3971bd5facba385aa0ad5098e6647ae608a330ab3316d2e090572a1a97b9",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent1_ch153.py",
+      "D": null,
+      "G": "f40201fdc2b96784dabdbe944422d49a7476d51ae4051900756345d3305dcb35",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent1_ch154.py",
+      "D": null,
+      "G": "03e220c1330009fdeb49aa643a1e0a20d4473c95d609cb1a6e7c079e7cb0466c",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent1_ch155.py",
+      "D": null,
+      "G": "4dac10e52f3e227a31fc9869a2d79dfac1498f47a2a8bc0901126427dd243f9b",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent3_ch136.py",
+      "D": null,
+      "G": "8a5617cafe0afb2188e150f7503599ec86f83924fd6becdcc67fb38ca91c2364",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent3_ch137.py",
+      "D": null,
+      "G": "864c205388186358d88efe0713a9f05942347f0c039398d4f9171aa48d279401",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent3_ch138.py",
+      "D": null,
+      "G": "cd2f81a30813fba03872184734b045c30872f0163c081bffd3a330d6d988f23e",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent3_ch139.py",
+      "D": null,
+      "G": "6082637a331da81b96a8b59fcd1e9b2b68299d45a82fe38507ebb90f2921d6d5",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent3_ch140.py",
+      "D": null,
+      "G": "aab14d687b558a1ea9aab186252cc39eb5c6a20a5656af81a044c6394f0f7988",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent3_ch161.py",
+      "D": null,
+      "G": "364c8d85c746fc71f51d792fb68c410cfaea800c1419df1fc2b867a04e5a709a",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent3_ch162.py",
+      "D": null,
+      "G": "4b70617d90191e15d3d1784a742c3a2577e781b24f02883d828874f851bf4a19",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent3_ch163.py",
+      "D": null,
+      "G": "aecf196d34be79955135df6c7fde6f4ceb0976bc7bb2430901bf8b0a21110469",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent3_ch164.py",
+      "D": null,
+      "G": "ec51009dda2df87b1669d2efa0a97c2fd863e4e42e8ddf7b47b1026e481c0f96",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent3_ch165.py",
+      "D": null,
+      "G": "03c65ef273d5c8bb1de981f5088cbb6aa41b15884984c1886c80886736ec37f7",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent3_ch61.py",
+      "D": null,
+      "G": "772b257fcd62621d2d27a474843f81f57c39530f52eb6fe8fe27549fae532f00",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent3_ch62.py",
+      "D": null,
+      "G": "e67d93d073e8a8324779c7cb4982727e7ae2a12c5fe345947dd9f94ff5d90043",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent3_ch63.py",
+      "D": null,
+      "G": "997b37207495641033475cffa505c76fe9b70c91db1857d5daa74b4a34a76e56",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent3_ch64.py",
+      "D": null,
+      "G": "ec8b004d3238564095b12811d852dbb1dd6498a72bfb0c893983a5168ea62730",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent3_ch65.py",
+      "D": null,
+      "G": "c3a9b7a8984d4f3a409fd33a3ca4fa7d675f39bb7dc008a0b253c34f3be6bd41",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent4_ch141.py",
+      "D": null,
+      "G": "f4c6b7d408277d55cd7d1d52cb85677e32c121056230a223ebf73db037b39e22",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent4_ch142.py",
+      "D": null,
+      "G": "30c8c0ca69e7749cdad05c1d9497887e0cd0bcf189d6ae76e593414cf4bbfc7f",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent4_ch143.py",
+      "D": null,
+      "G": "54ff2055010142f8ddd7d62ad18a4720d5c9c970bd7d89cc829a633e46e77dca",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent4_ch144.py",
+      "D": null,
+      "G": "c822af45de80b60ac2c4dd4acca97a69036739545a671887617757c33e7ada24",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent4_ch145.py",
+      "D": null,
+      "G": "703b46d6f4970bbc826c3a1339466ee1b2f464c9b7278d9e93964b86a3630cb8",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent5_ch121.py",
+      "D": null,
+      "G": "fafe455f8394e9827b5b8d2e6532bb9cc7ff929ecda1063be4a59e08bf08e832",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent5_ch122.py",
+      "D": null,
+      "G": "830bfe75e62d6f9b6ca5d138d5a99602c9bd30f86f2134024056d1fe74a97d76",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent5_ch123.py",
+      "D": null,
+      "G": "161500682516ca6016c33453ed90ec299ccba360c931c9947e31aee0c061afbe",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent5_ch124.py",
+      "D": null,
+      "G": "7c1753fc905b7d3e4b12404a78a1d9a9380c517cb86f4f2d969fdcf34e45ebcd",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent5_ch125.py",
+      "D": null,
+      "G": "41990ecc310cfdae3a163a81304d0c26845925ed3e400060130b7f2db4e2e3aa",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent5_ch46.py",
+      "D": null,
+      "G": "dc94fdc74e47f29750edf5c6bef5603a942f1c98ffa1d6b7c81b102b8530ac61",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent5_ch47.py",
+      "D": null,
+      "G": "909727f84a18bf9c792b4393f4bb4879b013942ff1325eed354d07e7c20395f6",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent5_ch48.py",
+      "D": null,
+      "G": "032124eedd2c673eeac83dd27cc77f354320cfb2ef5861fe278615334891a4a6",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent5_ch49.py",
+      "D": null,
+      "G": "00ee62419355eff9a1942240aba2aa2b22ae7304db5fbf7545bafd4225a5fd44",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/process_subagent5_ch50.py",
+      "D": null,
+      "G": "b4f82c335c6df165b7e28b08001f9f444038c63f690f7769dc0fb3393302affa",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/read_chapter.py",
+      "D": null,
+      "G": "780e0981d8afda3653811de661b58bc2c2f00fc91bc2a2edfd662b30bc2df6dc",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/save_translated_chapter.py",
+      "D": null,
+      "G": "e0f457f011324e9b93d840359102d439e4e675229c18221616c66036a2917ee3",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/search_cjk_handling.py",
+      "D": null,
+      "G": "1aa664475db98496f1cfe202b5b54198b3c8b8433a6dd12a7255ed1ee6b6075d",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/search_huoman.py",
+      "D": null,
+      "G": "db41acbd383ca9fb0b1a1e047f9b3b41cd9e8e496909971367b7215a3a0ab1aa",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/search_luolina.py",
+      "D": null,
+      "G": "cc9f41f7b3034d618bca1f98dd32df9fe60d5be5fa997cc0472e06bc8da30498",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/search_names.py",
+      "D": null,
+      "G": "fb45e1722d61e0ddadad297f3c7658c3b5bb8de3046183077e8eb191124e7d4d",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/test_paras.py",
+      "D": null,
+      "G": "5f440852f82f11298f2a79042e397409b1d121ffd3f8d701571b37e43052dee4",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/test_wave_ch46_50.py",
+      "D": null,
+      "G": "770b83d8e7c0481338e6165170393458e3f3a6d50072ea0c51cfd81064278eb9",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_131.py",
+      "D": null,
+      "G": "1a205e07f0380c3ac51647509fe6e2a646a85690ea2ff369dd0b95bed7b31cc4",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_132.py",
+      "D": null,
+      "G": "9a65412bc49d74c6d1b48cc7e529fa5b082811010953430f1d6d46abe48642e3",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_133.py",
+      "D": null,
+      "G": "c26aacde4a3b4afdec674d03087e75618304d58cbdfa16f275ffe6ad6115012e",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_134.py",
+      "D": null,
+      "G": "09c2c9dce5292dfe22c6c6793668db25ffd641a2b227851cae53b50db756bd11",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_135.py",
+      "D": null,
+      "G": "9c796479ad9539f4845c46f820bf8bca38c7ea81b869110a3f60f86612dba2b1",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_196.py",
+      "D": null,
+      "G": "3f11e324422576b81bc4235e24a5c1038b17fb7ff3bff98af6f3873e6647972e",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_197.py",
+      "D": null,
+      "G": "565a53eab41ef6589b4f24dcc2841bc5b178b2d6222448201ecd555581fd8a9c",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_198.py",
+      "D": null,
+      "G": "7b2a70720f3c3b2916a80bc27123eff9da73074f855d4aa86931d4213ebcbced",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_199.py",
+      "D": null,
+      "G": "ce773ecf4f682f3d464f8e2889060a7d7ff9f04f040b94e4a6b772bdcf4ff123",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_200.py",
+      "D": null,
+      "G": "ac90a50041f47c4287a8a2993adc9adcf2e5fb04578a946806690ccacc5c6c6e",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch166.py",
+      "D": null,
+      "G": "60ecbd205519c53d7693791223dbdf928a9ea5c0e0fd31cd98faf7bf0f4e4ec3",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch167.py",
+      "D": null,
+      "G": "74a8679bbaf5c6f77252a41ed89db9472ff621377a0912f03861955df3c23356",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch168.py",
+      "D": null,
+      "G": "2ea6ebb066790215df458af8e43e1095f6875c4e3f0c8ccc012642bbafce59a3",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch169.py",
+      "D": null,
+      "G": "028f7344d34130d6e15f026c97c32c054a20a67d4621850c3cb41a8af85e69fa",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch170.py",
+      "D": null,
+      "G": "bbe53d0559bf3d521d7ce09619c538283c659174003b0400d915562c9b4e1024",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch176.py",
+      "D": null,
+      "G": "49e9c110a9b4fdf79a402e3eda0edb1a4bf0b58d00e643fd880f4c2088165122",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch177.py",
+      "D": null,
+      "G": "9588ea99ef7af460721dada317c6fc8a2e6bcbbdb5530bcfa9831fc3596ffd9a",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch178.py",
+      "D": null,
+      "G": "b0a83d072d51205a61da0429e3f70f0d2cc5d3c677ab6ea09e4651e98e07c83a",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch179.py",
+      "D": null,
+      "G": "d0456b08e15b9599a64f9a83d52f9c6dfc26a60e52b8b2702fa0262f431d761e",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch180.py",
+      "D": null,
+      "G": "de2a7f6c8529886b0ae3f0f8b80d07b638fe48eff148e3163508dfec5901aae0",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch191.py",
+      "D": null,
+      "G": "7743511a05b5ef65414e9403c7b2612077a763116b9609c5cbb1fa925564c598",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch192.py",
+      "D": null,
+      "G": "5d65d9a51c5992377217bab670dd005967c5ee2a95922bc9165374d3c37f70a8",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch193.py",
+      "D": null,
+      "G": "da375c1d17ccec9d1b9e15a1b7738fd6e3e685d34019d2d46d96391d838c191e",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch194.py",
+      "D": null,
+      "G": "d23a3e696ffe9046dde09795a4eb61bdb63be9d297f6bb6ebb7e687721bf18cc",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch195.py",
+      "D": null,
+      "G": "39905eb25b4ffdeacfdf8e1162e4104e20e5c54962c4a77918871c52b509e221",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch211.py",
+      "D": null,
+      "G": "eabc1bb1100c2dc73615e32e9dded092d50266f2a377e2f6ce7b95aafaf834bb",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch212.py",
+      "D": null,
+      "G": "6d58642a5127403a811167811dfe4bc9733c326a01f84d68a1d7ceb06ae30782",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch213.py",
+      "D": null,
+      "G": "49927b083391459e545d6f202cf878cc6e44e055d9437968ac7d1b3127da98b0",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch214.py",
+      "D": null,
+      "G": "62734174c1d9feb001acde2fad674edcc1c0a6e44d1fa586d8b8e2800ce49130",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch215.py",
+      "D": null,
+      "G": "bc27a1dc5312e106689a1963a22ab78717084987113a19c6a04772b18412fe4d",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch216.py",
+      "D": null,
+      "G": "5366297c0c04a487b4d8cb72f7dda1238b620fb561fbf9f88b42e42833893789",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch217.py",
+      "D": null,
+      "G": "a3fd4d76900433ad2792c9a9916690918bd3c7861bb831e8ce68ee19fcd0e474",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch218.py",
+      "D": null,
+      "G": "79c36ba0d0fedad0b4a4507b79a2fe43115b002175ef96e986e3d58bf1fd5e40",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch219.py",
+      "D": null,
+      "G": "abbb33471a3fd8d3fcdb8b28200a4b65d1053339c9f0211082c0256441484aa1",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch220.py",
+      "D": null,
+      "G": "0f19f8d651312865163422ab508cd4e108355d34de3543dd65a5d0e75c20ac12",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch221.py",
+      "D": null,
+      "G": "c62266cf996e0fe20a852b4df717f3d19b18aa76047a6321e9a85e6878737465",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch222.py",
+      "D": null,
+      "G": "5eb34658c23b60acc4c27058e0a923d82ef35f31fda334553a03d4273dad9d3a",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch223.py",
+      "D": null,
+      "G": "386d0165d9897915e7574f8b2ca0c786e9418ec0fbefa355121b22edda047a13",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch224.py",
+      "D": null,
+      "G": "389bf17ddc93fecea1843c1860a32fe6066dbb601c61e277e11dbd993e7d52df",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/translate_ch225.py",
+      "D": null,
+      "G": "3174364970aa82c27c751cfeced051bccf7d79462fd3f1611f6e2c5033d9841e",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/verify_ch211_215.py",
+      "D": null,
+      "G": "07d3ca5e85bc285276410b22627579aa355e35899cbb2362a43dc8a3073f8894",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/verify_subagent1.py",
+      "D": null,
+      "G": "c619ad28268e9a7ec57cc843dee2e2363a0f507bf0715a0d691769c2f1dcc926",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/verify_subagent2_ch81_85.py",
+      "D": null,
+      "G": "0b3de9c2413d5bdce3104dceb19847ec0f4f08c71921214fd889f0e245957936",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/verify_txt_display.py",
+      "D": null,
+      "G": "babaeee702fa9e638f3ac6f393510bfeef1ad8ca36b9016fe4d2734c8ddfbe6a",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/verify_wave.py",
+      "D": null,
+      "G": "812b2f3abdf77495403968a442e7ae820dcb63f52b74f1103bd59292a6041d7c",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/verify_wave7_subagent1.py",
+      "D": null,
+      "G": "cd38eff5badde5614ebdb3fac3b51f81c4f8ea917ace5e64f148a494a7647cf9",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/book_wujian/wujian_pipeline_runner.py",
+      "D": null,
+      "G": "9939eff618a94a30878f2bbeea415769b6e2558ecfa6c2cfa1084d7df27579aa",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/chapter_integrity.py",
+      "D": "6b5aa4322e4417244f072afab01246bea8be8a2dcf8f010eaf6908f1f92f0885",
+      "G": null,
+      "base": null,
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/chapter_runner.py",
+      "D": "54c7f9a38feced8d4045cb75c35bc67007e82528a63355e676e7615cde973ad4",
+      "G": null,
+      "base": null,
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/codex_gate.py",
+      "D": null,
+      "G": "d98f3c84c72a31736212421eb50877f66b06dd778e7dbb2bd7a2d49589ac8baa",
+      "base": "d98f3c84c72a31736212421eb50877f66b06dd778e7dbb2bd7a2d49589ac8baa",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/native_evidence.py",
+      "D": "6335ed8fb991f983447323a7330bf9e64f6cb7adfcff5e3f3a7e89bd30150a20",
+      "G": null,
+      "base": null,
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/native_review.py",
+      "D": "74c180fc3d123daa86b0389b3a0124c751ef7f46e6a8f8d4370d68016eb25260",
+      "G": null,
+      "base": null,
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/pipeline_native.py",
+      "D": "a1bf62903179518fde0be2535c5fa3a2e884fbe99372161d170bee2d75bd87ed",
+      "G": "c683e8be008aeae9c37bf2e36569963798355400b0d8a007a73288ab8ad181e5",
+      "base": "c683e8be008aeae9c37bf2e36569963798355400b0d8a007a73288ab8ad181e5",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/prompts/bns_system_cache_v1.md",
+      "D": "3f82b2c2c042903f8b4b2da0b4200bdeaf7b8d13295ddbc3d337287f3220e9a4",
+      "G": "d05389e2a215766325e0a20d73f39da079b4951de01c396b966f64dc528f8c5f",
+      "base": "d05389e2a215766325e0a20d73f39da079b4951de01c396b966f64dc528f8c5f",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/quality_gate.py",
+      "D": "5ea7976f4c320bf434d07d0d51c3ba6bd0985dc1ff65da37cba959c87a7e4df3",
+      "G": "27484ac244fce3e4808acd86199a6170a15a02e136b61a4a0a6f4f9aed6c51c9",
+      "base": "801b1920d86f748334637f645163c7bd3a1e207d99f144c837e62004fd877cf8",
+      "D_changed": true,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/review_book_chapter.py",
+      "D": "6409e126c4efba98439facc8a632211cea16f469b80827233f4701ee29a9febc",
+      "G": null,
+      "base": null,
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/run_agy.py",
+      "D": "833ac5165f052260ccce250e6a7f1c2fbae896b371c83eb20773fcd8f0f03b75",
+      "G": "9efaeccbf2fc97541c01837286789cf6ab4d2fcadc6a6b33093db9c5b51277e5",
+      "base": "cf6f5415aa225ad3f677e9272ae66fd5fe339d6020e7aaa761c74508b292fe62",
+      "D_changed": true,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/scene_contract.py",
+      "D": "3f1cd11edec888eff9cd31a88d93921624a47896495e1db6d022b3422d9457b9",
+      "G": "c74520ec8c3b140ca30c7b6c7c8da2203110e63054b160c2050a6999de49ca56",
+      "base": "c74520ec8c3b140ca30c7b6c7c8da2203110e63054b160c2050a6999de49ca56",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/semantic_context.py",
+      "D": "a57e87eb3eb3c65a2b96be9e5902acd3ad542fd1dce498b7bda6787f60913872",
+      "G": null,
+      "base": null,
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/semantic_profiles.json",
+      "D": "d63aac6f14151f7663ffe0e1bde0e8699e998227066e1af94c65d8a26bf4cb51",
+      "G": null,
+      "base": null,
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/session_monitor.py",
+      "D": "984cc9aa19d87870156477ddb18daca3ffe820908759fbc12edb6b08c3fec9e6",
+      "G": "e6698cc2ec6d79a385c8e5facd7f5aeb4c0aaff52ec650c90d5d6c36016199a7",
+      "base": "91cc4dbd27de7b838d4cf40c6587355365aacee5e1c5bdf0dba5946a9cbd9239",
+      "D_changed": true,
+      "G_changed": true
+    },
+    {
+      "file": "native_oauth/spot_auditor.py",
+      "D": "918b1a74bca2b10c53b6fda6e46628fc0292eca40e5e67b253ad90b06552af5e",
+      "G": "41e5611c095337bc454fde184fbd52fe2286cbc0c4d9f3bd2e1e3f8dab58e906",
+      "base": "41e5611c095337bc454fde184fbd52fe2286cbc0c4d9f3bd2e1e3f8dab58e906",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/urban_auditor.py",
+      "D": "533cb8a8e5a225fbf4b8062bff69e6de8df2c7d25b49ad4769212d59acbae4cf",
+      "G": "c6e01f0cb1a90ab4a249b990bbe5d8d74c92c1236d298dbe4b77feb03e186785",
+      "base": "c6e01f0cb1a90ab4a249b990bbe5d8d74c92c1236d298dbe4b77feb03e186785",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "native_oauth/zipper_coordinator.py",
+      "D": "db59ace6c3d245c76b1c845d7f0fdc86941570d18ae5f67aa217714cd89c3565",
+      "G": "7fa9a398ee0e6b2470ad48e6232dbc4ad00638f7344dbd6fcc54d25f41ce0706",
+      "base": "db59ace6c3d245c76b1c845d7f0fdc86941570d18ae5f67aa217714cd89c3565",
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "pipeline_dich_truyen.py",
+      "D": "91a88fd4a64fb0cf0c523fe74f001c148a47c8d9734a9929f803de31359d4d81",
+      "G": "ee305a7a5c69800275b96240b0f563e20546eb1ecbf7bd405e672e1a89750942",
+      "base": "ee305a7a5c69800275b96240b0f563e20546eb1ecbf7bd405e672e1a89750942",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "semantic_gate.py",
+      "D": "46a6fcfc86e799dac23d8c5f535476506c0cd65e7505c4a30080825226c1e5c6",
+      "G": "9844dcbabe70e8a4e12a41f7f1a8e63a29c7e9ed0e044734efd0e0f3130489d6",
+      "base": "9844dcbabe70e8a4e12a41f7f1a8e63a29c7e9ed0e044734efd0e0f3130489d6",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "tests/native_test_helpers.py",
+      "D": "5452558342bab6f83cc810b4e65fbee4a99cb2e92a93f5bc500ea3c3e9617598",
+      "G": null,
+      "base": null,
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "tests/test_antigravity_workflow.py",
+      "D": "f86d0610eee6b7ef077ad7aa74e3dae5d50a4244a8c604662bb73230de393712",
+      "G": null,
+      "base": null,
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "tests/test_autonomous_self_healing.py",
+      "D": "fd161709ec33e5589067a08530d143df1bd751ae29a5710cd69a55971d575690",
+      "G": "b69c99746fa6c755b8cf25ec5c2c877816587b9b0651b28ac4ae4e92894a11fa",
+      "base": "8d08843384f8912835cffe48e5c36bb14da2d1a85847c999d16c6cbcb32e4696",
+      "D_changed": true,
+      "G_changed": true
+    },
+    {
+      "file": "tests/test_batch_experiment.py",
+      "D": "1afeac6a4b781a0d1d5baca3dbdaa8b1a892fb96b0c826a0dfddb7ad99d8ad4e",
+      "G": "bae1bb5e6ed1a813c3ee0489a019361c8872584d6c5297b40a4be349738a2631",
+      "base": "bae1bb5e6ed1a813c3ee0489a019361c8872584d6c5297b40a4be349738a2631",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "tests/test_batch_policy.py",
+      "D": "56da14d1c9eaec9ff15ac4cf34288b2036c9d72580f5ed93dcff9c2b03d3477c",
+      "G": "9eb8e6c76bf0c9b2a0f4bf59a8629ea2210ee5aebabfd33591354742820b7787",
+      "base": "9eb8e6c76bf0c9b2a0f4bf59a8629ea2210ee5aebabfd33591354742820b7787",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "tests/test_book_workflow.py",
+      "D": null,
+      "G": "3a0fe6fbd289d53018b9fa36f59a39883fcdac5c7f2284d4bbfe82c1f6d58995",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "tests/test_chapter_safety.py",
+      "D": "5aed77ffa129790936d9b9175612aa3abd5e3b0e851f495e2cd51baa4619fe97",
+      "G": null,
+      "base": null,
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "tests/test_export_integrity.py",
+      "D": null,
+      "G": "5c4b31c6d7eeea5b9643e2f944796acc06ba7a94c1cd2b934e0b02f474b3194c",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "tests/test_genre_and_dna.py",
+      "D": "1aaad0af8a5993c7cc9fa18799fecf7e4e8a855c2d9509a6381817a6a4599b78",
+      "G": "ea103896079e6aeab955cc598c690c0dd815181b1a112b306ba6442785086ac6",
+      "base": "1aaad0af8a5993c7cc9fa18799fecf7e4e8a855c2d9509a6381817a6a4599b78",
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "tests/test_module1_bns.py",
+      "D": "5b279b3a4571a922554b271187a900622c656a9d9b84083225344fece17f9465",
+      "G": "9198f73bf237eb223e00b261a76f9748ed10a758e1fbd9bcd39bcfd5a679e483",
+      "base": "9198f73bf237eb223e00b261a76f9748ed10a758e1fbd9bcd39bcfd5a679e483",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "tests/test_module2_prepass.py",
+      "D": "63e0adb5d0dd230540d4a4dadceb535a6124083bbf9582eb60a5ad469b6c2722",
+      "G": "276ea140d91a1590ca2ca30df91a8488095bc0d02960d6fb6c31fc2088133244",
+      "base": "276ea140d91a1590ca2ca30df91a8488095bc0d02960d6fb6c31fc2088133244",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "tests/test_module3_quality_gate.py",
+      "D": "e684ccab55e8ad1bdd9e35febfca62b444ed3364245a111ea90be63954493514",
+      "G": "fa78314ed26f15c37c3afe153526c1df588d79ef96ee53ad300026fda245651b",
+      "base": "fa78314ed26f15c37c3afe153526c1df588d79ef96ee53ad300026fda245651b",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "tests/test_native_pipeline.py",
+      "D": "f71a83785f9b0e4261eb1f105229e429e9350040d87554db821ec7ff1f91b57d",
+      "G": "31634ce42c856bfb6d358aa42a04382c459ed9c3949bdef28e1b2c334f54d954",
+      "base": "31634ce42c856bfb6d358aa42a04382c459ed9c3949bdef28e1b2c334f54d954",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "tests/test_semantic_context.py",
+      "D": "44680360c2f213db0807a2e6fefa82d8b2f2738b0deb65be062f739cbec5405c",
+      "G": null,
+      "base": null,
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "tests/test_session_monitor.py",
+      "D": "3a9b28181f4205d948e1d8a1949089fc53b9cbbf9c6a25a00c00c094fdfab2f5",
+      "G": "be6ada03a15f6e8fa9e6f92175948cb23cb150b5fb80460bf0477057efe7707a",
+      "base": "15f4632460b2531b63fe78acd4582b162b91ab2709266a9324f491fc51be9967",
+      "D_changed": true,
+      "G_changed": true
+    },
+    {
+      "file": "tests/test_urban_gate.py",
+      "D": "2e5c1c54c7790793819f8fb21c6a8b082b1c0782b9db823d12abe3814ef011e0",
+      "G": "ef4f027356772ca9e81c560806417c811ed52fb9484bb962518ee6f3c0acb36b",
+      "base": "ef4f027356772ca9e81c560806417c811ed52fb9484bb962518ee6f3c0acb36b",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "tests/test_wave_orchestrator.py",
+      "D": "f915fc19523c20c5c6395c6f78a1556392e861f41137c2cbbe38d3bd891726a4",
+      "G": "6a9103ecdf789c0a31a6838767f36ef3dcf17de3c8b3e13e78b97281282e4ac3",
+      "base": "6a9103ecdf789c0a31a6838767f36ef3dcf17de3c8b3e13e78b97281282e4ac3",
+      "D_changed": true,
+      "G_changed": false
+    },
+    {
+      "file": "translate_ch206.py",
+      "D": null,
+      "G": "69dd9bd892a85ccbddbba3b24913f7cec3b720d9bbd117567c47e088cd320fe2",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "translate_ch207.py",
+      "D": null,
+      "G": "d1ca13bbe2c5633b3347133b48c5d1d7093761834891126aaac546ec72759993",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "translate_ch208.py",
+      "D": null,
+      "G": "785661d7a28b2e78a4a615518c7e652809c7001e06ed8e18ac0e6591451078af",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "translate_ch209.py",
+      "D": null,
+      "G": "1bed648d4e56af0c20cb812e43066ef906d23d176232d6971362a8a860471470",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    },
+    {
+      "file": "translate_ch210.py",
+      "D": null,
+      "G": "0548aff57bb676c219bd1456fae1debc95f2ede61d62c9825a6f99174fd0e0bc",
+      "base": null,
+      "D_changed": false,
+      "G_changed": true
+    }
+  ]
+}

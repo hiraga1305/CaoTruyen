@@ -1,30 +1,29 @@
 """Live status updater and visual dashboard generator for Book 49736 (200 Chapters Campaign)."""
 import json
+import sys
 from datetime import datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(ROOT))
+from native_oauth.chapter_integrity import read_verified_draft
 BOOK_DIR = ROOT / "native_oauth" / "book_49736"
 OUTPUT_DIR = BOOK_DIR / "output_dich"
 LIVE_STATUS_FILE = BOOK_DIR / "live_status.json"
 
 
 def calculate_progress(current_wave: int = 12, active_chapter: int = 0, message: str = "", target_chapters: int = 325) -> dict:
-    out_files = sorted(OUTPUT_DIR.glob("chuong_*.txt"))
     ch_nums = set()
     total_words = 0
     total_paras = 0
 
-    for f in out_files:
-        try:
-            num = int(f.stem.replace("chuong_", ""))
-            if 1 <= num <= target_chapters:
-                ch_nums.add(num)
-                txt = f.read_text(encoding="utf-8")
-                total_words += len(txt.split())
-                total_paras += len([p for p in txt.split("\n\n") if p.strip()])
-        except Exception:
-            pass
+    for num in range(1, target_chapters + 1):
+        verified = read_verified_draft(BOOK_DIR, num)
+        if verified:
+            candidate, txt = verified
+            ch_nums.add(num)
+            total_words += len(txt.split())
+            total_paras += len(candidate['bilingual_alignment'])
 
     completed_count = len(ch_nums)
     percent = round((completed_count / target_chapters) * 100, 1)
@@ -51,6 +50,7 @@ def calculate_progress(current_wave: int = 12, active_chapter: int = 0, message:
         }
 
     status_data = {
+        "scope": "DRAFT_STRUCTURAL_PASS_UNREVIEWED",
         "book_id": "49736",
         "book_title": "Đi Tìm Vô Gian Địa Ngục",
         "current_wave": current_wave,
@@ -82,7 +82,7 @@ def render_terminal_dashboard(data: dict) -> str:
     lines.append(f"║ CAOTRUYEN V2.0 - TIẾN ĐỘ DỊCH BỘ TRUYỆN: {data['book_title']}          ║")
     lines.append("╠════════════════════════════════════════════════════════════════════════════╣")
     lines.append(f"║ Tổng tiến độ: [{data['progress_bar']}] {data['percent_complete']:>5}% ({data['completed_chapters_count']:>3}/{data['total_target_chapters']}) ║")
-    lines.append(f"║ Đã dịch: {data['total_words']:,} từ  |  {data['total_paragraphs']:,} đoạn  |  Model: gemini-3.8-flash-high   ║")
+    lines.append(f"║ Draft đủ cấu trúc: {data['total_words']:,} từ | {data['total_paragraphs']:,} đoạn | Chưa duyệt nghĩa/văn học ║")
     lines.append("╠════════════════════════════════════════════════════════════════════════════╣")
     lines.append("║ PHÂN BỐ CÁC WAVE (1 -> 10):                                                ║")
     for w_key, w in data["waves"].items():

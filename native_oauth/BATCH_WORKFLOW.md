@@ -1,6 +1,8 @@
 # Route dịch hàng loạt Gemini 3.8 Flash low/medium
 
-Đây là route nguồn → context → sinh bản dịch theo scene. GPT Codex dùng để khóa mẫu, đánh giá mù và cải tiến hệ thống; không phải người sửa từng chương sau khi chạy. Route hiện tạo draft, **chưa được phép tự công bố chất lượng BNS**. Xem [kết quả thực nghiệm](BATCH_RESULT_20261013.md).
+> **Phạm vi hiện hành 22/10/2026:** toàn bộ cào–dịch–review–sửa–xuất bản chạy trong Antigravity. Workflow không phụ thuộc nền tảng duyệt ngoài Antigravity. Xem [ANTIGRAVITY_WORKFLOW.md](ANTIGRAVITY_WORKFLOW.md). Draft theo sách có thể được review/promote bằng `review_book_chapter.py`; manifest batch tổng quát bên dưới vẫn chỉ tạo draft và chưa tự publish.
+
+Đây là route nguồn → context → sinh bản dịch theo scene. Các lượt đánh giá mù trong báo cáo pilot là lịch sử thử nghiệm, không phải dịch vụ hoặc bước kiểm định kỳ của workflow. Route hiện tạo draft, **chưa được phép tự công bố chất lượng BNS**. Xem [kết quả thực nghiệm](BATCH_RESULT_20261013.md).
 
 ## Nguồn, memory và song song
 
@@ -67,7 +69,7 @@ Optional: `--style-evidence` và `--style-ids` để đưa tối đa tám cặp 
 - Nghĩa/đơn vị/thể loại/ngữ pháp: sinh lại **toàn scene từ nguồn**, dùng medium và tuần tự khi cần.
 - Sau hai lần thử vẫn chưa đạt: quarantine. Không lấy output thiếu hoặc lời tự chấm PASS làm bản hoàn tất.
 
-Phần implemented: source prepass, store, contract, fan-out, resume, integrity merge và action policy. Phần **chưa implemented/validated đủ để production**: tự giải entity/coreference/scene DAG, typed event ledger, semantic/style checker tin cậy nối vào gate, tự thực thi mọi action hồi phục. `commit_block` mặc định từ chối PASS dict tự khai; cần callback verifier tin cậy. Route không tự xuất TXT production. GPT audit ở đây là calibration và sampling, không phải quy trình sửa tay sau mỗi chương.
+Phần implemented: source prepass, store, contract, fan-out, resume, integrity merge và action policy. Phần **chưa implemented/validated đủ để production**: tự giải entity/coreference/scene DAG, typed event ledger, semantic/style checker tin cậy nối vào gate, tự thực thi mọi action hồi phục. `commit_block` mặc định từ chối PASS dict tự khai; cần callback verifier tin cậy. Route không tự xuất TXT production. Audit trong pilot là dữ liệu thử nghiệm lịch sử; vận hành không phụ thuộc một nền tảng review ngoài Antigravity.
 
 ## Bước nâng cấp cần làm tiếp theo
 

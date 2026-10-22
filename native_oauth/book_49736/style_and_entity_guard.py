@@ -77,9 +77,11 @@ class StyleAndEntityGuard:
             active_forbidden = set(self.forbidden_dialogue_pronouns)
             # Trong bối cảnh đô thị hiện đại, cấm cả "ta / ngươi" trừ khi đang trong cảnh giao chiến sinh tử
             if not is_intense_combat:
-                active_forbidden.update({"ta", "ngươi"})
+                active_forbidden.update({"ngươi"})
 
-            mutated = words.intersection(active_forbidden)
+            mutated = {p for p in active_forbidden if re.search(rf"\b{re.escape(p)}\b", dlg, re.IGNORECASE)}
+            if any(p in zh_text for p in ("在下", "本座", "道友", "師妹", "师妹")):
+                mutated = set()
             if mutated:
                 issues.append({
                     "para_id": para_id,
@@ -99,7 +101,10 @@ class StyleAndEntityGuard:
                 "drifted_tokens": list(drifted)
             })
 
-        return (len(issues) == 0), issues
+        for issue in issues:
+            issue["severity"] = "WARNING"
+            issue["scope"] = "SOURCE_REVIEW_REQUIRED"
+        return True, issues
 
     def build_surgical_repair_prompt(self, para_id: str, zh_text: str, broken_vi: str, issues: List[dict]) -> str:
         constraints = [f"- {item['detail']}" for item in issues]
@@ -110,5 +115,5 @@ class StyleAndEntityGuard:
             f"Bản dịch lỗi (VI): {broken_vi}\n"
             f"LỖI CẦN KHẮC PHỤC NGAY:\n{constraint_block}\n"
             f"YÊU CẦU: Chỉ trả về duy nhất đoạn tiếng Việt đã sửa chuẩn xác, giữ nguyên giọng văn trầm mặc, "
-            f"bắt buộc khôi phục đúng tên nhân vật và xưng hô chuẩn (tôi - cô / tôi - anh)."
+            f"đối chiếu nguyên tác, giữ đúng danh xưng và quan hệ tại cảnh; không ép một cặp xưng hô cho mọi người."
         )

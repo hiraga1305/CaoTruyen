@@ -75,6 +75,12 @@ def frozen_benchmark(root):
 
 
 class BatchExperimentTests(unittest.TestCase):
+    def setUp(self):
+        from contextlib import nullcontext
+        stage = patch('native_oauth.batch_experiment.visible_stage', side_effect=lambda *a, **k: nullcontext())
+        stage.start()
+        self.addCleanup(stage.stop)
+
     def test_worker_projection_retains_every_owned_and_neighbor_chinese_exactly(self):
         value = contract()
         body = protocol(value)
@@ -120,7 +126,8 @@ class BatchExperimentTests(unittest.TestCase):
                 write_json(job['work']/'candidate.json', candidate(value))
                 (runtime_folder/'events.jsonl').write_text(json.dumps({'event': 'init', 'init': {
                     'model': 'gemini-3.8-flash-medium'}})+'\n', encoding='utf-8')
-                return {'status': 'SUCCESS', 'conversation_id': 'offline', 'usage': {'total_tokens': 12}}
+                return {'status': 'SUCCESS', 'conversation_id': 'offline', 'usage': {'total_tokens': 12},
+                        'actual_model': 'gemini-3.8-flash-low', 'exit_code': 0, 'result': {'response': 'candidate.json'}}
             with patch('native_oauth.batch_experiment.run', side_effect=fake_run) as native:
                 result = execute_job(job)
             self.assertEqual(native.call_count, 1)
@@ -137,7 +144,8 @@ class BatchExperimentTests(unittest.TestCase):
                 write_json(job['work']/'candidate.json', candidate(value))
                 (runtime_folder/'events.jsonl').write_text(json.dumps({'event': 'init', 'init': {
                     'model': 'gemini-3.8-flash-low'}})+'\n', encoding='utf-8')
-                return {'status': 'SUCCESS', 'conversation_id': 'offline', 'usage': {'total_tokens': 12}}
+                return {'status': 'SUCCESS', 'conversation_id': 'offline', 'usage': {'total_tokens': 12},
+                        'actual_model': 'gemini-3.8-flash-low', 'exit_code': 0, 'result': {'response': 'candidate.json'}}
             with patch('native_oauth.batch_experiment.run', side_effect=fake_run):
                 result = execute_job(job)
             self.assertEqual(result['status'], 'DRAFT_COMPLETE_UNREVIEWED')

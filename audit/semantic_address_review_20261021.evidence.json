@@ -1,0 +1,434 @@
+{
+  "date": "2026-10-21",
+  "scope": "Current code replay + 16 purposively selected legacy bilingual paragraphs. No model generation, no full-novel semantic certification.",
+  "sample_count": 16,
+  "samples": [
+    {
+      "chapter": 1,
+      "sidecar_id": "c0001p0016",
+      "current_source_ids_matching_exact_quote": [
+        "c0001p0016"
+      ],
+      "source": "“你好，有什麽可以幫”",
+      "target": "\"Chào cô, tôi có thể giúp...\"",
+      "assessment": "PASS_SAMPLE",
+      "note": "Chào hỏi khách lạ: tôi–cô phù hợp bối cảnh.",
+      "current_router_output": "“你好，有什麽可以幫”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]"
+    },
+    {
+      "chapter": 1,
+      "sidecar_id": "c0001p0018",
+      "current_source_ids_matching_exact_quote": [
+        "c0001p0018"
+      ],
+      "source": "“我的哥哥消失了，我想知道他在哪。”",
+      "target": "\"Anh trai tôi biến mất rồi, tôi muốn biết anh ấy đang ở đâu.\"",
+      "assessment": "ROUTING_DEFECT",
+      "note": "Nguồn trước đó xác định người phụ nữ đang nói, thẻ hiện tại lại gán nam chính.",
+      "current_router_output": "“我的哥哥消失了，我想知道他在哪。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]"
+    },
+    {
+      "chapter": 3,
+      "sidecar_id": "c0003p0004",
+      "current_source_ids_matching_exact_quote": [
+        "c0003p0004"
+      ],
+      "source": "但同時，這合同也絕對保障了雲千峰的收益，只要他真的在尋找薑柔甲的大哥薑玉林。",
+      "target": "Thế nhưng đổi lại, bản hợp đồng cũng bảo đảm tuyệt đối thu nhập của Vân Thiên Phong, với điều kiện hắn phải thực sự dốc lòng tìm kiếm anh trai của cô là Khương Ngọc Lâm.",
+      "assessment": "REGISTRY_ROLE_MISMATCH",
+      "note": "Nguồn giới thiệu Khương Ngọc Lâm là anh trai Khương Nhu Giáp; BASE_ENTITIES dùng Trưởng bối Khương gia/ông."
+    },
+    {
+      "chapter": 3,
+      "sidecar_id": "c0003p0041",
+      "current_source_ids_matching_exact_quote": [
+        "c0003p0041"
+      ],
+      "source": "“現在，帶著我去見見你的準嫂子。”",
+      "target": "“Bây giờ, cô dẫn tôi đi gặp chị dâu tương lai của cô xem sao.”",
+      "assessment": "PASS_SAMPLE",
+      "note": "Giữ rõ chị dâu tương lai, không biến quan hệ chưa thành thành hôn nhân đã có.",
+      "current_router_output": "“現在，帶著我去見見你的準嫂子。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]"
+    },
+    {
+      "chapter": 3,
+      "sidecar_id": "c0003p0055",
+      "current_source_ids_matching_exact_quote": [
+        "c0003p0055"
+      ],
+      "source": "雲千峰和薑柔甲約見了薑柔甲記憶裡的準嫂子秦疏影和秦疏影的兒子。",
+      "target": "Vân Thiên Phong và Khương Nhu Giáp hẹn gặp người chị dâu trong ký ức của cô — Tần Sơ Ảnh, cùng cậu con trai của cô ấy.",
+      "assessment": "QUALIFIER_REVIEW",
+      "note": "Câu đích bỏ tương lai của 準嫂子; nên giữ sắc thái dù ngữ cảnh trước có giải thích."
+    },
+    {
+      "chapter": 3,
+      "sidecar_id": "c0003p0066",
+      "current_source_ids_matching_exact_quote": [
+        "c0003p0066"
+      ],
+      "source": "“秦女士，您結婚多久了，這孩子一定長得像爸爸，帥氣！”",
+      "target": "“Cô Tần này, cô kết hôn được bao lâu rồi? Cháu bé này chắc là giống bố lắm nhỉ, trông khôi ngô ghê!”",
+      "assessment": "PASS_WITH_ROUTING_DEFECT",
+      "note": "Cô Tần hợp tình huống hỏi lịch sự, nhưng router chọn sai người nghe.",
+      "current_router_output": "“秦女士，您結婚多久了，這孩子一定長得像爸爸，帥氣！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]"
+    },
+    {
+      "chapter": 3,
+      "sidecar_id": "c0003p0068",
+      "current_source_ids_matching_exact_quote": [
+        "c0003p0068"
+      ],
+      "source": "“奉子成婚，這孩子六歲，我也正好是結婚六年。都說兒子像媽女兒像爸爸，一點都不準，我家這兒子，就和他爸一個模子刻出來似的。”",
+      "target": "“Bác sĩ bảo cưới đấy ạ. Thằng bé sáu tuổi thì tôi cũng kết hôn vừa tròn sáu năm. Người ta thường bảo con trai giống mẹ, con gái giống cha, mà chẳng đúng chút nào. Con trai nhà tôi ấy à, cứ như đúc từ một khuôn với bố nó ra vậy.”",
+      "assessment": "PASS_WITH_ROUTING_DEFECT",
+      "note": "Đây là lời Tần Sơ Ảnh, router lại gán Vân Thiên Phong.",
+      "current_router_output": "“奉子成婚，這孩子六歲，我也正好是結婚六年。都說兒子像媽女兒像爸爸，一點都不準，我家這兒子，就和他爸一個模子刻出來似的。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]"
+    },
+    {
+      "chapter": 4,
+      "sidecar_id": "c0004p0053",
+      "current_source_ids_matching_exact_quote": [
+        "c0004p0053"
+      ],
+      "source": "“我是對的，終於有證據證明我是對的，她是我嫂子，不是別人的老婆，DNA證明她的兒子不是她生的，她被記憶欺騙了，我必須告訴她”",
+      "target": "“Tôi đúng rồi... Cuối cùng cũng có bằng chứng chứng minh tôi không sai! Chị ấy là chị dâu của tôi, không phải vợ của người khác! ADN chứng minh con trai không phải do chị ấy sinh ra, chị ấy đã bị ký ức đánh lừa rồi, tôi nhất định phải nói cho chị ấy biết...”",
+      "assessment": "PASS_SAMPLE",
+      "note": "Giữ quan hệ chị dâu/vợ và ngôi tôi, cần lưu đây là lời theo ký ức nhân vật.",
+      "current_router_output": "“我是對的，終於有證據證明我是對的，她是我嫂子，不是別人的老婆，DNA證明她的兒子不是她生的，她被記憶欺騙了，我必須告訴她”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]"
+    },
+    {
+      "chapter": 8,
+      "sidecar_id": "c0008p0057",
+      "current_source_ids_matching_exact_quote": [
+        "c0008p0057"
+      ],
+      "source": "她恐怕是外形上最完美的女人，她叫羅琳娜，準確來說應該稱之為羅琳娜男爵。",
+      "target": "Ả ta có lẽ là người phụ nữ sở hữu vẻ ngoài hoàn mỹ nhất trần đời. Ả tên là La Lâm Na, hay chuẩn xác hơn phải gọi là Nam tước La Lâm Na.",
+      "assessment": "NAME_AND_REGISTER_REVIEW",
+      "note": "La Lâm Na đổi thành Lorina/Lorinna ở chương sau. Ả ta thêm sắc thái coi thường, cần xem giọng kể; không kết luận lỗi nghĩa chỉ từ một đoạn."
+    },
+    {
+      "chapter": 26,
+      "sidecar_id": "c0026p0020",
+      "current_source_ids_matching_exact_quote": [
+        "c0026p0020"
+      ],
+      "source": "“那你也該幻想你老公啊！憑什麽幻想雲千峰？你有問題！”",
+      "target": "“Thế thì chị cũng phải ảo tưởng về chồng chị chứ! Dựa vào đâu mà lại tơ tưởng đến Vân Thiên Phong? Chị có vấn đề rồi!”",
+      "assessment": "PASS_SAMPLE",
+      "note": "Dịch chồng chị phù hợp quan hệ được nêu, không áp tôi–cô máy móc.",
+      "current_router_output": "“那你也該幻想你老公啊！憑什麽幻想雲千峰？你有問題！”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]"
+    },
+    {
+      "chapter": 43,
+      "sidecar_id": "c0043p0049",
+      "current_source_ids_matching_exact_quote": [
+        "c0043p0049"
+      ],
+      "source": "“小臻聽話，跟著周阿姨去睡覺，我在加班，晚一些回去，乖.”",
+      "target": "“Tiểu Trăn ngoan nhé, đi ngủ cùng dì Chu đi con, mẹ đang tăng ca, lát nữa mẹ về muộn một chút, ngoan nào...”",
+      "assessment": "PASS_WITH_ROUTING_DEFECT",
+      "note": "Mẹ–con phù hợp cảnh gọi điện, router hiện tại vẫn gán nam chính–Khương Nhu Giáp.",
+      "current_router_output": "“小臻聽話，跟著周阿姨去睡覺，我在加班，晚一些回去，乖.”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]"
+    },
+    {
+      "chapter": 84,
+      "sidecar_id": "c0084p0008",
+      "current_source_ids_matching_exact_quote": [
+        "c0084p0008"
+      ],
+      "source": "羅琳娜正乘坐飛機趕往華夏。",
+      "target": "Lorina đang đáp máy bay tức tốc bay tới Hoa Hạ.",
+      "assessment": "NAME_DRIFT",
+      "note": "Cùng 羅琳娜 nhưng sang Lorina; chưa thấy binding canonical/alias xuyên chương."
+    },
+    {
+      "chapter": 170,
+      "sidecar_id": "c0170p0065",
+      "current_source_ids_matching_exact_quote": [
+        "c0170p0065"
+      ],
+      "source": "“法緹娜，東西找到了，可以出發了。”",
+      "target": "“Fatina, đồ đã tìm được rồi, chúng ta có thể xuất phát.”",
+      "assessment": "NAME_POLICY_REVIEW",
+      "note": "Fatina là lựa chọn phiên tên, không chứng minh duy nhất chính tả Latin từ chữ Hán.",
+      "current_router_output": "“法緹娜，東西找到了，可以出發了。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]"
+    },
+    {
+      "chapter": 223,
+      "sidecar_id": "c0223p0011",
+      "current_source_ids_matching_exact_quote": [
+        "c0223p0012"
+      ],
+      "source": "另外兩個華夏人，一個叫蘇菲.鍾，一樣的歐式妝容，甚至身材也刻意填充亦或是針對鍛煉，弄成了西式身材。",
+      "target": "Hai người gốc Hoa còn lại, một cô gái tên là Sophie Chung, cũng lối trang điểm đậm nét Tây phương, thậm chí thân hình dường như cũng được can thiệp thẩm mỹ tiêm độn hoặc tập luyện chuyên biệt để tạo phom dáng nở nang theo chuẩn phương Tây.",
+      "assessment": "PASS_SAMPLE",
+      "note": "Sophie Chung có căn cứ trực tiếp từ 蘇菲.鍾; không đánh đồng mọi tên Latin với bịa tên."
+    },
+    {
+      "chapter": 263,
+      "sidecar_id": "c0263p0061",
+      "current_source_ids_matching_exact_quote": [
+        "c0263p0061"
+      ],
+      "source": "“白狐？法緹娜？普羅？你在哪兒？”",
+      "target": "\"Bạch hồ? Pháp Đề Na? Phổ La? Cô ở đâu?\"",
+      "assessment": "SIDECAR_NAME_DRIFT",
+      "note": "Pháp Đề Na ở JSON; TXT hiện đã dùng Fatina, là thêm một ví dụ sidecar không đồng bộ.",
+      "current_router_output": "“白狐？法緹娜？普羅？你在哪兒？”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]"
+    },
+    {
+      "chapter": 294,
+      "sidecar_id": "c0294p0004",
+      "current_source_ids_matching_exact_quote": [
+        "c0294p0004"
+      ],
+      "source": "羅琳娜的私人島嶼上。",
+      "target": "Trên hòn đảo tư nhân của Lorinna.",
+      "assessment": "NAME_DRIFT",
+      "note": "Cùng 羅琳娜 xuất hiện dưới Lorinna. Không tự coi là nhân vật mới."
+    }
+  ],
+  "synthetic_reproductions": [
+    {
+      "source": "姜柔甲对秦疏影说：“你先坐。”",
+      "current_tagged": [
+        "§1 姜柔甲对秦疏影说：“你先坐。”[Q1:姜柔甲->云千峰|state:COURTEOUS|tone:thăm dò, lễ tiết]"
+      ],
+      "current_matrix": [
+        {
+          "src_zh": "云千峰",
+          "dst_zh": "姜柔甲",
+          "state": "COURTEOUS_MODERN",
+          "self_vi": "tôi",
+          "target_vi": "cô",
+          "tone": "ôn hòa, tỉnh táo, chuyên nghiệp"
+        },
+        {
+          "src_zh": "姜柔甲",
+          "dst_zh": "云千峰",
+          "state": "COURTEOUS_MODERN",
+          "self_vi": "tôi",
+          "target_vi": "anh",
+          "tone": "run rẩy, khẩn thiết, tuyệt vọng cầu cứu"
+        }
+      ]
+    },
+    {
+      "source": "秦疏影对云千峰说：“我去接孩子。”",
+      "current_tagged": [
+        "§1 秦疏影对云千峰说：“我去接孩子。”[Q1:云千峰->姜柔甲|state:COURTEOUS|tone:thăm dò, lễ tiết]"
+      ],
+      "current_matrix": [
+        {
+          "src_zh": "云千峰",
+          "dst_zh": "姜柔甲",
+          "state": "COURTEOUS_MODERN",
+          "self_vi": "tôi",
+          "target_vi": "cô",
+          "tone": "ôn hòa, tỉnh táo, chuyên nghiệp"
+        },
+        {
+          "src_zh": "姜柔甲",
+          "dst_zh": "云千峰",
+          "state": "COURTEOUS_MODERN",
+          "self_vi": "tôi",
+          "target_vi": "anh",
+          "tone": "run rẩy, khẩn thiết, tuyệt vọng cầu cứu"
+        }
+      ]
+    },
+    {
+      "source": "云千峰对姜柔甲说：“别找死，快回来！”",
+      "current_tagged": [
+        "§1 云千峰对姜柔甲说：“别找死，快回来！”[Q1:云千峰->姜柔甲|state:HOSTILE_SHIFT|tone:sát phạt, dứt khoát]"
+      ],
+      "current_matrix": [
+        {
+          "src_zh": "云千峰",
+          "dst_zh": "姜柔甲",
+          "state": "COURTEOUS_MODERN",
+          "self_vi": "tôi",
+          "target_vi": "cô",
+          "tone": "ôn hòa, tỉnh táo, chuyên nghiệp"
+        },
+        {
+          "src_zh": "姜柔甲",
+          "dst_zh": "云千峰",
+          "state": "COURTEOUS_MODERN",
+          "self_vi": "tôi",
+          "target_vi": "anh",
+          "tone": "run rẩy, khẩn thiết, tuyệt vọng cầu cứu"
+        }
+      ]
+    }
+  ],
+  "wrong_speaker_mechanical_gate": {
+    "source": "秦疏影对云千峰说：“我去接孩子。”",
+    "wrong_target": "§1 Vân Thiên Phong nói với Khương Nhu Giáp: “Tôi đi đón con.”",
+    "mechanical_pass": true,
+    "publication_approval": false,
+    "note": "Mechanical gate PASS is not independent semantic review or publication approval."
+  },
+  "alias_self_reference": "秦疏影对云千峰说：“我去接孩子。”[Q1:云千峰->雲千峰|state:COURTEOUS|tone:thăm dò, lễ tiết]",
+  "source_name_occurrences": {
+    "云千峰": 0,
+    "雲千峰": 8656,
+    "姜柔甲": 0,
+    "薑柔甲": 668,
+    "罗琳娜": 0,
+    "羅琳娜": 793
+  },
+  "name_variants_in_current_txt": {
+    "La Lâm Na": {
+      "txt_occurrences": 43,
+      "chapters": [
+        8,
+        63,
+        290,
+        295,
+        315,
+        316,
+        318
+      ]
+    },
+    "Lorina": {
+      "txt_occurrences": 701,
+      "chapters": [
+        84,
+        114,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        192,
+        199,
+        200,
+        201,
+        202,
+        211,
+        215,
+        216,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        227,
+        253,
+        297,
+        302,
+        313
+      ]
+    },
+    "Lorinna": {
+      "txt_occurrences": 6,
+      "chapters": [
+        294
+      ]
+    },
+    "Fatina": {
+      "txt_occurrences": 456,
+      "chapters": [
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        206,
+        212,
+        213,
+        214,
+        216,
+        218,
+        219,
+        222,
+        233,
+        263,
+        264,
+        265,
+        317,
+        320
+      ]
+    },
+    "Pháp Đề Na": {
+      "txt_occurrences": 0,
+      "chapters": []
+    },
+    "Sophie Chung": {
+      "txt_occurrences": 40,
+      "chapters": [
+        223,
+        225,
+        226,
+        227,
+        228,
+        229,
+        231
+      ]
+    }
+  }
+}

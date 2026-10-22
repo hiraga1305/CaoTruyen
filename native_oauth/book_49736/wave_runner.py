@@ -81,7 +81,7 @@ class SovereignWaveRunner:
                     self.force
                 )
                 if not success:
-                    print(f"  [!] Block {block_id:02d} error at Chapter {chap_num:04d}")
+                    raise RuntimeError(f"Chapter {chap_num} BLOCKED; wave incomplete")
                 else:
                     st = calculate_progress(active_chapter=chap_num, message=f"Block {block_id}: Xong Chương {chap_num:04d}", target_chapters=325)
                     print(f"  >>> [LIVE STATUS] [{st['progress_bar']}] {st['percent_complete']}% ({st['completed_chapters_count']}/325) | Vừa xong Chương {chap_num:04d}")

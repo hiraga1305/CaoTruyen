@@ -55,7 +55,8 @@ class SpotAuditor4B:
         # Group violations by paragraph
         paras_with_errors: Dict[int, List[GateViolation]] = {}
         for v in gate_result.violations:
-            if v.severity == "ERROR" and v.paragraph_idx > 0:
+            if (v.severity == "ERROR" and v.paragraph_idx > 0
+                    and v.error_code not in ("MISSING_PARAGRAPH", "EMPTY_PARAGRAPH")):
                 paras_with_errors.setdefault(v.paragraph_idx, []).append(v)
 
         for p_id, v_list in paras_with_errors.items():
@@ -106,38 +107,10 @@ Chỉ xuất ra duy nhất 1 dòng bắt đầu bằng '§{task.paragraph_idx} <
         gate_result: GateResult,
         contract: SceneContract,
     ) -> GateResult:
+        """Compatibility entry point: semantic edits require source review.
+
+        Regex cannot decide whether 不以為然 means disagreement, or whether
+        replacing an expression adds an emotion. Preserve the candidate and its
+        violations; a proposed repair must go through independent source review.
         """
-        Sửa tự động tất định (Deterministic Healing) đối với các lỗi convert rõ ràng
-        trước khi cần gọi LLM (giúp tiết kiệm 100% token cho các lỗi convert regex đơn giản).
-        """
-        healed_paras = dict(gate_result.sanitized_paragraphs)
-
-        STATIC_AUTO_REPLACE = [
-            (r"\bkhông cho là đúng\b", "chẳng mảy may để tâm"),
-            (r"\bkhông cho là ý\b", "chẳng chút bận tâm"),
-            (r"\bsắc mặt\s+(?:một\s+)?ngưng lại\b", "sắc mặt trầm xuống"),
-            (r"\bánh mắt\s+(?:một\s+)?ngưng lại\b", "ánh mắt sắc lạnh"),
-            (r"\bthần sắc\s+(?:một\s+)?ngưng lại\b", "thần sắc ngưng trọng"),
-            (r"\bhít ngược một ngụm khí lạnh\b", "hít vào một hơi lạnh buốt"),
-            (r"\bngược lại hít một ngụm khí lạnh\b", "hít vào một hơi lạnh buốt"),
-            (r"\bsắc lệ nội nhẫn\b", "ngoài mạnh trong yếu"),
-            (r"\bvi bất túc đạo\b", "nhỏ bé không đáng kể"),
-            (r"\bthấy săn lòng vui\b", "thấy mồi ngon mà lòng khấp khởi"),
-        ]
-
-        for p_id, text in healed_paras.items():
-            mod_text = text
-            # Auto replace purely static convert smells safely
-            for regex_pat, primary_sugg in STATIC_AUTO_REPLACE:
-                if re.search(regex_pat, mod_text, re.IGNORECASE):
-                    mod_text = re.sub(regex_pat, primary_sugg, mod_text, flags=re.IGNORECASE)
-            healed_paras[p_id] = mod_text
-
-        # Re-verify with Gate 4A
-        reconstructed_output = "\n".join(f"§{p_id} {txt}" for p_id, txt in healed_paras.items())
-        re_result = self.gate.verify_paragraphs(
-            raw_worker_output=reconstructed_output,
-            expected_paragraph_count=len(healed_paras),
-            contract=contract,
-        )
-        return re_result
+        return gate_result

@@ -25,30 +25,19 @@ class TestModule1BNS(unittest.TestCase):
         self.extractor = DeterministicNumericExtractor()
 
     def test_01_system_prompt_integrity(self):
-        """Verify that the immutable system cache prompt has all mandatory BNS rules."""
+        """The prompt must prioritize source and the actual bounded output schema."""
         self.assertTrue(self.prompt_path.exists(), "Prompt file must exist")
         content = self.prompt_path.read_text(encoding="utf-8")
         
-        # Check core sections
-        self.assertIn("SYSTEM DIRECTIVE: ĐẠI DỊCH GIẢ VĂN HỌC BẠCH NGỌC SÁCH", content)
-        self.assertIn("GIAO THỨC ĐỌC HIỂU VI THẺ", content)
-        self.assertIn("CƠ CHẾ ĐIỀU KHIỂN NHỊP ĐIỆU VĂN PHONG (`PACING_MODE` ENGINE)", content)
-        self.assertIn("COMBAT_FAST", content)
-        self.assertIn("AURA_MAJESTIC", content)
-        self.assertIn("DIALOGUE_TENSE", content)
-        self.assertIn("EXPOSITION_SMOOTH", content)
-        self.assertIn("BẢNG CẤM CHỈ CONVERT", content)
-        
-        # Check forbidden patterns
-        self.assertIn("Không cho là đúng", content)
-        self.assertIn("Sắc mặt/Ánh mắt ngưng lại", content)
-        self.assertIn("Hít ngược một ngụm khí lạnh", content)
-        self.assertIn("Hướng về / Đối với", content)
-        self.assertIn("Đem / Tương", content)
-        
-        # Check output format
+        self.assertIn("SOURCE_FIRST_V2", content)
+        self.assertIn("Nguyên tác là căn cứ cao nhất", content)
+        self.assertIn("UNKNOWN", content)
+        self.assertIn("XIANXIA_MODERN_SCHOOL", content)
+        self.assertIn("editorial_default", content)
         self.assertIn("§1 <Nội dung đoạn dịch 1>", content)
-        self.assertIn("<delta>", content)
+        self.assertIn("Không lời chào, giải thích, Markdown fence, JSON, thẻ nội bộ hay khối delta", content)
+        self.assertNotIn("TUYỆT ĐỐI CẤM dùng `tôi", content)
+        self.assertNotIn("<delta>", content)
 
     def test_02_scene_contract_dsl_roundtrip(self):
         """Verify serialization and deserialization of Pipe-DSL Scene Contract."""

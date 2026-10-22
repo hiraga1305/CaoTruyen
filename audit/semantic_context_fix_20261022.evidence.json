@@ -1,0 +1,516 @@
+{
+  "date": "2026-10-22",
+  "scope": "Offline heuristic replay, not a translation accuracy benchmark. No post-fix model output.",
+  "source_book": "49736",
+  "coverage_counts": {
+    "chapters": 325,
+    "paragraphs": 31034,
+    "bounded_chunks": 1728,
+    "quotes": 7504,
+    "explicit_local_speakers": 468,
+    "explicit_local_pairs": 3,
+    "unresolved_speaker_or_listener": 7501,
+    "same_identity_pairs": 0
+  },
+  "budget_blocks": [],
+  "legacy_samples": [
+    {
+      "chapter": 1,
+      "source_id": "c0001p0016",
+      "source": "“你好，有什麽可以幫”",
+      "legacy_target": "\"Chào cô, tôi có thể giúp...\"",
+      "legacy_assessment": "PASS_SAMPLE",
+      "current_advisory_cues": [
+        {
+          "quote_index": 1,
+          "start": 0,
+          "end": 11,
+          "speaker": "UNKNOWN",
+          "listener": "UNKNOWN",
+          "speaker_id": "",
+          "listener_id": "",
+          "status": "UNRESOLVED",
+          "evidence": [],
+          "review_required": true
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "source_id": "c0001p0018",
+      "source": "“我的哥哥消失了，我想知道他在哪。”",
+      "legacy_target": "\"Anh trai tôi biến mất rồi, tôi muốn biết anh ấy đang ở đâu.\"",
+      "legacy_assessment": "ROUTING_DEFECT",
+      "current_advisory_cues": [
+        {
+          "quote_index": 1,
+          "start": 0,
+          "end": 18,
+          "speaker": "UNKNOWN",
+          "listener": "UNKNOWN",
+          "speaker_id": "",
+          "listener_id": "",
+          "status": "UNRESOLVED",
+          "evidence": [],
+          "review_required": true
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "source_id": "c0003p0004",
+      "source": "但同時，這合同也絕對保障了雲千峰的收益，只要他真的在尋找薑柔甲的大哥薑玉林。",
+      "legacy_target": "Thế nhưng đổi lại, bản hợp đồng cũng bảo đảm tuyệt đối thu nhập của Vân Thiên Phong, với điều kiện hắn phải thực sự dốc lòng tìm kiếm anh trai của cô là Khương Ngọc Lâm.",
+      "legacy_assessment": "REGISTRY_ROLE_MISMATCH",
+      "current_advisory_cues": []
+    },
+    {
+      "chapter": 3,
+      "source_id": "c0003p0041",
+      "source": "“現在，帶著我去見見你的準嫂子。”",
+      "legacy_target": "“Bây giờ, cô dẫn tôi đi gặp chị dâu tương lai của cô xem sao.”",
+      "legacy_assessment": "PASS_SAMPLE",
+      "current_advisory_cues": [
+        {
+          "quote_index": 1,
+          "start": 0,
+          "end": 17,
+          "speaker": "UNKNOWN",
+          "listener": "UNKNOWN",
+          "speaker_id": "",
+          "listener_id": "",
+          "status": "UNRESOLVED",
+          "evidence": [],
+          "review_required": true
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "source_id": "c0003p0055",
+      "source": "雲千峰和薑柔甲約見了薑柔甲記憶裡的準嫂子秦疏影和秦疏影的兒子。",
+      "legacy_target": "Vân Thiên Phong và Khương Nhu Giáp hẹn gặp người chị dâu trong ký ức của cô — Tần Sơ Ảnh, cùng cậu con trai của cô ấy.",
+      "legacy_assessment": "QUALIFIER_REVIEW",
+      "current_advisory_cues": []
+    },
+    {
+      "chapter": 3,
+      "source_id": "c0003p0066",
+      "source": "“秦女士，您結婚多久了，這孩子一定長得像爸爸，帥氣！”",
+      "legacy_target": "“Cô Tần này, cô kết hôn được bao lâu rồi? Cháu bé này chắc là giống bố lắm nhỉ, trông khôi ngô ghê!”",
+      "legacy_assessment": "PASS_WITH_ROUTING_DEFECT",
+      "current_advisory_cues": [
+        {
+          "quote_index": 1,
+          "start": 0,
+          "end": 27,
+          "speaker": "UNKNOWN",
+          "listener": "UNKNOWN",
+          "speaker_id": "",
+          "listener_id": "",
+          "status": "UNRESOLVED",
+          "evidence": [],
+          "review_required": true
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "source_id": "c0003p0068",
+      "source": "“奉子成婚，這孩子六歲，我也正好是結婚六年。都說兒子像媽女兒像爸爸，一點都不準，我家這兒子，就和他爸一個模子刻出來似的。”",
+      "legacy_target": "“Bác sĩ bảo cưới đấy ạ. Thằng bé sáu tuổi thì tôi cũng kết hôn vừa tròn sáu năm. Người ta thường bảo con trai giống mẹ, con gái giống cha, mà chẳng đúng chút nào. Con trai nhà tôi ấy à, cứ như đúc từ một khuôn với bố nó ra vậy.”",
+      "legacy_assessment": "PASS_WITH_ROUTING_DEFECT",
+      "current_advisory_cues": [
+        {
+          "quote_index": 1,
+          "start": 0,
+          "end": 61,
+          "speaker": "秦疏影",
+          "listener": "UNKNOWN",
+          "speaker_id": "49736:qin_shuying",
+          "listener_id": "",
+          "status": "EXPLICIT_LOCAL",
+          "evidence": [
+            {
+              "text": "秦疏影一臉溺愛的笑道",
+              "side": "prefix"
+            }
+          ],
+          "review_required": true
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "source_id": "c0004p0053",
+      "source": "“我是對的，終於有證據證明我是對的，她是我嫂子，不是別人的老婆，DNA證明她的兒子不是她生的，她被記憶欺騙了，我必須告訴她”",
+      "legacy_target": "“Tôi đúng rồi... Cuối cùng cũng có bằng chứng chứng minh tôi không sai! Chị ấy là chị dâu của tôi, không phải vợ của người khác! ADN chứng minh con trai không phải do chị ấy sinh ra, chị ấy đã bị ký ức đánh lừa rồi, tôi nhất định phải nói cho chị ấy biết...”",
+      "legacy_assessment": "PASS_SAMPLE",
+      "current_advisory_cues": [
+        {
+          "quote_index": 1,
+          "start": 0,
+          "end": 62,
+          "speaker": "UNKNOWN",
+          "listener": "UNKNOWN",
+          "speaker_id": "",
+          "listener_id": "",
+          "status": "UNRESOLVED",
+          "evidence": [],
+          "review_required": true
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "source_id": "c0008p0057",
+      "source": "她恐怕是外形上最完美的女人，她叫羅琳娜，準確來說應該稱之為羅琳娜男爵。",
+      "legacy_target": "Ả ta có lẽ là người phụ nữ sở hữu vẻ ngoài hoàn mỹ nhất trần đời. Ả tên là La Lâm Na, hay chuẩn xác hơn phải gọi là Nam tước La Lâm Na.",
+      "legacy_assessment": "NAME_AND_REGISTER_REVIEW",
+      "current_advisory_cues": []
+    },
+    {
+      "chapter": 26,
+      "source_id": "c0026p0020",
+      "source": "“那你也該幻想你老公啊！憑什麽幻想雲千峰？你有問題！”",
+      "legacy_target": "“Thế thì chị cũng phải ảo tưởng về chồng chị chứ! Dựa vào đâu mà lại tơ tưởng đến Vân Thiên Phong? Chị có vấn đề rồi!”",
+      "legacy_assessment": "PASS_SAMPLE",
+      "current_advisory_cues": [
+        {
+          "quote_index": 1,
+          "start": 0,
+          "end": 27,
+          "speaker": "UNKNOWN",
+          "listener": "UNKNOWN",
+          "speaker_id": "",
+          "listener_id": "",
+          "status": "UNRESOLVED",
+          "evidence": [],
+          "review_required": true
+        }
+      ]
+    },
+    {
+      "chapter": 43,
+      "source_id": "c0043p0049",
+      "source": "“小臻聽話，跟著周阿姨去睡覺，我在加班，晚一些回去，乖.”",
+      "legacy_target": "“Tiểu Trăn ngoan nhé, đi ngủ cùng dì Chu đi con, mẹ đang tăng ca, lát nữa mẹ về muộn một chút, ngoan nào...”",
+      "legacy_assessment": "PASS_WITH_ROUTING_DEFECT",
+      "current_advisory_cues": [
+        {
+          "quote_index": 1,
+          "start": 0,
+          "end": 29,
+          "speaker": "UNKNOWN",
+          "listener": "UNKNOWN",
+          "speaker_id": "",
+          "listener_id": "",
+          "status": "UNRESOLVED",
+          "evidence": [],
+          "review_required": true
+        }
+      ]
+    },
+    {
+      "chapter": 84,
+      "source_id": "c0084p0008",
+      "source": "羅琳娜正乘坐飛機趕往華夏。",
+      "legacy_target": "Lorina đang đáp máy bay tức tốc bay tới Hoa Hạ.",
+      "legacy_assessment": "NAME_DRIFT",
+      "current_advisory_cues": []
+    },
+    {
+      "chapter": 170,
+      "source_id": "c0170p0065",
+      "source": "“法緹娜，東西找到了，可以出發了。”",
+      "legacy_target": "“Fatina, đồ đã tìm được rồi, chúng ta có thể xuất phát.”",
+      "legacy_assessment": "NAME_POLICY_REVIEW",
+      "current_advisory_cues": [
+        {
+          "quote_index": 1,
+          "start": 0,
+          "end": 18,
+          "speaker": "UNKNOWN",
+          "listener": "UNKNOWN",
+          "speaker_id": "",
+          "listener_id": "",
+          "status": "UNRESOLVED",
+          "evidence": [],
+          "review_required": true
+        }
+      ]
+    },
+    {
+      "chapter": 223,
+      "source_id": "c0223p0012",
+      "source": "另外兩個華夏人，一個叫蘇菲.鍾，一樣的歐式妝容，甚至身材也刻意填充亦或是針對鍛煉，弄成了西式身材。",
+      "legacy_target": "Hai người gốc Hoa còn lại, một cô gái tên là Sophie Chung, cũng lối trang điểm đậm nét Tây phương, thậm chí thân hình dường như cũng được can thiệp thẩm mỹ tiêm độn hoặc tập luyện chuyên biệt để tạo phom dáng nở nang theo chuẩn phương Tây.",
+      "legacy_assessment": "PASS_SAMPLE",
+      "current_advisory_cues": []
+    },
+    {
+      "chapter": 263,
+      "source_id": "c0263p0061",
+      "source": "“白狐？法緹娜？普羅？你在哪兒？”",
+      "legacy_target": "\"Bạch hồ? Pháp Đề Na? Phổ La? Cô ở đâu?\"",
+      "legacy_assessment": "SIDECAR_NAME_DRIFT",
+      "current_advisory_cues": [
+        {
+          "quote_index": 1,
+          "start": 0,
+          "end": 17,
+          "speaker": "UNKNOWN",
+          "listener": "UNKNOWN",
+          "speaker_id": "",
+          "listener_id": "",
+          "status": "UNRESOLVED",
+          "evidence": [],
+          "review_required": true
+        }
+      ]
+    },
+    {
+      "chapter": 294,
+      "source_id": "c0294p0004",
+      "source": "羅琳娜的私人島嶼上。",
+      "legacy_target": "Trên hòn đảo tư nhân của Lorinna.",
+      "legacy_assessment": "NAME_DRIFT",
+      "current_advisory_cues": []
+    }
+  ],
+  "synthetic_regressions": [
+    {
+      "source": "姜柔甲对秦疏影说：“你先坐。”",
+      "cue": {
+        "quote_index": 1,
+        "start": 9,
+        "end": 15,
+        "speaker": "姜柔甲",
+        "listener": "秦疏影",
+        "speaker_id": "49736:jiang_roujia",
+        "listener_id": "49736:qin_shuying",
+        "status": "EXPLICIT_LOCAL",
+        "evidence": [
+          {
+            "text": "姜柔甲对秦疏影说",
+            "side": "prefix"
+          }
+        ],
+        "review_required": false
+      },
+      "generated_pronoun_rules": []
+    },
+    {
+      "source": "薑柔甲對秦疏影說：“你先坐。”",
+      "cue": {
+        "quote_index": 1,
+        "start": 9,
+        "end": 15,
+        "speaker": "姜柔甲",
+        "listener": "秦疏影",
+        "speaker_id": "49736:jiang_roujia",
+        "listener_id": "49736:qin_shuying",
+        "status": "EXPLICIT_LOCAL",
+        "evidence": [
+          {
+            "text": "薑柔甲對秦疏影說",
+            "side": "prefix"
+          }
+        ],
+        "review_required": false
+      },
+      "generated_pronoun_rules": []
+    },
+    {
+      "source": "秦疏影对云千峰说：“我去接孩子。”",
+      "cue": {
+        "quote_index": 1,
+        "start": 9,
+        "end": 17,
+        "speaker": "秦疏影",
+        "listener": "云千峰",
+        "speaker_id": "49736:qin_shuying",
+        "listener_id": "49736:yun_qianfeng",
+        "status": "EXPLICIT_LOCAL",
+        "evidence": [
+          {
+            "text": "秦疏影对云千峰说",
+            "side": "prefix"
+          }
+        ],
+        "review_required": false
+      },
+      "generated_pronoun_rules": []
+    },
+    {
+      "source": "秦疏影對雲千峰說：“我去接孩子。”",
+      "cue": {
+        "quote_index": 1,
+        "start": 9,
+        "end": 17,
+        "speaker": "秦疏影",
+        "listener": "云千峰",
+        "speaker_id": "49736:qin_shuying",
+        "listener_id": "49736:yun_qianfeng",
+        "status": "EXPLICIT_LOCAL",
+        "evidence": [
+          {
+            "text": "秦疏影對雲千峰說",
+            "side": "prefix"
+          }
+        ],
+        "review_required": false
+      },
+      "generated_pronoun_rules": []
+    },
+    {
+      "source": "云千峰对姜柔甲说：“别找死，快回来！”",
+      "cue": {
+        "quote_index": 1,
+        "start": 9,
+        "end": 19,
+        "speaker": "云千峰",
+        "listener": "姜柔甲",
+        "speaker_id": "49736:yun_qianfeng",
+        "listener_id": "49736:jiang_roujia",
+        "status": "EXPLICIT_LOCAL",
+        "evidence": [
+          {
+            "text": "云千峰对姜柔甲说",
+            "side": "prefix"
+          }
+        ],
+        "review_required": false
+      },
+      "generated_pronoun_rules": []
+    },
+    {
+      "source": "“我的哥哥消失了，我想知道他在哪。”",
+      "cue": {
+        "quote_index": 1,
+        "start": 0,
+        "end": 18,
+        "speaker": "UNKNOWN",
+        "listener": "UNKNOWN",
+        "speaker_id": "",
+        "listener_id": "",
+        "status": "UNRESOLVED",
+        "evidence": [],
+        "review_required": true
+      },
+      "generated_pronoun_rules": []
+    },
+    {
+      "source": "“小臻聽話，跟著周阿姨去睡覺，我在加班，晚一些回去，乖。”",
+      "cue": {
+        "quote_index": 1,
+        "start": 0,
+        "end": 29,
+        "speaker": "UNKNOWN",
+        "listener": "UNKNOWN",
+        "speaker_id": "",
+        "listener_id": "",
+        "status": "UNRESOLVED",
+        "evidence": [],
+        "review_required": true
+      },
+      "generated_pronoun_rules": []
+    }
+  ],
+  "additional_source_adversarial_regressions": [
+    {
+      "source_id": "c0001p0062",
+      "preceding_source": "那年輕女人聽完這話，先是笑了，緊接著又哭了，然後又哭又笑的對雲千峰說道：",
+      "source": "“對，你說的都對，我記得我哥癡迷史前文明，我沒瘋，我沒有妄想症，我有個哥哥，我真的有個哥哥.”",
+      "cues": [
+        {
+          "quote_index": 1,
+          "start": 0,
+          "end": 47,
+          "speaker": "UNKNOWN",
+          "listener": "UNKNOWN",
+          "speaker_id": "",
+          "listener_id": "",
+          "status": "UNRESOLVED",
+          "evidence": [],
+          "review_required": true
+        }
+      ]
+    },
+    {
+      "source_id": "c0007p0059",
+      "preceding_source": "緊接著，就看到薑柔甲快步走出去，很快又回來，手裡拎著一捆傘兵繩，然後看著雲千峰語速極快的說道：",
+      "source": "“從現在開始，你要和我形影不離，包括晚上睡覺也要在我身邊，只要挨得夠近，這個連山易掛墜能保護我，那就能保護你！我可不想明天醒來你換了一個記憶，我豁出去了，你必須得履行合同幫我找我哥，當然了，睡覺前你必須讓我把你綁上。”",
+      "cues": [
+        {
+          "quote_index": 1,
+          "start": 0,
+          "end": 109,
+          "speaker": "UNKNOWN",
+          "listener": "UNKNOWN",
+          "speaker_id": "",
+          "listener_id": "",
+          "status": "UNRESOLVED",
+          "evidence": [],
+          "review_required": true
+        }
+      ]
+    },
+    {
+      "source_id": "c0126p0072",
+      "preceding_source": "過了好一會，秦疏影一邊跟著雲千峰跑，一邊低聲問道：",
+      "source": "“他們追上來了嗎？”",
+      "cues": [
+        {
+          "quote_index": 1,
+          "start": 0,
+          "end": 10,
+          "speaker": "UNKNOWN",
+          "listener": "UNKNOWN",
+          "speaker_id": "",
+          "listener_id": "",
+          "status": "UNRESOLVED",
+          "evidence": [],
+          "review_required": true
+        }
+      ]
+    },
+    {
+      "source_id": "c0153p0030",
+      "preceding_source": "羅琳娜也轉了轉身，面對著雲千峰，說道：",
+      "source": "“因為我們倆在這個空間的因果“祂”無法影響，那個十面體光門才是我們倆一切的因，無論是記憶還是身體發膚，所以相對於這個世界，我們倆是真正的新人，隻存在了幾年的新人。”",
+      "cues": [
+        {
+          "quote_index": 1,
+          "start": 0,
+          "end": 82,
+          "speaker": "罗琳娜",
+          "listener": "云千峰",
+          "speaker_id": "49736:luo_linna",
+          "listener_id": "49736:yun_qianfeng",
+          "status": "EXPLICIT_LOCAL",
+          "evidence": [
+            {
+              "text": "羅琳娜也轉了轉身，面對著雲千峰，說道",
+              "side": "prefix"
+            }
+          ],
+          "review_required": false
+        }
+      ]
+    }
+  ],
+  "canonical_names": {
+    "云千峰": "Vân Thiên Phong",
+    "雲千峰": "Vân Thiên Phong",
+    "罗琳娜": "La Lâm Na",
+    "羅琳娜": "La Lâm Na",
+    "法緹娜": "Fatina",
+    "蘇菲.鍾": "Sophie Chung"
+  },
+  "protected_data_unchanged_during_replay": true,
+  "protected_data_snapshot": {
+    "file_count": 1087,
+    "sha256_of_path_and_file_hashes": "108a83e677894084aea173946f192bebfa36d8d2572909b0e3b84c162cc9d0ac"
+  }
+}

@@ -73,7 +73,8 @@ class BatchPolicyTests(unittest.TestCase):
         contract={'job_id':'scene','state_hash':'frozen-state','owned_segments':[{'id':'c0001p0001','source':'原文'}]}
         contract['contract_hash']=digest(contract);write_json(folder/'contract.json',contract)
         work=folder/'workers/scene';work.mkdir(parents=True)
-        runtime={'status':'SUCCESS','conversation_id':'original-native-session','usage':{'total_tokens':12}}
+        runtime={'status':'SUCCESS','conversation_id':'original-native-session','usage':{'total_tokens':12},
+                 'actual_model':'gemini-3.8-flash-low','exit_code':0,'result':{'response':'candidate.json'}}
         write_json(work/'runtime/runtime.json',runtime)
         candidate={'job_id':'scene','state_hash':contract['state_hash'],'contract_hash':contract['contract_hash'],
                    'segments':[{'id':'c0001p0001','text':'Nguyên văn.'}],

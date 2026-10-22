@@ -52,34 +52,28 @@ class NativePipelineTests(unittest.TestCase):
         with self.assertRaises(json.JSONDecodeError):
             repair_text_fields('{"segments":[')
 
-    def test_codex_policy_requires_isolated_sessions_and_preserves_default(self):
-        from semantic_gate import evaluate,candidate_hash
-        p,c,r=fixture()
-        c['model']='native/fixture'
-        for i,review in enumerate(r):
-            review.update({'model':'codex/gpt-inherited','identity_basis':'codex_subagent',
-                           'agent_session':'session'+str(i),'candidate_hash':candidate_hash(c)})
-        r[1]['literary_checks']=dict.fromkeys(LITERARY_CHECKS,True)
-        policy={'mode':'codex_gpt_sessions','required_sessions':['session0','session1']}
-        self.assertEqual(evaluate(p,c,r,review_policy=policy)['status'],'PASS')
-        self.assertEqual(evaluate(p,c,r)['status'],'BLOCKED')
-        r[1]['agent_session']='session0'
-        self.assertEqual(evaluate(p,c,r,review_policy=policy)['status'],'BLOCKED')
+    def test_native_policy_requires_isolated_sessions_and_preserves_api_default(self):
+        from semantic_gate import evaluate
+        from native_test_helpers import native_fixture
+        with tempfile.TemporaryDirectory() as folder:
+            p, c, r = native_fixture(Path(folder))
+            policy = {'mode': 'antigravity_sessions'}
+            self.assertEqual(evaluate(p,c,r,review_policy=policy)['status'], 'PASS')
+            self.assertEqual(evaluate(p,c,r)['status'], 'BLOCKED')
+            r[1]['conversation_id'] = r[0]['conversation_id']
+            self.assertEqual(evaluate(p,c,r,review_policy=policy)['status'], 'BLOCKED')
 
-    def test_direct_codex_publication_cannot_bypass_literary_review(self):
-        from semantic_gate import evaluate,candidate_hash,publish
-        p,c,r=fixture()
-        c['model']='native/fixture'
-        for i,review in enumerate(r):
-            review.update({'model':'codex/gpt-inherited','identity_basis':'codex_subagent',
-                           'agent_session':'session'+str(i),'candidate_hash':candidate_hash(c)})
-        policy={'mode':'codex_gpt_sessions','required_sessions':['session0','session1']}
-        for checks in ({},dict.fromkeys(LITERARY_CHECKS,False)):
-            r[1]['literary_checks']=checks
-            with tempfile.TemporaryDirectory() as folder:
+    def test_native_publication_cannot_bypass_literary_review(self):
+        from semantic_gate import publish
+        from native_test_helpers import native_fixture
+        with tempfile.TemporaryDirectory() as folder:
+            p, c, r = native_fixture(Path(folder))
+            policy = {'mode': 'antigravity_sessions'}
+            for checks in ({}, dict.fromkeys(LITERARY_CHECKS,False)):
+                r[1]['literary_checks'] = checks
                 with self.assertRaises(ValueError):
-                    publish(p,c,r,folder,review_policy=policy)
-                self.assertFalse(list(Path(folder).glob('*.txt')))
+                    publish(p,c,r,Path(folder)/'approved',review_policy=policy)
+                self.assertFalse(list((Path(folder)/'approved').glob('*.txt')))
 
 
 if __name__=='__main__':

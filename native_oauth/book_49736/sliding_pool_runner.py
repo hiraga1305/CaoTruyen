@@ -24,7 +24,6 @@ from native_oauth.scene_contract import EntityRecord, PronounRule, SceneContract
 from native_oauth.bns_prepass import UnifiedSemanticPreprocessor
 from native_oauth.quality_gate import QualityGate4A
 from native_oauth.spot_auditor import SpotAuditor4B
-from native_oauth.book_49736.style_and_entity_guard import StyleAndEntityGuard
 from native_oauth.book_49736.status_tracker import calculate_progress, render_terminal_dashboard
 from native_oauth.book_49736.batch_pipeline_runner import (
     process_chapter,
@@ -63,7 +62,6 @@ class SlidingPoolRunner:
         self.preprocessor = UnifiedSemanticPreprocessor()
         self.gate = QualityGate4A()
         self.auditor = SpotAuditor4B(gate=self.gate)
-        self.guard = StyleAndEntityGuard(seed_file=STYLE_SEED_FILE)
         
     def build_blocks(self) -> list[tuple[int, list[int]]]:
         chapters = list(range(self.from_chapter, self.to_chapter + 1))
@@ -101,7 +99,7 @@ class SlidingPoolRunner:
                     ""
                 )
                 if not success:
-                    print(f"  [!] Block {block_id:02d} gặp trục trặc tại Chương {chap_num:03d}")
+                    raise RuntimeError(f"Chapter {chap_num} BLOCKED; wave incomplete")
                 else:
                     st = calculate_progress(active_chapter=chap_num, message=f"Block {block_id}: Xong Chương {chap_num:03d}")
                     print(f"  >>> [LIVE STATUS] [{st['progress_bar']}] {st['percent_complete']}% ({st['completed_chapters_count']}/100) | Vừa xong Chương {chap_num:03d}")
@@ -119,7 +117,7 @@ class SlidingPoolRunner:
         print(f" Phạm vi: Chương {self.from_chapter} -> {self.to_chapter} ({total_chapters} chương)")
         print(f" Cấu hình: {total_blocks} Blocks (mỗi block {self.block_size} chương) | K={self.max_workers} Workers song song")
         print(f" Lệch pha (Stagger): {self.stagger_delay}s | Model: {self.target_model}")
-        print(f" Kiểm duyệt 0-Token: QualityGate4A + StyleAndEntityGuard (Strict Entity & Pronoun)")
+        print(f" Kiểm cấu trúc: QualityGate4A; draft cần hai native review trước approved")
         print(f"================================================================")
         
         t0 = time.time()

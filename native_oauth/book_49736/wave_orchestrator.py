@@ -27,52 +27,7 @@ LIVE_STATUS_FILE = BOOK_DIR / "live_status.json"
 
 
 def update_live_status(current_wave: int, active_chapter: int = 0, message: str = ""):
-    out_files = sorted(OUTPUT_DIR.glob("chuong_*.txt"))
-    # Filter only chapters 1 to 100
-    ch_nums = []
-    total_words = 0
-    total_paras = 0
-    for f in out_files:
-        try:
-            num = int(f.stem.replace("chuong_", ""))
-            if 1 <= num <= 100:
-                ch_nums.append(num)
-                txt = f.read_text(encoding="utf-8")
-                total_words += len(txt.split())
-                total_paras += len([p for p in txt.split("\n\n") if p.strip()])
-        except Exception:
-            pass
-
-    completed_count = len(ch_nums)
-    percent = round((completed_count / 100) * 100, 1)
-    
-    # Progress bar 20 characters
-    filled = int(percent // 5)
-    bar = "█" * filled + "░" * (20 - filled)
-
-    status_data = {
-        "book_id": BOOK_ID,
-        "book_title": "Đi Tìm Vô Gian Địa Ngục",
-        "current_wave": current_wave,
-        "total_waves": 5,
-        "wave_range": f"Chương {(current_wave-1)*20 + 1:03d} -> {current_wave*20:03d}",
-        "completed_chapters_count": completed_count,
-        "total_target_chapters": 100,
-        "percent_complete": percent,
-        "progress_bar": bar,
-        "total_words": total_words,
-        "total_paragraphs": total_paras,
-        "latest_completed_chapters": ch_nums[-5:] if ch_nums else [],
-        "active_chapter": active_chapter,
-        "message": message,
-        "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    }
-
-    try:
-        LIVE_STATUS_FILE.write_text(json.dumps(status_data, ensure_ascii=False, indent=2), encoding="utf-8")
-    except Exception:
-        pass
-    return status_data
+    return calculate_progress(current_wave, active_chapter, message, target_chapters=100)
 
 
 async def run_waves(start_wave: int = 2, end_wave: int = 5):
@@ -115,15 +70,15 @@ async def run_waves(start_wave: int = 2, end_wave: int = 5):
         st_after = calculate_progress(wave, message=f"Hoàn tất Wave {wave} trong {elapsed:.1f}s")
         print(render_terminal_dashboard(st_after))
 
-        # Calibration Gate between waves (pause 5s to stabilize API quota)
+        # Quota cooldown between draft waves; this is not a semantic gate
         if wave < end_wave:
-            print(f"\n--- [Calibration Gate #{wave}] Nghỉ 5s đồng bộ trạng thái trước Wave {wave + 1} ---")
+            print(f"\n--- [Quota cooldown #{wave}] Nghỉ 5s trước Wave {wave + 1}; review nội dung là bước riêng ---")
             await asyncio.sleep(5)
 
     total_time = time.time() - start_all
-    final_status = calculate_progress(end_wave, message="ĐÃ HOÀN THÀNH TOÀN BỘ 100 CHƯƠNG!")
+    final_status = calculate_progress(end_wave, message="ĐÃ TẠO DRAFT CHO ĐỢT CHẠY; CHƯA DUYỆT NGHĨA")
     print("\n" + "=" * 70)
-    print(f"[🎉] CHIẾN DỊCH HOÀN THÀNH: 100 CHƯƠNG ĐÃ BIÊN DỊCH TRONG {total_time:.1f}s")
+    print(f"[🎉] CHIẾN DỊCH HOÀN THÀNH: ĐỢT TẠO DRAFT ĐÃ KẾT THÚC TRONG {total_time:.1f}s")
     print(f"     Tổng số từ: {final_status['total_words']:,} từ | Tổng số đoạn: {final_status['total_paragraphs']:,} đoạn")
     print(render_terminal_dashboard(final_status))
     print("=" * 70)

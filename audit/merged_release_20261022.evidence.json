@@ -1,0 +1,42 @@
+{
+  "date_local": "2026-10-22",
+  "base": "a81dd75e1693d772ed76e0ecb51704de817239d1",
+  "scope": "One-time offline code/workflow cross-check and integration; not a semantic approval of real novels.",
+  "tests": {
+    "run": 231,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0,
+    "success": true,
+    "isolation": "SessionMonitor state and artifacts redirected to temporary directory"
+  },
+  "python": "3.14.7",
+  "source_replay": {
+    "chapters": 325,
+    "paragraphs": 31034,
+    "bounded_chunks": 1728,
+    "quotes": 7504,
+    "explicit_local_speakers": 468,
+    "explicit_local_pairs": 3,
+    "unresolved_speaker_or_listener": 7501,
+    "same_identity_pairs": 0
+  },
+  "protected_data_snapshot": {
+    "file_count": 1087,
+    "sha256_of_path_and_file_hashes": "108a83e677894084aea173946f192bebfa36d8d2572909b0e3b84c162cc9d0ac"
+  },
+  "protected_data_unchanged_during_replay": true,
+  "tracked_source_translation_dist_changes": [],
+  "syntax_checked_python_files": 61,
+  "publishing_fixture": {
+    "pdf": "Generated and text/bookmark verified in temporary directory with Windows Times New Roman fonts",
+    "epub": "Generated, read back and paragraph/order/title verified; publication receipt verified",
+    "azw3": "Missing-Calibre rejection tested; actual Calibre round-trip not executed"
+  },
+  "native_model_calls": 0,
+  "live_crawls": 0,
+  "real_novel_edits": 0,
+  "G_preserved": true,
+  "selection_evidence": "merge_selection_20261022.evidence.json",
+  "remote_ci": "Configured; remote outcome is not included in this pre-push evidence"
+}

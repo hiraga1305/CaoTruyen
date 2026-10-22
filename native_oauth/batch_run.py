@@ -6,6 +6,7 @@ ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT))
 from semantic_gate import read_json,write_json,digest
 from native_oauth.batch_experiment import run_manifest
+from native_oauth.run_agy import require_complete_runtime
 
 
 def verified_cached_result(spec,workspace):
@@ -18,10 +19,12 @@ def verified_cached_result(spec,workspace):
     if result.get('status')!='DRAFT_COMPLETE_UNREVIEWED':
         raise ValueError('Prior attempt blocked; use a fresh workspace for explicit retry')
     candidate=read_json(work/'candidate.json');runtime=read_json(work/'runtime/runtime.json')
+    require_complete_runtime(runtime, spec['model'])
     if (digest(candidate)!=result.get('candidate_hash') or digest(runtime)!=digest(result['runtime'])
         or runtime['status']!='SUCCESS' or result['actual_model']!=spec['model']
         or any(candidate.get(k)!=contract[k] for k in ('job_id','contract_hash','state_hash'))
         or [s['id'] for s in candidate['segments']]!=[s['id'] for s in contract['owned_segments']]
+        or any(not isinstance(s.get('text'), str) or not s['text'].strip() for s in candidate['segments'])
         or candidate.get('provenance',{}).get('conversation_id')!=runtime.get('conversation_id')):
         raise ValueError('Cached output/runtime/state/model mismatch')
     result['reused_verified_original_session']=True

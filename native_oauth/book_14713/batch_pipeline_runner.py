@@ -11,16 +11,20 @@ import json
 import re
 import sys
 import time
+import uuid
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT))
 
+from native_oauth.chapter_runner import run_chapter
+from native_oauth.semantic_context import normalize_profile
+from native_oauth.chapter_integrity import atomic_json
 from native_oauth.scene_contract import EntityRecord, PronounRule, SceneContract
 from native_oauth.bns_prepass import UnifiedSemanticPreprocessor
 from native_oauth.quality_gate import QualityGate4A, GateViolation
 from native_oauth.spot_auditor import SpotAuditor4B
-from native_oauth.run_agy import run
+from native_oauth.run_agy import run, require_complete_runtime
 
 BOOK_ID = "14713"
 BOOK_DIR = ROOT / "native_oauth" / f"book_{BOOK_ID}"
@@ -64,6 +68,16 @@ def load_lore():
     return {}
 
 
+_ENTITY_SEEDS, _PRONOUN_SEEDS = BASE_ENTITIES, BASE_PRONOUNS
+
+
+def get_semantic_profile():
+    return normalize_profile(BOOK_ID, _ENTITY_SEEDS, _PRONOUN_SEEDS, load_lore())
+
+
+BASE_ENTITIES, BASE_PRONOUNS, BASE_GLOSSARY = get_semantic_profile()
+
+
 def translate_scene(
     preprocessor: UnifiedSemanticPreprocessor,
     gate: QualityGate4A,
@@ -73,29 +87,34 @@ def translate_scene(
     raw_paras: list[str],
     prev_vi_context: str,
     target_model: str,
-    timeout: int = 150
+    timeout: int = 150,
+    prev_source_context: str = "",
+    next_source_context: str = "",
+    runtime_root: Path = None
 ) -> tuple[dict[int, str], str, bool]:
     """Translates a single scene chunk, runs Quality Gate 4A, and Spot Auditor 4B if needed."""
-    scene_work_dir = RUNS_DIR / f"chapter_{chap_num:04d}" / f"scene_{scene_idx}"
+    scene_work_dir = (runtime_root or RUNS_DIR) / f"chapter_{chap_num:04d}" / f"scene_{scene_idx}"
     scene_work_dir.mkdir(parents=True, exist_ok=True)
     
+    entities, pronouns, glossary = get_semantic_profile()
+    system_prompt = (ROOT / "native_oauth/prompts/bns_system_cache_v1.md").read_text(encoding="utf-8")
     contract, tagged_paras = preprocessor.build_scene_contract(
         chap_id=chap_num,
         scene_id=scene_idx,
         raw_paragraphs=raw_paras,
-        entities=BASE_ENTITIES,
-        pronouns=BASE_PRONOUNS,
-        location_vi="Phòng livestream / Đô thị",
-        mood="hồi hộp, ly kỳ",
-        active_effect="vận chuyển thần thức bói toán",
-        prev_vi=prev_vi_context[:200] if prev_vi_context else ""
+        entities=entities,
+        pronouns=pronouns,
+        prev_vi=prev_vi_context[-800:] if prev_vi_context else "",
+        glossary=glossary,
+        source_before=prev_source_context, source_after=next_source_context,
+        genre='URBAN_MODERN'
     )
     
     pipe_dsl = contract.to_pipe_dsl()
     tagged_body = "\n".join(tagged_paras)
     
     prompt_text = (
-        f"{SYSTEM_PROMPT}\n\n"
+        f"{system_prompt}\n\n"
         f"GIAO THỨC SCENE HIỆN TẠI:\n"
         f"{pipe_dsl}\n\n"
         f"NGUYÊN TÁC TRUNG VĂN CẦN BIÊN DỊCH (TỪ §1 ĐẾN §{len(raw_paras)}):\n"
@@ -117,58 +136,20 @@ def translate_scene(
         approve_tools=False
     )
     
-    resp = runtime.get("result", {}).get("response", "")
-    if not resp:
-        events_file = scene_work_dir / "runtime" / "events.jsonl"
-        if events_file.exists():
-            for line in reversed(events_file.read_text(encoding="utf-8").splitlines()):
-                try:
-                    ev = json.loads(line)
-                    if ev.get("event") == "result":
-                        resp = ev.get("result", {}).get("response", "")
-                        break
-                except Exception:
-                    pass
-                    
-    # Quality Gate 4A
+    resp = require_complete_runtime(runtime, target_model)
+
     gate_result = gate.verify_paragraphs(resp, expected_paragraph_count=len(raw_paras), contract=contract)
     
-    # If gate failed with specific paragraph errors, apply Spot-Audit 4B surgical repair
-    if not gate_result.is_pass and any(v.severity == "ERROR" for v in gate_result.violations):
-        print(f"    [!] Gate 4A flagged {len(gate_result.violations)} violations. Applying Spot-Audit 4B...")
-        repair_tasks = auditor.identify_repair_targets(gate_result, raw_paras, contract)
-        for task in repair_tasks:
-            # Simple local heuristic repair for common calques or format bugs
-            fixed_text = task.current_flawed_translation
-            for v in task.violations:
-                if v.error_code == "CALQUE_KHONG_CHO_LA_DUNG":
-                    fixed_text = re.sub(r"\bkhông cho là đúng\b", "chẳng mảy may bận tâm", fixed_text)
-                elif v.error_code == "CALQUE_SAC_MAT_NGUNG_LAI":
-                    fixed_text = re.sub(r"\bsắc mặt\s+(?:một\s+)?ngưng lại\b", "sắc mặt chợt đanh lại", fixed_text)
-                elif v.error_code == "CALQUE_HIT_NGUOC_KHI_LANH":
-                    fixed_text = re.sub(r"\bhít ngược một ngụm khí lạnh\b", "lạnh toát cả sống lưng", fixed_text)
-                elif v.error_code == "CALQUE_DEM_TAN_NGU_DONG_TU":
-                    fixed_text = re.sub(r"\bđem\s+([^,.]+?)\s+ném ra\b", r"ném \1 ra", fixed_text)
-            gate_result.sanitized_paragraphs[task.paragraph_idx] = fixed_text
-            
+    # Persist mechanical results and advisory semantic triage; no regex rewriting.
+    atomic_json(scene_work_dir / "gate.json", {
+        "status": "STRUCTURAL_PASS" if gate_result.is_pass else "BLOCKED",
+        "expected": len(raw_paras), "actual": len(gate_result.sanitized_paragraphs),
+        "violations": [vars(v) for v in gate_result.violations],
+        "semantic_context": contract.semantic_context,
+    })
+
     last_text = gate_result.sanitized_paragraphs.get(len(raw_paras), "")
     return gate_result.sanitized_paragraphs, last_text, gate_result.is_pass
-
-
-def get_predecessor_context(chap_num: int, capsule_context: str = "") -> str:
-    """Retrieves trailing context from chapter chap_num-1 or capsule anchor."""
-    if chap_num > 1:
-        prev_file = OUTPUT_DIR / f"chuong_{chap_num - 1:04d}.txt"
-        if prev_file.exists():
-            try:
-                txt = prev_file.read_text(encoding="utf-8")
-                paras = [p.strip() for p in txt.split("\n\n") if p.strip()]
-                if paras:
-                    # Use last 3 paragraphs as predecessor anchor
-                    return "\n".join(paras[-3:])[:300]
-            except Exception:
-                pass
-    return capsule_context[:300] if capsule_context else ""
 
 
 def process_chapter(
@@ -180,72 +161,17 @@ def process_chapter(
     force: bool = False,
     initial_context: str = ""
 ) -> bool:
-    """Translates an entire chapter end-to-end with scene splitting, verification, and saving."""
-    out_file = OUTPUT_DIR / f"chuong_{chap_num:04d}.txt"
-    if out_file.exists() and not force:
-        print(f"[=] Chapter {chap_num:02d} already exists. Skipping.")
-        return True
-        
-    src_file = SOURCES_DIR / f"source_chapter_{chap_num:04d}.json"
-    if not src_file.exists():
-        print(f"[!] Source for Chapter {chap_num:02d} missing at {src_file}")
-        return False
-        
-    src_data = json.loads(src_file.read_text(encoding="utf-8"))
-    title = src_data.get("title", f"Chương {chap_num}")
-    paragraphs = [s["source"] for s in src_data["segments"]]
-    total_paras = len(paragraphs)
-    
-    print(f"\n=======================================================")
-    print(f"[*] TRANSLATING CHAPTER {chap_num:02d}: {title} ({total_paras} paras)")
-    print(f"=======================================================")
-    
-    # Split into 2 balanced scenes
-    half = total_paras // 2
-    chunks = [(1, paragraphs[:half]), (2, paragraphs[half:])]
-    
-    chapter_paras: dict[int, str] = {}
-    prev_context = get_predecessor_context(chap_num, initial_context)
-    start_time = time.time()
-    
-    for s_idx, chunk in chunks:
-        offset = 0 if s_idx == 1 else half
-        print(f"  [>] Processing Scene {s_idx}/2 ({len(chunk)} paras, offset +{offset})...")
-        t0 = time.time()
-        scene_dict, last_para_text, is_pass = translate_scene(
-            preprocessor=preprocessor,
-            gate=gate,
-            auditor=auditor,
-            chap_num=chap_num,
-            scene_idx=s_idx,
-            raw_paras=chunk,
-            prev_vi_context=prev_context,
-            target_model=model
-        )
-        prev_context = last_para_text
-        for local_id, text in scene_dict.items():
-            chapter_paras[offset + local_id] = text
-        print(f"      Completed in {time.time()-t0:.1f}s (Gate PASS={is_pass})")
-        
-    # Check coverage
-    if len(chapter_paras) < total_paras:
-        print(f"  [!] Missing paragraphs: got {len(chapter_paras)}/{total_paras}")
-        
-    # Format and save output
-    clean_lines = [f"CHƯƠNG {chap_num}: {title.upper()}"]
-    clean_lines.append("")
-    for i in sorted(chapter_paras.keys()):
-        p_text = chapter_paras[i].strip()
-        if p_text:
-            clean_lines.append(p_text)
-            clean_lines.append("")
-            
-    full_text = "\n".join(clean_lines).strip() + "\n"
-    out_file.write_text(full_text, encoding="utf-8")
-    
-    total_time = time.time() - start_time
-    print(f"  [✓] Chapter {chap_num:02d} saved to {out_file.name} ({len(chapter_paras)}/{total_paras} paras, {total_time:.1f}s)")
-    return True
+    generation_root = RUNS_DIR / ("generation_" + uuid.uuid4().hex)
+    def scene(scene_idx, raw_paras, context):
+        return translate_scene(preprocessor=preprocessor, gate=gate, auditor=auditor,
+                               chap_num=chap_num, scene_idx=scene_idx, raw_paras=raw_paras,
+                               prev_vi_context=context["prev_vi"], target_model=model,
+                               prev_source_context=context["prev_zh"],
+                               next_source_context=context["next_zh"], runtime_root=generation_root)
+    toc_file = BOOK_DIR / "toc.json"
+    total = len(json.loads(toc_file.read_text(encoding="utf-8"))) if toc_file.exists() else 325
+    return run_chapter(chap_num, BOOK_ID, 'Tôi soi thiên cơ trong phòng livestream', 'URBAN_MODERN',
+                       SOURCES_DIR, OUTPUT_DIR, scene, model, force, total_chapters=total, runtime_root=generation_root)
 
 
 def main():
@@ -300,8 +226,11 @@ def main():
             
     print(f"\n================================================================")
     print(f"[+] BATCH COMPLETE: {success}/{total} chapters translated in {time.time()-start_all:.1f}s")
-    print(f"    Output directory: {OUTPUT_DIR}")
+    print(f"    Draft directory (unreviewed): {OUTPUT_DIR.parent / 'drafts'}")
     print(f"================================================================")
+
+    if success != total:
+        raise SystemExit(2)
 
 
 if __name__ == "__main__":

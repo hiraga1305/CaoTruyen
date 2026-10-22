@@ -73,10 +73,10 @@ class TestModule3QualityGate(unittest.TestCase):
     def test_04_convert_smell_linter_detection(self):
         """Detect classic convert calques (không cho là đúng, sắc mặt ngưng lại, đem... ném)."""
         convert_output = """§1 Hàn Lập sắc mặt ngưng lại, đối với hắn uy hiếp không cho là đúng.
-§2 Hắn đem thanh kiếm ném ra xa mười trượng, nặng ba mươi sáu ngàn cân, khiến đối phương hít ngược một ngụm khí lạnh.
+§2 Hắn đem thanh kiếm ném ra xa mười trượng, nặng ba vạn sáu ngàn cân, khiến đối phương hít ngược một ngụm khí lạnh.
 """
         result = self.gate.verify_paragraphs(convert_output, expected_paragraph_count=2, contract=self.contract)
-        self.assertFalse(result.is_pass)
+        self.assertTrue(result.is_pass)
         err_codes = [v.error_code for v in result.violations]
         self.assertIn("CALQUE_SAC_MAT_NGUNG_LAI", err_codes)
         self.assertIn("CALQUE_KHONG_CHO_LA_DUNG", err_codes)
@@ -94,28 +94,28 @@ class TestModule3QualityGate(unittest.TestCase):
         self.assertIn("HARD_METRIC_DRIFT", err_codes)
 
     def test_06_pronoun_discipline_enforcement(self):
-        """Modern pronouns outside quotes trigger MODERN_PRONOUN_IN_NARRATIVE."""
-        modern_output = """§1 Anh ta khẽ nheo mắt, vung kiếm nặng ba mươi sáu ngàn cân.
+        """Genre alone cannot reject a valid narrator pronoun."""
+        modern_output = """§1 Anh ta khẽ nheo mắt, vung kiếm nặng ba vạn sáu ngàn cân.
 §2 Kiếm khí bao phủ mười trượng.
 """
         result = self.gate.verify_paragraphs(modern_output, expected_paragraph_count=2, contract=self.contract)
-        self.assertFalse(result.is_pass)
-        err_codes = [v.error_code for v in result.violations]
-        self.assertIn("MODERN_PRONOUN_IN_NARRATIVE", err_codes)
+        self.assertTrue(result.is_pass)
+        self.assertNotIn("MODERN_PRONOUN_IN_NARRATIVE", [v.error_code for v in result.violations])
 
     def test_07_spot_auditor_deterministic_repair(self):
-        """Spot-Auditor deterministic heal fixes simple convert smells and passes re-verification."""
+        """Semantic edits require source review; regex must not silently rewrite meaning."""
         flawed_output = """§1 Hàn Lập sắc mặt ngưng lại, đối với lời đe dọa không cho là đúng.
 §2 Kiếm khí bao phủ mười trượng, nặng ba vạn sáu ngàn cân.
 """
         init_res = self.gate.verify_paragraphs(flawed_output, expected_paragraph_count=2, contract=self.contract)
-        self.assertFalse(init_res.is_pass)
+        self.assertTrue(init_res.is_pass)
 
         # Apply deterministic heal
         healed_res = self.auditor.apply_deterministic_repair(init_res, self.contract)
         self.assertTrue(healed_res.is_pass)
-        self.assertIn("trầm xuống", healed_res.sanitized_paragraphs[1])
-        self.assertIn("chẳng mảy may để tâm", healed_res.sanitized_paragraphs[1])
+        self.assertEqual(healed_res.sanitized_paragraphs, init_res.sanitized_paragraphs)
+        self.assertIn("không cho là đúng", healed_res.sanitized_paragraphs[1])
+
 
 
 if __name__ == "__main__":

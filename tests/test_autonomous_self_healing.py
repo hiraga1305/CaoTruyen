@@ -48,9 +48,9 @@ class TestAutonomousSelfHealing(unittest.TestCase):
         # 1. Xác nhận trạng thái trước khi tự chữa lành bị đánh trượt (< 0.98)
         self.assertLess(ledger.initial_confidence, 0.90)
 
-        # 2. Xác nhận sau khi tự chữa lành đạt >= 0.98 và được phê duyệt xuất bản tự động
+        # A heuristic score, even >= 0.98, cannot replace independent review.
         self.assertGreaterEqual(ledger.final_confidence, 0.98)
-        self.assertTrue(ledger.publication_approved)
+        self.assertFalse(ledger.publication_approved)
         self.assertEqual(len(ledger.receipts), 2)
 
         # 3. Kiểm tra nút 1 được sửa bằng Tầng 1 (0-Token Symbolic Patch)

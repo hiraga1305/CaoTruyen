@@ -1,4 +1,4 @@
-> CẬP NHẬT 2026-10-13: Hướng dẫn bên dưới là lịch sử. Lệnh batch/cache/ghi output_dich và tên model phải thay bằng QUALITY_WORKFLOW.md. Gói ZIP cũ chưa chứa cổng kiểm dịch; chưa dùng để chứng nhận chất lượng.
+> LỊCH SỬ — cập nhật 22/10/2026: vận hành hiện hành chỉ trong Antigravity theo [ANTIGRAVITY_WORKFLOW.md](native_oauth/ANTIGRAVITY_WORKFLOW.md). Nội dung VPS/API/ZIP bên dưới được lưu tham khảo, không là lệnh chạy hiện hành.
 
 # HƯỚNG DẪN TRIỂN KHAI PIPELINE DỊCH TRUYỆN SANG MÁY KHÁC / VPS (HEADLESS)
 **Tác phẩm:** 《没钱修什么仙？》 (Không Tiền Tu Cái Gì Tiên?) — Tác giả Hùng Lang Cẩu (熊狼狗)  

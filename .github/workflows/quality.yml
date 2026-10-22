@@ -1,0 +1,41 @@
+name: Source-bound workflow checks
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  core:
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: ubuntu-latest
+            python: '3.10'
+          - os: windows-latest
+            python: '3.13'
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - run: python -m pip install -r requirements.txt
+      - run: python -X utf8 -m unittest discover -s tests -v
+        env:
+          ANTIGRAVITY_ARTIFACT_DIR: ${{ runner.temp }}/caotruyen-dashboard
+
+  publishing:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: python -m pip install -r requirements-publishing.txt
+      - run: python -X utf8 -m unittest discover -s tests -p test_merged_publication.py -v
+        env:
+          ANTIGRAVITY_ARTIFACT_DIR: ${{ runner.temp }}/caotruyen-dashboard

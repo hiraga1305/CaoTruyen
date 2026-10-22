@@ -1,4 +1,4 @@
-"""Publish only after two attested independent GPT/Codex reviews of final text."""
+"""Archived pilot code; not used by the Antigravity production workflow."""
 import argparse
 import sys
 from pathlib import Path

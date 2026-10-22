@@ -1,0 +1,107 @@
+{
+  "baseline_commit": "a81dd75e1693d772ed76e0ecb51704de817239d1",
+  "working_tree_changes_not_pushed": true,
+  "causes": [
+    {
+      "chapter": 239,
+      "scene": 2,
+      "diagnostic": "[agy] print timeout after 2m30s with turn in progress; returning partial output",
+      "legacy_status": "SUCCESS",
+      "new_classification": "PARTIAL_TIMEOUT",
+      "duration_seconds": 153.8,
+      "expected_paragraphs": 51,
+      "tagged_lines": 36,
+      "last_generation_state": "ACTIVE"
+    },
+    {
+      "chapter": 248,
+      "scene": 1,
+      "diagnostic": "[agy] print timeout after 2m30s with turn in progress; returning partial output",
+      "legacy_status": "SUCCESS",
+      "new_classification": "PARTIAL_TIMEOUT",
+      "duration_seconds": 154.81,
+      "expected_paragraphs": 54,
+      "tagged_lines": 41,
+      "last_generation_state": "ACTIVE"
+    },
+    {
+      "chapter": 299,
+      "scene": 1,
+      "diagnostic": "[agy] print timeout after 2m30s with turn in progress; returning partial output",
+      "legacy_status": "SUCCESS",
+      "new_classification": "PARTIAL_TIMEOUT",
+      "duration_seconds": 153.29,
+      "expected_paragraphs": 85,
+      "tagged_lines": 13,
+      "last_generation_state": "ACTIVE"
+    },
+    {
+      "chapter": 306,
+      "scene": 1,
+      "diagnostic": "[agy] print timeout after 2m30s with turn in progress; returning partial output",
+      "legacy_status": "SUCCESS",
+      "new_classification": "PARTIAL_TIMEOUT",
+      "duration_seconds": 154.8,
+      "expected_paragraphs": 98,
+      "tagged_lines": 49,
+      "last_generation_state": "ACTIVE"
+    },
+    {
+      "chapter": 310,
+      "scene": 2,
+      "diagnostic": "[agy] print timeout after 2m30s with turn in progress; returning partial output",
+      "legacy_status": "SUCCESS",
+      "new_classification": "PARTIAL_TIMEOUT",
+      "duration_seconds": 154.21,
+      "expected_paragraphs": 82,
+      "tagged_lines": 39,
+      "last_generation_state": "ACTIVE"
+    },
+    {
+      "chapter": 318,
+      "scene": 2,
+      "diagnostic": "[agy] print timeout after 2m30s with turn in progress; returning partial output",
+      "legacy_status": "SUCCESS",
+      "new_classification": "PARTIAL_TIMEOUT",
+      "duration_seconds": 154.3,
+      "expected_paragraphs": 124,
+      "tagged_lines": 49,
+      "last_generation_state": "ACTIVE"
+    }
+  ],
+  "verification": {
+    "run": 165,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0,
+    "success": true,
+    "isolation": "SessionMonitor state and artifacts redirected to temporary directory"
+  },
+  "production_data_missing_records_unchanged": 267,
+  "checked_code_sha256": {
+    "comprehensive_novel_audit.py": "b25c9dc88d1bb9676ae2972e116099769dac44226388e34def9301d04d83a9cd",
+    "native_oauth/autonomous/self_healing_engine.py": "1a4149a2c77b7f9ce37b4b90f263cb053e361ca7c460ac85536df17153033585",
+    "native_oauth/bns_prepass.py": "dc23de87fbaeacdc04c01c10ba4897da00111b95a93ce20e28f3bb89a8cb0f33",
+    "native_oauth/book_14713/batch_pipeline_runner.py": "5205ac40a3336c4cb8095c549950ad0778b5ead074a4b38ade9844afc8ecce93",
+    "native_oauth/book_16014/batch_pipeline_runner.py": "892862011e8e891981a17a61b84216b444d78f76b5af6f7c3355794013ddbbf4",
+    "native_oauth/book_49736/batch_pipeline_runner.py": "434c7305c67f736bd6253db90339f08b8a15480a805f2cacf4b13a3df0305936",
+    "native_oauth/book_49736/build_ebooks.py": "a530f57dcd9a34984e592d19296c90b9ab720cf7c85b8c6565ca4950446b6121",
+    "native_oauth/book_49736/crawl_chapters.py": "3984d03c6eed72bd9936d4491f6c0663d59f6ce7df775903679fe51764d3a4a2",
+    "native_oauth/book_49736/save_translated_chapter.py": "56b009f91d5a19d848c9cf2c07473d1525aacf21c70ae0920fc7035b29aa2fcd",
+    "native_oauth/book_49736/sliding_pool_runner.py": "f2d3c4df9c88feca8259e4d046c1283b87a9adca88e84d3cb5ea650e37dbc5a2",
+    "native_oauth/book_49736/status_tracker.py": "792c4467f08da5eb8011aa1e90854f18650bfa0aedeaf7a0c0f50ab906323526",
+    "native_oauth/book_49736/surgical_polish_325.py": "3a7aa98eb707eaae53952977d33f840753917f234a9521d1c83401546fa4327e",
+    "native_oauth/book_49736/wave_runner.py": "1c9264db4f583eb3e3b03d057eb4521252c19d074e1115b657314135775e352c",
+    "native_oauth/book_49736/wujian_pipeline_runner.py": "1adb702ebfa0510d78aa6c58cd0bc713fc63613b3458fa0603fd38326f65ba38",
+    "native_oauth/quality_gate.py": "5edf82831ddeb2653b785af630a9077236f7e72c1baccba5223f09e5a61f972e",
+    "native_oauth/run_agy.py": "c790a6b509106ff5eaf4a8f2eec3090a891ce17d1f43f44562b46eab24e65cc5",
+    "native_oauth/session_monitor.py": "9d3e095fd671526f9b8d2dce4d11d56725f4e6369506fb6e19bb3f6ac7088eef",
+    "native_oauth/spot_auditor.py": "70bb616cb4fee7c9f23a57c54574f3f554187eeca8add9bea6b41b395c8c4be1",
+    "tests/test_autonomous_self_healing.py": "ba7e0ea468672144861ad73ccee17442272039a57f4cbe80d3f358d09bdb613f",
+    "tests/test_session_monitor.py": "3a9b28181f4205d948e1d8a1949089fc53b9cbbf9c6a25a00c00c094fdfab2f5",
+    "tests/test_wave_orchestrator.py": "12e7f6e5ea9efcf13384b958221f68c8f97de0e269dbbf3ba4183c8971869006",
+    "native_oauth/chapter_runner.py": "aacb85300e894ab4c890018e02d37e2e5168540d24a45e53f5955dfcb394bf43",
+    "native_oauth/chapter_integrity.py": "458af50fb5a7ef325e485ca8ae78363362c314fc842c6b22e184f5d99ab2ffa2",
+    "tests/test_chapter_safety.py": "044f361e85b27bd6c4c9d2a4ee7f70f8ae3a87ca59ce81ccaa86ab41d99c7670"
+  }
+}

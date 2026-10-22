@@ -1,3 +1,12 @@
+# Phạm vi vận hành đã xác nhận — 22/10/2026
+
+- Toàn bộ workflow cào → dịch → review → sửa → phê duyệt → xuất bản chạy độc lập trong **Antigravity**.
+- Không ràng buộc Codex, session GPT/Codex, dịch vụ duyệt ngoài hoặc một lượt audit định kỳ vào workflow. Việc kiểm tra chéo ngoài luồng trong phiên này là một lần kiểm thử/sửa rồi push GitHub, không phải thành phần vận hành.
+- Hướng dẫn hiện hành: `native_oauth/ANTIGRAVITY_WORKFLOW.md`. Hai native reviewer chạy độc lập trong Antigravity và phải có evidence runtime thật; không tự khai identity hay bỏ gate để đổi nền tảng.
+- Giữ nguồn/ID/hash, chống partial/mất đoạn, lịch sử revision, continuity và approved manifest trước xuất bản. Không sửa bản truyện cũ hoặc chạy model thật chỉ để kiểm thử code nếu chưa nằm trong phạm vi yêu cầu.
+
+---
+
 # QUY TẮC BẮT BUỘC CHO AGENTS & MỌI LUỒNG LÀM VIỆC — CAOTRUYEN ANTIGRAVITY SESSION VISIBILITY
 
 Tất cả các agents, subagents và script xử lý dịch thuật (Wave Orchestrator, Batch Pipelines, Worker Pools) trong dự án CaoTruyen **BẮT BUỘC TUÂN THỦ** cơ chế hiển thị tiến độ trực tiếp trong session Antigravity:

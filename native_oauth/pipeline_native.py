@@ -1,16 +1,19 @@
-"""OAuth CLI drafts with parser/genre support; final review belongs to Codex GPT."""
+"""Antigravity OAuth translation, independent native reviews and publication."""
 import argparse
 import hashlib
 import json
 import shutil
 import sys
+import uuid
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 from semantic_gate import (read_json, write_json, digest, validate_package, mechanical_findings,
                            translation_prompt, review_prompt, evaluate, publish, LITERARY_CHECKS)
-from native_oauth.run_agy import run
+from native_oauth.run_agy import run, require_complete_runtime
+from native_oauth.native_evidence import runtime_record, validate_provenance
+from native_oauth.native_review import visible_stage, run_independent_reviews, install_agents
 from native_oauth.json_format_repair import repair_text_fields
 from native_oauth.batch_policy import CLASSIFIER_POLICY, VERSION as PREVENTION_VERSION
 
@@ -34,6 +37,7 @@ def prepare_inputs(source_file, analysis_file, genre, workspace):
     if genre not in profiles['profiles']:
         raise ValueError('Unknown genre')
     work = Path(workspace).resolve()
+    install_agents(work)
     data = work/'native_oauth/runs/chapter1'
     data.mkdir(parents=True, exist_ok=True)
     shutil.copy2(ROOT/'native_oauth/analysis_lookup.py',work/'native_oauth/analysis_lookup.py')
@@ -63,6 +67,16 @@ def prepare_inputs(source_file, analysis_file, genre, workspace):
 
 
 def run_stage(data, workspace, role, model, protocol, output_file, timeout):
+    with visible_stage(read_json(Path(data) / 'source.json'), role):
+        return _run_stage(Path(data), workspace, role, model, protocol, output_file, timeout)
+
+
+def _run_stage(data, workspace, role, model, protocol, output_file, timeout):
+    if len(protocol) > 120000:
+        raise ValueError('Complete native protocol exceeds context budget')
+    if (data / output_file).exists():
+        raise ValueError('Stage artifact already exists; use a fresh attempt workspace')
+    original_source = read_json(data/'source.json')
     prompt_file = data/(role + '.prompt.txt')
     (data/(role+'.protocol.txt')).write_text(protocol,encoding='utf-8')
     count=len(read_json(data/'source.json')['segments'])
@@ -83,95 +97,104 @@ def run_stage(data, workspace, role, model, protocol, output_file, timeout):
     prompt_file.write_text(prompt,encoding='utf-8')
     result = run(prompt_file, data/(role + '.runtime'), model, 'novel-' + role,
                  timeout, workspace, True)
-    if result['status'] != 'SUCCESS' or not (data/output_file).exists():
-        raise ValueError('Native role incomplete: ' + role + ' (' + result['status'] + ')')
-    events = [json.loads(line) for line in (data/(role+'.runtime')/'events.jsonl').read_text(encoding='utf-8').splitlines() if line.startswith('{')]
-    init = next(e for e in events if e.get('event') == 'init')
-    actual = init['init']['model']
-    if actual != model:
-        raise ValueError('Native model differs from requested role')
+    require_complete_runtime(result, model)
+    if read_json(data/'source.json') != original_source:
+        raise ValueError('Worker changed its immutable source package')
+    if not (data/output_file).exists():
+        raise ValueError('Native worker did not write its assigned artifact')
+    actual = result['actual_model']
     artifact=data/output_file
     original=artifact.read_text(encoding='utf-8')
     payload,repaired=repair_text_fields(original)
     if repaired:
         artifact.with_suffix('.invalid-original.json').write_text(original,encoding='utf-8')
         payload['format_repair']={'kind':'escape_unescaped_quotes_only','original_text_hash':digest(original)}
+    from native_oauth.native_evidence import artifact_record
+    original_artifact = artifact.with_suffix('.native-original.json')
+    original_artifact.write_text(original, encoding='utf-8')
+    payload['native_artifact'] = artifact_record(original_artifact, payload)
     payload['model'] = 'native/' + actual
     payload['identity_basis'] = 'native_cli_init'
     payload['conversation_id'] = result['conversation_id']
     payload['runtime_hash'] = digest(result)
+    payload['native_runtimes'] = [runtime_record(data/(role + '.runtime/runtime.json'), model)]
+    if payload['native_runtimes'][0]['hash'] != digest(result):
+        raise ValueError('Runtime changed after native execution')
     write_json(artifact,payload)
     return payload
 
 
+def execute_pipeline(source_file, analysis_file, genre, workspace, translator_model,
+                     reviewer_model, auditor_model, timeout=420, draft_only=False,
+                     max_repairs=1, resume_draft=False):
+    if max_repairs not in (0, 1, 2):
+        raise ValueError('max_repairs must be 0..2')
+    workspace = Path(workspace).resolve()
+    package, data = prepare_inputs(source_file, analysis_file, genre, workspace)
+    policy = {'mode': 'antigravity_sessions', 'version': 1}
+    state = {'status': 'RUNNING', 'source_package_hash': package['package_hash'], 'genre': genre}
+    try:
+        for attempt in range(max_repairs + 1):
+            if attempt:
+                workspace_attempt = workspace / f'attempt_{attempt}'
+                package, data = prepare_inputs(source_file, analysis_file, genre, workspace_attempt)
+            else:
+                workspace_attempt = workspace
+            if resume_draft and attempt == 0:
+                candidate = read_json(data/'draft.json')
+                validate_provenance(candidate)
+            else:
+                protocol = translation_prompt(package)
+                if attempt:
+                    protocol += ('\nRegenerate the complete source-owned chapter. Original Chinese is authoritative. '
+                                 'Do not copy a proposed Vietnamese answer. Findings from prior attempt:\n' +
+                                 json.dumps(report['findings'], ensure_ascii=False))
+                candidate = run_stage(data, workspace_attempt, 'translator', translator_model,
+                                      protocol, 'draft.json', timeout)
+            findings = mechanical_findings(package, candidate)
+            write_json(data/'mechanical.json', {'findings': findings})
+            if findings:
+                raise ValueError('Draft failed mechanical gate')
+            if draft_only:
+                state.update(status='DRAFT_READY_FOR_NATIVE_REVIEW', candidate_hash=digest(candidate),
+                             draft=str(data/'draft.json'))
+                break
+            reviews = run_independent_reviews(package, candidate, data, workspace_attempt,
+                                              reviewer_model, auditor_model, timeout)
+            report = evaluate(package, candidate, reviews, review_policy=policy)
+            write_json(data/'qa.json', report)
+            if report['status'] == 'PASS':
+                with visible_stage(package, 'approval'):
+                    output = publish(package, candidate, reviews, data/'approved', review_policy=policy)
+                state.update(status='PASS', output=str(output), models=report['models'])
+                break
+        else:
+            state.update(status='BLOCKED', reason='Native review rejected final attempt', findings=report['findings'])
+    except Exception as error:
+        state.update(status='BLOCKED', reason=str(error), error_type=type(error).__name__)
+    write_json(Path(workspace)/'state.json', state)
+    return state
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--source',required=True)
-    parser.add_argument('--analysis',required=True)
-    parser.add_argument('--genre',default='hybrid_cyberpunk_tu_tien')
-    parser.add_argument('--workspace',default=str(ROOT/'native_oauth/pilot_workspace'))
-    parser.add_argument('--translator-model',default='gemini-3.8-flash-low')
-    parser.add_argument('--reviewer-model',default='claude-opus-4-6-thinking')
-    parser.add_argument('--auditor-model',default='gemini-3.8-flash-medium')
-    parser.add_argument('--timeout',type=int,default=420)
-    parser.add_argument('--resume-draft',action='store_true',help='Reuse only a source-bound draft with verified native runtime')
-    parser.add_argument('--native-review-experiment',action='store_true',help='Explicit historical experiment; default final review is Codex GPT')
+    parser.add_argument('--source', required=True)
+    parser.add_argument('--analysis', required=True)
+    parser.add_argument('--genre', default='hybrid_cyberpunk_tu_tien')
+    parser.add_argument('--workspace', default=str(ROOT/'native_oauth/native_jobs'/uuid.uuid4().hex))
+    parser.add_argument('--translator-model', default='gemini-3.8-flash-low')
+    parser.add_argument('--reviewer-model', default='gemini-3.8-flash-high')
+    parser.add_argument('--auditor-model', default='gemini-3.8-flash-medium')
+    parser.add_argument('--timeout', type=int, default=420)
+    parser.add_argument('--resume-draft', action='store_true')
+    parser.add_argument('--draft-only', action='store_true')
+    parser.add_argument('--max-repairs', type=int, choices=(0, 1, 2), default=1)
     args = parser.parse_args()
-    package,data = prepare_inputs(args.source,args.analysis,args.genre,args.workspace)
-    state = {'status':'RUNNING','source_package_hash':package['package_hash'],'genre':args.genre}
-    write_json(data/'state.json',state)
-    try:
-        if args.resume_draft:
-            candidate = read_json(data/'draft.json')
-            runtime = read_json(data/'translator.runtime/runtime.json')
-            if runtime['status'] != 'SUCCESS' or candidate.get('runtime_hash') != digest(runtime):
-                raise ValueError('Cannot resume unverified native draft')
-        else:
-            candidate = run_stage(data,args.workspace,'translator',args.translator_model,
-                                  translation_prompt(package),'draft.json',args.timeout)
-        findings = mechanical_findings(package,candidate)
-        write_json(data/'mechanical.json',{'findings':findings})
-        if findings:
-            raise ValueError('Draft failed mechanical gate')
-        if not args.native_review_experiment:
-            codex_protocol = review_prompt(package,candidate) + (
-                '\nFinal reviews belong to two separate actual GPT/Codex subagent sessions. '
-                'Each reviewer reads all source and target paragraphs without seeing peer findings. '
-                'Use model codex/gpt-inherited unless the actual GPT model version is known; '
-                'identity_basis must be codex_subagent and agent_session must be the actual task path. '
-                'The literary reviewer also inspects the bound genre profile, natural Vietnamese, '
-                'spelling/grammar, address consistency and dialogue format. Include literary_checks '
-                'with exactly these boolean fields: ' + json.dumps(LITERARY_CHECKS) + '. '
-                'true means inspected; real defects still require FAIL and paragraph evidence. '
-                'After edits, both sessions must review the final candidate hash before publication.')
-            (data/'codex.review.protocol.txt').write_text(codex_protocol,encoding='utf-8')
-            state.update({'status':'DRAFT_READY_FOR_CODEX','candidate_hash':digest(candidate),
-                          'draft':str(data/'draft.json'),'review_backend':'Codex GPT independent sessions'})
-            write_json(data/'state.json',state)
-            print(json.dumps(state,ensure_ascii=False),flush=True)
-            return
-        protocol = review_prompt(package,candidate)
-        protocol += ('\nAlso assess the bound genre style_profile and natural Vietnamese prose; '
-                     'mention literary/style defects in issues with paragraph ids. '
-                     'Use short exact source/target quotes and one concise Vietnamese reason per paragraph; '
-                     'inspect each complete source/draft paragraph even though evidence quotes are short. '
-                     'Include literary_checks with exactly these boolean fields: ' +
-                     json.dumps(LITERARY_CHECKS) + '. true means inspected, not error-free. '
-                     'Set verdict FAIL and traceable issues for actual defects. Never approve by a numerical self-score.')
-        reviews = []
-        for role,model in [('reviewer',args.reviewer_model),('auditor',args.auditor_model)]:
-            reviews.append(run_stage(data,args.workspace,role,model,protocol,role+'.json',args.timeout))
-            validate_literary_review(reviews[-1])
-        report = evaluate(package,candidate,reviews)
-        write_json(data/'qa.json',report)
-        if report['status'] != 'PASS':
-            raise ValueError('Semantic/literary review rejected draft; inspect qa.json')
-        output = publish(package,candidate,reviews,data/'approved')
-        state.update({'status':'PASS','output':str(output),'models':report['models']})
-    except Exception as error:
-        state.update({'status':'BLOCKED','reason':str(error),'error_type':type(error).__name__})
-    write_json(data/'state.json',state)
-    print(json.dumps(state,ensure_ascii=False),flush=True)
+    state = execute_pipeline(args.source, args.analysis, args.genre, args.workspace,
+        args.translator_model, args.reviewer_model, args.auditor_model, args.timeout,
+        args.draft_only, args.max_repairs, args.resume_draft)
+    print(json.dumps(state, ensure_ascii=False), flush=True)
+    raise SystemExit(2 if state['status'] == 'BLOCKED' else 0)
 
 
 if __name__ == '__main__':

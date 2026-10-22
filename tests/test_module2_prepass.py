@@ -1,6 +1,5 @@
 """Unit Test Suite for Module 2: Tier 1 NLP Pre-processor (bns_prepass.py).
-Tests Scene Complexity S_scene, Pro-drop resolution, Comma-splice breaking,
-Dialogue routing with Attitude Rupture, and Pipe-DSL packaging.
+Tests complexity, advisory rhythm, conservative attribution and DSL packaging.
 """
 
 import unittest
@@ -40,7 +39,7 @@ class TestModule2Prepass(unittest.TestCase):
         self.assertEqual(m_high.pacing_mode, "COMBAT_FAST")
 
     def test_02_pro_drop_and_comma_splice_breaking(self):
-        """Verify subject inversion [Ø_SHIFT=...] and rhythm break [||] on multi-clause sentences."""
+        """Suggest rhythm without inventing an implicit subject."""
         # 8-clause sentence with victim reaction
         raw_text = (
             "韓立單手一拍儲物袋，青竹蜂雲劍飛掠而出，迎風化為丈許長青虹，"
@@ -51,27 +50,26 @@ class TestModule2Prepass(unittest.TestCase):
 
         # Must have rhythm break symbol [||]
         self.assertIn("[||]", processed)
-        # Must shift subject to Feng Yue on physical reaction
-        self.assertIn("Ø_SHIFT=封岳", processed)
+        # A reaction does not prove the other roster member is its subject.
+        self.assertNotIn("Ø_SHIFT", processed)
+        self.assertIsNone(center)
 
     def test_03_dialogue_routing_and_hostile_shift(self):
-        """Verify dialogue attribution [Qk:...] and attitude rupture (COURTEOUS -> HOSTILE_SHIFT)."""
+        """Attribute only a supported speaker; words do not create pronoun rules."""
         # Courteous dialogue
         courteous_text = "韓立拱了拱手，淡淡說道：“封道友何必苦苦相逼？”"
         entities = [self.ent_hanli, self.ent_fengyue]
         proc1, rup1, _ = self.preprocessor.route_dialogues(courteous_text, entities)
-        self.assertIn("[Q1:韓立->封岳|state:COURTEOUS", proc1)
+        self.assertIn("[Q1:韓立->UNKNOWN|state:SOURCE_CONTEXT", proc1)
         self.assertFalse(rup1)
 
         # Hostile shift dialogue
         hostile_text = "封岳臉色一沉，厲聲獰笑道：“敬酒不吃吃罰酒的小輩，納命來！”"
         proc2, rup2, updated_pronouns = self.preprocessor.route_dialogues(hostile_text, entities)
-        self.assertIn("state:HOSTILE_SHIFT", proc2)
-        self.assertTrue(rup2)
-        self.assertEqual(len(updated_pronouns), 1)
-        self.assertEqual(updated_pronouns[0].state, "HOSTILE")
-        self.assertEqual(updated_pronouns[0].self_vi, "ta")
-        self.assertEqual(updated_pronouns[0].target_vi, "ngươi")
+        self.assertIn("state:SOURCE_CONTEXT", proc2)
+        self.assertNotIn("HOSTILE_SHIFT", proc2)
+        self.assertFalse(rup2)
+        self.assertEqual(updated_pronouns, [])
 
     def test_04_numeric_lock_and_idiom_annotations(self):
         """Verify extraction of [Mk:...] numeric tags and [Ik:...] idiom hints."""
@@ -80,7 +78,8 @@ class TestModule2Prepass(unittest.TestCase):
 
         self.assertIn("[I1]", annotated)
         self.assertEqual(len(idioms), 1)
-        self.assertEqual(idioms[0].forbidden, "không cho là đúng")
+        self.assertEqual(idioms[0].forbidden, "")
+        self.assertIn("không tán đồng", idioms[0].suggestions)
 
         self.assertIn("M1", annotated)
         self.assertIn("M2", annotated)
@@ -112,7 +111,8 @@ class TestModule2Prepass(unittest.TestCase):
         self.assertTrue(tagged_paragraphs[0].startswith("§1 "))
         self.assertTrue(tagged_paragraphs[1].startswith("§2 "))
         self.assertIn("[I1]", tagged_paragraphs[0])
-        self.assertIn("HOSTILE_SHIFT", tagged_paragraphs[1])
+        self.assertIn("SOURCE_CONTEXT", tagged_paragraphs[1])
+        self.assertNotIn("HOSTILE_SHIFT", tagged_paragraphs[1])
 
         # Check Pipe-DSL roundtrip compatibility
         pipe_dsl = contract.to_pipe_dsl()

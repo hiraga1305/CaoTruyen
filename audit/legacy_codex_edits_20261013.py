@@ -1,4 +1,4 @@
-"""Apply source-checked GPT corrections to a new file, preserve native originals."""
+"""Archived one-off pilot edits; not used by the Antigravity workflow."""
 import copy
 import sys
 from pathlib import Path

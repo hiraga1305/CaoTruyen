@@ -1,0 +1,39 @@
+{
+  "49736": {
+    "entities": [
+      {"id":"yun_qianfeng","zh":"云千峰","vi":"Vân Thiên Phong","aliases":["雲千峰"]},
+      {"id":"jiang_roujia","zh":"姜柔甲","vi":"Khương Nhu Giáp","aliases":["薑柔甲"],"role":"","disposition":""},
+      {"id":"qin_shuying","zh":"秦疏影","vi":"Tần Sơ Ảnh"},
+      {"id":"luo_linna","zh":"罗琳娜","vi":"La Lâm Na","aliases":["羅琳娜"],"legacy_vi_variants":["Lorina","Lorinna"],"naming_note":"Giữ tên chuẩn trong lore hiện hành; các biến thể Latin là lỗi nhất quán cần duyệt, không thay hàng loạt bản cũ."},
+      {"id":"jiang_yulin","zh":"姜玉林","vi":"Khương Ngọc Lâm","aliases":["薑玉林"],"narrator":"","role":"","disposition":"","review_note":"Chương 3 giới thiệu là anh trai Khương Nhu Giáp; không khóa tuổi/ngôi kể ông hoặc vai trưởng bối cho mọi cảnh."},
+      {"id":"mandulatu","zh":"满都拉图","vi":"Mãn Đô Lạp Đồ","aliases":["滿都拉圖"]},
+      {"id":"victoria","zh":"维多利亚","vi":"Victoria","aliases":["維多利亞"]},
+      {"id":"little_nervous","zh":"小神经","vi":"Tiểu Thần Kinh","aliases":["小神經"]},
+      {"id":"ande","zh":"安德","vi":"An Đức"},
+      {"id":"fatina","zh":"法缇娜","vi":"Fatina","aliases":["法緹娜"],"legacy_vi_variants":["Pháp Đề Na"],"naming_note":"Theo cách gọi nhất quán trong TXT hiện tại, cần giữ ổn định khi dịch mới."},
+      {"id":"sophie_zhong","zh":"苏菲.钟","vi":"Sophie Chung","aliases":["蘇菲.鍾","蘇菲．鍾","苏菲．钟"],"naming_note":"Có tên nguyên tác ở chương 223; không tự gắn quan hệ hoặc quốc tịch từ tên."}
+    ]
+  },
+  "14713": {
+    "entities": [
+      {"id":"xiao_yu","zh":"萧羽","vi":"Tiêu Vũ","aliases":["蕭羽","萧大师","蕭大師"],"surface_vi":{"萧大师":"Tiêu đại sư","蕭大師":"Tiêu đại sư"}},
+      {"id":"jiang_xia","zh":"江夏","vi":"Giang Hạ"},
+      {"id":"xu_fei","zh":"徐菲","vi":"Từ Phỉ"},
+      {"id":"lin_meiting","zh":"林美婷","vi":"Lâm Mỹ Đình"},
+      {"id":"liu_fan","zh":"柳凡","vi":"Liễu Phàm"},
+      {"id":"hu_feifei","zh":"胡菲菲","vi":"Hồ Phỉ Phỉ"},
+      {"id":"tang_xiaomei","zh":"唐小妹","vi":"Đường Tiểu Tiểu"}
+    ]
+  },
+  "16014": {
+    "entities": [
+      {"id":"zhang_yu","zh":"张羽","vi":"Trương Vũ","aliases":["張羽"]},
+      {"id":"zhou_wei","zh":"周伟","vi":"Chu Vĩ","aliases":["周偉"]},
+      {"id":"bai_zhenzhen","zh":"白真真","vi":"Bạch Chân Chân"},
+      {"id":"zhao_tianxing","zh":"赵天行","vi":"Triệu Thiên Hành","aliases":["趙天行"]},
+      {"id":"su_haifeng","zh":"苏海峰","vi":"Tô Hải Phong","aliases":["蘇海峰"]},
+      {"id":"wang_hai","zh":"王海","vi":"Vương Hải"},
+      {"id":"wei_xin","zh":"魏馨","vi":"Ngụy Hinh"}
+    ]
+  }
+}

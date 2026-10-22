@@ -16,6 +16,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT))
 OUTPUT_DIR = ROOT / "native_oauth" / "book_49736" / "output_dich"
+BOOK_DIR = OUTPUT_DIR.parent
 
 from native_oauth.prosody_engine import VietnameseProsodyEngine
 
@@ -47,80 +48,36 @@ def extract_clean_title(ch_num: int, l1: str, l2: str, l3: str) -> str:
 
 
 def polish_chapter(ch_num: int) -> dict:
-    txt_file = OUTPUT_DIR / f"chuong_{ch_num:04d}.txt"
-    json_file = OUTPUT_DIR / f"chuong_{ch_num:04d}.dich.json"
-
-    if not txt_file.exists():
+    """Propose a new source-aligned draft; never mutate the published edition."""
+    from native_oauth.chapter_integrity import inspect_chapter, render_text, atomic_json, atomic_text
+    from semantic_gate import digest
+    input_dir = OUTPUT_DIR.parent / "drafts"
+    json_file = input_dir / f"chuong_{ch_num:04d}.dich.json"
+    txt_file = input_dir / f"chuong_{ch_num:04d}.txt"
+    if not json_file.exists() or not txt_file.exists():
         return {"chapter": ch_num, "status": "MISSING"}
-
-    text = txt_file.read_text(encoding="utf-8")
-    paragraphs = [p.strip() for p in text.split("\n\n") if p.strip()]
-
-    if not paragraphs:
-        return {"chapter": ch_num, "status": "EMPTY"}
-
-    l1 = paragraphs[0] if len(paragraphs) > 0 else ""
-    l2 = paragraphs[1] if len(paragraphs) > 1 else ""
-    l3 = paragraphs[2] if len(paragraphs) > 2 else ""
-
-    clean_core = extract_clean_title(ch_num, l1, l2, l3)
-    header_title = f"CHƯƠNG {ch_num}: {clean_core.upper()}"
-    sub_title = f"Chương {ch_num}: {clean_core}"
-
-    # Determine body paragraphs (skip headers / duplicated title lines)
-    start_body_idx = 1
-    if len(paragraphs) > 1 and re.search(r'^(\d+\.\s*)?Chương\s+\d+:', paragraphs[1], re.IGNORECASE):
-        start_body_idx = 2
-        if len(paragraphs) > 2 and re.search(r'^(\d+\.\s*)?Chương\s+\d+:', paragraphs[2], re.IGNORECASE):
-            start_body_idx = 3
-
-    body_paras = paragraphs[start_body_idx:]
-
-    # Polish body text
-    polished_body = []
-    for p in body_paras:
-        p_clean = p
-
-        # 1. Calques
-        p_clean = p_clean.replace("Bạch hồ cười lạnh một tiếng, nói:", "Bạch hồ khẽ nhếch mép cười nhạt, nói:")
-        p_clean = p_clean.replace("Lorinna cười lạnh một tiếng:", "Lorinna bật cười khẩy:")
-        p_clean = p_clean.replace("bèn cười lạnh một tiếng:", "bèn nhếch môi cười giễu:")
-
-        # 2. Clean stray CJK punctuation / decoration in author donation notes
-        # Keep '米' in chapter 228
-        if ch_num != 228:
-            p_clean = p_clean.replace("丶", "")
-        p_clean = p_clean.replace("灬", "-")
-        p_clean = p_clean.replace("乄", "")
-
-        # 3. Prosody Clunky phrase healing
-        p_clean = VietnameseProsodyEngine.heal_clunky_phrases(p_clean)
-
-        polished_body.append(p_clean)
-
-    # Reconstruct TXT
-    new_paras = [header_title, sub_title] + polished_body
-    new_text = "\n\n".join(new_paras).strip() + "\n"
-    txt_file.write_text(new_text, encoding="utf-8")
-
-    # Update JSON sidecar if exists
-    if json_file.exists():
-        try:
-            jd = json.loads(json_file.read_text(encoding="utf-8"))
-            jd["title"] = sub_title
-            # Update bilingual alignment for title if index 1
-            if jd.get("bilingual_alignment") and len(jd["bilingual_alignment"]) > 0:
-                jd["bilingual_alignment"][0]["translated_vi"] = sub_title
-            json_file.write_text(json.dumps(jd, ensure_ascii=False, indent=2), encoding="utf-8")
-        except Exception:
-            pass
-
-    return {
-        "chapter": ch_num,
-        "title": sub_title,
-        "body_paras_count": len(polished_body),
-        "status": "POLISHED"
-    }
+    source_file = BOOK_DIR / "sources" / f"source_chapter_{ch_num:04d}.json"
+    source = json.loads(source_file.read_text(encoding="utf-8"))
+    candidate = json.loads(json_file.read_text(encoding="utf-8"))
+    errors = inspect_chapter(source, candidate, txt_file.read_text(encoding="utf-8"))
+    if errors:
+        raise ValueError("Polish blocked: " + ", ".join(errors))
+    for record in candidate["bilingual_alignment"]:
+        record["translated_vi"] = VietnameseProsodyEngine.heal_clunky_phrases(record["translated_vi"])
+    candidate.pop("review_evidence", None)
+    candidate["status"] = "DRAFT_MODIFIED_UNREVIEWED"
+    candidate["title"] = candidate["bilingual_alignment"][0]["translated_vi"]
+    text = render_text(candidate["bilingual_alignment"])
+    if inspect_chapter(source, candidate, text):
+        raise ValueError("Polish produced invalid source alignment")
+    folder = OUTPUT_DIR.parent / "polished_drafts"
+    atomic_text(folder / txt_file.name, text)
+    atomic_json(folder / json_file.name, candidate)
+    atomic_json(folder / f"chuong_{ch_num:04d}.receipt.json", {
+        "status": candidate["status"], "source_hash": source["package_hash"],
+        "candidate_hash": digest(candidate), "text_hash": digest(text)})
+    return {"chapter": ch_num, "title": candidate["title"],
+            "body_paras_count": len(candidate["bilingual_alignment"]), "status": "UNREVIEWED_PROPOSAL"}
 
 
 def main():

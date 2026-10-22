@@ -26,7 +26,7 @@ MICRO_LOCK_SYSTEM_PROMPT = """Bạn là Kiến trúc sư Từ điển của Bạ
 Nhiệm vụ: Chuẩn hóa danh sách thực thể mới quét được từ batch 50 chương tiểu thuyết và xác định vai vế xưng hô với Nhân vật chính (PROTAGONIST).
 Quy tắc:
 1. Tên người (PERSON), công pháp/pháp bảo (SKILL/ITEM): Dịch Hán-Việt chuẩn xác.
-2. Nickname khách nối máy / cư dân mạng (GUEST) hoặc quà tặng livestream (GIFT): Dịch nghĩa tiếng Việt tự nhiên, mượt mà, giữ đúng sắc thái hài hước/đặc trưng mạng (VD: 愛吃香菜 -> Hội Ghét Rau Mùi / Thích Ăn Rau Mùi; 穿雲箭 -> Tên Xuyên Mây).
+2. Nickname khách nối máy / cư dân mạng (GUEST) hoặc quà tặng livestream (GIFT): Dịch nghĩa tiếng Việt tự nhiên, mượt mà, giữ đúng sắc thái hài hước/đặc trưng mạng (VD: 愛吃香菜 -> Thích Ăn Rau Mùi; 穿雲箭 -> Tên Xuyên Mây).
 3. Chỉ trả về định dạng Pipe-DSL, mỗi thực thể 1 dòng, KHÔNG giải thích:
 ENT|<Raw_ZH>|<Locked_VI>|<CAT>|<Gender:M/F/N>|<narr_lock>|<Self_To_Protag>|<Target_To_Protag>|<Protag_Self>|<Protag_Target>|<Bio_Capsule_10_Tu>
 """

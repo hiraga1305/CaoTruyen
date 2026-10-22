@@ -1,6 +1,6 @@
 # Luồng dịch hàng loạt: hợp đồng ngữ cảnh trước khi dịch
 
-Mục tiêu là kiểm chứng Gemini 3.8 Flash low/medium với nhiều worker, rồi cải thiện **cách tạo đầu vào và điều phối** nếu thất bại. GPT/Codex dùng để đánh giá các thử nghiệm có đối chứng và kiểm tra hồi quy; không dùng GPT sửa từng đoạn của hàng chục nghìn chương.
+Mục tiêu là kiểm chứng Gemini 3.8 Flash low/medium với nhiều worker, rồi cải thiện **cách tạo đầu vào và điều phối** nếu thất bại. Đánh giá thử nghiệm là hoạt động ngoài luồng; pipeline vận hành độc lập trong Antigravity.
 
 ## Luồng đề xuất
 
@@ -98,6 +98,6 @@ Policy này là thiết kế để triển khai sau pilot, không phải tính n
 2. **Kiểm tra tự động:** kiểm tra cơ học/hash/ownership trước; verifier medium đọc cả nguồn và draft theo rubric nghĩa + phong cách, trả trích dẫn xác định sai hoặc còn bất định, đồng thời kiểm tra seam giữa scene. Model verifier phải được đo với bộ sai/đúng khóa và heldout; self-score hay câu “đã kiểm tra” không đủ làm gate. Một nét mơ hồ có chủ ý trong nguồn được giữ nguyên không phải lỗi cần cưỡng ép giải nghĩa.
 3. **Retry toàn scene:** khi lỗi đến từ thiếu nguồn xa hoặc ranh giới không đúng, cập nhật contract từ quote Trung văn, mở retrieval/overlap hoặc ghép scene; sinh lại toàn scene với low. Khi dữ liệu đã đủ mà low vẫn sai, đổi sang medium và dịch scene đó theo thứ tự cùng hàng xóm đã chấp nhận. Khi lỗi là bất đồng terminology/quan hệ, tăng version state và vô hiệu mọi job phụ thuộc snapshot cũ. Không đưa câu Việt đúng của reviewer vào prompt, không patch đoạn lỗi.
 4. **Dừng có giới hạn:** đặt số retry/escalation hữu hạn; failure lặp lại, gate chưa hiệu chỉnh hoặc quota không rõ thì quarantine scene/block, không xuất bản. Giữ nguyên candidates thất bại để so sánh design, không xóa lịch sử rồi chỉ báo bản cuối.
-5. **Giảm GPT vận hành thường xuyên:** GPT/Codex đánh giá thiết kế trên tập khóa, đối chứng và canary, rồi kiểm tra lấy mẫu/drift. Không biến mỗi chương thành một vòng GPT sửa văn. Đối với sản xuất, vẫn cần gate source-bound đáng tin cậy; lấy mẫu chỉ ước lượng chất lượng và không đảm bảo mọi chương đều sạch.
+5. **Kiểm định route trước mở rộng:** đánh giá thiết kế trên tập khóa, đối chứng và canary. Hoạt động kiểm thử ngoài luồng không tạo phụ thuộc vận hành vào nền tảng khác. Đối với sản xuất, vẫn cần gate source-bound đáng tin cậy; lấy mẫu chỉ ước lượng chất lượng và không đảm bảo mọi chương đều sạch.
 
 Các dấu hiệu improvement phải đo được trên **bản sinh lại nguyên scene** ở heldout mới và chuỗi canary dài. Nếu shared capsule không thắng isolated, tiếp tục sửa cách lựa chọn quote/scene/coreference hoặc định tuyến model; không kết luận nhiều subagent giữ mạch chỉ vì dùng chung state hash.

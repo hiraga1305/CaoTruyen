@@ -19,6 +19,7 @@ OUTPUT_DIR = ROOT / "native_oauth" / "book_49736" / "output_dich"
 SOURCES_DIR = ROOT / "native_oauth" / "book_49736" / "sources"
 
 from native_oauth.prosody_engine import VietnameseProsodyEngine
+from native_oauth.chapter_integrity import inspect_chapter
 
 CJK_PATTERN = re.compile(r"[\u4e00-\u9fff\u3400-\u4dbf\uf900-\ufaff]")
 DSL_LEAK_PATTERN = re.compile(r"§\d+|\[\[PRON:[^\]]+\]\]")
@@ -65,7 +66,7 @@ def check_standalone_ta(text: str) -> list[str]:
     return issues
 
 
-def run_full_audit(max_chapters=325):
+def run_full_audit(max_chapters=325, report_file=None):
     print("=" * 70)
     print(" BẮT ĐẦU KIỂM ĐỊNH TOÀN DIỆN 5 TẦNG CHO BỘ TRUYỆN 325 CHƯƠNG")
     print(" Bộ truyện: 《Tìm Kiếm Vô Gian Địa Ngục》 (Book 49736)")
@@ -75,6 +76,9 @@ def run_full_audit(max_chapters=325):
     stats = {
         "total_chapters": max_chapters,
         "verified_chapters": 0,
+        "scanned_chapters": 0,
+        "scope": "structural audit and heuristic triage; not semantic/literary approval",
+        "integrity_findings": [],
         "total_words": 0,
         "total_paras": 0,
         "raw_segments_total": 0,
@@ -106,7 +110,7 @@ def run_full_audit(max_chapters=325):
         json_file = OUTPUT_DIR / f"chuong_{ch:04d}.dich.json"
         src_file = SOURCES_DIR / f"source_chapter_{ch:04d}.json"
 
-        if not txt_file.exists() or not json_file.exists():
+        if not txt_file.exists() or not json_file.exists() or not src_file.exists():
             stats["missing_files"].append(ch)
             continue
 
@@ -119,16 +123,22 @@ def run_full_audit(max_chapters=325):
         stats["total_words"] += words
 
         # 1. Structural check
+        integrity_errors = []
         try:
             jd = json.loads(json_file.read_text(encoding="utf-8"))
-            exp_p = jd.get("total_paragraphs", 0)
-            act_p = jd.get("translated_paragraphs", 0)
+            source = json.loads(src_file.read_text(encoding="utf-8"))
+            exp_p = len(source.get("segments", []))
+            act_p = len(jd.get("bilingual_alignment", []))
+            integrity_errors = inspect_chapter(source, jd, txt)
             stats["total_paras"] += act_p
             stats["raw_segments_total"] += exp_p
             if exp_p > 0 and exp_p != act_p:
                 stats["para_mismatches"].append((ch, exp_p, act_p))
         except Exception as e:
             stats["para_mismatches"].append((ch, "JSON_ERROR", str(e)))
+            integrity_errors = ["INVALID_ARTIFACT: " + str(e)]
+        if integrity_errors:
+            stats["integrity_findings"].append({"chapter": ch, "errors": integrity_errors})
 
         # 2. CJK & DSL leaks
         cjk_found = CJK_PATTERN.findall(txt)
@@ -171,14 +181,17 @@ def run_full_audit(max_chapters=325):
             else:
                 stats["prosody_clunky"] += 1
 
-        stats["verified_chapters"] += 1
+        stats["scanned_chapters"] += 1
+        if not integrity_errors:
+            stats["verified_chapters"] += 1
 
     elapsed = time.time() - t0
     print("\n" + "=" * 70)
     print(f" KẾT QUẢ KIỂM ĐỊNH TOÀN DIỆN ({elapsed:.2f}s)")
     print("=" * 70)
     print(f"1. TỔNG QUAN:")
-    print(f"   - Số chương hoàn tất: {stats['verified_chapters']}/{stats['total_chapters']} ({stats['verified_chapters']/stats['total_chapters']*100:.1f}%)")
+    print(f"   - Đã quét: {stats['scanned_chapters']}/{stats['total_chapters']}; đúng cấu trúc/đồng bộ: {stats['verified_chapters']}")
+    print("   - Kiểm cấu trúc không thay thế review nghĩa/văn học hoặc quyền xuất bản.")
     print(f"   - Tổng số từ tiếng Việt: {stats['total_words']:,} từ")
     print(f"   - Tổng số đoạn văn: {stats['total_paras']:,} đoạn (Nguyên tác: {stats['raw_segments_total']:,} đoạn)")
     print(f"   - Tệp thiếu / Tệp hỏng (<1KB): {len(stats['missing_files'])} / {len(stats['small_files'])}")
@@ -208,10 +221,11 @@ def run_full_audit(max_chapters=325):
     print("=" * 70)
 
     # Save detailed audit report
-    report_file = ROOT / "audit" / "full_novel_325_audit_report.json"
+    report_file = Path(report_file) if report_file else ROOT / "audit" / "full_novel_325_audit_report.json"
     report_file.parent.mkdir(parents=True, exist_ok=True)
     report_file.write_text(json.dumps(stats, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"[✓] Đã xuất báo cáo chi tiết ra: {report_file}")
+    return stats
 
 if __name__ == "__main__":
     run_full_audit(325)
