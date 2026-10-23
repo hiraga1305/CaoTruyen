@@ -27,12 +27,20 @@ def book_progress(book_dir, total_chapters):
             drafts.append(chapter)
     legacy = [int(path.stem.split('_')[1]) for path in (book/'output_dich').glob('chuong_*.txt')
               if path.stem.split('_')[1].isdigit()]
+    wave_errors = []
+    try:
+        from native_oauth.wave_review import validate_wave_gates
+        validate_wave_gates(book)
+    except (OSError,ValueError,KeyError,TypeError) as error:
+        wave_errors.append(str(error))
     return {'scope':'Independent approvals from the current manifest', 'total_chapters':total_chapters,
             'approved_chapters':sorted(approved), 'approved_count':len(approved),
             'approved_percent':round(len(approved)/total_chapters*100,1) if total_chapters else 0,
             'draft_unreviewed_chapters':sorted(drafts),
             'legacy_unreviewed_chapters':sorted(ch for ch in legacy if ch not in approved),
-            'invalid_approvals':invalid, 'approved_words':words, 'approved_paragraphs':paragraphs}
+            'invalid_approvals':invalid, 'wave_review_errors':wave_errors,
+            'export_ready':len(approved)==total_chapters and not invalid and not wave_errors,
+            'approved_words':words, 'approved_paragraphs':paragraphs}
 
 
 def main():
@@ -45,7 +53,7 @@ def main():
         parser.error('chapters must be positive')
     report = book_progress(args.book_dir, args.chapters)
     print(json.dumps(report, ensure_ascii=False, indent=2))
-    if args.verify and report['approved_count'] != args.chapters:
+    if args.verify and not report['export_ready']:
         raise SystemExit(2)
 
 

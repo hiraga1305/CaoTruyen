@@ -40,13 +40,17 @@ def bind_native_session(events_path):
             event = json.loads(line)
             session = event.get('conversation_id')
             if event.get('event') == 'init' and isinstance(session, str) and re.fullmatch(r'[A-Za-z0-9_-]+', session):
-                monitor.artifact_dir = Path.home()/'.gemini/antigravity/brain'/session
-                monitor.native_artifact_dirs.add(monitor.artifact_dir)
-                if monitor.artifact_dir not in monitor.native_session_order:
-                    monitor.native_session_order.append(monitor.artifact_dir)
-                while len(monitor.native_session_order)>6:
-                    monitor.native_artifact_dirs.discard(monitor.native_session_order.pop(0))
-                monitor.sync_session_artifacts()
+                # Parallel translators can observe init at the same time.
+                # Serialize session membership and rendering with progress writes.
+                lock=monitor._lock if isinstance(monitor,SessionMonitor) else SessionMonitor._instance_lock
+                with lock:
+                    monitor.artifact_dir = Path.home()/'.gemini/antigravity/brain'/session
+                    monitor.native_artifact_dirs.add(monitor.artifact_dir)
+                    if monitor.artifact_dir not in monitor.native_session_order:
+                        monitor.native_session_order.append(monitor.artifact_dir)
+                    while len(monitor.native_session_order)>6:
+                        monitor.native_artifact_dirs.discard(monitor.native_session_order.pop(0))
+                    monitor.sync_session_artifacts()
                 return True
     except (OSError, ValueError):
         pass

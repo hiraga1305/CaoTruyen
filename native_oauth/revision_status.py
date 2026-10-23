@@ -61,14 +61,20 @@ def campaign_status(book, job):
             'status':'REVIEWED_IN_CURRENT_CHAPTER' if reviewed else 'PENDING_NATIVE_CHAPTER_REVIEW'})
     state=read_json(job/'campaign.json')
     manifest_stable=read_manifest(book)==manifest
+    wave_errors=[]
+    try:
+        from native_oauth.wave_review import validate_wave_gates
+        validate_wave_gates(book,manifest)
+    except (OSError,ValueError,KeyError,TypeError) as error:
+        wave_errors.append(str(error))
     return {'as_of_utc':datetime.now(timezone.utc).isoformat(),
         'scope':'Verified local native revisions; recovery proposals do not grant publication approval',
         'campaign_state':state,'baseline_files':len(frozen),'baseline_changes':changed,
         'manifest_hash':digest(manifest),'manifest_stable':manifest_stable,
-        'approved_count':len(approved),'approved':approved,'invalid_approvals':invalid,
+        'approved_count':len(approved),'approved':approved,'invalid_approvals':invalid,'wave_review_errors':wave_errors,
         'unreviewed_recoveries':recoveries,'recovered_draft_paragraphs':sum(r['paragraphs'] for r in recoveries),
         'source_title_selections':title_selections,
-        'full_range_approved':not invalid and not changed and manifest_stable
+        'full_range_approved':not invalid and not changed and not wave_errors and manifest_stable
             and all(row['status']=='REVIEWED_IN_CURRENT_CHAPTER' for row in title_selections)
             and [r['chapter'] for r in approved]==list(range(1,state['range'][1]+1))}
 

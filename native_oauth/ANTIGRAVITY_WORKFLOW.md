@@ -2,7 +2,27 @@
 
 Workflow vận hành độc lập trong Antigravity qua OAuth/native CLI. Không có dịch vụ duyệt ngoài, bước chờ nền tảng khác hoặc yêu cầu phải mở công cụ kiểm thử bên ngoài để chạy từng chương.
 
+## Luồng ưu tiên: nhóm 5 chương, dịch và audit xen kẽ
+
+`revise_book.py` mặc định dùng `--mode wave`: mỗi nhóm tối đa 5 chương, 2 worker sinh nháp song song và một luồng review theo thứ tự (tổng tối đa 3 phiên native). Khi chương đầu đủ điều kiện, review bắt đầu ngay trong lúc các worker tiếp tục tạo nháp các chương sau. Hai reviewer vẫn chạy trong phiên riêng, không chia sẻ kết luận. Mỗi reviewer đối chiếu đủ nguồn, bản dịch và context cuối đã được duyệt của chương trước; thứ tự phê duyệt giữ nguyên.
+
+```powershell
+python -m native_oauth.revise_book --book-dir native_oauth/book_49736 --job native_oauth/book_49736/repair_jobs/revision_YYYYMMDD --through-chapter 10 --mode wave --max-workers 3 --translator-model gemini-3.8-flash-high --reviewer-model gemini-3.8-flash-high --auditor-model gemini-3.8-flash-medium
+```
+
+Giữ nguyên `--job` để resume. `--through-chapter` là chương cuối của toàn range bắt đầu từ 1; các approval cũ còn khớp nguồn/context/cấu hình được tái sử dụng. Có thể dùng runner này cho sách mới đã cào đủ nguồn nhưng chưa có `output_dich`; legacy, nếu có, chỉ là bản đối chiếu. Job mới snapshot nguồn và bản cũ trước khi gọi model. `--max-workers` từ 2 đến 6 là **tổng** số phiên native: `N-1` worker dịch và một luồng audit; đặt 6 mới cho phép tối đa 5 worker dịch đồng thời. Đây là giới hạn khởi đầu để đo, không phải cam kết tăng tốc tuyến tính. `--mode sequential` giữ cách chạy tuần tự trước đây.
+
+Nháp song song dùng nguồn nguyên văn, tên/thuật ngữ chung, nguồn lân cận và prefix đã được duyệt trước nhóm. Nó có schema `antigravity-wave-draft-1`, không giả có approval của các chương trong nhóm. Giữ nguyên response/package hash native của nháp; receipt `native_generation_package` lưu đúng input đã sinh nó. Gate chỉ chấp nhận đưa nháp vào review với context cuối khi nguồn, canon, heading và phản hồi biên tập còn khớp. Cả hai reviewer phải xác nhận `generation_context_checked:true`; sửa draft vẫn cần hai review mới. FAIL nội dung khiến nháp bị loại khỏi cache tái sử dụng; lỗi quote/schema mới được thử lại trên cùng nháp.
+
+Sau các review theo chương, một native `wave-auditor` đọc đủ nguồn và bản Việt cả nhóm để kiểm tên/xưng hô, thuật ngữ, thời gian, nhân quả, biên chương, giọng văn và cấu trúc. Manifest ghi `wave_gates:PENDING` trước khi chạy; từng chương có thể đã approved nhưng **chưa được xuất sách khi gate nhóm chưa PASS**. Bằng chứng nhóm gắn với đúng revision của từng chương; đổi một revision làm gate cũ mất hiệu lực. Gate FAIL giữ nguyên báo cáo và ghi phản hồi nguồn–đích có hash vào `JOB/wave_diagnostics/`; runner dừng. Resume sẽ sửa/review lại từ chương bị ảnh hưởng, rồi mới kiểm nhóm mới; không lặp audit cùng bản thất bại để lấy PASS. Các approval tuần tự có trước nâng cấp được giữ nguyên; không tự dịch lại hoặc audit lại sách cũ chỉ vì đổi mode.
+
+Reviewer có thể chọn `source_quote_ref`/`target_quote_ref` trong bảng trích dẫn nguyên văn được cung cấp. Host giải tham chiếu đúng đoạn, không sửa quote hoặc verdict do model trả. Trích literal vẫn được phép; quote ghép bằng dấu ba chấm, quote sai ID hoặc ref mâu thuẫn vẫn bị chặn. Mã trích dẫn chỉ giảm lỗi chép bằng chứng, không thay việc đọc toàn đoạn và kiểm nghĩa.
+
+Điều phối được kiểm thử offline bằng model giả lập; các gate PASS khi vận hành thực tế vẫn cần được đối chiếu với kiểm nghĩa trực tiếp. Chưa có phép đo chất lượng/tốc độ A/B trên sách thật. Native quota/timeout, ngữ cảnh vượt ngân sách hoặc lỗi nguồn vẫn có thể dừng job. Không chuyển mode giữa lúc campaign đang chạy; dùng checkpoint `restart_requested.json`, chờ runner dừng rồi resume.
+
 ## Luồng theo sách
+
+Các lệnh bên dưới giữ route tạo draft từng chương để tương thích; muốn điều phối song song theo nhóm dùng luồng ưu tiên phía trên.
 
 Chạy từ thư mục gốc repository. Ví dụ với book 49736; lệnh crawl/dịch/review bên dưới thực sự sử dụng mạng/model khi chạy.
 
@@ -36,7 +56,7 @@ python -m native_oauth.revise_book --book-dir native_oauth/book_49736 --job $job
 python -m native_oauth.revision_status --book-dir native_oauth/book_49736 --job $job --out audit/revision_status.json
 ```
 
-Mỗi chương được sinh bằng một phiên native có toàn bộ nguồn, bản cũ là dữ liệu đối chiếu chưa xác minh. Khi cần sửa, model nhận bản nháp gần nhất để giữ những chỗ đã sửa đúng. Hai reviewer chạy tuần tự trong các phiên riêng: một đọc đối chiếu nguồn, một đọc tiếng Việt trước rồi kiểm lại nguồn. Lượt review không chia sẻ báo cáo của nhau. Promote tuần tự, context chương sau chỉ lấy revision đã duyệt của chương trước. Đổi cấu hình reviewer hoặc package khi resume sẽ kiểm lại các chương có cấu hình cũ; đổi chương trước làm các entry sau mất hiệu lực nhưng giữ artifact lịch sử.
+Mỗi chương được sinh bằng một phiên native có toàn bộ nguồn, bản cũ là dữ liệu đối chiếu chưa xác minh. Ở mode wave, nháp dùng prefix đã duyệt trước nhóm; khi review cuối mới nối context chương trước đã duyệt. Khi cần sửa, model nhận bản nháp gần nhất để giữ những chỗ đã sửa đúng. Hai reviewer chạy tuần tự trong các phiên riêng: một đọc đối chiếu nguồn, một đọc tiếng Việt trước rồi kiểm lại nguồn. Lượt review không chia sẻ báo cáo của nhau. Promote tuần tự, context cuối của chương sau chỉ lấy revision đã duyệt của chương trước. Đổi cấu hình reviewer hoặc package khi resume sẽ kiểm lại các chương có cấu hình cũ; đổi chương trước làm các entry sau mất hiệu lực nhưng giữ artifact lịch sử.
 
 Lượt repair không lặp lại toàn bộ baseline/recovery cũ khi đã có candidate gần nhất; vẫn luôn gửi đủ nguồn và findings. Việc này giảm ngữ cảnh trùng và tránh model quay lại cách diễn đạt sai ban đầu. Nếu native trả `status:BLOCKED`, giữ response gốc và lý do rồi dừng, không coi nó là candidate hoặc lỗi JSON để hỏi lại tới khi đạt.
 

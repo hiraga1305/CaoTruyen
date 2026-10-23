@@ -31,9 +31,9 @@ ROOT = Path(__file__).resolve().parents[1]
 POLICY = {'mode': 'antigravity_sessions', 'version': 1}
 
 
-def diagnostic_notes(book, job, chapter, source):
+def diagnostic_notes(book, job, chapter, source, note_file=None):
     """Optional, quoted editorial feedback: never a review or an approval."""
-    note=job/'diagnostics'/f'chapter_{chapter:04d}.json'
+    note=Path(note_file) if note_file is not None else job/'diagnostics'/f'chapter_{chapter:04d}.json'
     if not note.exists():
         return [],{}
     value=read_json(note)
@@ -109,7 +109,7 @@ def cached_revision(job, chapter, package, model):
     return candidate
 
 
-def prepare_revision(book, job, chapter):
+def prepare_revision(book, job, chapter, *, draft_anchor=None):
     book, job = Path(book).resolve(), Path(job).resolve()
     source_file = book/'sources'/f'source_chapter_{chapter:04d}.json'
     source = read_json(source_file)
@@ -119,7 +119,7 @@ def prepare_revision(book, job, chapter):
     if frozen != source:
         raise ValueError('Current source differs from frozen campaign source; make an explicit new campaign')
     legacy_file = job/'baseline/output_dich'/f'chuong_{chapter:04d}.dich.json'
-    legacy = read_json(legacy_file)
+    legacy = read_json(legacy_file) if legacy_file.exists() else {'bilingual_alignment':[]}
     previous_result=job/'results'/f'chapter_{chapter:04d}.json'
     if previous_result.exists():
         previous_path=Path(read_json(previous_result)['approval']).resolve()
@@ -138,27 +138,42 @@ def prepare_revision(book, job, chapter):
         legacy={**legacy,'recovery_proposal':proposal['segments']}
     snapshot = read_json(job/'baseline_manifest.json')
     for filename in (f'sources/{source_file.name}', f'output_dich/{legacy_file.name}'):
+        if filename not in snapshot:
+            if filename.startswith('output_dich/') and not legacy_file.exists():
+                continue
+            raise ValueError('File is not part of the frozen baseline: '+filename)
         if hashlib.sha256((job/'baseline'/filename).read_bytes()).hexdigest() != snapshot[filename]['sha256']:
             raise ValueError('Frozen baseline was modified')
     lore_file = book/'lore.json'
     lore = read_json(lore_file) if lore_file.exists() else {}
     entities, _, terms = normalize_profile(source['book_id'], [], [], lore)
     context = None
-    if chapter > 1:
+    if chapter > 1 and draft_anchor is None:
         previous = read_approval(book, chapter-1)
         context = retrieve_context(book, chapter, previous['evidence_path'], entities,
                                    '\n'.join(s['source'] for s in source['segments']))
     # General dictionary meanings are suggestions; only editorial character names
     # are literal locks. A lone character such as 潘 must not lock every usage.
     names = {key: value for key, (value, category) in terms.items() if category == 'character_name' and ' / ' not in value}
-    package = build_package(chapter, source['title'], [s['source'] for s in source['segments']],
-                            names, source['source_ref'], context)
+    if draft_anchor is None:
+        package = build_package(chapter, source['title'], [s['source'] for s in source['segments']],
+                                names, source['source_ref'], context)
+    else:
+        # A draft envelope deliberately is NOT an approvable semantic package.
+        package = {'version':'antigravity-wave-draft-1', 'chapter':chapter,
+                   'title':source['title'], 'source_ref':source['source_ref'],
+                   'glossary':names, 'segments':source['segments'], 'context':{},
+                   'draft_anchor':draft_anchor, 'approval_eligible':False}
     package.update(book_id=source['book_id'], book_title=lore.get('book_title_vi', book.name),
                    total_chapters=len(read_json(book/'toc.json')) if (book/'toc.json').exists() else chapter,
                    genre=lore.get('genre', 'SOURCE_CONTEXT'), origin_source_hash=source['package_hash'],
                    semantic_guidance=semantic_guidance(source['segments'], terms),
                    native_bound_files=bound_files([source_file, lore_file, Path(__file__).with_name('semantic_profiles.json')]))
     notes,note_files=diagnostic_notes(book,job,chapter,source)
+    wave_notes,wave_files=diagnostic_notes(book,job,chapter,source,
+                                          job/'wave_diagnostics'/f'chapter_{chapter:04d}.json')
+    notes += wave_notes
+    note_files.update(wave_files)
     if notes:
         package['editorial_diagnostics']={'status':'SOURCE_BOUND_DIAGNOSTIC_NOT_APPROVAL','findings':notes,
             'rule':'Recheck against Chinese and the current draft; an old defect may already be corrected. Suggestions are not facts.'}
@@ -212,13 +227,18 @@ def revision_protocol(package, legacy, findings=None, current_candidate=None):
 
 def revise_chapter(book, job, chapter, *, translator_model='gemini-3.8-flash-medium',
                    reviewer_model='gemini-3.8-flash-high', auditor_model='gemini-3.8-flash-medium',
-                   timeout=600, max_repairs=1):
+                   timeout=600, max_repairs=1, draft_seed=None):
     book, job = Path(book).resolve(), Path(job).resolve()
     source, legacy, package = prepare_revision(book, job, chapter)
     started = time.monotonic()
     findings = None
     current_candidate = None
     cached = cached_revision(job, chapter, package, translator_model)
+    if cached is None and draft_seed is not None:
+        from native_oauth.wave_drafts import validate_generation_package
+        validate_generation_package(package, draft_seed)
+        validate_provenance(draft_seed)
+        cached = draft_seed
     for attempt in range(max_repairs+1):
         workspace = job/'chapters'/f'chapter_{chapter:04d}'/(f'attempt_{attempt}_'+uuid.uuid4().hex)
         data = workspace/'native_oauth/runs/chapter1'
@@ -243,6 +263,9 @@ def revise_chapter(book, job, chapter, *, translator_model='gemini-3.8-flash-med
         write_json(workspace/'qa.json', report)
         findings = report['findings']
         if report['status'] != 'PASS':
+            if draft_seed is not None and any(f.get('kind')!='invalid_review' for f in findings):
+                atomic_json(job/'rejected_wave_drafts'/f'chapter_{chapter:04d}.json',
+                            {'candidate_hash':digest(draft_seed),'reason':'Source-bound content review failed'})
             continue
         fresh = prepare_revision(book, job, chapter)
         if fresh[0] != source or fresh[1] != legacy or fresh[2] != package:
@@ -276,7 +299,12 @@ def revise_chapter(book, job, chapter, *, translator_model='gemini-3.8-flash-med
     raise ValueError(f'Chapter {chapter} blocked after {max_repairs+1} complete attempts; inspect {workspace}')
 
 
-def run_campaign(book, job, through=325, **options):
+def run_campaign(book, job, through=325, *, mode='wave', max_workers=3, **options):
+    if mode == 'wave':
+        from native_oauth.wave_revision import run_wave_campaign
+        return run_wave_campaign(book, job, through, max_workers=max_workers, **options)
+    if mode != 'sequential':
+        raise ValueError('Unknown campaign mode')
     book, job = Path(book).resolve(), Path(job).resolve()
     state = {'book_id':book.name.removeprefix('book_'),'range':[1,through],
              'status':'RUNNING','approved_chapters':[],'job':str(job)}
@@ -300,6 +328,8 @@ def run_campaign(book, job, through=325, **options):
                     revise_chapter(book,job,chapter,**options)
                 state['approved_chapters'].append(chapter)
                 atomic_json(job/'campaign.json',state)
+            from native_oauth.wave_review import validate_wave_gates
+            validate_wave_gates(book)
             state['status']='APPROVED_RANGE_COMPLETE'
         except Exception as error:
             state.update(status='BLOCKED',reason=str(error),error_type=type(error).__name__)
@@ -315,11 +345,14 @@ def main():
     parser.add_argument('--job',required=True,type=Path)
     parser.add_argument('--snapshot-only',action='store_true')
     parser.add_argument('--through-chapter',type=int,default=325)
-    parser.add_argument('--translator-model',default='gemini-3.8-flash-medium')
+    parser.add_argument('--translator-model',default='gemini-3.8-flash-high')
     parser.add_argument('--reviewer-model',default='gemini-3.8-flash-high')
     parser.add_argument('--auditor-model',default='gemini-3.8-flash-medium')
     parser.add_argument('--timeout',type=int,default=600)
     parser.add_argument('--max-repairs',type=int,choices=(0,1,2),default=1)
+    parser.add_argument('--mode', choices=('wave','sequential'), default='wave')
+    parser.add_argument('--max-workers', type=int, choices=range(2,7), default=3,
+                        help='Total native slots: N-1 translators plus one ordered review lane (2..6)')
     args=parser.parse_args()
     if args.through_chapter<1 or args.timeout<30 or args.timeout>900:
         parser.error('Invalid range or timeout')
@@ -333,7 +366,7 @@ def main():
         parser.error('Requested chapter range exceeds the book TOC')
     run_campaign(args.book_dir,args.job,args.through_chapter,translator_model=args.translator_model,
                  reviewer_model=args.reviewer_model,auditor_model=args.auditor_model,
-                 timeout=args.timeout,max_repairs=args.max_repairs)
+                  timeout=args.timeout,max_repairs=args.max_repairs,mode=args.mode,max_workers=args.max_workers)
 
 
 if __name__=='__main__':

@@ -159,4 +159,6 @@ def load_approved_chapters(book_dir, expected_chapters):
         raise ValueError('Full-book export requires a continuous range from chapter 1')
     if sorted(map(int, read_manifest(book_dir)['chapters'])) != expected:
         raise ValueError('Approved manifest has missing/extra chapters')
+    from native_oauth.wave_review import validate_wave_gates
+    validate_wave_gates(book_dir)
     return [read_approval(book_dir, chapter)['rendered'] for chapter in expected]

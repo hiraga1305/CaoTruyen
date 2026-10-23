@@ -6,7 +6,8 @@ from semantic_gate import digest
 from native_oauth.run_agy import require_complete_runtime, classify_completion
 
 TRANSPORT_KEYS = {'model', 'identity_basis', 'conversation_id', 'runtime_hash',
-                  'native_runtimes', 'native_artifact', 'format_repair', 'native_response_binding'}
+                  'native_runtimes', 'native_artifact', 'format_repair', 'native_response_binding',
+                  'native_generation_package'}
 
 
 def artifact_record(path, payload):

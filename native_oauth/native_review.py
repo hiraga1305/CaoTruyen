@@ -6,6 +6,7 @@ import uuid
 from pathlib import Path
 from semantic_gate import review_prompt, write_json, validate_review, LITERARY_CHECKS
 from native_oauth.session_monitor import get_session_monitor
+from native_oauth.review_quotes import evidence_catalog
 
 
 def install_agents(workspace):
@@ -22,7 +23,7 @@ def visible_stage(package, role):
                               package.get('book_title', package.get('title', 'Truyện')),
                               package.get('total_chapters', max(1, chapter)))
     mon.genre = package.get('genre', package.get('style_profile', {}).get('genre', 'Theo nguồn'))
-    mon.chapter_range = str(chapter)
+    mon.chapter_range = package.get('chapter_range', package.get('draft_anchor',{}).get('chapter_range',str(chapter)))
     worker = role + '-' + uuid.uuid4().hex[:8]
     mon.record_worker_active(worker, chapter, (chapter - 1) // 5 + 1, message=role)
     print(mon.render_markdown_badge(), flush=True)
@@ -51,11 +52,13 @@ def run_independent_reviews(package, candidate, data, workspace, reviewer_model,
                  '. Return valid JSON; true means inspected, real defects still FAIL.')
     suffix += ('\nsource_quote/target_quote must be exact contiguous substrings of their supplied paragraph, '
                  'including original case and punctuation. Prefer a short meaningful quote from the middle '
-                 'of a paragraph rather than copying all text. A quote may span paragraph boundaries in the story: '
+                 'of a paragraph rather than copying all text. Every evidence quote must stay inside its assigned paragraph; '
                  'never invent an opening or closing quotation mark absent from this paragraph. '
                  'Do not normalize quotation marks or whitespace in evidence. '
                  'Use short meaningful exact quotes and one concise source-grounded reason per row; '
                  'do not duplicate full paragraphs in the report. Inspect every paragraph regardless of report brevity.')
+    base_size = max(len(review_prompt(package,candidate,literary_first=first)+suffix) for first in (False,True))
+    suffix += evidence_catalog(package, candidate, budget=max(0, min(18000, 117000-base_size)))
     if max(len(review_prompt(package,candidate,literary_first=first)+suffix) for first in (False,True)) > 120000:
         raise ValueError('Complete review protocol exceeds context budget')
     def review(role, model):

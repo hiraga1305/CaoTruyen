@@ -160,8 +160,12 @@ def mechanical_findings(package, candidate):
     issues = []
     if not isinstance(candidate, dict) or not isinstance(candidate.get('segments'), list) or any(not isinstance(s, dict) for s in candidate['segments']):
         return [{'kind': 'invalid_candidate_schema'}]
-    if candidate.get('package_hash') != package['package_hash']:
-        issues.append({'kind': 'source_mismatch'})
+    if candidate.get('package_hash') != package['package_hash'] or candidate.get('native_generation_package'):
+        try:
+            from native_oauth.wave_drafts import validate_generation_package
+            validate_generation_package(package, candidate)
+        except (ValueError, KeyError, TypeError, OSError) as error:
+            issues.append({'kind': 'source_mismatch', 'reason': str(error)})
     expected = [s['id'] for s in package['segments']]
     actual = [s.get('id') for s in candidate.get('segments', [])]
     if actual != expected:
@@ -194,6 +198,8 @@ def validate_review(package, candidate, review):
         raise ValueError('Review must say PASS or FAIL')
     if package.get('render_title_ownership') and review.get('title_ownership_checked') is not True:
         raise ValueError('Source-backed rendered title ownership must be explicitly checked')
+    if candidate.get('native_generation_package') and review.get('generation_context_checked') is not True:
+        raise ValueError('Parallel draft must be checked against the final approved context')
     checks = review.get('checks', {})
     if set(checks) != set(CHECKS) or any(v is not True for v in checks.values()):
         raise ValueError('All semantic dimensions must be explicitly checked')
@@ -205,7 +211,8 @@ def validate_review(package, candidate, review):
         if row.get('verdict') not in ('PASS', 'FAIL'):
             raise ValueError('Missing paragraph verdict')
         for key, body in (('source_quote', raw['source']), ('target_quote', draft['text'])):
-            quote = row.get(key)
+            from native_oauth.review_quotes import resolve_quote
+            quote = resolve_quote(row, key, body)
             if not isinstance(quote, str) or not quote.strip() or quote not in body:
                 raise ValueError('Review evidence does not match ' + raw['id']+' '+key+
                                  '; quote='+repr(quote)[:240]+'; copy an exact substring from this paragraph')
@@ -327,6 +334,12 @@ def review_prompt(package, candidate, literary_first=False):
         protocol+=('Kiểm render_title_ownership: tiêu đề lấy từ đầu .content có snapshot nguồn, không lấy metadata .name bị cắt/mất ký hiệu. '
                    'Mọi ID tiêu đề vẫn phải dịch và review đầy đủ; chỉ khi render mới loại metadata/trùng heading khỏi thân bài. '
                    'Giữ đủ lời tác giả trong heading thật và ký hiệu số. Trả thêm title_ownership_checked:true sau khi đã kiểm.\n')
+    if candidate.get('native_generation_package'):
+        protocol += ('Bản nháp được sinh song song với ngữ cảnh nguồn/anchor riêng, chưa được duyệt. '
+                     'package_hash của draft là package SINH NHÁP; package_hash của review phải là SOURCE hiện tại. '
+                     'Đối chiếu lại toàn bộ draft với nguồn và context đã duyệt trong SOURCE hiện tại, '
+                     'đặc biệt các quan hệ/thuật ngữ ở biên chương. Trả generation_context_checked:true '
+                     'chỉ sau khi đã kiểm; thiếu ngữ cảnh hoặc mâu thuẫn phải FAIL.\n')
     if literary_first:
         protocol += ('Đọc bản Việt trước như độc giả Việt: kiểm chủ ngữ/vị ngữ, liên kết, kết hợp từ và ngữ vực. '
                      'Sau đó kiểm lại từng nhận xét với nguồn Trung. Không cho PASS chỉ vì khớp từng từ. '
