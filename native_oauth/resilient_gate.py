@@ -27,6 +27,8 @@ def check_hash(value):
     if value.get('version')=='resilient-source-draft-1':
         from native_oauth.chapter_integrity import validate_source,validate_source_archive
         source=read_json(value['source_file']);validate_source(source);validate_source_archive(source)
+        from native_oauth.resilient_continuity import validate_contract
+        validate_contract(value,source)
         if read_json(value['source_input_file'])!=source:raise ValueError('Source changed after its immutable snapshot')
         if any(value.get(key)!=source.get(key) for key in ('book_id','chapter','source_ref','title')):
             raise ValueError('Source book/chapter identity differs from the packet')
@@ -144,6 +146,7 @@ def batch_package(chapters,prefix,canon,book,approved_context=None,approval_elig
     first_packet=chapters[0]['source_packet']
     if any(item['source_packet']['book_id']!=first_packet['book_id'] or item['source_packet']['canon']!=canon
            or item['source_packet'].get('model_policy')!=first_packet.get('model_policy')
+           or item['source_packet'].get('continuity_contract',{}).get('version')!=first_packet.get('continuity_contract',{}).get('version')
            or item['source_packet'].get('validation_policy')!=first_packet.get('validation_policy') for item in chapters):
         raise ValueError('A batch cannot mix books, canon or model policies')
     numbers=[r['source_packet']['chapter'] for r in chapters]
@@ -178,6 +181,7 @@ def batch_package(chapters,prefix,canon,book,approved_context=None,approval_elig
         cues += [{k:cue[k] for k in ('source_id','kind','source_quote','review_instruction')}
                  for cue in source_packet.get('semantic_guidance',{}).get('source_anchors',[])]
     return freeze({'version':BATCH_VERSION,**({'review_policy':REVIEW_POLICY} if policy_v2(first) else {}),
+        **({'continuity_policy':first['continuity_contract']['version']} if first.get('continuity_contract') else {}),
         'chapter':first['chapter'],'book_id':first['book_id'],
         'book_title':first['book_title'],'genre':first['genre'],'total_chapters':first['total_chapters'],
         'chapter_range':f"{first['chapter']}–{chapters[-1]['source_packet']['chapter']}",
@@ -244,6 +248,8 @@ def validate_compact_review(packet,value):
                     or type(suggestion.get('target_ref')) is not int or suggestion['target_ref']!=0
                     or not isinstance(suggestion.get('reason'),str) or not suggestion['reason'].strip()):
                 raise ProtocolFailure('Optional style suggestions require owned slots and exact paragraph refs; meaning errors belong in issues')
+    from native_oauth.resilient_continuity import validate_review
+    validate_review(packet,value)
 
 
 def validate_batch_evidence(evidence):
@@ -263,7 +269,7 @@ def validate_batch_evidence(evidence):
     roles=evidence.get('reviews',[])
     if len(roles)!=2 or [r.get('role') for r in roles]!=['meaning-reviewer','literary-reviewer']:
         raise ValueError('Two independent native batch reviewers required')
-    expected=list(range(1,len(batch['catalog'])+1));previous=set();findings=[];suggestions=[]
+    expected=list(range(1,len(batch['catalog'])+1));previous=set();findings=[];suggestions=[];decisions=[]
     for role in roles:
         covered=[];role_sessions=set()
         for part in role['parts']:
@@ -274,6 +280,10 @@ def validate_batch_evidence(evidence):
                        !={k:v for k,v in batch.items() if k!='package_hash'}):
                 raise ValueError('Batch review belongs to different source/revision/context')
             validate_compact_review(packet,value)
+            if batch.get('continuity_policy'):
+                for decision in value['continuity_decisions']:
+                    row=batch['catalog'][decision['slot']-1]
+                    decisions.append({'chapter':row['chapter'],'id':row['id'],'reviewer':role['role'],**decision})
             sessions=set(native_json_sessions(value))
             policy=batch['chapters'][0]['source_packet'].get('model_policy',{})
             configured=policy.get('reviewer') if role['role']=='meaning-reviewer' else policy.get('reviewer2',policy.get('reviewer'))
@@ -296,4 +306,5 @@ def validate_batch_evidence(evidence):
             raise ValueError('Native batch reviewers and translators must be independent')
         previous.update(role_sessions)
     return {'status':'FAIL' if findings else 'PASS','findings':findings,'scope':'Two native full-source batch reviews',
+            **({'continuity_policy':batch['continuity_policy'],'continuity_decisions':decisions} if batch.get('continuity_policy') else {}),
             **({'suggestions':suggestions} if batch.get('review_policy')==REVIEW_POLICY else {})}

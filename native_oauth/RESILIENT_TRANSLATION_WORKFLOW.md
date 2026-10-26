@@ -2,6 +2,8 @@
 
 Luồng vận hành độc lập trong Antigravity, dùng native OAuth/CLI. Không có dependency vào một phiên Codex hoặc dịch vụ audit ngoài. Codex đã kiểm thử code offline; chất lượng/tốc độ thật của giao thức mới cần đo ở pilot trước khi mở rộng toàn sách.
 
+Phiên bản/default hiện hành ở `../workflow.json` và `../WORKFLOW.md`. Từ 2.2, mọi sách dùng [quy ước continuity chung](../docs/CONTINUITY_CONVENTIONS.md): canon local có ID/quote và phạm vi, proof cùng sách, cả hai reviewer khai continuity_checks/continuity_decisions. Sai tên/nhãn hoặc người nói–người nghe là issue bắt buộc; đại từ/biến thể hợp ngữ cảnh cần giải thích. Không thêm lượt model riêng. Các ví dụ dữ liệu kiểm thử dưới đây là lịch sử, không phải tên sách hoặc tổng chương mặc định cho chiến dịch mới.
+
 ## Cấu hình mặc định
 
 - Translator MEDIUM; tối đa bốn worker dịch, cửa sổ tối đa năm chương.
@@ -21,7 +23,7 @@ Góp ý văn phong không bắt buộc nằm trong `suggestions`, được giữ
 
 Trường hợp nguyên tác cố ý nói về một chữ/chuỗi chữ Hán: translator có thể khai `source_script_quotes:[{id,quote,reason}]`, quote 1–32 ký tự phải có nguyên văn ở cả nguồn và đích, gắn đúng ID. Mọi chữ Hán không thuộc quote khai báo vẫn bị chặn. Quote khai báo trở thành nghĩa vụ cho cả hai reviewer; không phải whitelist hoặc PASS tự động. Host chỉ ghép annotation native theo ownership, không xóa chữ Hán. Ký hiệu quẻ Dịch không bị coi nhầm là từ Hán.
 
-Canon mặc định mới của Siwangyouxi là `siwangyouxi_translation_canon_v2.json`: làm rõ tên Lâm Ngự so với đại từ hắn, thống nhất tên đạo cụ Máy phát hiện nói dối và xưng trẫm chỉ cho lời Hoàng Đế trong đúng phạm vi. Canon v1 giữ nguyên để evidence cũ không bị mất hiệu lực. Các batch v1 vẫn được kiểm bằng policy v1; không nới hồi tố gate cũ.
+Canon của từng sách đặt ở `BOOK_DIR/translation_canon.json`; không thêm ngoại lệ runner theo book_id cho quy tắc continuity mới. Các canon chuyên sách cũ và batch policy cũ giữ lại để evidence lịch sử vẫn replay đúng, không phải template để mang tên/đại từ/quan hệ sang một sách khác. Xem schema `continuity_entries` trong hướng dẫn chung; không nới hoặc đổi nhãn hồi tố gate cũ.
 
 Sau cập nhật code/canon, tạo **job revision mới**. Có thể tiếp tục trên book đã có prefix 20 chương được duyệt: runner xác minh prefix rồi bắt đầu từ 21; không cần dịch lại 20 chương hoặc đổi nhãn runtime cũ thành v2. Nếu tăng `through-chapter`, cũng dùng job mới theo configuration freeze. ZIP mới chứa cả dependency native của prefix thuộc job trước và file nguồn gốc trong recovery lineage. Không ghi đè ZIP đã seal.
 

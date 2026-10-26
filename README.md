@@ -2,7 +2,7 @@
 
 Repository chuẩn của thư mục CaoTruyen: **[hiraga1305/CaoTruyen](https://github.com/hiraga1305/CaoTruyen)**. Workflow hiện hành: **Resilient v2**, khai báo ở [workflow.json](workflow.json), hướng dẫn ở [WORKFLOW.md](WORKFLOW.md).
 
-Luồng: **khóa nguồn → bốn worker MEDIUM tạo nháp → hai reviewer MEDIUM độc lập chạy đồng thời, đọc toàn wave → sửa native → approved manifest → checkpoint → đóng gói/xuất**. Workflow 2.1.0; wave tối đa năm chương, tự co theo ngân sách. Response đầy đủ/đúng ID chỉ lỗi vài đoạn được giữ phần đúng và sửa đúng đoạn lỗi. HIGH dự phòng/sửa tập trung. Vận hành độc lập trong Antigravity, không cần Codex hoặc audit ngoài định kỳ.
+Luồng: **khóa nguồn/canon có phạm vi → bốn worker MEDIUM tạo nháp → hai reviewer MEDIUM độc lập chạy đồng thời, đọc toàn wave → sửa native → approved manifest → checkpoint → đóng gói/xuất**. Workflow 2.2.0 áp dụng quy tắc continuity chung cho mọi sách; wave tối đa năm chương, tự co theo ngân sách. Response đầy đủ/đúng ID chỉ lỗi vài đoạn được giữ phần đúng và sửa đúng đoạn lỗi. HIGH dự phòng/sửa tập trung. Vận hành độc lập trong Antigravity, không cần Codex hoặc audit ngoài định kỳ.
 
 ## Bắt đầu
 
@@ -24,6 +24,7 @@ BOOK_DIR/JOB_DIR là đường dẫn local được chọn. Phạm vi phải đ�
 
 - Giữ source/ID/hash/native response; không duyệt thiếu đoạn, partial hoặc model/runtime không khớp.
 - Đại từ/alias đúng người do hai reviewer kiểm, không chặn chỉ vì thiếu chuỗi tên. Style suggestions tùy chọn được lưu riêng.
+- Tên/nhãn và xưng hô theo [quy ước chung có ID nguồn](docs/CONTINUITY_CONVENTIONS.md), không mượn mặc định của sách khác. Hai reviewer ghi quyết định theo phạm vi; sai cùng thực thể không được hạ thành góp ý văn phong.
 - Timeout/format có journal, retry hữu hạn, HIGH fallback và chia output. Quota/network có backoff/circuit breaker/resume.
 - Approval sau hai review native độc lập trên bản cuối, prefix liên tục; diagnostics không có quyền xuất bản.
 - Dashboard/badge hiển thị trực tiếp, tính prefix đã xác minh mà không gán model time giả.
@@ -43,8 +44,10 @@ Nguồn truyện, output, OAuth account, evidence và ZIP giữ local, không th
 ## Tài liệu
 
 - [Workflow chuẩn](WORKFLOW.md).
-- [Thay đổi và giới hạn bản 2.1](docs/releases/workflow-v2.1.md).
-- [Prompt kiểm chứng một wave mới trong Antigravity](docs/prompts/validate-workflow-v2.1.md).
+- [Quy ước tên, thuật ngữ và xưng hô cho mọi truyện](docs/CONTINUITY_CONVENTIONS.md).
+- [Thay đổi và giới hạn bản 2.2](docs/releases/workflow-v2.2.md).
+- [Prompt dịch tiếp dùng chung](docs/prompts/continue-translation.md).
+- [Lịch sử tối ưu 2.1](docs/releases/workflow-v2.1.md).
 - [Giao thức, gate và phục hồi](native_oauth/RESILIENT_TRANSLATION_WORKFLOW.md).
 - [Native OAuth và route tương thích](native_oauth/ANTIGRAVITY_WORKFLOW.md).
 - [Quy tắc agent](AGENTS.md).

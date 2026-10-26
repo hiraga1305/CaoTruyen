@@ -24,6 +24,8 @@ from native_oauth.resilient_gate import (freeze, fragment, component, assemble, 
     validate_translation, batch_package, review_packet, validate_compact_review, validate_batch_evidence)
 from native_oauth.resilient_publication import manifest, prefix, commit, progress
 from native_oauth.resilient_policy import POLICY,REVIEW_POLICY
+from native_oauth.resilient_continuity import (VERSION as CONTINUITY, CHECKS as CONTINUITY_CHECKS,
+    declared_entries, selected_entries, evidence_chapter, scoped_canon)
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -45,6 +47,14 @@ def context_view(rows):
 def translation_view(packet):
     fields=('package_hash','chapter','book_title','genre','title','segments','glossary','canon','context_authority')
     view={key:packet[key] for key in fields}
+    view['canon']=scoped_canon(packet['canon'],packet['chapter'])
+    if packet.get('continuity_contract'):
+        view['canon']['continuity_entries']=packet['continuity_contract']['entries']
+        view['continuity_contract']={'version':CONTINUITY,'entries':[
+            entry for entry in packet['continuity_contract']['entries'] if any(
+                zh in '\n'.join(r['source'] for r in packet['segments'])
+                +packet.get('metadata_title_source',{}).get('source','')
+                for zh in (entry['zh'],*entry.get('aliases_zh',[])))]}
     if packet.get('validation_policy'):view['validation_policy']=packet['validation_policy']
     assigned={r['id'] for r in packet['segments']}
     guidance=packet['semantic_guidance']
@@ -78,9 +88,10 @@ class Runner:
         if not self.canon_file.exists() and self.lore.get('book_id',self.book.name.removeprefix('book_'))=='siwangyouxi':
             self.canon_file=ROOT/'native_oauth/siwangyouxi_translation_canon_v2.json'
         self.canon=read_json(self.canon_file) if self.canon_file.exists() else {}
+        declared_entries(self.canon)
         config={'version':'resilient-runner-2','validation_policy':POLICY,'book':str(self.book),'through':through,'workers':workers,
                 'checkpoint_every':checkpoint_every,
-                'review_workers':review_workers,'content_repair':'owned-native-rows-1',
+                'review_workers':review_workers,'content_repair':'owned-native-rows-1','continuity_policy':CONTINUITY,
                 'translator':model,'reviewer':review_model,'reviewer2':self.review_model2,'fallback':fallback,'timeout':timeout,'max_repairs':max_repairs,
                 'lore_hash':sha(self.book/'lore.json') if (self.book/'lore.json').exists() else None,
                 'canon_hash':sha(self.canon_file) if self.canon_file.exists() else None}
@@ -198,6 +209,15 @@ class Runner:
             if not any(r['id']==term['source_id'] and term['source_quote'] in r['source'] and term['zh'] in r['source'] for r in raw['segments']):
                 raise ValueError('Canon source evidence changed')
             bindings[str(source_path(self.book,self.job,ch))]=sha(source_path(self.book,self.job,ch))
+        entries=selected_entries(self.canon,source);evidence={}
+        for entry in entries:
+            evidence_path=source_path(self.book,self.job,evidence_chapter(entry))
+            saved=self.snapshot(evidence_path)
+            bindings[str(evidence_path)]=sha(evidence_path);bindings[str(saved)]=sha(saved)
+            evidence[entry['key']]={'source_file':str(saved),'source_input_file':str(evidence_path)}
+        packet['continuity_contract']={'version':CONTINUITY,'entries':entries,'evidence':evidence}
+        from native_oauth.resilient_continuity import validate_contract
+        validate_contract(packet,source)
         return freeze(packet)
 
     def translate_protocol(self,packet,current=None,findings=None):
@@ -205,6 +225,9 @@ class Runner:
             'mức chắc chắn, lời tác giả. Canon là quy ước có phạm vi; không biến lời nhân vật thành sự thật. '
             'Khi nguồn gọi tên riêng, ưu tiên tên Việt chuẩn; dùng đại từ có chủ thể rõ khi phù hợp ngữ cảnh. '
             'Quy ước ngôi kể chỉ áp dụng đúng thực thể và phạm vi nêu trong canon, không thay tất cả tên riêng hoặc lời thoại. '
+            'Giữ nhất quán tên/biệt danh, nhãn nghề, vật phẩm, địa danh và tổ chức trên cả wave và biên chương. '
+            'continuity_contract là quy ước cách viết có bằng chứng, không phải sự thật về thân phận hay quan hệ. '
+            'Xác định người nói và người nghe trước khi chọn xưng hô; khi nguồn mơ hồ không tự thêm giới tính, tuổi hoặc quan hệ. '
             'Ngữ cảnh nguồn trước chỉ đọc để hiểu, không dịch nhầm thành đoạn được giao. '
             'Trả JSON {"package_hash":"'+packet['package_hash']+'","segments":[{"id":"ID đúng nguồn","text":"bản Việt đầy đủ"}],'
             '"title_vi":"dịch metadata_title_source nếu có"}. Bao phủ đúng segments trong SOURCE, không đổi ID. '
@@ -383,6 +406,13 @@ class Runner:
         # The whole wave is visible even when output coverage is partitioned.
         visible={k:packet[k] for k in ('package_hash','prefix','approved_context','source_context','source_risk_cues','canon','catalog','scope_slots','approval_eligible')}
         if packet.get('review_policy'):visible['review_policy']=packet['review_policy']
+        if packet.get('continuity_policy'):visible['continuity_policy']=packet['continuity_policy']
+        visible['canon']=scoped_canon(packet['canon'],max(row['chapter'] for row in packet['catalog']))
+        if packet.get('continuity_policy'):
+            keys={entry['key'] for item in packet['chapters']
+                for entry in item['source_packet']['continuity_contract']['entries']}
+            visible['canon']['continuity_entries']=[entry for entry in packet['canon'].get('continuity_entries',[])
+                if entry['key'] in keys]
         visible['source_context']=context_view(visible['source_context'])
         protocol=('Review ALL supplied original Chinese and Vietnamese in chronological order. '
             'Inspect every assigned slot, including titles. source_ref=0 and target_ref=0 mean the COMPLETE '
@@ -404,6 +434,16 @@ class Runner:
             'a source_script_quote claim requires necessary original-script quotation, not untranslated residue. '
             'Optional style preferences go in suggestions:[{slot,source_ref:0,target_ref:0,kind:"style",reason}], '
             'without turning a correct row into FAIL. Required scoped canon violations remain errors. '
+            'For continuity_policy '+CONTINUITY+', also return continuity_checks:'+json.dumps(dict.fromkeys(CONTINUITY_CHECKS,True))+
+            ' and continuity_decisions:[{slot,key,status,reason}] for every assigned continuity_convention obligation, '
+            'in catalog/obligation order. Status is consistent (declared spelling present), valid_variation '
+            '(explain the actual referent and why pronoun/alias/title/quotation or out-of-scope use is valid), '
+            'violation (blocking entities/continuity/speaker_pronouns issue), or needs_context (owned issue plus context_query). '
+            'Inspect naming/label consistency and speaker/addressee even when no convention is declared; decisions is [] only when no assigned convention exists. '
+            'Changing the same name or named profession/item/place/faction without source-supported reason is a continuity error, '
+            'not an optional stylistic preference. Capitalisation and valid contextual address can vary. '
+            'Separate a forum nickname from an address, a named profession from ordinary description, and impersonation/belief from fact. '
+            'Never infer gender, age, relation, alias identity or dialogue recipient from the Vietnamese name or protagonist status. '
             'For needs_context, supply context_query: an exact term in the failed slot or its supplied earlier source context, '
             'at most 24 characters; never invent a name or use future source. '
             'Do not force dialogue ta–ngươi; obey scoped narrator convention. Role '+role+

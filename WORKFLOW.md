@@ -8,6 +8,8 @@ Chạy từ root repo, Python 3.10+ với `requirements.txt`, native `agy` CLI v
 
 Book local có `sources/source_chapter_NNNN.json`, `toc.json`, `lore.json` cho tên/thuật ngữ và canon riêng tùy chọn `translation_canon.json`. Nguồn v2 giữ HTML tại `source_archive/book_BOOK_ID/`, hash và mapping từng đoạn. Crawler phải xác minh đúng truyện/chương; không lấy nháp làm nguồn hoặc sửa hash để hợp thức hóa dữ liệu lỗi. Code/canon/model policy được freeze trong job.
 
+Mọi sách dùng [quy ước continuity chung](docs/CONTINUITY_CONVENTIONS.md) và schema `continuity_entries` trong canon local. Antigravity chuẩn bị bảng từ nguồn/approved đã xác minh của chính sách trước khi chạy; sách mới được bắt đầu với bảng rỗng. Không dùng danh xưng, quan hệ hoặc giới tính của một truyện làm mặc định cho truyện khác. [Prompt dịch tiếp dùng chung](docs/prompts/continue-translation.md) nhận phạm vi người dùng giao.
+
 ```powershell
 # Offline: chỉ đọc/replay nguồn. Network chỉ khi thêm --repair-sources.
 .venv/Scripts/python.exe -X utf8 translate.py preflight --book-dir BOOK_DIR --job JOB_DIR --through-chapter LAST_CHAPTER
@@ -26,12 +28,15 @@ Nguồn lỗi đi qua queue/refetch/import có lineage, giữ nguyên bản cũ.
 1. Bốn worker tạo nháp, tối đa năm chương/wave. Context là nguồn trước đúng thời điểm và canon có phạm vi; nháp chưa duyệt không thành sự thật.
 2. Hai reviewer chạy đồng thời ở session/workspace độc lập, đọc đủ nguồn–đích, nghĩa/văn học/thực thể/phủ định/số lượng/luật chơi/continuity. Không xem kết luận của nhau, không thêm wave audit thứ ba. Tối đa hai phiên review, chịu giới hạn health; `--review-workers 1` chọn tuần tự.
 3. ID/hash, coverage, text rỗng, partial và chữ Hán chưa dịch là lỗi cứng. Tên→đại từ/alias hợp context phải được cả hai reviewer kiểm; không chặn chỉ vì thiếu chuỗi tên. Optional style suggestions riêng, lỗi nghĩa hoặc canon bắt buộc vẫn FAIL.
+   Policy `scoped-continuity-1` yêu cầu cả hai reviewer khai `continuity_checks` cho tên/nhãn, alias/góc nhìn và người nói–người nghe; mỗi mục canon đang áp dụng có quyết định theo `(slot,key)`. Thiếu cách viết chuẩn cần giải thích `valid_variation`, hoặc issue thật. `violation`/`needs_context` không được chuyển thành suggestion. Tên mới chưa có canon vẫn phải kiểm nhất quán trên wave và prefix được cung cấp; đây là đánh giá native, không phải host tự nhận diện tất cả thực thể.
 4. Lỗi thật tạo revision native và review lại đủ hai lượt. Response đã hoàn tất, có provenance và đủ ID đúng thứ tự chỉ lỗi vài row: HIGH sửa đúng các row đó; phần đúng lấy nguyên text native, journal giữ response lỗi và proof. Partial/sai ID không dùng đường giữ row. Host không tự dịch, xóa chữ, đổi ID/verdict hoặc hỏi lại cùng bản FAIL để tìm PASS.
 5. Commit batch nguyên tử sau hai review PASS; prefix phải liên tục, còn khớp nguồn/revision. Diagnostics không có quyền approval/xuất bản.
 
 Wave tự co nếu prompt vượt ngân sách, không cắt nguồn. Bản 2.1 cho hai reviewer chạy đồng thời; không tăng bốn translator và không dịch gối wave tiếp trong lúc review. Reviewer lỗi kỹ thuật không xóa kết quả peer đã xong; resume vẫn cần đủ hai review. Hiệu năng phải đo native riêng, không suy tăng tốc tuyến tính.
 
 Checkpoint `JOB_DIR/checkpoints/chapter_NNNN.json` ghi tại mỗi 100 chương và cuối phạm vi. Đây là mốc đã commit, không gọi model thêm, không chờ Codex và không tự dừng xin duyệt lại. Antigravity đọc throughput/queue/suggestions để xử lý. Chỉ mở toàn sách khi đã được giao phạm vi đó.
+
+Khi cần thêm/sửa quy ước, Antigravity đối chiếu ID/quote nguồn và bản approved, không tự lấy mọi suggestion làm canon. Đổi canon tại ranh giới job revision, giữ lịch sử và tái sử dụng prefix hợp lệ; không sửa canon giữa run hoặc sửa approved bằng tìm–thay thế. Không thêm reviewer thứ ba hoặc HIGH toàn bộ chỉ để xây bảng tên.
 
 ## Phục hồi và resume
 

@@ -16,6 +16,7 @@ from native_oauth.resilient_gate import validate_batch_evidence, validate_compac
 from native_oauth.resilient_publication import manifest, progress, validate_manifest, read_approval
 from native_oauth.book_publication import load_approved_chapters
 from native_oauth.recovery_sources import preflight, source_context, reacquire, fetch_alternate, import_replacements
+from native_oauth.resilient_continuity import CHECKS as CONTINUITY_CHECKS,required_decisions
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -66,6 +67,9 @@ class ResilientTests(unittest.TestCase):
                     text='Anh ấy 普遍 không cam lòng.'
                 if self.mode=='bad-id' and len(packet['segments'])>1 and row['id']==packet['segments'][-1]['id']:
                     row={**row,'id':'c9999p9999'}
+                if self.mode=='canon-drift' and '江月' in row['source']:
+                    text='Giang Duyệt là một người đàn ông. Giang Duyệt lắc đầu.'
+                    if 'SOURCE_BOUND_FINDINGS_TO_RECHECK' in protocol:text='Giang Nguyệt là một người đàn ông. Giang Nguyệt lắc đầu.'
                 if row['source']=='林御摇头。':
                     text='Hắn lắc đầu.'
                     if self.mode=='wrong-entity' and 'SOURCE_BOUND_FINDINGS_TO_RECHECK' not in protocol:text='Trương Vũ lắc đầu.'
@@ -93,11 +97,22 @@ class ResilientTests(unittest.TestCase):
                 if type(row[0]) is int and packet['catalog'][row[0]-1]['target']=='Trương Vũ lắc đầu.':
                     row[1]='FAIL';issues.append({'slot':row[0],'source_ref':0,'target_ref':0,'kind':'entities',
                         'reason':'林御 is Lâm Ngự, not Trương Vũ'})
+                if self.mode=='canon-drift' and type(row[0]) is int and 'Giang Duyệt' in packet['catalog'][row[0]-1]['target']:
+                    row[1]='FAIL';issues.append({'slot':row[0],'source_ref':0,'target_ref':0,'kind':'continuity',
+                        'reason':'The declared name for this same source entity is Giang Nguyệt; spelling drift is not optional style.'})
             value={'package_hash':packet['package_hash'],'verdict':'FAIL' if issues else 'PASS',
                    'checks':dict.fromkeys(CHECKS,True),'literary_checks':dict.fromkeys(LITERARY_CHECKS,True),
                    'rows':rows,'issues':issues}
             if packet.get('review_policy'):
                 value['semantic_obligations_checked']=[slot for slot in packet['scope_slots'] if packet['catalog'][slot-1].get('review_obligations')]
+            if packet.get('continuity_policy'):
+                value['continuity_checks']=dict.fromkeys(CONTINUITY_CHECKS,True)
+                value['continuity_decisions']=[{'slot':slot,'key':obligation['key'],'status':'valid_variation',
+                    'reason':'Offline fixture: this row unambiguously uses the pronoun for the same source entity.'}
+                    for slot,obligation in required_decisions(packet)]
+                for decision in value['continuity_decisions']:
+                    if any(i['slot']==decision['slot'] and i['kind']=='continuity' for i in issues):
+                        decision.update(status='violation',reason='The named entity uses a different spelling from its declared convention.')
             if self.mode=='style-suggestion':
                 value['suggestions']=[{'slot':packet['scope_slots'][0],'source_ref':0,'target_ref':0,'kind':'style','reason':'Optional shorter wording'}]
         response=json.dumps(value,ensure_ascii=False)
@@ -127,6 +142,82 @@ class ResilientTests(unittest.TestCase):
         self.runner().run(repair_sources=False);before=len(self.calls)
         self.assertTrue(self.runner().run(repair_sources=False)['export_ready'])
         self.assertEqual(len(self.calls),before)
+
+    def generic_canon(self):
+        source=copy.deepcopy(self.sources[1]);source.pop('package_hash')
+        source['segments'][1]['source']='江月是个男人。江月摇头。';source['package_hash']=digest(source)
+        write_json(self.book/'sources/source_chapter_0001.json',source);self.sources[1]=source
+        entry={'key':'person-01','kind':'name','zh':'江月','vi':'Giang Nguyệt',
+            'scope':'This named person only; unambiguous pronouns are allowed without inventing an identity.',
+            'source_id':'c0001p0002','source_quote':'江月是个男人。'}
+        write_json(self.book/'translation_canon.json',{'continuity_entries':[entry]})
+        return entry
+
+    def test_generic_canon_has_frozen_source_proof_and_two_native_decisions_without_extra_calls(self):
+        self.generic_canon();self.assertTrue(self.runner(1).run(repair_sources=False)['export_ready'])
+        item=read_approval(self.book,1);packet=item['evidence']['package']['chapters'][0]['source_packet']
+        proof=packet['continuity_contract']['evidence']['person-01']
+        self.assertIn(proof['source_file'],packet['native_bound_files'])
+        self.assertEqual(read_json(proof['source_file']),self.sources[1])
+        from native_oauth.resilient_gate import validate_batch_evidence
+        report=validate_batch_evidence(item['evidence'])
+        self.assertEqual([(r['reviewer'],r['id']) for r in report['continuity_decisions']],
+            [('meaning-reviewer','c0001p0002'),('literary-reviewer','c0001p0002')])
+        self.assertEqual(len(self.calls),3)
+
+    def test_invented_generic_canon_quote_is_rejected_before_any_native_call(self):
+        entry=self.generic_canon();entry['source_quote']='江月从未说过的虚构句子。'
+        write_json(self.book/'translation_canon.json',{'continuity_entries':[entry]})
+        runner=self.runner(1);preflight(self.book,self.job,1)
+        with self.assertRaisesRegex(ValueError,'invented quote'):runner.packet(1)
+        self.assertEqual(self.calls,[])
+
+    def test_generic_name_drift_is_repaired_by_owned_id_and_both_reviewers_recheck(self):
+        self.generic_canon();self.mode='canon-drift'
+        self.assertTrue(self.runner(1).run(repair_sources=False)['export_ready'])
+        repairs=[r for r in self.requests_seen if r['role']=='translator' and r['model']=='fixture-high']
+        self.assertEqual(len(repairs),1)
+        self.assertEqual([r['id'] for r in repairs[0]['packet']['segments']],['c0001p0002'])
+        self.assertEqual(sum(role!='translator' for role,_,_ in self.calls),4)
+        reports=[read_json(p) for p in (self.job/'batch_reviews').glob('*/report.json')]
+        failed=next(r for r in reports if r['status']=='FAIL')
+        self.assertTrue(all(f['kind']=='continuity' and f['id']=='c0001p0002' for f in failed['findings']))
+        self.assertEqual(failed['suggestions'],[])
+        final=read_approval(self.book,1)['aligned']['bilingual_alignment']
+        self.assertIn('Giang Nguyệt',next(r['translated_vi'] for r in final if r['para_id']=='c0001p0002'))
+
+    def test_future_generic_canon_is_not_in_prompt_and_does_not_require_future_source(self):
+        entry=self.generic_canon();entry['source_id']='c0099p0001'
+        write_json(self.book/'translation_canon.json',{'continuity_entries':[entry]})
+        runner=self.runner(1);preflight(self.book,self.job,1);packet=runner.packet(1)
+        self.assertEqual(translation_view(packet)['canon']['continuity_entries'],[])
+        self.assertEqual(packet['continuity_contract']['entries'],[])
+
+    def test_generic_canon_proof_from_another_book_cannot_be_replayed(self):
+        self.generic_canon();runner=self.runner(1);preflight(self.book,self.job,1);packet=runner.packet(1)
+        other=copy.deepcopy(self.sources[1]);other.pop('package_hash');other['book_id']='other-fixture';other['package_hash']=digest(other)
+        path=self.root/'another_book.json';write_json(path,other)
+        packet['continuity_contract']['evidence']['person-01']={'source_file':str(path),'source_input_file':str(path)}
+        from native_oauth.recovery_sources import sha
+        packet['native_bound_files'][str(path)]=sha(path)
+        from native_oauth.resilient_gate import freeze,check_hash
+        with self.assertRaisesRegex(ValueError,'another book'):check_hash(freeze(packet))
+
+    def test_generic_canon_alias_cannot_be_promoted_without_source_evidence(self):
+        entry=self.generic_canon();entry['aliases_zh']=['另一身份']
+        write_json(self.book/'translation_canon.json',{'continuity_entries':[entry]})
+        with self.assertRaisesRegex(ValueError,'identity aliases'):self.runner(1)
+        self.assertEqual(self.calls,[])
+
+    def test_review_keeps_scope_of_convention_expiring_inside_the_wave(self):
+        entry=self.generic_canon();entry['valid_to_chapter']=1
+        write_json(self.book/'translation_canon.json',{'continuity_entries':[entry]})
+        runner=self.runner(2);preflight(self.book,self.job,2)
+        from native_oauth.resilient_gate import batch_package,review_packet
+        batch=batch_package([runner.generate(1),runner.generate(2)],{'through_chapter':0,'entry_hash':None},runner.canon,self.book)
+        protocol=runner.review_protocol(review_packet(batch,list(range(1,len(batch['catalog'])+1))),'meaning-reviewer')
+        self.assertIn('"valid_to_chapter":1',protocol)
+        self.assertEqual(batch['chapters'][1]['source_packet']['continuity_contract']['entries'],[])
 
     def test_two_reviewers_overlap_but_keep_independent_workspaces_and_fixed_role_order(self):
         self.reviewer_barrier=threading.Barrier(2)
@@ -398,7 +489,8 @@ class ResilientTests(unittest.TestCase):
         packet=self.review_inputs[0][1]
         value={'package_hash':packet['package_hash'],'verdict':'PASS','checks':dict.fromkeys(CHECKS,True),
             'literary_checks':dict.fromkeys(LITERARY_CHECKS,True),'rows':[[s,'PASS'] for s in packet['scope_slots']], 'issues':[],
-            'semantic_obligations_checked':[s for s in packet['scope_slots'] if packet['catalog'][s-1].get('review_obligations')]}
+            'semantic_obligations_checked':[s for s in packet['scope_slots'] if packet['catalog'][s-1].get('review_obligations')],
+            'continuity_checks':dict.fromkeys(CONTINUITY_CHECKS,True),'continuity_decisions':[]}
         validate_compact_review(packet,value)
         value['rows'].pop()
         with self.assertRaises(ProtocolFailure):validate_compact_review(packet,value)

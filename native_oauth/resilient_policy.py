@@ -85,4 +85,10 @@ def review_hints(package,value):
         hints.setdefault(claim['id'],[]).append({'kind':'source_script_quote',
             'quote':claim['quote'],'native_reason':claim['reason'],
             'duty':'Verify original-script text is necessary quoted material, not untranslated residue. A declaration is not approval.'})
+    from native_oauth.resilient_continuity import row_obligations
+    rows=[(r['id'],r['source']) for r in package['segments']]
+    if package.get('metadata_title_source'):
+        rows.append((package['metadata_title_source']['id'],package['metadata_title_source']['source']))
+    for sid,source in rows:
+        for obligation in row_obligations(package,source):hints.setdefault(sid,[]).append(obligation)
     return hints

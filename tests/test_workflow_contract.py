@@ -6,6 +6,7 @@ from pathlib import Path
 from unittest.mock import patch
 from native_oauth.resilient_translation import Runner
 from native_oauth.resilient_policy import POLICY,REVIEW_POLICY
+from native_oauth.resilient_continuity import VERSION as CONTINUITY
 from native_oauth.revise_book import run_campaign
 
 
@@ -17,6 +18,7 @@ class WorkflowContractTests(unittest.TestCase):
         for name in ('workers','review_workers','model','review_model','fallback','timeout','max_repairs','checkpoint_every'):
             self.assertEqual(defaults[name].default,contract['defaults'][name])
         self.assertEqual(contract['validation_policy'],POLICY);self.assertEqual(contract['review_policy'],REVIEW_POLICY)
+        self.assertEqual(contract['continuity_policy'],CONTINUITY)
         self.assertEqual(inspect.signature(run_campaign).parameters['mode'].default,'resilient')
 
     def test_api_defaults_to_four_resilient_translators(self):
