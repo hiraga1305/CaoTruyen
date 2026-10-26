@@ -1,4 +1,8 @@
-Tiếp tục sách hiện tại theo AGENTS.md, WORKFLOW.md, workflow.json và docs/CONTINUITY_CONVENTIONS.md. Chỉ chạy trong phạm vi chương tôi đã giao; chưa có phạm vi thì xác nhận trước khi gọi model.
+Tiếp tục sách hiện tại bằng workflow HIỆN HÀNH trên https://github.com/hiraga1305/CaoTruyen, chỉ trong phạm vi chương tôi đã giao. Không ghim phiên bản hoặc job theo hội thoại cũ.
+
+- Trước model: fetch canonical main, đọc workflow.json, WORKFLOW.md, docs/WORKFLOW_LAUNCH.md và prompt này từ commit mới nhất; đồng bộ workflow an toàn, giữ dữ liệu và thay đổi không liên quan. Chạy từ root chuẩn, không từ audit/workflow_snapshot. Không phục hồi code cũ chỉ để khớp job cũ.
+- Chạy `python -X utf8 translate.py doctor`; phải CURRENT. Sau đó dùng `translate.py launch --book-dir BOOK_DIR --job LAST_JOB --through-chapter AUTHORIZED_END` (sách mới có thể bỏ --job). Launch phải trả workflow_startup.json với version/commit/policy/job thực; không tự ghi nhãn nâng cấp. Nếu job cũ không khớp, để launch chọn revision mới và giữ prefix approved. Lưu selected_job để resume.
+- Process cũ đang chạy phải lưu trạng thái và dừng ở biên an toàn trước khi chuyển; không chạy hai orchestrator cùng sách. Gate lỗi thì xử lý sync/restart/revision và tiếp tục phạm vi đã giao, không bypass, hạ phiên bản hoặc sửa hash/receipt/lock để PASS. Chưa có phạm vi thì xác nhận trước khi gọi model.
 
 - Xác minh prefix approved, nguồn và TOC; bắt đầu từ chương kế tiếp. Không mặc định tổng chương của một sách khác.
 - Antigravity chuẩn bị/đối chiếu canon local từ ID/quote nguồn và bản approved của chính sách. Giữ thống nhất tên/biệt danh, nhãn nghề/vật phẩm/địa danh/tổ chức; phân biệt nickname với cách xưng hô. Không suy giới tính, quan hệ hoặc danh tính từ tên. Bảng có thể rỗng lúc bắt đầu; hai reviewer vẫn phải kiểm các tên mới.

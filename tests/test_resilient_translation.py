@@ -33,6 +33,10 @@ class ResilientTests(unittest.TestCase):
         stack=contextlib.ExitStack();self.addCleanup(stack.close)
         stack.enter_context(patch('native_oauth.resilient_translation.get_session_monitor',return_value=Mock()))
         stack.enter_context(patch('native_oauth.pipeline_native.run_stage',side_effect=self.stage))
+        # Translation logic is offline here. The real launch/transport gate has
+        # its own Git/process/packet regressions in test_workflow_guard.py.
+        stack.enter_context(patch('native_oauth.resilient_translation.authorized_invocation',side_effect=lambda *a:contextlib.nullcontext()))
+        stack.enter_context(patch('native_oauth.resilient_translation.check_boundary'))
         stack.enter_context(contextlib.redirect_stdout(io.StringIO()))
 
     def add_source(self,ch,count):
@@ -218,6 +222,37 @@ class ResilientTests(unittest.TestCase):
         protocol=runner.review_protocol(review_packet(batch,list(range(1,len(batch['catalog'])+1))),'meaning-reviewer')
         self.assertIn('"valid_to_chapter":1',protocol)
         self.assertEqual(batch['chapters'][1]['source_packet']['continuity_contract']['entries'],[])
+
+    def test_launch_selects_new_revision_without_modifying_old_job(self):
+        from native_oauth.resilient_translation import launch_runner
+        old={'version':'old-fixture','through':1};write_json(self.job/'configuration.json',old)
+        version=read_json(ROOT/'workflow.json')['version']
+        with patch('native_oauth.resilient_translation.doctor',return_value={'status':'CURRENT','workflow_version':version}):
+            runner=launch_runner(self.book,self.job,1,workers=2,model='fixture',review_model='fixture',fallback='fixture-high')
+        self.assertNotEqual(runner.job,self.job)
+        self.assertEqual(read_json(self.job/'configuration.json'),old)
+        self.assertEqual(read_json(runner.job/'launch_selection.json')['action'],'NEW_REVISION_KEEP_APPROVED_PREFIX')
+
+    def test_launch_resumes_compatible_job_and_keeps_completed_prefix(self):
+        from native_oauth.resilient_translation import launch_runner
+        self.assertTrue(self.runner(1).run(repair_sources=False)['export_ready']);before=len(self.calls)
+        version=read_json(ROOT/'workflow.json')['version']
+        with patch('native_oauth.resilient_translation.doctor',return_value={'status':'CURRENT','workflow_version':version}):
+            runner=launch_runner(self.book,self.job,1,workers=2,model='fixture',review_model='fixture',fallback='fixture-high')
+        self.assertEqual(runner.job,self.job)
+        self.assertTrue(runner.run(repair_sources=False)['export_ready']);self.assertEqual(len(self.calls),before)
+
+    def test_launch_upgrades_job_without_retranslating_approved_prefix(self):
+        from native_oauth.resilient_translation import launch_runner
+        self.assertTrue(self.runner(1).run(repair_sources=False)['export_ready'])
+        old=read_json(self.job/'configuration.json')
+        version=read_json(ROOT/'workflow.json')['version']
+        with patch('native_oauth.resilient_translation.doctor',return_value={'status':'CURRENT','workflow_version':version}):
+            runner=launch_runner(self.book,self.job,2,workers=2,model='fixture',review_model='fixture',fallback='fixture-high')
+        self.assertNotEqual(runner.job,self.job)
+        self.assertTrue(runner.run(repair_sources=False)['export_ready'])
+        self.assertEqual(read_json(self.job/'configuration.json'),old)
+        self.assertEqual(sum(role=='translator' and ch==1 for role,ch,_ in self.calls),1)
 
     def test_two_reviewers_overlap_but_keep_independent_workspaces_and_fixed_role_order(self):
         self.reviewer_barrier=threading.Barrier(2)

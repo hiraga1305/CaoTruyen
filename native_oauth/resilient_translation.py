@@ -1,12 +1,14 @@
 """Resumable source-grounded translation: parallel drafts, two compact batch reviews.
 
-Only run/watch/diagnose invoke native models. Preflight is offline unless --repair-sources.
+Only launch/run/watch/diagnose invoke native models. Doctor verifies upstream without models.
+Preflight is offline unless --repair-sources.
 """
 import argparse
 import hashlib
 import json
 import time
 import shutil
+import uuid
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from contextlib import contextmanager
 from pathlib import Path
@@ -26,6 +28,8 @@ from native_oauth.resilient_publication import manifest, prefix, commit, progres
 from native_oauth.resilient_policy import POLICY,REVIEW_POLICY
 from native_oauth.resilient_continuity import (VERSION as CONTINUITY, CHECKS as CONTINUITY_CHECKS,
     declared_entries, selected_entries, evidence_chapter, scoped_canon)
+from native_oauth.workflow_guard import (local_release, release_identity, authorized_invocation,
+    check_boundary, doctor, WorkflowGateError)
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -89,20 +93,16 @@ class Runner:
             self.canon_file=ROOT/'native_oauth/siwangyouxi_translation_canon_v2.json'
         self.canon=read_json(self.canon_file) if self.canon_file.exists() else {}
         declared_entries(self.canon)
-        config={'version':'resilient-runner-2','validation_policy':POLICY,'book':str(self.book),'through':through,'workers':workers,
+        release=local_release()
+        config={'version':'resilient-runner-2','validation_policy':POLICY,'review_policy':REVIEW_POLICY,'book':str(self.book),'through':through,'workers':workers,
+                'workflow_release':release_identity(release),
                 'checkpoint_every':checkpoint_every,
                 'review_workers':review_workers,'content_repair':'owned-native-rows-1','continuity_policy':CONTINUITY,
                 'translator':model,'reviewer':review_model,'reviewer2':self.review_model2,'fallback':fallback,'timeout':timeout,'max_repairs':max_repairs,
                 'lore_hash':sha(self.book/'lore.json') if (self.book/'lore.json').exists() else None,
                 'canon_hash':sha(self.canon_file) if self.canon_file.exists() else None}
-        config['workflow_files']={str(p.relative_to(ROOT)):sha(p) for p in [
-            *sorted((ROOT/'native_oauth').glob('resilient_*.py')),*sorted((ROOT/'native_oauth').glob('recovery_*.py')),
-            ROOT/'native_oauth/pipeline_native.py',ROOT/'native_oauth/native_evidence.py',ROOT/'native_oauth/source_adapters.py',
-            ROOT/'native_oauth/run_agy.py',ROOT/'native_oauth/session_monitor.py',ROOT/'semantic_gate.py',
-            ROOT/'native_oauth/chapter_integrity.py',ROOT/'native_oauth/book_publication.py',ROOT/'native_oauth/book_progress.py',
-            ROOT/'native_oauth/native_review.py',ROOT/'native_oauth/meaning_anchors.py',ROOT/'native_oauth/title_selection.py',
-            ROOT/'native_oauth/semantic_context.py',ROOT/'native_oauth/workflow_io.py',
-            ROOT/'native_oauth/semantic_profiles.json',ROOT/'native_oauth/genre_profiles.json',ROOT/'workflow.json',ROOT/'translate.py']}
+        release_files=read_json(ROOT/'workflow_release.json')['files']
+        config['workflow_files']={str(Path(name)):sha(ROOT/name) for name in [*release_files,'workflow_release.json']}
         self.configuration=config
         self.profile_terms=normalize_profile(self.lore.get('book_id',self.book.name.removeprefix('book_')),[],[],self.lore)[2]
         target=self.job/'configuration.json'
@@ -154,7 +154,8 @@ class Runner:
     def invocation(self):
         path=self.job/'invocations.json';rows=read_json(path) if path.exists() else []
         row={'started_epoch':time.time(),'status':'RUNNING'};rows.append(row);atomic_json(path,rows);started=time.monotonic()
-        try:yield
+        try:
+            with authorized_invocation(self.job,self.configuration):yield
         except BaseException as error:
             self.requests.append({'reason':str(error),'action':getattr(error,'action','INSPECT_INTERRUPTION_AND_RESUME_SAME_JOB')})
             self.checkpoint('RECOVERY_PENDING');raise
@@ -486,6 +487,7 @@ class Runner:
             for ch in approved:self.state(ch,'APPROVED')
             cursor=len(approved)+1;lookahead_end=min(self.through,cursor+14)
             while cursor<=self.through:
+                check_boundary(self.job)
                 boundary=((cursor-1)//self.checkpoint_every+1)*self.checkpoint_every
                 chapters=list(range(cursor,min(cursor+5,self.through+1,boundary+1)));items={}
                 self.badge('wave',f'WAVE {chapters[0]}–{chapters[-1]}',cursor)
@@ -564,6 +566,7 @@ class Runner:
             preflight(self.book,self.job,self.through,repair_sources=repair_sources)
             result={'approval_eligible':False,'status':'RUNNING','chapters':[]}
             for chapter in sorted(set(chapters)):
+                check_boundary(self.job)
                 try:
                     item=self.generate(chapter)
                     for attempt in range(self.max_repairs+1):
@@ -586,11 +589,37 @@ class Runner:
             return result
 
 
+def launch_runner(book,job,through,**options):
+    """Verify upstream, then resume a compatible job or choose a fresh revision.
+
+    Never copy old configuration over new code or change old candidate hashes.
+    """
+    current=doctor()
+    original=Path(job).resolve() if job is not None else None
+    if original is None:
+        slug=''.join(c if c.isalnum() or c in '-_' else '_' for c in Path(book).name)[:48] or 'book'
+        target=ROOT/'audit/campaigns'/slug/('wf_'+current['workflow_version'].replace('.','_')+'_'+uuid.uuid4().hex[:12])
+    else:target=original
+    try:runner=Runner(book,target,through,**options)
+    except ValueError as error:
+        if original is None or 'Recovery configuration/canon changed' not in str(error):raise
+        target=original.with_name(original.name.split('__wf_',1)[0]+'__wf_'+current['workflow_version'].replace('.','_')+'_'+uuid.uuid4().hex[:12])
+        runner=Runner(book,target,through,**options)
+    if original is not None and original!=target and (original/'effective_sources').exists():
+        import_replacements(Path(book),target,original/'effective_sources')
+    atomic_json(target/'launch_selection.json',{'workflow':current,'selected_job':str(target),
+        'previous_job':str(original) if original else None,'scope_through_chapter':through,
+        'action':'NEW_REVISION_KEEP_APPROVED_PREFIX' if original!=target else 'RESUME_MATCHING_JOB',
+        'note':'Old unapproved drafts/evidence preserved; no relabelling or blind cache import'})
+    print(json.dumps(read_json(target/'launch_selection.json'),ensure_ascii=False),flush=True)
+    return runner
+
+
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('action',choices=('preflight','run','watch','diagnose','status','report','seal','export','retry-ready'))
-    parser.add_argument('--book-dir',required=True,type=Path);parser.add_argument('--job',required=True,type=Path)
-    parser.add_argument('--through-chapter',required=True,type=int);parser.add_argument('--workers',type=int,default=4)
+    parser.add_argument('action',choices=('doctor','launch','preflight','run','watch','diagnose','status','report','seal','export','retry-ready'))
+    parser.add_argument('--book-dir',type=Path);parser.add_argument('--job',type=Path)
+    parser.add_argument('--through-chapter',type=int);parser.add_argument('--workers',type=int,default=4)
     parser.add_argument('--model',default='gemini-3.8-flash-medium');parser.add_argument('--review-model',default='gemini-3.8-flash-medium')
     parser.add_argument('--auditor-model',help='Second independent reviewer; defaults to --review-model')
     parser.add_argument('--fallback-model',default='gemini-3.8-flash-high');parser.add_argument('--timeout',type=int,default=300)
@@ -603,9 +632,17 @@ def main():
     parser.add_argument('--source-recovery-dir',type=Path,help='Import verified source revisions, preserving original source files')
     parser.add_argument('--chapters',type=int,nargs='+',help='diagnose only: source-only chapters, never publication approval')
     args=parser.parse_args()
+    if args.action=='doctor':
+        try:result=doctor(job=args.job)
+        except WorkflowGateError as error:
+            print(json.dumps({'status':'WORKFLOW_BLOCKED','reason':str(error),'next_action':error.action},ensure_ascii=False));raise SystemExit(2)
+        print(json.dumps(result,ensure_ascii=False));return
+    if args.book_dir is None or args.through_chapter is None:parser.error('Specify --book-dir and the user-authorized --through-chapter')
+    if args.watch_rounds<1:parser.error('--watch-rounds must be positive')
+    if args.job is None and args.action!='launch':parser.error('--job is required except for doctor/launch')
     if args.source_recovery_dir:
-        if args.action not in ('preflight','run','watch','diagnose'):parser.error('Source import is only valid before preflight/run/diagnose')
-        import_replacements(args.book_dir,args.job,args.source_recovery_dir)
+        if args.action not in ('launch','preflight','run','watch','diagnose'):parser.error('Source import is only valid before preflight/run/diagnose')
+        if args.action!='launch':import_replacements(args.book_dir,args.job,args.source_recovery_dir)
     if args.action=='preflight':
         lore=read_json(args.book_dir/'lore.json') if (args.book_dir/'lore.json').exists() else {}
         mon=get_session_monitor(lore.get('book_id',args.book_dir.name.removeprefix('book_')),lore.get('book_title_vi',args.book_dir.name),
@@ -636,20 +673,23 @@ def main():
     import os
     if not (os.environ.get('ANTIGRAVITY_ARTIFACT_DIR') or os.environ.get('ANTIGRAVITY_CONVERSATION_ID')):
         raise ValueError('Bind the current real Antigravity session before native execution')
-    runner=Runner(args.book_dir,args.job,args.through_chapter,workers=args.workers,model=args.model,
+    options=dict(workers=args.workers,model=args.model,
         review_model=args.review_model,review_model2=args.auditor_model,fallback=args.fallback_model,timeout=args.timeout,
         checkpoint_every=args.checkpoint_every,review_workers=args.review_workers)
+    runner=(launch_runner(args.book_dir,args.job,args.through_chapter,**options) if args.action=='launch'
+            else Runner(args.book_dir,args.job,args.through_chapter,**options))
+    if args.action=='launch' and args.source_recovery_dir:import_replacements(args.book_dir,runner.job,args.source_recovery_dir)
     if args.action=='diagnose':
         if not args.chapters or any(ch<1 or ch>args.through_chapter for ch in args.chapters):parser.error('diagnose requires --chapters within the source range')
         result=runner.diagnose(args.chapters,repair_sources=not args.no_source_refetch)
         print(json.dumps(result,ensure_ascii=False))
         if result['status']!='DIAGNOSTIC_PASS_NOT_APPROVAL':raise SystemExit(2)
         return
-    for turn in range(args.watch_rounds if args.action=='watch' else 1):
+    for turn in range(args.watch_rounds if args.action in ('watch','launch') else 1):
         result=runner.run(repair_sources=not args.no_source_refetch)
-        if result['export_ready'] or args.action!='watch':break
+        if result['export_ready'] or args.action not in ('watch','launch'):break
         if turn+1<args.watch_rounds:
-            waits=[read_json(p).get('retry_after_epoch',time.time()) for p in (args.job/'recovery').glob('*.json')
+            waits=[read_json(p).get('retry_after_epoch',time.time()) for p in (runner.job/'recovery').glob('*.json')
                    if read_json(p).get('kind') in ('QUOTA','NETWORK','TIMEOUT') and read_json(p).get('status')=='PENDING']
             wait_until=min(waits) if waits else time.time()+30
             while time.time()<wait_until:
@@ -659,4 +699,11 @@ def main():
     if not result['export_ready']:raise SystemExit(2)
 
 
-if __name__=='__main__':main()
+def cli():
+    try:main()
+    except WorkflowGateError as error:
+        print(json.dumps({'status':'WORKFLOW_BLOCKED','reason':str(error),'next_action':error.action},ensure_ascii=False))
+        raise SystemExit(2)
+
+
+if __name__=='__main__':cli()

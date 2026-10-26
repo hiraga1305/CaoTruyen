@@ -1,0 +1,11 @@
+# Luồng dịch chuẩn bắt buộc cho mọi sách
+
+Trước model thật, đọc workflow từ canonical GitHub main, không chỉ nhớ phiên bản trong hội thoại. Root chuẩn: https://github.com/hiraga1305/CaoTruyen. `workflow.json` chọn phiên bản/default/policy hiện hành; `workflow_release.json` khóa code và hướng dẫn. Không ghi cứng một số 2.x trong prompt điều hành.
+
+1. Fetch canonical main và đọc `WORKFLOW.md`, `docs/WORKFLOW_LAUNCH.md`, `docs/prompts/continue-translation.md` từ commit hiện hành. Nếu checkout cũ, đồng bộ workflow an toàn, giữ source/approved/credential/bundle và thay đổi không liên quan. Không làm cho code mới trở lại cũ để vừa configuration của job cũ.
+2. Chạy `python -X utf8 translate.py doctor`. Chỉ live khi CURRENT và phạm vi đã được người dùng giao. Nếu job cũ không tương thích, dùng `launch`; nó chọn revision mới, giữ prefix và evidence cũ. Không đổi hash/version trong configuration để giả tương thích.
+3. Chạy `translate.py launch --book-dir BOOK_DIR --job LAST_JOB --through-chapter AUTHORIZED_END` từ root chuẩn. Có thể bỏ --job cho sách mới. Lưu đường dẫn selected_job và workflow_startup.json do runner trả, dùng selected_job khi resume. Phiên Antigravity hiện tại phải bind dashboard thật.
+4. Mọi worker dùng packet của runner hiện hành. Không chạy code trong audit/workflow_snapshot, pilot, checkout cũ hoặc tự gọi agy để tránh guard. Hướng dẫn lịch sử không cấp quyền quay về runner cũ. Không tự nhận đã nâng cấp khi startup receipt/policy không chứng minh điều đó.
+5. Checkpoint không thêm reviewer hay xin duyệt ngoài. Canon theo CONTINUITY_CONVENTIONS.md, sửa đúng ID và đủ hai review. Gate phiên bản lỗi phải lưu next_action, xử lý sync/restart/revision rồi tiếp tục phạm vi được giao; không hạ phiên bản, bỏ gate hoặc báo đã dịch.
+
+Một tiến trình Python cũ trước khi guard được phát hành không tự có code mới khi GitHub cập nhật. Lưu/checkpoint và dừng tiến trình cũ trước khi chuyển; không chạy song song hai orchestrator trên cùng book. Từ guard hiện hành, đầu invocation/biên wave kiểm upstream và mỗi native call kiểm lease/code/job/policy. File receipt được sao chép không cấp quyền chạy model.

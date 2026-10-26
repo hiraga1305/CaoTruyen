@@ -91,7 +91,7 @@ class NativeResponseTransportTests(unittest.TestCase):
             kwargs['stdout'].write(json.dumps({'event':'init','init':{'model':'fixture'}})+'\n')
             kwargs['stdout'].write(json.dumps({'event':'result','result':{'status':'SUCCESS','response':'complete'}})+'\n')
             return child
-        with patch('native_oauth.run_agy.subprocess.Popen',side_effect=popen):
+        with patch('native_oauth.run_agy.subprocess.Popen',side_effect=popen), patch('native_oauth.workflow_guard.before_native'):
             runtime=run(prompt,self.root/'runtime',model='fixture',stdin_prompt=True)
         self.assertEqual(runtime['status'],'SUCCESS');self.assertEqual(runtime['exit_code'],0)
         self.assertTrue((self.root/'runtime/input.jsonl').exists())
@@ -275,6 +275,7 @@ class CompletedNativeCleanupTests(unittest.TestCase):
                 kwargs['stdout'].write('\n'.join(json.dumps(e) for e in self.events())+'\n')
                 kwargs['stdout'].flush();return child
             with patch('native_oauth.run_agy.subprocess.Popen',side_effect=popen), \
+                    patch('native_oauth.workflow_guard.before_native'), \
                     patch('native_oauth.run_agy.bind_native_session',return_value=True), \
                     patch('native_oauth.run_agy.time.time',side_effect=itertools.count()), \
                     patch('native_oauth.run_agy.time.sleep'):

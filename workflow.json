@@ -1,12 +1,15 @@
 {
   "id": "caotruyen-antigravity-resilient-v2",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "repository": "https://github.com/hiraga1305/CaoTruyen",
   "entrypoint": "python -X utf8 translate.py",
   "instructions": "WORKFLOW.md",
   "validation_policy": "resilient-content-2",
   "review_policy": "resilient-review-2",
   "continuity_policy": "scoped-continuity-1",
+  "launch_policy": "current-workflow-1",
+  "release_lock": "workflow_release.json",
+  "startup": "python -X utf8 translate.py launch",
   "defaults": {
     "workers": 4,
     "review_workers": 2,

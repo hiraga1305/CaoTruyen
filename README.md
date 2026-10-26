@@ -2,7 +2,7 @@
 
 Repository chuẩn của thư mục CaoTruyen: **[hiraga1305/CaoTruyen](https://github.com/hiraga1305/CaoTruyen)**. Workflow hiện hành: **Resilient v2**, khai báo ở [workflow.json](workflow.json), hướng dẫn ở [WORKFLOW.md](WORKFLOW.md).
 
-Luồng: **khóa nguồn/canon có phạm vi → bốn worker MEDIUM tạo nháp → hai reviewer MEDIUM độc lập chạy đồng thời, đọc toàn wave → sửa native → approved manifest → checkpoint → đóng gói/xuất**. Workflow 2.2.0 áp dụng quy tắc continuity chung cho mọi sách; wave tối đa năm chương, tự co theo ngân sách. Response đầy đủ/đúng ID chỉ lỗi vài đoạn được giữ phần đúng và sửa đúng đoạn lỗi. HIGH dự phòng/sửa tập trung. Vận hành độc lập trong Antigravity, không cần Codex hoặc audit ngoài định kỳ.
+Luồng: **doctor/launch xác minh bản hiện hành → khóa nguồn/canon có phạm vi → bốn worker MEDIUM tạo nháp → hai reviewer MEDIUM độc lập chạy đồng thời, đọc toàn wave → sửa native → approved manifest → checkpoint → đóng gói/xuất**. Workflow 2.3.0 thêm gate bắt buộc trước model và ở biên wave, giữ quy tắc continuity chung cho mọi sách; wave tối đa năm chương, tự co theo ngân sách. Response đầy đủ/đúng ID chỉ lỗi vài đoạn được giữ phần đúng và sửa đúng đoạn lỗi. HIGH dự phòng/sửa tập trung. Vận hành độc lập trong Antigravity, không cần Codex hoặc audit ngoài định kỳ.
 
 ## Bắt đầu
 
@@ -15,7 +15,8 @@ python -m venv .venv
 .venv/Scripts/python.exe -X utf8 translate.py preflight --book-dir BOOK_DIR --job JOB_DIR --through-chapter 100
 
 # Live: phiên Antigravity thật đã bind dashboard và có native OAuth.
-.venv/Scripts/python.exe -X utf8 translate.py watch --book-dir BOOK_DIR --job JOB_DIR --through-chapter 100
+.venv/Scripts/python.exe -X utf8 translate.py doctor
+.venv/Scripts/python.exe -X utf8 translate.py launch --book-dir BOOK_DIR --job JOB_DIR --through-chapter 100
 ```
 
 BOOK_DIR/JOB_DIR là đường dẫn local được chọn. Phạm vi phải được người dùng cho phép; không tự mở toàn sách. Đổi code/canon/phạm vi dùng job revision mới, cùng cấu hình dùng đúng job để resume. Checkpoint mỗi 100 chương không thêm native audit hoặc dừng chờ xác nhận ngoài.
@@ -44,8 +45,9 @@ Nguồn truyện, output, OAuth account, evidence và ZIP giữ local, không th
 ## Tài liệu
 
 - [Workflow chuẩn](WORKFLOW.md).
+- [Khởi động, đồng bộ và chuyển phiên bản bắt buộc](docs/WORKFLOW_LAUNCH.md).
 - [Quy ước tên, thuật ngữ và xưng hô cho mọi truyện](docs/CONTINUITY_CONVENTIONS.md).
-- [Thay đổi và giới hạn bản 2.2](docs/releases/workflow-v2.2.md).
+- [Thay đổi và giới hạn bản 2.3](docs/releases/workflow-v2.3.md).
 - [Prompt dịch tiếp dùng chung](docs/prompts/continue-translation.md).
 - [Lịch sử tối ưu 2.1](docs/releases/workflow-v2.1.md).
 - [Giao thức, gate và phục hồi](native_oauth/RESILIENT_TRANSLATION_WORKFLOW.md).

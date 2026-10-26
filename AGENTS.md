@@ -1,7 +1,8 @@
-# Workflow mặc định đã chốt — 26/10/2026
+# Workflow hiện hành bắt buộc — 27/10/2026
 
 - Repository chuẩn cho mọi tác vụ dịch trong CaoTruyen: **https://github.com/hiraga1305/CaoTruyen**.
 - Đọc `WORKFLOW.md` và `workflow.json` trước khi chạy. Entry point: `python -X utf8 translate.py`; policy `resilient-content-2` / `resilient-review-2`.
+- Trước model thật đọc `.agents/rules/standard_workflow.md` và `docs/WORKFLOW_LAUNCH.md`. Fetch/đối chiếu canonical GitHub main, chạy `translate.py doctor` rồi `translate.py launch`; đọc version từ metadata, không ghim số trong prompt. Job cũ không khớp phải tạo revision qua launch, không hạ code hoặc sửa configuration/hash/receipt để resume. Không chạy code trong audit/workflow_snapshot hoặc gọi native CLI ngoài gateway chuẩn để né guard.
 - Mặc định bốn translator MEDIUM, tối đa năm chương/wave tự co theo ngân sách, hai reviewer MEDIUM độc lập chạy đồng thời, HIGH fallback/sửa tập trung. Response đầy đủ/đúng ID chỉ lỗi vài đoạn thì giữ phần đúng và sửa đúng đoạn lỗi; partial/sai ID không dùng đường giữ row. Không quay về runner cũ hoặc pilot trừ khi người dùng yêu cầu rõ.
 - Checkpoint approved mỗi 100 chương là bản ghi tự động, không thêm audit hoặc chờ Codex. Cập nhật workflow/GitHub không tự cấp quyền bắt đầu dịch toàn sách.
 - Giữ nguồn/truyện, runtime/bundle, database và credential ở local. Chỉ commit mã nguồn, test và docs; không `git add .` để đẩy dữ liệu truyện.
@@ -12,7 +13,7 @@
 
 - Toàn bộ workflow cào → dịch → review → sửa → phê duyệt → xuất bản chạy độc lập trong **Antigravity**.
 - Không ràng buộc Codex, session GPT/Codex, dịch vụ duyệt ngoài hoặc một lượt audit định kỳ vào workflow. Việc kiểm tra chéo ngoài luồng trong phiên này là một lần kiểm thử/sửa rồi push GitHub, không phải thành phần vận hành.
-- Hướng dẫn hiện hành: `native_oauth/ANTIGRAVITY_WORKFLOW.md`. Hai native reviewer chạy độc lập trong Antigravity và phải có evidence runtime thật; không tự khai identity hay bỏ gate để đổi nền tảng.
+- Hướng dẫn vận hành hiện hành: `WORKFLOW.md`, `docs/WORKFLOW_LAUNCH.md`; `native_oauth/ANTIGRAVITY_WORKFLOW.md` bổ sung giao thức/lịch sử. Hai native reviewer chạy độc lập trong Antigravity và phải có evidence runtime thật; không tự khai identity hay bỏ gate để đổi nền tảng.
 - Giữ nguồn/ID/hash, chống partial/mất đoạn, lịch sử revision, continuity và approved manifest trước xuất bản. Không sửa bản truyện cũ hoặc chạy model thật chỉ để kiểm thử code nếu chưa nằm trong phạm vi yêu cầu.
 
 ---

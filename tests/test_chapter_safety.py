@@ -61,7 +61,8 @@ class NativeCompletionTests(unittest.TestCase):
                 kwargs['stderr'].flush()
                 return child
 
-            with patch('native_oauth.run_agy.subprocess.Popen', side_effect=popen), patch('native_oauth.run_agy.time.sleep'):
+            with patch('native_oauth.run_agy.subprocess.Popen', side_effect=popen), patch('native_oauth.run_agy.time.sleep'), \
+                    patch('native_oauth.workflow_guard.before_native'):
                 runtime = run(prompt, folder / 'runtime', model='fixture')
             self.assertEqual(runtime['status'], 'PARTIAL_TIMEOUT')
             self.assertEqual(runtime['exit_code'], 0)

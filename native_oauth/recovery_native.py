@@ -34,6 +34,7 @@ class RecoveryPending(RuntimeError):
 
 
 def classify(error):
+    if getattr(error,'kind',None)=='WORKFLOW':return 'WORKFLOW'
     from native_oauth.pipeline_native import NativeJSONSchemaError
     from native_oauth.run_agy import IncompleteNativeOutput
     message=str(error).lower()
@@ -56,6 +57,7 @@ def classify(error):
 
 
 ACTIONS = {
+    'WORKFLOW':'SYNC_CURRENT_WORKFLOW_AND_RELAUNCH_WITH_NEW_JOB_REVISION',
     'FORMAT':'USE_SMALLER_RESPONSE_SCOPE', 'TIMEOUT':'SPLIT_ASSIGNED_OUTPUT_AND_RETRY',
     'CONTENT':'REPAIR_SOURCE_OWNED_ROWS', 'CONTEXT':'SPLIT_BATCH_WITH_FULL_ASSIGNED_SOURCE',
     'QUOTA':'WAIT_FOR_QUOTA_RESET_AND_RESUME', 'NETWORK':'BACKOFF_AND_RESUME',

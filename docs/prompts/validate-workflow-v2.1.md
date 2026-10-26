@@ -1,3 +1,5 @@
+LƯU TRỮ LỊCH SỬ — không dùng prompt ghim phiên bản này để chạy mới. Đọc canonical main và docs/prompts/continue-translation.md; doctor/launch hiện hành quyết định phiên bản và job.
+
 Bạn đang ở root CaoTruyen. Dùng WORKFLOW.md, workflow.json và AGENTS.md, kiểm bản 2.1 rồi chạy một wave tiếp nối trong Antigravity. Tôi cho phép model thật cho tối đa năm chương tiếp theo sau prefix approved hiện tại; không tự chạy toàn sách, xuất bản hoặc push thay đổi trong lượt kiểm chứng này.
 
 1. Chạy offline unittest, không gọi model để kiểm code. Xác nhận version 2.1.0, bốn translator và hai reviewer đồng thời, giữ native policy v2. Không sửa hash/ID/verdict để PASS.

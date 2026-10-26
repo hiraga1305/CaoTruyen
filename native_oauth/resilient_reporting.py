@@ -11,6 +11,10 @@ from native_oauth.resilient_publication import progress
 
 def report(book,job,total):
     book,job=Path(book).resolve(),Path(job).resolve();calls=[]
+    frozen=read_json(job/'configuration.json') if (job/'configuration.json').exists() else {}
+    old_metadata=job/'workflow_snapshot/workflow.json'
+    version=frozen.get('workflow_release',{}).get('version')
+    if version is None and old_metadata.exists():version=read_json(old_metadata).get('version')
     for path in sorted((job/'native_attempts').rglob('runtime.json')):
         runtime=read_json(path);usage=runtime.get('usage') or (runtime.get('result') or {}).get('usage') or {}
         role=path.parent.name.removesuffix('.runtime')
@@ -37,7 +41,8 @@ def report(book,job,total):
             job_approved.append(chapter)
     chars=sum(len(row['source']) for source in source_report.get('sources',[]) if source['status']=='SOURCE_READY' and source['chapter'] in job_approved
               for row in read_json(source['source_file'])['segments'])
-    result={'progress':verified,'job_scope':scope,'job_approved_chapters':job_approved,'job_approved_source_characters':chars,
+    result={'progress':verified,'workflow_version':version,'launch_policy':frozen.get('workflow_release',{}).get('launch_policy'),
+        'continuity_policy':frozen.get('continuity_policy'),'job_scope':scope,'job_approved_chapters':job_approved,'job_approved_source_characters':chars,
         'native_calls_with_runtime':len(calls),'logical_attempts':sum(len(r['attempts']) for r in journals),
         'attempt_failures_by_kind':{kind:sum(r.get('kind')==kind for r in failures) for kind in sorted({r.get('kind','INTERRUPTED') for r in failures})},
         'active_wall_seconds':wall,'worker_seconds_sum':sum(r['worker_seconds'] for r in calls) if calls and all(isinstance(r['worker_seconds'],(int,float)) for r in calls) else None,

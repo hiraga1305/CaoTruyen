@@ -164,6 +164,8 @@ def require_complete_runtime(runtime, expected_model):
 
 def run(prompt_file, run_dir, model='gemini-3.8-flash-high', agent=None, timeout=600, workspace=None, approve_tools=False,
         stdin_prompt=False):
+    from native_oauth.workflow_guard import before_native
+    before_native(prompt_file,run_dir,model,workspace,approve_tools,stdin_prompt)
     run_dir = Path(run_dir).resolve()
     if (run_dir/'events.jsonl').exists():
         history=run_dir.with_name(run_dir.name+'.history.'+uuid.uuid4().hex[:8])

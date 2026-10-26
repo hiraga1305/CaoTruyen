@@ -2,6 +2,8 @@
 
 Repository chuẩn: https://github.com/hiraga1305/CaoTruyen. Tác vụ dịch mới trong CaoTruyen dùng `translate.py` và policy v2; route cũ chỉ khi người dùng yêu cầu rõ. `workflow.json` khai báo phiên bản/default; test kiểm chúng khớp entry point thật.
 
+Mọi live run dùng [quy trình khởi động bắt buộc](docs/WORKFLOW_LAUNCH.md): đối chiếu canonical GitHub main, `translate.py doctor`, rồi `translate.py launch`. `workflow_release.json` khóa code/hướng dẫn; process-local gate chặn job/code/policy cũ trước model và kiểm lại ở biên wave. Hướng dẫn lịch sử hoặc tên thư mục 2.x không chọn phiên bản. Route tương thích chỉ phục vụ đọc/replay; muốn vận hành dùng runner hiện hành, không gọi CLI ngoài gateway.
+
 ## Đầu vào và phiên Antigravity
 
 Chạy từ root repo, Python 3.10+ với `requirements.txt`, native `agy` CLI và tài khoản OAuth hợp lệ. Nếu CLI không nằm ở vị trí `run_agy.find_cli()` nhận biết, khai `AGY_BIN` trỏ executable đã có. Không chuyển API key để né lỗi account/quota.
@@ -20,7 +22,8 @@ Nguồn lỗi đi qua queue/refetch/import có lineage, giữ nguyên bản cũ.
 ## Dịch, review, sửa và phê duyệt
 
 ```powershell
-.venv/Scripts/python.exe -X utf8 translate.py watch --book-dir BOOK_DIR --job JOB_DIR --through-chapter LAST_CHAPTER --workers 4 --checkpoint-every 100
+.venv/Scripts/python.exe -X utf8 translate.py doctor
+.venv/Scripts/python.exe -X utf8 translate.py launch --book-dir BOOK_DIR --job JOB_DIR --through-chapter LAST_CHAPTER --workers 4 --checkpoint-every 100
 ```
 
 `LAST_CHAPTER` là phạm vi người dùng cho phép. Mặc định translator/reviewer MEDIUM, HIGH fallback; timeout đầu 300 s rồi retry có giới hạn. Runtime init phải xác nhận model thật; không tự khai identity. Account có thể chưa có model cấu hình, cần xử lý điều kiện hợp lệ thay vì đổi nhãn runtime.
@@ -52,8 +55,8 @@ Khi cần thêm/sửa quy ước, Antigravity đối chiếu ID/quote nguồn v�
 | Tiến trình chết | Replay artifact native hoàn chỉnh nếu có; phần thiếu retry hữu hạn |
 
 ```powershell
-# Resume cùng book/job/phạm vi và tham số.
-.venv/Scripts/python.exe -X utf8 translate.py watch --book-dir BOOK_DIR --job JOB_DIR --through-chapter LAST_CHAPTER
+# Resume selected_job do launch trả; job không khớp sẽ được tách revision mới.
+.venv/Scripts/python.exe -X utf8 translate.py launch --book-dir BOOK_DIR --job SELECTED_JOB --through-chapter LAST_CHAPTER
 
 # Chỉ sau hành động khôi phục điều kiện kỹ thuật thật.
 .venv/Scripts/python.exe -X utf8 translate.py retry-ready --book-dir BOOK_DIR --job JOB_DIR --through-chapter LAST_CHAPTER --reason "Việc khôi phục đã thực hiện"
