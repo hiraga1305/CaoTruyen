@@ -1,0 +1,22 @@
+{
+  "id": "caotruyen-antigravity-resilient-v2",
+  "version": "2.0.0",
+  "repository": "https://github.com/hiraga1305/CaoTruyen",
+  "entrypoint": "python -X utf8 translate.py",
+  "instructions": "WORKFLOW.md",
+  "validation_policy": "resilient-content-2",
+  "review_policy": "resilient-review-2",
+  "defaults": {
+    "workers": 4,
+    "max_wave_chapters": 5,
+    "model": "gemini-3.8-flash-medium",
+    "review_model": "gemini-3.8-flash-medium",
+    "fallback": "gemini-3.8-flash-high",
+    "timeout": 300,
+    "max_repairs": 2,
+    "checkpoint_every": 100
+  },
+  "runtime": "Antigravity native OAuth sessions",
+  "publication": "Two independent native batch reviews and a continuous approved manifest",
+  "data_policy": "Sources, novels, native account files, runtime evidence and bundles remain local"
+}

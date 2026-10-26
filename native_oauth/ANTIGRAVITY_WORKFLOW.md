@@ -2,9 +2,17 @@
 
 Workflow vận hành độc lập trong Antigravity qua OAuth/native CLI. Không có dịch vụ duyệt ngoài, bước chờ nền tảng khác hoặc yêu cầu phải mở công cụ kiểm thử bên ngoài để chạy từng chương.
 
-## Luồng ưu tiên: nhóm 5 chương, dịch và audit xen kẽ
+Workflow đã chốt cho mọi truyện mới trong CaoTruyen ở [WORKFLOW.md](../WORKFLOW.md) và [workflow.json](../workflow.json); entry point `translate.py`. Phép A/B/C trong [FINAL_TRANSLATION_PILOT.md](FINAL_TRANSLATION_PILOT.md) chỉ là benchmark lịch sử, không phải route mặc định hoặc bước bắt buộc trước mỗi sách.
 
-`revise_book.py` mặc định dùng `--mode wave`: mỗi nhóm tối đa 5 chương, 2 worker sinh nháp song song và một luồng review theo thứ tự (tổng tối đa 3 phiên native). Khi chương đầu đủ điều kiện, review bắt đầu ngay trong lúc các worker tiếp tục tạo nháp các chương sau. Hai reviewer vẫn chạy trong phiên riêng, không chia sẻ kết luận. Mỗi reviewer đối chiếu đủ nguồn, bản dịch và context cuối đã được duyệt của chương trước; thứ tự phê duyệt giữ nguyên.
+## Luồng ưu tiên mới: resilient và phục hồi
+
+CLI `revise_book.py` mặc định `--mode resilient`: bốn worker MEDIUM sinh nháp trong cửa sổ tối đa năm chương; hai native reviewer độc lập đọc trọn wave, kiểm đủ nguồn–đích, nghĩa/văn học/continuity. Slot/ref cố định giúp tránh model chép sai quote. Không thêm wave-auditor thứ ba mặc định. HIGH là fallback/sửa có runtime thật. Timeout, schema, nguồn và quota có journal, chia nhỏ, backoff, queue và resume; không bỏ chương hoặc tạo PASS giả.
+
+Hướng dẫn lỗi, nguồn phục hồi và lệnh chạy ở [RESILIENT_TRANSLATION_WORKFLOW.md](RESILIENT_TRANSLATION_WORKFLOW.md). Gate batch và `approved/resilient_manifest.json` có schema riêng; không trộn approval legacy. Python API `run_campaign()` cũng mặc định resilient; route tương thích phải chỉ định mode rõ ràng. Checkpoint mỗi 100 chương không thêm audit ngoài.
+
+## Luồng tương thích: `--mode wave`, review từng chương
+
+Khi chọn `--mode wave`: mỗi nhóm tối đa 5 chương, 2 worker sinh nháp song song và một luồng review theo thứ tự (tổng tối đa 3 phiên native). Khi chương đầu đủ điều kiện, review bắt đầu ngay trong lúc các worker tiếp tục tạo nháp các chương sau. Hai reviewer vẫn chạy trong phiên riêng, không chia sẻ kết luận. Mỗi reviewer đối chiếu đủ nguồn, bản dịch và context cuối đã được duyệt của chương trước; thứ tự phê duyệt giữ nguyên.
 
 ```powershell
 python -m native_oauth.revise_book --book-dir native_oauth/book_49736 --job native_oauth/book_49736/repair_jobs/revision_YYYYMMDD --through-chapter 10 --mode wave --max-workers 3 --translator-model gemini-3.8-flash-high --reviewer-model gemini-3.8-flash-high --auditor-model gemini-3.8-flash-medium
@@ -52,7 +60,7 @@ Model trong ví dụ là cấu hình sẵn có của project, không phải cam 
 ```powershell
 $job='native_oauth/book_49736/repair_jobs/revision_YYYYMMDD'
 python -m native_oauth.revise_book --book-dir native_oauth/book_49736 --job $job --snapshot-only
-python -m native_oauth.revise_book --book-dir native_oauth/book_49736 --job $job --through-chapter 325 --reviewer-model gemini-3.8-flash-high --auditor-model gemini-3.8-flash-high --max-repairs 2
+python -m native_oauth.revise_book --book-dir native_oauth/book_49736 --job $job --through-chapter 325 --mode wave --reviewer-model gemini-3.8-flash-high --auditor-model gemini-3.8-flash-high --max-repairs 2
 python -m native_oauth.revision_status --book-dir native_oauth/book_49736 --job $job --out audit/revision_status.json
 ```
 
@@ -87,7 +95,7 @@ Parser LTP chỉ hỗ trợ đọc, không tự quyết nghĩa. `parse_source.py
 - Reviewer 1 đối chiếu đủ từng đoạn Trung–Việt: chủ thể, lời nói/suy nghĩ, tên/quan hệ, số/đơn vị/ngưỡng, phủ định, thời gian/nhân quả và thêm/bớt nghĩa.
 - Reviewer 2 cũng đọc nguồn; kiểm xưng hô theo đúng người nói/nghe và chiều gọi, vai vế, người thứ ba, ký ức/điều nhân vật biết, biên chunk/chương và tiếng Việt tự nhiên.
 - Mỗi reviewer chạy một phiên native độc lập. Gate xác minh file runtime, events init/result, hash, actual model, conversation id, status/exit/partial và artifact nội dung sau lượt chạy. Đây là bằng chứng transport local, không là chữ ký hay chứng minh danh tính backend nhà cung cấp. Hai reviewer không dùng lại phiên translator hoặc cùng một phiên với nhau. Cùng loại model ở hai phiên độc lập được phép; sự đồng ý của hai phiên không bảo đảm không còn lỗi.
-- Review phải khớp package/candidate hash, có đủ ID và quote nguồn/đích thật, tám chiều ngữ nghĩa và flags văn học. Không tự duyệt bằng điểm confidence.
+- Review phải khớp package/candidate hash, có đủ coverage nguồn–đích, tám chiều ngữ nghĩa và flags văn học. Ở gate cũ, dùng ID/quote hoặc quote-ref; ở gate batch mới, slot/ref trong catalog gắn đúng ID và nguyên đoạn nguồn–đích, với native response nguyên bản được bind hash. Không tự duyệt bằng điểm confidence.
 - UNKNOWN của heuristic không tự chứng minh lỗi dịch. Thiếu context thì nêu finding needs_context và dừng; sự mơ hồ cố ý được bảo toàn đúng có thể đạt.
 - Source/alias/canon thay đổi hoặc draft sửa chữ làm bằng chứng cũ không còn dùng được. Review lại bản cuối; giữ candidate thất bại và revision trước.
 - Neo nghĩa chỉ trích cue thật từ nguồn: thời lượng, quan hệ chưa thành, góc nhìn/mức chắc chắn, âm lượng, số lượng và một số ngữ cảnh chuyên môn. Không tự thay chữ. Khóa cứng chỉ dành cho tên nhân vật đã biên tập; từ điển nghĩa chung là gợi ý để tránh một cách dịch sai bị ép lặp suốt sách.

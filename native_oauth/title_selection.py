@@ -1,12 +1,61 @@
 """Source-owned title selection when site metadata differs from article content."""
 import hashlib
 import re
+import threading
+import urllib.parse
+from collections import OrderedDict
 from pathlib import Path
 from bs4 import BeautifulSoup
-from semantic_gate import read_json
+from semantic_gate import read_json,digest
 from native_oauth.source_adapters import clean_title
 
 VERSION='article-title-dom-1'
+_TITLE_SOURCE_CACHE=OrderedDict()
+_TITLE_SOURCE_LOCK=threading.RLock()
+
+
+def metadata_title_source(source):
+    """Verify a separate title against archived metadata; never insert body IDs."""
+    if source.get('version') != 'bns-source-v2':
+        raise ValueError('Separate title requires an archived v2 source')
+    from native_oauth.chapter_integrity import validate_source_archive
+    validate_source_archive(source)
+    archive = Path(__file__).resolve().parents[1]/'source_archive'/('book_'+source['book_id'])/source['raw_archive']
+    raw=archive.read_bytes();raw_hash=hashlib.sha256(raw).hexdigest()
+    if raw_hash!=source['raw_sha256']:raise ValueError('Title archive changed during validation')
+    key=(digest(source),str(archive),raw_hash,id(BeautifulSoup))
+    with _TITLE_SOURCE_LOCK:
+        if key in _TITLE_SOURCE_CACHE:
+            _TITLE_SOURCE_CACHE.move_to_end(key)
+            return dict(_TITLE_SOURCE_CACHE[key])
+    soup = BeautifulSoup(raw, 'html.parser')
+    selector = 'h1.page-d-name' if 'ixdzs8' in source.get('source_ref','') else '.name'
+    node = soup.select_one(selector)
+    title = source.get('title', '')
+    declared=chapter_number(title)
+    parsed=urllib.parse.urlsplit(source['source_ref'])
+    toc_identity=(parsed.scheme=='https' and parsed.hostname=='czbooks.net' and not parsed.username and not parsed.password
+                  and source.get('toc_index')==source['chapter']
+                  and urllib.parse.parse_qs(parsed.query).get('chapterNumber')==[str(source['chapter']-1)])
+    canonical=soup.select_one('link[rel="canonical"],meta[property="og:url"]')
+    if canonical:
+        canonical_url=urllib.parse.urlsplit(urllib.parse.urljoin(source['source_ref'],canonical.get('href') or canonical.get('content') or ''))
+        toc_identity=toc_identity and (canonical_url.scheme,canonical_url.hostname,canonical_url.path)==(parsed.scheme,parsed.hostname,parsed.path)
+    if (node is None or not title or declared is None or (declared != source['chapter'] and not toc_identity)
+            or clean_title(node.get_text(strip=True)) != clean_title(title)):
+        raise ValueError('Separate chapter title does not match archived metadata')
+    result={'id':f"c{source['chapter']:04d}title", 'source':title,
+            'origin':f'archived {selector} metadata; absent from body',
+            'archive':str(archive), 'archive_sha256':raw_hash}
+    if declared!=source['chapter']:
+        result.update(catalog_chapter=source['chapter'],declared_chapter=declared,
+            numbering_note='Archived printed number differs from the verified zero-based TOC URL. '
+                           'Preserve source metadata and IDs; render chapter numbering by catalog ordinal. '
+                           'This editorial heading number mapping must not change body numbers or story meaning.')
+    with _TITLE_SOURCE_LOCK:
+        _TITLE_SOURCE_CACHE[key]=result
+        while len(_TITLE_SOURCE_CACHE)>4096:_TITLE_SOURCE_CACHE.popitem(last=False)
+    return dict(result)
 
 
 def chapter_number(text):

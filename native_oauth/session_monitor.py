@@ -97,13 +97,14 @@ class SessionMonitor:
     _instance_lock = threading.RLock()
 
     @classmethod
-    def get_instance(cls, book_id: str = "49736", book_title: str = "Tác Phẩm") -> "SessionMonitor":
+    def get_instance(cls, book_id: str = "49736", book_title: str = "Tác Phẩm", state_file=None) -> "SessionMonitor":
         with cls._instance_lock:
-            if cls._instance is None or cls._instance.book_id != str(book_id):
-                cls._instance = cls(book_id=book_id, book_title=book_title)
+            expected=Path(state_file).resolve() if state_file else ROOT/"native_oauth"/f"book_{book_id}"/"session_monitor_state.json"
+            if cls._instance is None or cls._instance.book_id != str(book_id) or cls._instance.state_file!=expected:
+                cls._instance = cls(book_id=book_id, book_title=book_title,state_file=expected)
             return cls._instance
 
-    def __init__(self, book_id: str = "49736", book_title: str = "Tác Phẩm", total_chapters: int = 325):
+    def __init__(self, book_id: str = "49736", book_title: str = "Tác Phẩm", total_chapters: int = 325,state_file=None):
         self._lock = threading.RLock()
         self.completed = {}
         self.stage_states = {}
@@ -123,7 +124,7 @@ class SessionMonitor:
         self.total_words_accumulated: int = 0
         self.total_paras_accumulated: int = 0
         self.start_timestamp: float = time.time()
-        self.state_file = ROOT / "native_oauth" / f"book_{self.book_id}" / "session_monitor_state.json"
+        self.state_file = Path(state_file).resolve() if state_file else ROOT / "native_oauth" / f"book_{self.book_id}" / "session_monitor_state.json"
         self._load_previous_state()
 
     def _load_previous_state(self):
@@ -145,6 +146,20 @@ class SessionMonitor:
     @property
     def completed_count(self):
         return len(self.completed)
+
+    def sync_approved_prefix(self,records):
+        """Import already-verified book receipts without inventing model timings."""
+        with self._lock, _file_lock(self.state_file):
+            self._load_previous_state();approved={}
+            for row in records:
+                key=str(row['chapter_num'])
+                approved[key]={**self.completed.get(key,{}),**row,'gate_pass':True}
+                if key not in self.completed:
+                    approved[key].update(status='APPROVED_PREFIX',worker_id='verified-prefix',duration_seconds=None)
+            self.completed=approved
+            self.total_words_accumulated=sum(row['words'] for row in approved.values())
+            self.total_paras_accumulated=sum(row['paragraphs'] for row in approved.values())
+            self.save_state();self.sync_session_artifacts()
 
     def record_chapter_done(
         self,
@@ -421,8 +436,8 @@ class SessionMonitor:
 
 
 # Global singleton access
-def get_session_monitor(book_id: str = "49736", book_title: str = "Tác Phẩm", total_chapters: int = 325) -> SessionMonitor:
-    mon = SessionMonitor.get_instance(book_id=book_id, book_title=book_title)
+def get_session_monitor(book_id: str = "49736", book_title: str = "Tác Phẩm", total_chapters: int = 325,state_file=None) -> SessionMonitor:
+    mon = SessionMonitor.get_instance(book_id=book_id, book_title=book_title,state_file=state_file)
     mon.total_chapters = total_chapters
     mon.total_waves = max(1, (total_chapters + 4) // 5)
     return mon

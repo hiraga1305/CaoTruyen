@@ -17,6 +17,9 @@ from native_oauth.workflow_io import atomic_json, file_lock
 from native_oauth.semantic_context import normalize_profile
 
 
+ROOT = Path(__file__).resolve().parents[1]
+
+
 def recovery_findings(source_hash, owned, result, model):
     if result.get('source_hash') != source_hash or result.get('model') != 'native/'+model:
         return [{'kind':'source_or_model_mismatch'}]
@@ -35,7 +38,7 @@ def recovery_findings(source_hash, owned, result, model):
     return issues
 
 
-def missing_segments(source, legacy):
+def missing_segments(source, legacy, chapter=None):
     validate_source(source)
     rows=legacy.get('bilingual_alignment',[])
     mapped={row['para_id']:row for row in rows}
@@ -44,7 +47,15 @@ def missing_segments(source, legacy):
         raise ValueError('Legacy duplicate/foreign IDs require explicit source mapping')
     if any(row.get('raw_zh')!=expected[sid]['source'] for sid,row in mapped.items()):
         raise ValueError('Legacy source mismatch; never rewrite hashes to pass')
-    return [row for row in source['segments'] if not mapped.get(row['id'],{}).get('translated_vi','').strip()]
+    truncation_file = ROOT / 'audit/legacy_exports_20261024/truncations.json'
+    ch_num = chapter if chapter is not None else source.get('chapter')
+    truncated_ids = set()
+    if truncation_file.exists():
+        for item in read_json(truncation_file):
+            if ch_num is None or item.get('chapter') == ch_num:
+                truncated_ids.add(item.get('source_id'))
+    return [row for row in source['segments']
+            if row['id'] in truncated_ids or not mapped.get(row['id'],{}).get('translated_vi','').strip()]
 
 
 def recover_chapter(book,job,chapter,model='gemini-3.8-flash-medium',timeout=360):
@@ -58,23 +69,30 @@ def recover_chapter(book,job,chapter,model='gemini-3.8-flash-medium',timeout=360
         for relative in (f'sources/source_chapter_{chapter:04d}.json',f'output_dich/chuong_{chapter:04d}.dich.json'):
             if hashlib.sha256((job/'baseline'/relative).read_bytes()).hexdigest()!=snapshot[relative]['sha256']:
                 raise ValueError('Recovery baseline was modified')
-        missing=missing_segments(source,legacy)
+        missing=missing_segments(source,legacy,chapter)
         lore=read_json(book/'lore.json') if (book/'lore.json').exists() else {}
         _,_,terms=normalize_profile(source['book_id'],[],[],lore)
         recovered=[];proofs=[]
+        truncation_file = ROOT / 'audit/legacy_exports_20261024/truncations.json'
+        truncated_ids = {item['source_id'] for item in read_json(truncation_file)} if truncation_file.exists() else set()
         groups=[];current=[];size=0
         for row in missing:
             if len(row['source'])>3200:raise ValueError('Overlong paragraph needs an explicit source split')
             adjacent = not current or next(i for i,s in enumerate(source['segments']) if s['id']==row['id']) == next(i for i,s in enumerate(source['segments']) if s['id']==current[-1]['id'])+1
-            if current and (not adjacent or len(current)>=20 or size+len(row['source'])>3200):
+            max_chunk_len = 21 if (current and current[0]['id'] in truncated_ids) else 20
+            if current and (not adjacent or len(current)>=max_chunk_len or size+len(row['source'])>3200):
                 groups.append(current);current=[];size=0
             current.append(row);size+=len(row['source'])
         if current:groups.append(current)
         for index,owned in enumerate(groups,1):
             cached=job/'recovery_chunks'/f'chapter_{chapter:04d}_chunk_{index:03d}.json'
+            result=None
             if cached.exists():
-                result=read_json(cached);validate_provenance(result)
-            else:
+                candidate_cached=read_json(cached)
+                if not recovery_findings(source['package_hash'],owned,candidate_cached,model):
+                    validate_provenance(candidate_cached)
+                    result=candidate_cached
+            if result is None:
                 workspace=job/'recovery_sessions'/f'chapter_{chapter:04d}'/(f'chunk_{index}_'+uuid.uuid4().hex)
                 data=workspace/'native_oauth/runs/chapter1';data.mkdir(parents=True)
                 first=next(i for i,row in enumerate(source['segments']) if row['id']==owned[0]['id'])

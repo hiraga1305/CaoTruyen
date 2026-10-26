@@ -8,6 +8,8 @@ from native_oauth.chapter_integrity import read_verified_draft
 
 def book_progress(book_dir, total_chapters):
     book = Path(book_dir)
+    from native_oauth.resilient_publication import manifest_path, progress
+    if manifest_path(book).exists():return progress(book,total_chapters)
     approved, invalid, words, paragraphs = [], [], 0, 0
     for key in read_manifest(book)['chapters']:
         chapter = int(key)

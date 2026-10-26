@@ -36,7 +36,7 @@ class WaveRevisionTests(unittest.TestCase):
             self.originals[file]=file.read_bytes()
         write_json(self.book/'toc.json',[{}]*5)
         create_campaign(self.book,self.job)
-        self.options={'translator_model':'fixture','reviewer_model':'fixture','auditor_model':'fixture','max_repairs':0}
+        self.options={'mode':'wave','translator_model':'fixture','reviewer_model':'fixture','auditor_model':'fixture','max_repairs':0}
         self.calls=[];self.reviewed=[];self.counter=0;self.guard=threading.Lock()
         self.active=0;self.peak=0;self.overlap=False
         self.parallel_probe=False;self.fail_wave=False;self.fail_chapter=None;self.bad_source=False

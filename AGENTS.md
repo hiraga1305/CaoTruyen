@@ -1,3 +1,12 @@
+# Workflow mặc định đã chốt — 26/10/2026
+
+- Repository chuẩn cho mọi tác vụ dịch trong CaoTruyen: **https://github.com/hiraga1305/CaoTruyen**.
+- Đọc `WORKFLOW.md` và `workflow.json` trước khi chạy. Entry point: `python -X utf8 translate.py`; policy `resilient-content-2` / `resilient-review-2`.
+- Mặc định bốn translator MEDIUM, tối đa năm chương/wave tự co theo ngân sách, hai reviewer MEDIUM độc lập, HIGH fallback/sửa tập trung. Không quay về runner cũ hoặc pilot trừ khi người dùng yêu cầu rõ.
+- Checkpoint approved mỗi 100 chương là bản ghi tự động, không thêm audit hoặc chờ Codex. Cập nhật workflow/GitHub không tự cấp quyền bắt đầu dịch toàn sách.
+- Giữ nguồn/truyện, runtime/bundle, database và credential ở local. Chỉ commit mã nguồn, test và docs; không `git add .` để đẩy dữ liệu truyện.
+- Code/canon/config đổi thì tạo job revision mới; tái sử dụng prefix approved đã xác minh, không đổi hash/runtime cũ hoặc duyệt lại bằng host.
+
 # Phạm vi vận hành đã xác nhận — 22/10/2026
 
 - Toàn bộ workflow cào → dịch → review → sửa → phê duyệt → xuất bản chạy độc lập trong **Antigravity**.

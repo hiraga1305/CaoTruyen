@@ -43,9 +43,15 @@ def diagnostic_notes(book, job, chapter, source, note_file=None):
     if (value.get('source_hash')!=source['package_hash']
             or hashlib.sha256(comparison.read_bytes()).hexdigest()!=value.get('comparison_sha256')):
         raise ValueError('Diagnostic source/comparison changed')
-    rows=read_json(comparison)['bilingual_alignment']
+    comparison_data=read_json(comparison)
+    rows=comparison_data['bilingual_alignment']
     targets={r['para_id']:r for r in rows}
     sources={r['id']:r['source'] for r in source['segments']}
+    if comparison_data.get('title_vi'):
+        from native_oauth.title_selection import metadata_title_source
+        title=metadata_title_source(source)
+        sources[title['id']]=title['source']
+        targets[title['id']]={'raw_zh':title['source'],'translated_vi':comparison_data['title_vi']}
     findings=value.get('findings')
     if not isinstance(findings,list) or not findings:
         raise ValueError('Diagnostic needs source-bound findings')
@@ -162,13 +168,18 @@ def prepare_revision(book, job, chapter, *, draft_anchor=None):
         # A draft envelope deliberately is NOT an approvable semantic package.
         package = {'version':'antigravity-wave-draft-1', 'chapter':chapter,
                    'title':source['title'], 'source_ref':source['source_ref'],
-                   'glossary':names, 'segments':source['segments'], 'context':{},
-                   'draft_anchor':draft_anchor, 'approval_eligible':False}
+                   'glossary':names, 'segments':[{'id':s['id'],'source':s['source']} for s in source['segments']],
+                   'context':{}, 'draft_anchor':draft_anchor, 'approval_eligible':False}
     package.update(book_id=source['book_id'], book_title=lore.get('book_title_vi', book.name),
                    total_chapters=len(read_json(book/'toc.json')) if (book/'toc.json').exists() else chapter,
                    genre=lore.get('genre', 'SOURCE_CONTEXT'), origin_source_hash=source['package_hash'],
                    semantic_guidance=semantic_guidance(source['segments'], terms),
                    native_bound_files=bound_files([source_file, lore_file, Path(__file__).with_name('semantic_profiles.json')]))
+    from native_oauth.book_publication import title_ids
+    if not title_ids(source):
+        from native_oauth.title_selection import metadata_title_source
+        package['metadata_title_source'] = metadata_title_source(source)
+        package['native_bound_files'].update(bound_files([Path(package['metadata_title_source']['archive'])]))
     notes,note_files=diagnostic_notes(book,job,chapter,source)
     wave_notes,wave_files=diagnostic_notes(book,job,chapter,source,
                                           job/'wave_diagnostics'/f'chapter_{chapter:04d}.json')
@@ -211,6 +222,8 @@ def revision_protocol(package, legacy, findings=None, current_candidate=None):
         'Never accept a prior reviewer suggestion without checking the Chinese paragraph and context. '
         'Return strict JSON {package_hash,segments:[{id,text}],revision_notes:[{id,source_quote,reason_vi}]}. '
         'Copy exactly every current source ID in order, with a complete nonempty translation; no § output. '
+        'If SOURCE has metadata_title_source, also return title_vi translating that separate title. '
+        'Do not insert the metadata title into body segments or rename any body IDs. '
         'revision_notes explain changed source meanings only, never claim approval.\n'
         + translation_prompt(package) + '\nUNTRUSTED_LEGACY_ALIGNMENT:\n'
         + json.dumps(reference, ensure_ascii=False)
@@ -277,6 +290,9 @@ def revise_chapter(book, job, chapter, *, translator_model='gemini-3.8-flash-med
                    'status':'APPROVED','review_evidence':str(output.with_suffix('.evidence.json')),
                    'bilingual_alignment':[{'para_id':raw['id'],'index':i,'raw_zh':raw['source'],'translated_vi':target['text']}
                        for i,(raw,target) in enumerate(zip(source['segments'],candidate['segments']),1)]}
+        if package.get('metadata_title_source'):
+            aligned['title_vi'] = candidate['title_vi']
+            aligned['title'] = candidate['title_vi']
         if package.get('render_title_ownership'):
             aligned['render_title_ownership']=package['render_title_ownership']
             aligned['title']=next(row['text'] for row in candidate['segments']
@@ -299,7 +315,20 @@ def revise_chapter(book, job, chapter, *, translator_model='gemini-3.8-flash-med
     raise ValueError(f'Chapter {chapter} blocked after {max_repairs+1} complete attempts; inspect {workspace}')
 
 
-def run_campaign(book, job, through=325, *, mode='wave', max_workers=3, **options):
+def run_campaign(book, job, through=None, *, mode='resilient', max_workers=None, **options):
+    if through is None:
+        toc=Path(book)/'toc.json'
+        if not toc.exists():raise ValueError('Specify through for a book without a TOC')
+        through=len(read_json(toc))
+    if max_workers is None:max_workers=5 if mode=='resilient' else 3
+    if mode=='resilient':
+        from native_oauth.resilient_translation import Runner
+        return Runner(book,job,through,workers=max_workers-1,
+            model=options.get('translator_model','gemini-3.8-flash-medium'),
+            review_model=options.get('reviewer_model','gemini-3.8-flash-medium'),
+            review_model2=options.get('auditor_model',options.get('reviewer_model','gemini-3.8-flash-medium')),
+            fallback=options.get('fallback_model','gemini-3.8-flash-high'),
+            timeout=options.get('timeout',300),max_repairs=options.get('max_repairs',2)).run()
     if mode == 'wave':
         from native_oauth.wave_revision import run_wave_campaign
         return run_wave_campaign(book, job, through, max_workers=max_workers, **options)
@@ -344,18 +373,35 @@ def main():
     parser.add_argument('--book-dir',required=True,type=Path)
     parser.add_argument('--job',required=True,type=Path)
     parser.add_argument('--snapshot-only',action='store_true')
-    parser.add_argument('--through-chapter',type=int,default=325)
-    parser.add_argument('--translator-model',default='gemini-3.8-flash-high')
-    parser.add_argument('--reviewer-model',default='gemini-3.8-flash-high')
+    parser.add_argument('--through-chapter',type=int)
+    parser.add_argument('--translator-model',default='gemini-3.8-flash-medium')
+    parser.add_argument('--reviewer-model',default='gemini-3.8-flash-medium')
+    parser.add_argument('--fallback-model',default='gemini-3.8-flash-high')
     parser.add_argument('--auditor-model',default='gemini-3.8-flash-medium')
-    parser.add_argument('--timeout',type=int,default=600)
-    parser.add_argument('--max-repairs',type=int,choices=(0,1,2),default=1)
-    parser.add_argument('--mode', choices=('wave','sequential'), default='wave')
-    parser.add_argument('--max-workers', type=int, choices=range(2,7), default=3,
+    parser.add_argument('--timeout',type=int,default=300)
+    parser.add_argument('--max-repairs',type=int,choices=(0,1,2),default=2)
+    parser.add_argument('--mode', choices=('resilient','wave','sequential'), default='resilient')
+    parser.add_argument('--max-workers', type=int, choices=range(2,7), default=5,
                         help='Total native slots: N-1 translators plus one ordered review lane (2..6)')
     args=parser.parse_args()
+    if args.through_chapter is None:
+        toc=args.book_dir/'toc.json'
+        if not toc.exists():parser.error('Specify --through-chapter for a book without a TOC')
+        args.through_chapter=len(read_json(toc))
     if args.through_chapter<1 or args.timeout<30 or args.timeout>900:
         parser.error('Invalid range or timeout')
+    if args.mode=='resilient':
+        if args.snapshot_only:
+            from native_oauth.recovery_sources import preflight
+            preflight(args.book_dir,args.job,args.through_chapter);print(args.job);return
+        import os
+        if not (os.environ.get('ANTIGRAVITY_ARTIFACT_DIR') or os.environ.get('ANTIGRAVITY_CONVERSATION_ID')):
+            parser.error('Bind the real Antigravity session before native execution')
+        result=run_campaign(args.book_dir,args.job,args.through_chapter,mode='resilient',max_workers=args.max_workers,
+            translator_model=args.translator_model,reviewer_model=args.reviewer_model,fallback_model=args.fallback_model,
+            auditor_model=args.auditor_model,timeout=args.timeout,max_repairs=args.max_repairs)
+        if not result['export_ready']:raise SystemExit(2)
+        return
     if not args.job.exists():
         create_campaign(args.book_dir,args.job)
     if args.snapshot_only:

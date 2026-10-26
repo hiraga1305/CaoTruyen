@@ -13,7 +13,7 @@ from native_oauth.chapter_integrity import require_approved, validate_source, va
 from native_oauth.title_selection import chapter_number, validate_selection
 
 SCHEMA = 'antigravity-book-publication-1'
-TITLE_RE = re.compile(r'^(?:\d+\s*[.．]\s*)?第\s*[零一二三四五六七八九十百千\d]+\s*[章回節节]')
+TITLE_RE = re.compile(r'^(?:\d+\s*[.．]\s*)?(?:第\s*[零一二三四五六七八九十百千\d]+\s*[章回節节]|\d+\s*[.．])')
 
 
 def sha_file(path):
@@ -21,6 +21,12 @@ def sha_file(path):
 
 
 def read_manifest(book_dir):
+    from native_oauth.resilient_publication import manifest_path, manifest as resilient_manifest
+    if manifest_path(book_dir).exists():
+        old=Path(book_dir)/'approved/manifest.json'
+        if old.exists() and read_json(old).get('chapters'):
+            raise ValueError('Both legacy and resilient approvals exist; choose an isolated book')
+        return resilient_manifest(book_dir)
     path = Path(book_dir)/'approved/manifest.json'
     if not path.exists():
         return {'schema': SCHEMA, 'chapters': {}}
@@ -50,7 +56,7 @@ def title_ids(source):
     result = []
     for row in source['segments'][:2]:
         title = canonical(row['source'])
-        if TITLE_RE.match(row['source'].strip()) and title == expected:
+        if (TITLE_RE.match(row['source'].strip()) or (result and title == expected)) and title == expected:
             result.append(row['id'])
         else:
             break
@@ -79,6 +85,10 @@ def rendered_chapter(source, aligned):
 def read_approval(book_dir, chapter):
     book = Path(book_dir).resolve()
     manifest = read_manifest(book)
+    from native_oauth.resilient_gate import MODE
+    if manifest.get('schema')==MODE:
+        from native_oauth.resilient_publication import read_approval as read_batch_approval
+        return read_batch_approval(book,chapter,manifest)
     entry = manifest['chapters'].get(str(chapter))
     if not entry:
         raise ValueError(f'Chapter {chapter} has no committed independent approval')
@@ -115,6 +125,8 @@ def read_approval(book_dir, chapter):
 
 def commit_approval(book_dir, source, aligned, text, evidence):
     book = Path(book_dir).resolve()
+    from native_oauth.resilient_publication import manifest_path
+    if manifest_path(book).exists():raise ValueError('Cannot mix legacy approval with resilient publication')
     chapter = source['chapter']
     revision = digest(evidence)
     target = book/'approved'/f'chuong_{chapter:04d}'/revision

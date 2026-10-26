@@ -33,7 +33,7 @@ def bind_native_session(events_path):
     """Bind live artifacts to the observed CLI conversation, never a guessed folder."""
     from native_oauth.session_monitor import SessionMonitor
     monitor = SessionMonitor._instance
-    if monitor is None or os.environ.get('ANTIGRAVITY_ARTIFACT_DIR'):
+    if monitor is None or os.environ.get('ANTIGRAVITY_ARTIFACT_DIR') or os.environ.get('ANTIGRAVITY_CONVERSATION_ID'):
         return False
     try:
         for line in Path(events_path).read_text(encoding='utf-8').splitlines():

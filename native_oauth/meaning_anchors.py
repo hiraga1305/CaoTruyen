@@ -2,6 +2,10 @@
 import re
 
 RULES = (
+    ('negation_scope', r'(?:不甘(?:心)?|未必|並非|并非|不得不|不能不|未曾|從未|从未)',
+     'Check the full clause and negation scope. 不甘 is unwillingness to accept, not acceptance; double negation may express necessity. Do not prescribe a Vietnamese word without context.'),
+    ('royal_self_reference', r'孤(?=[，。！？、：「」“”\s]|曰|說|说|要|會|会|不|的|已|也)',
+     'Check whether 孤 is a royal first-person self-reference in dialogue. It does not establish gender or the narrator\'s third-person pronoun.'),
     ('prospective_relation', r'(?:準|准)(?:嫂子|丈夫|妻子|女婿|兒媳|儿媳|媳婦|媳妇|公公|婆婆|岳父|岳母)',
      'Preserve that this relationship is prospective, and whose memory/viewpoint asserts it.'),
     ('elapsed_duration', r'(?:說|说|等|住|找|學|学|認識|认识|結婚|结婚)了(?:好|整整)?[幾几一二三四五六七八九十百兩两\d]+(?:年|個月|个月|天)',

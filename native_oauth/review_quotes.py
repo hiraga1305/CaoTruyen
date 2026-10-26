@@ -20,7 +20,7 @@ def resolve_quote(row, key, text):
     return quote
 
 
-def evidence_catalog(package, candidate, budget=18000):
+def evidence_catalog(package, candidate, budget=36000):
     rows = [{'id': raw['id'], 'source': quote_choices(raw['source'], 24),
              'target': quote_choices(target['text'], 48)}
             for raw, target in zip(package['segments'], candidate['segments'])]

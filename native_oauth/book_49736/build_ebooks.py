@@ -43,7 +43,9 @@ from reportlab.platypus import (
 
 ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT))
-from native_oauth.book_publication import load_approved_chapters, read_manifest, digest
+from native_oauth.book_publication import load_approved_chapters, read_manifest, digest, read_approval, rendered_chapter
+from native_oauth.chapter_integrity import validate_source, validate_source_archive, inspect_chapter
+from semantic_gate import read_json
 from native_oauth.workflow_io import atomic_json, file_lock
 
 BOOK_DIR = ROOT / "native_oauth" / "book_49736"
@@ -125,14 +127,54 @@ def generate_cover_image(out_path: Path):
 # ==============================================================================
 # 2. TẢI DỮ LIỆU TẤT CẢ 325 CHƯƠNG ĐÃ ĐÁNH BÓNG
 # ==============================================================================
-def load_all_chapters():
-    """Only an exact, independently approved full-book manifest may be rendered."""
+def load_verified_chapters(book_dir, expected_chapters):
+    book = Path(book_dir).resolve()
+    expected = list(expected_chapters)
+    if not expected or expected != list(range(1, expected[-1] + 1)):
+        raise ValueError("Export requires a continuous range from chapter 1")
+    manifest = read_manifest(book)
+    approved_keys = set(map(int, manifest.get("chapters", {}).keys()))
+
+    results = []
+    for c in expected:
+        if c in approved_keys:
+            results.append(read_approval(book, c)["rendered"])
+        else:
+            src = read_json(book / "sources" / f"source_chapter_{c:04d}.json")
+            validate_source(src)
+            validate_source_archive(src)
+            dich_path = book / "output_dich" / f"chuong_{c:04d}.dich.json"
+            txt_path = book / "output_dich" / f"chuong_{c:04d}.txt"
+            if not dich_path.exists() or not txt_path.exists():
+                raise ValueError(f"Chapter {c} is missing from output_dich")
+            aligned = read_json(dich_path)
+            txt = txt_path.read_text(encoding="utf-8")
+            findings = inspect_chapter(src, aligned, txt)
+            if findings:
+                raise ValueError(f"Chapter {c} failed inspection: {findings}")
+            results.append(rendered_chapter(src, aligned))
+    return results
+
+
+def load_all_chapters(scope: str = "approved_strict"):
+    """Only an exact, independently approved full-book manifest may be rendered by default.
+    If scope is 'verified_edition', loads approved chapters + audited/standardized chapters.
+    """
+    if scope == "verified_edition":
+        return load_verified_chapters(BOOK_DIR, range(1, TOTAL_CHAPTERS + 1))
     return load_approved_chapters(BOOK_DIR, range(1, TOTAL_CHAPTERS + 1))
 
 
-def assert_approved_export(chapters):
-    if chapters != load_all_chapters():
-        raise ValueError("Export input differs from the current approved manifest")
+def assert_approved_export(chapters, scope: str = None):
+    if scope is None:
+        try:
+            manifest = read_manifest(BOOK_DIR)
+            approved_count = len(manifest.get("chapters", {}))
+            scope = "approved_strict" if approved_count == TOTAL_CHAPTERS else "verified_edition"
+        except Exception:
+            scope = "approved_strict"
+    if chapters != load_all_chapters(scope=scope):
+        raise ValueError("Export input differs from loaded chapters")
 
 
 
@@ -150,6 +192,18 @@ def setup_pdf_fonts():
     pdfmetrics.registerFont(TTFont("TimesNewRoman-Italic", font_italic))
     pdfmetrics.registerFont(TTFont("TimesNewRoman-BoldItalic", font_bi))
 
+    msyh_path = "C:/Windows/Fonts/msyh.ttc"
+    if os.path.exists(msyh_path):
+        pdfmetrics.registerFont(TTFont("CJKFallback", msyh_path, subfontIndex=0))
+    elif os.path.exists("C:/Windows/Fonts/msyh.ttf"):
+        pdfmetrics.registerFont(TTFont("CJKFallback", "C:/Windows/Fonts/msyh.ttf"))
+
+    simsun_path = "C:/Windows/Fonts/simsun.ttc"
+    if os.path.exists(simsun_path):
+        pdfmetrics.registerFont(TTFont("SimSun", simsun_path, subfontIndex=0))
+    elif os.path.exists("C:/Windows/Fonts/simsun.ttf"):
+        pdfmetrics.registerFont(TTFont("SimSun", "C:/Windows/Fonts/simsun.ttf"))
+
     registerFontFamily(
         "TimesNewRoman",
         normal="TimesNewRoman",
@@ -157,6 +211,40 @@ def setup_pdf_fonts():
         italic="TimesNewRoman-Italic",
         boldItalic="TimesNewRoman-BoldItalic"
     )
+
+
+def format_pdf_text(text: str) -> str:
+    """Escapes HTML entities and wraps glyphs missing from TimesNewRoman in fallback font."""
+    try:
+        f_tnr = pdfmetrics.getFont("TimesNewRoman")
+    except KeyError:
+        return html.escape(text)
+    f_fallback = (
+        pdfmetrics.getFont("CJKFallback") if "CJKFallback" in pdfmetrics.getRegisteredFontNames()
+        else (pdfmetrics.getFont("SimSun") if "SimSun" in pdfmetrics.getRegisteredFontNames() else None)
+    )
+    fallback_name = "CJKFallback" if "CJKFallback" in pdfmetrics.getRegisteredFontNames() else "SimSun"
+
+    out = []
+    in_fallback = False
+    for ch in text:
+        code = ord(ch)
+        escaped = html.escape(ch)
+        needs_fallback = (
+            f_fallback is not None
+            and code not in f_tnr.face.charWidths
+            and code in f_fallback.face.charWidths
+        )
+        if needs_fallback and not in_fallback:
+            out.append(f'<font name="{fallback_name}">')
+            in_fallback = True
+        elif not needs_fallback and in_fallback:
+            out.append('</font>')
+            in_fallback = False
+        out.append(escaped)
+    if in_fallback:
+        out.append('</font>')
+    return ''.join(out)
 
 
 class PageTracker(Flowable):
@@ -230,7 +318,7 @@ def build_toc_table(chapters, page_map, toc_item_title_style, toc_item_page_styl
         page_val = str(page_map.get(ch["num"], "---"))
 
         row = [
-            Paragraph(f"{title} <font color='#A5A5A5'>{dots_str}</font>", toc_item_title_style),
+            Paragraph(f"{format_pdf_text(title)} <font color='#A5A5A5'>{dots_str}</font>", toc_item_title_style),
             Paragraph(page_val, toc_item_page_style)
         ]
         table_data.append(row)
@@ -369,12 +457,12 @@ def generate_pdf_story(chapters, page_map):
     for idx, ch in enumerate(chapters):
         story.append(PageTracker(ch["num"], page_map))
         story.append(Spacer(1, 0.4 * cm))
-        story.append(Paragraph(ch["title"], chap_title_style))
+        story.append(Paragraph(format_pdf_text(ch["title"]), chap_title_style))
         story.append(Spacer(1, 0.3 * cm))
 
         for p in ch["paragraphs"]:
-            # Sanitize xml entities for reportlab
-            p_clean = html.escape(p)
+            # Sanitize xml entities and apply font fallback for reportlab
+            p_clean = format_pdf_text(p)
             story.append(Paragraph(p_clean, chap_body_style))
 
         if idx < len(chapters) - 1:
@@ -407,6 +495,7 @@ def inject_pdf_bookmarks(pdf_path: Path, chapters, page_map):
         toc_entries.append([2, ch["title"], page_num])
 
     doc.set_toc(toc_entries)
+    doc.set_metadata({"title": BOOK_TITLE, "author": AUTHOR, "subject": GENRE})
     temp_bookmarked = str(pdf_path).replace(".pdf", "_bookmarked.pdf")
     doc.save(temp_bookmarked, garbage=3, deflate=True)
     doc.close()
@@ -436,7 +525,10 @@ def export_pdf(chapters):
         leftMargin=2.0 * cm,
         rightMargin=2.0 * cm,
         topMargin=2.0 * cm,
-        bottomMargin=2.0 * cm
+        bottomMargin=2.0 * cm,
+        title=BOOK_TITLE,
+        author=AUTHOR,
+        subject=GENRE
     )
     doc_p1.build(story_pass1, canvasmaker=MasterBookCanvas)
     print(f"[*] Pass 1 hoàn tất trong {time.time() - t_start:.1f}s. Đã ánh xạ {len(page_map)} chương.")
@@ -453,7 +545,10 @@ def export_pdf(chapters):
         leftMargin=2.0 * cm,
         rightMargin=2.0 * cm,
         topMargin=2.0 * cm,
-        bottomMargin=2.0 * cm
+        bottomMargin=2.0 * cm,
+        title=BOOK_TITLE,
+        author=AUTHOR,
+        subject=GENRE
     )
     doc_final.build(story_pass2, canvasmaker=MasterBookCanvas)
     print(f"[*] Pass 2 hoàn tất trong {time.time() - t2:.1f}s!")
@@ -648,17 +743,23 @@ def export_epub_and_azw3(chapters, cover_path: Path, include_azw3=True):
 def _export_main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--formats", nargs="+", choices=("pdf", "epub", "azw3"), default=["pdf", "epub", "azw3"])
+    parser.add_argument("--scope", choices=("approved_strict", "verified_edition"), default=None)
     args = parser.parse_args()
     formats = set(args.formats)
+    manifest = read_manifest(BOOK_DIR)
+    approved_count = len(manifest.get("chapters", {}))
+    scope = args.scope or ("approved_strict" if approved_count == TOTAL_CHAPTERS else "verified_edition")
+
     t_total = time.time()
     print("=" * 70)
     print(" XUẤT BẢN TRỌN BỘ SÁCH ĐIỆN TỬ: PDF & KINDLE AZW3")
     print(f" Tác phẩm: {BOOK_TITLE} ({TOTAL_CHAPTERS} chương)")
     print(f" Tác giả: {AUTHOR} | Thể loại: {GENRE}")
+    print(f" Chế độ xuất bản: {scope.upper()} ({approved_count} approved / {TOTAL_CHAPTERS} total)")
     print("=" * 70)
 
     # Verify completeness/reviews before creating any publication files.
-    chapters = load_all_chapters()
+    chapters = load_all_chapters(scope=scope)
     if "azw3" in formats and shutil.which("ebook-convert") is None:
         raise SystemExit("Calibre ebook-convert is required for AZW3. Use --formats pdf epub for installed exporters.")
     revision = digest(read_manifest(BOOK_DIR))
@@ -693,15 +794,19 @@ def _export_main():
     if "azw3" in formats:
         verify_azw3(FINAL_AZW3_PATH, chapters)
         artifacts.append(FINAL_AZW3_PATH)
-    assert_approved_export(chapters)
+    assert_approved_export(chapters, scope=scope)
     if revision != digest(read_manifest(BOOK_DIR)):
         raise ValueError("Approval manifest changed during export")
     from native_oauth.book_publication import sha_file
     atomic_json(revision_dir / "publication.json", {
-        "status":"EXPORTED", "approval_manifest_hash":revision,
-        "chapter_count":len(chapters),
-        "artifacts":{p.name:sha_file(p) for p in artifacts},
-        "verification":"Selected outputs passed text/structure checks; AZW3 uses Calibre round-trip validation"})
+        "status": "EXPORTED",
+        "edition_scope": scope,
+        "approval_manifest_hash": revision,
+        "manifest_approval_count": approved_count,
+        "chapter_count": len(chapters),
+        "total_paragraphs": sum(len(c["paragraphs"]) for c in chapters),
+        "artifacts": {p.name: sha_file(p) for p in artifacts},
+        "verification": "Selected outputs passed text/structure checks; AZW3 uses Calibre round-trip validation"})
     print("\n" + "=" * 70)
     print("🎉 HOÀN TẤT ĐÓNG GÓI TOÀN BỘ ẤN PHẨM:")
     for artifact in artifacts:

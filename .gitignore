@@ -90,3 +90,12 @@ native_oauth/book_*/runs/generation_*/
 native_oauth/book_*/repair_jobs/
 native_oauth/book_*/approved/
 audit/session_dashboards/
+
+# Local novel datasets, model evidence and experiments are not workflow releases.
+/audit/
+/native_oauth/book_*/*
+!/native_oauth/book_*/*.py
+/native_oauth/pilot_workspace/
+/tmp/
+/pilot_frozen_scope*.json
+/chunk_predecessors.json

@@ -56,7 +56,7 @@ def fetch_czbooks(href, *, book_slug="s6p7bb", expected_title=None, headers=None
     canonical=soup.select_one('link[rel="canonical"], meta[property="og:url"]')
     if canonical:
         canonical_url=canonical.get("href") or canonical.get("content")
-        if identity_url(canonical_url,book_slug)!=expected_path:
+        if canonical_url and identity_url(canonical_url,book_slug)!=expected_path:
             raise ValueError("Canonical page identity mismatch")
     paragraphs=extract_paragraphs(html)
     if expected_title:
@@ -86,3 +86,37 @@ def normalize_paragraphs(paragraphs,chapter):
     if not rows: raise ValueError("No source after bounded normalization")
     return rows,{"parser_version":PARSER_VERSION,"raw_paragraph_count":len(paragraphs),
                  "segment_map":mapping,"excluded":excluded}
+
+
+def extract_ixdzs8_paragraphs(html_bytes_or_str):
+    if isinstance(html_bytes_or_str, bytes):
+        html = html_bytes_or_str.decode('utf-8', errors='strict')
+    else:
+        html = html_bytes_or_str
+    soup = BeautifulSoup(html, 'html.parser')
+    page_content = (
+        soup.find('article', class_='page-content')
+        or soup.find('div', class_='page-content')
+        or soup.find('div', class_='read-content')
+        or soup.find('article')
+    )
+    if not page_content:
+        divs = soup.find_all('div')
+        page_content = max(divs, key=lambda d: len(d.find_all('p'))) if divs else soup.body
+    p_tags = page_content.find_all('p')
+    if p_tags:
+        paras = [p.get_text(strip=True).replace('\xa0', ' ') for p in p_tags if p.get_text(strip=True)]
+    else:
+        for tag in page_content.select('script, style'):
+            tag.decompose()
+        for br in page_content.find_all('br'):
+            br.replace_with('\n')
+        paras = [p.strip() for p in page_content.get_text().replace('\xa0', ' ').splitlines() if p.strip()]
+    cleaned = []
+    for p in paras:
+        if p.startswith('请记住本书首发') or p.startswith('最新网址') or p in ('上一章', '下一章', '目 录'):
+            continue
+        cleaned.append(p)
+    if len(cleaned) < 5 or not any(re.search(r'[\u3400-\u9fff]', p) for p in cleaned):
+        raise ValueError('Extracted paragraphs too few or non-Chinese')
+    return cleaned

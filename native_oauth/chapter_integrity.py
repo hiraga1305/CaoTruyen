@@ -1,8 +1,13 @@
 """Shared source/coverage boundary for draft cache, audit and book export."""
 import json
+import threading
+from collections import OrderedDict
 from pathlib import Path
 from semantic_gate import digest, evaluate
 from native_oauth.workflow_io import atomic_json, atomic_text
+
+_ARCHIVE_CHECK_CACHE=OrderedDict()
+_ARCHIVE_CHECK_LOCK=threading.RLock()
 
 
 def source_content_hash(source):
@@ -55,11 +60,28 @@ def validate_source_archive(source):
         raise ValueError('Invalid raw source archive path')
     archive = Path(__file__).resolve().parents[1]/'source_archive'/('book_'+str(source['book_id']))/name
     raw = archive.read_bytes()
-    if hashlib.sha256(raw).hexdigest() != source.get('raw_sha256'):
+    actual_raw_hash=hashlib.sha256(raw).hexdigest()
+    if actual_raw_hash != source.get('raw_sha256'):
         raise ValueError('Raw source archive hash mismatch')
-    rows, mapping = normalize_paragraphs(extract_paragraphs(raw.decode('utf-8', errors='strict')), source['chapter'])
+    if 'ixdzs8' in source.get('source_ref', '') or str(source.get('chapter_key', '')).startswith('ixdzs8'):
+        from native_oauth.source_adapters import extract_ixdzs8_paragraphs
+        extractor=extract_ixdzs8_paragraphs
+    else:
+        extractor=extract_paragraphs
+    # Rehash actual bytes and the complete source on every call. Only skip the
+    # expensive HTML parse when both inputs and parser functions are identical.
+    key=(digest(source),actual_raw_hash,PARSER_VERSION,id(extractor),id(normalize_paragraphs))
+    with _ARCHIVE_CHECK_LOCK:
+        if key in _ARCHIVE_CHECK_CACHE:
+            _ARCHIVE_CHECK_CACHE.move_to_end(key)
+            return
+    paras=extractor(raw if extractor is not extract_paragraphs else raw.decode('utf-8',errors='strict'))
+    rows, mapping = normalize_paragraphs(paras, source['chapter'])
     if source['normalization'].get('parser_version') != PARSER_VERSION or rows != source['segments'] or mapping != source['normalization']:
         raise ValueError('Source cannot be reproduced from raw HTML/normalization mapping')
+    with _ARCHIVE_CHECK_LOCK:
+        _ARCHIVE_CHECK_CACHE[key]=True
+        while len(_ARCHIVE_CHECK_CACHE)>4096:_ARCHIVE_CHECK_CACHE.popitem(last=False)
 
 
 def render_text(alignment):
@@ -146,6 +168,12 @@ def require_approved(source, candidate, text, directory):
     package, draft = evidence['package'], evidence['candidate']
     from native_oauth.title_selection import require_reviewed_selection
     require_reviewed_selection(source,candidate,package)
+    from native_oauth.book_publication import title_ids
+    if not title_ids(source) and (source.get('version')=='bns-source-v2' or package.get('metadata_title_source') is not None):
+        from native_oauth.title_selection import metadata_title_source
+        if (package.get('metadata_title_source') != metadata_title_source(source)
+                or candidate.get('title_vi') != draft.get('title_vi') or not draft.get('title_vi')):
+            raise ValueError('Separate title differs from the source-bound reviewed native title')
     if (evidence.get('review_policy', {}).get('mode') == 'antigravity_sessions'
             and package.get('origin_source_hash') != source['package_hash']):
         raise ValueError('Review envelope does not bind the original book source package')

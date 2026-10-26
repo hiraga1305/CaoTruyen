@@ -21,7 +21,8 @@ def validate_generation_package(package, candidate):
     # All source/canon/title/diagnostic inputs must be identical. Only the
     # chronology of approved context differs from the source-only draft anchor.
     excluded = {'version','package_hash','context','draft_anchor','approval_eligible'}
-    core = lambda value: {k:v for k,v in value.items() if k not in excluded}
+    core = lambda value: {k: ([{'id': s['id'], 'source': s['source']} for s in v] if k == 'segments' else v)
+                          for k,v in value.items() if k not in excluded}
     if core(generation) != core(package):
         raise ValueError('Source/canon/baseline differs from parallel generation')
     validate_bound_files(generation)

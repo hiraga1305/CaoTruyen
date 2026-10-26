@@ -82,6 +82,15 @@ class TestSessionMonitor(unittest.TestCase):
         self.assertIn("Test Novel Title", html)
         self.assertIn("2.0%", html)
 
+    def test_verified_prefix_counts_without_inventing_latency_or_missing_chapters(self):
+        self.mon.sync_approved_prefix([{'chapter_num':1,'title':'Đã duyệt','paragraphs':4,'words':40,'evidence_path':'fixture'}])
+        self.assertEqual(self.mon.completed_count,1)
+        self.assertEqual(self.mon.total_words_accumulated,40)
+        self.assertIsNone(self.mon.completed['1']['duration_seconds'])
+        self.assertEqual(self.mon.history,[])
+        self.assertNotIn('2',self.mon.completed)
+        self.assertIn('2.0%',self.mon.render_markdown_badge())
+
     def test_sync_artifacts(self):
         self.mon.record_chapter_done(
             chapter_num=5,

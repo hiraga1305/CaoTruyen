@@ -1,0 +1,17 @@
+{
+  "version": "source-bound-editorial-canon-2",
+  "narration": {"林御": "hắn", "林禦": "hắn"},
+  "scope": "Third-person narrator pronouns referring to Lâm Ngự only. Prefer the canonical name Lâm Ngự when the source explicitly names him. A contextually unambiguous name-to-pronoun paraphrase is for semantic review, not a missing-string failure. Do not rewrite dialogue, quotations, impersonated roles, another viewpoint or other people by regex.",
+  "source_bound_terms": [
+    {"zh": "地痞", "vi": "Du Côn", "kind": "profession_label", "source_id": "c0004p0053", "source_quote": "職業是『地痞』", "scope": "The named game profession; ordinary description of a hooligan may use contextual Vietnamese."},
+    {"zh": "測謊儀", "aliases_zh": ["测谎仪"], "vi": "Máy phát hiện nói dối", "kind": "item_label", "source_id": "c0015p0091", "source_quote": "就是這臺『測謊儀』", "scope": "This named lie-detector item, including chapter boundaries; capitalisation follows sentence context."},
+    {"zh": "孤", "vi": "trẫm", "kind": "royal_self_reference", "source_id": "c1978p0067", "source_quote": "孤不玩", "scope": "First-person royal dialogue spoken by 皇帝 / Hoàng Đế only. Never apply to 孤独, 孤儿, another speaker, third-person narration or quoted text about the character 孤. Preserve deliberate role ambiguity."}
+  ],
+  "rules": [
+    "Names and labels do not turn impersonation or a character claim into an objective fact.",
+    "When intentionally ambiguous, preserve ambiguity rather than invent gender or identity.",
+    "Source ID/quote prove Chinese wording; Vietnamese spelling is an editorial convention, not new plot knowledge.",
+    "Editorial term conventions apply only when their stated source/entity scope is present; do not disclose future plot information.",
+    "Optional fluent wording is a suggestion; changed meaning or a required scoped canon violation is an error."
+  ]
+}

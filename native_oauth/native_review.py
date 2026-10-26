@@ -21,7 +21,7 @@ def visible_stage(package, role):
     chapter = package['chapter']
     mon = get_session_monitor(str(package.get('book_id', 'native')),
                               package.get('book_title', package.get('title', 'Truyện')),
-                              package.get('total_chapters', max(1, chapter)))
+                              package.get('total_chapters', max(1, chapter)),state_file=package.get('session_monitor_state_file'))
     mon.genre = package.get('genre', package.get('style_profile', {}).get('genre', 'Theo nguồn'))
     mon.chapter_range = package.get('chapter_range', package.get('draft_anchor',{}).get('chapter_range',str(chapter)))
     worker = role + '-' + uuid.uuid4().hex[:8]
@@ -50,15 +50,19 @@ def run_independent_reviews(package, candidate, data, workspace, reviewer_model,
                  'Không sửa draft, không thêm dữ kiện. Include literary_checks: ' +
                  json.dumps(dict.fromkeys(LITERARY_CHECKS, True)) +
                  '. Return valid JSON; true means inspected, real defects still FAIL.')
+    chap_prefix = f"c{package['chapter']:04d}"
     suffix += ('\nsource_quote/target_quote must be exact contiguous substrings of their supplied paragraph, '
-                 'including original case and punctuation. Prefer a short meaningful quote from the middle '
+                 'including original case and punctuation. Prefer source_quote_ref and target_quote_ref (string 0, 1 or 2) '
+                 'from VERBATIM_EVIDENCE_CHOICES below, or a short meaningful exact quote from the middle '
                  'of a paragraph rather than copying all text. Every evidence quote must stay inside its assigned paragraph; '
                  'never invent an opening or closing quotation mark absent from this paragraph. '
                  'Do not normalize quotation marks or whitespace in evidence. '
                  'Use short meaningful exact quotes and one concise source-grounded reason per row; '
-                 'do not duplicate full paragraphs in the report. Inspect every paragraph regardless of report brevity.')
+                 'do not duplicate full paragraphs in the report. Inspect every paragraph regardless of report brevity. '
+                 'Bao phủ MỌI segment ID đúng 100% nguyên văn và đúng thứ tự từ SOURCE segments, kể cả các đoạn từ 100 trở lên '
+                 f'(ví dụ: {chap_prefix}p0099, {chap_prefix}p0100, {chap_prefix}p0101... tuyệt đối giữ đúng tiền tố chương {chap_prefix}).')
     base_size = max(len(review_prompt(package,candidate,literary_first=first)+suffix) for first in (False,True))
-    suffix += evidence_catalog(package, candidate, budget=max(0, min(18000, 117000-base_size)))
+    suffix += evidence_catalog(package, candidate, budget=max(0, min(36000, 117000-base_size)))
     if max(len(review_prompt(package,candidate,literary_first=first)+suffix) for first in (False,True)) > 120000:
         raise ValueError('Complete review protocol exceeds context budget')
     def review(role, model):

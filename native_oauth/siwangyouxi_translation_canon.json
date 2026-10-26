@@ -1,0 +1,22 @@
+{
+  "version": "source-bound-editorial-canon-1",
+  "narration": {
+    "林御": "hắn",
+    "林禦": "hắn"
+  },
+  "scope": "Third-person narrator references to Lâm Ngự only. Do not rewrite dialogue, quotations, impersonated roles, another narrator viewpoint, or other people by regex.",
+  "source_bound_terms": [
+    {
+      "zh": "地痞",
+      "vi": "Du Côn",
+      "kind": "profession_label",
+      "source_id": "c0004p0053",
+      "source_quote": "職業是『地痞』"
+    }
+  ],
+  "rules": [
+    "Names and labels do not turn an impersonation or character claim into an objective fact.",
+    "When intentionally ambiguous, preserve ambiguity rather than invent gender or identity.",
+    "Source ID and quote establish the Chinese label; the Vietnamese spelling is an editorial convention."
+  ]
+}
