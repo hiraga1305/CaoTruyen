@@ -73,7 +73,7 @@ def translation_view(packet):
 
 class Runner:
     def __init__(self,book,job,through,*,workers=4,model='gemini-3.8-flash-medium',review_model='gemini-3.8-flash-medium',
-                 fallback='gemini-3.8-flash-high',timeout=300,max_repairs=2,review_model2=None,checkpoint_every=100,review_workers=2):
+                 fallback='gemini-3.8-flash-high',timeout=300,max_repairs=2,review_model2=None,checkpoint_every=100,review_workers=2,canon_file=None):
         self.book,self.job=Path(book).resolve(),Path(job).resolve();self.through=through
         self.job.mkdir(parents=True,exist_ok=True)
         legacy=self.book/'approved/manifest.json'
@@ -88,8 +88,9 @@ class Runner:
         self.workers,self.model,self.review_model,self.max_repairs=workers,model,review_model,max_repairs
         self.review_model2=review_model2 or review_model
         self.lore=read_json(self.book/'lore.json') if (self.book/'lore.json').exists() else {}
-        self.canon_file=self.book/'translation_canon.json'
-        if not self.canon_file.exists() and self.lore.get('book_id',self.book.name.removeprefix('book_'))=='siwangyouxi':
+        self.canon_file=Path(canon_file).resolve() if canon_file is not None else self.book/'translation_canon.json'
+        if canon_file is not None and not self.canon_file.is_file():raise ValueError('Explicit canon revision file is missing; do not silently fall back')
+        if canon_file is None and not self.canon_file.exists() and self.lore.get('book_id',self.book.name.removeprefix('book_'))=='siwangyouxi':
             self.canon_file=ROOT/'native_oauth/siwangyouxi_translation_canon_v2.json'
         self.canon=read_json(self.canon_file) if self.canon_file.exists() else {}
         declared_entries(self.canon)
@@ -100,7 +101,7 @@ class Runner:
                 'review_workers':review_workers,'content_repair':'owned-native-rows-1','continuity_policy':CONTINUITY,
                 'translator':model,'reviewer':review_model,'reviewer2':self.review_model2,'fallback':fallback,'timeout':timeout,'max_repairs':max_repairs,
                 'lore_hash':sha(self.book/'lore.json') if (self.book/'lore.json').exists() else None,
-                'canon_hash':sha(self.canon_file) if self.canon_file.exists() else None}
+                'canon_file':str(self.canon_file),'canon_hash':sha(self.canon_file) if self.canon_file.exists() else None}
         release_files=read_json(ROOT/'workflow_release.json')['files']
         config['workflow_files']={str(Path(name)):sha(ROOT/name) for name in [*release_files,'workflow_release.json']}
         self.configuration=config
@@ -596,6 +597,12 @@ def launch_runner(book,job,through,**options):
     """
     current=doctor()
     original=Path(job).resolve() if job is not None else None
+    if original is not None and (original/'configuration.json').is_file():
+        previous=read_json(original/'configuration.json')
+        if previous.get('book') and Path(previous['book']).resolve()!=Path(book).resolve():
+            raise ValueError('The selected previous job belongs to another book')
+        if options.get('canon_file') is None and previous.get('canon_file') and previous.get('canon_hash'):
+            options={**options,'canon_file':previous['canon_file']}
     if original is None:
         slug=''.join(c if c.isalnum() or c in '-_' else '_' for c in Path(book).name)[:48] or 'book'
         target=ROOT/'audit/campaigns'/slug/('wf_'+current['workflow_version'].replace('.','_')+'_'+uuid.uuid4().hex[:12])
@@ -630,6 +637,7 @@ def main():
     parser.add_argument('--review-workers',type=int,choices=(1,2),default=2,help='Independent reviewer sessions; two run concurrently by default')
     parser.add_argument('--reason',help='retry-ready: describe the external fix; never overrides a semantic FAIL')
     parser.add_argument('--source-recovery-dir',type=Path,help='Import verified source revisions, preserving original source files')
+    parser.add_argument('--canon-file',type=Path,help='Immutable book-local canon revision; never edit a file bound by older approved evidence')
     parser.add_argument('--chapters',type=int,nargs='+',help='diagnose only: source-only chapters, never publication approval')
     args=parser.parse_args()
     if args.action=='doctor':
@@ -675,7 +683,7 @@ def main():
         raise ValueError('Bind the current real Antigravity session before native execution')
     options=dict(workers=args.workers,model=args.model,
         review_model=args.review_model,review_model2=args.auditor_model,fallback=args.fallback_model,timeout=args.timeout,
-        checkpoint_every=args.checkpoint_every,review_workers=args.review_workers)
+        checkpoint_every=args.checkpoint_every,review_workers=args.review_workers,canon_file=args.canon_file)
     runner=(launch_runner(args.book_dir,args.job,args.through_chapter,**options) if args.action=='launch'
             else Runner(args.book_dir,args.job,args.through_chapter,**options))
     if args.action=='launch' and args.source_recovery_dir:import_replacements(args.book_dir,runner.job,args.source_recovery_dir)

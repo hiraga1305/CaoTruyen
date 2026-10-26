@@ -39,7 +39,7 @@ Wave tự co nếu prompt vượt ngân sách, không cắt nguồn. Bản 2.1 c
 
 Checkpoint `JOB_DIR/checkpoints/chapter_NNNN.json` ghi tại mỗi 100 chương và cuối phạm vi. Đây là mốc đã commit, không gọi model thêm, không chờ Codex và không tự dừng xin duyệt lại. Antigravity đọc throughput/queue/suggestions để xử lý. Chỉ mở toàn sách khi đã được giao phạm vi đó.
 
-Khi cần thêm/sửa quy ước, Antigravity đối chiếu ID/quote nguồn và bản approved, không tự lấy mọi suggestion làm canon. Đổi canon tại ranh giới job revision, giữ lịch sử và tái sử dụng prefix hợp lệ; không sửa canon giữa run hoặc sửa approved bằng tìm–thay thế. Không thêm reviewer thứ ba hoặc HIGH toàn bộ chỉ để xây bảng tên.
+Khi cần thêm/sửa quy ước, Antigravity đối chiếu ID/quote nguồn và bản approved, không tự lấy mọi suggestion làm canon. Giữ nguyên file canon đã được evidence cũ bind; lưu bản mới trong `BOOK_DIR/canon_revisions/` rồi dùng `launch --canon-file NEW_CANON` để chọn job revision mới và tái sử dụng prefix hợp lệ. Chỉ tạo job mới không cho phép ghi đè input cũ. Không sửa canon giữa run hoặc sửa approved bằng tìm–thay thế. Không thêm reviewer thứ ba hoặc HIGH toàn bộ chỉ để xây bảng tên.
 
 ## Phục hồi và resume
 

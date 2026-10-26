@@ -34,6 +34,8 @@ AUTHORIZED_END là chương cuối người dùng đã giao; không tự lấy m
 
 Launch xác minh canonical release trước, thử resume khi code/canon/phạm vi/cấu hình khớp. Nếu configuration cũ không khớp, tự chọn thư mục revision mới, giữ nguyên job cũ và tái sử dụng prefix approved được runner xác minh. Nếu job cũ có effective_sources, chỉ import replacement qua validator có lineage. Nháp/evidence cũ giữ lại; chỉ tái sử dụng khi proof/source/canon/policy thực sự còn hợp lệ, không đổi hash để giữ cache.
 
+Canon cũng là input bất biến của evidence cũ. Muốn bổ sung quy ước, giữ file đang được bind, ghi bản mới vào `BOOK_DIR/canon_revisions/` rồi thêm `--canon-file NEW_CANON` vào launch. Lần resume sau launch tự kế thừa file đó từ LAST_JOB. Không sửa file cũ rồi cho rằng đổi thư mục job đã đủ bảo toàn prefix; không bỏ kiểm hash để chữa sai quy trình này.
+
 Startup in JSON WORKFLOW_CURRENT và ghi workflow_startup.json, workflow_starts/*.json: version thực, Git commit, release hash, policy, job, book, phạm vi, PID và configuration hash. Đây là evidence host về code, không giả identity/model native. File JSON không cấp quyền: quyền gọi model chỉ tồn tại trong invocation của process đã xác minh.
 
 Đầu mỗi invocation và biên wave kiểm canonical GitHub main; trước mỗi native call kiểm code/lock, job configuration, owned workspace, role/model và policy packet. Code/upstream mới hoặc configuration bị đổi thì dừng request tiếp theo, lưu hành động sync/restart/new revision. Không hạ về bản cũ để tiếp tục. Run/watch/API vẫn qua cùng guard, nên CLI nâng cao không là đường bỏ kiểm tra. Report/status/seal và replay evidence lịch sử vẫn dùng được offline; chúng không biến evidence cũ thành policy mới.

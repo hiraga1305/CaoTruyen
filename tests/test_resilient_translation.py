@@ -239,7 +239,7 @@ class ResilientTests(unittest.TestCase):
         version=read_json(ROOT/'workflow.json')['version']
         with patch('native_oauth.resilient_translation.doctor',return_value={'status':'CURRENT','workflow_version':version}):
             runner=launch_runner(self.book,self.job,1,workers=2,model='fixture',review_model='fixture',fallback='fixture-high')
-        self.assertEqual(runner.job,self.job)
+        self.assertEqual(runner.job,self.job.resolve())
         self.assertTrue(runner.run(repair_sources=False)['export_ready']);self.assertEqual(len(self.calls),before)
 
     def test_launch_upgrades_job_without_retranslating_approved_prefix(self):
@@ -252,6 +252,23 @@ class ResilientTests(unittest.TestCase):
         self.assertNotEqual(runner.job,self.job)
         self.assertTrue(runner.run(repair_sources=False)['export_ready'])
         self.assertEqual(read_json(self.job/'configuration.json'),old)
+        self.assertEqual(sum(role=='translator' and ch==1 for role,ch,_ in self.calls),1)
+
+    def test_launch_uses_immutable_canon_revision_and_inherits_it_when_resuming(self):
+        from native_oauth.resilient_translation import launch_runner
+        entry=self.generic_canon();old_canon=read_json(self.book/'translation_canon.json')
+        self.assertTrue(self.runner(1).run(repair_sources=False)['export_ready'])
+        entry={**entry,'scope':entry['scope']+' Explicit revision for future packets.'}
+        revised=self.book/'canon_revisions/editorial-002.json'
+        write_json(revised,{'continuity_entries':[entry]})
+        version=read_json(ROOT/'workflow.json')['version']
+        with patch('native_oauth.resilient_translation.doctor',return_value={'status':'CURRENT','workflow_version':version}):
+            runner=launch_runner(self.book,self.job,2,workers=2,model='fixture',review_model='fixture',fallback='fixture-high',canon_file=revised)
+            self.assertTrue(runner.run(repair_sources=False)['export_ready'])
+            resumed=launch_runner(self.book,runner.job,2,workers=2,model='fixture',review_model='fixture',fallback='fixture-high')
+        self.assertEqual(resumed.job,runner.job)
+        self.assertEqual(resumed.canon_file,revised.resolve())
+        self.assertEqual(read_json(self.book/'translation_canon.json'),old_canon)
         self.assertEqual(sum(role=='translator' and ch==1 for role,ch,_ in self.calls),1)
 
     def test_two_reviewers_overlap_but_keep_independent_workspaces_and_fixed_role_order(self):

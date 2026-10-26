@@ -2,7 +2,7 @@
 
 Repository chuẩn của thư mục CaoTruyen: **[hiraga1305/CaoTruyen](https://github.com/hiraga1305/CaoTruyen)**. Workflow hiện hành: **Resilient v2**, khai báo ở [workflow.json](workflow.json), hướng dẫn ở [WORKFLOW.md](WORKFLOW.md).
 
-Luồng: **doctor/launch xác minh bản hiện hành → khóa nguồn/canon có phạm vi → bốn worker MEDIUM tạo nháp → hai reviewer MEDIUM độc lập chạy đồng thời, đọc toàn wave → sửa native → approved manifest → checkpoint → đóng gói/xuất**. Workflow 2.3.0 thêm gate bắt buộc trước model và ở biên wave, giữ quy tắc continuity chung cho mọi sách; wave tối đa năm chương, tự co theo ngân sách. Response đầy đủ/đúng ID chỉ lỗi vài đoạn được giữ phần đúng và sửa đúng đoạn lỗi. HIGH dự phòng/sửa tập trung. Vận hành độc lập trong Antigravity, không cần Codex hoặc audit ngoài định kỳ.
+Luồng: **doctor/launch xác minh bản hiện hành → khóa nguồn/canon có phạm vi → bốn worker MEDIUM tạo nháp → hai reviewer MEDIUM độc lập chạy đồng thời, đọc toàn wave → sửa native → approved manifest → checkpoint → đóng gói/xuất**. Workflow 2.3.1 thêm gate bắt buộc trước model và ở biên wave, giữ quy tắc continuity chung cho mọi sách; wave tối đa năm chương, tự co theo ngân sách. Response đầy đủ/đúng ID chỉ lỗi vài đoạn được giữ phần đúng và sửa đúng đoạn lỗi. HIGH dự phòng/sửa tập trung. Vận hành độc lập trong Antigravity, không cần Codex hoặc audit ngoài định kỳ.
 
 ## Bắt đầu
 

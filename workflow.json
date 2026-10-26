@@ -1,6 +1,6 @@
 {
   "id": "caotruyen-antigravity-resilient-v2",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "repository": "https://github.com/hiraga1305/CaoTruyen",
   "entrypoint": "python -X utf8 translate.py",
   "instructions": "WORKFLOW.md",

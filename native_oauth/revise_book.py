@@ -329,6 +329,7 @@ def run_campaign(book, job, through=None, *, mode='resilient', max_workers=None,
             review_model2=options.get('auditor_model',options.get('reviewer_model','gemini-3.8-flash-medium')),
             fallback=options.get('fallback_model','gemini-3.8-flash-high'),
             review_workers=options.get('review_workers',2),
+            canon_file=options.get('canon_file'),
             timeout=options.get('timeout',300),max_repairs=options.get('max_repairs',2)).run()
     if mode == 'wave':
         from native_oauth.wave_revision import run_wave_campaign
@@ -382,6 +383,7 @@ def main():
     parser.add_argument('--timeout',type=int,default=300)
     parser.add_argument('--max-repairs',type=int,choices=(0,1,2),default=2)
     parser.add_argument('--review-workers',type=int,choices=(1,2),default=2,help='Resilient: two independent reviews run concurrently by default')
+    parser.add_argument('--canon-file',type=Path,help='Immutable canon revision for the resilient runner')
     parser.add_argument('--mode', choices=('resilient','wave','sequential'), default='resilient')
     parser.add_argument('--max-workers', type=int, choices=range(2,7), default=5,
                         help='Total native slots: N-1 translators plus one ordered review lane (2..6)')
@@ -401,7 +403,7 @@ def main():
             parser.error('Bind the real Antigravity session before native execution')
         result=run_campaign(args.book_dir,args.job,args.through_chapter,mode='resilient',max_workers=args.max_workers,
             translator_model=args.translator_model,reviewer_model=args.reviewer_model,fallback_model=args.fallback_model,
-            auditor_model=args.auditor_model,timeout=args.timeout,max_repairs=args.max_repairs,review_workers=args.review_workers)
+            auditor_model=args.auditor_model,timeout=args.timeout,max_repairs=args.max_repairs,review_workers=args.review_workers,canon_file=args.canon_file)
         if not result['export_ready']:raise SystemExit(2)
         return
     if not args.job.exists():

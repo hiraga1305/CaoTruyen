@@ -7,6 +7,7 @@
 - Checkpoint approved mỗi 100 chương là bản ghi tự động, không thêm audit hoặc chờ Codex. Cập nhật workflow/GitHub không tự cấp quyền bắt đầu dịch toàn sách.
 - Giữ nguồn/truyện, runtime/bundle, database và credential ở local. Chỉ commit mã nguồn, test và docs; không `git add .` để đẩy dữ liệu truyện.
 - Code/canon/config đổi thì tạo job revision mới; tái sử dụng prefix approved đã xác minh, không đổi hash/runtime cũ hoặc duyệt lại bằng host.
+- Canon mà evidence cũ đã bind phải giữ nguyên file. Bổ sung quy ước bằng file mới trong `BOOK_DIR/canon_revisions/` và `launch --canon-file NEW_CANON`; đổi job không tự làm file input cũ trở thành có thể sửa. Launch tiếp theo kế thừa đường dẫn canon revision từ LAST_JOB nếu không chỉ định bản mới.
 - Mọi truyện áp dụng `docs/CONTINUITY_CONVENTIONS.md`: neo tên/biệt danh, nhãn nghề/vật phẩm/địa danh/tổ chức và xưng hô bằng nguồn của chính sách đó. Không thêm nhánh theo book_id cho quy tắc chung. Hai reviewer kiểm cả trường hợp chưa có mục canon; sai danh xưng cùng thực thể có bằng chứng là continuity issue, không hạ thành style suggestion. Đại từ/biệt danh hợp ngữ cảnh phải được giải thích; không regex thay tên hoặc suy giới tính/quan hệ.
 
 # Phạm vi vận hành đã xác nhận — 22/10/2026
