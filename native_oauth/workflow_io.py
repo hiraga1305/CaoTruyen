@@ -37,9 +37,6 @@ def file_lock(path, timeout=15):
     path = Path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("a+b") as handle:
-        if handle.tell() == 0:
-            handle.write(b"\0")
-            handle.flush()
         deadline = time.monotonic() + timeout
         while True:
             try:
@@ -56,6 +53,11 @@ def file_lock(path, timeout=15):
                     raise TimeoutError("Workflow state is busy: " + str(path))
                 time.sleep(0.05)
         try:
+            # Windows can lock a byte beyond EOF. Initialize only after taking
+            # that lock: another opener may otherwise write into a locked byte.
+            if os.fstat(handle.fileno()).st_size == 0:
+                handle.write(b"\0")
+                handle.flush()
             yield
         finally:
             handle.seek(0)

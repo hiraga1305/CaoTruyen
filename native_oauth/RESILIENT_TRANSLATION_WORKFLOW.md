@@ -5,7 +5,7 @@ Luồng vận hành độc lập trong Antigravity, dùng native OAuth/CLI. Khô
 ## Cấu hình mặc định
 
 - Translator MEDIUM; tối đa bốn worker dịch, cửa sổ tối đa năm chương.
-- Hai reviewer MEDIUM trong hai session độc lập, chạy lần lượt trong một lane. Cả hai đọc đủ nguồn–đích cả wave; reviewer văn học kiêm kiểm continuity. Không có lượt wave-auditor thứ ba mặc định.
+- Hai reviewer MEDIUM trong hai session độc lập, chạy đồng thời từ bản 2.1, tối đa hai request review và chịu giới hạn health. Cả hai đọc đủ nguồn–đích cả wave; reviewer văn học kiêm kiểm continuity. `--review-workers 1` chọn tuần tự. Không có wave-auditor thứ ba mặc định.
 - HIGH là fallback thật khi lỗi phản hồi/timeout và là model sửa tập trung. Runtime lưu model thực tế; không tự khai identity hoặc ghi LOW/MEDIUM cho một lượt thực chất dùng HIGH.
 - Timeout đầu 300 giây, lần tiếp theo tối đa 450 giây; mọi runtime vẫn chịu giới hạn hữu hạn. Không đặt timeout vô hạn.
 - Wave quá ngân sách prompt sẽ tự thu nhỏ; không cắt nguồn. Khi lỗi nguồn/prefix, chỉ tạo tối đa ba cửa sổ nháp phía trước rồi chờ phục hồi, tránh dịch mù cả phần còn lại.
@@ -41,7 +41,8 @@ Nguồn hiện hành và snapshot nguyên byte được giữ riêng; từng ngu
 |---|---|---|
 | Timeout/partial/phản hồi rỗng | Giữ log, session mới, timeout có giới hạn, HIGH fallback; chia output dịch thành tối đa 35 đoạn rồi chia nhỏ tiếp với ID/neighbor context gốc | Journal ghi retry/action; không dùng partial làm bản dịch |
 | JSON/coverage/ID review sai | Review compact bằng slot/ref; session mới; giảm coverage output xuống 60 rồi nhỏ hơn khi cần, vẫn gửi toàn wave nguồn–đích | Giữ yêu cầu, lỗi schema và artifact gốc, không sửa ID/verdict để lấy PASS |
-| Lỗi lặp chữ Hán/sai nghĩa | Native sửa đúng row có lỗi, giữ ownership row đúng; lượt sửa timeout cũng tự chia nhỏ theo ID; tạo candidate revision đầy đủ và hai review mới | Không hỏi lại cùng bản FAIL để lấy PASS; sửa không đổi text thì cần xử lý context/canon |
+| Lỗi cơ học có ID trong response đầy đủ | Giữ response/provenance gốc, giữ ownership phần đúng, HIGH chỉ sửa row lỗi; ghép xong vẫn kiểm đủ coverage và hai review | Không giữ partial hoặc response sai ID; không sửa text bằng host |
+| Lỗi nghĩa từ reviewer | Native sửa đúng row, candidate revision mới và hai review mới; timeout sửa cũng chia nhỏ | Không hỏi lại cùng bản FAIL để lấy PASS; sửa không đổi text thì cần xử lý context/canon |
 | Thiếu context | Reviewer có thể nêu `needs_context` + `context_query` nguyên văn; tìm nguồn trước chương hiện tại qua SQLite, xác minh ID/quote/hash, dịch/review revision mới | Cần bổ sung truy vấn hoặc nguồn có bằng chứng nếu tìm chưa đủ; không đoán sự thật |
 | Transport lỗi liên tiếp | Circuit breaker sau ba lỗi, giảm concurrency, cooldown; tăng lại từ từ sau thành công | Chờ thời điểm retry, giữ nháp đã xong |
 | Quota | Không spam model khác hoặc yêu cầu mới; giữ queue và backoff mặc định 10 phút | Sau các epoch hữu hạn, kiểm reset/quota rồi resume/retry-ready |

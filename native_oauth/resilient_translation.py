@@ -18,7 +18,7 @@ from native_oauth.native_evidence import validate_provenance
 from native_oauth.session_monitor import get_session_monitor
 from native_oauth.semantic_context import normalize_profile
 from native_oauth.meaning_anchors import semantic_guidance
-from native_oauth.recovery_native import NativeRecovery, RecoveryPending, ProtocolFailure
+from native_oauth.recovery_native import NativeRecovery, RecoveryPending, ProtocolFailure,NativeContentReady
 from native_oauth.recovery_sources import preflight, source_context, source_path, sha, import_replacements
 from native_oauth.resilient_gate import (freeze, fragment, component, assemble, replay_candidate, response_shape,
     validate_translation, batch_package, review_packet, validate_compact_review, validate_batch_evidence)
@@ -59,7 +59,7 @@ def translation_view(packet):
 
 class Runner:
     def __init__(self,book,job,through,*,workers=4,model='gemini-3.8-flash-medium',review_model='gemini-3.8-flash-medium',
-                 fallback='gemini-3.8-flash-high',timeout=300,max_repairs=2,review_model2=None,checkpoint_every=100):
+                 fallback='gemini-3.8-flash-high',timeout=300,max_repairs=2,review_model2=None,checkpoint_every=100,review_workers=2):
         self.book,self.job=Path(book).resolve(),Path(job).resolve();self.through=through
         self.job.mkdir(parents=True,exist_ok=True)
         legacy=self.book/'approved/manifest.json'
@@ -67,6 +67,8 @@ class Runner:
             raise ValueError('Existing legacy approvals: use an isolated book/job, never overwrite or mix approval modes')
         if not 1<=workers<=5 or not 30<=timeout<=600 or not 0<=max_repairs<=3 or through<1 or type(checkpoint_every) is not int or checkpoint_every<1:raise ValueError('Invalid recovery policy')
         self.checkpoint_every=checkpoint_every
+        if type(review_workers) is not int or review_workers not in (1,2):raise ValueError('Use one or two independent reviewer workers')
+        self.review_workers=review_workers
         if (self.book/'toc.json').exists() and through>len(read_json(self.book/'toc.json')):
             raise ValueError('Requested range exceeds the actual book TOC')
         self.workers,self.model,self.review_model,self.max_repairs=workers,model,review_model,max_repairs
@@ -78,6 +80,7 @@ class Runner:
         self.canon=read_json(self.canon_file) if self.canon_file.exists() else {}
         config={'version':'resilient-runner-2','validation_policy':POLICY,'book':str(self.book),'through':through,'workers':workers,
                 'checkpoint_every':checkpoint_every,
+                'review_workers':review_workers,'content_repair':'owned-native-rows-1',
                 'translator':model,'reviewer':review_model,'reviewer2':self.review_model2,'fallback':fallback,'timeout':timeout,'max_repairs':max_repairs,
                 'lore_hash':sha(self.book/'lore.json') if (self.book/'lore.json').exists() else None,
                 'canon_hash':sha(self.canon_file) if self.canon_file.exists() else None}
@@ -201,7 +204,7 @@ class Runner:
         return ('Dịch đầy đủ tiểu thuyết Trung–Việt theo nguồn. Giữ nghĩa, phủ định, số, chủ thể, góc nhìn, '
             'mức chắc chắn, lời tác giả. Canon là quy ước có phạm vi; không biến lời nhân vật thành sự thật. '
             'Khi nguồn gọi tên riêng, ưu tiên tên Việt chuẩn; dùng đại từ có chủ thể rõ khi phù hợp ngữ cảnh. '
-            'Quy ước hắn chỉ áp dụng đại từ ngôi kể trỏ tới Lâm Ngự, không thay tất cả tên riêng hoặc lời thoại. '
+            'Quy ước ngôi kể chỉ áp dụng đúng thực thể và phạm vi nêu trong canon, không thay tất cả tên riêng hoặc lời thoại. '
             'Ngữ cảnh nguồn trước chỉ đọc để hiểu, không dịch nhầm thành đoạn được giao. '
             'Trả JSON {"package_hash":"'+packet['package_hash']+'","segments":[{"id":"ID đúng nguồn","text":"bản Việt đầy đủ"}],'
             '"title_vi":"dịch metadata_title_source nếu có"}. Bao phủ đúng segments trong SOURCE, không đổi ID. '
@@ -213,15 +216,29 @@ class Runner:
             +('\nUNREVIEWED_CURRENT_ROWS:\n'+json.dumps(current,ensure_ascii=False,sort_keys=True) if current else '')
             +('\nSOURCE_BOUND_FINDINGS_TO_RECHECK:\n'+json.dumps(findings,ensure_ascii=False,sort_keys=True) if findings else ''))
 
-    def _native_translation(self,packet,ids,title,key,current=None,findings=None,model=None):
+    def _native_translation(self,packet,ids,title,key,current=None,findings=None,model=None,retain_content=True):
         part=fragment(packet,ids,title)
         protocol=self.translate_protocol(part,current,findings)
         if len(protocol)>110000:raise RecoveryPending('CONTEXT','REDUCE_ASSIGNED_SOURCE_SCOPE',self.job/'campaign.json','Translation packet exceeds budget')
-        value,proof=self.native.call(key,part,'translator',model or self.model,protocol,lambda v:validate_translation(part,v))
-        return component(part,value,proof,title=title)
+        try:
+            value,proof=self.native.call(key,part,'translator',model or self.model,protocol,
+                lambda v:validate_translation(part,v),retain_content=retain_content)
+        except NativeContentReady as ready:
+            affected={row['id'] for row in ready.findings}
+            repair_ids=[sid for sid in ids if sid in affected]
+            repair_title=title and part.get('metadata_title_source',{}).get('id') in affected
+            if not repair_ids:repair_ids=[ids[0]]
+            retained=[sid for sid in ids if sid not in repair_ids]
+            keep_title=title and not repair_title
+            parts=[component(part,ready.value,ready.proof,ids=retained,title=keep_title)] if retained or keep_title else []
+            current=[row for row in ready.value['segments'] if row['id'] in repair_ids]
+            parts+=self._repair_scope(packet,repair_ids,repair_title,[*key,'content-repair',ready.proof['hash']],current,ready.findings)
+            self.native.resolved(key,parts)
+            return parts
+        return [component(part,value,proof,title=title)]
 
     def _translation_scope(self,packet,ids,title,key):
-        try:return [self._native_translation(packet,ids,title,key)]
+        try:return self._native_translation(packet,ids,title,key)
         except RecoveryPending as pending:
             if pending.kind not in ('FORMAT','TIMEOUT','CONTENT','CONTEXT') or len(ids)<=1:raise
             cut=len(ids)//2
@@ -244,7 +261,7 @@ class Runner:
         ids=[r['id'] for r in packet['segments']];title=bool(packet.get('metadata_title_source'))
         key=['translate',chapter,packet['package_hash'],'whole']
         parts=[]
-        try:parts=[self._native_translation(packet,ids,title,key)]
+        try:parts=self._native_translation(packet,ids,title,key)
         except RecoveryPending as pending:
             if pending.kind not in ('FORMAT','TIMEOUT','CONTENT','CONTEXT'):raise
             # Smaller assigned output, original IDs, fresh real native attempts.
@@ -256,6 +273,11 @@ class Runner:
         candidate,_=assemble(packet,parts)
         path=self.job/'candidate_revisions'/f'{chapter:04d}'/(digest(candidate)+'.json');atomic_json(path,candidate)
         atomic_json(pointer,{'package_hash':packet['package_hash'],'file':str(path)})
+        times=read_json(timing)
+        if 'draft_ready_epoch' not in times:
+            ready_epoch=time.time()
+            times.update(draft_ready_epoch=ready_epoch,draft_elapsed_seconds=max(0,ready_epoch-times['started_epoch']))
+        atomic_json(timing,times)
         self.state(chapter,'DRAFT_READY',candidate=str(path))
         self.monitor.record_stage_result(chapter,'draft',f'draft-{chapter}','DRAFT_READY')
         return {'source_packet':packet,'candidate_file':str(path),'candidate_hash':digest(candidate)}
@@ -308,7 +330,7 @@ class Runner:
     def _repair_scope(self,packet,ids,title,key,current,findings):
         """Repair failures get the same bounded source-owned splitting as drafts."""
         try:
-            return [self._native_translation(packet,ids,title,key,current,findings,model=self.native.fallback)]
+            return self._native_translation(packet,ids,title,key,current,findings,model=self.native.fallback,retain_content=False)
         except RecoveryPending as pending:
             if pending.kind not in ('FORMAT','TIMEOUT','CONTENT','CONTEXT') or len(ids)<=1:raise
             cut=len(ids)//2;parts=[]
@@ -322,24 +344,29 @@ class Runner:
             return parts
 
     def review(self,batch):
-        reviews=[];scope=list(range(1,len(batch['catalog'])+1))
-        for role in ('meaning-reviewer','literary-reviewer'):
-            packet=review_packet(batch,scope)
-            key=['review',batch['package_hash'],role,'whole']
-            try:parts=[self._review_part(packet,role,key)]
-            except RecoveryPending as pending:
-                if pending.kind not in ('FORMAT','TIMEOUT','CONTEXT'):raise
-                parts=[]
-                for start in range(0,len(scope),60):
-                    selected=scope[start:start+60];packet=review_packet(batch,selected)
-                    parts+=self._review_scope(batch,role,selected,['review',batch['package_hash'],role,'part',start])
-                self.native.resolved(key,parts)
-            reviews.append({'role':role,'parts':parts})
+        roles=('meaning-reviewer','literary-reviewer')
+        workers=min(self.review_workers,self.native.health()['worker_limit'])
+        with ThreadPoolExecutor(max_workers=workers) as pool:
+            futures=[pool.submit(self._review_role,batch,role) for role in roles]
+            reviews=[future.result() for future in futures]
         evidence={'package':batch,'reviews':reviews}
         report=validate_batch_evidence(evidence)
         atomic_json(self.job/'batch_reviews'/batch['package_hash']/'evidence.json',evidence)
         atomic_json(self.job/'batch_reviews'/batch['package_hash']/'report.json',report)
         return evidence,report
+
+    def _review_role(self,batch,role):
+        scope=list(range(1,len(batch['catalog'])+1));packet=review_packet(batch,scope)
+        key=['review',batch['package_hash'],role,'whole']
+        try:parts=[self._review_part(packet,role,key)]
+        except RecoveryPending as pending:
+            if pending.kind not in ('FORMAT','TIMEOUT','CONTEXT'):raise
+            parts=[]
+            for start in range(0,len(scope),60):
+                selected=scope[start:start+60]
+                parts+=self._review_scope(batch,role,selected,['review',batch['package_hash'],role,'part',start])
+            self.native.resolved(key,parts)
+        return {'role':role,'parts':parts}
 
     def _review_scope(self,batch,role,scope,key):
         packet=review_packet(batch,scope)
@@ -460,12 +487,18 @@ class Runner:
                         ch=item['source_packet']['chapter'];candidate=read_json(item['candidate_file'])
                         self.state(ch,'APPROVED',candidate=item['candidate_file'])
                         timing_file=self.job/'chapter_times'/f'{ch:04d}.json';timing=read_json(timing_file)
-                        timing.update(approved_epoch=time.time(),elapsed_until_approval_seconds=max(0,time.time()-timing['started_epoch']))
+                        approved_epoch=time.time()
+                        timing.update(approved_epoch=approved_epoch,elapsed_until_approval_seconds=max(0,approved_epoch-timing['started_epoch']))
+                        draft_ready=timing.get('draft_ready_epoch')
+                        if isinstance(draft_ready,(int,float)) and timing['started_epoch']<=draft_ready<=approved_epoch:
+                            timing['post_draft_elapsed_seconds']=approved_epoch-draft_ready
                         atomic_json(timing_file,timing)
                         self.monitor.record_chapter_done(ch,candidate.get('title_vi',item['source_packet']['title']),
                             (cursor-1)//5+1,'batch-approved',len(candidate['segments']),
                             sum(len(r['text'].split()) for r in candidate['segments']),
-                            timing['elapsed_until_approval_seconds'],True)
+                            timing['elapsed_until_approval_seconds'],True,
+                            draft_seconds=timing.get('draft_elapsed_seconds'),post_draft_seconds=timing.get('post_draft_elapsed_seconds'),
+                            approval_mode='native_batch')
                     if chapters[-1]%self.checkpoint_every==0 or chapters[-1]==self.through:
                         self.approved_checkpoint(chapters[-1])
                     cursor=chapters[-1]+1;lookahead_end=min(self.through,cursor+14)
@@ -525,6 +558,7 @@ def main():
     parser.add_argument('--no-source-refetch',action='store_true',help='Run/watch: keep network source repair queued')
     parser.add_argument('--watch-rounds',type=int,default=3);parser.add_argument('--out',type=Path)
     parser.add_argument('--checkpoint-every',type=int,default=100,help='Record approved checkpoints without another model call or external audit')
+    parser.add_argument('--review-workers',type=int,choices=(1,2),default=2,help='Independent reviewer sessions; two run concurrently by default')
     parser.add_argument('--reason',help='retry-ready: describe the external fix; never overrides a semantic FAIL')
     parser.add_argument('--source-recovery-dir',type=Path,help='Import verified source revisions, preserving original source files')
     parser.add_argument('--chapters',type=int,nargs='+',help='diagnose only: source-only chapters, never publication approval')
@@ -563,7 +597,8 @@ def main():
     if not (os.environ.get('ANTIGRAVITY_ARTIFACT_DIR') or os.environ.get('ANTIGRAVITY_CONVERSATION_ID')):
         raise ValueError('Bind the current real Antigravity session before native execution')
     runner=Runner(args.book_dir,args.job,args.through_chapter,workers=args.workers,model=args.model,
-        review_model=args.review_model,review_model2=args.auditor_model,fallback=args.fallback_model,timeout=args.timeout,checkpoint_every=args.checkpoint_every)
+        review_model=args.review_model,review_model2=args.auditor_model,fallback=args.fallback_model,timeout=args.timeout,
+        checkpoint_every=args.checkpoint_every,review_workers=args.review_workers)
     if args.action=='diagnose':
         if not args.chapters or any(ch<1 or ch>args.through_chapter for ch in args.chapters):parser.error('diagnose requires --chapters within the source range')
         result=runner.diagnose(args.chapters,repair_sources=not args.no_source_refetch)

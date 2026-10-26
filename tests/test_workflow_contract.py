@@ -14,7 +14,7 @@ class WorkflowContractTests(unittest.TestCase):
         root=Path(__file__).resolve().parents[1]
         contract=json.loads((root/'workflow.json').read_text(encoding='utf8'))
         defaults=inspect.signature(Runner).parameters
-        for name in ('workers','model','review_model','fallback','timeout','max_repairs','checkpoint_every'):
+        for name in ('workers','review_workers','model','review_model','fallback','timeout','max_repairs','checkpoint_every'):
             self.assertEqual(defaults[name].default,contract['defaults'][name])
         self.assertEqual(contract['validation_policy'],POLICY);self.assertEqual(contract['review_policy'],REVIEW_POLICY)
         self.assertEqual(inspect.signature(run_campaign).parameters['mode'].default,'resilient')

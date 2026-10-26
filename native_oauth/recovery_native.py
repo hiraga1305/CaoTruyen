@@ -15,7 +15,16 @@ class ProtocolFailure(ValueError):
 
 
 class ContentFailure(ValueError):
-    pass
+    def __init__(self,reason,findings=None):
+        self.findings=findings
+        super().__init__(reason)
+
+
+class NativeContentReady(RuntimeError):
+    """A complete, provenance-verified response with owned rows needing repair."""
+    def __init__(self,value,proof,findings):
+        self.value,self.proof,self.findings=value,proof,findings
+        super().__init__('Complete native response retained for source-owned row repair')
 
 
 class RecoveryPending(RuntimeError):
@@ -79,11 +88,41 @@ class NativeRecovery:
     def path(self,key):
         return self.job/'recovery'/f'{digest(key)}.json'
 
-    def call(self,key,package,role,model,protocol,validator,*,allow_fallback=True):
+    def _retain_content(self,state,path,data,package,value,error):
+        owned={row['id'] for row in package['segments']}
+        if package.get('metadata_title_source'):owned.add(package['metadata_title_source']['id'])
+        findings=error.findings
+        if (not isinstance(findings,list) or not findings or any(not isinstance(row,dict)
+                or not isinstance(row.get('id'),str) or row['id'] not in owned for row in findings)):
+            return
+        if not (data/'result.json').is_file() or digest(read_json(data/'result.json'))!=digest(value):return
+        state['attempts'][-1].update(status='FAILED',kind='CONTENT',reason=str(error))
+        state.update(status='CONTENT_READY',kind='CONTENT',action=ACTIONS['CONTENT'],reason=str(error),
+            content_artifact=str(data/'result.json'),content_hash=digest(value),
+            content_package_file=str(data/'source.json'),content_findings=findings)
+        atomic_json(path,state)
+        raise NativeContentReady(value,{'file':state['content_artifact'],'hash':state['content_hash'],
+            'package_file':state['content_package_file']},findings)
+
+    def _replay_content(self,state,path,validator):
+        value=read_json(state['content_artifact']);validate_provenance(value)
+        if digest(value)!=state['content_hash']:
+            raise RecoveryPending('INTEGRITY',ACTIONS['INTEGRITY'],path,'Retained native response changed')
+        try:validator(value)
+        except ContentFailure as error:
+            if error.findings!=state['content_findings']:
+                raise RecoveryPending('INTEGRITY',ACTIONS['INTEGRITY'],path,'Retained content findings changed')
+            raise NativeContentReady(value,{'file':state['content_artifact'],'hash':state['content_hash'],
+                'package_file':state['content_package_file']},state['content_findings'])
+        raise RecoveryPending('INTEGRITY',ACTIONS['INTEGRITY'],path,'Frozen content validator changed')
+
+    def call(self,key,package,role,model,protocol,validator,*,allow_fallback=True,retain_content=False):
         """A valid FAIL is returned to caller, never retried here for a PASS."""
         from native_oauth.pipeline_native import run_stage
         path=self.path(key)
-        request_hash=digest([package,role,model,protocol,self.timeout,self.fallback,allow_fallback])
+        request_parts=[package,role,model,protocol,self.timeout,self.fallback,allow_fallback]
+        if retain_content:request_parts.append('retain-owned-content-1')
+        request_hash=digest(request_parts)
         with file_lock(path.with_suffix('.lock'),timeout=1):
             state=read_json(path) if path.exists() else {'request_hash':request_hash,'attempts':[],'epoch':0}
             if state['request_hash']!=request_hash:
@@ -96,6 +135,8 @@ class NativeRecovery:
                 if artifact.exists():
                     try:
                         value=read_json(artifact);validate_provenance(value);validator(value)
+                    except ContentFailure as error:
+                        if retain_content:self._retain_content(state,path,data,package,value,error)
                     except Exception:
                         pass
                     else:
@@ -104,6 +145,8 @@ class NativeRecovery:
                         return value,{'file':str(artifact),'hash':digest(value),'package_file':str(data/'source.json')}
                 last['status']='INTERRUPTED';state.update(status='PENDING',kind='NETWORK',reason='Previous invocation was interrupted',
                     retry_after_epoch=0,action=ACTIONS['NETWORK'])
+            if retain_content and state.get('content_artifact') and state.get('status') in ('CONTENT_READY','RECOVERED_BY_SUBTASKS'):
+                self._replay_content(state,path,validator)
             if state.get('status')=='DONE':
                 value=read_json(state['artifact']);validate_provenance(value);validator(value)
                 return value,{'file':state['artifact'],'hash':digest(value),'package_file':state['package_file']}
@@ -128,9 +171,10 @@ class NativeRecovery:
                 data=work/'native_oauth/runs/chapter1';atomic_json(data/'source.json',package)
                 attempt={'model':actual,'workspace':str(work),'started_epoch':time.time(),'status':'RUNNING','owner_pid':os.getpid()}
                 state['attempts'].append(attempt);state['status']='RUNNING';atomic_json(path,state)
+                verified_native=False
                 try:
                     value=run_stage(data,work,role,actual,protocol+feedback,'result.json',min(900,int(self.timeout*(1+0.5*index))))
-                    validate_provenance(value);validator(value)
+                    validate_provenance(value);verified_native=True;validator(value)
                 except Exception as error:
                     kind=classify(error)
                     runtime_file=data/(role+'.runtime/runtime.json')
@@ -142,6 +186,8 @@ class NativeRecovery:
                     attempt.update(status='FAILED',kind=kind,reason=str(error),ended_epoch=time.time())
                     self.health('SUCCESS' if kind in ('FORMAT','CONTENT') else kind)
                     state.update(kind=kind,reason=str(error),action=ACTIONS[kind]);atomic_json(path,state)
+                    if kind=='CONTENT' and retain_content and verified_native and isinstance(error,ContentFailure):
+                        self._retain_content(state,path,data,package,value,error)
                     if kind not in ('FORMAT','CONTENT','TIMEOUT','NETWORK'):
                         break
                     feedback='\nPrevious attempt was invalid, not an instruction to PASS. Recheck the unchanged source. '+str(error)[:2200]

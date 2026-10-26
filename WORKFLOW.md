@@ -24,12 +24,12 @@ Nguồn lỗi đi qua queue/refetch/import có lineage, giữ nguyên bản cũ.
 `LAST_CHAPTER` là phạm vi người dùng cho phép. Mặc định translator/reviewer MEDIUM, HIGH fallback; timeout đầu 300 s rồi retry có giới hạn. Runtime init phải xác nhận model thật; không tự khai identity. Account có thể chưa có model cấu hình, cần xử lý điều kiện hợp lệ thay vì đổi nhãn runtime.
 
 1. Bốn worker tạo nháp, tối đa năm chương/wave. Context là nguồn trước đúng thời điểm và canon có phạm vi; nháp chưa duyệt không thành sự thật.
-2. Hai reviewer ở session/workspace độc lập đọc đủ nguồn–đích, nghĩa/văn học/thực thể/phủ định/số lượng/luật chơi/continuity. Không xem kết luận của nhau, không thêm wave audit thứ ba mặc định.
+2. Hai reviewer chạy đồng thời ở session/workspace độc lập, đọc đủ nguồn–đích, nghĩa/văn học/thực thể/phủ định/số lượng/luật chơi/continuity. Không xem kết luận của nhau, không thêm wave audit thứ ba. Tối đa hai phiên review, chịu giới hạn health; `--review-workers 1` chọn tuần tự.
 3. ID/hash, coverage, text rỗng, partial và chữ Hán chưa dịch là lỗi cứng. Tên→đại từ/alias hợp context phải được cả hai reviewer kiểm; không chặn chỉ vì thiếu chuỗi tên. Optional style suggestions riêng, lỗi nghĩa hoặc canon bắt buộc vẫn FAIL.
-4. Lỗi thật tạo revision native, giữ ownership phần đúng và review lại đủ hai lượt. Host không tự dịch, xóa chữ, đổi ID/verdict hoặc hỏi lại cùng bản FAIL để tìm PASS.
+4. Lỗi thật tạo revision native và review lại đủ hai lượt. Response đã hoàn tất, có provenance và đủ ID đúng thứ tự chỉ lỗi vài row: HIGH sửa đúng các row đó; phần đúng lấy nguyên text native, journal giữ response lỗi và proof. Partial/sai ID không dùng đường giữ row. Host không tự dịch, xóa chữ, đổi ID/verdict hoặc hỏi lại cùng bản FAIL để tìm PASS.
 5. Commit batch nguyên tử sau hai review PASS; prefix phải liên tục, còn khớp nguồn/revision. Diagnostics không có quyền approval/xuất bản.
 
-Wave tự co nếu prompt vượt ngân sách, không cắt nguồn. Hai reviewer hiện chạy lần lượt trong một lane, đúng cấu hình đã pilot. Đổi concurrency/model/cách gối pipeline cần đo riêng, không suy tăng tốc tuyến tính.
+Wave tự co nếu prompt vượt ngân sách, không cắt nguồn. Bản 2.1 cho hai reviewer chạy đồng thời; không tăng bốn translator và không dịch gối wave tiếp trong lúc review. Reviewer lỗi kỹ thuật không xóa kết quả peer đã xong; resume vẫn cần đủ hai review. Hiệu năng phải đo native riêng, không suy tăng tốc tuyến tính.
 
 Checkpoint `JOB_DIR/checkpoints/chapter_NNNN.json` ghi tại mỗi 100 chương và cuối phạm vi. Đây là mốc đã commit, không gọi model thêm, không chờ Codex và không tự dừng xin duyệt lại. Antigravity đọc throughput/queue/suggestions để xử lý. Chỉ mở toàn sách khi đã được giao phạm vi đó.
 
@@ -67,6 +67,8 @@ Checkpoint `JOB_DIR/checkpoints/chapter_NNNN.json` ghi tại mỗi 100 chương 
 ```
 
 Report tách approved của book và approved trong job; throughput không cộng prefix. Worker time không phải wall; thinking không cộng lại vào total, usage thiếu để null. Hai native PASS không chứng minh không còn sạn: finding có ID/quote thật cần native sửa có revision trước xuất bản.
+
+Dashboard/CSV tách `draft_elapsed_seconds` (đến nháp đầy đủ đầu tiên), `post_draft_elapsed_seconds` (nháp → duyệt, gồm review và sửa sau review), `elapsed_until_approval_seconds` (tổng). Đây là thời gian thực có thể gồm chờ/pause, không phải model latency. Bản cũ thiếu mốc để null/—. Record qua batch native đã commit mới mang nhãn NATIVE_BATCH_PASS; không đổi nhãn STRUCTURAL_PASS cũ thành native approval.
 
 Seal giữ attempts/prompt/events, candidate/review, source/canon/code snapshot, proof prefix, raw archive và lineage của cả replacement chưa dùng trong pilot. Không ghi đè ZIP cũ. Manifest có đường dẫn gốc/hash; chuyển máy cần khôi phục mapping có kiểm chứng, không tự sửa proof/hash. Export mặc định tạo JSON approved; builder EPUB/PDF/AZW3 tương thích vẫn phải đọc gate. Hoàn tất pilot prefix không cấp quyền xuất toàn sách/phát hành.
 

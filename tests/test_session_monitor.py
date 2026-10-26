@@ -110,6 +110,18 @@ class TestSessionMonitor(unittest.TestCase):
         self.assertGreater(html_f.stat().st_size, 500)
         self.assertGreater(md_f.stat().st_size, 200)
 
+    def test_dashboard_separates_draft_wait_and_approval_without_relabeling_old_records(self):
+        self.mon.record_chapter_done(1,'Native approved',1,'batch',3,30,40.0,True,
+            draft_seconds=10.0,post_draft_seconds=30.0,approval_mode='native_batch')
+        doc=self.mon.render_markdown_dashboard_artifact()
+        self.assertIn('Tạo nháp',doc);self.assertIn('Nháp → duyệt',doc);self.assertIn('Đến khi duyệt',doc)
+        self.assertIn('10.0s | 30.0s | 40.0s',doc);self.assertIn('NATIVE_BATCH_PASS',doc)
+        old=SessionMonitor('test_book','Test',50,state_file=self.mon.state_file)
+        self.assertEqual(old.history[-1].draft_seconds,10.0)
+        self.mon.record_chapter_done(2,'Legacy structural',1,'legacy',1,10,12.0,True)
+        doc=self.mon.render_markdown_dashboard_artifact()
+        self.assertIn('— | — | 12.0s',doc);self.assertIn('STRUCTURAL_PASS',doc)
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -69,6 +69,8 @@ def report(book,job,total):
             'source_characters':sum(len(r['source']) for r in source['segments']) if source else None,
             'started_epoch':timing.get('started_epoch'),'approved_epoch':timing.get('approved_epoch') if chapter in approved else None,
             'elapsed_until_approval_seconds':timing.get('elapsed_until_approval_seconds') if chapter in approved else None,
+            'draft_elapsed_seconds':timing.get('draft_elapsed_seconds'),
+            'post_draft_elapsed_seconds':timing.get('post_draft_elapsed_seconds') if chapter in approved else None,
             'next_action':state.get('action'),'reason':state.get('reason')})
     with (job/'chapter_metrics.csv').open('w',encoding='utf-8-sig',newline='') as handle:
         writer=csv.DictWriter(handle,fieldnames=list(chapters[0]) if chapters else ['chapter','status'])

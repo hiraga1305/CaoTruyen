@@ -1,6 +1,6 @@
 {
   "id": "caotruyen-antigravity-resilient-v2",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "repository": "https://github.com/hiraga1305/CaoTruyen",
   "entrypoint": "python -X utf8 translate.py",
   "instructions": "WORKFLOW.md",
@@ -8,6 +8,7 @@
   "review_policy": "resilient-review-2",
   "defaults": {
     "workers": 4,
+    "review_workers": 2,
     "max_wave_chapters": 5,
     "model": "gemini-3.8-flash-medium",
     "review_model": "gemini-3.8-flash-medium",

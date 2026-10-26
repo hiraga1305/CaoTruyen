@@ -51,10 +51,6 @@ def _file_lock(path):
     path = Path(str(path) + ".lock")
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("a+b") as handle:
-        handle.seek(0, 2)
-        if handle.tell() == 0:
-            handle.write(b"0")
-            handle.flush()
         handle.seek(0)
         if os.name == "nt":
             import msvcrt
@@ -63,6 +59,9 @@ def _file_lock(path):
             import fcntl
             fcntl.flock(handle.fileno(), fcntl.LOCK_EX)
         try:
+            if os.fstat(handle.fileno()).st_size == 0:
+                handle.write(b"0")
+                handle.flush()
             yield
         finally:
             handle.seek(0)
@@ -85,6 +84,9 @@ class ChapterExecutionRecord:
     gate_pass: bool
     prosody_anomalies: int
     timestamp: float = field(default_factory=time.time)
+    draft_seconds: Optional[float] = None
+    post_draft_seconds: Optional[float] = None
+    approval_mode: str = 'structural'
 
 
 class SessionMonitor:
@@ -171,7 +173,8 @@ class SessionMonitor:
         words: int,
         duration_seconds: float,
         gate_pass: bool = True,
-        prosody_anomalies: int = 0
+        prosody_anomalies: int = 0,
+        *,draft_seconds: Optional[float] = None,post_draft_seconds: Optional[float] = None,approval_mode: str = 'structural'
     ) -> ChapterExecutionRecord:
         """Records the completion of a chapter and synchronizes all session dashboards."""
         with self._lock, _file_lock(self.state_file):
@@ -179,7 +182,8 @@ class SessionMonitor:
             rec = ChapterExecutionRecord(
                 chapter_num, title, wave_num, worker_id,
                 "COMPLETED" if gate_pass else "FAILED", paragraphs, words,
-                duration_seconds, gate_pass, prosody_anomalies)
+                duration_seconds, gate_pass, prosody_anomalies,
+                draft_seconds=draft_seconds,post_draft_seconds=post_draft_seconds,approval_mode=approval_mode)
             self.history.append(rec)
             self.active_chapter = chapter_num
             self.active_wave = wave_num
@@ -293,12 +297,17 @@ class SessionMonitor:
 
         recent_rows = ""
         for r in reversed(self.history[-5:]):
-            gate_badge = '<span class="text-xs text-emerald-400">PASS</span>' if r.gate_pass else '<span class="text-xs text-red-400">FAILED</span>'
+            gate_name='NATIVE_BATCH_PASS' if r.approval_mode=='native_batch' else 'STRUCTURAL_PASS'
+            gate_badge = f'<span class="text-xs text-emerald-400">{gate_name}</span>' if r.gate_pass else '<span class="text-xs text-red-400">FAILED</span>'
+            draft=f'{r.draft_seconds:.1f}s' if r.draft_seconds is not None else '—'
+            after=f'{r.post_draft_seconds:.1f}s' if r.post_draft_seconds is not None else '—'
             recent_rows += f"""
             <tr class="text-xs border-b border-[var(--border)] last:border-0">
               <td class="py-1.5 font-mono text-[var(--foreground)]">Ch.{r.chapter_num:04d}</td>
               <td class="py-1.5 text-[var(--muted-foreground)] truncate max-w-[140px]">{r.title}</td>
               <td class="py-1.5 text-right font-mono text-[var(--foreground)]">{r.words} từ</td>
+              <td class="py-1.5 text-right text-[var(--muted-foreground)]">{draft}</td>
+              <td class="py-1.5 text-right text-[var(--muted-foreground)]">{after}</td>
               <td class="py-1.5 text-right text-[var(--muted-foreground)]">{r.duration_seconds:.1f}s</td>
               <td class="py-1.5 text-center">{gate_badge}</td>
             </tr>
@@ -354,12 +363,14 @@ class SessionMonitor:
             <th class="pb-1">Chương</th>
             <th class="pb-1">Tiêu đề</th>
             <th class="pb-1 text-right">Dung lượng</th>
-            <th class="pb-1 text-right">Thời gian</th>
+            <th class="pb-1 text-right">Tạo nháp</th>
+            <th class="pb-1 text-right">Nháp → duyệt</th>
+            <th class="pb-1 text-right">Đến khi duyệt</th>
             <th class="pb-1 text-center">Gate</th>
           </tr>
         </thead>
         <tbody>
-          {recent_rows or '<tr><td colspan="5" class="text-xs text-center py-2 text-[var(--muted-foreground)]">Chưa có dữ liệu</td></tr>'}
+          {recent_rows or '<tr><td colspan="7" class="text-xs text-center py-2 text-[var(--muted-foreground)]">Chưa có dữ liệu</td></tr>'}
         </tbody>
       </table>
     </div>
@@ -408,16 +419,20 @@ class SessionMonitor:
             "",
             "## 3. Nhật Ký 10 Chương Vừa Dịch Gần Nhất",
             "",
-            "| Chương | Tiêu Đề | Dung Lượng | Thời Gian | Quality Gate | Âm Vận Lỗi |",
-            "| :---: | :--- | :---: | :---: | :---: | :---: |"
+            "Tạo nháp và Nháp → duyệt là thời gian thực đến các mốc, có thể gồm chờ/pause. Nháp → duyệt gồm review và sửa sau review; không phải thời gian model thuần. Bản ghi cũ thiếu mốc hiển thị —.",
+            "",
+            "| Chương | Tiêu Đề | Dung Lượng | Tạo nháp | Nháp → duyệt | Đến khi duyệt | Quality Gate | Âm Vận Lỗi |",
+            "| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: |"
         ])
 
         if self.history:
             for r in reversed(self.history[-10:]):
-                gate_str = "STRUCTURAL_PASS" if r.gate_pass else "FAILED"
-                lines.append(f"| Ch.{r.chapter_num:04d} | {r.title} | {r.words} từ | {r.duration_seconds:.1f}s | `{gate_str}` | {r.prosody_anomalies} |")
+                gate_str = ('NATIVE_BATCH_PASS' if r.approval_mode=='native_batch' else 'STRUCTURAL_PASS') if r.gate_pass else 'FAILED'
+                draft=f'{r.draft_seconds:.1f}s' if r.draft_seconds is not None else '—'
+                after=f'{r.post_draft_seconds:.1f}s' if r.post_draft_seconds is not None else '—'
+                lines.append(f"| Ch.{r.chapter_num:04d} | {r.title} | {r.words} từ | {draft} | {after} | {r.duration_seconds:.1f}s | `{gate_str}` | {r.prosody_anomalies} |")
         else:
-            lines.append("| — | Chưa có bản ghi | — | — | — | — |")
+            lines.append("| — | Chưa có bản ghi | — | — | — | — | — | — |")
 
         lines.extend(["", self.render_markdown_badge().splitlines()[-1], ""])
         return "\n".join(lines)

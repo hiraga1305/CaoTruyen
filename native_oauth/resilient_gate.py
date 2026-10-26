@@ -69,7 +69,7 @@ def validate_translation(package,value):
     if findings:
         bad={r.get('id') for r in findings}
         texts=[r for r in value['segments'] if r['id'] in bad]
-        raise ContentFailure('Correct these source-owned defects; do not strip arbitrary letters: '+str(findings)+' CURRENT_BAD_ROWS='+str(texts))
+        raise ContentFailure('Correct these source-owned defects; do not strip arbitrary letters: '+str(findings)+' CURRENT_BAD_ROWS='+str(texts),findings=findings)
 
 
 def fragment(package,ids,with_title=False):

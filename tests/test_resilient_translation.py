@@ -4,6 +4,7 @@ import copy
 import io
 import json
 import tempfile
+import threading
 import unittest
 from pathlib import Path
 from unittest.mock import Mock, patch
@@ -23,7 +24,7 @@ class ResilientTests(unittest.TestCase):
     def setUp(self):
         temp=tempfile.TemporaryDirectory();self.addCleanup(temp.cleanup)
         self.root=Path(temp.name);self.book=self.root/'book_fixture';self.job=self.root/'job'
-        self.calls=[];self.mode='normal';self.fail_chapter=1;self.review_inputs=[]
+        self.calls=[];self.mode='normal';self.fail_chapter=1;self.review_inputs=[];self.requests_seen=[];self.reviewer_barrier=None
         self.sources={}
         for ch in range(1,6):self.add_source(ch,4)
         write_json(self.book/'toc.json',[{'href':f'https://czbooks.net/n/fixture/c{ch}','title':f'第{ch}章 測試'} for ch in range(1,6)])
@@ -45,6 +46,7 @@ class ResilientTests(unittest.TestCase):
 
     def stage(self,data,work,role,model,protocol,output,timeout):
         packet=read_json(Path(data)/'source.json');self.calls.append((role,packet['chapter'],model))
+        self.requests_seen.append({'role':role,'model':model,'packet':copy.deepcopy(packet),'workspace':str(work)})
         if role=='translator':
             if self.mode=='native-block':
                 write_json(Path(data)/(role+'.runtime/runtime.json'),{'status':'SUCCESS','result':{'finish_reason':'safety'}})
@@ -60,6 +62,10 @@ class ResilientTests(unittest.TestCase):
                 if self.mode=='semantic' and packet['chapter']==1 and row['id'].endswith('p0002') and 'SOURCE_BOUND_FINDINGS_TO_RECHECK' not in protocol:
                     text='Anh ấy cam chịu.'
                 if self.mode=='persistent' and packet['chapter']==1 and row['id'].endswith('p0002'):text='Anh ấy cam chịu.'
+                if self.mode=='residual' and row['id'].endswith('p0002') and 'SOURCE_BOUND_FINDINGS_TO_RECHECK' not in protocol:
+                    text='Anh ấy 普遍 không cam lòng.'
+                if self.mode=='bad-id' and len(packet['segments'])>1 and row['id']==packet['segments'][-1]['id']:
+                    row={**row,'id':'c9999p9999'}
                 if row['source']=='林御摇头。':
                     text='Hắn lắc đầu.'
                     if self.mode=='wrong-entity' and 'SOURCE_BOUND_FINDINGS_TO_RECHECK' not in protocol:text='Trương Vũ lắc đầu.'
@@ -72,6 +78,8 @@ class ResilientTests(unittest.TestCase):
             if packet.get('metadata_title_source'):
                 value['title_vi']='Chương 1: Tỏ tình'
         else:
+            if self.reviewer_barrier:self.reviewer_barrier.wait(timeout=10)
+            if self.mode=='review-network' and role=='meaning-reviewer':raise ConnectionError('Connection reset by peer')
             self.review_inputs.append((role,copy.deepcopy(packet)))
             if self.mode=='format' and len(packet['scope_slots'])>60:
                 rows=[['c0100p0100','PASS']]
@@ -119,6 +127,78 @@ class ResilientTests(unittest.TestCase):
         self.runner().run(repair_sources=False);before=len(self.calls)
         self.assertTrue(self.runner().run(repair_sources=False)['export_ready'])
         self.assertEqual(len(self.calls),before)
+
+    def test_two_reviewers_overlap_but_keep_independent_workspaces_and_fixed_role_order(self):
+        self.reviewer_barrier=threading.Barrier(2)
+        self.assertTrue(self.runner(1).run(repair_sources=False)['export_ready'])
+        evidence=read_approval(self.book,1)['evidence']
+        self.assertEqual([row['role'] for row in evidence['reviews']],['meaning-reviewer','literary-reviewer'])
+        requests=[row for row in self.requests_seen if row['role']!='translator']
+        self.assertEqual(len(set(row['workspace'] for row in requests)),2)
+        self.assertTrue(all('reviews' not in row['packet'] for row in requests))
+
+    def test_serial_review_is_an_explicit_option_and_still_needs_two_native_reviews(self):
+        self.assertTrue(self.runner(1,review_workers=1).run(repair_sources=False)['export_ready'])
+        self.assertEqual(sum(role!='translator' for role,_,_ in self.calls),2)
+
+    def test_one_bad_row_reuses_exact_good_native_rows_and_high_sees_only_bad_id(self):
+        self.mode='residual'
+        self.assertTrue(self.runner(1).run(repair_sources=False)['export_ready'])
+        requests=[r for r in self.requests_seen if r['role']=='translator']
+        self.assertEqual(len(requests),2)
+        self.assertEqual([r['id'] for r in requests[1]['packet']['segments']],['c0001p0002'])
+        self.assertEqual(requests[1]['model'],'fixture-high')
+        item=read_approval(self.book,1)['evidence']['package']['chapters'][0];candidate=read_json(item['candidate_file'])
+        self.assertEqual(len(candidate['components']),2)
+        retained=candidate['components'][0];original=read_json(retained['file'])
+        self.assertIn('普遍',original['segments'][1]['text'])
+        self.assertNotIn('c0001p0002',retained['ids'])
+        for row in candidate['segments']:
+            if row['id'] in retained['ids']:
+                self.assertEqual(row['text'],next(r['text'] for r in original['segments'] if r['id']==row['id']))
+        self.assertNotIn('普遍',candidate['segments'][1]['text'])
+        self.assertEqual(len(self.calls),4)
+
+    def test_content_repair_replays_after_interruption_without_regenerating_whole_chapter(self):
+        self.mode='residual';runner=self.runner(1);preflight(self.book,self.job,1)
+        from native_oauth.resilient_translation import atomic_json as original_write
+        def interrupted_write(path,value):
+            if Path(path).parent.name=='drafts':raise RuntimeError('Simulated interruption before draft pointer')
+            return original_write(path,value)
+        with patch('native_oauth.resilient_translation.atomic_json',side_effect=interrupted_write):
+            with self.assertRaisesRegex(RuntimeError,'Simulated interruption'):runner.generate(1)
+        before=sum(role=='translator' for role,_,_ in self.calls)
+        self.assertTrue(self.runner(1).run(repair_sources=False)['export_ready'])
+        self.assertEqual(sum(role=='translator' for role,_,_ in self.calls),before)
+
+    def test_invalid_ids_cannot_be_retained_as_source_owned_content(self):
+        self.mode='bad-id';self.assertTrue(self.runner(1).run(repair_sources=False)['export_ready'])
+        self.assertTrue(all('content_artifact' not in read_json(path) for path in (self.job/'recovery').glob('*.json')))
+        self.assertEqual([r['para_id'] for r in read_approval(self.book,1)['aligned']['bilingual_alignment']],
+            [r['id'] for r in self.sources[1]['segments']])
+
+    def test_tampered_retained_native_response_blocks_resume_without_new_model_calls(self):
+        self.mode='residual';runner=self.runner(1);preflight(self.book,self.job,1)
+        from native_oauth.resilient_translation import atomic_json as original_write
+        def interrupted_write(path,value):
+            if Path(path).parent.name=='drafts':raise RuntimeError('Simulated interruption')
+            return original_write(path,value)
+        with patch('native_oauth.resilient_translation.atomic_json',side_effect=interrupted_write):
+            with self.assertRaises(RuntimeError):runner.generate(1)
+        state=next(read_json(path) for path in (self.job/'recovery').glob('*.json') if read_json(path).get('content_artifact'))
+        value=read_json(state['content_artifact']);value['segments'][0]['text']='Host altered native output'
+        write_json(state['content_artifact'],value);before=len(self.calls)
+        self.assertFalse(self.runner(1).run(repair_sources=False)['export_ready'])
+        self.assertEqual(len(self.calls),before)
+
+    def test_failed_parallel_review_keeps_successful_peer_for_resume(self):
+        self.mode='review-network';runner=self.runner(1)
+        self.assertFalse(runner.run(repair_sources=False)['export_ready'])
+        peer_before=sum(role=='literary-reviewer' for role,_,_ in self.calls)
+        self.assertTrue(runner.native.release_after_action('Network restored in offline fixture'))
+        self.mode='normal';self.assertTrue(self.runner(1).run(repair_sources=False)['export_ready'])
+        self.assertEqual(sum(role=='literary-reviewer' for role,_,_ in self.calls),peer_before)
+        self.assertEqual(sum(role=='translator' for role,_,_ in self.calls),1)
 
     def test_checkpoints_bound_batches_without_another_native_review(self):
         self.assertTrue(self.runner(checkpoint_every=3).run(repair_sources=False)['export_ready'])
@@ -285,7 +365,7 @@ class ResilientTests(unittest.TestCase):
         path=self.book/'sources/source_chapter_0001.json';path.unlink()
         result=self.runner().run(repair_sources=False)
         self.assertFalse(result['export_ready'])
-        self.assertEqual(len(list((self.job/'drafts').glob('*.json'))),4)
+        self.assertEqual(len(list((self.job/'drafts').glob('*.json'))),4,read_json(self.job/'campaign.json'))
         report=read_json(self.job/'source_preflight.json')
         self.assertEqual(report['pending'][0]['action'],'REACQUIRE_FROM_TOC_OR_VERIFIED_ALTERNATE')
 
@@ -395,6 +475,8 @@ class ResilientTests(unittest.TestCase):
             chapter_rows=list(csv.DictReader(handle))
         self.assertEqual(len(chapter_rows),5)
         self.assertTrue(all(row['status']=='APPROVED' and float(row['elapsed_until_approval_seconds'])>=0 for row in chapter_rows))
+        self.assertTrue(all(abs(float(row['draft_elapsed_seconds'])+float(row['post_draft_elapsed_seconds'])
+            -float(row['elapsed_until_approval_seconds']))<0.000001 for row in chapter_rows))
         self.assertEqual(int(chapter_rows[0]['source_characters']),sum(len(r['source']) for r in self.sources[1]['segments']))
         out=self.root/'bundle.zip';sealed=seal(self.book,self.job,5,out)
         self.assertEqual(sealed['sha256'],hashlib.sha256(out.read_bytes()).hexdigest())
